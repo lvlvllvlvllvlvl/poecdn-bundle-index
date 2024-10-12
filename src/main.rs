@@ -148,6 +148,7 @@ fn main() -> anyhow::Result<()> {
         }
 
         let mut file_writer = csv::Writer::from_path(dir.join("files.csv"))?;
+        file_writer.serialize(["file", "bundle", "offset", "size"])?;
         let mut prev_dir = "";
         for (dir, data) in file_data {
             let mut pb = if let Some(d) = pathdiff::diff_paths(dir, prev_dir)
