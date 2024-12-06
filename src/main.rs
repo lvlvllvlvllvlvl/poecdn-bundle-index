@@ -153,25 +153,35 @@ fn main() -> anyhow::Result<()> {
             }
         }
 
-        let mut file_writer = csv::Writer::from_path(dir.join("files.csv"))?;
+        let mut out_file_number = 0;
+        let mut in_file_number = 0;
+        let mut file_writer =
+            csv::Writer::from_path(dir.join(format!("files-{}.csv", out_file_number)))?;
         file_writer.serialize(["file", "bundle", "offset", "size"])?;
         let mut prev_dir = "";
-        for (dir, data) in file_data {
-            let mut pb = if let Some(d) = pathdiff::diff_paths(dir, prev_dir)
+        for (cur_dir, data) in file_data {
+            let mut pb = if let Some(d) = pathdiff::diff_paths(cur_dir, prev_dir)
                 .as_ref()
                 .and_then(|d| d.to_str())
-                .and_then(|d| (d.len() < dir.len()).then_some(d))
+                .and_then(|d| (d.len() < cur_dir.len()).then_some(d))
             {
                 PathBuf::from(d)
             } else {
                 let mut buf = PathBuf::from("/");
-                for seg in dir.split('/') {
+                for seg in cur_dir.split('/') {
                     buf.push(seg);
                 }
                 buf
             };
-            prev_dir = dir;
+            prev_dir = cur_dir;
             for (file, data) in data {
+                in_file_number += 1;
+                if in_file_number / 100000 != out_file_number {
+                    out_file_number = in_file_number / 100000;
+                    file_writer =
+                        csv::Writer::from_path(dir.join(format!("files-{}.csv", out_file_number)))?;
+                    file_writer.serialize(["file", "bundle", "offset", "size"])?;
+                }
                 pb.push(file);
                 file_writer.serialize((
                     &pb,
