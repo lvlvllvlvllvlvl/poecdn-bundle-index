@@ -11,9 +11,9 @@ use std::path::{Component, Path, PathBuf};
 use url::Url;
 
 fn main() -> anyhow::Result<()> {
-    let mut stream = TcpStream::connect("patch.pathofexile.com:12995")?;
+    let mut stream = TcpStream::connect("172.65.189.54:13060")?;
 
-    stream.write_all(&[1, 6])?;
+    stream.write_all(&[1, 7])?;
     let mut buf = [0; 1000];
     let read = stream.read(&mut buf)?;
     println!("read {} bytes", read);
