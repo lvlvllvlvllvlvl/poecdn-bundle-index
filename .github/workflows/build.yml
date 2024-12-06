@@ -17,7 +17,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: Swatinem/rust-cache@v2
-      - run: cargo run --release
+      - run: cargo run --release -- patch.pathofexile.com:12995 outdir
+      - run: cargo run --release -- 172.65.189.54:13060 outdir-poe2
       - uses: stefanzweifel/git-auto-commit-action@v5
         id: autocommit
       - run: tree -H '.' --noreport --charset utf-8 -o index.html

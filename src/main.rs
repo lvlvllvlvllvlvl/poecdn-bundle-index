@@ -11,9 +11,14 @@ use std::path::{Component, Path, PathBuf};
 use url::Url;
 
 fn main() -> anyhow::Result<()> {
-    let mut stream = TcpStream::connect("patch.pathofexile.com:12995")?;
+    let mut args = std::env::args().skip(1);
+    let addr = args.next().unwrap();
+    let out_dir = args.next().unwrap();
 
-    stream.write_all(&[1, 6])?;
+    println!("connecting to {}", addr);
+    let mut stream = TcpStream::connect(addr)?;
+
+    stream.write_all(&[1, 7])?;
     let mut buf = [0; 1000];
     let read = stream.read(&mut buf)?;
     println!("read {} bytes", read);
@@ -43,23 +48,24 @@ fn main() -> anyhow::Result<()> {
     }
 
     let raw = base64::prelude::BASE64_STANDARD_NO_PAD.encode(&buf[..read]);
-    if let Ok(f) = fs::File::open("output/urls.json") {
+    let urls_json = Path::new(out_dir.as_str()).join("urls.json");
+    if let Ok(f) = fs::File::open(&urls_json) {
         let prev: Urls = serde_json::from_reader(f)?;
         if raw == prev.raw {
             return Ok(());
         } else {
-            let _ = fs::remove_dir_all("output");
+            let _ = fs::remove_dir_all(out_dir.as_str());
         }
     }
-    fs::create_dir_all("output")?;
+    fs::create_dir_all(out_dir.as_str())?;
 
-    let writer = BufWriter::new(fs::File::create(Path::new("./output/urls.json"))?);
+    let writer = BufWriter::new(fs::File::create(&urls_json)?);
     serde_json::to_writer_pretty(writer, &Urls { raw, urls })?;
 
     for v in &uniq_urls {
         let base = Url::parse(v)?;
         let dir = [
-            "output",
+            out_dir.as_str(),
             base.domain().unwrap_or(""),
             base.path().trim_start_matches(|c| c == '/'),
         ]
