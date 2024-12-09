@@ -2710,9 +2710,9 @@ metadata/items/armours/bodyarmours/predatoryfarrulsfur/attachments/cat/catstrhel
 metadata/items/armours/bodyarmours/predatoryfarrulsfur/attachments/cat/catstrheld.aoc,Tiny.V0,91450608,2012
 metadata/items/armours/bodyarmours/predatoryfarrulsfur/attachments/cat/catstrintheld.ao,Tiny.V0,91452620,366
 metadata/items/armours/bodyarmours/predatoryfarrulsfur/attachments/cat/catstrintheld.aoc,Tiny.VB,91929032,2006
-metadata/items/armours/bodyarmours/predatoryfarrulsfur/fx/app_cat_frame.pet,Tiny.V3.1,5285639,5878
+metadata/items/armours/bodyarmours/predatoryfarrulsfur/fx/app_cat_frame.pet,Tiny.V3.1,7222019,5878
 metadata/items/armours/bodyarmours/predatoryfarrulsfur/fx/app_cat_puff.pet,Tiny.VC,94132169,2982
-metadata/items/armours/bodyarmours/predatoryfarrulsfur/fx/cat_app_fizzleout.epk,Tiny.V3.1,5291517,474
+metadata/items/armours/bodyarmours/predatoryfarrulsfur/fx/cat_app_fizzleout.epk,Tiny.V3.1,7227897,474
 metadata/items/armours/bodyarmours/predatoryfarrulsfur/fx/cat_app_fizzleout_epk_pass0.mat,Tiny.V9,91687617,3006
 metadata/items/armours/bodyarmours/predatoryfarrulsfur/fx/cat_fizzlein_masked.fxgraph,Content/metadata/items/armours/capes/dismalharlequincloakheld.ao,1568814,34990
 metadata/items/armours/bodyarmours/prophecy/prophecybodydex.ao,Tiny.V3,94102008,196
@@ -12162,7 +12162,7 @@ metadata/items/armours/gloves/harpyset/harpysetglovesstrdex.ao,Tiny.V2,91819182,
 metadata/items/armours/gloves/harpyset/harpysetglovesstrdex.aoc,Tiny.VE,89765982,536
 metadata/items/armours/gloves/harpyset/harpysetglovesstrint.ao,Tiny.V2,91819182,216
 metadata/items/armours/gloves/harpyset/harpysetglovesstrint.aoc,Tiny.VB,92313220,536
-metadata/items/armours/gloves/hateforge/atziri/atzirihateforgeheld.ao,Tiny.V3.1,5291991,2214
+metadata/items/armours/gloves/hateforge/atziri/atzirihateforgeheld.ao,Tiny.V3.1,7228371,2214
 metadata/items/armours/gloves/hateforge/atziri/atzirihateforgeheld.aoc,Tiny.V2.1,272747,13266
 metadata/items/armours/gloves/hateforge/atziri/epk/fadein.epk,Tiny.V0,91852886,516
 metadata/items/armours/gloves/hateforge/atziri/epk/fadein_epk_pass0.mat,Tiny.V4,93267938,3346
@@ -20421,14 +20421,14 @@ metadata/items/armours/helmets/oshabisheaddress/oshabisheaddressstrdex.ao,Tiny.V
 metadata/items/armours/helmets/oshabisheaddress/oshabisheaddressstrdex.aoc,Tiny.V8,92119633,330
 metadata/items/armours/helmets/oshabisheaddress/oshabisheaddressstrint.ao,Tiny.V9,92422281,416
 metadata/items/armours/helmets/oshabisheaddress/oshabisheaddressstrint.aoc,Tiny.V9,92422697,328
-metadata/items/armours/helmets/oshabisheaddress/apparitions/bearbossheld.ao,Tiny.V3.1,5639938,480
-metadata/items/armours/helmets/oshabisheaddress/apparitions/bearbossheld.aoc,Tiny.V3.1,5294205,3154
+metadata/items/armours/helmets/oshabisheaddress/apparitions/bearbossheld.ao,Tiny.V3.1,7576318,480
+metadata/items/armours/helmets/oshabisheaddress/apparitions/bearbossheld.aoc,Tiny.V3.1,7230585,3154
 metadata/items/armours/helmets/oshabisheaddress/apparitions/catbossheld.ao,Tiny.V5,92511550,476
 metadata/items/armours/helmets/oshabisheaddress/apparitions/catbossheld.aoc,Tiny.VF,90898724,3418
-metadata/items/armours/helmets/oshabisheaddress/apparitions/ravenbossheld.ao,Tiny.V3.1,5297359,896
+metadata/items/armours/helmets/oshabisheaddress/apparitions/ravenbossheld.ao,Tiny.V3.1,7233739,896
 metadata/items/armours/helmets/oshabisheaddress/apparitions/ravenbossheld.aoc,Tiny.VF,90908406,2990
 metadata/items/armours/helmets/oshabisheaddress/apparitions/epk/bear_fade.epk,Tiny.V7,90751077,470
-metadata/items/armours/helmets/oshabisheaddress/apparitions/epk/bear_fade_epk_pass0.mat,Tiny.V3.1,5640418,3132
+metadata/items/armours/helmets/oshabisheaddress/apparitions/epk/bear_fade_epk_pass0.mat,Tiny.V3.1,7576798,3132
 metadata/items/armours/helmets/oshabisheaddress/apparitions/epk/cat_fade.epk,Tiny.V8,92119165,468
 metadata/items/armours/helmets/oshabisheaddress/apparitions/epk/cat_fade_epk_pass0.mat,Tiny.VF,90902142,3130
 metadata/items/armours/helmets/oshabisheaddress/apparitions/epk/raven_fade.epk,Tiny.VC,94874265,472
@@ -45287,7 +45287,7 @@ metadata/pet/cultdarkness/cultdarkness.aoc,Tiny.V2,101265880,4164
 metadata/pet/cultdarkness/cultdarkness.ot,Tiny.VF,101255750,542
 metadata/pet/cultdarkness/cultdarkness.otc,Tiny.V7,99432833,80
 metadata/pet/cultdarkness/farrulsfurpanther.ao,Tiny.V2.1,289853,644
-metadata/pet/cultdarkness/farrulsfurpanther.aoc,Tiny.V3.1,5643550,7158
+metadata/pet/cultdarkness/farrulsfurpanther.aoc,Tiny.V3.1,7579930,7158
 metadata/pet/cultdarkness/aristocrat/aristocrat.act,Tiny.V4,102178518,562
 metadata/pet/cultdarkness/aristocrat/aristocrat.ao,Tiny.V7,99481297,238
 metadata/pet/cultdarkness/aristocrat/aristocrat.aoc,Tiny.VF,101244024,8150
@@ -45699,7 +45699,7 @@ metadata/pet/eyriefalcon/wintervikingfalcon/invisble.epk,Tiny.VF,101352644,428
 metadata/pet/eyriefalcon/wintervikingfalcon/invisble_epk_pass0.mat,Tiny.V3.1,315217,1354
 metadata/pet/eyriefalcon/wintervikingfalcon/pet/bird_flapping_wings.pet,Tiny.V9,101339467,11976
 metadata/pet/eyriefalcon/wintervikingfalcon/pet/start_midline.pet,Tiny.VC,103487767,8644
-metadata/pet/eyriefalcon/wintervikingfalcon/pet/tail_trail.trl,Tiny.V3.1,5298255,1898
+metadata/pet/eyriefalcon/wintervikingfalcon/pet/tail_trail.trl,Tiny.V3.1,7234635,1898
 metadata/pet/eyriefalcon/wintervikingfalcon/pet/wings_trail.trl,Tiny.V3.1,316571,1996
 metadata/pet/fangtoothmoray/fangtoothmoray.act,Tiny.V3,104691968,650
 metadata/pet/fangtoothmoray/fangtoothmoray.ao,Tiny.V6,101514568,242

@@ -50319,11 +50319,11 @@ art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar0
 art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar02_normal_dxt5.dds.header,Tiny.V4,32990086,1520
 art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar02_sss_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/aura/22E465DBFFBC5BC6.arcticcrystaldemon.ao,1805412,349700
 art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar02_sss_dxt5.dds.header,Tiny.V4,32991606,1520
-art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar02specularc.mat,Tiny.V3.1,5426286,5736
+art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar02specularc.mat,Tiny.V3.1,7362666,5736
 art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar_colourspecular.dds,Streaming/Content/metadata/effects/microtransactions/aura/22E465DBFFBC5BC6.arcticcrystaldemon.ao,2155112,349692
 art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar_colourspecular.dds.header,Tiny.VD,32143352,840
 art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar_colourspecular_bc7.dds,Streaming/Content/metadata/effects/microtransactions/aura/22E465DBFFBC5BC6.arcticcrystaldemon.ao.1,0,699236
-art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar_colourspecular_bc7.dds.header,Tiny.V3.1,5008265,840
+art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar_colourspecular_bc7.dds.header,Tiny.V3.1,6944645,840
 art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar_normal_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/aura/22E465DBFFBC5BC6.arcticcrystaldemon.ao.1,699236,349700
 art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar_normal_dxt5.dds.header,Tiny.V7,32324383,1520
 art/textures/items/apparitioneffect/arcticcrystalapparitioneffect/crystalavatar_sss_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/aura/22E465DBFFBC5BC6.arcticcrystaldemon.ao.1,1048936,349700
@@ -50440,7 +50440,7 @@ art/textures/items/apparitioneffect/chiyouapparitioneffect/chiyou_colourspecular
 art/textures/items/apparitioneffect/chiyouapparitioneffect/chiyou_colourspecular_bc7.dds,Streaming/Content/art/models/items/apparitioneffects/61843CA5307F1353.chiyouapparition.fmt,1529676,2796388
 art/textures/items/apparitioneffect/chiyouapparitioneffect/chiyou_colourspecular_bc7.dds.header,Tiny.VF,32296448,840
 art/textures/items/apparitioneffect/chiyouapparitioneffect/chiyou_emissive_dxt1.dds,Streaming/Content/art/models/items/apparitioneffects/61843CA5307F1353.chiyouapparition.fmt.1,0,699212
-art/textures/items/apparitioneffect/chiyouapparitioneffect/chiyou_emissive_dxt1.dds.header,Tiny.V3.1,5432022,1520
+art/textures/items/apparitioneffect/chiyouapparitioneffect/chiyou_emissive_dxt1.dds.header,Tiny.V3.1,7368402,1520
 art/textures/items/apparitioneffect/chiyouapparitioneffect/chiyou_normal_dxt5.dds,Streaming/Content/art/models/items/apparitioneffects/61843CA5307F1353.chiyouapparition.fmt.1,699212,1398276
 art/textures/items/apparitioneffect/chiyouapparitioneffect/chiyou_normal_dxt5.dds.header,Tiny.VC,32166578,1520
 art/textures/items/apparitioneffect/chiyouapparitioneffect/chiyouspecularc.mat,Tiny.V7,32331237,8102
@@ -50450,7 +50450,7 @@ art/textures/items/apparitioneffect/crucibleamuleteffect/crucibleamuleteffect_no
 art/textures/items/apparitioneffect/crucibleamuleteffect/crucibleamuleteffect_normal_dxt5.dds.header,Tiny.V7,32339339,1520
 art/textures/items/apparitioneffect/crucibleamuleteffect/crucibleamuleteffect_sss_dxt5.dds,Streaming/Content/art/models/items/apparitioneffects/4CD152BDA4FE370B.ca.fmt.1,1398276,1398276
 art/textures/items/apparitioneffect/crucibleamuleteffect/crucibleamuleteffect_sss_dxt5.dds.header,Tiny.V7,32340859,1520
-art/textures/items/apparitioneffect/crucibleamuleteffect/crucibleamuleteffectc.mat,Tiny.V3.1,5009105,5558
+art/textures/items/apparitioneffect/crucibleamuleteffect/crucibleamuleteffectc.mat,Tiny.V3.1,6945485,5558
 art/textures/items/apparitioneffect/crusaderapparition/crusaderapparition_colour.dds,Streaming/Content/metadata/effects/microtransactions/aura/A936F2FFD6F48534.crusaderapparition.ot,431302,174924
 art/textures/items/apparitioneffect/crusaderapparition/crusaderapparition_colour.dds.header,Tiny.VF,32297288,1520
 art/textures/items/apparitioneffect/crusaderapparition/crusaderapparition_fur.dds,Tiny.V6,25513394,2892
@@ -50498,7 +50498,7 @@ art/textures/items/apparitioneffect/ezomyteapparitioneffect/knife_colour_bc7.dds
 art/textures/items/apparitioneffect/ezomyteapparitioneffect/knife_colour_bc7.dds.header,Tiny.VF,32307054,1520
 art/textures/items/apparitioneffect/ezomyteapparitioneffect/knife_normal_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/aura/E7CA8E5C121BF681.assassindemonapparition.ot.1,1529684,43876
 art/textures/items/apparitioneffect/ezomyteapparitioneffect/knife_normal_dxt5.dds.header,Tiny.V7,32342379,840
-art/textures/items/apparitioneffect/ezomyteapparitioneffect/knifec.mat,Tiny.V3.1,5433542,2670
+art/textures/items/apparitioneffect/ezomyteapparitioneffect/knifec.mat,Tiny.V3.1,7369922,2670
 art/textures/items/apparitioneffect/falconapparition/atlasexile2_colour_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/aura/C874B19C68BD5A94.eyrieapparition.ao,527646,349692
 art/textures/items/apparitioneffect/falconapparition/atlasexile2_colour_dxt1.dds.header,Tiny.VE,32126734,840
 art/textures/items/apparitioneffect/falconapparition/atlasexile2_fur_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/aura/C874B19C68BD5A94.eyrieapparition.ao,877338,174924
@@ -50648,7 +50648,7 @@ art/textures/items/apparitioneffect/pinkcrystalapparitioneffect/crystalavatararm
 art/textures/items/apparitioneffect/pinkcrystalapparitioneffect/crystalavatararmour_normal_dxt5.dds.header,Tiny.V7,32348619,1520
 art/textures/items/apparitioneffect/pinkcrystalapparitioneffect/crystalavatararmourspecularc.mat,Tiny.V7,32350139,5520
 art/textures/items/apparitioneffect/pinkcrystalapparitioneffect/crystalavatarbody_colourspecular_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/aura/50095C8922FFC934.purplecrystaldemon.ao.2,0,699236
-art/textures/items/apparitioneffect/pinkcrystalapparitioneffect/crystalavatarbody_colourspecular_dxt5.dds.header,Tiny.V3.1,5014663,840
+art/textures/items/apparitioneffect/pinkcrystalapparitioneffect/crystalavatarbody_colourspecular_dxt5.dds.header,Tiny.V3.1,6951043,840
 art/textures/items/apparitioneffect/pinkcrystalapparitioneffect/crystalavatarbody_normal_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/aura/50095C8922FFC934.purplecrystaldemon.ao.2,699236,349700
 art/textures/items/apparitioneffect/pinkcrystalapparitioneffect/crystalavatarbody_normal_dxt5.dds.header,Tiny.VB,32315459,1520
 art/textures/items/apparitioneffect/pinkcrystalapparitioneffect/crystalavatarbodyspecularc.mat,Tiny.V1,31847636,3466
@@ -50672,7 +50672,7 @@ art/textures/items/apparitioneffect/tencentgoddess/tencentgoddessapparition_wing
 art/textures/items/apparitioneffect/tencentgoddess/tencentgoddessapparition_wing_mask_dxt1.dds.header,Tiny.V3.1,137223,1520
 art/textures/items/apparitioneffect/tencentgoddess/tencentgoddessapparition_wings_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/aura/53DF9235E44208F8.CAE58C92B230AD8B.closemid.pet,786768,699212
 art/textures/items/apparitioneffect/tencentgoddess/tencentgoddessapparition_wings_dxt1.dds.header,Tiny.V5,31991928,1520
-art/textures/items/apparitioneffect/tencentgoddess/tencentgoddessapparitionc.mat,Tiny.V3.1,5015503,10660
+art/textures/items/apparitioneffect/tencentgoddess/tencentgoddessapparitionc.mat,Tiny.V3.1,6951883,10660
 art/textures/items/armour/belts/belt_colour.dds,Streaming/Content/metadata/terrain/doodads/encampment/scrappile.ao,820860,11084
 art/textures/items/armour/belts/belt_colour.dds.header,Tiny.V5,31993448,1520
 art/textures/items/armour/belts/beltcns.mat,Tiny.VF,32313134,1796
@@ -62209,7 +62209,7 @@ art/textures/items/armour/shields/unique/shieldstrintunique7unique_normal_dxt5.d
 art/textures/items/armour/shields/unique/shieldstrintunique7unique_normal_dxt5.dds.header,Tiny.V7,33182025,1520
 art/textures/items/armour/shields/unique/shieldstrintunique7uniquec.mat,Tiny.V5,32775810,4278
 art/textures/items/charactereffects/arcdemon/arcdemon_colour.dds,Streaming/Content/metadata/effects/microtransactions/aura/5C027F652088C0FB.5C027F652088C0FB.archdemon.epk,341208,349700
-art/textures/items/charactereffects/arcdemon/arcdemon_colour.dds.header,Tiny.V3.1,5026163,1520
+art/textures/items/charactereffects/arcdemon/arcdemon_colour.dds.header,Tiny.V3.1,6962543,1520
 art/textures/items/charactereffects/arcdemon/arcdemon_glow.dds,Streaming/Content/metadata/effects/microtransactions/aura/5C027F652088C0FB.5C027F652088C0FB.archdemon.epk,690908,349700
 art/textures/items/charactereffects/arcdemon/arcdemon_glow.dds.header,Tiny.V2.1,108861,1520
 art/textures/items/charactereffects/arcdemon/arcdemon_glowc.mat,Tiny.V7,33183545,2550
@@ -62228,7 +62228,7 @@ art/textures/items/charactereffects/demon/demon_colour.dds,Streaming/Content/met
 art/textures/items/charactereffects/demon/demon_colour.dds.header,Tiny.V1,32685420,1520
 art/textures/items/charactereffects/demon/demon_glow.dds,Streaming/Content/metadata/effects/microtransactions/aura/FAD4FE01B0CD03AA.56D2183BFCB4B37D.demon.epk,794230,349700
 art/textures/items/charactereffects/demon/demon_glow.dds.header,Tiny.VE,33027864,1520
-art/textures/items/charactereffects/demon/demon_glowc.mat,Tiny.V3.1,5027683,2486
+art/textures/items/charactereffects/demon/demon_glowc.mat,Tiny.V3.1,6964063,2486
 art/textures/items/charactereffects/demon/demonaura_colour.dds,Streaming/Content/metadata/effects/microtransactions/aura/FAD4FE01B0CD03AA.320FDCB21DD17087.demon_aura.epk,376914,43852
 art/textures/items/charactereffects/demon/demonaura_colour.dds.header,Tiny.V6,33028218,1520
 art/textures/items/charactereffects/demon/demonaura_fire_colour.dds,Streaming/Content/metadata/effects/microtransactions/aura/FAD4FE01B0CD03AA.320FDCB21DD17087.demon_aura.epk,420766,87556
@@ -62260,18 +62260,18 @@ art/textures/items/charactereffects/demon2/demon2_auracns.mat,Tiny.V2,32725986,2
 art/textures/items/charactereffects/demon2/demon2_aurans.dds,Streaming/Content/metadata/effects/microtransactions/aura/AF7CEA24241B741E.D89E0D5A56764F3F.mid_2.pet,919556,87556
 art/textures/items/charactereffects/demon2/demon2_aurans.dds.header,Tiny.VD,32961681,1520
 art/textures/items/charactereffects/demon2/demon2_colour.dds,Streaming/Content/metadata/effects/microtransactions/aura/D75717261C89A27B.60B12A819F3B1612.demon2.epk,1133994,174924
-art/textures/items/charactereffects/demon2/demon2_colour.dds.header,Tiny.V3.1,5030169,1520
+art/textures/items/charactereffects/demon2/demon2_colour.dds.header,Tiny.V3.1,6966549,1520
 art/textures/items/charactereffects/demon2/demon2_glow.dds,Streaming/Content/metadata/effects/microtransactions/aura/D75717261C89A27B.60B12A819F3B1612.demon2.epk,1308918,349700
 art/textures/items/charactereffects/demon2/demon2_glow.dds.header,Tiny.VE,33029384,1520
-art/textures/items/charactereffects/demon2/demon2_glowc.mat,Tiny.V3.1,5436212,2732
-art/textures/items/charactereffects/demon2/demon2cns.mat,Tiny.V3.1,5031689,3330
+art/textures/items/charactereffects/demon2/demon2_glowc.mat,Tiny.V3.1,7372592,2732
+art/textures/items/charactereffects/demon2/demon2cns.mat,Tiny.V3.1,6968069,3330
 art/textures/items/charactereffects/demon2/demon2ns.dds,Streaming/Content/metadata/effects/microtransactions/aura/D75717261C89A27B.60B12A819F3B1612.demon2.epk,1658618,349700
 art/textures/items/charactereffects/demon2/demon2ns.dds.header,Tiny.V0,33658826,1520
 art/textures/items/charactereffects/impdemon/impdemon_colour.dds,Streaming/Content/metadata/effects/microtransactions/aura/8FCC03F59FC6600A.8FCC03F59FC6600A.impdemon.epk,232792,174924
 art/textures/items/charactereffects/impdemon/impdemon_colour.dds.header,Tiny.V5,32783128,1520
 art/textures/items/charactereffects/impdemon/impdemon_glow.dds,Streaming/Content/metadata/effects/microtransactions/aura/8FCC03F59FC6600A.8FCC03F59FC6600A.impdemon.epk,407716,349700
 art/textures/items/charactereffects/impdemon/impdemon_glow.dds.header,Tiny.V3.1,138743,1520
-art/textures/items/charactereffects/impdemon/impdemon_glowc.mat,Tiny.V3.1,5438944,3120
+art/textures/items/charactereffects/impdemon/impdemon_glowc.mat,Tiny.V3.1,7375324,3120
 art/textures/items/charactereffects/impdemon/impdemoncns.mat,Tiny.V4,33858848,3886
 art/textures/items/charactereffects/impdemon/impdemonns.dds,Streaming/Content/metadata/effects/microtransactions/aura/8FCC03F59FC6600A.8FCC03F59FC6600A.impdemon.epk,757416,349700
 art/textures/items/charactereffects/impdemon/impdemonns.dds.header,Tiny.V2.1,110381,1520
@@ -62280,7 +62280,7 @@ art/textures/items/charactereffects/vanguardavatar/vanguardavatar_colourspecular
 art/textures/items/charactereffects/vanguardavatar/vanguardavatar_colourspecular_bc7.dds,Streaming/Content/art/models/items/apparitioneffects/8FC9A0425295F58B.vanguardavatar.fmt.1,,
 art/textures/items/charactereffects/vanguardavatar/vanguardavatar_colourspecular_bc7.dds.header,Tiny.VF,33141018,840
 art/textures/items/charactereffects/vanguardavatar/vanguardavatar_normal_dxt5.dds,Streaming/Content/art/models/items/apparitioneffects/8FC9A0425295F58B.vanguardavatar.fmt.2,0,1398276
-art/textures/items/charactereffects/vanguardavatar/vanguardavatar_normal_dxt5.dds.header,Tiny.V3.1,5035019,1520
+art/textures/items/charactereffects/vanguardavatar/vanguardavatar_normal_dxt5.dds.header,Tiny.V3.1,6971399,1520
 art/textures/items/charactereffects/vanguardavatar/vanguardavatarspecularc.mat,Tiny.VF,33141858,5028
 art/textures/items/charactereffects/vanguardavatar/vanguardavatarsword_colourspecular.dds,Streaming/Content/art/models/items/apparitioneffects/8FC9A0425295F58B.vanguardavatar.fmt.2,1398276,87548
 art/textures/items/charactereffects/vanguardavatar/vanguardavatarsword_colourspecular.dds.header,Tiny.VF,33146886,840
@@ -70257,7 +70257,7 @@ art/textures/monsters/harvestbulbymodular/harvestbulbymodular_normal_dxt5.dds.he
 art/textures/monsters/harvestbulbymodular/harvestbulbymodularc.mat,Tiny.VD,33455509,4376
 art/textures/monsters/harvestred/spikes_color.dds,Streaming/Content/metadata/items/armours/helmets/9FE65B60649EA837.4E33425F25AE9DD3.bearbossheld.ao,276440,43852
 art/textures/monsters/harvestred/spikes_color.dds.header,Tiny.V7,33736989,1520
-art/textures/monsters/harvestred/spikes_colorc.mat,Tiny.V3.1,5442064,3018
+art/textures/monsters/harvestred/spikes_colorc.mat,Tiny.V3.1,7378444,3018
 art/textures/monsters/harvestred/spikes_glow_dxt1.dds,Streaming/Content/metadata/items/armours/helmets/9FE65B60649EA837.4E33425F25AE9DD3.bearbossheld.ao,320292,43852
 art/textures/monsters/harvestred/spikes_glow_dxt1.dds.header,Tiny.V7,33738509,1520
 art/textures/monsters/harvestred/spikes_normal_dxt5.dds,Streaming/Content/metadata/items/armours/helmets/9FE65B60649EA837.4E33425F25AE9DD3.bearbossheld.ao,364144,87556
@@ -70268,7 +70268,7 @@ art/textures/monsters/harvestred/werebear_colorc.mat,Tiny.VB,33612773,4246
 art/textures/monsters/harvestred/werebear_glow_dxt1.dds,Streaming/Content/metadata/items/armours/helmets/9FE65B60649EA837.4E33425F25AE9DD3.bearbossheld.ao,495552,43852
 art/textures/monsters/harvestred/werebear_glow_dxt1.dds.header,Tiny.VD,33459885,1520
 art/textures/monsters/harvestred/werebear_glow_mask_dxt5.dds,Streaming/Content/metadata/items/armours/helmets/9FE65B60649EA837.4E33425F25AE9DD3.bearbossheld.ao,539404,87556
-art/textures/monsters/harvestred/werebear_glow_mask_dxt5.dds.header,Tiny.V3.1,5445082,1520
+art/textures/monsters/harvestred/werebear_glow_mask_dxt5.dds.header,Tiny.V3.1,7381462,1520
 art/textures/monsters/harvestred/werebear_normal_dxt5.dds,Streaming/Content/metadata/items/armours/helmets/9FE65B60649EA837.4E33425F25AE9DD3.bearbossheld.ao,626960,349700
 art/textures/monsters/harvestred/werebear_normal_dxt5.dds.header,Tiny.V2.1,111901,1520
 art/textures/monsters/harvestspiders/harvestsabre_spider_colour.dds,Streaming/Content/data/worldareas/AD/maphowlinghalls.vworld,916688,349700
@@ -70281,8 +70281,8 @@ art/textures/monsters/harvestwereraven/harvestwereraven_colour_bc7.dds.header,Ti
 art/textures/monsters/harvestwereraven/harvestwereraven_glow_dxt5.dds,Streaming/Content/art/models/monsters/harvestraven/harvestwereraven.fmt,2097488,1398276
 art/textures/monsters/harvestwereraven/harvestwereraven_glow_dxt5.dds.header,Tiny.VE,33595550,1520
 art/textures/monsters/harvestwereraven/harvestwereraven_normal_dxt5.dds,Streaming/Content/art/models/monsters/harvestraven/harvestwereraven.fmt.1,,
-art/textures/monsters/harvestwereraven/harvestwereraven_normal_dxt5.dds.header,Tiny.V3.1,5446602,1520
-art/textures/monsters/harvestwereraven/harvestwereravenc.mat,Tiny.V3.1,5036539,6538
+art/textures/monsters/harvestwereraven/harvestwereraven_normal_dxt5.dds.header,Tiny.V3.1,7382982,1520
+art/textures/monsters/harvestwereraven/harvestwereravenc.mat,Tiny.V3.1,6972919,6538
 art/textures/monsters/harvestyellow/harvestdemonspider_refraction_colour.dds,Streaming/Content/metadata/pet/arachnomorph/arachnomorphpetspindly.act,150087,43852
 art/textures/monsters/harvestyellow/harvestdemonspider_refraction_colour.dds.header,Tiny.V3,33253476,1520
 art/textures/monsters/harvestyellow/harvestdemonspider_refraction_colour_bc7.dds,Streaming/Content/metadata/pet/arachnomorph/arachnomorphpetspindly.act,193939,87556

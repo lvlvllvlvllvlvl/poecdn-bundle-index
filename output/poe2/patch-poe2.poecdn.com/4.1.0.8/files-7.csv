@@ -632,20 +632,20 @@ cachedhlslshaders/vulkan/ffcb1b7e344748734b10aa7892d27c18d06bdf5a5745c870d06e762
 cachedhlslshaders/vulkan/ffe7e51c8091da0030e6f1c000bc5078ac69c9a99879f03da0267876d4a6b2cb,Folders/cachedhlslshaders/vulkan,10299862,6734
 cachedhlslshaders/vulkan/fff45c02208e4d7d086fb9babb0c98f8ec447dc17df0e39c30e4bb87b69c452e,Folders/cachedhlslshaders/vulkan,10306596,27415
 data/abyssbosslifescalingperlevel.datc64,Tiny.VA,34197150,196
-data/abyssobjects.datc64,Folders/23/data.datc64,4292788,15623
+data/abyssobjects.datc64,Folders/1E/data.datc64,17726,15623
 data/achievementitemrewards.datc64,Tiny.VB,34166946,324
 data/achievementitems.datc64,Folders/metadata/05/statdescriptions,2265236,1281364
-data/achievements.datc64,Folders/23/data.datc64,2667688,324884
-data/achievementsetrewards.datc64,Folders/data.datc64,0,42548
+data/achievements.datc64,Folders/08/data.datc64,3490773,324884
+data/achievementsetrewards.datc64,Folders/1E/data.datc64,1351748,42548
 data/achievementsetsdisplay.datc64,Tiny.VE,34149043,724
 data/actiontypes.datc64,Folders/22/data.datc64,661347,36658
 data/activesettings.datc64,Tiny.VA,34197346,114
 data/activeskillrequirementicons.datc64,Tiny.V1,33702578,70
 data/activeskillrequirements.datc64,Tiny.VF,34252971,85
 data/activeskills.datc64,Folders/17/data.datc64,1359686,964104
-data/activeskilltype.datc64,Folders/23/data.datc64,3019636,10100
+data/activeskilltype.datc64,Folders/08/data.datc64,3842721,10100
 data/acts.datc64,Tiny.VA,34197460,1865
-data/addbufftotargetvarieties.datc64,Folders/data.datc64,42548,7669
+data/addbufftotargetvarieties.datc64,Tiny.V3.1,4805849,7669
 data/additionallifescaling.datc64,Tiny.V2,33841801,2288
 data/additionallifescalingperlevel.datc64,Tiny.V8,33889297,12
 data/additionalmonsterpacksfromstats.datc64,Tiny.VA,34199325,3736
@@ -661,16 +661,16 @@ data/afflictionrewardmapmods.datc64,Tiny.VC,34195814,165
 data/afflictionrewardtypevisuals.datc64,Tiny.VD,34005911,98
 data/afflictionsplitdemons.datc64,Tiny.V3,33835120,300
 data/afflictionstartdialogue.datc64,Tiny.V8,33889297,12
-data/alternatepassiveadditions.datc64,Folders/data.datc64,50217,15956
-data/alternatepassiveskills.datc64,Folders/data.datc64,66173,61574
+data/alternatepassiveadditions.datc64,Tiny.V3.1,3921613,15956
+data/alternatepassiveskills.datc64,Tiny.V3.1,3662790,61574
 data/alternatequalitytypes.datc64,Tiny.V9,34643186,1856
 data/alternateskilltargetingbehaviours.datc64,Tiny.V2,33844089,1382
 data/alternatetreeart.datc64,Tiny.V1,33702648,2930
 data/alternatetreeversions.datc64,Tiny.VB,34167270,394
 data/ancestraltrialunits.datc64,Tiny.V8,33889297,12
-data/animatedobjectflags.datc64,Folders/data.datc64,127747,6268
+data/animatedobjectflags.datc64,Tiny.V3.1,3500575,6268
 data/animateweaponuniques.datc64,Tiny.V8,33889297,12
-data/animation.datc64,Folders/23/data.datc64,3750651,75246
+data/animation.datc64,Folders/23/data.datc64,2796720,75246
 data/applydamagefunctions.datc64,Tiny.VB,34167664,969
 data/archetyperewards.datc64,Tiny.V8,33889297,12
 data/archetypes.datc64,Tiny.V1,33705578,138
@@ -681,7 +681,7 @@ data/archnemesismods.datc64,Folders/22/data.datc64,364412,7386
 data/archnemesismodvisuals.datc64,Folders/22/data.datc64,11255,14788
 data/archnemesisrecipes.datc64,Tiny.V8,33889297,12
 data/areadifficultystats.datc64,Tiny.V0,34789699,492
-data/areainfluencedoodads.datc64,Folders/08/data.datc64,1156212,13189
+data/areainfluencedoodads.datc64,Folders/23/data.datc64,1154765,13189
 data/areastatsperdifficulty.datc64,Tiny.V2,33845471,588
 data/areatransitionanimations.datc64,Tiny.V8,33889297,12
 data/areatransitionanimationtypes.datc64,Tiny.V0,34790191,54
@@ -689,7 +689,7 @@ data/areatransitioninfo.datc64,Tiny.V8,33889297,12
 data/armourtypes.datc64,Folders/9B/data.datc64,65512,21052
 data/arrowspearoverride.datc64,Tiny.V3,33835420,396
 data/arrowstatreference.datc64,Tiny.VF,34253308,144
-data/ascendancy.datc64,Folders/data.datc64,134015,9728
+data/ascendancy.datc64,Folders/1E/data.datc64,2543247,9728
 data/atlasexilebossarenas.datc64,Tiny.V8,33889297,12
 data/atlasexileinfluence.datc64,Tiny.VF,34253452,396
 data/atlasexiles.datc64,Tiny.V2,33846059,984
@@ -712,25 +712,25 @@ data/atlasprimordialbosses.datc64,Tiny.VF,34253848,394
 data/atlasprimordialbossinfluence.datc64,Tiny.V4,34961091,1236
 data/atlasprimordialbossoptions.datc64,Tiny.VA,34206117,2746
 data/atlasupgradesinventorylayout.datc64,Tiny.V7,34307477,556
-data/attributerequirements.datc64,Folders/data.datc64,143743,21320
-data/awarddisplay.datc64,Folders/data.datc64,165063,11590
-data/backenderrors.datc64,Folders/metadata,1219216,116562
+data/attributerequirements.datc64,Tiny.V3.1,4940109,21320
+data/awarddisplay.datc64,Folders/1E/data.datc64,2448824,11590
+data/backenderrors.datc64,Folders/metadata,1219218,116562
 data/ballisticbouncebehaviour.datc64,Tiny.VE,34150479,630
 data/ballisticbounceoverride.datc64,Tiny.V5,33872901,1733
-data/baseitemtypes.datc64,Folders/data.datc64,176653,1510824
+data/baseitemtypes.datc64,Folders/3C/data.datc64,1842781,1510824
 data/battlepasses.datc64,Tiny.V5,33874634,1701
-data/battlepassrewards.datc64,Folders/data.datc64,1687477,15574
+data/battlepassrewards.datc64,Folders/1E/data.datc64,1183879,15574
 data/battlepasstracks.datc64,Tiny.V8,33892521,162
 data/belttypes.datc64,Tiny.V7,34308033,232
 data/bestiarycapturablemonsters.datc64,Tiny.V8,33889297,12
 data/bestiaryencounters.datc64,Tiny.V8,33889297,12
 data/bestiaryfamilies.datc64,Tiny.VC,34198851,3509
 data/bestiarygenus.datc64,Folders/0A/data.datc64,534059,6270
-data/bestiarygroups.datc64,Folders/metadata,1335778,10514
+data/bestiarygroups.datc64,Folders/metadata,1335780,10514
 data/bestiarynets.datc64,Tiny.V8,33892683,463
 data/bestiaryrecipecategories.datc64,Tiny.VB,34168633,1574
-data/bestiaryrecipecomponent.datc64,Folders/data.datc64,1703051,30660
-data/bestiaryrecipes.datc64,Folders/data.datc64,1733711,29378
+data/bestiaryrecipecomponent.datc64,Tiny.V3.1,4961429,30660
+data/bestiaryrecipes.datc64,Tiny.V3.1,5084655,29378
 data/betrayalchoiceactions.datc64,Tiny.V4,34962327,1752
 data/betrayalchoices.datc64,Tiny.V1,33705716,304
 data/betrayaldialogue.datc64,Tiny.V8,33889297,12
@@ -740,8 +740,8 @@ data/betrayalranks.datc64,Tiny.VE,34151109,550
 data/betrayalrelationshipstate.datc64,Tiny.V1,33706020,112
 data/betrayaltargetjobachievements.datc64,Tiny.VD,34006009,972
 data/betrayaltargetlifescalingperlevel.datc64,Tiny.V9,34646380,452
-data/betrayaltargets.datc64,Folders/data.datc64,1763089,9342
-data/betrayaltraitorrewards.datc64,Folders/data.datc64,1772431,20220
+data/betrayaltargets.datc64,Folders/1E/data.datc64,491501,9342
+data/betrayaltraitorrewards.datc64,Folders/1E/data.datc64,2552975,20220
 data/betrayalupgrades.datc64,Folders/BC/data.datc64,1098951,19198
 data/betrayalwalllifescalingperlevel.datc64,Tiny.V9,34646380,452
 data/beyondfactions.datc64,Tiny.VA,34208863,50
@@ -756,50 +756,50 @@ data/blightcraftingtypes.datc64,Tiny.V7,34311345,121
 data/blightcraftinguniques.datc64,Tiny.V5,33877149,124
 data/blightedsporeauras.datc64,Tiny.VF,34256718,596
 data/blightencountertypes.datc64,Tiny.V3,33838182,1689
-data/blightencounterwaves.datc64,Folders/data.datc64,1792651,31760
+data/blightencounterwaves.datc64,Folders/1E/data.datc64,399989,31760
 data/blightrewardtypes.datc64,Tiny.V3,33839871,3940
 data/blightstashtablayout.datc64,Tiny.V7,34311466,534
 data/blighttopologies.datc64,Folders/0A/data.datc64,461705,6206
-data/blighttopologynodes.datc64,Folders/data.datc64,1824411,30502
+data/blighttopologynodes.datc64,Tiny.V3.1,5236026,30502
 data/blighttowerauras.datc64,Tiny.VA,34208913,372
-data/blighttowers.datc64,Folders/23/data.datc64,3029736,19585
+data/blighttowers.datc64,Folders/08/data.datc64,3852821,19585
 data/blighttowersperlevel.datc64,Tiny.V5,33877273,1376
 data/bloodhiteffects.datc64,Folders/metadata/05/statdescriptions,2257676,7560
-data/bloodtypes.datc64,Folders/data.datc64,1854913,9858
+data/bloodtypes.datc64,Folders/1E/data.datc64,2831394,9858
 data/boltstatreference.datc64,Tiny.V0,34790245,104
 data/breachartvariations.datc64,Tiny.V8,33893830,446
 data/breachbosslifescalingperlevel.datc64,Tiny.VA,34197150,196
 data/breachelement.datc64,Tiny.V5,33878649,536
 data/breachstones.datc64,Tiny.V8,33889297,12
 data/buffdefinitions.datc64,Folders/17/data.datc64,6180,1346230
-data/bufftemplates.datc64,Folders/data.datc64,1864771,120601
+data/bufftemplates.datc64,Folders/1E/data.datc64,2328223,120601
 data/buffvisualorbart.datc64,Folders/0A/data.datc64,1932975,27249
-data/buffvisualorbs.datc64,Folders/data.datc64,1985372,21120
+data/buffvisualorbs.datc64,Tiny.V3.1,4347080,21120
 data/buffvisualorbtypes.datc64,Tiny.V7,34312000,1988
-data/buffvisuals.datc64,Folders/metadata,179928,1032950
+data/buffvisuals.datc64,Folders/metadata,179930,1032950
 data/buffvisualsartvariations.datc64,Folders/19/data.datc64,2285325,35126
 data/buffvisualsetentries.datc64,Tiny.VB,34170207,2220
 data/buffvisualshapeshiftoverride.datc64,Tiny.V7,34313988,192
 data/caravanstops.datc64,Folders/22/data.datc64,393062,5132
 data/chanceableitemclasses.datc64,Tiny.VA,34209285,592
-data/characteraudioevents.datc64,Folders/data.datc64,2006492,197054
+data/characteraudioevents.datc64,Folders/1E/data.datc64,1587082,197054
 data/charactercreationbutton.datc64,Folders/23/data.datc64,0,11348
 data/charactercreationdialogue.datc64,Tiny.V8,33894276,780
-data/charactercreationicons.datc64,Folders/data.datc64,2203546,9168
+data/charactercreationicons.datc64,Tiny.V3.1,4495230,9168
 data/charactereventtextaudio.datc64,Folders/22/data.datc64,26043,282832
 data/charactermeleeskills.datc64,Tiny.V1,33706132,1740
 data/characterpaneldescriptionmodes.datc64,Tiny.V9,34646832,1298
 data/characterpanelstats.datc64,Folders/19/data.datc64,2524909,176134
 data/characterpaneltabs.datc64,Tiny.VC,34202360,2738
 data/characters.datc64,Folders/22/data.datc64,502405,25724
-data/characterstartqueststate.datc64,Folders/08/data.datc64,2798167,425670
+data/characterstartqueststate.datc64,Folders/08/data.datc64,18803,425670
 data/characterstartstates.datc64,Folders/0A/data.datc64,1627803,75516
 data/characterstartstateset.datc64,Tiny.V9,34648130,598
 data/charactertextaudio.datc64,Folders/07/data.datc64,16262,2228152
 data/charactervariationgroups.datc64,Tiny.V1,33707872,330
 data/chargevariations.datc64,Tiny.VA,34209877,1484
 data/chaticons.datc64,Tiny.V4,34964079,810
-data/chestclusters.datc64,Folders/data.datc64,2212714,11548
+data/chestclusters.datc64,Tiny.V3.1,3974617,11548
 data/chesteffects.datc64,Folders/19/data.datc64,8260,26418
 data/chests.datc64,Folders/19/data.datc64,34678,1133252
 data/classpassiveskilloverrides.datc64,Tiny.V8,33895056,972
@@ -822,7 +822,7 @@ data/craftablemodtypes.datc64,Tiny.V2,33847043,3576
 data/craftingbenchoptions.datc64,Folders/0A/data.datc64,2467472,51224
 data/craftingbenchsortcategories.datc64,Tiny.V8,33896028,333
 data/craftingbenchspecificoptionid.datc64,Tiny.V9,34649384,210
-data/craftingbenchunlockcategories.datc64,Folders/data.datc64,2224262,36898
+data/craftingbenchunlockcategories.datc64,Tiny.V3.1,4626249,36898
 data/craftingitemclasscategories.datc64,Tiny.V3,33849336,1878
 data/crossbowskillboltoverride.datc64,Tiny.VF,34257690,684
 data/currencyexchange.datc64,Folders/0A/data.datc64,371809,7052
@@ -834,31 +834,31 @@ data/customleaguemonsterreplacements.datc64,Tiny.V8,33889297,12
 data/customleagueroomreplacements.datc64,Tiny.V8,33889297,12
 data/daemonspawningdata.datc64,Tiny.V3,33851214,762
 data/damagecalculationtypes.datc64,Folders/0A/data.datc64,2729270,9012
-data/damageeffectvariations.datc64,Folders/data.datc64,2261160,45760
+data/damageeffectvariations.datc64,Tiny.V3.1,4715857,45760
 data/damagehiteffects.datc64,Folders/17/data.datc64,0,6180
 data/damageparticleeffects.datc64,Tiny.VA,34213010,1497
 data/damagewhenhiteffects.datc64,Tiny.V7,34314180,309
 data/dances.datc64,Tiny.V8,33889297,12
 data/daressopitfights.datc64,Tiny.V8,33889297,12
-data/defaultmonsterstats.datc64,Folders/data.datc64,2306920,8396
+data/defaultmonsterstats.datc64,Tiny.V3.1,4813518,8396
 data/deliriumstashtablayout.datc64,Folders/0A/data.datc64,1390157,4850
 data/delveazuriteshop.datc64,Tiny.V4,34964889,1159
 data/delvebiomes.datc64,Tiny.V8,33889297,12
 data/delvecatchupdepths.datc64,Tiny.VD,34007137,812
-data/delvecraftingmodifierdescriptions.datc64,Folders/data.datc64,2315316,7826
-data/delvecraftingmodifiers.datc64,Folders/23/data.datc64,3825897,148007
+data/delvecraftingmodifierdescriptions.datc64,Folders/21/data.datc64,0,7826
+data/delvecraftingmodifiers.datc64,Folders/23/data.datc64,2871966,148007
 data/delvecraftingtags.datc64,Tiny.V0,34792061,706
 data/delvedynamite.datc64,Tiny.VB,34174501,412
-data/delvefeatures.datc64,Folders/data.datc64,2323142,62510
+data/delvefeatures.datc64,Tiny.V3.1,4992089,62510
 data/delveflares.datc64,Tiny.V6,34179461,140
-data/delvelevelscaling.datc64,Folders/data.datc64,2385652,360012
+data/delvelevelscaling.datc64,Folders/1E/data.datc64,2841252,360012
 data/delvemonsterspawners.datc64,Tiny.V8,33889297,12
 data/delveresourceperlevel.datc64,Tiny.V0,34792767,804
 data/delverewardtierconstants.datc64,Tiny.V2,33850619,112
 data/delverobotvariations.datc64,Tiny.V7,34314489,438
 data/delverooms.datc64,Tiny.V8,33889297,12
-data/delvestashtablayout.datc64,Folders/metadata,1346292,6341
-data/delveupgrades.datc64,Folders/data.datc64,2745664,33176
+data/delvestashtablayout.datc64,Folders/metadata,1346294,6341
+data/delveupgrades.datc64,Tiny.V3.1,4368200,33176
 data/destructivedamageeffects.datc64,Tiny.VB,34174913,3104
 data/dialogueevent.datc64,Tiny.VE,34154581,2368
 data/displayminionmonstertype.datc64,Tiny.V8,33889297,12
@@ -869,7 +869,7 @@ data/dronebasetypes.datc64,Tiny.V8,33889297,12
 data/dronetypes.datc64,Tiny.V5,33880429,1184
 data/dropeffects.datc64,Tiny.V3,33851976,1462
 data/dynamicstashslots.datc64,Tiny.VD,34007949,226
-data/eclipsemods.datc64,Folders/data.datc64,2778840,8683
+data/eclipsemods.datc64,Folders/1E/data.datc64,1784136,8683
 data/effectdrivenskill.datc64,Folders/0A/data.datc64,0,21793
 data/effectivenesscostconstants.datc64,Tiny.V9,34649594,138
 data/einharmissions.datc64,Tiny.V2,33850731,524
@@ -884,7 +884,7 @@ data/endgamemapcontent.datc64,Tiny.VF,34265327,3046
 data/endgamemapcontentset.datc64,Tiny.V4,34966048,336
 data/endgamemapdecorations.datc64,Folders/08/data.datc64,0,12316
 data/endgamemappins.datc64,Tiny.VA,34214507,822
-data/endgamemaps.datc64,Folders/23/data.datc64,3049321,23040
+data/endgamemaps.datc64,Folders/08/data.datc64,3872406,23040
 data/environmentfootprints.datc64,Folders/22/data.datc64,528129,10814
 data/environments.datc64,Folders/19/data.datc64,1489787,428949
 data/environmenttransitions.datc64,Tiny.VC,34207694,824
@@ -893,12 +893,12 @@ data/essencestashtablayout.datc64,Folders/19/data.datc64,1167930,4429
 data/essencetype.datc64,Tiny.VD,34008175,1139
 data/eventcoins.datc64,Tiny.V8,33889297,12
 data/evergreenachievements.datc64,Tiny.V5,33883569,1324
-data/executegeal.datc64,Folders/data.datc64,2787523,152295
-data/expandingpulse.datc64,Folders/data.datc64,2939818,5106
+data/executegeal.datc64,Folders/1E/data.datc64,1199453,152295
+data/expandingpulse.datc64,Tiny.V3.1,4560288,5106
 data/expeditionareas.datc64,Tiny.V1,33708202,718
 data/expeditionbalanceperlevel.datc64,Tiny.V1,33708920,2178
 data/expeditioncurrency.datc64,Tiny.VF,34268373,204
-data/expeditiondeals.datc64,Folders/data.datc64,2944924,4338
+data/expeditiondeals.datc64,Tiny.V3.1,3724364,4338
 data/expeditiondealsdialogue.datc64,Tiny.V3,33854152,1632
 data/expeditionfactions.datc64,Tiny.VA,34215329,1838
 data/expeditionmarkerscommon.datc64,Tiny.V1,33711098,2408
@@ -914,12 +914,12 @@ data/fixedmissions.datc64,Tiny.V8,33889297,12
 data/flasks.datc64,Tiny.VE,34157633,3698
 data/flaskstashbasetypeordering.datc64,Tiny.V8,33889297,12
 data/flavourtext.datc64,Folders/9B/data.datc64,86564,696602
-data/footprints.datc64,Folders/data.datc64,2949262,75838
+data/footprints.datc64,Folders/1E/data.datc64,2573195,75838
 data/footstepaudio.datc64,Tiny.V7,34314927,1604
-data/fragmentstashtablayout.datc64,Folders/data.datc64,3025100,33778
+data/fragmentstashtablayout.datc64,Tiny.V3.1,4142184,33778
 data/gambleprices.datc64,Tiny.V3,33858551,1172
 data/gameconstants.datc64,Folders/0A/data.datc64,540329,4916
-data/gamelogos.datc64,Folders/data.datc64,3058878,4948
+data/gamelogos.datc64,Folders/1E/data.datc64,500843,4948
 data/gameobjecttasks.datc64,Folders/17/data.datc64,1352410,7276
 data/gameobjecttasksfromstats.datc64,Tiny.V1,33722818,791
 data/gamepadbutton.datc64,Tiny.V7,34321964,2266
@@ -929,41 +929,41 @@ data/gamepaditemactiontypes.datc64,Tiny.VA,34233787,2328
 data/gamepadthumbstick.datc64,Tiny.V0,34800681,120
 data/gamepadtype.datc64,Tiny.V5,33893429,726
 data/gamestats.datc64,Tiny.VA,34236115,314
-data/gemeffects.datc64,Folders/data.datc64,3063826,192786
-data/gemtags.datc64,Folders/metadata,1212878,6338
+data/gemeffects.datc64,Folders/1E/data.datc64,1394296,192786
+data/gemtags.datc64,Folders/metadata,1212880,6338
 data/genericbuffauras.datc64,Tiny.VD,34019136,708
 data/genericleaguerewardtypes.datc64,Tiny.V6,34191653,886
 data/genericleaguerewardtypevisuals.datc64,Folders/22/data.datc64,358896,5516
 data/genericskillindicator.datc64,Tiny.V7,34324230,1036
-data/geometryattack.datc64,Folders/23/data.datc64,3072361,667718
+data/geometryattack.datc64,Folders/08/data.datc64,3895446,667718
 data/geometrychannel.datc64,Folders/0A/data.datc64,545245,8392
-data/geometryprojectiles.datc64,Folders/23/data.datc64,3973904,14512
-data/geometrytrigger.datc64,Folders/data.datc64,3256612,141187
+data/geometryprojectiles.datc64,Folders/23/data.datc64,3019973,14512
+data/geometrytrigger.datc64,Tiny.V3.1,3521603,141187
 data/giftwrapartvariations.datc64,Tiny.VC,34219097,936
 data/globalaudioconfig.datc64,Tiny.VE,34175273,406
 data/goldbasetypeprices.datc64,Folders/22/data.datc64,440449,19512
-data/goldinherentskillpricesperlevel.datc64,Folders/23/data.datc64,3740079,10572
-data/goldmodprices.datc64,Folders/23/data.datc64,3988416,246876
+data/goldinherentskillpricesperlevel.datc64,Folders/08/data.datc64,4563164,10572
+data/goldmodprices.datc64,Folders/23/data.datc64,3034485,246876
 data/goldrespecprices.datc64,Tiny.V4,34980988,812
 data/goldvisualidentities.datc64,Tiny.V5,33895011,108
 data/grantedeffectlabels.datc64,Folders/shaders,1184134,5360
 data/grantedeffectqualitystats.datc64,Folders/22/data.datc64,476897,25508
-data/grantedeffects.datc64,Folders/data.datc64,3397799,1741540
-data/grantedeffectsperlevel.datc64,Folders/23/data.datc64,17356,2324092
-data/grantedeffectstatsets.datc64,Folders/08/data.datc64,18803,1137409
-data/grantedeffectstatsetsperlevel.datc64,Folders/42/data.datc64,42112,5236330
+data/grantedeffects.datc64,Folders/3C/data.datc64,20145,1741540
+data/grantedeffectsperlevel.datc64,Folders/08/data.datc64,840441,2324092
+data/grantedeffectstatsets.datc64,Folders/23/data.datc64,17356,1137409
+data/grantedeffectstatsetsperlevel.datc64,Folders/21/data.datc64,14934,5236322
 data/grantedskillsocketnumbers.datc64,Tiny.V1,33730029,44
 data/graphicalitemreceptacle.datc64,Tiny.V5,33895119,1586
 data/graphicalitemreceptacleslot.datc64,Tiny.V2,33858879,2244
-data/groundeffects.datc64,Folders/metadata,1352633,128750
+data/groundeffects.datc64,Folders/metadata,1352635,128750
 data/groundeffecttypes.datc64,Tiny.VE,34175679,4060
-data/hapticevents.datc64,Folders/data.datc64,5139339,20327
+data/hapticevents.datc64,Tiny.V3.1,3993131,20327
 data/harbingers.datc64,Tiny.V8,33889297,12
 data/hardmodeextracontentchances.datc64,Tiny.VF,34278039,1034
 data/harvestcraftcostscalingbybasetype.datc64,Tiny.V4,34981800,192
 data/harvestcraftfilters.datc64,Tiny.V3,33863964,472
 data/harvestcraftoptionicons.datc64,Tiny.V2,33861123,1932
-data/harvestcraftoptions.datc64,Folders/data.datc64,5159666,52710
+data/harvestcraftoptions.datc64,Tiny.V3.1,4663147,52710
 data/harvestcrafttiers.datc64,Tiny.V6,34198478,1188
 data/harvestinfrastructure.datc64,Tiny.V2,33863055,510
 data/harvestlifescalingperlevel.datc64,Tiny.V6,34199666,812
@@ -972,7 +972,7 @@ data/harvestseeditems.datc64,Tiny.V5,33896705,120
 data/harvestseeds.datc64,Tiny.V8,33889297,12
 data/heistareaformationlayout.datc64,Tiny.V8,33889297,12
 data/heistareas.datc64,Tiny.V8,33889297,12
-data/heistbalanceperlevel.datc64,Folders/23/data.datc64,4675051,13956
+data/heistbalanceperlevel.datc64,Folders/21/data.datc64,5303761,13956
 data/heistchestrewardtypes.datc64,Tiny.V8,33889297,12
 data/heistchests.datc64,Tiny.V8,33889297,12
 data/heistchokepointformation.datc64,Tiny.V8,33889297,12
@@ -981,7 +981,7 @@ data/heistcontracts.datc64,Tiny.V8,33889297,12
 data/heistdoodadnpcs.datc64,Tiny.V2,33863565,388
 data/heistdoors.datc64,Tiny.V9,34663083,3606
 data/heistequipment.datc64,Tiny.V5,33896825,2172
-data/heistgeneration.datc64,Folders/data.datc64,5212376,13956
+data/heistgeneration.datc64,Folders/1E/data.datc64,431749,13956
 data/heistintroareas.datc64,Tiny.V8,33889297,12
 data/heistjobs.datc64,Folders/BC/data.datc64,1118149,7454
 data/heistjobsexperienceperlevel.datc64,Tiny.VB,34193429,2424
@@ -989,7 +989,7 @@ data/heistlocktype.datc64,Tiny.V8,33902765,1250
 data/heistnpcauras.datc64,Tiny.V8,33889297,12
 data/heistnpcblueprinttypes.datc64,Tiny.VF,34279073,112
 data/heistnpcdialogue.datc64,Folders/0A/data.datc64,1083749,29240
-data/heistnpcs.datc64,Folders/data.datc64,5226332,9600
+data/heistnpcs.datc64,Tiny.V3.1,4175962,9600
 data/heistnpcstats.datc64,Tiny.V3,33864436,2712
 data/heistobjectives.datc64,Tiny.V8,33904015,2960
 data/heistobjectivevaluedescriptions.datc64,Tiny.VD,34024709,194
@@ -999,7 +999,7 @@ data/heistrevealingnpcs.datc64,Tiny.V5,33898997,616
 data/heistrooms.datc64,Tiny.V8,33889297,12
 data/heiststoragelayout.datc64,Tiny.V8,33889297,12
 data/heistvaluescaling.datc64,Tiny.VB,34195853,656
-data/hellscapeaoreplacements.datc64,Folders/42/data.datc64,0,42112
+data/hellscapeaoreplacements.datc64,Tiny.V3.1,5274619,42112
 data/hellscapeareapacks.datc64,Tiny.V8,33889297,12
 data/hellscapeexperiencelevels.datc64,Tiny.VA,34244791,516
 data/hellscapefactions.datc64,Tiny.V8,33889297,12
@@ -1013,13 +1013,13 @@ data/hellscapepassives.datc64,Folders/22/data.datc64,335554,7046
 data/hellscapepassivetree.datc64,Tiny.VE,34179739,452
 data/hideoutcraftingbenchdoodads.datc64,Tiny.VB,34196690,108
 data/hideoutcraftingbenchinterfacevisuals.datc64,Tiny.V7,34337668,1176
-data/hideoutdoodadcategory.datc64,Folders/data.datc64,5235932,5098
-data/hideoutdoodads.datc64,Folders/08/data.datc64,1169401,1628766
+data/hideoutdoodadcategory.datc64,Tiny.V3.1,3767652,5098
+data/hideoutdoodads.datc64,Folders/23/data.datc64,1167954,1628766
 data/hideoutdoodadtags.datc64,Tiny.V3,33867148,2356
 data/hideoutnpcs.datc64,Tiny.V8,33907003,948
 data/hideoutrarity.datc64,Tiny.V0,34807248,226
 data/hideoutresistpenalties.datc64,Tiny.V3,33869504,358
-data/hideouts.datc64,Folders/data.datc64,5241030,20145
+data/hideouts.datc64,Folders/3C/data.datc64,0,20145
 data/hideoutstashdoodads.datc64,Tiny.V7,34338844,506
 data/hideoutwaypointdoodads.datc64,Tiny.VA,34245307,254
 data/hudenergyshieldvisuals.datc64,Tiny.V0,34807474,2345
@@ -1043,20 +1043,20 @@ data/invasionmonsterrestrictions.datc64,Tiny.V2,33864061,1854
 data/invasionmonstersperarea.datc64,Tiny.V8,33889297,12
 data/inventories.datc64,Folders/22/data.datc64,415574,6149
 data/itemclasscategories.datc64,Folders/22/data.datc64,342600,5386
-data/itemclasses.datc64,Folders/data.datc64,5261175,25320
+data/itemclasses.datc64,Tiny.V3.1,5361159,25320
 data/itemdisenchantvalues.datc64,Tiny.V2,33865915,120
-data/itemexperienceperlevel.datc64,Folders/data.datc64,5286495,10484
+data/itemexperienceperlevel.datc64,Tiny.V3.1,4031232,10484
 data/itemexperiencetypes.datc64,Tiny.V5,33899613,2224
 data/itemframetype.datc64,Folders/22/data.datc64,698005,4467
-data/iteminherentskills.datc64,Folders/data.datc64,5296979,5059
+data/iteminherentskills.datc64,Tiny.V3.1,3785196,5059
 data/itemisedvisualeffect.datc64,Folders/shaders,1189494,1238242
 data/itemisedvisualeffectexclusivetypes.datc64,Tiny.VA,34248011,54
 data/itemnotecode.datc64,Tiny.V2,33866035,645
 data/itemspirit.datc64,Tiny.V4,34982124,312
 data/itemstances.datc64,Tiny.V0,34809819,725
 data/itemtoggleable.datc64,Tiny.V5,33901837,424
-data/itemvisualeffect.datc64,Folders/data.datc64,5302038,378264
-data/itemvisualheldbodymodel.datc64,Folders/23/data.datc64,4308411,10516
+data/itemvisualeffect.datc64,Folders/1E/data.datc64,767283,378264
+data/itemvisualheldbodymodel.datc64,Folders/1E/data.datc64,33349,10516
 data/itemvisualheldbodymodeloverridebyitemaffiliatedattributes.datc64,Tiny.VE,34183389,888
 data/itemvisualidentity.datc64,Folders/A7/data.datc64,,
 data/itemvisualreplacement.datc64,Folders/22/data.datc64,421723,10620
@@ -1068,28 +1068,28 @@ data/kioskmodecharactertutorials.datc64,Folders/19/data.datc64,1172359,20546
 data/kiraclevels.datc64,Tiny.V5,33906105,140
 data/lakebosslifescalingperlevel.datc64,Tiny.V6,34199666,812
 data/languages.dat,Tiny.V0,34819219,688
-data/leagueflag.datc64,Folders/data.datc64,5680302,32792
-data/leagueinfo.datc64,Folders/23/data.datc64,2341448,326240
+data/leagueflag.datc64,Tiny.V3.1,3941825,32792
+data/leagueinfo.datc64,Folders/08/data.datc64,3164533,326240
 data/leagueinfopanelversions.datc64,Tiny.V9,34682727,490
 data/leagueprogressquestflags.datc64,Tiny.VE,34197687,2700
 data/leaguestaticrewards.datc64,Tiny.V9,34683217,1612
 data/legacyatlasinfluenceoutcomes.datc64,Folders/0A/data.datc64,437083,8836
 data/legionbalanceperlevel.datc64,Tiny.VC,34231978,1468
-data/legionchestcounts.datc64,Folders/data.datc64,5713094,7852
+data/legionchestcounts.datc64,Tiny.V3.1,4821914,7852
 data/legionchesttypes.datc64,Tiny.V8,33889297,12
 data/legionfactions.datc64,Tiny.V3,33878145,1912
-data/legionmonstercounts.datc64,Folders/data.datc64,5720946,14572
+data/legionmonstercounts.datc64,Tiny.V3.1,4897283,14572
 data/legionmonstervarieties.datc64,Tiny.V8,33889297,12
 data/legionranks.datc64,Tiny.VE,34200387,2652
 data/legionrewardtypevisuals.datc64,Tiny.V8,33920857,2274
 data/levelrelativeplayerscaling.datc64,Tiny.V5,33910767,3212
 data/loginareas.datc64,Tiny.VE,34203039,350
-data/mapcompletionachievements.datc64,Folders/data.datc64,5735518,44232
-data/mapconnections.datc64,Folders/data.datc64,5779750,17476
+data/mapcompletionachievements.datc64,Tiny.V3.1,4761617,44232
+data/mapconnections.datc64,Tiny.V3.1,5118359,17476
 data/mapcreationinformation.datc64,Tiny.V8,33889297,12
 data/mapcurrencyinventorylayout.datc64,Tiny.VB,34204003,84
 data/mapdevicerecipes.datc64,Tiny.V1,33746182,902
-data/mapdevices.datc64,Folders/data.datc64,5797226,8798
+data/mapdevices.datc64,Folders/1E/data.datc64,468727,8798
 data/mapfragmentmods.datc64,Folders/0A/data.datc64,1046397,9206
 data/mapinhabitants.datc64,Tiny.V8,33889297,12
 data/mappins.datc64,Folders/2F/data.datc64,0,246269
@@ -1098,23 +1098,23 @@ data/mapseries.datc64,Folders/9B/data.datc64,55798,9714
 data/mapseriestiers.datc64,Tiny.V8,33889297,12
 data/mapstashspecialtypeentries.datc64,Tiny.V7,34347018,2640
 data/mapstashuniquemapinfo.datc64,Tiny.V8,33889297,12
-data/mapstatconditions.datc64,Folders/data.datc64,5806024,9522
+data/mapstatconditions.datc64,Tiny.V3.1,5386479,9522
 data/maptierachievements.datc64,Folders/22/data.datc64,398194,10238
 data/maptiers.datc64,Tiny.VF,34287946,204
 data/mat_table.dat,Folders/data.dat,,
-data/mavendialog.datc64,Folders/data.datc64,5815546,8091
+data/mavendialog.datc64,Tiny.V3.1,5266528,8091
 data/mavenfights.datc64,Tiny.V8,33889297,12
 data/mavenjewelradiuskeystones.datc64,Tiny.V6,34217787,412
-data/melee.datc64,Folders/data.datc64,5823637,40028
-data/meleetrails.datc64,Folders/data.datc64,5863665,47116
-data/memorylinetype.datc64,Folders/data.datc64,5910781,4560
+data/melee.datc64,Tiny.V3.1,5135835,40028
+data/meleetrails.datc64,Tiny.V3.1,5188910,47116
+data/memorylinetype.datc64,Tiny.V3.1,4013458,4560
 data/metamorphosisstashtablayout.datc64,Tiny.V5,33913979,4052
 data/micromigrationdata.datc64,Folders/BC/data.datc64,1125603,17692
 data/microtransactionappliedinventoryitemartvariations.datc64,Tiny.V4,34994928,2148
 data/microtransactioncategory.datc64,Tiny.VB,34204087,1424
 data/microtransactioncharacterportraitvariations.datc64,Tiny.V2,33874932,156
 data/microtransactionchargevariations.datc64,Tiny.V9,34684829,332
-data/microtransactioncombineformula.datc64,Folders/42/data.datc64,5278442,52505
+data/microtransactioncombineformula.datc64,Folders/21/data.datc64,5251256,52505
 data/microtransactionconditionalapparitionevents.datc64,Tiny.VC,34233446,3839
 data/microtransactionconditionalapparitions.datc64,Tiny.V8,33923131,1678
 data/microtransactioncounters.datc64,Tiny.V1,33747084,586
@@ -1128,11 +1128,11 @@ data/microtransactiononkillbeams.datc64,Tiny.VF,34292350,159
 data/microtransactiononkillconditions.datc64,Tiny.V4,34997076,1432
 data/microtransactiononkilleffects.datc64,Tiny.VB,34205511,3196
 data/microtransactiononopenchesteffects.datc64,Tiny.V8,33889297,12
-data/microtransactionperiodiccharactereffectvariations.datc64,Folders/data.datc64,5915341,44044
-data/microtransactionportalvariations.datc64,Folders/data.datc64,5959385,105860
+data/microtransactionperiodiccharactereffectvariations.datc64,Tiny.V3.1,4840234,44044
+data/microtransactionportalvariations.datc64,Folders/08/data.datc64,4573736,105860
 data/microtransactionraritydisplay.datc64,Tiny.V5,33918461,1522
 data/microtransactionrecycleoutcomes.datc64,Folders/0A/data.datc64,408913,8452
-data/microtransactionrecyclesalvagevalues.datc64,Folders/data.datc64,6065245,82308
+data/microtransactionrecyclesalvagevalues.datc64,Folders/08/data.datc64,4679596,82308
 data/microtransactionskillgemeffectslottypes.datc64,Tiny.V9,34685459,166
 data/microtransactionslot.datc64,Folders/0A/data.datc64,432217,4866
 data/microtransactionslotadditionaldefaultoptions.datc64,Tiny.V3,33880057,404
@@ -1140,22 +1140,22 @@ data/microtransactionsocialframevariations.datc64,Folders/36/data.datc64,0,9438
 data/minimapicons.datc64,Folders/05/data.datc64,7948,72293
 data/minioncommands.datc64,Tiny.V9,34685625,140
 data/miniongemlevelscaling.datc64,Tiny.VA,34262823,332
-data/minionstats.datc64,Folders/data.datc64,6147553,23499
+data/minionstats.datc64,Tiny.V3.1,4565394,23499
 data/miniontype.datc64,Folders/22/data.datc64,408432,7142
 data/miniqueststates.datc64,Tiny.V9,34685765,3762
 data/miscanimated.datc64,Folders/05/data.datc64,80241,2192876
 data/miscanimatedartvariations.datc64,Folders/0A/data.datc64,2518696,205074
 data/miscbeams.datc64,Folders/0A/data.datc64,553637,74834
-data/miscbeamsartvariations.datc64,Folders/data.datc64,6171052,12806
+data/miscbeamsartvariations.datc64,Tiny.V3.1,4504398,12806
 data/misccooldowns.datc64,Tiny.VF,34292509,294
 data/misceffectpacks.datc64,Folders/0A/data.datc64,1395007,232796
-data/misceffectpacksartvariations.datc64,Folders/data.datc64,6183858,28254
+data/misceffectpacksartvariations.datc64,Tiny.V3.1,4911855,28254
 data/miscobjects.datc64,Folders/0A/data.datc64,2311278,156194
-data/miscobjectsartvariations.datc64,Folders/data.datc64,6212112,4326
+data/miscobjectsartvariations.datc64,Tiny.V3.1,5114033,4326
 data/miscprojectilemod.datc64,Tiny.V1,33747670,256
 data/miscprojectilemodartvariations.datc64,Tiny.VB,34208707,118
 data/missiontilemap.datc64,Tiny.V8,33889297,12
-data/missiontimertypes.datc64,Folders/data.datc64,6216438,4156
+data/missiontimertypes.datc64,Tiny.V3.1,4829766,4156
 data/missiontransitiontiles.datc64,Tiny.V8,33889297,12
 data/mobileactoneatlasquestprogression.datc64,Tiny.V1,33747926,714
 data/mobileascendancythresholds.datc64,Tiny.V3,33880461,148
@@ -1165,7 +1165,7 @@ data/mobilecharactercreation.datc64,Tiny.V4,34998508,1056
 data/mobilequestaudio.datc64,Tiny.V8,33889297,12
 data/mobileskillgemlayout.datc64,Tiny.VE,34206570,1598
 data/mobileskillgemlayoutpages.datc64,Tiny.V5,33919983,596
-data/mobiletutorial.datc64,Folders/data.datc64,6220594,12356
+data/mobiletutorial.datc64,Folders/40/data.datc64,0,12356
 data/mobiletutorialgroup.datc64,Tiny.V0,34819907,814
 data/modeffectstats.datc64,Tiny.V4,34999564,1886
 data/modequivalencies.datc64,Tiny.VE,34208168,612
@@ -1175,26 +1175,26 @@ data/mods.datc64,Folders/2F/data.datc64,246269,9623033
 data/modsellpricetypes.datc64,Tiny.VC,34240583,1536
 data/modtype.datc64,Folders/BC/data.datc64,0,1092675
 data/monsterarmours.datc64,Folders/0A/data.datc64,1703319,199452
-data/monsterbonuses.datc64,Folders/data.datc64,6232950,5370
+data/monsterbonuses.datc64,Folders/1E/data.datc64,0,5370
 data/monsterconditionaleffectpacks.datc64,Tiny.VE,34208780,2080
 data/monsterconditions.datc64,Folders/0A/data.datc64,1055603,13310
 data/monsterdeathachievements.datc64,Tiny.V5,33920579,1722
-data/monsterdeathconditions.datc64,Folders/data.datc64,6238320,10548
+data/monsterdeathconditions.datc64,Folders/1E/data.datc64,2649033,10548
 data/monsterencounterskillgroups.datc64,Tiny.V3,33880609,182
 data/monstergroupentries.datc64,Tiny.V1,33748908,1708
 data/monsterheightbrackets.datc64,Tiny.V7,34349658,970
-data/monsterheights.datc64,Folders/data.datc64,6248868,79960
-data/monstermapbossdifficulty.datc64,Folders/data.datc64,6328828,9372
+data/monsterheights.datc64,Tiny.V3.1,4415270,79960
+data/monstermapbossdifficulty.datc64,Folders/1E/data.datc64,477525,9372
 data/monstermapdifficulty.datc64,Tiny.V2,33875088,2112
-data/monstermortar.datc64,Folders/data.datc64,6338200,38332
+data/monstermortar.datc64,Folders/1E/data.datc64,1145547,38332
 data/monsterpackcounts.datc64,Tiny.V8,33889297,12
-data/monsterpackentries.datc64,Folders/data.datc64,6376532,75596
-data/monsterpacks.datc64,Folders/data.datc64,6452128,213690
+data/monsterpackentries.datc64,Tiny.V3.1,4271484,75596
+data/monsterpacks.datc64,Folders/1E/data.datc64,548137,213690
 data/monsterprojectileattack.datc64,Folders/0A/data.datc64,472894,8608
 data/monsterprojectilespell.datc64,Folders/22/data.datc64,317525,18029
-data/monsterresistances.datc64,Folders/data.datc64,6665818,12356
-data/monstersegments.datc64,Folders/data.datc64,6678174,21888
-data/monstershapeshift.datc64,Folders/data.datc64,6700062,43084
+data/monsterresistances.datc64,Folders/1E/data.datc64,5370,12356
+data/monstersegments.datc64,Tiny.V3.1,4185562,21888
+data/monstershapeshift.datc64,Tiny.V3.1,4517204,43084
 data/monsterspawnergroups.datc64,Tiny.VC,34242119,2524
 data/monsterspawnergroupsperlevel.datc64,Tiny.VD,34035415,2412
 data/monsterspawneroverrides.datc64,Tiny.V8,33889297,12
@@ -1204,21 +1204,21 @@ data/monstervarietiesartvariations.datc64,Tiny.VA,34263155,2432
 data/mousecursorsizesettings.datc64,Tiny.V9,34689527,116
 data/movedaemon.datc64,Folders/0A/data.datc64,383525,6516
 data/mtxsetbonus.datc64,Tiny.V0,34820721,1106
-data/mtxtypegamespecific.datc64,Folders/metadata,1481383,901446
-data/mtxtypes.datc64,Folders/data.datc64,6743146,3248426
+data/mtxtypegamespecific.datc64,Folders/metadata,1481385,901446
+data/mtxtypes.datc64,Folders/40/data.datc64,12356,3248426
 data/multipartachievementareas.datc64,Tiny.V5,33922301,696
-data/multipartachievementconditions.datc64,Folders/data.datc64,9991572,17690
+data/multipartachievementconditions.datc64,Tiny.V3.1,5419265,17690
 data/multipartachievements.datc64,Folders/22/data.datc64,636735,24612
-data/music.datc64,Folders/data.datc64,10009262,113476
+data/music.datc64,Folders/1E/data.datc64,2214747,113476
 data/musiccategories.datc64,Tiny.V7,34350628,843
-data/mysteryboxes.datc64,Folders/data.datc64,10122738,15342
+data/mysteryboxes.datc64,Folders/1E/data.datc64,453385,15342
 data/nearbymonsterconditions.datc64,Tiny.VC,34244643,1634
 data/nettiers.datc64,Tiny.V8,33924809,212
 data/notifications.datc64,Folders/0A/data.datc64,21793,5334
-data/npcaudio.datc64,Folders/data.datc64,10138080,421928
-data/npcconversations.datc64,Folders/data.datc64,10560008,54278
+data/npcaudio.datc64,Folders/1E/data.datc64,1792819,421928
+data/npcconversations.datc64,Tiny.V3.1,4207450,54278
 data/npcdialoguecutscene.datc64,Tiny.VA,34265587,1786
-data/npcdialoguecutscenesequences.datc64,Folders/data.datc64,10614286,13214
+data/npcdialoguecutscenesequences.datc64,Tiny.V3.1,4018018,13214
 data/npcdialoguestyles.datc64,Folders/22/data.datc64,0,11255
 data/npcfollowervariations.datc64,Tiny.VB,34208825,1364
 data/npcmaster.datc64,Tiny.V4,35001450,2506
@@ -1228,7 +1228,7 @@ data/npcs.datc64,Folders/0A/data.datc64,2738282,167275
 data/npcshop.datc64,Folders/0A/data.datc64,2301896,9382
 data/npcshopgamblervisualidentity.datc64,Folders/shaders,1178970,5164
 data/npcshops.datc64,Folders/0A/data.datc64,452085,4420
-data/npctalk.datc64,Folders/23/data.datc64,4318927,356124
+data/npctalk.datc64,Folders/1E/data.datc64,43865,356124
 data/npctalkcategory.datc64,Tiny.VF,34292803,1193
 data/npctalkconsolequickactions.datc64,Tiny.VB,34210189,1198
 data/npctalkmobilegroup.datc64,Tiny.V0,34821827,2616
@@ -1240,7 +1240,7 @@ data/ongoingbuffvariations.datc64,Tiny.VF,34293996,514
 data/ongoingtriggervariations.datc64,Tiny.V7,34351471,1340
 data/onkillachievements.datc64,Tiny.V8,33889297,12
 data/packformation.datc64,Tiny.V9,34689643,2642
-data/pantheonpanellayout.datc64,Folders/data.datc64,10627500,7680
+data/pantheonpanellayout.datc64,Folders/1E/data.datc64,445705,7680
 data/pantheonsouls.datc64,Tiny.V8,33889297,12
 data/passivejewelart.datc64,Tiny.V2,33877200,1802
 data/passivejeweldistancelist.pjd,Folders/data,0,51508
@@ -1249,9 +1249,9 @@ data/passivejewelradii.datc64,Tiny.V6,34218199,330
 data/passivejewelslots.datc64,Tiny.VC,34247357,1836
 data/passivejeweluniqueart.datc64,Tiny.V9,34692285,1516
 data/passiveoverridelimits.datc64,Tiny.V2,33879002,628
-data/passiveskillfilteroptions.datc64,Folders/data.datc64,10635180,4256
+data/passiveskillfilteroptions.datc64,Tiny.V3.1,3937569,4256
 data/passiveskillmasteryeffects.datc64,Folders/metadata/05/statdescriptions,3551364,30572
-data/passiveskillmasterygroups.datc64,Folders/data.datc64,10639436,44428
+data/passiveskillmasterygroups.datc64,Tiny.V3.1,5316731,44428
 data/passiveskilloverrides.datc64,Tiny.V8,33889297,12
 data/passiveskilloverridetypes.datc64,Tiny.VC,34249193,55
 data/passiveskills.datc64,Folders/BC/data.datc64,1143295,2531739
@@ -1264,20 +1264,20 @@ data/passivetreeexpansionjewelsizes.datc64,Tiny.V1,33750616,80
 data/passivetreeexpansionskills.datc64,Tiny.V8,33889297,12
 data/passivetreeexpansionspecialskills.datc64,Tiny.V8,33889297,12
 data/pcbangrewardmicros.datc64,Tiny.VE,34211397,112
-data/pet.datc64,Folders/data.datc64,10683864,85082
-data/playerconditions.datc64,Folders/data.datc64,10768946,9441
+data/pet.datc64,Folders/1E/data.datc64,3205924,85082
+data/playerconditions.datc64,Folders/1E/data.datc64,2460414,9441
 data/playertradewhisperformats.datc64,Tiny.V9,34693801,1004
 data/portalaudio.datc64,Tiny.VC,34249248,844
 data/portalaudioevents.datc64,Tiny.VC,34250092,490
 data/preloadfromstats.datc64,Tiny.V5,33926931,2000
 data/preloadgroups.datc64,Tiny.V8,33931257,1926
 data/primordialbosslifescalingperlevel.datc64,Tiny.VA,34271431,44
-data/projectileoverrides.datc64,Folders/data.datc64,10778387,4604
+data/projectileoverrides.datc64,Folders/1E/data.datc64,486897,4604
 data/projectiles.datc64,Folders/07/data.datc64,2255916,1127587
 data/projectilesartvariations.datc64,Folders/0A/data.datc64,1902771,30204
 data/pvptypes.datc64,Tiny.V5,33928931,180
 data/quest.datc64,Folders/19/data.datc64,1918736,12627
-data/questachievements.datc64,Folders/data.datc64,10782991,13005
+data/questachievements.datc64,Tiny.V3.1,4884278,13005
 data/questflags.datc64,Folders/19/data.datc64,1192905,296882
 data/questitemnpcaudio.datc64,Tiny.V4,35011192,92
 data/questitems.datc64,Folders/0A/data.datc64,511085,22974
@@ -1290,7 +1290,7 @@ data/questtrackergroup.datc64,Tiny.VA,34271475,174
 data/questtype.datc64,Tiny.V4,35011284,382
 data/racerewardtomicro.datc64,Tiny.V8,33889297,12
 data/races.datc64,Tiny.V6,34218529,2782
-data/racetimes.datc64,Folders/data.datc64,10795996,20788
+data/racetimes.datc64,Tiny.V3.1,4041716,20788
 data/rarity.datc64,Tiny.V8,33933183,326
 data/realms.datc64,Folders/19/data.datc64,0,8260
 data/recipeunlockdisplay.datc64,Folders/22/data.datc64,308875,8650
@@ -1300,7 +1300,7 @@ data/relicitemeffectvariations.datc64,Tiny.VE,34215121,878
 data/remindertext.datc64,Tiny.VC,34258244,236
 data/reservationskillsaudio.datc64,Tiny.V2,33887291,304
 data/resistancepenaltyperarealevel.datc64,Tiny.V9,34706177,812
-data/ritualbalanceperlevel.datc64,Folders/data.datc64,10816784,4660
+data/ritualbalanceperlevel.datc64,Folders/1E/data.datc64,3201264,4660
 data/ritualconstants.datc64,Tiny.V2,33887595,826
 data/ritualrunetypes.datc64,Folders/0A/data.datc64,467911,4983
 data/ritualsetkillachievements.datc64,Tiny.VE,34215999,172
@@ -1309,7 +1309,7 @@ data/rogueexilelifescalingperlevel.datc64,Tiny.V6,34199666,812
 data/rogueexiles.datc64,Tiny.V8,33889297,12
 data/rulesets.datc64,Folders/19/data.datc64,2097705,5176
 data/runiccircles.datc64,Tiny.V5,33929111,56
-data/safehousebyocrafting.datc64,Folders/data.datc64,10821444,14760
+data/safehousebyocrafting.datc64,Tiny.V3.1,3506843,14760
 data/safehousecraftingspreecurrencies.datc64,Tiny.VC,34263922,581
 data/safehousecraftingspreetype.datc64,Folders/0A/data.datc64,404577,4336
 data/salvageboxes.datc64,Tiny.V5,33936186,94
@@ -1320,10 +1320,10 @@ data/sanctumfloors.datc64,Tiny.VF,34307903,1544
 data/sanctumfodderlifescalingperlevel.datc64,Tiny.VD,34051703,740
 data/sanctumlifescalingperlevel.datc64,Tiny.V9,34646380,452
 data/sanctumpersistenteffectcategories.datc64,Tiny.V8,33938898,2176
-data/sanctumpersistenteffects.datc64,Folders/data.datc64,10836204,73392
+data/sanctumpersistenteffects.datc64,Folders/1E/data.datc64,2469855,73392
 data/sanctumrewardobjects.datc64,Tiny.VD,34052443,376
-data/sanctumrooms.datc64,Folders/23/data.datc64,4235292,57496
-data/sanctumroomtypes.datc64,Folders/data.datc64,10909596,8104
+data/sanctumrooms.datc64,Folders/23/data.datc64,3281361,57496
+data/sanctumroomtypes.datc64,Tiny.V3.1,5396001,8104
 data/sanctumselectiondisplayoverride.datc64,Folders/0A/data.datc64,417365,5204
 data/scarabs.datc64,Tiny.V3,33895765,1548
 data/scoutingreports.datc64,Tiny.VE,34222745,516
@@ -1331,7 +1331,7 @@ data/sentinelcraftingcurrency.datc64,Tiny.V9,34709554,152
 data/sentineldroneinventorylayout.datc64,Tiny.V8,33889297,12
 data/sentinelpassives.datc64,Folders/22/data.datc64,371798,8092
 data/sentinelpassivestats.datc64,Tiny.V5,33936280,1668
-data/sentinelpassivetypes.datc64,Folders/data.datc64,10917700,5456
+data/sentinelpassivetypes.datc64,Folders/1E/data.datc64,761827,5456
 data/sentinelpowerexplevels.datc64,Tiny.VC,34264503,252
 data/sentinelstoragelayout.datc64,Tiny.V5,33937948,1425
 data/sentineltaggedmonsterstats.datc64,Tiny.VA,34279832,3244
@@ -1341,7 +1341,7 @@ data/shapeshiftformclones.datc64,Tiny.V0,34836910,570
 data/shapeshiftforms.datc64,Tiny.V8,33941074,1642
 data/shapeshifttransformdata.datc64,Folders/07/data.datc64,0,16262
 data/shieldtypes.datc64,Tiny.V7,34370281,2052
-data/shoptag.datc64,Folders/data.datc64,10923156,81096
+data/shoptag.datc64,Folders/3C/data.datc64,1761685,81096
 data/shrines.datc64,Folders/17/data.datc64,2323790,16438
 data/shrinesounds.datc64,Tiny.VD,34052819,2976
 data/shrinevisualartvariations.datc64,Tiny.V0,34837480,228
@@ -1350,11 +1350,11 @@ data/singlegroundlaser.datc64,Tiny.V4,35014568,2268
 data/skillartvariations.datc64,Folders/19/data.datc64,2102881,182444
 data/skillcraftingdata.datc64,Folders/0A/data.datc64,399145,5432
 data/skillevents.datc64,Tiny.V5,33939373,998
-data/skillgeminfo.datc64,Folders/23/data.datc64,4689007,156450
+data/skillgeminfo.datc64,Folders/21/data.datc64,5317717,156450
 data/skillgemlevelupeffects.datc64,Tiny.VB,34226371,230
-data/skillgems.datc64,Folders/data.datc64,11004252,171813
+data/skillgems.datc64,Folders/1E/data.datc64,2659581,171813
 data/skillgemsforuniquestat.datc64,Folders/08/data.datc64,12316,6487
-data/skillgemsupports.datc64,Folders/data.datc64,11176065,37356
+data/skillgemsupports.datc64,Tiny.V3.1,4588893,37356
 data/skillminevariations.datc64,Tiny.VD,34055795,444
 data/skillmorphdisplay.datc64,Tiny.V0,34837708,2612
 data/skillsurgeeffects.datc64,Tiny.V0,34840320,718
@@ -1366,7 +1366,7 @@ data/socketnotches.datc64,Tiny.V7,34374547,1130
 data/soulcores.datc64,Tiny.V4,35016836,2948
 data/soundeffects.datc64,Folders/0A/data.datc64,1112989,264942
 data/spawnadditionalchestsorclusters.datc64,Tiny.V4,35027090,732
-data/spawnobject.datc64,Folders/data.datc64,11213421,12446
+data/spawnobject.datc64,Tiny.V3.1,3772750,12446
 data/specialrooms.datc64,Tiny.V4,35027822,154
 data/specialtiles.datc64,Tiny.VD,34070121,400
 data/spectreoverrides.datc64,Tiny.V7,34378492,732
@@ -1386,12 +1386,12 @@ data/suicideexplosion.datc64,Tiny.V0,34851776,2442
 data/summonedspecificbarrels.datc64,Tiny.VC,34277192,602
 data/summonedspecificmonsters.datc64,Folders/0A/data.datc64,1377931,12226
 data/summonedspecificmonstersondeath.datc64,Tiny.V8,33889297,12
-data/supportgems.datc64,Folders/23/data.datc64,2992572,27064
+data/supportgems.datc64,Folders/08/data.datc64,3815657,27064
 data/surgeeffectpackartvariations.datc64,Tiny.V0,34854218,209
-data/surgeeffects.datc64,Folders/data.datc64,11225867,19274
-data/surgetypes.datc64,Folders/data.datc64,11245141,12234
-data/tablecharge.datc64,Folders/data.datc64,11257375,6966
-data/tablemonsterspawners.datc64,Folders/data.datc64,11264341,79680
+data/surgeeffects.datc64,Folders/1E/data.datc64,528863,19274
+data/surgetypes.datc64,Tiny.V3.1,3790255,12234
+data/tablecharge.datc64,Tiny.V3.1,3986165,6966
+data/tablemonsterspawners.datc64,Tiny.V3.1,4062504,79680
 data/tags.datc64,Folders/data,2902468,87774
 data/talismanmonstermods.datc64,Tiny.V0,34854427,44
 data/talismanpacks.datc64,Tiny.V8,33889297,12
@@ -1403,9 +1403,9 @@ data/tencentautolootpetcurrencies.datc64,Tiny.V5,33947932,1577
 data/tencentautolootpetcurrenciesexcludable.datc64,Tiny.V6,34229664,156
 data/terrainplugins.datc64,Tiny.V7,34379224,754
 data/threetoonerecipes.datc64,Folders/0A/data.datc64,2723770,5500
-data/tieredmicrotransactions.datc64,Folders/data.datc64,11344021,13894
+data/tieredmicrotransactions.datc64,Tiny.V3.1,4401376,13894
 data/tieredmicrotransactionsvisuals.datc64,Tiny.V8,33889297,12
-data/tips.datc64,Folders/data.datc64,11357915,15160
+data/tips.datc64,Tiny.V3.1,5404105,15160
 data/topologies.datc64,Folders/0A/data.datc64,628471,226760
 data/tormentspirits.datc64,Tiny.V8,33889297,12
 data/totemdefendervarieties.datc64,Tiny.VB,34236891,92
@@ -1417,24 +1417,24 @@ data/trademarketimplicitmoddisplay.datc64,Tiny.V8,33889297,12
 data/trademarketindexitemas.datc64,Tiny.VE,34225913,492
 data/traptools.datc64,Tiny.V7,34386372,324
 data/treasurehuntermissions.datc64,Tiny.VE,34235451,1661
-data/triggerbeam.datc64,Folders/data.datc64,11373075,7108
+data/triggerbeam.datc64,Folders/21/data.datc64,7826,7108
 data/triggeredaudioeventvolumeoverrides.datc64,Tiny.V7,34386696,2492
 data/triggerspawners.datc64,Tiny.V8,33889297,12
 data/trythenewleagueversions.datc64,Tiny.V9,34724433,962
-data/tutorial.datc64,Folders/data.datc64,11380183,18060
-data/uitalktext.datc64,Folders/data.datc64,11398243,38950
+data/tutorial.datc64,Tiny.V3.1,3802489,18060
+data/uitalktext.datc64,Tiny.V3.1,3728702,38950
 data/ultimatumencountertypes.datc64,Tiny.VA,34309951,710
 data/ultimatumencountertypesserver.datc64,Tiny.VA,34310661,632
-data/ultimatummodifiers.datc64,Folders/data.datc64,11437193,30056
+data/ultimatummodifiers.datc64,Tiny.V3.1,5054599,30056
 data/ultimatummodifiertypes.datc64,Tiny.V3,33918800,329
 data/ultimatummonsterpackfamily.datc64,Tiny.VD,34088244,266
 data/ultimatumrooms.datc64,Tiny.V3,33919129,1897
 data/ultimatumtriallength.datc64,Tiny.VF,34335110,36
 data/ultimatumtrialmasteraudio.datc64,Tiny.VC,34283111,1496
 data/ultimatumwagertypes.datc64,Tiny.VC,34284607,2394
-data/uncutgemadditionaltiers.datc64,Folders/08/data.datc64,3223837,4268
+data/uncutgemadditionaltiers.datc64,Folders/08/data.datc64,444473,4268
 data/uncutgemtiers.datc64,Tiny.V5,33965916,972
-data/uniquechests.datc64,Folders/data.datc64,11467249,13047
+data/uniquechests.datc64,Tiny.V3.1,5175863,13047
 data/uniquejewellimits.datc64,Tiny.VA,34311293,152
 data/uniquemaps.datc64,Tiny.V8,33889297,12
 data/uniquestashlayout.datc64,Folders/0A/data.datc64,481502,22256
@@ -1450,10 +1450,10 @@ data/weaponclasses.datc64,Tiny.V9,34725395,516
 data/weaponimpactsounddata.datc64,Tiny.VE,34238796,496
 data/weaponsoundtypes.datc64,Tiny.VE,34239292,1834
 data/weapontypes.datc64,Folders/22/data.datc64,379890,13172
-data/wieldableclasses.datc64,Folders/data.datc64,11480296,9756
+data/wieldableclasses.datc64,Tiny.V3.1,4261728,9756
 data/windowcursors.datc64,Tiny.V3,33921026,4052
-data/words.datc64,Folders/08/data.datc64,3228105,391700
-data/worldarealeaguechances.datc64,Folders/data.datc64,11490052,6312
+data/words.datc64,Folders/08/data.datc64,448741,391700
+data/worldarealeaguechances.datc64,Tiny.V3.1,4833922,6312
 data/worldareas.datc64,Folders/0A/data.datc64,27127,344682
 data/worldmaplegends.datc64,Folders/19/data.datc64,2510897,14012
 data/worldpopupicontypes.datc64,Tiny.VB,34249138,852
@@ -1572,10 +1572,10 @@ data/french/mobilecharactercreation.datc64,Tiny.V4,34998508,1056
 data/french/mobileskillgemlayout.datc64,Tiny.VE,34206570,1598
 data/french/mobileskillgemlayoutpages.datc64,Tiny.V5,33919983,596
 data/french/mobiletutorial.datc64,Folders/data/07/traditional chinese.datc64,2182569,12356
-data/french/mods.datc64,Folders/data/3A/french.datc64,,
+data/french/mods.datc64,Folders/data/french.datc64,1719484,9720631
 data/french/monstervarieties.datc64,Folders/data/51/russian.datc64,467462,2854626
 data/french/mousecursorsizesettings.datc64,Tiny.V7,34320634,166
-data/french/mtxtypes.datc64,Folders/data/french.datc64,1719484,3299300
+data/french/mtxtypes.datc64,Folders/data/french.datc64,11440115,3299300
 data/french/music.datc64,Folders/data/65/traditional chinese.datc64,258516,114536
 data/french/musiccategories.datc64,Tiny.V6,34189022,935
 data/french/notifications.datc64,Folders/data/D7/traditional chinese.datc64,191017,6536
@@ -1592,12 +1592,12 @@ data/french/passiveskillstatcategories.datc64,Tiny.VC,34213107,1226
 data/french/passiveskilltreetutorial.datc64,Tiny.V8,33889297,12
 data/french/playertradewhisperformats.datc64,Tiny.VF,34270153,1256
 data/french/quest.datc64,Folders/data/27/thai.datc64,241146,12813
-data/french/questrewardtype.datc64,Folders/data/french.datc64,5018784,6906
+data/french/questrewardtype.datc64,Folders/data/french.datc64.1,0,6906
 data/french/queststates.datc64,Folders/data/25/thai.datc64,2840387,198888
 data/french/questtrackergroup.datc64,Tiny.VC,34214333,188
 data/french/races.datc64,Tiny.V9,34719529,2820
 data/french/realms.datc64,Folders/data/51/russian.datc64,3322088,8352
-data/french/recipeunlockdisplay.datc64,Folders/data/french.datc64,5025690,9062
+data/french/recipeunlockdisplay.datc64,Folders/data/french.datc64.1,6906,9062
 data/french/relicinventorylayout.datc64,Tiny.V7,34320800,610
 data/french/relicitemeffectvariations.datc64,Tiny.V1,33721904,914
 data/french/remindertext.datc64,Tiny.V0,34800185,496
@@ -1622,11 +1622,11 @@ data/french/stashtype.datc64,Tiny.VA,34227267,2716
 data/french/stats.datc64,Folders/data/87/french.datc64,,
 data/french/tags.datc64,Folders/data/AC/thai.datc64,1488351,87894
 data/french/tieredmicrotransactionsvisuals.datc64,Tiny.V8,33889297,12
-data/french/tips.datc64,Folders/data/french.datc64,5034752,19324
+data/french/tips.datc64,Folders/data/french.datc64.1,15968,19324
 data/french/trademarketcategory.datc64,Folders/data/5E/traditional chinese.datc64,241182,6178
 data/french/trademarketcategorygroups.datc64,Tiny.V7,34321410,554
 data/french/trademarketimplicitmoddisplay.datc64,Tiny.V8,33889297,12
-data/french/uitalktext.datc64,Folders/data/french.datc64,5054076,44340
+data/french/uitalktext.datc64,Folders/data/french.datc64.1,35292,44340
 data/french/ultimatumencountertypes.datc64,Tiny.V2,33854697,762
 data/french/ultimatummodifiers.datc64,Folders/data/AC/thai.datc64,1576245,33722
 data/french/ultimatumwagertypes.datc64,Tiny.VF,34271409,2474
@@ -1752,10 +1752,10 @@ data/german/mobilecharactercreation.datc64,Tiny.V4,34998508,1056
 data/german/mobileskillgemlayout.datc64,Tiny.VE,34206570,1598
 data/german/mobileskillgemlayoutpages.datc64,Tiny.V5,33919983,596
 data/german/mobiletutorial.datc64,Folders/data/AC/thai.datc64,999030,12356
-data/german/mods.datc64,Folders/data/C1/german.datc64,,
+data/german/mods.datc64,Folders/data/german.datc64,2732381,9811585
 data/german/monstervarieties.datc64,Folders/data/5A/traditional chinese.datc64,56834,2855084
 data/german/mousecursorsizesettings.datc64,Tiny.V6,34194998,158
-data/german/mtxtypes.datc64,Folders/data/german.datc64,2732381,3423904
+data/german/mtxtypes.datc64,Folders/data/german.datc64.1,0,3423904
 data/german/music.datc64,Folders/data/4F/thai.datc64,1237093,114344
 data/german/musiccategories.datc64,Tiny.V9,34661464,937
 data/german/notifications.datc64,Folders/data/3D/traditional chinese.datc64,1504867,6114
@@ -1777,7 +1777,7 @@ data/german/queststates.datc64,Folders/data/25/thai.datc64,9640,207566
 data/german/questtrackergroup.datc64,Tiny.V9,34662401,200
 data/german/races.datc64,Tiny.V4,34975598,2832
 data/german/realms.datc64,Folders/data/5A/traditional chinese.datc64,23554,8296
-data/german/recipeunlockdisplay.datc64,Folders/data/german.datc64,6156285,9098
+data/german/recipeunlockdisplay.datc64,Folders/data/german.datc64.1,3423904,9098
 data/german/relicinventorylayout.datc64,Tiny.VE,34173655,686
 data/german/relicitemeffectvariations.datc64,Tiny.VE,34174341,932
 data/german/remindertext.datc64,Tiny.VF,34277511,528
@@ -1803,10 +1803,10 @@ data/german/stats.datc64,Folders/data/0D/german.datc64,,
 data/german/tags.datc64,Folders/data/AC/thai.datc64,768641,87910
 data/german/tieredmicrotransactionsvisuals.datc64,Tiny.V8,33889297,12
 data/german/tips.datc64,Folders/data/48/traditional chinese.datc64,704298,19008
-data/german/trademarketcategory.datc64,Folders/data/german.datc64,6165383,6232
+data/german/trademarketcategory.datc64,Folders/data/german.datc64.1,3433002,6232
 data/german/trademarketcategorygroups.datc64,Tiny.VC,34218581,516
 data/german/trademarketimplicitmoddisplay.datc64,Tiny.V8,33889297,12
-data/german/uitalktext.datc64,Folders/data/german.datc64,6171615,44378
+data/german/uitalktext.datc64,Folders/data/german.datc64.1,3439234,44378
 data/german/ultimatumencountertypes.datc64,Tiny.VA,34244043,748
 data/german/ultimatummodifiers.datc64,Folders/data/53/traditional chinese.datc64,418603,32312
 data/german/ultimatumwagertypes.datc64,Tiny.V7,34331102,2500
@@ -1932,10 +1932,10 @@ data/japanese/mobilecharactercreation.datc64,Tiny.V4,34998508,1056
 data/japanese/mobileskillgemlayout.datc64,Tiny.VE,34206570,1598
 data/japanese/mobileskillgemlayoutpages.datc64,Tiny.V5,33919983,596
 data/japanese/mobiletutorial.datc64,Folders/data/70/traditional chinese.datc64,2253952,12356
-data/japanese/mods.datc64,Folders/data/4E/japanese.datc64,,
+data/japanese/mods.datc64,Folders/data/japanese.datc64,3311254,9593317
 data/japanese/monstervarieties.datc64,Folders/data/D9/spanish.datc64,9270,2841394
 data/japanese/mousecursorsizesettings.datc64,Tiny.V9,34724299,134
-data/japanese/mtxtypes.datc64,Folders/data/japanese.datc64,3311254,2777870
+data/japanese/mtxtypes.datc64,Folders/data/japanese.datc64.1,0,2777870
 data/japanese/music.datc64,Folders/data/4F/thai.datc64,763744,110168
 data/japanese/musiccategories.datc64,Tiny.V4,34986407,785
 data/japanese/notifications.datc64,Folders/data/BA/traditional chinese.datc64,512417,4428
@@ -1943,7 +1943,7 @@ data/japanese/npcmaster.datc64,Tiny.VD,34025051,2196
 data/japanese/npcs.datc64,Folders/data/D7/traditional chinese.datc64,6728,162231
 data/japanese/npctalk.datc64,Folders/data/25/thai.datc64,2491261,349126
 data/japanese/npctextaudio.datc64,Folders/data/83/japanese.datc64,,
-data/japanese/pantheonpanellayout.datc64,Folders/data/japanese.datc64,6089124,6972
+data/japanese/pantheonpanellayout.datc64,Folders/data/japanese.datc64.1,2777870,6972
 data/japanese/pantheonsouls.datc64,Tiny.V8,33889297,12
 data/japanese/passiveoverridelimits.datc64,Tiny.V1,33731309,472
 data/japanese/passiveskilloverrides.datc64,Tiny.V8,33889297,12
@@ -1975,7 +1975,7 @@ data/japanese/shoptag.datc64,Folders/data/A3/traditional chinese.datc64,35064,75
 data/japanese/shrines.datc64,Folders/data/79/traditional chinese.datc64,2734510,16438
 data/japanese/skillcraftingdata.datc64,Folders/data/DA/traditional chinese.datc64,2240815,5354
 data/japanese/skillgeminfo.datc64,Folders/data/0D/traditional chinese.datc64,2853798,117752
-data/japanese/skillgems.datc64,Folders/data/japanese.datc64,6096096,171813
+data/japanese/skillgems.datc64,Folders/data/japanese.datc64.1,2784842,171813
 data/japanese/socketnotches.datc64,Tiny.VA,34254359,1116
 data/japanese/stashtabaffinities.datc64,Tiny.V6,34204830,736
 data/japanese/stashtype.datc64,Tiny.V9,34675919,2138
@@ -2112,16 +2112,16 @@ data/korean/mobilecharactercreation.datc64,Tiny.V4,34998508,1056
 data/korean/mobileskillgemlayout.datc64,Tiny.V9,34681251,1476
 data/korean/mobileskillgemlayoutpages.datc64,Tiny.VF,34286802,550
 data/korean/mobiletutorial.datc64,Folders/data/3E/traditional chinese.datc64,363645,10088
-data/korean/mods.datc64,Folders/data/74/korean.datc64,,
+data/korean/mods.datc64,Folders/data/korean.datc64,3601105,9594769
 data/korean/monstervarieties.datc64,Folders/data/C7/thai.datc64,21688,2839990
 data/korean/mousecursorsizesettings.datc64,Tiny.V3,33878007,138
-data/korean/mtxtypes.datc64,Folders/data/korean.datc64,3601105,2755796
+data/korean/mtxtypes.datc64,Folders/data/korean.datc64,13195874,2755796
 data/korean/music.datc64,Folders/data/AC/thai.datc64,1768243,110052
 data/korean/musiccategories.datc64,Tiny.VC,34231219,759
 data/korean/notifications.datc64,Tiny.VA,34258791,4032
 data/korean/npcmaster.datc64,Tiny.V6,34211231,2184
-data/korean/npcs.datc64,Folders/data/korean.datc64,6356901,162637
-data/korean/npctalk.datc64,Folders/data/korean.datc64,6519538,349254
+data/korean/npcs.datc64,Folders/data/thai.datc64.1,209371,162637
+data/korean/npctalk.datc64,Folders/data/thai.datc64.1,372008,349254
 data/korean/npctextaudio.datc64,Folders/data/3B/korean.datc64,,
 data/korean/pantheonpanellayout.datc64,Folders/data/77/thai.datc64,1705036,6992
 data/korean/pantheonsouls.datc64,Tiny.V8,33889297,12
@@ -2132,16 +2132,16 @@ data/korean/passiveskillstatcategories.datc64,Tiny.V1,33743086,1028
 data/korean/passiveskilltreetutorial.datc64,Tiny.V8,33889297,12
 data/korean/playertradewhisperformats.datc64,Tiny.VE,34196799,888
 data/korean/quest.datc64,Folders/data/A2/traditional chinese.datc64,481656,11919
-data/korean/questrewardtype.datc64,Folders/data/korean.datc64,6868792,4756
+data/korean/questrewardtype.datc64,Folders/data/thai.datc64.1,721262,4756
 data/korean/queststates.datc64,Folders/data/A2/traditional chinese.datc64,3176113,144128
 data/korean/questtrackergroup.datc64,Tiny.V7,34346394,142
 data/korean/races.datc64,Tiny.V2,33871798,2782
 data/korean/realms.datc64,Folders/data/5E/traditional chinese.datc64,409470,8118
-data/korean/recipeunlockdisplay.datc64,Folders/data/korean.datc64,6873548,7638
+data/korean/recipeunlockdisplay.datc64,Folders/data/thai.datc64.1,726018,7638
 data/korean/relicinventorylayout.datc64,Tiny.V7,34346536,482
 data/korean/relicitemeffectvariations.datc64,Tiny.V5,33907821,852
 data/korean/remindertext.datc64,Tiny.V2,33874580,352
-data/korean/ritualrunetypes.datc64,Folders/data/korean.datc64,6881186,4421
+data/korean/ritualrunetypes.datc64,Folders/data/thai.datc64.1,733656,4421
 data/korean/safehousebyocrafting.datc64,Folders/data/39/traditional chinese.datc64,2539861,11090
 data/korean/safehousecraftingspreetype.datc64,Folders/data/48/traditional chinese.datc64,1085452,4138
 data/korean/sanctumdefenceicons.datc64,Tiny.V0,34816641,1150
@@ -2160,7 +2160,7 @@ data/korean/socketnotches.datc64,Tiny.V8,33919053,1106
 data/korean/stashtabaffinities.datc64,Tiny.V8,33920159,698
 data/korean/stashtype.datc64,Tiny.V1,33744114,2068
 data/korean/stats.datc64,Folders/data/78/korean.datc64,8092,4235558
-data/korean/tags.datc64,Folders/data/korean.datc64,6885607,87658
+data/korean/tags.datc64,Folders/data/thai.datc64.1,738077,87658
 data/korean/tieredmicrotransactionsvisuals.datc64,Tiny.V8,33889297,12
 data/korean/tips.datc64,Folders/data/79/traditional chinese.datc64,2722830,11680
 data/korean/trademarketcategory.datc64,Folders/data/3E/traditional chinese.datc64,431615,5350
@@ -2168,7 +2168,7 @@ data/korean/trademarketcategorygroups.datc64,Tiny.V6,34213415,422
 data/korean/trademarketimplicitmoddisplay.datc64,Tiny.V8,33889297,12
 data/korean/uitalktext.datc64,Folders/data/27/thai.datc64,366907,28646
 data/korean/ultimatumencountertypes.datc64,Tiny.VF,34287352,594
-data/korean/ultimatummodifiers.datc64,Folders/data/korean.datc64,6973265,24886
+data/korean/ultimatummodifiers.datc64,Folders/data/thai.datc64.1,825735,24886
 data/korean/ultimatumwagertypes.datc64,Tiny.V4,34992576,2352
 data/korean/uniquemaps.datc64,Tiny.V8,33889297,12
 data/korean/uniquestashtypes.datc64,Folders/data/5E/traditional chinese.datc64,329520,7501
@@ -2180,8 +2180,8 @@ data/korean/worldmaplegends.datc64,Folders/data/AC/thai.datc64,554785,12996
 data/korean/worldpopupicontypes.datc64,Tiny.VD,34034609,806
 data/portuguese/achievementitemrewards.datc64,Tiny.V8,33925021,344
 data/portuguese/achievementitems.datc64,Folders/data/FA/thai.datc64,1208420,1319424
-data/portuguese/achievements.datc64,Folders/data/portuguese.datc64,0,362514
-data/portuguese/achievementsetrewards.datc64,Folders/data/portuguese.datc64,362514,40526
+data/portuguese/achievements.datc64,Folders/data/thai.datc64.1,850621,362514
+data/portuguese/achievementsetrewards.datc64,Folders/data/thai.datc64.1,1764050,40526
 data/portuguese/achievementsetsdisplay.datc64,Tiny.V9,34694805,720
 data/portuguese/activeskills.datc64,Folders/data/56/thai.datc64,103780,991994
 data/portuguese/acts.datc64,Tiny.V7,34353635,1893
@@ -2200,8 +2200,8 @@ data/portuguese/atlasprimordialaltarchoicetypes.datc64,Tiny.V9,34695525,1966
 data/portuguese/atlasprimordialbossoptions.datc64,Tiny.V4,35003956,2750
 data/portuguese/atlasupgradesinventorylayout.datc64,Tiny.V7,34355528,558
 data/portuguese/awarddisplay.datc64,Folders/data/AC/thai.datc64,1740171,11788
-data/portuguese/backenderrors.datc64,Folders/data/portuguese.datc64,403040,121544
-data/portuguese/baseitemtypes.datc64,Folders/data/portuguese.datc64,524584,1524880
+data/portuguese/backenderrors.datc64,Folders/data/thai.datc64.1,1386005,121544
+data/portuguese/baseitemtypes.datc64,Folders/data/french.datc64.1,79632,1524880
 data/portuguese/battlepasses.datc64,Tiny.V0,34825207,1701
 data/portuguese/battlepassrewards.datc64,Folders/data/3E/traditional chinese.datc64,463137,15958
 data/portuguese/battlepasstracks.datc64,Tiny.V7,34356086,166
@@ -2221,7 +2221,7 @@ data/portuguese/bindablevirtualkeys.datc64,Tiny.V8,33925365,3468
 data/portuguese/blightcraftingitems.datc64,Tiny.V8,33928833,828
 data/portuguese/blighttowers.datc64,Folders/data/39/traditional chinese.datc64,2570327,19729
 data/portuguese/buffdefinitions.datc64,Folders/data/95/traditional chinese.datc64,815433,1376014
-data/portuguese/buffvisuals.datc64,Folders/data/portuguese.datc64,2049464,1033342
+data/portuguese/buffvisuals.datc64,Folders/data/96/portuguese.datc64,0,1033342
 data/portuguese/charactercreationicons.datc64,Folders/data/3E/traditional chinese.datc64,2988263,9394
 data/portuguese/characterpaneldescriptionmodes.datc64,Tiny.VA,34267917,1314
 data/portuguese/characterpanelstats.datc64,Folders/data/7C/traditional chinese.datc64,2339880,180856
@@ -2257,7 +2257,7 @@ data/portuguese/gamepadbutton.datc64,Tiny.VD,34037827,2468
 data/portuguese/gamepadbuttonbindaction.datc64,Folders/data/25/thai.datc64,217206,6458
 data/portuguese/gemeffects.datc64,Folders/data/77/thai.datc64,2306751,200016
 data/portuguese/gemtags.datc64,Folders/data/A3/traditional chinese.datc64,110268,6830
-data/portuguese/genericleaguerewardtypevisuals.datc64,Folders/data/portuguese.datc64,3082806,5562
+data/portuguese/genericleaguerewardtypevisuals.datc64,Folders/data/french.datc64.1,2167556,5562
 data/portuguese/grantedeffectlabels.datc64,Folders/data/AC/thai.datc64,1898440,6144
 data/portuguese/harvestcraftfilters.datc64,Tiny.VC,34252770,506
 data/portuguese/harvestcraftoptions.datc64,Folders/data/AC/thai.datc64,1412393,56586
@@ -2273,9 +2273,9 @@ data/portuguese/hideouts.datc64,Folders/data/25/thai.datc64,223664,20145
 data/portuguese/incubators.datc64,Folders/data/3E/traditional chinese.datc64,317620,4584
 data/portuguese/incursionrooms.datc64,Tiny.V8,33889297,12
 data/portuguese/indexablesupportgems.datc64,Tiny.V8,33889297,12
-data/portuguese/itemclasscategories.datc64,Folders/data/portuguese.datc64,3088368,6166
+data/portuguese/itemclasscategories.datc64,Folders/data/thai.datc64.1,1839480,6166
 data/portuguese/itemclasses.datc64,Folders/data/56/thai.datc64,2055038,25774
-data/portuguese/keywordpopups.datc64,Folders/data/portuguese.datc64,3094534,172870
+data/portuguese/keywordpopups.datc64,Folders/data/thai.datc64.1,1213135,172870
 data/portuguese/kioskmodecharactertutorials.datc64,Folders/data/DA/traditional chinese.datc64,1575864,21460
 data/portuguese/leagueinfo.datc64,Folders/data/18/traditional chinese.datc64,1724496,344104
 data/portuguese/mapconnections.datc64,Folders/data/95/traditional chinese.datc64,2191447,17476
@@ -2295,10 +2295,10 @@ data/portuguese/mobiletutorial.datc64,Folders/data/77/thai.datc64,1712028,12356
 data/portuguese/mods.datc64,Folders/data/DE/portuguese.datc64,38000,9787541
 data/portuguese/monstervarieties.datc64,Folders/data/11/thai.datc64,42179,2855332
 data/portuguese/mousecursorsizesettings.datc64,Tiny.V3,33880791,164
-data/portuguese/mtxtypes.datc64,Folders/data/portuguese.datc64,3267404,3313408
+data/portuguese/mtxtypes.datc64,Folders/data/96/portuguese.datc64,1033342,3313408
 data/portuguese/music.datc64,Folders/data/4F/thai.datc64,481544,114426
 data/portuguese/musiccategories.datc64,Tiny.V4,35008079,915
-data/portuguese/notifications.datc64,Folders/data/portuguese.datc64,6580812,5596
+data/portuguese/notifications.datc64,Folders/1E/data.datc64,523267,5596
 data/portuguese/npcmaster.datc64,Tiny.V3,33880955,2384
 data/portuguese/npcs.datc64,Folders/data/95/traditional chinese.datc64,552418,168021
 data/portuguese/npctalk.datc64,Folders/data/77/thai.datc64,550406,357952
@@ -2317,12 +2317,12 @@ data/portuguese/queststates.datc64,Folders/data/0D/traditional chinese.datc64,44
 data/portuguese/questtrackergroup.datc64,Tiny.V3,33884451,182
 data/portuguese/races.datc64,Tiny.V9,34702477,2842
 data/portuguese/realms.datc64,Folders/data/A0/traditional chinese.datc64,5042036,8344
-data/portuguese/recipeunlockdisplay.datc64,Folders/data/portuguese.datc64,6586408,8800
+data/portuguese/recipeunlockdisplay.datc64,Folders/data/thai.datc64.1,1804576,8800
 data/portuguese/relicinventorylayout.datc64,Tiny.V1,33752766,636
 data/portuguese/relicitemeffectvariations.datc64,Tiny.V4,35010286,906
 data/portuguese/remindertext.datc64,Tiny.VD,34040295,510
 data/portuguese/ritualrunetypes.datc64,Folders/data/B0/portuguese.datc64,1832768,4827
-data/portuguese/safehousebyocrafting.datc64,Folders/data/portuguese.datc64,6595208,16188
+data/portuguese/safehousebyocrafting.datc64,Folders/data/thai.datc64.1,1813376,16188
 data/portuguese/safehousecraftingspreetype.datc64,Folders/data/0D/traditional chinese.datc64,230005,4340
 data/portuguese/sanctumdefenceicons.datc64,Tiny.VD,34040805,1710
 data/portuguese/sanctumfloors.datc64,Tiny.VC,34255900,1508
@@ -2330,7 +2330,7 @@ data/portuguese/sanctumpersistenteffectcategories.datc64,Tiny.VE,34212933,2188
 data/portuguese/sanctumpersistenteffects.datc64,Folders/data/25/thai.datc64,504208,74932
 data/portuguese/sanctumroomtypes.datc64,Folders/data/3E/traditional chinese.datc64,509169,8524
 data/portuguese/sanctumselectiondisplayoverride.datc64,Folders/data/B0/portuguese.datc64,1837595,5264
-data/portuguese/sentinelpassives.datc64,Folders/data/portuguese.datc64,6611396,8092
+data/portuguese/sentinelpassives.datc64,Folders/data/french.datc64.1,2173118,8092
 data/portuguese/shoptag.datc64,Folders/data/27/thai.datc64,1435179,84584
 data/portuguese/shrines.datc64,Folders/data/95/traditional chinese.datc64,720439,16438
 data/portuguese/skillcraftingdata.datc64,Folders/data/16/traditional chinese.datc64,1470703,5434
@@ -2354,7 +2354,7 @@ data/portuguese/uniquemaps.datc64,Tiny.V8,33889297,12
 data/portuguese/uniquestashtypes.datc64,Folders/data/67/traditional chinese.datc64,546132,7695
 data/portuguese/warbandspackmonsters.datc64,Tiny.V8,33889297,12
 data/portuguese/windowcursors.datc64,Tiny.VD,34042515,4060
-data/portuguese/words.datc64,Folders/data/portuguese.datc64,6619488,563044
+data/portuguese/words.datc64,Folders/data/french.datc64.1,1604512,563044
 data/portuguese/worldareas.datc64,Folders/data/25/thai.datc64,2113821,347262
 data/portuguese/worldmaplegends.datc64,Folders/data/18/traditional chinese.datc64,1108121,13726
 data/portuguese/worldpopupicontypes.datc64,Tiny.V9,34705319,858
@@ -2472,10 +2472,10 @@ data/russian/mobilecharactercreation.datc64,Tiny.V4,34998508,1056
 data/russian/mobileskillgemlayout.datc64,Tiny.VE,34206570,1598
 data/russian/mobileskillgemlayoutpages.datc64,Tiny.V5,33919983,596
 data/russian/mobiletutorial.datc64,Folders/data/D7/traditional chinese.datc64,168959,12356
-data/russian/mods.datc64,Folders/data/57/russian.datc64,,
+data/russian/mods.datc64,Folders/data/russian.datc64,1634868,9781675
 data/russian/monstervarieties.datc64,Folders/data/93/russian.datc64,0,2851922
 data/russian/mousecursorsizesettings.datc64,Tiny.V0,34836736,174
-data/russian/mtxtypes.datc64,Folders/data/russian.datc64,1634868,3314832
+data/russian/mtxtypes.datc64,Folders/data/russian.datc64,11416543,3314832
 data/russian/music.datc64,Folders/data/AC/thai.datc64,21030,113996
 data/russian/musiccategories.datc64,Tiny.V9,34708627,927
 data/russian/notifications.datc64,Folders/data/42/thai.datc64,1441535,5668
@@ -2496,20 +2496,20 @@ data/russian/questrewardtype.datc64,Folders/data/CE/traditional chinese.datc64,3
 data/russian/queststates.datc64,Folders/data/04/traditional chinese.datc64,1718121,183468
 data/russian/questtrackergroup.datc64,Tiny.VA,34278742,166
 data/russian/races.datc64,Tiny.VF,34302855,2822
-data/russian/realms.datc64,Folders/data/russian.datc64,4949700,8126
+data/russian/realms.datc64,Folders/data/russian.datc64.1,0,8126
 data/russian/recipeunlockdisplay.datc64,Folders/data/5E/traditional chinese.datc64,305860,9012
 data/russian/relicinventorylayout.datc64,Tiny.VF,34305677,618
 data/russian/relicitemeffectvariations.datc64,Tiny.VA,34278908,924
 data/russian/remindertext.datc64,Tiny.VD,34050467,488
 data/russian/ritualrunetypes.datc64,Folders/data/D9/spanish.datc64,3986542,5095
-data/russian/safehousebyocrafting.datc64,Folders/data/russian.datc64,4957826,15350
+data/russian/safehousebyocrafting.datc64,Folders/data/russian.datc64.1,8126,15350
 data/russian/safehousecraftingspreetype.datc64,Folders/data/0F/traditional chinese.datc64,436532,4354
 data/russian/sanctumdefenceicons.datc64,Tiny.VF,34306295,1608
 data/russian/sanctumfloors.datc64,Tiny.V7,34366303,1576
 data/russian/sanctumpersistenteffectcategories.datc64,Tiny.V3,33890361,2204
 data/russian/sanctumpersistenteffects.datc64,Folders/data/77/thai.datc64,1385427,76566
 data/russian/sanctumroomtypes.datc64,Folders/data/27/thai.datc64,1913231,8350
-data/russian/sanctumselectiondisplayoverride.datc64,Folders/data/russian.datc64,4973176,5144
+data/russian/sanctumselectiondisplayoverride.datc64,Folders/data/russian.datc64.1,23476,5144
 data/russian/sentinelpassives.datc64,Folders/data/69/traditional chinese.datc64,456055,8092
 data/russian/shoptag.datc64,Folders/data/27/thai.datc64,253959,83504
 data/russian/shrines.datc64,Folders/data/42/thai.datc64,1533405,16438
@@ -2528,7 +2528,7 @@ data/russian/trademarketcategorygroups.datc64,Tiny.VE,34218153,528
 data/russian/trademarketimplicitmoddisplay.datc64,Tiny.V8,33889297,12
 data/russian/uitalktext.datc64,Folders/data/27/thai.datc64,904773,37562
 data/russian/ultimatumencountertypes.datc64,Tiny.VD,34050955,748
-data/russian/ultimatummodifiers.datc64,Folders/data/russian.datc64,4978320,31906
+data/russian/ultimatummodifiers.datc64,Folders/data/russian.datc64.1,28620,31906
 data/russian/ultimatumwagertypes.datc64,Tiny.V3,33892565,2348
 data/russian/uniquemaps.datc64,Tiny.V8,33889297,12
 data/russian/uniquestashtypes.datc64,Folders/data/95/traditional chinese.datc64,796990,7675
@@ -2536,7 +2536,7 @@ data/russian/warbandspackmonsters.datc64,Tiny.V8,33889297,12
 data/russian/windowcursors.datc64,Tiny.VE,34218681,4064
 data/russian/words.datc64,Folders/data/9E/traditional chinese.datc64,205159,529002
 data/russian/worldareas.datc64,Folders/data/79/traditional chinese.datc64,2378008,344822
-data/russian/worldmaplegends.datc64,Folders/data/russian.datc64,5010226,13824
+data/russian/worldmaplegends.datc64,Folders/data/russian.datc64.1,60526,13824
 data/russian/worldpopupicontypes.datc64,Tiny.V5,33935312,874
 data/spanish/achievementitemrewards.datc64,Tiny.V7,34375677,400
 data/spanish/achievementitems.datc64,Folders/data/9A/traditional chinese.datc64,626627,1343984
@@ -2554,14 +2554,14 @@ data/spanish/alternatequalitytypes.datc64,Tiny.V5,33942310,1856
 data/spanish/archetypes.datc64,Tiny.V1,33705578,138
 data/spanish/archnemesismetarewards.datc64,Tiny.V3,33897313,2452
 data/spanish/archnemesismods.datc64,Folders/data/88/spanish.datc64,0,7952
-data/spanish/ascendancy.datc64,Folders/data/spanish.datc64,0,9916
+data/spanish/ascendancy.datc64,Folders/data/thai.datc64.1,1829564,9916
 data/spanish/atlasfavouredmapslots.datc64,Tiny.V0,34841038,1040
 data/spanish/atlasprimordialaltarchoicetypes.datc64,Tiny.V0,34842078,1990
 data/spanish/atlasprimordialbossoptions.datc64,Tiny.VD,34059461,2766
 data/spanish/atlasupgradesinventorylayout.datc64,Tiny.V8,33945880,588
 data/spanish/awarddisplay.datc64,Folders/data/0D/traditional chinese.datc64,2529155,12126
 data/spanish/backenderrors.datc64,Folders/data/AC/thai.datc64,872498,126532
-data/spanish/baseitemtypes.datc64,Folders/data/spanish.datc64,9916,1529106
+data/spanish/baseitemtypes.datc64,Folders/data/russian.datc64.1,1452348,1529106
 data/spanish/battlepasses.datc64,Tiny.V7,34376077,1701
 data/spanish/battlepassrewards.datc64,Folders/data/3E/traditional chinese.datc64,2613163,16472
 data/spanish/battlepasstracks.datc64,Tiny.VC,34264755,186
@@ -2574,13 +2574,13 @@ data/spanish/betrayalchoices.datc64,Tiny.V5,33944166,410
 data/spanish/betrayaljobs.datc64,Tiny.VB,34226601,1358
 data/spanish/betrayalranks.datc64,Tiny.V7,34377778,546
 data/spanish/betrayalrelationshipstate.datc64,Tiny.V8,33946468,170
-data/spanish/betrayaltargets.datc64,Folders/data/spanish.datc64,1539022,9420
+data/spanish/betrayaltargets.datc64,Folders/data/thai.datc64.1,1845646,9420
 data/spanish/betrayaltraitorrewards.datc64,Folders/data/65/traditional chinese.datc64,486300,22014
 data/spanish/betrayalupgrades.datc64,Folders/data/60/french.datc64,1270250,19998
 data/spanish/bindablevirtualkeys.datc64,Tiny.VF,34309723,3434
 data/spanish/blightcraftingitems.datc64,Tiny.V2,33900268,840
 data/spanish/blighttowers.datc64,Folders/data/5E/traditional chinese.datc64,337021,20145
-data/spanish/buffdefinitions.datc64,Folders/data/spanish.datc64,1548442,1377998
+data/spanish/buffdefinitions.datc64,Folders/data/russian.datc64.1,74350,1377998
 data/spanish/buffvisuals.datc64,Folders/data/A3/traditional chinese.datc64,1413947,1033208
 data/spanish/charactercreationicons.datc64,Folders/data/39/traditional chinese.datc64,2174025,9760
 data/spanish/characterpaneldescriptionmodes.datc64,Tiny.V4,35019784,1312
@@ -2589,7 +2589,7 @@ data/spanish/characterpaneltabs.datc64,Tiny.V5,33944576,3132
 data/spanish/characters.datc64,Folders/data/42/thai.datc64,313526,26286
 data/spanish/characterstartstates.datc64,Folders/data/77/thai.datc64,1097805,75524
 data/spanish/charactertextaudio.datc64,Folders/data/84/traditional chinese.datc64,552576,2257520
-data/spanish/chests.datc64,Folders/data/spanish.datc64,2926440,1137112
+data/spanish/chests.datc64,Folders/data/french.datc64.1,2181210,1137112
 data/spanish/clientstrings.datc64,Folders/data/88/spanish.datc64,7952,1893936
 data/spanish/clientstrings2.datc64,Tiny.VF,34313157,2726
 data/spanish/combatuiprompts.datc64,Tiny.V4,35021096,666
@@ -2616,7 +2616,7 @@ data/spanish/fragmentstashtablayout.datc64,Folders/data/16/traditional chinese.d
 data/spanish/gamepadbutton.datc64,Tiny.V8,33948815,2360
 data/spanish/gamepadbuttonbindaction.datc64,Folders/data/27/thai.datc64,1402535,6656
 data/spanish/gemeffects.datc64,Folders/data/77/thai.datc64,1173329,204454
-data/spanish/gemtags.datc64,Folders/data/spanish.datc64,4063552,6990
+data/spanish/gemtags.datc64,Folders/data/thai.datc64.1,1867823,6990
 data/spanish/genericleaguerewardtypevisuals.datc64,Folders/data/25/thai.datc64,493032,5580
 data/spanish/grantedeffectlabels.datc64,Folders/data/65/traditional chinese.datc64,373052,6442
 data/spanish/harvestcraftfilters.datc64,Tiny.V4,35025008,512
@@ -2638,7 +2638,7 @@ data/spanish/itemclasses.datc64,Folders/data/27/thai.datc64,1409191,25988
 data/spanish/keywordpopups.datc64,Folders/data/84/traditional chinese.datc64,2810096,203580
 data/spanish/kioskmodecharactertutorials.datc64,Folders/data/A3/traditional chinese.datc64,2447155,21616
 data/spanish/leagueinfo.datc64,Folders/data/60/french.datc64,26802,359370
-data/spanish/mapconnections.datc64,Folders/data/spanish.datc64,4070542,17476
+data/spanish/mapconnections.datc64,Folders/1E/data.datc64,505791,17476
 data/spanish/mappins.datc64,Folders/data/69/traditional chinese.datc64,2987182,249293
 data/spanish/mapseries.datc64,Folders/data/5E/traditional chinese.datc64,247360,9716
 data/spanish/mapstashspecialtypeentries.datc64,Tiny.V0,34845314,2652
@@ -2647,7 +2647,7 @@ data/spanish/microtransactioncategory.datc64,Tiny.V6,34225081,1752
 data/spanish/microtransactionskillgemeffectslottypes.datc64,Tiny.V3,33902643,204
 data/spanish/microtransactionslot.datc64,Folders/data/9E/traditional chinese.datc64,197531,7628
 data/spanish/microtransactionslotadditionaldefaultoptions.datc64,Tiny.V6,34226833,434
-data/spanish/minimapicons.datc64,Folders/data/spanish.datc64,4088018,72813
+data/spanish/minimapicons.datc64,Folders/data/thai.datc64.1,1674799,72813
 data/spanish/mobilecharactercreation.datc64,Tiny.V4,34998508,1056
 data/spanish/mobileskillgemlayout.datc64,Tiny.VE,34206570,1598
 data/spanish/mobileskillgemlayoutpages.datc64,Tiny.V5,33919983,596
@@ -2655,7 +2655,7 @@ data/spanish/mobiletutorial.datc64,Folders/data/77/thai.datc64,2294395,12356
 data/spanish/mods.datc64,Folders/data/5C/spanish.datc64,,
 data/spanish/monstervarieties.datc64,Folders/data/0F/spanish.datc64,43622,2854908
 data/spanish/mousecursorsizesettings.datc64,Tiny.V7,34378324,168
-data/spanish/mtxtypes.datc64,Folders/data/spanish.datc64,4160831,3442618
+data/spanish/mtxtypes.datc64,Folders/data/47/spanish.datc64,,
 data/spanish/music.datc64,Folders/data/A2/traditional chinese.datc64,235730,114798
 data/spanish/musiccategories.datc64,Tiny.V9,34711876,961
 data/spanish/notifications.datc64,Folders/data/3E/traditional chinese.datc64,393583,6812
@@ -2663,7 +2663,7 @@ data/spanish/npcmaster.datc64,Tiny.VD,34062227,2496
 data/spanish/npcs.datc64,Folders/data/65/traditional chinese.datc64,568068,168333
 data/spanish/npctalk.datc64,Folders/data/3E/traditional chinese.datc64,2629635,358628
 data/spanish/npctextaudio.datc64,Folders/data/F4/spanish.datc64,,
-data/spanish/pantheonpanellayout.datc64,Folders/data/spanish.datc64,7603449,7774
+data/spanish/pantheonpanellayout.datc64,Folders/data/thai.datc64.1,1507549,7774
 data/spanish/pantheonsouls.datc64,Tiny.V8,33889297,12
 data/spanish/passiveoverridelimits.datc64,Tiny.V2,33902716,684
 data/spanish/passiveskilloverrides.datc64,Tiny.V8,33889297,12
@@ -2671,7 +2671,7 @@ data/spanish/passiveskills.datc64,Folders/data/55/spanish.datc64,0,2544821
 data/spanish/passiveskillstatcategories.datc64,Tiny.VD,34064723,1336
 data/spanish/passiveskilltreetutorial.datc64,Tiny.V8,33889297,12
 data/spanish/playertradewhisperformats.datc64,Tiny.V4,35025520,1044
-data/spanish/quest.datc64,Folders/data/spanish.datc64,7611223,12757
+data/spanish/quest.datc64,Folders/data/thai.datc64.1,1855066,12757
 data/spanish/questrewardtype.datc64,Folders/data/A2/traditional chinese.datc64,561410,6582
 data/spanish/queststates.datc64,Folders/data/AC/thai.datc64,567781,196744
 data/spanish/questtrackergroup.datc64,Tiny.V6,34227267,202
@@ -2687,12 +2687,12 @@ data/spanish/safehousecraftingspreetype.datc64,Folders/data/56/thai.datc64,99426
 data/spanish/sanctumdefenceicons.datc64,Tiny.V9,34713483,1734
 data/spanish/sanctumfloors.datc64,Tiny.V8,33951175,1572
 data/spanish/sanctumpersistenteffectcategories.datc64,Tiny.VC,34274986,2206
-data/spanish/sanctumpersistenteffects.datc64,Folders/data/spanish.datc64,7623980,77008
+data/spanish/sanctumpersistenteffects.datc64,Folders/data/thai.datc64.1,1515323,77008
 data/spanish/sanctumroomtypes.datc64,Folders/data/A3/traditional chinese.datc64,122337,8480
 data/spanish/sanctumselectiondisplayoverride.datc64,Folders/data/67/traditional chinese.datc64,553827,5296
 data/spanish/sentinelpassives.datc64,Folders/data/07/traditional chinese.datc64,338054,8092
 data/spanish/shoptag.datc64,Folders/data/4F/thai.datc64,1145329,85118
-data/spanish/shrines.datc64,Folders/data/spanish.datc64,7700988,16438
+data/spanish/shrines.datc64,Folders/data/thai.datc64.1,1747612,16438
 data/spanish/skillcraftingdata.datc64,Folders/data/3E/traditional chinese.datc64,457695,5442
 data/spanish/skillgeminfo.datc64,Folders/data/4F/thai.datc64,595970,167774
 data/spanish/skillgems.datc64,Folders/data/60/traditional chinese.datc64,3566047,171813
@@ -2716,7 +2716,7 @@ data/spanish/warbandspackmonsters.datc64,Tiny.V8,33889297,12
 data/spanish/windowcursors.datc64,Tiny.VD,34066059,4062
 data/spanish/words.datc64,Folders/data/28/traditional chinese.datc64,188876,564314
 data/spanish/worldareas.datc64,Folders/data/4F/thai.datc64,1390367,349592
-data/spanish/worldmaplegends.datc64,Folders/data/spanish.datc64,7717426,14208
+data/spanish/worldmaplegends.datc64,Folders/data/thai.datc64.1,1874813,14208
 data/spanish/worldpopupicontypes.datc64,Tiny.V2,33904172,860
 data/thai/achievementitemrewards.datc64,Tiny.VB,34230063,318
 data/thai/achievementitems.datc64,Folders/data/4B/thai.datc64,63842,1305000
@@ -2832,18 +2832,18 @@ data/thai/mobilecharactercreation.datc64,Tiny.V4,34998508,1056
 data/thai/mobileskillgemlayout.datc64,Tiny.VE,34206570,1598
 data/thai/mobileskillgemlayoutpages.datc64,Tiny.V5,33919983,596
 data/thai/mobiletutorial.datc64,Folders/data/39/traditional chinese.datc64,70689,12356
-data/thai/mods.datc64,Folders/data/29/thai.datc64,,
+data/thai/mods.datc64,Folders/data/thai.datc64,2173258,9623871
 data/thai/monstervarieties.datc64,Folders/data/61/traditional chinese.datc64,6788,2850746
 data/thai/mousecursorsizesettings.datc64,Tiny.V9,34719199,152
-data/thai/mtxtypes.datc64,Folders/data/thai.datc64,2173258,3163468
-data/thai/music.datc64,Folders/data/thai.datc64,5336726,113896
+data/thai/mtxtypes.datc64,Folders/data/thai.datc64,11797129,3163468
+data/thai/music.datc64,Folders/data/thai.datc64.1,0,113896
 data/thai/musiccategories.datc64,Tiny.V6,34237911,947
 data/thai/notifications.datc64,Folders/data/61/traditional chinese.datc64,2857534,5444
 data/thai/npcmaster.datc64,Tiny.V8,33953935,2422
 data/thai/npcs.datc64,Folders/data/BA/traditional chinese.datc64,575315,167499
 data/thai/npctalk.datc64,Folders/data/25/thai.datc64,592023,356126
 data/thai/npctextaudio.datc64,Folders/data/DE/thai.datc64,,
-data/thai/pantheonpanellayout.datc64,Folders/data/thai.datc64,5450622,7578
+data/thai/pantheonpanellayout.datc64,Folders/data/thai.datc64.1,113896,7578
 data/thai/pantheonsouls.datc64,Tiny.V8,33889297,12
 data/thai/passiveoverridelimits.datc64,Tiny.VA,34294838,584
 data/thai/passiveskilloverrides.datc64,Tiny.V8,33889297,12
@@ -2856,18 +2856,18 @@ data/thai/questrewardtype.datc64,Folders/data/42/thai.datc64,512169,5464
 data/thai/queststates.datc64,Folders/data/61/traditional chinese.datc64,2862978,169998
 data/thai/questtrackergroup.datc64,Tiny.V9,34719351,178
 data/thai/races.datc64,Tiny.V9,34719529,2820
-data/thai/realms.datc64,Folders/data/thai.datc64,5458200,8352
+data/thai/realms.datc64,Folders/data/thai.datc64.1,121474,8352
 data/thai/recipeunlockdisplay.datc64,Folders/data/95/traditional chinese.datc64,736877,8740
 data/thai/relicinventorylayout.datc64,Tiny.VA,34295422,592
 data/thai/relicitemeffectvariations.datc64,Tiny.V0,34859423,956
 data/thai/remindertext.datc64,Tiny.V6,34238858,474
-data/thai/ritualrunetypes.datc64,Folders/data/thai.datc64,5466552,4831
+data/thai/ritualrunetypes.datc64,Folders/data/thai.datc64.1,129826,4831
 data/thai/safehousebyocrafting.datc64,Folders/data/3E/traditional chinese.datc64,400395,13944
 data/thai/safehousecraftingspreetype.datc64,Folders/data/77/thai.datc64,1461993,4332
 data/thai/sanctumdefenceicons.datc64,Tiny.V9,34722349,1642
 data/thai/sanctumfloors.datc64,Tiny.VD,34080168,1468
 data/thai/sanctumpersistenteffectcategories.datc64,Tiny.V0,34860379,2146
-data/thai/sanctumpersistenteffects.datc64,Folders/data/thai.datc64,5471383,74714
+data/thai/sanctumpersistenteffects.datc64,Folders/data/thai.datc64.1,134657,74714
 data/thai/sanctumroomtypes.datc64,Folders/data/3E/traditional chinese.datc64,501183,7986
 data/thai/sanctumselectiondisplayoverride.datc64,Folders/data/4F/thai.datc64,1385215,5152
 data/thai/sentinelpassives.datc64,Folders/data/4F/thai.datc64,873912,8092
@@ -3012,10 +3012,10 @@ data/traditional chinese/mobilecharactercreation.datc64,Tiny.V4,34998508,1056
 data/traditional chinese/mobileskillgemlayout.datc64,Tiny.V0,34868711,1472
 data/traditional chinese/mobileskillgemlayoutpages.datc64,Tiny.V3,33914564,542
 data/traditional chinese/mobiletutorial.datc64,Folders/data/traditional chinese.datc64,2900592,8568
-data/traditional chinese/mods.datc64,Folders/data/F8/traditional chinese.datc64,,
+data/traditional chinese/mods.datc64,Folders/data/traditional chinese.datc64,2909160,9589047
 data/traditional chinese/monstervarieties.datc64,Folders/data/D5/traditional chinese.datc64,0,2836754
 data/traditional chinese/mousecursorsizesettings.datc64,Tiny.V9,34724299,134
-data/traditional chinese/mtxtypes.datc64,Folders/data/traditional chinese.datc64,2909160,2601996
+data/traditional chinese/mtxtypes.datc64,Folders/data/traditional chinese.datc64,12498207,2601996
 data/traditional chinese/music.datc64,Folders/data/28/traditional chinese.datc64,0,109876
 data/traditional chinese/musiccategories.datc64,Tiny.V0,34870183,811
 data/traditional chinese/notifications.datc64,Tiny.VA,34303241,3820
@@ -3047,12 +3047,12 @@ data/traditional chinese/safehousecraftingspreetype.datc64,Folders/data/23/tradi
 data/traditional chinese/sanctumdefenceicons.datc64,Tiny.VF,34334102,1008
 data/traditional chinese/sanctumfloors.datc64,Tiny.VB,34246258,1348
 data/traditional chinese/sanctumpersistenteffectcategories.datc64,Tiny.V8,33958381,2086
-data/traditional chinese/sanctumpersistenteffects.datc64,Folders/data/traditional chinese.datc64,5511156,66030
+data/traditional chinese/sanctumpersistenteffects.datc64,Folders/data/thai.datc64.1,1592331,66030
 data/traditional chinese/sanctumroomtypes.datc64,Folders/data/D7/traditional chinese.datc64,0,6728
 data/traditional chinese/sanctumselectiondisplayoverride.datc64,Folders/data/5E/traditional chinese.datc64,546983,5098
 data/traditional chinese/sentinelpassives.datc64,Folders/data/60/traditional chinese.datc64,0,8092
 data/traditional chinese/shoptag.datc64,Folders/data/9A/traditional chinese.datc64,0,71396
-data/traditional chinese/shrines.datc64,Folders/data/traditional chinese.datc64,5577186,16438
+data/traditional chinese/shrines.datc64,Folders/data/thai.datc64.1,1658361,16438
 data/traditional chinese/skillcraftingdata.datc64,Folders/data/18/traditional chinese.datc64,1121847,5330
 data/traditional chinese/skillgeminfo.datc64,Folders/data/0F/traditional chinese.datc64,0,106604
 data/traditional chinese/skillgems.datc64,Folders/data/48/traditional chinese.datc64,31022,171813
@@ -3088,7 +3088,7 @@ metadata/chinesesimplifiedtotraditional.txt,Folders/metadata,25080,8462
 metadata/disablealternatecharacterclasses,Tiny.V3,36415348,12
 metadata/exe_hash_prospero.txt,Tiny.V7,89421934,65
 metadata/exe_hash_scarlett.txt,Tiny.VD,90866518,65
-metadata/filtered_words_client.txt,Folders/metadata,33542,33888
+metadata/filtered_words_client.txt,Folders/metadata,33542,33890
 metadata/fmtparent.ao,Tiny.VD,90866583,138
 metadata/fmtparent.aoc,Tiny.V5,91189604,346
 metadata/grabbablebyinteraction.ot,Tiny.VB,91322546,1594
@@ -3099,7 +3099,7 @@ metadata/parent.ao,Tiny.V4,98690932,262
 metadata/parent.aoc,Tiny.V0,98052080,440
 metadata/parentbackattachment.ao,Tiny.VF,97803070,94
 metadata/parentbackattachment.aoc,Tiny.V0,98052520,420
-metadata/passiveskillgraph.psg,Folders/metadata,67430,112498
+metadata/passiveskillgraph.psg,Folders/metadata,67432,112498
 metadata/passiveskillgraphguidesettings.json,Tiny.V3,104302000,248
 metadata/skin.ao,Tiny.V6,101858662,188
 metadata/skin.aoc,Tiny.V1,105556537,130
@@ -3496,13 +3496,13 @@ metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a10c.fxgrap
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a11c.fxgraph,Tiny.V3.1,1436353,19610
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a12c.fxgraph,Tiny.V3.1,926093,19610
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a13c.fxgraph,Tiny.V3.1,1063483,19610
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a14c.fxgraph,Tiny.V3.1,1416743,19610
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a14c.fxgraph,Tiny.V3.1,1377333,19610
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a15c.fxgraph,Tiny.V3.1,1004653,19610
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a16c.fxgraph,Tiny.V3.1,1043873,19610
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a17c.fxgraph,Tiny.V3.1,1024263,19610
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a18c.fxgraph,Tiny.V3.1,985043,19610
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a19c.fxgraph,Tiny.V3.1,1514811,19610
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a20c.fxgraph,Tiny.V3.1,1377333,19610
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/a/a20c.fxgraph,Tiny.V3.1,1416743,19610
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/b/b01c.fxgraph,Tiny.V3.1,1848577,19636
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/b/b02c.fxgraph,Tiny.V3.1,1279253,19616
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/b/b03c.fxgraph,Tiny.V3.1,1083093,19616
@@ -3526,12 +3526,12 @@ metadata/art/microtransactions/misc/tencent/prestige_icons/armours/b/b20c.fxgrap
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c01c.fxgraph,Tiny.V3.1,1671853,19636
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c02c.fxgraph,Tiny.V3.1,1887849,19636
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c03c.fxgraph,Tiny.V3.1,2005665,19636
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c04c.fxgraph,Tiny.V3.1,1730761,19636
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c04c.fxgraph,Tiny.V3.1,1711125,19636
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c05c.fxgraph,Tiny.V3.1,1652217,19636
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c06c.fxgraph,Tiny.V3.1,1573673,19636
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c07c.fxgraph,Tiny.V3.1,2103845,19636
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c08c.fxgraph,Tiny.V3.1,1809305,19636
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c09c.fxgraph,Tiny.V3.1,1711125,19636
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c09c.fxgraph,Tiny.V3.1,1730761,19636
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c10c.fxgraph,Tiny.V3.1,1868213,19636
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c11c.fxgraph,Tiny.V3.1,2044937,19636
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/c/c12c.fxgraph,Tiny.V3.1,2064573,19636
@@ -3577,14 +3577,14 @@ metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e11c.fxgrap
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e12c.fxgraph,Tiny.V3.1,3014313,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e13c.fxgraph,Tiny.V3.1,2499513,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e14c.fxgraph,Tiny.V3.1,827483,19800
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e15c.fxgraph,Tiny.V3.1,2182713,19800
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e15c.fxgraph,Tiny.V3.1,2202513,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e16c.fxgraph,Tiny.V3.1,2261913,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e17c.fxgraph,Tiny.V3.1,2360913,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e18c.fxgraph,Tiny.V3.1,2974713,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e19c.fxgraph,Tiny.V3.1,807683,19800
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e20c.fxgraph,Tiny.V3.1,318567,19800
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/e/e20c.fxgraph,Tiny.V3.1,2558913,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f01c.fxgraph,Tiny.V3.1,2796513,19800
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f02c.fxgraph,Tiny.V3.1,2954913,19800
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f02c.fxgraph,Tiny.V3.1,2935113,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f03c.fxgraph,Tiny.V3.1,2420313,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f04c.fxgraph,Tiny.V3.1,2380713,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f05c.fxgraph,Tiny.V3.1,2994513,19800
@@ -3597,29 +3597,29 @@ metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f11c.fxgrap
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f12c.fxgraph,Tiny.V3.1,847283,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f13c.fxgraph,Tiny.V3.1,2519313,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f14c.fxgraph,Tiny.V3.1,669085,19800
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f15c.fxgraph,Tiny.V3.1,2202513,19800
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f15c.fxgraph,Tiny.V3.1,2182713,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f16c.fxgraph,Tiny.V3.1,2341113,19800
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f17c.fxgraph,Tiny.V3.1,2301513,19800
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f17c.fxgraph,Tiny.V3.1,2281713,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f18c.fxgraph,Tiny.V3.1,2836113,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f19c.fxgraph,Tiny.V3.1,748285,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/f/f20c.fxgraph,Tiny.V3.1,3034113,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g01c.fxgraph,Tiny.V3.1,2915313,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g02c.fxgraph,Tiny.V3.1,2657913,19800
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g03c.fxgraph,Tiny.V3.1,2459913,19800
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g03c.fxgraph,Tiny.V3.1,2440113,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g04c.fxgraph,Tiny.V3.1,2479713,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g05c.fxgraph,Tiny.V3.1,2598513,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g06c.fxgraph,Tiny.V3.1,2321313,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g07c.fxgraph,Tiny.V3.1,708685,19800
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g08c.fxgraph,Tiny.V3.1,2935113,19800
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g08c.fxgraph,Tiny.V3.1,2954913,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g09c.fxgraph,Tiny.V3.1,2638113,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g10c.fxgraph,Tiny.V3.1,2677713,19800
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g11c.fxgraph,Tiny.V3.1,2558913,19800
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g11c.fxgraph,Tiny.V3.1,318567,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g12c.fxgraph,Tiny.V3.1,3053913,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g13c.fxgraph,Tiny.V3.1,2143117,19796
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g14c.fxgraph,Tiny.V3.1,728485,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g15c.fxgraph,Tiny.V3.1,2242113,19800
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g16c.fxgraph,Tiny.V3.1,2440113,19800
-metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g17c.fxgraph,Tiny.V3.1,2281713,19800
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g16c.fxgraph,Tiny.V3.1,2459913,19800
+metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g17c.fxgraph,Tiny.V3.1,2301513,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g18c.fxgraph,Tiny.V3.1,2855913,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g19c.fxgraph,Tiny.V3.1,688885,19800
 metadata/art/microtransactions/misc/tencent/prestige_icons/armours/g/g2021.fxgraph,Content/metadata/effects/microtransactions/misc/uniques/1D25D170BA23EBBB.harvest_pipe.ao,2531126,19796
@@ -15445,10 +15445,10 @@ metadata/effects/microtransactions/aura/arcane_aura/arcane_aura.epk,Tiny.VF,3740
 metadata/effects/microtransactions/aura/arcane_aura/charsphere.pet,Tiny.V7,37180176,2100
 metadata/effects/microtransactions/aura/arcane_aura/crystal_point.pet,Tiny.V7,37182276,3878
 metadata/effects/microtransactions/aura/arcane_aura/point.pet,Tiny.V5,37355268,3904
-metadata/effects/microtransactions/aura/archdemon/archdemon/archdemon_emerge.ao,Tiny.V3.1,5043077,328
+metadata/effects/microtransactions/aura/archdemon/archdemon/archdemon_emerge.ao,Tiny.V3.1,6979457,328
 metadata/effects/microtransactions/aura/archdemon/archdemon/archdemon_emerge.aoc,Tiny.V0,37741248,4084
 metadata/effects/microtransactions/aura/archdemon/archdemon/frameupper.pet,Tiny.V2.1,113421,10642
-metadata/effects/microtransactions/aura/archdemon/archdemon/smoke_wing.trl,Tiny.V3.1,5448122,5312
+metadata/effects/microtransactions/aura/archdemon/archdemon/smoke_wing.trl,Tiny.V3.1,7384502,5312
 metadata/effects/microtransactions/aura/archdemon/archdemonaura/archdemonaura.epk,Tiny.VF,37404810,188
 metadata/effects/microtransactions/aura/archdemon/archdemonaura/point.pet,Tiny.V7,37186154,3862
 metadata/effects/microtransactions/aura/archdemon/archdemonaura/rig.ao,Tiny.VD,38599824,360
@@ -15458,9 +15458,9 @@ metadata/effects/microtransactions/aura/arcticcrystaldemon/arcticcrystaldemon.ao
 metadata/effects/microtransactions/aura/arcticcrystaldemon/fx/ao/rig.ao,Tiny.V8,37139005,350
 metadata/effects/microtransactions/aura/arcticcrystaldemon/fx/ao/rig.aoc,Tiny.V7,37190016,3220
 metadata/effects/microtransactions/aura/arcticcrystaldemon/fx/graphs/emissive_color.fxgraph,Content/metadata/effects/microtransactions/aura/chiyoudemon/chiyoudemon.ao,293300,11584
-metadata/effects/microtransactions/aura/arcticcrystaldemon/fx/pet/glow.pet,Tiny.V3.1,5453434,2454
+metadata/effects/microtransactions/aura/arcticcrystaldemon/fx/pet/glow.pet,Tiny.V3.1,7389814,2454
 metadata/effects/microtransactions/aura/arcticcrystaldemon/fx/pet/idle_sparks.pet,Tiny.V1,37393765,5496
-metadata/effects/microtransactions/aura/arcticcrystaldemon/fx/pet/ptemit.pet,Tiny.V3.1,5043405,16206
+metadata/effects/microtransactions/aura/arcticcrystaldemon/fx/pet/ptemit.pet,Tiny.V3.1,6979785,16206
 metadata/effects/microtransactions/aura/arcticcrystaldemon/fx/pet/snowdown.pet,Tiny.V4,38977944,2806
 metadata/effects/microtransactions/aura/arcticcrystaldemon/fx/pet/sparkemit.pet,Tiny.V4,38980750,7760
 metadata/effects/microtransactions/aura/arcticcrystaldemon/fx/pet/starttrail.trl,Tiny.V0,37746392,4076
@@ -15471,8 +15471,8 @@ metadata/effects/microtransactions/aura/assassindemon/assassindemon.ao,Tiny.V0,3
 metadata/effects/microtransactions/aura/assassindemon/assassindemon.aoc,Tiny.V9,38384105,2066
 metadata/effects/microtransactions/aura/assassindemon/assassindemon_ao_pass0.mat,Tiny.V1,37399261,574
 metadata/effects/microtransactions/aura/assassindemon/assassindemon_ao_pass1.mat,Tiny.VF,37404998,578
-metadata/effects/microtransactions/aura/assassindemon/graphs/ezomyteglow.fxgraph,Tiny.V3.1,5650708,68888
-metadata/effects/microtransactions/aura/assassindemon/graphs/forshadowonly.fxgraph,Tiny.V3.1,5719596,16088
+metadata/effects/microtransactions/aura/assassindemon/graphs/ezomyteglow.fxgraph,Tiny.V3.1,3820549,68888
+metadata/effects/microtransactions/aura/assassindemon/graphs/forshadowonly.fxgraph,Tiny.V3.1,3889437,16088
 metadata/effects/microtransactions/aura/balefire/graph/scalemoveuv.fxgraph,Content/data/worldareas/expeditionsubarea_olrothboss.vworld,4760159,35952
 metadata/effects/microtransactions/aura/basiliskdemon/basiliskdemon.ao,Tiny.VA,38620380,982
 metadata/effects/microtransactions/aura/basiliskdemon/basiliskdemon.aoc,Tiny.V2,36638998,10108
@@ -15532,7 +15532,7 @@ metadata/effects/microtransactions/aura/coldresistaura/cold_resistaura.epk,Tiny.
 metadata/effects/microtransactions/aura/coldresistaura/loop_cyl.pet,Tiny.VE,38571190,4376
 metadata/effects/microtransactions/aura/coldresistaura/loop_shard_point.pet,Tiny.V0,37751410,4090
 metadata/effects/microtransactions/aura/crucibledemon/crucibledemon.ao,Tiny.VD,38627806,1002
-metadata/effects/microtransactions/aura/crucibledemon/crucibledemon.aoc,Tiny.V3.1,5059611,3400
+metadata/effects/microtransactions/aura/crucibledemon/crucibledemon.aoc,Tiny.V3.1,6995991,3400
 metadata/effects/microtransactions/aura/crucibledemon/fx/ao/rig.ao,Tiny.V8,37169615,342
 metadata/effects/microtransactions/aura/crucibledemon/fx/ao/rig.aoc,Tiny.V8,37169957,6990
 metadata/effects/microtransactions/aura/crucibledemon/fx/graphs/edgeglow.fxgraph,Tiny.V3.1,3324171,44760
@@ -15545,7 +15545,7 @@ metadata/effects/microtransactions/aura/crucibledemon/fx/pet/coreplanet.pet,Tiny
 metadata/effects/microtransactions/aura/crucibledemon/fx/pet/disappear.pet,Tiny.V8,37176947,23362
 metadata/effects/microtransactions/aura/crucibledemon/fx/pet/emitsparks.pet,Tiny.VD,38628808,5308
 metadata/effects/microtransactions/aura/crucibledemon/fx/pet/planetemit.pet,Tiny.VE,38575566,12690
-metadata/effects/microtransactions/aura/crucibledemon/fx/pet/planettrail.trl,Tiny.V3.1,5455888,1502
+metadata/effects/microtransactions/aura/crucibledemon/fx/pet/planettrail.trl,Tiny.V3.1,7392268,1502
 metadata/effects/microtransactions/aura/crusaderapp/apparition_emerge_a.epk,Tiny.V7,37197542,852
 metadata/effects/microtransactions/aura/crusaderapp/apparition_emerge_a_epk_pass0.mat,Tiny.V6,37618910,10448
 metadata/effects/microtransactions/aura/crusaderapp/apparition_emerge_a_epk_pass1.mat,Tiny.VB,38249860,9666
@@ -15571,12 +15571,12 @@ metadata/effects/microtransactions/aura/demon/demon_aura/lightning.trl,Tiny.VA,3
 metadata/effects/microtransactions/aura/demon/demon_emerge/demon_emerge.ao,Tiny.V3.1,163627,320
 metadata/effects/microtransactions/aura/demon/demon_emerge/demon_emerge.aoc,Tiny.V7,37200800,3940
 metadata/effects/microtransactions/aura/demon/demon_emerge/frameupper.pet,Tiny.V3.1,163947,8450
-metadata/effects/microtransactions/aura/demon/demon_emerge/smoke_wing.trl,Tiny.V3.1,5457390,5174
+metadata/effects/microtransactions/aura/demon/demon_emerge/smoke_wing.trl,Tiny.V3.1,7393770,5174
 metadata/effects/microtransactions/aura/demon2/demon2_aura/demon2_aura.ao,Tiny.VE,38589116,350
 metadata/effects/microtransactions/aura/demon2/demon2_aura/demon2_aura.aoc,Tiny.VE,38589466,688
 metadata/effects/microtransactions/aura/demon2/demon2_aura/demon2_aura.epk,Tiny.V4,39014868,194
 metadata/effects/microtransactions/aura/demon2/demon2_emerge/chain.pet,Tiny.VB,38285462,6246
-metadata/effects/microtransactions/aura/demon2/demon2_emerge/demon2_emerge.ao,Tiny.V3.1,5462564,322
+metadata/effects/microtransactions/aura/demon2/demon2_emerge/demon2_emerge.ao,Tiny.V3.1,7398944,322
 metadata/effects/microtransactions/aura/demon2/demon2_emerge/demon2_emerge.aoc,Tiny.V7,37204740,5544
 metadata/effects/microtransactions/aura/demon2/demon2_emerge/frameupper.pet,Tiny.V8,37200309,6710
 metadata/effects/microtransactions/aura/demon2/demon2_emerge/smoke_wing.trl,Tiny.VE,38590154,5300
@@ -15586,7 +15586,7 @@ metadata/effects/microtransactions/aura/doomcrowapparition/doomcrowapparitioncro
 metadata/effects/microtransactions/aura/doomcrowapparition/doomcrowapparitionmask.ao,Tiny.V5,37395756,354
 metadata/effects/microtransactions/aura/doomcrowapparition/doomcrowapparitionmask.aoc,Tiny.V8,37207019,4826
 metadata/effects/microtransactions/aura/doomcrowapparition/spawn.epk,Tiny.V8,37211845,644
-metadata/effects/microtransactions/aura/doomcrowapparition/spawn_epk_pass0.mat,Tiny.V3.1,5063011,1072
+metadata/effects/microtransactions/aura/doomcrowapparition/spawn_epk_pass0.mat,Tiny.V3.1,6999391,1072
 metadata/effects/microtransactions/aura/doomcrowapparition/fx/despawn.pet,Tiny.V5,37396110,13764
 metadata/effects/microtransactions/aura/doomcrowapparition/fx/spawn.pet,Tiny.VC,39294809,14688
 metadata/effects/microtransactions/aura/dragonbluedemon/dragonbluedemon.ao,Tiny.V9,38434887,362
@@ -15605,13 +15605,13 @@ metadata/effects/microtransactions/aura/dragonhunterdemon/winterdragonhunterdemo
 metadata/effects/microtransactions/aura/dragonhunterdemon/winterdragonhunterdemon.aoc,Tiny.V8,37231003,13212
 metadata/effects/microtransactions/aura/dragonhunterdemon/graph/2ptspecgloss_alb.fxgraph,Content/metadata/effects/microtransactions/aura/tencentgoddess/CAE58C92B230AD8B.fadein.epk,696158,13854
 metadata/effects/microtransactions/aura/dragonhunterdemon/pet/body.pet,Tiny.V2.1,152743,15398
-metadata/effects/microtransactions/aura/dragonhunterdemon/pet/bodytrl.trl,Tiny.V3.1,5064083,3062
+metadata/effects/microtransactions/aura/dragonhunterdemon/pet/bodytrl.trl,Tiny.V3.1,7000463,3062
 metadata/effects/microtransactions/aura/dragonhunterdemon/pet/impact.pet,Tiny.VB,38309634,32018
 metadata/effects/microtransactions/aura/dragonhunterdemon/pet/impact_end.pet,Tiny.VB,38341652,34770
 metadata/effects/microtransactions/aura/dragonhunterdemon/pet/wings.pet,Tiny.V4,39020674,15266
-metadata/effects/microtransactions/aura/dragonhunterdemon/pet/wingstrl.trl,Tiny.V3.1,5462886,9560
+metadata/effects/microtransactions/aura/dragonhunterdemon/pet/wingstrl.trl,Tiny.V3.1,7399266,9560
 metadata/effects/microtransactions/aura/dragonhunterdemon/winterdragonhunterdemon/body.pet,Tiny.V8,37244215,21346
-metadata/effects/microtransactions/aura/dragonhunterdemon/winterdragonhunterdemon/bodytrl.trl,Tiny.V3.1,5472446,1448
+metadata/effects/microtransactions/aura/dragonhunterdemon/winterdragonhunterdemon/bodytrl.trl,Tiny.V3.1,7408826,1448
 metadata/effects/microtransactions/aura/dragonhunterdemon/winterdragonhunterdemon/impact.pet,Tiny.V9,38435249,25380
 metadata/effects/microtransactions/aura/dragonhunterdemon/winterdragonhunterdemon/impact_end.pet,Tiny.VB,38376932,32922
 metadata/effects/microtransactions/aura/dragonhunterdemon/winterdragonhunterdemon/wings.pet,Tiny.V3.1,172397,22462
@@ -15631,7 +15631,7 @@ metadata/effects/microtransactions/aura/empyreandemon/empyreandemon.ao,Tiny.VD,3
 metadata/effects/microtransactions/aura/empyreandemon/empyreandemon.aoc,Tiny.VE,38595866,8822
 metadata/effects/microtransactions/aura/empyreandemon/pets/glow.pet,Tiny.VF,37486814,5352
 metadata/effects/microtransactions/aura/empyreandemon/pets/glow_body.pet,Tiny.V0,37761344,2678
-metadata/effects/microtransactions/aura/empyreandemon/pets/ot_glow.pet,Tiny.V3.1,5473894,2688
+metadata/effects/microtransactions/aura/empyreandemon/pets/ot_glow.pet,Tiny.V3.1,7410274,2688
 metadata/effects/microtransactions/aura/empyreandemon/pets/out_mid.pet,Tiny.V8,37281877,13068
 metadata/effects/microtransactions/aura/eyriedemon/call.pet,Tiny.V6,37643290,13550
 metadata/effects/microtransactions/aura/eyriedemon/eyrieapparition.ao,Tiny.VE,38604688,1458
@@ -15668,10 +15668,10 @@ metadata/effects/microtransactions/aura/godofthunder/attachments/godofthunderspi
 metadata/effects/microtransactions/aura/godofthunder/fx/basic_fadeout.epk,Tiny.V9,38484853,462
 metadata/effects/microtransactions/aura/godofthunder/fx/basic_fadeout_epk_pass0.mat,Tiny.V8,37294945,1650
 metadata/effects/microtransactions/aura/godofthunder/fx/cyl.pet,Tiny.VF,37506730,5878
-metadata/effects/microtransactions/aura/godofthunder/fx/frameupper.pet,Tiny.V3.1,5067145,9498
+metadata/effects/microtransactions/aura/godofthunder/fx/frameupper.pet,Tiny.V3.1,7003525,9498
 metadata/effects/microtransactions/aura/godofthunder/fx/hammer.trl,Tiny.V4,39038336,1366
 metadata/effects/microtransactions/aura/godofthunder/fx/hammer_buffed.pet,Tiny.VE,38621284,5846
-metadata/effects/microtransactions/aura/godofthunder/fx/hammer_building.pet,Tiny.V3.1,5076643,20620
+metadata/effects/microtransactions/aura/godofthunder/fx/hammer_building.pet,Tiny.V3.1,7013023,20620
 metadata/effects/microtransactions/aura/godofthunder/fx/nail.pet,Tiny.V3.1,195753,19012
 metadata/effects/microtransactions/aura/godofthunder/fx/nail_floor.pet,Tiny.V8,37296595,21586
 metadata/effects/microtransactions/aura/harbingeraura/harbinger_aura.ao,Tiny.V4,39039702,340
@@ -15684,14 +15684,14 @@ metadata/effects/microtransactions/aura/impdemon/impdemon/frameupper.pet,Tiny.V1
 metadata/effects/microtransactions/aura/impdemon/impdemon/impdemon_emerge.ao,Tiny.V0,37764022,326
 metadata/effects/microtransactions/aura/impdemon/impdemon/impdemon_emerge.aoc,Tiny.V9,38485315,3606
 metadata/effects/microtransactions/aura/impdemon/impdemon/smoke_wing.trl,Tiny.V8,37318181,6722
-metadata/effects/microtransactions/aura/jingweidemon/jingweicraneamulate.ao,Tiny.V3.1,5114635,616
+metadata/effects/microtransactions/aura/jingweidemon/jingweicraneamulate.ao,Tiny.V3.1,7051015,616
 metadata/effects/microtransactions/aura/jingweidemon/jingweicraneamulate.aoc,Tiny.V2.1,169719,11262
 metadata/effects/microtransactions/aura/jingweidemon/jingweicraneamulatehair.ao,Tiny.V2,101446162,332
 metadata/effects/microtransactions/aura/jingweidemon/jingweicraneamulatehair.aoc,Tiny.VE,38627130,960
 metadata/effects/microtransactions/aura/jingweidemon/fx/call.pet,Tiny.VD,38702410,11402
-metadata/effects/microtransactions/aura/jingweidemon/fx/puff.pet,Tiny.V3.1,5476582,20358
+metadata/effects/microtransactions/aura/jingweidemon/fx/puff.pet,Tiny.V3.1,7412962,20358
 metadata/effects/microtransactions/aura/jingweidemon/fx/trails.trl,Tiny.V0,37764348,1484
-metadata/effects/microtransactions/aura/jingweidemon/fx/wings.pet,Tiny.V3.1,5097263,17372
+metadata/effects/microtransactions/aura/jingweidemon/fx/wings.pet,Tiny.V3.1,7033643,17372
 metadata/effects/microtransactions/aura/jingweidemon/fx/wings_puff.pet,Tiny.V7,37210284,12318
 metadata/effects/microtransactions/aura/judicator/fadein.epk,Tiny.VD,38713812,436
 metadata/effects/microtransactions/aura/judicator/fadein_epk_pass0.mat,Tiny.V3,39013554,3964
@@ -15756,7 +15756,7 @@ metadata/effects/microtransactions/aura/lostsouls/rig.aoc,Tiny.VB,38417876,8322
 metadata/effects/microtransactions/aura/lostsouls/rig_ao_pass0.mat,Tiny.V8,37325231,3370
 metadata/effects/microtransactions/aura/lostsouls/soulbarf.ao,Tiny.VD,38746344,334
 metadata/effects/microtransactions/aura/lostsouls/soulbarf.aoc,Tiny.V9,38539249,9680
-metadata/effects/microtransactions/aura/lostsouls/pets/barf_burst.pet,Tiny.V3.1,5115251,9596
+metadata/effects/microtransactions/aura/lostsouls/pets/barf_burst.pet,Tiny.V3.1,7051631,9596
 metadata/effects/microtransactions/aura/lostsouls/pets/barf_point.pet,Tiny.V4,39045690,28176
 metadata/effects/microtransactions/aura/lostsouls/pets/bloodpuddle.pet,Tiny.V3.1,214765,5296
 metadata/effects/microtransactions/aura/lostsouls/pets/dissolve_bodyfx.pet,Tiny.V1,37492323,8274
@@ -15770,12 +15770,12 @@ metadata/effects/microtransactions/aura/lunarapparition/fx/floor.pet,Tiny.VF,375
 metadata/effects/microtransactions/aura/lunarapparition/fx/glowflash_lunar.epk,Tiny.V8,37328601,544
 metadata/effects/microtransactions/aura/lunarapparition/fx/light.ao,Tiny.V9,43813995,344
 metadata/effects/microtransactions/aura/lunarapparition/fx/light.aoc,Tiny.V7,37225192,760
-metadata/effects/microtransactions/aura/lunarapparition/fx/orb.pet,Tiny.V3.1,5124847,9210
+metadata/effects/microtransactions/aura/lunarapparition/fx/orb.pet,Tiny.V3.1,7061227,9210
 metadata/effects/microtransactions/aura/lunarapparition/fx/orb_burst.pet,Tiny.VB,38426198,15026
 metadata/effects/microtransactions/aura/lunarapparition/fx/orb_pre.pet,Tiny.VD,38746678,2980
 metadata/effects/microtransactions/aura/lunarapparition/fx/orb_trls.trl,Tiny.VD,38749658,1890
 metadata/effects/microtransactions/aura/lunarapparition/fx/pt.pet,Tiny.VF,37542636,2942
-metadata/effects/microtransactions/aura/lunarapparition/fx/pt1.pet,Tiny.V3.1,5134057,6234
+metadata/effects/microtransactions/aura/lunarapparition/fx/pt1.pet,Tiny.V3.1,7070437,6234
 metadata/effects/microtransactions/aura/lunarapparition/fx/pt2.pet,Tiny.V2.1,186297,6238
 metadata/effects/microtransactions/aura/lunarapparition/fx/pt3.pet,Tiny.V9,38548929,6238
 metadata/effects/microtransactions/aura/lunarapparition/fx/pt4.pet,Tiny.VD,38751548,6238
@@ -15838,7 +15838,7 @@ metadata/effects/microtransactions/aura/purelight/boneaura/skulls.pet,Tiny.V6,37
 metadata/effects/microtransactions/aura/purplecrystaldemon/purplecrystaldemon.ao,Tiny.VD,38798812,662
 metadata/effects/microtransactions/aura/purplecrystaldemon/purplecrystaldemon.aoc,Tiny.VE,38677718,5398
 metadata/effects/microtransactions/aura/purplecrystaldemon/rig.ao,Tiny.V4,39095994,338
-metadata/effects/microtransactions/aura/purplecrystaldemon/rig.aoc,Tiny.V3.1,5140291,8578
+metadata/effects/microtransactions/aura/purplecrystaldemon/rig.aoc,Tiny.V3.1,7076671,8578
 metadata/effects/microtransactions/aura/purplecrystaldemon/graph/refractionglownooverride.fxgraph,Content/metadata/effects/microtransactions/town_portals/oblivionportal/A2423F3D01E7A113.loop_beam.pet,377144,32974
 metadata/effects/microtransactions/aura/purplecrystaldemon/pets/buildup.trl,Tiny.VB,38451396,2890
 metadata/effects/microtransactions/aura/purplecrystaldemon/pets/exit_frameupper.pet,Tiny.VE,38655190,5102
@@ -15853,7 +15853,7 @@ metadata/effects/microtransactions/aura/purplecrystaldemon/pets/staff_buildup.pe
 metadata/effects/microtransactions/aura/purplecrystaldemon/pets/staff_spawn.pet,Tiny.VB,38454286,6808
 metadata/effects/microtransactions/aura/purplecrystaldemon/pets/staff_surge.pet,Tiny.VC,39338157,17098
 metadata/effects/microtransactions/aura/purplecrystaldemon/pets/up.trl,Tiny.V1,37502803,3164
-metadata/effects/microtransactions/aura/reaperapparition/attack_fadein.epk,Tiny.V3.1,5148869,464
+metadata/effects/microtransactions/aura/reaperapparition/attack_fadein.epk,Tiny.V3.1,7085249,464
 metadata/effects/microtransactions/aura/reaperapparition/attack_fadein_epk_pass0.mat,Tiny.V7,37241150,2978
 metadata/effects/microtransactions/aura/reaperapparition/attack_fadeout.epk,Tiny.V5,37511982,466
 metadata/effects/microtransactions/aura/reaperapparition/attack_fadeout_epk_pass0.mat,Tiny.V4,39096332,3242
@@ -15876,14 +15876,14 @@ metadata/effects/microtransactions/aura/seraph_aura/loop_midline.pet,Tiny.V3,390
 metadata/effects/microtransactions/aura/seraph_aura/seraph_aura.ao,Tiny.VF,37611092,336
 metadata/effects/microtransactions/aura/seraph_aura/seraph_aura.aoc,Tiny.VA,38681222,2466
 metadata/effects/microtransactions/aura/seraph_aura/seraph_aura.epk,Tiny.VA,38683688,180
-metadata/effects/microtransactions/aura/tencentgoddess/tencentgoddess.ao,Tiny.V3.1,5511148,870
+metadata/effects/microtransactions/aura/tencentgoddess/tencentgoddess.ao,Tiny.V3.1,7447528,870
 metadata/effects/microtransactions/aura/tencentgoddess/tencentgoddess.aoc,Tiny.VB,38461094,10274
 metadata/effects/microtransactions/aura/tencentgoddess/graph/goddessfade.fxgraph,Content/metadata/effects/microtransactions/aura/tencentgoddess/CAE58C92B230AD8B.fadein.epk,0,67356
 metadata/effects/microtransactions/aura/tencentgoddess/pet/body.pet,Tiny.V4,39100740,10434
-metadata/effects/microtransactions/aura/tencentgoddess/pet/fadebody.pet,Tiny.V3.1,5496940,13752
+metadata/effects/microtransactions/aura/tencentgoddess/pet/fadebody.pet,Tiny.V3.1,7433320,13752
 metadata/effects/microtransactions/aura/tencentgoddess/pet/fadein.epk,Tiny.V9,38607499,454
 metadata/effects/microtransactions/aura/tencentgoddess/pet/fadein_epk_pass0.mat,Tiny.VF,37611428,1156
-metadata/effects/microtransactions/aura/tencentgoddess/pet/fadeout.epk,Tiny.V3.1,5510692,456
+metadata/effects/microtransactions/aura/tencentgoddess/pet/fadeout.epk,Tiny.V3.1,7447072,456
 metadata/effects/microtransactions/aura/tencentgoddess/pet/fadeout_epk_pass0.mat,Tiny.VD,38799474,1022
 metadata/effects/microtransactions/aura/tencentgoddess/pet/hair.pet,Tiny.VE,38683116,10318
 metadata/effects/microtransactions/aura/tencentgoddess/pet/mist.pet,Tiny.VD,38800496,2708
@@ -15962,23 +15962,23 @@ metadata/effects/microtransactions/aura/uniques/shaperseed/smlshaperseed.aoc,Tin
 metadata/effects/microtransactions/aura/uniques/shaperseed/smlshaperseed.epk,Tiny.V1,37509399,198
 metadata/effects/microtransactions/aura/vanguarddemon/vanguarddemon.ao,Tiny.V9,38627889,1004
 metadata/effects/microtransactions/aura/vanguarddemon/vanguarddemon.aoc,Tiny.V4,39132446,7154
-metadata/effects/microtransactions/aura/vanguarddemon/vanguarddemon_ao_pass1.mat,Tiny.V3.1,5180175,588
+metadata/effects/microtransactions/aura/vanguarddemon/vanguarddemon_ao_pass1.mat,Tiny.V3.1,7116555,588
 metadata/effects/microtransactions/aura/vanguarddemon/fx/ao/rig.ao,Tiny.V9,38627549,340
-metadata/effects/microtransactions/aura/vanguarddemon/fx/ao/rig.aoc,Tiny.V3.1,5149333,15190
+metadata/effects/microtransactions/aura/vanguarddemon/fx/ao/rig.aoc,Tiny.V3.1,7085713,15190
 metadata/effects/microtransactions/aura/vanguarddemon/fx/graphs/2ptpbrspeccolour.fxgraph,Tiny.V3.1,3402185,28926
 metadata/effects/microtransactions/aura/vanguarddemon/fx/graphs/edgeglow.fxgraph,Tiny.V3.1,3431111,29640
-metadata/effects/microtransactions/aura/vanguarddemon/fx/graphs/forceshadowonly.fxgraph,Tiny.V3.1,5735684,16088
+metadata/effects/microtransactions/aura/vanguarddemon/fx/graphs/forceshadowonly.fxgraph,Tiny.V3.1,3905525,16088
 metadata/effects/microtransactions/aura/vanguarddemon/fx/graphs/glowalpha.fxgraph,Tiny.V3.1,3460751,14610
 metadata/effects/microtransactions/aura/vanguarddemon/fx/graphs/heightfade.fxgraph,Tiny.V3.1,3475361,25214
-metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/appear.pet,Tiny.V3.1,5512018,15548
+metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/appear.pet,Tiny.V3.1,7448398,15548
 metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/budsmall.pet,Tiny.V2.1,205755,15132
-metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/energy_02_start.trl,Tiny.V3.1,5164523,7544
+metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/energy_02_start.trl,Tiny.V3.1,7100903,7544
 metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/glowspace.pet,Tiny.V3.1,226299,5314
 metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/holyeffect.pet,Tiny.V3.1,231613,37902
-metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/petalexplode.pet,Tiny.V3.1,5527566,2670
+metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/petalexplode.pet,Tiny.V3.1,7463946,2670
 metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/petals.pet,Tiny.V2.1,220887,2760
 metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/pointemit.pet,Tiny.VD,38810408,2808
-metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/sparkies.pet,Tiny.V3.1,5172067,8108
+metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/sparkies.pet,Tiny.V3.1,7108447,8108
 metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/stemtrail.trl,Tiny.V6,101148408,8
 metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/swipe_trail.trl,Tiny.VD,38813216,2822
 metadata/effects/microtransactions/aura/vanguarddemon/fx/pet/weaponline.pet,Tiny.V5,37522222,2716
@@ -15987,17 +15987,17 @@ metadata/effects/microtransactions/aura/warlord_misery/fx_cyl.pet,Tiny.VE,386938
 metadata/effects/microtransactions/aura/wyrmlordapparition/wyrmlordapparition.ao,Tiny.V2.1,242927,704
 metadata/effects/microtransactions/aura/wyrmlordapparition/wyrmlordapparition.aoc,Tiny.V9,38631861,25818
 metadata/effects/microtransactions/aura/wyrmlordapparition/pet/body.pet,Tiny.V4,39139600,6172
-metadata/effects/microtransactions/aura/wyrmlordapparition/pet/breath.pet,Tiny.V3.1,5180763,31196
+metadata/effects/microtransactions/aura/wyrmlordapparition/pet/breath.pet,Tiny.V3.1,7117143,31196
 metadata/effects/microtransactions/aura/wyrmlordapparition/pet/fireball_01_lock.pet,Tiny.VF,37636538,22206
 metadata/effects/microtransactions/aura/wyrmlordapparition/pet/fireballexplosion.pet,Tiny.VB,38493758,19000
 metadata/effects/microtransactions/aura/wyrmlordapparition/pet/impact.pet,Tiny.V2.1,223647,19280
 metadata/effects/microtransactions/aura/wyrmlordapparition/pet/lightsparks.pet,Tiny.V3.1,269515,6346
 metadata/effects/microtransactions/aura/wyrmlordapparition/pet/sparks.pet,Tiny.V3.1,275861,16496
 metadata/effects/microtransactions/aura/wyrmlordapparition/pet/sparkswings.pet,Tiny.VD,38816038,13902
-metadata/effects/microtransactions/aura/wyrmlordapparition/pet/wingimpact.pet,Tiny.V3.1,5530236,7970
+metadata/effects/microtransactions/aura/wyrmlordapparition/pet/wingimpact.pet,Tiny.V3.1,7466616,7970
 metadata/effects/microtransactions/aura/wyrmlordapparition/trl/bodytrail.trl,Tiny.V5,37524938,2922
 metadata/effects/microtransactions/aura/wyrmlordapparition/trl/tailemerge.trl,Tiny.V9,38628893,2968
-metadata/effects/microtransactions/aura/zenithbarrage/zenithbarrage.ao,Tiny.V3.1,5538206,404
+metadata/effects/microtransactions/aura/zenithbarrage/zenithbarrage.ao,Tiny.V3.1,7474586,404
 metadata/effects/microtransactions/aura/zenithbarrage/zenithbarrage.aoc,Tiny.V7,37266994,44878
 metadata/effects/microtransactions/aura/zenithbarrage/pet/fire_swordtip.pet,Tiny.V3.1,292357,4886
 metadata/effects/microtransactions/aura/zenithbarrage/pet/ping_swordline.pet,Tiny.V8,37409199,12446
@@ -21838,7 +21838,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/a12.aoc,Tiny.VB,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/a13.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/a13.aoc,Tiny.V5,40018802,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/a14.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/a14.aoc,Tiny.V3.1,5211959,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/a14.aoc,Tiny.V3.1,7148339,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/a15.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/a15.aoc,Tiny.V2.1,243631,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/a16.ao,Tiny.V1,39802409,398
@@ -21852,7 +21852,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/a19.aoc,Tiny.VC,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/a20.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/a20.aoc,Tiny.V3.1,301439,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b01.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/b01.aoc,Tiny.V3.1,5213673,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/b01.aoc,Tiny.V3.1,7150053,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b02.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b02.aoc,Tiny.V2.1,245345,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b03.ao,Tiny.V1,39802409,398
@@ -21866,7 +21866,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/b06.aoc,Tiny.V9,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b07.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b07.aoc,Tiny.VD,40917962,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b08.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/b08.aoc,Tiny.V3.1,5215387,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/b08.aoc,Tiny.V3.1,7151767,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b09.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b09.aoc,Tiny.V2.1,247059,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b10.ao,Tiny.V1,39802409,398
@@ -21880,7 +21880,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/b13.aoc,Tiny.VD,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b14.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b14.aoc,Tiny.V5,40022230,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b15.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/b15.aoc,Tiny.V3.1,5217101,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/b15.aoc,Tiny.V3.1,7153481,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b16.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b16.aoc,Tiny.VB,40451574,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b17.ao,Tiny.V1,39802409,398
@@ -21890,7 +21890,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/b18.aoc,Tiny.V0,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b19.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b19.aoc,Tiny.VB,40453288,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/b20.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/b20.aoc,Tiny.V3.1,5218815,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/b20.aoc,Tiny.V3.1,7155195,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c01.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c01.aoc,Tiny.V5,40023944,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c02.ao,Tiny.V1,39802409,398
@@ -21898,7 +21898,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/c02.aoc,Tiny.VB,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c03.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c03.aoc,Tiny.VC,41465647,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c04.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/c04.aoc,Tiny.V3.1,5538610,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/c04.aoc,Tiny.V3.1,7474990,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c05.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c05.aoc,Tiny.V9,40828225,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c06.ao,Tiny.V1,39802409,398
@@ -21910,7 +21910,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/c08.aoc,Tiny.V7,3
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c09.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c09.aoc,Tiny.VB,40456716,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c10.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/c10.aoc,Tiny.V3.1,5540324,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/c10.aoc,Tiny.V3.1,7476704,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c11.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c11.aoc,Tiny.V3.1,304867,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c12.ao,Tiny.V1,39802409,398
@@ -21932,7 +21932,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/c19.aoc,Tiny.VD,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c20.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/c20.aoc,Tiny.V2.1,250487,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d01.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/d01.aoc,Tiny.V3.1,5542038,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/d01.aoc,Tiny.V3.1,7478418,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d02.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d02.aoc,Tiny.V0,40095214,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d03.ao,Tiny.V1,39802409,398
@@ -21942,7 +21942,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/d04.aoc,Tiny.V8,3
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d05.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d05.aoc,Tiny.V9,40831653,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d06.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/d06.aoc,Tiny.V3.1,5220529,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/d06.aoc,Tiny.V3.1,7156909,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d07.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d07.aoc,Tiny.VE,40850320,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d08.ao,Tiny.V1,39802409,398
@@ -21952,7 +21952,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/d09.aoc,Tiny.VE,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d10.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d10.aoc,Tiny.VD,40924818,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d11.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/d11.aoc,Tiny.V3.1,5543752,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/d11.aoc,Tiny.V3.1,7480132,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d12.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d12.aoc,Tiny.V4,40927964,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d13.ao,Tiny.V1,39802409,398
@@ -21968,17 +21968,17 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/d17.aoc,Tiny.V2.1
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d18.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d18.aoc,Tiny.V4,40931392,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d19.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/d19.aoc,Tiny.V3.1,5222243,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/d19.aoc,Tiny.V3.1,7158623,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d20.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/d20.aoc,Tiny.V0,40098642,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e01.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/e01.aoc,Tiny.V3.1,5545466,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/e01.aoc,Tiny.V3.1,7481846,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e02.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e02.aoc,Tiny.VE,40853748,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e03.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e03.aoc,Tiny.V7,39117988,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e04.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/e04.aoc,Tiny.V3.1,5547180,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/e04.aoc,Tiny.V3.1,7483560,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e05.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e05.aoc,Tiny.VB,40460144,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e06.ao,Tiny.V1,39802409,398
@@ -21986,7 +21986,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/e06.aoc,Tiny.V0,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e07.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e07.aoc,Tiny.VF,39818130,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e08.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/e08.aoc,Tiny.V3.1,5223957,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/e08.aoc,Tiny.V3.1,7160337,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e09.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e09.aoc,Tiny.V2.1,253915,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e10.ao,Tiny.V1,39802409,398
@@ -22004,7 +22004,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/e15.aoc,Tiny.V4,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e16.ao,Tiny.V1,39806235,340
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e16.aoc,Tiny.VB,40461858,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e17.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/e17.aoc,Tiny.V3.1,5548894,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/e17.aoc,Tiny.V3.1,7485274,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e18.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e18.aoc,Tiny.V3.1,306581,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/e19.ao,Tiny.V1,39802409,398
@@ -22014,7 +22014,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/e20.aoc,Tiny.V5,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f01.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f01.aoc,Tiny.V1,39806575,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f02.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/f02.aoc,Tiny.V3.1,5550608,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/f02.aoc,Tiny.V3.1,7486988,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f03.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f03.aoc,Tiny.V7,39121416,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f04.ao,Tiny.V1,39802409,398
@@ -22024,7 +22024,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/f05.aoc,Tiny.V1,3
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f06.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f06.aoc,Tiny.V5,40030800,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f07.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/f07.aoc,Tiny.V3.1,5225671,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/f07.aoc,Tiny.V3.1,7162051,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f08.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f08.aoc,Tiny.V8,39768123,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f09.ao,Tiny.V1,39802409,398
@@ -22052,7 +22052,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/f19.aoc,Tiny.V9,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f20.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/f20.aoc,Tiny.V9,40835081,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g01.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/g01.aoc,Tiny.V3.1,5227385,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/g01.aoc,Tiny.V3.1,7163765,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g02.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g02.aoc,Tiny.VE,40858890,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g03.ao,Tiny.V1,39802409,398
@@ -22060,7 +22060,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/g03.aoc,Tiny.V4,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g04.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g04.aoc,Tiny.VF,39819844,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g05.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/g05.aoc,Tiny.V3.1,5229099,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/g05.aoc,Tiny.V3.1,7165479,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g06.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g06.aoc,Tiny.VD,40929960,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g07.ao,Tiny.V1,39802409,398
@@ -22076,7 +22076,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/g11.aoc,Tiny.V8,3
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g12.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g12.aoc,Tiny.V1,39813431,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g13.ao,Tiny.V1,39802409,398
-metadata/effects/microtransactions/misc/tencent/prestige_icons/g13.aoc,Tiny.V3.1,5230813,1714
+metadata/effects/microtransactions/misc/tencent/prestige_icons/g13.aoc,Tiny.V3.1,7167193,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g14.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g14.aoc,Tiny.V7,39129986,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g15.ao,Tiny.V1,39802409,398
@@ -22092,27 +22092,27 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons/g19.aoc,Tiny.V9,4
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g20.ao,Tiny.V1,39802409,398
 metadata/effects/microtransactions/misc/tencent/prestige_icons/g20.aoc,Tiny.VC,41472503,1714
 metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/a_close.pet,Tiny.VF,39823272,4880
-metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/a_open.pet,Tiny.V3.1,5552322,4858
+metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/a_open.pet,Tiny.V3.1,7488702,4858
 metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/b_close.pet,Tiny.VF,39823272,4880
 metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/b_open.pet,Tiny.VE,40862318,4858
 metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/c_close.pet,Tiny.VF,39828152,4944
 metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/c_open.pet,Tiny.VE,40867176,19466
 metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/d_close.pet,Tiny.VF,39828152,4944
 metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/d_open.pet,Tiny.VE,40886642,14630
-metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/e_close.pet,Tiny.V3.1,5557180,15002
+metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/e_close.pet,Tiny.V3.1,7493560,15002
 metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/e_open.pet,Tiny.V4,40938248,29524
 metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/f_close.pet,Tiny.V5,40034228,14810
-metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/f_open.pet,Tiny.V3.1,5572182,29000
+metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/f_open.pet,Tiny.V3.1,7508562,29000
 metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/g_close.pet,Tiny.VB,40465286,9906
-metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/g_open.pet,Tiny.V3.1,5232527,34034
+metadata/effects/microtransactions/misc/tencent/prestige_icons/pets/g_open.pet,Tiny.V3.1,7168907,34034
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/01.ao,Tiny.V1,39815145,956
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/01.aoc,Tiny.V1,39816101,1566
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/02.ao,Tiny.V3.1,308295,956
-metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/02.aoc,Tiny.V3.1,5601182,1566
+metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/02.aoc,Tiny.V3.1,7537562,1566
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/03.ao,Tiny.V4,40967772,956
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/03.aoc,Tiny.V8,39771551,1566
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/04.ao,Tiny.VB,40475192,956
-metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/04.aoc,Tiny.V3.1,5266561,1566
+metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/04.aoc,Tiny.V3.1,7202941,1566
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/05.ao,Tiny.V1,39817667,956
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/05.aoc,Tiny.V5,40049038,1566
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/06.ao,Tiny.V4,40968728,956
@@ -22126,7 +22126,7 @@ metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/attachments
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/attachments/gradeicon03.ao,Tiny.V3,41136038,80
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/attachments/gradeicon03.aoc,Tiny.VC,41474217,284
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/attachments/gradeicon04.ao,Tiny.V3,41136038,80
-metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/attachments/gradeicon04.aoc,Tiny.V3.1,5602748,284
+metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/attachments/gradeicon04.aoc,Tiny.V3.1,7539128,284
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/attachments/gradeicon05.ao,Tiny.V3,41136038,80
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/attachments/gradeicon05.aoc,Tiny.V2.1,259057,284
 metadata/effects/microtransactions/misc/tencent/prestige_icons_blank/attachments/gradeicon06.ao,Tiny.V3,41136038,80
@@ -23766,7 +23766,7 @@ metadata/effects/microtransactions/rings/ventorsgamblering/ringheld.aoc,Tiny.VB,
 metadata/effects/microtransactions/rings/ventorsgamblering/ventorsgamblediceroll2held.ao,Tiny.V1,40614545,350
 metadata/effects/microtransactions/rings/ventorsgamblering/ventorsgamblediceroll2held.aoc,Tiny.VC,42345371,3170
 metadata/effects/microtransactions/rings/ventorsgamblering/ventorsgambledicerollheld.ao,Tiny.VF,40725692,346
-metadata/effects/microtransactions/rings/ventorsgamblering/ventorsgambledicerollheld.aoc,Tiny.V3.1,5603032,1910
+metadata/effects/microtransactions/rings/ventorsgamblering/ventorsgambledicerollheld.aoc,Tiny.V3.1,7539412,1910
 metadata/effects/microtransactions/rings/ventorsgamblering/fx/dice_cast.pet,Tiny.VF,40716796,8896
 metadata/effects/microtransactions/rings/ventorsgamblering/fx/ring.pet,Tiny.V9,41961203,8686
 metadata/effects/microtransactions/rings/ventorsgamblering/graph/albedohueshift_bytime.fxgraph,Content/metadata/effects/microtransactions/waypoint/scientist/A2423F3D01E7A113.ver_orb2.pet,2006536,9644
@@ -34191,7 +34191,7 @@ metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/epk/t
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/epk/templar_staff_epk_pass1.mat,Tiny.VE,47169264,6734
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/cult_blade.pet,Tiny.VD,46187360,26962
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/cult_blade.trl,Tiny.V1,44809917,1402
-metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/cult_body.pet,Tiny.V3.1,5604942,11484
+metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/cult_body.pet,Tiny.V3.1,7541322,11484
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/cult_frameupper.pet,Tiny.V0,45206546,14352
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/cult_hands.pet,Tiny.V9,46216765,8904
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/cult_head.pet,Tiny.VB,46480810,6058
@@ -34199,15 +34199,15 @@ metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/cu
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/cult_wp_blade.pet,Tiny.V2.1,259341,11486
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/merce_blade.pet,Tiny.V1,44811319,20598
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/merce_blade.trl,Tiny.VD,46214322,1400
-metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/merce_body.pet,Tiny.V3.1,5268127,17512
-metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/merce_frameupper.pet,Tiny.V3.1,5616426,6068
+metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/merce_body.pet,Tiny.V3.1,7204507,17512
+metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/merce_frameupper.pet,Tiny.V3.1,7552806,6068
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/merce_hands.pet,Tiny.VE,47175998,5834
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/merce_head.pet,Tiny.VD,46215722,5844
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/merce_pop.pet,Tiny.V4,46637492,6684
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/merce_wp.pet,Tiny.V7,44431142,11756
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/pyro_blade.pet,Tiny.VB,46486868,19228
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/pyro_blade.trl,Tiny.V4,46644176,1402
-metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/pyro_body.pet,Tiny.V3.1,5622494,17444
+metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/pyro_body.pet,Tiny.V3.1,7558874,17444
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/pyro_frameupper.pet,Tiny.VC,46975423,14346
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/pyro_hands.pet,Tiny.VF,45154458,5886
 metadata/effects/microtransactions/weapon_effects/weapon_effects/possessed/fx/pyro_head.pet,Tiny.V0,45220898,5842

@@ -36963,7 +36963,7 @@ art/models/items/armours/helmets/microtransactions/oshabisheaddress/textures/fx/
 art/models/items/armours/helmets/microtransactions/oshabisheaddress/textures/fx/boss_cat/fire_shockwave.mat,Tiny.V8,7285266,3186
 art/models/items/armours/helmets/microtransactions/oshabisheaddress/textures/fx/boss_cat/kaioaura.mat,Tiny.V3.1,119707,9650
 art/models/items/armours/helmets/microtransactions/oshabisheaddress/textures/fx/boss_cat/streak02_8x8.mat,Tiny.V3.1,129357,2276
-art/models/items/armours/helmets/microtransactions/oshabisheaddress/textures/fx/boss_raven/air_shockwave.mat,Tiny.V3.1,5408650,3666
+art/models/items/armours/helmets/microtransactions/oshabisheaddress/textures/fx/boss_raven/air_shockwave.mat,Tiny.V3.1,7345030,3666
 art/models/items/armours/helmets/microtransactions/oshabisheaddress/textures/fx/boss_raven/fire_shockwave.mat,Tiny.V5,7233524,3186
 art/models/items/armours/helmets/microtransactions/oshabisheaddress/textures/fx/boss_raven/kaioaura.mat,Tiny.V1,7411094,9656
 art/models/items/armours/helmets/microtransactions/oshabisheaddress/textures/fx/boss_raven/streak02_8x8.mat,Tiny.V2.1,100577,2276
@@ -43694,7 +43694,7 @@ art/models/items/belts/magebloodattachment/rig.ast,Tiny.VA,7749155,1394
 art/models/items/belts/magebloodattachment/rig_5ee462e7.smd,Streaming/Content/metadata/items/belts/magebloodattachmentheld.ao,174924,654195
 art/models/items/belts/magebloodattachment/rig_5ee462e7.smd.header,Tiny.V4,7806100,1900
 art/models/items/charactereffects/archdemon/archdemon.sm,Tiny.V0,7864009,482
-art/models/items/charactereffects/archdemon/rig.amd,Tiny.V3.1,4994887,84
+art/models/items/charactereffects/archdemon/rig.amd,Tiny.V3.1,6931267,84
 art/models/items/charactereffects/archdemon/rig.ast,Content/metadata/effects/microtransactions/aura/dragonbluedemon/dragonbluedemon.ao,233545,82050
 art/models/items/charactereffects/archdemon/rig_42791e4b.smd,Streaming/Content/metadata/effects/microtransactions/aura/5C027F652088C0FB.5C027F652088C0FB.archdemon.epk,0,341208
 art/models/items/charactereffects/archdemon/rig_42791e4b.smd.header,Tiny.VC,7507209,448
@@ -43724,7 +43724,7 @@ art/models/items/charactereffects/demon2/demon2_aura/demon2aura.sm,Tiny.V8,77078
 art/models/items/charactereffects/demon2/demon2_aura/rig.amd,Tiny.VD,7648390,80
 art/models/items/charactereffects/demon2/demon2_aura/rig.ast,Tiny.V0,7864575,3489
 art/models/items/charactereffects/impdemon/impdemon.sm,Tiny.V0,7868064,480
-art/models/items/charactereffects/impdemon/rig.amd,Tiny.V3.1,4994887,84
+art/models/items/charactereffects/impdemon/rig.amd,Tiny.V3.1,6931267,84
 art/models/items/charactereffects/impdemon/rig.ast,Content/metadata/effects/microtransactions/aura/chiyoudemon/chiyoudemon.ao,491159,64585
 art/models/items/charactereffects/impdemon/rig_d38305b1.smd,Streaming/Content/metadata/effects/microtransactions/aura/8FCC03F59FC6600A.8FCC03F59FC6600A.impdemon.epk,0,232792
 art/models/items/charactereffects/impdemon/rig_d38305b1.smd.header,Tiny.V1,7769652,448
@@ -46501,7 +46501,7 @@ art/models/items/rings/ventorsgamble/ventorsgambledexint_2704e67f.smd,Streaming/
 art/models/items/rings/ventorsgamble/ventorsgambledexint_2704e67f.smd.header,Tiny.VC,7598090,448
 art/models/items/rings/ventorsgamble/ventorsgambledice.amd,Tiny.V1,7897257,196
 art/models/items/rings/ventorsgamble/ventorsgambledice.ast,Tiny.V3.1,3307145,4900
-art/models/items/rings/ventorsgamble/ventorsgambledice.sm,Tiny.V3.1,5412316,502
+art/models/items/rings/ventorsgamble/ventorsgambledice.sm,Tiny.V3.1,7348696,502
 art/models/items/rings/ventorsgamble/ventorsgambledice_d42cd250.smd,Streaming/Content/metadata/effects/microtransactions/aura/50095C8922FFC934.D1AC74E5AECBBE16.frameupper_start.pet,859208,15945
 art/models/items/rings/ventorsgamble/ventorsgambledice_d42cd250.smd.header,Tiny.V2.1,102853,448
 art/models/items/rings/ventorsgamble/ventorsgambleint_c2306447.smd,Streaming/Content/metadata/effects/microtransactions/pets/7898BC11483BF008.C01CE3283FE08138.idletrail.trl,906114,8007
@@ -46523,7 +46523,7 @@ art/models/items/rings/ventorsgamble/fx/flare_add.mat,Tiny.V9,8136082,2984
 art/models/items/rings/ventorsgamble/fx/open_rays.mat,Tiny.V7,7908511,2652
 art/models/items/rings/ventorsgamble/fx/pnt_flare.mat,Tiny.VF,7842557,1726
 art/models/items/rings/ventorsgamble/fx/spectrum2.mat,Tiny.V1,7883343,1470
-art/models/items/rings/ventorsgamble/fx/surge_big.mat,Tiny.V3.1,4994971,4914
+art/models/items/rings/ventorsgamble/fx/surge_big.mat,Tiny.V3.1,6931351,4914
 art/models/items/rings/ventorsgamble/textures/dice_colour_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/rings/07531FB96BCCEC46.9EE032D69DBC90F5.ventorsgamblestrdexint.ao,175112,1398276
 art/models/items/rings/ventorsgamble/textures/dice_colour_dxt5.dds.header,Tiny.V3,7630401,1520
 art/models/items/rings/ventorsgamble/textures/dice_glow_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/rings/07531FB96BCCEC46.9EE032D69DBC90F5.ventorsgamblestrdexint.ao,1573388,1398276
@@ -49277,9 +49277,9 @@ art/models/items/weapons/microtransactions/reaperapparitionscythe/reaperappariti
 art/models/items/weapons/microtransactions/reaperapparitionscythe/reaperapparitionscythe.fmt.header,Tiny.V4,8128093,555
 art/models/items/weapons/microtransactions/reaperapparitionscythe/fx/grad_blk_reaper.mat,Tiny.V0,8131962,1142
 art/models/items/weapons/microtransactions/reaperapparitionscythe/fx/smoke_ghosts_repear.mat,Tiny.VD,7933991,5926
-art/models/items/weapons/microtransactions/reaperapparitionscythe/fx/smoke_reaper.mat,Tiny.V3.1,4999885,4756
+art/models/items/weapons/microtransactions/reaperapparitionscythe/fx/smoke_reaper.mat,Tiny.V3.1,6936265,4756
 art/models/items/weapons/microtransactions/reaperapparitionscythe/textures/reaperscythe_colour_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/aura/208569474D9C0B59.reaperapparition.ot,79722,174924
-art/models/items/weapons/microtransactions/reaperapparitionscythe/textures/reaperscythe_colour_dxt1.dds.header,Tiny.V3.1,5004641,1520
+art/models/items/weapons/microtransactions/reaperapparitionscythe/textures/reaperscythe_colour_dxt1.dds.header,Tiny.V3.1,6941021,1520
 art/models/items/weapons/microtransactions/reaperapparitionscythe/textures/reaperscythe_glow_bc1.dds,Streaming/Content/metadata/effects/microtransactions/aura/208569474D9C0B59.reaperapparition.ot,254646,174924
 art/models/items/weapons/microtransactions/reaperapparitionscythe/textures/reaperscythe_glow_bc1.dds.header,Tiny.VC,7786574,1520
 art/models/items/weapons/microtransactions/reaperapparitionscythe/textures/reaperscythe_glow_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/aura/208569474D9C0B59.reaperapparition.ot,429570,349700
@@ -58398,10 +58398,10 @@ art/models/monsters/atlasexiles/thejudge/apparition/rgauntlet/rig_7a137f87.smd,S
 art/models/monsters/atlasexiles/thejudge/apparition/rgauntlet/rig_7a137f87.smd.header,Tiny.V5,8251643,448
 art/models/monsters/atlasexiles/thejudge/apparition/rgauntlet/animations/fist_bump/rig.amd,Tiny.V5,8250935,110
 art/models/monsters/atlasexiles/thejudge/apparition/rgauntlet/animations/fist_bump/rig.ast,Content/metadata/effects/microtransactions/rings/mavenlevelupeffectringattachmentdex.ao,601866,9692
-art/models/monsters/atziri/atziri.sm,Tiny.V3.1,5007245,598
+art/models/monsters/atziri/atziri.sm,Tiny.V3.1,6943625,598
 art/models/monsters/atziri/rig_28e3d76a.smd,Streaming/Content/metadata/items/armours/gloves/D9AE187B129722B3.F41E49AFD98F05E2.atzirihateforgeheld.ao,0,287468
 art/models/monsters/atziri/rig_28e3d76a.smd.header,Tiny.V9,8694043,540
-art/models/monsters/atziri/animations/hateforge/rig.amd,Tiny.V3.1,5006161,1084
+art/models/monsters/atziri/animations/hateforge/rig.amd,Tiny.V3.1,6942541,1084
 art/models/monsters/atziri/animations/hateforge/rig.ast,Content/metadata/items/armours/helmets/oshabisheaddress/4872D43FC5BC0DAA.cat_cover.pet,545537,84941
 art/models/monsters/avarius spirit/avariusspirit.sm,Tiny.V0,8581695,320
 art/models/monsters/avarius spirit/rig.amd,Content/metadata/monsters/avariuscasticus/avariuscasticusdivine.ao,0,9014
@@ -60430,7 +60430,7 @@ art/models/monsters/bullbrokencartfire/textures/sickbulllightbrown_normal_bc7.dd
 art/models/monsters/burnboss/reaperapparition.sm,Tiny.V5,8381240,540
 art/models/monsters/burnboss/reaperapparition_armour_02415bc7.smd,Streaming/Content/metadata/effects/microtransactions/aura/208569474D9C0B59.reaperapparition.ot,1303894,536119
 art/models/monsters/burnboss/reaperapparition_armour_02415bc7.smd.header,Content/metadata/effects/microtransactions/aura/crucibledemon/crucibledemonapparition.ot,608337,8666
-art/models/monsters/burnboss/animations/apparition/rig.amd,Tiny.V3.1,5007843,284
+art/models/monsters/burnboss/animations/apparition/rig.amd,Tiny.V3.1,6944223,284
 art/models/monsters/burnboss/animations/apparition/rig.ast,Content/metadata/effects/microtransactions/aura/crucibledemon/crucibledemonapparition.ot,498734,109603
 art/models/monsters/cactusmonster/cactusmonster.sm,Tiny.V5,8381780,4638
 art/models/monsters/cactusmonster/rig.amd,Tiny.V2,8551311,2112
@@ -66635,7 +66635,7 @@ art/models/monsters/harvestraven/rig.amd,Tiny.V8,8973122,1378
 art/models/monsters/harvestraven/rig.ast,Content/metadata/monsters/crawchimera/crawchimera.ao,5896,1076904
 art/models/monsters/harvestraven/rig_531432f8.smd,Streaming/Content/metadata/items/armours/helmets/9FE65B60649EA837.4E33425F25AE9DD3.catbossheld.ao,442505,654070
 art/models/monsters/harvestraven/rig_531432f8.smd.header,Content/metadata/items/armours/helmets/oshabisheaddress/4872D43FC5BC0DAA.cat_cover.pet,101943,5978
-art/models/monsters/harvestraven/animations/oshabisheaddress/rig.amd,Tiny.V3.1,5008127,138
+art/models/monsters/harvestraven/animations/oshabisheaddress/rig.amd,Tiny.V3.1,6944507,138
 art/models/monsters/harvestraven/animations/oshabisheaddress/rig.ast,Content/metadata/items/armours/helmets/oshabisheaddress/4872D43FC5BC0DAA.cat_cover.pet,7412,94531
 art/models/monsters/harvestraven/textures/crawchimera_colour_dxt1.dds,Streaming/Content/art/models/monsters/harvestraven/crawchimera.fmt,0,699212
 art/models/monsters/harvestraven/textures/crawchimera_colour_dxt1.dds.header,Tiny.V1,8972821,1520
