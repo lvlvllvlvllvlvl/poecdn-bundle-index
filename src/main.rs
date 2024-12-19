@@ -1,6 +1,7 @@
 use base64::Engine;
 use sanitize_filename::Options;
 use serde::{Deserialize, Serialize};
+use std::collections::hash_map::Entry;
 use std::collections::{BTreeMap, HashMap, HashSet};
 use std::fs;
 use std::io::prelude::*;
@@ -131,8 +132,15 @@ fn main() -> anyhow::Result<()> {
         let path_bundle = decompress(cur)?;
         let paths = decode_paths(path_bundle.as_slice())?;
         let mut file_data = BTreeMap::new();
+        let mut hash_map = HashMap::new();
         for filename in paths.iter() {
             let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f) as usize;
+            match hash_map.entry(hash) {
+                Entry::Occupied(s) => println!("hash collision {} / {}", filename, s.get()),
+                Entry::Vacant(e) => {
+                    e.insert(filename.as_str());
+                }
+            }
             if let Some(&(bundle_index, offset, size)) = files.get(&hash) {
                 let range =
                     if offset == 0 && bundle_sizes.get(bundle_index).is_some_and(|&s| s == size) {
