@@ -57921,7 +57921,7 @@ art/models/misc/shrines/forest/rig_2f307b19.smd,Streaming/Content/metadata/shrin
 art/models/misc/shrines/forest/rig_2f307b19.smd.header,Tiny.V5,8256164,448
 art/models/misc/shrines/ritualshrine/ritualshrine_01.sm,Tiny.V4,8596747,1798
 art/models/misc/shrines/ritualshrine/ritualshrine_model_4cc55b74.smd,Streaming/Folders/art/models/misc/shrines/ritualshrine,,
-art/models/misc/shrines/ritualshrine/ritualshrine_model_4cc55b74.smd.header,Folders/37/data.datc64,3013214,11320
+art/models/misc/shrines/ritualshrine/ritualshrine_model_4cc55b74.smd.header,Folders/08/data.datc64,2839506,11320
 art/models/misc/shrines/ritualshrine/shrine_ritual_gather/drawin.amd,Tiny.VB,3326551,102
 art/models/misc/shrines/ritualshrine/shrine_ritual_gather/drawin.ast,Tiny.V6,8429146,2122
 art/models/misc/shrines/ritualshrine/textures/basesticks_colour.dds,Streaming/Folders/art/models/misc/shrines/C2C8842E070C31EF.textures,0,699212
@@ -66804,13 +66804,13 @@ art/models/monsters/hags/carrioncronenophys.sm,Tiny.V1,9000730,2924
 art/models/monsters/hags/foresthags01.japan.sm,Tiny.VF,8943955,2868
 art/models/monsters/hags/foresthags01.sm,Tiny.VB,8934334,2856
 art/models/monsters/hags/foresthags01_armour.japan_a03d211b.japan.smd,Streaming/Folders/art/models/monsters/hags,0,364745
-art/models/monsters/hags/foresthags01_armour.japan_a03d211b.japan.smd.header,Folders/37/data.datc64,2980873,10763
+art/models/monsters/hags/foresthags01_armour.japan_a03d211b.japan.smd.header,Folders/08/data.datc64,2807165,10763
 art/models/monsters/hags/foresthags01_armour_bc25b669.smd,Streaming/Content/data/worldareas/4B/g1_2.vworld,0,475613
 art/models/monsters/hags/foresthags01_armour_bc25b669.smd.header,Content/data/worldareas/g3_1.vworld,677128,10763
 art/models/monsters/hags/foresthags02.japan.sm,Tiny.V4,9075259,766
 art/models/monsters/hags/foresthags02.sm,Tiny.V1,9003654,2856
 art/models/monsters/hags/foresthags02_armour.japan_de42f534.japan.smd,Streaming/Folders/art/models/monsters/hags,364745,419505
-art/models/monsters/hags/foresthags02_armour.japan_de42f534.japan.smd.header,Folders/37/data.datc64,2991636,10815
+art/models/monsters/hags/foresthags02_armour.japan_de42f534.japan.smd.header,Folders/08/data.datc64,2817928,10815
 art/models/monsters/hags/foresthags02_armour_9a0b597a.smd,Streaming/Content/metadata/effects/microtransactions/town_portals/362444A92FF9C137.D9C7C7673D6E4B8D.possessingspirits.ot,0,395383
 art/models/monsters/hags/foresthags02_armour_9a0b597a.smd.header,Content/metadata/effects/microtransactions/town_portals/soulwellportal/D9C7C7673D6E4B8D.possessingspirits.ot,923592,10815
 art/models/monsters/hags/orathianhags01.sm,Tiny.VA,9031343,2536
@@ -66820,7 +66820,7 @@ art/models/monsters/hags/orathianhags02.sm,Tiny.VB,8937190,2534
 art/models/monsters/hags/orathianhags02_armour_1062be73.smd,Streaming/Content/metadata/effects/spells/monsters_effects/2BC74FC430E2EC26.6630542F0506F608.candle_b_on.epk,617964,408687
 art/models/monsters/hags/orathianhags02_armour_1062be73.smd.header,Content/metadata/effects/spells/monsters_effects/act5_four/A84ABEAD6FC6D8F2.fade_out.epk,142017,10836
 art/models/monsters/hags/paleforestcarrioncrone.japan_3cd76bbc.japan.smd,Streaming/Folders/art/models/monsters/hags,784250,364745
-art/models/monsters/hags/paleforestcarrioncrone.japan_3cd76bbc.japan.smd.header,Folders/37/data.datc64,3002451,10763
+art/models/monsters/hags/paleforestcarrioncrone.japan_3cd76bbc.japan.smd.header,Folders/08/data.datc64,2828743,10763
 art/models/monsters/hags/paleforestcarrioncrone_ab5be8d0.smd,Streaming/Content/metadata/monsters/hags/hagbosscruel.ot,514166,475613
 art/models/monsters/hags/paleforestcarrioncrone_ab5be8d0.smd.header,Content/metadata/monsters/hags/hag.ot,35245,10763
 art/models/monsters/hags/paleforestcarrioncronenophys_armour_2e34ff79.smd,Streaming/Content/metadata/monsters/hags/hagbosscruel.ot,989779,465041
@@ -70086,7 +70086,7 @@ art/models/monsters/quadrilla/textures/quadrillawhairremake/quadrillawhairremake
 art/models/monsters/queenoffilth/queenoffilth.japan.sm,Tiny.V6,9078380,2602
 art/models/monsters/queenoffilth/queenoffilth.sm,Tiny.VD,9048552,2690
 art/models/monsters/queenoffilth/queenoffilth_armour.japan_36cf2db2.japan.smd,Streaming/Folders/art/models/monsters/queenoffilth,0,439745
-art/models/monsters/queenoffilth/queenoffilth_armour.japan_36cf2db2.japan.smd.header,Folders/37/data.datc64,2965196,15677
+art/models/monsters/queenoffilth/queenoffilth_armour.japan_36cf2db2.japan.smd.header,Folders/08/data.datc64,2791488,15677
 art/models/monsters/queenoffilth/rig.amd,Content/metadata/monsters/queenoffilth/queenoffilfthmonster.ot,11498,14866
 art/models/monsters/queenoffilth/rig.ast,Content/metadata/monsters/queenoffilth/queenoffilfthmonster.ot,26364,2930736
 art/models/monsters/queenoffilth/rig_7d5fa86e.smd,Streaming/Content/metadata/monsters/queenoffilth/queenoffilthbase.ao,0,344995
@@ -76326,7 +76326,7 @@ art/models/npc/orsentiller/rig_1066bcf5.smd.header,Tiny.V2,9600038,2609
 art/models/npc/potiontraderduo/grandma/potiontraderduograndma.japan.sm,Tiny.VF,9522314,678
 art/models/npc/potiontraderduo/grandma/potiontraderduograndma.sm,Tiny.V7,9577085,454
 art/models/npc/potiontraderduo/grandma/potiontraderduograndma_armour.japan_61e1b116.japan.smd,Streaming/Folders/art/models/npc/watergoddess,299681,416737
-art/models/npc/potiontraderduo/grandma/potiontraderduograndma_armour.japan_61e1b116.japan.smd.header,Folders/37/data.datc64,1173165,5931
+art/models/npc/potiontraderduo/grandma/potiontraderduograndma_armour.japan_61e1b116.japan.smd.header,Folders/08/data.datc64,999457,5931
 art/models/npc/potiontraderduo/grandma/rig.amd,Tiny.VE,9525667,812
 art/models/npc/potiontraderduo/grandma/rig.ast,Content/metadata/monsters/npc/servijungledepths.ao,25609,449762
 art/models/npc/potiontraderduo/grandma/rig_c5ba103a.smd,Streaming/Content/metadata/monsters/npc/servijungledepths.ao,310552,406684
