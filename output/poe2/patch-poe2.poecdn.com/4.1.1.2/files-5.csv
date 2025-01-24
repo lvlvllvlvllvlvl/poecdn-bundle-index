@@ -32211,7 +32211,7 @@ art/models/terrain/worldmap/act3/tgms/cliffedge_bendlarge_01_c1r4.tgm.header,Tin
 art/models/terrain/worldmap/act3/tgms/cliffedge_bendlarge_01_c1r5.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/cliffedge_bendlarge_01_c1r5.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/cliffedge_bendlarge_01_c1r6.tgm,Streaming/Content/data/worldareas/g3_worldmap.vworld,3674842,224357
-art/models/terrain/worldmap/act3/tgms/cliffedge_bendlarge_01_c1r6.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,852006,7989
+art/models/terrain/worldmap/act3/tgms/cliffedge_bendlarge_01_c1r6.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,780142,7989
 art/models/terrain/worldmap/act3/tgms/cliffedge_bendlarge_01_c2r1.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/cliffedge_bendlarge_01_c2r1.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/cliffedge_bendlarge_01_c2r2.tgm,Tiny.V1,19174672,57
@@ -32361,7 +32361,7 @@ art/models/terrain/worldmap/act3/tgms/cliffedge_cclarge_01_c6r4.tgm.header,Tiny.
 art/models/terrain/worldmap/act3/tgms/cliffedge_cclarge_01_c6r5.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/cliffedge_cclarge_01_c6r5.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/cliffedge_cclarge_01_c6r6.tgm,Streaming/Content/data/worldareas/g3_worldmap.vworld,3980992,290539
-art/models/terrain/worldmap/act3/tgms/cliffedge_cclarge_01_c6r6.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,859995,10057
+art/models/terrain/worldmap/act3/tgms/cliffedge_cclarge_01_c6r6.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,788131,10057
 art/models/terrain/worldmap/act3/tgms/cliffedge_cv_01_c1r1.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/cliffedge_cv_01_c1r1.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/cliffedge_cv_01_c1r2.tgm,Tiny.V1,19174672,57
@@ -32603,7 +32603,7 @@ art/models/terrain/worldmap/act3/tgms/dam_01_c9r2.tgm.header,Tiny.V2,10482440,42
 art/models/terrain/worldmap/act3/tgms/dam_01_c9r3.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/dam_01_c9r3.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/dam_01_c9r4.tgm,Streaming/Content/data/worldareas/g3_worldmap.vworld,4579160,544301
-art/models/terrain/worldmap/act3/tgms/dam_01_c9r4.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,870052,19297
+art/models/terrain/worldmap/act3/tgms/dam_01_c9r4.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,798188,19297
 art/models/terrain/worldmap/act3/tgms/dam_01_c9r5.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/dam_01_c9r5.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/dam_01_c9r6.tgm,Tiny.V1,19174672,57
@@ -32915,7 +32915,7 @@ art/models/terrain/worldmap/act3/tgms/jungle_fill_large_03_c2r3.tgm.header,Tiny.
 art/models/terrain/worldmap/act3/tgms/jungle_fill_large_03_c3r1.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/jungle_fill_large_03_c3r1.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/jungle_fill_large_03_c3r2.tgm,Streaming/Content/data/worldareas/g3_worldmap.vworld,5958347,166935
-art/models/terrain/worldmap/act3/tgms/jungle_fill_large_03_c3r2.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,889349,4733
+art/models/terrain/worldmap/act3/tgms/jungle_fill_large_03_c3r2.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,817485,4733
 art/models/terrain/worldmap/act3/tgms/jungle_fill_large_03_c3r3.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/jungle_fill_large_03_c3r3.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/jungle_fill_rivercnr_01.tgm,Streaming/Content/data/worldareas/g3_worldmap.vworld,6125282,15427
@@ -33197,7 +33197,7 @@ art/models/terrain/worldmap/act3/tgms/sandsweptmarsh_01_c1r4.tgm.header,Tiny.V2,
 art/models/terrain/worldmap/act3/tgms/sandsweptmarsh_01_c1r5.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/sandsweptmarsh_01_c1r5.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/sandsweptmarsh_01_c1r6.tgm,Streaming/Content/data/worldareas/g3_worldmap.vworld,6589904,184817
-art/models/terrain/worldmap/act3/tgms/sandsweptmarsh_01_c1r6.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,894082,5789
+art/models/terrain/worldmap/act3/tgms/sandsweptmarsh_01_c1r6.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,822218,5789
 art/models/terrain/worldmap/act3/tgms/sandsweptmarsh_01_c2r1.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/sandsweptmarsh_01_c2r1.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/sandsweptmarsh_01_c2r2.tgm,Tiny.V1,19174672,57
@@ -33423,7 +33423,7 @@ art/models/terrain/worldmap/act3/tgms/submergedlakeedge_bendlarge_01_c1r4.tgm.he
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_bendlarge_01_c1r5.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_bendlarge_01_c1r5.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_bendlarge_01_c1r6.tgm,Streaming/Content/data/worldareas/g3_worldmap.vworld,6951576,208561
-art/models/terrain/worldmap/act3/tgms/submergedlakeedge_bendlarge_01_c1r6.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,899871,6757
+art/models/terrain/worldmap/act3/tgms/submergedlakeedge_bendlarge_01_c1r6.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,828007,6757
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_bendlarge_01_c2r1.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_bendlarge_01_c2r1.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_bendlarge_01_c2r2.tgm,Tiny.V1,19174672,57
@@ -33573,7 +33573,7 @@ art/models/terrain/worldmap/act3/tgms/submergedlakeedge_cclarge_01_c6r4.tgm.head
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_cclarge_01_c6r5.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_cclarge_01_c6r5.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_cclarge_01_c6r6.tgm,Streaming/Content/data/worldareas/g3_worldmap.vworld,7237572,225277
-art/models/terrain/worldmap/act3/tgms/submergedlakeedge_cclarge_01_c6r6.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,906628,8297
+art/models/terrain/worldmap/act3/tgms/submergedlakeedge_cclarge_01_c6r6.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,834764,8297
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_cv_01_c1r1.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_cv_01_c1r1.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/submergedlakeedge_cv_01_c1r2.tgm,Tiny.V1,19174672,57
@@ -33843,7 +33843,7 @@ art/models/terrain/worldmap/act3/tgms/townziggurat_01_c9r7.tgm.header,Tiny.V2,10
 art/models/terrain/worldmap/act3/tgms/townziggurat_01_c9r8.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/townziggurat_01_c9r8.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/townziggurat_01_c9r9.tgm,Streaming/Content/data/worldareas/g3_worldmap.vworld,7746780,452559
-art/models/terrain/worldmap/act3/tgms/townziggurat_01_c9r9.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,914925,11993
+art/models/terrain/worldmap/act3/tgms/townziggurat_01_c9r9.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,843061,11993
 art/models/terrain/worldmap/act3/tgms/treasurevault_01_c1r1.tgm,Tiny.V1,19174672,57
 art/models/terrain/worldmap/act3/tgms/treasurevault_01_c1r1.tgm.header,Tiny.V2,10482440,424
 art/models/terrain/worldmap/act3/tgms/treasurevault_01_c1r2.tgm,Tiny.V1,19174672,57

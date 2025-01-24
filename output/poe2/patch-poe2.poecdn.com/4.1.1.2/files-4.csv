@@ -26870,7 +26870,7 @@ art/models/terrain/maps/derelict/tgms/thinwall_quad_01.tgm.header,Tiny.V3,188928
 art/models/terrain/maps/derelict/tgms/thinwall_st_01.tgm,Streaming/Content/data/worldareas/mapderelictmansion_noboss.vworld,26231466,247833
 art/models/terrain/maps/derelict/tgms/thinwall_st_01.tgm.header,Tiny.V5,18722019,1108
 art/models/terrain/maps/derelict/tgms/thinwall_st_02.tgm,Streaming/Content/data/worldareas/mapderelictmansion_noboss.vworld,26479299,418861
-art/models/terrain/maps/derelict/tgms/thinwall_st_02.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,3877809,5552
+art/models/terrain/maps/derelict/tgms/thinwall_st_02.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,3986351,5552
 art/models/terrain/maps/derelict/tgms/thinwall_tri_01.tgm,Streaming/Content/data/worldareas/mapderelictmansion_noboss.vworld,26898160,440631
 art/models/terrain/maps/derelict/tgms/thinwall_tri_01.tgm.header,Tiny.V8,19095934,1064
 art/models/terrain/maps/dieback/transition_01.tgt,Content/data/worldareas/mapdieback.vworld,0,4366
@@ -45940,7 +45940,7 @@ art/models/terrain/maps/sulphuriccaverns/stmm_02.tgt,Tiny.V9,20252404,3288
 art/models/terrain/maps/sulphuriccaverns/stmm_03.tgt,Tiny.VF,20016642,2452
 art/models/terrain/maps/sulphuriccaverns/stmw_01.tgt,Tiny.VE,19814526,3338
 art/models/terrain/maps/sulphuriccaverns/stww_01.tgt,Tiny.VD,19942383,2562
-art/models/terrain/maps/sulphuriccaverns/sulphuriccaverns_boss_01.tgt,Content/data/worldareas/hideoutsunspire.vworld,3335053,19162
+art/models/terrain/maps/sulphuriccaverns/sulphuriccaverns_boss_01.tgt,Content/data/worldareas/mapsteppe_noboss.vworld,3263189,19162
 art/models/terrain/maps/sulphuriccaverns/bones/msca_animalskullsdecor01_colour.dds,Streaming/Content/data/worldareas/C4/mapabyss_noboss.vworld,0,2796364
 art/models/terrain/maps/sulphuriccaverns/bones/msca_animalskullsdecor01_colour.dds.header,Tiny.VF,20005748,1520
 art/models/terrain/maps/sulphuriccaverns/bones/msca_animalskullsdecor01_normal.dds,Streaming/Content/data/worldareas/7E/mapabyss_noboss.vworld,0,5592580
@@ -46504,7 +46504,7 @@ art/models/terrain/maps/sulphuriccaverns/tgms/sulphuriccaverns_boss_01_c16r18.tg
 art/models/terrain/maps/sulphuriccaverns/tgms/sulphuriccaverns_boss_01_c16r2.tgm,Tiny.V2,19973295,781
 art/models/terrain/maps/sulphuriccaverns/tgms/sulphuriccaverns_boss_01_c16r2.tgm.header,Tiny.V7,15247695,424
 art/models/terrain/maps/sulphuriccaverns/tgms/sulphuriccaverns_boss_01_c16r3.tgm,Streaming/Content/data/worldareas/CE/mapsulphuriccaverns_noboss.vworld,29777,4512587
-art/models/terrain/maps/sulphuriccaverns/tgms/sulphuriccaverns_boss_01_c16r3.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,3354215,4490
+art/models/terrain/maps/sulphuriccaverns/tgms/sulphuriccaverns_boss_01_c16r3.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,3282351,4490
 art/models/terrain/maps/sulphuriccaverns/tgms/sulphuriccaverns_boss_01_c16r4.tgm,Tiny.V5,19468394,1453
 art/models/terrain/maps/sulphuriccaverns/tgms/sulphuriccaverns_boss_01_c16r4.tgm.header,Tiny.V5,19469847,424
 art/models/terrain/maps/sulphuriccaverns/tgms/sulphuriccaverns_boss_01_c16r5.tgm,Tiny.VD,19956894,1201

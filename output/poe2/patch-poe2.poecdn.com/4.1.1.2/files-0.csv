@@ -78745,7 +78745,7 @@ art/models/effects/player_portal/frame.fmt,Streaming/Content/metadata/particles/
 art/models/effects/player_portal/frame.fmt.header,Tiny.VC,5248277,208
 art/models/effects/player_portal/playerportal.sm,Tiny.V0,5516922,672
 art/models/effects/player_portal/rig.amd,Tiny.VB,5371851,392
-art/models/effects/player_portal/rig.ast,Shared,0,24663
+art/models/effects/player_portal/rig.ast,Tiny.V2.1,546,24663
 art/models/effects/player_portal/rig_bb97e368.smd,Streaming/Shared/Normal/Shared.1,4199441,199925
 art/models/effects/player_portal/rig_bb97e368.smd.header,Tiny.VD,5288115,448
 art/models/effects/portentofafalsegod/texture/white_smoke_dxt4.dds,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.B9F4E58C9B84296C.bow.epk,497477,87556

@@ -32131,7 +32131,7 @@ art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_mudedge_st_long_01_c9r2.t
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_mudedge_st_long_01_c9r3.tgm,Tiny.V8,11939181,287
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_mudedge_st_long_01_c9r3.tgm.header,Tiny.V7,21874212,424
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_01_c1r1.tgm,Streaming/Content/data/worldareas/maprefuge_noboss.vworld,5154903,2157343
-art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_01_c1r1.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,180198,12718
+art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_01_c1r1.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,108334,12718
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_01_c1r2.tgm,Tiny.V7,11890112,2809
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_01_c1r2.tgm.header,Tiny.V6,11785559,424
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_01_c1r3.tgm,Tiny.VA,11862580,2477
@@ -32153,7 +32153,7 @@ art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_02_c1r1.tg
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_02_c1r2.tgm,Tiny.VF,11838704,2809
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_02_c1r2.tgm.header,Tiny.V6,11785559,424
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_02_c1r3.tgm,Streaming/Content/data/worldareas/maprefuge_noboss.vworld,9262606,1057311
-art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_02_c1r3.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,192916,13818
+art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_02_c1r3.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,121052,13818
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_02_c2r1.tgm,Tiny.VF,11841513,983
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_02_c2r1.tgm.header,Tiny.V5,11581073,424
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_cc_02_c2r2.tgm,Streaming/Content/data/worldareas/maprefuge_noboss.vworld,10319917,133727
@@ -32177,7 +32177,7 @@ art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_st_01_c2r1.tg
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_st_01_c2r2.tgm,Streaming/Content/data/worldareas/maprefuge_noboss.vworld,10887487,179487
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_st_01_c2r2.tgm.header,Tiny.VE,11814682,2818
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_st_01_c2r3.tgm,Streaming/Content/data/worldareas/maprefuge_noboss.vworld,11066974,548413
-art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_st_01_c2r3.tgm.header,Content/data/worldareas/hideoutsunspire.vworld,206734,8230
+art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_st_01_c2r3.tgm.header,Content/data/worldareas/mapsteppe_noboss.vworld,134870,8230
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_st_01_c3r1.tgm,Streaming/Content/data/worldareas/maprefuge_noboss.vworld,11615387,3084291
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_st_01_c3r1.tgm.header,Tiny.V4,12078501,2554
 art/models/terrain/desert/oasis/ruins/tgms/ruinwall_to_pancakerock_st_01_c3r2.tgm,Streaming/Content/data/worldareas/maprefuge_noboss.vworld,14699678,141585
