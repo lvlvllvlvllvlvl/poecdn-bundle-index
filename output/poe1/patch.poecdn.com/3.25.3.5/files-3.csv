@@ -72108,14 +72108,14 @@ art/models/terrain/beach/trees/grd.fmt,Tiny_5,34787637,43
 art/models/terrain/beach/trees/grd.fmt.header,Tiny_6,90510499,208
 art/models/terrain/beach/trees/horseman_tree_armour_8848203e.smd,Art/Models/Terrain/Beach/Trees_2,0,229572
 art/models/terrain/beach/trees/horseman_tree_armour_8848203e.smd.header,Tiny_3,68940605,448
-art/models/terrain/beach/trees/horsemantree.amd,Tiny_7,28146617,94
+art/models/terrain/beach/trees/horsemantree.amd,Tiny_7,28533044,94
 art/models/terrain/beach/trees/horsemantree.ast,Tiny_3,68941053,3281
 art/models/terrain/beach/trees/horsemantree.sm,Tiny_3,68944334,498
 art/models/terrain/beach/trees/huntsman.fmt,Art/Models/Terrain/Beach/Trees_2,229572,593649
 art/models/terrain/beach/trees/huntsman.fmt.header,Tiny_3,68944832,296
 art/models/terrain/beach/trees/huntsman_tree_armour_8aaa6aee.smd,Art/Models/Terrain/Beach/Trees_2,823221,433210
 art/models/terrain/beach/trees/huntsman_tree_armour_8aaa6aee.smd.header,Tiny_3,68945128,448
-art/models/terrain/beach/trees/huntsmantree.amd,Tiny_7,28146617,94
+art/models/terrain/beach/trees/huntsmantree.amd,Tiny_7,28533044,94
 art/models/terrain/beach/trees/huntsmantree.ast,Tiny_3,68945576,3058
 art/models/terrain/beach/trees/huntsmantree.sm,Tiny_3,68948634,624
 art/models/terrain/beach/trees/madcaptree.fmt,Art/Models/Terrain/Beach/Trees_2,1256431,441855
@@ -95231,7 +95231,7 @@ art/models/terrain/doodads/hideouts/arcanecraftingbench/textures/fernace01_norma
 art/models/terrain/doodads/hideouts/arcanecraftingbench/textures/fernace01_normal_dxt5.dds.header,Tiny_4,7182094,1520
 art/models/terrain/doodads/hideouts/arcanecraftingbench/textures/fernace01c.mat,Tiny_4,7183614,2376
 art/models/terrain/doodads/hideouts/arcanecraftingbench/textures/glass01_colour_dxt1.dds,Folders/art/textures/items/armour/body/microtransactions/wings_41,0,11084
-art/models/terrain/doodads/hideouts/arcanecraftingbench/textures/glass01_colour_dxt1.dds.header,Tiny_7,22926088,1520
+art/models/terrain/doodads/hideouts/arcanecraftingbench/textures/glass01_colour_dxt1.dds.header,Tiny_7,23312515,1520
 art/models/terrain/doodads/hideouts/arcanecraftingbench/textures/glass01_normal_dxt5.dds,Folders/art/models/terrain/doodads/hideouts/arcanecraftingbench,1223836,22020
 art/models/terrain/doodads/hideouts/arcanecraftingbench/textures/glass01_normal_dxt5.dds.header,Tiny_4,7185990,1520
 art/models/terrain/doodads/hideouts/arcanecraftingbench/textures/glass01c.mat,Tiny_4,7187510,2248
@@ -96029,11 +96029,11 @@ art/models/terrain/doodads/hideouts/demoncraftingbench/textures/demonlava_normal
 art/models/terrain/doodads/hideouts/demoncraftingbench/textures/demonlava_normal_dxt5.dds.header,Tiny_4,7781393,1520
 art/models/terrain/doodads/hideouts/demoncraftingbench/textures/demonlavac.mat,Tiny_4,7782913,4708
 art/models/terrain/doodads/hideouts/demoncraftingbench/textures/glowingcloals_height_dxt5.dds,Art/Textures/Environment/EndGame/Steppes_18,699212,349700
-art/models/terrain/doodads/hideouts/demoncraftingbench/textures/glowingcloals_height_dxt5.dds.header,Tiny_7,4538554,1520
+art/models/terrain/doodads/hideouts/demoncraftingbench/textures/glowingcloals_height_dxt5.dds.header,Tiny_7,4906905,1520
 art/models/terrain/doodads/hideouts/demoncraftingbench/textures/glowingcloals_normal_dxt5.dds,Art/Textures/Environment/EndGame/Steppes_19,0,349700
-art/models/terrain/doodads/hideouts/demoncraftingbench/textures/glowingcloals_normal_dxt5.dds.header,Tiny_7,4540074,1520
+art/models/terrain/doodads/hideouts/demoncraftingbench/textures/glowingcloals_normal_dxt5.dds.header,Tiny_7,4908425,1520
 art/models/terrain/doodads/hideouts/demoncraftingbench/textures/glowingcoals_colour_dxt1.dds,Art/Textures/Environment/EndGame/Steppes_8,43876,174924
-art/models/terrain/doodads/hideouts/demoncraftingbench/textures/glowingcoals_colour_dxt1.dds.header,Tiny_7,4534206,1520
+art/models/terrain/doodads/hideouts/demoncraftingbench/textures/glowingcoals_colour_dxt1.dds.header,Tiny_7,4902557,1520
 art/models/terrain/doodads/hideouts/demoncraftingbench/textures/glowingcoalsc.mat,Folders/art/models/terrain/doodads/hideouts/demoncraftingbench,915190,4840
 art/models/terrain/doodads/hideouts/fairgravesmysteryboxset/barrlepile_01.fmt,Art/Models/Terrain/Doodads/Hideouts/FairgravesMysteryBoxSet,0,23551
 art/models/terrain/doodads/hideouts/fairgravesmysteryboxset/barrlepile_01.fmt.header,Tiny_4,7820847,208
@@ -96981,7 +96981,7 @@ art/models/terrain/doodads/hideouts/lumerius/rowboat/rig_71d1e60a.smd,Folders/ar
 art/models/terrain/doodads/hideouts/lumerius/rowboat/rig_71d1e60a.smd.header,Tiny_5,6244866,759
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/cutoutwater_colour.dds,Folders/art/models/terrain/doodads/hideouts/lumerius_6,0,2796364
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/cutoutwater_colour.dds.header,Tiny_5,6245625,1520
-art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/cutoutwaterc.mat,Tiny_7,4594974,202
+art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/cutoutwaterc.mat,Tiny_7,4963325,202
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgb_features_colour_dxt1.dds,Folders/art/models/terrain/islands/tiles/kedgebay_2,1398276,1398268
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgb_features_colour_dxt1.dds.header,Tiny_5,10315225,840
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgb_features_metal_dxt1.dds,Folders/art/models/terrain/islands/tiles/kedgebay_3,0,1398268
@@ -97054,9 +97054,9 @@ art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_hullplanks02c.
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_metaldetails_hullc.mat,Tiny_5,6310101,3922
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_metaldetailsc.mat,Tiny_5,6314023,3798
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_rope02_colour_bc1.dds,Folders/art/models/terrain/leagues/kalguuransettlers/bossarenas_02,87588,43868
-art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_rope02_colour_bc1.dds.header,Tiny_7,4579730,504
+art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_rope02_colour_bc1.dds.header,Tiny_7,4948081,504
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_rope02_normal_bc7.dds,Folders/art/textures/interface/2d/2dart/55/uiimages_4,1262140,87588
-art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_rope02_normal_bc7.dds.header,Tiny_7,4577804,504
+art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_rope02_normal_bc7.dds.header,Tiny_7,4946155,504
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_rope02c.mat,Tiny_5,6317821,2082
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_smallerpersonalchest_colour_bc7.dds,Folders/art/models/terrain/doodads/hideouts/lumerius_D,1398276,5592580
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_smallerpersonalchest_colour_bc7.dds.header,Tiny_5,6319903,1520
@@ -97066,9 +97066,9 @@ art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_smallerpersona
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_strips_hullc.mat,Tiny_5,6325061,3218
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_stripsc.mat,Tiny_5,6263559,3094
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_wood_clean01_colour_bc1.dds,Folders/art/textures/general/wood,524624,699212
-art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_wood_clean01_colour_bc1.dds.header,Tiny_7,4605880,1520
+art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_wood_clean01_colour_bc1.dds.header,Tiny_7,4974231,1520
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_wood_clean01_normal_bc7.dds,Folders/art/textures/general/wood,1223836,1398276
-art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_wood_clean01_normal_bc7.dds.header,Tiny_7,4607400,1520
+art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_wood_clean01_normal_bc7.dds.header,Tiny_7,4975751,1520
 art/models/terrain/doodads/hideouts/lumerius/rowboat/textures/kgs_wood_clean01c.mat,Tiny_5,6328279,3480
 art/models/terrain/doodads/hideouts/midnightpact/overseer/arch01.fmt,Art/Models/Terrain/Doodads/Hideouts/MidnightPact,0,107077
 art/models/terrain/doodads/hideouts/midnightpact/overseer/arch01.fmt.header,Tiny_4,8429511,296
@@ -97136,7 +97136,7 @@ art/models/terrain/doodads/hideouts/midnightpact/overseer/fx/orb1c.mat,Tiny_4,84
 art/models/terrain/doodads/hideouts/midnightpact/overseer/fx/orb2c.mat,Tiny_4,8447707,4016
 art/models/terrain/doodads/hideouts/midnightpact/overseer/fx/wispiness.mat,Tiny_4,8451723,2208
 art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/candle_flame_animated_dxt1.dds,Art/Microtransactions/Town_Portal/Sinnocence_portal_1,437256,5660
-art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/candle_flame_animated_dxt1.dds.header,Tiny_7,13495746,344
+art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/candle_flame_animated_dxt1.dds.header,Tiny_7,13882173,344
 art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/candle_flame_animatedc.mat,Tiny_4,8460871,2946
 art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/candles_colour_dxt1.dds,Art/Models/Terrain/Doodads/Hideouts/MidnightPact_3,703342,174924
 art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/candles_colour_dxt1.dds.header,Tiny_4,8463817,1520
@@ -97187,7 +97187,7 @@ art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/seerpillarc.m
 art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/wax_colour_dxt2.dds,Art/Models/Terrain/Doodads/Hideouts/MidnightPact_2,786956,43876
 art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/wax_colour_dxt2.dds.header,Tiny_4,8514915,840
 art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/wax_normal_dxt5.dds,Folders/art/models/terrain/doodads/hideouts/midnightpact,699236,43876
-art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/wax_normal_dxt5.dds.header,Tiny_7,2504788,840
+art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/wax_normal_dxt5.dds.header,Tiny_7,2873139,840
 art/models/terrain/doodads/hideouts/midnightpact/overseer/textures/waxc.mat,Tiny_4,8515755,3430
 art/models/terrain/doodads/hideouts/midnightpact/scavenger/arch01.fmt,Art/Models/Terrain/Doodads/Hideouts/MidnightPact_7,1092955,106607
 art/models/terrain/doodads/hideouts/midnightpact/scavenger/arch01.fmt.header,Tiny_4,8522458,558
@@ -97280,7 +97280,7 @@ art/models/terrain/doodads/hideouts/midnightpact/scavenger/textures/scavpotionc.
 art/models/terrain/doodads/hideouts/midnightpact/scavenger/textures/scavwax_colour_dxt2.dds,Art/Models/Terrain/Doodads/Hideouts/MidnightPact_19,1005920,43876
 art/models/terrain/doodads/hideouts/midnightpact/scavenger/textures/scavwax_colour_dxt2.dds.header,Tiny_4,8564808,840
 art/models/terrain/doodads/hideouts/midnightpact/scavenger/textures/scavwax_normal_dxt5.dds,Folders/art/models/terrain/doodads/hideouts/midnightpact,699236,43876
-art/models/terrain/doodads/hideouts/midnightpact/scavenger/textures/scavwax_normal_dxt5.dds.header,Tiny_7,2504788,840
+art/models/terrain/doodads/hideouts/midnightpact/scavenger/textures/scavwax_normal_dxt5.dds.header,Tiny_7,2873139,840
 art/models/terrain/doodads/hideouts/midnightpact/scavenger/textures/scavwaxc.mat,Tiny_4,8565648,2290
 art/models/terrain/doodads/hideouts/midnightpact/scavenger/textures/stonewall_colour_bc1.dds,Art/Models/Terrain/Doodads/Hideouts/MidnightPact_24,,
 art/models/terrain/doodads/hideouts/midnightpact/scavenger/textures/stonewall_colour_bc1.dds.header,Tiny_4,8567938,1520
@@ -97578,9 +97578,9 @@ art/models/terrain/doodads/hideouts/royale02_rewards/textures/blooddecal_normal_
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/blooddecal_normal_dxt5.dds.header,Tiny_6,117920295,1520
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/blooddecalc.mat,Tiny_4,8733704,2254
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/clearfelllogpiles2_colour_dxt1.dds,Art/Models/Terrain/Doodads/Hideouts/Royale02_Rewards_5,699400,699212
-art/models/terrain/doodads/hideouts/royale02_rewards/textures/clearfelllogpiles2_colour_dxt1.dds.header,Tiny_7,2604358,1520
+art/models/terrain/doodads/hideouts/royale02_rewards/textures/clearfelllogpiles2_colour_dxt1.dds.header,Tiny_7,2972709,1520
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/clearfelllogpiles2_normal_dxt5.dds,Art/Models/Terrain/Doodads/Hideouts/Royale02_Rewards_6,,
-art/models/terrain/doodads/hideouts/royale02_rewards/textures/clearfelllogpiles2_normal_dxt5.dds.header,Tiny_7,2609814,1520
+art/models/terrain/doodads/hideouts/royale02_rewards/textures/clearfelllogpiles2_normal_dxt5.dds.header,Tiny_7,2978165,1520
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/clearfelllogpiles2c.mat,Tiny_4,8735958,2092
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/crhoa_colour_dxt1.dds,Art/Models/Terrain/Doodads/Hideouts/Royale02_Rewards_7,,
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/crhoa_colour_dxt1.dds.header,Tiny_4,8738050,1520
@@ -97676,7 +97676,7 @@ art/models/terrain/doodads/hideouts/royale02_rewards/textures/rhoa_add_dxt5.dds.
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/rhoa_normal_dxt5.dds,Art/Models/Terrain/Doodads/Hideouts/Royale02_Rewards_25,349700,349700
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/rhoa_normal_dxt5.dds.header,Tiny_4,8820636,1520
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/rhoaflayed_normal_dxt5.dds,Art/Models/Terrain/Doodads/Hideouts/Royale02_Rewards_41,87556,349700
-art/models/terrain/doodads/hideouts/royale02_rewards/textures/rhoaflayed_normal_dxt5.dds.header,Tiny_7,50670784,1520
+art/models/terrain/doodads/hideouts/royale02_rewards/textures/rhoaflayed_normal_dxt5.dds.header,Tiny_7,51057211,1520
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/rhoastatue_colour_dxt5.dds,Art/Models/Terrain/Doodads/Hideouts/Royale02_Rewards_42,,
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/rhoastatue_colour_dxt5.dds.header,Tiny_4,8822156,1520
 art/models/terrain/doodads/hideouts/royale02_rewards/textures/rhoastatue_normal_dxt5.dds,Art/Models/Terrain/Doodads/Hideouts/Royale02_Rewards_43,,
@@ -98239,9 +98239,9 @@ art/models/terrain/doodads/hideouts/villagedoodads/textures/crates01_normal.dds,
 art/models/terrain/doodads/hideouts/villagedoodads/textures/crates01_normal.dds.header,Tiny_4,9168736,1520
 art/models/terrain/doodads/hideouts/villagedoodads/textures/crates01c.mat,Tiny_4,9170256,1016
 art/models/terrain/doodads/hideouts/villagedoodads/textures/flask_colour.dds,Art/Textures/Environment/Woods/CryptDungeon_8,349896,11084
-art/models/terrain/doodads/hideouts/villagedoodads/textures/flask_colour.dds.header,Tiny_7,2766640,1520
+art/models/terrain/doodads/hideouts/villagedoodads/textures/flask_colour.dds.header,Tiny_7,3134991,1520
 art/models/terrain/doodads/hideouts/villagedoodads/textures/flask_normal.dds,Art/Textures/Environment/Woods/CryptDungeon_8,360980,22020
-art/models/terrain/doodads/hideouts/villagedoodads/textures/flask_normal.dds.header,Tiny_7,2770406,1520
+art/models/terrain/doodads/hideouts/villagedoodads/textures/flask_normal.dds.header,Tiny_7,3138757,1520
 art/models/terrain/doodads/hideouts/villagedoodads/textures/flaskc.mat,Tiny_4,9171272,940
 art/models/terrain/doodads/hideouts/villagedoodads/textures/food01_colour.dds,Folders/art/models/terrain/doodads/hideouts/villagedoodads_2,,
 art/models/terrain/doodads/hideouts/villagedoodads/textures/food01_colour.dds.header,Tiny_4,9172212,1520
@@ -99490,201 +99490,3 @@ art/models/terrain/doodads/labyrinth/smashedroomba_spike_v01.fmt,Tiny_4,10046244
 art/models/terrain/doodads/labyrinth/smashedroomba_spike_v01.fmt.header,Tiny_4,10047075,208
 art/models/terrain/doodads/labyrinth/smashedroomba_v01.fmt,Art/Models/Terrain/Doodads/labyrinth_2,135354,71491
 art/models/terrain/doodads/labyrinth/smashedroomba_v01.fmt.header,Tiny_4,10047283,208
-art/models/terrain/doodads/labyrinth/chargedisruptors/chargedisrutor.sm,Tiny_4,9728153,834
-art/models/terrain/doodads/labyrinth/chargedisruptors/rig.amd,Tiny_4,9728987,308
-art/models/terrain/doodads/labyrinth/chargedisruptors/rig.ast,Art/Models/Terrain/Doodads/labyrinth/ChargeDisruptors,0,7401
-art/models/terrain/doodads/labyrinth/chargedisruptors/rig_2c66ff92.smd,Art/Models/Terrain/Doodads/labyrinth/ChargeDisruptors,7401,441406
-art/models/terrain/doodads/labyrinth/chargedisruptors/rig_2c66ff92.smd.header,Tiny_4,9729295,3729
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v01_01.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,0,146593
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v01_01.fmt.header,Tiny_4,9736286,411
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v01_02.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,146593,104269
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v01_02.fmt.header,Tiny_4,9736697,412
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v01_03.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,250862,42437
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v01_03.fmt.header,Tiny_4,9737109,319
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v02_01.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,293299,211867
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v02_01.fmt.header,Tiny_4,9737428,240
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v02_02.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,505166,208789
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v02_02.fmt.header,Tiny_4,9737668,543
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v03_01.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,713955,188093
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v03_01.fmt.header,Tiny_4,9738211,519
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v03_02.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,902048,220655
-art/models/terrain/doodads/labyrinth/dead bodies/dead_bodies_darts_v03_02.fmt.header,Tiny_4,9738730,741
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_01.fmt,Tiny_4,9739471,4083
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_01.fmt.header,Tiny_4,9743554,281
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_02.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,1122703,116033
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_02.fmt.header,Tiny_4,9743835,487
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_03.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,1238736,66399
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_03.fmt.header,Tiny_4,9744322,393
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_04.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,1305135,11433
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_04.fmt.header,Tiny_4,9744715,282
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_05.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,1316568,10021
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_05.fmt.header,Tiny_4,9744997,272
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_06.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,1326589,33763
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_06.fmt.header,Tiny_4,9745269,267
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_07.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,1360352,16191
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_07.fmt.header,Tiny_4,9745536,379
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_08.fmt,Art/Models/Terrain/Doodads/labyrinth/dead bodies,1376543,13223
-art/models/terrain/doodads/labyrinth/dead bodies/stray_darts_08.fmt.header,Tiny_4,9745915,440
-art/models/terrain/doodads/labyrinth/deviouspressureplates/crypt/crypt.sm,Tiny_4,9746634,528
-art/models/terrain/doodads/labyrinth/deviouspressureplates/crypt/crypt_rig.amd,Tiny_4,9751944,140
-art/models/terrain/doodads/labyrinth/deviouspressureplates/crypt/crypt_rig.ast,Tiny_4,9747162,1166
-art/models/terrain/doodads/labyrinth/deviouspressureplates/crypt/crypt_rig_932fcdf6.smd,Tiny_4,9748328,2642
-art/models/terrain/doodads/labyrinth/deviouspressureplates/crypt/crypt_rig_932fcdf6.smd.header,Tiny_4,9750970,448
-art/models/terrain/doodads/labyrinth/deviouspressureplates/drygarden/drygardenplate.sm,Tiny_4,9751418,526
-art/models/terrain/doodads/labyrinth/deviouspressureplates/drygarden/drygardenplate_rig.amd,Tiny_4,9751944,140
-art/models/terrain/doodads/labyrinth/deviouspressureplates/drygarden/drygardenplate_rig.ast,Tiny_4,9752084,1426
-art/models/terrain/doodads/labyrinth/deviouspressureplates/drygarden/drygardenplate_rig_d7d36509.smd,Tiny_4,9753510,1306
-art/models/terrain/doodads/labyrinth/deviouspressureplates/drygarden/drygardenplate_rig_d7d36509.smd.header,Tiny_4,9754816,448
-art/models/terrain/doodads/labyrinth/deviouspressureplates/eleganthouse/eleganthouse.sm,Tiny_4,9755264,668
-art/models/terrain/doodads/labyrinth/deviouspressureplates/eleganthouse/eleganthouse_rig_b7a06c2d.smd,Art/Models/Terrain/Doodads/labyrinth/DeviousPressurePlates,0,174496
-art/models/terrain/doodads/labyrinth/deviouspressureplates/eleganthouse/eleganthouse_rig_b7a06c2d.smd.header,Tiny_4,9755932,507
-art/models/terrain/doodads/labyrinth/deviouspressureplates/eleganthouse/eleganthousetrap.sm,Tiny_4,9756439,946
-art/models/terrain/doodads/labyrinth/deviouspressureplates/eleganthouse/rig.amd,Tiny_4,9757385,140
-art/models/terrain/doodads/labyrinth/deviouspressureplates/eleganthouse/rig.ast,Tiny_4,9757525,3912
-art/models/terrain/doodads/labyrinth/deviouspressureplates/eleganthouse/rig_2197d803.smd,Art/Models/Terrain/Doodads/labyrinth/DeviousPressurePlates,174496,110468
-art/models/terrain/doodads/labyrinth/deviouspressureplates/eleganthouse/rig_2197d803.smd.header,Tiny_4,9761437,1514
-art/models/terrain/doodads/labyrinth/deviouspressureplates/prison/prison.sm,Tiny_4,9762951,506
-art/models/terrain/doodads/labyrinth/deviouspressureplates/prison/prison_rig.amd,Tiny_4,9763457,140
-art/models/terrain/doodads/labyrinth/deviouspressureplates/prison/prison_rig.ast,Tiny_4,9763597,1253
-art/models/terrain/doodads/labyrinth/deviouspressureplates/prison/prison_rig_3d524d34.smd,Art/Models/Terrain/Doodads/labyrinth/DeviousPressurePlates,284964,25476
-art/models/terrain/doodads/labyrinth/deviouspressureplates/prison/prison_rig_3d524d34.smd.header,Tiny_4,9764850,448
-art/models/terrain/doodads/labyrinth/deviouspressureplates/templerunined/templeruined.sm,Tiny_4,9765298,882
-art/models/terrain/doodads/labyrinth/deviouspressureplates/templerunined/templeruineplate_rig.amd,Tiny_4,9766180,144
-art/models/terrain/doodads/labyrinth/deviouspressureplates/templerunined/templeruineplate_rig.ast,Tiny_4,9766324,2382
-art/models/terrain/doodads/labyrinth/deviouspressureplates/templerunined/templeruineplate_rig_c81d6c14.smd,Art/Models/Terrain/Doodads/labyrinth/DeviousPressurePlates,310440,71074
-art/models/terrain/doodads/labyrinth/deviouspressureplates/templerunined/templeruineplate_rig_c81d6c14.smd.header,Tiny_4,9768706,448
-art/models/terrain/doodads/labyrinth/doorway/crypt_golddoor_v01_01.tgt,Tiny_4,9770464,1272
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_chamberofsin_door_v01_01.tgt,Tiny_4,9778726,1122
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_chamberofsin_door_v01_01.tmd,Tiny_4,9779848,515
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_chamberofsin_door_v01_01_door.fmt,Tiny_6,53464121,43
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_chamberofsin_door_v01_01_door.fmt.header,Tiny_6,90510499,208
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_dry_garden_door_v01_01.tgt,Tiny_4,9780363,2372
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_dry_garden_door_v01_01.tmd,Tiny_4,9782735,429
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_dry_garden_door_v01_01_area_transition.fmt,Tiny_4,9783164,419
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_dry_garden_door_v01_01_area_transition.fmt.header,Tiny_4,9783583,208
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_drygarden_golddoor_gate_v01_01.tgt,Tiny_4,9783791,1894
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_forest_v01_01.tgt,Tiny_4,9785685,1304
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_forest_v01_01.tmd,Tiny_4,9786989,475
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_forest_v01_01_door2.fmt,Tiny_6,53464121,43
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_forest_v01_01_door2.fmt.header,Tiny_6,90510499,208
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_inca_door_v01_01.tgt,Tiny_4,9787464,1450
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_inca_door_v01_01.tmd,Tiny_4,9788914,483
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_inca_door_v01_01_door.fmt,Tiny_6,53464121,43
-art/models/terrain/doodads/labyrinth/doorway/labyrinth_inca_door_v01_01_door.fmt.header,Tiny_6,90510499,208
-art/models/terrain/doodads/labyrinth/doorway/labyrinthdoor.amd,Tiny_4,9789397,146
-art/models/terrain/doodads/labyrinth/doorway/labyrinthdoor.ast,Tiny_4,9789543,2780
-art/models/terrain/doodads/labyrinth/doorway/labyrinthdoor.sm,Tiny_4,9792323,814
-art/models/terrain/doodads/labyrinth/doorway/labyrinthdoor_fc14ab51.smd,Art/Models/Terrain/Doodads/labyrinth/Doorway,0,94456
-art/models/terrain/doodads/labyrinth/doorway/labyrinthdoor_fc14ab51.smd.header,Tiny_4,9793137,448
-art/models/terrain/doodads/labyrinth/doorway/prison_golddoor_v01_01.tgt,Tiny_4,9797018,1278
-art/models/terrain/doodads/labyrinth/doorway/ruinedtemple_golddoor_thickwall_v01_01.tgt,Tiny_4,9801026,1130
-art/models/terrain/doodads/labyrinth/doorway/ruinedtemple_golddoor_thin_v01_01.tgt,Tiny_4,9802156,1216
-art/models/terrain/doodads/labyrinth/doorway/ruinedtemple_golddoor_thin_v01_03.tgt,Tiny_4,9803372,1358
-art/models/terrain/doodads/labyrinth/doorway/churchdungeon/doorbar/door.sm,Tiny_4,9769154,862
-art/models/terrain/doodads/labyrinth/doorway/churchdungeon/doorbar/doorbar_rig.amd,Tiny_4,9799158,220
-art/models/terrain/doodads/labyrinth/doorway/churchdungeon/doorbar/doorbar_rig.ast,Tiny_4,9799378,1200
-art/models/terrain/doodads/labyrinth/doorway/churchdungeon/doorbar/doorbar_rig_e54adb77.smd,Art/Models/Terrain/Doodads/labyrinth/Doorway,94456,20272
-art/models/terrain/doodads/labyrinth/doorway/churchdungeon/doorbar/doorbar_rig_e54adb77.smd.header,Tiny_4,9770016,448
-art/models/terrain/doodads/labyrinth/doorway/drygarden_smallgate/drygarden_smallgate.amd,Tiny_4,9771736,224
-art/models/terrain/doodads/labyrinth/doorway/drygarden_smallgate/drygarden_smallgate.ast,Tiny_4,9771960,3697
-art/models/terrain/doodads/labyrinth/doorway/drygarden_smallgate/drygarden_smallgate_03a988c7.smd,Art/Models/Terrain/Doodads/labyrinth/Doorway,114728,536724
-art/models/terrain/doodads/labyrinth/doorway/drygarden_smallgate/drygarden_smallgate_03a988c7.smd.header,Tiny_4,9775657,1615
-art/models/terrain/doodads/labyrinth/doorway/drygarden_smallgate/smallgate_v01_01.sm,Tiny_4,9777272,1454
-art/models/terrain/doodads/labyrinth/doorway/labyrinthdoor_nofx/labyrinthdoor_nofx.sm,Tiny_4,9793585,970
-art/models/terrain/doodads/labyrinth/doorway/labyrinthdoor_nofx/rig.amd,Tiny_4,9794555,220
-art/models/terrain/doodads/labyrinth/doorway/labyrinthdoor_nofx/rig.ast,Tiny_4,9794775,1784
-art/models/terrain/doodads/labyrinth/doorway/labyrinthdoor_nofx/rig_a1993ba9.smd,Art/Models/Terrain/Doodads/labyrinth/Doorway,651452,211196
-art/models/terrain/doodads/labyrinth/doorway/labyrinthdoor_nofx/rig_a1993ba9.smd.header,Tiny_4,9796559,459
-art/models/terrain/doodads/labyrinth/doorway/prisondungeon/doorbar/door.sm,Tiny_4,9798296,862
-art/models/terrain/doodads/labyrinth/doorway/prisondungeon/doorbar/doorbar_rig.amd,Tiny_4,9799158,220
-art/models/terrain/doodads/labyrinth/doorway/prisondungeon/doorbar/doorbar_rig.ast,Tiny_4,9799378,1200
-art/models/terrain/doodads/labyrinth/doorway/prisondungeon/doorbar/doorbar_rig_dde6e8f8.smd,Art/Models/Terrain/Doodads/labyrinth/Doorway,862648,40360
-art/models/terrain/doodads/labyrinth/doorway/prisondungeon/doorbar/doorbar_rig_dde6e8f8.smd.header,Tiny_4,9800578,448
-art/models/terrain/doodads/labyrinth/doorway/ruinedtemple_smallgate/rig.amd,Tiny_4,9804730,220
-art/models/terrain/doodads/labyrinth/doorway/ruinedtemple_smallgate/rig.ast,Tiny_4,9804950,1375
-art/models/terrain/doodads/labyrinth/doorway/ruinedtemple_smallgate/rig_20cd37b2.smd,Art/Models/Terrain/Doodads/labyrinth/Doorway,903008,148106
-art/models/terrain/doodads/labyrinth/doorway/ruinedtemple_smallgate/rig_20cd37b2.smd.header,Tiny_4,9806325,618
-art/models/terrain/doodads/labyrinth/doorway/ruinedtemple_smallgate/ruinedsmallgate.sm,Tiny_4,9806943,1436
-art/models/terrain/doodads/labyrinth/doorway/templedungeon/door/door rig.amd,Tiny_4,9808379,146
-art/models/terrain/doodads/labyrinth/doorway/templedungeon/door/door rig.ast,Tiny_4,9808525,1745
-art/models/terrain/doodads/labyrinth/doorway/templedungeon/doorbar/doorbar.sm,Tiny_4,9810270,906
-art/models/terrain/doodads/labyrinth/doorway/templedungeon/doorbar/doorbar_rig.amd,Tiny_4,9811176,220
-art/models/terrain/doodads/labyrinth/doorway/templedungeon/doorbar/doorbar_rig.ast,Tiny_4,9811396,1061
-art/models/terrain/doodads/labyrinth/doorway/templedungeon/doorbar/doorbar_rig_6c31ca5c.smd,Art/Models/Terrain/Doodads/labyrinth/Doorway,1051114,80054
-art/models/terrain/doodads/labyrinth/doorway/templedungeon/doorbar/doorbar_rig_6c31ca5c.smd.header,Tiny_4,9812457,448
-art/models/terrain/doodads/labyrinth/doorway/tgms/crypt_golddoor_v01_01_c1r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway,1131168,144807
-art/models/terrain/doodads/labyrinth/doorway/tgms/crypt_golddoor_v01_01_c1r1.tgm.header,Folders/art/models/terrain/doodads/playerencampment,373517,4352
-art/models/terrain/doodads/labyrinth/doorway/tgms/crypt_golddoor_v01_01_c2r1.tgm,Tiny_4,9812905,1811
-art/models/terrain/doodads/labyrinth/doorway/tgms/crypt_golddoor_v01_01_c2r1.tgm.header,Tiny_4,9814716,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_chamberofsin_door_v01_01_c1r1.tgm,Tiny_4,9815140,649
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_chamberofsin_door_v01_01_c1r1.tgm.header,Tiny_4,9815789,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_chamberofsin_door_v01_01_c2r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway,1275975,128021
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_chamberofsin_door_v01_01_c2r1.tgm.header,Folders/art/models/terrain/doodads/playerencampment,377869,5276
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r1.tgm,Tiny_4,9816213,979
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r1.tgm.header,Tiny_4,9817192,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r2.tgm,Tiny_4,9817616,1195
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r2.tgm.header,Tiny_4,9818811,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r3.tgm,Tiny_4,9819235,763
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r3.tgm.header,Tiny_4,9819998,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r4.tgm,Tiny_4,9820422,661
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r4.tgm.header,Tiny_4,9821083,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r5.tgm,Tiny_4,9821507,573
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r5.tgm.header,Tiny_4,9822080,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r6.tgm,Tiny_4,9822504,297
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c1r6.tgm.header,Tiny_4,9822801,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r1.tgm,Tiny_4,9823225,655
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r1.tgm.header,Tiny_4,9823880,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r2.tgm,Tiny_4,9824304,729
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r2.tgm.header,Tiny_4,9825033,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r3.tgm,Tiny_4,9825457,729
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r3.tgm.header,Tiny_4,9826186,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r4.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway,1879613,421703
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r4.tgm.header,Folders/art/models/terrain/doodads/playerencampment,383145,5194
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r5.tgm,Tiny_4,9826610,729
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r5.tgm.header,Tiny_4,9827339,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r6.tgm,Tiny_4,9827763,459
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c2r6.tgm.header,Tiny_4,9828222,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r1.tgm,Tiny_4,9828646,925
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r1.tgm.header,Tiny_4,9829571,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r2.tgm,Tiny_4,9829995,871
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r2.tgm.header,Tiny_4,9830866,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r3.tgm,Tiny_4,9831290,979
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r3.tgm.header,Tiny_4,9832269,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r4.tgm,Tiny_4,9832693,877
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r4.tgm.header,Tiny_4,9833570,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r5.tgm,Tiny_4,9833994,465
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r5.tgm.header,Tiny_4,9834459,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r6.tgm,Tiny_4,9834883,405
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_dry_garden_door_v01_01_c3r6.tgm.header,Tiny_4,9835288,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_drygarden_golddoor_gate_v01_01_c1r1.tgm,Tiny_4,9835712,601
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_drygarden_golddoor_gate_v01_01_c1r1.tgm.header,Tiny_4,9836313,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_drygarden_golddoor_gate_v01_01_c2r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway,1403996,475617
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_drygarden_golddoor_gate_v01_01_c2r1.tgm.header,Folders/art/models/terrain/doodads/playerencampment,388339,5766
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_forest_v01_01_c1r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway,2301316,52509
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_forest_v01_01_c1r1.tgm.header,Tiny_4,9836737,2328
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_forest_v01_01_c2r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway,2353825,34673
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_forest_v01_01_c2r1.tgm.header,Tiny_4,9839065,1536
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_forest_v01_01_c3r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway,2388498,44933
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_forest_v01_01_c3r1.tgm.header,Tiny_4,9840601,1668
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_inca_door_v01_01_c1r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway,2433431,71383
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_inca_door_v01_01_c1r1.tgm.header,Tiny_4,9842269,1360
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_inca_door_v01_01_c2r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway,2504814,46103
-art/models/terrain/doodads/labyrinth/doorway/tgms/labyrinth_inca_door_v01_01_c2r1.tgm.header,Tiny_4,9843629,1932
-art/models/terrain/doodads/labyrinth/doorway/tgms/prison_golddoor_v01_01_c1r1.tgm,Tiny_4,9845561,957
-art/models/terrain/doodads/labyrinth/doorway/tgms/prison_golddoor_v01_01_c1r1.tgm.header,Tiny_4,9846518,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/prison_golddoor_v01_01_c2r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway_2,,
-art/models/terrain/doodads/labyrinth/doorway/tgms/prison_golddoor_v01_01_c2r1.tgm.header,Folders/art/models/terrain/doodads/playerencampment,394105,4132
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thickwall_v01_01_c1r1.tgm,Tiny_4,9846942,649
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thickwall_v01_01_c1r1.tgm.header,Tiny_4,9815789,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thickwall_v01_01_c2r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway_1,0,136283
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thickwall_v01_01_c2r1.tgm.header,Folders/art/models/terrain/doodads/playerencampment,398237,5276
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thin_v01_01_c1r1.tgm,Tiny_4,9847591,219
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thin_v01_01_c1r1.tgm.header,Tiny_5,32284648,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thin_v01_01_c2r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway_1,136283,138809
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thin_v01_01_c2r1.tgm.header,Folders/art/models/terrain/doodads/playerencampment,403513,5892
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thin_v01_01_c3r1.tgm,Tiny_4,9847810,265
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thin_v01_01_c3r1.tgm.header,Tiny_5,32481606,424
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thin_v01_03_c1r1.tgm,Art/Models/Terrain/Doodads/labyrinth/Doorway_1,275092,131261
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thin_v01_03_c1r1.tgm.header,Folders/art/models/terrain/doodads/playerencampment,409405,5584
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thin_v01_03_c2r1.tgm,Tiny_4,9848075,1685
-art/models/terrain/doodads/labyrinth/doorway/tgms/ruinedtemple_golddoor_thin_v01_03_c2r1.tgm.header,Tiny_4,9849760,424
