@@ -481,7 +481,7 @@ metadata/effects/spells/monsters_effects/atlasofworldsbosses/doompersonified/pet
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/doompersonified/pet/monster_death.pet,Tiny_8,362843936,2856
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/doompersonified/pet/mud_circle.pet,Tiny_8,362846792,5140
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/doompersonified/pet/on_act_dirt_pull.pet,Tiny_8,362851932,8092
-metadata/effects/spells/monsters_effects/atlasofworldsbosses/doompersonified/pet/on_act_emerge_ptemit.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/atlasofworldsbosses/doompersonified/pet/on_act_emerge_ptemit.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/doompersonified/pet/on_act_emerge_slam.pet,Tiny_8,362860024,16090
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/doompersonified/pet/on_act_emerge_slamtacles.pet,Tiny_8,362876114,14118
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/doompersonified/pet/on_act_emerge_sparks.pet,Tiny_8,362890232,6272
@@ -1207,7 +1207,7 @@ metadata/effects/spells/monsters_effects/atlasofworldsbosses/maven/brain/arena_w
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/maven/brain/arena_wide_explosion/pet/boom_grdmidline.pet,Tiny_8,364819294,19514
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/maven/brain/arena_wide_explosion/pet/boom_midline.pet,Tiny_8,364838808,30852
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/maven/brain/arena_wide_explosion/pet/bu_grdmidline.pet,Tiny_D,117034537,30
-metadata/effects/spells/monsters_effects/atlasofworldsbosses/maven/brain/arena_wide_explosion/pet/bu_midline.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/atlasofworldsbosses/maven/brain/arena_wide_explosion/pet/bu_midline.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/maven/brain/arena_wide_explosion/pet/ping_midline.pet,Tiny_8,364869660,9132
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/maven/brain/beam_down_phase/rig.ao,Tiny_8,365089304,390
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/maven/brain/beam_down_phase/rig.aoc,Tiny_8,365089694,7756
@@ -1851,7 +1851,7 @@ metadata/effects/spells/monsters_effects/atlasofworldsbosses/spikerbull/pets/act
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/spikerbull/pets/act_mortar_steam.pet,Tiny_8,368901440,3332
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/spikerbull/pets/cone_line.pet,Tiny_8,368904772,15578
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/spikerbull/pets/cone_mid.pet,Tiny_8,368920350,18880
-metadata/effects/spells/monsters_effects/atlasofworldsbosses/spikerbull/pets/impact_circ.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/atlasofworldsbosses/spikerbull/pets/impact_circ.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/spikerbull/pets/impact_cyl.pet,Tiny_8,368939230,33042
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/spikerbull/pets/leap_cyl.pet,Tiny_8,368972272,39436
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/spikerbull/pets/melee.trl,Tiny_8,369011708,8606
@@ -2029,7 +2029,7 @@ metadata/effects/spells/monsters_effects/atlasofworldsbosses/tangled_minions/pet
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/tangled_minions/pet/arc_cast_muzzle.pet,Tiny_8,369817944,16770
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/tangled_minions/pet/arc_cast_small.pet,Tiny_8,369834714,6988
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/tangled_minions/pet/beam_impact.pet,Tiny_8,369841702,17806
-metadata/effects/spells/monsters_effects/atlasofworldsbosses/tangled_minions/pet/body_lightning.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/atlasofworldsbosses/tangled_minions/pet/body_lightning.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/tangled_minions/pet/death_explode.pet,Tiny_8,369859508,27768
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/tangled_minions/pet/fodder_4_projectile.pet,Tiny_8,369887276,3510
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/tangled_minions/pet/impact_midline.pet,Tiny_8,369890786,12804
@@ -2303,7 +2303,7 @@ metadata/effects/spells/monsters_effects/atlasofworldsbosses/theblackstar/pet/be
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/theblackstar/pet/beam_spear_left_start_01/bu_mid_sideline.pet,Tiny_8,370720450,6250
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/theblackstar/pet/beam_spear_left_start_01/bu_speartip.pet,Tiny_8,370726700,11930
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/theblackstar/pet/beam_spear_left_start_01/ping.pet,Tiny_8,370738630,6662
-metadata/effects/spells/monsters_effects/atlasofworldsbosses/theblackstar/pet/beam_spear_left_start_01/sideline.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/atlasofworldsbosses/theblackstar/pet/beam_spear_left_start_01/sideline.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/theblackstar/pet/beam_spear_left_start_01/speartip.trl,Tiny_8,370745292,4882
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/theblackstar/pet/clone_death/frameupper_lite.pet,Tiny_8,370763066,9114
 metadata/effects/spells/monsters_effects/atlasofworldsbosses/theblackstar/pet/death/burst.pet,Tiny_8,370830320,12468
@@ -3280,7 +3280,7 @@ metadata/effects/spells/monsters_effects/blacksmithgolem/remote_slam/bsgolem_uph
 metadata/effects/spells/monsters_effects/blacksmithgolem/remote_slam/bsgolem_upheaval_impact.aoc,Tiny_8,374798664,4272
 metadata/effects/spells/monsters_effects/blacksmithgolem/spectral_throw/utulaspectralthrow.ao,Tiny_8,374802936,338
 metadata/effects/spells/monsters_effects/blacksmithgolem/spectral_throw/utulaspectralthrow.aoc,Tiny_8,374803274,2548
-metadata/effects/spells/monsters_effects/blessed_sister_proj/splashprojectile_particles.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/blessed_sister_proj/splashprojectile_particles.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/blood_elemental/projectile.ao,Tiny_8,452018886,302
 metadata/effects/spells/monsters_effects/blood_elemental/projectile.aoc,Tiny_8,374805822,4770
 metadata/effects/spells/monsters_effects/blood_elemental/projectile_ao_pass1.mat,Tiny_8,452023674,2818
@@ -3515,7 +3515,7 @@ metadata/effects/spells/monsters_effects/breach/monster_spawner/monster_spawner.
 metadata/effects/spells/monsters_effects/breach/monster_spawner/monster_spawner.aoc,Tiny_8,375231284,8914
 metadata/effects/spells/monsters_effects/breach/spawn/cyl.pet,Tiny_8,375240198,8358
 metadata/effects/spells/monsters_effects/breach/spawn/cyl_death.pet,Tiny_8,375248556,4186
-metadata/effects/spells/monsters_effects/breach/spawn/cylk_death.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/breach/spawn/cylk_death.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/breach/spawn/mid.pet,Tiny_8,375252742,9944
 metadata/effects/spells/monsters_effects/breach/spawn/mid_death.pet,Tiny_8,375262686,10494
 metadata/effects/spells/monsters_effects/brute_chainhook/brutechain.ao,Tiny_8,375273180,292
@@ -4768,8 +4768,8 @@ metadata/effects/spells/monsters_effects/league_3_9_0/orsen_tiller/whirl.ao,Tiny
 metadata/effects/spells/monsters_effects/league_3_9_0/orsen_tiller/whirl.aoc,Tiny_8,377836228,3964
 metadata/effects/spells/monsters_effects/league_3_9_0/orsen_tiller/whirl_start.ao,Tiny_8,377840192,436
 metadata/effects/spells/monsters_effects/league_3_9_0/orsen_tiller/whirl_start.aoc,Tiny_8,377840628,5842
-metadata/effects/spells/monsters_effects/league_3_9_0/portal/invisible_ao/invisible_ao.ao,Tiny_7,104051984,398
-metadata/effects/spells/monsters_effects/league_3_9_0/portal/invisible_ao/invisible_ao.aoc,Tiny_7,104052382,460
+metadata/effects/spells/monsters_effects/league_3_9_0/portal/invisible_ao/invisible_ao.ao,Tiny_7,104053848,398
+metadata/effects/spells/monsters_effects/league_3_9_0/portal/invisible_ao/invisible_ao.aoc,Tiny_7,104054246,460
 metadata/effects/spells/monsters_effects/league_3_9_0/skills/buildup_fast.ao,Tiny_8,377846470,440
 metadata/effects/spells/monsters_effects/league_3_9_0/skills/buildup_fast.aoc,Tiny_8,377846910,1734
 metadata/effects/spells/monsters_effects/league_3_9_0/skills/buildup_mid.ao,Tiny_8,377848644,438
@@ -8966,7 +8966,7 @@ metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/primordialmons
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/primordialmonster3/pet/flinch_small.pet,Tiny_8,415116942,9910
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/primordialmonster3/pet/grp_land.pet,Tiny_8,415126852,9794
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/primordialmonster3/pet/sonic_screech/line_out.pet,Tiny_D,114297283,82
-metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/primordialmonster3/pet/sonic_screech/mid_animate.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/primordialmonster3/pet/sonic_screech/mid_animate.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/primordialmonster3/pet/sonic_screech/point_fwd.pet,Tiny_8,415136646,14922
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/primordialmonster3/pet/sonic_screech/smoke_point_fwd.pet,Tiny_8,415151568,10244
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/primordialmonster3/trl/attack_01_02.trl,Tiny_8,415161812,4830
@@ -9144,7 +9144,7 @@ metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/vodoo_king_bos
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/vodoo_king_boss/fx/oa_proj.pet,Tiny_8,416448996,4924
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/vodoo_king_boss/fx/oa_spellproj_energy_draw.pet,Tiny_8,416453920,5846
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/vodoo_king_boss/fx/oa_splinters.pet,Tiny_8,416459766,19892
-metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/vodoo_king_boss/fx/oa_staffhit.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/vodoo_king_boss/fx/oa_staffhit.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/vodoo_king_boss/fx/oa_staffstab.pet,Tiny_8,416479658,34648
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/vodoo_king_boss/fx/oa_vinenova_growth.pet,Tiny_8,416514306,5090
 metadata/effects/spells/monsters_effects/league_azmeri/monster_fx/vodoo_king_boss/fx/oa_vinenova_growth_ent.pet,Tiny_8,416519396,5090
@@ -13340,7 +13340,7 @@ metadata/effects/spells/monsters_effects/league_crucible/attachments/fx/molten_l
 metadata/effects/spells/monsters_effects/league_crucible/attachments/fx/molten_line_start.pet,Tiny_8,450794704,3058
 metadata/effects/spells/monsters_effects/league_crucible/attachments/fx/molten_midline_1.pet,Tiny_8,450797762,3220
 metadata/effects/spells/monsters_effects/league_crucible/attachments/fx/molten_midline_2.pet,Tiny_8,450800982,6384
-metadata/effects/spells/monsters_effects/league_crucible/attachments/fx/wave_circle.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_crucible/attachments/fx/wave_circle.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_crucible/attachments/fx/wave_midline.pet,Tiny_8,450807366,19826
 metadata/effects/spells/monsters_effects/league_crucible/attachments/fx/weapon_channel_0_midline.pet,Tiny_8,450827192,21804
 metadata/effects/spells/monsters_effects/league_crucible/attachments/fx/weapon_channel_1_midline.pet,Tiny_8,450848996,28200
@@ -14584,7 +14584,7 @@ metadata/effects/spells/monsters_effects/league_expedition/boss/olroth/fx/hellfi
 metadata/effects/spells/monsters_effects/league_expedition/boss/olroth/fx/hellfire_jewel_activate_grd.pet,Tiny_8,455158066,3720
 metadata/effects/spells/monsters_effects/league_expedition/boss/olroth/fx/hellfire_jewel_active.pet,Tiny_8,455161786,5958
 metadata/effects/spells/monsters_effects/league_expedition/boss/olroth/fx/hellfire_jewel_detach.pet,Tiny_8,455167744,9536
-metadata/effects/spells/monsters_effects/league_expedition/boss/olroth/fx/hellfire_zone_circle.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_expedition/boss/olroth/fx/hellfire_zone_circle.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_expedition/boss/olroth/fx/hellfire_zone_core.pet,Tiny_8,455177280,9894
 metadata/effects/spells/monsters_effects/league_expedition/boss/olroth/fx/hellfire_zone_wave.pet,Tiny_8,455187174,2894
 metadata/effects/spells/monsters_effects/league_expedition/boss/olroth/fx/lacerate_impact_angle.pet,Tiny_8,455190068,6334
@@ -14865,7 +14865,7 @@ metadata/effects/spells/monsters_effects/league_expedition/boss/reaper_boss/pet/
 metadata/effects/spells/monsters_effects/league_expedition/boss/reaper_boss/pet/volatile_projectile_impact.pet,Tiny_8,456446090,15214
 metadata/effects/spells/monsters_effects/league_expedition/boss/reaper_boss/pet/wave.trl,Tiny_8,456461304,4426
 metadata/effects/spells/monsters_effects/league_expedition/boss/reaper_boss/pet/weapon_fire.pet,Tiny_D,112748855,30
-metadata/effects/spells/monsters_effects/league_expedition/boss/reaper_boss/pet/weapon_smoke.trl,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_expedition/boss/reaper_boss/pet/weapon_smoke.trl,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_expedition/boss/reaper_boss/pet/weapon_trail.trl,Tiny_8,455973160,3130
 metadata/effects/spells/monsters_effects/league_expedition/boss/uhtred/arena_env.ao,Tiny_8,456465730,382
 metadata/effects/spells/monsters_effects/league_expedition/boss/uhtred/arena_env.aoc,Tiny_8,456466112,1274
@@ -15059,7 +15059,7 @@ metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/ao/v
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/act_shoot.pet,Tiny_8,457427460,11358
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/arrow_var.trl,Tiny_8,457438818,7190
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/drop.trl,Tiny_8,457446008,7340
-metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/explode_circle.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/explode_circle.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/explode_large_circle.pet,Tiny_8,457453348,2836
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/on_act_rain_arrow_lineemit.pet,Tiny_8,457456184,14464
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/on_act_rain_arrow_release.pet,Tiny_8,457470648,9878
@@ -15079,7 +15079,7 @@ metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/rain_or_arrows_player_marker_once.pet,Tiny_8,457680910,12118
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/scourge_pod.pet,Tiny_8,457693028,5980
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/scourge_pod_charge_up.pet,Tiny_8,457699008,12078
-metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/scourge_pod_explode_circle.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/scourge_pod_explode_circle.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/scourge_pod_grd.pet,Tiny_8,457711086,3004
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/scourge_pod_start.pet,Tiny_8,457714090,24648
 metadata/effects/spells/monsters_effects/league_expedition/general/arbalest/pet/scourge_sheen.pet,Tiny_8,457738738,3220
@@ -15168,7 +15168,7 @@ metadata/effects/spells/monsters_effects/league_expedition/general/bone_cultist/
 metadata/effects/spells/monsters_effects/league_expedition/general/bone_cultist/projectile_egg.aoc,Tiny_8,458253214,3802
 metadata/effects/spells/monsters_effects/league_expedition/general/bone_cultist/graph/mesh_goop_splat.fxgraph,Folders/metadata/effects_8,1406962,6724
 metadata/effects/spells/monsters_effects/league_expedition/general/bone_cultist/graph/refractionglow.fxgraph,Folders/metadata/effects_8,1413686,33108
-metadata/effects/spells/monsters_effects/league_expedition/general/bone_cultist/pets/act_eggpop_down.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_expedition/general/bone_cultist/pets/act_eggpop_down.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_expedition/general/bone_cultist/pets/act_eggpop_hands.pet,Tiny_8,458087970,6008
 metadata/effects/spells/monsters_effects/league_expedition/general/bone_cultist/pets/act_eggproj_hand.pet,Tiny_8,458093978,6000
 metadata/effects/spells/monsters_effects/league_expedition/general/bone_cultist/pets/act_proj_flash.pet,Tiny_8,458099978,13802
@@ -15295,7 +15295,7 @@ metadata/effects/spells/monsters_effects/league_expedition/general/mercurial_arm
 metadata/effects/spells/monsters_effects/league_expedition/general/mercurial_armour/pet/projectile_idle.pet,Tiny_D,6857130,13782
 metadata/effects/spells/monsters_effects/league_expedition/general/mercurial_armour/pet/shield_wall_box.pet,Tiny_D,6870912,3854
 metadata/effects/spells/monsters_effects/league_expedition/general/mercurial_armour/pet/shield_wall_idle.pet,Tiny_D,6874766,8178
-metadata/effects/spells/monsters_effects/league_expedition/general/mercurial_armour/pet/shield_wall_start.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_expedition/general/mercurial_armour/pet/shield_wall_start.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_expedition/general/mercurial_armour/pet/shield_wall_start_01.pet,Tiny_D,6882944,12892
 metadata/effects/spells/monsters_effects/league_expedition/general/mercurial_armour/pet/shield_wall_start_wave.pet,Tiny_D,6895836,8118
 metadata/effects/spells/monsters_effects/league_expedition/general/mercurial_armour/pet/side_trails.trl,Tiny_D,6903954,1602
@@ -15519,7 +15519,7 @@ metadata/effects/spells/monsters_effects/league_expedition/mechanics/monster_eme
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/monster_emerge/fx/grd_box_dust.pet,Tiny_D,112748855,30
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/monster_emerge/fx/grd_cyl_dust.pet,Tiny_D,7649162,9592
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/monster_emerge/fx/grd_cyl_dust_blue.pet,Tiny_D,7658754,9818
-metadata/effects/spells/monsters_effects/league_expedition/mechanics/monster_emerge/fx/line_up_dust.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_expedition/mechanics/monster_emerge/fx/line_up_dust.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/npc_lights/expedition_light.ao,Tiny_D,7668572,392
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/npc_lights/expedition_light.aoc,Tiny_D,7668964,338
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/relics/boat_05_01.ao,Tiny_D,7670430,726
@@ -15582,7 +15582,7 @@ metadata/effects/spells/monsters_effects/league_expedition/mechanics/relics/pet/
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/relics/pet/coreemit.pet,Tiny_D,7722608,6642
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/relics/pet/fire_pit_explode.pet,Tiny_D,7729250,28952
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/relics/pet/fire_pit_fire_idle.pet,Tiny_D,7758202,18838
-metadata/effects/spells/monsters_effects/league_expedition/mechanics/relics/pet/lantern_idle.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_expedition/mechanics/relics/pet/lantern_idle.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/relics/pet/shockwave.trl,Tiny_D,7777040,1370
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/relics/pet/shockwave_ptemit.pet,Tiny_D,7778410,21826
 metadata/effects/spells/monsters_effects/league_expedition/mechanics/relics/pet/skull_circle.pet,Tiny_D,7800236,3016
@@ -17583,7 +17583,7 @@ metadata/effects/spells/monsters_effects/league_hellscape/elite_corpus_insanity/
 metadata/effects/spells/monsters_effects/league_hellscape/elite_corpus_insanity/projectile.aoc,Tiny_D,14644658,3408
 metadata/effects/spells/monsters_effects/league_hellscape/elite_corpus_insanity/fx/attack_01.trl,Tiny_D,14418354,5588
 metadata/effects/spells/monsters_effects/league_hellscape/elite_corpus_insanity/fx/blood_orb_explode_ptemit.pet,Tiny_D,14423942,27992
-metadata/effects/spells/monsters_effects/league_hellscape/elite_corpus_insanity/fx/blood_orb_idle.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_hellscape/elite_corpus_insanity/fx/blood_orb_idle.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_hellscape/elite_corpus_insanity/fx/blood_orb_on_act_trail.trl,Tiny_D,14451934,4344
 metadata/effects/spells/monsters_effects/league_hellscape/elite_corpus_insanity/fx/blood_orb_startemit.pet,Tiny_D,14456278,6588
 metadata/effects/spells/monsters_effects/league_hellscape/elite_corpus_insanity/fx/blood_spike_impact.pet,Tiny_D,14462866,18526
@@ -18069,7 +18069,7 @@ metadata/effects/spells/monsters_effects/league_hellscape/env/fx/embers_main.pet
 metadata/effects/spells/monsters_effects/league_hellscape/env/fx/flesh_doodad_cyl.pet,Tiny_D,15722868,11962
 metadata/effects/spells/monsters_effects/league_hellscape/env/fx/flesh_doodad_explode_ptemit.pet,Tiny_D,15734830,29594
 metadata/effects/spells/monsters_effects/league_hellscape/env/fx/flesh_suck_in.pet,Tiny_D,15764424,11728
-metadata/effects/spells/monsters_effects/league_hellscape/env/fx/global_disable_pet/disable.pet,Tiny_7,85221018,4
+metadata/effects/spells/monsters_effects/league_hellscape/env/fx/global_disable_pet/disable.pet,Tiny_7,85222882,4
 metadata/effects/spells/monsters_effects/league_hellscape/env/graphs/bloodmaskdry.fxgraph,Folders/metadata/effects_8,8509084,48982
 metadata/effects/spells/monsters_effects/league_hellscape/env/graphs/bloodsplash.fxgraph,Folders/metadata/effects_8,8558066,22634
 metadata/effects/spells/monsters_effects/league_hellscape/env/graphs/cracksinnerglow.fxgraph,Folders/metadata/effects_8,8580700,35352
@@ -27690,7 +27690,7 @@ metadata/effects/spells/poison_arrow_cloud/rig.aoc,Tiny_D,63172502,1730
 metadata/effects/spells/portal/back_smog.pet,Tiny_D,63174232,10482
 metadata/effects/spells/portal/middle - copy.pet,Tiny_D,63184714,15406
 metadata/effects/spells/portal/middle.pet,Tiny_D,63184714,15406
-metadata/effects/spells/portal/middleerik.pet,Tiny_7,85221018,4
+metadata/effects/spells/portal/middleerik.pet,Tiny_7,85222882,4
 metadata/effects/spells/portal/portal.ao,Tiny_D,63200120,242
 metadata/effects/spells/portal/portal.aoc,Tiny_D,63200362,9538
 metadata/effects/spells/portal/portal.epk,Tiny_D,63209900,716
@@ -29973,7 +29973,7 @@ metadata/effects/spells/summoned_reaper/pet/dual_cleave.pet,Tiny_D,73777976,1276
 metadata/effects/spells/summoned_reaper/pet/dual_cleave_01.pet,Tiny_D,73790736,12740
 metadata/effects/spells/summoned_reaper/pet/grd_blood_trail.trl,Tiny_D,73803476,4006
 metadata/effects/spells/summoned_reaper/pet/lacerate.pet,Tiny_D,73807482,12916
-metadata/effects/spells/summoned_reaper/pet/lacerate_splash.pet,Tiny_7,85221018,4
+metadata/effects/spells/summoned_reaper/pet/lacerate_splash.pet,Tiny_7,85222882,4
 metadata/effects/spells/summoned_reaper/pet/lacerate_static.pet,Tiny_D,73820398,3548
 metadata/effects/spells/summoned_reaper/pet/minion_death_circle.pet,Tiny_D,73823946,3640
 metadata/effects/spells/summoned_reaper/pet/on_act_death.pet,Tiny_D,73827586,26852
@@ -31523,7 +31523,7 @@ metadata/effects/spells/warden_ailment/pet/lightning_burst_pt.pet,Tiny_D,8033664
 metadata/effects/spells/warden_ailment/pet/lightning_empowered_pt.pet,Tiny_D,80353290,22686
 metadata/effects/spells/warden_ailment/pet/lightning_line.pet,Tiny_D,80375976,5088
 metadata/effects/spells/warden_ailment/pet/lightning_pt.pet,Tiny_D,80381064,22364
-metadata/effects/spells/warden_ailment/trl/fire_cold.trl,Tiny_7,85221018,4
+metadata/effects/spells/warden_ailment/trl/fire_cold.trl,Tiny_7,85222882,4
 metadata/effects/spells/wave/rig.ao,Tiny_D,80403428,226
 metadata/effects/spells/wave/rig.aoc,Tiny_D,80403654,3678
 metadata/effects/spells/wave/rig_wave.ao,Tiny_D,80407332,342
@@ -47413,7 +47413,7 @@ metadata/items/armours/capes/automatonnecrolordcloak/fx_frameupper.pet,Tiny_9,12
 metadata/items/armours/capes/balefirecape/balefirecapeheld.ao,Tiny_9,12353805,1860
 metadata/items/armours/capes/balefirecape/balefirecapeheld.aoc,Tiny_9,12355665,1632
 metadata/items/armours/capes/balefirecape/fire.pet,Tiny_9,12357297,5416
-metadata/items/armours/capes/balefirecape/firetrl.pet,Tiny_7,85221018,4
+metadata/items/armours/capes/balefirecape/firetrl.pet,Tiny_7,85222882,4
 metadata/items/armours/capes/balefirecape/firetrl.trl,Tiny_9,12362713,1580
 metadata/items/armours/capes/balefirecape/attachments/balefirecloakiuppereffects01held.ao,Tiny_9,12347435,538
 metadata/items/armours/capes/balefirecape/attachments/balefirecloakiuppereffects01held.aoc,Tiny_9,12347973,1532
@@ -98735,7 +98735,7 @@ metadata/particles/beastbloodsplat.pet,Tiny_9,203560790,3002
 metadata/particles/bloodspiderdeath.pet,Tiny_9,204395352,8004
 metadata/particles/bloodzombiedeath.pet,Tiny_9,204403356,8956
 metadata/particles/bonehit.pet,Tiny_9,204584726,13386
-metadata/particles/boulder_bugs.pet,Tiny_7,85221018,4
+metadata/particles/boulder_bugs.pet,Tiny_7,85222882,4
 metadata/particles/camp_fire_mid.pet,Tiny_9,204719742,1872
 metadata/particles/character_hit_blood.pet,Tiny_9,205690870,16710
 metadata/particles/cleave_distort.pet,Tiny_9,206455052,1574
@@ -98805,7 +98805,7 @@ metadata/particles/groundslam.pet,Tiny_A1,898278,1494
 metadata/particles/groundslamdownwards.pet,Tiny_A1,899772,1646
 metadata/particles/groundslammiddle.pet,Tiny_A1,901418,1704
 metadata/particles/groundslammiddle2.pet,Tiny_A1,903122,3420
-metadata/particles/groundslamsteam.pet,Tiny_7,85221018,4
+metadata/particles/groundslamsteam.pet,Tiny_7,85222882,4
 metadata/particles/iceballbasesmoke.pet,Tiny_9,231570396,1616
 metadata/particles/iceballsidetrails.pet,Tiny_9,231572012,1494
 metadata/particles/iceballsidetrails2.pet,Tiny_9,231573506,1508
@@ -98882,7 +98882,7 @@ metadata/particles/shockwave_smokewavefire2.pet,Tiny_9,368922125,1682
 metadata/particles/shockwave_smokewavewhite.pet,Tiny_9,368923807,1662
 metadata/particles/shockwavefire.pet,Tiny_9,368925469,1724
 metadata/particles/smallerfire.pet,Tiny_D,94600149,22760
-metadata/particles/smallfast.pet,Tiny_7,85221018,4
+metadata/particles/smallfast.pet,Tiny_7,85222882,4
 metadata/particles/smallfire.pet,Tiny_D,94622909,38550
 metadata/particles/smallfire_enc.pet,Tiny_D,94661459,15744
 metadata/particles/smoke.pet,Tiny_D,94785379,1484
@@ -98897,8 +98897,8 @@ metadata/particles/surgefire2.pet,Tiny_11,1547698,1430
 metadata/particles/sweepthings.pet,Tiny_11,1576830,1630
 metadata/particles/teleport.pet,Tiny_D,97744943,6640
 metadata/particles/teleportfunkiness.pet,Tiny_D,97751583,4248
-metadata/particles/teleportspiral.pet,Tiny_7,85221018,4
-metadata/particles/testeffect.pet,Tiny_7,85221018,4
+metadata/particles/teleportspiral.pet,Tiny_7,85222882,4
+metadata/particles/testeffect.pet,Tiny_7,85222882,4
 metadata/particles/testmagic.pet,Tiny_D,97961499,5022
 metadata/particles/testto.pet,Tiny_D,97971775,3290
 metadata/particles/twinkle.pet,Tiny_D,100632673,2552
@@ -99217,7 +99217,7 @@ metadata/particles/blood_sand_storm/sand_create_core.pet,Tiny_9,204216074,15088
 metadata/particles/blood_sand_storm/sand_hit.pet,Tiny_9,204231162,5344
 metadata/particles/blood_sand_storm/sand_tornado.pet,Tiny_9,204236506,10432
 metadata/particles/blood_sand_storm/sand_tornado_center.pet,Tiny_9,204246938,2800
-metadata/particles/bloodchieftain_warcry/chest_hit.pet,Tiny_7,85221018,4
+metadata/particles/bloodchieftain_warcry/chest_hit.pet,Tiny_7,85222882,4
 metadata/particles/bloodchieftain_warcry/in.pet,Tiny_9,204249738,3458
 metadata/particles/bloodchieftain_warcry/out.pet,Tiny_9,204253196,6696
 metadata/particles/bloodchieftain_warcry/out_big.pet,Tiny_9,204259892,6680
@@ -99289,7 +99289,7 @@ metadata/particles/cargohold/under/lanterns.pet,Tiny_9,204788834,3934
 metadata/particles/cargohold/under/light_bits.pet,Tiny_9,204792768,8222
 metadata/particles/cargohold/under/rain_big.pet,Tiny_9,204800990,5484
 metadata/particles/cargohold/under/rain_big_noslantyrain.pet,Tiny_9,204806474,2268
-metadata/particles/cargohold/under/rain_splashs.pet,Tiny_7,85221018,4
+metadata/particles/cargohold/under/rain_splashs.pet,Tiny_7,85222882,4
 metadata/particles/cargohold/under/splash_bottom.pet,Tiny_9,204808742,7286
 metadata/particles/cargohold/under/torchs.pet,Tiny_9,204816028,14514
 metadata/particles/cargohold/under/water_drops.pet,Tiny_9,204830542,3478
@@ -99365,7 +99365,7 @@ metadata/particles/channelled_run_explosion/path_maker.pet,Tiny_9,205420118,2003
 metadata/particles/channelled_run_explosion/rune_explosion.pet,Tiny_9,205440156,48248
 metadata/particles/channelled_run_explosion/rune_explosion_bigger.pet,Tiny_9,205488404,48146
 metadata/particles/channelled_run_explosion/runic_trail.trl,Tiny_9,205536550,1400
-metadata/particles/channelled_run_explosion/small_burst.pet,Tiny_7,85221018,4
+metadata/particles/channelled_run_explosion/small_burst.pet,Tiny_7,85222882,4
 metadata/particles/channelled_run_explosion/t3_powerup.pet,Tiny_9,205537950,6714
 metadata/particles/channelled_run_explosion/t4_powerup.pet,Tiny_9,205544664,8908
 metadata/particles/channelled_run_explosion/02/explode2_midline.pet,Tiny_9,205268018,19296
@@ -99675,7 +99675,7 @@ metadata/particles/conduit_sigil/redlightning/sigil_draw.pet,Tiny_9,208696562,45
 metadata/particles/conduit_sigil/redlightning/sigil_mid_idle.pet,Tiny_9,208701140,33096
 metadata/particles/conduit_sigil/redlightning/sigil_mid_vnr.pet,Tiny_9,208734236,9164
 metadata/particles/conduit_sigil/redlightning/sigildraw.trl,Tiny_9,208743400,2740
-metadata/particles/conduit_sigil/redlightning/spark.pet,Tiny_7,85221018,4
+metadata/particles/conduit_sigil/redlightning/spark.pet,Tiny_7,85222882,4
 metadata/particles/conduit_sigil/redlightning/target.pet,Tiny_9,208746140,22394
 metadata/particles/conduit_sigil/redlightning/travelbeam_draw.pet,Tiny_9,208768534,5074
 metadata/particles/conduit_sigil/redlightning/travelbeam_head.trl,Tiny_9,208773608,4888
@@ -99702,8 +99702,8 @@ metadata/particles/conv_strike/bot.pet,Tiny_9,208947000,10004
 metadata/particles/conv_strike/buff_up.pet,Tiny_9,208957004,6788
 metadata/particles/conv_strike/cyl.pet,Tiny_9,231928728,5372
 metadata/particles/conv_strike/cyl_disperse.pet,Tiny_9,208963792,1792
-metadata/particles/conv_strike/lightshootinner.pet,Tiny_7,85221018,4
-metadata/particles/conv_strike/lightshootouter.pet,Tiny_7,85221018,4
+metadata/particles/conv_strike/lightshootinner.pet,Tiny_7,85222882,4
+metadata/particles/conv_strike/lightshootouter.pet,Tiny_7,85222882,4
 metadata/particles/conv_strike/midring.pet,Tiny_9,208980374,3230
 metadata/particles/conv_strike/sparkshootbot.pet,Tiny_9,208983604,3446
 metadata/particles/conv_strike/symb.pet,Tiny_9,208987050,20450
@@ -99776,7 +99776,7 @@ metadata/particles/counter_orbs/discharge.pet,Tiny_9,209947420,8176
 metadata/particles/counter_orbs/orb_base.pet,Tiny_9,210060604,4786
 metadata/particles/counter_orbs/orb_outer.pet,Tiny_D,113305063,8
 metadata/particles/counter_orbs/dominus_bloodcharge/middle.pet,Tiny_9,209955596,10678
-metadata/particles/counter_orbs/dominus_bloodcharge/pulse.pet,Tiny_7,85221018,4
+metadata/particles/counter_orbs/dominus_bloodcharge/pulse.pet,Tiny_7,85222882,4
 metadata/particles/counter_orbs/dominus_bloodcharge/pulse_end.pet,Tiny_9,209966274,1994
 metadata/particles/counter_orbs/elder/dex/mid.pet,Tiny_9,209968268,2322
 metadata/particles/counter_orbs/elder/instability/mat/light_gradient_r.mat,Tiny_9,209970590,14282
@@ -99829,7 +99829,7 @@ metadata/particles/curses/elemental_equilibrium/mid_large.pet,Tiny_9,210182720,6
 metadata/particles/curses/enfeeble/circle_area.pet,Tiny_9,210189110,3428
 metadata/particles/curses/enfeeble/cyl.pet,Tiny_9,210192538,1782
 metadata/particles/curses/enfeeble/cyl_area.pet,Tiny_9,210194320,10190
-metadata/particles/curses/enfeeble/in.pet,Tiny_7,85221018,4
+metadata/particles/curses/enfeeble/in.pet,Tiny_7,85222882,4
 metadata/particles/curses/enfeeble/mid.pet,Tiny_9,210204510,1626
 metadata/particles/curses/enfeeble/mid_area.pet,Tiny_9,210206136,6378
 metadata/particles/curses/enfeeble/out.pet,Tiny_9,210212514,4836
