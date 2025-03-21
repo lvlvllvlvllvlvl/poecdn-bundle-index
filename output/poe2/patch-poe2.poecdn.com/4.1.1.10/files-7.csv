@@ -11606,7 +11606,7 @@ data/portuguese/flavourtext.datc64,Folders/data/08/traditional chinese.datc64,98
 data/portuguese/fragmentstashtablayout.datc64,Folders/data/75/thai.datc64,598989,33778
 data/portuguese/gamepadbutton.datc64,Tiny.VD,34472165,2468
 data/portuguese/gamepadbuttonbindaction.datc64,Folders/data/25/thai.datc64,218482,6771
-data/portuguese/gemeffects.datc64,Folders/data/0D/traditional chinese.datc64,2628380,204196
+data/portuguese/gemeffects.datc64,Folders/data/portuguese.datc64.1,0,204196
 data/portuguese/gemtags.datc64,Folders/metadata/mapdevices,2604242,6896
 data/portuguese/genericleaguerewardtypevisuals.datc64,Folders/data/98/thai.datc64,1321326,5562
 data/portuguese/grantedeffectlabels.datc64,Folders/data/A4/spanish.datc64,2254291,6306
@@ -12283,7 +12283,7 @@ data/traditional chinese/bestiaryfamilies.datc64,Tiny.VF,34796840,3009
 data/traditional chinese/bestiarygenus.datc64,Folders/data/52/traditional chinese.datc64,511155,5538
 data/traditional chinese/bestiarygroups.datc64,Folders/metadata/mapdevices,2611138,7060
 data/traditional chinese/bestiaryrecipecategories.datc64,Tiny.V0,35300822,1104
-data/traditional chinese/bestiaryrecipes.datc64,Folders/data/0D/traditional chinese.datc64,0,25470
+data/traditional chinese/bestiaryrecipes.datc64,Folders/data/portuguese.datc64.1,204196,25470
 data/traditional chinese/betrayalchoices.datc64,Tiny.VF,34799849,344
 data/traditional chinese/betrayaljobs.datc64,Tiny.V0,35301926,1274
 data/traditional chinese/betrayalranks.datc64,Tiny.V7,34830597,512
@@ -12370,7 +12370,7 @@ data/traditional chinese/mobiletutorial.datc64,Folders/data/39/traditional chine
 data/traditional chinese/mods.datc64,Folders/data/F8/traditional chinese.datc64,,
 data/traditional chinese/monstervarieties.datc64,Folders/data/18/traditional chinese.datc64,54395,2847789
 data/traditional chinese/mousecursorsizesettings.datc64,Tiny.V9,35150414,134
-data/traditional chinese/mtxtypes.datc64,Folders/data/0D/traditional chinese.datc64,25470,2602910
+data/traditional chinese/mtxtypes.datc64,Folders/data/portuguese.datc64.1,229666,2602886
 data/traditional chinese/music.datc64,Folders/data/28/traditional chinese.datc64,0,109888
 data/traditional chinese/musiccategories.datc64,Tiny.V0,35308480,811
 data/traditional chinese/notifications.datc64,Tiny.VA,34830364,3820
