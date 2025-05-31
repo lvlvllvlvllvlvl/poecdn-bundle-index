@@ -103,11 +103,11 @@ fn main() -> anyhow::Result<()> {
         assert!(response.status().is_success());
         let index_bundle = decompress(&mut BufReader::new(response))?;
         let cur = &mut Cursor::new(&index_bundle);
-        let count = read_u32(cur)?;
+        let count = read_u32(cur)? as usize;
         let mut bundle_names = Vec::with_capacity(count);
         let mut bundle_sizes = Vec::with_capacity(count);
         for _ in 0..count {
-            let name_len = read_u32(cur)?;
+            let name_len = read_u32(cur)? as usize;
             let start = cur.position() as usize;
             let end = start + name_len;
             let name = std::str::from_utf8(&index_bundle[start..end])?;
@@ -117,11 +117,11 @@ fn main() -> anyhow::Result<()> {
             bundle_sizes.push(bundle_size);
         }
 
-        let mut files = HashMap::new();
+        let mut files = BTreeMap::new();
         for _ in 0..read_u32(cur)? {
             files.insert(
                 // hash
-                read_u64(cur)?,
+                read_u64(cur)? as u64,
                 // bundle index, file offset, file size
                 (read_u32(cur)?, read_u32(cur)?, read_u32(cur)?),
             );
@@ -134,7 +134,7 @@ fn main() -> anyhow::Result<()> {
         let mut file_data = BTreeMap::new();
         let mut hash_map = HashMap::new();
         for filename in paths.iter() {
-            let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f) as usize;
+            let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
             match hash_map.entry(hash) {
                 Entry::Occupied(s) => println!("hash collision {} / {}", filename, s.get()),
                 Entry::Vacant(e) => {
@@ -142,14 +142,17 @@ fn main() -> anyhow::Result<()> {
                 }
             }
             if let Some(&(bundle_index, offset, size)) = files.get(&hash) {
-                let range =
-                    if offset == 0 && bundle_sizes.get(bundle_index).is_some_and(|&s| s == size) {
-                        None
-                    } else {
-                        Some((offset, size))
-                    };
+                let range = if offset == 0
+                    && bundle_sizes
+                        .get(bundle_index as usize)
+                        .is_some_and(|&s| s == size)
+                {
+                    None
+                } else {
+                    Some((offset, size))
+                };
 
-                let bundle = bundle_names[bundle_index];
+                let bundle = bundle_names[bundle_index as usize];
                 let file = File { bundle, range };
                 let (dir, name) = filename.rsplit_once('/').unwrap_or(("", filename));
                 file_data
@@ -183,6 +186,12 @@ fn main() -> anyhow::Result<()> {
                 ))?;
             }
         }
+
+        file_writer = csv::Writer::from_path(dir.join("bundles.csv"))?;
+        file_writer.serialize(["bundle", "size"])?;
+        for (&bundle_name, bundle_size) in bundle_names.iter().zip(bundle_sizes) {
+            file_writer.serialize((bundle_name, bundle_size))?;
+        }
     }
 
     Ok(())
@@ -198,7 +207,7 @@ struct Urls {
 struct File<'a> {
     bundle: &'a str,
     #[serde(skip_serializing_if = "Option::is_none")]
-    range: Option<(usize, usize)>,
+    range: Option<(u32, u32)>,
 }
 
 fn decompress<T: Read>(f: &mut T) -> anyhow::Result<Vec<u8>> {
@@ -208,9 +217,9 @@ fn decompress<T: Read>(f: &mut T) -> anyhow::Result<Vec<u8>> {
     let uncompressed_size = read_u64(f)?;
     // payload size
     read_u64(f)?;
-    let block_count = read_u32(f)?;
+    let block_count = read_u32(f)? as usize;
     // granularity u32,
-    let granularity = read_u32(f)?;
+    let granularity = read_u32(f)? as usize;
     println!(
         "uncompressed size: {}, block count: {}, granularity: {}",
         uncompressed_size, block_count, granularity
@@ -237,7 +246,7 @@ fn decode_paths(data: &[u8]) -> anyhow::Result<Vec<String>> {
     let r = &mut Cursor::new(data);
     let fragment = &mut Vec::new();
     while r.position() < data.len() as u64 {
-        let cmd = read_u32(r)?;
+        let cmd = read_u32(r)? as usize;
         if cmd == 0 {
             base_phase = !base_phase;
             if base_phase {
@@ -264,10 +273,10 @@ fn decode_paths(data: &[u8]) -> anyhow::Result<Vec<String>> {
     Ok(results)
 }
 
-fn read_u32<T: Read>(cur: &mut T) -> anyhow::Result<usize> {
+fn read_u32<T: Read>(cur: &mut T) -> anyhow::Result<u32> {
     let mut bytes = [0; 4];
     cur.read_exact(&mut bytes[..])?;
-    Ok(u32::from_le_bytes(bytes) as usize)
+    Ok(u32::from_le_bytes(bytes))
 }
 
 fn read_u64<T: Read>(cur: &mut T) -> anyhow::Result<usize> {
