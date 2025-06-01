@@ -1,5 +1,8 @@
+use crate::entity::{bundles, dirs};
 use base64::Engine;
+use entity::files;
 use sanitize_filename::Options;
+use sea_query::{InsertStatement, Query, SqliteQueryBuilder};
 use serde::{Deserialize, Serialize};
 use std::collections::hash_map::Entry;
 use std::collections::{BTreeMap, HashMap, HashSet};
@@ -10,6 +13,8 @@ use std::io::{BufReader, BufWriter, Cursor};
 use std::net::TcpStream;
 use std::path::{Component, Path, PathBuf};
 use url::Url;
+
+mod entity;
 
 fn main() -> anyhow::Result<()> {
     let mut args = std::env::args().skip(1);
@@ -63,6 +68,8 @@ fn main() -> anyhow::Result<()> {
     let writer = BufWriter::new(fs::File::create(&urls_json)?);
     serde_json::to_writer_pretty(writer, &Urls { raw, urls })?;
 
+    const SQL_LINES: i32 = 200;
+
     for v in &uniq_urls {
         let base = Url::parse(v)?;
         let dir = [
@@ -91,6 +98,7 @@ fn main() -> anyhow::Result<()> {
         })
         .collect::<PathBuf>();
         fs::create_dir_all(&dir)?;
+        let out_dir = Path::new(out_dir.as_str());
 
         let url = base.join("Bundles2/_.index.bin")?;
         println!("download url: {}", url);
@@ -133,6 +141,10 @@ fn main() -> anyhow::Result<()> {
         let paths = decode_paths(path_bundle.as_slice())?;
         let mut file_data = BTreeMap::new();
         let mut hash_map = HashMap::new();
+        let mut all_dirs = BTreeMap::new();
+        let mut sql_writer = fs::File::create(out_dir.join("files.sql"))?;
+        let mut sql = insert_files();
+        let mut sql_line = 0;
         for filename in paths.iter() {
             let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
             match hash_map.entry(hash) {
@@ -155,6 +167,25 @@ fn main() -> anyhow::Result<()> {
                 let bundle = bundle_names[bundle_index as usize];
                 let file = File { bundle, range };
                 let (dir, name) = filename.rsplit_once('/').unwrap_or(("", filename));
+
+                if !skip(dir) {
+                    let dir_id = add_dir(dir, &mut all_dirs);
+                    sql.values([
+                        (hash as i64).into(),
+                        dir_id.into(),
+                        name.into(),
+                        bundle_index.into(),
+                        offset.into(),
+                        size.into(),
+                    ])?;
+
+                    if sql_line % SQL_LINES == 0 && sql_line > 0 {
+                        writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
+                        sql = insert_files();
+                    }
+                    sql_line += 1;
+                }
+
                 file_data
                     .entry(dir)
                     .or_insert_with(BTreeMap::new)
@@ -166,14 +197,12 @@ fn main() -> anyhow::Result<()> {
 
         let mut out_file_number = 0;
         let mut in_file_number = 0;
-        let mut file_writer =
-            csv::Writer::from_path(dir.join(format!("files-{}.csv", out_file_number)))?;
+        let mut file_writer = csv::Writer::from_path(dir.join("files.csv"))?;
         file_writer.serialize(["file", "bundle", "offset", "size"])?;
         for (cur_dir, data) in file_data {
             if in_file_number / 100000 != out_file_number {
                 out_file_number = in_file_number / 100000;
-                file_writer =
-                    csv::Writer::from_path(dir.join(format!("files-{}.csv", out_file_number)))?;
+                file_writer = csv::Writer::from_path(dir.join("files.csv"))?;
                 file_writer.serialize(["file", "bundle", "offset", "size"])?;
             }
             for (file, data) in data {
@@ -189,12 +218,90 @@ fn main() -> anyhow::Result<()> {
 
         file_writer = csv::Writer::from_path(dir.join("bundles.csv"))?;
         file_writer.serialize(["bundle", "size"])?;
-        for (&bundle_name, bundle_size) in bundle_names.iter().zip(bundle_sizes) {
+        for (&bundle_name, &bundle_size) in bundle_names.iter().zip(&bundle_sizes) {
             file_writer.serialize((bundle_name, bundle_size))?;
         }
+
+        writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
+        let mut sql_writer = fs::File::create(out_dir.join("bundles.sql"))?;
+        let mut sql = insert_bundles();
+        for (bundle_index, &bundle_name) in bundle_names.iter().enumerate() {
+            sql.values([
+                (bundle_index as u64).into(),
+                bundle_name.into(),
+                bundle_sizes[bundle_index].into(),
+            ])?;
+            if sql_line % SQL_LINES == 0 && sql_line > 0 {
+                writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
+                sql = insert_bundles();
+            }
+            sql_line += 1;
+        }
+        writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
+
+        let mut sql_writer = fs::File::create(out_dir.join("dirs.sql"))?;
+        let mut sql = insert_dirs();
+        for (name, Dir { id, parent }) in all_dirs {
+            sql.values([id.into(), name.into(), parent.into()])?;
+            if sql_line % SQL_LINES == 0 && sql_line > 0 {
+                writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
+                sql = insert_dirs();
+            }
+            sql_line += 1;
+        }
+        writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
     }
 
     Ok(())
+}
+
+fn insert_dirs() -> InsertStatement {
+    Query::insert()
+        .into_table(dirs::Entity)
+        .columns([dirs::Column::Id, dirs::Column::Name, dirs::Column::Parent])
+        .to_owned()
+}
+
+fn insert_bundles() -> InsertStatement {
+    Query::insert()
+        .into_table(bundles::Entity)
+        .columns([
+            bundles::Column::Id,
+            bundles::Column::Name,
+            bundles::Column::Size,
+        ])
+        .to_owned()
+}
+
+fn insert_files() -> InsertStatement {
+    Query::insert()
+        .into_table(files::Entity)
+        .columns([
+            files::Column::Hash,
+            files::Column::Dir,
+            files::Column::Name,
+            files::Column::Bundle,
+            files::Column::Offset,
+            files::Column::Size,
+        ])
+        .to_owned()
+}
+
+fn skip(d: &str) -> bool {
+    d.starts_with("shader") || d.starts_with("cachedhlslshaders")
+}
+
+fn add_dir<'a>(cur_dir: &'a str, all_dirs: &mut BTreeMap<&'a str, Dir>) -> Pk {
+    let parent = cur_dir.rsplit_once('/').map(|v| add_dir(v.0, all_dirs));
+    let id = all_dirs.len() as Pk;
+    all_dirs.entry(cur_dir).or_insert(Dir { id, parent }).id
+}
+
+type Pk = u32;
+
+struct Dir {
+    id: Pk,
+    parent: Option<Pk>,
 }
 
 #[derive(Serialize, Deserialize)]
@@ -232,9 +339,12 @@ fn decompress<T: Read>(f: &mut T) -> anyhow::Result<Vec<u8>> {
     buf.resize(4 * block_count, 0);
     f.read_exact(buf.as_mut_slice())?;
     buf.resize(uncompressed_size, 0);
-    let mut ooz = oozextract::Extractor::new(f);
+    let mut ooz = oozextract::Extractor::new();
     for i in 0..block_count {
-        ooz.read(&mut buf[i * granularity..uncompressed_size.min((i + 1) * granularity)])?;
+        ooz.read(
+            f,
+            &mut buf[i * granularity..uncompressed_size.min((i + 1) * granularity)],
+        )?;
     }
     println!("Decompressed {} bytes", buf.len());
     Ok(buf)
