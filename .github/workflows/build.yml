@@ -52,7 +52,7 @@ jobs:
       pages: write
       id-token: write
 
-  db-uploads:
+  poe1-upload:
     runs-on: ubuntu-latest
     needs: build
     steps:
@@ -60,9 +60,14 @@ jobs:
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          command: d1 execute poe1-files poe1.sql
+          command: d1 execute poe1-files --file=poe1.sql
+
+  poe2-upload:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
       - name: poe2 export
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          command: d1 execute poe2-files poe2.sql
+          command: d1 execute poe2-files --file=poe2.sql
