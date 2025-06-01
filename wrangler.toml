@@ -1,0 +1,9 @@
+[[d1_databases]]
+binding = "poe1"
+database_name = "poe1-files"
+database_id = "21ad1cac-ffe5-4582-9c98-c5ddd59594fe"
+
+[[d1_databases]]
+binding = "poe2"
+database_name = "poe2-files"
+database_id = "accb4c83-f64f-40bd-9f99-73130ef53e3a"

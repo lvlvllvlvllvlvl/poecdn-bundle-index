@@ -3,3 +3,5 @@
 /_site
 *.sqlite
 poe*.sql
+node_modules
+.wrangler

@@ -48,6 +48,7 @@ jobs:
   poe1-upload:
     runs-on: ubuntu-latest
     needs: build
+    if: github.event_name == 'workflow_dispatch' || needs.build.outputs.changes_detected == 'true'
     steps:
       - uses: actions/checkout@v4
       - run: |
@@ -58,11 +59,12 @@ jobs:
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          command: d1 execute poe1-files --file=poe1.sql
+          command: d1 execute poe1-files --remote --file=poe1.sql
 
   poe2-upload:
     runs-on: ubuntu-latest
     needs: build
+    if: github.event_name == 'workflow_dispatch' || needs.build.outputs.changes_detected == 'true'
     steps:
       - uses: actions/checkout@v4
       - run: |
@@ -73,4 +75,4 @@ jobs:
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          command: d1 execute poe2-files --file=poe2.sql
+          command: d1 execute poe2-files --remote --file=poe2.sql
