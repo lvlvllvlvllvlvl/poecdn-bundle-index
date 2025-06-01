@@ -24,7 +24,7 @@ jobs:
       - run: tree -H '.' --noreport --charset utf-8 -o index.html
         working-directory: output
       - uses: actions/upload-pages-artifact@v3
-        if: github.event_name == 'workflow_dispatch' || steps.autocommit.outputs.changes_detected == 'true'
+        if: github.event_name != 'schedule' || steps.autocommit.outputs.changes_detected == 'true'
         with:
           path: output
     outputs:
