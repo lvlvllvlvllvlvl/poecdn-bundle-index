@@ -6,11 +6,10 @@ use sea_orm::entity::prelude::*;
 #[sea_orm(table_name = "dirs")]
 pub struct Model {
     #[sea_orm(primary_key, auto_increment = false)]
-    pub id: u32,
+    pub id: i32,
     #[sea_orm(column_type = "Text")]
     pub name: String,
-    #[sea_orm(column_type = "custom(\"number\")", nullable)]
-    pub parent: Option<String>,
+    pub parent: Option<i32>,
 }
 
 #[derive(Copy, Clone, Debug, EnumIter, DeriveRelation)]

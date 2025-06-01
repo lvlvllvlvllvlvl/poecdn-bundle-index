@@ -3,3 +3,4 @@
 pub use super::bundles::Entity as Bundles;
 pub use super::dirs::Entity as Dirs;
 pub use super::files::Entity as Files;
+pub use super::version::Entity as Version;

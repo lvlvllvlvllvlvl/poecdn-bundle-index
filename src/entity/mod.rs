@@ -5,3 +5,4 @@ pub mod prelude;
 pub mod bundles;
 pub mod dirs;
 pub mod files;
+pub mod version;

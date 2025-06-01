@@ -1,4 +1,4 @@
-use crate::entity::{bundles, dirs};
+use crate::entity::{bundles, dirs, version};
 use base64::Engine;
 use entity::files;
 use sanitize_filename::Options;
@@ -15,6 +15,7 @@ use std::path::{Component, Path, PathBuf};
 use url::Url;
 
 mod entity;
+use entity::prelude::*;
 
 fn main() -> anyhow::Result<()> {
     let mut args = std::env::args().skip(1);
@@ -250,6 +251,13 @@ fn main() -> anyhow::Result<()> {
             sql_line += 1;
         }
         writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
+
+        let sql = Query::insert()
+            .into_table(Version)
+            .columns([version::Column::Id, version::Column::Url])
+            .values([0.into(), v.into()])?.to_string(SqliteQueryBuilder);
+        let mut sql_writer = fs::File::create(out_dir.join("version.sql"))?;
+        writeln!(sql_writer, "{};", sql)?;
     }
 
     Ok(())
@@ -257,14 +265,14 @@ fn main() -> anyhow::Result<()> {
 
 fn insert_dirs() -> InsertStatement {
     Query::insert()
-        .into_table(dirs::Entity)
+        .into_table(Dirs)
         .columns([dirs::Column::Id, dirs::Column::Name, dirs::Column::Parent])
         .to_owned()
 }
 
 fn insert_bundles() -> InsertStatement {
     Query::insert()
-        .into_table(bundles::Entity)
+        .into_table(Bundles)
         .columns([
             bundles::Column::Id,
             bundles::Column::Name,
@@ -275,7 +283,7 @@ fn insert_bundles() -> InsertStatement {
 
 fn insert_files() -> InsertStatement {
     Query::insert()
-        .into_table(files::Entity)
+        .into_table(Files)
         .columns([
             files::Column::Hash,
             files::Column::Dir,
