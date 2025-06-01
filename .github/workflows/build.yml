@@ -37,7 +37,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-          echo "PRAGMA defer_foreign_keys = off" > poe1.sql
+          echo "PRAGMA defer_foreign_keys = off;" > poe1.sql
           cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe1.sql
           cat output/poe1/*.sql >> poe1.sql
       - name: poe1 export
@@ -53,7 +53,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-          echo "PRAGMA defer_foreign_keys = off" > poe2.sql
+          echo "PRAGMA defer_foreign_keys = off;" > poe2.sql
           cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe2.sql
           cat output/poe2/*.sql >> poe2.sql
       - name: poe2 export
