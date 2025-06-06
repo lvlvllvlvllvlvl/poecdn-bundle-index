@@ -1,11 +1,10 @@
+use base64::Engine;
 use std::collections::HashSet;
 use std::fs;
 use std::io::prelude::*;
 use std::io::BufWriter;
 use std::net::TcpStream;
 use std::path::Path;
-use base64::Engine;
-use url::Url;
 
 mod entity;
 mod models;
@@ -13,8 +12,8 @@ mod utils;
 mod sql;
 mod bundle;
 
-use models::Urls;
 use bundle::process_bundle;
+use models::Urls;
 
 fn main() -> anyhow::Result<()> {
     let mut args = std::env::args().skip(1);

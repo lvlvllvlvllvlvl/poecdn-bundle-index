@@ -1,8 +1,8 @@
-use std::collections::BTreeMap;
-use std::io::{BufReader, Read};
-use std::io::prelude::*;
-use anyhow::Result;
 use crate::models::Dir;
+use anyhow::Result;
+use std::collections::BTreeMap;
+use std::io::prelude::*;
+use std::io::Read;
 
 pub fn skip(d: &str) -> bool {
     d.starts_with("shader") || d.starts_with("cachedhlslshaders")

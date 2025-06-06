@@ -1,6 +1,6 @@
-use sea_query::{InsertStatement, Query, SqliteQueryBuilder};
-use crate::entity::{bundles, dirs, files};
 use crate::entity::prelude::*;
+use crate::entity::{bundles, dirs, files};
+use sea_query::{InsertStatement, Query};
 
 pub fn insert_dirs() -> InsertStatement {
     Query::insert()
