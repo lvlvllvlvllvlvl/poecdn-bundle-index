@@ -32,12 +32,12 @@ jobs:
           cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe2.sql
           cat output/poe2/*.sql >> poe2.sql
       - name: Upload poe1 sql artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: poe1-sql
           path: poe1.sql
       - name: Upload poe2 sql artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: poe2-sql
           path: poe2.sql
@@ -56,7 +56,7 @@ jobs:
     if: github.event_name != 'schedule' || needs.build.outputs.changes_detected == 'true'
     steps:
       - name: Download poe1 sql artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: poe1-sql
       - name: poe1 export
@@ -71,7 +71,7 @@ jobs:
     if: github.event_name != 'schedule' || needs.build.outputs.changes_detected == 'true'
     steps:
       - name: Download poe2 sql artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: poe2-sql
       - name: poe2 export
