@@ -21,6 +21,26 @@ jobs:
       - run: cargo run --release -- patch.pathofexile2.com:13060 output/poe2
       - uses: stefanzweifel/git-auto-commit-action@v5
         id: autocommit
+      - name: Generate poe1 sql
+        run: |
+          echo "PRAGMA defer_foreign_keys = off;" > poe1.sql
+          cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe1.sql
+          cat output/poe1/*.sql >> poe1.sql
+      - name: Generate poe2 sql
+        run: |
+          echo "PRAGMA defer_foreign_keys = off;" > poe2.sql
+          cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe2.sql
+          cat output/poe2/*.sql >> poe2.sql
+      - name: Upload poe1 sql artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: poe1-sql
+          path: poe1.sql
+      - name: Upload poe2 sql artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: poe2-sql
+          path: poe2.sql
       - run: tree -H '.' --noreport --charset utf-8 -o index.html
         working-directory: output
       - uses: actions/upload-pages-artifact@v3
@@ -35,11 +55,10 @@ jobs:
     needs: build
     if: github.event_name != 'schedule' || needs.build.outputs.changes_detected == 'true'
     steps:
-      - uses: actions/checkout@v4
-      - run: |
-          echo "PRAGMA defer_foreign_keys = off;" > poe1.sql
-          cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe1.sql
-          cat output/poe1/*.sql >> poe1.sql
+      - name: Download poe1 sql artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: poe1-sql
       - name: poe1 export
         uses: cloudflare/wrangler-action@v3
         with:
@@ -51,11 +70,10 @@ jobs:
     needs: build
     if: github.event_name != 'schedule' || needs.build.outputs.changes_detected == 'true'
     steps:
-      - uses: actions/checkout@v4
-      - run: |
-          echo "PRAGMA defer_foreign_keys = off;" > poe2.sql
-          cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe2.sql
-          cat output/poe2/*.sql >> poe2.sql
+      - name: Download poe2 sql artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: poe2-sql
       - name: poe2 export
         uses: cloudflare/wrangler-action@v3
         with:
