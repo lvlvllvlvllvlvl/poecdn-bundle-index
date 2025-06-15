@@ -4,10 +4,6 @@ use std::collections::BTreeMap;
 use std::io::prelude::*;
 use std::io::Read;
 
-pub fn skip(d: &str) -> bool {
-    d.starts_with("cachedhlslshaders")
-}
-
 pub fn add_dir<'a>(cur_dir: &'a str, all_dirs: &mut BTreeMap<&'a str, Dir>) -> u32 {
     let parent = cur_dir.rsplit_once('/').map(|v| add_dir(v.0, all_dirs));
     let id = all_dirs.len() as u32;

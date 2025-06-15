@@ -14,7 +14,7 @@ use crate::entity::prelude::*;
 use crate::entity::version;
 use crate::models::{Dir, File};
 use crate::sql::{insert_bundles, insert_dirs, insert_files};
-use crate::utils::{add_dir, decode_paths, decompress, read_u32, read_u64, skip};
+use crate::utils::{add_dir, decode_paths, decompress, read_u32, read_u64};
 use sea_query::{Query, SqliteQueryBuilder};
 
 const SQL_LINES: i32 = 200;
@@ -69,7 +69,10 @@ fn download_and_decompress_bundle(base_url: &Url) -> Result<Vec<u8>> {
 }
 
 /// Parses bundle names and sizes from the index bundle
-fn parse_bundle_metadata<'a>(index_bundle: &'a Vec<u8>, cursor: &mut Cursor<&'a Vec<u8>>) -> Result<(Vec<&'a str>, Vec<u32>)> {
+fn parse_bundle_metadata<'a>(
+    index_bundle: &'a Vec<u8>,
+    cursor: &mut Cursor<&'a Vec<u8>>,
+) -> Result<(Vec<&'a str>, Vec<u32>)> {
     let count = read_u32(cursor)? as usize;
     let mut bundle_names = Vec::with_capacity(count);
     let mut bundle_sizes = Vec::with_capacity(count);
@@ -89,7 +92,9 @@ fn parse_bundle_metadata<'a>(index_bundle: &'a Vec<u8>, cursor: &mut Cursor<&'a 
 }
 
 /// Extracts file hashes and their associated bundle information
-fn extract_file_hashes<'a>(cursor: &mut Cursor<&'a Vec<u8>>) -> Result<BTreeMap<u64, (u32, u32, u32)>> {
+fn extract_file_hashes(
+    cursor: &mut Cursor<&Vec<u8>>,
+) -> Result<BTreeMap<u64, (u32, u32, u32)>> {
     let mut files = BTreeMap::new();
 
     for _ in 0..read_u32(cursor)? {
@@ -109,12 +114,16 @@ fn extract_file_hashes<'a>(cursor: &mut Cursor<&'a Vec<u8>>) -> Result<BTreeMap<
 
 /// Processes file paths and generates file data and SQL entries
 fn process_file_paths<'a>(
-    paths: &'a [String], 
+    paths: &'a [String],
     files: &'a BTreeMap<u64, (u32, u32, u32)>,
     bundle_names: &'a [&'a str],
     bundle_sizes: &'a [u32],
     out_dir: &'a Path,
-) -> Result<(BTreeMap<&'a str, BTreeMap<&'a str, File<'a>>>, BTreeMap<&'a str, Dir>, i32)> {
+) -> Result<(
+    BTreeMap<&'a str, BTreeMap<&'a str, File<'a>>>,
+    BTreeMap<&'a str, Dir>,
+    i32,
+)> {
     let mut file_data = BTreeMap::new();
     let mut hash_map = HashMap::new();
     let mut all_dirs = BTreeMap::new();
@@ -146,23 +155,21 @@ fn process_file_paths<'a>(
             let file = File { bundle, range };
             let (dir, name) = filename.rsplit_once('/').unwrap_or(("", filename));
 
-            if !skip(dir) {
-                let dir_id = add_dir(dir, &mut all_dirs);
-                sql.values([
-                    (hash as i64).into(),
-                    dir_id.into(),
-                    name.into(),
-                    bundle_index.into(),
-                    offset.into(),
-                    size.into(),
-                ])?;
+            let dir_id = add_dir(dir, &mut all_dirs);
+            sql.values([
+                (hash as i64).into(),
+                dir_id.into(),
+                name.into(),
+                bundle_index.into(),
+                offset.into(),
+                size.into(),
+            ])?;
 
-                if sql_line % SQL_LINES == 0 && sql_line > 0 {
-                    writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
-                    sql = insert_files();
-                }
-                sql_line += 1;
+            if sql_line % SQL_LINES == 0 && sql_line > 0 {
+                writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
+                sql = insert_files();
             }
+            sql_line += 1;
 
             file_data
                 .entry(dir)
@@ -263,7 +270,8 @@ fn generate_sql_files<'a>(
     let sql = Query::insert()
         .into_table(Version)
         .columns([version::Column::Id, version::Column::Url])
-        .values([0.into(), url_str.into()])?.to_string(SqliteQueryBuilder);
+        .values([0.into(), url_str.into()])?
+        .to_string(SqliteQueryBuilder);
     let mut sql_writer = fs::File::create(out_dir.join("version.sql"))?;
     writeln!(sql_writer, "{};", sql)?;
 
@@ -290,25 +298,20 @@ pub fn process_bundle(url_str: &str, out_dir: &str) -> Result<()> {
     let paths = decode_paths(path_bundle.as_slice())?;
 
     // Process file paths and generate file data and SQL entries
-    let (file_data, all_dirs, sql_line) = process_file_paths(
-        &paths, 
-        &files, 
-        &bundle_names, 
-        &bundle_sizes, 
-        &out_dir_path
-    )?;
+    let (file_data, all_dirs, sql_line) =
+        process_file_paths(&paths, &files, &bundle_names, &bundle_sizes, &out_dir_path)?;
 
     // Generate CSV files
     generate_csv_files(&file_data, &bundle_names, &bundle_sizes, &dir)?;
 
     // Generate SQL files
     generate_sql_files(
-        &bundle_names, 
-        &bundle_sizes, 
-        all_dirs, 
-        &out_dir_path, 
-        url_str, 
-        sql_line
+        &bundle_names,
+        &bundle_sizes,
+        all_dirs,
+        &out_dir_path,
+        url_str,
+        sql_line,
     )?;
 
     Ok(())
