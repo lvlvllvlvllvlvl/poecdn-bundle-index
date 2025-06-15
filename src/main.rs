@@ -6,11 +6,11 @@ use std::io::BufWriter;
 use std::net::TcpStream;
 use std::path::Path;
 
+mod bundle;
 mod entity;
 mod models;
-mod utils;
 mod sql;
-mod bundle;
+mod utils;
 
 use bundle::process_bundle;
 use models::Urls;
@@ -52,17 +52,11 @@ fn main() -> anyhow::Result<()> {
         data = &data[2 * len..];
     }
 
+    let _ = fs::remove_dir_all(out_dir.as_str());
+    fs::create_dir_all(out_dir.as_str())?;
+
     let raw = base64::prelude::BASE64_STANDARD_NO_PAD.encode(&buf[..read]);
     let urls_json = Path::new(out_dir.as_str()).join("urls.json");
-    if let Ok(f) = fs::File::open(&urls_json) {
-        let prev: Urls = serde_json::from_reader(f)?;
-        if raw == prev.raw {
-            return Ok(());
-        } else {
-            let _ = fs::remove_dir_all(out_dir.as_str());
-        }
-    }
-    fs::create_dir_all(out_dir.as_str())?;
 
     let writer = BufWriter::new(fs::File::create(&urls_json)?);
     serde_json::to_writer_pretty(writer, &Urls { raw, urls })?;
