@@ -5,7 +5,7 @@ use std::io::prelude::*;
 use std::io::Read;
 
 pub fn skip(d: &str) -> bool {
-    d.starts_with("shader") || d.starts_with("cachedhlslshaders")
+    d.starts_with("cachedhlslshaders")
 }
 
 pub fn add_dir<'a>(cur_dir: &'a str, all_dirs: &mut BTreeMap<&'a str, Dir>) -> u32 {
