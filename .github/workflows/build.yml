@@ -10,7 +10,6 @@ on:
 
 env:
   CARGO_TERM_COLOR: always
-  CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
 
 jobs:
   build:
@@ -65,6 +64,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           command: d1 execute poe1-files --remote --file=poe1.sql
+          accountId: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
 
   poe2-upload:
     runs-on: ubuntu-latest
@@ -80,6 +80,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           command: d1 execute poe2-files --remote --file=poe2.sql
+          accountId: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
 
   gh-pages:
     runs-on: ubuntu-latest
