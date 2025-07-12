@@ -65,6 +65,7 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           command: d1 execute poe1-files --remote --file=poe1.sql
           accountId: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: latest
 
   poe2-upload:
     runs-on: ubuntu-latest
@@ -81,6 +82,7 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           command: d1 execute poe2-files --remote --file=poe2.sql
           accountId: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: latest
 
   gh-pages:
     runs-on: ubuntu-latest
