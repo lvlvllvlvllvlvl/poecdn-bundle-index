@@ -5,3 +5,4 @@
 poe*.sql
 node_modules
 .wrangler
+test-data/

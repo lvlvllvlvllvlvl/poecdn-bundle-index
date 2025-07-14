@@ -2,6 +2,7 @@ use anyhow::Result;
 use murmurhash64;
 use reqwest;
 use sanitize_filename::Options;
+use sea_orm::{DbConn, TransactionTrait};
 use std::collections::hash_map::Entry;
 use std::collections::{BTreeMap, HashMap};
 use std::fs;
@@ -10,6 +11,7 @@ use std::io::{BufReader, Cursor};
 use std::path::{Component, Path, PathBuf};
 use url::Url;
 
+use crate::db;
 use crate::entity::prelude::*;
 use crate::entity::version;
 use crate::models::{Dir, File};
@@ -54,10 +56,10 @@ fn prepare_output_directory(url_str: &str, out_dir: &str) -> Result<(PathBuf, Pa
 }
 
 /// Downloads and decompresses the bundle index file
-fn download_and_decompress_bundle(base_url: &Url) -> Result<Vec<u8>> {
+async fn download_and_decompress_bundle(base_url: &Url) -> Result<Vec<u8>> {
     let url = base_url.join("Bundles2/_.index.bin")?;
     println!("download url: {}", url);
-    let response = reqwest::blocking::get(url)?;
+    let response = reqwest::get(url).await?;
     println!(
         "status: {}, length: {:?}",
         response.status(),
@@ -65,7 +67,7 @@ fn download_and_decompress_bundle(base_url: &Url) -> Result<Vec<u8>> {
     );
     assert!(response.status().is_success());
 
-    decompress(&mut BufReader::new(response))
+    decompress(&mut BufReader::new(response.bytes().await?.as_ref()))
 }
 
 /// Parses bundle names and sizes from the index bundle
@@ -113,12 +115,13 @@ fn extract_file_hashes(
 }
 
 /// Processes file paths and generates file data and SQL entries
-fn process_file_paths<'a>(
+async fn process_file_paths<'a>(
     paths: &'a [String],
     files: &'a BTreeMap<u64, (u32, u32, u32)>,
     bundle_names: &'a [&'a str],
     bundle_sizes: &'a [u32],
     out_dir: &'a Path,
+    conn: &DbConn,
 ) -> Result<(
     BTreeMap<&'a str, BTreeMap<&'a str, File<'a>>>,
     BTreeMap<&'a str, Dir>,
@@ -130,6 +133,9 @@ fn process_file_paths<'a>(
     let mut sql_writer = fs::File::create(out_dir.join("files.sql"))?;
     let mut sql = insert_files();
     let mut sql_line = 0;
+
+    // Begin a transaction for better performance
+    let tx = conn.begin().await?;
 
     for filename in paths.iter() {
         let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
@@ -171,6 +177,17 @@ fn process_file_paths<'a>(
             }
             sql_line += 1;
 
+            // Insert file into the database
+            db::insert_file(
+                &tx,
+                hash,
+                dir_id,
+                name,
+                bundle_index,
+                offset,
+                size,
+            ).await?;
+
             file_data
                 .entry(dir)
                 .or_insert_with(BTreeMap::new)
@@ -181,6 +198,9 @@ fn process_file_paths<'a>(
     }
 
     writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
+
+    // Commit the transaction
+    tx.commit().await?;
 
     Ok((file_data, all_dirs, sql_line))
 }
@@ -226,18 +246,22 @@ fn generate_csv_files<'a>(
 }
 
 /// Generates SQL files for bundles, directories, and version
-fn generate_sql_files<'a>(
+async fn generate_sql_files<'a>(
     bundle_names: &'a [&'a str],
     bundle_sizes: &'a [u32],
     all_dirs: BTreeMap<&'a str, Dir>,
     out_dir: &Path,
     url_str: &str,
     sql_line: i32,
+    conn: &DbConn,
 ) -> Result<()> {
     // Generate bundles.sql
     let mut sql_writer = fs::File::create(out_dir.join("bundles.sql"))?;
     let mut sql = insert_bundles();
     let mut current_sql_line = sql_line;
+
+    // Begin a transaction for better performance
+    let tx = conn.begin().await?;
 
     for (bundle_index, &bundle_name) in bundle_names.iter().enumerate() {
         sql.values([
@@ -250,6 +274,14 @@ fn generate_sql_files<'a>(
             sql = insert_bundles();
         }
         current_sql_line += 1;
+
+        // Insert bundle into the database
+        db::insert_bundle(
+            &tx,
+            bundle_index as u64,
+            bundle_name,
+            bundle_sizes[bundle_index],
+        ).await?;
     }
     writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
 
@@ -263,6 +295,14 @@ fn generate_sql_files<'a>(
             sql = insert_dirs();
         }
         current_sql_line += 1;
+
+        // Insert directory into the database
+        db::insert_dir(
+            &tx,
+            id,
+            name,
+            parent,
+        ).await?;
     }
     writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
 
@@ -275,16 +315,25 @@ fn generate_sql_files<'a>(
     let mut sql_writer = fs::File::create(out_dir.join("version.sql"))?;
     writeln!(sql_writer, "{};", sql)?;
 
+    // Insert version into the database
+    db::insert_version(&tx, url_str).await?;
+
+    // Commit the transaction
+    tx.commit().await?;
+
     Ok(())
 }
 
-pub fn process_bundle(url_str: &str, out_dir: &str) -> Result<()> {
+pub async fn process_bundle(url_str: &str, out_dir: &str) -> Result<()> {
     // Prepare output directory
     let (dir, out_dir_path) = prepare_output_directory(url_str, out_dir)?;
 
+    // Create database connection
+    let conn = db::create_database(&out_dir_path).await?;
+
     // Download and decompress bundle
     let base = Url::parse(url_str)?;
-    let index_bundle = download_and_decompress_bundle(&base)?;
+    let index_bundle = download_and_decompress_bundle(&base).await?;
 
     // Parse bundle metadata
     let cursor = &mut Cursor::new(&index_bundle);
@@ -299,7 +348,7 @@ pub fn process_bundle(url_str: &str, out_dir: &str) -> Result<()> {
 
     // Process file paths and generate file data and SQL entries
     let (file_data, all_dirs, sql_line) =
-        process_file_paths(&paths, &files, &bundle_names, &bundle_sizes, &out_dir_path)?;
+        process_file_paths(&paths, &files, &bundle_names, &bundle_sizes, &out_dir_path, &conn).await?;
 
     // Generate CSV files
     generate_csv_files(&file_data, &bundle_names, &bundle_sizes, &dir)?;
@@ -312,7 +361,8 @@ pub fn process_bundle(url_str: &str, out_dir: &str) -> Result<()> {
         &out_dir_path,
         url_str,
         sql_line,
-    )?;
+        &conn,
+    ).await?;
 
     Ok(())
 }
