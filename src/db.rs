@@ -1,14 +1,14 @@
 use anyhow::Result;
-use sea_orm::{ActiveModelTrait, ConnectionTrait, Database, DbConn, EntityTrait, QueryOrder, Set};
+use sea_orm::{ConnectionTrait, Database, DbConn, EntityTrait, QueryOrder};
 use std::fs;
 use std::path::Path;
 
 use crate::entity::prelude::*;
-use crate::entity::{bundles, dirs, files, version};
+use crate::entity::bundles;
 
 /// Creates a new SQLite database and initializes it with the schema
 pub async fn create_database(out_dir: &Path) -> Result<DbConn> {
-    let db_path = out_dir.join("bundle_index.db?mode=rwc");
+    let db_path = out_dir.join("bundle_index.db");
 
     // Remove existing database if it exists
     if db_path.exists() {
@@ -16,7 +16,7 @@ pub async fn create_database(out_dir: &Path) -> Result<DbConn> {
     }
 
     // Create a new database
-    let db_url = format!("sqlite:{}", db_path.to_string_lossy());
+    let db_url = format!("sqlite:{}?mode=rwc", db_path.to_string_lossy());
     let conn = Database::connect(&db_url).await?;
 
     // Read and execute the schema creation SQL
@@ -35,13 +35,21 @@ pub async fn insert_bundle<C>(conn: &C, id: u64, name: &str, size: u32) -> Resul
 where
     C: sea_orm::ConnectionTrait,
 {
-    let bundle = bundles::ActiveModel {
-        id: Set(id as i32),
-        name: Set(name.to_owned()),
-        size: Set(size as i32),
-    };
+    // Use a raw SQL query with INSERT OR IGNORE to handle duplicate IDs
+    let stmt = sea_orm::Statement::from_sql_and_values(
+        sea_orm::DatabaseBackend::Sqlite,
+        r#"
+        INSERT OR IGNORE INTO bundles (id, name, size)
+        VALUES (?, ?, ?)
+        "#,
+        vec![
+            (id as i32).into(),
+            name.into(),
+            (size as i32).into(),
+        ],
+    );
 
-    bundle.insert(conn).await?;
+    conn.execute(stmt).await?;
 
     Ok(())
 }
@@ -51,13 +59,21 @@ pub async fn insert_dir<C>(conn: &C, id: u32, name: &str, parent: Option<u32>) -
 where
     C: sea_orm::ConnectionTrait,
 {
-    let dir = dirs::ActiveModel {
-        id: Set(id as i32),
-        name: Set(name.to_owned()),
-        parent: Set(parent.map(|p| p as i32)),
-    };
+    // Use a raw SQL query with INSERT OR IGNORE to handle duplicate IDs
+    let stmt = sea_orm::Statement::from_sql_and_values(
+        sea_orm::DatabaseBackend::Sqlite,
+        r#"
+        INSERT OR IGNORE INTO dirs (id, name, parent)
+        VALUES (?, ?, ?)
+        "#,
+        vec![
+            (id as i32).into(),
+            name.into(),
+            parent.map(|p| p as i32).into(),
+        ],
+    );
 
-    dir.insert(conn).await?;
+    conn.execute(stmt).await?;
 
     Ok(())
 }
@@ -75,16 +91,24 @@ pub async fn insert_file<C>(
 where
     C: sea_orm::ConnectionTrait,
 {
-    let file = files::ActiveModel {
-        hash: Set(hash as i32),
-        dir: Set(Some(dir as i32)),
-        name: Set(name.to_owned()),
-        bundle: Set(bundle as i32),
-        offset: Set(offset as i32),
-        size: Set(size as i32),
-    };
+    // Use a raw SQL query with INSERT OR IGNORE to handle duplicate hashes
+    let stmt = sea_orm::Statement::from_sql_and_values(
+        sea_orm::DatabaseBackend::Sqlite,
+        r#"
+        INSERT OR IGNORE INTO files (hash, dir, name, bundle, offset, size)
+        VALUES (?, ?, ?, ?, ?, ?)
+        "#,
+        vec![
+            (hash as i32).into(),
+            (dir as i32).into(),
+            name.into(),
+            (bundle as i32).into(),
+            (offset as i32).into(),
+            (size as i32).into(),
+        ],
+    );
 
-    file.insert(conn).await?;
+    conn.execute(stmt).await?;
 
     Ok(())
 }
@@ -94,12 +118,20 @@ pub async fn insert_version<C>(conn: &C, url: &str) -> Result<()>
 where
     C: sea_orm::ConnectionTrait,
 {
-    let ver = version::ActiveModel {
-        id: Set(0),
-        url: Set(url.to_owned()),
-    };
+    // Use a raw SQL query with INSERT OR IGNORE to handle duplicate IDs
+    let stmt = sea_orm::Statement::from_sql_and_values(
+        sea_orm::DatabaseBackend::Sqlite,
+        r#"
+        INSERT OR IGNORE INTO version (id, url)
+        VALUES (?, ?)
+        "#,
+        vec![
+            0.into(),
+            url.into(),
+        ],
+    );
 
-    ver.insert(conn).await?;
+    conn.execute(stmt).await?;
 
     Ok(())
 }

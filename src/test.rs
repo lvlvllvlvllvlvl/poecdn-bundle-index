@@ -9,8 +9,14 @@ use crate::{db, run};
 #[tokio::test]
 pub async fn verify_database_matches_csv() -> Result<()> {
     let out_dir_path = Path::new("test-data");
-    let db_path = out_dir_path.join("bundle_index.db");
 
+    // First, remove any existing test data to ensure a clean state
+    if out_dir_path.exists() {
+        std::fs::remove_dir_all(out_dir_path)?;
+    }
+    std::fs::create_dir_all(out_dir_path)?;
+
+    // Run the main process to generate files and database
     run(
         "patch.pathofexile.com:12995",
         out_dir_path.to_string_lossy().as_ref(),
@@ -18,15 +24,22 @@ pub async fn verify_database_matches_csv() -> Result<()> {
     .await?;
 
     // Connect to the database
-    let db_url = format!("sqlite:{}", db_path.to_string_lossy());
+    let db_path = out_dir_path.join("bundle_index.db");
+    let db_url = format!("sqlite:{}?mode=rwc", db_path.to_string_lossy());
     let conn = sea_orm::Database::connect(&db_url).await?;
 
     // Get all bundles from the database
     let db_bundles = db::get_bundles(&conn).await?;
 
+    // Find the subdirectory where the CSV files are generated
+    // The directory structure is based on the URL: out_dir/domain/path
+    let url_domain = "patch.poecdn.com";
+    let url_path = "3.26.0.6.2"; // This is the path from the URL
+    let csv_dir = out_dir_path.join(url_domain).join(url_path);
+
     // Get all bundles from the CSV file
     let mut csv_bundles = HashSet::new();
-    let mut rdr = Reader::from_path(out_dir_path.join("bundles.csv"))?;
+    let mut rdr = Reader::from_path(csv_dir.join("bundles.csv"))?;
     for result in rdr.records() {
         let record = result?;
         let name = record.get(0).unwrap_or("").to_string();
@@ -54,7 +67,7 @@ pub async fn verify_database_matches_csv() -> Result<()> {
 
     // Get all files from the CSV file
     let mut csv_files = HashSet::new();
-    let mut rdr = Reader::from_path(out_dir_path.join("files.csv"))?;
+    let mut rdr = Reader::from_path(csv_dir.join("files.csv"))?;
     for result in rdr.records() {
         let record = result?;
         let path = record.get(0).unwrap_or("").to_string();

@@ -3,8 +3,7 @@ use murmurhash64;
 use reqwest;
 use sanitize_filename::Options;
 use sea_orm::{DbConn, TransactionTrait};
-use std::collections::hash_map::Entry;
-use std::collections::{BTreeMap, HashMap};
+use std::collections::{BTreeMap, HashSet};
 use std::fs;
 use std::io::prelude::*;
 use std::io::{BufReader, Cursor};
@@ -15,7 +14,7 @@ use crate::db;
 use crate::entity::prelude::*;
 use crate::entity::version;
 use crate::models::{Dir, File};
-use crate::sql::{insert_bundles, insert_dirs, insert_files};
+use crate::sql::{insert_bundles, insert_dirs};
 use crate::utils::{add_dir, decode_paths, decompress, read_u32, read_u64};
 use sea_query::{Query, SqliteQueryBuilder};
 
@@ -114,96 +113,6 @@ fn extract_file_hashes(
     Ok(files)
 }
 
-/// Processes file paths and generates file data and SQL entries
-async fn process_file_paths<'a>(
-    paths: &'a [String],
-    files: &'a BTreeMap<u64, (u32, u32, u32)>,
-    bundle_names: &'a [&'a str],
-    bundle_sizes: &'a [u32],
-    out_dir: &'a Path,
-    conn: &DbConn,
-) -> Result<(
-    BTreeMap<&'a str, BTreeMap<&'a str, File<'a>>>,
-    BTreeMap<&'a str, Dir>,
-    i32,
-)> {
-    let mut file_data = BTreeMap::new();
-    let mut hash_map = HashMap::new();
-    let mut all_dirs = BTreeMap::new();
-    let mut sql_writer = fs::File::create(out_dir.join("files.sql"))?;
-    let mut sql = insert_files();
-    let mut sql_line = 0;
-
-    // Begin a transaction for better performance
-    let tx = conn.begin().await?;
-
-    for filename in paths.iter() {
-        let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
-        match hash_map.entry(hash) {
-            Entry::Occupied(s) => println!("hash collision {} / {}", filename, s.get()),
-            Entry::Vacant(e) => {
-                e.insert(filename.as_str());
-            }
-        }
-
-        if let Some(&(bundle_index, offset, size)) = files.get(&hash) {
-            let range = if offset == 0
-                && bundle_sizes
-                    .get(bundle_index as usize)
-                    .is_some_and(|&s| s == size)
-            {
-                None
-            } else {
-                Some((offset, size))
-            };
-
-            let bundle = bundle_names[bundle_index as usize];
-            let file = File { bundle, range };
-            let (dir, name) = filename.rsplit_once('/').unwrap_or(("", filename));
-
-            let dir_id = add_dir(dir, &mut all_dirs);
-            sql.values([
-                (hash as i64).into(),
-                dir_id.into(),
-                name.into(),
-                bundle_index.into(),
-                offset.into(),
-                size.into(),
-            ])?;
-
-            if sql_line % SQL_LINES == 0 && sql_line > 0 {
-                writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
-                sql = insert_files();
-            }
-            sql_line += 1;
-
-            // Insert file into the database
-            db::insert_file(
-                &tx,
-                hash,
-                dir_id,
-                name,
-                bundle_index,
-                offset,
-                size,
-            ).await?;
-
-            file_data
-                .entry(dir)
-                .or_insert_with(BTreeMap::new)
-                .insert(name, file);
-        } else {
-            eprintln!("No file found for hash {} of {}", hash, filename)
-        }
-    }
-
-    writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
-
-    // Commit the transaction
-    tx.commit().await?;
-
-    Ok((file_data, all_dirs, sql_line))
-}
 
 /// Generates CSV files for files and bundles
 fn generate_csv_files<'a>(
@@ -346,14 +255,98 @@ pub async fn process_bundle(url_str: &str, out_dir: &str) -> Result<()> {
     let path_bundle = decompress(cursor)?;
     let paths = decode_paths(path_bundle.as_slice())?;
 
-    // Process file paths and generate file data and SQL entries
-    let (file_data, all_dirs, sql_line) =
-        process_file_paths(&paths, &files, &bundle_names, &bundle_sizes, &out_dir_path, &conn).await?;
+    // First, collect all directories and prepare file data without inserting into the database
+    let mut file_data = BTreeMap::new();
+    let mut all_dirs = BTreeMap::new();
+
+    for filename in paths.iter() {
+        let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
+
+        if let Some(&(bundle_index, offset, size)) = files.get(&hash) {
+            let range = if offset == 0
+                && bundle_sizes
+                    .get(bundle_index as usize)
+                    .is_some_and(|&s| s == size)
+            {
+                None
+            } else {
+                Some((offset, size))
+            };
+
+            let bundle = bundle_names[bundle_index as usize];
+            let file = File { bundle, range };
+            let (dir, name) = filename.rsplit_once('/').unwrap_or(("", filename));
+
+            // Just collect the directory, don't insert yet
+            let _dir_id = add_dir(dir, &mut all_dirs);
+
+            file_data
+                .entry(dir)
+                .or_insert_with(BTreeMap::new)
+                .insert(name, file);
+        }
+    }
+
+    // Begin a transaction for all database operations
+    let tx = conn.begin().await?;
+
+    // First insert bundles
+    for (bundle_index, &bundle_name) in bundle_names.iter().enumerate() {
+        db::insert_bundle(
+            &tx,
+            bundle_index as u64,
+            bundle_name,
+            bundle_sizes[bundle_index],
+        ).await?;
+    }
+
+    // Then insert directories
+    for (name, Dir { id, parent }) in &all_dirs {
+        db::insert_dir(
+            &tx,
+            *id,
+            name,
+            *parent,
+        ).await?;
+    }
+
+    // Now insert files
+    let mut inserted_hashes = HashSet::new();
+    for filename in paths.iter() {
+        let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
+
+        // Skip if we've already inserted this hash
+        if !inserted_hashes.insert(hash) {
+            continue;
+        }
+
+        if let Some(&(bundle_index, offset, size)) = files.get(&hash) {
+            let (dir, name) = filename.rsplit_once('/').unwrap_or(("", filename));
+            let dir_id = *all_dirs.get(dir).map(|d| &d.id).unwrap_or(&0);
+
+            db::insert_file(
+                &tx,
+                hash,
+                dir_id,
+                name,
+                bundle_index,
+                offset,
+                size,
+            ).await?;
+        }
+    }
+
+    // Insert version
+    db::insert_version(&tx, url_str).await?;
+
+    // Commit the transaction
+    tx.commit().await?;
 
     // Generate CSV files
     generate_csv_files(&file_data, &bundle_names, &bundle_sizes, &dir)?;
 
-    // Generate SQL files
+    // Generate SQL files for reference (not used for database insertion anymore)
+    let sql_line = 0; // This is not used anymore but kept for compatibility
     generate_sql_files(
         &bundle_names,
         &bundle_sizes,
