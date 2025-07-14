@@ -93,9 +93,7 @@ fn parse_bundle_metadata<'a>(
 }
 
 /// Extracts file hashes and their associated bundle information
-fn extract_file_hashes(
-    cursor: &mut Cursor<&Vec<u8>>,
-) -> Result<BTreeMap<u64, (u32, u32, u32)>> {
+fn extract_file_hashes(cursor: &mut Cursor<&Vec<u8>>) -> Result<BTreeMap<u64, (u32, u32, u32)>> {
     let mut files = BTreeMap::new();
 
     for _ in 0..read_u32(cursor)? {
@@ -112,7 +110,6 @@ fn extract_file_hashes(
 
     Ok(files)
 }
-
 
 /// Generates CSV files for files and bundles
 fn generate_csv_files<'a>(
@@ -190,7 +187,8 @@ async fn generate_sql_files<'a>(
             bundle_index as u64,
             bundle_name,
             bundle_sizes[bundle_index],
-        ).await?;
+        )
+        .await?;
     }
     writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
 
@@ -206,12 +204,7 @@ async fn generate_sql_files<'a>(
         current_sql_line += 1;
 
         // Insert directory into the database
-        db::insert_dir(
-            &tx,
-            id,
-            name,
-            parent,
-        ).await?;
+        db::insert_dir(&tx, id, name, parent).await?;
     }
     writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
 
@@ -297,17 +290,13 @@ pub async fn process_bundle(url_str: &str, out_dir: &str) -> Result<()> {
             bundle_index as u64,
             bundle_name,
             bundle_sizes[bundle_index],
-        ).await?;
+        )
+        .await?;
     }
 
     // Then insert directories
     for (name, Dir { id, parent }) in &all_dirs {
-        db::insert_dir(
-            &tx,
-            *id,
-            name,
-            *parent,
-        ).await?;
+        db::insert_dir(&tx, *id, name, *parent).await?;
     }
 
     // Now insert files
@@ -324,15 +313,7 @@ pub async fn process_bundle(url_str: &str, out_dir: &str) -> Result<()> {
             let (dir, name) = filename.rsplit_once('/').unwrap_or(("", filename));
             let dir_id = *all_dirs.get(dir).map(|d| &d.id).unwrap_or(&0);
 
-            db::insert_file(
-                &tx,
-                hash,
-                dir_id,
-                name,
-                bundle_index,
-                offset,
-                size,
-            ).await?;
+            db::insert_file(&tx, hash, dir_id, name, bundle_index, offset, size).await?;
         }
     }
 
@@ -355,7 +336,8 @@ pub async fn process_bundle(url_str: &str, out_dir: &str) -> Result<()> {
         url_str,
         sql_line,
         &conn,
-    ).await?;
+    )
+    .await?;
 
     Ok(())
 }

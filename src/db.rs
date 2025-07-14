@@ -3,8 +3,8 @@ use sea_orm::{ConnectionTrait, Database, DbConn, EntityTrait, QueryOrder};
 use std::fs;
 use std::path::Path;
 
-use crate::entity::prelude::*;
 use crate::entity::bundles;
+use crate::entity::prelude::*;
 
 /// Creates a new SQLite database and initializes it with the schema
 pub async fn create_database(out_dir: &Path) -> Result<DbConn> {
@@ -31,7 +31,7 @@ pub async fn create_database(out_dir: &Path) -> Result<DbConn> {
 }
 
 /// Inserts a bundle into the database
-pub async fn insert_bundle<C>(conn: &C, id: u64, name: &str, size: u32) -> Result<()> 
+pub async fn insert_bundle<C>(conn: &C, id: u64, name: &str, size: u32) -> Result<()>
 where
     C: sea_orm::ConnectionTrait,
 {
@@ -42,11 +42,7 @@ where
         INSERT OR IGNORE INTO bundles (id, name, size)
         VALUES (?, ?, ?)
         "#,
-        vec![
-            (id as i32).into(),
-            name.into(),
-            (size as i32).into(),
-        ],
+        vec![(id as i32).into(), name.into(), (size as i32).into()],
     );
 
     conn.execute(stmt).await?;
@@ -55,7 +51,7 @@ where
 }
 
 /// Inserts a directory into the database
-pub async fn insert_dir<C>(conn: &C, id: u32, name: &str, parent: Option<u32>) -> Result<()> 
+pub async fn insert_dir<C>(conn: &C, id: u32, name: &str, parent: Option<u32>) -> Result<()>
 where
     C: sea_orm::ConnectionTrait,
 {
@@ -87,7 +83,7 @@ pub async fn insert_file<C>(
     bundle: u32,
     offset: u32,
     size: u32,
-) -> Result<()> 
+) -> Result<()>
 where
     C: sea_orm::ConnectionTrait,
 {
@@ -114,7 +110,7 @@ where
 }
 
 /// Inserts a version into the database
-pub async fn insert_version<C>(conn: &C, url: &str) -> Result<()> 
+pub async fn insert_version<C>(conn: &C, url: &str) -> Result<()>
 where
     C: sea_orm::ConnectionTrait,
 {
@@ -125,10 +121,7 @@ where
         INSERT OR IGNORE INTO version (id, url)
         VALUES (?, ?)
         "#,
-        vec![
-            0.into(),
-            url.into(),
-        ],
+        vec![0.into(), url.into()],
     );
 
     conn.execute(stmt).await?;
@@ -137,7 +130,7 @@ where
 }
 
 /// Gets all bundles from the database
-pub async fn get_bundles<C>(conn: &C) -> Result<Vec<(String, u32)>> 
+pub async fn get_bundles<C>(conn: &C) -> Result<Vec<(String, u32)>>
 where
     C: sea_orm::ConnectionTrait,
 {
@@ -155,7 +148,7 @@ where
 }
 
 /// Gets all files from the database
-pub async fn get_files<C>(conn: &C) -> Result<Vec<(String, String, Option<u32>, Option<u32>)>> 
+pub async fn get_files<C>(conn: &C) -> Result<Vec<(String, String, Option<u32>, Option<u32>)>>
 where
     C: sea_orm::ConnectionTrait,
 {
