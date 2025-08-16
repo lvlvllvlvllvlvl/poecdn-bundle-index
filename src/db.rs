@@ -8,7 +8,7 @@ use crate::entity::prelude::*;
 
 /// Creates a new SQLite database and initializes it with the schema
 pub async fn create_database(out_dir: &Path) -> Result<DbConn> {
-    let db_path = out_dir.join("bundle_index.db");
+    let db_path = out_dir.join("bundle_index.sqlite");
 
     // Remove existing database if it exists
     if db_path.exists() {
@@ -24,6 +24,13 @@ pub async fn create_database(out_dir: &Path) -> Result<DbConn> {
     conn.execute(sea_orm::Statement::from_string(
         sea_orm::DatabaseBackend::Sqlite,
         schema,
+    ))
+    .await?;
+
+    let indexes = fs::read_to_string(Path::new("sql/create_indexes.sql"))?;
+    conn.execute(sea_orm::Statement::from_string(
+        sea_orm::DatabaseBackend::Sqlite,
+        indexes,
     ))
     .await?;
 

@@ -3,7 +3,7 @@ use csv::Reader;
 use std::collections::HashSet;
 use std::path::Path;
 
-use crate::{db, run};
+use poecdn_bundle_index::{db, run};
 
 /// Verifies that the database content matches the CSV files
 #[tokio::test]
@@ -24,7 +24,7 @@ pub async fn verify_database_matches_csv() -> Result<()> {
     .await?;
 
     // Connect to the database
-    let db_path = out_dir_path.join("bundle_index.db");
+    let db_path = out_dir_path.join("bundle_index.sqlite");
     let db_url = format!("sqlite:{}?mode=rwc", db_path.to_string_lossy());
     let conn = sea_orm::Database::connect(&db_url).await?;
 

@@ -281,25 +281,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "46c5e41b57b8bba42a04676d81cb89e9ee8e859a1a66f80a5a72e1cb76b34d43"
 
 [[package]]
-name = "bundle-index"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "base64",
- "csv",
- "murmurhash64",
- "oozextract",
- "reqwest",
- "sanitize-filename",
- "sea-orm",
- "sea-query",
- "serde",
- "serde_json",
- "tokio",
- "url",
-]
-
-[[package]]
 name = "bytecheck"
 version = "0.6.12"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1682,6 +1663,25 @@ name = "pkg-config"
 version = "0.3.32"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "7edddbd0b52d732b21ad9a5fab5c704c14cd949e5e9a1ec5929a24fded1b904c"
+
+[[package]]
+name = "poecdn_bundle_index"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "base64",
+ "csv",
+ "murmurhash64",
+ "oozextract",
+ "reqwest",
+ "sanitize-filename",
+ "sea-orm",
+ "sea-query",
+ "serde",
+ "serde_json",
+ "tokio",
+ "url",
+]
 
 [[package]]
 name = "potential_utf"
