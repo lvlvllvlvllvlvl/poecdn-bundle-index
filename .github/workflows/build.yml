@@ -21,16 +21,50 @@ jobs:
       - run: cargo run --release -- poe2
       - uses: stefanzweifel/git-auto-commit-action@v5
         id: autocommit
+      - name: Check for poe1 update script
+        id: check_poe1_update
+        run: |
+          if [ -f "output/poe1/use_update_script" ]; then
+            echo "USE_UPDATE=true" >> $GITHUB_OUTPUT
+            echo "UPDATE_FILE=$(ls output/poe1/update-*.sql)" >> $GITHUB_OUTPUT
+            echo "Found update script for poe1: $(ls output/poe1/update-*.sql)"
+          else
+            echo "USE_UPDATE=false" >> $GITHUB_OUTPUT
+            echo "No update script found for poe1, will rebuild database"
+          fi
+      - name: Check for poe2 update script
+        id: check_poe2_update
+        run: |
+          if [ -f "output/poe2/use_update_script" ]; then
+            echo "USE_UPDATE=true" >> $GITHUB_OUTPUT
+            echo "UPDATE_FILE=$(ls output/poe2/update-*.sql)" >> $GITHUB_OUTPUT
+            echo "Found update script for poe2: $(ls output/poe2/update-*.sql)"
+          else
+            echo "USE_UPDATE=false" >> $GITHUB_OUTPUT
+            echo "No update script found for poe2, will rebuild database"
+          fi
       - name: Generate poe1 sql
         run: |
-          echo "PRAGMA defer_foreign_keys = off;" > poe1.sql
-          cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe1.sql
-          cat output/poe1/*.sql >> poe1.sql
+          if [ "${{ steps.check_poe1_update.outputs.USE_UPDATE }}" == "true" ]; then
+            echo "Using update script for poe1"
+            cp "${{ steps.check_poe1_update.outputs.UPDATE_FILE }}" poe1.sql
+          else
+            echo "Rebuilding poe1 database from scratch"
+            echo "PRAGMA defer_foreign_keys = off;" > poe1.sql
+            cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe1.sql
+            cat output/poe1/*.sql >> poe1.sql
+          fi
       - name: Generate poe2 sql
         run: |
-          echo "PRAGMA defer_foreign_keys = off;" > poe2.sql
-          cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe2.sql
-          cat output/poe2/*.sql >> poe2.sql
+          if [ "${{ steps.check_poe2_update.outputs.USE_UPDATE }}" == "true" ]; then
+            echo "Using update script for poe2"
+            cp "${{ steps.check_poe2_update.outputs.UPDATE_FILE }}" poe2.sql
+          else
+            echo "Rebuilding poe2 database from scratch"
+            echo "PRAGMA defer_foreign_keys = off;" > poe2.sql
+            cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe2.sql
+            cat output/poe2/*.sql >> poe2.sql
+          fi
       - name: Upload poe1 sql artifact
         uses: actions/upload-artifact@v4
         with:
@@ -49,6 +83,8 @@ jobs:
           path: output
     outputs:
       changes_detected: ${{ steps.autocommit.outputs.changes_detected }}
+      poe1_use_update: ${{ steps.check_poe1_update.outputs.USE_UPDATE }}
+      poe2_use_update: ${{ steps.check_poe2_update.outputs.USE_UPDATE }}
 
   poe1-upload:
     runs-on: ubuntu-latest
