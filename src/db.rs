@@ -293,7 +293,7 @@ pub async fn generate_differential_update(
     
     // Add header comment
     writeln!(update_file, "-- Differential update from {} to {}", from_version, to_version)?;
-    writeln!(update_file, "PRAGMA defer_foreign_keys = off;")?;
+    writeln!(update_file, "PRAGMA foreign_keys = off;")?;
     writeln!(update_file, "BEGIN TRANSACTION;")?;
     
     // Update version
@@ -308,17 +308,23 @@ pub async fn generate_differential_update(
     
     writeln!(update_file, "UPDATE version SET url = '{}' WHERE id = 0;", current_version_url)?;
     
-    // Compare and update bundles
-    compare_and_update_bundles(&prev_conn, &current_conn, &mut update_file).await?;
-    
-    // Compare and update dirs
-    compare_and_update_dirs(&prev_conn, &current_conn, &mut update_file).await?;
+    // Process in reverse order to handle foreign key constraints properly:
+    // 1. First, compare and update files (since they reference both directories and bundles)
+    // 2. Then, compare and update directories (since they can reference parent directories)
+    // 3. Finally, compare and update bundles
     
     // Compare and update files
     compare_and_update_files(&prev_conn, &current_conn, &mut update_file).await?;
     
+    // Compare and update dirs
+    compare_and_update_dirs(&prev_conn, &current_conn, &mut update_file).await?;
+    
+    // Compare and update bundles
+    compare_and_update_bundles(&prev_conn, &current_conn, &mut update_file).await?;
+    
     // End transaction
     writeln!(update_file, "COMMIT;")?;
+    writeln!(update_file, "PRAGMA foreign_keys = on;")?;
     
     println!("Differential update SQL file generated at {:?}", update_sql_path);
     

@@ -57,14 +57,14 @@ fn prepare_output_directory(url_str: &str, out_dir: &str) -> Result<(PathBuf, Pa
 /// Downloads and decompresses the bundle index file
 async fn download_and_decompress_bundle(base_url: &Url) -> Result<Vec<u8>> {
     let url = base_url.join("Bundles2/_.index.bin")?;
-    println!("download url: {}", url);
+    // Removed logging of each URL to reduce output
+    let url_str = url.to_string(); // Store URL as string for potential error logging
     let response = reqwest::get(url).await?;
-    println!(
-        "status: {}, length: {:?}",
-        response.status(),
-        response.content_length()
-    );
-    assert!(response.status().is_success());
+    // Only log errors, not successful responses
+    if !response.status().is_success() {
+        println!("Error downloading {}: status {}", url_str, response.status());
+        assert!(response.status().is_success());
+    }
 
     decompress(&mut BufReader::new(response.bytes().await?.as_ref()))
 }
