@@ -3,7 +3,7 @@ use murmurhash64;
 use reqwest;
 use sanitize_filename::Options;
 use sea_orm::{DbConn, TransactionTrait};
-use std::collections::{BTreeMap, HashSet};
+use std::collections::{BTreeMap, HashMap, HashSet};
 use std::fs;
 use std::io::prelude::*;
 use std::io::{BufReader, Cursor};
@@ -112,31 +112,43 @@ fn extract_file_hashes(cursor: &mut Cursor<&Vec<u8>>) -> Result<BTreeMap<u64, (u
 }
 
 /// Generates CSV files for files and bundles
-fn generate_csv_files<'a>(
-    file_data: &BTreeMap<&'a str, BTreeMap<&'a str, File<'a>>>,
-    bundle_names: &'a [&'a str],
-    bundle_sizes: &'a [u32],
+fn generate_csv_files(
+    paths: &Vec<String>,
+    files_map: &BTreeMap<u64, (u32, u32, u32)>,
+    bundle_names: &[&str],
+    bundle_sizes: &[u32],
     dir: &Path,
 ) -> Result<()> {
-    // Generate files.csv
-    let mut out_file_number = 0;
-    let mut in_file_number = 0;
+    // Generate files.csv (single file with all entries)
     let mut file_writer = csv::Writer::from_path(dir.join("files.csv"))?;
     file_writer.serialize(["file", "bundle", "offset", "size"])?;
 
-    for (cur_dir, data) in file_data {
-        if in_file_number / 100000 != out_file_number {
-            out_file_number = in_file_number / 100000;
-            file_writer = csv::Writer::from_path(dir.join("files.csv"))?;
-            file_writer.serialize(["file", "bundle", "offset", "size"])?;
+    // Deduplicate by file hash to mirror database unique constraint on files.hash
+    let mut seen_hashes: HashMap<u64, &String> = HashMap::new();
+
+    for filename in paths.iter() {
+        let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
+        if let Some(prev) = seen_hashes.insert(hash, filename) {
+            assert_eq!(prev, filename);
+            continue;
         }
-        for (file, data) in data {
-            in_file_number += 1;
+        if let Some(&(bundle_index, offset, size)) = files_map.get(&hash) {
+            let bundle = bundle_names[bundle_index as usize];
+            let range = if offset == 0
+                && bundle_sizes
+                    .get(bundle_index as usize)
+                    .is_some_and(|&s| s == size)
+            {
+                None
+            } else {
+                Some((offset, size))
+            };
+
             file_writer.serialize((
-                format!("{}/{}", cur_dir, file),
-                data.bundle,
-                data.range.map(|v| v.0),
-                data.range.map(|v| v.1),
+                filename,
+                bundle,
+                range.map(|v| v.0),
+                range.map(|v| v.1),
             ))?;
         }
     }
@@ -329,7 +341,7 @@ pub async fn process_bundle_bytes(index_bundle: Vec<u8>, url_str: &str, out_dir:
     tx.commit().await?;
 
     // Generate CSV files
-    generate_csv_files(&file_data, &bundle_names, &bundle_sizes, &dir)?;
+    generate_csv_files(&paths, &files, &bundle_names, &bundle_sizes, &dir)?;
 
     // Generate SQL files for reference (not used for database insertion anymore)
     let sql_line = 0; // This is not used anymore but kept for compatibility

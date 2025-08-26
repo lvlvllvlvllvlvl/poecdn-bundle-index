@@ -160,11 +160,16 @@ pub async fn get_files<C>(conn: &C) -> Result<Vec<(String, String, Option<u32>, 
 where
     C: sea_orm::ConnectionTrait,
 {
-    // We need to use a raw SQL query for the concatenation
+    // Use a raw SQL query and also fetch bundle size to mimic CSV semantics for offset/size
     let stmt = sea_orm::Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
         r#"
-        SELECT d.name || '/' || f.name AS path, b.name AS bundle_name, f.offset, f.size 
+        SELECT 
+            d.name || '/' || f.name AS path,
+            b.name AS bundle_name,
+            b.size AS bundle_size,
+            f.offset,
+            f.size 
         FROM files f 
         JOIN bundles b ON f.bundle = b.id 
         JOIN dirs d ON f.dir = d.id 
@@ -177,13 +182,21 @@ where
 
     let mut files = Vec::new();
     for row in query_result {
-        // In Sea-ORM, we need to use column names instead of indices
-        files.push((
-            row.try_get::<String>("", "path")?,
-            row.try_get::<String>("", "bundle_name")?,
-            Some(row.try_get::<i32>("", "offset")? as u32),
-            Some(row.try_get::<i32>("", "size")? as u32),
-        ));
+        // Fetch values
+        let path: String = row.try_get("", "path")?;
+        let bundle_name: String = row.try_get("", "bundle_name")?;
+        let bundle_size: i32 = row.try_get("", "bundle_size")?;
+        let offset: i32 = row.try_get("", "offset")?;
+        let size: i32 = row.try_get("", "size")?;
+
+        // Match CSV behavior: if offset == 0 and size == bundle_size, represent as None
+        let (offset_opt, size_opt) = if offset == 0 && size == bundle_size {
+            (None, None)
+        } else {
+            (Some(offset as u32), Some(size as u32))
+        };
+
+        files.push((path, bundle_name, offset_opt, size_opt));
     }
 
     Ok(files)
