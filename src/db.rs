@@ -103,12 +103,12 @@ where
         VALUES (?, ?, ?, ?, ?, ?)
         "#,
         vec![
-            (hash as i32).into(),
-            (dir as i32).into(),
+            (hash as i64).into(),
+            (dir as i64).into(),
             name.into(),
-            (bundle as i32).into(),
-            (offset as i32).into(),
-            (size as i32).into(),
+            (bundle as i64).into(),
+            (offset as i64).into(),
+            (size as i64).into(),
         ],
     );
 
@@ -197,6 +197,56 @@ where
         };
 
         files.push((path, bundle_name, offset_opt, size_opt));
+    }
+
+    Ok(files)
+}
+
+/// Gets all files from the database including their hashes
+pub async fn get_files_with_hash<C>(conn: &C) -> Result<Vec<(u64, String, String, Option<u32>, Option<u32>)>>
+where
+    C: sea_orm::ConnectionTrait,
+{
+    // Use a raw SQL query and also fetch bundle size to mimic CSV semantics for offset/size
+    let stmt = sea_orm::Statement::from_sql_and_values(
+        sea_orm::DatabaseBackend::Sqlite,
+        r#"
+        SELECT 
+            f.hash AS hash,
+            d.name || '/' || f.name AS path,
+            b.name AS bundle_name,
+            b.size AS bundle_size,
+            f.offset,
+            f.size 
+        FROM files f 
+        JOIN bundles b ON f.bundle = b.id 
+        JOIN dirs d ON f.dir = d.id 
+        ORDER BY d.name, f.name
+        "#,
+        vec![],
+    );
+
+    let query_result = conn.query_all(stmt).await?;
+
+    let mut files = Vec::new();
+    for row in query_result {
+        // Fetch values
+        let hash_i64: i64 = row.try_get("", "hash")?;
+        let hash = hash_i64 as u64;
+        let path: String = row.try_get("", "path")?;
+        let bundle_name: String = row.try_get("", "bundle_name")?;
+        let bundle_size: i32 = row.try_get("", "bundle_size")?;
+        let offset: i32 = row.try_get("", "offset")?;
+        let size: i32 = row.try_get("", "size")?;
+
+        // Match CSV behavior: if offset == 0 and size == bundle_size, represent as None
+        let (offset_opt, size_opt) = if offset == 0 && size == bundle_size {
+            (None, None)
+        } else {
+            (Some(offset as u32), Some(size as u32))
+        };
+
+        files.push((hash, path, bundle_name, offset_opt, size_opt));
     }
 
     Ok(files)
@@ -548,7 +598,7 @@ async fn compare_and_update_files(
     // Create maps for easier comparison
     let mut prev_files = HashMap::new();
     for row in prev_files_rows {
-        let hash = row.try_get::<i32>("", "hash")?;
+        let hash = row.try_get::<i64>("", "hash")?;
         let dir = row.try_get::<i32>("", "dir")?;
         let name = row.try_get::<String>("", "name")?;
         let bundle = row.try_get::<i32>("", "bundle")?;
@@ -559,7 +609,7 @@ async fn compare_and_update_files(
     
     let mut current_files = HashMap::new();
     for row in current_files_rows {
-        let hash = row.try_get::<i32>("", "hash")?;
+        let hash = row.try_get::<i64>("", "hash")?;
         let dir = row.try_get::<i32>("", "dir")?;
         let name = row.try_get::<String>("", "name")?;
         let bundle = row.try_get::<i32>("", "bundle")?;

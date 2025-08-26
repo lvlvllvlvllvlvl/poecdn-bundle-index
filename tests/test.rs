@@ -714,47 +714,57 @@ pub async fn verify_database_matches_csv() -> Result<()> {
         );
     }
 
-    // Get all files from the database
-    let db_files = db::get_files(&conn)
+    // Get all files from the database (with hashes)
+    let db_files = db::get_files_with_hash(&conn)
         .await
-        .expect("Failed to get files from database");
+        .expect("Failed to get files with hash from database");
 
     let files_csv_path = csv_dir.join("files.csv");
     assert!(files_csv_path.exists(), "Files CSV file was not created");
 
-    // Get all files from the CSV file
+    // Get all files from the CSV file (with hashes)
     let mut csv_files = HashSet::new();
     let mut rdr = Reader::from_path(&files_csv_path).expect("Failed to open files CSV file");
     for result in rdr.records() {
         let record = result.expect("Failed to read record from files CSV");
-        let path = record.get(0).unwrap_or("").to_string();
-        let bundle = record.get(1).unwrap_or("").to_string();
-        let offset = record.get(2).map(|s| s.parse::<u32>().ok()).flatten();
-        let size = record.get(3).map(|s| s.parse::<u32>().ok()).flatten();
-        csv_files.insert((path, bundle, offset, size));
+        // CSV layout: hash, file, bundle, offset, size
+        let hash = record
+            .get(0)
+            .and_then(|s| s.parse::<u64>().ok())
+            .expect("Failed to parse hash from CSV");
+        let path = record.get(1).unwrap_or("").to_string();
+        let bundle = record.get(2).unwrap_or("").to_string();
+        let offset = record.get(3).map(|s| s.parse::<u32>().ok()).flatten();
+        let size = record.get(4).map(|s| s.parse::<u32>().ok()).flatten();
+
+        // Recompute hash and verify it matches the CSV hash
+        let recomputed = murmurhash64::murmur_hash64a(path.as_bytes(), 0x1337b33f);
+        assert_eq!(recomputed, hash, "Recomputed hash does not match CSV hash for {}", path);
+
+        csv_files.insert((hash, path, bundle, offset, size));
     }
 
-    // Verify that all files in the CSV file are in the database
+    // Verify that all files in the CSV file are in the database and hashes match
     let db_files_set: HashSet<_> = db_files.into_iter().collect();
-    let mut missing_files_in_db = Vec::new();
-    for (path, bundle, offset, size) in &csv_files {
-        if !db_files_set.contains(&(path.clone(), bundle.clone(), *offset, *size)) {
-            missing_files_in_db.push((path.clone(), bundle.clone(), *offset, *size));
+    let mut missing_or_mismatch_in_db = Vec::new();
+    for (hash, path, bundle, offset, size) in &csv_files {
+        if !db_files_set.contains(&(*hash, path.clone(), bundle.clone(), *offset, *size)) {
+            missing_or_mismatch_in_db.push((*hash, path.clone(), bundle.clone(), *offset, *size));
         }
     }
 
-    if (missing_files_in_db.len() > 5) {
+    if (missing_or_mismatch_in_db.len() > 5) {
         assert!(
-            missing_files_in_db.is_empty(),
-            "Found files in CSV that are not in database: {:?} and {} more",
-            missing_files_in_db.first(),
-            missing_files_in_db.len() - 1
+            missing_or_mismatch_in_db.is_empty(),
+            "Found files in CSV that are not in database or hash mismatch: {:?} and {} more",
+            missing_or_mismatch_in_db.first(),
+            missing_or_mismatch_in_db.len() - 1
         )
     } else {
         assert!(
-            missing_files_in_db.is_empty(),
-            "Found files in CSV that are not in database: {:?}",
-            missing_files_in_db
+            missing_or_mismatch_in_db.is_empty(),
+            "Found files in CSV that are not in database or hash mismatch: {:?}",
+            missing_or_mismatch_in_db
         );
     }
 

@@ -121,7 +121,7 @@ fn generate_csv_files(
 ) -> Result<()> {
     // Generate files.csv (single file with all entries)
     let mut file_writer = csv::Writer::from_path(dir.join("files.csv"))?;
-    file_writer.serialize(["file", "bundle", "offset", "size"])?;
+    file_writer.serialize(["hash", "file", "bundle", "offset", "size"])?;
 
     // Deduplicate by file hash to mirror database unique constraint on files.hash
     let mut seen_hashes: HashMap<u64, &String> = HashMap::new();
@@ -145,6 +145,7 @@ fn generate_csv_files(
             };
 
             file_writer.serialize((
+                hash,
                 filename,
                 bundle,
                 range.map(|v| v.0),
@@ -170,13 +171,12 @@ async fn generate_sql_files<'a>(
     all_dirs: BTreeMap<&'a str, Dir>,
     out_dir: &Path,
     url_str: &str,
-    sql_line: i32,
     conn: &DbConn,
 ) -> Result<()> {
     // Generate bundles.sql
     let mut sql_writer = fs::File::create(out_dir.join("bundles.sql"))?;
     let mut sql = insert_bundles();
-    let mut current_sql_line = sql_line;
+    let mut current_sql_line = 0;
 
     // Begin a transaction for better performance
     let tx = conn.begin().await?;
@@ -340,18 +340,16 @@ pub async fn process_bundle_bytes(index_bundle: Vec<u8>, url_str: &str, out_dir:
     // Commit the transaction
     tx.commit().await?;
 
-    // Generate CSV files
+    // Generate CSV files for reference
     generate_csv_files(&paths, &files, &bundle_names, &bundle_sizes, &dir)?;
 
-    // Generate SQL files for reference (not used for database insertion anymore)
-    let sql_line = 0; // This is not used anymore but kept for compatibility
+    // Generate SQL files for initializing the database
     generate_sql_files(
         &bundle_names,
         &bundle_sizes,
         all_dirs,
         &out_dir_path,
         url_str,
-        sql_line,
         &conn,
     )
     .await?;
