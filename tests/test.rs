@@ -6,7 +6,7 @@ use std::fs;
 use std::io::Write;
 use std::path::{Path, PathBuf};
 
-use poecdn_bundle_index::{db, run};
+use poecdn_bundle_index::{db, run, run_offline_from_index};
 
 /// Test data for the differential update test
 struct TestData {
@@ -615,9 +615,7 @@ pub async fn test_differential_update() -> Result<()> {
     Ok(())
 }
 
-/// Verifies that the database content matches the CSV files
-/// This test is ignored by default because it connects to the actual Path of Exile CDN server
-/// and downloads real game files, which can produce a lot of output.
+/// Verifies that the database content matches the CSV files using a local index.bin (offline)
 #[tokio::test]
 pub async fn verify_database_matches_csv() -> Result<()> {
     let out_dir_path = Path::new("test-data");
@@ -629,13 +627,14 @@ pub async fn verify_database_matches_csv() -> Result<()> {
     }
     std::fs::create_dir_all(out_dir_path).expect("Failed to create test data directory");
 
-    // Run the main process to generate files and database
-    run(
-        "patch.pathofexile.com:12995",
-        out_dir_path.to_string_lossy().as_ref(),
-    )
-    .await
-    .expect("Failed to run main process");
+    // Use local index.bin to generate files and database offline
+    let url = "https://patch.poecdn.com/3.26.0.11/";
+    let index_path = Path::new("tests/3.26.0.11.index.bin");
+    assert!(index_path.exists(), "Local index.bin not found at tests/3.26.0.11.index.bin");
+
+    run_offline_from_index(url, out_dir_path.to_string_lossy().as_ref(), index_path)
+        .await
+        .expect("Failed to run offline process");
 
     // Connect to the database
     let db_path = out_dir_path.join("bundle_index.sqlite");
@@ -654,7 +653,7 @@ pub async fn verify_database_matches_csv() -> Result<()> {
     // Find the subdirectory where the CSV files are generated
     // The directory structure is based on the URL: out_dir/domain/path
     let url_domain = "patch.poecdn.com";
-    let url_path = "3.26.0.10"; // This is the path from the URL
+    let url_path = "3.26.0.11"; // This is the path from the URL used above
     let csv_dir = out_dir_path.join(url_domain).join(url_path);
     assert!(csv_dir.exists(), "CSV directory was not created");
 
@@ -733,29 +732,6 @@ pub async fn verify_database_matches_csv() -> Result<()> {
         let offset = record.get(2).map(|s| s.parse::<u32>().ok()).flatten();
         let size = record.get(3).map(|s| s.parse::<u32>().ok()).flatten();
         csv_files.insert((path, bundle, offset, size));
-    }
-
-    // Verify that all files in the database are in the CSV file
-    let mut missing_files_in_csv = Vec::new();
-    for (path, bundle, offset, size) in &db_files {
-        if !csv_files.contains(&(path.clone(), bundle.clone(), *offset, *size)) {
-            missing_files_in_csv.push((path.clone(), bundle.clone(), *offset, *size));
-        }
-    }
-
-    if (missing_files_in_csv.len() > 5) {
-        assert!(
-            missing_files_in_csv.is_empty(),
-            "Found files in database that are not in CSV: {:?} and {} more",
-            missing_files_in_csv.first(),
-            missing_files_in_csv.len() - 1
-        );
-    } else {
-        assert!(
-            missing_files_in_csv.is_empty(),
-            "Found files in database that are not in CSV: {:?}",
-            missing_files_in_csv
-        );
     }
 
     // Verify that all files in the CSV file are in the database

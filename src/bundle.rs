@@ -341,3 +341,122 @@ pub async fn process_bundle(url_str: &str, out_dir: &str) -> Result<()> {
 
     Ok(())
 }
+
+
+/// Processes a bundle using a pre-downloaded local index.bin file (offline mode)
+pub async fn process_bundle_from_local_index(url_str: &str, out_dir: &str, index_path: &Path) -> Result<()> {
+    // Prepare output directory
+    let (dir, out_dir_path) = prepare_output_directory(url_str, out_dir)?;
+
+    // Create database connection
+    let conn = db::create_database(&out_dir_path).await?;
+
+    // Read and decompress local index.bin
+    let file = fs::File::open(index_path)?;
+    let mut reader = BufReader::new(file);
+    let index_bundle = decompress(&mut reader)?;
+
+    // Parse bundle metadata
+    let cursor = &mut Cursor::new(&index_bundle);
+    let (bundle_names, bundle_sizes) = parse_bundle_metadata(&index_bundle, cursor)?;
+
+    // Extract file hashes
+    let files = extract_file_hashes(cursor)?;
+
+    // Process path bundle
+    let path_bundle = decompress(cursor)?;
+    let paths = decode_paths(path_bundle.as_slice())?;
+
+    // First, collect all directories and prepare file data without inserting into the database
+    let mut file_data = BTreeMap::new();
+    let mut all_dirs = BTreeMap::new();
+
+    for filename in paths.iter() {
+        let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
+
+        if let Some(&(bundle_index, offset, size)) = files.get(&hash) {
+            let range = if offset == 0
+                && bundle_sizes
+                    .get(bundle_index as usize)
+                    .is_some_and(|&s| s == size)
+            {
+                None
+            } else {
+                Some((offset, size))
+            };
+
+            let bundle = bundle_names[bundle_index as usize];
+            let file = File { bundle, range };
+            let (dir, name) = filename.rsplit_once('/').unwrap_or(("", filename));
+
+            // Just collect the directory, don't insert yet
+            let _dir_id = add_dir(dir, &mut all_dirs);
+
+            file_data
+                .entry(dir)
+                .or_insert_with(BTreeMap::new)
+                .insert(name, file);
+        }
+    }
+
+    // Begin a transaction for all database operations
+    let tx = conn.begin().await?;
+
+    // First insert bundles
+    for (bundle_index, &bundle_name) in bundle_names.iter().enumerate() {
+        db::insert_bundle(
+            &tx,
+            bundle_index as u64,
+            bundle_name,
+            bundle_sizes[bundle_index],
+        )
+        .await?;
+    }
+
+    // Then insert directories
+    for (name, Dir { id, parent }) in &all_dirs {
+        db::insert_dir(&tx, *id, name, *parent).await?;
+    }
+
+    // Now insert files
+    let mut inserted_hashes = HashSet::new();
+    for filename in paths.iter() {
+        let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
+
+        // Skip if we've already inserted this hash
+        if !inserted_hashes.insert(hash) {
+            continue;
+        }
+
+        if let Some(&(bundle_index, offset, size)) = files.get(&hash) {
+            let (dir, name) = filename.rsplit_once('/').unwrap_or(("", filename));
+            let dir_id = *all_dirs.get(dir).map(|d| &d.id).unwrap_or(&0);
+
+            db::insert_file(&tx, hash, dir_id, name, bundle_index, offset, size).await?;
+        }
+    }
+
+    // Insert version
+    db::insert_version(&tx, url_str).await?;
+
+    // Commit the transaction
+    tx.commit().await?;
+
+    // Generate CSV files
+    generate_csv_files(&file_data, &bundle_names, &bundle_sizes, &dir)?;
+
+    // Generate SQL files for reference (not used for database insertion anymore)
+    let sql_line = 0; // This is not used anymore but kept for compatibility
+    generate_sql_files(
+        &bundle_names,
+        &bundle_sizes,
+        all_dirs,
+        &out_dir_path,
+        url_str,
+        sql_line,
+        &conn,
+    )
+    .await?;
+
+    Ok(())
+}

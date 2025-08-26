@@ -15,7 +15,7 @@ mod models;
 mod sql;
 mod utils;
 
-use bundle::process_bundle;
+use bundle::{process_bundle, process_bundle_from_local_index};
 use db::{check_d1_version, download_previous_database, extract_version_from_url, generate_differential_update, get_version};
 use models::Urls;
 
@@ -155,4 +155,11 @@ pub async fn run(addr: &str, out_dir: &str) -> Result<(), Error> {
     }
 
     Ok(())
+}
+
+/// Offline entry point: process a single bundle from a local index.bin without any network calls
+pub async fn run_offline_from_index(url: &str, out_dir: &str, index_path: &Path) -> Result<(), Error> {
+    process_bundle_from_local_index(url, out_dir, index_path)
+        .await
+        .map_err(|e| e.into())
 }
