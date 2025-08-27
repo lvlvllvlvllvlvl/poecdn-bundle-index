@@ -1,11 +1,169 @@
-use anyhow::Result;
+use anyhow::{Context, Result};
 use csv::Reader;
-use sea_orm::{ConnectionTrait, Database, Statement, TransactionTrait};
+use poecdn_bundle_index::{db, run_offline_from_index};
+use sea_orm::{ConnectionTrait, Database, DbBackend, Statement, TransactionTrait};
 use std::collections::HashSet;
 use std::fs;
-use std::path::Path;
+use std::path::{Path, PathBuf};
+use std::time::{SystemTime, UNIX_EPOCH};
 
-use poecdn_bundle_index::{db, run_offline_from_index};
+fn unique_temp_dir(prefix: &str) -> PathBuf {
+    let mut p = std::env::temp_dir();
+    let nanos = SystemTime::now()
+        .duration_since(UNIX_EPOCH)
+        .unwrap()
+        .as_nanos();
+    p.push(format!("{}_{}", prefix, nanos));
+    p
+}
+
+fn test_asset_path(name: &str) -> PathBuf {
+    PathBuf::from(env!("CARGO_MANIFEST_DIR"))
+        .join("tests")
+        .join(name)
+}
+
+async fn apply_sql_file(sqlite_path: &Path, sql_path: &Path) -> Result<()> {
+    let db_url = format!("sqlite:{}", sqlite_path.to_string_lossy());
+    let conn = Database::connect(&db_url)
+        .await
+        .with_context(|| format!("Failed to connect to {}", sqlite_path.display()))?;
+
+    let sql = fs::read_to_string(sql_path)
+        .with_context(|| format!("Failed to read {}", sql_path.display()))?;
+
+    // Execute statements sequentially. We split on ';' followed by newline to reduce false splits.
+    // This assumes the generated SQL uses statement-ending semicolons and no embedded multiline ';' usage.
+    for stmt in sql.split(";\n") {
+        let trimmed = stmt.trim();
+        if trimmed.is_empty() {
+            continue;
+        }
+        // Some generators may omit the final newline after the last ';'
+        let final_stmt = if !trimmed.ends_with(';') {
+            format!("{};", trimmed)
+        } else {
+            trimmed.to_string()
+        };
+        conn.execute(Statement::from_string(DbBackend::Sqlite, final_stmt))
+            .await
+            .context("Failed to execute SQL statement")?;
+    }
+
+    Ok(())
+}
+
+async fn compare_databases(prev_like: &Path, current: &Path) -> Result<()> {
+    let prev_url = format!("sqlite:{}?mode=ro", prev_like.to_string_lossy());
+    let curr_url = format!("sqlite:{}?mode=ro", current.to_string_lossy());
+
+    let prev_conn = Database::connect(&prev_url).await.context("connect prev")?;
+    let curr_conn = Database::connect(&curr_url).await.context("connect curr")?;
+
+    // Compare bundles
+    let mut prev_bundles = db::get_bundles(&prev_conn).await.context("bundles prev")?;
+    let mut curr_bundles = db::get_bundles(&curr_conn).await.context("bundles curr")?;
+    prev_bundles.sort();
+    curr_bundles.sort();
+    assert_eq!(
+        prev_bundles, curr_bundles,
+        "Bundles differ between updated and current DB"
+    );
+
+    // Compare files (with hash to ensure identity)
+    let mut prev_files = db::get_files_with_hash(&prev_conn)
+        .await
+        .context("files prev")?;
+    let mut curr_files = db::get_files_with_hash(&curr_conn)
+        .await
+        .context("files curr")?;
+    prev_files.sort();
+    curr_files.sort();
+    assert_eq!(
+        prev_files, curr_files,
+        "Files differ between updated and current DB"
+    );
+
+    // Compare versions (full URL string)
+    let prev_version = db::get_version(&prev_conn).await.context("version prev")?;
+    let curr_version = db::get_version(&curr_conn).await.context("version curr")?;
+    assert_eq!(
+        prev_version, curr_version,
+        "Version URL differs between updated and current DB"
+    );
+
+    Ok(())
+}
+
+#[tokio::test]
+async fn diff_update_from_3_25_to_3_26_and_match() -> Result<()> {
+    // Inputs: local index.bin fixtures and their corresponding CDN-like URLs.
+    let prev_index = test_asset_path("3.25.3.12.index.bin");
+    let curr_index = test_asset_path("3.26.0.11.index.bin");
+
+    let prev_url = "https://patch.poecdn.com/3.25.3.12/";
+    let curr_url = "https://patch.poecdn.com/3.26.0.11/";
+
+    // Create temporary output directories for each database build.
+    let prev_out = unique_temp_dir("poe_prev");
+    let curr_out = unique_temp_dir("poe_curr");
+    fs::create_dir_all(&prev_out)?;
+    fs::create_dir_all(&curr_out)?;
+
+    // Build previous and current databases from the local index.bin files.
+    run_offline_from_index(prev_url, prev_out.to_str().unwrap(), &prev_index)
+        .await
+        .context("building previous DB from index.bin")?;
+    run_offline_from_index(curr_url, curr_out.to_str().unwrap(), &curr_index)
+        .await
+        .context("building current DB from index.bin")?;
+
+    let prev_db_path = prev_out.join("bundle_index.sqlite");
+    let curr_db_path = curr_out.join("bundle_index.sqlite");
+
+    // Derive versions for generating update name and parameters.
+    let prev_db_conn =
+        Database::connect(&format!("sqlite:{}?mode=ro", prev_db_path.display())).await?;
+    let curr_db_conn =
+        Database::connect(&format!("sqlite:{}?mode=ro", curr_db_path.display())).await?;
+
+    let prev_version_url = db::get_version(&prev_db_conn).await?;
+    let curr_version_url = db::get_version(&curr_db_conn).await?;
+    let from_version = db::extract_version_from_url(&prev_version_url);
+    let to_version = db::extract_version_from_url(&curr_version_url);
+
+    // Create an update.sql in a temp folder.
+    let diff_out_dir = unique_temp_dir("poe_diff");
+    fs::create_dir_all(&diff_out_dir)?;
+    let update_sql_path =
+        diff_out_dir.join(format!("update-{}-to-{}.sql", &from_version, &to_version));
+
+    // Generate the differential update SQL.
+    db::generate_differential_update(
+        &prev_db_path,
+        &curr_db_path,
+        &update_sql_path,
+        &from_version,
+        &to_version,
+    )
+    .await
+    .context("generate differential update")?;
+
+    // Apply the update SQL to a copy of the previous DB.
+    let updated_db_path = diff_out_dir.join("updated_from_prev.sqlite");
+    fs::copy(&prev_db_path, &updated_db_path)
+        .context("copy previous DB to create an updatable working copy")?;
+    apply_sql_file(&updated_db_path, &update_sql_path)
+        .await
+        .context("apply generated update SQL to previous DB copy")?;
+
+    // Verify updated DB matches the current DB built from the 3.26 bin.
+    compare_databases(&updated_db_path, &curr_db_path)
+        .await
+        .context("updated DB should match current DB")?;
+
+    Ok(())
+}
 
 /// Test data for the differential update test
 struct TestData {
@@ -617,15 +775,17 @@ pub async fn verify_database_matches_csv() -> Result<()> {
 
     // First, remove any existing test data to ensure a clean state
     if out_dir_path.exists() {
-        std::fs::remove_dir_all(out_dir_path)
-            .expect("Failed to remove existing test data directory");
+        fs::remove_dir_all(out_dir_path).expect("Failed to remove existing test data directory");
     }
-    std::fs::create_dir_all(out_dir_path).expect("Failed to create test data directory");
+    fs::create_dir_all(out_dir_path).expect("Failed to create test data directory");
 
     // Use local index.bin to generate files and database offline
     let url = "https://patch.poecdn.com/3.26.0.11/";
     let index_path = Path::new("tests/3.26.0.11.index.bin");
-    assert!(index_path.exists(), "Local index.bin not found at tests/3.26.0.11.index.bin");
+    assert!(
+        index_path.exists(),
+        "Local index.bin not found at tests/3.26.0.11.index.bin"
+    );
 
     run_offline_from_index(url, out_dir_path.to_string_lossy().as_ref(), index_path)
         .await
@@ -636,7 +796,7 @@ pub async fn verify_database_matches_csv() -> Result<()> {
     assert!(db_path.exists(), "Database file was not created");
 
     let db_url = format!("sqlite:{}?mode=rwc", db_path.to_string_lossy());
-    let conn = sea_orm::Database::connect(&db_url)
+    let conn = Database::connect(&db_url)
         .await
         .expect("Failed to connect to database");
 
@@ -734,7 +894,11 @@ pub async fn verify_database_matches_csv() -> Result<()> {
 
         // Recompute hash and verify it matches the CSV hash
         let recomputed = murmurhash64::murmur_hash64a(path.as_bytes(), 0x1337b33f);
-        assert_eq!(recomputed, hash, "Recomputed hash does not match CSV hash for {}", path);
+        assert_eq!(
+            recomputed, hash,
+            "Recomputed hash does not match CSV hash for {}",
+            path
+        );
 
         csv_files.insert((hash, path, bundle, offset, size));
     }
