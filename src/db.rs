@@ -371,19 +371,19 @@ pub async fn generate_differential_update(
     
     writeln!(update_file, "UPDATE version SET url = '{}' WHERE id = 0;", current_version_url)?;
     
-    // Process in reverse order to handle foreign key constraints properly:
-    // 1. First, compare and update files (since they reference both directories and bundles)
-    // 2. Then, compare and update directories (since they can reference parent directories)
-    // 3. Finally, compare and update bundles
-    
-    // Compare and update files
-    compare_and_update_files(&prev_conn, &current_conn, &mut update_file).await?;
-    
-    // Compare and update dirs
-    compare_and_update_dirs(&prev_conn, &current_conn, &mut update_file).await?;
-    
+    // Process to ensure referenced entities exist before files operations:
+    // 1. First, compare and update bundles (names are unique)
+    // 2. Then, compare and update directories (handle parent relations by name)
+    // 3. Finally, compare and update files (reference bundles/dirs by name)
+
     // Compare and update bundles
     compare_and_update_bundles(&prev_conn, &current_conn, &mut update_file).await?;
+
+    // Compare and update dirs
+    compare_and_update_dirs(&prev_conn, &current_conn, &mut update_file).await?;
+
+    // Compare and update files
+    compare_and_update_files(&prev_conn, &current_conn, &mut update_file).await?;
     
     // End transaction
     writeln!(update_file, "COMMIT;")?;
@@ -400,71 +400,72 @@ async fn compare_and_update_bundles(
     current_conn: &DbConn,
     update_file: &mut fs::File,
 ) -> Result<()> {
-    use std::io::Write;
     use std::collections::HashMap;
-    
-    // Get bundles from both databases
+    use std::io::Write;
+
+    // Helper to escape single quotes
+    fn esc(s: &str) -> String { s.replace("'", "''") }
+
+    // Get bundles from both databases by name
     let prev_bundles_stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
-        "SELECT id, name, size FROM bundles ORDER BY id",
+        "SELECT name, size FROM bundles ORDER BY name",
         vec![],
     );
-    
+
     let current_bundles_stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
-        "SELECT id, name, size FROM bundles ORDER BY id",
+        "SELECT name, size FROM bundles ORDER BY name",
         vec![],
     );
-    
+
     let prev_bundles_rows = prev_conn.query_all(prev_bundles_stmt).await?;
     let current_bundles_rows = current_conn.query_all(current_bundles_stmt).await?;
-    
-    // Create maps for easier comparison
-    let mut prev_bundles = HashMap::new();
+
+    // Create maps keyed by name for easier comparison
+    let mut prev_bundles: HashMap<String, i32> = HashMap::new();
     for row in prev_bundles_rows {
-        let id = row.try_get::<i32>("", "id")?;
         let name = row.try_get::<String>("", "name")?;
         let size = row.try_get::<i32>("", "size")?;
-        prev_bundles.insert(id, (name, size));
+        prev_bundles.insert(name, size);
     }
-    
-    let mut current_bundles = HashMap::new();
+
+    let mut current_bundles: HashMap<String, i32> = HashMap::new();
     for row in current_bundles_rows {
-        let id = row.try_get::<i32>("", "id")?;
         let name = row.try_get::<String>("", "name")?;
         let size = row.try_get::<i32>("", "size")?;
-        current_bundles.insert(id, (name, size));
+        current_bundles.insert(name, size);
     }
-    
-    // Find deleted bundles
-    for id in prev_bundles.keys() {
-        if !current_bundles.contains_key(id) {
-            writeln!(update_file, "DELETE FROM bundles WHERE id = {};", id)?;
+
+    // Find deleted bundles (by name)
+    for (name, _) in &prev_bundles {
+        if !current_bundles.contains_key(name) {
+            writeln!(update_file, "DELETE FROM bundles WHERE name = '{}';", esc(name))?;
         }
     }
-    
+
     // Find added or modified bundles
-    for (id, (name, size)) in &current_bundles {
-        if !prev_bundles.contains_key(id) {
-            // Added bundle
+    for (name, size) in &current_bundles {
+        if !prev_bundles.contains_key(name) {
+            // Added bundle: do not specify id, let SQLite generate it
             writeln!(
                 update_file,
-                "INSERT INTO bundles (id, name, size) VALUES ({}, '{}', {});",
-                id, name, size
+                "INSERT INTO bundles (name, size) VALUES ('{}', {});",
+                esc(name), size
             )?;
         } else {
-            let (prev_name, prev_size) = &prev_bundles[id];
-            if prev_name != name || prev_size != size {
-                // Modified bundle
+            let prev_size = prev_bundles.get(name).unwrap();
+            if prev_size != size {
+                // Modified bundle: use WHERE name
                 writeln!(
                     update_file,
-                    "UPDATE bundles SET name = '{}', size = {} WHERE id = {};",
-                    name, size, id
+                    "UPDATE bundles SET size = {} WHERE name = '{}';",
+                    size, esc(name)
                 )?;
             }
         }
     }
-    
+
     Ok(())
 }
 
@@ -474,99 +475,94 @@ async fn compare_and_update_dirs(
     current_conn: &DbConn,
     update_file: &mut fs::File,
 ) -> Result<()> {
-    use std::io::Write;
     use std::collections::HashMap;
-    
-    // Get dirs from both databases using raw SQL to handle NULL values properly
+    use std::io::Write;
+
+    // Helper to escape single quotes
+    fn esc(s: &str) -> String { s.replace("'", "''") }
+
+    // Get dirs with parent names for both databases
     let prev_dirs_stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
-        "SELECT id, name, parent FROM dirs ORDER BY id",
+        "SELECT d.name AS name, p.name AS parent_name FROM dirs d LEFT JOIN dirs p ON d.parent = p.id ORDER BY d.name",
         vec![],
     );
-    
+
     let current_dirs_stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
-        "SELECT id, name, parent FROM dirs ORDER BY id",
+        "SELECT d.name AS name, p.name AS parent_name FROM dirs d LEFT JOIN dirs p ON d.parent = p.id ORDER BY d.name",
         vec![],
     );
-    
+
     let prev_dirs_rows = prev_conn.query_all(prev_dirs_stmt).await?;
     let current_dirs_rows = current_conn.query_all(current_dirs_stmt).await?;
-    
-    // Create maps for easier comparison
-    let mut prev_dirs = HashMap::new();
+
+    // Create maps keyed by directory name to parent name (Option<String>)
+    let mut prev_dirs: HashMap<String, Option<String>> = HashMap::new();
     for row in prev_dirs_rows {
-        let id = row.try_get::<i32>("", "id")?;
         let name = row.try_get::<String>("", "name")?;
-        
-        // Try to get parent, but it might be NULL
-        let parent = match row.try_get::<i32>("", "parent") {
+        let parent_name: Option<String> = match row.try_get::<String>("", "parent_name") {
             Ok(val) => Some(val),
-            Err(_) => None, // If error (likely NULL), set to None
+            Err(_) => None,
         };
-        
-        prev_dirs.insert(id, (name, parent));
+        prev_dirs.insert(name, parent_name);
     }
-    
-    let mut current_dirs = HashMap::new();
+
+    let mut current_dirs: HashMap<String, Option<String>> = HashMap::new();
     for row in current_dirs_rows {
-        let id = row.try_get::<i32>("", "id")?;
         let name = row.try_get::<String>("", "name")?;
-        
-        // Try to get parent, but it might be NULL
-        let parent = match row.try_get::<i32>("", "parent") {
+        let parent_name: Option<String> = match row.try_get::<String>("", "parent_name") {
             Ok(val) => Some(val),
-            Err(_) => None, // If error (likely NULL), set to None
+            Err(_) => None,
         };
-        
-        current_dirs.insert(id, (name, parent));
+        current_dirs.insert(name, parent_name);
     }
-    
-    // Find deleted dirs
-    for id in prev_dirs.keys() {
-        if !current_dirs.contains_key(id) {
-            writeln!(update_file, "DELETE FROM dirs WHERE id = {};", id)?;
+
+    // Find deleted dirs (by name)
+    for (name, _) in &prev_dirs {
+        if !current_dirs.contains_key(name) {
+            writeln!(update_file, "DELETE FROM dirs WHERE name = '{}';", esc(name))?;
         }
     }
-    
+
     // Find added or modified dirs
-    for (id, (name, parent)) in &current_dirs {
-        if !prev_dirs.contains_key(id) {
-            // Added dir
-            if let Some(parent_id) = parent {
+    for (name, parent_name) in &current_dirs {
+        if !prev_dirs.contains_key(name) {
+            // Added dir: do not specify id, set parent by name lookup if present
+            if let Some(pn) = parent_name {
                 writeln!(
                     update_file,
-                    "INSERT INTO dirs (id, name, parent) VALUES ({}, '{}', {});",
-                    id, name, parent_id
+                    "INSERT INTO dirs (name, parent) VALUES ('{}', (SELECT id FROM dirs WHERE name='{}'));",
+                    esc(name), esc(pn)
                 )?;
             } else {
                 writeln!(
                     update_file,
-                    "INSERT INTO dirs (id, name, parent) VALUES ({}, '{}', NULL);",
-                    id, name
+                    "INSERT INTO dirs (name, parent) VALUES ('{}', NULL);",
+                    esc(name)
                 )?;
             }
         } else {
-            let (prev_name, prev_parent) = &prev_dirs[id];
-            if prev_name != name || prev_parent != parent {
-                // Modified dir
-                if let Some(parent_id) = parent {
+            let prev_parent = prev_dirs.get(name).unwrap();
+            if prev_parent != parent_name {
+                // Modified dir: update parent via name lookup
+                if let Some(pn) = parent_name {
                     writeln!(
                         update_file,
-                        "UPDATE dirs SET name = '{}', parent = {} WHERE id = {};",
-                        name, parent_id, id
+                        "UPDATE dirs SET parent = (SELECT id FROM dirs WHERE name='{}') WHERE name = '{}';",
+                        esc(pn), esc(name)
                     )?;
                 } else {
                     writeln!(
                         update_file,
-                        "UPDATE dirs SET name = '{}', parent = NULL WHERE id = {};",
-                        name, id
+                        "UPDATE dirs SET parent = NULL WHERE name = '{}';",
+                        esc(name)
                     )?;
                 }
             }
         }
     }
-    
+
     Ok(())
 }
 
@@ -576,76 +572,89 @@ async fn compare_and_update_files(
     current_conn: &DbConn,
     update_file: &mut fs::File,
 ) -> Result<()> {
-    use std::io::Write;
     use std::collections::HashMap;
-    
-    // Get files from both databases
+    use std::io::Write;
+
+    // Helper to escape single quotes
+    fn esc(s: &str) -> String { s.replace("'", "''") }
+
+    // Get files from both databases with dir and bundle names
     let prev_files_stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
-        "SELECT hash, dir, name, bundle, offset, size FROM files ORDER BY hash",
+        "SELECT f.hash AS hash, d.name AS dir_name, f.name AS file_name, b.name AS bundle_name, f.offset AS offset, f.size AS size FROM files f JOIN dirs d ON f.dir = d.id JOIN bundles b ON f.bundle = b.id ORDER BY f.hash",
         vec![],
     );
-    
+
     let current_files_stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
-        "SELECT hash, dir, name, bundle, offset, size FROM files ORDER BY hash",
+        "SELECT f.hash AS hash, d.name AS dir_name, f.name AS file_name, b.name AS bundle_name, f.offset AS offset, f.size AS size FROM files f JOIN dirs d ON f.dir = d.id JOIN bundles b ON f.bundle = b.id ORDER BY f.hash",
         vec![],
     );
-    
+
     let prev_files_rows = prev_conn.query_all(prev_files_stmt).await?;
     let current_files_rows = current_conn.query_all(current_files_stmt).await?;
-    
-    // Create maps for easier comparison
-    let mut prev_files = HashMap::new();
+
+    // Create maps for easier comparison keyed by hash
+    let mut prev_files: HashMap<i64, (String, String, String, i32, i32)> = HashMap::new();
     for row in prev_files_rows {
         let hash = row.try_get::<i64>("", "hash")?;
-        let dir = row.try_get::<i32>("", "dir")?;
-        let name = row.try_get::<String>("", "name")?;
-        let bundle = row.try_get::<i32>("", "bundle")?;
+        let dir_name = row.try_get::<String>("", "dir_name")?;
+        let file_name = row.try_get::<String>("", "file_name")?;
+        let bundle_name = row.try_get::<String>("", "bundle_name")?;
         let offset = row.try_get::<i32>("", "offset")?;
         let size = row.try_get::<i32>("", "size")?;
-        prev_files.insert(hash, (dir, name, bundle, offset, size));
+        prev_files.insert(hash, (dir_name, file_name, bundle_name, offset, size));
     }
-    
-    let mut current_files = HashMap::new();
+
+    let mut current_files: HashMap<i64, (String, String, String, i32, i32)> = HashMap::new();
     for row in current_files_rows {
         let hash = row.try_get::<i64>("", "hash")?;
-        let dir = row.try_get::<i32>("", "dir")?;
-        let name = row.try_get::<String>("", "name")?;
-        let bundle = row.try_get::<i32>("", "bundle")?;
+        let dir_name = row.try_get::<String>("", "dir_name")?;
+        let file_name = row.try_get::<String>("", "file_name")?;
+        let bundle_name = row.try_get::<String>("", "bundle_name")?;
         let offset = row.try_get::<i32>("", "offset")?;
         let size = row.try_get::<i32>("", "size")?;
-        current_files.insert(hash, (dir, name, bundle, offset, size));
+        current_files.insert(hash, (dir_name, file_name, bundle_name, offset, size));
     }
-    
+
     // Find deleted files
     for hash in prev_files.keys() {
         if !current_files.contains_key(hash) {
             writeln!(update_file, "DELETE FROM files WHERE hash = {};", hash)?;
         }
     }
-    
+
     // Find added or modified files
-    for (hash, (dir, name, bundle, offset, size)) in &current_files {
+    for (hash, (dir_name, file_name, bundle_name, offset, size)) in &current_files {
         if !prev_files.contains_key(hash) {
-            // Added file
+            // Added file: set dir and bundle by name lookups
             writeln!(
                 update_file,
-                "INSERT INTO files (hash, dir, name, bundle, offset, size) VALUES ({}, {}, '{}', {}, {}, {});",
-                hash, dir, name, bundle, offset, size
+                "INSERT INTO files (hash, dir, name, bundle, offset, size) VALUES ({}, (SELECT id FROM dirs WHERE name='{}'), '{}', (SELECT id FROM bundles WHERE name='{}'), {}, {});",
+                hash,
+                esc(dir_name),
+                esc(file_name),
+                esc(bundle_name),
+                offset,
+                size
             )?;
         } else {
-            let (prev_dir, prev_name, prev_bundle, prev_offset, prev_size) = &prev_files[hash];
-            if prev_dir != dir || prev_name != name || prev_bundle != bundle || prev_offset != offset || prev_size != size {
-                // Modified file
+            let (prev_dir_name, prev_file_name, prev_bundle_name, prev_offset, prev_size) = &prev_files[hash];
+            if prev_dir_name != dir_name || prev_file_name != file_name || prev_bundle_name != bundle_name || prev_offset != offset || prev_size != size {
+                // Modified file: update by name lookups
                 writeln!(
                     update_file,
-                    "UPDATE files SET dir = {}, name = '{}', bundle = {}, offset = {}, size = {} WHERE hash = {};",
-                    dir, name, bundle, offset, size, hash
+                    "UPDATE files SET dir = (SELECT id FROM dirs WHERE name='{}'), name = '{}', bundle = (SELECT id FROM bundles WHERE name='{}'), offset = {}, size = {} WHERE hash = {};",
+                    esc(dir_name),
+                    esc(file_name),
+                    esc(bundle_name),
+                    offset,
+                    size,
+                    hash
                 )?;
             }
         }
     }
-    
+
     Ok(())
 }

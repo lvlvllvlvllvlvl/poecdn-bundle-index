@@ -607,10 +607,6 @@ pub async fn test_differential_update() -> Result<()> {
         );
     }
 
-    // Clean up
-    println!("Cleaning up test directory");
-    fs::remove_dir_all(test_dir).expect("Failed to remove test directory");
-
     println!("Differential update test passed!");
     Ok(())
 }
