@@ -22,14 +22,14 @@ pub async fn create_database(out_dir: &Path) -> Result<DbConn> {
 
     // Read and execute the schema creation SQL
     let schema = fs::read_to_string(Path::new("sql/create_tables.sql"))?;
-    conn.execute(sea_orm::Statement::from_string(
+    conn.execute(Statement::from_string(
         sea_orm::DatabaseBackend::Sqlite,
         schema,
     ))
     .await?;
 
     let indexes = fs::read_to_string(Path::new("sql/create_indexes.sql"))?;
-    conn.execute(sea_orm::Statement::from_string(
+    conn.execute(Statement::from_string(
         sea_orm::DatabaseBackend::Sqlite,
         indexes,
     ))
@@ -41,10 +41,10 @@ pub async fn create_database(out_dir: &Path) -> Result<DbConn> {
 /// Inserts a bundle into the database
 pub async fn insert_bundle<C>(conn: &C, id: u64, name: &str, size: u32) -> Result<()>
 where
-    C: sea_orm::ConnectionTrait,
+    C: ConnectionTrait,
 {
     // Use a raw SQL query with INSERT OR IGNORE to handle duplicate IDs
-    let stmt = sea_orm::Statement::from_sql_and_values(
+    let stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
         r#"
         INSERT OR IGNORE INTO bundles (id, name, size)
@@ -61,10 +61,10 @@ where
 /// Inserts a directory into the database
 pub async fn insert_dir<C>(conn: &C, id: u32, name: &str, parent: Option<u32>) -> Result<()>
 where
-    C: sea_orm::ConnectionTrait,
+    C: ConnectionTrait,
 {
     // Use a raw SQL query with INSERT OR IGNORE to handle duplicate IDs
-    let stmt = sea_orm::Statement::from_sql_and_values(
+    let stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
         r#"
         INSERT OR IGNORE INTO dirs (id, name, parent)
@@ -93,10 +93,10 @@ pub async fn insert_file<C>(
     size: u32,
 ) -> Result<()>
 where
-    C: sea_orm::ConnectionTrait,
+    C: ConnectionTrait,
 {
     // Use a raw SQL query with INSERT OR IGNORE to handle duplicate hashes
-    let stmt = sea_orm::Statement::from_sql_and_values(
+    let stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
         r#"
         INSERT OR IGNORE INTO files (hash, dir, name, bundle, offset, size)
@@ -120,10 +120,10 @@ where
 /// Inserts a version into the database
 pub async fn insert_version<C>(conn: &C, url: &str) -> Result<()>
 where
-    C: sea_orm::ConnectionTrait,
+    C: ConnectionTrait,
 {
     // Use a raw SQL query with INSERT OR IGNORE to handle duplicate IDs
-    let stmt = sea_orm::Statement::from_sql_and_values(
+    let stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
         r#"
         INSERT OR IGNORE INTO version (id, url)
@@ -140,7 +140,7 @@ where
 /// Gets all bundles from the database
 pub async fn get_bundles<C>(conn: &C) -> Result<Vec<(String, u32)>>
 where
-    C: sea_orm::ConnectionTrait,
+    C: ConnectionTrait,
 {
     let bundles = Bundles::find()
         .order_by_asc(bundles::Column::Id)
@@ -158,10 +158,10 @@ where
 /// Gets all files from the database
 pub async fn get_files<C>(conn: &C) -> Result<Vec<(String, String, Option<u32>, Option<u32>)>>
 where
-    C: sea_orm::ConnectionTrait,
+    C: ConnectionTrait,
 {
     // Use a raw SQL query and also fetch bundle size to mimic CSV semantics for offset/size
-    let stmt = sea_orm::Statement::from_sql_and_values(
+    let stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
         r#"
         SELECT 
@@ -205,10 +205,10 @@ where
 /// Gets all files from the database including their hashes
 pub async fn get_files_with_hash<C>(conn: &C) -> Result<Vec<(u64, String, String, Option<u32>, Option<u32>)>>
 where
-    C: sea_orm::ConnectionTrait,
+    C: ConnectionTrait,
 {
     // Use a raw SQL query and also fetch bundle size to mimic CSV semantics for offset/size
-    let stmt = sea_orm::Statement::from_sql_and_values(
+    let stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
         r#"
         SELECT 
@@ -400,7 +400,7 @@ async fn compare_and_update_bundles(
     current_conn: &DbConn,
     update_file: &mut fs::File,
 ) -> Result<()> {
-    use std::collections::HashMap;
+    use std::collections::BTreeMap;
     use std::io::Write;
 
     // Helper to escape single quotes
@@ -423,14 +423,14 @@ async fn compare_and_update_bundles(
     let current_bundles_rows = current_conn.query_all(current_bundles_stmt).await?;
 
     // Create maps keyed by name for easier comparison
-    let mut prev_bundles: HashMap<String, i32> = HashMap::new();
+    let mut prev_bundles: BTreeMap<String, i32> = BTreeMap::new();
     for row in prev_bundles_rows {
         let name = row.try_get::<String>("", "name")?;
         let size = row.try_get::<i32>("", "size")?;
         prev_bundles.insert(name, size);
     }
 
-    let mut current_bundles: HashMap<String, i32> = HashMap::new();
+    let mut current_bundles: BTreeMap<String, i32> = BTreeMap::new();
     for row in current_bundles_rows {
         let name = row.try_get::<String>("", "name")?;
         let size = row.try_get::<i32>("", "size")?;
@@ -475,7 +475,7 @@ async fn compare_and_update_dirs(
     current_conn: &DbConn,
     update_file: &mut fs::File,
 ) -> Result<()> {
-    use std::collections::HashMap;
+    use std::collections::BTreeMap;
     use std::io::Write;
 
     // Helper to escape single quotes
@@ -498,7 +498,7 @@ async fn compare_and_update_dirs(
     let current_dirs_rows = current_conn.query_all(current_dirs_stmt).await?;
 
     // Create maps keyed by directory name to parent name (Option<String>)
-    let mut prev_dirs: HashMap<String, Option<String>> = HashMap::new();
+    let mut prev_dirs: BTreeMap<String, Option<String>> = BTreeMap::new();
     for row in prev_dirs_rows {
         let name = row.try_get::<String>("", "name")?;
         let parent_name: Option<String> = match row.try_get::<String>("", "parent_name") {
@@ -508,7 +508,7 @@ async fn compare_and_update_dirs(
         prev_dirs.insert(name, parent_name);
     }
 
-    let mut current_dirs: HashMap<String, Option<String>> = HashMap::new();
+    let mut current_dirs: BTreeMap<String, Option<String>> = BTreeMap::new();
     for row in current_dirs_rows {
         let name = row.try_get::<String>("", "name")?;
         let parent_name: Option<String> = match row.try_get::<String>("", "parent_name") {
@@ -572,7 +572,7 @@ async fn compare_and_update_files(
     current_conn: &DbConn,
     update_file: &mut fs::File,
 ) -> Result<()> {
-    use std::collections::HashMap;
+    use std::collections::BTreeMap;
     use std::io::Write;
 
     // Helper to escape single quotes
@@ -595,7 +595,7 @@ async fn compare_and_update_files(
     let current_files_rows = current_conn.query_all(current_files_stmt).await?;
 
     // Create maps for easier comparison keyed by hash
-    let mut prev_files: HashMap<i64, (String, String, String, i32, i32)> = HashMap::new();
+    let mut prev_files: BTreeMap<i64, (String, String, String, i32, i32)> = BTreeMap::new();
     for row in prev_files_rows {
         let hash = row.try_get::<i64>("", "hash")?;
         let dir_name = row.try_get::<String>("", "dir_name")?;
@@ -606,7 +606,7 @@ async fn compare_and_update_files(
         prev_files.insert(hash, (dir_name, file_name, bundle_name, offset, size));
     }
 
-    let mut current_files: HashMap<i64, (String, String, String, i32, i32)> = HashMap::new();
+    let mut current_files: BTreeMap<i64, (String, String, String, i32, i32)> = BTreeMap::new();
     for row in current_files_rows {
         let hash = row.try_get::<i64>("", "hash")?;
         let dir_name = row.try_get::<String>("", "dir_name")?;
