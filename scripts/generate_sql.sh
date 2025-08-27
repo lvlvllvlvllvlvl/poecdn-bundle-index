@@ -1,12 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Usage: scripts/generate_sql.sh poe1|poe2 <event_name> <force_rebuild:true|false> <use_update:true|false> <update_file-or-empty>
+# Usage: scripts/generate_sql.sh poe1|poe2 <force_rebuild:true|false>
 GAME=${1:-}
-EVENT_NAME=${2:-}
-FORCE_REBUILD=${3:-false}
-USE_UPDATE=${4:-false}
-UPDATE_FILE=${5:-}
+FORCE_REBUILD=${2:-false}
 
 if [[ -z "${GAME}" || ("${GAME}" != "poe1" && "${GAME}" != "poe2") ]]; then
   echo "Usage: $0 poe1|poe2 <event_name> <force_rebuild:true|false> <use_update:true|false> <update_file-or-empty>" >&2
@@ -15,6 +12,7 @@ fi
 
 OUTFILE="${GAME}.sql"
 GAME_DIR="output/${GAME}"
+UPDATE_FILE="output/${DIR}"/update-*.sql
 
 rebuild_from_scratch() {
   echo "PRAGMA defer_foreign_keys = off;" > "${OUTFILE}"
@@ -22,10 +20,10 @@ rebuild_from_scratch() {
   cat "${GAME_DIR}"/*.sql >> "${OUTFILE}"
 }
 
-if [[ "${EVENT_NAME}" == "workflow_dispatch" && "${FORCE_REBUILD}" == "true" ]]; then
+if [[ "${FORCE_REBUILD}" == "true" ]]; then
   echo "Forced rebuild for ${GAME} via workflow_dispatch input"
   rebuild_from_scratch
-elif [[ "${USE_UPDATE}" == "true" && -n "${UPDATE_FILE}" ]]; then
+elif [[ -f "$UPDATE_FILE" ]]; then
   echo "Using update script for ${GAME}: ${UPDATE_FILE}"
   cp "${UPDATE_FILE}" "${OUTFILE}"
 else

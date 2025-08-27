@@ -34,16 +34,16 @@ jobs:
         id: autocommit
       - name: Check for poe1 update script
         id: check_poe1_update
-        run: scripts/check_update.sh poe1 ${GITHUB_OUTPUT}
+        run: scripts/check_update.sh poe1
       - name: Check for poe2 update script
         id: check_poe2_update
-        run: scripts/check_update.sh poe2 ${GITHUB_OUTPUT}
+        run: scripts/check_update.sh poe2
       - name: Generate poe1 sql
         run: |
-          scripts/generate_sql.sh poe1 "${{ github.event_name }}" "${{ github.event.inputs.force_rebuild_poe1 }}" "${{ steps.check_poe1_update.outputs.USE_UPDATE }}" "${{ steps.check_poe1_update.outputs.UPDATE_FILE }}"
+          scripts/generate_sql.sh poe1 "${{ github.event.inputs.force_rebuild_poe1 }}"
       - name: Generate poe2 sql
         run: |
-          scripts/generate_sql.sh poe2 "${{ github.event_name }}" "${{ github.event.inputs.force_rebuild_poe2 }}" "${{ steps.check_poe2_update.outputs.USE_UPDATE }}" "${{ steps.check_poe2_update.outputs.UPDATE_FILE }}"
+          scripts/generate_sql.sh poe2 "${{ github.event.inputs.force_rebuild_poe2 }}"
       - name: Upload poe1 sql artifact
         uses: actions/upload-artifact@v4
         with:
@@ -62,8 +62,6 @@ jobs:
           path: output
     outputs:
       changes_detected: ${{ steps.autocommit.outputs.changes_detected }}
-      poe1_use_update: ${{ steps.check_poe1_update.outputs.USE_UPDATE }}
-      poe2_use_update: ${{ steps.check_poe2_update.outputs.USE_UPDATE }}
 
   poe1-upload:
     runs-on: ubuntu-latest
