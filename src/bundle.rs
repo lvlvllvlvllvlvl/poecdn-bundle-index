@@ -18,7 +18,7 @@ use crate::sql::{insert_bundles, insert_dirs, insert_files};
 use crate::utils::{add_dir, decode_paths, decompress, read_u32, read_u64};
 use sea_query::{Query, SqliteQueryBuilder};
 
-const SQL_LINES: i32 = 200;
+const SQL_BATCH_SIZE: i32 = 200;
 
 /// Prepares the output directory structure based on the URL
 fn prepare_output_directory(url_str: &str, out_dir: &str) -> Result<(PathBuf, PathBuf)> {
@@ -189,7 +189,7 @@ async fn generate_sql_files<'a>(
             bundle_name.into(),
             bundle_sizes[bundle_index].into(),
         ])?;
-        if bundles_count % SQL_LINES == 0 && bundles_count > 0 {
+        if bundles_count % SQL_BATCH_SIZE == 0 && bundles_count > 0 {
             writeln!(bundles_writer, "{};", bundles_sql.to_string(SqliteQueryBuilder))?;
             bundles_sql = insert_bundles();
         }
@@ -215,7 +215,7 @@ async fn generate_sql_files<'a>(
         let id = dir.id;
         let parent = dir.parent;
         dirs_sql.values([id.into(), (*name).into(), parent.into()])?;
-        if dirs_count % SQL_LINES == 0 && dirs_count > 0 {
+        if dirs_count % SQL_BATCH_SIZE == 0 && dirs_count > 0 {
             writeln!(dirs_writer, "{};", dirs_sql.to_string(SqliteQueryBuilder))?;
             dirs_sql = insert_dirs();
         }
@@ -253,7 +253,7 @@ async fn generate_sql_files<'a>(
                 (size as i64).into(),
             ])?;
 
-            if files_count % SQL_LINES == 0 && files_count > 0 {
+            if files_count % SQL_BATCH_SIZE == 0 && files_count > 0 {
                 writeln!(files_writer, "{};", files_sql.to_string(SqliteQueryBuilder))?;
                 files_sql = insert_files();
             }
