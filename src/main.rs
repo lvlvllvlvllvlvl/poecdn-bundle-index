@@ -1,5 +1,9 @@
 use clap::{Parser, Subcommand};
 use poecdn_bundle_index::{run, run_offline_from_index};
+use poecdn_bundle_index::db::{generate_differential_update, get_version, extract_version_from_url};
+use sea_orm::Database;
+use std::path::PathBuf;
+use anyhow::Context;
 
 #[derive(Parser)]
 #[command(name = "poecdn-bundle-index", version, about = "Path of Exile CDN Bundle Index tool")]
@@ -34,6 +38,19 @@ enum Commands {
         #[arg(long)]
         out_dir: String,
     },
+    /// Generate differential update SQL by comparing two existing SQLite DBs
+    DiffUpdate {
+        /// Path to the previous SQLite database
+        #[arg(long)]
+        previous: PathBuf,
+        /// Path to the current SQLite database
+        #[arg(long)]
+        current: PathBuf,
+        /// Optional output path for the generated SQL file. If omitted, a file named
+        /// update-<from>-to-<to>.sql will be placed next to the current database.
+        #[arg(long)]
+        output: Option<PathBuf>,
+    },
 }
 
 #[tokio::main]
@@ -49,6 +66,49 @@ async fn main() -> anyhow::Result<()> {
         }
         Commands::Offline { url, index, out_dir } => {
             run_offline_from_index(&url, &out_dir, &index).await?;
+        }
+        Commands::DiffUpdate { previous, current, output } => {
+            // Open both databases to derive versions (for naming and validation)
+            let prev_url = format!("sqlite:{}?mode=ro", previous.to_string_lossy());
+            let curr_url = format!("sqlite:{}?mode=ro", current.to_string_lossy());
+
+            let prev_conn = Database::connect(&prev_url)
+                .await
+                .context("Failed to connect to previous database")?;
+            let curr_conn = Database::connect(&curr_url)
+                .await
+                .context("Failed to connect to current database")?;
+
+            let prev_version_url = get_version(&prev_conn).await
+                .context("Failed to get version from previous database")?;
+            let curr_version_url = get_version(&curr_conn).await
+                .context("Failed to get version from current database")?;
+
+            let from_version = extract_version_from_url(&prev_version_url);
+            let to_version = extract_version_from_url(&curr_version_url);
+
+            let output_path = match output {
+                Some(p) => p,
+                None => {
+                    let mut p = current.clone();
+                    p.set_file_name(format!("update-{}-to-{}.sql", from_version, to_version));
+                    p
+                }
+            };
+
+            generate_differential_update(
+                &previous,
+                &current,
+                &output_path,
+                &from_version,
+                &to_version,
+            )
+            .await?;
+
+            println!(
+                "Differential update generated: {}",
+                output_path.to_string_lossy()
+            );
         }
     }
 
