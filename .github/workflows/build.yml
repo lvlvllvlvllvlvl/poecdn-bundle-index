@@ -7,6 +7,17 @@ on:
   schedule:
     - cron: 0 */4 * * *
   workflow_dispatch:
+    inputs:
+      force_rebuild_poe1:
+        description: Force rebuild poe1 database instead of using incremental update
+        type: boolean
+        required: false
+        default: false
+      force_rebuild_poe2:
+        description: Force rebuild poe2 database instead of using incremental update
+        type: boolean
+        required: false
+        default: false
 
 env:
   CARGO_TERM_COLOR: always
@@ -45,7 +56,12 @@ jobs:
           fi
       - name: Generate poe1 sql
         run: |
-          if [ "${{ steps.check_poe1_update.outputs.USE_UPDATE }}" == "true" ]; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.force_rebuild_poe1 }}" = "true" ]; then
+            echo "Forced rebuild for poe1 via workflow_dispatch input"
+            echo "PRAGMA defer_foreign_keys = off;" > poe1.sql
+            cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe1.sql
+            cat output/poe1/*.sql >> poe1.sql
+          elif [ "${{ steps.check_poe1_update.outputs.USE_UPDATE }}" == "true" ]; then
             echo "Using update script for poe1"
             cp "${{ steps.check_poe1_update.outputs.UPDATE_FILE }}" poe1.sql
           else
@@ -56,7 +72,12 @@ jobs:
           fi
       - name: Generate poe2 sql
         run: |
-          if [ "${{ steps.check_poe2_update.outputs.USE_UPDATE }}" == "true" ]; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.force_rebuild_poe2 }}" = "true" ]; then
+            echo "Forced rebuild for poe2 via workflow_dispatch input"
+            echo "PRAGMA defer_foreign_keys = off;" > poe2.sql
+            cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe2.sql
+            cat output/poe2/*.sql >> poe2.sql
+          elif [ "${{ steps.check_poe2_update.outputs.USE_UPDATE }}" == "true" ]; then
             echo "Using update script for poe2"
             cp "${{ steps.check_poe2_update.outputs.UPDATE_FILE }}" poe2.sql
           else
