@@ -34,10 +34,10 @@ jobs:
         id: autocommit
       - name: Check for poe1 update script
         id: check_poe1_update
-        run: scripts/check_update.sh poe1
+        run: scripts/check_update.sh poe1 https://ggpk.exposed
       - name: Check for poe2 update script
         id: check_poe2_update
-        run: scripts/check_update.sh poe2
+        run: scripts/check_update.sh poe2 https://ggpk.exposed
       - name: Generate poe1 sql
         run: |
           scripts/generate_sql.sh poe1 "${{ github.event.inputs.force_rebuild_poe1 }}"
