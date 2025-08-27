@@ -1,12 +1,11 @@
-use anyhow::{Context, Result};
-use csv::{Reader, Writer};
+use anyhow::Result;
+use csv::Reader;
 use sea_orm::{ConnectionTrait, Database, Statement, TransactionTrait};
 use std::collections::HashSet;
 use std::fs;
-use std::io::Write;
-use std::path::{Path, PathBuf};
+use std::path::Path;
 
-use poecdn_bundle_index::{db, run, run_offline_from_index};
+use poecdn_bundle_index::{db, run_offline_from_index};
 
 /// Test data for the differential update test
 struct TestData {
@@ -695,7 +694,7 @@ pub async fn verify_database_matches_csv() -> Result<()> {
         }
     }
 
-    if (missing_bundles_in_csv.len() > 5) {
+    if missing_bundles_in_csv.len() > 5 {
         assert!(
             missing_bundles_in_csv.is_empty(),
             "Found bundles in CSV that are not in database: {:?} and {} more",
@@ -749,7 +748,7 @@ pub async fn verify_database_matches_csv() -> Result<()> {
         }
     }
 
-    if (missing_or_mismatch_in_db.len() > 5) {
+    if missing_or_mismatch_in_db.len() > 5 {
         assert!(
             missing_or_mismatch_in_db.is_empty(),
             "Found files in CSV that are not in database or hash mismatch: {:?} and {} more",
