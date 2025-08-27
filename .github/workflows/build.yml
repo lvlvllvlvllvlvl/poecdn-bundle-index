@@ -34,58 +34,16 @@ jobs:
         id: autocommit
       - name: Check for poe1 update script
         id: check_poe1_update
-        run: |
-          if [ -f "output/poe1/use_update_script" ]; then
-            echo "USE_UPDATE=true" >> $GITHUB_OUTPUT
-            echo "UPDATE_FILE=$(ls output/poe1/update-*.sql)" >> $GITHUB_OUTPUT
-            echo "Found update script for poe1: $(ls output/poe1/update-*.sql)"
-          else
-            echo "USE_UPDATE=false" >> $GITHUB_OUTPUT
-            echo "No update script found for poe1, will rebuild database"
-          fi
+        run: scripts/check_update.sh poe1 ${GITHUB_OUTPUT}
       - name: Check for poe2 update script
         id: check_poe2_update
-        run: |
-          if [ -f "output/poe2/use_update_script" ]; then
-            echo "USE_UPDATE=true" >> $GITHUB_OUTPUT
-            echo "UPDATE_FILE=$(ls output/poe2/update-*.sql)" >> $GITHUB_OUTPUT
-            echo "Found update script for poe2: $(ls output/poe2/update-*.sql)"
-          else
-            echo "USE_UPDATE=false" >> $GITHUB_OUTPUT
-            echo "No update script found for poe2, will rebuild database"
-          fi
+        run: scripts/check_update.sh poe2 ${GITHUB_OUTPUT}
       - name: Generate poe1 sql
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.force_rebuild_poe1 }}" = "true" ]; then
-            echo "Forced rebuild for poe1 via workflow_dispatch input"
-            echo "PRAGMA defer_foreign_keys = off;" > poe1.sql
-            cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe1.sql
-            cat output/poe1/*.sql >> poe1.sql
-          elif [ "${{ steps.check_poe1_update.outputs.USE_UPDATE }}" == "true" ]; then
-            echo "Using update script for poe1"
-            cp "${{ steps.check_poe1_update.outputs.UPDATE_FILE }}" poe1.sql
-          else
-            echo "Rebuilding poe1 database from scratch"
-            echo "PRAGMA defer_foreign_keys = off;" > poe1.sql
-            cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe1.sql
-            cat output/poe1/*.sql >> poe1.sql
-          fi
+          scripts/generate_sql.sh poe1 "${{ github.event_name }}" "${{ github.event.inputs.force_rebuild_poe1 }}" "${{ steps.check_poe1_update.outputs.USE_UPDATE }}" "${{ steps.check_poe1_update.outputs.UPDATE_FILE }}"
       - name: Generate poe2 sql
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.force_rebuild_poe2 }}" = "true" ]; then
-            echo "Forced rebuild for poe2 via workflow_dispatch input"
-            echo "PRAGMA defer_foreign_keys = off;" > poe2.sql
-            cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe2.sql
-            cat output/poe2/*.sql >> poe2.sql
-          elif [ "${{ steps.check_poe2_update.outputs.USE_UPDATE }}" == "true" ]; then
-            echo "Using update script for poe2"
-            cp "${{ steps.check_poe2_update.outputs.UPDATE_FILE }}" poe2.sql
-          else
-            echo "Rebuilding poe2 database from scratch"
-            echo "PRAGMA defer_foreign_keys = off;" > poe2.sql
-            cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> poe2.sql
-            cat output/poe2/*.sql >> poe2.sql
-          fi
+          scripts/generate_sql.sh poe2 "${{ github.event_name }}" "${{ github.event.inputs.force_rebuild_poe2 }}" "${{ steps.check_poe2_update.outputs.USE_UPDATE }}" "${{ steps.check_poe2_update.outputs.UPDATE_FILE }}"
       - name: Upload poe1 sql artifact
         uses: actions/upload-artifact@v4
         with:
