@@ -14,7 +14,7 @@ use crate::db;
 use crate::entity::prelude::*;
 use crate::entity::version;
 use crate::models::{Dir, File};
-use crate::sql::{insert_bundles, insert_dirs};
+use crate::sql::{insert_bundles, insert_dirs, insert_files};
 use crate::utils::{add_dir, decode_paths, decompress, read_u32, read_u64};
 use sea_query::{Query, SqliteQueryBuilder};
 
@@ -168,30 +168,32 @@ fn generate_csv_files(
 async fn generate_sql_files<'a>(
     bundle_names: &'a [&'a str],
     bundle_sizes: &'a [u32],
-    all_dirs: BTreeMap<&'a str, Dir>,
+    paths: &'a Vec<String>,
+    files_map: &'a BTreeMap<u64, (u32, u32, u32)>,
+    all_dirs: &BTreeMap<&'a str, Dir>,
     out_dir: &Path,
     url_str: &str,
     conn: &DbConn,
 ) -> Result<()> {
-    // Generate bundles.sql
-    let mut sql_writer = fs::File::create(out_dir.join("bundles.sql"))?;
-    let mut sql = insert_bundles();
-    let mut current_sql_line = 0;
-
     // Begin a transaction for better performance
     let tx = conn.begin().await?;
 
+    // Generate bundles.sql
+    let mut bundles_writer = fs::File::create(out_dir.join("bundles.sql"))?;
+    let mut bundles_sql = insert_bundles();
+    let mut bundles_count = 0;
+
     for (bundle_index, &bundle_name) in bundle_names.iter().enumerate() {
-        sql.values([
+        bundles_sql.values([
             (bundle_index as u64).into(),
             bundle_name.into(),
             bundle_sizes[bundle_index].into(),
         ])?;
-        if current_sql_line % SQL_LINES == 0 && current_sql_line > 0 {
-            writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
-            sql = insert_bundles();
+        if bundles_count % SQL_LINES == 0 && bundles_count > 0 {
+            writeln!(bundles_writer, "{};", bundles_sql.to_string(SqliteQueryBuilder))?;
+            bundles_sql = insert_bundles();
         }
-        current_sql_line += 1;
+        bundles_count += 1;
 
         // Insert bundle into the database
         db::insert_bundle(
@@ -202,32 +204,72 @@ async fn generate_sql_files<'a>(
         )
         .await?;
     }
-    writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
+    writeln!(bundles_writer, "{};", bundles_sql.to_string(SqliteQueryBuilder))?;
 
     // Generate dirs.sql
-    let mut sql_writer = fs::File::create(out_dir.join("dirs.sql"))?;
-    let mut sql = insert_dirs();
-    for (name, Dir { id, parent }) in all_dirs {
-        sql.values([id.into(), name.into(), parent.into()])?;
-        if current_sql_line % SQL_LINES == 0 && current_sql_line > 0 {
-            writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
-            sql = insert_dirs();
+    let mut dirs_writer = fs::File::create(out_dir.join("dirs.sql"))?;
+    let mut dirs_sql = insert_dirs();
+    let mut dirs_count = 0;
+
+    for (name, dir) in all_dirs {
+        let id = dir.id;
+        let parent = dir.parent;
+        dirs_sql.values([id.into(), (*name).into(), parent.into()])?;
+        if dirs_count % SQL_LINES == 0 && dirs_count > 0 {
+            writeln!(dirs_writer, "{};", dirs_sql.to_string(SqliteQueryBuilder))?;
+            dirs_sql = insert_dirs();
         }
-        current_sql_line += 1;
+        dirs_count += 1;
 
         // Insert directory into the database
         db::insert_dir(&tx, id, name, parent).await?;
     }
-    writeln!(sql_writer, "{};", sql.to_string(SqliteQueryBuilder))?;
+    writeln!(dirs_writer, "{};", dirs_sql.to_string(SqliteQueryBuilder))?;
+
+    // Generate files.sql
+    let mut files_writer = fs::File::create(out_dir.join("files.sql"))?;
+    let mut files_sql = insert_files();
+    let mut files_count = 0;
+
+    let mut inserted_hashes: HashSet<u64> = HashSet::new();
+    for filename in paths.iter() {
+        let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
+        if !inserted_hashes.insert(hash) {
+            continue;
+        }
+        if let Some(&(bundle_index, offset, size)) = files_map.get(&hash) {
+            let (dir_str, name_str) = filename.rsplit_once('/').unwrap_or(("", filename));
+            let dir_id = all_dirs
+                .get(dir_str)
+                .map(|d| d.id)
+                .unwrap_or(0);
+
+            files_sql.values([
+                (hash as i64).into(),
+                (dir_id as i64).into(),
+                name_str.into(),
+                (bundle_index as i64).into(),
+                (offset as i64).into(),
+                (size as i64).into(),
+            ])?;
+
+            if files_count % SQL_LINES == 0 && files_count > 0 {
+                writeln!(files_writer, "{};", files_sql.to_string(SqliteQueryBuilder))?;
+                files_sql = insert_files();
+            }
+            files_count += 1;
+        }
+    }
+    writeln!(files_writer, "{};", files_sql.to_string(SqliteQueryBuilder))?;
 
     // Generate version.sql
-    let sql = Query::insert()
+    let version_sql = Query::insert()
         .into_table(Version)
         .columns([version::Column::Id, version::Column::Url])
         .values([0.into(), url_str.into()])?
         .to_string(SqliteQueryBuilder);
-    let mut sql_writer = fs::File::create(out_dir.join("version.sql"))?;
-    writeln!(sql_writer, "{};", sql)?;
+    let mut version_writer = fs::File::create(out_dir.join("version.sql"))?;
+    writeln!(version_writer, "{};", version_sql)?;
 
     // Insert version into the database
     db::insert_version(&tx, url_str).await?;
@@ -270,6 +312,10 @@ pub async fn process_bundle_bytes(index_bundle: Vec<u8>, url_str: &str, out_dir:
     let mut all_dirs = BTreeMap::new();
 
     for filename in paths.iter() {
+        // Always register the directory for every decoded path
+        let (dir, name) = filename.rsplit_once('/').unwrap_or(("", filename));
+        let _dir_id = add_dir(dir, &mut all_dirs);
+
         let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
 
         if let Some(&(bundle_index, offset, size)) = files.get(&hash) {
@@ -285,10 +331,6 @@ pub async fn process_bundle_bytes(index_bundle: Vec<u8>, url_str: &str, out_dir:
 
             let bundle = bundle_names[bundle_index as usize];
             let file = File { bundle, range };
-            let (dir, name) = filename.rsplit_once('/').unwrap_or(("", filename));
-
-            // Just collect the directory, don't insert yet
-            let _dir_id = add_dir(dir, &mut all_dirs);
 
             file_data
                 .entry(dir)
@@ -347,7 +389,9 @@ pub async fn process_bundle_bytes(index_bundle: Vec<u8>, url_str: &str, out_dir:
     generate_sql_files(
         &bundle_names,
         &bundle_sizes,
-        all_dirs,
+        &paths,
+        &files,
+        &all_dirs,
         &out_dir_path,
         url_str,
         &conn,
