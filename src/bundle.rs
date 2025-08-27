@@ -306,7 +306,6 @@ pub async fn process_bundle_bytes(index_bundle: Vec<u8>, url_str: &str, out_dir:
     // Process path bundle
     let path_bundle = decompress(cursor)?;
     let paths = decode_paths(path_bundle.as_slice())?;
-    assert!(paths.contains(&"art/2ditems/amulets/agateamulet.dds".to_string()));
 
     // First, collect all directories and prepare file data without inserting into the database
     let mut file_data = BTreeMap::new();
