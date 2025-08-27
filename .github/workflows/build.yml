@@ -110,7 +110,7 @@ jobs:
   poe1-upload:
     runs-on: ubuntu-latest
     needs: build
-    if: github.event_name != 'schedule' || needs.build.outputs.changes_detected == 'true'
+    if: github.event.inputs.force_rebuild_poe1 == 'true' || needs.build.outputs.changes_detected == 'true'
     steps:
       - name: Download poe1 sql artifact
         uses: actions/download-artifact@v4
@@ -127,7 +127,7 @@ jobs:
   poe2-upload:
     runs-on: ubuntu-latest
     needs: build
-    if: github.event_name != 'schedule' || needs.build.outputs.changes_detected == 'true'
+    if: github.event.inputs.force_rebuild_poe2 == 'true' || needs.build.outputs.changes_detected == 'true'
     steps:
       - name: Download poe2 sql artifact
         uses: actions/download-artifact@v4
