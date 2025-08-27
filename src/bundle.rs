@@ -55,7 +55,7 @@ fn prepare_output_directory(url_str: &str, out_dir: &str) -> Result<(PathBuf, Pa
 }
 
 /// Downloads and decompresses the bundle index file
-async fn download_and_decompress_bundle(base_url: &Url) -> Result<Vec<u8>> {
+pub(crate) async fn download_and_decompress_bundle(base_url: &Url) -> Result<Vec<u8>> {
     let url = base_url.join("Bundles2/_.index.bin")?;
     // Removed logging of each URL to reduce output
     let url_str = url.to_string(); // Store URL as string for potential error logging
@@ -280,10 +280,7 @@ async fn generate_sql_files<'a>(
     Ok(())
 }
 
-pub async fn process_bundle(url_str: &str, out_dir: &str) -> Result<()> {
-    // Download and decompress bundle
-    let base = Url::parse(url_str)?;
-    let index_bundle = download_and_decompress_bundle(&base).await?;
+pub async fn process_bundle(url_str: &str, out_dir: &str, index_bundle: Vec<u8>) -> Result<()> {
     process_bundle_bytes(index_bundle, url_str, out_dir).await
 }
 
