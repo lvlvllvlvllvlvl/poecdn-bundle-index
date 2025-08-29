@@ -6,10 +6,10 @@ use sea_orm::entity::prelude::*;
 #[sea_orm(table_name = "bundles")]
 pub struct Model {
     #[sea_orm(primary_key, auto_increment = false)]
-    pub id: i32,
+    pub id: u32,
     #[sea_orm(column_type = "Text")]
     pub name: String,
-    pub size: i32,
+    pub size: u32,
 }
 
 #[derive(Copy, Clone, Debug, EnumIter, DeriveRelation)]

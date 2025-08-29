@@ -13,7 +13,6 @@ mod bundle;
 pub mod db;
 mod entity;
 mod models;
-mod sql;
 mod utils;
 
 use bundle::{process_bundle, process_bundle_from_local_index};

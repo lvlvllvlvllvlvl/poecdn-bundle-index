@@ -6,13 +6,13 @@ use sea_orm::entity::prelude::*;
 #[sea_orm(table_name = "files")]
 pub struct Model {
     #[sea_orm(primary_key, auto_increment = false)]
-    pub hash: i32,
-    pub dir: Option<i32>,
+    pub hash: i64,
+    pub dir: u32,
     #[sea_orm(column_type = "Text")]
     pub name: String,
-    pub bundle: i32,
-    pub offset: i32,
-    pub size: i32,
+    pub bundle: u32,
+    pub offset: u32,
+    pub size: u32,
 }
 
 #[derive(Copy, Clone, Debug, EnumIter, DeriveRelation)]

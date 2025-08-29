@@ -18,3 +18,4 @@ sea-query = { version = "0.32.6", features = ["backend-sqlite", "derive", "sea-q
 sea-orm = { version = "1.1.12", features = ["sqlx-sqlite", "runtime-tokio-native-tls", "macros"] }
 tokio = { version = "1.36.0", features = ["full"] }
 clap = { version = "4.5.7", features = ["derive"] }
+itertools = "0.14.0"
