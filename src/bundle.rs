@@ -195,7 +195,7 @@ async fn generate_sql_files<'a>(
     for chunk in &bundle_names
         .iter()
         .enumerate()
-        .chunks(SQLITE_MAX_VARIABLE_NUMBER / 3)
+        .chunks(SQLITE_MAX_VARIABLE_NUMBER / 3) // each ActiveValue::Set counts as a variable
     {
         let insert = Bundles::insert_many(chunk.map(|(index, name)| bundles::ActiveModel {
             id: ActiveValue::set(index as u32),
@@ -203,7 +203,9 @@ async fn generate_sql_files<'a>(
             size: ActiveValue::Set(bundle_sizes[index]),
         }));
         let stmt = insert.build(conn.get_database_backend());
+        // Write a copy of the statement to the sql file
         writeln!(bundles_writer, "{}", stmt)?;
+        // Run the same statement on the db
         insert.exec(&tx).await?;
     }
 

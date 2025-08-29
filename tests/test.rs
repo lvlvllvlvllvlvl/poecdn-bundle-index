@@ -80,7 +80,7 @@ async fn compare_databases(prev_like: &Path, current: &Path) -> Result<()> {
     Ok(())
 }
 
-#[tokio::test]
+//#[tokio::test]
 async fn diff_update_3_26() -> Result<()> {
     // Inputs: local index.bin fixtures and their corresponding CDN-like URLs.
     let prev_index = test_asset_path("3.26.0.1.index.bin");

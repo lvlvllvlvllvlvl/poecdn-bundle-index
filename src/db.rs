@@ -1,11 +1,18 @@
+use crate::entity::prelude::*;
+use crate::entity::{bundles, dirs};
 use anyhow::{Context, Result};
-use sea_orm::{ConnectionTrait, Database, DbConn, EntityTrait, QueryOrder, Statement};
+use itertools::Itertools;
+use reqwest::Client;
+use sea_orm::DatabaseBackend::Sqlite;
+use sea_orm::{
+    ColumnTrait, ConnectionTrait, Database, DbConn, EntityTrait, QueryFilter, QueryOrder,
+    QueryTrait, Statement,
+};
+use std::collections::BTreeMap;
 use std::fs;
 use std::path::Path;
-use reqwest::Client;
 
-use crate::entity::bundles;
-use crate::entity::prelude::*;
+const SQLITE_MAX_VARIABLE_NUMBER: usize = 999;
 
 /// Creates a new SQLite database and initializes it with the schema
 pub async fn create_database(out_dir: &Path) -> Result<DbConn> {
@@ -203,7 +210,9 @@ where
 }
 
 /// Gets all files from the database including their hashes
-pub async fn get_files_with_hash<C>(conn: &C) -> Result<Vec<(u64, String, String, Option<u32>, Option<u32>)>>
+pub async fn get_files_with_hash<C>(
+    conn: &C,
+) -> Result<Vec<(u64, String, String, Option<u32>, Option<u32>)>>
 where
     C: ConnectionTrait,
 {
@@ -259,26 +268,30 @@ pub async fn download_previous_database(game_type: &str, output_path: &Path) -> 
         "https://lvlvllvlvllvlvl.github.io/poecdn-bundle-index/{}/bundle_index.sqlite",
         game_type
     );
-    
+
     println!("Downloading previous database from {}", url);
-    
-    let response = client.get(&url)
+
+    let response = client
+        .get(&url)
         .send()
         .await
         .context("Failed to download previous database")?;
-        
+
     if !response.status().is_success() {
         return Err(anyhow::anyhow!(
             "Failed to download previous database: HTTP status {}",
             response.status()
         ));
     }
-    
-    let bytes = response.bytes().await.context("Failed to read response body")?;
+
+    let bytes = response
+        .bytes()
+        .await
+        .context("Failed to read response body")?;
     fs::write(output_path, bytes).context("Failed to write database file")?;
-    
+
     println!("Previous database downloaded to {:?}", output_path);
-    
+
     Ok(())
 }
 
@@ -289,10 +302,12 @@ pub async fn get_version(conn: &DbConn) -> Result<String> {
         "SELECT url FROM version WHERE id = 0",
         vec![],
     );
-    
-    let row = conn.query_one(stmt).await?
+
+    let row = conn
+        .query_one(stmt)
+        .await?
         .ok_or_else(|| anyhow::anyhow!("Version not found in database"))?;
-        
+
     let url = row.try_get::<String>("", "url")?;
     Ok(url)
 }
@@ -300,28 +315,36 @@ pub async fn get_version(conn: &DbConn) -> Result<String> {
 /// Checks the current version in D1 database
 pub async fn check_d1_version(game_type: &str) -> Result<Option<String>> {
     let client = Client::new();
-    let url = format!("https://ggpk.exposed/version?poe={}", 
+    let url = format!(
+        "https://ggpk.exposed/version?poe={}",
         if game_type == "poe1" { "1" } else { "2" }
     );
-    
+
     println!("Checking D1 version at {}", url);
-    
-    let response = client.get(&url)
+
+    let response = client
+        .get(&url)
         .send()
         .await
         .context("Failed to check D1 version")?;
-        
+
     if !response.status().is_success() {
-        println!("Failed to check D1 version: HTTP status {}", response.status());
+        println!(
+            "Failed to check D1 version: HTTP status {}",
+            response.status()
+        );
         return Ok(None);
     }
-    
-    let version = response.text().await.context("Failed to read response body")?;
+
+    let version = response
+        .text()
+        .await
+        .context("Failed to read response body")?;
     if version.is_empty() {
         println!("D1 version is empty");
         return Ok(None);
     }
-    
+
     println!("D1 version: {}", version);
     Ok(Some(version))
 }
@@ -341,36 +364,49 @@ pub async fn generate_differential_update(
     from_version: &str,
     to_version: &str,
 ) -> Result<()> {
-    println!("Generating differential update from {} to {}", from_version, to_version);
-    
+    println!(
+        "Generating differential update from {} to {}",
+        from_version, to_version
+    );
+
     // Connect to both databases
     let prev_db_url = format!("sqlite:{}?mode=ro", prev_db_path.to_string_lossy());
     let current_db_url = format!("sqlite:{}?mode=ro", current_db_path.to_string_lossy());
-    
+
     let prev_conn = Database::connect(&prev_db_url).await?;
     let current_conn = Database::connect(&current_db_url).await?;
-    
+
     // Create update SQL file
     let mut update_file = fs::File::create(update_sql_path)?;
     use std::io::Write;
-    
+
     // Add header comment
-    writeln!(update_file, "-- Differential update from {} to {}", from_version, to_version)?;
+    writeln!(
+        update_file,
+        "-- Differential update from {} to {}",
+        from_version, to_version
+    )?;
     writeln!(update_file, "PRAGMA foreign_keys = off;")?;
     writeln!(update_file, "BEGIN TRANSACTION;")?;
-    
+
     // Update version
     let current_version_stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
         "SELECT url FROM version WHERE id = 0",
         vec![],
     );
-    let current_version_row = current_conn.query_one(current_version_stmt).await?
+    let current_version_row = current_conn
+        .query_one(current_version_stmt)
+        .await?
         .ok_or_else(|| anyhow::anyhow!("Version not found in current database"))?;
     let current_version_url = current_version_row.try_get::<String>("", "url")?;
-    
-    writeln!(update_file, "UPDATE version SET url = '{}' WHERE id = 0;", current_version_url)?;
-    
+
+    writeln!(
+        update_file,
+        "UPDATE version SET url = '{}' WHERE id = 0;",
+        current_version_url
+    )?;
+
     // Process to ensure referenced entities exist before files operations:
     // 1. First, compare and update bundles (names are unique)
     // 2. Then, compare and update directories (handle parent relations by name)
@@ -384,13 +420,16 @@ pub async fn generate_differential_update(
 
     // Compare and update files
     compare_and_update_files(&prev_conn, &current_conn, &mut update_file).await?;
-    
+
     // End transaction
     writeln!(update_file, "COMMIT;")?;
     writeln!(update_file, "PRAGMA foreign_keys = on;")?;
-    
-    println!("Differential update SQL file generated at {:?}", update_sql_path);
-    
+
+    println!(
+        "Differential update SQL file generated at {:?}",
+        update_sql_path
+    );
+
     Ok(())
 }
 
@@ -404,7 +443,9 @@ async fn compare_and_update_bundles(
     use std::io::Write;
 
     // Helper to escape single quotes
-    fn esc(s: &str) -> String { s.replace("'", "''") }
+    fn esc(s: &str) -> String {
+        s.replace("'", "''")
+    }
 
     // Get bundles from both databases by name
     let prev_bundles_stmt = Statement::from_sql_and_values(
@@ -440,7 +481,11 @@ async fn compare_and_update_bundles(
     // Find deleted bundles (by name)
     for (name, _) in &prev_bundles {
         if !current_bundles.contains_key(name) {
-            writeln!(update_file, "DELETE FROM bundles WHERE name = '{}';", esc(name))?;
+            writeln!(
+                update_file,
+                "DELETE FROM bundles WHERE name = '{}';",
+                esc(name)
+            )?;
         }
     }
 
@@ -451,7 +496,8 @@ async fn compare_and_update_bundles(
             writeln!(
                 update_file,
                 "INSERT INTO bundles (name, size) VALUES ('{}', {});",
-                esc(name), size
+                esc(name),
+                size
             )?;
         } else {
             let prev_size = prev_bundles.get(name).unwrap();
@@ -460,7 +506,8 @@ async fn compare_and_update_bundles(
                 writeln!(
                     update_file,
                     "UPDATE bundles SET size = {} WHERE name = '{}';",
-                    size, esc(name)
+                    size,
+                    esc(name)
                 )?;
             }
         }
@@ -479,7 +526,9 @@ async fn compare_and_update_dirs(
     use std::io::Write;
 
     // Helper to escape single quotes
-    fn esc(s: &str) -> String { s.replace("'", "''") }
+    fn esc(s: &str) -> String {
+        s.replace("'", "''")
+    }
 
     // Get dirs with parent names for both databases
     let prev_dirs_stmt = Statement::from_sql_and_values(
@@ -518,52 +567,77 @@ async fn compare_and_update_dirs(
         current_dirs.insert(name, parent_name);
     }
 
-    // Find deleted dirs (by name)
-    for (name, _) in &prev_dirs {
-        if !current_dirs.contains_key(name) {
-            writeln!(update_file, "DELETE FROM dirs WHERE name = '{}';", esc(name))?;
-        }
+    for chunk in &prev_dirs
+        .iter()
+        .map(|(name, _)| name)
+        .filter(|name| !current_dirs.contains_key(*name))
+        .chunks(SQLITE_MAX_VARIABLE_NUMBER)
+    {
+        let stmt = Dirs::delete_many()
+            .filter(dirs::Column::Name.is_in(chunk))
+            .build(Sqlite);
+        writeln!(update_file, "{};", stmt)?;
+    }
+
+    let mut to_update = Vec::new();
+    for (name, parent_name) in &current_dirs {
+        add_dir_to_update(name, parent_name, &mut to_update, &prev_dirs, &current_dirs);
     }
 
     // Find added or modified dirs
-    for (name, parent_name) in &current_dirs {
-        if !prev_dirs.contains_key(name) {
-            // Added dir: do not specify id, set parent by name lookup if present
+    for chunk in to_update.chunks(SQLITE_MAX_VARIABLE_NUMBER / 2) {
+        if chunk.len() == 0 {
+            continue;
+        }
+        write!(update_file, "INSERT INTO dirs (name, parent) VALUES",)?;
+        let mut comma = "";
+        for (name, parent_name) in chunk {
             if let Some(pn) = parent_name {
-                writeln!(
+                write!(
                     update_file,
-                    "INSERT INTO dirs (name, parent) VALUES ('{}', (SELECT id FROM dirs WHERE name='{}'));",
-                    esc(name), esc(pn)
+                    "{} ('{}', (SELECT id FROM dirs WHERE name='{}'))",
+                    comma,
+                    esc(name),
+                    esc(pn)
                 )?;
             } else {
-                writeln!(
-                    update_file,
-                    "INSERT INTO dirs (name, parent) VALUES ('{}', NULL);",
-                    esc(name)
-                )?;
+                write!(update_file, "{} ('{}', NULL)", comma, esc(name))?;
             }
-        } else {
-            let prev_parent = prev_dirs.get(name).unwrap();
-            if prev_parent != parent_name {
-                // Modified dir: update parent via name lookup
-                if let Some(pn) = parent_name {
-                    writeln!(
-                        update_file,
-                        "UPDATE dirs SET parent = (SELECT id FROM dirs WHERE name='{}') WHERE name = '{}';",
-                        esc(pn), esc(name)
-                    )?;
-                } else {
-                    writeln!(
-                        update_file,
-                        "UPDATE dirs SET parent = NULL WHERE name = '{}';",
-                        esc(name)
-                    )?;
-                }
-            }
+            comma = ",";
         }
+        writeln!(
+            update_file,
+            " ON CONFLICT (name) DO UPDATE SET parent=excluded.parent;",
+        )?;
     }
 
     Ok(())
+}
+
+fn add_dir_to_update(
+    name: &String,
+    parent_name: &Option<String>,
+    to_update: &mut Vec<(String, Option<String>)>,
+    prev_dirs: &BTreeMap<String, Option<String>>,
+    current_dirs: &BTreeMap<String, Option<String>>,
+) {
+    if let Some(Some(p)) = current_dirs.get(name) {
+        // Ensure that parent is added before any child
+        add_dir_to_update(
+            p,
+            current_dirs.get(p).unwrap(),
+            to_update,
+            prev_dirs,
+            current_dirs,
+        );
+    }
+    if prev_dirs
+        .get(name)
+        .is_none_or(|prev_parent| prev_parent != parent_name)
+        && !to_update.iter().any(|(n, _)| n == name)
+    {
+        to_update.push((name.clone(), parent_name.clone()));
+    }
 }
 
 /// Compares and updates files between two databases
@@ -576,7 +650,9 @@ async fn compare_and_update_files(
     use std::io::Write;
 
     // Helper to escape single quotes
-    fn esc(s: &str) -> String { s.replace("'", "''") }
+    fn esc(s: &str) -> String {
+        s.replace("'", "''")
+    }
 
     // Get files from both databases with dir and bundle names
     let prev_files_stmt = Statement::from_sql_and_values(
@@ -639,8 +715,14 @@ async fn compare_and_update_files(
                 size
             )?;
         } else {
-            let (prev_dir_name, prev_file_name, prev_bundle_name, prev_offset, prev_size) = &prev_files[hash];
-            if prev_dir_name != dir_name || prev_file_name != file_name || prev_bundle_name != bundle_name || prev_offset != offset || prev_size != size {
+            let (prev_dir_name, prev_file_name, prev_bundle_name, prev_offset, prev_size) =
+                &prev_files[hash];
+            if prev_dir_name != dir_name
+                || prev_file_name != file_name
+                || prev_bundle_name != bundle_name
+                || prev_offset != offset
+                || prev_size != size
+            {
                 // Modified file: update by name lookups
                 writeln!(
                     update_file,
