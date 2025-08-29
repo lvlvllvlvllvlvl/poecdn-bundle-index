@@ -1,5 +1,5 @@
 use crate::entity::prelude::*;
-use crate::entity::{bundles, dirs};
+use crate::entity::{bundles, dirs, files};
 use anyhow::{Context, Result};
 use itertools::Itertools;
 use reqwest::Client;
@@ -478,39 +478,44 @@ async fn compare_and_update_bundles(
         current_bundles.insert(name, size);
     }
 
-    // Find deleted bundles (by name)
-    for (name, _) in &prev_bundles {
-        if !current_bundles.contains_key(name) {
-            writeln!(
-                update_file,
-                "DELETE FROM bundles WHERE name = '{}';",
-                esc(name)
-            )?;
+    // Batch delete removed bundles (by name)
+    for chunk in &prev_bundles
+        .iter()
+        .map(|(name, _)| name)
+        .filter(|name| !current_bundles.contains_key(*name))
+        .chunks(SQLITE_MAX_VARIABLE_NUMBER)
+    {
+        let stmt = Bundles::delete_many()
+            .filter(bundles::Column::Name.is_in(chunk))
+            .build(Sqlite);
+        writeln!(update_file, "{};", stmt)?;
+    }
+
+    // Collect added or modified bundles for upsert
+    let mut to_upsert: Vec<(&str, i32)> = Vec::new();
+    for (name, size) in &current_bundles {
+        match prev_bundles.get(name) {
+            Some(prev_size) if prev_size == size => {}
+            _ => to_upsert.push((name.as_str(), *size)),
         }
     }
 
-    // Find added or modified bundles
-    for (name, size) in &current_bundles {
-        if !prev_bundles.contains_key(name) {
-            // Added bundle: do not specify id, let SQLite generate it
-            writeln!(
-                update_file,
-                "INSERT INTO bundles (name, size) VALUES ('{}', {});",
-                esc(name),
-                size
-            )?;
-        } else {
-            let prev_size = prev_bundles.get(name).unwrap();
-            if prev_size != size {
-                // Modified bundle: use WHERE name
-                writeln!(
-                    update_file,
-                    "UPDATE bundles SET size = {} WHERE name = '{}';",
-                    size,
-                    esc(name)
-                )?;
-            }
+    // Batch upsert bundles using ON CONFLICT(name)
+    for chunk in to_upsert.chunks(SQLITE_MAX_VARIABLE_NUMBER / 2) {
+        if chunk.is_empty() {
+            continue;
         }
+        use std::io::Write as _;
+        write!(update_file, "INSERT INTO bundles (name, size) VALUES")?;
+        let mut comma = "";
+        for (name, size) in chunk {
+            write!(update_file, "{} ('{}', {})", comma, esc(name), size)?;
+            comma = ",";
+        }
+        writeln!(
+            update_file,
+            " ON CONFLICT (name) DO UPDATE SET size=excluded.size;",
+        )?;
     }
 
     Ok(())
@@ -693,20 +698,45 @@ async fn compare_and_update_files(
         current_files.insert(hash, (dir_name, file_name, bundle_name, offset, size));
     }
 
-    // Find deleted files
-    for hash in prev_files.keys() {
-        if !current_files.contains_key(hash) {
-            writeln!(update_file, "DELETE FROM files WHERE hash = {};", hash)?;
+    // Batch delete removed files
+    for chunk in &prev_files
+        .keys()
+        .filter(|hash| !current_files.contains_key(*hash))
+        .chunks(SQLITE_MAX_VARIABLE_NUMBER)
+    {
+        let stmt = Files::delete_many()
+            .filter(files::Column::Hash.is_in(chunk.copied()))
+            .build(Sqlite);
+        writeln!(update_file, "{};", stmt)?;
+    }
+
+    // Collect added or modified files for upsert
+    let mut to_upsert: Vec<(i64, String, String, String, i32, i32)> = Vec::new();
+    for (hash, (dir_name, file_name, bundle_name, offset, size)) in &current_files {
+        match prev_files.get(hash) {
+            Some((pdir, pname, pbundle, poff, psz))
+                if pdir == dir_name
+                    && pname == file_name
+                    && pbundle == bundle_name
+                    && poff == offset
+                    && psz == size => {}
+            _ => to_upsert.push((*hash, dir_name.clone(), file_name.clone(), bundle_name.clone(), *offset, *size)),
         }
     }
 
-    // Find added or modified files
-    for (hash, (dir_name, file_name, bundle_name, offset, size)) in &current_files {
-        if !prev_files.contains_key(hash) {
-            // Added file: set dir and bundle by name lookups
-            writeln!(
+    // Batch upsert files using ON CONFLICT(hash)
+    for chunk in to_upsert.chunks(SQLITE_MAX_VARIABLE_NUMBER / 6) {
+        if chunk.is_empty() {
+            continue;
+        }
+        use std::io::Write as _;
+        write!(update_file, "INSERT INTO files (hash, dir, name, bundle, offset, size) VALUES")?;
+        let mut comma = "";
+        for (hash, dir_name, file_name, bundle_name, offset, size) in chunk {
+            write!(
                 update_file,
-                "INSERT INTO files (hash, dir, name, bundle, offset, size) VALUES ({}, (SELECT id FROM dirs WHERE name='{}'), '{}', (SELECT id FROM bundles WHERE name='{}'), {}, {});",
+                "{} ({}, (SELECT id FROM dirs WHERE name='{}'), '{}', (SELECT id FROM bundles WHERE name='{}'), {}, {})",
+                comma,
                 hash,
                 esc(dir_name),
                 esc(file_name),
@@ -714,28 +744,12 @@ async fn compare_and_update_files(
                 offset,
                 size
             )?;
-        } else {
-            let (prev_dir_name, prev_file_name, prev_bundle_name, prev_offset, prev_size) =
-                &prev_files[hash];
-            if prev_dir_name != dir_name
-                || prev_file_name != file_name
-                || prev_bundle_name != bundle_name
-                || prev_offset != offset
-                || prev_size != size
-            {
-                // Modified file: update by name lookups
-                writeln!(
-                    update_file,
-                    "UPDATE files SET dir = (SELECT id FROM dirs WHERE name='{}'), name = '{}', bundle = (SELECT id FROM bundles WHERE name='{}'), offset = {}, size = {} WHERE hash = {};",
-                    esc(dir_name),
-                    esc(file_name),
-                    esc(bundle_name),
-                    offset,
-                    size,
-                    hash
-                )?;
-            }
+            comma = ",";
         }
+        writeln!(
+            update_file,
+            " ON CONFLICT (hash) DO UPDATE SET dir=excluded.dir, name=excluded.name, bundle=excluded.bundle, offset=excluded.offset, size=excluded.size;",
+        )?;
     }
 
     Ok(())

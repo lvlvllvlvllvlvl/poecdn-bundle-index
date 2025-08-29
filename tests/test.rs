@@ -80,7 +80,7 @@ async fn compare_databases(prev_like: &Path, current: &Path) -> Result<()> {
     Ok(())
 }
 
-//#[tokio::test]
+#[tokio::test]
 async fn diff_update_3_26() -> Result<()> {
     // Inputs: local index.bin fixtures and their corresponding CDN-like URLs.
     let prev_index = test_asset_path("3.26.0.1.index.bin");
@@ -94,14 +94,18 @@ async fn diff_update_3_26() -> Result<()> {
     let curr_out = unique_temp_dir("poe_curr");
     fs::create_dir_all(&prev_out)?;
     fs::create_dir_all(&curr_out)?;
+    println!("prev_out: {}", prev_out.display());
+    println!("curr_out: {}", curr_out.display());
 
     // Build previous and current databases from the local index.bin files.
     run_offline_from_index(prev_url, prev_out.to_str().unwrap(), &prev_index)
         .await
         .context("building previous DB from index.bin")?;
+    println!("built previous DB");
     run_offline_from_index(curr_url, curr_out.to_str().unwrap(), &curr_index)
         .await
         .context("building current DB from index.bin")?;
+    println!("built current DB");
 
     let prev_db_path = prev_out.join("bundle_index.sqlite");
     let curr_db_path = curr_out.join("bundle_index.sqlite");
@@ -116,12 +120,15 @@ async fn diff_update_3_26() -> Result<()> {
     let curr_version_url = db::get_version(&curr_db_conn).await?;
     let from_version = db::extract_version_from_url(&prev_version_url);
     let to_version = db::extract_version_from_url(&curr_version_url);
+    println!("from_version: {}", from_version);
+    println!("to_version: {}", to_version);
 
     // Create an update.sql in a temp folder.
     let diff_out_dir = unique_temp_dir("poe_diff");
     fs::create_dir_all(&diff_out_dir)?;
     let update_sql_path =
         diff_out_dir.join(format!("update-{}-to-{}.sql", &from_version, &to_version));
+    println!("update_sql_path: {}", update_sql_path.display());
 
     // Generate the differential update SQL.
     db::generate_differential_update(
@@ -133,6 +140,7 @@ async fn diff_update_3_26() -> Result<()> {
     )
     .await
     .context("generate differential update")?;
+    println!("generated update SQL");
 
     // Apply the update SQL to a copy of the previous DB.
     let updated_db_path = diff_out_dir.join("updated_from_prev.sqlite");
@@ -140,7 +148,8 @@ async fn diff_update_3_26() -> Result<()> {
         .context("copy previous DB to create an updatable working copy")?;
     apply_sql_file(&updated_db_path, &update_sql_path)
         .await
-        .context(format!("apply generated update SQL {} to previous DB copy", update_sql_path.to_string_lossy()))?;
+        .context(format!("apply generated update SQL {} to previous DB copy", update_sql_path.display()))?;
+    println!("applied update SQL {} to previous DB copy", update_sql_path.display());
 
     // Verify updated DB matches the current DB built from the 3.26 bin.
     compare_databases(&updated_db_path, &curr_db_path)
