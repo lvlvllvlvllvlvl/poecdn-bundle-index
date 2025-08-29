@@ -1,7 +1,7 @@
 use anyhow::{Context, Result};
 use csv::Reader;
 use poecdn_bundle_index::{db, run_offline_from_index};
-use sea_orm::{ConnectionTrait, Database, DbBackend, Statement, TransactionTrait};
+use sea_orm::{ConnectionTrait, Database, Statement, TransactionTrait};
 use std::collections::HashSet;
 use std::fs;
 use std::path::{Path, PathBuf};
@@ -32,23 +32,8 @@ async fn apply_sql_file(sqlite_path: &Path, sql_path: &Path) -> Result<()> {
     let sql = fs::read_to_string(sql_path)
         .with_context(|| format!("Failed to read {}", sql_path.display()))?;
 
-    // Execute statements sequentially. We split on ';' followed by newline to reduce false splits.
-    // This assumes the generated SQL uses statement-ending semicolons and no embedded multiline ';' usage.
-    for stmt in sql.split(";\n") {
-        let trimmed = stmt.trim();
-        if trimmed.is_empty() {
-            continue;
-        }
-        // Some generators may omit the final newline after the last ';'
-        let final_stmt = if !trimmed.ends_with(';') {
-            format!("{};", trimmed)
-        } else {
-            trimmed.to_string()
-        };
-        conn.execute(Statement::from_string(DbBackend::Sqlite, final_stmt))
-            .await
-            .context("Failed to execute SQL statement")?;
-    }
+    conn.execute_unprepared(sql.as_str()).await
+        .with_context(|| format!("Failed to apply {} to {}", sql_path.display(), sqlite_path.display()))?;
 
     Ok(())
 }
@@ -96,12 +81,12 @@ async fn compare_databases(prev_like: &Path, current: &Path) -> Result<()> {
 }
 
 #[tokio::test]
-async fn diff_update_from_3_25_to_3_26_and_match() -> Result<()> {
+async fn diff_update_3_26() -> Result<()> {
     // Inputs: local index.bin fixtures and their corresponding CDN-like URLs.
-    let prev_index = test_asset_path("3.25.3.12.index.bin");
+    let prev_index = test_asset_path("3.26.0.1.index.bin");
     let curr_index = test_asset_path("3.26.0.11.index.bin");
 
-    let prev_url = "https://patch.poecdn.com/3.25.3.12/";
+    let prev_url = "https://patch.poecdn.com/3.26.0.1/";
     let curr_url = "https://patch.poecdn.com/3.26.0.11/";
 
     // Create temporary output directories for each database build.
@@ -155,7 +140,7 @@ async fn diff_update_from_3_25_to_3_26_and_match() -> Result<()> {
         .context("copy previous DB to create an updatable working copy")?;
     apply_sql_file(&updated_db_path, &update_sql_path)
         .await
-        .context("apply generated update SQL to previous DB copy")?;
+        .context(format!("apply generated update SQL {} to previous DB copy", update_sql_path.to_string_lossy()))?;
 
     // Verify updated DB matches the current DB built from the 3.26 bin.
     compare_databases(&updated_db_path, &curr_db_path)

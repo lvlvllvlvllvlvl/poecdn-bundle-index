@@ -9,12 +9,12 @@ on:
   workflow_dispatch:
     inputs:
       force_rebuild_poe1:
-        description: Force rebuild poe1 database instead of using incremental update
+        description: Force rebuild poe1 database
         type: boolean
         required: false
         default: false
       force_rebuild_poe2:
-        description: Force rebuild poe2 database instead of using incremental update
+        description: Force rebuild poe2 database
         type: boolean
         required: false
         default: false
