@@ -12,12 +12,12 @@ fi
 
 OUTFILE="${GAME}.sql"
 GAME_DIR="output/${GAME}"
-UPDATE_FILE="output/${DIR}"/update-*.sql
+UPDATE_FILE="${GAME_DIR}"/update-*.sql
 
 rebuild_from_scratch() {
-  echo "PRAGMA defer_foreign_keys = off;" > "${OUTFILE}"
-  cat sql/drop_tables.sql sql/create_tables.sql sql/create_indexes.sql >> "${OUTFILE}"
-  cat "${GAME_DIR}"/*.sql >> "${OUTFILE}"
+  echo "PRAGMA defer_foreign_keys = on;" > "${OUTFILE}"
+  cat sql/{drop_tables,create_tables,create_indexes}.sql >> "${OUTFILE}"
+  cat "${GAME_DIR}"/{bundles,dirs,files,version}.sql >> "${OUTFILE}"
 }
 
 if [[ "${FORCE_REBUILD}" == "true" ]]; then
