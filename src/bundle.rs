@@ -225,22 +225,29 @@ async fn generate_sql_files<'a>(
     // Generate files.sql
     let mut files_writer = fs::File::create(out_dir.join("files.sql"))?;
 
-    for chunk in &paths.iter().chunks(SQLITE_MAX_VARIABLE_NUMBER / 6) {
-        let insert = Files::insert_many(chunk.map(|filename| {
+    for chunk in &paths
+        .iter()
+        .filter_map(|filename| {
             let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
-            let &(bundle_index, offset, size) = files_map.get(&hash).unwrap();
-            let (dir_str, name_str) = filename.rsplit_once('/').unwrap_or(("", filename));
-            let dir_id = all_dirs.get(dir_str).map(|d| d.id).unwrap_or(0);
+            let file = files_map.get(&hash);
+            file.map(|&(bundle_index, offset, size)| (filename, hash, bundle_index, offset, size))
+        })
+        .chunks(SQLITE_MAX_VARIABLE_NUMBER / 6)
+    {
+        let insert =
+            Files::insert_many(chunk.map(|(filename, hash, bundle_index, offset, size)| {
+                let (dir_str, name_str) = filename.rsplit_once('/').unwrap_or(("", filename));
+                let dir_id = all_dirs.get(dir_str).map(|d| d.id).unwrap_or(0);
 
-            files::ActiveModel {
-                hash: ActiveValue::Set(hash as i64),
-                dir: ActiveValue::Set(dir_id),
-                name: ActiveValue::Set(name_str.to_string()),
-                bundle: ActiveValue::Set(bundle_index),
-                offset: ActiveValue::Set(offset),
-                size: ActiveValue::Set(size),
-            }
-        }));
+                files::ActiveModel {
+                    hash: ActiveValue::Set(hash as i64),
+                    dir: ActiveValue::Set(dir_id),
+                    name: ActiveValue::Set(name_str.to_string()),
+                    bundle: ActiveValue::Set(bundle_index),
+                    offset: ActiveValue::Set(offset),
+                    size: ActiveValue::Set(size),
+                }
+            }));
         let stmt = insert.build(conn.get_database_backend());
         writeln!(files_writer, "{stmt}")?;
         insert.exec(&tx).await?;
