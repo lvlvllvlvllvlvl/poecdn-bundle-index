@@ -32,8 +32,15 @@ async fn apply_sql_file(sqlite_path: &Path, sql_path: &Path) -> Result<()> {
     let sql = fs::read_to_string(sql_path)
         .with_context(|| format!("Failed to read {}", sql_path.display()))?;
 
-    conn.execute_unprepared(sql.as_str()).await
-        .with_context(|| format!("Failed to apply {} to {}", sql_path.display(), sqlite_path.display()))?;
+    conn.execute_unprepared(sql.as_str())
+        .await
+        .with_context(|| {
+            format!(
+                "Failed to apply {} to {}",
+                sql_path.display(),
+                sqlite_path.display()
+            )
+        })?;
 
     Ok(())
 }
@@ -148,8 +155,14 @@ async fn diff_update_3_26() -> Result<()> {
         .context("copy previous DB to create an updatable working copy")?;
     apply_sql_file(&updated_db_path, &update_sql_path)
         .await
-        .context(format!("apply generated update SQL {} to previous DB copy", update_sql_path.display()))?;
-    println!("applied update SQL {} to previous DB copy", update_sql_path.display());
+        .context(format!(
+            "apply generated update SQL {} to previous DB copy",
+            update_sql_path.display()
+        ))?;
+    println!(
+        "applied update SQL {} to previous DB copy",
+        update_sql_path.display()
+    );
 
     // Verify updated DB matches the current DB built from the 3.26 bin.
     compare_databases(&updated_db_path, &curr_db_path)
@@ -677,10 +690,7 @@ pub async fn test_differential_update() -> Result<()> {
                 &missing_bundles_in_updated[0..5]
             );
         }
-        assert!(
-            false,
-            "Found bundles in current database that are not in updated database"
-        );
+        panic!("Found bundles in current database that are not in updated database");
     }
 
     // 2. Verify files
@@ -723,10 +733,7 @@ pub async fn test_differential_update() -> Result<()> {
                 &missing_files_in_current[0..5]
             );
         }
-        assert!(
-            false,
-            "Found files in updated database that are not in current database"
-        );
+        panic!("Found files in updated database that are not in current database");
     }
 
     // Check that all files in the current database are in the updated database
@@ -752,10 +759,7 @@ pub async fn test_differential_update() -> Result<()> {
                 &missing_files_in_updated[0..5]
             );
         }
-        assert!(
-            false,
-            "Found files in current database that are not in updated database"
-        );
+        panic!("Found files in current database that are not in updated database");
     }
 
     println!("Differential update test passed!");

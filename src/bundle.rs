@@ -75,7 +75,7 @@ pub(crate) async fn download_and_decompress_bundle(base_url: &Url) -> Result<Vec
 
 /// Parses bundle names and sizes from the index bundle
 fn parse_bundle_metadata<'a>(
-    index_bundle: &'a Vec<u8>,
+    index_bundle: &'a [u8],
     cursor: &mut Cursor<&'a Vec<u8>>,
 ) -> Result<(Vec<&'a str>, Vec<u32>)> {
     let count = read_u32(cursor)? as usize;
@@ -117,7 +117,7 @@ fn extract_file_hashes(cursor: &mut Cursor<&Vec<u8>>) -> Result<BTreeMap<u64, (u
 
 /// Generates CSV files for files and bundles
 fn generate_csv_files(
-    paths: &Vec<String>,
+    paths: &[String],
     files_map: &BTreeMap<u64, (u32, u32, u32)>,
     bundle_names: &[&str],
     bundle_sizes: &[u32],
@@ -172,7 +172,7 @@ fn generate_csv_files(
 async fn generate_sql_files<'a>(
     bundle_names: &'a [&'a str],
     bundle_sizes: &'a [u32],
-    paths: &'a Vec<String>,
+    paths: &'a [String],
     files_map: &'a BTreeMap<u64, (u32, u32, u32)>,
     all_dirs: &BTreeMap<&'a str, Dir>,
     out_dir: &Path,
@@ -193,7 +193,8 @@ async fn generate_sql_files<'a>(
     for chunk in &bundle_names
         .iter()
         .enumerate()
-        .chunks(SQLITE_MAX_VARIABLE_NUMBER / 3) // each ActiveValue::Set counts as a variable
+        .chunks(SQLITE_MAX_VARIABLE_NUMBER / 3)
+    // each ActiveValue::Set counts as a variable
     {
         let insert = Bundles::insert_many(chunk.map(|(index, name)| bundles::ActiveModel {
             id: ActiveValue::set(index as u32),
