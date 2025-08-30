@@ -30,7 +30,7 @@ if [[ "$KNOWN_URLS" == *"$SERVER_VERSION"* ]]; then
   # Generate differential update SQL next to the current database
   cargo run --release -- diff-update \
     --previous "$DIR/previous_bundle_index.sqlite" \
-    --current "$DIR/bundle_index.sqlite"
+    --current "$DIR/bundle_index.sqlite" || echo diff failed, perform full rebuild
 else
   echo "No known version match for ${GAME} (server: ${SERVER_VERSION}). Skipping diff-update."
 fi
