@@ -18,7 +18,7 @@ use crate::models::{Dir, File};
 use crate::utils::{add_dir, decode_paths, decompress, read_u32, read_u64};
 use sea_query::{Query, SqliteQueryBuilder};
 
-const BATCH_SIZE: usize = 200;
+const SQLITE_MAX_VARIABLE_NUMBER: usize = 999;
 
 /// Prepares the output directory structure based on the URL
 fn prepare_output_directory(url_str: &str, out_dir: &str) -> Result<(PathBuf, PathBuf)> {
@@ -193,7 +193,7 @@ async fn generate_sql_files<'a>(
     for chunk in &bundle_names
         .iter()
         .enumerate()
-        .chunks(BATCH_SIZE)
+        .chunks(SQLITE_MAX_VARIABLE_NUMBER / 3)
     // each ActiveValue::Set counts as a variable
     {
         let insert = Bundles::insert_many(chunk.map(|(index, name)| bundles::ActiveModel {
@@ -211,7 +211,7 @@ async fn generate_sql_files<'a>(
     // Generate dirs.sql
     let mut dirs_writer = fs::File::create(out_dir.join("dirs.sql"))?;
 
-    for chunk in &all_dirs.iter().chunks(BATCH_SIZE) {
+    for chunk in &all_dirs.iter().chunks(SQLITE_MAX_VARIABLE_NUMBER / 3) {
         let insert = Dirs::insert_many(chunk.map(|(name, dir)| dirs::ActiveModel {
             id: ActiveValue::Set(dir.id),
             name: ActiveValue::Set(name.to_string()),
@@ -232,7 +232,7 @@ async fn generate_sql_files<'a>(
             let file = files_map.get(&hash);
             file.map(|&(bundle_index, offset, size)| (filename, hash, bundle_index, offset, size))
         })
-        .chunks(BATCH_SIZE)
+        .chunks(SQLITE_MAX_VARIABLE_NUMBER / 6)
     {
         let insert =
             Files::insert_many(chunk.map(|(filename, hash, bundle_index, offset, size)| {
