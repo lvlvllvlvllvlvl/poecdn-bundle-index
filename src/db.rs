@@ -156,7 +156,7 @@ where
 
     let result = bundles
         .into_iter()
-        .map(|b| (b.name, b.size as u32))
+        .map(|b| (b.name, b.size))
         .collect();
 
     Ok(result)
@@ -265,11 +265,10 @@ where
 pub async fn download_previous_database(game_type: &str, output_path: &Path) -> Result<()> {
     let client = Client::new();
     let url = format!(
-        "https://lvlvllvlvllvlvl.github.io/poecdn-bundle-index/{}/bundle_index.sqlite",
-        game_type
+        "https://lvlvllvlvllvlvl.github.io/poecdn-bundle-index/{game_type}/bundle_index.sqlite"
     );
 
-    println!("Downloading previous database from {}", url);
+    println!("Downloading previous database from {url}");
 
     let response = client
         .get(&url)
@@ -290,7 +289,7 @@ pub async fn download_previous_database(game_type: &str, output_path: &Path) -> 
         .context("Failed to read response body")?;
     fs::write(output_path, bytes).context("Failed to write database file")?;
 
-    println!("Previous database downloaded to {:?}", output_path);
+    println!("Previous database downloaded to {output_path:?}");
 
     Ok(())
 }
@@ -320,7 +319,7 @@ pub async fn check_d1_version(game_type: &str) -> Result<Option<String>> {
         if game_type == "poe1" { "1" } else { "2" }
     );
 
-    println!("Checking D1 version at {}", url);
+    println!("Checking D1 version at {url}");
 
     let response = client
         .get(&url)
@@ -345,7 +344,7 @@ pub async fn check_d1_version(game_type: &str) -> Result<Option<String>> {
         return Ok(None);
     }
 
-    println!("D1 version: {}", version);
+    println!("D1 version: {version}");
     Ok(Some(version))
 }
 
@@ -365,8 +364,7 @@ pub async fn generate_differential_update(
     to_version: &str,
 ) -> Result<()> {
     println!(
-        "Generating differential update from {} to {}",
-        from_version, to_version
+        "Generating differential update from {from_version} to {to_version}"
     );
 
     // Connect to both databases
@@ -383,8 +381,7 @@ pub async fn generate_differential_update(
     // Add header comment
     writeln!(
         update_file,
-        "-- Differential update from {} to {}",
-        from_version, to_version
+        "-- Differential update from {from_version} to {to_version}"
     )?;
     writeln!(update_file, "PRAGMA foreign_keys = off;")?;
     writeln!(update_file, "BEGIN TRANSACTION;")?;
@@ -403,8 +400,7 @@ pub async fn generate_differential_update(
 
     writeln!(
         update_file,
-        "UPDATE version SET url = '{}' WHERE id = 0;",
-        current_version_url
+        "UPDATE version SET url = '{current_version_url}' WHERE id = 0;"
     )?;
 
     // Process to ensure referenced entities exist before files operations:
@@ -426,8 +422,7 @@ pub async fn generate_differential_update(
     writeln!(update_file, "PRAGMA foreign_keys = on;")?;
 
     println!(
-        "Differential update SQL file generated at {:?}",
-        update_sql_path
+        "Differential update SQL file generated at {update_sql_path:?}"
     );
 
     Ok(())
@@ -479,16 +474,14 @@ async fn compare_and_update_bundles(
     }
 
     // Batch delete removed bundles (by name)
-    for chunk in &prev_bundles
-        .iter()
-        .map(|(name, _)| name)
+    for chunk in &prev_bundles.keys()
         .filter(|name| !current_bundles.contains_key(*name))
         .chunks(SQLITE_MAX_VARIABLE_NUMBER)
     {
         let stmt = Bundles::delete_many()
             .filter(bundles::Column::Name.is_in(chunk))
             .build(Sqlite);
-        writeln!(update_file, "{};", stmt)?;
+        writeln!(update_file, "{stmt};")?;
     }
 
     // Collect added or modified bundles for upsert
@@ -555,33 +548,25 @@ async fn compare_and_update_dirs(
     let mut prev_dirs: BTreeMap<String, Option<String>> = BTreeMap::new();
     for row in prev_dirs_rows {
         let name = row.try_get::<String>("", "name")?;
-        let parent_name: Option<String> = match row.try_get::<String>("", "parent_name") {
-            Ok(val) => Some(val),
-            Err(_) => None,
-        };
+        let parent_name: Option<String> = row.try_get::<String>("", "parent_name").ok();
         prev_dirs.insert(name, parent_name);
     }
 
     let mut current_dirs: BTreeMap<String, Option<String>> = BTreeMap::new();
     for row in current_dirs_rows {
         let name = row.try_get::<String>("", "name")?;
-        let parent_name: Option<String> = match row.try_get::<String>("", "parent_name") {
-            Ok(val) => Some(val),
-            Err(_) => None,
-        };
+        let parent_name: Option<String> = row.try_get::<String>("", "parent_name").ok();
         current_dirs.insert(name, parent_name);
     }
 
-    for chunk in &prev_dirs
-        .iter()
-        .map(|(name, _)| name)
+    for chunk in &prev_dirs.keys()
         .filter(|name| !current_dirs.contains_key(*name))
         .chunks(SQLITE_MAX_VARIABLE_NUMBER)
     {
         let stmt = Dirs::delete_many()
             .filter(dirs::Column::Name.is_in(chunk))
             .build(Sqlite);
-        writeln!(update_file, "{};", stmt)?;
+        writeln!(update_file, "{stmt};")?;
     }
 
     let mut to_update = Vec::new();
@@ -591,7 +576,7 @@ async fn compare_and_update_dirs(
 
     // Find added or modified dirs
     for chunk in to_update.chunks(SQLITE_MAX_VARIABLE_NUMBER / 2) {
-        if chunk.len() == 0 {
+        if chunk.is_empty() {
             continue;
         }
         write!(update_file, "INSERT INTO dirs (name, parent) VALUES",)?;
@@ -707,7 +692,7 @@ async fn compare_and_update_files(
         let stmt = Files::delete_many()
             .filter(files::Column::Hash.is_in(chunk.copied()))
             .build(Sqlite);
-        writeln!(update_file, "{};", stmt)?;
+        writeln!(update_file, "{stmt};")?;
     }
 
     // Collect added or modified files for upsert

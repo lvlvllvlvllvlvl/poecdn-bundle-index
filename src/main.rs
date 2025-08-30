@@ -91,7 +91,7 @@ async fn main() -> anyhow::Result<()> {
                 Some(p) => p,
                 None => {
                     let mut p = current.clone();
-                    p.set_file_name(format!("update-{}-to-{}.sql", from_version, to_version));
+                    p.set_file_name(format!("update-{from_version}-to-{to_version}.sql"));
                     p
                 }
             };

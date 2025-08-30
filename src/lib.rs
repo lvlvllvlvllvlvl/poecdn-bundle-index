@@ -33,7 +33,7 @@ fn get_game_type(addr: &str) -> &'static str {
 
 pub async fn run(addr: &str, out_dir: &str) -> Result<(), Error> {
     let game_type = get_game_type(addr);
-    println!("Processing {} data", game_type);
+    println!("Processing {game_type} data");
 
     // Create output directory if it doesn't exist
     let _ = fs::remove_dir_all(out_dir);
@@ -62,14 +62,14 @@ async fn diff_db(out_dir: &str, game_type: &str, current_version: String) -> Res
     // Create the database (this is needed for the differential update)
     let _conn = db::create_database(&out_dir_path).await?;
 
-    println!("Current version: {}", current_version);
+    println!("Current version: {current_version}");
 
     // Check if we should generate a differential update
     let prev_db_path = out_dir_path.join("previous_bundle_index.sqlite");
 
     // Try to download the previous database
     if let Err(e) = download_previous_database(game_type, &prev_db_path).await {
-        println!("Could not download previous database: {}", e);
+        println!("Could not download previous database: {e}");
         println!("Skipping differential update generation");
         return Ok(());
     }
@@ -84,24 +84,22 @@ async fn diff_db(out_dir: &str, game_type: &str, current_version: String) -> Res
     let prev_version = match get_version(&prev_conn).await {
         Ok(prev_version_url) => extract_version_from_url(&prev_version_url),
         Err(e) => {
-            println!("Could not get version from previous database: {}", e);
+            println!("Could not get version from previous database: {e}");
             println!("Skipping differential update generation");
             return Ok(());
         }
     };
 
-    println!("Previous version: {}", prev_version);
+    println!("Previous version: {prev_version}");
 
     // If versions are different, generate a differential update
     if current_version != prev_version {
         let update_sql_path = out_dir_path.join(format!(
-            "update-{}-to-{}.sql",
-            prev_version, current_version
+            "update-{prev_version}-to-{current_version}.sql"
         ));
 
         println!(
-            "Generating differential update from {} to {}",
-            prev_version, current_version
+            "Generating differential update from {prev_version} to {current_version}"
         );
         generate_differential_update(
             &prev_db_path,
@@ -121,12 +119,11 @@ async fn diff_db(out_dir: &str, game_type: &str, current_version: String) -> Res
                 let marker_path = out_dir_path.join("use_update_script");
                 fs::write(
                     marker_path,
-                    format!("{}\n{}", prev_version, current_version),
+                    format!("{prev_version}\n{current_version}"),
                 )?;
             } else {
                 println!(
-                    "D1 version ({}) does not match previous version ({}), full rebuild required",
-                    d1_version, prev_version
+                    "D1 version ({d1_version}) does not match previous version ({prev_version}), full rebuild required"
                 );
             }
         } else {
@@ -139,14 +136,14 @@ async fn diff_db(out_dir: &str, game_type: &str, current_version: String) -> Res
 }
 
 fn get_cdn_urls(addr: &str, out_dir: &str) -> Result<(HashSet<String>, String), Error> {
-    println!("Connecting to {}", addr);
+    println!("Connecting to {addr}");
 
     let mut stream = TcpStream::connect(addr)?;
 
     stream.write_all(&[1, 7])?;
     let mut buf = [0; 1000];
     let read = stream.read(&mut buf)?;
-    println!("Read {} bytes", read);
+    println!("Read {read} bytes");
     assert!(read > 33);
 
     let mut urls = Vec::new();
@@ -158,7 +155,7 @@ fn get_cdn_urls(addr: &str, out_dir: &str) -> Result<(HashSet<String>, String), 
         if len == 0 {
             continue;
         } else if len > data.len() {
-            eprintln!("len {} too big", len);
+            eprintln!("len {len} too big");
             break;
         }
         let raw = data
@@ -177,7 +174,7 @@ fn get_cdn_urls(addr: &str, out_dir: &str) -> Result<(HashSet<String>, String), 
         .first()
         .ok_or_else(|| anyhow::anyhow!("No URLs found"))?;
     let current_version = extract_version_from_url(first_url);
-    println!("Current version: {}", current_version);
+    println!("Current version: {current_version}");
 
     // Save URLs to JSON file
     let raw = base64::prelude::BASE64_STANDARD_NO_PAD.encode(&buf[..read]);
@@ -196,5 +193,4 @@ pub async fn run_offline_from_index(
 ) -> Result<(), Error> {
     process_bundle_from_local_index(url, out_dir, index_path)
         .await
-        .map_err(|e| e.into())
 }

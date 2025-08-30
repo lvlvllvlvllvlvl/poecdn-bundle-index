@@ -21,8 +21,7 @@ pub fn decompress<T: Read>(f: &mut T) -> Result<Vec<u8>> {
     // granularity u32,
     let granularity = read_u32(f)? as usize;
     println!(
-        "uncompressed size: {}, block count: {}, granularity: {}",
-        uncompressed_size, block_count, granularity
+        "uncompressed size: {uncompressed_size}, block count: {block_count}, granularity: {granularity}"
     );
     buf.reserve(uncompressed_size - 20);
     // unknown [u32; 4]

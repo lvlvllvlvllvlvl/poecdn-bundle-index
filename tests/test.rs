@@ -13,7 +13,7 @@ fn unique_temp_dir(prefix: &str) -> PathBuf {
         .duration_since(UNIX_EPOCH)
         .unwrap()
         .as_nanos();
-    p.push(format!("{}_{}", prefix, nanos));
+    p.push(format!("{prefix}_{nanos}"));
     p
 }
 
@@ -120,8 +120,8 @@ async fn diff_update_3_26() -> Result<()> {
     let curr_version_url = db::get_version(&curr_db_conn).await?;
     let from_version = db::extract_version_from_url(&prev_version_url);
     let to_version = db::extract_version_from_url(&curr_version_url);
-    println!("from_version: {}", from_version);
-    println!("to_version: {}", to_version);
+    println!("from_version: {from_version}");
+    println!("to_version: {to_version}");
 
     // Create an update.sql in a temp folder.
     let diff_out_dir = unique_temp_dir("poe_diff");
@@ -505,7 +505,7 @@ pub async fn test_differential_update() -> Result<()> {
 
     // Create test directories
     let test_dir = Path::new("test-diff-update");
-    println!("Test directory: {:?}", test_dir);
+    println!("Test directory: {test_dir:?}");
 
     if test_dir.exists() {
         println!("Removing existing test directory");
@@ -521,10 +521,10 @@ pub async fn test_differential_update() -> Result<()> {
     let updated_db_path = test_dir.join("updated.sqlite");
     let update_sql_path = test_dir.join("update.sql");
 
-    println!("Previous database path: {:?}", prev_db_path);
-    println!("Current database path: {:?}", current_db_path);
-    println!("Updated database path: {:?}", updated_db_path);
-    println!("Update SQL path: {:?}", update_sql_path);
+    println!("Previous database path: {prev_db_path:?}");
+    println!("Current database path: {current_db_path:?}");
+    println!("Updated database path: {updated_db_path:?}");
+    println!("Update SQL path: {update_sql_path:?}");
 
     // Create test data
     println!("Creating test data");
@@ -580,7 +580,7 @@ pub async fn test_differential_update() -> Result<()> {
     // Print only the first few lines of the update SQL for debugging
     println!("Update SQL first few lines:");
     let sql_preview: String = update_sql.lines().take(5).collect::<Vec<&str>>().join("\n");
-    println!("{}...", sql_preview);
+    println!("{sql_preview}...");
     println!("(SQL file length: {} bytes)", update_sql.len());
 
     println!("Connecting to updated database");
@@ -641,7 +641,7 @@ pub async fn test_differential_update() -> Result<()> {
         );
         // Print at most 5 examples
         if missing_bundles_in_current.len() <= 5 {
-            println!("Missing bundles: {:?}", missing_bundles_in_current);
+            println!("Missing bundles: {missing_bundles_in_current:?}");
         } else {
             println!(
                 "First 5 missing bundles: {:?}",
@@ -670,7 +670,7 @@ pub async fn test_differential_update() -> Result<()> {
         );
         // Print at most 5 examples
         if missing_bundles_in_updated.len() <= 5 {
-            println!("Missing bundles: {:?}", missing_bundles_in_updated);
+            println!("Missing bundles: {missing_bundles_in_updated:?}");
         } else {
             println!(
                 "First 5 missing bundles: {:?}",
@@ -716,7 +716,7 @@ pub async fn test_differential_update() -> Result<()> {
         );
         // Print at most 5 examples
         if missing_files_in_current.len() <= 5 {
-            println!("Missing files: {:?}", missing_files_in_current);
+            println!("Missing files: {missing_files_in_current:?}");
         } else {
             println!(
                 "First 5 missing files: {:?}",
@@ -745,7 +745,7 @@ pub async fn test_differential_update() -> Result<()> {
         );
         // Print at most 5 examples
         if missing_files_in_updated.len() <= 5 {
-            println!("Missing files: {:?}", missing_files_in_updated);
+            println!("Missing files: {missing_files_in_updated:?}");
         } else {
             println!(
                 "First 5 missing files: {:?}",
@@ -835,8 +835,7 @@ pub async fn verify_database_matches_csv() -> Result<()> {
     }
     assert!(
         missing_bundles_in_csv.is_empty(),
-        "Found bundles in database that are not in CSV: {:?}",
-        missing_bundles_in_csv
+        "Found bundles in database that are not in CSV: {missing_bundles_in_csv:?}"
     );
 
     // Verify that all bundles in the CSV file are in the database
@@ -858,8 +857,7 @@ pub async fn verify_database_matches_csv() -> Result<()> {
     } else {
         assert!(
             missing_bundles_in_csv.is_empty(),
-            "Found bundles in CSV that are not in database: {:?}",
-            missing_bundles_in_db
+            "Found bundles in CSV that are not in database: {missing_bundles_in_db:?}"
         );
     }
 
@@ -883,15 +881,14 @@ pub async fn verify_database_matches_csv() -> Result<()> {
             .expect("Failed to parse hash from CSV");
         let path = record.get(1).unwrap_or("").to_string();
         let bundle = record.get(2).unwrap_or("").to_string();
-        let offset = record.get(3).map(|s| s.parse::<u32>().ok()).flatten();
-        let size = record.get(4).map(|s| s.parse::<u32>().ok()).flatten();
+        let offset = record.get(3).and_then(|s| s.parse::<u32>().ok());
+        let size = record.get(4).and_then(|s| s.parse::<u32>().ok());
 
         // Recompute hash and verify it matches the CSV hash
         let recomputed = murmurhash64::murmur_hash64a(path.as_bytes(), 0x1337b33f);
         assert_eq!(
             recomputed, hash,
-            "Recomputed hash does not match CSV hash for {}",
-            path
+            "Recomputed hash does not match CSV hash for {path}"
         );
 
         csv_files.insert((hash, path, bundle, offset, size));
@@ -916,8 +913,7 @@ pub async fn verify_database_matches_csv() -> Result<()> {
     } else {
         assert!(
             missing_or_mismatch_in_db.is_empty(),
-            "Found files in CSV that are not in database or hash mismatch: {:?}",
-            missing_or_mismatch_in_db
+            "Found files in CSV that are not in database or hash mismatch: {missing_or_mismatch_in_db:?}"
         );
     }
 

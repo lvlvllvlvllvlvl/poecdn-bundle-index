@@ -1,7 +1,5 @@
 use anyhow::Result;
 use itertools::Itertools;
-use murmurhash64;
-use reqwest;
 use sanitize_filename::Options;
 use sea_orm::{
     ActiveValue, ConnectionTrait, DbConn, EntityTrait, QueryTrait, Statement, TransactionTrait,
@@ -28,7 +26,7 @@ fn prepare_output_directory(url_str: &str, out_dir: &str) -> Result<(PathBuf, Pa
     let dir = [
         out_dir,
         base.domain().unwrap_or(""),
-        base.path().trim_start_matches(|c| c == '/'),
+        base.path().trim_start_matches('/'),
     ]
     .iter()
     .collect::<PathBuf>()
@@ -204,7 +202,7 @@ async fn generate_sql_files<'a>(
         }));
         let stmt = insert.build(conn.get_database_backend());
         // Write a copy of the statement to the sql file
-        writeln!(bundles_writer, "{}", stmt)?;
+        writeln!(bundles_writer, "{stmt}")?;
         // Run the same statement on the db
         insert.exec(&tx).await?;
     }
@@ -219,7 +217,7 @@ async fn generate_sql_files<'a>(
             parent: ActiveValue::Set(dir.parent),
         }));
         let stmt = insert.build(conn.get_database_backend());
-        writeln!(dirs_writer, "{}", stmt)?;
+        writeln!(dirs_writer, "{stmt}")?;
         insert.exec(&tx).await?;
     }
 
@@ -243,7 +241,7 @@ async fn generate_sql_files<'a>(
             }
         }));
         let stmt = insert.build(conn.get_database_backend());
-        writeln!(files_writer, "{}", stmt)?;
+        writeln!(files_writer, "{stmt}")?;
         insert.exec(&tx).await?;
     }
 
@@ -254,7 +252,7 @@ async fn generate_sql_files<'a>(
         .values([0.into(), url_str.into()])?
         .to_string(SqliteQueryBuilder);
     let mut version_writer = fs::File::create(out_dir.join("version.sql"))?;
-    writeln!(version_writer, "{};", version_sql)?;
+    writeln!(version_writer, "{version_sql};")?;
 
     // Insert version into the database
     db::insert_version(&tx, url_str).await?;
@@ -321,7 +319,7 @@ pub async fn process_bundle_bytes(
                 .or_insert_with(BTreeMap::new)
                 .insert(name, file);
         } else {
-            println!("File not found in index bundle: {}", filename);
+            println!("File not found in index bundle: {filename}");
         }
     }
 
