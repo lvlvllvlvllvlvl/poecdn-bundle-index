@@ -16,8 +16,9 @@ UPDATE_FILE="${GAME_DIR}"/update-*.sql
 
 rebuild_from_scratch() {
   echo "PRAGMA defer_foreign_keys = on;" > "${OUTFILE}"
-  cat sql/{drop_tables,create_tables,create_indexes}.sql >> "${OUTFILE}"
+  cat sql/{drop,create}_tables.sql >> "${OUTFILE}"
   cat "${GAME_DIR}"/{bundles,dirs,files,version}.sql >> "${OUTFILE}"
+  cat sql/create_indexes.sql >> "${OUTFILE}"
 }
 
 if [[ "${FORCE_REBUILD}" == "true" ]]; then
