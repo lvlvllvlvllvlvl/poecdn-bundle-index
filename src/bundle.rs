@@ -203,7 +203,7 @@ async fn generate_sql_files<'a>(
         }));
         let stmt = insert.build(conn.get_database_backend());
         // Write a copy of the statement to the sql file
-        writeln!(bundles_writer, "{stmt}")?;
+        writeln!(bundles_writer, "{stmt};")?;
         // Run the same statement on the db
         insert.exec(&tx).await?;
     }
@@ -218,7 +218,7 @@ async fn generate_sql_files<'a>(
             parent: ActiveValue::Set(dir.parent),
         }));
         let stmt = insert.build(conn.get_database_backend());
-        writeln!(dirs_writer, "{stmt}")?;
+        writeln!(dirs_writer, "{stmt};")?;
         insert.exec(&tx).await?;
     }
 
@@ -249,7 +249,7 @@ async fn generate_sql_files<'a>(
                 }
             }));
         let stmt = insert.build(conn.get_database_backend());
-        writeln!(files_writer, "{stmt}")?;
+        writeln!(files_writer, "{stmt};")?;
         insert.exec(&tx).await?;
     }
 
