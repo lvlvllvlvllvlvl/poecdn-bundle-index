@@ -12,7 +12,7 @@ use std::collections::BTreeMap;
 use std::fs;
 use std::path::Path;
 
-const SQLITE_MAX_VARIABLE_NUMBER: usize = 999;
+const BATCH_SIZE: usize = 100;
 
 /// Creates a new SQLite database and initializes it with the schema
 pub async fn create_database(out_dir: &Path) -> Result<DbConn> {
@@ -29,18 +29,11 @@ pub async fn create_database(out_dir: &Path) -> Result<DbConn> {
 
     // Read and execute the schema creation SQL
     let schema = fs::read_to_string(Path::new("sql/create_tables.sql"))?;
-    conn.execute(Statement::from_string(
-        sea_orm::DatabaseBackend::Sqlite,
-        schema,
-    ))
-    .await?;
+    conn.execute(Statement::from_string(Sqlite, schema)).await?;
 
     let indexes = fs::read_to_string(Path::new("sql/create_indexes.sql"))?;
-    conn.execute(Statement::from_string(
-        sea_orm::DatabaseBackend::Sqlite,
-        indexes,
-    ))
-    .await?;
+    conn.execute(Statement::from_string(Sqlite, indexes))
+        .await?;
 
     Ok(conn)
 }
@@ -52,7 +45,7 @@ where
 {
     // Use a raw SQL query with INSERT OR IGNORE to handle duplicate IDs
     let stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         r#"
         INSERT OR IGNORE INTO bundles (id, name, size)
         VALUES (?, ?, ?)
@@ -72,7 +65,7 @@ where
 {
     // Use a raw SQL query with INSERT OR IGNORE to handle duplicate IDs
     let stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         r#"
         INSERT OR IGNORE INTO dirs (id, name, parent)
         VALUES (?, ?, ?)
@@ -104,7 +97,7 @@ where
 {
     // Use a raw SQL query with INSERT OR IGNORE to handle duplicate hashes
     let stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         r#"
         INSERT OR IGNORE INTO files (hash, dir, name, bundle, offset, size)
         VALUES (?, ?, ?, ?, ?, ?)
@@ -131,7 +124,7 @@ where
 {
     // Use a raw SQL query with INSERT OR IGNORE to handle duplicate IDs
     let stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         r#"
         INSERT OR IGNORE INTO version (id, url)
         VALUES (?, ?)
@@ -154,10 +147,7 @@ where
         .all(conn)
         .await?;
 
-    let result = bundles
-        .into_iter()
-        .map(|b| (b.name, b.size))
-        .collect();
+    let result = bundles.into_iter().map(|b| (b.name, b.size)).collect();
 
     Ok(result)
 }
@@ -169,7 +159,7 @@ where
 {
     // Use a raw SQL query and also fetch bundle size to mimic CSV semantics for offset/size
     let stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         r#"
         SELECT 
             d.name || '/' || f.name AS path,
@@ -218,7 +208,7 @@ where
 {
     // Use a raw SQL query and also fetch bundle size to mimic CSV semantics for offset/size
     let stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         r#"
         SELECT 
             f.hash AS hash,
@@ -296,11 +286,8 @@ pub async fn download_previous_database(game_type: &str, output_path: &Path) -> 
 
 /// Gets the version from a database
 pub async fn get_version(conn: &DbConn) -> Result<String> {
-    let stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
-        "SELECT url FROM version WHERE id = 0",
-        vec![],
-    );
+    let stmt =
+        Statement::from_sql_and_values(Sqlite, "SELECT url FROM version WHERE id = 0", vec![]);
 
     let row = conn
         .query_one(stmt)
@@ -363,9 +350,7 @@ pub async fn generate_differential_update(
     from_version: &str,
     to_version: &str,
 ) -> Result<()> {
-    println!(
-        "Generating differential update from {from_version} to {to_version}"
-    );
+    println!("Generating differential update from {from_version} to {to_version}");
 
     // Connect to both databases
     let prev_db_url = format!("sqlite:{}?mode=ro", prev_db_path.to_string_lossy());
@@ -387,11 +372,8 @@ pub async fn generate_differential_update(
     writeln!(update_file, "BEGIN TRANSACTION;")?;
 
     // Update version
-    let current_version_stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
-        "SELECT url FROM version WHERE id = 0",
-        vec![],
-    );
+    let current_version_stmt =
+        Statement::from_sql_and_values(Sqlite, "SELECT url FROM version WHERE id = 0", vec![]);
     let current_version_row = current_conn
         .query_one(current_version_stmt)
         .await?
@@ -421,9 +403,7 @@ pub async fn generate_differential_update(
     writeln!(update_file, "COMMIT;")?;
     writeln!(update_file, "PRAGMA foreign_keys = on;")?;
 
-    println!(
-        "Differential update SQL file generated at {update_sql_path:?}"
-    );
+    println!("Differential update SQL file generated at {update_sql_path:?}");
 
     Ok(())
 }
@@ -444,13 +424,13 @@ async fn compare_and_update_bundles(
 
     // Get bundles from both databases by name
     let prev_bundles_stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         "SELECT name, size FROM bundles ORDER BY name",
         vec![],
     );
 
     let current_bundles_stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         "SELECT name, size FROM bundles ORDER BY name",
         vec![],
     );
@@ -474,9 +454,10 @@ async fn compare_and_update_bundles(
     }
 
     // Batch delete removed bundles (by name)
-    for chunk in &prev_bundles.keys()
+    for chunk in &prev_bundles
+        .keys()
         .filter(|name| !current_bundles.contains_key(*name))
-        .chunks(SQLITE_MAX_VARIABLE_NUMBER)
+        .chunks(BATCH_SIZE)
     {
         let stmt = Bundles::delete_many()
             .filter(bundles::Column::Name.is_in(chunk))
@@ -494,7 +475,7 @@ async fn compare_and_update_bundles(
     }
 
     // Batch upsert bundles using ON CONFLICT(name)
-    for chunk in to_upsert.chunks(SQLITE_MAX_VARIABLE_NUMBER / 2) {
+    for chunk in to_upsert.chunks(BATCH_SIZE) {
         if chunk.is_empty() {
             continue;
         }
@@ -530,13 +511,13 @@ async fn compare_and_update_dirs(
 
     // Get dirs with parent names for both databases
     let prev_dirs_stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         "SELECT d.name AS name, p.name AS parent_name FROM dirs d LEFT JOIN dirs p ON d.parent = p.id ORDER BY d.name",
         vec![],
     );
 
     let current_dirs_stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         "SELECT d.name AS name, p.name AS parent_name FROM dirs d LEFT JOIN dirs p ON d.parent = p.id ORDER BY d.name",
         vec![],
     );
@@ -559,9 +540,10 @@ async fn compare_and_update_dirs(
         current_dirs.insert(name, parent_name);
     }
 
-    for chunk in &prev_dirs.keys()
+    for chunk in &prev_dirs
+        .keys()
         .filter(|name| !current_dirs.contains_key(*name))
-        .chunks(SQLITE_MAX_VARIABLE_NUMBER)
+        .chunks(BATCH_SIZE)
     {
         let stmt = Dirs::delete_many()
             .filter(dirs::Column::Name.is_in(chunk))
@@ -575,7 +557,7 @@ async fn compare_and_update_dirs(
     }
 
     // Find added or modified dirs
-    for chunk in to_update.chunks(SQLITE_MAX_VARIABLE_NUMBER / 2) {
+    for chunk in to_update.chunks(BATCH_SIZE) {
         if chunk.is_empty() {
             continue;
         }
@@ -646,13 +628,13 @@ async fn compare_and_update_files(
 
     // Get files from both databases with dir and bundle names
     let prev_files_stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         "SELECT f.hash AS hash, d.name AS dir_name, f.name AS file_name, b.name AS bundle_name, f.offset AS offset, f.size AS size FROM files f JOIN dirs d ON f.dir = d.id JOIN bundles b ON f.bundle = b.id ORDER BY f.hash",
         vec![],
     );
 
     let current_files_stmt = Statement::from_sql_and_values(
-        sea_orm::DatabaseBackend::Sqlite,
+        Sqlite,
         "SELECT f.hash AS hash, d.name AS dir_name, f.name AS file_name, b.name AS bundle_name, f.offset AS offset, f.size AS size FROM files f JOIN dirs d ON f.dir = d.id JOIN bundles b ON f.bundle = b.id ORDER BY f.hash",
         vec![],
     );
@@ -687,7 +669,7 @@ async fn compare_and_update_files(
     for chunk in &prev_files
         .keys()
         .filter(|hash| !current_files.contains_key(*hash))
-        .chunks(SQLITE_MAX_VARIABLE_NUMBER)
+        .chunks(BATCH_SIZE)
     {
         let stmt = Files::delete_many()
             .filter(files::Column::Hash.is_in(chunk.copied()))
@@ -705,17 +687,27 @@ async fn compare_and_update_files(
                     && pbundle == bundle_name
                     && poff == offset
                     && psz == size => {}
-            _ => to_upsert.push((*hash, dir_name.clone(), file_name.clone(), bundle_name.clone(), *offset, *size)),
+            _ => to_upsert.push((
+                *hash,
+                dir_name.clone(),
+                file_name.clone(),
+                bundle_name.clone(),
+                *offset,
+                *size,
+            )),
         }
     }
 
     // Batch upsert files using ON CONFLICT(hash)
-    for chunk in to_upsert.chunks(SQLITE_MAX_VARIABLE_NUMBER / 6) {
+    for chunk in to_upsert.chunks(BATCH_SIZE) {
         if chunk.is_empty() {
             continue;
         }
         use std::io::Write as _;
-        write!(update_file, "INSERT INTO files (hash, dir, name, bundle, offset, size) VALUES")?;
+        write!(
+            update_file,
+            "INSERT INTO files (hash, dir, name, bundle, offset, size) VALUES"
+        )?;
         let mut comma = "";
         for (hash, dir_name, file_name, bundle_name, offset, size) in chunk {
             write!(
