@@ -15,6 +15,7 @@ GAME_DIR="output/${GAME}"
 UPDATE_FILE="${GAME_DIR}"/update-*.sql
 
 rebuild_from_scratch() {
+  ls "$GAME_DIR"
   echo "PRAGMA defer_foreign_keys = on;" > "${OUTFILE}"
   cat sql/{drop,create}_tables.sql >> "${OUTFILE}"
   cat "${GAME_DIR}"/{bundles,dirs,files,version}.sql >> "${OUTFILE}"
@@ -28,6 +29,6 @@ elif [[ -f "$UPDATE_FILE" ]]; then
   echo "Using update script for ${GAME}: ${UPDATE_FILE}"
   cp "${UPDATE_FILE}" "${OUTFILE}"
 else
-  echo "Rebuilding ${GAME} database from scratch"
+  echo "Update file $UPDATE_FILE not found. Rebuilding ${GAME} database from scratch"
   rebuild_from_scratch
 fi

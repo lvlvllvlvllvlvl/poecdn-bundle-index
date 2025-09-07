@@ -21,10 +21,15 @@ BASE_URL="https://lvlvllvlvllvlvl.github.io/poecdn-bundle-index/${GAME}"
 
 # Query server for current CDN version URL and fetch known URLs list
 SERVER_VERSION=$(curl -fsSL "${SERVER}/version?poe=${POE_NUM}") # e.g. https://patch.poecdn.com/3.26.0.12/
-KNOWN_URLS=$(curl -fsSL "${BASE_URL}/urls.json")
+CURR_VERSION=$(cat "$DIR/urls.json")
+PREV_VERSION=$(curl -fsSL "${BASE_URL}/urls.json")
 
-# If the server version URL is already known, we can compute a differential update
-if [[ "$KNOWN_URLS" == *"$SERVER_VERSION"* ]]; then
+
+
+if [[ "$CURR_VERSION" == *"$SERVER_VERSION"* ]]; then
+  echo "Still on $SERVER_VERSION, no changes"
+  touch "$DIR/update-not-required.sql"
+elif [[ "$PREV_VERSION" == *"$SERVER_VERSION"* ]]; then
   echo "Known version detected for ${GAME}: ${SERVER_VERSION}"
   curl -fsSL "${BASE_URL}/bundle_index.sqlite" -o "$DIR/previous_bundle_index.sqlite"
   # Generate differential update SQL next to the current database
