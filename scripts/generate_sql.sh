@@ -12,7 +12,7 @@ fi
 
 OUTFILE="${GAME}.sql"
 GAME_DIR="output/${GAME}"
-UPDATE_FILE="${GAME_DIR}"/update-*.sql
+UPDATE_FILE=("${GAME_DIR}"/update-*.sql)
 
 rebuild_from_scratch() {
   ls "$GAME_DIR"
@@ -26,8 +26,8 @@ if [[ "${FORCE_REBUILD}" == "true" ]]; then
   echo "Forced rebuild for ${GAME} via workflow_dispatch input"
   rebuild_from_scratch
 elif [[ -f "$UPDATE_FILE" ]]; then
-  echo "Using update script for ${GAME}: ${UPDATE_FILE}"
-  cp "${UPDATE_FILE}" "${OUTFILE}"
+  echo "Using update script for ${GAME}: ${UPDATE_FILE[*]}"
+  cat "${UPDATE_FILE[@]}" > "${OUTFILE}"
 else
   echo "Update file $UPDATE_FILE not found. Rebuilding ${GAME} database from scratch"
   rebuild_from_scratch
