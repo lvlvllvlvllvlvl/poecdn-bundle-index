@@ -32,15 +32,20 @@ async fn apply_sql_file(sqlite_path: &Path, sql_path: &Path) -> Result<()> {
     let sql = fs::read_to_string(sql_path)
         .with_context(|| format!("Failed to read {}", sql_path.display()))?;
 
-    conn.execute_unprepared(sql.as_str())
-        .await
-        .with_context(|| {
-            format!(
-                "Failed to apply {} to {}",
-                sql_path.display(),
-                sqlite_path.display()
-            )
-        })?;
+    conn.transaction(|tx| {
+        tx.execute(Statement::from_string(
+            sea_orm::DatabaseBackend::Sqlite,
+            sql.as_str(),
+        ))
+    })
+    .await
+    .with_context(|| {
+        format!(
+            "Failed to apply {} to {}",
+            sql_path.display(),
+            sqlite_path.display()
+        )
+    })?;
 
     Ok(())
 }
@@ -604,10 +609,12 @@ pub async fn test_differential_update() -> Result<()> {
 
     println!("Executing update SQL");
     updated_conn
-        .execute(Statement::from_string(
-            sea_orm::DatabaseBackend::Sqlite,
-            update_sql,
-        ))
+        .transaction(|tx| {
+            tx.execute(Statement::from_string(
+                sea_orm::DatabaseBackend::Sqlite,
+                update_sql,
+            ))
+        })
         .await
         .expect("Failed to execute update SQL");
 

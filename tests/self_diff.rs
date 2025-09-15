@@ -7,10 +7,7 @@ use std::time::{SystemTime, UNIX_EPOCH};
 
 fn unique_temp_dir(prefix: &str) -> PathBuf {
     let start = SystemTime::now();
-    let since = start
-        .duration_since(UNIX_EPOCH)
-        .unwrap()
-        .as_nanos();
+    let since = start.duration_since(UNIX_EPOCH).unwrap().as_nanos();
     PathBuf::from(format!("tmp/{}_{}", prefix, since))
 }
 
@@ -20,7 +17,9 @@ fn test_asset_path(name: &str) -> PathBuf {
 
 async fn apply_sql_file(sqlite_path: &Path, sql: &str) -> Result<()> {
     let db_url = format!("sqlite:{}?mode=rwc", sqlite_path.to_string_lossy());
-    let conn = Database::connect(&db_url).await.context("connect for apply")?;
+    let conn = Database::connect(&db_url)
+        .await
+        .context("connect for apply")?;
     conn.execute(sea_orm::Statement::from_string(
         sea_orm::DatabaseBackend::Sqlite,
         sql.to_string(),
@@ -99,25 +98,25 @@ pub async fn self_diff_produces_no_updates() -> Result<()> {
         .context("generate self-diff update sql")?;
 
     // Read and check contents for spurious operations
-    let sql = fs::read_to_string(&update_sql_path)?;
+    // Converting to lowercase for case-insensitive comparison
+    let sql = fs::read_to_string(&update_sql_path)?.to_lowercase();
 
-    // Must contain header, pragma, transaction, version update, commit
-    assert!(sql.contains("Differential update from"));
-    assert!(sql.contains("PRAGMA foreign_keys = off;"));
-    assert!(sql.contains("BEGIN TRANSACTION;"));
-    assert!(sql.contains("UPDATE version SET url"));
-    assert!(sql.contains("COMMIT;"));
-    assert!(sql.contains("PRAGMA foreign_keys = on;"));
+    // Must contain header, version update
+    assert!(sql.contains("differential update from"));
+    assert!(sql.contains("update version set url"));
 
     // Must NOT contain any data-changing statements beyond version update
     let forbidden = [
-        "INSERT INTO bundles",
-        "DELETE FROM bundles",
-        "INSERT INTO dirs",
-        "DELETE FROM dirs",
-        "INSERT INTO files",
-        "DELETE FROM files",
-        " ON CONFLICT ",
+        "insert into bundles",
+        "delete from bundles",
+        "insert into dirs",
+        "delete from dirs",
+        "insert into files",
+        "delete from files",
+        " on conflict ",
+        // D1 update is transactional; script should not manage transactions itself
+        "begin transaction",
+        "commit",
     ];
     for needle in &forbidden {
         assert!(

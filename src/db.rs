@@ -378,13 +378,11 @@ pub async fn generate_differential_update(
     let mut update_file = fs::File::create(update_sql_path)?;
     use std::io::Write;
 
-    // Add header comment
     writeln!(
         update_file,
         "-- Differential update from {from_version} to {to_version}"
     )?;
-    writeln!(update_file, "PRAGMA foreign_keys = off;")?;
-    writeln!(update_file, "BEGIN TRANSACTION;")?;
+    writeln!(update_file, "PRAGMA defer_foreign_keys = on;")?;
 
     // Update version
     let current_version_stmt = Statement::from_sql_and_values(
@@ -416,10 +414,6 @@ pub async fn generate_differential_update(
 
     // Compare and update files
     compare_and_update_files(&prev_conn, &current_conn, &mut update_file).await?;
-
-    // End transaction
-    writeln!(update_file, "COMMIT;")?;
-    writeln!(update_file, "PRAGMA foreign_keys = on;")?;
 
     println!(
         "Differential update SQL file generated at {update_sql_path:?}"
