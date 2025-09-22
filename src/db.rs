@@ -1,5 +1,5 @@
 use crate::entity::prelude::*;
-use crate::entity::{bundles, dirs, files};
+use crate::entity::{bundles, files};
 use anyhow::{Context, Result};
 use itertools::Itertools;
 use reqwest::Client;
@@ -382,7 +382,7 @@ pub async fn generate_differential_update(
         update_file,
         "-- Differential update from {from_version} to {to_version}"
     )?;
-    writeln!(update_file, "PRAGMA defer_foreign_keys = on;")?;
+    writeln!(update_file, "PRAGMA foreign_keys = on;")?;
 
     // Update version
     let current_version_stmt = Statement::from_sql_and_values(
@@ -406,18 +406,148 @@ pub async fn generate_differential_update(
     // 2. Then, compare and update directories (handle parent relations by name)
     // 3. Finally, compare and update files (reference bundles/dirs by name)
 
-    // Compare and update bundles
+    // Compare and upsert bundles and dirs first, then files, then delete removed dirs/bundles last
     compare_and_update_bundles(&prev_conn, &current_conn, &mut update_file).await?;
-
-    // Compare and update dirs
     compare_and_update_dirs(&prev_conn, &current_conn, &mut update_file).await?;
-
-    // Compare and update files
     compare_and_update_files(&prev_conn, &current_conn, &mut update_file).await?;
+
+    // Now that files reference current bundles/dirs, we can safely delete removed dirs and bundles
+    emit_removed_dirs(&prev_conn, &current_conn, &mut update_file).await?;
+    emit_removed_bundles(&prev_conn, &current_conn, &mut update_file).await?;
 
     println!(
         "Differential update SQL file generated at {update_sql_path:?}"
     );
+
+    Ok(())
+}
+
+/// After files are updated, emit deletions for dirs that no longer exist (safe deletes only)
+async fn emit_removed_dirs(
+    prev_conn: &DbConn,
+    current_conn: &DbConn,
+    update_file: &mut fs::File,
+) -> Result<()> {
+    use std::collections::BTreeMap;
+    use std::io::Write;
+
+    // Get dir names from both databases
+    let prev_dirs_stmt = Statement::from_sql_and_values(
+        sea_orm::DatabaseBackend::Sqlite,
+        "SELECT name FROM dirs ORDER BY name",
+        vec![],
+    );
+    let current_dirs_stmt = Statement::from_sql_and_values(
+        sea_orm::DatabaseBackend::Sqlite,
+        "SELECT name FROM dirs ORDER BY name",
+        vec![],
+    );
+    let prev_rows = prev_conn.query_all(prev_dirs_stmt).await?;
+    let curr_rows = current_conn.query_all(current_dirs_stmt).await?;
+
+    let mut prev_names: BTreeMap<String, ()> = BTreeMap::new();
+    for row in prev_rows {
+        let name = row.try_get::<String>("", "name")?;
+        prev_names.insert(name, ());
+    }
+    let mut curr_names: BTreeMap<String, ()> = BTreeMap::new();
+    for row in curr_rows {
+        let name = row.try_get::<String>("", "name")?;
+        curr_names.insert(name, ());
+    }
+
+    // Compute removed
+    let removed: Vec<String> = prev_names
+        .keys()
+        .filter(|n| !curr_names.contains_key(*n))
+        .cloned()
+        .collect();
+
+    if removed.is_empty() {
+        return Ok(());
+    }
+
+    // Delete only leaf/unreferenced dirs to avoid FK violations
+    // We chunk the IN list to respect SQLite variable limits
+    for chunk in removed.chunks(SQLITE_MAX_VARIABLE_NUMBER) {
+        if chunk.is_empty() {
+            continue;
+        }
+        // Build a parameter list as quoted names (we are generating a file, not executing here)
+        write!(update_file, "DELETE FROM dirs WHERE name IN (")?;
+        let mut comma = "";
+        for name in chunk {
+            // escape single quotes
+            let esc = name.replace("'", "''");
+            write!(update_file, "{}'{}'", comma, esc)?;
+            comma = ",";
+        }
+        writeln!(
+            update_file,
+            ") AND id NOT IN (SELECT parent FROM dirs WHERE parent IS NOT NULL) AND id NOT IN (SELECT dir FROM files);"
+        )?;
+    }
+
+    Ok(())
+}
+
+/// After files are updated, emit deletions for bundles that no longer exist
+async fn emit_removed_bundles(
+    prev_conn: &DbConn,
+    current_conn: &DbConn,
+    update_file: &mut fs::File,
+) -> Result<()> {
+    use std::collections::BTreeMap;
+    use std::io::Write;
+
+    // Get bundle names from both databases
+    let prev_stmt = Statement::from_sql_and_values(
+        sea_orm::DatabaseBackend::Sqlite,
+        "SELECT name FROM bundles ORDER BY name",
+        vec![],
+    );
+    let curr_stmt = Statement::from_sql_and_values(
+        sea_orm::DatabaseBackend::Sqlite,
+        "SELECT name FROM bundles ORDER BY name",
+        vec![],
+    );
+    let prev_rows = prev_conn.query_all(prev_stmt).await?;
+    let curr_rows = current_conn.query_all(curr_stmt).await?;
+
+    let mut prev_names: BTreeMap<String, ()> = BTreeMap::new();
+    for row in prev_rows {
+        let name = row.try_get::<String>("", "name")?;
+        prev_names.insert(name, ());
+    }
+    let mut curr_names: BTreeMap<String, ()> = BTreeMap::new();
+    for row in curr_rows {
+        let name = row.try_get::<String>("", "name")?;
+        curr_names.insert(name, ());
+    }
+
+    let removed: Vec<String> = prev_names
+        .keys()
+        .filter(|n| !curr_names.contains_key(*n))
+        .cloned()
+        .collect();
+
+    if removed.is_empty() {
+        return Ok(());
+    }
+
+    for chunk in removed.chunks(SQLITE_MAX_VARIABLE_NUMBER) {
+        if chunk.is_empty() {
+            continue;
+        }
+        write!(update_file, "DELETE FROM bundles WHERE name IN (")?;
+        let mut comma = "";
+        for name in chunk {
+            let esc = name.replace("'", "''");
+            write!(update_file, "{}'{}'", comma, esc)?;
+            comma = ",";
+        }
+        writeln!(update_file, ");")?;
+    }
 
     Ok(())
 }
@@ -429,7 +559,6 @@ async fn compare_and_update_bundles(
     update_file: &mut fs::File,
 ) -> Result<()> {
     use std::collections::BTreeMap;
-    use std::io::Write;
 
     // Helper to escape single quotes
     fn esc(s: &str) -> String {
@@ -465,17 +594,6 @@ async fn compare_and_update_bundles(
         let name = row.try_get::<String>("", "name")?;
         let size = row.try_get::<i32>("", "size")?;
         current_bundles.insert(name, size);
-    }
-
-    // Batch delete removed bundles (by name)
-    for chunk in &prev_bundles.keys()
-        .filter(|name| !current_bundles.contains_key(*name))
-        .chunks(SQLITE_MAX_VARIABLE_NUMBER)
-    {
-        let stmt = Bundles::delete_many()
-            .filter(bundles::Column::Name.is_in(chunk))
-            .build(Sqlite);
-        writeln!(update_file, "{stmt};")?;
     }
 
     // Collect added or modified bundles for upsert
@@ -551,16 +669,6 @@ async fn compare_and_update_dirs(
         let name = row.try_get::<String>("", "name")?;
         let parent_name: Option<String> = row.try_get::<String>("", "parent_name").ok();
         current_dirs.insert(name, parent_name);
-    }
-
-    for chunk in &prev_dirs.keys()
-        .filter(|name| !current_dirs.contains_key(*name))
-        .chunks(SQLITE_MAX_VARIABLE_NUMBER)
-    {
-        let stmt = Dirs::delete_many()
-            .filter(dirs::Column::Name.is_in(chunk))
-            .build(Sqlite);
-        writeln!(update_file, "{stmt};")?;
     }
 
     let mut to_update = Vec::new();

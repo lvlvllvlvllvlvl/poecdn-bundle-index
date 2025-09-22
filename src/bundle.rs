@@ -183,7 +183,7 @@ async fn generate_sql_files<'a>(
     let tx = conn.begin().await?;
     tx.execute(Statement::from_string(
         conn.get_database_backend(),
-        "PRAGMA defer_foreign_keys = on;",
+        "PRAGMA foreign_keys = ON;",
     ))
     .await?;
 

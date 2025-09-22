@@ -8,7 +8,7 @@ use std::path::{Path, PathBuf};
 use std::time::{SystemTime, UNIX_EPOCH};
 
 fn unique_temp_dir(prefix: &str) -> PathBuf {
-    let mut p = std::env::temp_dir();
+    let mut p = PathBuf::from("tmp");
     let nanos = SystemTime::now()
         .duration_since(UNIX_EPOCH)
         .unwrap()
