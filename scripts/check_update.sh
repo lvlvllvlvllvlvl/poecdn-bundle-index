@@ -31,11 +31,29 @@ if [[ "$CURR_VERSION" == *"$SERVER_VERSION"* ]]; then
   touch "$DIR/update-not-required.sql"
 elif [[ "$PREV_VERSION" == *"$SERVER_VERSION"* ]]; then
   echo "Known version detected for ${GAME}: ${SERVER_VERSION}"
-  curl -fsSL "${BASE_URL}/bundle_index.sqlite" -o "$DIR/previous_bundle_index.sqlite"
+  curl -fsSL "${BASE_URL}/bundle_index.sqlite" -o "$DIR/current_index.sqlite"
+  cp "$DIR/current_index.sqlite" "$DIR/previous_bundle_index.sqlite"
   # Generate differential update SQL next to the current database
-  cargo run --release -- diff-update \
+  # shellcheck disable=SC1009
+  if cargo run --release -- diff-update \
     --previous "$DIR/previous_bundle_index.sqlite" \
-    --current "$DIR/bundle_index.sqlite" || echo diff failed, perform full rebuild
+    --current "$DIR/bundle_index.sqlite"
+  then
+      for UPDATE_FILE in "$DIR"/update-*.sql
+      do
+        echo "Applying update: ${UPDATE_FILE}"
+        sqlite3 "$DIR/bundle_index.sqlite" ".read ${UPDATE_FILE}"
+      done
+
+      if sqlite3 "$DIR/bundle_index.sqlite" ".read scripts/validate.sql"; then
+        echo "validation success"
+      else
+        echo "validation failed; removing generated SQL to perform full rebuild" >&2
+        rm -f "$DIR"/update-*.sql
+      fi
+  else
+    echo "diff failed, perform full rebuild"
+  fi
 else
   echo "No known version match for ${GAME} (server: ${SERVER_VERSION}). Skipping diff-update."
 fi

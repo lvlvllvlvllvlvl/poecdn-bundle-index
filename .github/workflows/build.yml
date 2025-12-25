@@ -28,6 +28,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: Swatinem/rust-cache@v2
+      - uses: ccorsi/setup-sqlite@v1
       - run: cargo run --release -- poe1
       - run: cargo run --release -- poe2
       - uses: stefanzweifel/git-auto-commit-action@v5
