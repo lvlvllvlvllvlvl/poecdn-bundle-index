@@ -233,13 +233,13 @@ impl TestData {
             modified_bundles: vec![(5, "bundle5_old.bin", 5000, "bundle5_new.bin", 5500)],
 
             // Directories that should be preserved (id, name, parent)
-            preserved_dirs: vec![(1, "dir1", None), (2, "dir2", Some(1))],
+            preserved_dirs: vec![(1, "dir1", None), (2, "dir1/dir2", Some(1))],
             // Directories that should be removed (id, name, parent)
-            removed_dirs: vec![(3, "dir3", Some(1))],
+            removed_dirs: vec![(3, "dir1/dir3", Some(1))],
             // Directories that should be added (id, name, parent)
-            added_dirs: vec![(4, "dir4", Some(2))],
+            added_dirs: vec![(4, "dir1/dir2/dir4", Some(2))],
             // Directories that should be modified (id, old_name, old_parent, new_name, new_parent)
-            modified_dirs: vec![(5, "dir5_old", Some(1), "dir5_new", Some(2))],
+            modified_dirs: vec![(5, "dir1/dir5_old", Some(1), "dir1/dir2/dir5_new", Some(2))],
 
             // Files that should be preserved (hash, dir, name, bundle, offset, size)
             preserved_files: vec![

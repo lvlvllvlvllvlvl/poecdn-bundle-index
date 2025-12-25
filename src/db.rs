@@ -8,7 +8,7 @@ use sea_orm::{
     ColumnTrait, ConnectionTrait, Database, DbConn, EntityTrait, QueryFilter, QueryOrder,
     QueryTrait, Statement,
 };
-use std::collections::BTreeMap;
+use std::collections::{BTreeMap, HashSet};
 use std::fs;
 use std::path::Path;
 
@@ -154,10 +154,7 @@ where
         .all(conn)
         .await?;
 
-    let result = bundles
-        .into_iter()
-        .map(|b| (b.name, b.size))
-        .collect();
+    let result = bundles.into_iter().map(|b| (b.name, b.size)).collect();
 
     Ok(result)
 }
@@ -363,9 +360,7 @@ pub async fn generate_differential_update(
     from_version: &str,
     to_version: &str,
 ) -> Result<()> {
-    println!(
-        "Generating differential update from {from_version} to {to_version}"
-    );
+    println!("Generating differential update from {from_version} to {to_version}");
 
     // Connect to both databases
     let prev_db_url = format!("sqlite:{}?mode=ro", prev_db_path.to_string_lossy());
@@ -415,9 +410,7 @@ pub async fn generate_differential_update(
     emit_removed_dirs(&prev_conn, &current_conn, &mut update_file).await?;
     emit_removed_bundles(&prev_conn, &current_conn, &mut update_file).await?;
 
-    println!(
-        "Differential update SQL file generated at {update_sql_path:?}"
-    );
+    println!("Differential update SQL file generated at {update_sql_path:?}");
 
     Ok(())
 }
@@ -632,7 +625,6 @@ async fn compare_and_update_dirs(
     current_conn: &DbConn,
     update_file: &mut fs::File,
 ) -> Result<()> {
-    use std::collections::BTreeMap;
     use std::io::Write;
 
     // Helper to escape single quotes
@@ -643,93 +635,76 @@ async fn compare_and_update_dirs(
     // Get dirs with parent names for both databases
     let prev_dirs_stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
-        "SELECT d.name AS name, p.name AS parent_name FROM dirs d LEFT JOIN dirs p ON d.parent = p.id ORDER BY d.name",
+        "SELECT d.name AS name FROM dirs d ORDER BY d.name",
         vec![],
     );
 
     let current_dirs_stmt = Statement::from_sql_and_values(
         sea_orm::DatabaseBackend::Sqlite,
-        "SELECT d.name AS name, p.name AS parent_name FROM dirs d LEFT JOIN dirs p ON d.parent = p.id ORDER BY d.name",
+        "SELECT d.name AS name FROM dirs d ORDER BY d.name",
         vec![],
     );
 
     let prev_dirs_rows = prev_conn.query_all(prev_dirs_stmt).await?;
     let current_dirs_rows = current_conn.query_all(current_dirs_stmt).await?;
 
-    // Create maps keyed by directory name to parent name (Option<String>)
-    let mut prev_dirs: BTreeMap<String, Option<String>> = BTreeMap::new();
+    // it's not necessary to delete rows, right?
+    let mut dirs_to_remove = HashSet::new();
+    let mut dirs_to_add = BTreeMap::new();
     for row in prev_dirs_rows {
         let name = row.try_get::<String>("", "name")?;
-        let parent_name: Option<String> = row.try_get::<String>("", "parent_name").ok();
-        prev_dirs.insert(name, parent_name);
+        dirs_to_remove.insert(name);
     }
 
-    let mut current_dirs: BTreeMap<String, Option<String>> = BTreeMap::new();
     for row in current_dirs_rows {
         let name = row.try_get::<String>("", "name")?;
-        let parent_name: Option<String> = row.try_get::<String>("", "parent_name").ok();
-        current_dirs.insert(name, parent_name);
+        add_dir_to_update(name, &mut dirs_to_remove, &mut dirs_to_add);
     }
 
-    let mut to_update = Vec::new();
-    for (name, parent_name) in &current_dirs {
-        add_dir_to_update(name, parent_name, &mut to_update, &prev_dirs, &current_dirs);
-    }
-
-    // Find added or modified dirs
-    for chunk in to_update.chunks(SQLITE_MAX_VARIABLE_NUMBER / 2) {
-        if chunk.is_empty() {
-            continue;
-        }
-        write!(update_file, "INSERT INTO dirs (name, parent) VALUES",)?;
-        let mut comma = "";
-        for (name, parent_name) in chunk {
-            if let Some(pn) = parent_name {
-                write!(
-                    update_file,
-                    "{} ('{}', (SELECT id FROM dirs WHERE name='{}'))",
-                    comma,
-                    esc(name),
-                    esc(pn)
-                )?;
-            } else {
-                write!(update_file, "{} ('{}', NULL)", comma, esc(name))?;
+    for depth in dirs_to_add.values() {
+        // Find added or modified dirs
+        for chunk in &depth.iter().chunks(SQLITE_MAX_VARIABLE_NUMBER / 2) {
+            write!(update_file, "INSERT INTO dirs (name, parent) VALUES",)?;
+            let mut comma = "";
+            for name in chunk {
+                if let Some((pn, _)) = name.rsplit_once('/') {
+                    write!(
+                        update_file,
+                        "{} ('{}', (SELECT id FROM dirs WHERE name='{}'))",
+                        comma,
+                        esc(name),
+                        esc(pn)
+                    )?;
+                } else {
+                    write!(update_file, "{} ('{}', NULL)", comma, esc(name))?;
+                }
+                comma = ",";
             }
-            comma = ",";
+            writeln!(update_file, " ON CONFLICT(name) DO NOTHING;")?;
         }
-        writeln!(
-            update_file,
-            " ON CONFLICT (name) DO UPDATE SET parent=excluded.parent;",
-        )?;
     }
 
     Ok(())
 }
 
 fn add_dir_to_update(
-    name: &String,
-    parent_name: &Option<String>,
-    to_update: &mut Vec<(String, Option<String>)>,
-    prev_dirs: &BTreeMap<String, Option<String>>,
-    current_dirs: &BTreeMap<String, Option<String>>,
+    name: String,
+    prev_dirs: &mut HashSet<String>,
+    current_dirs: &mut BTreeMap<usize, HashSet<String>>,
 ) {
-    if let Some(Some(p)) = current_dirs.get(name) {
-        // Ensure that parent is added before any child
-        add_dir_to_update(
-            p,
-            current_dirs.get(p).unwrap(),
-            to_update,
-            prev_dirs,
-            current_dirs,
-        );
+    // If dir is already in the db do nothing
+    if prev_dirs.remove(name.as_str()) {
+        return;
     }
-    if prev_dirs
-        .get(name)
-        .is_none_or(|prev_parent| prev_parent != parent_name)
-        && !to_update.iter().any(|(n, _)| n == name)
-    {
-        to_update.push((name.clone(), parent_name.clone()));
+    let depth = name.chars().filter(|&c| c == '/').count();
+    // Ensure parent is added before child
+    if let Some((parent, _)) = name.rsplit_once('/') {
+        add_dir_to_update(parent.to_string(), prev_dirs, current_dirs);
     }
+    current_dirs
+        .entry(depth)
+        .or_insert_with(HashSet::new)
+        .insert(name);
 }
 
 /// Compares and updates files between two databases
@@ -807,7 +782,14 @@ async fn compare_and_update_files(
                     && pbundle == bundle_name
                     && poff == offset
                     && psz == size => {}
-            _ => to_upsert.push((*hash, dir_name.clone(), file_name.clone(), bundle_name.clone(), *offset, *size)),
+            _ => to_upsert.push((
+                *hash,
+                dir_name.clone(),
+                file_name.clone(),
+                bundle_name.clone(),
+                *offset,
+                *size,
+            )),
         }
     }
 
@@ -817,7 +799,10 @@ async fn compare_and_update_files(
             continue;
         }
         use std::io::Write as _;
-        write!(update_file, "INSERT INTO files (hash, dir, name, bundle, offset, size) VALUES")?;
+        write!(
+            update_file,
+            "INSERT INTO files (hash, dir, name, bundle, offset, size) VALUES"
+        )?;
         let mut comma = "";
         for (hash, dir_name, file_name, bundle_name, offset, size) in chunk {
             write!(
