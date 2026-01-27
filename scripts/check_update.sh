@@ -20,9 +20,9 @@ fi
 BASE_URL="https://lvlvllvlvllvlvl.github.io/poecdn-bundle-index/${GAME}"
 
 # Query server for current CDN version URL and fetch known URLs list
-SERVER_VERSION=$(curl -fsSL "${SERVER}/version?poe=${POE_NUM}") # e.g. https://patch.poecdn.com/3.26.0.12/
+SERVER_VERSION=$(curl -sSL "${SERVER}/version?poe=${POE_NUM}") # e.g. https://patch.poecdn.com/3.26.0.12/
 CURR_VERSION=$(cat "$DIR/urls.json")
-PREV_VERSION=$(curl -fsSL "${BASE_URL}/urls.json")
+PREV_VERSION=$(curl -sSL "${BASE_URL}/urls.json")
 
 
 
