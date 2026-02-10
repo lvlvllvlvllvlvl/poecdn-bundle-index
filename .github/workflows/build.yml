@@ -40,18 +40,22 @@ jobs:
         id: check_poe2_update
         run: scripts/check_update.sh poe2 https://ggpk.exposed
       - name: Generate poe1 sql
+        id: poe1_sql
         run: |
           scripts/generate_sql.sh poe1 "${{ github.event.inputs.force_rebuild_poe1 }}"
+          [ -f poe1.sql ] && echo "exists=exists" >> $GITHUB_OUTPUT
       - name: Generate poe2 sql
+        id: poe2_sql
         run: |
           scripts/generate_sql.sh poe2 "${{ github.event.inputs.force_rebuild_poe2 }}"
+          [ -f poe2.sql ] && echo "exists=exists" >> $GITHUB_OUTPUT
       - name: Upload poe1 sql artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: poe1-sql
           path: poe1.sql
       - name: Upload poe2 sql artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: poe2-sql
           path: poe2.sql
@@ -63,14 +67,16 @@ jobs:
           path: output
     outputs:
       changes_detected: ${{ steps.autocommit.outputs.changes_detected }}
+      poe1: ${{ steps.poe1_sql.outputs.exists }}
+      poe2: ${{ steps.poe2_sql.outputs.exists }}
 
   poe1-upload:
     runs-on: ubuntu-latest
     needs: build
-    if: github.event.inputs.force_rebuild_poe1 == 'true' || needs.build.outputs.changes_detected == 'true'
+    if: (github.event.inputs.force_rebuild_poe1 == 'true' || needs.build.outputs.changes_detected == 'true') && needs.build.outputs.poe1 == 'exists'
     steps:
       - name: Download poe1 sql artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v7
         with:
           name: poe1-sql
       - name: poe1 export
@@ -84,10 +90,10 @@ jobs:
   poe2-upload:
     runs-on: ubuntu-latest
     needs: build
-    if: github.event.inputs.force_rebuild_poe2 == 'true' || needs.build.outputs.changes_detected == 'true'
+    if: (github.event.inputs.force_rebuild_poe2 == 'true' || needs.build.outputs.changes_detected == 'true') && needs.build.outputs.poe2 == 'exists'
     steps:
       - name: Download poe2 sql artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v7
         with:
           name: poe2-sql
       - name: poe2 export
