@@ -43,12 +43,12 @@ jobs:
         id: poe1_sql
         run: |
           scripts/generate_sql.sh poe1 "${{ github.event.inputs.force_rebuild_poe1 }}"
-          [ -f poe1.sql ] && echo "exists=exists" >> $GITHUB_OUTPUT
+          [ -f poe1.sql ] && echo "exists=exists" >> $GITHUB_OUTPUT || echo "exists=no" >> $GITHUB_OUTPUT
       - name: Generate poe2 sql
         id: poe2_sql
         run: |
           scripts/generate_sql.sh poe2 "${{ github.event.inputs.force_rebuild_poe2 }}"
-          [ -f poe2.sql ] && echo "exists=exists" >> $GITHUB_OUTPUT
+          [ -f poe2.sql ] && echo "exists=exists" >> $GITHUB_OUTPUT || echo "exists=no" >> $GITHUB_OUTPUT
       - name: Upload poe1 sql artifact
         uses: actions/upload-artifact@v6
         with:
