@@ -68,12 +68,17 @@ pub fn decode_paths(data: &[u8]) -> Result<Vec<String>> {
             }
             if base_phase {
                 bases.push(full);
-            } else {
+            } else if !skip(full.as_str()) {
                 results.push(full);
             }
         }
     }
     Ok(results)
+}
+
+fn skip(path: &str) -> bool {
+    path.split_once('/')
+        .is_some_and(|(root, _)| root.contains("cache"))
 }
 
 pub fn read_u32<T: Read>(cur: &mut T) -> Result<u32> {
