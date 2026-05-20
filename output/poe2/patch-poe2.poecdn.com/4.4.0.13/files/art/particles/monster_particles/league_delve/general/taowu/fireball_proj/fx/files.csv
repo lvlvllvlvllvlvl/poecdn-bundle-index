@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+f7607fc14b24ba55,ground_bits.mat,Tiny.V3,36424986,3832
+3412a4d866b310e4,ground_bits.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/25FD7F141F300399.raise_armour_01_palm_cu.pet,561884,43876
+e0b3441eebf498e8,ground_bits.dds.header,Tiny.VA,3824784,840
+31a5cf682e1bcfe2,spark_bits.mat,Tiny.V9,37537648,1634
+a92f9e3a69b184e3,spark_bits.dds.header,Tiny.V3,36421808,1520
+fa8b8bf12a986131,projectile_add.mat,Tiny.V7,36834046,3118
+c6f28f847b05eed8,projectile_add.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/E46749CC2AF6D08B.345AAEE6CBE4B43F.trail_mortar.trl,503340,11084
+c2c711b20006225c,projectile_add.dds.header,Tiny.V3,36428818,1520
+731441448344c3c2,fire_bits2_at.mat,Tiny.VE,36580100,2912
+64388b806f9e4619,fire_bits2_at.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/E46749CC2AF6D08B.78CD86EC8B154B13.spark.trl,531160,11108
+c6042cb231944b1c,fire_bits2_at.dds.header,Tiny.V1,36788567,840
+a05aad8d0ac0ee2c,fire_lookup.dds,Tiny.V2,4011399,2212
+061293de5504a947,fire_lookup.dds.header,Tiny.VE,3888491,280

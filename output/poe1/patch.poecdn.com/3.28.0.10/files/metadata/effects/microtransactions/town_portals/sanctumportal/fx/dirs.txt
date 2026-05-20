@@ -1,0 +1,5 @@
+affect_char
+end
+loop
+pre_start
+start

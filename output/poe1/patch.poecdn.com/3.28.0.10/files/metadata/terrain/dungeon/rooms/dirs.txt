@@ -1,0 +1,15 @@
+1x1
+1x2
+2x2
+3x3
+past
+past/1x1
+past/2x2
+past/unique
+present
+present/1x1
+present/2x2
+present/unique
+unique
+unique/gauntlet
+unique/injectors

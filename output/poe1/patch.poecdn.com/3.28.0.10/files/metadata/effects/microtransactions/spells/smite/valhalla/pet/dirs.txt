@@ -1,0 +1,4 @@
+aura
+lightning_ipct
+melee_ipct
+weapon

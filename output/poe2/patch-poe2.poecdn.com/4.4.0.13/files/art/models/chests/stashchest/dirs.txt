@@ -1,0 +1,3 @@
+guildstash
+textures
+townstash

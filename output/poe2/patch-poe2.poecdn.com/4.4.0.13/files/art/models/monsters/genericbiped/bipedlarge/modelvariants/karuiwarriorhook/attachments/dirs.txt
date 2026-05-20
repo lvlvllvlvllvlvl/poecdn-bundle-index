@@ -1,0 +1,5 @@
+hair
+hairfeathers
+robe
+topfeathers
+weapon

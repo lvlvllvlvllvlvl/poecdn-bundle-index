@@ -1,0 +1,6 @@
+epk
+epk/bolted
+impact
+lightning_bolt_aoe
+on_act
+on_act/dash_aoe_sabre_shield_01

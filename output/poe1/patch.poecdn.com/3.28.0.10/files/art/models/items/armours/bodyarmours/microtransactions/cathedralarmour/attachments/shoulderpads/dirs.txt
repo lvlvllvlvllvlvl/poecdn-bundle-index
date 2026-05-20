@@ -1,0 +1,3 @@
+animation
+animation/l_side
+animation/r_side

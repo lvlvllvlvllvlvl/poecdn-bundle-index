@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+f0a8a2ab6de2d710,footballpetcns.mat,Art/Textures/Pet/Football,612392,4142
+84089775cee36e4b,footballpet_specular.mat,Tiny_8,42852778,962
+0963df60ddfe6fd8,footballpet_specular.dds,Art/Textures/Pet/Football,174948,174948
+44a5b6cf802c5133,footballpet_specular.dds.header,Tiny_8,42851938,840
+32b38406985120ec,footballpet_gloss.mat,Tiny_8,42850994,944
+693553fb583aadce,footballpet_gloss.dds,Art/Textures/Pet/Football,0,174948
+6c785fd395630ff9,footballpet_gloss.dds.header,Tiny_8,42850154,840
+2ce8380846f150b1,footballpet_colour.dds,Art/Textures/Pet/Football,349896,87548
+c86634aa82b99c79,footballpet_colour.dds.header,Tiny_8,42849314,840
+25da8fcdba8e5a34,footballpetns.dds,Art/Textures/Pet/Football,437444,174948
+2b00abb93ff06069,footballpetns.dds.header,Tiny_8,42853740,840

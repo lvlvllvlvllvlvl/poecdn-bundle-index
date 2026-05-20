@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+2675b659b6b665f1,blooddecal_offset.fxgraph,Folders/metadata/effects_1,25025991,16682
+33b64acfdf8e1930,itembarrier.fxgraph,Folders/metadata/effects_1,25042673,75002
+9b8117c3c5319a7f,koh_indicator.fxgraph,Folders/metadata/effects_1,25117675,39458
+31537ef19d65a2cd,ruinsurge.fxgraph,Folders/metadata/effects_1,25509993,157804
+3fee04264847f479,trialsspawn.fxgraph,Folders/metadata/effects_1,25965643,108736
+d380dbb7b000fd89,timestop_wavess.fxgraph,Folders/metadata/effects_1,25707269,258374
+44986f20e33e484a,timestop_effect.fxgraph,Folders/metadata/effects_1,25667797,29294
+87c5e1513f3d7e6b,timestop_exclude.fxgraph,Folders/metadata/effects_1,25697091,10178
+1c39618d62a4e6c7,pointerrunes.fxgraph,Folders/metadata/effects_1,25386285,73610
+e00456ea841e82c9,proximitybuff.fxgraph,Folders/metadata/effects_1,25459895,50098
+768f832ca6b7da07,monsterfades.fxgraph,Folders/metadata/effects_1,25157133,58318
+f65954f380ba1e9f,monstermelt.fxgraph,Folders/metadata/effects_1,25215451,89954
+ab20960be0fdcb4e,monstersink.fxgraph,Folders/metadata/effects_1,25305405,80880
+157815b6e39cac6d,altarcracks.fxgraph,Folders/metadata/effects_1,24843691,146238
+8c1d5298c3d81184,altarhit.fxgraph,Folders/metadata/effects_1,24989929,20754
+707ef9c50e4dc357,altarshake.fxgraph,Folders/metadata/effects_1,25010683,15308

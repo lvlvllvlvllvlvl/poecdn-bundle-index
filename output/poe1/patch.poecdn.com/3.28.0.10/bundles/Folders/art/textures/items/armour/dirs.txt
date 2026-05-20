@@ -1,0 +1,7 @@
+body
+body/microtransactions
+boots
+capes
+glove
+helmet
+shields

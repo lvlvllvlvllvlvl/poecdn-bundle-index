@@ -1,0 +1,11 @@
+attachments
+attachments/head_tentacles
+attachments/hood_tentacles
+attachments/loincloth
+attachments/mouth_tentacle
+attachments/quiver
+attachments/rags
+attachments/robe_sides
+attachments/robe_tail
+attachments/shoulder_tentacles
+attachments/tail_tentacles

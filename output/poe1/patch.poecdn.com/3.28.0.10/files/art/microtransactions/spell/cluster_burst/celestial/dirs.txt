@@ -1,0 +1,8 @@
+models
+models/extra_impacts
+models/main_impact
+models/projectile
+textures
+textures/extra_impacts
+textures/main_impact
+textures/projectile

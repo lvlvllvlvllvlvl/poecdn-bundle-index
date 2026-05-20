@@ -1,0 +1,5 @@
+models
+models/aoe
+textures
+textures/aoe
+textures/aoe/fx

@@ -1,0 +1,7 @@
+affected
+caster
+caster/types
+resistance
+resistance/vaal_fire
+resistance/vaal_ice
+resistance/vaal_lightning

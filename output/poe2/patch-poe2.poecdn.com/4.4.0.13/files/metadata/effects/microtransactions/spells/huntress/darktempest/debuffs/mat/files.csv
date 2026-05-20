@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+b970cfe9594f9315,electrocute_glow_r.mat,Tiny.V8.1,18653558,34386
+dc5a46358412f20b,electrocute_beams_r.mat,Tiny.V3.1,20186470,41206
+a1ad6c7cf6fa3a8c,electrocute_beams_large_u.mat,Tiny.VF.1,47796582,4886
+c385bc1afc52040d,electrocute_beams_u.mat,Tiny.VD.1,19880616,4934
+0a7f1d2cb2b452a7,electrocute_pass_large.mat,Tiny.VC.1,21894264,27030
+b05e680c80bab14b,electrocute_pass.mat,Tiny.VE.1,20502590,27024
+0b7140de4b05a022,shockdebuff_skin.mat,Tiny.VA.1,20391636,3664
+3d85aa37957b15c7,shocklightningstart_u.mat,Tiny.VF.1,24125556,3978
+4ed9f972b8afa698,shocklightningstart_r1.mat,Tiny.V6.1,21383030,49880
+7478bc7b13027395,shocklightningstart_r2.mat,Tiny.VF.1,22104312,29886
+7dd220b8a8dadec4,shocklightningstart_r3.mat,Tiny.VA.1,20395300,50702
+331699b30b454812,shocklightning_u.mat,Tiny.V8.1,12948370,1520
+63bfb6d0d03f0756,shocklightning_r.mat,Tiny.V4.1,23643588,52454
+e7151abd08ece21c,shocklightning_ribbonbolt_r.mat,Tiny.VB.1,18752630,43898
+779fd2675d9bbc27,shocklightning_ribbonbolt_u.mat,Tiny.V2.1,22497436,5596

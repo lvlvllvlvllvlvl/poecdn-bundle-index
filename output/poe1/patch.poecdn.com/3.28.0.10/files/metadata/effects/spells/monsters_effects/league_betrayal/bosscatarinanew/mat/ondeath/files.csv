@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+0848b63d47f6bce9,blur.mat,Tiny_D,252774571,11238
+df1dd306fbbcef95,ghost_center.mat,Tiny_D,252889359,31058
+7aa9bc360584b876,trail_center_add.mat,Tiny_D,252941767,28926
+dd94903471d17b14,upward_rays_r.mat,Tiny_D,252970693,73050
+db4998d9a2613ebf,upward_rays_u.mat,Tiny_D,253043743,2260
+532cd629896a89f3,shimmer_r.mat,Tiny_D,252920417,15970
+7370f4b601a77ff0,shimmer_u.mat,Tiny_D,252936387,5380
+043a3a759495bda0,flame_big_r.mat,Tiny_D,252829625,57080
+1b91b892ad5dea0d,flame_big_u2.mat,Tiny_D,252886705,2654
+7132505d39c13b33,fireembers_r.mat,Tiny_D,252785809,30536
+997b87027e4b5894,fireembers_u.mat,Tiny_D,252816345,13280

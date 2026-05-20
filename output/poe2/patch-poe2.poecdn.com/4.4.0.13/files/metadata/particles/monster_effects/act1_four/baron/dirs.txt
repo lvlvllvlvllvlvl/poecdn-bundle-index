@@ -1,0 +1,10 @@
+blood_doublewave
+blood_projectile
+blood_slash
+blood_spikes
+bloodbeam
+modular_blood_wall
+spike_impact
+wall_mortar
+wall_mortar_impact
+wall_projectile

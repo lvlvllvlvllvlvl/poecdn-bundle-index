@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+a09ba46280956a46,tip_wind_turbulence_r.mat,Tiny_D,385701470,55830
+0e05546a3a210691,tip_wind_turbulence_u.mat,Tiny_D,473631259,344
+31dd48f43c14b4e0,suckin_sphere_r.mat,Tiny_D,385673972,27498
+5bdd53fb275bd014,suckin_sphere_u.mat,Tiny_D,473631259,344
+1d350512d032bd86,sparkey_r.mat,Tiny_D,385628252,27976
+798f5c8484c78d10,sparkey_u.mat,Tiny_D,385656228,17744
+03d3fe6e6cd31234,distort_sphere_r.mat,Tiny_D,386723456,11450
+41affc81919cbf2b,distort_sphere_u.mat,Tiny_11,63879857,346
+38e1b09e001b5f37,cyl_mblur_r.mat,Tiny_D,385609816,18436
+4327cca09483093f,cyl_mblur_u.mat,Tiny_11,33276171,338
+d114c7fd6429d5e0,ball_y_explosion_r.mat,Tiny_D,386670790,34230
+76d22960c91cbd11,ball_y_explosion_u.mat,Tiny_11,63879857,346

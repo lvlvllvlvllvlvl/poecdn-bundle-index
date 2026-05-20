@@ -1,0 +1,8 @@
+animations
+animations/doompersonified
+animations/mtx_finisher
+animations/tangledboss
+attachments
+attachments/doughnut
+attachments/doughnut/textures
+textures

@@ -1,0 +1,11 @@
+abyss_soul_trail
+abyss_trail_hand
+mine
+mine_emerge
+mine_explode
+mine_fadeout
+mine_idle
+onact_soul_muzzle
+projectile
+projectile_impact
+soul_impact

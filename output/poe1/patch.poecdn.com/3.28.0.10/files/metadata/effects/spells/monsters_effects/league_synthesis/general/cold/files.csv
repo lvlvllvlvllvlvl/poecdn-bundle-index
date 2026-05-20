@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+a658c2f558dec6b3,on_act_coldcascade.ao,Tiny_D,339553418,5168
+3adb0d7c7c78a752,on_act_coldprojectile.ao,Tiny_D,339558586,6224
+c1bd73299408474a,on_act_coldsoulrend.ao,Tiny_D,339564810,5882
+57ed0a5d9805e915,onact_icespear.ao,Tiny_D,339570692,6070
+c1884bcb9bed6656,onact_voidsandsmall.ao,Tiny_D,339576762,3592
+df3da39f8b2609d8,cold_cascade.ao,Tiny_D,339518902,3544
+97efdf47def0634c,cold_soulrend.epk,Tiny_D,339534170,788
+ce49e3b15f07c438,cold_soulrendbeam.ao,Tiny_D,339551618,1800
+9df9dd4625d06fb9,cold_soulrend_debuff.ao,Tiny_D,339534958,4298
+22ec6bea34a3619a,cold_soulrend_epk_pass0.mat,Tiny_D,339539256,2000
+01fb35659455d431,cold_soulrend_impact.ao,Tiny_D,339543746,4180
+47990c7379415d02,cold_soulrend_proj.ao,Tiny_D,339547926,3692
+8ad4f6b26ac0b8c7,cold_soulrend_fadeout.epk,Tiny_D,339541256,508
+495328dd8ecd0cbf,cold_soulrend_fadeout_epk_pass0.mat,Tiny_D,339541764,1982
+5c01a8926d8a5925,cold_icespear_pierce.ao,Tiny_D,339522446,1662
+85f83654491c3a4c,cold_icespear_proj.ao,Tiny_D,339524108,10062

@@ -1,0 +1,12 @@
+bandit
+blackguard
+cannibals
+crabs
+demon
+gladiators
+kitava
+monkeys
+seawitch
+skeleton
+snake
+undying

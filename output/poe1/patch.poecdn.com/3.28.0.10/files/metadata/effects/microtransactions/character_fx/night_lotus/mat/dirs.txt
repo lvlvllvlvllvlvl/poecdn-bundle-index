@@ -1,0 +1,3 @@
+ground_fx
+on_kill
+petal_burst

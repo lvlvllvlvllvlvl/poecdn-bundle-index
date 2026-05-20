@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+56d6d2da7d410b16,bonevibrate_head_state.fxgraph,Folders/metadata/effects.4,7910628,43354
+8af4523974ce854c,emissive_spherical_objectspace_static_tlf.fxgraph,Folders/metadata/effects.4,8066040,36280
+d860867927419021,field_liquidtypes.fxgraph,Folders/metadata/effects.4,8102320,232300
+8aa6ee4ec55ad361,mask_spherical_objectspace_static_tlf.fxgraph,Folders/metadata/effects.4,8362646,95944
+a61181444093f619,sphere_revealmask_tlf.fxgraph,Folders/metadata/effects.4,8458590,62822
+4bc286944b38da43,gloss_tlf.fxgraph,Folders/metadata/effects.4,8334620,15814
+165c21eff8a74d47,glowadd_tlf.fxgraph,Folders/metadata/effects.4,8350434,12212
+41692ed4fc5edddc,custom_chest_bones.fxgraph,Folders/metadata/effects.4,7953982,24850
+a090c9ff296d60ee,custom_head_bones.fxgraph,Folders/metadata/effects.4,7978832,24858
+c3f6ac4bc96d6287,custom_logic.fxgraph,Folders/metadata/effects.4,8003690,37502
+6bf4a83e0de1c6c9,custom_neck_bones.fxgraph,Folders/metadata/effects.4,8041192,24848

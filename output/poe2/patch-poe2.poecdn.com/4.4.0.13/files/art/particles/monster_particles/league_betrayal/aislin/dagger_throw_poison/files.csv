@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+1d41b34e4a4086fd,throwing_daggerc.mat,Tiny.VD,36828894,5800
+4fb8984d6690a98a,throwing_dagger_specular_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/396CFEEAED7F67D1.CF4BF0957BCA8DA5.groundslam.ao,625242,22052
+f191bdd7b67578ef,throwing_dagger_specular_dxt5.dds.header,Tiny.V7,36517449,504
+f784e7168c616f32,throwing_dagger_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/396CFEEAED7F67D1.CF4BF0957BCA8DA5.groundslam.ao,603190,22052
+5187bcc28c281bab,throwing_dagger_normal_dxt5.dds.header,Tiny.VF,36737657,504
+29b515d8078e0d56,throwing_dagger_glow.dds,Streaming/Content/metadata/effects/spells/monsters_effects/396CFEEAED7F67D1.CF4BF0957BCA8DA5.groundslam.ao,581138,22052
+70d0aef892a4b9c8,throwing_dagger_glow.dds.header,Tiny.VB,37101781,504
+239b0f379e38d985,throwing_dagger_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/396CFEEAED7F67D1.CF4BF0957BCA8DA5.groundslam.ao,559086,22052
+c457322303e042d3,throwing_dagger_colour.dds.header,Tiny.VF,36737153,504

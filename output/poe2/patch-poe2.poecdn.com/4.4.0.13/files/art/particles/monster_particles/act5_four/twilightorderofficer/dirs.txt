@@ -1,0 +1,11 @@
+mb
+mb/frozen_legion
+mb/smite_aura
+mb/warcry
+mb/warcry/animations
+textures
+textures/frozen_legion
+textures/smite_aura
+textures/smite_weapon_buff
+textures/warcry
+textures/warcry_cold

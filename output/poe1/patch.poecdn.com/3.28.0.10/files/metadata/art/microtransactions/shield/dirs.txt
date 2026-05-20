@@ -1,0 +1,5 @@
+archnemesisaurora
+archnemesisaurora/materials
+magnaeclipsis
+poltergeistshield
+poltergeistshield/textures

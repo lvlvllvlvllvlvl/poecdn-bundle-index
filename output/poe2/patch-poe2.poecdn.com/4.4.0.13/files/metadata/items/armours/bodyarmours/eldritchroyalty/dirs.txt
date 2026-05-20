@@ -1,0 +1,7 @@
+attachments
+attachments/dangler
+attachments/purpleskirt
+attachments/purpletassels
+attachments/skirt
+attachments/tassels
+purple

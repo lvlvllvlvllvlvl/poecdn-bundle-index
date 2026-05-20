@@ -1,0 +1,1 @@
+map_device_discharge

@@ -1,0 +1,4 @@
+pet
+pet/explosion_cold
+pet/explosion_fire
+pet/explosion_lightning

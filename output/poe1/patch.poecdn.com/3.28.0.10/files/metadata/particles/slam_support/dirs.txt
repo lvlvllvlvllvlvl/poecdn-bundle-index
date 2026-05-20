@@ -1,0 +1,15 @@
+doryani_touch
+earthquake
+endurance_slam
+endurance_slam/corecracks
+endurance_slam/corecracks_low
+endurance_slam/impact
+endurance_slam/impact_low
+ground_slam
+holy_path
+holy_path/path
+icecrash
+perforate
+perforate/hit_impact
+spike_slam
+sunder

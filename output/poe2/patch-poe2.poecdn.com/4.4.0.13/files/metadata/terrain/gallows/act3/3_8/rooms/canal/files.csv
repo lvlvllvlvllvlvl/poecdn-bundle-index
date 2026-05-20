@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+dd582ec93e21c26c,st_01.arm,Tiny.VE.1,144659525,2754
+e3084af3af14ae38,tri_01.arm,Tiny.V8.1,144651600,2754
+1e368ab947aca0aa,x_01.arm,Tiny.V5.1,146151933,2754
+d92b7abced6f980a,end_01.arm,Tiny.V6.1,146212971,2772
+5ffc3eeeae59e74e,water_sink.arm,Tiny.VF.1,148667328,3030
+da0a6662a580f7a9,water_source.arm,Tiny.V5.1,146148895,3038
+72a77f0c272e39e3,water_source_st.arm,Tiny.V2.1,148566237,3386
+189fc02eaa7df001,cc_01.arm,Tiny.VB.1,146802141,2754
+e8be3277a162ded3,crossing_st_01.arm,Content/data/balance/worldareas/g3_8.vworld,3586392,5758
+12c21cf9b92b9e28,crossing_st_02.arm,Content/data/balance/worldareas/g3_8.vworld,3592150,9016
+345eceddf45c01c1,crossing_st_03.arm,Content/data/balance/worldareas/g3_8.vworld,3601166,7716
+c8456e5a440c9145,crossing_st_04.arm,Content/data/balance/worldareas/g3_8.vworld,3608882,10390

@@ -1,0 +1,4 @@
+female
+female/tassles
+male
+male/tassles

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+bf61cc492debaf47,swordskeleton_armour_56265892.smd,Art/Models/MONSTERS/SwordSkeleton,1018811,558964
+b490ae4ede767945,swordskeleton_armour_56265892.smd.header,Folders/art/models/monsters/tormentedspirit,353437,5835
+b26946f351c18e47,swordskeletonboss.sm,Tiny_3,7717464,632
+4ad0d4be2e1ad2f1,swordskeletonboss_armour_ba2e9755.smd,Art/Models/MONSTERS/SwordSkeleton,625229,393582
+fbd319e385ffdab3,swordskeletonboss_armour_ba2e9755.smd.header,Folders/art/models/monsters/tormentedspirit,359272,5835
+c2246aeda53fd126,swordskeleton.sm,Tiny_3,7716976,488
+b10e3039d6507291,swordskeleton.fmt,Art/Models/MONSTERS/SwordSkeleton,353278,271951
+ef0668cb7d18be0c,swordskeleton.fmt.header,Tiny_3,7716805,171
+7691d8285b59f78d,rig.amd,Tiny_3,7715035,1770
+4cdd8bb8d1641291,rig.ast,Art/Models/MONSTERS/SwordSkeleton,0,353278

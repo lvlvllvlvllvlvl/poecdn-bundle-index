@@ -1,0 +1,6 @@
+blood
+blood/ondeath
+blunt
+pierce
+slash
+xtraaddons

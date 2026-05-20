@@ -11,6 +11,7 @@ use url::Url;
 mod bundle;
 pub mod db;
 mod entity;
+pub mod exporter;
 mod models;
 mod utils;
 

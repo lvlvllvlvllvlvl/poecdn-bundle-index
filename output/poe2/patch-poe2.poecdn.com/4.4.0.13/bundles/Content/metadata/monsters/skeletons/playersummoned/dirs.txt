@@ -1,0 +1,7 @@
+archer
+arsonist
+brute
+cleric
+reaver
+stormmage
+warrior

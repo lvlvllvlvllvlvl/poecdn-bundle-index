@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+5bd2fc9a7cd25c4b,multi_grad.mat,Tiny.V3,38395379,1472
+8c96b166b3dd9fa2,shockwave.mat,Tiny.V7,38900178,1692
+cd1a0d532f487afe,circle35.mat,Tiny.VC,39081878,3208
+698b9f334c8c6fea,circle35_dxt1.dds,Streaming/Content/metadata/particles/supports/ancestor_slam/fist_trail.trl,1049060,174924
+443096fca21d3366,circle35_dxt1.dds.header,Tiny.VD,31964803,1520
+2cc7f04f68748cd7,hires_shockwave_dxt1.dds,Streaming/Content/metadata/particles/supports/ancestor_slam/fist_trail.trl,349848,699212
+3039e49a5f353067,hires_shockwave_dxt1.dds.header,Tiny.V8,32552818,1520
+36854fa9f9fc50a9,blink_holy_shine.mat,Tiny.V3,38394781,598
+8cbb06ed6fe113ab,blink_holy_shine_dxt1.dds,Streaming/Content/metadata/particles/supports/ancestor_slam/fist_trail.trl,174924,174924
+05bf550d6f93c8c0,blink_holy_shine_dxt1.dds.header,Tiny.V0,4503331,1520
+a4467a75f18ee865,trail.mat,Tiny.VE,38770033,1544
+0d6f01eecc8b1927,trail_dxt1.dds,Streaming/Content/metadata/particles/supports/ancestor_slam/fist_trail.trl,0,174924
+2e53784b00febe64,trail_dxt1.dds.header,Tiny.VC,39085086,1520
+224c327111d0d171,grad_dxt1.dds,Streaming/Content/metadata/particles/waterfallmistsmall.pet,1100856,43852
+3781a61b2f6d396d,grad_dxt1.dds.header,Tiny.V5,3306751,1520

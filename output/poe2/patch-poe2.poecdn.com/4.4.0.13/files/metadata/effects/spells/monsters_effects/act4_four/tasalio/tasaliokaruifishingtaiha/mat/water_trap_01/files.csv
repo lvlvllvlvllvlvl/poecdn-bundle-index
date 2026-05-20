@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+7527639d3c45b9fb,grd_crk_01_r.mat,Tiny.VE.1,79012176,25886
+12bd41dfaa2c99f6,grd_crk_01_u.mat,Tiny.V7,49157616,576
+2be1bce45c53b50c,grd_caustics_r.mat,Tiny.V6.1,80750956,21716
+316ea51c771ff625,grd_caustics_u.mat,Tiny.V7,49157616,576
+95eaacbe511f14a2,waterribbons_r.mat,Tiny.VC.1,81681926,55194
+1bcebc944152abdc,waterribbons_u.mat,Tiny.V0.1,81746538,21286
+3b15cf4ac71180a8,water_trap_u.mat,Tiny.V0.1,81742586,3952
+324967f0ab37fa33,water_trap_r.mat,Tiny.V2.1,80597020,38912
+409e08d4837bdcf5,water_trap_r2.mat,Tiny.VE.1,79059658,24560

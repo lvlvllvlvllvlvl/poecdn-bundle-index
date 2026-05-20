@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e9806e9bd3de7ccb,library_entrance_v01_01_lightbeam.ao,Tiny_11,99010240,2050
+c74e9f49cc38cda7,library_largebuilding_entrance_v01_01.tdt,Tiny_11,99018399,3541
+f51d5cb673db42c9,library_largebuilding_thick_v01_01.tdt,Tiny_11,99021940,1199
+1dcf9b2b1bd4218f,library_largebuilding_concave_corner_v01_01.tdt,Tiny_11,99012290,1575
+b1275ec23e9dcc2c,library_largebuilding_convex_corner_v01_01.tdt,Tiny_11,99017070,1329
+97890d89dc477ce5,library_largebuilding_connection_v01_01.tdt,Tiny_11,99013865,1437
+4bd0b2bfd2b1ba35,library_largebuilding_connection_v02_01.tdt,Tiny_11,99015302,1768
+2b5a2b4c56a46577,city_library_large_wall.et,Tiny_11,99010024,148
+8f8866a44ea18c5d,city_library_large_wall_trim.gt,Tiny_11,99010172,68

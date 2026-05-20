@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+4a8d8afc0dfe9365,hallway_small.dds,Streaming/Content/metadata/mapdevices/prisonhallwaymapdevice/prisonhallwaymapdevicesmall.ao.2,349700,349700
+fae3b42a9aae6fe9,hallway_small.dds.header,Tiny.V6,3947941,1520
+1320f7dbe91dbe58,hallway_circle.dds,Streaming/Content/metadata/mapdevices/prisonhallwaymapdevice/prisonhallwaymapdevicecircle.ao,0,349700
+e68ef6849009de56,hallway_circle.dds.header,Tiny.VB,4082221,1520
+6c476c74b2ce6076,hallway_large.dds,Streaming/Content/metadata/mapdevices/prisonhallwaymapdevice/prisonhallwaymapdevicesmall.ao.2,0,349700
+c7f5fb74f51be14c,hallway_large.dds.header,Tiny.V1,4120992,1520

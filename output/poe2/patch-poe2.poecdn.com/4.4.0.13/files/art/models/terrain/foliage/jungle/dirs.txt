@@ -1,0 +1,9 @@
+textures
+textures/chaostemple
+textures/chimeral
+textures/jungle
+textures/jungle/tents
+textures/outskirts
+trees
+trees/textures
+trees/textures/smalltrees

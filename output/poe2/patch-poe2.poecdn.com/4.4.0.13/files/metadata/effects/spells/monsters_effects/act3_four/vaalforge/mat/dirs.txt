@@ -1,0 +1,4 @@
+footstomp
+melee_trail
+metal_spikes
+volcanic_rupture

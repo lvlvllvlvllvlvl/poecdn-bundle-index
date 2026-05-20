@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+af01e8f2d1b3ec94,vaal_volumc.mat,Art/particles/monster_particles/League_Delve_21,87556,4786
+d0e2a7d6b44ba7c4,vaal_volum.dds,Art/particles/monster_particles/League_Delve_22,786768,11084
+750188298d03720d,vaal_volum.dds.header,Tiny_6,109453466,1520
+b7f97b082f31f3b3,vaal_lookup.mat,Tiny_6,109452228,1238
+2bb028ac786ea0a1,vaal_lookup.dds,Tiny_6,109449736,2212
+5153ed94c89b1a16,vaal_lookup.dds.header,Tiny_6,109451948,280
+383f519bcbf036b6,light_boostc.mat,Tiny_6,109445826,3910
+e1a424cf983874d5,light_boost.dds,Art/particles/monster_particles/League_Delve_21,0,87556
+336ca737aa2f43b4,light_boost.dds.header,Tiny_6,109444306,1520
+58cf6fd27a588952,glow_midc.mat,Tiny_6,109442528,1778
+fc93930a0350e44a,glow_mid.dds,Folders/art/particles/monster_particles/league_delve_A,1634876,699212
+7e92f1a2d15bbd3e,glow_mid.dds.header,Tiny_6,109441008,1520
+641d1f324c7cfd0c,glow_discc.mat,Tiny_6,109439224,1784
+bc016ed0699ec501,glow_disc.dds,Folders/art/particles/monster_particles/league_delve_A,1547320,87556
+7f80afb7c11a3ba6,glow_disc.dds.header,Tiny_6,109437704,1520

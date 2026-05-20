@@ -1,0 +1,7 @@
+assassins_mark
+chaos_curse
+poachers_mark
+projectile_weakness
+punishment
+temporal_chains
+warlords_mark

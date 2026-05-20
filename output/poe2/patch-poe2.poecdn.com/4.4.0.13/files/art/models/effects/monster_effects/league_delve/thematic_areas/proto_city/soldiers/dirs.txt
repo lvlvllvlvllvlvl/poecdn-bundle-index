@@ -1,0 +1,3 @@
+doublespin
+projectile
+summon_mannequin

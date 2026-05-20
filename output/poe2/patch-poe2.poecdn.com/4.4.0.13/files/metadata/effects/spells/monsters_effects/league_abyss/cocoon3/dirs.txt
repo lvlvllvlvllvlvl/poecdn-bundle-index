@@ -1,0 +1,13 @@
+epk
+fx
+graphs
+mats
+mats/back_sphere
+mats/fireballbig
+mats/fireballbig_impact
+mats/fireballsmall
+mats/fireballsmall_impact
+mats/geyser_base
+mats/geyser_explode
+mats/mortar_fire
+mats/onact

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+30851e2dbf2fdf95,expeditionplaguemorphc.mat,Art/Models/MONSTERS/PlagueMorphs/PlagueMorph_04/Textures,262480,6680
+dcfe7c9175990cd7,expeditionplaguemorph_sss_dxt1.dds,Art/Models/MONSTERS/PlagueMorphs/PlagueMorph_04/Textures_2,0,174924
+e414a6af7c12fdb6,expeditionplaguemorph_sss_dxt1.dds.header,Tiny_3,6067351,1520
+a75e362cab39ccf2,expeditionplaguemorph_normal_dxt5.dds,Art/Models/MONSTERS/PlagueMorphs/PlagueMorph_04/Textures_1,0,1398276
+92c8aeb649ffc523,expeditionplaguemorph_normal_dxt5.dds.header,Tiny_3,6065831,1520
+dd7b214d1ef475d3,expeditionplaguemorph_metal_dxt1.dds,Art/Models/MONSTERS/PlagueMorphs/PlagueMorph_04/Textures,531640,174924
+86aa6332824046ce,expeditionplaguemorph_metal_dxt1.dds.header,Tiny_3,6064311,1520
+f51824dd3c9b5217,expeditionplaguemorph_glowgray_dxt1.dds,Art/Models/MONSTERS/PlagueMorphs/PlagueMorph_04/Textures,269160,174924
+ba4db7835733f2b3,expeditionplaguemorph_glowgray_dxt1.dds.header,Tiny_3,6062791,1520
+f4d64dcdb27cb29b,expeditionplaguemorph_colour_dxt1.dds,Art/Models/MONSTERS/PlagueMorphs/PlagueMorph_04/Textures,0,174924
+7eccba748b40fc6b,expeditionplaguemorph_colour_dxt1.dds.header,Tiny_3,6061271,1520
+b587a70f670e2779,expeditionmetalmaskc.mat,Tiny_3,6058789,2482
+8916c61288cf8d49,expeditionmetalmask_normal_dxt5.dds,Art/Models/MONSTERS/PlagueMorphs/PlagueMorph_04/Textures,444084,87556
+04bceaf4df261232,expeditionmetalmask_normal_dxt5.dds.header,Tiny_3,6057269,1520
+41513e13e8987bbc,expeditionmetalmask_colour_dxt5.dds,Art/Models/MONSTERS/PlagueMorphs/PlagueMorph_04/Textures,174924,87556
+8d094bc97ea8a304,expeditionmetalmask_colour_dxt5.dds.header,Tiny_3,6055749,1520

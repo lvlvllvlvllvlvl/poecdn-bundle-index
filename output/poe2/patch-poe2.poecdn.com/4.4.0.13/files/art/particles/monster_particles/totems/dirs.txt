@@ -1,0 +1,16 @@
+crossbow
+crossbow/projectile
+crossbow/snipe
+crystaltotem
+crystaltotem/abyss
+crystaltotem/abyss/meshtex
+icecrystaltotem
+icecrystaltotem/projectile
+templarmissionrelic
+templarmissionrelic/nova
+templarmissionrelic/portal
+templarmissionrelic/unholy_nova
+vaalancestralwarlord
+vaalancestralwarlord/slammini
+vaalancestralwarlord/slammini/crack_01
+vaalancestralwarlord/slammini/crack_02

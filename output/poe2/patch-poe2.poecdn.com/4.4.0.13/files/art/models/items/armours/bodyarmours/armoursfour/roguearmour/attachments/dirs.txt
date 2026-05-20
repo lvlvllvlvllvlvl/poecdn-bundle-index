@@ -1,0 +1,12 @@
+female
+female/beltstrap
+female/pouch
+female/skirtdex
+female/skirtint
+male
+male/beltstrap
+male/beltstrapstr
+male/pouch
+male/skirt
+male/skirtdexint
+male/skirtstr

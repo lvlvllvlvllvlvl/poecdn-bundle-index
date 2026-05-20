@@ -1,0 +1,13 @@
+aos
+epks
+fx
+mats
+mats/bird
+mats/lightningwave
+mats/onact
+mats/onact_attackattachments
+mats/onact_slashtrail
+mats/stab_01
+mats/stab_02
+mats/stab_windup
+onacts

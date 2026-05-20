@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+e0b60144b4b1ca37,chargeup_ctrls.fxgraph,Content/metadata/effects/spells/holy_consecrate/consecrate_nova.ao,3718266,49332
+8d8ea7cc52fc3c48,chargeup_ctrl_update.fxgraph,Content/metadata/effects/spells/holy_consecrate/consecrate_nova.ao,3704862,13404
+b3c2c4b999be9e9f,custom_subsurfaceuvs.fxgraph,Content/metadata/effects/spells/holy_consecrate/consecrate_nova.ao,3767598,20632
+87250bfda10a1cf5,custom_pointemitter.fxgraph,Content/metadata/effects/microtransactions/spells/elemental_hit/08E5D14A74A66FA3.elehit_arrow_light.ao,4232262,21410

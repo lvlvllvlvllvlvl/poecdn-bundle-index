@@ -1,0 +1,5 @@
+microtransactions
+microtransactions/harlequinhammer
+microtransactions/thaumaturgymaul
+microtransactions/wildmaul
+uniques

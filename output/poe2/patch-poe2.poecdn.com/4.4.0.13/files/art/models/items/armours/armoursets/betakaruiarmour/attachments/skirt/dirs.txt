@@ -1,0 +1,4 @@
+attachments
+attachments/attachments
+attachments/attachments/l_tablets
+attachments/attachments/r_tablets

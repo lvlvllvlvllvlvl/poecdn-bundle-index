@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+166b1a618b52be5f,illusionistportalspecularc.mat,Tiny_8,24684900,4840
+e5e118759aa2164a,illusionistportal_normal_dxt5.dds,Art/Textures/Misc/portals/IllusionistPortal_1,699236,349700
+b7c51386879481df,illusionistportal_normal_dxt5.dds.header,Tiny_8,24674070,1520
+9cf9a1b70c9ce593,illusionistportal_colourspecular_dxt5.dds,Art/Textures/Misc/portals/IllusionistPortal_1,0,699236
+75ad4d2f1126bf4f,illusionistportal_colourspecular_dxt5.dds.header,Tiny_8,24673230,840
+beac1379bff9dc72,illusionistportal_colourspecular_bc7.dds,Art/Textures/Misc/portals/IllusionistPortal_1,0,699236
+ec38738a6242e7dd,illusionistportal_colourspecular_bc7.dds.header,Tiny_8,24673230,840
+a72dd07cfa855b92,illusionistportal_colourspecular.dds,Folders/art/textures/misc/portals/9/illusionistportal,0,349692
+a95143ff35984818,illusionistportal_colourspecular.dds.header,Tiny_8,24672390,840
+030ef059719bc405,illusionistportalfxc.mat,Tiny_8,24680150,4750
+8f97111903c654f2,illusionistportalfx_colour_02_dxt5.dds,Folders/art/textures/misc/portals/4/illusionistportal,0,349700
+e523d4d43ec5d428,illusionistportalfx_colour_02_dxt5.dds.header,Tiny_8,24678630,1520
+eaf628e3364227f3,illusionistportalfx_colour_01_dxt5.dds,Folders/art/textures/misc/portals/0/illusionistportal,0,349700
+ed6ed89be9a5e3b7,illusionistportalfx_colour_01_dxt5.dds.header,Tiny_8,24677110,1520
+81b99eb329f2a199,illusionistportalfx_colour.dds,Folders/art/textures/misc/portals/9/illusionistportal,349692,174924
+2a2af5d34a3adb4e,illusionistportalfx_colour.dds.header,Tiny_8,24675590,1520

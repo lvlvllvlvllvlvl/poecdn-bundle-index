@@ -1,0 +1,3 @@
+cosmicchest
+league_blight
+league_blight/blightchests

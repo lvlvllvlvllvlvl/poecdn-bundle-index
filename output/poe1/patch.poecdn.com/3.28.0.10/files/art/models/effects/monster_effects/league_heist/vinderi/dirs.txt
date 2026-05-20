@@ -1,0 +1,2 @@
+onhit_explode
+weapon_trail

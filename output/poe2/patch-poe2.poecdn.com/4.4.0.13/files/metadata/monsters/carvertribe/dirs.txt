@@ -1,0 +1,16 @@
+attachments
+attachments/backbone
+attachments/carverdelinquents
+attachments/clawweapons
+attachments/double_skull
+attachments/headpiece
+attachments/l_bone
+attachments/l_forearm_bone
+attachments/l_shoulderpad
+attachments/l_skull
+attachments/l_waist_bone
+attachments/r_bone
+attachments/r_forearm_bone
+attachments/r_shoulderpad
+attachments/r_skull
+attachments/shoulderpiece

@@ -1,0 +1,11 @@
+blood_grasp
+blood_grasp_hand
+blood_splash
+bloodball
+corruptionaura
+fire_wave_cascade
+holy_ion_cannon
+monolith_pulse
+necromancerbolt
+necromancerbolt/heightoffset
+spidermortar

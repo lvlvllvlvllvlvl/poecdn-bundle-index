@@ -1,0 +1,6 @@
+book
+eggs
+mantle
+robe
+staff
+sword

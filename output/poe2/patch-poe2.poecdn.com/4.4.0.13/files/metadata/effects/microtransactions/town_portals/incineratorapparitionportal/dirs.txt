@@ -1,0 +1,10 @@
+attachments
+epks
+graphs
+pet
+pet/back_sigil
+pet/front_sigil
+pet/hanger
+pet/townportal
+pet/townportalclose
+pet/townportalopen

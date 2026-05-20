@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+7d80e8b19c6ee6b8,trail_projectile_sub.mat,Tiny_6,10015932,3498
+4935cbc39f9ce116,trail_projectile_sub.dds,Art/particles/charged_dash/shadow_weapon,0,11084
+851683ec25f08c5e,trail_projectile_sub.dds.header,Tiny_6,10014412,1520
+6e05de0058bbeb9e,trail_main.mat,Tiny_6,10012248,2164
+0685d50e48d4aae3,trail_main.dds,Art/particles/monster_particles/act8_1,131440,43876
+1e80209ae0171152,trail_main.dds.header,Tiny_6,58263486,840
+07592557453b57a9,trail_bloom.mat,Tiny_6,10010222,2026
+4240750d2e3b1715,trail_bloom.dds,Art/particles/charged_dash/shadow_weapon,11084,11084
+73561f5493dcad2c,trail_bloom.dds.header,Tiny_6,10008702,1520

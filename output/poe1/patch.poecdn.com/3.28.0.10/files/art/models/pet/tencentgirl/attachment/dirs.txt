@@ -1,0 +1,5 @@
+alchemistcompanion
+alchemistcompanion/flasks
+alchemistcompanion/hair
+alchemistcompanion/sack
+alchemistcompanion/test_tube

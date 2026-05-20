@@ -1,0 +1,6 @@
+cleansinginfluencedoodads
+cleansinginfluencedoodads/mb
+cleansinginfluencedoodads/mb/floating_rock_clusters
+cleansinginfluencedoodads/textures
+cleansinginfluencedoodads/textures/lanterns
+cleansinginfluencedoodads/textures/wells

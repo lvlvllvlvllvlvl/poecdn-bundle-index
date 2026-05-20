@@ -1,0 +1,4 @@
+bodyfx
+death_melt
+molten_blood
+molten_trail

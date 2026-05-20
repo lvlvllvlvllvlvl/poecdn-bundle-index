@@ -1,0 +1,5 @@
+fx
+fx/attack_03
+mat
+mat/attack_03
+mat/flinch_01

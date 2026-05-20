@@ -1,0 +1,6 @@
+attachments
+attachments/headpiece
+attachments/jaw
+attachments/robe
+attachments/skirt
+attachments/skirtaccessories

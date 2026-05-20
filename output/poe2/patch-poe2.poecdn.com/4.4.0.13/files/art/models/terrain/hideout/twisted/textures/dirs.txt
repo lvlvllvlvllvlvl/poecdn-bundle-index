@@ -1,0 +1,7 @@
+architecture
+ground
+outskirts
+outskirts/hands
+outskirts/ledge
+outskirts/wall
+shadow

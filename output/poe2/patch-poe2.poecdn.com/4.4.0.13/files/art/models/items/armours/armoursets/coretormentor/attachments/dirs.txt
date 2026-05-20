@@ -1,0 +1,6 @@
+female
+female/robe
+female/robe/attachments
+male
+male/robe
+male/robe/attachments

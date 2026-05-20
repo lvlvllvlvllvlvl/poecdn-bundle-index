@@ -1,0 +1,12 @@
+beam
+beam_blast_charge
+delayed_blast
+delayed_blast/charge
+onact
+onact/projectile
+onact/soul_beam
+onact/wing_beams
+soul_beam
+spell_projectile
+spell_projectile/end
+wing_fx

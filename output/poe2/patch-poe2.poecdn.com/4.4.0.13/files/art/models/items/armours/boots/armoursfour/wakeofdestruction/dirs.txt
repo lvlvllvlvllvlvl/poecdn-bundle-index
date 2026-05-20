@@ -1,0 +1,4 @@
+attachments
+attachments/hipattachment
+attachments/hipattachmentstr
+textures

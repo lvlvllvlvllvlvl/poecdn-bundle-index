@@ -1,0 +1,7 @@
+attachments
+attachments/point_light
+attachments/point_light/red
+attachments/point_light/white
+attachments/point_light/yellow
+textures
+textures/fx

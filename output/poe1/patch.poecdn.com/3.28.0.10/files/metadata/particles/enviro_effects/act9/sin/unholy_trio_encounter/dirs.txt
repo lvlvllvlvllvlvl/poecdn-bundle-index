@@ -1,0 +1,4 @@
+seed_of_corruption
+seed_of_corruption/on_act
+seed_of_corruption/on_act/energy_repelled_01
+seed_of_corruption/on_act/unholy_reap_01

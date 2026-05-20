@@ -1,0 +1,7 @@
+epk
+epk/audio
+fx
+fxgraphs
+mat
+mat/debuff
+mat/surge

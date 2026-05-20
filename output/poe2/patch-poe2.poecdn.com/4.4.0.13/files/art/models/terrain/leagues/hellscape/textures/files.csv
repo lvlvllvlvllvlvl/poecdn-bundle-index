@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8a058dced9ba34df,lightupc.mat,Tiny.V0,26428915,1416
+eca09cf7161995ee,hellscapewallc.mat,Tiny.V6,25959887,4864
+4fc6d9d3ac1a6559,hellscapewall_height_dxt1.dds,Streaming/Content/metadata/terrain/doodads/leagues/04D06A7C54D2D9BE.abyss_corner_135.ao.1,1398276,174924
+f8d5300490c7a3cb,hellscapewall_height_dxt1.dds.header,Tiny.V4,26437327,1520
+afab9f8bac8ce558,hellscapewall_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/leagues/04D06A7C54D2D9BE.abyss_corner_135.ao.1,1573200,1398276
+119d918cde25e93d,hellscapewall_normal_dxt5.dds.header,Tiny.V5,25632564,1520
+3eb53cd9c38dad46,hellscapewall_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/leagues/04D06A7C54D2D9BE.abyss_corner_135.ao.1,0,1398276
+bc8c6ab341ef5111,hellscapewall_colour_dxt5.dds.header,Tiny.V7,26012269,1520
+82db831e3fd34137,hellscapebonesironc.mat,Tiny.VB,26317983,3646
+c77f9cb2d7ab8f40,hellscapebonesiron_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/leagues/04D06A7C54D2D9BE.abyss_corner_135.ao,3027834,2796388
+0e53f45c389f88ed,hellscapebonesiron_normal_dxt5.dds.header,Tiny.V4,26436487,840
+0c99fbbede67d367,hellscapebonesiron_metal_dxt1.dds,Streaming/Content/metadata/terrain/doodads/leagues/04D06A7C54D2D9BE.abyss_corner_135.ao,1629566,1398268
+71c23aa7fe7b4e15,hellscapebonesiron_metal_dxt1.dds.header,Tiny.VF,26358311,840
+8571d08c720ad9a6,hellscapebonesiron_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/leagues/04D06A7C54D2D9BE.abyss_corner_135.ao,231298,1398268
+8dd359eb8e68da05,hellscapebonesiron_colour_dxt1.dds.header,Tiny.V8,26154033,840

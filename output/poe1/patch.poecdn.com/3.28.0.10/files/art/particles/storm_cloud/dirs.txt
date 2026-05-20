@@ -1,0 +1,7 @@
+aoe
+beam
+bolt
+charge
+charge/shockwave
+orbs
+swirlys

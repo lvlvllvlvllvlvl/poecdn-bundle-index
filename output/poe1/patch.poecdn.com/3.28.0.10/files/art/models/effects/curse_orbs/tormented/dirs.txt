@@ -1,0 +1,7 @@
+death
+death_linger
+on_hit
+possessed
+possessed/once
+rarity
+rarity/crown

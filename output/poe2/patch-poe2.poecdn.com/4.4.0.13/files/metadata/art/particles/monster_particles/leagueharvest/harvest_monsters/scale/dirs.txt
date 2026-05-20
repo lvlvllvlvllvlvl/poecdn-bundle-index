@@ -1,0 +1,7 @@
+blackstrider
+meleespider
+plaguespider
+platedscorpion
+scorpion
+thornspider
+vulture

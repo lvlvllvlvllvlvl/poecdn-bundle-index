@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+82f88be0ce9f3615,eyeballc.mat,Tiny.V5,37200918,11748
+434d4e5d60c1b333,pyramid_glowc.mat,Tiny.VF,37546710,5348
+805de85689d6cfa3,pyramid_glow.dds,Streaming/Content/art/models/effects/monster_effects/49C57ADA115EEAA8.E9D85711F14129F9.ring3.fmt,612180,87556
+df625635f71cd096,pyramid_glow.dds.header,Tiny.V4,37894388,1520
+ea5619516b513a90,stonecns.mat,Tiny.V2,37560128,2342
+8aafddec146de100,stonens.dds,Streaming/Content/metadata/effects/spells/monsters_effects/9A41299407D0CC24.pyramid_totem.ao,1301023,87556
+31efb8e7d82126b7,stonens.dds.header,Tiny.V7,37447248,1520
+b4f2d07e71f9e93e,stone_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/9A41299407D0CC24.pyramid_totem.ao,1213467,87556
+4ef0c41b67191254,stone_colour.dds.header,Tiny.VC,37665333,1520
+751c23629a18a16a,maincns.mat,Tiny.V7,37445900,1348
+4c1309e3278d19cf,mainns.dds,Streaming/Content/metadata/effects/spells/monsters_effects/9A41299407D0CC24.pyramid_totem.ao,1125911,87556
+1a54b9f0f6e59102,mainns.dds.header,Tiny.V9,38114537,1520
+1e421fe864a3d1b3,main_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/9A41299407D0CC24.pyramid_totem.ao,1038355,87556
+4116268065e9fe34,main_colour.dds.header,Tiny.V7,37435766,1520

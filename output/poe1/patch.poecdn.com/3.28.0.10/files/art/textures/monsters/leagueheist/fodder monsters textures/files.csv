@@ -1,0 +1,67 @@
+hash,file,bundle,offset,size
+f50c272ff5af7208,mannequin_matc.mat,Tiny_8,33773988,2194
+1283ca8b03345597,mannequin_mat_normal_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures_3,0,349700
+25b5f9d3d1717976,mannequin_mat_normal_dxt5.dds.header,Tiny_8,33772468,1520
+67d3ac632e179734,mannequin_mat_colour_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures_2,896532,87556
+0bc0c2293e5792d8,mannequin_mat_colour_dxt5.dds.header,Tiny_8,33770948,1520
+829ae5ef06585a5f,heist_spiderc.mat,Tiny_8,33768766,2182
+cd4b037097a028f0,heist_spider_normal_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures_2,808976,87556
+8484fb5801e01379,heist_spider_normal_dxt5.dds.header,Tiny_8,33767246,1520
+39cc99e4fc74934c,heist_spider_colour_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures_2,786956,22020
+324f5b8542f85eb5,heist_spider_colour_dxt5.dds.header,Tiny_8,33765726,1520
+aad58aed35c5229e,heist_skitterbotc.mat,Tiny_8,33763496,2230
+4d72c2e38efd1054,heist_skitterbot_normal_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures_2,437256,349700
+923a58eb3c3c0825,heist_skitterbot_normal_dxt5.dds.header,Tiny_8,33761976,1520
+0a88925c89c04781,heist_skitterbot_colour_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures_2,349700,87556
+04782bd09d4cb614,heist_skitterbot_colour_dxt5.dds.header,Tiny_8,33760456,1520
+2c098f61361c07a4,heist_mechanicaltotemc.mat,Tiny_8,33758166,2290
+f27cd011c655e74b,heist_mechanicaltotem_normal_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures_2,0,349700
+feb86eb12bc1681a,heist_mechanicaltotem_normal_dxt5.dds.header,Tiny_8,33756646,1520
+2a4d4a080ed6f2d1,heist_mechanicaltotem_colour_dxt5.dds,Folders/art/textures/monsters/leagueheist/9/fodder monsters textures,87556,87556
+958fe4d74de57201,heist_mechanicaltotem_colour_dxt5.dds.header,Tiny_8,33755126,1520
+6f258268477ce523,heist_golemc.mat,Tiny_8,33752956,2170
+ea9fccbf46c72b55,heist_golem_normal_dxt5.dds,Folders/art/textures/monsters/leagueheist/6/fodder monsters textures,0,349700
+045002cc57e5c978,heist_golem_normal_dxt5.dds.header,Tiny_8,33751436,1520
+cd7998ec9f30827d,heist_golem_colour_dxt5.dds,Folders/art/textures/monsters/leagueheist/9/fodder monsters textures,0,87556
+5fdc128169a879fc,heist_golem_colour_dxt5.dds.header,Tiny_8,33749916,1520
+04ac1ceac2015648,heist_drone_tcontraption.mat,Tiny_8,33737194,5318
+664629f718e7fd26,heist_drone_normal_dxt5.dds,Folders/art/textures/monsters/leagueheist/7/fodder monsters textures,0,349700
+0f03a054cff9ffa9,heist_drone_normal_dxt5.dds.header,Tiny_8,33735674,1520
+3eaea863adf39ad4,heist_drone_colour_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,1021940,87556
+373a92f89fcc8d1a,heist_drone_colour_dxt5.dds.header,Tiny_8,33734154,1520
+d3f8f6113ed16c6b,heist_dronetc_glow_dxt1.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,978088,43852
+cab9165e235568e6,heist_dronetc_glow_dxt1.dds.header,Tiny_8,33748396,1520
+5bfb9a66ed9bb9aa,heist_dronec.mat,Tiny_8,33742512,2170
+c3bf4ffa1249a456,heist_dronecoldc.mat,Tiny_8,33746202,2194
+ca10f59d90f1b27b,heist_dronecold_colour_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,191132,87556
+92ecac4e0c411bec,heist_dronecold_colour_dxt5.dds.header,Tiny_8,33744682,1520
+8c42edf913a54ca9,heist_copterc.mat,Tiny_8,33731972,2182
+cda0c969d9fd3719,heist_copter_normal_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,628388,349700
+915639eed741b33f,heist_copter_normal_dxt5.dds.header,Tiny_8,33730452,1520
+d236f326a6444264,heist_copter_colour_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,1129414,87556
+ca78e41fae778d37,heist_copter_colour_dxt5.dds.header,Tiny_8,33728932,1520
+5fdf6a259b2b8746,glassfirec.mat,Tiny_8,33727680,1252
+6597b6edd2792e52,glassfire.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,1118330,11084
+3105ff224677f313,glassfire.dds.header,Tiny_8,33726160,1520
+279496583bc3fd25,glassc.mat,Tiny_8,33722160,1228
+a01edd79b4da2868,glasscoldc.mat,Tiny_8,33724908,1252
+35f7dc25db5ff2fe,glasscold.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,1260822,11084
+1d4748243139cd0c,glasscold.dds.header,Tiny_8,33723388,1520
+6d6b9645cad5505d,glass.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,180048,11084
+593c8a48f26c6b91,glass.dds.header,Tiny_8,33720640,1520
+513d040b84dd25b5,extras_addons_tcontraption.mat,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,1113830,4500
+53571874f7fe6c12,extras_addons_normal_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,278688,349700
+171b9479967d34a0,extras_addons_normal_dxt5.dds.header,Tiny_8,33716080,1520
+83374648ded9fa67,extras_addons_glow_dxt1.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,1216970,43852
+2b47553bbd89f10b,extras_addons_glow_dxt1.dds.header,Tiny_8,33714560,1520
+60e5582e06ffa026,extras_addons_colour_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,48640,87556
+a044d040282d66f8,extras_addons_colour_dxt5.dds.header,Tiny_8,33713040,1520
+63e8334f1d6f5efc,extras_addons_colourcold_dxt5.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,48640,87556
+303e4a1a4097103b,extras_addons_colourcold_dxt5.dds.header,Tiny_8,33713040,1520
+7fcc3e93887aaf74,extras_addonsfirec.mat,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,43852,4788
+f8218be822da35a3,extras_addonsfire_glow_dxt1.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,136196,43852
+bfbb6cd502dc6e53,extras_addonsfire_glow_dxt1.dds.header,Tiny_8,33719120,1520
+cc8fc88ea884ca41,extras_addonsc.mat,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,1109496,4334
+9e697f5fd5344c26,extras_addonscoldc.mat,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,1271906,4844
+5498f0bf3cda114c,extras_addonscold_glow_dxt1.dds,Art/Textures/Monsters/LeagueHeist/Fodder Monsters textures,0,43852
+5f04cbc3f67be190,extras_addonscold_glow_dxt1.dds.header,Tiny_8,33717600,1520

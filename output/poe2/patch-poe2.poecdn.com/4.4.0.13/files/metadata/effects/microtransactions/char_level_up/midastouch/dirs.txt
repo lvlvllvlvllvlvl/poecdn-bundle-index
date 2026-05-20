@@ -1,0 +1,14 @@
+blood
+blood/epk
+blood/fx
+blood/graph
+blood/mat
+crystal
+crystal/epk
+crystal/fx
+crystal/graph
+crystal/mat
+gold
+gold/epk
+gold/fx
+gold/mat

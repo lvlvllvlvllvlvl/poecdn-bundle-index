@@ -1,0 +1,3 @@
+textures
+textures/particles
+textures/particles/weapon_trail

@@ -1,0 +1,4 @@
+attachments
+attachments/chestchains
+attachments/shouldercloth
+attachments/skirt

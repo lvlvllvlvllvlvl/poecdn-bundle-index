@@ -1,0 +1,7 @@
+diagonal
+diced
+fx
+fx/mb
+fx/mb/katanalongsword
+textures
+vertical

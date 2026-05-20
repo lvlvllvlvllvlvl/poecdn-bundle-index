@@ -1,0 +1,2 @@
+activate
+monster_affected

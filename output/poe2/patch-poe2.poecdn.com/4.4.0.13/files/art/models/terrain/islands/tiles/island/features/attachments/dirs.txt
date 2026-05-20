@@ -1,0 +1,6 @@
+area_transitions
+area_transitions/transition_up_01_ropes
+area_transitions/transition_up_02_ropes
+island_oceanshipwrecks
+island_oceanshipwrecks/galleon_bow_01
+island_oceanshipwrecks/galleon_stern_01

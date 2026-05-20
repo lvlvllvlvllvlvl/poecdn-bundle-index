@@ -1,0 +1,4 @@
+rog
+rog_glyph
+rog_greeting
+rog_wild

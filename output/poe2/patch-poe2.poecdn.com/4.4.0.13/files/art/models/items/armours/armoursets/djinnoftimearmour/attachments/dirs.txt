@@ -1,0 +1,10 @@
+headattachment
+headwrap
+shawl
+shawl/f
+shawl/m
+shawl/str
+skirt
+skirt/dex
+skirt/m
+skirt/str

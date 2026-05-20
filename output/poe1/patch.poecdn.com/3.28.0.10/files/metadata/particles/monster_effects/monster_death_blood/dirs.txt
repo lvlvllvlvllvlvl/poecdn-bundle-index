@@ -1,0 +1,6 @@
+axis
+axis/caster
+axis/males
+bandits
+scav
+zombie

@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+b954183e6585be1a,sml_shard_01.fmt,Tiny_1,89519502,1143
+daf0814bc4d31396,sml_shard_01.fmt.header,Tiny_1,89520645,175
+27b9d24667a4fa4c,runeblade.fmt,Art/Models/Effects/monster_effects/act10/Kitava,1472878,51435
+c93985cef958423a,runeblade.fmt.header,Tiny_1,89519334,168
+dbb9a26234399476,rig_7ec3b6ce.smd,Art/Models/Effects/monster_effects/act10/Kitava,1285086,187792
+5937ac8413e9b6c7,rig_7ec3b6ce.smd.header,Tiny_1,89518645,689
+14d049a10a6fa351,distort_sphere.fmt,Art/Models/Effects/monster_effects/act10/Kitava,1277445,7641
+a140fe38778dac4e,distort_sphere.fmt.header,Tiny_2,7915147,172
+3cd973618a264497,darkemberfx.sm,Tiny_1,89517809,836
+df4fc035368d3efe,darkemberfx.amd,Tiny_1,89517719,90
+ed08bb50008d0fb0,darkemberfx.ast,Art/Models/Effects/monster_effects/act10/Kitava,1241951,35494
+0e39af9f2426f7be,beam.fmt,Art/Models/Effects/monster_effects/act10/Kitava,1236550,5401
+34157e8b5d24e7c9,beam.fmt.header,Tiny_1,89517543,176

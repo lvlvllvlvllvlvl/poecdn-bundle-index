@@ -1,0 +1,6 @@
+attachments
+attachments/cape
+attachments/shoulderpad
+attachments/skirt
+attachments/strint_shoulderpad
+textures

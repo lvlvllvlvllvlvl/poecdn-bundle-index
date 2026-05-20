@@ -1,0 +1,4 @@
+revive
+water_orb
+water_orb_explosion
+water_vortex

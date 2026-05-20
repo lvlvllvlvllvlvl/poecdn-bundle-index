@@ -1,0 +1,6 @@
+bridgeportal
+portal
+portal/graphs
+stabiliseclick
+synthesis_summon
+synthesiscraftbench

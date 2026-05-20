@@ -1,0 +1,5 @@
+demonic
+demonic/blood_orb
+demonic/blood_orb/burst
+demonic/blood_orb/emerge
+demonic/blood_orb/onact

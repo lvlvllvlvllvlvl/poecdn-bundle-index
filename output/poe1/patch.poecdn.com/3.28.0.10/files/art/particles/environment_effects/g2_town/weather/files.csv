@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+8bf6575345736bda,smoke_grain2.mat,Tiny_6,22210018,678
+8c454f6c20adc3d1,smoke_mask_2x2.mat,Tiny_6,22210696,1080
+ba6a7067a80253c7,smoke_mask_2x2_dxt5.dds,Folders/art/particles/environment_effects/g2_town,874136,349700
+d63d4baeba130722,smoke_mask_2x2_dxt5.dds.header,Tiny_6,22213296,1520
+fc31f69a9fad639d,smoke_mask_2x2_bc1.dds,Folders/art/particles/environment_effects/g2_town,699212,174924
+dc80735b04c9f023,smoke_mask_2x2_bc1.dds.header,Tiny_6,22211776,1520
+fd2ce0603ef2578a,smoke_masks_dxt5.dds,Folders/art/particles/environment_effects/g2_town,1223836,349700
+1798f5aeddf3fc77,smoke_masks_dxt5.dds.header,Tiny_6,22214816,1520
+78653699d21d68a2,sand_grain_tile.mat,Tiny_6,22207646,852
+f37c782435aea715,sand_grain_tile_dxt1.dds,Folders/art/particles/environment_effects/g2_town,0,699212
+4d3f8770833aafef,sand_grain_tile_dxt1.dds.header,Tiny_6,22208498,1520

@@ -1,0 +1,6 @@
+textures
+textures/divine
+textures/eldritch
+textures/infernal
+textures/spirit
+textures/vfx

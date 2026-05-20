@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+0a82de15674a9db8,idle_grind.pet,Tiny_D,481368473,9288
+0f77edc122723cd9,no_emissive.epk,Tiny_D,481379251,486
+a363a06bb8d76de0,start_grind.pet,Tiny_D,481379737,13756
+f10eb075ac486f53,sw_spark_r.mat,Tiny_D,481457141,25862
+99dbe5c0a9c43573,sw_spark_u.mat,Tiny_D,481483003,15018
+64779bb8c7f0f76e,sw_smoke2_r.mat,Tiny_D,481393493,22188
+bb600b3e937209fd,sw_smoke_r.mat,Tiny_D,481415681,28666
+cd3a3c7039024970,sw_smoke_u.mat,Tiny_D,481444347,12794
+8219d4390141f202,light_off.epk,Tiny_D,481378759,492
+7535babb0d81bee4,light_fadeoff.epk,Tiny_D,481377761,500
+940cb80f670ca780,light_fadeon.epk,Tiny_D,481378261,498
+981214cdfe18649a,epk_no_emi.mat,Tiny_D,481367229,1244
+f3620ecf266e5209,epk_light_off.mat,Tiny_D,481366333,896
+7ac3bb0a8a7777f5,epk_light_fadeoff.mat,Tiny_D,481358869,2108
+f645d19c930abd2a,epk_light_fadeon.mat,Tiny_D,481360977,5356

@@ -1,0 +1,14 @@
+treasure_bound_soul
+treasure_bound_soul/epk
+treasure_bound_soul/fx
+treasure_bound_soul/fx/bound_soul
+treasure_bound_soul/fx/ghost_beam_01
+treasure_bound_soul/fx/treasure_location_01
+treasure_bound_soul/fx/treasure_location_01/idle_01
+treasure_bound_soul/fx/treasure_location_01/spinner
+treasure_bound_soul/mat
+treasure_bound_soul/mat/bound_soul
+treasure_bound_soul/mat/ghost_beam_01
+treasure_bound_soul/mat/treasure_location_01
+treasure_bound_soul/mat/treasure_location_01/idle_01
+treasure_bound_soul/mat/treasure_location_01/spinner

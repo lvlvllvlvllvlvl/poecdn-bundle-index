@@ -1,0 +1,7 @@
+beam_03
+final_beam
+maze_end
+on_act_death
+summon_apparition
+throne_activate_01
+throne_deactivate

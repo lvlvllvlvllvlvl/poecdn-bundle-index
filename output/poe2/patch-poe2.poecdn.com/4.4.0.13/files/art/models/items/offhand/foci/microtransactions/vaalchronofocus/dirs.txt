@@ -1,0 +1,5 @@
+attachments
+attachments/feathers
+attachments/gem
+attachments/ring
+attachments/tassles

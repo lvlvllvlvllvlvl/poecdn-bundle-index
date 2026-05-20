@@ -1,0 +1,8 @@
+fmts
+galvanic_shards
+galvanic_shards/textures
+plasma_blast
+plasma_blast/animations
+shockburst_rounds
+shockburst_rounds/animations
+sulphite_shatter

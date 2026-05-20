@@ -1,0 +1,16 @@
+alter_buffs
+alter_buffs/mb
+breachring
+breachring/mb
+breachring/tex
+demonhuntersring
+demonhuntersring/mb
+demonhuntersring/textures
+demonhuntersring/textures/soul_hit_impact
+flamethrowerring
+flamethrowerring/mb
+polaricdevastation
+polaricdevastation/mb
+ring_of_the_exorcist
+ring_of_the_exorcist/mb
+ring_of_the_exorcist/tex

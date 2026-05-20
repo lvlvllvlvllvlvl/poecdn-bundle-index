@@ -1,0 +1,11 @@
+baron
+baron/slash
+carrioncrone
+carrioncrone/detonate_dead
+carrioncrone/detonate_dead/grd
+carrioncrone/ice_spear
+carrioncrone/summonwolves
+mudburrower
+mudburrower/slow_slam
+urchingcollector
+urchingcollector/revive_nova

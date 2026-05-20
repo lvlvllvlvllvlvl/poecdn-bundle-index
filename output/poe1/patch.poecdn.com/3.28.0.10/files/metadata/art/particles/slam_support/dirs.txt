@@ -1,0 +1,7 @@
+earthquake
+endurance_slam
+ground_slam
+holy_path
+icecrash
+perforate
+sunder

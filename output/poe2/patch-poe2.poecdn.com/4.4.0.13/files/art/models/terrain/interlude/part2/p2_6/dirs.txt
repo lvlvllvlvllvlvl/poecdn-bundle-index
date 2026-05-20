@@ -1,0 +1,9 @@
+textures
+textures/architecture
+textures/cavestalagmites
+textures/edge
+textures/foliage
+textures/ground
+textures/rockdamagekit
+textures/stalagmites
+textures/stromatolites

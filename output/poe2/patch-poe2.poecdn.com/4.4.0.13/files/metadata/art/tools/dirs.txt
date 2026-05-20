@@ -1,0 +1,3 @@
+vfxlib
+vfxlib/javier
+vfxlib/javier/vfxlib

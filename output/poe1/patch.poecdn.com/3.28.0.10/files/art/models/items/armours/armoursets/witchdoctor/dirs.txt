@@ -1,0 +1,13 @@
+attachments
+attachments/skirt
+attachments/skirt/dex
+attachments/skirt/dexint
+attachments/skirt/int
+attachments/skirt/str
+attachments/skirt/strdex
+attachments/skirt/strdexint
+attachments/skirt/strint
+attachments/strint_clavfix
+attachments/strint_clavfix/l_side
+attachments/strint_clavfix/r_side
+textures

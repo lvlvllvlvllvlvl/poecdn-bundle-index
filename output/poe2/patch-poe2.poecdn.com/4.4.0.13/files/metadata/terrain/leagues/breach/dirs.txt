@@ -1,0 +1,16 @@
+bosshands
+city
+city/abyss
+city/abysswall
+city/feature
+city/ledge
+city/thickwall
+doodads
+doodads/breachlights
+feature
+outskirts
+outskirts/abyss
+outskirts/abysswall
+outskirts/feature
+outskirts/ledge
+outskirts/thickwall

@@ -1,0 +1,16 @@
+fx
+graph
+mat
+mat/burst
+mat/crack_burst
+mat/crack_burst_unique
+mat/essence_drop
+mat/ground
+mat/impale
+mat/impale_small
+mat/unique
+mat/unique/beam
+mat/unique/impale
+mat/unique/vaal
+mat/vaal_burst
+mat/vaal_shatter

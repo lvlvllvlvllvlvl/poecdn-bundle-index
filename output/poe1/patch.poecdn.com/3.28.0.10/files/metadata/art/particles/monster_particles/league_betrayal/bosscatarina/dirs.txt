@@ -1,0 +1,13 @@
+harvest_cleave
+harvest_cleave/fx
+phase_transition01
+phase_transition01/death_sparks
+phase_transition01/death_sparks/fx
+phase_transition01/staff_beam
+phase_transition01/staff_beam/fx
+phase_transition01/staff_totem
+phase_transition01/staff_totem/fx
+reaper_strike
+reaper_strike/fx
+undead_pillar
+undead_pillar/fx

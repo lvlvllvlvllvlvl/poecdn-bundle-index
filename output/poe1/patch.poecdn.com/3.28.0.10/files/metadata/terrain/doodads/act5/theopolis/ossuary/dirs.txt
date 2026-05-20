@@ -1,0 +1,4 @@
+vfx
+vfx/brazierfirewide
+vfx/brazierfirewide/mat
+vfx/brazierfirewide/mat/idle

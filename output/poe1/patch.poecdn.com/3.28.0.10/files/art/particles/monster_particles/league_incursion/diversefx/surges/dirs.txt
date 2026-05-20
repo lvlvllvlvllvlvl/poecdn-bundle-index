@@ -1,0 +1,10 @@
+general
+special
+special/chaos
+special/chaos/fx
+special/fire
+special/fire/fx
+special/lightning
+special/lightning/fx
+special/physical
+special/physical/fx

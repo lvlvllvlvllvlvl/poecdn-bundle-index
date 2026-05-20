@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+466498eef4888034,environmentdarkening.fxgraph,Content/metadata/monsters/karuichieftain/karuicaptainboss2map.ot.1,283474,23062
+93d1aaedc8b72dfc,custom_cancelfade.fxgraph,Content/metadata/effects/microtransactions/spells/elemental_hit/08E5D14A74A66FA3.elehit_arrow_light.ao,6145950,7136
+bd64fd1c60b1d439,custom_particlesemissionctrl.fxgraph,Content/metadata/effects/microtransactions/spells/elemental_hit/08E5D14A74A66FA3.elehit_arrow_light.ao,6081898,29768
+49b168c56787c766,custom_fresnelstatic.fxgraph,Content/metadata/monsters/leaguedelirium/deliriumskilldaemonmonstercold.ot,292390,106452
+ddc6f9bbbd0695c2,arcticwolf_tochannel.fxgraph,Content/metadata/monsters/baron/phase2/oghamwolfsummon.ao,901517,246974
+056f988cfd0f9080,arcticwolf_override.fxgraph,Content/metadata/monsters/baron/phase2/oghamwolfsummon.ao,652973,132036
+85e7594c5ef1aef5,arcticwolf_override_base.fxgraph,Content/metadata/monsters/baron/phase2/oghamwolfsummon.ao,785009,116508
+4b8316839978bf90,arcticwolf_override_translucency.fxgraph,Content/metadata/effects/spells/celestial_conviction/debuff/celestiallightning.epk,622424,96372

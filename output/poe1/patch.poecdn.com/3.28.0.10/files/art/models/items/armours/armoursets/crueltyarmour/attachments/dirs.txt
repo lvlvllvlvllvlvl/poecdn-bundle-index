@@ -1,0 +1,14 @@
+armcloth
+belt
+chestcloth
+shoulderchaindangle
+shoulderpads
+skirt
+skirtplate
+skirtplate/skirtplatedex
+skirtplate/skirtplatedexint
+skirtplate/skirtplateint
+skirtplate/skirtplatestr
+skirtplate/skirtplatestrdex
+skirtplate/skirtplatestrdexint
+skirtplate/skirtplatestrint

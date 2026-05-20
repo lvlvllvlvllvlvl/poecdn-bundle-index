@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+9c5da1670b3bc3a3,handglow_pass01.mat,Tiny.V2.1,77419048,19124
+521d2339fe7af76e,eyes_glow_r.mat,Tiny.VC.1,78545404,16920
+90e75edba0c3de8d,eyes_glow_u.mat,Tiny.V7,49157616,576
+550d8796f6e45bcc,impact_smoke_r.mat,Tiny.V0.1,78622922,34482
+59e9b6e7a2e057b0,impact_smoke_u.mat,Tiny.V0.1,78657404,7898
+00274ae344c0fea6,snow_prtcls_r.mat,Tiny.V7.1,76246070,26608
+65501c6d448dbb43,snow_prtcls_u.mat,Tiny.V2.1,77611836,11062
+d52e817dfcee35df,melee_swipe_mblur.mat,Tiny.V0.1,78665302,19100
+ae7e6687550070d2,melee_swipe_edge.mat,Tiny.VA.1,74639738,15594
+1bbaac18deb3b5fc,melee_swipe_smudge.mat,Tiny.V2.1,77438172,20538

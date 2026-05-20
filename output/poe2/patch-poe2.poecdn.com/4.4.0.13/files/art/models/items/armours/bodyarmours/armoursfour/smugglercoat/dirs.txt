@@ -1,0 +1,11 @@
+attachments
+attachments/scfemale
+attachments/scfemale/scdaggerf
+attachments/scfemale/scdanglythingf
+attachments/scfemale/scpouchesf
+attachments/scfemale/scrobef
+attachments/scmale
+attachments/scmale/scdaggerm
+attachments/scmale/scdanglybitm
+attachments/scmale/scrobem
+textures

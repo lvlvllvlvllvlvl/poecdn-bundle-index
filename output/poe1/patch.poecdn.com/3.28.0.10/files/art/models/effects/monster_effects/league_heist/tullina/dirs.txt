@@ -1,0 +1,2 @@
+on_act_attack_double
+on_act_attack_stab

@@ -1,0 +1,7 @@
+onact_attack
+revive_circle
+sand_aura
+sand_tornado
+spectral_throw
+spellcast_01_buildup
+spellcast_portal

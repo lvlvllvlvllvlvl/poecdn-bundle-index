@@ -1,0 +1,8 @@
+fx
+fx/chimney_fx_01
+fx/chimney_fx_01/idle_01
+fx/hangingqwbrazier
+mat
+mat/chimney_fx_01
+mat/chimney_fx_01/idle_01
+mat/hangingqwbrazier

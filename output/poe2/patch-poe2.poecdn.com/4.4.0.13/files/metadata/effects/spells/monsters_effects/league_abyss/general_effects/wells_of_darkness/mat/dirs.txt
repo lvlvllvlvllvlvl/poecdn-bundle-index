@@ -1,0 +1,3 @@
+darkness_ground
+darkness_ground_form
+monster_ribbons

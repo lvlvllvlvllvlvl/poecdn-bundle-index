@@ -1,0 +1,8 @@
+corpse_ball_projectile
+corpse_ball_projectile/cone_splat
+corpse_ball_projectile/impact_ring
+extra_curse_rig
+mushroom
+poop_ground
+tainted_curse_onplayer
+tainted_curse_onplayer/animations

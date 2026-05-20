@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+744932645a674f3d,oriathwingsredcns.mat,Tiny.V6,44752072,6556
+5d070f633bcb5635,oriathwingsredns.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.0113A41BF5FD05AD.oriathwingsred.fmt.1,1398276,1398276
+b8ce72b9f7cb8b24,oriathwingsredns.dds.header,Tiny.VC,44989458,1520
+f408597a1d3abc9f,oriathwingsred_sss.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.0113A41BF5FD05AD.oriathwingsred.fmt.1,0,1398276
+c9bbbef5ca16d4be,oriathwingsred_sss.dds.header,Tiny.V7,44883818,1520
+c5efe67a23c68bc8,oriathwingsred_specular.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.0113A41BF5FD05AD.oriathwingsred.fmt,2796552,1398276
+3a6a18d24200b573,oriathwingsred_specular.dds.header,Tiny.VF,44934806,1520
+c74a1e25d2ff08d9,oriathwingsred_gloss.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.0113A41BF5FD05AD.oriathwingsred.fmt,1398276,1398276
+97b7c0af6805a830,oriathwingsred_gloss.dds.header,Tiny.V1,44618598,1520
+688c78df1f5214e1,oriathwingsred_colour.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.0113A41BF5FD05AD.oriathwingsred.fmt,0,1398276
+a1a7332a0692475f,oriathwingsred_colour.dds.header,Tiny.VA,44943832,1520

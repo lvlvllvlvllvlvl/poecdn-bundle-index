@@ -1,0 +1,12 @@
+archnemesisstatue
+archnemesisstatue/crumbled_monster
+archnemesisstatue/statue_light
+archnemesisstatue/statuepyres
+archnemesisstatue/statuepyres/pyre1
+archnemesisstatue/statuepyres/pyre1/light_attachment
+archnemesisstatue/statuepyres/pyre2
+archnemesisstatue/statuepyres/pyre3
+archnemesisstatue/statuepyres/pyre3/light_attachment
+archnemesisstatue/textures
+archnemesisstatue/vfx
+archnemesisstatue/vfx/textures

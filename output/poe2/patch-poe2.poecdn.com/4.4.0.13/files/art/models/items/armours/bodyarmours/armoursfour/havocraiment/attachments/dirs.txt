@@ -1,0 +1,9 @@
+shawl
+shawl/f
+shawl/m
+shoulderpads
+shoulderpads/f
+shoulderpads/m
+skirt
+skirt/f
+skirt/m

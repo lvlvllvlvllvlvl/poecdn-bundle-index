@@ -1,0 +1,6 @@
+berserker
+berserker/blitz
+berserker/mighty_hit
+guardian
+slayer
+slayer/overwhelm

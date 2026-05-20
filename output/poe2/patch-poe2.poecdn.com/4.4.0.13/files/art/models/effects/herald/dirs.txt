@@ -1,0 +1,15 @@
+agony
+agony/minion
+agony/minion/mortar
+agony/minion/mortar/impact
+agony/minion/projectile
+fire
+holy
+holy/fire
+holy/lightning_strike
+ice
+light
+light/hand_buff
+light/slam_impact
+light/slam_impact_2
+purple

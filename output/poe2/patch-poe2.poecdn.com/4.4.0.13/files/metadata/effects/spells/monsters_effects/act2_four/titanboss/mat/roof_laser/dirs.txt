@@ -1,0 +1,6 @@
+impact
+large_indicator
+laser
+laser/muzzleflash
+onact
+rockfall

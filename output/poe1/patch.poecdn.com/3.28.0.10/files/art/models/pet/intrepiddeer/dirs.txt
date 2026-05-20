@@ -1,0 +1,6 @@
+attachments
+attachments/azmeristag
+attachments/azmeristag/antlerornaments
+attachments/azmeristag/weaponsheath
+attachments/azmeristag/weaponsheath/attachments
+textures

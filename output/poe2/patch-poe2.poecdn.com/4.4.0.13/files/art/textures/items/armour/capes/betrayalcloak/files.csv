@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+99c9601ca7144170,noise_strings_dxt5.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.99A0C58B01A2CE68.betrayalcloak.fmt.2,0,1398276
+ac1edf2cd366a6c6,noise_strings_dxt5.dds.header,Tiny.VD,45121037,1520
+1409cb40b7188d8a,smoketile5_dxt5.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.99A0C58B01A2CE68.betrayalcloak.fmt.2,1398276,1398276
+9c26f75b8691f08f,smoketile5_dxt5.dds.header,Tiny.V9,45679779,1520
+f1862986dda6b347,betrayalcloakcn.mat,Tiny.V2,45033275,4286
+3c3cda9341ae9716,betrayalcloak_specular_dxt5.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.99A0C58B01A2CE68.betrayalcloak.fmt.1,1398276,1398276
+44ba3bcc88629f21,betrayalcloak_specular_dxt5.dds.header,Tiny.V8,44643680,1520
+58fbb1cc3d800afb,betrayalcloak_normal.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.99A0C58B01A2CE68.betrayalcloak.fmt,2097488,1398276
+d34485f0189e0a3b,betrayalcloak_normal.dds.header,Tiny.V0,45417302,1520
+c00157297fb7a922,betrayalcloak_normal_masked.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.99A0C58B01A2CE68.betrayalcloak.fmt.1,0,1398276
+b727ca64ba5c0736,betrayalcloak_normal_masked.dds.header,Tiny.V7,45173032,1520
+75123dc66497a1c5,betrayalcloak_colour_bc7.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.99A0C58B01A2CE68.betrayalcloak.fmt,699212,1398276
+b9764dea5e578f1b,betrayalcloak_colour_bc7.dds.header,Tiny.VA,45248587,1520
+15f7bd37b012bcba,betrayalcloak_colour.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.99A0C58B01A2CE68.betrayalcloak.fmt,0,699212
+48359bbb900f849c,betrayalcloak_colour.dds.header,Tiny.V7,45171512,1520

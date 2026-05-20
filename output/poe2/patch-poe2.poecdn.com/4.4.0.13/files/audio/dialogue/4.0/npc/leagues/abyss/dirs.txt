@@ -1,0 +1,6 @@
+abyssvoice
+lurking
+lurking_greeting
+lurking_wild
+mentor
+mortimer_greeting

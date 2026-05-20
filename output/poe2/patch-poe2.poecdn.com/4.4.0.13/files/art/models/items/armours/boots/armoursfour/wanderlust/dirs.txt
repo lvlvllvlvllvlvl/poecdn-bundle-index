@@ -1,0 +1,12 @@
+attachments
+attachments/f
+attachments/f/belt
+attachments/f/beltbow
+attachments/f/lkneebow
+attachments/f/rkneebow
+attachments/m
+attachments/m/belt
+attachments/m/beltbow
+attachments/m/lkneebow
+attachments/m/rkneebow
+textures

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+fa548d796a8921e6,projtip_r.mat,Tiny.V2.1,55223862,27010
+19d71a8ff668a1b0,projtip_u.mat,Tiny.V6.1,55671070,2188
+57ad2506f06095b8,trail_r.mat,Tiny.V2.1,55250872,16534
+1c2f8556468e2c36,trail_u.mat,Tiny.VE.1,1562868,310
+e840cc827ec9545c,trail_dark_r.mat,Tiny.VF.1,54051052,11736
+b4ce68507d35b1e8,trail_dark_u.mat,Tiny.VD.1,50100664,2220
+c0f0e20bbfa1ff0a,core_r.mat,Tiny.V5.1,52782916,17310
+d286ec3acbcc0fe6,core_u.mat,Tiny.V3.1,53356382,2166
+f5794a18b57106dd,core_dark_r.mat,Tiny.V0.1,57063808,11764
+ad28ec18f71b54f6,core_dark_u.mat,Tiny.VE.1,55116138,4284
+ad950dcc28037196,fb_smoke_trail_02.mat,Tiny.V1.1,52626226,32446
+7bc4f00f603d23ed,fb_fire_trail_01.mat,Tiny.VE.1,55120422,17004
+46782c8a7779cc43,fb_fire_trail_02.mat,Tiny.VF.1,54035536,15516
+38e57fe088682cc4,fb_fire_trail_03.mat,Tiny.VB.1,53189892,27048

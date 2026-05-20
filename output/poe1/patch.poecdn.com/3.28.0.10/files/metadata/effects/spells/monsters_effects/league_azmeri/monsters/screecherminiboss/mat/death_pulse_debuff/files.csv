@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+579cb5d1fa32b378,wispy_dark_r.mat,Tiny_D,239460869,19560
+adfe608641c6787d,wispy_dark_u.mat,Tiny_D,239480429,1102
+6748e2d9922afcac,glow_r.mat,Tiny_D,239396181,11256
+2547ad8a814513d2,glow_u.mat,Tiny_D,239393969,2212
+e3f759058d513a3a,glow_wisps_r.mat,Tiny_D,239435189,21168
+440ddb9e22e47b2e,glow_wisps_u.mat,Tiny_D,239456357,4512
+246fc3651cd30f70,glow_wisps_patches_r.mat,Tiny_D,239407437,21722
+acd34839cebfe8b8,glow_wisps_patches_u.mat,Tiny_D,239429159,6030
+c6abf2e7f094465f,glow_dark_r.mat,Tiny_D,239382691,11278
+7958a196aa6fe38f,glow_dark_u.mat,Tiny_D,239393969,2212
+80afa1312beacb87,core_dark_r.mat,Tiny_D,239358805,15658
+2a9fb5408f573036,core_dark_u.mat,Tiny_D,239378973,3718
+b0c71a7a56d108be,core_dark_patches_r.mat,Tiny_D,239358805,15658
+1333e45c10e49d3c,core_dark_patches_u.mat,Tiny_D,239374463,4510

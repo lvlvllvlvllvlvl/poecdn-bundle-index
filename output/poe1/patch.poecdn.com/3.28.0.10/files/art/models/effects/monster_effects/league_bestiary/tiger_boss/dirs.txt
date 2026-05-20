@@ -1,0 +1,13 @@
+ambush
+ambush/slam_impact
+combo_01
+combo_01/on_act
+spirit_bite
+spirit_bite/on_act
+spirit_roar
+spirit_roar/pulse
+summon_01
+summon_01/on_act
+swipes
+swipes/claw_slash
+swipes/on_act

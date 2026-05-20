@@ -1,0 +1,5 @@
+attachments
+attachments/costume
+attachments/helmet
+attachments/scepter
+attachments/skirt

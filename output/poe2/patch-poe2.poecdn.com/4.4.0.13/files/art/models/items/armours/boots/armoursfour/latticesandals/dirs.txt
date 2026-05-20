@@ -1,0 +1,7 @@
+attachments
+attachments/legchain
+attachments/lfeather
+attachments/ljewels
+attachments/rfeather
+attachments/rjewels
+textures

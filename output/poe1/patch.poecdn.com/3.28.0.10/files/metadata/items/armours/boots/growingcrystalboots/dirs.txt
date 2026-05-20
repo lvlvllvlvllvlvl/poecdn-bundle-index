@@ -1,0 +1,7 @@
+crystals
+crystals/fx
+orange
+pink
+purple
+red
+teal

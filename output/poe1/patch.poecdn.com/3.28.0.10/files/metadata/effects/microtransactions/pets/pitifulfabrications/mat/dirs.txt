@@ -1,0 +1,15 @@
+general_kickupdust
+pet_01
+pet_02
+pet_generic
+pot_01_explode
+pot_01_liquid
+pot_01_projectiletrail
+pot_01_seep
+pot_01_smoke
+pot_01_splash
+pot_02_explode
+pot_02_liquid
+pot_02_poisonpuddle_small
+pot_02_smoke
+pot_02_splash

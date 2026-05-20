@@ -1,0 +1,5 @@
+gear
+skirt
+skirt/f
+skirt/m
+skirt/str

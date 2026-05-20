@@ -1,0 +1,11 @@
+audio
+epk
+fx
+graphs
+mat
+mat/capturedsoul_hand
+mat/corrupted_ground
+mat/ground_summon
+mat/skin_tentancles
+mat/spectre_skin
+mat/spectre_warping

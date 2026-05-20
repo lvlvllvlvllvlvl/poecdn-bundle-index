@@ -1,0 +1,4 @@
+delayed_blast
+onact
+onact/delayedblast
+revive_aoe

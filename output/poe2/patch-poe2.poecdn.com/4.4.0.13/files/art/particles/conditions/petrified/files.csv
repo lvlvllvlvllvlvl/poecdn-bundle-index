@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+4c1d4f715595bb5c,rock_cliff_normal_dxt3.dds,Streaming/Content/metadata/effects/statusailments/petrified.epk,0,349700
+67d85be21adeaeee,rock_cliff_normal_dxt3.dds.header,Tiny.VA,32139267,1520
+4ad7c40dedbd1d0f,rock_normal_dxt5.dds,Streaming/Content/metadata/effects/statusailments/petrified.epk,349700,349700
+1ae40da0774f4a1b,rock_normal_dxt5.dds.header,Tiny.V2,33499030,1520
+0a9c5ecda71699ee,sand_add.dds,Streaming/Content/metadata/effects/spells/monsters_effects/FAD2B4308B7A5474.2295463C765B64CE.halo_pit_01.pet,68162,349700
+33102e2e77ca709b,sand_add.dds.header,Tiny.V2,31866757,1520
+9f14a84068a5ab87,wisp_smoke_base.mat,Tiny.VA,32140787,2604
+003dd59eb6065858,wisp_smoke_base.dds,Streaming/Content/metadata/particles/blood_sand_storm/sand_create_core.pet,219152,43876
+c45eaf5a2b777d15,wisp_smoke_base.dds.header,Tiny.VD,39010875,840

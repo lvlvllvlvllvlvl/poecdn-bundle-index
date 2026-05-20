@@ -1,0 +1,11 @@
+brute_lightningslam
+brute_pull_slam
+empowering_beam
+levitation_beam
+lightning_touch
+projectile
+runeslam
+teleport
+teleport/explode
+teleport/marker
+teleport/poof

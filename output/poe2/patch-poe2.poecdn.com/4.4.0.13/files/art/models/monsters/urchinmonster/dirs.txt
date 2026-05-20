@@ -1,0 +1,7 @@
+animations
+animations/gambler_mtx
+animations/gambler_mtx/dice
+animations/gambler_mtx/zombie_1
+animations/gambler_mtx/zombie_2
+animations/gambler_mtx/zombie_3
+textures

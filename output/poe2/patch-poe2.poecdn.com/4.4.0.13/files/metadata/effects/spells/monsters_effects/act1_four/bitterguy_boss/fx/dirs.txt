@@ -1,0 +1,13 @@
+attack_01
+attack_02
+child_ghost
+death_01
+frontal_slam_01
+frontal_slam_01/slam_cue
+hinder_green
+ice_skill
+slam_back
+spellcast_01
+spike_slam
+sweep_01
+transformation

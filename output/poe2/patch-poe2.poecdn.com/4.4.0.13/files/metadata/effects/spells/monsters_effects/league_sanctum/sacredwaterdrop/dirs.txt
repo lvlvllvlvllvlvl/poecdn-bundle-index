@@ -1,0 +1,6 @@
+epk
+fx
+mat
+mat/pickup_flare
+mat/sacred_water_absorb
+mat/sacred_water_drop

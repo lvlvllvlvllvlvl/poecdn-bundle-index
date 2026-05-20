@@ -1,0 +1,2 @@
+shadow_clone
+summon_clone_01

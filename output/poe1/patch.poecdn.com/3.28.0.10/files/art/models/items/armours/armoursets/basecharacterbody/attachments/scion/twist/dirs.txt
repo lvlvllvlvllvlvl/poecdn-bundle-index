@@ -1,0 +1,7 @@
+l_shoulderpad
+l_shoulderpad/animations
+l_thightwist
+r_shoulderpad
+r_shoulderpad/animations
+upperbody
+upperbody/animations

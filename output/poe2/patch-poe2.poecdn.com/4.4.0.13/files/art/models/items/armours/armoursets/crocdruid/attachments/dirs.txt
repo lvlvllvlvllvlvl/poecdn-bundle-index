@@ -1,0 +1,8 @@
+female
+female/hair
+female/necklace
+female/skirt
+male
+male/hair
+male/necklace
+male/skirt

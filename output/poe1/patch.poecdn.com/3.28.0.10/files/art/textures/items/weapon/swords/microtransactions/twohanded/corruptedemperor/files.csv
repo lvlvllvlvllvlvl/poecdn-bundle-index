@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+1f0a4b43cd64867f,fx_dxt5.dds,Art/Textures/Items/weapon/swords/Microtransactions_22,0,2796388
+a3544b67aaeece51,fx_dxt5.dds.header,Tiny_8,20926966,840
+f7fa1648752f40dd,corruptedemperorswordspecularc.mat,Tiny_8,20921102,5864
+cbf82443a60bf6f8,corruptedemperorsword_normal_dxt5.dds,Art/Textures/Items/weapon/swords/Microtransactions_20,699572,174948
+234cbd4680dcf1ad,corruptedemperorsword_normal_dxt5.dds.header,Tiny_8,20920262,840
+b552e9534d661666,corruptedemperorsword_mask_dxt5.dds,Art/Textures/Items/weapon/swords/Microtransactions_20,524624,174948
+e5c90e88c7fb6d47,corruptedemperorsword_mask_dxt5.dds.header,Tiny_8,20919422,840
+e3f4876ffc2c75b9,corruptedemperorsword_colourspecular_dxt5.dds,Art/Textures/Items/weapon/swords/Microtransactions_20,174924,349700
+a869ecb89227509f,corruptedemperorsword_colourspecular_dxt5.dds.header,Tiny_8,20917902,1520
+f62201de0ce7e06f,corruptedemperorsword_colourspecular_bc7.dds,Art/Textures/Items/weapon/swords/Microtransactions_20,174924,349700
+1083eee3390a7fb5,corruptedemperorsword_colourspecular_bc7.dds.header,Tiny_8,20917902,1520
+843b7e438027ac2b,corruptedemperorsword_colourspecular.dds,Art/Textures/Items/weapon/swords/Microtransactions_20,0,174924
+958fe4af0f27f8a8,corruptedemperorsword_colourspecular.dds.header,Tiny_8,20916382,1520

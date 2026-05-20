@@ -1,0 +1,8 @@
+epk
+fx
+mat
+mat/buildup
+mat/ghostflame_debuff
+mat/projectile_hit
+mat/projectile_trail
+mat/spellcast_01

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+58cdb3af9c64739a,ember01_2x2_dxt1.dds,Art/particles/lib/embers,218964,174924
+387cd70d444b934b,ember01_2x2_dxt1.dds.header,Tiny_6,36512965,1520
+9123b311a27ff2ba,ashes_normalaogloss_dxt5.dds,Art/particles/lib/embers,131408,87556
+7f4a2e35fe1c3a35,ashes_normalaogloss_dxt5.dds.header,Tiny_6,36511445,1520
+eb3f64e7a3e600da,ashes_normalaogloss_bc7.dds,Folders/art/microtransactions/spell/storm_call,1067363,43852
+0452c0d7124fa4de,ashes_normalaogloss_bc7.dds.header,Tiny_7,88727752,1520
+312d7cbf2c1419e2,ashes_dxt5.dds,Art/particles/lib/embers,43852,87556
+e52217dd203d80f0,ashes_dxt5.dds.header,Tiny_6,36509925,1520
+0db3a6be9be113e4,ashes_dxt1.dds,Art/particles/lib/embers,0,43852
+11410f24f09a1886,ashes_dxt1.dds.header,Tiny_6,36508405,1520
+9b227490f7f2a23b,ashes_bc7.dds,Art/particles/lib/embers,0,43852
+19f30980af43324e,ashes_bc7.dds.header,Tiny_6,36508405,1520

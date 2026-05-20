@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+d1d9c941362b21cc,inner_pool.sm,Tiny.V7,34582683,494
+92ac93b67ccf512c,outer_pool.sm,Tiny.V8,34486917,502
+a354da6d59718f5a,rig_9872d94f.smd,Streaming/Content/data/worldareas/maprugosa.vworld.2,5878173,1522745
+77ae7dc2509ad43a,rig_9872d94f.smd.header,Tiny.V6,34632683,368
+3e068d1b276f092d,rig_783e6a4b.smd,Streaming/Content/data/worldareas/maprugosa.vworld.2,5636432,241741
+8fd0c0d5065df763,rig_783e6a4b.smd.header,Tiny.VD,34965640,368
+31e9b8b17d936f92,rig.amd,Tiny.VE,34380467,106
+f39eeea3ac79e2ed,rig.ast,Tiny.V5,34391760,312

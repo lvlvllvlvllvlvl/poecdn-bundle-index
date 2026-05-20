@@ -1,0 +1,5 @@
+death_explode
+debuff_nova
+on_act_deathexplode
+spider_mortar
+spider_mortar_impact

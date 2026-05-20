@@ -1,0 +1,7 @@
+attachments
+attachments/lfootattachment
+attachments/rfootattachment
+attachments/skirt
+attachments/skirt/female
+attachments/skirt/male
+textures

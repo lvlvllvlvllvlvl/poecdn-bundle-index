@@ -1,0 +1,5 @@
+attachments
+attachments/head_attach
+attachments/shoulderpad
+attachments/skirt
+textures

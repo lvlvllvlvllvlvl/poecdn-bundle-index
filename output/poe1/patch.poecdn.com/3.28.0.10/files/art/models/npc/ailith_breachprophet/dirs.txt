@@ -1,0 +1,7 @@
+attachments
+attachments/hood
+attachments/shoulderpad
+attachments/skirt
+textures
+textures/demon
+textures/hair

@@ -1,0 +1,12 @@
+circle
+sheild
+single
+single/axe
+single/hammer
+single/sword
+unarmed
+unarmed/animations
+unarmed/gauntlet
+unarmed/gauntlet/animations
+unarmed/rgauntlet
+unarmed/rgauntlet/animations

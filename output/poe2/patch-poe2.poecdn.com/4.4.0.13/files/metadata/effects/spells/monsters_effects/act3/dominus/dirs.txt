@@ -1,0 +1,9 @@
+blood_grasp
+blood_rains
+bomb_curse
+charge
+cold_totem_beams
+freezepulse_shockwaves
+lightning_slam
+lightning_souls
+teleport

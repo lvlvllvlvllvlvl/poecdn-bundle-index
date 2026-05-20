@@ -1,0 +1,8 @@
+brineking
+brineking/brinekingbody
+brineking/brinekingbody/animations
+brineking/brinekingbody/animations/archnemesis
+brineking/brinekinglegs
+brineking/brinekinglegs/animations
+brineking/brinekinglegs/animations/archnemesis
+minion

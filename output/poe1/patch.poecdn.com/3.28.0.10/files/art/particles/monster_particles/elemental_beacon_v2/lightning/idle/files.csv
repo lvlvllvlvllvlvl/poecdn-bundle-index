@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+39a7a02d73c045c8,light_grad.mat,Tiny_6,83473673,2000
+baf70207cde0c394,light_grad.dds,Art/particles/heralds/lightning,0,22020
+edd6fbc05e2fb889,light_grad.dds.header,Tiny_6,83472153,1520
+9b2eb0e39075bc85,lightning_ring.mat,Tiny_6,83477193,2672
+9b5601cf920e165d,lightning_ring.dds,Art/particles/monster_particles/elemental_beacon_2,87556,22020
+4256993c7262ef8c,lightning_ring.dds.header,Tiny_6,83475673,1520
+fc756229328a6744,blink_spiral_spinner.mat,Tiny_6,83469947,2206
+3513a0058c83ea1b,blink_spiral_spinner.dds,Art/particles/monster_particles/elemental_beacon_2,0,87556
+824bb548f374ebe9,blink_spiral_spinner.dds.header,Tiny_6,83468427,1520
+845f4c13b1fb2f13,blink_spiral_bigger.mat,Tiny_6,83466201,2226
+5b0693ebd9331a23,blink_spiral_bigger.dds,Art/particles/monster_particles/elemental_beacon_v2,2547536,5636
+7e0a265081ec6e46,blink_spiral_bigger.dds.header,Tiny_6,83464681,1520

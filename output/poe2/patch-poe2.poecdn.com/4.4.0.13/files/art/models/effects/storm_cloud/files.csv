@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+9ff269df4d81d945,rig_fca63578.smd,Streaming/Content/metadata/effects/spells/storm_cloud/rig.ao,0,106478
+358472e144b80799,rig_fca63578.smd.header,Tiny.V4,7640538,734
+3ba5265dbf0ae6ac,rig.amd,Tiny.V9,5441623,378
+47080c9157370ee4,rig.ast,Content/metadata/effects/microtransactions/spells/warbanner/FC60EA39982D2D13.start_midline.pet,4305142,22304
+0b6902188d323a53,fully_charged_9853b9dd.smd,Streaming/Content/metadata/effects/spells/monsters_effects/904EB850147B06C6.3EC4C8F6962B03B0.glaive_spawn.ao,727267,96562
+640dc06f1f52bcbf,fully_charged_9853b9dd.smd.header,Tiny.V0,7643351,448
+d535c05b96088ed0,stormcloud.sm,Tiny.V0,7643799,1334
+e14da6fd158b6c6f,stormcharged.sm,Tiny.VC,7464599,882
+589b1e8b9e7a61d5,stormcharged.amd,Tiny.V0,5495201,86
+f4106f2db78909b7,stormcharged.ast,Content/metadata/effects/spells/monsters_effects/62FC26811D4AC82B.vineattach.ao,3590050,4364

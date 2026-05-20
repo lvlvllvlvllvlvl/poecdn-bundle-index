@@ -1,0 +1,14 @@
+attachments
+attachments/belt
+attachments/belt/dex
+attachments/belt/dexint
+attachments/belt/int
+attachments/belt/str
+attachments/belt/strdex
+attachments/belt/strint
+attachments/beltaccessories
+attachments/capef
+attachments/capem
+attachments/robe
+attachments/robef
+textures

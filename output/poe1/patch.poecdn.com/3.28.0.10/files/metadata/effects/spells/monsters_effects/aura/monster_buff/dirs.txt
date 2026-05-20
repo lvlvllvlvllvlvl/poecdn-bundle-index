@@ -1,0 +1,16 @@
+armour
+critical
+element_fire
+energy_sheild
+evasion
+faster_attacks
+godmode
+heavy_damage
+increase_resist
+increased_accur
+increased_elemental
+life_regen
+lifeleech
+medium_damage
+spell_thorns
+thorns

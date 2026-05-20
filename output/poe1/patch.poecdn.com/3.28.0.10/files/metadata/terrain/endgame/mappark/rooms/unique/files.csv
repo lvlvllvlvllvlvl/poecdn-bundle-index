@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+a847bce823627a64,boss.arm,Folders/metadata/A/terrain,9325802,18256
+3ac73e4e71b882e5,entrance.arm,Folders/metadata/1/terrain,9188224,6250
+8f9dc76f5d025ac5,shrine_pool_corner.arm,Folders/metadata/D/terrain,9264234,5886
+2604d36c824d8e12,shrine_pool_end.arm,Folders/metadata/2/terrain,9054320,4526
+3107fb1e862b9b11,shrine_pool_straight.arm,Folders/metadata/B/terrain,9250870,5762
+82fea194ff6c7ce3,shrine_park_straight.arm,Folders/metadata/1/terrain,9230246,6352
+286bc13beeb41b92,shrine_park_convex.arm,Folders/metadata/C/terrain,10095244,4548
+ec5240639020c432,shrine_park_corner.arm,Folders/metadata/6/terrain,10158276,6306
+0f1f743847895f43,park_path_pool_corner_injector_7x7.arm,Folders/metadata/6/terrain,10134050,24226
+87fbdd669fddd87f,park_path_t_injector_7x7.arm,Folders/metadata/0/terrain,9264702,25204
+26c8cb9c3875b2e4,park_path_tri_injector_7x7.arm,Folders/metadata/8/terrain,7921404,24228
+6b259f713e7fc398,park_path_tri_injector_9x9.arm,Folders/metadata/1/terrain,9194474,35772
+7681031ed5f85eff,park_path_corner_injector_7x7.arm,Folders/metadata/0/terrain,9240584,24118
+42af616d24d7d627,park_path_corner_injector_9x9.arm,Folders/metadata/D/terrain,9228104,36130

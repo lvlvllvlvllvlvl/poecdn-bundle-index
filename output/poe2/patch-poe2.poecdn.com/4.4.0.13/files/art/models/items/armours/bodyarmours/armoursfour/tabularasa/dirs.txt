@@ -1,0 +1,8 @@
+attachments
+attachments/skirt
+attachments/skirtdex
+attachments/skirtstr
+attachments/tie
+attachments/tiedex
+attachments/tiestr
+textures

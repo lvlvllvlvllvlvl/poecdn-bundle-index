@@ -1,0 +1,7 @@
+coil
+glowhands
+lieutenantfire
+lieutenantice
+lieutenantlightning
+lightningsurge
+skeletonmeleelargebosssidearea

@@ -1,0 +1,6 @@
+altarcoffins
+altarcoffins/altarcoffin_01
+altarcoffins/altarcoffin_02
+lightsource
+textures
+textures/fabrics

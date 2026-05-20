@@ -1,0 +1,7 @@
+death
+portal_out
+projectile
+projectile/animationfx
+spawn
+spawn/animationfx
+spawn/portal

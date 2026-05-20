@@ -1,0 +1,7 @@
+coat
+headbolt
+headdecor
+l_earring
+r_earring
+skirt
+sleaves

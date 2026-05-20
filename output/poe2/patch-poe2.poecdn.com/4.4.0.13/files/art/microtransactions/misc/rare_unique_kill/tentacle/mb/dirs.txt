@@ -1,0 +1,3 @@
+tentacle_base_emitters
+tentacle_base_emitters/animations
+tentacle_base_emitters/animations/mtx_finisher

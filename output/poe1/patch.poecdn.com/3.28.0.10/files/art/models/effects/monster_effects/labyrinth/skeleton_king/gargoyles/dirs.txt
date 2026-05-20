@@ -1,0 +1,8 @@
+beam
+beam/backwards
+beam/hit
+energy_shield
+life_regen
+nova
+phys
+speed

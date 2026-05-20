@@ -1,0 +1,3 @@
+catarinabosstotem
+catarinabosstotem/fx
+catarinabosstotem/mat

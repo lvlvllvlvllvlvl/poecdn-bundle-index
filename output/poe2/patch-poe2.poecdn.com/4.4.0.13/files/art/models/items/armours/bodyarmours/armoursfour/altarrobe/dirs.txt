@@ -1,0 +1,12 @@
+attachments
+attachments/arfemale
+attachments/arfemale/neckaccss
+attachments/arfemale/robe
+attachments/arfemale/waistaccss
+attachments/armale
+attachments/armale/chestcloth
+attachments/armale/neckaccss
+attachments/armale/robe
+attachments/armale/waistaccss
+attachments/armale/waistcloth
+textures

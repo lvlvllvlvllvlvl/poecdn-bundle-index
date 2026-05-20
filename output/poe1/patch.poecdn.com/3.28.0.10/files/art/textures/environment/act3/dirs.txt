@@ -1,0 +1,19 @@
+beacon
+drygarden
+eleganthouse
+encampment
+fade
+figurehead
+furniture
+garden
+gemling_throne
+goldstatuespectres
+harborbridge
+labyrinthstatueportal
+pvp area
+quay
+quay/fade
+scepterofgod
+sewer_doedrebossarena
+storyglyphs
+tent_circus

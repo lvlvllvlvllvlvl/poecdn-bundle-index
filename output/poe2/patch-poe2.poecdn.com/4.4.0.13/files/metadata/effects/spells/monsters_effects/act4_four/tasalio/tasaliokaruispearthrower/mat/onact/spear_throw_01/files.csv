@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+d9842016173a95ff,sphere_distortion_u.mat,Tiny.VE.1,79214312,2200
+8089a24dff25ee66,sphere_distortion_r.mat,Tiny.VF.1,79198612,10052
+e124fd50b352a79e,sphere_distortion_r2.mat,Tiny.VB.1,77624012,8708
+145b026a88ceeef8,stabcombo02_u.mat,Tiny.VD,50519481,346
+fa528e7d90ef0f2f,stabcombo01_blurcone_r1.mat,Tiny.V4.1,83011208,32756
+0b73e336a06a9509,stabcombo01_spike_r.mat,Tiny.V4.1,83043964,33678
+2145d12d7c3477bb,stabcombo01_stabcore_r.mat,Tiny.VD.1,75116324,35092
+7c42e7b88697e08f,waterdriplets_r1.mat,Tiny.VE.1,79216512,40930
+3d47a6a03b7088ce,waterdriplets_u.mat,Tiny.V6.1,80877212,2356
+fd804c587886f9c7,windup_water_ribbons_r.mat,Tiny.VE.1,78902898,50434
+058d58b115dc0d11,windup_water_ribbons_u.mat,Tiny.VF.1,79208664,27834
+5d89e403f32f2b4e,bluroomph_r.mat,Tiny.V8.1,75750978,9100
+a11c8deec9d3499e,bluroomph_u.mat,Tiny.V6.1,80960722,2198

@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+fd9bb4d8953868ea,stygianmapdevicesmall.fmt,Art/Models/MapDevices/StygianMapDevice,355288,411548
+b1c33aa566d53445,stygianmapdevicesmall.fmt.header,Tiny_2,70314000,190
+7f25417feab62e19,stygianmapdevicelarge.fmt,Art/Models/MapDevices/StygianMapDevice,0,355288
+1e58c03c67a9b5b8,stygianmapdevicelarge.fmt.header,Tiny_2,70313805,195

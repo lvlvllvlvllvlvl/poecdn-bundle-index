@@ -1,0 +1,11 @@
+epk
+fx
+graphs
+mat
+mat/chaos_resistance_aura
+mat/curse_protection_aura
+mat/fire_damage_aura
+mat/holy_aura_core
+mat/life_regeneration_aura
+mat/lightning_damage_aura
+mat/mana_regeneration_aura

@@ -1,0 +1,7 @@
+animations
+animations/slum_hag
+animations/trench_hag
+attachments
+attachments/foresthags
+attachments/foresthags/skirt01
+attachments/foresthags/skirt02

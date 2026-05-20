@@ -1,0 +1,6 @@
+brutearmour
+brutearmour/attachments
+brutearmour/attachments/chainmailskirt
+brutearmour/attachments/plateskirt
+warriorarmour
+weapons

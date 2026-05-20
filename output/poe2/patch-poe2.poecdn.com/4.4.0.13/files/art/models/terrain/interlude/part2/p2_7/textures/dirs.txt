@@ -1,0 +1,6 @@
+architecture
+checkpoint
+cliffs
+ground
+statues
+waypoints

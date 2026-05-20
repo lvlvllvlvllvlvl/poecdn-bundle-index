@@ -1,0 +1,5 @@
+hair
+l_arm_dangler
+r_arm_dangler
+shirt
+skirt

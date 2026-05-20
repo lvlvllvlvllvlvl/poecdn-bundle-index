@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+55f0c16a3414ef04,skullmaskc.mat,Tiny_2,41366961,3254
+7bd57a3daf8f1a3f,skullmask_normal_dxt5.dds,Art/Models/Items/Armours/Helmets/HelmetStrDexR_1,306520,87556
+458afe119ca117ac,skullmask_normal_dxt5.dds.header,Tiny_2,41365441,1520
+3186977ffd9969f9,skullmask_colour_dxt5.dds,Art/Models/Items/Armours/Helmets/HelmetStrDexR_1,218964,87556
+d197becabd09fc14,skullmask_colour_dxt5.dds.header,Tiny_2,41363921,1520
+4a7e70e0dea99c9c,skullmask_colour_bc7.dds,Art/Models/Items/Armours/Helmets/HelmetStrDexR_1,218964,87556
+38eb7c5cc009a2fe,skullmask_colour_bc7.dds.header,Tiny_2,41363921,1520
+6697345c3c79ff0d,skullmask_colour.dds,Art/Models/Items/Armours/Helmets/HelmetStrDexR_1,175112,43852
+62d44dcee676e9f1,skullmask_colour.dds.header,Tiny_7,88727752,1520
+fd8ab6fa530f4b2b,metalmaskc.mat,Tiny_2,41361513,2408
+fef3b468e4948d7d,metalmask_normal_dxt5.dds,Art/Models/Items/Armours/Helmets/HelmetStrDexR_1,87556,87556
+6ed2249df236d668,metalmask_normal_dxt5.dds.header,Tiny_2,41359993,1520
+7ea7a8ff1d52c9c0,metalmask_colour_dxt5.dds,Art/Models/Items/Armours/Helmets/HelmetStrDexR_1,0,87556
+5c71aac19d78c1bc,metalmask_colour_dxt5.dds.header,Tiny_2,41358473,1520

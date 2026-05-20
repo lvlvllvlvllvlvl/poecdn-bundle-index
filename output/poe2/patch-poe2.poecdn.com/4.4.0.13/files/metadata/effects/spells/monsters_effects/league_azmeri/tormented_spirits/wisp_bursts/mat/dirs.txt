@@ -1,0 +1,8 @@
+primal
+primal/charge
+sacred
+sacred/charge
+vivid
+vivid/charge
+wild
+wild/charge

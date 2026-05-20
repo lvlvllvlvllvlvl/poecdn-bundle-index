@@ -1,0 +1,10 @@
+epk
+epk/audio
+fx
+mat
+mat/cast_trail
+mat/chain_block
+mat/djinn_burning
+mat/djinn_head
+mat/sand_streaks
+mat/sand_streaks_djinn

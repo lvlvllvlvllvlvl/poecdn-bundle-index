@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+d4641caeca42b1d4,albedoadd_tex.fxgraph,Folders/metadata/effects_A,3165178,72272
+ef4ac877d5e9aa5e,deathfade.fxgraph,Folders/metadata/effects_A,3237450,61048
+fcdc71ac88f3400a,normalmap.fxgraph,Folders/metadata/effects_A,3324974,21754
+343b105b94da1985,uvfade.fxgraph,Folders/metadata/effects_A,3346728,30148
+2c36b4e07f412708,whirlpool.fxgraph,Folders/metadata/effects_A,3931476,159660
+5785de1af20d6949,wall.fxgraph,Folders/metadata/effects_A,3376876,167228
+bf70d724b226dc60,water_wall.fxgraph,Folders/metadata/effects_A,3544104,71940
+ff66fa023d37abab,waterskirt.fxgraph,Folders/metadata/effects_A,3616044,160286
+c0f11f4b8d18e30b,watersphere.fxgraph,Folders/metadata/effects_A,3776330,155146
+53303a9d6f4f964b,multiplytexalpha.fxgraph,Folders/metadata/effects_A,3298498,11094
+215d76f7f4a686b6,multiplytexalphascalemoveuv.fxgraph,Folders/metadata/effects_A,3309592,15382

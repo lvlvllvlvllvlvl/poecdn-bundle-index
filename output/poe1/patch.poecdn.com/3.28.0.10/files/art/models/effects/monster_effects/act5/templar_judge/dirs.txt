@@ -1,0 +1,8 @@
+orb
+orb/ball
+orb/bolt
+spellcast
+stormcall
+stormcall/idle
+stormcall/idle_pulse
+stormcall/impact

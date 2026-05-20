@@ -1,0 +1,4 @@
+bloodstained_fossil
+bloodstained_fossil/bloodpulse
+bloodstained_fossil/bubble
+bloodstained_fossil/rotpyramid

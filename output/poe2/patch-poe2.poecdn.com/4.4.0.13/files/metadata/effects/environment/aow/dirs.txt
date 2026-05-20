@@ -1,0 +1,10 @@
+elder
+elder/attack_shaper
+elder/doodads
+elder/elder_portal
+elderguardian
+elderguardian/arena
+elderguardian/arena/sulphur3
+elderguardian/arena/sulphur3/flamethrower
+minotaur
+phoenix

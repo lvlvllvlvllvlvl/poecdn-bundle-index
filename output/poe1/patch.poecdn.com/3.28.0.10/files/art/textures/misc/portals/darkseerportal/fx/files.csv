@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+9e4d3576dc8def3b,beads.mat,Tiny_8,23965578,1268
+978d0f813f1d6341,spark.mat,Tiny_8,23981668,1734
+274db3d9fae46a09,sheen_noise_dxt1.dds,Art/Textures/Misc/portals/DarkSeerPortal/fx,524772,174924
+aa7eb229d430f717,sheen_noise_dxt1.dds.header,Tiny_8,23980148,1520
+ec307dd93e06d7ef,glow.mat,Tiny_8,23972506,1290
+77d9472cc26d26b7,grids.mat,Tiny_8,23973796,2352
+8eb9a15850c3e2d2,grids2.mat,Tiny_8,23976148,2480
+7e2097dfdf661f6e,grids_dxt1.dds,Art/Textures/Misc/portals/DarkSeerPortal/fx,0,174924
+96a6a1f70bfe3382,grids_dxt1.dds.header,Tiny_8,23978628,1520
+33e13301de50efd6,flarex8.mat,Tiny_8,23971478,1028
+5acc8248b62e0011,flare_t.mat,Tiny_8,23970236,1242
+835a879f90fb639b,cheap_rocks.mat,Tiny_8,23966846,350
+496123dd99f1a27a,cubes_square_dxt1.dds,Art/Textures/Misc/portals/DarkSeerPortal/fx,174924,174924
+a8e3a33fe3e0b2e2,cubes_square_dxt1.dds.header,Tiny_8,23968716,1520
+0a1c930ecec5432f,cubes_dxt1.dds,Art/Textures/Misc/portals/DarkSeerPortal/fx,349848,174924
+3eb501488522bf58,cubes_dxt1.dds.header,Tiny_8,23967196,1520

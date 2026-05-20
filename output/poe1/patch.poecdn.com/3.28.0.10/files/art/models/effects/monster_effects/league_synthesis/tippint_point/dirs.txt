@@ -1,0 +1,5 @@
+env_light
+guards_body
+memory_wave
+projectile_blast
+shaper_impact

@@ -1,0 +1,12 @@
+death
+death/explosion
+impact_slam
+molten_ground
+molten_ground/loop
+molten_ground/start
+perma_scorchcrack
+pulse_slam
+pulse_slam/explosion_02
+pulse_slam/explosion_03
+slam_big
+slam_small

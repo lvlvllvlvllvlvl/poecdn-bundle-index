@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+ae1705b14ac7c24f,weapon_transition.epk,Tiny.VD.1,98885114,510
+c7b1d1c5f5bb6f80,weapon_transition_epk_pass0.mat,Tiny.VF.1,102667168,1678
+1ec63923baecd176,enhancesword_intro.epk,Tiny.V0.1,105281052,512
+d3530095b2618834,enhancesword_intro_epk_pass0.mat,Tiny.VD.1,98883110,2004
+6804150ae97ae9c7,relic_alive.epk,Tiny.V2.1,104413778,1552
+dcbc38963d0732ac,relic_alive_epk_pass0.mat,Tiny.VC.1,104983174,946
+44c13ec012ccacad,relic_damage.epk,Tiny.VE.1,101592146,750
+d24dbe0f1d7db14e,relic_damage_epk_pass0.mat,Tiny.VA.1,103036284,1640
+b06a9baa09412932,relic_wakeup.epk,Tiny.V3.1,102410526,500
+b995377425a821a7,relic_wakeup_epk_pass0.mat,Tiny.V2.1,104415330,2128
+d8613868c18f19be,player_debuff.epk,Tiny.V0.1,105281564,248
+d7749b973357d6e8,portal_transition_caster.epk,Tiny.VA.1,103035722,562
+1557cd6624e1c4a0,portal_transition_caster_epk_pass0.mat,Tiny.VC.1,104978242,4932
+97e17d60f189edd2,portal_transition_knight.epk,Tiny.VE.1,101591584,562
+2ad3b93bb30d6edf,portal_transition_knight_epk_pass0.mat,Tiny.V3.1,102405620,4906

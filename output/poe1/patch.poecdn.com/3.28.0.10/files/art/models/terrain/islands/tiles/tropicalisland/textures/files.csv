@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+9667a6006c5e1185,tro_moss01_normal_bc7.dds,Folders/art/models/terrain/islands/tiles/tropicalisland_1,699212,1398276
+a9039bdae0e169d8,tro_moss01_normal_bc7.dds.header,Tiny_5,47622873,1520
+e2b759a6ee3b6826,tro_moss01_colour_bc1.dds,Folders/art/models/terrain/islands/tiles/tropicalisland_1,0,699212
+3bf36e82fc3109f4,tro_moss01_colour_bc1.dds.header,Tiny_5,47621353,1520
+f780d847deac0ee8,g_tro_drysand01.mat,Tiny_5,47612927,2346
+45ecb23772a49021,g_tro_drysand01_normal_dxt5.dds,Art/Models/Terrain/Islands/Tiles/TropicalIsland,0,1398276
+abeae3ac094ca018,g_tro_drysand01_normal_dxt5.dds.header,Tiny_5,47616793,1520
+9d46d4e44da63dca,g_tro_drysand01_colour_dxt5.dds,Art/Models/Terrain/Islands/Tiles/TropicalIsland_1,0,1398276
+b89b761343952279,g_tro_drysand01_colour_dxt5.dds.header,Tiny_5,47615273,1520

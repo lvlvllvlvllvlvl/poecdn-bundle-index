@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8aefa9101be0479f,active_ritual_buff.fxgraph,Folders/metadata/effects_1,20695163,65466
+d8f4dcc59b848167,fire_lava.fxgraph,Folders/metadata/effects_1,21142495,25634
+e596f31334d34ee7,pre_ritual_buff.fxgraph,Folders/metadata/effects_1,21506419,12262
+bde71b1e23f58527,ritual_buff.fxgraph,Folders/metadata/effects_1,21518681,83602
+1af824010226fc23,m_rune.fxgraph,Folders/metadata/effects_1,21327495,117438
+79ddf73b1b8ad0c8,m_rune_bloodstained.fxgraph,Folders/metadata/effects_1,21444933,61486
+ad64d90b597ffc6d,heightobjboundingbox_emissivetexbytime_prelight.fxgraph,Folders/metadata/effects_1,21240521,86974
+63aff962d9c4030d,heightobjboundingbox_emissivetex_prelight.fxgraph,Folders/metadata/effects_1,21168129,72392
+e6f11b5198bb2c1c,col_lum2emissive_flashtex.fxgraph,Folders/metadata/effects_1,21122945,19550
+01cf634852a513d2,candle_bloodstained.fxgraph,Folders/metadata/effects_1,21022205,69422
+eca50f04acb267f1,candle_flames_ritual.fxgraph,Folders/metadata/effects_1,21091627,31318
+77630c60762a07a0,bones_bloodstained.fxgraph,Folders/metadata/effects_1,20902093,71370
+50feecfc86bc8976,burning_charr.fxgraph,Folders/metadata/effects_1,20973463,48742
+14e94224f9087b38,blood_pool.fxgraph,Folders/metadata/effects_1,20760629,84942
+5181f59b972dd972,blood_pool_fade.fxgraph,Folders/metadata/effects_1,20845571,56522

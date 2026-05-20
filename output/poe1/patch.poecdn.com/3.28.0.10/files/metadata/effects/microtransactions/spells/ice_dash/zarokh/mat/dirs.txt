@@ -1,0 +1,3 @@
+afterimage
+blink_aoe
+ice_decal

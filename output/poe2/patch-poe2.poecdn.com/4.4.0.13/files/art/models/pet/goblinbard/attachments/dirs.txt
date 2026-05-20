@@ -1,0 +1,3 @@
+outfit_02
+outfit_03
+pipe

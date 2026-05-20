@@ -1,0 +1,17 @@
+burning_road
+burning_road/beam
+burning_road/idle
+ice_crystal
+light_cage
+onact
+onact/charge
+onact/charge2
+onact/death
+onact/wakeup
+projectile
+projectile/impact
+revive_beam
+revive_beam02
+scorching_beam
+scorching_beam/scorching_ground
+shield

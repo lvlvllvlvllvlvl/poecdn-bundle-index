@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+7858ea4e28fe7db9,synthesisersspecularc.mat,Tiny_7,73449560,5218
+54fab4e9c75cb402,synthesisers_normal_dxt5.dds,Art/Textures/Environment/Leagues/Synthesis/Synthesis_Devices_12,0,1398276
+693bd3aacb3d4055,synthesisers_normal_dxt5.dds.header,Tiny_8,25456142,1520
+5ae72c01e0376f14,synthesisers_colourspecular_dxt5.dds,Art/Textures/Environment/Leagues/Synthesis/Synthesis_Devices_14,0,2796388
+752306dd4abdc748,synthesisers_colourspecular_dxt5.dds.header,Tiny_8,25455302,840
+86d90a3e892d556d,synthesisers_colourspecular_bc7.dds,Art/Textures/Environment/Leagues/Synthesis/Synthesis_Devices_14,0,2796388
+0f178b262b082ddb,synthesisers_colourspecular_bc7.dds.header,Tiny_8,25455302,840
+0c375472c0c27219,synthesisers_colourspecular.dds,Folders/art/textures/misc/portals/5/soulstealer,0,1398268
+fa9c01af5e93a419,synthesisers_colourspecular.dds.header,Tiny_8,25462752,840
+b057e976a7eca237,soulstealerhelmeteffectc.mat,Art/Textures/Environment/Leagues/Synthesis/Synthesis_Devices_13,0,4380
+02ae134aa8363bd4,soulstealerhelmeteffect_colour_dxt5.dds,Folders/art/textures/items/armour/body/microtransactions/soulstealer_1,0,349700
+e86eebbdee0dd56b,soulstealerhelmeteffect_colour_dxt5.dds.header,Tiny_8,5449772,1520
+d3828f28146387c6,fractal_tile_dxt1.dds,Art/Textures/Environment/Leagues/Synthesis/Synthesis_Devices_13,4380,174924
+778667adfef8ab3d,fractal_tile_dxt1.dds.header,Tiny_7,73448040,1520

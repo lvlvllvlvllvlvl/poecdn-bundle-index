@@ -1,0 +1,11 @@
+panel10
+panel10/french
+panel10/german
+panel10/korean
+panel10/portuguese
+panel10/russian
+panel10/spanish
+panel10/thai
+panel10/traditional chinese
+panel3
+panel4

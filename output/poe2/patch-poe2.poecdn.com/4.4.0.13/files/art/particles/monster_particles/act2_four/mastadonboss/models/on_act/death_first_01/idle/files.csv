@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+4253b087d1740477,fx_crossplane02.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/FD9B3212F5A96F83.BB267376CDC0263D.grd_circle.pet,364760,6734
+5a68ef7e066c8125,fx_crossplane02.fmt.header,Tiny.VB,34042828,208
+4d85fd35062d0aaf,rig_be5b7ba5.smd,Tiny.V7,7041034,77
+2af45cd04943d51a,rig_be5b7ba5.smd.header,Tiny.V4,33985237,448
+68b0848d1de8e59f,death_idle.sm,Tiny.VB,34042432,396
+87a166a88bbf2eee,death_idle.amd,Tiny.VD,3415425,112
+8564d98915f1e34f,death_idle.ast,Tiny.V6,33587010,723

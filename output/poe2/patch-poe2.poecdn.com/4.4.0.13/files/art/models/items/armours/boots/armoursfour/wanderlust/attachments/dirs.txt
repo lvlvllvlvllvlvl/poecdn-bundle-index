@@ -1,0 +1,10 @@
+f
+f/belt
+f/beltbow
+f/lkneebow
+f/rkneebow
+m
+m/belt
+m/beltbow
+m/lkneebow
+m/rkneebow

@@ -1,0 +1,4 @@
+attachments
+attachments/thaumaturgycannister
+attachments/thaumaturgyfemaleskirt
+attachments/thaumaturgymaleskirt

@@ -1,0 +1,7 @@
+outfit_01
+outfit_01/helmet
+outfit_01/skirt
+outfit_02
+outfit_03
+skull
+weapon

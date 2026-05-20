@@ -1,0 +1,8 @@
+delirium
+delirium/epk
+delirium/epk/audio
+delirium/fx
+delirium/fxgraphs
+delirium/mat
+delirium/mat/debuff
+delirium/mat/surge

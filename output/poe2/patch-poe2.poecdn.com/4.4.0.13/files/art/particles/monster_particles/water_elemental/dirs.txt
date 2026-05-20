@@ -1,0 +1,4 @@
+lightning
+spellcast02
+stranglecharm
+waterelement

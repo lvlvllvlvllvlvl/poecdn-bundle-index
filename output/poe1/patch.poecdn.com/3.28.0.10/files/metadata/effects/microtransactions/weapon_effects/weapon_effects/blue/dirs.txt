@@ -1,0 +1,34 @@
+arcane
+arcane/1 h mace_ 1h axe
+arcane/1h sword
+arcane/2h mace
+arcane/2h sword
+arcane/bow
+arcane/dagger_claw_wand
+arcane/graph
+arcane/infernalaxe_arcane
+arcane/staff
+artic
+artic/1h_axe
+artic/1h_mace
+artic/1h_sword
+artic/2h_axe
+artic/2h_mace
+artic/2h_staff
+artic/2h_sword
+artic/bow
+artic/dagger_wand
+brainscrambler
+lightning
+lightning/1h_axe
+lightning/1h_mace
+lightning/1h_sword
+lightning/2h_axe
+lightning/2h_mace
+lightning/2h_staff
+lightning/2h_sword
+lightning/bow
+lightning/claw_dagger_wand
+specter
+specter/pets
+trident

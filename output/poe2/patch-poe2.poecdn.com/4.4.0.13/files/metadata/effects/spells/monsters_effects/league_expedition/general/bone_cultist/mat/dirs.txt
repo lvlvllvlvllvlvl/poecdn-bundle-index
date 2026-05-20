@@ -1,0 +1,9 @@
+act_eggproj
+act_spellcast_aoe
+act_spellcast_proj_01
+body_base
+egg_explosion
+egg_impact
+egg_pop
+egg_projectile
+projectile

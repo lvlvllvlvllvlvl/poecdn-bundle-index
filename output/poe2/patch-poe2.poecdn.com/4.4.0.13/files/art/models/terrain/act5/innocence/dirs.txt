@@ -1,0 +1,6 @@
+hideout
+hideout/celestialcathedral
+hideout/celestialcathedral/textures
+map sanctuary
+map sanctuary/tgms
+tgms

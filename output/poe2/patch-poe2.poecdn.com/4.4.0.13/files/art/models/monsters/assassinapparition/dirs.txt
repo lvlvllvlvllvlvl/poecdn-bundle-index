@@ -1,0 +1,15 @@
+animations
+animations/imprisoneddjinnalttrader
+attachments
+attachments/chest
+attachments/imprisoneddjinntrader
+attachments/imprisoneddjinntrader/lsleeves
+attachments/imprisoneddjinntrader/rsleeves
+attachments/marakethtimedjinn
+attachments/marakethtimedjinn/sash
+attachments/marakethwaterdjinncape
+attachments/marakethwaterdjinnhair
+attachments/marakethwaterdjinnjug
+attachments/marakethwaterdjinnrobe
+textures
+textures/imprisoneddjinn

@@ -1,0 +1,4 @@
+attachments
+attachments/cape
+attachments/capeshort
+attachments/skirt

@@ -1,0 +1,2 @@
+shattered_weapons
+shattered_weapons/random_seed

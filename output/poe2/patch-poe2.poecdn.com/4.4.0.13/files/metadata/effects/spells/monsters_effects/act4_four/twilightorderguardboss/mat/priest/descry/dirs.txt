@@ -1,0 +1,3 @@
+boss_channel_01
+boss_full_power_01
+boss_stumble_01

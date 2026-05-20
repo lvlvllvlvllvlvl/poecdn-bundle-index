@@ -1,0 +1,6 @@
+flame
+poison_bomb
+poison_bomb/big_whisps
+poison_bomb/spiral_wisp
+smoke
+smoke/spiral

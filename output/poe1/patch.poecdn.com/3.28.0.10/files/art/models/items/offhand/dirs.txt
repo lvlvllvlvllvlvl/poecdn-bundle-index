@@ -1,0 +1,10 @@
+shields
+shields/microtransactions
+shields/microtransactions/goblinshamanshield
+shields/microtransactions/honourguardbuckler
+shields/microtransactions/honourguardbuckler/textures
+shields/microtransactions/honourguardshield
+shields/microtransactions/hyenahunterbuckler
+shields/microtransactions/hyenahunterbuckler/textures
+shields/microtransactions/lichsgazeshield
+shields/microtransactions/lichsgazeshield/textures

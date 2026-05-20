@@ -1,0 +1,17 @@
+breach_puddle
+breach_puddle/burst
+breach_puddle/close
+breach_puddle/loop
+breach_puddle/open
+breach_quicksand
+breach_ripple
+chaos_beam
+chaos_beam/beam_start
+chaos_beam/impact
+chaos_spark
+idle
+onact
+onact/attack
+onact/barrage_01
+projectile_impact
+wither_aura

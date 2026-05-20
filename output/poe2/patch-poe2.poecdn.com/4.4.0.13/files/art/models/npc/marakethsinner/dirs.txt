@@ -1,0 +1,7 @@
+attachments
+attachments/female_skirt_a
+attachments/female_skirt_b
+attachments/female_skirt_c
+attachments/male_skirt_a
+attachments/male_skirt_b
+attachments/male_skirt_c

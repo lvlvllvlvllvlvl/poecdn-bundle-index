@@ -1,0 +1,7 @@
+attachments
+attachments/feathered
+attachments/quadrillaarctic
+textures
+textures/pillar
+textures/quadrillablackhairremake
+textures/quadrillawhairremake

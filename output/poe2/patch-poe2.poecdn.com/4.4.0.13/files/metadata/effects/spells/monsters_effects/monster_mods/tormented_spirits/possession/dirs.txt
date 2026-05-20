@@ -1,0 +1,13 @@
+epk
+fx
+graphs
+mat
+mat/primalabyss
+mat/primaldeath
+mat/primalpoof
+mat/sacreddeath
+mat/sacredpoof
+mat/vividdeath
+mat/vividpoof
+mat/wilddeath
+mat/wildpoof

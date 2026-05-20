@@ -1,0 +1,9 @@
+attachments
+attachments/accessories
+attachments/corpsearmour
+attachments/corpsweapons
+attachments/corpsweapons/arm
+attachments/corpsweapons/corpse
+attachments/earrings
+attachments/skirt
+textures

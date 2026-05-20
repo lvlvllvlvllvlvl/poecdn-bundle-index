@@ -1,0 +1,8 @@
+cold
+fire
+fire/emerge
+fire/idle
+fire/submerge
+lightning
+lightning/emerge
+lightning/submerge

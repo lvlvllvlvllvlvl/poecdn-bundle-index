@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+eec9499906541bbf,rig_010df93a.smd,Streaming/Content/metadata/monsters/leagueexpedition/npc/tujen.ot,0,106853
+7948e481168ef4e6,rig_010df93a.smd.header,Tiny.V3,36565207,675
+772cc9d032156b59,onact_bombthrow.sm,Tiny.V2,37081047,882
+d48d119f792ee478,onact_bombthrow.amd,Tiny.VF,34933205,130
+7b6553eed7b49f7b,onact_bombthrow.ast,Tiny.V6,37028921,3840

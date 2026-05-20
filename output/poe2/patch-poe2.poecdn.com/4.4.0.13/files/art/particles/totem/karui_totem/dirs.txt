@@ -1,0 +1,9 @@
+hole
+slam
+slam/essence
+slash
+slash/shockwave
+totem
+warrior
+warrior/blue
+weapon

@@ -1,0 +1,10 @@
+f
+f/necklace
+f/necklace/dex
+f/necklace/int
+f/shawl
+f/skirt
+m
+m/necklace
+m/shawl
+m/skirt

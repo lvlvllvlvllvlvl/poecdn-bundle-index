@@ -1,0 +1,6 @@
+attack_01
+attack_04
+cyclone_01
+dash_01
+dualstrike_01
+walk_emerge_01

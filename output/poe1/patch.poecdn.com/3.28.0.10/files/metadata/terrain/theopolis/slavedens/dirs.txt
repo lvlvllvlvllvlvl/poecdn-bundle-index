@@ -1,0 +1,14 @@
+doublewall
+feature
+floor
+ledge
+ledge/unwalkableledge
+lowerwall
+objects
+stairs
+thickwall
+thickwall/unwalkablethickwall
+thinwall
+thinwall/unwalkablethinwall
+vanguard
+vanguard/vaultdoor

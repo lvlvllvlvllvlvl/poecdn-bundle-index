@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+7c7bd61a22dc34a5,grd_idle.pet,Tiny_9,301839422,10692
+1f0ad739914687f0,frame_idle.pet,Tiny_9,301805570,11284
+06281473d87a9b83,frame_idle_red.pet,Tiny_9,301816854,11282
+cc7e1cbc31a9d899,frame_idle_white.pet,Tiny_9,301828136,11286
+a4ccf64fa32b6c34,baseopen.pet,Tiny_9,301735714,22192
+cebe31df920ece6a,baseopentop.pet,Tiny_9,301802310,3260
+d04532a01fcf8ee8,baseopen_red.pet,Tiny_9,301757906,22198
+f3cb7f1824133c5c,baseopen_white.pet,Tiny_9,301780104,22206
+f3dbcb77e75fc293,baseclose.pet,Tiny_9,301691768,12588
+5c317110c3cef17e,baseclosestone.pet,Tiny_9,301729532,6182
+bd0f28d2dc03aa8c,baseclose_red.pet,Tiny_9,301704356,12586
+41967fb5bc11740e,baseclose_white.pet,Tiny_9,301716942,12590

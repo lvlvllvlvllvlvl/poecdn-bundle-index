@@ -1,0 +1,5 @@
+faridunbossreskin
+faridunbossreskin/attachments
+faridunbossreskin/attachments/cape
+faridunbossreskin/attachments/weapon
+textures

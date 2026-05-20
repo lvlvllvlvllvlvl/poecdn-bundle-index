@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+a9dbca4ed3a49513,emitbyscale.fxgraph,Content/metadata/effects/microtransactions/spells/witch/28501A42750AA941.boneblast_zone.ao,419840,26462
+c81c0dd8bc1af01f,spawnassembled_unearth.fxgraph,Content/metadata/effects/microtransactions/spells/witch/28501A42750AA941.boneblast_zone.ao,949316,83038
+6a54af4cd27ad749,groundbreak_direction.fxgraph,Content/metadata/effects/microtransactions/spells/witch/28501A42750AA941.boneblast_zone.ao,446302,346952
+234da09be7390072,groundtexture.fxgraph,Content/metadata/effects/microtransactions/spells/witch/28501A42750AA941.boneblast_zone.ao,793254,114372
+d2fd28a706754cca,custom_emitdirectiontarget_local.fxgraph,Content/metadata/effects/microtransactions/spells/witch/28501A42750AA941.boneblast_zone.ao,355118,64722
+d12ae34bce2fb984,custom_condition_lifetime.fxgraph,Content/metadata/effects/microtransactions/spells/witch/28501A42750AA941.boneblast_zone.ao,247940,107178
+b73ddfd1f5c4ae71,normaldetail_blooddrying.fxgraph,Content/metadata/effects/microtransactions/spells/witch/28501A42750AA941.boneblast_zone.ao,907626,41690
+b391d737f176e3d5,normaldetail_blooddrying_timeline.fxgraph,Content/metadata/effects/microtransactions/spells/witch/28501A42750AA941.boneblast_zone.ao,2889588,40902
+3a1c5590d5869a2e,normaldetail_blooddrying_noshatter.fxgraph,Content/metadata/effects/microtransactions/spells/elemental_hit/08E5D14A74A66FA3.elehit_arrow_light.ao,2840760,36008

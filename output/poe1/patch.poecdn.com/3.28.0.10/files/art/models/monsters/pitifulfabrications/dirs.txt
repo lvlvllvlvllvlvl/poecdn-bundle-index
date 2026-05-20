@@ -1,0 +1,11 @@
+pitifulfabrication_01
+pitifulfabrication_01/voodooattachments
+pitifulfabrication_02
+pitifulfabrication_02/voodooattachments
+pitifulfabrication_02/voodooattachments/body
+pitifulfabrication_02/voodooattachments/l_arm
+pitifulfabrication_02/voodooattachments/r_arm
+pitifulfabrication_02/voodooattachments/stick
+pitifulfabrication_03
+pitifulfabrication_03/voodooattachments
+textures

@@ -1,0 +1,11 @@
+1h_axe
+1h_claw
+1h_mace
+1h_sword
+2h_axe
+2h_bow
+2h_mace
+2h_staff
+2h_sword
+graphs
+wand_dagger

@@ -1,0 +1,11 @@
+valhalla
+valhalla/models
+valhalla/models/lightning_ipct
+valhalla/models/melee_ipct
+valhalla/textures
+valhalla/textures/lightning_ipct
+valhalla/textures/lightning_ipct/fx
+valhalla/textures/melee_ipct
+valhalla/textures/melee_ipct/fx
+valhalla/textures/weapon
+valhalla/textures/weapon/fx

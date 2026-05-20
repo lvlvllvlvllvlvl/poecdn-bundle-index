@@ -1,0 +1,3 @@
+charge_01
+detonate
+tentacle_vomit_01

@@ -1,0 +1,7 @@
+ground_slam_02
+leap_slam_land
+multi_slam_01
+multi_slam_02
+on_act_deathpoof
+sweep_cleave
+vomit_mortar_impact

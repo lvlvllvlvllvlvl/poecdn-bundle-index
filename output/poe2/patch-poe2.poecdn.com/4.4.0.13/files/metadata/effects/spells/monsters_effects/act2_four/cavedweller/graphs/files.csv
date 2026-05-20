@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+6f52f522775cff71,field_groundsplat_ripples.fxgraph,Content/metadata/effects/spells/monsters_effects/act2_four/6C390AD7A9D3EBEB.lightning.trl,1492350,291018
+1293fb763b1d0d99,screech_debuff.fxgraph,Content/metadata/effects/spells/monsters_effects/2287BC3A30828158.blood_gather.pet,1611432,48654
+9af15d3e9e8f60d8,vtx_translate.fxgraph,Content/metadata/effects/spells/monsters_effects/act2_four/0D137DB09E72D874.spawn_totem.epk,4150903,145404
+6dfe9dabf0612751,on_act_glow_demonic.fxgraph,Content/metadata/effects/spells/monsters_effects/2287BC3A30828158.blood_gather.pet,1766358,62038
+5ada81eafdd2388d,on_act_glow.fxgraph,Content/metadata/effects/spells/monsters_effects/2287BC3A30828158.blood_gather.pet,1998238,61576

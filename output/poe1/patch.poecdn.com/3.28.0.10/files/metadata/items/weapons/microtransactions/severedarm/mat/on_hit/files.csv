@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+84a50b38de801323,distort_sphere_r.mat,Tiny_D,461271886,6936
+8434e55766c4282c,mblur_sphere_r.mat,Tiny_D,461297470,11164
+9c59009934d8872f,mblur_sphere_u.mat,Tiny_11,63879857,346
+3db2b065ecb86f18,flare_r.mat,Tiny_D,461278822,18648
+c310593d47ed1dfe,flare_u.mat,Tiny_11,63879857,346
+1e2d9ad54a45ab11,blood_splash_02_r.mat,Tiny_D,461166700,42518
+be8ead3f80946c18,blood_splash_02_u.mat,Tiny_D,461209218,6872
+3eb75dd0d9b68bf2,blood_burst_r.mat,Tiny_D,461105384,48776
+6f6d196dfd5eb845,blood_burst_u.mat,Tiny_D,461154160,12540
+148b692297bde547,blood_blast_r.mat,Tiny_D,461071138,34246
+150f15bb744289e5,blood_blast_u.mat,Tiny_11,63879857,346
+480983a96cc73e03,bloodsplash_01_r.mat,Tiny_D,461216090,40038
+67a5ffc3558ce409,bloodsplash_01_u.mat,Tiny_D,461256128,15758

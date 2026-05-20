@@ -1,0 +1,5 @@
+attachments
+attachments/chestscraps
+attachments/chestscraps/lshoulder
+attachments/chestscraps/rshoulder
+attachments/loincloth

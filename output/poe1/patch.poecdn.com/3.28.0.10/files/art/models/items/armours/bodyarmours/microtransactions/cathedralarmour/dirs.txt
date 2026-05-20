@@ -1,0 +1,11 @@
+attachments
+attachments/shoulderpads
+attachments/shoulderpads/animation
+attachments/shoulderpads/animation/l_side
+attachments/shoulderpads/animation/r_side
+attachments/skirt
+attachments/skirt/second_layer
+attachments/strint_shoulders
+attachments/strint_shoulders/l_shoulder
+fx
+textures

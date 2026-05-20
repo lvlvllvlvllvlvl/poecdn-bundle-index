@@ -1,0 +1,6 @@
+fx
+mat
+mat/meleetrail
+mat/tripleslam_roundbig
+mat/tripleslam_roundsmall
+mat/triplrslam_rect

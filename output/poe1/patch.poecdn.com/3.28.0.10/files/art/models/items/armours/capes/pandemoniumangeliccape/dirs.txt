@@ -1,0 +1,7 @@
+pandemoniumangeliccapedex
+pandemoniumangeliccapedexint
+pandemoniumangeliccapeint
+pandemoniumangeliccapestr
+pandemoniumangeliccapestrdex
+pandemoniumangeliccapestrdexint
+pandemoniumangeliccapestrint

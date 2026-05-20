@@ -1,0 +1,6 @@
+darkshard
+darkshard/textures
+darkshard/textures/dome
+lightbringer
+lightbringer/textures
+lightbringer/textures/dome

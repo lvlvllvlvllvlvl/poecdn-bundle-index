@@ -1,0 +1,11 @@
+charge
+cold_mortar
+cold_mortar/projectile
+fearorb
+largebite
+mercuryburst
+mercuryburst/explo
+mercurytotem
+statue_idle
+statue_room_pulse
+superlargebite

@@ -1,0 +1,3 @@
+beacon
+beacons_rig
+beacons_rig/textures

@@ -1,0 +1,16 @@
+area0
+area0/graphs
+area0/groundtypes
+area0/rooms
+area1
+area1/graphs
+area1/groundtypes
+area1/rooms
+area2
+area2/graphs
+area2/groundtypes
+area2/rooms
+area3
+area3/graphs
+area3/groundtypes
+area3/rooms

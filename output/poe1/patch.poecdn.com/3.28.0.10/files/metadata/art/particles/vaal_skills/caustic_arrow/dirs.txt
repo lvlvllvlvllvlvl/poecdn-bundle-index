@@ -1,0 +1,4 @@
+celestial
+celestial/textures
+celestial/textures/acidic_grd
+celestial/textures/large_projectile

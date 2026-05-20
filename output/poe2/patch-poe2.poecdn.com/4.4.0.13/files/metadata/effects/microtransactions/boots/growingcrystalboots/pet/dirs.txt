@@ -1,0 +1,9 @@
+orange
+orange/shatter
+pink
+pink/shatter
+purple
+purple/shatter
+red
+red/shatter
+shatter

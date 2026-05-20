@@ -1,0 +1,12 @@
+attachments
+attachments/bloodfeverattachment
+attachments/hair
+attachments/karuiwarriorrot
+attachments/karuiwarriorrot/necklace
+attachments/karuiwarriorrot/skirt
+attachments/ngamahudrunk
+attachments/ngamahudrunk/necklace
+attachments/ngamahudrunk/skirt
+attachments/rot
+attachments/skirt
+attachments/skull

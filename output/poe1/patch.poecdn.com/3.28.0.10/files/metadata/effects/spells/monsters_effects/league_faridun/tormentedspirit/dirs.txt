@@ -1,0 +1,11 @@
+epk
+fx
+mat
+mat/chains_orb
+mat/ondeath
+mat/possessed
+mat/sand_streaks
+mat/sml_smothering
+mat/smothering
+mat/tormented
+mat/tormented_hit

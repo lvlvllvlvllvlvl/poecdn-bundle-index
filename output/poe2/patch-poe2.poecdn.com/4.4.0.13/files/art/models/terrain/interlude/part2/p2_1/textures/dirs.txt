@@ -1,0 +1,12 @@
+architecture
+checkpoint
+doodads
+doodads/pots
+doodads/statues
+dunes
+edge
+ground
+hives
+hives/bee
+rocks
+titanvalley

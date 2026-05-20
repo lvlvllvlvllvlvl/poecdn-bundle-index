@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+481509b2725816eb,arenaring01.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/FAD2B4308B7A5474.84DDBF98CD22A439.meteor.pet,440130,8383
+b33cd50ffaa54334,arenaring01.fmt.header,Tiny.VA,38316749,208
+91f6f379f6cd5e56,bloodsplash.amd,Tiny.V7,3833811,94
+197477edbe52c14a,bloodsplash.ast,Tiny.V9,38596669,336
+a028462022af33de,fx_grdwave01.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/FAD2B4308B7A5474.6E85CCBA87A2741D.channeling_body_glow.epk,699212,17463
+ac9bbc8e1e880878,fx_grdwave01.fmt.header,Tiny.VD,38359771,208
+a2c871e1c87af9d8,rig_60322ef7.smd,Tiny.VF,38054202,72
+14bdd9c141d5ca3c,rig_60322ef7.smd.header,Tiny.VE,37806239,448
+fca974679433038b,rig.amd,Tiny.VF,38052776,1426
+e51ff331a917baec,rig.ast,Content/metadata/effects/spells/monsters_effects/league_ultimatum/0D27CC49E359B10E.npc_fakeskin.epk,547894,9539
+dfa984166b9c8009,environment_fx_76abc3e2.smd,Tiny.V3,37509006,72
+42778aa3798381be,environment_fx_76abc3e2.smd.header,Tiny.VF,35967354,448
+56fcaae144a553f6,wagerspawner.sm,Tiny.VF,38055808,352
+f855f23c2fe4a1f0,wagerenvfx.sm,Tiny.V6,38024989,376
+94907ce055531d13,wagerenvfx.amd,Tiny.VF,39053586,92
+60a5dfe08fd34375,wagerenvfx.ast,Tiny.V9,38599424,1611

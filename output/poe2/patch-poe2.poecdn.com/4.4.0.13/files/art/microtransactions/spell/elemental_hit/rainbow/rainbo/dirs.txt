@@ -1,0 +1,10 @@
+fire
+fire/aoe
+fire/arrow
+fire/arrow/fx
+fire/arrow/fx/impact
+fire/melee
+fire/wand
+fire/wand/impact
+ice
+ice/aoe

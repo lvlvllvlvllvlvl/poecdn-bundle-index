@@ -1,0 +1,6 @@
+swampfungusbehemoth
+swampfungusbehemoth/attachments
+swampfungusbehemoth/attachments/robe
+swampfungusbehemoth/attachments/weapon
+swampfungusbehemoth/textures
+textures

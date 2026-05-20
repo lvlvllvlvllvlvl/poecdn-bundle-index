@@ -1,0 +1,13 @@
+epk
+fmt
+fx
+fx/charge_01
+fx/detonate
+fx/tentacle_vomit_01
+graph
+mat
+mat/charge_01
+mat/detonate
+mat/detonate/explode_01
+mat/detonate/runes
+mat/tentacle_vomit_01

@@ -1,0 +1,33 @@
+hash,file,bundle,offset,size
+ed4b671bf7778c59,yellow_solidc.mat,Tiny_1,28774389,2176
+b29685d5b012f557,yellow_solid_dxt1.dds,Tiny_6,128444287,332
+96b399dfcdbfd8ab,yellow_solid_dxt1.dds.header,Tiny_6,128444619,1520
+87d89729dc2bbd91,yellow_solid.mat,Tiny_1,28773401,988
+9141163efc1232ae,yellow_solid.dds,Tiny_6,128444287,332
+5f89345b2d37182f,yellow_solid.dds.header,Tiny_6,128444619,1520
+f9d9f8fd2d28ada7,white_solid.mat,Tiny_1,28772117,1284
+349ea1fc5aac58d4,white_solid_dxt5.dds,Tiny_8,37147566,516
+2f59472e41f15ded,white_solid_dxt5.dds.header,Tiny_8,37148082,1520
+39a5a8b57413bbaf,waves_tiled.mat,Tiny_1,28768355,3762
+66788faafad0de60,waves_tiled_dxt2.dds,Art/Microtransactions/Character_FX/Plated_1,437256,87556
+576990a40ab47379,waves_tiled_dxt2.dds.header,Tiny_1,70073382,1520
+b9b81c21aede298a,outerswipec.mat,Tiny_1,28763349,5006
+26c74f98923a33cb,outerswipe_dxt5.dds,Tiny_1,28761369,1700
+413f2f89542605b8,outerswipe_dxt5.dds.header,Tiny_1,28763069,280
+f6161f684bbfd4fd,outerswipe_bc1.dds,Tiny_1,28755389,924
+8820d0eac235676d,outerswipe_bc1.dds.header,Tiny_1,28756313,280
+c966a019dd923283,outerswipe.mat,Tiny_1,28756593,4776
+d003437e933163e5,outerswipe.dds,Tiny_1,28755389,924
+783fc2065c640ceb,outerswipe.dds.header,Tiny_1,28756313,280
+30d8b15a8f2f88f5,light_beam.mat,Tiny_1,28751247,4142
+79253c5b90587a67,light_beam_dxt5.dds,Folders/art/particles/monster_particles/act10,1948044,22020
+6ea34f1d1af79ea0,light_beam_dxt5.dds.header,Tiny_6,44016472,1520
+5091b877820d2855,explosion - shimmer.mat,Tiny_1,28748777,2470
+a2bf95470aa1f6f3,explosion - shimmer_dxt5.dds,Art/Microtransactions/Town_Portal/KrakenPortal_10,0,22020
+c720a74deee77a38,explosion - shimmer_dxt5.dds.header,Tiny_7,10365570,1520
+9687b16bafd99559,delvelightsc.mat,Tiny_1,28747239,1538
+5179777e5a314684,delvelights_dxt5.dds,Art/particles/environment_effects/League_Delve_7,786956,87556
+0de77ccdaac9f11b,delvelights_dxt5.dds.header,Tiny_7,9965314,1520
+75637e8437d11eec,corelight.mat,Tiny_1,28745445,1794
+581ff9706163820a,corelight_dxt5.dds,Art/particles/environment_effects/League_Synthesis_4,3256480,5636
+5321e49b2da51538,corelight_dxt5.dds.header,Tiny_6,27773335,1520

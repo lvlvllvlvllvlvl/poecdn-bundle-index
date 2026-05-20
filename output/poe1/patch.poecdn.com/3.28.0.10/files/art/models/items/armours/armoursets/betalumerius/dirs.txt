@@ -1,0 +1,8 @@
+attachments
+attachments/beltbells
+attachments/ribbons
+attachments/robe
+attachments/robe/animations
+attachments/robe/animations/originals
+attachments/wings
+textures

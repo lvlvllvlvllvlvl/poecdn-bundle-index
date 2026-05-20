@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+bad84af203a42c86,darkshardfalconc.mat,Art/Models/Pet/DarkShardFalcon/textures,1049060,4666
+a6928b31f207ea0d,darkshardfalcon_normal_dxt5.dds,Art/Models/Pet/DarkShardFalcon/textures_1,0,1398276
+7ef2282da32492bf,darkshardfalcon_normal_dxt5.dds.header,Tiny_3,13573344,1520
+6702ed2b26574df5,darkshardfalcon_glow_dxt1.dds,Art/Models/Pet/DarkShardFalcon/textures,699212,174924
+171aa96371811835,darkshardfalcon_glow_dxt1.dds.header,Tiny_3,13571824,1520
+70661ab7e091eebe,darkshardfalcon_glow2_dxt1.dds,Art/Models/Pet/DarkShardFalcon/textures,874136,174924
+0b42160d5036ec80,darkshardfalcon_glow2_dxt1.dds.header,Tiny_3,13570304,1520
+9cb5f6fc91f3f52a,darkshardfalcon_colour_dxt1.dds,Art/Models/Pet/DarkShardFalcon/textures,0,699212
+883f918e886ad9d9,darkshardfalcon_colour_dxt1.dds.header,Tiny_3,13568784,1520

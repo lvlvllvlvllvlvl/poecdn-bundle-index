@@ -1,0 +1,7 @@
+bird_jumpemerge
+bird_swarm
+bite_impact
+bite_trails
+screech
+slam
+tail_whip

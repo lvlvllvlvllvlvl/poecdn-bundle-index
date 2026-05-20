@@ -1,0 +1,11 @@
+attachments
+attachments/female
+attachments/female/helmet01
+attachments/female/robe
+attachments/female/robe/attachments
+attachments/helmet02
+attachments/male
+attachments/male/helmet01
+attachments/male/robe
+attachments/male/robe/attachments
+textures

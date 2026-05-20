@@ -1,0 +1,4 @@
+lights
+lights/animations
+lights/animations/ritual_aoe
+lights/animations/shrine

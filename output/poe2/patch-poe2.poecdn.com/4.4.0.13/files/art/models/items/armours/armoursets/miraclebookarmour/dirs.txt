@@ -1,0 +1,4 @@
+attachments
+attachments/accessories
+attachments/book
+attachments/skirt

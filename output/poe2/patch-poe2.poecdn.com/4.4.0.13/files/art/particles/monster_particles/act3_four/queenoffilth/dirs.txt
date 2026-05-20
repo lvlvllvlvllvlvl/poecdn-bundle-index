@@ -1,0 +1,17 @@
+mb
+mb/corpse_ball_projectile
+mb/corpse_ball_projectile/cone_splat
+mb/corpse_ball_projectile/impact_ring
+mb/extra_curse_rig
+mb/mushroom
+mb/poop_ground
+mb/tainted_curse_onplayer
+mb/tainted_curse_onplayer/animations
+textures
+textures/anti_caster_curse
+textures/anti_melee_curse
+textures/anti_minion_curse
+textures/on_act
+textures/on_act/emerge_01
+textures/tainted_life
+textures/tainted_mana

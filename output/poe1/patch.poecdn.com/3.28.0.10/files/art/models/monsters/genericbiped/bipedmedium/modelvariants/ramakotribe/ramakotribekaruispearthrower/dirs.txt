@@ -1,0 +1,4 @@
+attachments
+attachments/rsthairfeather
+attachments/rstskrit
+attachments/rstweapon

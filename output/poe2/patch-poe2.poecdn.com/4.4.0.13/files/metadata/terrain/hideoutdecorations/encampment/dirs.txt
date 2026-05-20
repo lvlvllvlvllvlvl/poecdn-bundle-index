@@ -1,0 +1,8 @@
+encampmentbed
+encampmentchest
+encampmentcontainercluster
+encampmentcrate
+encampmentequipment
+encampmentstoragetent
+encampmenttable
+settlementbuildings

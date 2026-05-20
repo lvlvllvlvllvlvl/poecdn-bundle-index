@@ -1,0 +1,10 @@
+attachments
+attachments/arms
+attachments/armsdex
+attachments/armsstr
+attachments/belt
+attachments/collar
+attachments/collardex
+attachments/collarstr
+attachments/skirt
+textures

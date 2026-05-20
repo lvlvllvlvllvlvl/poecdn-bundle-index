@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+7391d6b1ea943058,particle_burst.pet,Tiny_9,273074976,22450
+34facde0243fd078,spike_burst.pet,Tiny_9,273097426,31464
+0a2511e47355571b,spike_in_burst.pet,Tiny_9,273003518,8440
+58f171c6a8cb8471,ground_slam.pet,Tiny_9,273045810,21656
+0fde5824b1f6a26e,ground_slam_cir.pet,Tiny_9,273067466,3210
+3e689b9de652a93d,ground_slam_dust_ring.pet,Tiny_9,273070676,4300
+b9d2c861e34f8b05,explosion.pet,Tiny_9,273011958,33852
+7597ef820206fec9,exert_idle.pet,Tiny_9,272960970,5902
+1f8d19a3c90728f7,exert_spike_burst.pet,Tiny_9,272966872,36646
+74261fbb832f8e58,exert_spike_in_burst.pet,Tiny_9,273003518,8440
+517ae9f92ac74b7f,exert_ground_slam.pet,Tiny_9,272910098,39870
+745bc3314686c9f2,exert_ground_slam_cir.pet,Tiny_9,272949968,6702
+d5eae993da99f5d6,exert_ground_slam_dust_ring.pet,Tiny_9,272956670,4300

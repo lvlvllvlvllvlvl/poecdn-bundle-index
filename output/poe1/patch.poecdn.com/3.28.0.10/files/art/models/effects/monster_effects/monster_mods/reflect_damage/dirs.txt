@@ -1,0 +1,4 @@
+elemental
+ice
+magic
+rare

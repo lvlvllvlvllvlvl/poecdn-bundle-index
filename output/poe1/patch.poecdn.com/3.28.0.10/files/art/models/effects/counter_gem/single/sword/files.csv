@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+0e1d23f6edf215cf,sword_single_e6a12e5b.smd,Art/Models/Effects/counter_gem/single/sword,106033,34560
+9d0d9cfee704211c,sword_single_e6a12e5b.smd.header,Tiny_1,85160505,368
+d786f24e418c9af7,swordcountersingle.sm,Tiny_1,85163390,596
+73e1e788151a3c35,swordcountersingle.amd,Tiny_2,7324250,194
+e45109d4d2b544d9,swordcountersingle.ast,Tiny_1,85162396,994
+be43ad7d8814cf70,swordcounter.sm,Tiny_1,85161818,578
+83b819c56b8ab0eb,swordcounter.amd,Tiny_2,7324250,194
+662ed91fe651603e,swordcounter.ast,Tiny_1,85160873,945
+51f8c77df8e299f1,rig_b1efb8d7.smd,Art/Models/Effects/counter_gem/single/sword,36985,69048
+f2ce9087e5f94801,rig_b1efb8d7.smd.header,Tiny_1,85160137,368
+e4e0cbd1e76f7f9b,onehandswordauromvorax.fmt,Art/Models/Effects/counter_gem/single/sword,0,36985
+ed9c3367336b46ef,onehandswordauromvorax.fmt.header,Tiny_1,85159749,388

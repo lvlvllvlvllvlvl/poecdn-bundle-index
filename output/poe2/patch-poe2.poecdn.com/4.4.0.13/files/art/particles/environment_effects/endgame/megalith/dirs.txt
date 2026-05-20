@@ -1,0 +1,3 @@
+rune_activation_beam
+soul_beam
+soul_beam/mb

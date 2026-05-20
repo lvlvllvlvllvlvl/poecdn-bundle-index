@@ -1,0 +1,7 @@
+accessories
+corpsearmour
+corpsweapons
+corpsweapons/arm
+corpsweapons/corpse
+earrings
+skirt

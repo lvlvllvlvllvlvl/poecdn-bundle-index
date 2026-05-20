@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+7b24f6b8a0bbd0f0,pvparea_flagc.mat,Tiny_7,50973344,1952
+a9b4f6a64f4c2ca3,pvparea_flag_normal_dxt5.dds,Art/Textures/Environment/Act3/pvp area,437256,349700
+7793980ff90a3528,pvparea_flag_normal_dxt5.dds.header,Tiny_7,50971824,1520
+ac721adca9ecdaab,pvparea_flag_colour_dxt5.dds,Art/Textures/Environment/Act3/pvp area,87556,349700
+a63bb15f69dcd4fc,pvparea_flag_colour_dxt5.dds.header,Tiny_7,50970304,1520
+1c6ef83c4cdb5579,archway_shield_normal_dxt5.dds,Art/Textures/Environment/Act3/pvp area,0,87556
+cd2f8df0bbe12e72,archway_shield_normal_dxt5.dds.header,Tiny_7,50966928,1520
+16e905c5601a7801,archway_shield_colour_dxt5.dds,Art/Textures/Environment/Act3/pvp area,786956,87556
+c201d042445bcf12,archway_shield_colour_dxt5.dds.header,Tiny_7,50965408,1520
+696e800592a19691,archway_shieldc.mat,Tiny_7,50968448,1856
+5eaecfa138fa36bf,archway_shieldcns.mat,Tiny_7,50968448,1856

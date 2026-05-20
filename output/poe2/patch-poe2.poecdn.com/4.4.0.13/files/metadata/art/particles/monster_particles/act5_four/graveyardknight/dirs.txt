@@ -1,0 +1,4 @@
+textures
+textures/explosive_lightning_cleave
+textures/fire_double_slam
+textures/fire_double_slam/slam01

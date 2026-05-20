@@ -1,0 +1,8 @@
+fire_enrage
+flame_orb_hand
+ice_storm
+mirror_mode
+sacrifice
+sacrifice/sheild
+spear_throw
+spine_rainofarrows

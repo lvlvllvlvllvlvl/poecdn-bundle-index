@@ -1,0 +1,8 @@
+ao
+epk
+mat
+mat/barrel_expl
+mat/barrel_proj
+mat/gunpowder_trail
+mat/torch_flame
+pet

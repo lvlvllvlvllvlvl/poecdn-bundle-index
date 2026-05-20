@@ -1,0 +1,3 @@
+fire_spear
+scream
+spear_pull

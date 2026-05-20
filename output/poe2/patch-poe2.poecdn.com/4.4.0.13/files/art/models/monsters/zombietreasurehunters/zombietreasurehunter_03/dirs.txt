@@ -1,0 +1,9 @@
+animations
+attachments
+attachments/coat
+attachments/hatfeather
+attachments/plants
+attachments/plants/back_rig
+attachments/plants/chest_rig
+attachments/plants/r_clav_rig
+attachments/sword

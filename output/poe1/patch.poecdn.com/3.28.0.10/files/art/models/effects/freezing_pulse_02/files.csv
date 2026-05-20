@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+0412d49812fe4a8d,rig_e6c83f35.smd,Tiny_1,87675645,72
+44237bdcde3e941a,rig_e6c83f35.smd.header,Tiny_1,87675717,368
+2740b218f6252081,rig.amd,Tiny_1,87673553,188
+dde830ff457afbed,rig.ast,Tiny_1,87673741,1904
+548c17af674c77a3,freezing_pulse.sm,Tiny_1,87673273,280
+c3bd9ecf2148b0fa,fhit.fmt,Art/Models/Effects/freezing_pulse_02,0,7697
+745cd15de7850c8d,fhit.fmt.header,Tiny_1,87673049,224
+5021927fbde1eb50,fhit.amd,Tiny_6,123960108,92
+62e4c275bbe1838e,fhit.ast,Tiny_1,87672731,318

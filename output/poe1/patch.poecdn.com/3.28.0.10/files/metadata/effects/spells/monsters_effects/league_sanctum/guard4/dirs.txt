@@ -1,0 +1,10 @@
+epk
+epk/on_act
+epk/on_act/lightning_bolts_01
+epk/on_act/teleport_01
+fx
+fx/on_act
+fx/on_act/spell_aoe_01
+fx/on_act/teleport_01
+fx/staff
+fx/volatile_proj_01

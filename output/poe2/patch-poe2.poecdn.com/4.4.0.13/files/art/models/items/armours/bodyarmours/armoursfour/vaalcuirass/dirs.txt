@@ -1,0 +1,7 @@
+attachments
+attachments/frontplate
+attachments/furrobe
+attachments/loincloth
+attachments/platestraps
+attachments/swingingplate
+textures

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+2ed630389f4aa51a,wind_fine_detail.mat,Tiny_2,10387963,6072
+75feb829d4c674e3,weapontrapc.mat,Tiny_2,10385267,2696
+332dd45fc9d5ea75,weapontrap_normal_dxt5.dds,Folders/art/models/effects/traps/weapon_trap/textures,404824,349700
+1dba76921212ff21,weapontrap_normal_dxt5.dds.header,Tiny_2,10383747,1520
+2354776bec0e720e,weapontrap_colour_dxt2.dds,Folders/art/models/effects/traps/weapon_trap/textures,55124,349700
+15cdce4015671fa8,weapontrap_colour_dxt2.dds.header,Tiny_2,10382227,1520
+c02aae8968df634c,chain.mat,Tiny_2,10329867,1876
+f60be024539d14f2,chain_nmlao_dxt5.dds,Folders/art/models/effects/traps/weapon_trap/textures,33104,22020
+e9bc5995aae30d0a,chain_nmlao_dxt5.dds.header,Tiny_7,23627361,1520
+a641962c1d10ec95,chain_metal_dxt1.dds,Folders/art/models/effects/traps/weapon_trap/textures,22020,11084
+8a54d2f0c26f72cd,chain_metal_dxt1.dds.header,Tiny_2,10336143,1520
+d4647061898f61c7,chain_clrc.mat,Tiny_2,10333263,2880
+560fbc2e06461c9a,chain_clr_dxt5.dds,Folders/art/models/effects/traps/weapon_trap/textures,0,22020
+9b545eafc670b285,chain_clr_dxt5.dds.header,Tiny_2,10331743,1520

@@ -1,0 +1,12 @@
+cleave
+coverinash
+coverinash/new
+empowering_howl
+empowering_howl/new
+flame_breath
+flame_breath/lava_pool
+flame_breath/lava_pool/new
+flame_breath/projectile
+flame_breath/projectile/new
+flame_geyser
+upheaval

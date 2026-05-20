@@ -1,0 +1,5 @@
+rooms
+rooms/1x1
+rooms/drillfill
+rooms/drillpath
+rooms/unique

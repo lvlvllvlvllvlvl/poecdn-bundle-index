@@ -1,0 +1,12 @@
+meteor
+meteor_impact
+mortar_impact_slam
+on_act
+on_act/attack_01
+on_act/attack_02
+on_act/combo
+on_act/death_01
+on_act/death_02
+on_act/spellcast_01
+projectile
+slam

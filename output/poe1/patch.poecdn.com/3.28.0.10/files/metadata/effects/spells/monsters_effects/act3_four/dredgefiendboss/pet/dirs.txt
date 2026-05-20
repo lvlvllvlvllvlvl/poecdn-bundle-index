@@ -1,0 +1,7 @@
+detonatingdead
+quicksand
+quicksand/cast
+spell_projectile_01
+staff_slam_quick
+stomp_01
+volatiledead

@@ -1,0 +1,4 @@
+appear_epk
+minion_epk
+monster_covert
+monster_hit

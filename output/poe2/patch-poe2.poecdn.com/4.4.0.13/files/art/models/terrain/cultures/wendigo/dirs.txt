@@ -1,0 +1,3 @@
+doodads
+doodads/textures
+doodads/textures/wendigosigils

@@ -1,0 +1,6 @@
+attachments
+bloodclanbird
+bloodclanduo
+bloodclanduo/attachments
+objects
+weapons

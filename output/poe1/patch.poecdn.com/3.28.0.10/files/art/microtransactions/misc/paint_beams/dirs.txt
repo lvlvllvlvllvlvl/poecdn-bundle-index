@@ -1,0 +1,7 @@
+setup
+setup/mb
+setup/mb/beam
+setup/mb/beam_02
+setup/mb/beam_03
+setup/mb/splatter
+setup/textures

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+c119c6232a2a8868,mutablestarc.mat,Tiny.V0,8960525,2924
+9176c32888a77c60,mutablestar_lut.dds,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.78B59707E2226D77.mutablestarstr.ao.3,0,5592580
+1278072943ccf521,mutablestar_lut.dds.header,Tiny.VE,8780452,1520
+08bd4a110062adba,mutablestar_normal.dds,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.78B59707E2226D77.mutablestarstr.ao.5,0,5592580
+c2c2ee60c8f78dbc,mutablestar_normal.dds.header,Tiny.V8,8645050,1520
+16f2164f2e6c0c3f,mutablestar_mask.dds,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.78B59707E2226D77.mutablestarstr.ao.4,0,2796364
+9e5bfbdae40e34e4,mutablestar_mask.dds.header,Tiny.V3,8700207,1520
+bcb5f56ad390c560,mutablestar_metal.dds,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.78B59707E2226D77.mutablestarstr.ao.4,2796364,5592580
+b8508adb4ddf83f9,mutablestar_metal.dds.header,Tiny.V4,8903223,1520
+e219378044b78e25,mutablestar_colour.dds,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.78B59707E2226D77.mutablestarstr.ao.2,1185798,2796364
+d47489ca87724dc8,mutablestar_colour.dds.header,Tiny.VA,8793774,1520

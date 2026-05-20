@@ -1,0 +1,5 @@
+attachments
+attachments/arm_l
+attachments/arm_r
+attachments/leg_l
+attachments/leg_r

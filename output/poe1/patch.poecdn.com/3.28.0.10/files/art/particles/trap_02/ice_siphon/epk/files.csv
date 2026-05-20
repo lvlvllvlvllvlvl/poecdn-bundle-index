@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+f198202c8c668df1,spark2.mat,Tiny_7,40696474,1378
+36940e14a6b08a06,spark2.dds,Tiny_7,40738860,516
+423c682ddfc4a651,spark2.dds.header,Tiny_7,40739376,1520
+ca1c214794c8f1af,light_gradient.mat,Tiny_7,40694764,1710
+c4dd2f5361a2ce52,light_gradient.dds,Art/particles/monster_particles/act8_1,87588,43852
+c63f9e0be500e748,light_gradient.dds.header,Tiny_7,40712650,1520
+eba225af51a4850b,light_beam.mat,Tiny_7,40692186,2578
+4e27687a069da566,light_beam.dds,Art/particles/trap_02/ice_siphon,1268448,11084
+2f0342c673d9efb8,light_beam.dds.header,Tiny_7,40708546,1520
+b54989a3088b934a,fw_red.mat,Tiny_7,40690616,1570
+416a30ceccd9de15,fw_red.dds,Art/particles/trap_02/ice_siphon,1279532,22020
+1354f0602c0c6ba1,fw_red.dds.header,Tiny_7,40689096,1520
+6cf3616fdb13aea3,fw.mat,Tiny_7,40687632,1464
+0ce1118909d46e59,fw.dds,Folders/art/particles/raise_skeleton_02/projectiles,901103,22020
+fad71555c3195726,fw.dds.header,Tiny_7,40686112,1520

@@ -1,0 +1,4 @@
+chargeup
+laser_impact
+laser_shot
+laser_whiff

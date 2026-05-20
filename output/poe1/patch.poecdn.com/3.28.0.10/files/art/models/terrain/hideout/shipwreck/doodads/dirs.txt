@@ -1,0 +1,4 @@
+lights
+lights/lantern_01
+lights/lantern_02
+textures

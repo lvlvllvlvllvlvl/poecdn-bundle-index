@@ -1,0 +1,8 @@
+epk
+fx
+graph
+mat
+mat/bugs_blast
+mat/corpse_blast
+mat/idle
+mat/projectile

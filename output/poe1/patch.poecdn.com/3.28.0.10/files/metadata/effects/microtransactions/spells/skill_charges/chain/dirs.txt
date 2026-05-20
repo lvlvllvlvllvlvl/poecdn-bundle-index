@@ -1,0 +1,13 @@
+attachment
+fx
+fx/frenzy_charge
+fx/power_charge
+mat
+mat/chains_orb
+mat/consume
+mat/frenzy_charge
+mat/frenzy_charge/chains_orb
+mat/frenzy_charge/consume
+mat/power_charge
+mat/power_charge/chains_orb
+mat/power_charge/consume

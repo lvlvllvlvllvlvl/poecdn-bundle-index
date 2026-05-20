@@ -1,0 +1,8 @@
+doom_hit
+on_act
+on_act/portal
+projectile
+projectile/impact
+projectile/tentacles1
+projectile/tentacles2
+projectile/tentacles3

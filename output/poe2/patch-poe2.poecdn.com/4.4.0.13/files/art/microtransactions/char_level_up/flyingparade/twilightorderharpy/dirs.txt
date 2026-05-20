@@ -1,0 +1,7 @@
+attachments
+attachments/belt
+attachments/earrings
+attachments/hair
+attachments/headdecor
+attachments/robe
+textures

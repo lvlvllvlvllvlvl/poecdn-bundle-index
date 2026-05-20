@@ -1,0 +1,12 @@
+ProwlingShade
+ProwlingShadeLow
+SkitteringConstruct
+VaalCrawler
+VaalCultistBeast
+VaalGolem
+VaalGoliath
+VaalGuardsLow
+VaalJaguarDemon
+VaalJaguarDemonLow
+VaalOverseer
+VaalSpinner

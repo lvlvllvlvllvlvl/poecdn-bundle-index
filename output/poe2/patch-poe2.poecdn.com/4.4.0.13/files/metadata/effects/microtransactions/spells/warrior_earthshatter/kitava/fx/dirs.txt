@@ -1,0 +1,8 @@
+explosion
+fissure_01
+shatter
+shockwave
+slam_impact
+spike_01
+submerge_01
+summon_01

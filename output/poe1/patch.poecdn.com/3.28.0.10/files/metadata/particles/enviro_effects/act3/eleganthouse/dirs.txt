@@ -1,0 +1,6 @@
+ascendancydevice
+labyrinthplaque
+spikes
+spikes/glitchy_abyss_edgeblade
+spikes/ledge_blade_01
+spikes/shattered_blade_01

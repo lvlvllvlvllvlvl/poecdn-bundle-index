@@ -1,0 +1,5 @@
+town
+twilightorderexcavationoverlord
+twilightorderhighpriest
+twilightordersoldiers
+twilightordersorceror

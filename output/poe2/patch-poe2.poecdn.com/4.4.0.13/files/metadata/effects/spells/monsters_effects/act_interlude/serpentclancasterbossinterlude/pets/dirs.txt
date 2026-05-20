@@ -1,0 +1,3 @@
+ambient
+onact
+onact/spin_detonate

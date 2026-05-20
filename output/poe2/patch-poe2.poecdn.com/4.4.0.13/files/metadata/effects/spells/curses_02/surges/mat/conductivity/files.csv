@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+67f0eaa218e95185,conductivity_outer_r.mat,Tiny.V5.1,46144430,29692
+2992a467abd7c3ad,conductivity_inner_r.mat,Tiny.VC.1,49482862,29682
+2bae79f309d2c722,conductivity_ring_r.mat,Tiny.V2.1,48805254,30360
+219cb8c505a28bc9,conductivity_trail.mat,Tiny.V7.1,48389300,35990
+61223d243e1f24b8,conductivity_wave_ribbons_r.mat,Tiny.V9.1,46757580,46976
+a3e29d4e2c8c8e34,conductivity_wave_r.mat,Tiny.V0.1,50623126,50576
+019b259969aa368f,conductivity_embers_r.mat,Tiny.V9.1,46726790,30790
+4e7a3458777cfe3f,conductivity_end_ring_r.mat,Tiny.VB.1,47042966,39956
+df358011c25f45fe,conductivity_end_wisps_r.mat,Tiny.V8.1,46173240,47030
+8759eed0e0bbc942,conductivity_flow_r.mat,Tiny.V3.1,46844422,28618
+af53e473a8f3051b,conductivity_flow_l.mat,Tiny.VC.1,49454506,28356

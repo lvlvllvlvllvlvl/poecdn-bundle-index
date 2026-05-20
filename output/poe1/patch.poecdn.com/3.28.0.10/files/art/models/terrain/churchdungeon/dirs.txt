@@ -1,0 +1,7 @@
+alttiles
+alttiles/act3church
+mapdig
+mapdig/alttiles
+mapdig/alttiles/dark
+mapdig/tgms
+tgms

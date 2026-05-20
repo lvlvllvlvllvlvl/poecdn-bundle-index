@@ -1,0 +1,7 @@
+blue
+global
+gold
+life
+life/textures
+mana
+mana/textures

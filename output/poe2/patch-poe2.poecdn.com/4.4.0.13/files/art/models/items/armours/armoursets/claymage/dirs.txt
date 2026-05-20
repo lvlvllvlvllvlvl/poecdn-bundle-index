@@ -1,0 +1,7 @@
+attachments
+attachments/cloak
+attachments/glovedangle
+attachments/hatfeathers
+attachments/satchel
+attachments/skirt
+textures

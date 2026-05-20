@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+d2180fc6d1afa0d7,spark.mat,Tiny.VA,37387239,3302
+abadef5240304d62,paper.mat,Tiny.VA,37385411,1828
+6979429a055fcd11,dust_poof.mat,Tiny.VA,37380997,4414
+e948c2751a4549d8,oomph.mat,Tiny.V5,36744978,4364
+63f76c658a36f215,charge_explode_02_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.4716522DEE888E4E.explosion_grd.pet,0,5592580
+a7a2402cf50b0800,charge_explode_02_dxt5.dds.header,Tiny.V6,37044129,1520
+d2f0850838f0ffcb,charge_explode_02_bc1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.4716522DEE888E4E.boss_tile_line.pet,0,2796364
+b2189e4e714c5e61,charge_explode_02_bc1.dds.header,Tiny.VF,37146422,1520
+f0bf8f4bbad502f1,explode.mat,Tiny.V6,37045649,3910
+f1725203bfafaf2d,explode_scatter_dxt1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.4716522DEE888E4E.boss_tile_line.pet,2796364,2796364
+8f195f6e3db871b4,explode_scatter_dxt1.dds.header,Tiny.V9,37699114,1520

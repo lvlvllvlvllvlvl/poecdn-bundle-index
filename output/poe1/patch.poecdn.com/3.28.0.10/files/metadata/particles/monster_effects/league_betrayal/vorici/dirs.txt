@@ -1,0 +1,5 @@
+act
+final_combo
+general_teleport
+kagebushin
+spinning_slash

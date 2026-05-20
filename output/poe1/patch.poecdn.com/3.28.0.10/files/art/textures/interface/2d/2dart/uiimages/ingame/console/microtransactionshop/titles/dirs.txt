@@ -1,0 +1,7 @@
+french
+german
+portugese
+russian
+spanish
+thai
+traditional chinese

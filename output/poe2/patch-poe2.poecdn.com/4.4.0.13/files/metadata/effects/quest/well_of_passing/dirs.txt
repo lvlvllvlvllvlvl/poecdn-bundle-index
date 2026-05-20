@@ -1,0 +1,17 @@
+epk
+fx
+fx/karuispiritwell01
+fx/karuispiritwell01/continuous
+fx/karuispiritwell01/n_fadein_01
+fx/karuispiritwell01/n_idle_01
+fx/player_soul
+fx/shockwave_01
+graphs
+graphs/dream_ss
+mat
+mat/dream_ss
+mat/karuispiritwell01
+mat/karuispiritwell01/continuous
+mat/karuispiritwell01/n_idle_01
+mat/player_soul
+mat/shockwave_01

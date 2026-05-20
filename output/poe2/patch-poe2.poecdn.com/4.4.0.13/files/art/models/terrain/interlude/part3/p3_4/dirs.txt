@@ -1,0 +1,7 @@
+texture
+texture/boulder
+texture/cliffs
+texture/doodads
+texture/ground
+texture/ice
+tgms

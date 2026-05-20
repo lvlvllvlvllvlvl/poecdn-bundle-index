@@ -1,0 +1,3 @@
+tentacle_beam2
+tentacle_beam_3
+tentacle_slam2

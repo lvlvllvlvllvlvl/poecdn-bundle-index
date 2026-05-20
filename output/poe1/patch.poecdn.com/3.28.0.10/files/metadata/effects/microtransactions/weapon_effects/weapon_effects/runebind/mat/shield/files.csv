@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+036018c2ee5d53d4,trl_shield.mat,Tiny_9,452633468,27312
+6d1d05cce1812073,trl_shield_mblur.mat,Tiny_9,452660780,10718
+72aed0187ada8ce4,runehilt_ao_u.mat,Tiny_9,452785928,1686
+bbd14e403c85cd23,runehilt_u.mat,Tiny_D,97762260,1336
+f098d9f357841e13,runehilt_r.mat,Tiny_9,452768300,8810
+a538fab631e3e8fd,runehilt_r2.mat,Tiny_9,452777110,8818
+e445c39780a2f2f0,runecore_r.mat,Tiny_9,452589832,21718
+c964bea5ccc0fefe,runecore_r2.mat,Tiny_9,452611550,21918
+bd0b41e2fa17c003,runebind_pass01.mat,Tiny_9,452562372,10684
+b1fe21446fd03746,runebind_pass02.mat,Tiny_9,452573056,16776
+be0e7a94d73c3f21,metal_static_r.mat,Tiny_9,452521150,41222
+08764d4b9301d738,metal_along_conection_r.mat,Tiny_9,452307612,22208
+a03b6e6c50bb3505,metal_along_warp_r.mat,Tiny_9,452329820,11824
+557281ec4561562d,metal_along_idle_u.mat,Tiny_9,452520276,874
+9388f0dab8cd2522,metal_along_idle_r.mat,Tiny_9,452446166,37630
+2a97722f36983b38,metal_along_idle_r2.mat,Tiny_9,452483796,36480

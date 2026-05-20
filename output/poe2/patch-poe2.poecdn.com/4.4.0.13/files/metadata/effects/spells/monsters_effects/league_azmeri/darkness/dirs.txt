@@ -1,0 +1,9 @@
+graphs
+mat
+mat/az_darkness_blocker
+mat/az_darkness_blocker/burn_away_01
+mat/light_aura
+pet
+pet/az_darkness_blocker
+pet/az_darkness_blocker/burn_away_01
+pet/light_aura

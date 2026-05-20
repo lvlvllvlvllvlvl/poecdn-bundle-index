@@ -1,0 +1,6 @@
+treasure_bound_soul
+treasure_bound_soul/ghost_beam_01
+treasure_bound_soul/ghost_beam_01/mb
+treasure_bound_soul/treasure_location_01
+treasure_bound_soul/treasure_location_01/mb
+treasure_bound_soul/treasure_location_01/mb/spinner

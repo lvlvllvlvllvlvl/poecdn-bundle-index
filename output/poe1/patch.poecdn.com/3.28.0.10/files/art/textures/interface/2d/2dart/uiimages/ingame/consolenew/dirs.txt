@@ -1,0 +1,3 @@
+stash
+stash/setprice
+stash/setprice/4k

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+53adddda3c423727,smoke.mat,Tiny_6,50021601,2172
+190b913758d424c4,smoke.dds,Art/particles/monster_particles/act4_11,923160,174948
+0dc3133e79973450,smoke.dds.header,Tiny_6,50020761,840
+bd1afda22d9b85ab,rootspiderdecalcns.mat,Tiny_6,50017405,3356
+a5980dc45f11c5f5,rootspiderdecal_colour.dds,Art/particles/monster_particles/act4_11,1098108,349700
+a802221f612d5f63,rootspiderdecal_colour.dds.header,Tiny_6,50015885,1520
+ace68973573a7646,rootspiderdecalns.dds,Art/particles/monster_particles/rootspider_1,0,349700
+e8eaf0e2ce970e86,rootspiderdecalns.dds.header,Tiny_7,27124538,1520
+5619d15365a5db1c,blink_spiral_bigger.mat,Tiny_6,50013103,2782
+5d914a93ee4f76ba,blink_spiral_bigger.dds,Art/particles/monster_particles/act4_11,835604,87556
+8e611f0f329482e1,blink_spiral_bigger.dds.header,Tiny_6,50011583,1520

@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+f64b758f9e89cbb5,flow_decal.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,1017362,47338
+86abdd562f7683f1,mask_alpha.fxgraph,Content/metadata/effects/spells/monsters_effects/league_hellscape/DE9B72B86512CBC5.attack_charge_arms.pet,452260,33080
+5ac1248bf66b6bf5,sim_splash.fxgraph,Content/metadata/effects/spells/monsters_effects/league_hellscape/DE9B72B86512CBC5.attack_charge_arms.pet,704231,39740
+d55828af0968a7a0,custom_windvortex.fxgraph,Content/metadata/effects/spells/monsters_effects/62FC26811D4AC82B.vineattach.ao,2965970,54054
+fdacb0f233e71dda,custom_dropcondition.fxgraph,Content/metadata/effects/spells/monsters_effects/league_hellscape/DE9B72B86512CBC5.attack_charge_arms.pet,485340,4352
+d27995286b18527d,custom_emitoncond.fxgraph,Content/metadata/effects/spells/monsters_effects/league_hellscape/DE9B72B86512CBC5.attack_charge_arms.pet,489692,20784
+33bc96c593cfc3a8,custom_scale_bytimelinefloat.fxgraph,Content/metadata/monsters/palewalker/palewalker.ot,399832,52152
+70928be6a6ba60f7,custom_scale_shake_bytimelinefloat.fxgraph,Content/metadata/monsters/leaguehellscape/fleshfaction/objects/treevolatile.ot,0,64870

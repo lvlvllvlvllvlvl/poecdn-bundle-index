@@ -1,0 +1,2 @@
+thruster
+thruster/player_hit

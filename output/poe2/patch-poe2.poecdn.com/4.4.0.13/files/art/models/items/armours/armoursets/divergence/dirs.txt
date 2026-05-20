@@ -1,0 +1,6 @@
+attachments
+attachments/frontcloth
+attachments/hood
+attachments/skirt
+attachments/skirtm
+textures

@@ -1,0 +1,15 @@
+body_armour
+body_armour/prayers_for_rain
+body_armour/prayers_for_rain/tex
+weapons
+weapons/twohandweapons
+weapons/twohandweapons/crossbow
+weapons/twohandweapons/crossbow/the_grand_design
+weapons/twohandweapons/crossbow/the_grand_design/soul
+weapons/twohandweapons/crossbow/the_grand_design/soul/animations
+weapons/twohandweapons/staves
+weapons/twohandweapons/staves/screamingdevastation
+weapons/twohandweapons/staves/screamingdevastation/mb
+weapons/twohandweapons/staves/screamingdevastation/tex
+weapons/twohandweapons/staves/viledisruption
+weapons/twohandweapons/staves/viledisruption/mb

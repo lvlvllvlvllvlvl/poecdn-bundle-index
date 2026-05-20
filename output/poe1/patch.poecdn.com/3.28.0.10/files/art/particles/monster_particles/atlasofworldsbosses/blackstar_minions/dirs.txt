@@ -1,0 +1,8 @@
+mbs
+mbs/fodder_1_chargeup_explode
+mbs/fodder_1_sun
+mbs/fodder_1_sun_explode
+mbs/fodder_2_leapslam
+mbs/on_acts
+mbs/on_acts/chargeup_once
+tex

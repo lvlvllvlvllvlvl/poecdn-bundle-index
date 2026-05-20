@@ -1,0 +1,4 @@
+blood_aura
+blood_aura/fx
+mine_bomb
+mine_bomb/fx2

@@ -1,0 +1,7 @@
+default_attack
+double_strike
+dual_strike
+frenzy
+test_case
+trauma_strike
+viper_strike

@@ -1,0 +1,3 @@
+magic_identify
+rare_identify
+unique_identify

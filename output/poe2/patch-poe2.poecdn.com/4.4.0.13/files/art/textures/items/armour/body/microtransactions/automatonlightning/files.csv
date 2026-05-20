@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+1b949e811d6d1aea,infernal_specular_dxt1.dds,Streaming/Content/metadata/items/armours/boots/D3DA7D85FA39E5B2.automatonlightningbootsdex.ao,1102241,174924
+7eae556c83c45617,infernal_specular_dxt1.dds.header,Tiny.V1,44297168,1520
+014e442e6bbe3e8c,infernal_normal_dxt1.dds,Streaming/Content/metadata/items/armours/boots/D3DA7D85FA39E5B2.automatonlightningbootsdex.ao,927317,174924
+ea899f10f65bec1c,infernal_normal_dxt1.dds.header,Tiny.VA,44603482,1520
+43f465e0bb73da87,infernal_glow_red.mat,Tiny.VD,44523742,2846
+e1cc08a55effb60d,infernal_glow_red_dxt5.dds,Streaming/Content/metadata/items/armours/boots/D3DA7D85FA39E5B2.automatonlightningbootsdex.ao,577617,349700
+ed0c689221aad368,infernal_glow_red_dxt5.dds.header,Tiny.V9,45077595,1520
+e165bdb560ddc98f,infernal_colour_red.mat,Tiny.V0,44774600,4726
+5c4b6dc246666e2e,infernal_colour_red_bc1.dds,Streaming/Content/metadata/items/armours/boots/D3DA7D85FA39E5B2.automatonlightningbootsdex.ao,52993,174924
+7bff2fb63db36144,infernal_colour_red_bc1.dds.header,Tiny.VD,44522222,1520
+7d9938c0c7a43c39,infernal_colour_red_dxt5.dds,Streaming/Content/metadata/items/armours/boots/D3DA7D85FA39E5B2.automatonlightningbootsdex.ao,227917,349700
+5fd57f28233b69af,infernal_colour_red_dxt5.dds.header,Tiny.V3,43928686,1520

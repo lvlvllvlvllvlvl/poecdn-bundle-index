@@ -1,0 +1,12 @@
+cleansinginfluencedoodads
+cleansinginfluencedoodads/ground
+cleansinginfluencedoodads/pet
+cleansinginfluencedoodads/pet/lantern_01
+cleansinginfluencedoodads/pet/lantern_02
+cleansinginfluencedoodads/pet/lantern_03
+cleansinginfluencedoodads/pet/rocks_big_cluster
+cleansinginfluencedoodads/pet/rocks_mid_cluster
+cleansinginfluencedoodads/pet/rocks_sml_cluster
+cleansinginfluencedoodads/pet/wells
+cleansinginfluencedoodads/scorch
+tangleinfluencedoodads

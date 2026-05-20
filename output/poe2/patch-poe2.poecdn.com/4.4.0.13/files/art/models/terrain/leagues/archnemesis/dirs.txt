@@ -1,0 +1,3 @@
+archnemesisstatue
+archnemesisstatue/crumbled_monster
+archnemesisstatue/textures

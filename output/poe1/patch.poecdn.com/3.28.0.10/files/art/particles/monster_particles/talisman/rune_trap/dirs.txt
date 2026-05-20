@@ -1,0 +1,5 @@
+blue
+blue/explosion
+explosion
+red
+red/explosion

@@ -1,0 +1,10 @@
+attachments
+attachments/robe
+attachments/robe/attachment
+cold
+elemental
+epks
+epks/fx
+fire
+graph
+lightning

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+26951db892bcd4c9,charge_main_core.mat,Tiny_7,43056721,7248
+6d3e1a358cfea768,epk_override.mat,Tiny_7,43063969,6276
+163ff7c712679728,flare_flash_5x5.mat,Tiny_7,43070245,2498
+f8c4dcd6bcb732ef,smoketest.mat,Tiny_7,43082227,4630
+0509480274bd1824,zbias_dot.mat,Tiny_7,43086857,2208
+e77b286e933ac0bc,grad_linear_vert_02.mat,Tiny_7,43072743,4564
+f27b9e261383f87d,grad_linear_vert_02c.mat,Tiny_7,43077307,4920
+5b54768291702678,blood_veins_tile_colour_dxt5.dds,Folders/art/microtransactions/weapon_effects/supporter_1,1891200,349700
+2ef0cd4ca235c225,blood_veins_tile_colour_dxt5.dds.header,Tiny_7,43055201,1520
+dd216014a4c49687,blood_cyl_impact.mat,Tiny_7,43036597,9450
+911cfac8d1674cdc,blood_cyl_reverse.mat,Tiny_7,43046047,9154

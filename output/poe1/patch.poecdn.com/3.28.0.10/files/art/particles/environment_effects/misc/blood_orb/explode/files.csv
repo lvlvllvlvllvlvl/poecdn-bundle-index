@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+457f94da29e4284b,light_spine.mat,Tiny_6,25118654,2096
+054672e732c1cc04,light_spine.dds,Art/particles/environment_effects/misc,574300,87556
+c7fca9b5e49f48e5,light_spine.dds.header,Tiny_6,25117134,1520
+2c00f5e55cbcf57d,light_gradient_explosion.mat,Tiny_6,25115962,1172
+2cd0730510bd6852,light_gradient_explosion.dds,Art/particles/environment_effects/misc_4,0,87556
+a2463ee211bebd73,light_gradient_explosion.dds.header,Tiny_6,25112240,1520
+d040b106619462c1,light_gradient.mat,Tiny_6,25113760,2202
+9d27c23fa9878707,light_gradient.dds,Art/particles/environment_effects/misc_4,0,87556
+4596a32924c64040,light_gradient.dds.header,Tiny_6,25112240,1520
+b99e4114e2857a10,charge_24.mat,Tiny_6,25110606,1634
+dd1ad30c714fabab,charge_24.dds,Art/particles/monster_particles/elemental_beacon_2,1574796,699300
+07f035ff023891d6,charge_24.dds.header,Tiny_6,86592448,344

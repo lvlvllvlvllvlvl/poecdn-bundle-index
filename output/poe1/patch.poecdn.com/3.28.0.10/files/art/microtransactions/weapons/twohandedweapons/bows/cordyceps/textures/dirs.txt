@@ -1,0 +1,3 @@
+bow
+death
+on_hit

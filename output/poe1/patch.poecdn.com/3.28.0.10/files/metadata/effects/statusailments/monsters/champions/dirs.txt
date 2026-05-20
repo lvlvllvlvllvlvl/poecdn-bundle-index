@@ -1,0 +1,9 @@
+blue
+gold
+gold/pet
+gold/pet/gold_affected
+graphs
+light_blue
+orange
+purple
+red

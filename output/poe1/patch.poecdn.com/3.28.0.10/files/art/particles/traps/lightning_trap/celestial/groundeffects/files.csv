@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+bd9859ac2acf8606,shock_01c.mat,Tiny_7,41477272,1378
+d11853a1ac03c842,shock_01_dxt5.dds,Tiny_7,41476836,196
+5370c738c3f7ab3f,shock_01_dxt5.dds.header,Tiny_7,41477032,240
+b141e553d54aa3b7,shock_01.mat,Tiny_7,41475872,964
+4a9e6b68589911e9,shock_01.dds,Tiny_8,21904296,196
+66d8ebdb63a36ef1,shock_01.dds.header,Tiny_8,21904492,240
+5e47cc38265ec398,ground_01c.mat,Tiny_7,41466614,9258
+e5bdc6f889afbda8,ground_01_colour.dds,Folders/art/particles/traps/lightning_trap,98828,349700
+5ab2144e7d85b56d,ground_01_colour.dds.header,Tiny_7,41465094,1520
+08811cc98206974d,dark_scroll_dxt5.dds,Folders/art/particles/traps/lightning_trap,11272,87556
+61e7705cd4170652,dark_scroll_dxt5.dds.header,Tiny_8,24296450,1520

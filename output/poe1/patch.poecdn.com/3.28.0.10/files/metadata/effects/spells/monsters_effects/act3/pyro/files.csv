@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+467c2646a90b548d,rig.ao,Tiny_9,507248982,8676
+5fe6b99664725c92,trap_poison.ao,Tiny_9,507269648,7678
+d8c0649c9cfee4e5,trap_smoke.ao,Tiny_9,507277326,7332
+9bf74e78e3924dc4,trap_explode.ao,Tiny_9,507257658,3848
+91d912ba4c600c95,trap_explode_poison.ao,Tiny_9,507261506,4106
+733b6e6a64d10768,trap_explode_smoke.ao,Tiny_9,507265612,4036
+121e9b022a7bdc9d,fireball.ao,Tiny_9,507241864,3542
+25ac472668e5657d,fireball_poison.ao,Tiny_9,507245406,3576
+fae636534d21dfc6,back_fire.ao,Tiny_9,507237402,1260
+769f2edfa8c9a19a,back_fire_static.ao,Tiny_9,507238662,1596
+0215f7e13cf30bf7,back_fire_text_static.ao,Tiny_9,507240258,1606

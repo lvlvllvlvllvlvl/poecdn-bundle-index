@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+6cd2615b435d9b75,lightray.fmt,Tiny.V3,11147392,1940
+b699c2d969d0d10e,lightray.fmt.header,Tiny.V7,11149914,128
+58487182e9db0b4b,bookpage_02.fmt,Tiny.V8,11097732,2738
+540bbd4f25a88180,bookpage_02.fmt.header,Tiny.V3,11147264,128
+5ce0b1b0411ec2c9,bookpage_01.fmt,Tiny.V7,11149000,914
+51533d8f380597ec,bookpage_01.fmt.header,Tiny.V9,11418786,128
+8cbaf544a2f51597,book_01.fmt,Streaming/Content/metadata/mapdevices/hallowedlibrarymapdevice/fx/book_05.pet,0,7810
+c09f1962417c73fb,book_01.fmt.header,Tiny.V8,11097604,128
+0995ce5cbd436409,book_02.fmt,Streaming/Content/metadata/mapdevices/hallowedlibrarymapdevice/fx/book_01.pet,349700,7810
+8872fb650d34cd6c,book_02.fmt.header,Tiny.V3,11147136,128
+8c755d8d33534d29,book_03.fmt,Streaming/Content/metadata/mapdevices/hallowedlibrarymapdevice/fx/book_01.pet,357510,7922
+6f9e4741d7eae448,book_03.fmt.header,Tiny.V0,11365506,128

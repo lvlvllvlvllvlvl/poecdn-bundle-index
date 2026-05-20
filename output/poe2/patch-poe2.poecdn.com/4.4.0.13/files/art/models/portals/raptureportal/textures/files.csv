@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+4b127ece0682d3e3,raptureportalc.mat,Tiny.V8,13218864,2838
+cad23290d233ec34,raptureportal_normal_dxt5.dds,Streaming/Content/art/models/portals/raptureportal/raptureportal.fmt,1398276,1398276
+f1b9db0a19b641ab,raptureportal_normal_dxt5.dds.header,Tiny.V1,13150293,1520
+070d007ac2508b47,raptureportal_colour_dxt5.dds,Streaming/Content/art/models/portals/raptureportal/raptureportal.fmt,0,1398276
+be7d7b61192029a4,raptureportal_colour_dxt5.dds.header,Tiny.VB,13121499,1520
+8c5f26794c76a48c,raptureportalfx_glowc.mat,Tiny.V7,13082761,6754
+d5fe34eb23a73b3f,raptureportalfx_glow.dds,Streaming/Content/art/models/portals/raptureportal/raptureportal.fmt.1,0,699212
+473d1f3d5a867fbd,raptureportalfx_glow.dds.header,Tiny.V2,13344465,1520

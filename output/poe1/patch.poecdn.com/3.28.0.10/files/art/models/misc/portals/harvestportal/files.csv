@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+05c3950a794a6ad4,rig_a8600c69.smd,Art/Models/Misc/portals/HarvestPortal,545132,195040
+fc17a916ab8053f4,rig_a8600c69.smd.header,Tiny_2,72064632,368
+59d663fbbe2681c3,rig.amd,Tiny_2,72064360,272
+205398a9915858f9,rig.ast,Art/Models/Misc/portals/HarvestPortal,414810,130322
+867844a6b6eb56d6,harvestportal.sm,Tiny_2,72063736,624
+7bc9aa65e4ac2bcf,harvestportal.fmt,Art/Models/Misc/portals/HarvestPortal,103491,311319
+b4a8f84e14a964a1,harvestportal.fmt.header,Tiny_2,72063450,286
+fbdeb5176bbc62ae,flower.fmt,Art/Models/Misc/portals/HarvestPortal,95678,7813
+1755a86c80e5ce8a,flower.fmt.header,Tiny_2,72063276,174
+333af2c9103ab78e,branch_twist.fmt,Art/Models/Misc/portals/HarvestPortal,39985,55693
+45c9559aa8c864a7,branch_twist.fmt.header,Tiny_2,72063096,180
+2c3b7500f05d2e6c,branch.fmt,Art/Models/Misc/portals/HarvestPortal,0,39985
+1cb3bd49fc3512cc,branch.fmt.header,Tiny_2,72062922,174

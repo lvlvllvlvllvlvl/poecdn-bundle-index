@@ -1,0 +1,6 @@
+2hmace
+axe_shield
+bow
+dualaxe
+mace
+twohandedaxe

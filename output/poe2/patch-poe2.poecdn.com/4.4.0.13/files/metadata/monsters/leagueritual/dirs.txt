@@ -1,0 +1,9 @@
+daemons
+demonfaction
+dryadfaction
+dryadfaction/fungalzombie
+dryadfaction/hooksmonster
+dryadfaction/rootmonster
+dryadfaction/splitmonster
+dryadfaction/stagmonster
+humanoidfaction

@@ -1,0 +1,6 @@
+clean
+clean/civillian_1
+clean/civillian_2
+clean/civillian_3
+clean/civillian_4
+clean/fx

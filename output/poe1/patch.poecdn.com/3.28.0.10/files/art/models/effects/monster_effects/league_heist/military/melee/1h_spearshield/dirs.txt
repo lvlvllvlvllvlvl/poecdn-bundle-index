@@ -1,0 +1,8 @@
+chokepoint_channel
+chokepoint_shieldcleave
+melee2_onact_death_suicide
+on_act_thrust
+onact_death_suicide
+onact_heavythrust
+shieldshockwave
+thrust

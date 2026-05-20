@@ -1,0 +1,4 @@
+fx
+mat
+mat/dust_kickup
+mat/footsteps

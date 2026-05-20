@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+55be480c3bd62d8e,vaal_mag.fmt,Streaming/Content/metadata/effects/microtransactions/spells/0EB7D72D609B77CB.03538B15BFD6F190.bolt_trl.trl,612432,11588
+4e050ef791cfa078,vaal_mag.fmt.header,Tiny.V7,5228927,132
+123c5ffeb4d3a0b0,vaal_gem.fmt,Tiny.V7,5227853,1074
+c34703fcbf947868,vaal_gem.fmt.header,Tiny.V4,5399604,128
+7d9736da890a444c,vaal_gem_up.fmt,Tiny.V5,5305802,1058
+9b2de4e7412dcef8,vaal_gem_up.fmt.header,Tiny.V1,5248540,128
+ab61851f715a6dbf,heart.fmt,Streaming/Content/metadata/effects/microtransactions/spells/CB8F64B93A36D64D.39DEDEB5BCD9465D.siege_indicator.pet,0,11640
+48ecd3e026140187,heart.fmt.header,Tiny.V1,5248371,169
+212bc081ed4504f1,mech_parts_01.fmt,Streaming/Content/metadata/effects/microtransactions/spells/CB8F64B93A36D64D.39DEDEB5BCD9465D.siege_indicator.pet,11640,15120
+b5eee2f7c49a34d9,mech_parts_01.fmt.header,Tiny.V2,5541950,211
+5750b1f5f2abcf45,mech_parts_02.fmt,Tiny.V9,5338316,2556
+56137b3197628323,mech_parts_02.fmt.header,Tiny.VF,5251099,211

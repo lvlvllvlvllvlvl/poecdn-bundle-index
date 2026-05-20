@@ -1,0 +1,4 @@
+dead_state
+revive_blast
+revive_indicator
+revive_indicator_hc

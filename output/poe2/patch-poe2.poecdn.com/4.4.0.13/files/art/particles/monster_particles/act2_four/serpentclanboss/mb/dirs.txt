@@ -1,0 +1,13 @@
+bonearmour
+bonearmour/trails
+potsmoke
+potsmoke/pot_01
+potsmoke/pot_02
+potsmoke/pot_03
+potsmoke/pot_05
+spin_detonate_01
+submerge
+summon
+summon_beams
+tail_whip_01
+vulnerabilityrune

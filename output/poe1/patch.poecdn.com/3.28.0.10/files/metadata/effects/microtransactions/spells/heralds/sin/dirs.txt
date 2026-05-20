@@ -1,0 +1,10 @@
+fire
+fire/pet
+fire/pet/explode
+ice
+ice/pet
+ice/pet/explode
+lightning
+lightning/pet
+lightning/pet/lightning_strike
+lightning/pet/player_idle

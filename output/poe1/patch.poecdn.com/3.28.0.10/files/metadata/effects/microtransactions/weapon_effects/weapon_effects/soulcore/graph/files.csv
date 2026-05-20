@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+31e099cb3dd579f9,aim_player_pos.fxgraph,Folders/metadata/effects_5,18226596,149612
+1775a18548c80515,gem_attract_to_weapon.fxgraph,Folders/metadata/effects_5,18761174,34128
+1d6448380c2e7f65,dynamic_glow.fxgraph,Folders/metadata/effects_5,18715340,6958
+632becd6da7f254f,dynamic_trl_glow.fxgraph,Folders/metadata/effects_5,18722298,8492
+311696e53f3e37ec,dynamic_wp_vert_glow.fxgraph,Folders/metadata/effects_5,18730790,30384
+a70efef262247223,custom_fade_time.fxgraph,Folders/metadata/effects_5,18376208,40750
+19f0ab9198306eab,custom_flagconstraint.fxgraph,Folders/metadata/effects_5,18416958,245266
+4116a8bc39db76e4,custom_fresnelglow_flash.fxgraph,Folders/metadata/effects_5,18662224,53116

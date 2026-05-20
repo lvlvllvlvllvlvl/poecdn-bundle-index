@@ -1,0 +1,4 @@
+aoe
+cast
+decelerate
+pierce

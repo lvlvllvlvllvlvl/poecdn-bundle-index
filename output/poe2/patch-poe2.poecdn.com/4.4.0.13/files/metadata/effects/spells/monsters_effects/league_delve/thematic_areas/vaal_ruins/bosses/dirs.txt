@@ -1,0 +1,8 @@
+architect
+architect/blood_expanding_pulse
+architect/blood_expanding_pulse/graphs
+architect/blood_recall_pulse
+architect/blood_spirit_bomb
+architect/delayed_blood_meteor
+architect/vaal_corruption_beam
+architect/vaal_corruption_beam/graphs

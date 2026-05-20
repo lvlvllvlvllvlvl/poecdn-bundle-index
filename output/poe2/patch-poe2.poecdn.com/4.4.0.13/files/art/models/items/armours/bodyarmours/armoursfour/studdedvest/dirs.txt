@@ -1,0 +1,10 @@
+attachments
+attachments/f
+attachments/f/cloak
+attachments/f/shirtattachment
+attachments/f/shoulderpad
+attachments/m
+attachments/m/cloak
+attachments/m/shirtattachment
+attachments/m/shoulderpad
+textures

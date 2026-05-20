@@ -1,0 +1,11 @@
+caldera
+isleofkin
+journeysend
+journeysend/shipwrecks
+kedgebay
+kedgebay/shipwrecks
+ngamakanui
+shipwrecks
+shipwrecks/attachments
+shrikeisland
+tropical

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+9ca3205662f5ae51,mask_ring.fxgraph,Content/metadata/particles/monster_effects/3DC681C2C41541AC.eye_charge.pet,4515753,57482
+7004294f7eabf8b9,azurite_trail.fxgraph,Content/metadata/particles/monster_effects/3DC681C2C41541AC.eye_charge.pet,4462949,38910
+2c65f5cf47f0ae8d,light_beam.fxgraph,Content/metadata/particles/monster_effects/league_synthesis/337EDEDC7D80822E.fire_back.pet,4198494,17296
+9b939690543f0ec8,fresnel_sphere.fxgraph,Content/metadata/particles/monster_effects/league_synthesis/337EDEDC7D80822E.fire_back.pet,4070838,4758
+c77317a8d95aeca0,frozen.fxgraph,Content/metadata/particles/monster_effects/league_synthesis/337EDEDC7D80822E.fire_back.pet,4180388,18106
+421f0a7f06030f27,smoketrail.fxgraph,Content/metadata/particles/monster_effects/3DC681C2C41541AC.eye_charge.pet,4501859,13894
+005aeb87712471be,smoke.fxgraph,Content/metadata/effects/spells/crossbow_ripwire_ballista/pet/rain_of_death.pet,218069,41564
+80bb4dbeee8310e2,sphere_web.fxgraph,Content/metadata/particles/monster_effects/league_synthesis/337EDEDC7D80822E.fire_back.pet,4446400,18664
+56984e1d7a39b6ad,spark.fxgraph,Content/metadata/effects/spells/crossbow_ripwire_ballista/pet/rain_of_death.pet,259633,18564
+a865d4550abf390d,surge_out2.fxgraph,Content/metadata/particles/monster_effects/league_synthesis/337EDEDC7D80822E.fire_back.pet,4075596,63084
+1a2fc8f7827b13e4,surge_suck2.fxgraph,Content/metadata/particles/monster_effects/league_synthesis/337EDEDC7D80822E.fire_back.pet,4029130,41708
+a356b28d6bd2842f,surge_suck.fxgraph,Content/metadata/particles/monster_effects/league_synthesis/337EDEDC7D80822E.fire_back.pet,4006868,22262
+1d7e4d6a87176da5,chargeup_2.fxgraph,Content/metadata/particles/monster_effects/3DC681C2C41541AC.eye_charge.pet,4625973,27650
+b2fd2f7d56f119b8,charge_frost.fxgraph,Content/metadata/particles/monster_effects/3DC681C2C41541AC.eye_charge.pet,4607867,18106

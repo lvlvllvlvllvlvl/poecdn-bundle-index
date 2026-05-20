@@ -1,0 +1,5 @@
+despair
+end
+orb
+start
+surge

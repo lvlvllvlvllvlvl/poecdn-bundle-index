@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+75cd7c4007c13ac1,chaoswave_r.mat,Tiny_D,255565543,70350
+3d2e2bf1f6e44c4e,mblur_sphere_r.mat,Tiny_D,309000070,11972
+c33f157d19eb6c47,pnt_u.mat,Tiny_11,63879857,346
+384c6c0462fc1176,smoke_shockwave_r.mat,Tiny_D,391812216,19312
+0f2812899508ff25,shockwave_01_r.mat,Tiny_D,255716381,44616
+c630cf0e9fe6a1d8,shockwave_01_u.mat,Tiny_D,307123322,1342
+6379e8d2e8902501,shimmer_expl_r.mat,Tiny_D,391799652,12564
+ec298bee354d3a4d,shimmer_expl_u.mat,Tiny_11,63879857,346
+1e738b1c2dea37be,lfs_decal_r.mat,Tiny_D,255343577,55588
+572547933ba998cf,lfs_sparks_01_r.mat,Tiny_D,255698763,17618
+30918b012a06d528,lfs_sparks_01_u.mat,Tiny_D,392415996,32328
+8fb8240c69f365b6,lfs_core_glow_r.mat,Tiny_D,255635893,6372
+b266cca868a19ec9,lfs_core_glow_u.mat,Tiny_11,33555919,576

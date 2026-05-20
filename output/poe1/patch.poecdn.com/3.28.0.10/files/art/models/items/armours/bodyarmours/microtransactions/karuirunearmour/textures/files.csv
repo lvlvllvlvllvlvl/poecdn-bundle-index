@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+6c9715c16d32cdb8,karuibodyc.mat,Tiny_2,30817824,7706
+cfa14ad9c4b23929,karuibody_normal_dxt5.dds,Art/Models/Items/Armours/BodyArmours/Microtransactions_105,0,1398276
+90818facd3ff1759,karuibody_normal_dxt5.dds.header,Tiny_2,30816304,1520
+155be719e153f5b1,karuibody_metal_dxt1.dds,Folders/art/models/items/armours/bodyarmours/microtransactions_B1,830041,699212
+ea77a2fc0182b4da,karuibody_metal_dxt1.dds.header,Tiny_2,30814784,1520
+132aa709dd3bc83d,karuibody_mask_dxt1.dds,Art/Models/Items/Armours/BodyArmours/Microtransactions_104,699212,699212
+a8a97e6823d8add7,karuibody_mask_dxt1.dds.header,Tiny_2,30813264,1520
+803286f5b81732c6,karuibody_glow_dxt1.dds,Folders/art/models/items/armours/bodyarmours/microtransactions_B1,130829,699212
+cdc7165cd78087c5,karuibody_glow_dxt1.dds.header,Tiny_2,30811744,1520
+03180f2b17f7795e,karuibody_colour_dxt1.dds,Art/Models/Items/Armours/BodyArmours/Microtransactions_104,0,699212
+0f9731f6e7b41f37,karuibody_colour_dxt1.dds.header,Tiny_2,30810224,1520

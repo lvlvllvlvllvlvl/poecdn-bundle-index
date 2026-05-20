@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+22a932310d2e0334,double_strike_01.ao,Tiny.V6.1,110852206,622
+b3a7636f8fb19fb1,double_strike_01.aoc,Tiny.V8.1,99736754,2504
+3f99b43a0fd57196,volatile_explode.ao,Tiny.VA.1,109181258,400
+711e6988bf6eab2c,volatile_explode.aoc,Tiny.V5.1,101384528,6656
+45774b843a97974b,volatile_proj_01.ao,Tiny.V4.1,106276746,422
+711d413beb138ef5,volatile_proj_01.aoc,Tiny.VC.1,106008880,9264
+ed703829d8809c39,onact_emerge.ao,Tiny.V6.1,103334276,438
+435d8c244e609fc6,onact_emerge.aoc,Tiny.VD.1,99924396,5372
+82252fa1e33ec96c,on_hit.ao,Tiny.V8.1,106006650,398
+f94388afbdb594f8,on_hit.aoc,Tiny.V6.1,103332628,1648
+30ae27d417832fcd,on_act_teleport.ao,Tiny.VA.1,103846884,438
+18657e0161adbd1c,on_act_teleport.aoc,Tiny.V9.1,102353392,2096

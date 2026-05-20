@@ -1,0 +1,14 @@
+act1
+act1/1_4
+act1/1_5
+act1/1_9
+act2
+act2/2_town
+act4
+act4/4_2_2
+act4/4_5_1
+leagues
+leagues/abyss
+leagues/expedition
+leagues/incursion
+leagues/strongboxes

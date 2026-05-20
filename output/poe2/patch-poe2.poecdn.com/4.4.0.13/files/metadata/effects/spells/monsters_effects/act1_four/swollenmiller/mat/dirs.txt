@@ -1,0 +1,4 @@
+attack_01
+attack_02_03
+charge_01
+slamcascade

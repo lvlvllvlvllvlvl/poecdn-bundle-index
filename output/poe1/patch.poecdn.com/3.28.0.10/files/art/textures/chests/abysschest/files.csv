@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+d13b9aab8bd64a07,abyssfinalchest_a_glossiness.mat,Tiny_7,45455242,1040
+05168a715a2c5ce4,abyssfinalchest_a_glossiness.dds,Art/Textures/Chests/AbyssChest_1,0,699236
+e6a9aa333936b644,abyssfinalchest_a_glossiness.dds.header,Tiny_7,45454402,840
+aed9708d8f07d9cc,abyssfinalchest_a_emissive.mat,Tiny_7,45453374,1028
+e42b1524e0a82487,abyssfinalchest_a_emissive.dds,Art/Textures/Chests/AbyssChest,0,699236
+06b62051b12ee1cf,abyssfinalchest_a_emissive.dds.header,Tiny_7,45452534,840
+e001acd5b4c6cca2,abysschestcns.mat,Tiny_7,45447516,3498
+b9a80eae967537d2,abysschest_glow.mat,Tiny_7,45446554,962
+f95d943f4ed0ca16,abysschest_glow.dds,Art/Textures/Chests/AbyssChest,699236,1398276
+525722983462d16e,abysschest_glow.dds.header,Tiny_7,45445034,1520
+176ffba291ceb166,abysschest_colour.dds,Art/Textures/Chests/AbyssChest,2097512,699212
+03e7bca4ddfc69fd,abysschest_colour.dds.header,Tiny_7,45443514,1520
+c0339f318cc32761,abysschestns.dds,Art/Textures/Chests/AbyssChest_2,0,1398276
+a057934d012828ae,abysschestns.dds.header,Tiny_7,45451014,1520

@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+1b8bbecf724a4e5d,popuptrap_normals_dxt5.dds,Art/Textures/Misc/PopUpTrap,174948,174948
+0faac2f2a16c40b7,popuptrap_normals_dxt5.dds.header,Tiny_8,23429888,840
+ca2114fe2290a175,popuptrap_colour_dxt5.dds,Art/Textures/Misc/PopUpTrap,0,174948
+14bf90a6d40a62cb,popuptrap_colour_dxt5.dds.header,Tiny_8,23429048,840
+a42f1e96e832b537,popuptrapc.mat,Tiny_8,23430728,1816
+03ec94eb059c0150,popuptrapcspopuptrapsn.mat,Tiny_8,23430728,1816

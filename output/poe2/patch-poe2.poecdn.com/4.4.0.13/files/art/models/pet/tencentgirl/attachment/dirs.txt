@@ -1,0 +1,4 @@
+alchemistcompanion
+alchemistcompanion/flasks
+alchemistcompanion/hair
+alchemistcompanion/sack

@@ -1,0 +1,8 @@
+fx
+graphs
+mats
+mats/close_pet
+mats/ground
+mats/idle_pet
+mats/open_buildup_pet
+mats/open_pet

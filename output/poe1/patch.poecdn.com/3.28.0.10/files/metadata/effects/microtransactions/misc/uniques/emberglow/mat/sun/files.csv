@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+ec44065f1f48f43a,energy_ring_u.mat,Tiny_9,38467770,3976
+f67c4c27b7cfbefb,light_rays_r.mat,Tiny_9,38471746,22364
+77d44db67bb25209,point_updatespeed_u.mat,Tiny_9,38494110,1488
+734dce0fafe6d09f,sun_main_r.mat,Tiny_9,38650378,17060
+276ebfb8f925ba6f,sun_main_u.mat,Tiny_9,38667438,3192
+fa2015745b83267f,sun_distortion_r2.mat,Tiny_9,38628292,18980
+4dbac2777f146bb2,sun_distortion_u.mat,Tiny_9,38647272,3106
+015273912f8010f3,sparks_r.mat,Tiny_9,38577976,28536
+228a202d1cf3e3a6,sparks_u.mat,Tiny_9,38606512,21780
+91e5fde2332d52bb,rim_flare_r.mat,Tiny_9,38495598,45494
+34160c071063dadb,rim_r.mat,Tiny_9,38541092,16072
+a42236d7c54cb94e,rim_rays_r.mat,Tiny_9,38557164,20812
+fcd18c5b1b1a532c,blur_rays_r2.mat,Tiny_9,38456832,8638
+2a93bcf201a9de99,blur_rays_u2.mat,Tiny_9,38465470,2300

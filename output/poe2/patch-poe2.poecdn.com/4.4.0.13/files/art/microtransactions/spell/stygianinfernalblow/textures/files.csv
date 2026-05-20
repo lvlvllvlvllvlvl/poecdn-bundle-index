@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+abe20d9785c2e262,sparkling.mat,Tiny.V9,5200239,2472
+4b05e0fc855d82b7,fire_bits_2x2.mat,Tiny.V4,5821011,6252
+b34f5ac2e7d2ff93,corewave.mat,Tiny.VE,5658866,4738
+4f84e72f6040d796,glow_flare_1_1.mat,Tiny.V4,5827263,1934
+105bfafb9876acae,lut_dxt1.dds,Tiny.VC,5626126,1180
+d5a07e73efcb62e5,lut_dxt1.dds.header,Tiny.V6,5627168,280
+921b4b2621f9a445,explosiona_fnt_8x8.mat,Tiny.V0,5827056,6566
+6a6c141d7defc353,explosiona_fnt_normalaoheat_uncompressed.dds,Streaming/Content/metadata/effects/microtransactions/spells/B88B78D1887E7631.D1AC74E5AECBBE16.explode_big.pet,5592580,22369768
+c51d963340c11c2a,explosiona_fnt_normalaoheat_uncompressed.dds.header,Tiny.VD,32728725,1520
+9d63a353a87d669e,explosiona_fnt_colalpha_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/B88B78D1887E7631.D1AC74E5AECBBE16.explode_big.pet,0,5592580
+6667d574bf0748bf,explosiona_fnt_colalpha_dxt5.dds.header,Tiny.V2,32438587,1520
+2a3e239b36f723ef,black_wisps.mat,Tiny.VB,5590958,2038
+4d308111e227ef3d,black_wisps.dds,Streaming/Content/metadata/effects/microtransactions/spells/B88B78D1887E7631.D1AC74E5AECBBE16.explode_smal.pet,0,87556
+3d8e94b17251c94f,black_wisps.dds.header,Tiny.V6,44480822,1520

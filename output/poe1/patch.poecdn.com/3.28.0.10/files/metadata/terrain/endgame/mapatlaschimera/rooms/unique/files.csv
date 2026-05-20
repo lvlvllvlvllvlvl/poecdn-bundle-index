@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+0cc88c1935395760,map_entrance_1_1.arm,Folders/metadata/C/terrain,5455500,19348
+90fb859dc773ef60,boss.arm,Folders/metadata/C/terrain,5403066,52434
+1fc13f5b11d087d5,boss_entrance.arm,Folders/metadata/B/terrain,4850370,22312
+01cf510f645d2978,2_4_3_injector_6x6.arm,Folders/metadata/7/terrain,4617808,44348
+71c77ab60d12a012,2_4_3_injector_7x7.arm,Folders/metadata/A/terrain,4974090,43946
+a93f85c5768c3eb3,2_4_3_injector_9x9.arm,Folders/metadata/B/terrain,4809844,40526
+044dc15935591cf5,2_3_2_injector_6x6.arm,Folders/metadata/1/terrain,5260904,50042
+5625a744240ae467,2_3_2_injector_7x7.arm,Folders/metadata/E/terrain,4836938,47524
+084c8741fd072b8d,2_3_2_injector_9x9.arm,Folders/metadata/3/terrain,5208454,41704
+01069926923138a9,2_2_2_injector_7x7.arm,Folders/metadata/2/terrain,5014840,41510
+713cb90e7fc6f700,2_2_2_injector_9x9.arm,Folders/metadata/F/terrain,4832072,41122

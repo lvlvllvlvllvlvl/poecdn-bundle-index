@@ -1,0 +1,14 @@
+dual_swords
+dual_swords/counter_01
+dual_swords/expire_01
+dual_swords/idle_01
+dual_swords/start_01
+shield
+shield/idle_01
+shield/start_01
+spell
+spell/idle_01
+spell/start_01
+warcry
+warcry/idle_01
+warcry/start_01

@@ -1,0 +1,7 @@
+1x1
+2x2
+archives
+archives/1x1
+archives/2x2
+unique
+windows

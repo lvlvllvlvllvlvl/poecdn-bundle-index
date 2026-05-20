@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+fbb79b51d612001d,scrolly_lightningc.mat,Tiny.VA,36300869,3230
+54e3fbe1272c56c2,scrolly_lightning.dds,Streaming/Content/metadata/effects/spells/icearrow_shatter/rig_monster.ao,439744,22020
+ae7794dcb13d5ab5,scrolly_lightning.dds.header,Tiny.VD,36200436,1520
+3ae75a9a2b850295,lightning_edge_sharpc.mat,Tiny.V6,36008643,2648
+868054a6f6f69a8b,lightning_edge_sharp.dds,Streaming/Content/metadata/effects/spells/icearrow_shatter/rig_monster.ao,373872,43852
+fcd88196193f4e69,lightning_edge_sharp.dds.header,Tiny.V1,35838323,1520
+e0373119df49ed73,lightning_tiledc.mat,Tiny.V8,35857125,3188
+7973b1984d1ef33b,lightning_tiled.dds,Streaming/Content/metadata/effects/spells/icearrow_shatter/rig_monster.ao,417724,22020
+21acc4c045b6638e,lightning_tiled.dds.header,Tiny.VE,35676136,1520
+b51b23d369a7efbf,lightning_random_glowy.mat,Tiny.VC,36125685,1718
+bc1a2212e9024a7a,lightning_random_glowy.dds,Streaming/Content/metadata/particles/shockwave_slam/pulse/mid.pet,897248,87588
+4d03648a381f2fa2,lightning_random_glowy.dds.header,Tiny.VA,36300365,504
+5dbf5f0d8483ea01,boom.mat,Tiny.V9,36637206,2336
+5a2ac7a52b9fd95c,boom.dds,Streaming/Content/metadata/effects/microtransactions/spells/2649C9B6931FA36D.vulcanlightningstrikehit.ao,128189,349700
+71a1287008b71f2b,boom.dds.header,Tiny.V3,35579451,1520

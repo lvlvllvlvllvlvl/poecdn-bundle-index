@@ -1,0 +1,14 @@
+attachments
+attachments/heads
+attachments/headssanctified
+attachments/rings
+attachments/shackles
+attachments/shacklessanctified
+attachments/skirt
+attachments/skirtsanctified
+attachments/staff
+attachments/staff/attachments
+attachments/staffsanctified
+attachments/staffsanctified/attachments
+attachments/veins
+textures

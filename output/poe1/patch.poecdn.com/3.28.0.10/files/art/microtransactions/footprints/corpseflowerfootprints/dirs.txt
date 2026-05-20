@@ -1,0 +1,10 @@
+fx
+fx/01
+fx/02
+fx/03
+fx/04
+fx/05
+fx/06
+fx/07
+textures
+textures/fx

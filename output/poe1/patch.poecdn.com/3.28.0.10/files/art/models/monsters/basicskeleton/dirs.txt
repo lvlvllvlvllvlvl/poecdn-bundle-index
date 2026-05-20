@@ -1,0 +1,16 @@
+animation
+animation/caster
+animation/goldenones
+animation/goldenones/goldenonesposed01
+animation/goldenones/goldenonesposed02
+animation/goldenones/goldenonesposed03
+animation/mtx_despair
+attachments
+attachments/goldenonesrobes
+attachments/goldenonesweapons
+attachments/loincloth
+attachments/skeletonschinarobe
+attachments/weapons
+attachments/weapons/marakethskeletonbow
+goldenones
+textures

@@ -1,0 +1,4 @@
+cast
+fire
+ice
+lightning

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+a604a2fe56de55cc,foam_sprays_r.mat,Tiny.V1,48669814,26300
+fb9476e5f6d1ec6f,foam_sprays_u.mat,Tiny.VD,49716957,8956
+86625e8773b7903b,foam_sprays_u3.mat,Tiny.V7,48324678,8980
+4e731d6209a0d9f7,foam_sprays_u2.mat,Tiny.V9,49496533,8956
+47dff5c2d186b0e1,blood_spray_r.mat,Tiny.V3,49808445,37008
+099eb7758264dbbc,blood_spray_u2.mat,Tiny.V9,49491215,5318
+c8fbd705816f6abd,blood_spray_u.mat,Tiny.V5,47439860,4806
+b55d965b9f7b1563,explode_splash_01_r.mat,Tiny.VC,49105489,51056
+4a883172bfd3192d,explode_splash_01_u2.mat,Tiny.V4,49042926,27880
+9375b5a7d0000b63,explode_splash_01_u.mat,Tiny.V8,48184223,28684

@@ -1,0 +1,7 @@
+frozen_legion
+onact
+smite_aura
+smite_aura/loop
+smite_impact
+smite_weapon_buff
+warcry

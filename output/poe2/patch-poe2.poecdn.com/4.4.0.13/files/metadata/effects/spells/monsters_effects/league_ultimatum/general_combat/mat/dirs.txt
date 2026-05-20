@@ -1,0 +1,5 @@
+vaal_wraith
+vaal_wraith/attack_01
+vaal_wraith/body
+vaal_wraith/projectile
+vaal_wraith/telepot

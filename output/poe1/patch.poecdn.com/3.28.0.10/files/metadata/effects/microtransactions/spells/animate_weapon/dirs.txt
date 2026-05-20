@@ -1,0 +1,6 @@
+automaton
+automaton/pets
+innocence
+innocence/pets
+sanctum
+sanctum/pets

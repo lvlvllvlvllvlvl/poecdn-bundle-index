@@ -1,0 +1,9 @@
+death
+fireform
+icearrow
+iceform
+lightning_ball
+lightning_ball/beam
+portals
+portals/blue
+portals/red

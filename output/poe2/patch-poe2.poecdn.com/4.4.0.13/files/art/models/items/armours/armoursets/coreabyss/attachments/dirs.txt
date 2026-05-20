@@ -1,0 +1,7 @@
+chestscraps
+chestscraps/lshoulder
+chestscraps/male
+chestscraps/male/rshoulder
+chestscraps/rshoulder
+hood
+loincloth

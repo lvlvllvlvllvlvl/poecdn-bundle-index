@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+ca15aebc9fd565bf,warlordsufferingc.mat,Tiny_2,55512685,4314
+8a303017dcf7d84a,warlordsuffering_normal_dxt5.dds,Art/Models/Items/BackAttachments/WarlordSufferingBackattachment/Textures_3,0,1398276
+169866f9488c0329,warlordsuffering_normal_dxt5.dds.header,Tiny_2,55511165,1520
+3e057e3d976782ba,warlordsuffering_metal_dxt5.dds,Art/Models/Items/BackAttachments/WarlordSufferingBackattachment/Textures_2,0,1398276
+c46200d72b490a27,warlordsuffering_metal_dxt5.dds.header,Tiny_2,55509645,1520
+eb1e06c11b0a47f5,warlordsuffering_colour_dxt5.dds,Art/Models/Items/BackAttachments/WarlordSufferingBackattachment/Textures_1,0,1398276
+395a3379f9f5e827,warlordsuffering_colour_dxt5.dds.header,Tiny_2,55508125,1520
+d4514f040f11cf47,warlordsuffering_colour_bc7.dds,Art/Models/Items/BackAttachments/WarlordSufferingBackattachment/Textures_1,0,1398276
+dd342b904f5222ab,warlordsuffering_colour_bc7.dds.header,Tiny_2,55508125,1520
+d610a9faa2209a0f,warlordsuffering_colour.dds,Folders/art/models/items/backattachments/warlordsufferingbackattachment/textures,0,699212
+5f9b052ceb2764eb,warlordsuffering_colour.dds.header,Tiny_2,55506605,1520
+c562a0f50577d78a,warlordsufferingeffectsc.mat,Tiny_2,55520039,5484
+33e0d1555bdf059c,warlordsufferingeffects_normal_dxt5.dds,Folders/art/models/items/backattachments/warlordsufferingbackattachment/textures,743064,349700
+3d581bc3284e60dd,warlordsufferingeffects_normal_dxt5.dds.header,Tiny_2,55518519,1520
+aacbfcb65a484c70,warlordsufferingeffects_glow_dxt1.dds,Folders/art/models/items/backattachments/warlordsufferingbackattachment/textures,699212,43852
+24140fe19de25b29,warlordsufferingeffects_glow_dxt1.dds.header,Tiny_2,55516999,1520

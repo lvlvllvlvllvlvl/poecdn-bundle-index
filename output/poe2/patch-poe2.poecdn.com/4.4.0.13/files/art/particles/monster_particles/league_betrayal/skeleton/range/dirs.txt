@@ -1,0 +1,4 @@
+generic_projectile
+snipe
+snipe/projectile
+snipe/projectile/on_act

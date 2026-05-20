@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+dea3e6511940c45b,tile.dds,Streaming/Content/metadata/effects/spells/monsters_effects/F50EB9A78F6C03E1.B3A53842387A2E46.chaos_cups.ao,578968,87556
+0d32454f89184aa5,tile.dds.header,Tiny.VF,34470155,1520
+d6c72a9db2297e1a,oilcnoil_specs.mat,Tiny.VC,34497545,3346
+35ff7a1b6c2423dd,oilnoil_specs.dds,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.47909D2EA14F05E8.upheaval_02.ao,794742,349732
+09ffdbad1942348d,oilnoil_specs.dds.header,Tiny.VD,33470681,504
+6aa49cb2fa6a4a04,oil_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.47909D2EA14F05E8.upheaval_02.ao,445010,349732
+7f2b80eb4d91d1ab,oil_colour.dds.header,Tiny.V0,34607554,504
+bf445bba3869def0,chaoselementalcns.mat,Tiny.V3,33888868,4740
+67b603bae9989fee,chaoselemental_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.47909D2EA14F05E8.upheaval_02.ao,95310,349700
+1459f6e00777cb8d,chaoselemental_colour.dds.header,Tiny.V4,36578543,1520
+c72d951e1459c551,chaoselementalns.dds,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.44CD0523BCF71B9F.upheaval.ao,134346,349700
+41c3d24b860779c5,chaoselementalns.dds.header,Tiny.V4,36580063,1520
+a0df800316722fda,smoke.mat,Tiny.VB,34700622,2100
+7ff287f6b200833e,smoke.dds,Streaming/Content/metadata/particles/monster_effects/act4/47909D2EA14F05E8.4880EDEBA3E6480C.spine_mid.pet,0,43876
+32a71434e182590f,smoke.dds.header,Tiny.V8,34066092,840

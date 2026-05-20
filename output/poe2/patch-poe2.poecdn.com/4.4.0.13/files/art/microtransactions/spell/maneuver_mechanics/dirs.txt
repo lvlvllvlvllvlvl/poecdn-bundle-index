@@ -1,0 +1,2 @@
+voidemperor_arcane_cloak
+voidemperor_arcane_cloak/texture

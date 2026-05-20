@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+98b6ed4f3bbb7a8d,impact_flash_r.mat,Tiny.V4.1,3689656,44106
+ed5867ec8f8acc64,pt_u.mat,Tiny.VD,50519481,346
+68bd61e3ad988a14,beam_u.mat,Tiny.V6.1,31517574,568
+fd2b7f069ebab040,beamcore_inner_r.mat,Tiny.VC.1,2394624,57176
+41e7440f1349ae27,beamcore_blur_r.mat,Tiny.VD,53736427,42618
+7b526d9a9d0b8bd2,explosion_dropbolt_r2.mat,Tiny.V0.1,1353116,34120
+2d72e45f26d789d7,explosion_dropbolt_u2.mat,Tiny.VF.1,1415526,6844
+dce944f4c052a8f1,embers_burst_r.mat,Tiny.VA.1,541302,24646
+39a925efb0f10eaf,embers_burst_u.mat,Tiny.V1,52186888,17854
+2ba4ada6463c1d80,smoke_r.mat,Tiny.V5,52115458,17492
+e22bd474ea767bc0,smoke_u.mat,Tiny.VA.1,565948,11424
+9e5f57fd94827cbb,smoke_streaks_r.mat,Tiny.V1,52204742,51614
+f27f8d6c6ce8ffc6,smoke_streaks_u3.mat,Tiny.VC.1,2451800,26716

@@ -1,0 +1,5 @@
+clarity
+delirium
+precision
+spell_damage
+spell_damage/animations

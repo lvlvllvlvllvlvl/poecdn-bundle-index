@@ -1,0 +1,5 @@
+2h_axe
+2h_mace
+2h_staff
+2h_sword
+bow

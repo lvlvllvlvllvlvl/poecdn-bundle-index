@@ -1,0 +1,14 @@
+audio
+epk
+epk/jade
+epk/jade/weapons
+epk/obsidian
+epk/obsidian/weapons
+epk/weapons
+fx
+fx/jade
+fx/obsidian
+graph
+mat
+mat/jade
+mat/obsidian

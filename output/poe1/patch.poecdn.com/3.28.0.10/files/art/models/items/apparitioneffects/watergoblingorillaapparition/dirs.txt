@@ -1,0 +1,5 @@
+attachments
+attachments/wggastaff
+attachments/wggfloatybelt
+attachments/wggskirt
+textures

@@ -1,0 +1,5 @@
+animation
+attachments
+attachments/skirt
+attachments/sword
+textures

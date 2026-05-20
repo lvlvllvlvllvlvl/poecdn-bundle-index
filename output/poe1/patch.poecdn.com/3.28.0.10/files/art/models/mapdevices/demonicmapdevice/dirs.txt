@@ -1,0 +1,5 @@
+attachments
+textures
+vfx
+vfx/mb
+vfx/textures

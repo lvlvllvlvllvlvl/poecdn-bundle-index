@@ -1,0 +1,5 @@
+attachments
+attachments/cloak
+attachments/hair
+attachments/robe
+attachments/weapon

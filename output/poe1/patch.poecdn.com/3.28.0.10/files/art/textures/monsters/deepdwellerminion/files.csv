@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+633b39a4475a5a97,deepdwellerminioncns.mat,Art/Textures/Monsters/DeepDwellerMinion,0,4400
+ecf80818c5aa8491,deepdwellerminion_glow.mat,Tiny_8,29859018,1058
+78d198e362ba1dc3,deepdwellerminion_glow.dds,Art/Textures/Monsters/DeepDwellerMinion_2,0,1398276
+318bf89e411b797e,deepdwellerminion_glow.dds.header,Tiny_8,29857498,1520
+c2e307095fe3e073,deepdwellerminion_gloss.mat,Tiny_8,29856434,1064
+fa560f44d866d738,deepdwellerminion_gloss.dds,Art/Textures/Monsters/DeepDwellerMinion_1,699212,1398276
+4599bcf0ca614c3c,deepdwellerminion_gloss.dds.header,Tiny_8,29854914,1520
+5b7392e8ba602279,deepdwellerminion_colour.dds,Art/Textures/Monsters/DeepDwellerMinion_1,0,699212
+ae70cf0f4eb42d0a,deepdwellerminion_colour.dds.header,Tiny_8,29853394,1520
+9d166b2b32414338,deepdwellerminionns.dds,Art/Textures/Monsters/DeepDwellerMinion,4400,1398276
+910464c1dd290344,deepdwellerminionns.dds.header,Tiny_8,29860076,1520

@@ -1,0 +1,5 @@
+armours
+armours/bodyarmours
+armours/bodyarmours/dreadforge
+uniques
+uniques/thelethaldraw

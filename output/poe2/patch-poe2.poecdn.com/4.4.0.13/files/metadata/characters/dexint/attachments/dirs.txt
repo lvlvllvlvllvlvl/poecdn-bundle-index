@@ -1,0 +1,6 @@
+hairstyles
+hairstyles/monk
+hairstyles/shadow
+outfits
+outfits/monk
+outfits/shadow

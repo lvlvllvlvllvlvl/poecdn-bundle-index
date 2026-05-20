@@ -1,0 +1,14 @@
+epks
+fx
+fx/circle_aoe
+fx/impact_aoe
+fx/shield_charge
+fx/shield_impact
+fx/shockwave_charge
+mats
+mats/circle_aoe
+mats/impact_aoe
+mats/shield_anim
+mats/shield_charge
+mats/shield_impact
+mats/shockwave_charge

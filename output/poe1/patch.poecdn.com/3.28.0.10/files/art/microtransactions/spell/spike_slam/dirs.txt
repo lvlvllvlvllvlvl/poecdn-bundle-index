@@ -1,0 +1,15 @@
+lava
+lava/mb
+lava/mb/big_spike_01
+lava/mb/big_spike_02
+lava/mb/exert_spike_01
+lava/mb/exert_spike_02
+lava/mb/slam_crack
+verdant
+verdant/mb
+verdant/mb/crack
+verdant/mb/decal
+verdant/mb/ground_vine
+verdant/mb/vine_02
+verdant/mb/vine_03
+verdant/texture

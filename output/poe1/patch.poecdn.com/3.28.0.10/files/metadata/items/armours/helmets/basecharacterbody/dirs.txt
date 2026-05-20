@@ -1,0 +1,9 @@
+attachments
+attachments/hairtsyles
+attachments/hairtsyles/duelist
+attachments/hairtsyles/marauder
+attachments/hairtsyles/ranger
+attachments/hairtsyles/scion
+attachments/hairtsyles/shadow
+attachments/hairtsyles/templar
+attachments/hairtsyles/witch

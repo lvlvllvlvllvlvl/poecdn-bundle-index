@@ -1,0 +1,9 @@
+architecture
+architecture/roof
+architecture/slums
+bridge
+carttracks
+foliage
+ground
+moss
+rocks

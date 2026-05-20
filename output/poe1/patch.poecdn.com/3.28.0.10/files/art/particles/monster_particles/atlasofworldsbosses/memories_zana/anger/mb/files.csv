@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+206748a8c18279fa,pulsesphere_01.fmt,Folders/art/particles/monster_particles/atlasofworldsbosses.1,57978,29974
+7e1c1d53ca52db39,pulsesphere_01.fmt.header,Tiny_6,75838752,180
+d3e8bd3d0dc0e4b6,mp_ring_lod00_ff.fmt,Tiny_6,75831633,1394
+148b038e785458d2,mp_ring_lod00_ff.fmt.header,Tiny_6,75833027,182
+02f6f9af35ab42cf,mp_ringhalf_lod00_ff.fmt,Tiny_6,75835580,2986
+bd5c01b686c73518,mp_ringhalf_lod00_ff.fmt.header,Tiny_6,75838566,186
+0f8fc5e42869574c,mp_ringb_lod00_ff.fmt,Tiny_6,75833209,2188
+e3e210aadf46df4a,mp_ringb_lod00_ff.fmt.header,Tiny_6,75835397,183
+004bd2dbc651b594,cascadebasespike01a.fmt,Tiny_6,75826905,2576
+59366782cd1791aa,cascadebasespike01a.fmt.header,Tiny_6,75829481,185
+32f524a040ed73aa,beam_03.fmt,Folders/art/particles/monster_particles/atlasofworldsbosses.1,34976,17488
+6dd963cd2da7e2b1,beam_03.fmt.header,Tiny_6,75826777,128
+fbea2fd1c7d5c8b1,beam_02.fmt,Folders/art/particles/monster_particles/atlasofworldsbosses.1,17488,17488
+f10f1cc3201c1559,beam_02.fmt.header,Tiny_6,75826649,128
+8efbc8756813ebc2,beam_01.fmt,Folders/art/particles/monster_particles/atlasofworldsbosses.1,0,17488
+6de6d066b963d483,beam_01.fmt.header,Tiny_6,75826521,128

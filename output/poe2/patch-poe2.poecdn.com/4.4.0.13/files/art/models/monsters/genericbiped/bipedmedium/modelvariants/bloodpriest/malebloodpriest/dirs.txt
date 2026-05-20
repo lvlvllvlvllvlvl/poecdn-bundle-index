@@ -1,0 +1,5 @@
+attachments
+attachments/bloodpriestmalecape
+attachments/bloodpriestmaleheadpiece
+attachments/bloodpriestmalerobe
+attachments/bloodpriestmaleweapon

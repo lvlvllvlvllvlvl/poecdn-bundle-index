@@ -1,0 +1,13 @@
+mb
+mb/aoe_explosion_01
+mb/aoe_explosion_02
+mb/monster_convert
+mb/surge
+textures
+textures/aoe_explosion_01
+textures/aoe_explosion_01_lite
+textures/aoe_explosion_02
+textures/minion
+textures/minion_fadeout
+textures/monster_convert
+textures/surge

@@ -1,0 +1,9 @@
+mirror_mode
+mirror_mode/single
+reskins
+reskins/mega_stormcall
+sacrifice_soul
+spear_throw
+spine_firestorm
+spine_rain_of_arrows
+teleport

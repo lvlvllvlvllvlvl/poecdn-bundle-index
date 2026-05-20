@@ -1,0 +1,10 @@
+abyssstructures
+aloevera
+cactuslarge
+cactussmall
+desertaltar
+desertgate
+desertlowwall
+desertoasis
+desertpillar
+deserttrees

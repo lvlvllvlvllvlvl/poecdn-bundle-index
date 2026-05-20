@@ -1,0 +1,12 @@
+cravat
+mask
+shawldex
+shawldexint
+shawlint
+shawlstr
+shawlstrdex
+shawlstrdexint
+shawlstrint
+skirt
+skirt/femaleskirt
+skirt/maleskirt

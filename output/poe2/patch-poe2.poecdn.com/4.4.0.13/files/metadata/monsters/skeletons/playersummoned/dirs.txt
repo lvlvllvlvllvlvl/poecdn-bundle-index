@@ -1,0 +1,17 @@
+archer
+archer/attachments
+arsonist
+arsonist/attachments
+brute
+brute/attachments
+brute/attachments/brutearmour
+cleric
+cleric/attachments
+frostmage
+frostmage/attachments
+reaver
+reaver/attachments
+stormmage
+stormmage/attachments
+warrior
+warrior/attachments

@@ -1,0 +1,34 @@
+french
+german
+item hovers
+item hovers/french
+item hovers/german
+item hovers/korean
+item hovers/portuguese
+item hovers/russian
+item hovers/simplified chinese
+item hovers/spanish
+item hovers/thai
+item hovers/traditional chinese
+korean
+portuguese
+russian
+screenshots
+screenshots/panel10
+screenshots/panel2
+screenshots/panel6
+screenshots/panel6/de_de
+screenshots/panel6/es_es
+screenshots/panel6/fr_fr
+screenshots/panel6/ko_kr
+screenshots/panel6/pt_br
+screenshots/panel6/ru_ru
+screenshots/panel6/th_th
+screenshots/panel6/tw_zh
+screenshots/panel7
+screenshots/panel9
+simplified chinese
+spanish
+thai
+traditional chinese
+trailerthumbnails

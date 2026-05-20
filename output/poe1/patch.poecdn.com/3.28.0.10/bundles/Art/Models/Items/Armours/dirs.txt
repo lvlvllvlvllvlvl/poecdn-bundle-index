@@ -1,0 +1,8 @@
+ArmourSets
+BodyArmours
+Boots
+Capes
+Gloves
+Helmets
+Robes
+Shields

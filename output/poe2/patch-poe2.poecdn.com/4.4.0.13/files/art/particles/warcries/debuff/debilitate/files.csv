@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+a8f5b8d01456a75c,blood_wisp.mat,Tiny.V4,39634683,1972
+f8c70a7b810f25a8,blood_wisp_dxt5.dds,Streaming/Content/metadata/effects/spells/mini_coldsnap/coldsnapmini.ao,1324533,87556
+f3feee9e4e6d7b71,blood_wisp_dxt5.dds.header,Tiny.V1,6121762,1520
+7ad9c4c452e1b618,hole_flare_multi.mat,Tiny.V5,38875099,1618
+5ad0b5d3c420baf0,hole_flare_multi.dds,Streaming/Content/metadata/effects/spells/mini_coldsnap/coldsnapmini.ao,1587201,87556
+288fd8dad9c94812,hole_flare_multi.dds.header,Tiny.V1,39144566,1520
+979f4404b6c615e0,flare_sparks.mat,Tiny.V1,39142154,2412
+ffdce7de01100cae,flare_sparks.dds,Streaming/Content/metadata/effects/spells/mini_coldsnap/coldsnapmini.ao,1499645,87556
+adf360f19f5ef2f9,flare_sparks.dds.header,Tiny.V7,6484470,1520
+fee7cd221247daed,circle_flare_add_phys.mat,Tiny.VD,39450799,1808
+9621db702ab1e10a,circle_flare_add_phys.dds,Streaming/Content/metadata/effects/spells/mini_coldsnap/coldsnapmini.ao,1412089,87556
+8fa74e9e8c47403b,circle_flare_add_phys.dds.header,Tiny.V4,6494583,1520
+bf7e9ac830f241ae,ink_sub_fl.mat,Tiny.V5,38876717,2364
+9caa2174d887999b,ink_sub_fl_dxt5.dds,Streaming/Content/metadata/effects/spells/warcries/F2624196433182EC.3E5A49ACCFD4EC4C.bandana.ao,414117,349732
+7ffe7226303bf662,ink_sub_fl_dxt5.dds.header,Tiny.V8,6120270,504

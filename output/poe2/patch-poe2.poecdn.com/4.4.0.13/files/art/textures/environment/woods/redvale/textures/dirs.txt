@@ -1,0 +1,5 @@
+ground
+moss
+rocks
+swords
+treedebris

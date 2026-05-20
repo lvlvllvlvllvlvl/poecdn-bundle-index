@@ -1,0 +1,4 @@
+attachments
+attachments/headhair
+attachments/headhairstrands
+attachments/jawhair

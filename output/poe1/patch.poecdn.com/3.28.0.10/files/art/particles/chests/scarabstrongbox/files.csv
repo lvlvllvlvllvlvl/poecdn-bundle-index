@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+c00d9f43e2a5f361,flare_t.mat,Tiny_6,10304132,1812
+30e8d6afb5d8af4f,grad_tex.mat,Tiny_6,10305944,1334
+513a52375ef56abf,up_flare.mat,Tiny_6,10313037,1970
+70ac9707e72391f8,sparks.mat,Tiny_6,10309581,1848
+a4fa63655aceda52,starflare_finalflash.mat,Tiny_6,10311429,1608
+b0b12e618653c8c8,lens_flare.mat,Tiny_6,10307782,1618
+678e987bedf5641b,lens_dxt1.dds,Art/particles/chests/ScarabStrongbox,87588,43868
+b45abc98244016dd,lens_dxt1.dds.header,Tiny_6,10307278,504
+40ee583e6f2a4613,beam_flare.mat,Tiny_6,10301322,2810
+9615191e03d1870e,beam_dxt5.dds,Art/particles/chests/ScarabStrongbox,0,87588
+3349ebf57dde8dce,beam_dxt5.dds.header,Tiny_6,10300818,504

@@ -1,0 +1,8 @@
+female
+female/cloth
+female/shawl
+female/skirt
+male
+male/cloth
+male/shawl
+male/skirt

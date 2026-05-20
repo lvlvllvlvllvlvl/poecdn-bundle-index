@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+6b209f3e14a905e0,shield_start_lightn.epk,Tiny_9,39396550,496
+700fc48e660aa44b,shield_start_lightn_epk_pass0.mat,Tiny_9,39397046,1576
+062d5fa0078db31d,shield_start_fire.epk,Tiny_9,39394512,492
+be2bc17395f1c851,shield_start_fire_epk_pass0.mat,Tiny_9,39395004,1546
+4d8d6fa88569b801,shield_start_cold.epk,Tiny_9,39392446,492
+3dee10186ccc74b6,shield_start_cold_epk_pass0.mat,Tiny_9,39392938,1574
+4d118e1a07514eb0,shield_end_lightn.epk,Tiny_9,39389902,492
+7b2b6bc3fa6da026,shield_end_lightn_epk_pass0.mat,Tiny_9,39390394,2052
+6dd7326e01de28c0,shield_end_fire.epk,Tiny_9,39387392,488
+13a86bd442b0d68d,shield_end_fire_epk_pass0.mat,Tiny_9,39387880,2022
+771b2b7c2cfc5abf,shield_end_cold.epk,Tiny_9,39384854,488
+bdaa9ec52730285d,shield_end_cold_epk_pass0.mat,Tiny_9,39385342,2050

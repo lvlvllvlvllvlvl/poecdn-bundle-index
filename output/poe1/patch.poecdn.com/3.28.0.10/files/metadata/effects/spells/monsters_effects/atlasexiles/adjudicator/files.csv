@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+75a375e8929f85e4,portal_out.epk,Tiny_D,28096186,474
+66adc0fc2123265d,portal_out_epk_pass0.mat,Tiny_D,491519594,4110
+03bb8ace22817b17,portal_in.epk,Tiny_D,28091604,472
+52bce412b6d0256c,portal_in_epk_pass0.mat,Tiny_D,28092076,4110
+21ed54dc395c0572,death_attachmentfade.epk,Tiny_D,27937648,494
+bd2beed812243224,death_attachmentfade_epk_pass0.mat,Tiny_D,29278154,2950
+187d3289240fff9b,apparition_submerge_b.epk,Tiny_D,27864502,496
+fb774b2da799e485,apparition_submerge_b_epk_pass0.mat,Tiny_D,27841950,5334
+ea65d308d2156eac,apparition_submerge_a.epk,Tiny_D,27847284,912
+ad597e1d7099bf6c,apparition_submerge_a_epk_pass0.mat,Tiny_D,27848196,6992
+b17f23bae6f86267,apparition_submerge_a_epk_pass1.mat,Tiny_D,27855188,9314
+1b4d8c98cb8541af,apparition_emerge_b.epk,Tiny_D,27841458,492
+a27c8472a01a800d,apparition_emerge_b_epk_pass0.mat,Tiny_D,27841950,5334
+6fc16a8a96902b8c,apparition_emerge_a.epk,Tiny_D,27818836,904
+e513628d14f1382e,apparition_emerge_a_epk_pass0.mat,Tiny_D,27819740,11508
+ee5bcd05de8f2ad3,apparition_emerge_a_epk_pass1.mat,Tiny_D,27831248,10210

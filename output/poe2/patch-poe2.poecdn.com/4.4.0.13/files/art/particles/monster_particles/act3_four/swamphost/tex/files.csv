@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+6a100b263e0a1b06,smoke_impact.mat,Tiny.V9,34718028,2248
+1c9ce908e9b0aa84,impact_shim.mat,Tiny.V7,34040284,1330
+2444a9084fd54269,abyss_sparkling.mat,Tiny.V7,34038856,1428
+5d62848ebff93ecc,abyss_sparkling_dxt5.dds,Tiny.V9,34716456,1572
+d5ff227eb0f61254,abyss_sparkling_dxt5.dds.header,Tiny.V1,34151777,504
+d68b095b4be50a0d,wave_cyl.mat,Tiny.VC,34394413,7440
+12374b1c658936fc,wisp_impact.mat,Tiny.V1,34152281,4538
+cbc0b231df22c562,poison_sparks.mat,Tiny.VF,34326519,1924
+f0c418c03984451f,poisonsplash.mat,Tiny.VB,34589885,5196
+a372b1e2f7f17a8e,poisonsplash_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.D4ED05B63B043569.pustule_explode.pet,0,1398276
+351b13297c25e88d,poisonsplash_dxt5.dds.header,Tiny.V3,38586250,1520

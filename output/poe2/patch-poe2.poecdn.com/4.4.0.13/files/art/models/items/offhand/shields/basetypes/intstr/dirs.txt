@@ -1,0 +1,11 @@
+blazoncrest
+emblemcrest
+jinglingcrest
+jinglingcrest/attachments
+karuicrest
+karuicrest/textures
+omencrest
+sectariancrest
+sigilcrest
+textures
+waywardcrest

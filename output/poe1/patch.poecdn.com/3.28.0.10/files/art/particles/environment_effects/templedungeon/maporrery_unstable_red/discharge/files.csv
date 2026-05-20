@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+77d673f41bd3785a,shockwave.mat,Tiny_6,27839453,2438
+f55cd5405b9028cd,splash_01.mat,Tiny_6,62792882,3012
+1e335061c2c9b77b,splash_01_dxt5.dds,Art/particles/environment_effects/templeDungeon,201386,349700
+efb2bddc23b43aa9,splash_01_dxt5.dds.header,Tiny_6,27841891,1520
+af07426534260498,scrollv_mask_dxt5.dds,Tiny_6,27836961,2212
+1f8f9beea46ae642,scrollv_mask_dxt5.dds.header,Tiny_6,27839173,280
+2c33bf31aa26f962,lightning_trail.mat,Art/particles/environment_effects/templeDungeon,555214,4642
+2228e744d9ce051f,lightning_trail2.mat,Tiny_6,27833409,3552
+8254865550dc2f12,lightning_trail_dxt1.dds,Folders/art/particles/monster_particles/atlasexiles_8,3463452,349724
+3adcfb890c804434,lightning_trail_dxt1.dds.header,Tiny_6,63254800,344
+9a9a8c80d006bb75,lightning_flipbook_01.mat,Art/particles/environment_effects/templeDungeon,551086,4128
+aa2f880e1e6afc42,lightning_flipbook_01_dxt5.dds,Art/particles/monster_particles/League_Synthesis_77,306348,1398308
+b0648bbf15e5e003,lightning_flipbook_01_dxt5.dds.header,Tiny_7,11409406,504

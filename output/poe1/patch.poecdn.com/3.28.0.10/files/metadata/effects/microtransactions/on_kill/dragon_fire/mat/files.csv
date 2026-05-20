@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+b56db91bbd5e98cc,charred_down.mat,Tiny_9,63366100,598
+9538a39dc9298e3c,poison_shimmer_render.mat,Tiny_9,93560970,11832
+9dc23fd1a98d4359,poison_shimmer_update.mat,Tiny_9,93572802,6370
+52af95fcf28f7e68,embers_render.mat,Tiny_9,92932786,15644
+f6508508569b6785,embers_update.mat,Tiny_D,329116410,12054
+02c8b36131fcc65f,dragonpetc.mat,Tiny_9,63366698,11340
+db66146c137631cf,disintegrate_down.mat,Tiny_9,92904554,1218
+5ea806461b3894fe,disintegrate_down_idle.mat,Tiny_9,92905772,27014
+4637bdd9e4cd12b8,ash_dust_render.mat,Tiny_9,63345654,20446
+0c4c64741f27a6ef,ash_dust_update.mat,Tiny_D,329088976,10416
+0ce6c842131f37c4,ash_charred_render.mat,Tiny_9,92824102,23936
+47f9c1059afda089,ash_charred_update.mat,Tiny_9,92848038,18814
+4173a970fa445c08,ash_big_render.mat,Tiny_9,92775432,29396
+414235e305ab1a4c,ash_big_update.mat,Tiny_9,92804828,19274

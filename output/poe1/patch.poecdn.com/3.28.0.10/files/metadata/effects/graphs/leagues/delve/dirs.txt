@@ -1,0 +1,10 @@
+delvechildren
+mapviewer
+monster_glow
+thematic_areas
+thematic_areas/vaal_ruins
+thematic_areas/vaal_ruins/bloodstained_fossil
+thematic_areas/vaal_ruins/bloodstained_fossil/bloodpulse
+thematic_areas/vaal_ruins/bloodstained_fossil/bubble
+thematic_areas/vaal_ruins/bloodstained_fossil/rotpyramid
+waypoint

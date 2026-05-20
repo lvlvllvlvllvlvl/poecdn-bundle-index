@@ -1,0 +1,16 @@
+attachments
+attachments/outfits
+attachments/outfits/duelist
+attachments/outfits/marauder
+attachments/outfits/ranger
+attachments/outfits/scion
+attachments/outfits/shadow
+attachments/outfits/templar
+attachments/twist
+attachments/twist/duelist
+attachments/twist/marauder
+attachments/twist/ranger
+attachments/twist/scion
+attachments/twist/shadow
+attachments/twist/templar
+attachments/twist/witch

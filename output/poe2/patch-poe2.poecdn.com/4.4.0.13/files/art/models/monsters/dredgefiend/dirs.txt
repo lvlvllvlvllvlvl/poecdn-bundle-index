@@ -1,0 +1,7 @@
+attachments
+attachments/backbranches
+attachments/backdecor
+attachments/chestdecor
+attachments/headbranches
+attachments/weapon
+textures

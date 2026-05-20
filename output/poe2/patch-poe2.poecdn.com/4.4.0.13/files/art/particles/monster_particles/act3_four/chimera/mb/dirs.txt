@@ -1,0 +1,9 @@
+fire_proj_impact
+firebeam_grd
+ground_180_flap_attack_01
+ice_beam
+ice_grd
+lightning_zap
+pillars_destruction
+poison_spill_mortar
+poison_spray

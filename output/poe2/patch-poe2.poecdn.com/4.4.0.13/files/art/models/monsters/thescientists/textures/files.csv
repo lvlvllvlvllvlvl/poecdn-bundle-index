@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+a649c2ff71af52cb,thescientists1_matc.mat,Tiny.VC,12135776,6840
+b9719381564f36ec,thescientists1_mat_sss_dxt5.dds,Streaming/Content/art/models/monsters/thescientists/thescientists1.fmt.2,0,5592580
+db7f1dd1b844948f,thescientists1_mat_sss_dxt5.dds.header,Tiny.V7,12243393,1520
+d91e59e397219d0c,thescientists1_mat_mask_dxt1.dds,Streaming/Content/art/models/monsters/thescientists/thescientists1.fmt.1,0,699212
+31da94fc0acc310e,thescientists1_mat_mask_dxt1.dds.header,Tiny.VD,12167925,1520
+ac2cf015735e4707,thescientists1_mat_metal_dxt1.dds,Streaming/Content/art/models/monsters/thescientists/thescientists1.fmt.1,699212,2796364
+4487dac07d20f10c,thescientists1_mat_metal_dxt1.dds.header,Tiny.VE,12273062,1520
+83bd939d784ce352,thescientists1_mat_normal_dxt5.dds,Streaming/Content/art/models/monsters/thescientists/thescientists1.fmt.1,3495576,5592580
+72cfdac585c462db,thescientists1_mat_normal_dxt5.dds.header,Tiny.VF,12392833,1520
+0192e85024c09ceb,thescientists1_mat_colour_dxt1.dds,Streaming/Content/art/models/monsters/thescientists/thescientists1.fmt,0,2796364
+3e5b72875c6004a2,thescientists1_mat_colour_dxt1.dds.header,Tiny.VA,12382742,1520
+74d51b285e50f7bc,thescientists1_mat_glow_dxt1.dds,Streaming/Content/metadata/monsters/leagueincursionnew/thaumaturge/3A1739FDA38A7B14.60C21AA3CEB5CBDC.doryanipast.ot,487533,2796364
+0c9f5294d01ecf55,thescientists1_mat_glow_dxt1.dds.header,Tiny.V1,12231875,1520

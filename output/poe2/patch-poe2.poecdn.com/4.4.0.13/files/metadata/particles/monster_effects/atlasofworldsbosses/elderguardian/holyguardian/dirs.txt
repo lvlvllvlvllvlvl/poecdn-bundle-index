@@ -1,0 +1,5 @@
+delayed_slam
+mace_charge
+monster_slam
+storm_of_swords
+weapon_throw

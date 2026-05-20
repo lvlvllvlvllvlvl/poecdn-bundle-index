@@ -1,0 +1,3 @@
+celestial
+celestial/explode
+celestial/projectile

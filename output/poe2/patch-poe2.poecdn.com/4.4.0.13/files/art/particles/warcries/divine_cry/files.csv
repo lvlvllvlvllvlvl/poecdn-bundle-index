@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+4e69d96d6765c04a,flares.mat,Tiny.VA,39441553,1354
+375b902403adb83c,caustics.mat,Tiny.VD,39452607,1154
+c7f74e4ef2a5ab3c,epk.mat,Tiny.VF,39303301,3434
+4f6cd6cdc5e72fe7,mask_ring_dxt5.dds,Streaming/Content/metadata/effects/spells/warcries/FAA37D928FFF24B8.D1AC74E5AECBBE16.divine_surge_flash.pet,0,349700
+fecd5098cb1de470,mask_ring_dxt5.dds.header,Tiny.V2,39005124,1520
+8872b2e52afceb4e,voll_rune_base_adda.mat,Tiny.V3,38625999,3392
+69345641e77da2ef,voll_rune_base_adda_dxt5.dds,Streaming/Content/metadata/effects/spells/warcries/FAA37D928FFF24B8.D1AC74E5AECBBE16.divine_surge_flash.pet,349700,1398276
+3c784f296f09991e,voll_rune_base_adda_dxt5.dds.header,Tiny.VF,39306735,1520
+578f07e7b4a877e8,sparkling.mat,Tiny.V0,39407676,2634
+d1cf2df8c459b2d4,scale_shockwave.mat,Tiny.V3,38620099,5900
+01fa1b547a2708a0,sharp_ring.mat,Tiny.V5,38879081,3230

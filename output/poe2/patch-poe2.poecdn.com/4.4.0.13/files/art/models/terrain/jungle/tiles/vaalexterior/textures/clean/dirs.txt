@@ -1,0 +1,2 @@
+noshadow
+rooffade

@@ -1,0 +1,7 @@
+aura
+aura/aura_new
+aura/fx
+projectile
+projectile/aoe
+projectile/fx
+projectile/fx_new

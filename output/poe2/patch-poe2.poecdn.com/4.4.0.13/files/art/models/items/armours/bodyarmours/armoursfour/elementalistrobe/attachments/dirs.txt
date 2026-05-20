@@ -1,0 +1,10 @@
+female
+female/elbowcloth_l
+female/elbowcloth_r
+female/robe
+female/skirt
+male
+male/elbowcloth_l
+male/elbowcloth_r
+male/robe
+male/skirt

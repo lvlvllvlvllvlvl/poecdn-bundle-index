@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+3a2415a8c6f4708a,rig_346f3cf2.smd,Art/Models/Pet/Parasite,838562,18938
+30e813eca66b1efc,rig_346f3cf2.smd.header,Tiny_3,16291441,368
+8644d331d8cf54aa,rig.amd,Tiny_3,16289139,2302
+27a80bcbb63ee632,rig.ast,Art/Models/Pet/Parasite,46936,791626
+dc89307a5138eb38,parasite.sm,Tiny_3,16287393,414
+4da62c7787b0f642,parasiteplated.sm,Tiny_3,16287807,442
+f68ff1876759b040,parasitespitting.sm,Tiny_3,16288249,446
+038a14747fcac720,parasiteviscous.sm,Tiny_3,16288695,444
+454c88bd7a9289c6,harvestparasite.sm,Tiny_3,16285485,576
+dc57a92579bb4482,harvestparasite_armour_b853a5c0.smd,Art/Models/Pet/Parasite,25808,21128
+4c861e48b35ee79d,harvestparasite_armour_b853a5c0.smd.header,Tiny_3,16286061,368
+0a1805d96cb33630,harvestparasitetier2.sm,Tiny_3,16286429,596
+c9dfb16a31a21770,harvestparasitetier2_armour_f475ed14.smd,Art/Models/Pet/Parasite,0,25808
+0fdc363e9322d483,harvestparasitetier2_armour_f475ed14.smd.header,Tiny_3,16287025,368

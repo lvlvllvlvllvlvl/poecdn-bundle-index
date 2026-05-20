@@ -1,0 +1,4 @@
+armour_sets
+graphs
+pet
+weapons

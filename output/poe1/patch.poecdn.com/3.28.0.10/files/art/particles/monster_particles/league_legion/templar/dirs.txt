@@ -1,0 +1,12 @@
+basicmobs
+basicmobs/holywhip
+boss_basicattacks
+boss_chargecombo
+boss_holyblast
+boss_net
+boss_shattershield
+boss_shattershield/statues
+holybeamslash
+multibeamgeyser
+shieldcharge
+shieldthrow

@@ -1,0 +1,7 @@
+attachments
+attachments/chains
+attachments/loincloth
+attachments/lsleeve
+attachments/plates
+attachments/rsleeve
+rusted

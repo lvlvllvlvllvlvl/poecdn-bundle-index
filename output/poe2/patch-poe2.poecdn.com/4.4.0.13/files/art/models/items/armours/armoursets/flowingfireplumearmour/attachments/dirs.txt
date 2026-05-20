@@ -1,0 +1,11 @@
+female
+female/backfeathers
+female/glovessleeve
+female/hair
+female/skirtbeltribbon
+female/skirtbottom
+male
+male/cloak
+male/hair
+male/pantsribbon
+male/robe

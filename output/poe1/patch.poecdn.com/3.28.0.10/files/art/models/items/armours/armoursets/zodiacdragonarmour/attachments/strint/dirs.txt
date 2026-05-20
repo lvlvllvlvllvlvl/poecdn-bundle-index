@@ -1,0 +1,7 @@
+chest
+chest/necklace
+chest/shoulderpads
+chest/shoulderpads/leftshoulderpad
+chest/shoulderpads/rightshoulderpad
+helmet
+skirt

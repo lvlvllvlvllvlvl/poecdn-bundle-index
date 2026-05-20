@@ -1,0 +1,5 @@
+animatedblockage
+precursordoor
+precursordoor/tgms
+tgms
+traintunneldoor

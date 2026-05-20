@@ -1,0 +1,3 @@
+delinquent_01_frontloincloth
+delinquent_02_frontloincloth
+delinquent_03_backloincloth

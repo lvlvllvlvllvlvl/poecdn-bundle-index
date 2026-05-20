@@ -1,0 +1,11 @@
+sacrificial_heart_stab_01
+sacrificial_heart_stab_01/audio
+sacrificial_heart_stab_01/epk
+sacrificial_heart_stab_01/fx
+sacrificial_heart_stab_01/fx/sacrificial_ritual_ruckus_01
+sacrificial_heart_stab_01/mat
+sacrificial_heart_stab_01/mat/bloody_heart
+sacrificial_heart_stab_01/mat/fling
+sacrificial_heart_stab_01/mat/sacrificial_ritual_ruckus_01
+sacrificial_heart_stab_01/mat/sacrificial_ritual_ruckus_01/player_gettin_buffed
+sacrificial_heart_stab_01/mat/stab_in

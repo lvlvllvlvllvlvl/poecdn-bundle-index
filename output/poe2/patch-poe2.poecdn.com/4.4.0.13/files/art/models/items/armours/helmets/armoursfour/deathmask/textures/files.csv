@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+6e2b6ac5a2bb3ee6,shadec.mat,Tiny.V9,9979634,1296
+469be30ed5b7e684,shade_colour.dds,Streaming/Content/metadata/items/armours/helmets/DB5C118D20E77596.witchhunterarmourhelmetstr.ao,438786,174924
+3a2756d12e016984,shade_colour.dds.header,Tiny.VD,9626470,1520
+9b245ab0a9e988dc,deathmaskc.mat,Tiny.V5,9508978,2932
+3369d92688d21923,deathmask_normal_dxt5.dds,Streaming/Content/metadata/items/armours/helmets/DD3FA0B6015E1BC0.4FB3363C6D64A43B.deathmaskstr.ao,1539788,1398276
+141708f730549545,deathmask_normal_dxt5.dds.header,Tiny.VC,9631144,1520
+10fd5c4c2ec50fb2,deathmask_metal_dxt1.dds,Streaming/Content/metadata/items/armours/helmets/DD3FA0B6015E1BC0.4FB3363C6D64A43B.deathmaskstr.ao,840576,699212
+6909d5da9c433013,deathmask_metal_dxt1.dds.header,Tiny.VA,9731182,1520
+30ec002addbdae1d,deathmask_colour_dxt1.dds,Streaming/Content/metadata/items/armours/helmets/DD3FA0B6015E1BC0.4FB3363C6D64A43B.deathmaskstr.ao,141364,699212
+aeb86a14446f7bc4,deathmask_colour_dxt1.dds.header,Tiny.V3,9692504,1520

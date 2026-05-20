@@ -1,0 +1,16 @@
+attachments
+attachments/armcloth
+attachments/belt
+attachments/chestcloth
+attachments/shoulderchaindangle
+attachments/shoulderpads
+attachments/skirt
+attachments/skirtplate
+attachments/skirtplate/skirtplatedex
+attachments/skirtplate/skirtplatedexint
+attachments/skirtplate/skirtplateint
+attachments/skirtplate/skirtplatestr
+attachments/skirtplate/skirtplatestrdex
+attachments/skirtplate/skirtplatestrdexint
+attachments/skirtplate/skirtplatestrint
+textures

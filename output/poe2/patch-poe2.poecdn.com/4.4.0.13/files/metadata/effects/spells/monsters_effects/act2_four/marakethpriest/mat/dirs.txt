@@ -1,0 +1,4 @@
+ambient
+epk
+onact
+onact/attack_01_02

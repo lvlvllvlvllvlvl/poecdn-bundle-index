@@ -1,0 +1,2 @@
+sigils
+sigils/light_attachment

@@ -1,0 +1,7 @@
+faridun
+lightning_nova
+projectile_01
+projectile_01/proj_destroy
+projectile_01/proj_grd_stuck_01
+projectile_01/proj_rod
+surge

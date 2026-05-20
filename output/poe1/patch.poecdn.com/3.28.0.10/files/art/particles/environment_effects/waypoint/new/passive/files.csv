@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+c2a20df83722982f,waypointgradc.mat,Tiny_6,28520463,1936
+2894b9011c912529,waypointgrad_colour.dds,Art/particles/environment_effects/waypoint_3,962216,22020
+ca3dfafc4efac3f5,waypointgrad_colour.dds.header,Tiny_6,38399490,1520
+5fdbf2cdf57269fe,waypointglowc.mat,Tiny_6,28518263,2200
+b04bab653cc341b6,waypointglow_colour.dds,Art/particles/environment_effects/hideout_7,411726,349700
+0aac9f1516c06999,waypointglow_colour.dds.header,Tiny_6,28516743,1520
+346609952060a4d4,light_middle_upc.mat,Tiny_6,28514287,2456
+23f4d8e209a976c9,light_middle_up.dds,Art/particles/environment_effects/waypoint_3,874660,87556
+f464b2b7a645a557,light_middle_up.dds.header,Tiny_6,28512767,1520
+a8885d5a7f89202f,impact_swirl.mat,Tiny_6,28510641,2126
+b02b6dac549e60f7,impact_swirl.dds,Art/particles/lightning_orb,262496,22020
+17f6c4bc0b571e73,impact_swirl.dds.header,Tiny_6,38381948,1520
+3c1118870b918f7c,blink_spiral_bigger.mat,Tiny_6,28508719,1922
+63b23c84806fb03d,blink_spiral_bigger.dds,Folders/art/microtransactions/spell/discharge_1,1372190,87556
+47ddecc6aa9ab4e8,blink_spiral_bigger.dds.header,Tiny_6,28507199,1520

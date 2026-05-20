@@ -1,0 +1,12 @@
+crossbow
+crossbow/projectile
+crossbow/snipe
+crossbow/snipe_launch
+crystaltotem
+crystaltotem/abyss
+icecrystaltotem
+icecrystaltotem/projectile
+templarmissionrelic
+templarmissionrelic/monster_spawn
+templarmissionrelic/nova
+templarmissionrelic/unholy_nova

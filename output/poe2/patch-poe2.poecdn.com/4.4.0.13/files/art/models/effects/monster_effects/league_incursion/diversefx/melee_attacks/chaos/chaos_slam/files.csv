@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+a6c487e3194143c2,impact_aoe_1557b142.smd,Streaming/Content/metadata/effects/spells/monsters_effects/E00156BBB00B5844.B2C9D070058633E3.impactslash.ao,0,24080
+8a7a7faf8ceacb30,impact_aoe_1557b142.smd.header,Tiny.V6,7410449,368
+6af274c0fc59d630,impactslash.sm,Tiny.V9,7617029,898
+eba37aea89fc708e,impactslash.amd,Tiny.V9,7794686,86
+dad1585aa8672714,impactslash.ast,Tiny.VA,7444905,3525
+fa0fb19155c5cfb5,slash_e679b966.smd,Streaming/Content/metadata/effects/spells/monsters_effects/E00156BBB00B5844.B2C9D070058633E3.slashchaos.ao,0,24542
+cbcead38d8c3c24d,slash_e679b966.smd.header,Tiny.V9,7558356,368
+4d7cadd2c1dae101,slashchaos.sm,Tiny.VE,7308307,1008
+6f03dffb5c831e53,slashchaos.amd,Tiny.V9,7794686,86
+b43fc26575e65700,slashchaos.ast,Content/metadata/effects/spells/monsters_effects/E85BB7FB922E51DD.gaiablast.ao,1378553,21439

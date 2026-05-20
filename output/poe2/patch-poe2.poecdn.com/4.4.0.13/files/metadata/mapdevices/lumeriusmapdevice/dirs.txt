@@ -1,0 +1,10 @@
+vfx
+vfx/epk
+vfx/epk/start_01
+vfx/fx
+vfx/fx/idle_01
+vfx/fx/start_01
+vfx/mat
+vfx/mat/idle_01
+vfx/mat/idle_01/pot_subtle
+vfx/mat/start_01

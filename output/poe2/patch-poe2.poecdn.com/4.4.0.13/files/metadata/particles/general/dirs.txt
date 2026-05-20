@@ -1,0 +1,8 @@
+aura_surge
+aura_surge/blue
+aura_surge/golden
+aura_surge/green
+aura_surge/light_pale_green
+aura_surge/orange
+aura_surge/purple
+aura_surge/red

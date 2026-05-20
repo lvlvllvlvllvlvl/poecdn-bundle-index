@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+5c34687975251c21,shockwave01_8x8.mat,Tiny.V5,31384788,2816
+0e38435b6bfaae28,shockwave01_8x8_dxt5.dds,Streaming/Content/metadata/particles/bone_golem/bone_shockwave.pet,0,5592580
+22c967a79da5493c,shockwave01_8x8_dxt5.dds.header,Tiny.V8,32590696,1520
+4ac5a0aa2d40306f,impact.mat,Tiny.VC,31989428,2414
+e94c2cbd01960012,impact_dxt5.dds,Streaming/Content/metadata/items/armours/shields/E92473345BF4F81B.551B8B637555B3D8.stage04_fadeout.epk.1,4894228,87556
+f6e73b084ae81f5d,impact_dxt5.dds.header,Tiny.V0,5126326,1520
+61d606c4c52361cb,dust.mat,Tiny.VA,31979220,1696
+48b694596b59454e,dust_dxt5.dds,Streaming/Content/metadata/monsters/hyenamonster/effects/A2423F3D01E7A113.doublestrike.pet,0,174948
+d6f659822a1ec722,dust_dxt5.dds.header,Tiny.V8,31629978,840
+a1e9192f163e3dcf,p_crk_extra_mask_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A7C8824527C99445.CAE58C92B230AD8B.loop_center.pet,549558,1398276
+e8316c5c64499bdb,p_crk_extra_mask_dxt5.dds.header,Tiny.VE,5258175,1520
+f9bc20300013a6ec,p_crk_nmlao_dxt5.dds,Streaming/Shared/Normal/Shared,1990350,1398276
+23c7ccdb38335195,p_crk_nmlao_dxt5.dds.header,Tiny.VA,5249454,1520
+b8eade13e3576982,p_crk_clr.mat,Tiny.VC,31991842,5958
+c355888f8ab21482,p_crk_clr_dxt5.dds,Streaming/Shared/Normal/Shared,592074,1398276
+d81af5dc9aee8ffb,p_crk_clr_dxt5.dds.header,Tiny.VF,5161952,1520

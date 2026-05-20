@@ -1,0 +1,9 @@
+field
+junglewateredge
+vaalhut
+vaalhut_jungleedge
+vaalhut_wateredge
+vaalhut_waterjunglecombo
+vaalvillagefulledge
+vaalvillagepillaredge
+woodsrockpile

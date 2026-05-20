@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+967712c88d95dc50,light_gradient.mat,Tiny_D,188869054,4284
+c681879c7336f2f6,shockwave_detail.mat,Tiny_D,188873338,5714
+41a38b647f127f08,slam_wave_render.mat,Tiny_D,189032512,32184
+8f2846321eea95f8,slam_wave_update.mat,Tiny_11,86642861,310
+fcfde241132c22c2,slam_smoke_render.mat,Tiny_D,188989288,34250
+bfa07b1943471528,slam_smoke_update.mat,Tiny_D,189023538,8974
+38ff10238add9e22,slam_shimmer_render.mat,Tiny_D,188965690,23598
+9c7ebadc6024631e,slam_shimmer_update.mat,Tiny_11,86642861,310
+900aa0b4a10e2c65,slam_decal_render.mat,Tiny_D,188901876,63814
+63d08439e85cf0dd,slam_decal_update.mat,Tiny_11,86642861,310
+0afdca510df35594,slam_debris_render.mat,Tiny_D,189170344,27416
+0a1f30062bf7f40b,slam_debris_update.mat,Tiny_D,188879052,22824
+2f1bc886c315444f,jade_clone_pass.mat,Tiny_D,188768878,32188
+4699a62ee7f759ed,jade_shards.mat,Tiny_D,188863052,6002
+5d35ce0040453add,jade_prison_base.mat,Tiny_D,188801066,24820
+07bb9129b88bd77a,jade_prison_pass.mat,Tiny_D,188825886,37166

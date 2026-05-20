@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+4bba12be99c8fdbe,timeline_condition.fxgraph,Content/metadata/effects/spells/monsters_effects/E0376E9D19A5E016.projectile_impact.ao,1205370,41244
+eb6eb14a87901173,proximity_fromrare.fxgraph,Content/metadata/effects/spells/monsters_effects/E0376E9D19A5E016.projectile_impact.ao,1162870,42500
+06c0dc9715ea543e,alpha_byproximity.fxgraph,Content/metadata/effects/spells/monsters_effects/E0376E9D19A5E016.projectile_impact.ao,1139658,23212
+d29656a76b79db45,albedo_byproximity.fxgraph,Content/metadata/effects/spells/monsters_effects/E0376E9D19A5E016.projectile_impact.ao,1116492,23166

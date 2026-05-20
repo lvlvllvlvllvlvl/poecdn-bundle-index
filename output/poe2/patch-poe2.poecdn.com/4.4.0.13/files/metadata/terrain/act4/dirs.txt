@@ -1,0 +1,8 @@
+area3level1
+area3level1/groundtypes
+area5level2
+area5level2/groundtypes
+area7
+area7/cliff
+area7/ground
+area7/ravine

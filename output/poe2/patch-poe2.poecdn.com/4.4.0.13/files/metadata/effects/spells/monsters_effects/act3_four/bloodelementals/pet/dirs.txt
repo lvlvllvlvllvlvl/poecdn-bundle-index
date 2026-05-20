@@ -1,0 +1,6 @@
+alive
+b_projectile
+b_projectile/idle
+b_projectile/impact
+dash
+dash/loop

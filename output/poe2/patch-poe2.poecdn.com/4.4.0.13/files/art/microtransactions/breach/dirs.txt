@@ -1,0 +1,13 @@
+ritual
+ritual/mb
+ritual/mb/blood_pool
+ritual/mb/chest
+ritual/mb/chestshimmer
+ritual/mb/portal
+ritual/tex
+ritual/tex/chest
+ritual/tex/chestshimmer
+ritual/tex/monster_epk
+ritual/tex/portal
+ritual/tex/portal/fx
+ritual/tex/portal/fx/bloodpool

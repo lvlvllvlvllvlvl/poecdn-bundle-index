@@ -1,0 +1,10 @@
+mb
+mb/on_act
+mb/on_act/death
+tex
+tex/on_act
+tex/on_act/attack_2hsword_01
+tex/on_act/attack_mace
+tex/on_act/attack_spear_01
+tex/on_act/attack_sword_03
+tex/on_act/death

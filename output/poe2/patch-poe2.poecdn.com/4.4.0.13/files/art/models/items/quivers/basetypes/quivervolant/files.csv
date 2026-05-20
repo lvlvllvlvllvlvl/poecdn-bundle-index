@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+2aeb02a41e1aa8d9,arrowflying.fmt,Streaming/Content/metadata/items/quivers/quiversfour/19B3E66B6CDCA2B9.volantquiverarrowflying.ao,0,21702
+ab4991b2d884b102,arrowflying.fmt.header,Tiny.VC,10401626,333
+579f9f4a9c629df3,rig_c83e0e68.smd,Streaming/Content/metadata/items/quivers/quiversfour/75775E82FB8D9705.primedquiverdrop.ao,119321,285881
+208a3bcdf3607497,rig_c83e0e68.smd.header,Tiny.VE,10560362,583
+47459a556b2a61bb,rig.amd,Tiny.V6,10663613,184
+9de821c0d8c4f575,rig.ast,Tiny.V8,10520618,447
+43c424c13a0c257a,quivervolant.sm,Tiny.VB,10576962,508
+12465ccb53ecaf89,quivervolantdrop_8599149d.smd,Streaming/Content/metadata/items/quivers/quiversfour/2A88C3B8E653E17E.penetratingquiverarrowflying.ao,6836,279481
+88cd932f23634869,quivervolantdrop_8599149d.smd.header,Tiny.V1,10490803,448
+b7ec1b450edc95db,volantquiverdrop.sm,Tiny.V0,10737797,510
+96284b11ee4ebd51,volantquiverdrop.amd,Tiny.VA,9584462,198
+a3ec92ddb0ce047b,volantquiverdrop.ast,Tiny.V1,10491251,2663

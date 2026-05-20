@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+a6a06d3a4803f1c5,karuishamanspecularc.mat,Tiny_8,40481172,2472
+d81b98221fa73af2,karuishaman_normal_dxt5.dds,Art/Textures/NPC/KaruiShaman_1,0,1398276
+ffcb72d99aaee655,karuishaman_normal_dxt5.dds.header,Tiny_8,40479652,1520
+8e6a7441defb1944,karuishaman_colourspecular_dxt5.dds,Art/Textures/NPC/KaruiShaman_2,0,2796388
+8018c7b9f5c208ac,karuishaman_colourspecular_dxt5.dds.header,Tiny_8,40478812,840
+bff1e963f9923437,karuishaman_colourspecular_bc7.dds,Art/Textures/NPC/KaruiShaman_2,0,2796388
+5cddc3cfac7fd596,karuishaman_colourspecular_bc7.dds.header,Tiny_8,40478812,840
+2c48cb86dc3f5775,karuishaman_colourspecular.dds,Art/Textures/NPC/KaruiShaman,0,1398268
+c0327c12e8d80754,karuishaman_colourspecular.dds.header,Tiny_8,40477972,840

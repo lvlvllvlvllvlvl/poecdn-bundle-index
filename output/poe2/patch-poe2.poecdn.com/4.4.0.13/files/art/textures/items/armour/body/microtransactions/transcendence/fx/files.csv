@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+b48ec0b981088036,diffuse_add_dxt1.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.6A2A8EDB9B087600.transcendencehood.fmt,0,174924
+f152a7b5d14773a6,diffuse_add_dxt1.dds.header,Tiny.VD,44976160,1520
+2fa0f29c22092d89,mir3_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/spells/AC34DCC175DF8186.8F4E1CD2505F4E11.cast_wave.pet,743088,699212
+0f8e3646a6ef8733,mir3_dxt1.dds.header,Tiny.VC,45161018,1520
+b2da1cda3981f77d,mir2_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/spells/0EB7D72D609B77CB.C4CD81F3DB669EE1.spd_proj.trl,1420280,1398268
+9cb6f44a64601d88,mir2_dxt1.dds.header,Tiny.V5,44519161,840
+24cb92df92633c97,mir1_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/spells/0EB7D72D609B77CB.C4CD81F3DB669EE1.spd_proj.trl,22012,1398268
+3e5f13f735ea9561,mir1_dxt1.dds.header,Tiny.V4,45508184,840

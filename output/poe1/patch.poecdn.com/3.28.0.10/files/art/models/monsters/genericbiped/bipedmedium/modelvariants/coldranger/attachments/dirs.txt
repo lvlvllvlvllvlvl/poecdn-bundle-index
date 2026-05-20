@@ -1,0 +1,5 @@
+bow
+bow/animations
+quiver
+robe
+robe/animations

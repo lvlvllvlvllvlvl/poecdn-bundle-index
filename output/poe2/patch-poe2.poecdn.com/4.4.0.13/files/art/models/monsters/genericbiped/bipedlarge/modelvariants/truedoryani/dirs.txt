@@ -1,0 +1,16 @@
+attachments
+attachments/backdanglers
+attachments/feathers
+attachments/headchain
+attachments/necklace
+attachments/platedanglers
+attachments/shoulderpaddanglers
+attachments/shoulderpaddanglers/left
+attachments/shoulderpaddanglers/right
+attachments/skirt
+attachments/skirt/attachments
+attachments/skirt/attachments/belt
+attachments/skirt/attachments/dagger
+attachments/skirt/attachments/dangler_1
+attachments/skirt/attachments/dangler_2
+attachments/skirt/attachments/ropes

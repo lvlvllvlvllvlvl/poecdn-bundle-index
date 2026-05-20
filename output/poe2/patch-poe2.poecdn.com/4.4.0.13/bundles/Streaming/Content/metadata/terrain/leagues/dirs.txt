@@ -1,0 +1,16 @@
+archnemesis
+bestiary
+betrayal
+blight
+breach
+ctf
+delve
+expedition
+harvest
+heist
+incursion
+lake
+legion
+ritual
+sanctum
+synthesis

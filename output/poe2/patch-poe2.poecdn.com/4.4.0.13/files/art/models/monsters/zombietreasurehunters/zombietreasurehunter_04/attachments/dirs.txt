@@ -1,0 +1,8 @@
+clothattachment
+coat
+frontfeather
+plants
+plants/frontclav_rig
+plants/lowerback_rig
+plants/upperback_rig
+sword

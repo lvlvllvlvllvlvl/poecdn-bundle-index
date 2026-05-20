@@ -1,0 +1,5 @@
+burning_frame
+generic_fireside
+generic_fireup
+generic_fireup_lowerfloor
+thick_smoke

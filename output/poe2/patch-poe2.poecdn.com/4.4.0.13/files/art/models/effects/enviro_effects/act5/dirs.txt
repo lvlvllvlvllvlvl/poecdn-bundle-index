@@ -1,0 +1,10 @@
+brazier_fire
+brazier_fire_red
+brazier_fire_wide
+cathedral_broken_roof
+cathedral_broken_roof/burning_frame
+entrance_portal
+entrance_portal/portal_in
+snow
+torch_fire_high_radius
+torch_fire_high_radius/animations

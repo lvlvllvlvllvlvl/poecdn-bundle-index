@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+fd30cc03996b6e51,enemy_marker_undead.ao,Tiny.V2.1,51483966,820
+ca566e38a18bf81f,enemy_marker_undead.aoc,Tiny.V7.1,51391902,3286
+942a2610fe36f61e,command_undead.ao,Tiny.V2.1,51483966,820
+0f562a90d9821fee,command_undead.aoc,Tiny.VD.1,46523212,3712
+ec7a18e9b0e012e2,command_demonic.ao,Tiny.VB.1,49827756,826
+237a24e77cad94d0,command_demonic.aoc,Tiny.VF.1,50526208,3728
+8edad5f35c4aa43c,command_companion.ao,Tiny.V3.1,49795564,838
+eb0e1b4cbcb2ffa0,command_companion.aoc,Tiny.VD.1,46519452,3760
+39885f2acac08088,command_indicator.ao,Tiny.VA.1,48625058,2150
+18ee72c1cd41a31c,command_indicator.aoc,Tiny.V1.1,48169548,10664

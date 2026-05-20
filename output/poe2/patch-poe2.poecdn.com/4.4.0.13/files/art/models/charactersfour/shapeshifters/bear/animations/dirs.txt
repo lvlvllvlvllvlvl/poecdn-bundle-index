@@ -1,0 +1,13 @@
+blink
+groundstomp
+landslide
+maul
+mountainfury
+rampage
+shapeshifting
+slam
+tormentedspirit
+vesselofwrath
+walkingcalamity
+warcry
+wildbeast

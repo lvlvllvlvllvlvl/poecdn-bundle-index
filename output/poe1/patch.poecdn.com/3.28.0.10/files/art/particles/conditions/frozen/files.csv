@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+365808a7652316e4,frozen_ngs_dxt5.dds,Art/particles/conditions/frozen,0,349700
+0c682fced1510e74,frozen_ngs_dxt5.dds.header,Tiny_6,10961433,1520
+bd2cc6651ad3daff,frozen_colour_dxt5.dds,Art/particles/conditions/frozen_1,0,349700
+ace4d64bcb3fa74c,frozen_colour_dxt5.dds.header,Tiny_8,22825928,1520
+97bd9d22289d7e7d,frozen_colour.mat,Tiny_6,10958485,2948
+e50bb1c79c03c604,frozen_colour.dds,Art/particles/conditions/frozen_1,0,349700
+b4a28bba1f233168,frozen_colour.dds.header,Tiny_8,22825928,1520
+006a550fd3de99fe,frost_layer_dxt5.dds,Art/Textures/Misc.2,0,349700
+0129113077611484,frost_layer_dxt5.dds.header,Tiny_8,22819910,1520

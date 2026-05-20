@@ -1,0 +1,7 @@
+attachments
+attachments/sack
+attachments/sack/textures
+attachments/skirt
+attachments/skirt/attachments
+attachments/skirt/attachments/tier3
+textures

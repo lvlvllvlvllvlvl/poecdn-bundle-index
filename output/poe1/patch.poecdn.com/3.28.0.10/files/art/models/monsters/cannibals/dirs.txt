@@ -1,0 +1,5 @@
+blacksoullarge
+blacksoullarge02
+blacksoulsmall
+female
+male

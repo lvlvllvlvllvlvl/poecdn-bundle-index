@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+4d0ce956a66c1c52,mblur_sphere_r.mat,Tiny.VD.1,47053572,13056
+6e3cb72261d5105e,mblur_sphere_u.mat,Tiny.VE.1,1562868,310
+12d6f5b6830f2789,windtrail.mat,Tiny.VF.1,51356484,21532
+ed7adf5d48f1fbb7,wind_smoke_r.mat,Tiny.VE.1,52703346,26378
+d1c7b6a63e9b2036,wind_smoke_u.mat,Tiny.V9.1,22922694,8570
+b1854e57009d7693,windblurtrail.mat,Tiny.V0.1,54063488,35844
+70938487a157d009,windball_core_r.mat,Tiny.V3.1,50525320,50258
+e856fb910b28b3f3,windball_core_u.mat,Tiny.VC.1,53098210,1682

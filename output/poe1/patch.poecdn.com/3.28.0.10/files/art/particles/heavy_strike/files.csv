@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+59a7d161792a5f9d,light.mat,Tiny_6,33976921,1016
+07023a6c8da3cad1,light.dds,Art/particles/heavy_strike,0,87556
+3b44e3c2805b3495,light.dds.header,Tiny_6,33975401,1520
+2b61d1b52aafea7e,distortc.mat,Tiny_6,33973529,1872
+6d71b9022c4c5991,distort.dds,Art/particles/heavy_strike,524812,349700
+e6fa09947741e17a,distort.dds.header,Tiny_6,33972009,1520
+6e709bf92c437da8,darkswoosh_adac.mat,Tiny_6,33970047,1962
+49a5fdbb910f2bb8,darkswoosh_ada.dds,Art/particles/heavy_strike,87556,349700
+5ccc80c9006cb106,darkswoosh_ada.dds.header,Tiny_6,33968527,1520
+70723dc77388d68c,black_wisps.mat,Tiny_6,33967613,914
+38be2e6572dbf2f9,black_wisps.dds,Art/particles/heavy_strike,437256,87556
+2dd11ce3db22c1d9,black_wisps.dds.header,Tiny_6,33966093,1520
+2f9bbacae998b1f7,base.mat,Tiny_6,33965221,872
+22ff837824e7c096,base.dds,Art/particles/heavy_strike,874512,87556
+78a37547c3891d3c,base.dds.header,Tiny_6,33963701,1520

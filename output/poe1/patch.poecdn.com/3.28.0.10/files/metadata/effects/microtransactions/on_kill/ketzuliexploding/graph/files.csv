@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+fa8305594ba7ab87,burnt_down.fxgraph,Folders/metadata/effects.4,21366376,67008
+9a0a5b17d6e10857,disintegrate_down_byboundingbox.fxgraph,Folders/metadata/effects_5,4248190,76918
+c913d89717786a11,custom_emissive_mult_bytimelinefloat_prelightfinal.fxgraph,Folders/metadata/effects_5,3581308,4908
+35c3b014d1965502,custom_fadebytime_nooverride.fxgraph,Folders/metadata/effects_5,3586216,19496
+1d81378b59acaef6,custom_glowalpha.fxgraph,Folders/metadata/effects_5,3605712,28406
+460718a733546668,custom_jitter.fxgraph,Folders/metadata/effects_5,3634118,16754
+d770414e9eb6af99,custom_mainuv_actorscale.fxgraph,Folders/metadata/effects.3,8149678,14166
+1d5da5a2c3a0ec6b,custom_pxl_mask_sphere.fxgraph,Folders/metadata/effects_5,3650872,298370
+67a75018e6b5f715,custom_pxl_mask_sphere_prelightfinal.fxgraph,Folders/metadata/effects_5,3949242,298948

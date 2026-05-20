@@ -1,0 +1,11 @@
+attachments
+attachments/backcloth
+attachments/lglovescloth
+attachments/lsleevescloth
+attachments/rglovescloth
+attachments/rsleevescloth
+attachments/skirt
+attachments/skirt/attachments
+attachments/skirt/attachments/jar
+textures
+textures/matfx

@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+17fadf7b8be7133b,extranormal_world.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/5EC5DFD2E9A7D7F7.wave_front.pet,87789,140824
+38d9956b098a9351,extranormal_local.fxgraph,Content/metadata/effects/microtransactions/spells/elemental_hit/08E5D14A74A66FA3.elehit_arrow_light.ao,3903086,158618
+a9316138b22926fc,innermaterial_local.fxgraph,Shared,4498975,126534
+c8c6d642c6edb608,innermaterial_world.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/8518145A41654681.lightray.ao,1282899,108906
+dc3c2225861046e0,innermaterial_glow.fxgraph,Content/metadata/effects/microtransactions/spells/elemental_hit/08E5D14A74A66FA3.elehit_arrow_light.ao,4061704,15758
+bcb7da16879a0468,innermaterial_rgbmultiplier.fxgraph,Content/metadata/effects/microtransactions/spells/warbanner/FC60EA39982D2D13.start_midline.pet,5767513,89768
+df2d0888f37d733b,innermaterial_tileground.fxgraph,Content/metadata/effects/microtransactions/spells/celestial_warcries/760E0865EAD6D392.intimidating_cry.epk,1075776,66698
+0958fa42e051d7ef,innermaterial_tochannel.fxgraph,Shared,4625509,172978

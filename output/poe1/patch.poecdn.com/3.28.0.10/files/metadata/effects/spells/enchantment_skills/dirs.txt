@@ -1,0 +1,17 @@
+animated_weapon
+arrows
+arrows/lightning
+clonefade
+fire_nova
+holy_nova
+ice_projectile_nova
+icy_raging_spirit
+meteor
+thunderbolt
+triggered_cleave
+wand_projectiles
+water_vortex
+weapon_throw
+weapon_throw/fiery
+weapon_throw/icy
+weapon_throw/lightning

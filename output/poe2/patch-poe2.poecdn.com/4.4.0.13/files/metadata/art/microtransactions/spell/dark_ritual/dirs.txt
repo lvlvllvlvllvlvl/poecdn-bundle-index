@@ -1,0 +1,4 @@
+stygian
+stygian/textures
+stygian/textures/aoe
+stygian/textures/aoe/fx

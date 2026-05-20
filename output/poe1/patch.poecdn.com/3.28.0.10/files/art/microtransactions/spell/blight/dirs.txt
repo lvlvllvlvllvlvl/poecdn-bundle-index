@@ -1,0 +1,6 @@
+celestial
+celestial/models
+celestial/textures
+project
+project/mb
+project/texture

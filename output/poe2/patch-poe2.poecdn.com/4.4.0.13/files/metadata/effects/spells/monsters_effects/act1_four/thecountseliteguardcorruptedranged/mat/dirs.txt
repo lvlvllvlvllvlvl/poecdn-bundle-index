@@ -1,0 +1,5 @@
+blood_trail
+laser
+projectile_dissolve
+projectile_stuck
+stab_distort

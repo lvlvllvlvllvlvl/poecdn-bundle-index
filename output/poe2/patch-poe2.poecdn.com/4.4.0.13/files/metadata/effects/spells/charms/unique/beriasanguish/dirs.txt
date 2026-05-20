@@ -1,0 +1,5 @@
+epk
+fx
+mat
+mat/flamewave
+mat/monster_charm_ignite

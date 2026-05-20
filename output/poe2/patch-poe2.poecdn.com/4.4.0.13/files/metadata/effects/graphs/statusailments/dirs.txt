@@ -1,0 +1,12 @@
+blood_frenzy
+chaos
+chilled
+hinder
+ignited
+parasite_infested
+petrified
+poisoned
+quicksand
+rupture
+shocked
+whiteignited

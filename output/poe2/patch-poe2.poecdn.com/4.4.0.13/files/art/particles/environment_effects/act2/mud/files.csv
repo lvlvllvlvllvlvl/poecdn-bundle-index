@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+efe142f396b05e18,smoke.mat,Tiny.V2,32219964,3274
+a6ac864ae0ea4c06,smoke_dxt5.dds,Streaming/Content/metadata/effects/environment/act2/0D02CB1EC779B719.104AC95D8EDF1359.soulcoaster_02.ao,826070,43876
+3a81c1a7ef436d0b,smoke_dxt5.dds.header,Tiny.V6,32154728,840
+3f45fff7289ed5b0,foam_ripple.mat,Tiny.VB,32489290,4110
+e77c573db1098726,foam_ripple_dxt5.dds,Streaming/Content/data/worldareas/E8/mapoasis.vworld,692921,87556
+a651a89901747390,foam_ripple_dxt5.dds.header,Tiny.V5,31868310,1520
+45ae860f6341c377,gooptex.mat,Tiny.VB,32493400,4274
+5ddf16156b17debb,gooptex_dxt5.dds,Streaming/Content/data/worldareas/98/mapoasis.vworld,1525701,87556
+df439e031b55903f,gooptex_dxt5.dds.header,Tiny.VE,31963372,1520

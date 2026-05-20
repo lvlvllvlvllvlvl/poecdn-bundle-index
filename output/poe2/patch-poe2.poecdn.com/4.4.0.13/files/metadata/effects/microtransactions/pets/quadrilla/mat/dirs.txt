@@ -1,0 +1,7 @@
+emerge
+footstep
+idle_03
+pillar_along
+pound_chest
+pound_impact
+pound_impact_weak

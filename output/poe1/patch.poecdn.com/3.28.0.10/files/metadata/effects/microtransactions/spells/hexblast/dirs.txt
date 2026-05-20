@@ -1,0 +1,9 @@
+oblivion
+oblivion/fx
+oblivion/fx/mat
+oblivion/fx/mat/beam
+oblivion/fx/mat/beam_cursed
+oblivion/fx/mat/shockwave
+oblivion/fx/mat/surge
+oblivion/fx/pet
+oblivion/fx/trl

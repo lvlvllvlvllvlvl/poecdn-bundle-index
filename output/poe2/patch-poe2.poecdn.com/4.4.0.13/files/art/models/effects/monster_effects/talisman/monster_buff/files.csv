@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+883215b0cb6419c5,pickup_e712cc03.smd,Streaming/Content/metadata/effects/spells/monsters_effects/B525297545B3A382.257B57B35CFDBF53.red_explode.pet,568464,49232
+a073419de9c714b4,pickup_e712cc03.smd.header,Tiny.V9,7703255,448
+e2a65d95e532e504,talismanbuff.sm,Tiny.V1,7344795,2062
+066d9bab1034ebfc,talismanpickup.sm,Tiny.VE,7389912,1320
+a6523bcff210cb07,talismanpickup.amd,Tiny.VC,7427245,86
+4981b76dcec5ecf7,talismanpickup.ast,Tiny.V2,7680201,3476
+602a35198848a428,rig_2a4cb64b.smd,Streaming/Content/metadata/terrain/leagues/delve/DFB0A6340C2D948C.E4D5DFEF3DAD8FC9.talismanencountercontroller.ot,0,182048
+f31a684d1f8699bd,rig_2a4cb64b.smd.header,Tiny.V6,7496106,667
+49eb7552b1092bd2,rig.amd,Tiny.V8,7384244,190
+03f4d70f47da3635,rig.ast,Content/metadata/terrain/leagues/delve/objects/E4D5DFEF3DAD8FC9.cavernsnecromancercontroller.ot,232551,5077

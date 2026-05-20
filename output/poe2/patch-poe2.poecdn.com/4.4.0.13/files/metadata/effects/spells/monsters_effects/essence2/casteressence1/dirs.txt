@@ -1,0 +1,10 @@
+epk
+graph
+mat
+mat/fire
+mat/ice
+mat/lightning
+pet
+pet/fire
+pet/ice
+pet/lightning

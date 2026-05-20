@@ -1,0 +1,5 @@
+buildup_01
+buildup_01/break_01
+mirrior_idle_01
+mirror_idle_01
+mirror_shatter_01

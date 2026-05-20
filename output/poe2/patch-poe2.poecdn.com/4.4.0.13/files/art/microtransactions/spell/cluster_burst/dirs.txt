@@ -1,0 +1,9 @@
+celestial
+celestial/models
+celestial/models/extra_impacts
+celestial/models/main_impact
+celestial/models/projectile
+celestial/textures
+celestial/textures/extra_impacts
+celestial/textures/main_impact
+celestial/textures/projectile

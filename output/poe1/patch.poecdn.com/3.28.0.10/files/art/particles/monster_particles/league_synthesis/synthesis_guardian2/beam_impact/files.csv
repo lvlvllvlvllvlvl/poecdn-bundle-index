@@ -1,0 +1,34 @@
+hash,file,bundle,offset,size
+49a266b7bca4a24c,swirl.mat,Tiny_7,10644078,3174
+e4d6c1c6edb416ce,swirl.dds,Folders/art/particles/monster_particles/league_synthesis_21,524960,87588
+ad2169dad7b64303,swirl.dds.header,Tiny_7,10643574,504
+06cb02241fae531e,stream_firec.mat,Tiny_7,10640660,2914
+b3735b6a9a6ab774,stream_fire.dds,Folders/art/particles/monster_particles/league_synthesis_21,481108,43852
+3807aeec70a34cea,stream_fire.dds.header,Tiny_7,10639140,1520
+66378bc4fd0a5424,shockwave_fire_half.mat,Tiny_7,10633010,1752
+535e76251069f912,shockwave_fire_half.dds,Folders/art/particles/monster_particles/league_synthesis_21,393552,87556
+ad1d13007fc9895f,shockwave_fire_half.dds.header,Tiny_7,10631490,1520
+48e6accc63b49e53,shockwave_fire.mat,Tiny_7,10630202,1288
+5e925f786c11865f,shockwave_fire.dds,Folders/art/particles/monster_particles/league_synthesis_21,349700,43852
+49e1d76039ef77e1,shockwave_fire.dds.header,Tiny_7,10628682,1520
+0de72ceb5078b553,shockwavering.mat,Tiny_7,10636282,2858
+e155fd55bdd91bb7,shockwavering.dds,Art/particles/monster_particles/League_Betrayal_3,1405320,349700
+b3b623481d321319,shockwavering.dds.header,Tiny_7,10634762,1520
+00e390dc921de4fa,impact_light_2.mat,Tiny_7,10627426,1256
+846e80ca857107bc,impact_light_2.dds,Folders/art/particles/monster_particles/league_synthesis_21,0,349700
+19a9fd46bde9393f,impact_light_2.dds.header,Tiny_7,10625906,1520
+c9339c05268cfb38,impact_1 copy.mat,Tiny_7,10623236,2670
+fa152ec722c75558,impact_1 copy.dds,Folders/art/particles/monster_particles/league_synthesis_11,3007252,1398276
+9c6b1e3e44063ed3,impact_1 copy.dds.header,Tiny_7,10621716,1520
+e2973b61e5eb66de,explode_lookup.mat,Tiny_7,10620460,1256
+fe7ffe9aa414e764,explode_lookup.dds,Tiny_7,10617968,2212
+4f700dba562cdebd,explode_lookup.dds.header,Tiny_7,10620180,280
+0d4dd977a0d76a83,burny.mat,Tiny_7,10616330,1638
+3b854bf71466761f,burny.dds,Folders/art/particles/monster_particles/league_incursion_4,1006468,22020
+6a90d46fd5837d95,burny.dds.header,Tiny_7,10614810,1520
+3797e4f93b9e1df7,burnt_mark_multi.mat,Tiny_7,10613244,1566
+0f609590ce314890,burnt_mark_multi.dds,Art/particles/arc_03,6414,349700
+461f8aa0cb1cffbc,burnt_mark_multi.dds.header,Tiny_7,10611724,1520
+1ed0d9049182173a,barrier_impact.mat,Tiny_7,10608776,2948
+ffe9b307ba903ad5,barrier_impact.dds,Art/particles/storm_barrier_3,0,87556
+ac426f7e7c08f792,barrier_impact.dds.header,Tiny_7,36937706,1520

@@ -1,0 +1,17 @@
+abyssalcry_curse
+blinded
+chaos_curse
+elemental_equilibrium
+enfeeble
+marks
+marks/warlords
+marks/warlords/assassin
+marks/warlords/hunter
+projectile_weakness
+punishment
+reduce_resistances
+silence
+temporal_chains
+tormented
+tormented/possessed
+vulnerability

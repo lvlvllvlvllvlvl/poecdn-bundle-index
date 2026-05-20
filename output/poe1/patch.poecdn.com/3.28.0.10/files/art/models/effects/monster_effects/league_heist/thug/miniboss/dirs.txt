@@ -1,0 +1,13 @@
+enraged_groundslam
+groundslam
+leap_weapon_slam
+leapslam
+leapslam_leave
+on_act_attack_01
+on_act_attack_02
+on_act_enrage
+on_act_leapslam
+onact_enraged_attack_02
+onact_enraged_groundslam
+onact_groundslam
+regular_groundslam

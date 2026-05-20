@@ -1,0 +1,10 @@
+hair
+hair/female
+hair/female/fullhair
+hair/female/hoodhair
+hair/male
+hair/male/fullhair
+hair/male/hoodhair
+skirt
+skirt/female
+skirt/male

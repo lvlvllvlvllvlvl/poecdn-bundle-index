@@ -1,0 +1,4 @@
+abyss
+abysswall
+ledge
+thickwall

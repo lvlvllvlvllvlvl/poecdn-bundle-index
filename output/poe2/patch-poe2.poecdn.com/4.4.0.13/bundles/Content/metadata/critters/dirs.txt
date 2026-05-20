@@ -1,0 +1,11 @@
+bloodworm
+crab
+deer
+leech
+pigeon
+playercritters
+redfox
+sickbull
+swallow
+swallow/proxyperch
+vulture

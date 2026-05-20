@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+d6b304aea5ea9e44,tile_01.mat,Tiny_7,40876698,950
+8528ca62db3fb4c8,tile_01.dds,Folders/art/particles/monster_particles/nemesis_mods,0,87556
+86295b92c8fedfdf,tile_01.dds.header,Tiny_7,41039464,1520
+03ca4e3bdb3fc83d,fire_gradc.mat,Tiny_7,40875178,1520
+389f24554714501e,fire_grad.dds,Tiny_7,40872814,844
+972134934dfa9709,fire_grad.dds.header,Tiny_7,40873658,1520
+a50c03c1b5099c20,crane_partscns.mat,Tiny_7,40869288,3526
+7fdf6107b7c580ec,crane_parts_colour.dds,Folders/art/particles/trap_02/mechanism,349848,174924
+81089719f9783766,crane_parts_colour.dds.header,Tiny_7,40857898,1520
+a3c3a017194922dd,clone_machine_podcns.mat,Tiny_7,40865652,3636
+3c83dd5abd57dc2a,clone_machine_pod_glow.mat,Tiny_7,40864612,1040
+f923c125c0ebf9cc,clone_machine_pod_glow.dds,Art/particles/trap_02/celestial,349700,349700
+164af80f415fed91,clone_machine_pod_glow.dds.header,Tiny_7,40863092,1520
+3101f81857d03ca2,clone_machine_pod_colour.dds,Folders/art/particles/trap_02/mechanism,524772,174924
+6eb749a69503fe03,clone_machine_pod_colour.dds.header,Tiny_7,40840990,1520

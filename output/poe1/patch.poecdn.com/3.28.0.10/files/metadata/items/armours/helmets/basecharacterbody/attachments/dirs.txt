@@ -1,0 +1,8 @@
+hairtsyles
+hairtsyles/duelist
+hairtsyles/marauder
+hairtsyles/ranger
+hairtsyles/scion
+hairtsyles/shadow
+hairtsyles/templar
+hairtsyles/witch

@@ -1,0 +1,4 @@
+fire_shield_swipe
+fire_wave
+shield_swipe
+wave

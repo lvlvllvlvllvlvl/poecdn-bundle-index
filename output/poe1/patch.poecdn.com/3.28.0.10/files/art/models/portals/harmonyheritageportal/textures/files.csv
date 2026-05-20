@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+c682db7e7a12c11b,valuedcolournoise_dxt1.dds,Art/Models/Portals/HarmonyHeritagePortal/Textures_4,0,174924
+b82dd865a4a14a47,valuedcolournoise_dxt1.dds.header,Tiny_3,20197684,1520
+0ba3d4674a8eab4d,heritageportalc.mat,Tiny_3,20192060,5624
+ca887698b043964f,heritageportal_normal_dxt5.dds,Art/Models/Portals/HarmonyHeritagePortal/Textures_3,0,1398276
+e9fb3a9bd58a37b0,heritageportal_normal_dxt5.dds.header,Tiny_3,20190540,1520
+b04e5598feff1530,heritageportal_glow_dxt1.dds,Art/Models/Portals/HarmonyHeritagePortal/Textures_2,0,699212
+bfeebaf8db5a63c4,heritageportal_glow_dxt1.dds.header,Tiny_3,20189020,1520
+24b0c487e91731c9,heritageportal_colour_dxt5.dds,Art/Models/Portals/HarmonyHeritagePortal/Textures_1,0,1398276
+fc14dae0ff1ea937,heritageportal_colour_dxt5.dds.header,Tiny_3,20187500,1520

@@ -1,0 +1,8 @@
+mb
+mb/jade_shards
+mb/jade_shards/shard04
+mb/jade_shards/weapon_gather
+textures
+textures/shard01
+textures/shard04
+textures/shardcluster01

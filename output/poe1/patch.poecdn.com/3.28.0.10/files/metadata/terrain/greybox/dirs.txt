@@ -1,0 +1,8 @@
+abyss
+abysswall
+feature
+ledge
+stairs
+thickwall
+thinwall
+walkway

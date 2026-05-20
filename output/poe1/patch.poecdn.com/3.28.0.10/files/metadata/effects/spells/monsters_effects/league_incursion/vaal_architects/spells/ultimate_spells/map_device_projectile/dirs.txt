@@ -1,0 +1,3 @@
+lightning_nova
+projectile
+self_detonate

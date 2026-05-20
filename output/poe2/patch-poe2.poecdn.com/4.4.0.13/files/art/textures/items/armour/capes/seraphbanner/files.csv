@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+b72043df3bfefe3c,seraphbannerspecularc.mat,Tiny.VC,45367654,3564
+9ed2a2e0ac88d09c,seraphbanner_glow_dxt5.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.15764F095D4421E8.seraphbanner.fmt,524624,174948
+9c373c415ea39c56,seraphbanner_glow_dxt5.dds.header,Tiny.VF,45230730,840
+d223099212c4014b,seraphbanner_normal_dxt5.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.15764F095D4421E8.seraphbanner.fmt,699572,174948
+21e62c6a17cecaa7,seraphbanner_normal_dxt5.dds.header,Tiny.V6,45093372,840
+479c90a4114d4781,seraphbanner_colourspecular_bc7.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.15764F095D4421E8.seraphbanner.fmt,174924,349700
+01133eb61adb261e,seraphbanner_colourspecular_bc7.dds.header,Tiny.V5,44676331,1520
+ab3ae0bec6a7abc7,seraphbanner_colourspecular.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.15764F095D4421E8.seraphbanner.fmt,0,174924
+981ee2d0dc1fba30,seraphbanner_colourspecular.dds.header,Tiny.V2,45060839,1520

@@ -1,0 +1,124 @@
+area transitions
+area transitions/alttiles
+area transitions/alttiles/nosnow
+area transitions/tgms
+cathedralroof
+cathedralroof/boss
+cathedralroof/boss/alttiles
+cathedralroof/boss/alttiles/overgrown
+cathedralroof/boss/tgms
+cathedralroof/cathedral_broken_roof
+cathedralroof/cathedral_broken_roof/alttiles
+cathedralroof/cathedral_broken_roof/alttiles/overgrown
+cathedralroof/cathedral_broken_roof/alttiles/rainy
+cathedralroof/cathedral_broken_roof/tgms
+cathedralroof/cathedral_broken_roof_burning
+cathedralroof/cathedral_broken_roof_burning/tgms
+cathedralroof/cathedral_chitus_entrance
+cathedralroof/cathedral_chitus_entrance/tgms
+cathedralroof/cathedral_roof_sides
+cathedralroof/cathedral_roof_sides/alttiles
+cathedralroof/cathedral_roof_sides/alttiles/overgrown
+cathedralroof/cathedral_roof_sides/alttiles/rainy
+cathedralroof/cathedral_roof_sides/tgms
+cathedralroof/cathedral_rooftop
+cathedralroof/cathedral_rooftop/alttiles
+cathedralroof/cathedral_rooftop/alttiles/overgrown
+cathedralroof/cathedral_rooftop/alttiles/rainy
+cathedralroof/cathedral_rooftop/tgms
+cathedralroof/scaffold_platforms
+cathedralroof/scaffold_platforms/alttiles
+cathedralroof/scaffold_platforms/alttiles/rainy
+cathedralroof/scaffold_platforms/tgms
+cathedralroof/tgms
+innocence
+innocence/boss_gate
+innocence/candletileson
+innocence/candletileson/tgms
+innocence/candletilesout
+innocence/candletilesout/tgms
+innocence/heist
+innocence/heist/tgms
+innocence/hideout
+innocence/hideout/celestialcathedral
+innocence/hideout/celestialcathedral/textures
+innocence/map sanctuary
+innocence/map sanctuary/candletileson
+innocence/map sanctuary/candletileson/tgms
+innocence/map sanctuary/tgms
+innocence/tgms
+oriathsquare
+oriathsquare/alttiles
+oriathsquare/alttiles/blood
+oriathsquare/alttiles/nosnow
+oriathsquare/chitustiles
+oriathsquare/chitustiles/alttiles
+oriathsquare/chitustiles/alttiles/nosnow
+oriathsquare/chitustiles/arena
+oriathsquare/chitustiles/arena/tgms
+oriathsquare/chitustiles/tgms
+oriathsquare/narrowcanals
+oriathsquare/narrowcanals/alttiles
+oriathsquare/narrowcanals/alttiles/blood
+oriathsquare/narrowcanals/tgms
+oriathsquare/ruinedtiles
+oriathsquare/ruinedtiles/alttiles
+oriathsquare/ruinedtiles/alttiles/nosnow
+oriathsquare/ruinedtiles/tgms
+oriathsquare/tgms
+oriathsquare/transition
+oriathsquare/transition/tgms
+ossuary
+ossuary/alttiles
+ossuary/alttiles/deleve
+ossuary/delve_bioglow
+ossuary/delve_bioglow/abyss
+ossuary/delve_bioglow/abyss/tgms
+ossuary/delve_bioglow/abyss_connections
+ossuary/delve_bioglow/abyss_connections/tgms
+ossuary/delve_bioglow/bonepile
+ossuary/delve_bioglow/bonepile/tgms
+ossuary/delve_bioglow/bonepile_connections
+ossuary/delve_bioglow/bonepile_connections/tgms
+ossuary/delve_bioglow/thickwall
+ossuary/delve_bioglow/thickwall/tgms
+ossuary/delve_bioglow/thickwall_connections
+ossuary/delve_bioglow/thickwall_connections/tgms
+ossuary/delve_bioglow/thinwall
+ossuary/delve_bioglow/thinwall/tgms
+ossuary/delve_bioglow/walkway
+ossuary/delve_bioglow/walkway/tgms
+ossuary/tgms
+reliquary
+reliquary/alttiles
+reliquary/alttiles/heist
+reliquary/laboratory
+reliquary/laboratory/tgms
+reliquary/reliquary
+reliquary/reliquary/laboratory
+reliquary/reliquary/laboratory/tgms
+reliquary/reliquary/tgms
+reliquary/tgms
+reliquary/vault
+reliquary/vault/tgms
+reliquary/vault/vaultdoor
+reliquary/vault/vaultlever
+slavepen
+slavepen/endgamepen_bossdoor
+slavepen/endgamepen_bossdoor/tgms
+slavepen/heist
+slavepen/heist/tgms
+slavepen/slavepen_bossdoor
+slavepen/tgms
+slavepentotemplar
+slavepentotemplar/tgms
+templar court
+templar court/alttiles
+templar court/alttiles/dry
+templar court/alttiles/noroof
+templar court/door
+templar court/tgms
+tgms
+tower
+tower/animatedladder
+tower/tgms

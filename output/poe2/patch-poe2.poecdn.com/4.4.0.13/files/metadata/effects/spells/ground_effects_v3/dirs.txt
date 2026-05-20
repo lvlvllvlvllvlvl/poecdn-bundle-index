@@ -1,0 +1,11 @@
+brittle
+brittle/fx
+burning
+caustic
+caustic/fxgraphs
+profane
+sapping
+sapping/fx
+sapping/graph
+scorched
+shocking

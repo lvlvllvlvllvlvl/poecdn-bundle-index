@@ -1,0 +1,8 @@
+epk
+fx
+fx/activate_01
+fx/activated_idle_01
+graphs
+mat
+mat/activate_01
+mat/activated_idle_01

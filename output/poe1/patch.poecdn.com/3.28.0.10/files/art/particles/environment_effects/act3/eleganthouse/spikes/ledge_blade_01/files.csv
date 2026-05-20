@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+d417401b5c90d678,wisp_smoke_base.mat,Tiny_6,18190248,2784
+c364828e1b7b5204,wisp_smoke_base.dds,Folders/art/particles/monster_particles/act7,5636,43876
+291d0f2f8f1adcec,wisp_smoke_base.dds.header,Tiny_7,41590236,840
+594a1912e04cdc59,smoke.mat,Tiny_6,18187472,2776
+3eea3fbc92eab448,smoke.dds,Art/particles/shield_charge_002/shockwave_charge_1,0,43876
+54b2a60dcbd27d25,smoke.dds.header,Tiny_7,40276442,840
+5167b8b2ef72fcfd,dust_particles.mat,Tiny_6,18185452,2020
+3b97a959fc9757f5,dust_particles.dds,Art/particles/environment_effects/act3_21,0,22020
+c4c1d425691056e6,dust_particles.dds.header,Tiny_7,23791751,1520

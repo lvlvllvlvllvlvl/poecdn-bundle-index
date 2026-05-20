@@ -1,0 +1,17 @@
+vfxlib
+vfxlib/felipe
+vfxlib/felipe/fx_library
+vfxlib/felipe/fx_library/materials
+vfxlib/felipe/fx_library/materials/debug
+vfxlib/ivan
+vfxlib/ivan/flapping_wings
+vfxlib/ivan/flapping_wings/textures
+vfxlib/ivan/test
+vfxlib/ivan/test/textures
+vfxlib/javier
+vfxlib/javier/assets
+vfxlib/javier/others
+vfxlib/javier/others/motion_test
+vfxlib/javier/others/plane
+vfxlib/javier/tex_masters
+vfxlib/javier/vfxlib

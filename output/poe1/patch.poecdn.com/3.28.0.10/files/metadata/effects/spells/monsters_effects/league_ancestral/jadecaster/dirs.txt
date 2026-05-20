@@ -1,0 +1,10 @@
+epk
+fx
+fx/attack_01
+fx/spirit_cast_01
+fx/summon_01
+graphs
+mat
+mat/attack_01
+mat/spirit_cast_01
+mat/summon_01

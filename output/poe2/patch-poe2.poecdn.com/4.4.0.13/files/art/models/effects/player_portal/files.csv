@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+8c05b3430ea6f065,playerportal.sm,Tiny.V0,7624246,672
+68b768a278f0f542,energywind.fmt,Tiny.V8,7403140,2242
+247742ab3d37b40d,energywind.fmt.header,Tiny.V9,7713381,208
+de1f6e85b79db2f1,frame.fmt,Streaming/Content/metadata/particles/player_portal/portal_close_buildup_circle.pet,437256,37176
+fe2e4faf91edcf07,frame.fmt.header,Tiny.VC,7444286,208
+515fa083f5abccfa,rig_bb97e368.smd,Streaming/Shared/Normal/Shared.1,4199441,199925
+1378bba0aafb603b,rig_bb97e368.smd.header,Tiny.VD,7320730,448
+d594fe29d30b3288,rig.amd,Tiny.VB,7442051,392
+a196ea53d4ef951e,rig.ast,Shared,0,24663

@@ -1,0 +1,3 @@
+crucible
+illusionist
+illusionist/tex

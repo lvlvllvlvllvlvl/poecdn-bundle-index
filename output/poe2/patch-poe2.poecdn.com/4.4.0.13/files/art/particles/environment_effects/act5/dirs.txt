@@ -1,0 +1,15 @@
+ascent
+ascent/teleport
+cathedralbrokenroof
+debris_falloff
+debris_falloff/tex
+entrance_portal
+entrance_portal/portal_in
+entrance_portal/portal_in/build_up
+oriathsquare
+oriathsquare/blood_pool
+oriathsquare/footprint
+ossuary
+portalcraterglow
+slavepen
+snow

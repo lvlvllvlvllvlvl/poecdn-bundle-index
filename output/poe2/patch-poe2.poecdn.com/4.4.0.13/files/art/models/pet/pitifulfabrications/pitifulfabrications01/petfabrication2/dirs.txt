@@ -1,0 +1,5 @@
+animations
+attachments
+attachments/cape
+attachments/head
+attachments/hood

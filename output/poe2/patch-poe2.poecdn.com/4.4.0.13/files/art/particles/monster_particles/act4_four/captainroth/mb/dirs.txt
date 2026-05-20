@@ -1,0 +1,13 @@
+anchorslam
+ghostcannons
+ghostcannons/projectile
+grid_wave
+helm
+marker
+meleetrail
+soulmortar
+soulmortar/impact
+soulmortar/proj
+summondrownedcrew
+summondrownedcrew/beam
+wave

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+9c2d100758b422ef,light.mat,Tiny.VF,39078431,1004
+cc7d14ac85796919,light.dds,Streaming/Content/metadata/particles/surge_v02/flame_surge.pet,437288,87556
+f882ba75ceb0ff36,light.dds.header,Tiny.VB,36422275,1520
+f13c3b57c54c1442,frenzytrail_suckin.mat,Tiny.V9,39534037,1450
+f9dcc86ecdf26d4c,frenzytrail_suckin.dds,Streaming/Content/metadata/effects/environment/shrine/E628CBA916B5DEF7.fire.epk,831332,22020
+17c66b3031eb7653,frenzytrail_suckin.dds.header,Tiny.V2,38832024,1520
+88b361ccfec012e8,spark3.mat,Tiny.V7,38930354,1748
+9af658f032b9ddca,spark3.dds,Streaming/Content/metadata/terrain/prison/features/dungeon_prison_boss_exit_v01_01_wall_torch_02.ao,328728,87556
+81af344d9ba3f0d3,spark3.dds.header,Tiny.V8,38736162,1520
+58158d85bae763bf,spark2.mat,Tiny.V8,38734738,1424
+c75d36542fb34f64,spark2.dds,Streaming/Shared/Normal/Shared.9,6249268,87556
+4b7816c36f5e5f14,spark2.dds.header,Tiny.V5,38687321,1520

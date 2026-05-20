@@ -1,0 +1,8 @@
+attachments
+attachments/cloak
+attachments/cloakshort
+attachments/headdress
+attachments/robe
+attachments/robe/female
+attachments/robe/male
+textures

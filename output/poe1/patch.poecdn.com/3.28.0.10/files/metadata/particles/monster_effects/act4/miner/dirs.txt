@@ -1,0 +1,12 @@
+death_boss
+death_boss/chargeexplosion
+death_boss/explode
+hammer
+lantern_fireball
+lantern_fireball/lantern
+mace_throw
+pickaxe
+rock_upheaval
+rock_upheaval/aoe_beacon
+throw_spawn
+throw_spawn/rockexplosion

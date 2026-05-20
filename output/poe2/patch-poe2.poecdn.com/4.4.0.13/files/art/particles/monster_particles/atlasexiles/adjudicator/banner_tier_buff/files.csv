@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+fa95d6e410ab2e55,flash.mat,Tiny.V4,35652621,2140
+2ca1b3b941d5acd3,zoom_distort_2.mat,Tiny.V8,35429869,1038
+6a4b609e601a7bd8,rune_pattern_01_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.98C3EF3960F9A627.end_midline.pet.1,1553780,174940
+705650e703023971,rune_pattern_01_dxt1.dds.header,Tiny.VE,13082228,504
+e2855a34f15aaeb3,lightning01_6x6.mat,Tiny.V4,35658041,2456
+b08c5c6fd4ecc026,lightning01_6x6_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/aura/7C546BFDC501ABFD.CAE58C92B230AD8B.apparition_emerge.pet,135874,2796364
+4814cd3d4d126a04,lightning01_6x6_dxt1.dds.header,Tiny.V4,35660497,1520
+cae75c040dbaa81c,sparkles.mat,Tiny.V7,37697942,1798
+4e6e3ef76bd6e476,sparkles_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6F62A778D75B97FD.326F41CC28365059.blade_vortex.ao,761312,5592580
+408b8ecfde565580,sparkles_dxt5.dds.header,Tiny.V9,32072554,1520
+5136419d72f3a38c,gold_bits1.mat,Tiny.V4,35654761,3280
+ccd9d9a1bc2ae28c,gold_rune.mat,Tiny.VC,35438911,3574

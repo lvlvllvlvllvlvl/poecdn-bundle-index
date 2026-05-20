@@ -1,0 +1,5 @@
+animations
+animations/untamed
+attachments
+attachments/goblinbeastfort
+textures

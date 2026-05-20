@@ -1,0 +1,3 @@
+karuiarena_totemrigged
+textures
+textures/worn

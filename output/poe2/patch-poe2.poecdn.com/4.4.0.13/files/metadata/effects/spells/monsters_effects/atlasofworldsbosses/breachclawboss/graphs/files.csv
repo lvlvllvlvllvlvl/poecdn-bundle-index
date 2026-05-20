@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+d46b70d265ae30f8,death_disintegratemask.fxgraph,Content/metadata/terrain/gallows/act4/4_5_1/DFB0A6340C2D948C.prisonspawnerprox02.ot,360223,63112
+7a57bd18a287e7d1,custom_fade_bytimelinefloat.fxgraph,Content/metadata/effects/spells/monsters_effects/league_abyss/6D537A1D5F3DD0D9.remnantblast.pet,546835,12576
+5dab7a1d9b4a5902,custom_laserbeam_edgemulti.fxgraph,Content/metadata/effects/spells/monsters_effects/league_delirium/80983161B53C610D.floating_explosion_idle_ring.pet,3929231,33266
+3b2f27836aa44988,custom_emitscale_tlp.fxgraph,Content/metadata/effects/spells/monsters_effects/act2_four/68759B5A5C1DA5D3.attack_02.epk,430996,7566
+1e18d27a6ba8aaaa,custom_materialswitch.fxgraph,Content/metadata/monsters/leagueexpedition/olroth/olroth.ot.1,1309422,225934
+8cc9bd601cfcaab7,custom_windattraction.fxgraph,Content/metadata/effects/spells/monsters_effects/62FC26811D4AC82B.vineattach.ao,1832560,122934
+4558ceb5a67184fb,custom_windvortex_onact.fxgraph,Content/metadata/effects/spells/monsters_effects/atlasofworldsbosses/9B6FA42BF34085E4.rig.ao,2398482,54054
+92ebee10a3900d4d,custom_windvortex.fxgraph,Content/metadata/effects/spells/monsters_effects/62FC26811D4AC82B.vineattach.ao,1955494,74176

@@ -1,0 +1,12 @@
+general_combat
+general_combat/textures
+general_combat/textures/vaal_crystal_totem
+general_combat/textures/vaal_goliath
+general_combat/textures/vaal_goliath/blood_orbs
+mechanics
+mechanics/textures
+npc
+npc/portal
+npc/portal/textures
+trialmaster_boss
+trialmaster_boss/textures

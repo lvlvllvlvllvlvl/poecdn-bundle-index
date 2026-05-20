@@ -1,0 +1,9 @@
+graphs
+groundtypes
+objects
+rooms
+rooms/edge
+rooms/field
+rooms/fills
+rooms/road
+rooms/unique

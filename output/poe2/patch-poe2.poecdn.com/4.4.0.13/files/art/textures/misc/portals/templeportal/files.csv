@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+2c49288e342233c1,templeportalc.mat,Tiny.V5,45198299,6348
+6d0f8ee74773ae17,templeportal_glow_dxt5.dds,Streaming/Content/art/models/misc/portals/9B758B29CE6C6B70.templeportal.fmt,2534744,1398276
+593912fea0fcd773,templeportal_glow_dxt5.dds.header,Tiny.V3,45058096,1520
+21d9fdd0af6b5ca0,templeportal_normal_dxt5.dds,Streaming/Content/art/models/misc/portals/9B758B29CE6C6B70.templeportal.fmt,3933020,1398276
+f76e254cef8908e0,templeportal_normal_dxt5.dds.header,Tiny.V9,46260925,1520
+2ecb57b0c01a0bde,templeportal_colour_bc7.dds,Streaming/Content/art/models/misc/portals/9B758B29CE6C6B70.templeportal.fmt,1136468,1398276
+bd7e5cdcfcccbedf,templeportal_colour_bc7.dds.header,Tiny.V3,45056576,1520
+25ec83ccb1423936,templeportal_colour.dds,Streaming/Content/art/models/misc/portals/9B758B29CE6C6B70.templeportal.fmt,437256,699212
+761507de2caba365,templeportal_colour.dds.header,Tiny.V4,46230880,1520

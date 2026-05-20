@@ -1,0 +1,11 @@
+epk
+fx
+mat
+mat/chain_ball_impact
+mat/chain_ball_projectile
+mat/hand_trail
+mat/impact_small
+mat/onact_attract
+mat/onact_attract_hands
+mat/proj_trail
+mat/spellcast_muzzle

@@ -1,0 +1,13 @@
+glovedangle
+helmetdangle
+helmethair
+shoulderpad
+skirt
+skirt/skirtdex
+skirt/skirtdexint
+skirt/skirtint
+skirt/skirtstr
+skirt/skirtstrdex
+skirt/skirtstrdexint
+skirt/skirtstrint
+sword

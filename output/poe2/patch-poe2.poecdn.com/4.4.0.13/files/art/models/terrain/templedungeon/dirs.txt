@@ -1,0 +1,7 @@
+alttiles
+alttiles/lunariswater
+door
+lunariswater
+temple_piety_fight
+temple_piety_fight/tgms
+tgms

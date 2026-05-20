@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e1f0b9cad7146cd1,warbannerc.mat,Tiny_8,27049384,2872
+de9e298d0541cbdb,warbanner_specular_dxt5.dds,Art/Textures/Misc/warBanner_3,0,1398276
+72ab6a7c10249e53,warbanner_specular_dxt5.dds.header,Tiny_8,27047864,1520
+4ce5061304e2cf32,warbanner_normal_dxt5.dds,Art/Textures/Misc/warBanner_2,0,1398276
+1a834fe2c9ec98a8,warbanner_normal_dxt5.dds.header,Tiny_8,27046344,1520
+b36b3dc39d1fbe50,warbanner_colour_dxt5.dds,Art/Textures/Misc/warBanner_1,0,1398276
+5e0c048a58c7f867,warbanner_colour_dxt5.dds.header,Tiny_8,27044824,1520
+ced018351a98e2c7,warbanner_colour.dds,Art/Textures/Misc/warBanner,0,1398276
+071e8693b15585f4,warbanner_colour.dds.header,Tiny_8,27043304,1520

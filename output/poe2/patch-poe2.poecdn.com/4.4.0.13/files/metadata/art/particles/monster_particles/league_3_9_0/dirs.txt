@@ -1,0 +1,4 @@
+npc
+npc/portal
+symbiosis
+symbiosis/blob_monster

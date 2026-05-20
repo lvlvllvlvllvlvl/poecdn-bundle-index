@@ -1,0 +1,15 @@
+attachments
+attachments/female
+attachments/female/cannisters
+attachments/female/muffler
+attachments/female/shoulder_bones
+attachments/female/skirt
+attachments/female/spine_belt
+attachments/male
+attachments/male/cannisters
+attachments/male/muffler
+attachments/male/shoulder_bones
+attachments/male/skirt
+attachments/male/skirtstr
+attachments/male/spine_belt
+textures

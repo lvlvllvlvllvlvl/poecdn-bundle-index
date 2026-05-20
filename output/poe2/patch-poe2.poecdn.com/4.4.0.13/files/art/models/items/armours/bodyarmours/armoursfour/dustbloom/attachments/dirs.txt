@@ -1,0 +1,12 @@
+f
+f/robe
+f/robe/layer_01
+f/robe/layer_02
+f/robe/layer_03
+f/tassle
+m
+m/robe
+m/robe/layer_01
+m/robe/layer_02
+m/robe/layer_03
+m/tassle

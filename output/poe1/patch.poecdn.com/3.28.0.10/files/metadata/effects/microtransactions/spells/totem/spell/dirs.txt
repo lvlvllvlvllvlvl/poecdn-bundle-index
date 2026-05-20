@@ -1,0 +1,4 @@
+flame_totem
+flame_totem/ghost_flame
+searing_bond
+searing_bond/green

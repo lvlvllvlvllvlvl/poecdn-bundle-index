@@ -1,0 +1,5 @@
+attachments
+attachments/cloak
+attachments/shawlfeathers
+attachments/shawltassles
+attachments/skirt

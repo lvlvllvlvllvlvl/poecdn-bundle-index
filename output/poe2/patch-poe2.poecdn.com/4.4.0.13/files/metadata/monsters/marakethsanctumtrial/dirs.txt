@@ -1,0 +1,8 @@
+boss
+boss/apparitionboss
+boss/apparitionboss/portals
+boss/objects
+boss/sentinels
+boss/shakari
+boss/shakari/objects
+hazards

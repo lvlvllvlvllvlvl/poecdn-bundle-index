@@ -1,0 +1,7 @@
+areatransitions
+eleganthouse
+gardens
+library
+marketplace
+sewers
+ships

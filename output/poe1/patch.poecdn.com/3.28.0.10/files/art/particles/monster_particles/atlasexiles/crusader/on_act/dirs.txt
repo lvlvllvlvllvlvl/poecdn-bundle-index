@@ -1,0 +1,9 @@
+attack_01
+dash_01
+death_01
+detonate_runes_01
+emerge_01
+ground_slam_01
+spellcast_ranged_1
+spellcast_ranged_2
+spellcast_ranged_3

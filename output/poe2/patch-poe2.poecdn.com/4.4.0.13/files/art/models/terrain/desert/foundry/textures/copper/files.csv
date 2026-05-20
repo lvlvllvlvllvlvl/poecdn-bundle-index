@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+09db5cd8d8e9d3af,fdy_copperveins01_normal.dds,Streaming/Content/data/worldareas/1B/mapmineshaft_noboss.vworld,0,5592580
+ebcee657ec5ef2c1,fdy_copperveins01_normal.dds.header,Tiny.V4,14470194,1520
+56efdb9ed605183e,fdy_copperveins01_metallic.dds,Streaming/Content/data/worldareas/mapmineshaft_noboss.vworld,5592580,2796364
+8f8c1e37ba45b8f7,fdy_copperveins01_metallic.dds.header,Tiny.V3,14069058,1520
+891cdaaa5b0f6f7e,fdy_copperveins01_colour.dds,Streaming/Content/data/worldareas/A0/mapmineshaft_noboss.vworld,2796364,5592580
+f479f67dd2f3917c,fdy_copperveins01_colour.dds.header,Tiny.V6,14320344,1520
+8929d3d14c13f892,fdy_leaks_colour.dds,Streaming/Content/data/worldareas/97/g2_10_1.vworld,0,5592580
+4d987c5601676419,fdy_leaks_colour.dds.header,Tiny.V8,39775224,1520

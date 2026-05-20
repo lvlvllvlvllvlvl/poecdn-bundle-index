@@ -1,0 +1,8 @@
+bird
+lightningwave
+onact
+onact_attackattachments
+onact_slashtrail
+stab_01
+stab_02
+stab_windup

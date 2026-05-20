@@ -1,0 +1,10 @@
+death
+fire_chasm
+kingkaom
+kingkaom/axetrail
+kingkaom/headfire
+leap_slam
+summoned_skulls
+volcano
+volcano/charge_up
+volcano/impact

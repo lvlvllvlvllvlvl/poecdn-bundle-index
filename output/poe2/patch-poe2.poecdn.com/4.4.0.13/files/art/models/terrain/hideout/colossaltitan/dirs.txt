@@ -1,0 +1,11 @@
+atlastitan
+atlastitan/textures
+buildingdoodads
+textures
+textures/architecture
+textures/desertcliffs
+textures/foliage
+textures/ground
+textures/sinkholecliffs
+textures/water
+tgms

@@ -1,0 +1,6 @@
+absorb
+onkill
+onkill/main
+onkill/main/celestial
+onkill/subtle
+projectile

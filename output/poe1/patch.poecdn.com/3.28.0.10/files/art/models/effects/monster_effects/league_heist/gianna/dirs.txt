@@ -1,0 +1,3 @@
+disguise_on
+projectile
+teleport

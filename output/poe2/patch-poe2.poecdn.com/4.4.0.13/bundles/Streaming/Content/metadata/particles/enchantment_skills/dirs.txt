@@ -1,0 +1,6 @@
+arrows
+fire_nova
+meteor
+wand_projectiles
+water_vortex
+weapon_throw

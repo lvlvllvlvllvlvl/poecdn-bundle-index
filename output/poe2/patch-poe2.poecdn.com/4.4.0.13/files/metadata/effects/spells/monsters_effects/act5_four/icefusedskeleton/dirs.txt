@@ -1,0 +1,9 @@
+onact_sweep_01
+onact_sweep_01/fx
+onact_sweep_01/mat
+smash_01
+smash_01/fx
+smash_01/mat
+stomp_01
+stomp_01/fx
+stomp_01/mat

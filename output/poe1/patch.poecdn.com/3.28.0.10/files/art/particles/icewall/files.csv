@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+cd70bd27b895c28c,snowblobs.mat,Tiny_6,35404919,1254
+70162a6cc681a769,snowblobs.dds,Art/Microtransactions/weapon_effects/black,131628,5636
+303044a0bb464c9b,snowblobs.dds.header,Tiny_7,38840712,1520
+b065f3c5b3c147f1,smoke_bit2.mat,Tiny_6,35404041,878
+942ac303d0ca32c7,smoke_bit2.dds,Art/particles/cargohold,536084,87556
+fad4cc99382fb7f4,smoke_bit2.dds.header,Tiny_6,35402521,1520
+ad858403bc326de9,smoke_bit1.mat,Tiny_6,35401199,1322
+7ec2dc525b62246e,smoke_bit1.dds,Art/particles/cargohold,0,87556
+26b88d3864905199,smoke_bit1.dds.header,Tiny_6,35399679,1520
+916bc72bee873c2c,icetrapcns.mat,Tiny_6,35397489,2190
+b8771c94f30c15b6,icetrap_colour.dds,Art/particles/icewall,0,349700
+7f627e28e8c614b6,icetrap_colour.dds.header,Tiny_6,35392743,1520

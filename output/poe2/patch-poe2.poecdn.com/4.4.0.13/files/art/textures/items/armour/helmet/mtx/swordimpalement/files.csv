@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+001643a84e6f041a,warswordspecularc.mat,Tiny.VE,45052059,2806
+f5f3a491b7fe957d,warsword_normal_dxt5.dds,Streaming/Content/metadata/items/armours/helmets/36BA0EBDB9480D54.swordimpalementhelmetstrdexint.ao,350052,349732
+ec18dbc7dc70a4bc,warsword_normal_dxt5.dds.header,Tiny.V9,45854447,504
+4d2d4e433456067a,warsword_colourspecular_bc7.dds,Streaming/Content/metadata/items/armours/helmets/36BA0EBDB9480D54.swordimpalementhelmetstrdexint.ao,175104,174948
+d1294a43d500876a,warsword_colourspecular_bc7.dds.header,Tiny.V5,44791757,840
+246ece0970a55c6e,warsword_colourspecular.dds,Streaming/Content/metadata/items/armours/helmets/36BA0EBDB9480D54.swordimpalementhelmetstrdexint.ao,87556,87548
+ee577874ed2a459d,warsword_colourspecular.dds.header,Tiny.V0,45524808,840
+e05bfe2f01578a61,bloodc.mat,Tiny.VA,45367391,1658
+38a673c0fc06f67d,blood.dds,Streaming/Content/metadata/items/armours/helmets/36BA0EBDB9480D54.swordimpalementhelmetstrdexint.ao,0,87556
+fae5707927779636,blood.dds.header,Tiny.V8,44792738,1520

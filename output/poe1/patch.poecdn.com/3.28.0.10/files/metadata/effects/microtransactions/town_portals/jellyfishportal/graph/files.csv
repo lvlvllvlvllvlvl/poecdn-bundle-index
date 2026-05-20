@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+63b4c75928207716,alpha_multiply_timeline.fxgraph,Folders/metadata/effects_2,20914882,6372
+b0a1888e9ac316d8,bubble.fxgraph,Folders/metadata/effects_2,20921254,13808
+429383009c1970d7,field_liquidtypes.fxgraph,Folders/metadata/effects_2,21452962,232226
+10a47d0e8603be2c,lightraysshader.fxgraph,Folders/metadata/effects_2,21731550,109488
+10b8df3c62ba52af,weaponglow_tips.fxgraph,Folders/metadata/effects_2,21841038,79672
+8e13dcba6e8ef5f4,jelly_glow.fxgraph,Folders/metadata/effects_2,21685188,23104
+f4dd2f1e97c5f451,jelly_verticalfadeemiss.fxgraph,Folders/metadata/effects_2,21708292,23258
+9a8f520d0be55ece,custom_addgrittyness_emissive.fxgraph,Folders/metadata/effects_2,20935062,28192
+2c69759d1e69e6be,custom_chorma_emissive.fxgraph,Folders/metadata/effects_2,20963254,16432
+4c67e8a8ad8be4b5,custom_diffusiverefraction.fxgraph,Folders/metadata/effects_2,20979686,96810
+91a67087d030f3a9,custom_subsurfacerefraction.fxgraph,Folders/metadata/effects_2,21391144,61818
+665c5d7fe17062f0,custom_muddlepos_tex.fxgraph,Folders/metadata/effects_2,21379262,11882
+28f398803f287608,custom_mask_fresnelstatic.fxgraph,Folders/metadata/effects_5,19979402,244954
+af9329b9c11f18cb,custom_mask_uvs_static.fxgraph,Folders/metadata/effects_2,21076496,302766

@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+91a13592d7930af3,firehornsc.mat,Tiny_8,12618033,4484
+7c0544a3a0ffa0c2,firehorns_normal_dxt5.dds,Art/Textures/Items/armour/helmet/Mtx_36,0,349700
+113bd544106f33aa,firehorns_normal_dxt5.dds.header,Tiny_8,12616513,1520
+84cd5b85d08f1cc4,firehorns_glow_dxt5.dds,Folders/art/textures/items/armour/helmet/mtx_4,1137744,87556
+44688e407a72064d,firehorns_glow_dxt5.dds.header,Tiny_8,12614993,1520
+5088dcaccae42f60,firehorns_gloss_dxt5.dds,Folders/art/textures/items/armour/helmet/mtx_4,1050188,87556
+67212679ca9ab377,firehorns_gloss_dxt5.dds.header,Tiny_8,12613473,1520
+b2d9efe1f432c011,firehorns_colour_dxt5.dds,Folders/art/textures/items/armour/helmet/mtx_4,700488,349700
+d8e7207b32803eb2,firehorns_colour_dxt5.dds.header,Tiny_8,12611953,1520
+d9fe73e3f5490d64,firehorns_colour_bc7.dds,Folders/art/textures/items/armour/helmet/mtx_4,700488,349700
+c3d829459f38fa35,firehorns_colour_bc7.dds.header,Tiny_8,12611953,1520
+b39e91b993d98c52,firehorns_colour.dds,Folders/art/textures/items/armour/helmet/mtx_4,525564,174924
+aadc4bdf23263d7b,firehorns_colour.dds.header,Tiny_8,12610433,1520

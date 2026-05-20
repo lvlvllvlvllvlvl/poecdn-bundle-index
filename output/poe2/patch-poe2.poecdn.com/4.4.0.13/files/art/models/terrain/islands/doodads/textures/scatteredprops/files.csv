@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+779b49d99882d41d,mausoleumflaskc.mat,Tiny.V5,19043585,3424
+d762b2fc4c5cdc23,mausoleumflask_normal_dxt5.dds,Streaming/Content/art/models/terrain/islands/CD07F2665713E7D4.788E704798A1D4DD.kedgescatter01_large_03.fmt,2108572,22020
+4ff673f361aeb8cf,mausoleumflask_normal_dxt5.dds.header,Tiny.V8,19286249,1520
+9c33ebba1f388c82,mausoleumflask_colour_dxt1.dds,Streaming/Content/art/models/terrain/islands/CD07F2665713E7D4.788E704798A1D4DD.kedgescatter01_large_03.fmt,2097488,11084
+13bf40911c693aa9,mausoleumflask_colour_dxt1.dds.header,Tiny.VA,19241165,1520
+4a9afb2ea16a2ec0,canopy_miscdecorationsc.mat,Tiny.V2,19412696,2696
+075fec0b8420455c,canopy_miscdecorations_normal_dxt5.dds,Streaming/Content/art/models/terrain/islands/CD07F2665713E7D4.788E704798A1D4DD.kedgescatter01_large_03.fmt,699212,1398276
+bdfe836f516bdd48,canopy_miscdecorations_normal_dxt5.dds.header,Tiny.VB,19158277,1520
+cb4a1eee122071a6,canopy_miscdecorations_colour_dxt1.dds,Streaming/Content/art/models/terrain/islands/CD07F2665713E7D4.788E704798A1D4DD.kedgescatter01_large_03.fmt,0,699212
+e112a9fc42a765d4,canopy_miscdecorations_colour_dxt1.dds.header,Tiny.V8,40173064,1520
+a1ba17ea6b342f2a,cratesc.mat,Tiny.V7,19155546,1784
+1a06de125617bc01,crates_normal_bc7.dds,Streaming/Content/metadata/terrain/doodads/oriath/AD654D20D1B31B05.0B4D68DA3FAB0A69.slumscrategroup01.ao,699212,1398276
+72e4008125c14a47,crates_normal_bc7.dds.header,Tiny.V1,19153044,1520
+e60b1f3d87a5cbc5,crates_colour_bc1.dds,Streaming/Content/metadata/terrain/doodads/oriath/AD654D20D1B31B05.0B4D68DA3FAB0A69.slumscrategroup01.ao,0,699212
+740c773a6b933894,crates_colour_bc1.dds.header,Tiny.V7,19154026,1520

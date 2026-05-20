@@ -1,0 +1,24 @@
+hash,file,bundle,offset,size
+a7a9b4be730375e0,vaalatlas_mapcns.mat,Tiny_7,47732768,2056
+870c9c67bd8bac0b,vaalatlas_map_oldcns.mat,Tiny_7,47729136,2112
+280b378b9eeeefb5,vaalatlas_map_old_colour.dds,Art/Textures/Doodads/Atlas MTX,699400,349700
+fc24f3b4c6c3a24e,vaalatlas_map_old_colour.dds.header,Tiny_7,47727616,1520
+cbfe2bbb738e3f29,vaalatlas_map_oldns.dds,Art/Textures/Doodads/Atlas MTX,1049100,349700
+51228d654ee6d9b3,vaalatlas_map_oldns.dds.header,Tiny_7,47731248,1520
+2951ad47237005a0,vaalatlas_map_colour.dds,Art/Textures/Doodads/Atlas MTX_1,349700,349700
+2ba29b1fd832c3bd,vaalatlas_map_colour.dds.header,Tiny_7,47726096,1520
+dd1337071ec20e79,vaalatlas_mapns.dds,Art/Textures/Doodads/Atlas MTX,0,349700
+c680d66afc9b12bf,vaalatlas_mapns.dds.header,Tiny_7,47734824,1520
+24cfd450456ab2ae,atlas_table_mapc.mat,Tiny_7,47723664,2432
+701c13e584e71210,atlas_table_map_normal_dxt5.dds,Art/Textures/Doodads/Atlas MTX_1,699400,349700
+24292fa4a0bbc24b,atlas_table_map_normal_dxt5.dds.header,Tiny_7,47722144,1520
+206d91d077ee22d7,atlas_table_map_colour_dxt5.dds,Art/Textures/Doodads/Atlas MTX,349700,349700
+dbed6022f53d5674,atlas_table_map_colour_dxt5.dds.header,Tiny_7,47720624,1520
+66362dd52903f138,atlas_table_map_colour.dds,Art/Textures/Doodads/Atlas MTX_1,0,349700
+8c4ae858c8bd0c3f,atlas_table_map_colour.dds.header,Tiny_7,47719104,1520
+3439ef1beb600fdf,atlas_table_map2_normal_dxt5.dds,Art/Textures/Doodads/Atlas MTX_3,349700,349700
+61cf8e030140f239,atlas_table_map2_normal_dxt5.dds.header,Tiny_7,47715792,1520
+8d91dc5f16061276,atlas_table_map2_colour_dxt5.dds,Art/Textures/Doodads/Atlas MTX_3,0,349700
+8dc96a882e5f3ce4,atlas_table_map2_colour_dxt5.dds.header,Tiny_7,47714272,1520
+fec297ea45cbe34d,atlas_table_map2c.mat,Tiny_7,47717312,1792
+bdaff0b2ff81298f,atlas_table_map2cns.mat,Tiny_7,47717312,1792

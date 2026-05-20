@@ -1,0 +1,5 @@
+arena
+ground
+rocks
+ruins
+skulls

@@ -1,0 +1,7 @@
+attachments
+attachments/head_feathers
+attachments/robe_t3
+attachments/shoulders_misc
+attachments/tags
+attachments/waist_misc
+attachments/wings

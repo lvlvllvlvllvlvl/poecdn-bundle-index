@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+4126b1c98b2c2479,glow_sphere.mat,Tiny_8,216664825,35350
+108d1c59b495daed,hide_r.mat,Tiny_9,428173298,962
+46652bd9e0e7a608,prj_trl_main.mat,Tiny_8,216809785,34828
+91506e74a29a537a,wind_ribbon_r.mat,Tiny_8,216844613,49184
+f91f11fe10582457,line_fwd_u.mat,Tiny_8,216700175,18996
+62dc1443f8668d56,line_fwd_u2.mat,Tiny_8,216719171,28420
+43bc813afdb0e556,line_fwd_u3.mat,Tiny_8,216747591,62194
+dfb701db5dcc4e7a,chargeup_frontcore_u.mat,Tiny_8,216593407,2806
+46f8f813bb0f38e7,core_glow_r.mat,Tiny_8,216596213,31348
+3c4a902e18aa54b6,core_glow_r2.mat,Tiny_8,216627561,37264
+802167f09a04c2d8,blur_sphere.mat,Tiny_8,216567091,26316
+127851f64e1cb861,blur_ribbon_r.mat,Tiny_8,216510997,27686
+01084bcbde5ba967,blur_ribbon_u.mat,Tiny_8,216538683,28408
+ea7ab5eddfbf7f24,blackrat_particle_r.mat,Tiny_8,216423301,43878
+2cc2b13a6db611f2,blackrat_particle_r2.mat,Tiny_8,216467179,43818

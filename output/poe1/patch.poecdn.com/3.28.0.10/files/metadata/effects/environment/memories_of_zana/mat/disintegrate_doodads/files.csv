@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+5a7c3acb3819cf7a,nova_bluroomph_02_r.mat,Tiny_8,106955631,11542
+a0a86ab8fa2f1456,nova_bluroomph_02_u.mat,Tiny_D,104060672,2168
+38b5e1dbfe26a19d,mblur_sphere_r.mat,Tiny_8,116504489,8822
+2e8dadd37b6d3640,mblur_sphere_u.mat,Tiny_8,116513311,2242
+6c0fbcffdb6cb2fc,disint_dood.mat,Tiny_8,106910633,26710
+65a4cbf23f03632d,disint_energy_prtcls_r.mat,Tiny_8,116075463,21230
+2ae9ac442e2090f9,disint_energy_prtcls_u.mat,Tiny_8,106937343,18288

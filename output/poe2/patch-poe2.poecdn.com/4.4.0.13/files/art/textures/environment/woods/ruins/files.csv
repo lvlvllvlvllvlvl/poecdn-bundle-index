@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+2a66faceccb8edc8,castlewall_sbjfnc.mat,Tiny.VB,41197887,2098
+9049eee715bc104b,castlewall_sbjfn_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/woods/FBEAC8A36A46D24D.castlewall_sbjfn_01.ao,699212,1398276
+93351ea4a6b95733,castlewall_sbjfn_normal_dxt5.dds.header,Tiny.V1,40793654,1520
+a2958f6f6327d2f8,castlewall_sbjfn_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/woods/FBEAC8A36A46D24D.castlewall_sbjfn_01.ao,0,699212
+4a149f432b69a8bb,castlewall_sbjfn_colour_dxt1.dds.header,Tiny.VE,40571281,1520
+8eb591422b1455e9,woodboard_ricasc.mat,Tiny.VD,41084108,2458
+b1cd062138d5f44f,woodboard_ricas_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/woods/FBEAC8A36A46D24D.woodboard_ricas_02.ao,2097488,1398276
+ebe98b4880337075,woodboard_ricas_normal_dxt5.dds.header,Tiny.V0,41045236,1520
+4f111905e93728be,woodboard_ricas_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/woods/FBEAC8A36A46D24D.woodboard_ricas_02.ao,699212,1398276
+fc724fe2e0ace2d7,woodboard_ricas_colour_bc7.dds.header,Tiny.VF,40956638,1520
+83d928eca0c810fb,woodboard_ricas_colour.dds,Streaming/Content/metadata/terrain/doodads/woods/FBEAC8A36A46D24D.woodboard_ricas_02.ao,0,699212
+bf14f7501cf738d0,woodboard_ricas_colour.dds.header,Tiny.VF,40955118,1520

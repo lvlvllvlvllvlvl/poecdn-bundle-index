@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+4017115a25c79854,fx_timer_ctrl.fxgraph,Content/metadata/effects/spells/cold_frostbomb/frostbomb.ao,3635645,27758
+95f825011b8c9ee3,warpblur.fxgraph,Content/metadata/effects/spells/cold_frostbomb/frostbomb.ao,3663403,47692
+93dd3ba6f790659a,warpphase_vtx.fxgraph,Content/metadata/effects/spells/cold_frostbomb/frostbomb.ao,3800033,131070
+76527a3ece8bd237,warpphase.fxgraph,Content/metadata/effects/spells/cold_frostbomb/frostbomb.ao,3711095,88938

@@ -1,0 +1,7 @@
+explode
+impact
+muzzleflash
+projectile
+shocked
+small_beams
+surge

@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+59e2bdaa4b76a0a0,knightbase_normal_dxt5.dds,Art/Textures/Environment/forest/KnightStatue,174924,349700
+788cb2917bc4863b,knightbase_normal_dxt5.dds.header,Tiny_7,67900276,1520
+8ea1ca11850d4dcc,knightbase_colour_dxt1.dds,Art/Textures/Environment/forest/KnightStatue,0,174924
+9b229f437c322e34,knightbase_colour_dxt1.dds.header,Tiny_7,67898756,1520
+dc13b3c2dd09f3ab,knightbasec.mat,Tiny_7,67901796,1800
+e5f4debb6c6b7a89,knightbasecns.mat,Tiny_7,67901796,1800

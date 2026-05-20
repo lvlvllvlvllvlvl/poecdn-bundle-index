@@ -1,0 +1,8 @@
+beachstatues
+beachtrees
+beachwalls
+brineking_glyph
+corals
+lioneye
+rocks
+rocks/karui

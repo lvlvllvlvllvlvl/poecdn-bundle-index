@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+a7bfcc9b96f64834,rig_f592353e.smd,Tiny_2,69448009,1695
+591c7f1b21c91795,rig_f592353e.smd.header,Tiny_2,69449704,368
+598d6e7cb9ae1218,rig.amd,Tiny_2,69447229,780
+a62d25534d704b27,rig.ast,Folders/art/models/mapdevices/mektulmapdevice,1367042,41149
+28eaa86ca0475f7f,mektulmapdevice.sm,Tiny_2,69445535,426
+c62ae3afd850e902,mektulmapplinth01.fmt,Folders/art/models/mapdevices/mektulmapdevice,1223432,143610
+192cba37057ca509,mektulmapplinth01.fmt.header,Tiny_2,69446992,237
+5819ee1452d3abf3,mektulmapplatform01.fmt,Folders/art/models/mapdevices/mektulmapdevice,839600,383832
+760562c8e0dcf0c5,mektulmapplatform01.fmt.header,Tiny_2,69445961,1031
+9f7b6517ef9f766c,mektulcrucible01.fmt,Folders/art/models/mapdevices/mektulmapdevice,0,839600
+f118dab606286386,mektulcrucible01.fmt.header,Tiny_2,69444131,1404

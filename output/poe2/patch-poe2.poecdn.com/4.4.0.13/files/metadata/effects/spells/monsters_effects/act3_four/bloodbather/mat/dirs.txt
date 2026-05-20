@@ -1,0 +1,8 @@
+blood_burst
+blood_projectile
+melee_trail
+morningstar_impact
+morningstar_trail
+scorching_pray
+stab
+swelling

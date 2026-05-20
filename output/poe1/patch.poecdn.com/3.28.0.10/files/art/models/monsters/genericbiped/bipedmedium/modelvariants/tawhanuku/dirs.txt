@@ -1,0 +1,5 @@
+attachments
+attachments/bones
+attachments/hair
+attachments/shawl
+attachments/skirt

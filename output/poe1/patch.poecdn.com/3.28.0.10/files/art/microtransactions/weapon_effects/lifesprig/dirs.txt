@@ -1,0 +1,7 @@
+mb
+mb/idle
+mb/oncast
+mb/onhit
+tex
+tex/idle
+tex/oncast

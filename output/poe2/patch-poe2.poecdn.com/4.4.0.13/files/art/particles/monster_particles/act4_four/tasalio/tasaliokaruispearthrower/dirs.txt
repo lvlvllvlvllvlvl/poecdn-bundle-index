@@ -1,0 +1,3 @@
+mb
+mb/spear_throw
+mb/spear_throw/animations

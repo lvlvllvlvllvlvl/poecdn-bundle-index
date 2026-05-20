@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+54c569423c1b13ba,orb_trl.mat,Tiny.V7.1,112465570,29738
+613c2def3a0d5469,caustics_r.mat,Tiny.VC.1,115709724,8872
+dfb86572cac2bb20,lens_flare_r.mat,Tiny.VD.1,110043196,37404
+d7e4b376d4fc0eaa,lens_flare_u.mat,Tiny.V9,48847307,1140
+ae585e60b55a3e74,volatile_core_r.mat,Tiny.VB.1,111596214,33662
+f006fa0f54f0ffd5,volatile_core_u.mat,Tiny.V9,48847307,1140
+08fe98515b36ac70,scorchdecal_r.mat,Tiny.V6.1,113387492,66366
+c67f32025b5e938c,scorchdecal_u.mat,Tiny.VA.1,111903002,4600
+2b5b91a8c8211743,sparks_r.mat,Tiny.VB.1,111565088,31126
+465f51134a203926,sparks_u.mat,Tiny.VC.1,115746070,9996
+4e15194db58f9742,pnt_u.mat,Tiny.VD,50519481,346
+fee0208f431eaa31,pro_flare_r.mat,Tiny.V0.1,115569214,29020
+ae05362dc59849e2,pro_flare_u.mat,Tiny.V9,48847307,1140
+098dee48490c74ec,pro_flare_multi_r.mat,Tiny.V0.1,115546224,22990

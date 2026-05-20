@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+4464102aba358d34,buff_apply.ao,Tiny_9,276494204,2292
+e919ee45442ba9ae,playeractiveloop.ao,Tiny_9,480617954,710
+55348be679bc5556,plaguebearer_affected_loop.ao,Tiny_9,480610592,1260
+927630b20009335f,plaguebearer_max.ao,Tiny_9,276614414,2282
+4f54bf8a15781fb8,plaguebearer_start.ao,Tiny_9,276620078,2330
+8ecbfcb6fe120298,plaguebearer_shroud_aura.ao,Tiny_9,276617372,2706
+2078e40b19416773,plaguebearer_shroud_active.epk,Tiny_9,276616696,676
+9b2e76867551871b,plaguebearer_shroud_active_epk_pass0.mat,Tiny_9,276497454,12278
+02688279f6f28144,corrosive_affected.epk,Tiny_9,276496496,958
+0fdc249bf64490f7,corrosive_affected_epk_pass0.mat,Tiny_9,276497454,12278

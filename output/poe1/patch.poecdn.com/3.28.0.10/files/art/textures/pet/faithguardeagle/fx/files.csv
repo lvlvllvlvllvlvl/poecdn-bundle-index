@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+44394a78d56328b6,wingsc.mat,Art/Textures/Pet/FaithGuardEagle/FX,0,5490
+1b8ece58d08c3cce,wings.dds,Art/Textures/Pet/FaithGuardEagle/FX,5490,87556
+8a9e6d7f4c61e40c,wings.dds.header,Tiny_8,42785414,1520
+19e8e8a36c0e3c8c,scroll.mat,Tiny_8,42784476,938
+7797a4589df98a83,scroll.dds,Art/Textures/Pet/FaithGuardEagle/FX,93046,87556
+4bbd5587be0c91c9,scroll.dds.header,Tiny_8,42782956,1520
+5bcff6efb8ab425b,mask.mat,Tiny_8,42782030,926
+2dc313e709044bc5,mask.dds,Art/Textures/Pet/FaithGuardEagle/FX,180602,174948
+de938e6cbc603969,mask.dds.header,Tiny_8,42781190,840

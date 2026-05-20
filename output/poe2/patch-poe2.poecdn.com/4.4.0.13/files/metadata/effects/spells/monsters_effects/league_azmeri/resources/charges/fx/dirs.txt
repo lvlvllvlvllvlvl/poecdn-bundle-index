@@ -1,0 +1,9 @@
+blanket_monster_primal
+blanket_monster_vodoo
+blanket_monster_warden
+charge_primal
+charge_primal/orb_idle
+charge_vodoo
+charge_vodoo/orb_idle
+charge_warden
+charge_warden/orb_idle

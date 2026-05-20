@@ -1,0 +1,5 @@
+attachments
+attachments/belt_misc
+attachments/hair
+attachments/rope
+texture

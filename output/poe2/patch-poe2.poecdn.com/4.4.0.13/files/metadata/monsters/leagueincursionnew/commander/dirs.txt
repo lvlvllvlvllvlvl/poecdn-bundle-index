@@ -1,0 +1,7 @@
+monsters
+monsters/boss
+monsters/boss/attachments
+monsters/boss/tier3
+monstersold
+monstersold/boss
+monstersold/boss/tier3

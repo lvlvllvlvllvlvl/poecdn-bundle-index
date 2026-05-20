@@ -1,0 +1,13 @@
+models
+models/fire
+models/ice
+models/lightning
+textures
+textures/fire
+textures/handeffect
+textures/ice
+textures/ice/handeffect
+textures/lightning
+textures/lightning/activebuff
+textures/lightning/handeffect
+textures/sand

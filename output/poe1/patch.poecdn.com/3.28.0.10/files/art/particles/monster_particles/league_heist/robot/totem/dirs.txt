@@ -1,0 +1,5 @@
+fire
+general
+ice
+snap
+surge

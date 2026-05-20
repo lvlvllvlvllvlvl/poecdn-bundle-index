@@ -1,0 +1,3 @@
+onact
+onact/death_pustule_explode_01
+onact/spit_01

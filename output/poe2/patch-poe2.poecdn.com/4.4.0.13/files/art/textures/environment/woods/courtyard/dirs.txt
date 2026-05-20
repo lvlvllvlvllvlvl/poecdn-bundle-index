@@ -1,0 +1,6 @@
+architecture
+doodads
+features
+ground
+roof
+trees

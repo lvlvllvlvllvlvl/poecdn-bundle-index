@@ -1,0 +1,7 @@
+banner_bubble
+banner_impact
+gauntlet_cascade_slam
+gauntlet_slam
+hallway_projectile
+on_act
+on_act/summon_add

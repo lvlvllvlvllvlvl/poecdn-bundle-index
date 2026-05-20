@@ -1,0 +1,6 @@
+attachments
+attachments/breachelitemagedemon
+attachments/breachelitemagedemon/cape
+attachments/breachelitemagedemon/chest
+attachments/breachelitemagedemon/head
+textures

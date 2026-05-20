@@ -1,0 +1,13 @@
+bubblingmud
+cacti
+chests
+deserttrees
+fossilizedtree
+groundmaterials
+gulch
+mudpooledge
+petrifiedtrees
+plants
+ruins
+tendrils
+trail

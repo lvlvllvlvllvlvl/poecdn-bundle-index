@@ -1,0 +1,10 @@
+book_white
+chainmask_white
+cloak
+cloak_white
+loincloth_white
+shoulderpads
+spine_01
+spine_02
+waist
+waist_white

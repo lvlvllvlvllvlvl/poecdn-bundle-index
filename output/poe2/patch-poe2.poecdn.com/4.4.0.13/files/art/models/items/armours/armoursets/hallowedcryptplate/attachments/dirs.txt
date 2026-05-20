@@ -1,0 +1,15 @@
+head_attach
+shoulderpauldron
+shoulderpauldron/lshoulderpauldron
+shoulderpauldron/rshoulderpauldron
+shoulderpauldronribbon
+skirt
+skirt/skirtdex
+skirt/skirtdexint
+skirt/skirtint
+skirt/skirtstr
+skirt/skirtstrdex
+skirt/skirtstrint
+skirtfront
+skirtplates
+skirtrear

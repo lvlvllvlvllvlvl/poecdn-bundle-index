@@ -1,0 +1,3 @@
+vfx
+vfx/lantern01
+vfx/lantern01/textures

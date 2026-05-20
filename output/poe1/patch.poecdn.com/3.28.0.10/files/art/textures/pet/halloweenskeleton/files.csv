@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+eb1cd863c42c5c15,halloweenskeletonc.mat,Tiny_8,43326138,3386
+aef351e882f1380b,halloweenskeleton_normal_dxt5.dds,Art/Textures/Pet/HalloweenSkeleton_2,0,1398276
+d831cc05a228e0a5,halloweenskeleton_normal_dxt5.dds.header,Tiny_8,43324618,1520
+2da21b04f64b7183,halloweenskeleton_glow_dxt5.dds,Art/Textures/Pet/HalloweenSkeleton_1,0,1398276
+1357c3a67386e6a0,halloweenskeleton_glow_dxt5.dds.header,Tiny_8,43323098,1520
+62df9f60fdd23ba7,halloweenskeleton_colour_dxt5.dds,Art/Textures/Pet/HalloweenSkeleton,55124,1398276
+5cb40865321f0762,halloweenskeleton_colour_dxt5.dds.header,Tiny_8,43321578,1520
+5beea2676b54ca10,bonemegaphonec.mat,Tiny_8,43318482,3096
+11e758867da54ac2,bonemegaphone_normal_dxt5.dds,Art/Textures/Pet/HalloweenSkeleton,33104,22020
+d781ebdfc8dd0bae,bonemegaphone_normal_dxt5.dds.header,Tiny_8,43316962,1520
+5fc4dcf92da367c6,bonemegaphone_glow_dxt1.dds,Art/Textures/Pet/HalloweenSkeleton,22020,11084
+2ca2e9732e40e965,bonemegaphone_glow_dxt1.dds.header,Tiny_8,43315442,1520
+50ef4a9342fff761,bonemegaphone_colour_dxt5.dds,Art/Textures/Pet/HalloweenSkeleton,0,22020
+7ef45c9474c89a89,bonemegaphone_colour_dxt5.dds.header,Tiny_8,43313922,1520

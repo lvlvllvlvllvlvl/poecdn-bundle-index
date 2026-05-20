@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+57e8944f5d23caaf,stalkerspecularc.mat,Tiny_8,38260326,3186
+bad2172e04996c36,stalker_normal_dxt5.dds,Art/Textures/Monsters/Stalker_1,2097488,349700
+53f33085afd7f222,stalker_normal_dxt5.dds.header,Tiny_8,38258806,1520
+67f1e4525fdce238,stalker_colourspecular_dxt1.dds,Art/Textures/Monsters/Stalker_1,1398276,699212
+5012dfb9e32748de,stalker_colourspecular_dxt1.dds.header,Tiny_8,38257286,1520
+51d6520823be7a35,stalker_colourspecular_bc1.dds,Art/Textures/Monsters/Stalker_1,1398276,699212
+4e1ad71360f42555,stalker_colourspecular_bc1.dds.header,Tiny_8,38257286,1520
+4d9c03c853d767d4,stalker_colourspecular.dds,Art/Textures/Monsters/Stalker_1,0,1398276
+0e1ea0d3dc61207b,stalker_colourspecular.dds.header,Tiny_8,38255766,1520

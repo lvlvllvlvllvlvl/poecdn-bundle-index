@@ -1,0 +1,14 @@
+large
+large/death
+large/ground_ink
+large/portal_out
+large/projectile
+large/projectile_epic
+large/spawn
+large/spawn/portal
+small
+small/death
+small/portal_out
+small/projectile
+small/spawn
+small/spawn/portal

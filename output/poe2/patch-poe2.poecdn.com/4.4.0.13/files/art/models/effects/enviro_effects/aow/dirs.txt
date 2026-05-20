@@ -1,0 +1,10 @@
+elder
+elder/doodads
+elder/doodads/tentacles
+elder/memory_fragment
+elderguardian
+elderguardian/arena
+elderguardian/arena/sulphur3
+elderguardian/arena/sulphur3/flamethrower
+minotaur
+minotaur/arc_trap

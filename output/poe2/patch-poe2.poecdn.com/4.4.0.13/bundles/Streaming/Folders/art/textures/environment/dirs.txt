@@ -1,0 +1,7 @@
+act4
+act5
+desert
+hideout
+islands
+leagues
+woods

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+2e1d7816beae2ce9,v_debris_01_render.mat,Tiny_D,187836102,29904
+6521ea16794540c4,v_debris_01_swirl_update.mat,Tiny_D,187866006,18220
+35a5f676d5d58354,sphere_distortion_render.mat,Tiny_D,187389148,10034
+4aeb17be0b194b4b,sphere_distortion_update.mat,Tiny_11,86642861,310
+2cc7a0378504be7c,spear_stab_01_render.mat,Tiny_D,187347552,41596
+b9a02edbe80d8a77,spear_stab_01_update.mat,Tiny_11,86642861,310
+7b5d802caf688ef8,shockwaveblur_render.mat,Tiny_D,187331982,15570
+b3fef01ef0e280f6,shockwaveblur_update.mat,Tiny_11,86642861,310
+f9c3e504d3487d7a,core_spike_render.mat,Tiny_D,187319176,12806
+cdf1dfb4550cc744,core_spike_update.mat,Tiny_11,86642861,310
+896bb73160ae3845,blast_sphere_render.mat,Tiny_D,187293304,23756
+63c956f18e46f5f8,blast_sphere_update.mat,Tiny_D,187317060,2116

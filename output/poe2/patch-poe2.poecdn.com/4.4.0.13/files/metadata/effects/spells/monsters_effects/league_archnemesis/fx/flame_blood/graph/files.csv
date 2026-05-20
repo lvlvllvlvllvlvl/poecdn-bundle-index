@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+6c60f9818892f2ad,field_lava.fxgraph,Content/metadata/effects/spells/monsters_effects/D3BF78A4588FA9AD.sword_minion.ao,479457,72652
+4bb222870e84ed17,vtx_translate.fxgraph,Content/metadata/effects/spells/monsters_effects/D3BF78A4588FA9AD.sword_minion.ao,552109,145404
+b3d0fc1942cc6c96,scalexy_timeline.fxgraph,Content/metadata/effects/spells/monsters_effects/D3BF78A4588FA9AD.sword_minion.ao,1159221,53374
+1884e3fcba383b42,assembleandshatter.fxgraph,Content/metadata/effects/spells/monsters_effects/D3BF78A4588FA9AD.sword_minion.ao,58079,412174
+5f2424bf2daf7902,bouncespheresphere_timeline.fxgraph,Content/metadata/effects/spells/monsters_effects/D3BF78A4588FA9AD.sword_minion.ao,697513,186644
+5681244c306452bd,customwindattraction_timeline.fxgraph,Content/metadata/effects/spells/monsters_effects/D3BF78A4588FA9AD.sword_minion.ao,925427,199950
+a60e03f9f37d7188,condition2_timelinefloat.fxgraph,Content/metadata/effects/spells/monsters_effects/D3BF78A4588FA9AD.sword_minion.ao,884157,41270
+9eabf4db71b3cf2f,condition_timelinefloat.fxgraph,Content/metadata/effects/microtransactions/on_kill/crueltyfinisher/A2423F3D01E7A113.blood_viscera_mid.pet,1121462,39506
+4ed5013c059e577d,emissive_mult_bytimelinefloat_prelight.fxgraph,Content/metadata/effects/spells/monsters_effects/D3BF78A4588FA9AD.sword_minion.ao,470253,9204
+bd442e2b2c77d658,emitlavascale.fxgraph,Content/metadata/effects/spells/monsters_effects/D3BF78A4588FA9AD.sword_minion.ao,1125377,23988
+ead18e0c40d6c287,emitscalelock.fxgraph,Content/metadata/effects/spells/monsters_effects/D3BF78A4588FA9AD.sword_minion.ao,1149365,9856

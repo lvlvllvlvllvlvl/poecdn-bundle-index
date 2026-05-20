@@ -1,0 +1,8 @@
+burrowing
+burrowing/mb
+deepwater
+deepwater/mb
+valkyrie
+valkyrie/mb
+valkyrie/mb/animations
+valkyrie/mb/animations/wings_open_01

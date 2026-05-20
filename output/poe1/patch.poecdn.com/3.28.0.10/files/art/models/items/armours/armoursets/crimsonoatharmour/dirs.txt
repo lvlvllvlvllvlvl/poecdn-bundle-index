@@ -1,0 +1,7 @@
+attachments
+attachments/shoulderpads
+attachments/shoulderpads/animation
+attachments/shoulderpads/animation/l_side
+attachments/shoulderpads/animation/r_side
+attachments/skirt
+textures

@@ -1,0 +1,6 @@
+mb
+mb/sr_placed_object_lightning
+mb/sr_placed_object_lightning/animations
+mb/sr_placed_object_lightning/animations/01
+textures
+textures/sr_placed_object_lightning_01

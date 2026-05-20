@@ -1,0 +1,11 @@
+adventurer
+adventurer/piety
+adventurer/piety/fire
+adventurer/piety/ice
+hunter
+marauder
+swordsman
+templar
+trickster
+warrior
+witch

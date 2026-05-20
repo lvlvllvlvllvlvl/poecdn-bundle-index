@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+81f3357d1fe74319,squaresc.mat,Tiny_8,23983402,1030
+8192c8e61c8aa03d,darkseerportalstandc.mat,Tiny_8,23959760,5818
+6e5fb7c92e5b01d0,darkseerportalstand_normal_dxt5.dds,Art/Textures/Misc/portals/DarkSeerPortal_1,0,1398276
+143cf194c41be775,darkseerportalstand_normal_dxt5.dds.header,Tiny_8,23958240,1520
+85308e58abdd8056,darkseerportalstand_metal_dxt1.dds,Folders/art/textures/misc/portals/gorgon/0/fx,918700,43852
+dd6a7dcf49f95713,darkseerportalstand_metal_dxt1.dds.header,Tiny_8,23956720,1520
+8325066f5eeb73a8,darkseerportalstand_glow_dxt1.dds,Folders/art/textures/misc/portals/B/darkseerportal,0,43852
+90f890a2821a3e14,darkseerportalstand_glow_dxt1.dds.header,Tiny_8,23955200,1520
+c7d529f0f95b2a25,darkseerportalstand_colour_dxt1.dds,Folders/art/textures/misc/portals/gorgon/0/fx,743776,174924
+79c5f843bd1465f4,darkseerportalstand_colour_dxt1.dds.header,Tiny_8,23953680,1520
+5f3aaa7c4871dd0d,darkseerportalstand_colour.dds,Folders/art/textures/misc/portals/gorgon/0/fx,743776,174924
+7a86b61f342ebff7,darkseerportalstand_colour.dds.header,Tiny_8,23953680,1520
+341d35cbafe4fbf1,cubesc.mat,Tiny_8,23949036,4644
+fe1e741cd7adb79b,cubes_refractc.mat,Tiny_8,23946620,2416
+8de18a25ef805ac2,cubes_refract.dds,Folders/art/textures/misc/portals/spectreportal/D/fx,349872,43852
+4e35dad1cbda3d3f,cubes_refract.dds.header,Tiny_8,25126962,1520

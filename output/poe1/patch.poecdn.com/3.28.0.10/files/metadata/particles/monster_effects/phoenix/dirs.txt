@@ -1,0 +1,16 @@
+bodyfx
+death
+emerge
+guardian_of_phoenix
+guardian_of_phoenix/doublespin
+guardian_of_phoenix/doublespin/start_up
+guardian_of_phoenix/flaming_bomb
+guardian_of_phoenix/flaming_bomb/explode
+guardian_of_phoenix/flaming_bomb/swirling_fire
+guardian_of_phoenix/player_debuff
+guardian_of_phoenix/player_debuff/fire_res
+guardian_of_phoenix/player_debuff/max_fire_res
+guardian_of_phoenix/vortex
+guardian_of_phoenix/weapon
+projectile
+projectile_impact

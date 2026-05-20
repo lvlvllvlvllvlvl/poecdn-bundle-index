@@ -1,0 +1,6 @@
+barricade
+canal
+fill
+road
+rubble
+unique

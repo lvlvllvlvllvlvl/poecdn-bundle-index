@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+951584e738865df7,bluesummonskeletonc.mat,Tiny_8,28863108,3718
+29fac993b76092cf,bluesummonskeleton_normal_dxt5.dds,Art/Textures/Monsters/BlueSummonSkeleton,0,349700
+6dd44434c4f3d2f5,bluesummonskeleton_normal_dxt5.dds.header,Tiny_8,28861588,1520
+a31eca27030c2c32,bluesummonskeleton_emissive_dxt5.dds,Art/Textures/Monsters/BlueSummonSkeleton,874324,349700
+ec2c07b030d82366,bluesummonskeleton_emissive_dxt5.dds.header,Tiny_8,28860068,1520
+58863363596d31b6,bluesummonskeleton_colour_dxt5.dds,Art/Textures/Monsters/BlueSummonSkeleton,524624,349700
+af2980a598ad04d7,bluesummonskeleton_colour_dxt5.dds.header,Tiny_8,28858548,1520
+60eba0faa5954a7b,bluesummonskeleton_colour_bc7.dds,Art/Textures/Monsters/BlueSummonSkeleton,524624,349700
+5a4534f4efe4ba29,bluesummonskeleton_colour_bc7.dds.header,Tiny_8,28858548,1520
+a3ad3834a0d145ff,bluesummonskeleton_colour.dds,Art/Textures/Monsters/BlueSummonSkeleton,349700,174924
+8f106eed03a915d2,bluesummonskeleton_colour.dds.header,Tiny_8,28857028,1520

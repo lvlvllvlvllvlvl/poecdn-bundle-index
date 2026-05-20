@@ -1,0 +1,9 @@
+epk
+fx
+mat
+mat/bloodpop
+mat/corpse_emerge
+mat/fissure_explode
+mat/fissure_idle
+mat/fissure_start
+mat/ground_crack

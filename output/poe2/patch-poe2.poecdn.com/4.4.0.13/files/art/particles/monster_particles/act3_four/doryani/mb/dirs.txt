@@ -1,0 +1,16 @@
+arena_crystals
+bloodgem_mines
+cataclysm_barrier
+curved_beam
+fire_skybeam
+fireball_proj
+icebeam
+laser_blast
+lightning_cage
+orb
+refrac_gemtoss
+refrac_laserblast
+slam_01
+spark_proj
+spinning_laser
+split_slam

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+1da6755410892e57,water_shocwave_r.mat,Tiny_D,480721475,20738
+9592eb991616de16,water_shocwave_u.mat,Tiny_D,480742213,2106
+b37408f137fcfb87,mblur_sphere_r.mat,Tiny_D,480708729,12168
+0c850fb65bc070e9,mblur_sphere_u.mat,Tiny_D,480720897,578
+f09c574cec8f8730,impactsplash_r1.mat,Tiny_D,480901735,31276
+ffa37d0ac607c1ac,impactsplash_u1.mat,Tiny_D,480702059,6670
+05bf520041d682ab,core_flare_r.mat,Tiny_D,480665901,34816
+46f156ba89dc669c,core_flare_u.mat,Tiny_D,480700717,1342
+b205f2bb2a7a0c46,circular_splash_02_r.mat,Tiny_D,480860801,35336
+1f442096ab0b35ce,circular_splash_02_u.mat,Tiny_D,480896137,5598

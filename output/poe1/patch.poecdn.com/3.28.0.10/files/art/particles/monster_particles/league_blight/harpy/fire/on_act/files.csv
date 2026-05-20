@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+c0072febcf202fd1,spark1.mat,Tiny_6,104393638,2214
+7fc5e45653a33b36,spark1_dxt1.dds,Tiny_7,38479458,332
+c31f4d61ed3223af,spark1_dxt1.dds.header,Tiny_7,38479790,1520
+d780a365ee2e2181,impact_up.mat,Tiny_6,104389602,2516
+a5049b6f8723401b,impact_up_dxt5.dds,Folders/art/particles/monster_particles/league_blight_1,4611268,87556
+58ce78a51e5f7f41,impact_up_dxt5.dds.header,Tiny_6,104392118,1520
+4dbbef3d847a0fee,flash.mat,Tiny_6,104387472,2130
+7da5d2d5ef19f0a3,flash_dxt5.dds,Folders/art/particles/monster_particles/atlasexiles_21,0,22020
+b170268f01c49b63,flash_dxt5.dds.header,Tiny_7,34429236,1520
+80a5c90ab4e79c38,bloom.mat,Tiny_6,104383548,2404
+0e6e1eb3b453c9e9,bloom_dxt1.dds,Art/particles/monster_particles/League_Blight_31,503488,43852
+878a9a4578b839f0,bloom_dxt1.dds.header,Tiny_6,104385952,1520

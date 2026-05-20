@@ -1,0 +1,12 @@
+areatransition_scan
+areatransition_scan/tgms
+largecliffs_scan
+largecliffs_scan/tgms
+largecliffstodunes_scan
+largecliffstodunes_scan/tgms
+largecliffstowater_scan
+largecliffstowater_scan/tgms
+rocks
+rocks/tgms
+walkableedgetowater_scan
+walkableedgetowater_scan/tgms

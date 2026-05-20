@@ -1,0 +1,12 @@
+g3_1
+g3_1/bubble_ripple
+g3_1/bubble_ripple/textures
+g3_11
+g3_11/textures
+g3_11/textures/purple_shake
+g3_12
+g3_12/sun
+g3_12/sun/textures
+g3_12/sun/textures/sun2
+g3_12/time_portal
+g3_12/time_portal/textures

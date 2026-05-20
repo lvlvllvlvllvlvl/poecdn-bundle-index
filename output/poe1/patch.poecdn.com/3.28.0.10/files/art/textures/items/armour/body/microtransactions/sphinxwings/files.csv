@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+32c697b5c4b57c0c,sphynx_wingscns.mat,Art/Textures/Items/armour/body/Microtransactions/SphinxWings,0,5234
+32add9d3b0a93109,sphynx_wings_specular.mat,Tiny_8,5720108,1178
+a0af5585e1b5d4f1,sphynx_wings_specular.dds,Art/Textures/Items/armour/body/Microtransactions/SphinxWings_1,0,699236
+30b07b6c243dcec3,sphynx_wings_specular.dds.header,Tiny_8,5719268,840
+5bfd44cf42b33634,sphynx_wings_gloss.mat,Tiny_8,5718108,1160
+dbf7c9773d910a06,sphynx_wings_gloss.dds,Art/Textures/Items/armour/body/Microtransactions/SphinxWings,5234,699236
+a5a29c928232bd52,sphynx_wings_gloss.dds.header,Tiny_8,5717268,840
+ae6e690abeb2f6c1,sphynx_wings_colour.dds,Art/Textures/Items/armour/body/Microtransactions/SphinxWings_2,699236,349692
+800c6eb55949bd61,sphynx_wings_colour.dds.header,Tiny_8,5716428,840
+6ab276ca8a8ebed2,sphynx_wingsns.dds,Art/Textures/Items/armour/body/Microtransactions/SphinxWings_2,0,699236
+d851d296665a9c7d,sphynx_wingsns.dds.header,Tiny_8,5721286,840

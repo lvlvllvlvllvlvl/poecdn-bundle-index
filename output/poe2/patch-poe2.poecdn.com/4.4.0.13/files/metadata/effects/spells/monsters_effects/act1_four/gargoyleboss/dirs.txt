@@ -1,0 +1,12 @@
+fx
+graphs
+mat
+mat/candle_mortar_hit
+mat/candle_mortar_proj
+mat/fallingdust
+mat/flamebreath
+mat/leap_slam_circular
+mat/leap_slam_rect
+mat/sweep_projectile
+mat/sword_flame_infusion
+mat/swordsparks

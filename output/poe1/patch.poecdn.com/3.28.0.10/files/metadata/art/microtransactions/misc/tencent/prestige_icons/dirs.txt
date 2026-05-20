@@ -1,0 +1,8 @@
+armours
+armours/a
+armours/b
+armours/c
+armours/d
+armours/e
+armours/f
+armours/g

@@ -1,0 +1,8 @@
+basic_attacks
+cascade
+combo
+death
+emerge
+energy_orb
+hurricane
+swordrain

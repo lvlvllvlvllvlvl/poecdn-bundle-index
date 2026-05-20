@@ -1,0 +1,7 @@
+blue
+golden
+green
+light_pale_green
+orange
+purple
+red

@@ -1,0 +1,12 @@
+aim_beam
+ambient
+burning_ground
+core_laser
+death_01
+fissure
+leap_slam
+nova
+nova_phys
+solar_orb
+spear_projectile
+stomp

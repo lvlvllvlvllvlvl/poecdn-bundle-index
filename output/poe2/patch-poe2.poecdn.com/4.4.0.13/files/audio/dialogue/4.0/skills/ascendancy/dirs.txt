@@ -1,0 +1,8 @@
+sorceress
+sorceress/discipleofthedjinn
+sorceress/discipleofthedjinn/firedjinn
+sorceress/discipleofthedjinn/firedjinn2d
+sorceress/discipleofthedjinn/sanddjinn
+sorceress/discipleofthedjinn/sanddjinn2d
+sorceress/discipleofthedjinn/waterdjinn
+sorceress/discipleofthedjinn/waterdjinn2d

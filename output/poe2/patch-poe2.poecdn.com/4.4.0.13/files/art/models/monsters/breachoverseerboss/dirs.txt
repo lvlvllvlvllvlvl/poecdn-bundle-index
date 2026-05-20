@@ -1,0 +1,6 @@
+attachments
+attachments/arm
+attachments/ribbon
+attachments/robe
+attachments/weapon
+textures

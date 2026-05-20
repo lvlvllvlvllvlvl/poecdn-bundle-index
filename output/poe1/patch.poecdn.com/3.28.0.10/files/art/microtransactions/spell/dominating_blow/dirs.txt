@@ -1,0 +1,3 @@
+celestial
+celestial/textures
+celestial/textures/fx

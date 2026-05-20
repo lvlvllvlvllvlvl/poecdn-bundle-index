@@ -1,0 +1,12 @@
+fx
+fx/beam
+fx/bloodscythe_slash
+fx/bloodscythe_slash_hitfx
+fx/charges
+fx/debuff
+fx/surge
+fx/vaal
+graph
+mat
+vaal
+vaal/attachment

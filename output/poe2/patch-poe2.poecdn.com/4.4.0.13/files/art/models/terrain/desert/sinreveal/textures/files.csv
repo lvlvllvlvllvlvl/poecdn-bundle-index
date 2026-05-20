@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+0f77987e2f69647e,sni_weapon01c.mat,Tiny.VE,15310583,802
+98bcbf33dc94f704,sni_weapon01_colour_normal.dds,Streaming/Content/art/models/terrain/desert/960DCEB8D95CB430.statue01.fmt,87548,174948
+9d775278be9fe098,sni_weapon01_colour_normal.dds.header,Tiny.V0,15568756,840
+ffef0e1d71cbde60,sni_weapon01_colour.dds,Streaming/Content/art/models/terrain/desert/960DCEB8D95CB430.statue01.fmt,0,87548
+8706d1c3c3bce9c5,sni_weapon01_colour.dds.header,Tiny.VC,15288557,840
+c0474c9e3cf7d39a,sni_statueshield01c.mat,Tiny.VA,15447565,1072
+68887272754a92da,sni_statueshield01_normal.dds,Streaming/Content/data/worldareas/97/g2_town.vworld,0,5592580
+202472b74d3786d3,sni_statueshield01_normal.dds.header,Tiny.V0,15567236,1520
+c5fff449e3154b8b,sni_statueshield01_colour.dds,Streaming/Content/data/worldareas/B1/c_g2_town.vworld,99645,5592580
+f6998395b026d5cc,sni_statueshield01_colour.dds.header,Tiny.V9,15547028,1520
+fef67beb67dd2a5f,sni_statuebody01c.mat,Tiny.V2,15531453,1064
+4dbc7f4cc82424eb,sni_statuebody01_normal.dds,Streaming/Content/data/worldareas/E1/g2_town.vworld,0,5592580
+e6dc84abdc777643,sni_statuebody01_normal.dds.header,Tiny.V3,15229305,1520
+5e19d57f898e46a3,sni_statuebody01_colour.dds,Streaming/Content/data/worldareas/0F/g2_town.vworld,0,5592580
+fa198f941312e896,sni_statuebody01_colour.dds.header,Tiny.VF,15484117,1520

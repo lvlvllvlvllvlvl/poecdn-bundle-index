@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+442e8a6746300338,pulsingmask_dxt1.dds,Streaming/Content/art/models/items/backattachments/9120F46F31F4617E.phoenixfx.fmt.1,262676,11084
+90a1739a43264bfb,pulsingmask_dxt1.dds.header,Tiny.VD,10165690,1520
+fb33d95d1befb6bb,harvestbackattachmentc.mat,Tiny.VE,10259688,5798
+cca42f6fa0da550a,harvestbackattachment_glow_dxt1.dds,Streaming/Content/art/models/items/backattachments/519C9B154E346C61.harvestbackattachment.fmt,1398276,699212
+d31ce701e8f5e571,harvestbackattachment_glow_dxt1.dds.header,Tiny.VA,10305775,1520
+bcd4545b0f957432,harvestbackattachment_normal_dxt5.dds,Streaming/Content/art/models/items/backattachments/519C9B154E346C61.harvestbackattachment.fmt,2097488,1398276
+404f33fc303f6ba5,harvestbackattachment_normal_dxt5.dds.header,Tiny.V1,10225423,1520
+d5794bed16d09d6c,harvestbackattachment_colour_dxt5.dds,Streaming/Content/art/models/items/backattachments/519C9B154E346C61.harvestbackattachment.fmt,0,1398276
+65b8e12770616948,harvestbackattachment_colour_dxt5.dds.header,Tiny.V9,10537268,1520

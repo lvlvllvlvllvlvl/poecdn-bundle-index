@@ -1,0 +1,8 @@
+npc
+npc/adiyah
+npc/karst
+npc/nenet
+npc/tullina
+thug
+thug/bombthrower
+thug/trapper

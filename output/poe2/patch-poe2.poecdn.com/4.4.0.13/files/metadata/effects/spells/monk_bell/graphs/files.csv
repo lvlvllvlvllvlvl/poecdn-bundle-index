@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+e51d0e0a8fae9712,hideme.fxgraph,Content/metadata/effects/spells/monk_bell/mtx_belldjinn.ot,10540,22306
+051eb18427ff7a2d,killringing.fxgraph,Content/metadata/effects/microtransactions/spells/arctic_breath_02/B589B0D0925987C1.hatred_grd.epk,657796,7068
+d1e3a51ce2529c17,smallbell_ctrls.fxgraph,Content/metadata/effects/microtransactions/spells/arctic_breath_02/B589B0D0925987C1.hatred_grd.epk,199006,24906
+727dfc342fc462e6,shardstransitionfade.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/F1B52535E3154293.onact_attack_01.trl,49042,127814
+ea991de54d6e1a06,comboring_behavior.fxgraph,Content/metadata/effects/microtransactions/spells/arctic_breath_02/B589B0D0925987C1.hatred_grd.epk,440080,14756
+8dbed3175b2fdc2d,cracksurfacematerial.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/F1B52535E3154293.onact_attack_01.trl,13754,35288
+1ea11fde35b3434b,custom_trailphaseblur.fxgraph,Content/metadata/effects/spells/monsters_effects/AC9B06C4D52B589B.charge_headwaves_start.pet,4388494,46988
+8e562b7728fd2234,custom_condition_lifetime.fxgraph,Content/metadata/effects/spells/monk_bell/mtx_belldjinn.ot,343966,123380
+165dffbe3cd26c5c,custom_assembleandshatter.fxgraph,Content/metadata/effects/spells/monk_bell/mtx_belldjinn.ot,32846,311120
+833295048bbde14d,blur_centerobject.fxgraph,Shared,11308363,51824
+5a4f7806697d14d9,bellstate_mask.fxgraph,Content/metadata/effects/spells/monk_bell/mtx_belldjinn.ot,509420,42518
+fe9e44bada938ea4,bell_freeze.fxgraph,Content/metadata/effects/spells/monk_bell/mtx_belldjinn.ot,467346,42074
+8075938bb005cf59,bellhit_echoshake.fxgraph,Content/metadata/effects/spells/482160499FC3A8AD.lightninghurricane.ot,5993207,35368
+6a78937f0f744a3e,bellhit_echoblur.fxgraph,Content/metadata/effects/spells/482160499FC3A8AD.lightninghurricane.ot,5956001,37206
+c2b1cb004aa11414,bellhit_echo.fxgraph,Content/metadata/effects/microtransactions/spells/arctic_breath_02/B589B0D0925987C1.hatred_grd.epk,598850,58946

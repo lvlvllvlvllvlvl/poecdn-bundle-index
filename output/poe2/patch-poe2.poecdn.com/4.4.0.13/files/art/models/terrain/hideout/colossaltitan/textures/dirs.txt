@@ -1,0 +1,6 @@
+architecture
+desertcliffs
+foliage
+ground
+sinkholecliffs
+water

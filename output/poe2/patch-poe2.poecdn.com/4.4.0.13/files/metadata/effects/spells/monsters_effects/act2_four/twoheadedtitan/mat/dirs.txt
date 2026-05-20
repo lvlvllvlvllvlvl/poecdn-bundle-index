@@ -1,0 +1,9 @@
+onacts
+onacts/death
+onacts/footsteps
+onacts/meleetrails
+slam
+slam/cone
+slam/impact
+slam/lines
+stomp

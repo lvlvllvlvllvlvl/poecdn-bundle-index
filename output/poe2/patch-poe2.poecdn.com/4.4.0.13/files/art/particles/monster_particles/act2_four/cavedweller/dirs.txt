@@ -1,0 +1,6 @@
+mb
+mb/on_act
+mb/on_act/debuff_01
+mb/sonic_pulse
+mb/super_fireball_proj
+tex

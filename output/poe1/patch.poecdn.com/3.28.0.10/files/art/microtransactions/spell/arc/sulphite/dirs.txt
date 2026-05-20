@@ -1,0 +1,7 @@
+models
+models/arc_beam
+models/arc_impact
+models/vaal_buff
+textures
+textures/impact
+textures/vaal_buff

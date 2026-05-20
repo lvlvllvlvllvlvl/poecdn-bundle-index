@@ -1,0 +1,5 @@
+models
+models/ancestor_totem
+textures
+textures/ancestor_totem
+textures/effects

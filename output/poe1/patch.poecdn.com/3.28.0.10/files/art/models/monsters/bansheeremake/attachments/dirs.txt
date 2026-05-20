@@ -1,0 +1,5 @@
+hair
+l_elbowdrape
+l_elbowdrape2
+r_elbowdrape
+skirt

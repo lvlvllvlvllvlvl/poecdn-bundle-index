@@ -1,0 +1,2 @@
+lightning_rig
+projectile_rig

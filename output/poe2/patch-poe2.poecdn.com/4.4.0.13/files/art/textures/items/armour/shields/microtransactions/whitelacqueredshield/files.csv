@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+13d65b37aaf5d74b,whitelacqueredshieldspecularc.mat,Tiny.VC,45544328,4296
+b28e00f2d96901c6,whitelacqueredshield_glow_dxt5.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.whitelacqueredshield.fmt,1115216,349700
+ce9e657324eefad8,whitelacqueredshield_glow_dxt5.dds.header,Tiny.V4,45862798,1520
+843c4ac88c94d1b1,whitelacqueredshield_normal_dxt5.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.whitelacqueredshield.fmt,1464916,349700
+6d0be24ecbba45d8,whitelacqueredshield_normal_dxt5.dds.header,Tiny.V4,45864318,1520
+8f25e79b6dfe2ba8,whitelacqueredshield_colourspecular_bc7.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.whitelacqueredshield.fmt,415980,699236
+b78b752f7b0dae8a,whitelacqueredshield_colourspecular_bc7.dds.header,Tiny.V7,45364948,840
+ca8c792cb25be4e2,whitelacqueredshield_colourspecular.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.whitelacqueredshield.fmt,66288,349692
+373b319b2afbe345,whitelacqueredshield_colourspecular.dds.header,Tiny.VC,45543488,840

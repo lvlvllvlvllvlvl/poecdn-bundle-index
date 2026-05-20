@@ -1,0 +1,6 @@
+ferrofluidrobe
+ferrofluidrobefemale
+ferrofluidrobeshoulderpads
+ferrofluidrobeshoulderpads/animation
+ferrofluidrobeshoulderpads/animation/l_side
+ferrofluidrobeshoulderpads/animation/r_side

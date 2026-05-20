@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+7e38b298c729a1bf,spark2_clean.mat,Tiny_6,14604952,1404
+1b1d0072a8a6ed12,spark2_clean.dds,Tiny_6,14602916,516
+38626c4dbff8c6a4,spark2_clean.dds.header,Tiny_6,14603432,1520
+293ceffec03bd643,shockwave_fire.mat,Tiny_6,14600604,2312
+e227c51225e3fc4a,shockwave_fire.dds,Art/particles/detonate_dead_v2/shockwave_1,0,22020
+f3388297a19d2879,shockwave_fire.dds.header,Tiny_7,30320066,1520
+a5191c889001bbb0,shockwave.mat,Tiny_6,14598318,2286
+72e9e39860db4fd1,shockwave.dds,Art/particles/detonate_dead_v2/shockwave,0,22020
+a4d1310a59242670,shockwave.dds.header,Tiny_6,14596798,1520

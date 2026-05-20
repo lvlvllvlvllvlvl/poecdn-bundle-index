@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+7e09937881c4bf2e,wisp_smoke_base.mat,Tiny_6,23359515,2730
+c2d20a3212af38fd,wisp_smoke_base.dds,Art/Models/riot_comp/barrel_rollboom/textures/fire,437256,174948
+788586c105bee520,wisp_smoke_base.dds.header,Tiny_7,24671915,840
+f0c9ed73e3da2c6d,spark2.mat,Tiny_6,23357799,1716
+0613ef44ba8e0de1,spark2.dds,Art/particles/environment_effects/labyrinth_3,218824,5636
+0c79fb9ec8b4db90,spark2.dds.header,Tiny_6,23356279,1520
+37fb1ad1b452021a,smoke_flowc.mat,Tiny_6,23353681,2598
+cfe0401fe70e5f5c,smoke_flow.dds,Folders/art/particles/environment_effects/breach,306716,87556
+d585cdabe32cfa46,smoke_flow.dds.header,Tiny_6,127506041,1520
+724d8cc2fcd642e1,ping_ping.mat,Tiny_6,23352237,1444
+ab8bc5c7e4dc7621,ping_ping.dds,Art/particles/environment_effects/labyrinth_3,224460,87556
+b90e8b6002ee3d13,ping_ping.dds.header,Tiny_6,23350717,1520
+a4ec7e7db201ab71,light_gradient.mat,Tiny_6,23348947,1770
+f93f09c87f8ef884,light_gradient.dds,Folders/art/particles/monster_particles/league_heist_81,999553,22020
+3872ede677cb38b5,light_gradient.dds.header,Tiny_7,41017866,1520

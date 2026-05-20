@@ -1,0 +1,6 @@
+chargeup
+groundfx
+onact
+onact/hands
+rose
+shockwave

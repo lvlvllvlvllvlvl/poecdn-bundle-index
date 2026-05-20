@@ -1,0 +1,16 @@
+basetypes
+basetypes/chainflail
+basetypes/greatflail
+basetypes/guardedflail
+basetypes/ironflail
+basetypes/karuiflail
+basetypes/platedflail
+basetypes/ringflail
+basetypes/ringflail/attachments
+basetypes/ringflail/attachments/head
+basetypes/slenderflail
+basetypes/splinteredflail
+basetypes/stoneflail
+basetypes/tearingflail
+basetypes/textures
+basetypes/twinflail

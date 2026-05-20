@@ -1,0 +1,13 @@
+attachments
+attachments/shoulderpads
+attachments/shoulderpads/animation
+attachments/shoulderpads/animation/l_side
+attachments/shoulderpads/animation/r_side
+attachments/skirt
+attachments/skirt/clockwork_dex
+attachments/skirt/clockwork_dexint
+attachments/skirt/clockwork_int
+attachments/skirt/clockwork_str
+attachments/skirt/clockwork_strdex
+attachments/skirt/clockwork_strdexint
+attachments/skirt/clockwork_strint

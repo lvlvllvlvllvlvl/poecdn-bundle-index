@@ -1,0 +1,6 @@
+models
+models/act
+models/npc_light
+portal
+portal/textures
+textures

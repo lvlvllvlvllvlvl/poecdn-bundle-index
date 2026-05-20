@@ -1,0 +1,11 @@
+attachments
+attachments/beltf
+attachments/beltm
+attachments/bowtief
+attachments/bowtiem
+attachments/hair
+attachments/hair/hair01
+attachments/hair/hair02
+attachments/robef
+attachments/robem
+textures

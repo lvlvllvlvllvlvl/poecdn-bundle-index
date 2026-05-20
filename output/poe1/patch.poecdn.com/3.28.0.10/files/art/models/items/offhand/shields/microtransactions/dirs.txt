@@ -1,0 +1,8 @@
+goblinshamanshield
+honourguardbuckler
+honourguardbuckler/textures
+honourguardshield
+hyenahunterbuckler
+hyenahunterbuckler/textures
+lichsgazeshield
+lichsgazeshield/textures

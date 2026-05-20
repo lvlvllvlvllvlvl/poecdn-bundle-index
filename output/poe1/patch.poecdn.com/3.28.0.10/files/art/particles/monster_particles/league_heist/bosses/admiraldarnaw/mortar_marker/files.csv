@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+0e522061a81d3944,water_splash_02.mat,Tiny_6,115522187,7104
+5fefee6f008089b1,water_splash_02_dxt1.dds,Folders/art/particles/monster_particles/figurehead,87556,43852
+888b115a6b69fe76,water_splash_02_dxt1.dds.header,Tiny_7,70107164,1520
+48cfaef9db3929d4,water_circular_splash.mat,Tiny_6,115517833,2834
+119f93d11425ee35,water_circular_splash_dxt5.dds,Folders/art/particles/hydro_catalyst/textures,2796352,87556
+c37ad0411b5d3889,water_circular_splash_dxt5.dds.header,Tiny_6,115520667,1520
+32e355956931cdf0,space.mat,Tiny_6,115515359,2474
+85ae2eba89c0178e,space.dds,Art/particles/monster_particles/League_Synthesis_12,1032086,349700
+6f4a6d3dc1520754,space.dds.header,Tiny_7,10323990,1520
+224aa5d70b24762e,pulse.mat,Tiny_6,115512591,2768
+e3dbd07233425690,pulse.dds,Folders/art/particles/monster_particles/tombstone,591240,87556
+e76e8d67892630f6,pulse.dds.header,Tiny_7,3852150,1520
+d5835fced72abc9a,arm_ring_bloodc.mat,Tiny_6,115507239,5352
+213ae0174d698a43,arm_ring_blood.dds,Folders/art/particles/monster_particles/league_heist_2,262504,43868
+b55c4fc1ffa4d8f0,arm_ring_blood.dds.header,Tiny_6,115506735,504

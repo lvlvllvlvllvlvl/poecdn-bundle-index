@@ -1,0 +1,3 @@
+control_zone
+control_zone/standing_zone
+pillar_of_light

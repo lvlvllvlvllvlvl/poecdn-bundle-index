@@ -1,0 +1,15 @@
+arenas
+ascendancytrial
+cliff
+ledge
+ledge/ao
+ledge/epk
+ledge/fx
+ledge/graph
+ledge/mat
+ledge/mat/cliffhighwater_cc_fall_01
+ledge/mat/multitile_3x3_cliffledge_waterfall_st_01
+ledge/mat/multitile_3x3_ledge_waterfall_cc_01
+ledge/mat/multitile_3x3_ledge_waterfall_st_01
+roofshadow
+water

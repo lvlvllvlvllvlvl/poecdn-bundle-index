@@ -1,0 +1,7 @@
+mb
+texture
+texture/hit
+texture/hit/chaos
+texture/hit/cold
+texture/hit/fire
+texture/hit/lightn

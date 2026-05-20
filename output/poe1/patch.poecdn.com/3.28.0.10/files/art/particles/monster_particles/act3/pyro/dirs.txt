@@ -1,0 +1,12 @@
+bomb
+bomb/flame
+bomb/poison_bomb
+bomb/poison_bomb/big_whisps
+bomb/poison_bomb/spiral_wisp
+bomb/rings
+bomb/smoke
+bomb/smoke/spiral
+fireball
+fireball/big_whisps
+fireball/spiral_wisp
+fireball/whisps

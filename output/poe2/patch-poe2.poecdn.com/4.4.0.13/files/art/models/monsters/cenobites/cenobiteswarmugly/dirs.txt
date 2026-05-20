@@ -1,0 +1,4 @@
+attachments
+attachments/skirt
+attachments/weapon
+attachments/weapon_small

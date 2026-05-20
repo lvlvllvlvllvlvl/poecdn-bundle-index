@@ -1,0 +1,6 @@
+blood
+blood_pbr
+footprints
+footprints/fire
+fx
+shaper_blood

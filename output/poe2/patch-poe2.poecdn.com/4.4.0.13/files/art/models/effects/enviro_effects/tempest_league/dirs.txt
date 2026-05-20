@@ -1,0 +1,14 @@
+coloured_basic
+coloured_basic/blue
+coloured_basic/gold
+coloured_basic/green
+coloured_basic/orange
+coloured_basic/pink
+coloured_basic/purple
+coloured_basic/red
+coloured_basic/teal
+coloured_basic/white
+elements
+elements/fire
+elements/ice
+elements/lightning

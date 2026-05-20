@@ -1,0 +1,3 @@
+shrine
+shrine/fire
+shrine/lightning

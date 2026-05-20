@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+7186981cb7b09590,delvehatcns.mat,Art/Textures/Items/armour/helmet/Mtx_12,699400,5706
+a5bdf0ea36b84eea,delvehat_specular.mat,Tiny_8,12344933,1064
+1de79d0ee6810c56,delvehat_specular.dds,Art/Textures/Items/armour/helmet/Mtx_11,1049772,349700
+89b6b1510fa271ce,delvehat_specular.dds.header,Tiny_8,12343413,1520
+5592b075b3c87edd,delvehat_glow.mat,Tiny_8,12342373,1040
+339b66fcb94924af,delvehat_glow.dds,Art/Textures/Items/armour/helmet/Mtx_11,700072,349700
+6b6b65f21366876e,delvehat_glow.dds.header,Tiny_8,12340853,1520
+eb92bb528306334d,delvehat_gloss.mat,Tiny_8,12339807,1046
+282a7f3ce2402854,delvehat_gloss.dds,Art/Textures/Items/armour/helmet/Mtx_12,0,349700
+5e6c1436e49b9590,delvehat_gloss.dds.header,Tiny_8,12338287,1520
+7be3332f34d7cbb5,delvehat_colour.dds,Art/Textures/Items/armour/helmet/Mtx_12,705106,174924
+7a3929b6574974ff,delvehat_colour.dds.header,Tiny_8,12336767,1520
+588059744b5ae604,delvehatns.dds,Art/Textures/Items/armour/helmet/Mtx_12,349700,349700
+29c8dceb720ecf62,delvehatns.dds.header,Tiny_8,12345997,1520

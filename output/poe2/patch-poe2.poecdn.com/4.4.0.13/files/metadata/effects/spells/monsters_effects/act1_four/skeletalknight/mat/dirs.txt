@@ -1,0 +1,5 @@
+cleave
+ghostflame_energy
+projectile
+projectile_impact
+shield_slam

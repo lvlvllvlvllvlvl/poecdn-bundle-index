@@ -1,0 +1,6 @@
+onact
+onact/knockdown
+slam
+slam/body
+slam/impact
+stomp

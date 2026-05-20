@@ -1,0 +1,5 @@
+faustus
+faustus_glyph
+faustus_greeting
+faustus_vendor
+faustus_wild

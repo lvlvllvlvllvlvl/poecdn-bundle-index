@@ -1,0 +1,6 @@
+bloodball
+cold
+consume_corpse
+feathers
+fire
+lightning

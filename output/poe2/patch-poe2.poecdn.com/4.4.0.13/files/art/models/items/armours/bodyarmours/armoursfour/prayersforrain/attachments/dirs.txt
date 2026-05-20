@@ -1,0 +1,10 @@
+armtassle
+robe
+robe/f
+robe/m
+sash
+sash/f
+sash/m
+shawl
+shawl/f
+shawl/m

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+c28577d1989c6a47,rig_f622fd35.smd,Streaming/Content/data/worldareas/c_g1_4.vworld,3119508,101268
+009db038fae00882,rig_f622fd35.smd.header,Tiny.VD,11633791,448
+bdbd851a238824eb,rig_d7b69a9a.smd,Streaming/Content/data/worldareas/c_g1_4.vworld,3016588,102920
+09edcd9037333f88,rig_d7b69a9a.smd.header,Tiny.VA,11773156,1925
+35819e328ed13aa7,fzlargemushroomsnophys.sm,Tiny.V7,11708978,498
+317aa5ae92cd00d3,fzlargemushroomsnophys.amd,Tiny.V8,11723503,78
+9cc6ab0a8a4a8797,fzlargemushroomsnophys.ast,Tiny.V9,11927278,264
+c8df2a20600ec651,fzlargemushrooms.sm,Tiny.VA,11772658,498
+7d18cfcbb80cb680,fzlargemushrooms.amd,Tiny.V8,11723503,78
+2ee2b798767ccc9e,fzlargemushrooms.ast,Tiny.V0,11867816,3617

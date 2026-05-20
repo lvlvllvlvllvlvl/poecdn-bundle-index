@@ -1,0 +1,5 @@
+fx
+mat
+mat/meteor
+mat/meteor_impact
+mat/meteor_spawn

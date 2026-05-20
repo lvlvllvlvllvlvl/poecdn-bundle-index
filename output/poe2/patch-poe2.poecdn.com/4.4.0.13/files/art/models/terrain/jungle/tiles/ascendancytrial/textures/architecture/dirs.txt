@@ -1,0 +1,6 @@
+abyss
+altar
+arena
+cave
+trialmaster
+trialmaster/pristine

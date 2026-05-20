@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+d9182fdb307e5d40,scars_02_normal.dds,Folders/art/models/charactersfour/textures/common/damage_1,1398276,1398276
+d4637b2550bb16ca,scars_02_normal.dds.header,Tiny_1,81953861,1520
+5dd28b6dd93353f1,scars_01_normal.dds,Folders/art/models/charactersfour/textures/common/damage_1,0,1398276
+531687ae13039b7b,scars_01_normal.dds.header,Tiny_1,81952341,1520
+2650ab69d6a1d441,gore_01_normal.dds,Folders/art/models/charactersfour/textures/common/damage,1398276,1398276
+43a48de1eb36d517,gore_01_normal.dds.header,Tiny_1,81950821,1520
+ac647ed7579a555e,gore_01_colour.dds,Folders/art/models/charactersfour/textures/common/damage,0,1398276
+94c6ebb4c041877e,gore_01_colour.dds.header,Tiny_1,81949301,1520
+9975a5181faea1a0,damage_normal_null.dds,Tiny_1,81948545,260
+72e8e57683a33e71,damage_normal_null.dds.header,Tiny_1,81948805,496
+43d67d4b186a2a4b,damage_colour_null.dds,Tiny_7,44316465,260
+14c3eb898f05f26e,damage_colour_null.dds.header,Tiny_7,44316725,496

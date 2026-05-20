@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+cafda6ef72e9f00a,cgp_fire_trail_01.mat,Tiny.VE,34191975,4396
+c66786e6f06d4fb3,cgp_veins_trail_ab2.mat,Tiny.VA,34724781,5454
+3e5c0cedb1e98c82,cgp_veins_trail.mat,Tiny.V8,34307304,3604
+8fca3cc463b93551,cgp_poison_glow2.mat,Tiny.V3,34111638,1996
+29f77082a9413fbf,cgp_poison_glow.mat,Tiny.V0,34867723,1684
+e1a0ec4f61ec9a5d,glow_mask_dxt5.dds,Streaming/Content/data/worldareas/A8/g4_7.vworld,1769467,5592580
+571fd4fb130e899c,glow_mask_dxt5.dds.header,Tiny.V9,35064485,1520
+dc0e9efbbe4b0c7e,bloodmist.mat,Tiny.V3,34109212,2426
+5995ee9acd0a8603,blood_trail_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.96ACDAA4B3D234DD.meteor_marker_idle.pet,834492,174948
+6dbef91cc19ea3fb,blood_trail_normal_dxt5.dds.header,Tiny.VB,34157956,840
+1b08dc8b5837b873,blood_trail2_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/542F56B5A086A78E.6C2F4412C80AD140.onact_slam.trl,0,174948
+6f08b4a5995b9f07,blood_trail2_dxt5.dds.header,Tiny.V5,33523618,840
+cc533668fbb72d50,smoke_ghosts.mat,Tiny.VF,34685197,4258
+e7effe3180061b04,sb_fadein.mat,Tiny.VB,34933570,4308

@@ -1,0 +1,5 @@
+ash
+guard
+ice
+spider
+thunder

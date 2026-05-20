@@ -1,0 +1,14 @@
+accuracycrit
+accuracycrit/pets
+blindingaura
+demigodalt
+disjunction
+disjunction/fire_impact
+dyingbreath
+gloomeye
+gloomeye/monster_debuff
+hightemplarsrobes2
+hightemplarsrobes2/graph
+hightemplarsrobes2/pets
+kingmaker
+shaperseed

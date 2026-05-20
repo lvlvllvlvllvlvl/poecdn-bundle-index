@@ -1,0 +1,9 @@
+chests
+chests/peranduschest
+dexintcraftingbench
+malachaisbox
+perandusbox
+strongboxes
+templarcourtchests
+uniquestrongboxes
+vaalchest

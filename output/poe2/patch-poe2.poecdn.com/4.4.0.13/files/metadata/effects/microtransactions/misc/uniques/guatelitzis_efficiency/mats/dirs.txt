@@ -1,0 +1,4 @@
+attraction
+beam
+gain
+hit

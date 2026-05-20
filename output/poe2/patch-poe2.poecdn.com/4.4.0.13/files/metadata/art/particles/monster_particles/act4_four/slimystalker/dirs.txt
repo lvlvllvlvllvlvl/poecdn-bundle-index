@@ -1,0 +1,4 @@
+textures
+textures/onact
+textures/onact/attack_01
+textures/onact/attack_02

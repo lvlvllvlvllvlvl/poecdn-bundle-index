@@ -1,0 +1,5 @@
+animations
+animations/static
+coward_trial
+coward_trial/animations
+coward_trial/animations/static

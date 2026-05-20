@@ -1,0 +1,9 @@
+aos
+epks
+fx
+mats
+mats/discus_beam
+mats/holy_explosion
+mats/holy_implosion
+mats/holy_orb
+mats/onact

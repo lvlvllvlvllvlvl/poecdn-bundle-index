@@ -1,0 +1,5 @@
+attack_sword_sword
+cleave_sword_sword_01
+throw_axe_axe_01
+vagan_vines_01
+vagan_vines_long_01

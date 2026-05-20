@@ -1,0 +1,9 @@
+door
+firepit
+firepitnolight
+incursionwalllightning
+readingstand01
+readingstand_open
+tgms
+torch
+wallfire

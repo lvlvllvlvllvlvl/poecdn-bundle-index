@@ -1,0 +1,7 @@
+beam
+blood_orbs
+cascade_grdslam
+on_act
+on_act/attack
+orb_explosion
+tendrils_cone

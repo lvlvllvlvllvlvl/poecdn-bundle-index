@@ -1,0 +1,3 @@
+celestial
+celestial/fx
+celestial/fx/large_projectile

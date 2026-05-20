@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+3f5d1c5e8f72d6de,synthesisportal.sm,Tiny_1,72858069,832
+cd00e63bfe8979a4,shard_04.fmt,Tiny_2,5286406,1501
+66918065cd9eb125,shard_04.fmt.header,Tiny_2,5287907,174
+c08c22426cc7070f,shard_03.fmt,Tiny_2,5284155,2077
+c0574c22d16ed2c2,shard_03.fmt.header,Tiny_2,5286232,174
+32ce39c0a32b89d8,shard_02.fmt,Tiny_2,5325090,2557
+9665d2ed111675aa,shard_02.fmt.header,Tiny_2,5327647,174
+a0cc45b9560d6851,shard_01.fmt,Tiny_2,5321663,3253
+e587f1021fc54161,shard_01.fmt.header,Tiny_2,5324916,174
+d3db9f7b64dd5359,rig_b017075e.smd,Art/Microtransactions/Town_Portal/SynthesisPortal,0,57486
+39555c737841782c,rig_b017075e.smd.header,Tiny_1,72857701,368
+bb08ec522e6a8566,rig.amd,Tiny_1,72855698,270
+8eb09a11bb596677,rig.ast,Tiny_1,72855968,1733
+dfda8b465307386f,narrow_cone.fmt,Tiny_1,87022146,2225
+39ba66f9f224c31b,narrow_cone.fmt.header,Tiny_2,7914971,176

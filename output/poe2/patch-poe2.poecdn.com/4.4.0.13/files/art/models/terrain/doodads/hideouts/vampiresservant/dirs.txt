@@ -1,0 +1,14 @@
+attachments
+attachments/banana
+attachments/banana/textures
+attachments/currency
+attachments/currency/textures
+igor
+igor/attachments
+igor/attachments/cap
+igor/attachments/crate
+igorminion
+igorminion/attachments
+igorminion/attachments/fork
+textures
+textures/crateitems

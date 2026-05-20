@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+4f509d3352da6fb0,bloom_particle.mat,Tiny.V8,31746538,1622
+566dcc9edf1f93b4,bloom_particle.dds,Streaming/Content/metadata/effects/statusailments/white_ignited.epk,0,22020
+788aec26b012777e,bloom_particle.dds.header,Tiny.VB,34801860,1520
+96b6627257951c0e,fireball_flame3.mat,Tiny.VE,31658175,1870
+bdd2c48a8ef94240,fireball_flame3.dds,Streaming/Content/metadata/effects/statusailments/white_ignited.epk,371720,349700
+2379bec8f678722a,fireball_flame3.dds.header,Tiny.V5,31531893,1520
+88dda76aa3e1d43f,fireball_flame2.mat,Tiny.V2,31872921,2160
+30c54e0560b7e12d,fireball_flame2.dds,Streaming/Content/metadata/effects/statusailments/white_ignited.epk,22020,349700
+622b58ec142ceca6,fireball_flame2.dds.header,Tiny.V7,31780034,1520

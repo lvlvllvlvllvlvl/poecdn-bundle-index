@@ -1,0 +1,12 @@
+attachments
+attachments/book
+attachments/l_dangler_1
+attachments/l_dangler_2
+attachments/l_sleeve
+attachments/r_dangler_1
+attachments/r_dangler_2
+attachments/r_sleeve
+attachments/shawl
+attachments/skirt
+attachments/skirt/attachments
+textures

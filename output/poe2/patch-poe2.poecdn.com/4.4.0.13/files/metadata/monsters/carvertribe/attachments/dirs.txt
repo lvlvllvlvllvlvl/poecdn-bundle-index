@@ -1,0 +1,15 @@
+backbone
+carverdelinquents
+clawweapons
+double_skull
+headpiece
+l_bone
+l_forearm_bone
+l_shoulderpad
+l_skull
+l_waist_bone
+r_bone
+r_forearm_bone
+r_shoulderpad
+r_skull
+shoulderpiece

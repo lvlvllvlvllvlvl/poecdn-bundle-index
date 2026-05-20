@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+648960d259ab08a4,wood_normal_dxt1.dds,Art/Textures/Misc/Totems/devouring_totem,0,174924
+94bfdce9242980a8,wood_normal_dxt1.dds.header,Tiny_8,26362256,1520
+2753337782086da7,woodthornscwoodns.mat,Tiny_8,26366816,2252
+6b2f17630135092f,woodthorns_colour.dds,Art/Textures/Misc/Totems/devouring_totem_1,1049100,174924
+6c8845dcc94f7945,woodthorns_colour.dds.header,Tiny_8,26365296,1520
+19c54712c3bf4f4a,woodns.dds,Art/Textures/Misc/Totems/devouring_totem_1,0,349700
+64b0c575cc44dedc,woodns.dds.header,Tiny_8,26363776,1520
+151e80b216da1e0c,generic_eyes_glowc.mat,Tiny_8,26360038,2218
+42edce4f901cef34,generic_eyes_glow.dds,Art/Textures/Misc/Totems/devouring_totem_1,349700,349700
+67cd72615302ddba,generic_eyes_glow.dds.header,Tiny_8,26358518,1520
+a8f6cb6de0762eb4,generic_eyes_flickerc.mat,Tiny_8,26356288,2230
+2ec19ea1f4c2f498,generic_eyes_flicker.dds,Art/Textures/Misc/Totems/devouring_totem_1,699400,349700
+de91443acbfb3902,generic_eyes_flicker.dds.header,Tiny_8,26430726,1520

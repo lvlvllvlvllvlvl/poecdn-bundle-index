@@ -1,0 +1,4 @@
+costume
+helmet
+scepter
+skirt

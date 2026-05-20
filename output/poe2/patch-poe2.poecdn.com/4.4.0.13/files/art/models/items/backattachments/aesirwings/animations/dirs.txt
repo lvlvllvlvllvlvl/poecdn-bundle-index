@@ -1,0 +1,3 @@
+aesirapparition
+aesirapparition/map_device_large
+aesirapparition/rare_finisher_effect

@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+19872960f5ef8931,chests03c.mat,Tiny.V2,40130725,2134
+631da1eadd35447c,chests03tutorialc.mat,Tiny.VB,40776977,2312
+c407477e88203203,chests03tutorial_colour_dxt5.dds,Streaming/Content/metadata/chests/chests/tutorialchest.ao,61456,349700
+3edbf936ff546996,chests03tutorial_colour_dxt5.dds.header,Tiny.V9,41043227,1520
+a333e46b9dbfc6b3,chests03_normal_dxt5.dds,Streaming/Content/metadata/chests/leagueheist/banditchests/banditchesttier2.ao,349700,349700
+0c5463bd9f42a357,chests03_normal_dxt5.dds.header,Tiny.V5,40065359,1520
+0d5ae45b5b1de6c0,chests03_colour_dxt5.dds,Streaming/Content/metadata/chests/leagueheist/banditchests/banditchesttier2.ao,0,349700
+75302c49623c1381,chests03_colour_dxt5.dds.header,Tiny.V2,40129205,1520

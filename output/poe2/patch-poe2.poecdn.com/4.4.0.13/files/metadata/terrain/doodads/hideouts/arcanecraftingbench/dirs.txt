@@ -1,0 +1,17 @@
+attachments
+vfx
+vfx/epks
+vfx/epks/arcanecraftingbenchflask
+vfx/epks/arcanecraftingbenchfurnace
+vfx/epks/arcanecraftingbenchsmalltable
+vfx/fx
+vfx/fx/candle_flames
+vfx/fx/flask_bowl
+vfx/fx/flask_bowl/fadeout
+vfx/fx/furnace
+vfx/fx/furnace/active_fadein
+vfx/fx/furnace/idle
+vfx/fx/furnace/off
+vfx/fx/small_table
+vfx/fx/small_table/active_fadein
+vfx/graphs

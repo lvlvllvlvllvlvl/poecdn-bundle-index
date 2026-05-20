@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+7ef96ff70098669c,bloom.mat,Tiny_6,63676176,1856
+f9b68602c386ac48,snow_prtcls_2x2.mat,Tiny_6,63680806,1986
+9c7802a3dd3ddb91,flares.mat,Tiny_6,63678032,2774
+2ac8f651f2dd3ae1,flares_dxt1.dds,Art/particles/EnduranceSlam_02/impact,0,174924
+fc6bde1d14b2d3cb,flares_dxt1.dds.header,Tiny_7,20424707,1520

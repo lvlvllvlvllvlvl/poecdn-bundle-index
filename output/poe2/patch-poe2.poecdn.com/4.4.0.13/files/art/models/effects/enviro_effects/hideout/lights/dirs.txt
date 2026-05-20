@@ -1,0 +1,11 @@
+mb
+mb/animations
+mb/animations/blue
+mb/animations/green
+mb/animations/orange
+mb/animations/pink
+mb/animations/purple
+mb/animations/red
+mb/animations/turquoise
+mb/animations/white
+mb/animations/yellow

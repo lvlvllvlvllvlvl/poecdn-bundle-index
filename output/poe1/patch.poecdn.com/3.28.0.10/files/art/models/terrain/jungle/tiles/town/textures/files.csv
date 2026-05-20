@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+439d1c0d8d73a9ef,vaaltown_groundmask_dxt1.dds,Folders/art/models/terrain/waypoints/islands,855332,87548
+a41e2ca67a67e80f,vaaltown_groundmask_dxt1.dds.header,Tiny_5,50561696,840
+b16c1fae0d658ab3,vaaltownshovel01c.mat,Tiny_5,50564056,1700
+7db60e6e474f43ed,vaaltownshovel01_normal_dxt5.dds,Folders/art/models/terrain/jungle/tiles/town_6,349700,349700
+aef66ef72a47f885,vaaltownshovel01_normal_dxt5.dds.header,Tiny_5,67140820,1520
+efb2261eb087d4d2,vaaltownshovel01_colour_dxt5.dds,Folders/art/models/terrain/jungle/tiles/town_6,0,349700
+0c4cd4ecfd9718b2,vaaltownshovel01_colour_dxt5.dds.header,Tiny_5,50562536,1520
+8feca952c11a3780,ropemessyc.mat,Tiny_5,50559652,2044
+ae304c3a77556695,ropemessy_normal_dxt5.dds,Folders/art/models/terrain/waypoints/islands,833280,22052
+6b739db6b5429090,ropemessy_normal_dxt5.dds.header,Tiny_7,73665796,504
+f7d5c0fd9ccc4950,ropemessy_colour_dxt1.dds,Folders/art/models/terrain/waypoints/islands,822180,11100
+3131c5f2b67959c1,ropemessy_colour_dxt1.dds.header,Tiny_5,50559148,504

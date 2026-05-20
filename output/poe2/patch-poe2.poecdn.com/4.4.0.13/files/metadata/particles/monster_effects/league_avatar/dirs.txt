@@ -1,0 +1,11 @@
+avatarbuffs
+beam
+beam/vaal
+blue_rifire
+flameblast
+mortar
+summons
+ultimate_ball_lightning
+ultimate_ball_lightning/chargeup
+ultimate_ball_lightning/projectile
+upheaval

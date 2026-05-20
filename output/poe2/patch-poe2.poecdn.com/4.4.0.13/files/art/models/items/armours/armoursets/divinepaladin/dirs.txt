@@ -1,0 +1,8 @@
+attachments
+attachments/helmet
+attachments/hoops
+attachments/hoops/leftelbow
+attachments/hoops/rightelbow
+attachments/skirt
+attachments/statue
+textures

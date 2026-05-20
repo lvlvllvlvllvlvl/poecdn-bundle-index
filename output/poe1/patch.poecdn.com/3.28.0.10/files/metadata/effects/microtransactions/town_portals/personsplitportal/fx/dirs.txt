@@ -1,0 +1,9 @@
+blood_diagonal
+blood_diced
+blood_vertical
+katana
+katana/gold
+katana/red
+marble_diagonal
+marble_diced
+marble_vertical

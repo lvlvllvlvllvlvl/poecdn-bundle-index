@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+a98d361259ce7a25,smoke_bit2.mat,Tiny_6,45872744,1172
+b26f2cdf3b25acda,smoke_bit2.dds,Art/particles/cargohold/characters_1,0,87556
+c7f72b4f31dbfdd7,smoke_bit2.dds.header,Tiny_6,45871224,1520
+a72f2339c2621ce4,smoke_bit1.mat,Tiny_6,45870052,1172
+49cd673d577eb6c9,smoke_bit1.dds,Art/particles/monster_particles/act2_boss_12,0,87556
+d37d53f19144c2f6,smoke_bit1.dds.header,Tiny_6,45868532,1520
+f370071555948223,red_wisps.mat,Tiny_6,45861930,1178
+fc6699dc60db5684,red_smoke_bit2.mat,Tiny_6,45867344,1188
+52bd94c4ee850323,red_smoke_bit2.dds,Art/particles/monster_particles/act2_boss_9,2101180,87556
+cf7e33ecdfc6bf1e,red_smoke_bit2.dds.header,Tiny_6,45865824,1520
+42cb4778e1a22f02,red_smoke_bit1.mat,Tiny_6,45864628,1196
+3ac4f051f451cd68,red_smoke_bit1.dds,Art/particles/monster_particles/act2_boss_9,2013624,87556
+7c48c92527cf9eaa,red_smoke_bit1.dds.header,Tiny_6,45863108,1520
+ba62f72d02e837a7,black_wisps.mat,Tiny_6,45861930,1178
+b6ad0ea7e541f8e6,black_wisps.dds,Folders/art/particles/monster_particles/kitava_red,2405616,87556
+d3d37a9893003b02,black_wisps.dds.header,Tiny_8,43694476,1520

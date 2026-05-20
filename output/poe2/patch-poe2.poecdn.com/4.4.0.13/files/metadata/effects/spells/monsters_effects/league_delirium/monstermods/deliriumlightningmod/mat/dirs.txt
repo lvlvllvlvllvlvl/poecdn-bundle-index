@@ -1,0 +1,8 @@
+lightning
+lightning_aura
+lightning_frameupper
+lightning_hit
+lightning_impact
+lightning_onact
+lightning_onact_monster
+lightning_trail

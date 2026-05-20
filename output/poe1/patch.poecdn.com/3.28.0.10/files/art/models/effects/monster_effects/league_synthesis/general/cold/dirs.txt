@@ -1,0 +1,12 @@
+cold_cascade
+cold_icespear_pierce
+cold_icespear_proj
+cold_soulrend
+cold_soulrend_beam
+cold_soulrend_buff
+on_act
+on_act/arctic_soulrend
+on_act/basic_proj_01
+on_act/coldcascade
+on_act/ice_spear
+on_act/voidsand

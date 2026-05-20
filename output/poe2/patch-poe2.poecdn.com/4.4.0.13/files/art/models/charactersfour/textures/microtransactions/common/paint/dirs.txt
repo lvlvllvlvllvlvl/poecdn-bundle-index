@@ -1,0 +1,6 @@
+crocdruidpaintedskin
+crocdruidpaintedskin/mat
+hyenahunter
+hyenahunter/mat
+skeletonbodypaint
+skeletonbodypaint/mat

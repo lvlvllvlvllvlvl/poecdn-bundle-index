@@ -1,0 +1,4 @@
+attachments
+attachments/l_boot
+attachments/r_boot
+textures

@@ -1,0 +1,10 @@
+thickwall
+thickwall/goblins
+thickwall/lava
+thickwallledge
+thickwallthinwall
+thickwallthinwall/goblins
+thinwall
+thinwall/lava
+thinwallledge
+thinwallledge/goblins

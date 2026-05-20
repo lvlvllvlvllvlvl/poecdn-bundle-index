@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+5c5461277498e80b,hit_core.mat,Tiny_6,106746459,3434
+4e047f3a93c4b91c,impact_core.mat,Tiny_6,106749893,8628
+96eabf2989cf46dc,smoketest.mat,Tiny_6,106758521,2106
+0a01b1c3b7a94387,volatile_pulse_aoe.mat,Tiny_6,106760627,6062
+5d31f374f8ec2756,glow.mat,Tiny_6,106742889,1798
+b0af343a12109101,glow_tipc.mat,Tiny_6,106744687,1772
+7c24c19bc20acfb7,behind_glowc.mat,Tiny_6,106739373,2048
+f2aac5d824ee4122,behind_subc.mat,Tiny_6,106741421,1468

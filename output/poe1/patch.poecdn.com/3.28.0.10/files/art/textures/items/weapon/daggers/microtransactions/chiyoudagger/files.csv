@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+506e7790de04e783,chiyoudaggerspecularc.mat,Tiny_8,18894041,7396
+2c5e9c0a41f9f307,chiyoudagger_normal_dxt5.dds,Art/Textures/Items/weapon/daggers/Microtransactions_4,0,699236
+1c35655748094522,chiyoudagger_normal_dxt5.dds.header,Tiny_8,18893201,840
+afcd78cb7d09b2f0,chiyoudagger_glow_dxt5.dds,Art/Textures/Items/weapon/daggers/Microtransactions_4,699236,699236
+ae8c6aa5d0788af9,chiyoudagger_glow_dxt5.dds.header,Tiny_8,18892361,840
+ca259009c9836960,chiyoudagger_glow_dxt1.dds,Folders/art/textures/items/weapon/daggers/microtransactions,699212,349692
+e49a4b44fe6a8d94,chiyoudagger_glow_dxt1.dds.header,Tiny_8,18891521,840
+d45d1fd5d0af0cec,chiyoudagger_glow_bc1.dds,Folders/art/textures/items/weapon/daggers/microtransactions,699212,349692
+b8197fb93ec879e4,chiyoudagger_glow_bc1.dds.header,Tiny_8,18891521,840
+1996dfcbde288bdc,chiyoudagger_colourspecular_dxt5.dds,Art/Textures/Items/weapon/daggers/Microtransactions_5,0,1398276
+34c5a6d7d7ab106a,chiyoudagger_colourspecular_dxt5.dds.header,Tiny_8,18890001,1520
+8c02571d89cb698c,chiyoudagger_colourspecular_bc7.dds,Art/Textures/Items/weapon/daggers/Microtransactions_5,0,1398276
+d9cc7eb9aecb7874,chiyoudagger_colourspecular_bc7.dds.header,Tiny_8,18890001,1520
+9a4d8364f9ae3c0a,chiyoudagger_colourspecular.dds,Folders/art/textures/items/weapon/daggers/microtransactions,0,699212
+4c9b67daa637c7e6,chiyoudagger_colourspecular.dds.header,Tiny_8,18888481,1520

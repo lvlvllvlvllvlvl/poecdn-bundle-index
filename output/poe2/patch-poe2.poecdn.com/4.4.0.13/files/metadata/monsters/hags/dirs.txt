@@ -1,0 +1,4 @@
+attachments
+corpsedaemon
+drowningorbs
+objects

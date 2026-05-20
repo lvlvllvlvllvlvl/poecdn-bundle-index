@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+a391f17b0b921386,fire_test_tile_bottom.mat,Tiny.VF,38518764,3550
+7ab32c5ebbb9c13d,fire_test_tile_bottom.dds,Streaming/Content/metadata/particles/monster_effects/talisman/E7A90F7DB9C0C244.A28EB7E35A4CE85C.fireball_explosion.pet,726956,87588
+948b59e6118ceb46,fire_test_tile_bottom.dds.header,Tiny.V9,39006556,504
+1417f3bc7d636c7f,mushy_flow.mat,Tiny.V5,38195888,3344
+6b5152d5eec1fb47,mushy_flow.dds,Streaming/Content/metadata/particles/monster_effects/talisman/E7A90F7DB9C0C244.A28EB7E35A4CE85C.fireball_explosion.pet,814544,87556
+4f466490d55d53c5,mushy_flow.dds.header,Tiny.VD,38703133,1520
+f6dd9a80b2be5f6d,trail.mat,Tiny.VF,38522314,1648
+a7b0459372429c6d,trail.dds,Streaming/Content/metadata/particles/monster_effects/talisman/1FB3F77601C54C62.skull_trail.trl,0,43876
+641a29037aaebda9,trail.dds.header,Tiny.VB,32923852,840

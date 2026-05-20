@@ -1,0 +1,14 @@
+bodyfx
+burrow
+burrow/sand
+geysers
+minion_fx
+minion_fx/bestiarysquid
+minion_fx/bestiarysquid/emerge
+minion_fx/gem_frog
+minion_fx/gem_frog/emergeslam
+pool
+roar
+rockfall
+roll
+slam

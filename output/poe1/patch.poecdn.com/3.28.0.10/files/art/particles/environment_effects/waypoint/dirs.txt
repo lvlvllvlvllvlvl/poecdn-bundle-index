@@ -1,0 +1,14 @@
+coward_trial
+g1
+g1/karui
+g1/karui/mb
+g1/karui/tex
+g1/mb
+g1/tex
+g4
+g4/kalguuran
+g4/kalguuran/mb
+g4/kalguuran/mb/town
+g4/kalguuran/tex
+new
+new/passive

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+bbfe57706243afe7,celestialmapdevicec.mat,Tiny_2,68457721,3670
+a455f0d5520cfe0a,celestialmapdevicelensc.mat,Tiny_2,68461391,3796
+45a1568fe917ee45,celestialmapdevice_normal_dxt5.dds,Art/Models/MapDevices/CelestialMapDevice/Textures_3,0,5592580
+33401c15a53bb2d9,celestialmapdevice_normal_dxt5.dds.header,Tiny_2,68456201,1520
+173ae83ce863800d,celestialmapdevice_metal_dxt1.dds,Art/Models/MapDevices/CelestialMapDevice/Textures_2,0,2796364
+8b6e5f5143c0aac1,celestialmapdevice_metal_dxt1.dds.header,Tiny_2,68454681,1520
+5b2ec8b29ca68ce4,celestialmapdevice_glow_dxt1.dds,Art/Models/MapDevices/CelestialMapDevice/Textures_1,0,2796364
+2280b872299459fd,celestialmapdevice_glow_dxt1.dds.header,Tiny_2,68453161,1520
+271e97cbd02da58e,celestialmapdevice_colour_dxt1.dds,Art/Models/MapDevices/CelestialMapDevice/Textures,0,2796364
+0a42834aff93a8a7,celestialmapdevice_colour_dxt1.dds.header,Tiny_2,68451641,1520

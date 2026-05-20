@@ -1,0 +1,8 @@
+bell
+foci
+quarterstaff
+quarterstaff/attachments
+sceptre
+spear
+textures
+wand

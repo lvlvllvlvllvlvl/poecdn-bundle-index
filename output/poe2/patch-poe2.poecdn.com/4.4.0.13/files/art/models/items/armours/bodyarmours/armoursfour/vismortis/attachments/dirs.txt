@@ -1,0 +1,16 @@
+f
+f/vismortisfurguard
+f/vismortisjacket
+f/vismortisjacket/l_sleeve
+f/vismortisjacket/r_sleeve
+f/vismortisskirt
+f/vismortisskirtinner
+m
+m/vismortisfurguard
+m/vismortisjacket
+m/vismortisjacket/l_sleeve
+m/vismortisjacket/r_sleeve
+m/vismortisskirt
+m/vismortisskirtinner
+vismortisshoulderband
+vismortisshoulderpad

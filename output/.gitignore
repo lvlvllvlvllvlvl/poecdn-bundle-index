@@ -1,2 +1,4 @@
 *.sql
-*.csv
+index.html
+# full listings at content root
+/poe*/*/*/*.csv

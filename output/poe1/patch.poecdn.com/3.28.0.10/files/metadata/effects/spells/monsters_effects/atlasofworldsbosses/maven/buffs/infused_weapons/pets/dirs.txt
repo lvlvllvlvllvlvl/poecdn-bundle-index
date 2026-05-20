@@ -1,0 +1,3 @@
+player_debuff
+power_up
+power_up_beam

@@ -1,0 +1,2 @@
+shrine_ritual_gather
+textures

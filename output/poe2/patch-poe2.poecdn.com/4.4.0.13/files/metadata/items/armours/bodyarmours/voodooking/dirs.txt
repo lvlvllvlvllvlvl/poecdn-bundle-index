@@ -1,0 +1,5 @@
+attachments
+attachments/cloak
+attachments/skirt
+attachments/skirtbells
+attachments/skirtfeathers

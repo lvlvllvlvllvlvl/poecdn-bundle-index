@@ -1,0 +1,2 @@
+idle_fx
+particle_decals

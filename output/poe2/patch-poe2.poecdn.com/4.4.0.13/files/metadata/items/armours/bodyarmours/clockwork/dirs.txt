@@ -1,0 +1,6 @@
+attachments
+attachments/skirt
+variants
+variants/silver
+variants/silver/attachments
+variants/silver/attachments/skirt

@@ -1,0 +1,12 @@
+eternalempire
+eternalempire/marked_for_seige
+eternalempire/marked_for_seige/bunchofarrows
+genericbloodsplat
+karui
+karui/molten_beam
+karui/rain_of_arrows
+maraketh
+templar
+templar/projectile_down
+vaal
+vaal/bloodslam

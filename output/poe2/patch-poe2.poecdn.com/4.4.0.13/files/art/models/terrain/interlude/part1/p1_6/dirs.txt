@@ -1,0 +1,8 @@
+doodads
+organ
+textures
+textures/architecture
+textures/curtains
+textures/foliage
+textures/ground
+tgms

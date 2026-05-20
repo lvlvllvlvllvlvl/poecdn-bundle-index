@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+00409469113b7d77,core_blkc.mat,Tiny.V4,46131918,4198
+c22d53283c5eee14,screen_shimmerc.mat,Tiny.VC,45803236,1208
+1b4725a853314fbb,screen_blkc.mat,Tiny.V3,44958956,6766
+3efac7683c47c05e,screen_blk_multic.mat,Tiny.V6,45548374,2150
+2fa48912b0602362,screen_blk_multi.dds,Tiny.V9,46191577,412
+35ef975705cd20e7,screen_blk_multi.dds.header,Tiny.V4,46136116,280
+00743007b5f6c952,ring_blk_loftc.mat,Tiny.V2,45429251,2384
+a18e3ca0e6e6a1ce,ring_blk_loft.dds,Tiny.V1,45321958,412
+ff7a3bedaa6a0a8e,ring_blk_loft.dds.header,Tiny.V6,45548094,280
+9b3d9c2ae7f57d51,blackpolarisportalc.mat,Tiny.VC,45797776,5460
+7d72275238a68c63,blackpolarisportal_specular_dxt1.dds,Streaming/Content/art/models/misc/portals/80692DD842851B6A.blackpolarisportal.fmt,1048928,349692
+b735972d2d8e9eba,blackpolarisportal_specular_dxt1.dds.header,Tiny.V4,46131078,840
+c648173975522204,blackpolarisportal_normal_dxt5.dds,Streaming/Content/art/models/misc/portals/80692DD842851B6A.blackpolarisportal.fmt,349692,699236
+e4a89fd7472c9420,blackpolarisportal_normal_dxt5.dds.header,Tiny.V6,45546206,840
+cc1a61bd227b9292,blackpolarisportal_colour.dds,Streaming/Content/art/models/misc/portals/80692DD842851B6A.blackpolarisportal.fmt,0,349692
+e6d974f126f63f0f,blackpolarisportal_colour.dds.header,Tiny.VF,45643312,840

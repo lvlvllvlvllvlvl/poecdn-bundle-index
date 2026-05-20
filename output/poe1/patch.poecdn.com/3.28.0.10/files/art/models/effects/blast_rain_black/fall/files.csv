@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+18a6d973e226703e,rig_b015f364.smd,Art/Models/Effects/blastrain_frost,156782,15500
+5c2f8e90fb84cd0b,rig_b015f364.smd.header,Tiny_2,1311860,637
+08e84596a7c552b8,explosion_582a5195.smd,Art/Models/Effects/blast_rain_black/fall,47324,37354
+dece9eb2afa4e9fc,explosion_582a5195.smd.header,Tiny_1,84609435,368
+351d5cb07cca543b,ebonblastrainshockwave.sm,Tiny_1,84608773,662
+b7571864bef2bfb9,ebonblastrainshockwave.amd,Tiny_1,84605074,194
+bf41121c2fc790a3,ebonblastrainshockwave.ast,Tiny_1,84607263,1510
+a9b1dd14509e8f81,ebonblastrainexplosion.sm,Tiny_1,84606787,476
+497accefbb3f7047,ebonblastrainexplosion.amd,Tiny_1,84605074,194
+e3a9499e726c00d0,ebonblastrainexplosion.ast,Tiny_1,84605268,1519
+ee6ff88151e3d119,ebonblastrainarrow.sm,Tiny_1,84604362,712
+e3c9cc4732a6ce82,ebonblastrainarrow.amd,Tiny_2,1309837,196
+c2c22096c18d8793,ebonblastrainarrow.ast,Tiny_1,84603406,956
+e4ebbc0b311717c0,aoe_shockwave_61b8ca53.smd,Art/Models/Effects/blast_rain_black/fall,0,47324
+638a9c9f709eeff5,aoe_shockwave_61b8ca53.smd.header,Tiny_1,84603038,368

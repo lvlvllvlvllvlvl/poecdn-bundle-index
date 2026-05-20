@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+e6d57de1242d79d5,stag_normal_dxt5.dds,Art/Textures/Items/armour/helmet/HoodedStag,131408,87556
+428363ebc737634c,stag_normal_dxt5.dds.header,Tiny_8,12071547,1520
+ab26c29fb6f42829,stag_colour_dxt1.dds,Art/Textures/Items/armour/helmet/HoodedStag,87556,43852
+b05ce42a143336d9,stag_colour_dxt1.dds.header,Tiny_8,12070027,1520
+126c2e20de560247,stag_colour.dds,Art/Textures/Items/armour/helmet/HoodedStag,87556,43852
+e32698dcb2daa6d8,stag_colour.dds.header,Tiny_8,12070027,1520
+9e0094e1dbe02bbc,stagns.dds,Art/Textures/Items/armour/helmet/HoodedStag,0,87556
+e5a3724947b23609,stagns.dds.header,Tiny_8,12076599,1520
+6b48519ab144c396,stagc.mat,Tiny_8,12073067,1568
+42c4dc81432a9f15,stagcns.mat,Tiny_8,12074635,1964

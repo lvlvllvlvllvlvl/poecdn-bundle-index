@@ -1,0 +1,7 @@
+epk
+fx
+graph
+mat
+mat/explosion
+mat/soulcore_gem
+mat/weapon

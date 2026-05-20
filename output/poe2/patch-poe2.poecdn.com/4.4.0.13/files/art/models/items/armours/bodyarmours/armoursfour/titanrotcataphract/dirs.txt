@@ -1,0 +1,4 @@
+attachments
+attachments/skirt
+attachments/skirtplate
+textures

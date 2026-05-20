@@ -1,0 +1,4 @@
+body
+l_arm
+r_arm
+stick

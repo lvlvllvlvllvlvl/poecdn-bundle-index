@@ -1,0 +1,4 @@
+endurance
+frenzy
+frenzy/gold
+power

@@ -1,0 +1,65 @@
+chargedisruptors
+dead bodies
+deviouspressureplates
+deviouspressureplates/crypt
+deviouspressureplates/drygarden
+deviouspressureplates/eleganthouse
+deviouspressureplates/prison
+deviouspressureplates/templerunined
+doorway
+doorway/churchdungeon
+doorway/churchdungeon/doorbar
+doorway/drygarden_smallgate
+doorway/labyrinthdoor_nofx
+doorway/prisondungeon
+doorway/prisondungeon/doorbar
+doorway/ruinedtemple_smallgate
+doorway/templedungeon
+doorway/templedungeon/door
+doorway/templedungeon/doorbar
+doorway/tgms
+green_pointlight
+green_spotlight
+izaro_elevators
+izaro_elevators/elevatorlarge
+izaro_elevators/elevatorsmall
+izaro_elevators/tgms
+moving cogs
+moving cogs/cogs01
+moving cogs/cogs02
+moving cogs/cogs03
+moving cogs/cogs04
+moving cogs/cogs05
+moving cogs/wallcog01
+moving cogs/wallcog02
+moving cogs/wallcog03
+moving cogs/wallcog04
+moving cogs/wallcog05
+moving cogs/wallcog06
+openlabyrinth_offering
+pressureplates
+puzzle
+switches and levers
+switches and levers/armour_lever_beacon
+switches and levers/armour_lever_beacon/animations
+switches and levers/armour_lever_v01_01
+switches and levers/armour_lever_v01_02
+switches and levers/armour_lever_v01_03
+switches and levers/armour_lever_v01_04
+switches and levers/armour_lever_v02_01
+switches and levers/armour_lever_v02_02
+switches and levers/armour_lever_v02_03
+traps
+traps/hot_plates
+traps/hot_plates/1x1
+traps/hot_plates/1x3
+traps/hot_plates/3x3
+traps/hot_plates/eleganthouse
+traps/hot_plates/eleganthouse/1x1
+traps/hot_plates/eleganthouse/1x3
+traps/hot_plates/eleganthouse/3x3
+traps/walldarts
+traps/walldarts/dart01
+traps/walldarts/dart02
+traps/walldarts/dart03
+traps/walldarts/dart04

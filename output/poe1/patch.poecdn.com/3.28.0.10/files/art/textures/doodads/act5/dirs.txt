@@ -1,0 +1,11 @@
+ascent
+cathedral
+encampmentset
+gates
+innocence
+innocence/map sanctuary
+oriathsquare
+reliquary
+slavepen
+templar courts
+tower

@@ -1,0 +1,7 @@
+corpse_burnt
+corpse_frozen
+corpse_laser_burnt
+disco_lazer
+hand_l
+hand_r
+legs_lazer

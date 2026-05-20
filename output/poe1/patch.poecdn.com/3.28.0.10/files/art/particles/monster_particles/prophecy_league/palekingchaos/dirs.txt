@@ -1,0 +1,3 @@
+essence_drain
+essence_drain/chaos_projectile
+essence_drain/physical_projectile

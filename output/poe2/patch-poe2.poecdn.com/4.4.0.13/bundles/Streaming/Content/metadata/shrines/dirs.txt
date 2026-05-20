@@ -1,0 +1,3 @@
+cultureshrines
+cultureshrines/frostcult
+harpyvulturewingsshrine

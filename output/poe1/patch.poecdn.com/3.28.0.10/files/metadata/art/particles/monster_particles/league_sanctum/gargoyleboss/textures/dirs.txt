@@ -1,0 +1,3 @@
+basic_sword
+fire_infused_sword
+leap_slam_circular

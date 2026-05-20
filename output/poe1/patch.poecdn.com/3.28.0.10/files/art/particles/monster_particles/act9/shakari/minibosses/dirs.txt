@@ -1,0 +1,6 @@
+black
+black/twin_blades
+yellow
+yellow/tail_strike
+yellow/tail_strike/buildup
+yellow/tail_strike/sting

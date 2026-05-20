@@ -1,0 +1,4 @@
+crafting
+tiles
+tiles/mapislands
+tiles/mappaths

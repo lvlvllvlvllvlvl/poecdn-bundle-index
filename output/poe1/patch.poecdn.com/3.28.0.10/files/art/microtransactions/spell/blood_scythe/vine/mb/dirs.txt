@@ -1,0 +1,6 @@
+animations
+decal
+decal/animations
+vaal
+vaal/slash
+vaal/slash/animations

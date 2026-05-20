@@ -1,0 +1,8 @@
+fire
+fire/explode
+ice
+ice/explode
+light
+light/buff
+light/buff/epk
+light/explode

@@ -1,0 +1,10 @@
+animations
+animations/tier_01
+animations/tier_02
+animations/tier_03
+animations/tier_04
+animations/tier_05
+attachments
+dragon
+fx
+textures

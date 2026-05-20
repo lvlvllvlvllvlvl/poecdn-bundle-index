@@ -1,0 +1,14 @@
+attack_01
+attack_02
+death_01
+death_touch_01
+death_touch_01/disintegrate_player
+death_touch_01/grd_emerge_01
+emerge_hourglass_01
+emerge_hourglass_01/freezetime
+heavy_stun_01
+orb_release_01
+projectile_spell_01
+projectile_sweep_combined_01
+time_rewind_01
+time_rewind_01/pulse

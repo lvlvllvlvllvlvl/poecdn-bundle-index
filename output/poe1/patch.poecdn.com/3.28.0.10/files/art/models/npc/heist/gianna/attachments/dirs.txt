@@ -1,0 +1,4 @@
+belt
+hood
+l_shoulderpad
+r_shoulderpad

@@ -1,0 +1,4 @@
+attachments
+attachments/ball
+attachments/shield
+attachments/weapon

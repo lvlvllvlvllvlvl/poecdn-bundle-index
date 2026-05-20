@@ -1,0 +1,3 @@
+attack_spear
+combo_spear_01
+energy_spear_throw

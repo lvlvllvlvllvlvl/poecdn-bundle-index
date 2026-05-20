@@ -1,0 +1,6 @@
+textures
+textures/architecture
+textures/cliffs
+textures/fossilisedtree
+textures/ground
+tgms

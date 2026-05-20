@@ -1,0 +1,15 @@
+armour
+armour/ao
+armour/epk
+armour/fx
+armour/graphs
+currencyorb
+currencyorb/graphs
+currencyorb/pet
+currencyorb/trl
+soulbanish
+soulbanish/ao
+soulbanish/epk
+soulbanish/graphs
+soulbanish/mat
+soulbanish/pet

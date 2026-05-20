@@ -1,0 +1,16 @@
+burrow
+half_burrow_quicksand
+half_burrow_quicksand/shakari
+minibosses
+minibosses/black
+minibosses/black/twin_blades
+minibosses/yellow
+minibosses/yellow/tail_strike
+minibosses/yellow/tail_strike/buildup
+minibosses/yellow/tail_strike/sting
+multi_slam
+poison_epk
+quick_sand
+quick_sand_ripple
+tail_strike_epic
+tail_strike_quick

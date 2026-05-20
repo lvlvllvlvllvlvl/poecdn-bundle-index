@@ -1,0 +1,6 @@
+abysscraftingaltar
+abysscraftingaltar/attachments
+abyssspire
+bossspire
+textures
+textures/halo

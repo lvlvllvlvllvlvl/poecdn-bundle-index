@@ -1,0 +1,15 @@
+sunkendoor
+textures
+textures/architecture
+textures/architecture/backgroundtown
+textures/architecture/vaalexterior
+textures/architecture/vaalinterior
+textures/cliffs
+textures/decals
+textures/ground
+textures/props
+textures/statues
+textures/tents
+textures/vaaltownarchitecture
+textures/wood
+tgms

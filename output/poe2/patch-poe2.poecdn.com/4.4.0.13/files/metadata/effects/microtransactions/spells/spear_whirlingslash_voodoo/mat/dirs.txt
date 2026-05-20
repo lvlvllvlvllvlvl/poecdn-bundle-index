@@ -1,0 +1,7 @@
+melee_trail
+mini_tornado
+sonic_boom_chaos
+vine_grow
+whirlingslash_aoe
+whirlwind_detonation
+whirlwind_spawn

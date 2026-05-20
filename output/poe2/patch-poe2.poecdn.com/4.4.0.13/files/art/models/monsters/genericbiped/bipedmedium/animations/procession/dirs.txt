@@ -1,0 +1,11 @@
+axe_shield
+banner
+banner/back
+blood_mage
+bow
+dagger
+flail
+spear
+sword_shield
+sword_sword
+sword_unarmed

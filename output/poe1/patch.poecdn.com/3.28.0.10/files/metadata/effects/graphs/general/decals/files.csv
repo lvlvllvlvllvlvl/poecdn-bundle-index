@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+6aab6aebb4c1c432,decal_heightmask.fxgraph,Folders/metadata/effects,19849086,65620
+3ec8932141f83c2b,decal_normalfade.fxgraph,Folders/metadata/effects,19914706,23494
+d7f043a0b3e0ad30,decal_scorched.fxgraph,Folders/metadata/effects,20113312,36144
+3d04d04fc1844259,decal_size.fxgraph,Folders/metadata/effects,20149456,6572
+a376b61ba34abbbe,decal_sampler.fxgraph,Folders/metadata/effects,19938200,27778
+aeb09162df964b4d,decal_sampler_metal.fxgraph,Folders/metadata/effects,20067722,45590
+6189a946aa89858a,decal_sampler_dielectric_flipbook.fxgraph,Folders/metadata/effects,19965978,50514
+820a99882b75c542,decal_sampler_dieletric.fxgraph,Folders/metadata/effects,20016492,51230
+3f094dd280ff864d,decal_groundmuddle.fxgraph,Folders/metadata/effects,19811578,13816
+cf5d72b0ed45e83a,decal_groundmuddle_fade.fxgraph,Folders/metadata/effects,19825394,23692
+c594af33ba63dc42,data_groundglossiness.fxgraph,Folders/metadata/effects,19691750,31876
+ee8fa19e69fc45b7,data_groundnormals.fxgraph,Folders/metadata/effects,19723626,26886
+4782add42d2190de,data_groundnormals_triplanar.fxgraph,Folders/metadata/effects,19750512,61066
+85fb733b341024df,data_groundcolor.fxgraph,Folders/metadata/effects,19600986,29824
+1fa545f72c0763d4,data_groundcolor_triplanar.fxgraph,Folders/metadata/effects,19630810,60940

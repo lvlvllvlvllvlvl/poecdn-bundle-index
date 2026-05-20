@@ -1,0 +1,15 @@
+bodyfx
+death
+idle_fx
+on_act
+on_act/attack_01
+on_act/spirit_cast_01
+on_act/summon_01
+projectile
+projectile/explode
+projectile_tiki
+projectile_tiki/end
+projectile_tiki/loop
+projectile_tiki/start
+spawndeath
+tiki_onact

@@ -1,0 +1,3 @@
+explode
+explode/particles
+idle

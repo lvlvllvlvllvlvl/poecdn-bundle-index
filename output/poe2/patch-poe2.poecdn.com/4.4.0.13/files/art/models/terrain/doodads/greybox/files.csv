@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+b59ac536b9187b3e,lore_book_01.fmt,Streaming/Content/data/balance/worldareas/g3_town.vworld,1372673,5808
+9f110705763af86d,lore_book_01.fmt.header,Tiny.V0,16288391,203
+16191411aa2c972c,dead_body_02.fmt,Streaming/Content/metadata/terrain/doodads/waypoints/waypoint_machinarium_props.ao.3,521150,37380
+6ab7e44df9acdd93,dead_body_02.fmt.header,Tiny.V9,16354261,171
+9e3a938e26384643,fence_st_01.fmt,Streaming/Content/metadata/terrain/doodads/waypoints/waypoint_machinarium_props.ao.3,489542,31608
+8cd0c3b16111d8b1,fence_st_01.fmt.header,Tiny.V4,16393102,204
+ed05f727c87ab7f0,rubble_03.fmt,Streaming/Content/data/balance/worldareas/mapvaalvillage.vworld,5900,7408
+7d4fe3ebc1aad9c0,rubble_03.fmt.header,Tiny.VC,16032120,206
+f8dcdfe677fb57d2,greybox_doodads_9d65b7b8.smd,Streaming/Content/data/balance/worldareas/sanctum_2_foyer_2.vworld,7634861,10735
+ade228225005dc63,greybox_doodads_9d65b7b8.smd.header,Tiny.V5,15900620,368
+e27f52dfc511cfe4,bench_06.fmt,Streaming/Content/data/balance/worldareas/mapvaalvillage.vworld,0,5900
+552a717b546fc31a,bench_06.fmt.header,Tiny.VE,16072501,207
+ffa2c43959fd1313,brazier_02.sm,Tiny.V4,16392612,490
+0e44c3b2f010f82d,brazier_02.amd,Tiny.VE,16072708,134
+6c15bd741557a746,brazier_02.ast,Tiny.V2,16294986,336

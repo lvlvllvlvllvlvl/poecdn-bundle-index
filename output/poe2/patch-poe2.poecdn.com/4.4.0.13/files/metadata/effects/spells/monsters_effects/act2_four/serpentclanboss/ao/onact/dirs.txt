@@ -1,0 +1,4 @@
+bonearmour
+emerge_01_02
+spin_detonate
+summon

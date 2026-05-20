@@ -1,0 +1,11 @@
+cone_explode
+dash_palm_strike
+detonate_wave
+double_palmstrike
+double_slash
+drone_charged_projectile
+drone_projectile
+frontal_blast
+ground_slam
+projectile
+volatile_explode

@@ -1,0 +1,12 @@
+balefirequiver
+darkwoodquiver
+dragonhunterquiver
+goblinshamanquiver
+infernalquiver
+karuiquiver
+midnightpactoverseerquiver
+pandemoniumquiver
+skadiquiver
+tencentlunarquiver
+textures
+watergoblinquiver

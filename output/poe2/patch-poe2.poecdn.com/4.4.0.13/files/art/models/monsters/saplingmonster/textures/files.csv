@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+8cadd07641a2184e,drytwigmonsterc.mat,Tiny.V1,12142298,2514
+2dbbf4037cd32b77,drytwigmonster_normal_dxt5.dds,Streaming/Content/metadata/monsters/saplingmonster/saplingmonsterdry03.ao,1398276,1398276
+e15ae497e399103d,drytwigmonster_normal_dxt5.dds.header,Tiny.V6,12239349,1520
+776d71825da530bd,drytwigmonster_colour_dxt5.dds,Streaming/Content/metadata/monsters/saplingmonster/saplingmonsterdry03.ao,0,1398276
+d31d6cf4ef43c429,drytwigmonster_colour_dxt5.dds.header,Tiny.V6,12237829,1520
+820c425493584172,saplingmonsterbody01_normal.dds,Streaming/Content/data/worldareas/60/null.vworld,5592580,5592580
+f7388dea2acdecbc,saplingmonsterbody01_normal.dds.header,Tiny.VE,12195175,1520
+4f28664617ba3d05,saplingmonsterbody01_colour.dds,Streaming/Content/data/worldareas/D2/null.vworld,0,5592580
+4fea2e76aa08a85c,saplingmonsterbody01_colour.dds.header,Tiny.V1,12144812,1520
+729c97b0254b748f,saplingmonsterbody_normal.dds,Streaming/Content/metadata/monsters/saplingmonster/saplingmonster03.ao.1,0,5592580
+c640e15b662a0831,saplingmonsterbody_normal.dds.header,Tiny.VD,12088110,1520
+292ce8263087045a,saplingmonsterbody_colour.dds,Streaming/Content/metadata/monsters/saplingmonster/saplingmonster03.ao,309081,5592580
+c0802ec2951c9799,saplingmonsterbody_colour.dds.header,Tiny.V9,12400697,1520

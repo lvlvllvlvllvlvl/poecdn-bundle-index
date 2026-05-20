@@ -1,0 +1,7 @@
+attachments
+attachments/beltrope
+attachments/necklace
+attachments/octopus
+attachments/skirt
+attachments/vest
+textures

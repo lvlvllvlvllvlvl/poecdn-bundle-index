@@ -1,0 +1,6 @@
+attachments
+attachments/chestcloth
+attachments/skirt
+attachments/skirt/female
+attachments/skirt/male
+fx

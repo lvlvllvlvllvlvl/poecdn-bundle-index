@@ -1,0 +1,7 @@
+aqua
+blue
+green
+purple
+red
+steam
+white

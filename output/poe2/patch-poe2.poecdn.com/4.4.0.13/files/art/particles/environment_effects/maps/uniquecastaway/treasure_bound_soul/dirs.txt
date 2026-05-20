@@ -1,0 +1,5 @@
+ghost_beam_01
+ghost_beam_01/mb
+treasure_location_01
+treasure_location_01/mb
+treasure_location_01/mb/spinner

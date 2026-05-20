@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+39fb554ebf306f08,wranglerhawkspecularc.mat,Tiny_8,45108800,2508
+faa887e8c655cff4,wranglerhawk_normal_dxt5.dds,Art/Textures/Pet/WranglerHawk,349692,349700
+eaacdb2f2d5f8ef7,wranglerhawk_normal_dxt5.dds.header,Tiny_8,45107280,1520
+620509b4f8718ba2,wranglerhawk_colourspecular_dxt5.dds,Art/Textures/Pet/WranglerHawk_1,0,699236
+2d53b67884089f9b,wranglerhawk_colourspecular_dxt5.dds.header,Tiny_8,45106440,840
+cb1a202daaa56482,wranglerhawk_colourspecular_bc7.dds,Art/Textures/Pet/WranglerHawk_1,0,699236
+53ced8467aab61f0,wranglerhawk_colourspecular_bc7.dds.header,Tiny_8,45106440,840
+32beb76bdafec91b,wranglerhawk_colourspecular.dds,Art/Textures/Pet/WranglerHawk,0,349692
+46247e6c228c5b4b,wranglerhawk_colourspecular.dds.header,Tiny_8,45105600,840

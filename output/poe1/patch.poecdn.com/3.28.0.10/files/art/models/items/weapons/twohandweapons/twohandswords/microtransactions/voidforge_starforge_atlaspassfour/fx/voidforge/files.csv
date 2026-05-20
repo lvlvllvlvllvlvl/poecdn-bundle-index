@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+4d9d056f78c7eea2,lightning_2x2.mat,Tiny_2,67888072,1160
+feb4ea51bf574f44,marker_ring.mat,Tiny_2,67889232,4710
+d3da9982ff7c4365,space_ring.mat,Tiny_2,67901536,5494
+dc4b9dfbdb11341c,sparks.mat,Tiny_2,67845824,1848
+0d3b5b731a5b94c0,sparks_ppl.mat,Tiny_2,67847672,1598
+acca5c1d1c6ef600,plexus.mat,Tiny_7,29968057,3958
+82e05fc880bd8427,plexus_blast.mat,Tiny_2,67828596,3890
+8b23c55be0feae8d,plexus_cast.mat,Tiny_2,67893942,2070
+cfc931bf16f658ba,plexus_test.mat,Tiny_2,67896012,5524
+b4d2debf247aabdb,fire_bits_2x2.mat,Tiny_2,67878470,3918
+7307b779951c1c25,fire_bits_2x2_blade.mat,Tiny_2,67882388,5684

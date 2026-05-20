@@ -1,0 +1,6 @@
+attachments
+attachments/feathers
+attachments/hair
+attachments/l_earring
+attachments/necklace
+attachments/robe

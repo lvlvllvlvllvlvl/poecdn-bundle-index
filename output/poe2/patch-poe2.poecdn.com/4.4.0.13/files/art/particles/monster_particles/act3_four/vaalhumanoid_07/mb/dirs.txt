@@ -1,0 +1,3 @@
+sr_placed_object_lightning
+sr_placed_object_lightning/animations
+sr_placed_object_lightning/animations/01

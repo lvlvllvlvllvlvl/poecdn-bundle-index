@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+e0e0267b274675a1,rig_72fdc0e6.smd,Art/Models/Effects/curse_orbs/tormented/death,0,19610
+446fa9c8fe92406d,rig_72fdc0e6.smd.header,Tiny_1,85277449,368
+6e4591830a7fddbe,pos_72fdc0e6.smd,Art/Models/Effects/curse_orbs/tormented/death,0,19610
+e84644563597360e,pos_72fdc0e6.smd.header,Tiny_1,85277449,368
+78801d7fccc0116e,ghostdeathpos.sm,Tiny_1,85276709,740
+aeb1d72d9847bd58,ghostdeathpos.amd,Tiny_1,85270511,200
+05e425397829ade9,ghostdeathpos.ast,Tiny_1,85274089,2620
+08c2e407f3d8a5ee,ghostdeath.sm,Tiny_1,85273349,740
+7331ae549cf75615,ghostdeath.amd,Tiny_1,85270511,200
+325519f64a854839,ghostdeath.ast,Tiny_1,85270711,2638

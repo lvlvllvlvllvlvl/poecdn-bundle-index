@@ -1,0 +1,5 @@
+objects
+objects/attachments
+objects/attachments/pyre1_light
+objects/attachments/pyre2_3_light
+objects/fx

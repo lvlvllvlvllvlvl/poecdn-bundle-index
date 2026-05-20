@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+bb2a9b35bcf6f1e2,viperpetcold_armour_13446661.smd,Art/Models/Pet/ViperPet,640011,248598
+0d6447f79a45058b,viperpetcold_armour_13446661.smd.header,Tiny_3,17621091,489
+f876a12990d88fd4,viperpetcold.sm,Tiny_3,17620553,538
+7620ba6fad7756e2,viperpetcold.fmt,Art/Models/Pet/ViperPet,441872,198139
+67958a67a2a69f38,viperpetcold.fmt.header,Tiny_3,17620310,243
+2706808ea01dad01,viperpet.sm,Tiny_3,17619922,388
+faa93eefeb2e6de5,viperpet.fmt,Art/Models/Pet/ViperPet,365621,76251
+cce1153045915d99,viperpet.fmt.header,Tiny_3,17619768,154
+0f3a63517ec5bf23,rig_07e36f00.smd,Art/Models/Pet/ViperPet,265401,100220
+dbc73f4db63c7c5a,rig_07e36f00.smd.header,Tiny_3,17615909,3859
+ccebd670a29253c5,rig.amd,Tiny_3,17615351,558
+13a1ef2c0b2bc713,rig.ast,Art/Models/Pet/ViperPet,0,265401

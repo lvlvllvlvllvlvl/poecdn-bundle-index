@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+01bd276a59d21e0b,trail_sandcns.mat,Art/particles/monster_particles/act9_36,437452,6188
+8b3c01dd01717edd,trail_sand_colour.dds,Art/particles/monster_particles/act9_36,87556,174948
+1bb1752d43dd99a0,trail_sand_colour.dds.header,Tiny_6,60205148,840
+b3858cda48d7b4fa,trail_sandns.dds,Art/particles/monster_particles/act9_36,262504,174948
+bf90f23a7696c090,trail_sandns.dds.header,Tiny_6,60205988,840
+3aa880ce5ccf603c,trail_dark.mat,Tiny_6,60202600,2548
+b3b537058c2026e0,trail_dark.dds,Art/particles/monster_particles/act9_36,465660,174948
+e76505d4ba6a00a7,trail_dark.dds.header,Tiny_6,60201760,840
+9d8af1d2eacb7735,trail_bloom.mat,Tiny_6,60198912,2848
+471ffa0903893798,trail_bloom.dds,Art/particles/monster_particles/act9_36,443640,22020
+70422fee35cc36fc,trail_bloom.dds.header,Tiny_6,60197392,1520
+b2cc7eaf460aaeb3,tile_cloud3_colour.mat,Tiny_6,60196130,1262
+29a33359b58c3f33,tile_cloud3_colour.dds,Art/particles/monster_particles/act9_36,662628,87556
+c9b41e93a18a44a1,tile_cloud3_colour.dds.header,Tiny_6,100400822,1520

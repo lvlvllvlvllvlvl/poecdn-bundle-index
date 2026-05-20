@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+73a3a1074701e5cd,voidpetlargenophys.sm,Tiny_3,17623159,628
+607799137ef63581,voidpetlarge.sm,Tiny_3,17622531,628
+1071ac92abab48fb,voidpetlarge.fmt,Art/Models/Pet/VoidPetLarge,1140733,199399
+11c108a63c7ee78c,voidpetlarge.fmt.header,Tiny_3,17622366,165
+630135b3986d10f1,rig_f4d2bed7.smd,Art/Models/Pet/VoidPetLarge,892173,248560
+39045c1637da171d,rig_f4d2bed7.smd.header,Tiny_3,17621998,368
+04be3a6db86d52ea,rig_0ef0a2f9.smd,Art/Models/Pet/VoidPetLarge,637363,254810
+cf48aace9430d34c,rig_0ef0a2f9.smd.header,Folders/art/models/pet/whitetiger,446228,6586
+acfbaa308eed8163,rig.amd,Tiny_3,17621580,418
+db436b9b5269bfe0,rig.ast,Art/Models/Pet/VoidPetLarge,0,637363

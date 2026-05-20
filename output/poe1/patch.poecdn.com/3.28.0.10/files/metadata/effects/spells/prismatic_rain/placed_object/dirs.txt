@@ -1,0 +1,12 @@
+epk
+graphs
+graphs/cold
+pet
+pet/cold
+pet/fire
+pet/fire/emerge
+pet/fire/idle
+pet/fire/submerge
+pet/lightning
+pet/lightning/emerge
+pet/lightning/submerge

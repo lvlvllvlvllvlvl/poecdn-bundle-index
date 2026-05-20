@@ -1,0 +1,7 @@
+elementalist_aura
+energy_sheild_monster
+life_regen
+life_regen_monster
+player
+player_ascendancy
+purity_monster

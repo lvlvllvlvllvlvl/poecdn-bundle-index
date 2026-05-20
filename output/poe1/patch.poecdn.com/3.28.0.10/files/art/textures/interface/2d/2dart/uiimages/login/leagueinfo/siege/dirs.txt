@@ -1,0 +1,23 @@
+french
+german
+korean
+portuguese
+russian
+screenshots
+screenshots/panel2
+screenshots/panel3
+screenshots/panel5
+screenshots/panel5/french
+screenshots/panel5/german
+screenshots/panel5/korean
+screenshots/panel5/portuguese
+screenshots/panel5/russian
+screenshots/panel5/spanish
+screenshots/panel5/thai
+screenshots/panel5/traditional chinese
+screenshots/panel8
+simplified chinese
+spanish
+thai
+traditional chinese
+trailerthumbnails

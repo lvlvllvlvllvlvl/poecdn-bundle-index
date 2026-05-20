@@ -1,0 +1,11 @@
+doors
+doors/clicktoopen
+doors/emergeonalarm
+doors/npccatburglardoor
+doors/npccounterthaumaturgedoor
+doors/npcdetectiondoor
+doors/npcdisarmdoor
+doors/npcengineerdoor
+doors/npcinfiltrationdoor
+doors/npclockpickerdoor
+doors/vault

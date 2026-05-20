@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+7138ab759a776a09,glow.mat,Tiny.V8,34689159,1728
+1a1d86ebc3f39095,glow.dds,Streaming/Content/metadata/particles/monster_effects/act5/BC94C0B3FBC39BAA.C0B2314AB98EBB9C.lightning_trail.trl,0,174948
+e1ed88cc7381b09d,glow.dds.header,Tiny.VE,34535811,840
+9fd2ccf4eac83573,lightning_test.mat,Tiny.V0,35222462,1760
+506eb3fd20864a9e,lightning_test.dds,Streaming/Content/metadata/particles/monster_effects/act5/BC94C0B3FBC39BAA.C0B2314AB98EBB9C.lightning_trail.trl,174948,174948
+c884602bde9466d3,lightning_test.dds.header,Tiny.V7,34824341,840
+1d0231f539cffd8d,thunder_black.mat,Tiny.V8,34690887,2726
+ef9c85838ff07ad8,thunder_black.dds,Streaming/Content/metadata/particles/monster_effects/act5/BC94C0B3FBC39BAA.C0B2314AB98EBB9C.lightning_trail.trl,349896,43876
+c72410fdd488563e,thunder_black.dds.header,Tiny.V5,37114638,840
+d44e078d8f9962a4,trail_multi_01.mat,Tiny.VC,35066612,2968
+599e025975030e3b,trail_multi_01.dds,Streaming/Content/metadata/particles/monster_effects/act5/BC94C0B3FBC39BAA.C0B2314AB98EBB9C.lightning_trail.trl,568720,43876
+cc3d292697c92f69,trail_multi_01.dds.header,Tiny.V8,34693613,840
+6152b689c5752108,trail_galaxy_02.mat,Tiny.VC,35063952,2660
+a689088983cc8561,trail_galaxy_02.dds,Streaming/Content/metadata/particles/monster_effects/act5/BC94C0B3FBC39BAA.C0B2314AB98EBB9C.lightning_trail.trl,393772,174948
+4b90117646b38720,trail_galaxy_02.dds.header,Tiny.V0,35224222,840

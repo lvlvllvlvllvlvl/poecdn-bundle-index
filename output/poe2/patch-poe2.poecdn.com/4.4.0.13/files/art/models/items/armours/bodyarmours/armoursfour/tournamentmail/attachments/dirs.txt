@@ -1,0 +1,8 @@
+belt
+ropes
+ropes/f
+ropes/m
+skirt
+str
+str/belt
+str/skirt

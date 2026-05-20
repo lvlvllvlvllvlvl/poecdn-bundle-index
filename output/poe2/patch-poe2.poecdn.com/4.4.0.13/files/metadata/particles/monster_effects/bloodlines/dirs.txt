@@ -1,0 +1,5 @@
+animate_guardian_beam
+orbs
+orbs/bloodlines_vigour_charge
+orbs/bloodlines_zeal_charge
+phylacteral_link

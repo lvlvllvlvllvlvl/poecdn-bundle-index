@@ -1,0 +1,6 @@
+bubbleripple1
+bubbleripple2
+bubbleripple3
+genericfog1
+genericfog2
+genericfog3

@@ -1,0 +1,9 @@
+goatman
+hazardcrab
+hillock
+invasion
+mudflats
+prison_spider
+skeleton_bow
+water_ele
+water_ele/tentacle

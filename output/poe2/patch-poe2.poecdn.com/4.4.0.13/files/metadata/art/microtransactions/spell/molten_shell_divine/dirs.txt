@@ -1,0 +1,3 @@
+model
+model/textures
+model/textures/fx

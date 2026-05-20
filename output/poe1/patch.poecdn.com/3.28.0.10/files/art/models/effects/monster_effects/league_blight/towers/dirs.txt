@@ -1,0 +1,15 @@
+buff
+epk
+minion
+towerbuff
+towerfire
+towerice
+towerice/freeze
+towerice/prison
+towerlightning
+towerlightning/arcing
+towerlightning/storm
+towerminion
+towerphys
+towerphys/petrification
+towerphys/temporal

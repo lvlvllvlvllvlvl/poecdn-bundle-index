@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+651bfbd7a8f2845a,tmp_to_condition.fxgraph,Shared,17440447,36180
+80c52d62a6d62c55,killoncondition.fxgraph,Content/metadata/effects/spells/player_resources/energy_shield/1F35E63A751D6E18.es_recharge.epk,302289,17644
+cfca3753d652a28b,snapshotlifetime.fxgraph,Content/metadata/effects/spells/monsters_effects/league_sanctum/6630542F0506F608.candle_b_on.epk,879292,38528
+ac8aa5e30b47a1ab,interruptemission.fxgraph,Content/metadata/effects/spells/cold_frostbomb/frostbomb.ao,3130906,20046
+c9a2ed78c6e3de91,inertiaoncondition.fxgraph,Content/metadata/effects/microtransactions/spells/elemental_hit/08E5D14A74A66FA3.elehit_arrow_light.ao,5652020,43828
+e4f54c485b06265d,elapsedfromcondition.fxgraph,Content/metadata/effects/microtransactions/town_portals/mektulportal/A2423F3D01E7A113.portal_open_mid_grd.pet,3907852,87388
+09c3ed1f1e70eb24,elapsedtocondition.fxgraph,Content/metadata/effects/spells/environment_effects/act4_four/7CFAA8CF97A7DEE8.foamcrash_01.pet,1245018,56336
+731bf155ad5c4d8b,condition_particlegroupid.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/E74BD044BB936BD9.delayedboneblast.ao,269163,28688
+e6f3dc9b091641e7,condition_orphaned.fxgraph,Shared,17379605,33512
+b9d73be38aa78f6c,condition_collision.fxgraph,Shared,17181661,51302
+1bd7c787b640bc51,condition_lifetime.fxgraph,Shared,17232963,146642
+29623121a2955791,condition_distance.fxgraph,Content/metadata/effects/spells/monk_bell/mtx_belldjinn.ot,3614543,116160
+9c6c01b13edeebe4,condition_nextframe.fxgraph,Content/metadata/effects/microtransactions/town_portals/mektulportal/A2423F3D01E7A113.portal_open_mid_grd.pet,3377868,23858
+24a3c1aaf9253494,condition_to_tmp.fxgraph,Content/metadata/effects/microtransactions/town_portals/breachhedronportal/A2423F3D01E7A113.open_root.pet,710519,39596
+28cc90a57d5fb2b1,condition_timelineresume.fxgraph,Shared,17413117,27330

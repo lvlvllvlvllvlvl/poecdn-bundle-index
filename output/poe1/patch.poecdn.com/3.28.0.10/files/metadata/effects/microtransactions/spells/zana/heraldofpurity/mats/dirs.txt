@@ -1,0 +1,9 @@
+appear
+hop_armbuff
+hop_despawn
+hop_idle
+hop_slam
+hop_slam_02
+hop_spawn
+hop_surge
+trl

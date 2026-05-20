@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+9e3920fd7db7f260,falling_dust_fat.mat,Tiny_6,15278872,1034
+3f325edc088f66ce,falling_dust_fat.dds,Art/particles/doodads/beach,284688,87556
+8172b8058d398552,falling_dust_fat.dds.header,Tiny_6,15288686,1520
+a7d573dec2eeb393,falling_dust_detailed.mat,Tiny_6,15277808,1064
+c256fa4306747697,falling_dust_detailed.dds,Art/particles/doodads/beach,0,87556
+f561dd229e3aa449,falling_dust_detailed.dds.header,Tiny_6,15283542,1520
+1eeb9cc43ef8f17f,falling_dust.mat,Tiny_6,15276798,1010
+778906e27bdf7d3f,falling_dust.dds,Folders/art/particles/runic_mortar,503152,87556
+b5bd1558771bc243,falling_dust.dds.header,Tiny_6,29101771,1520
+90c748011e81c02f,drop_first.mat,Tiny_6,15275800,998
+ff26f121e59eeb3e,drop_first.dds,Art/particles/doodads/beach,197132,87556
+d562ec1393effbf8,drop_first.dds.header,Tiny_6,15279906,1520

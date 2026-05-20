@@ -1,0 +1,15 @@
+epk
+epk/projectile
+epk/projectile/proj_grd_stuck_01
+fx
+fx/lightning_nova
+fx/projectile_01
+fx/surge
+mat
+mat/faridun
+mat/lightning_nova
+mat/projectile_01
+mat/projectile_01/proj_destroy
+mat/projectile_01/proj_grd_stuck_01
+mat/projectile_01/proj_rod
+mat/surge

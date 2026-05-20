@@ -1,0 +1,6 @@
+curse
+curse/start
+detonate
+onact
+pulse
+start

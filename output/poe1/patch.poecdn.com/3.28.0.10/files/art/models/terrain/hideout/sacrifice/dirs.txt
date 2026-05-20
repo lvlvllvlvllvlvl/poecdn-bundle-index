@@ -1,0 +1,8 @@
+doodads
+doodads/textures
+doodads/vaalbraziers
+textures
+textures/paint
+textures/paintmasks
+textures/scorchedelevator
+tgms

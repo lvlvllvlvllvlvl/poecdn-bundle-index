@@ -1,0 +1,4 @@
+aura
+volatile_burst
+volatile_core
+volatile_spawn

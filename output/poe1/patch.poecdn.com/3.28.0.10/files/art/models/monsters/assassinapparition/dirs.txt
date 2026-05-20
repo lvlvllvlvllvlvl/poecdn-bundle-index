@@ -1,0 +1,9 @@
+animations
+animations/imprisoneddjinnalttrader
+attachments
+attachments/chest
+attachments/imprisoneddjinntrader
+attachments/imprisoneddjinntrader/lsleeves
+attachments/imprisoneddjinntrader/rsleeves
+textures
+textures/imprisoneddjinn

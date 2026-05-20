@@ -1,0 +1,5 @@
+attachments
+attachments/cape
+attachments/necklace
+attachments/staff
+textures

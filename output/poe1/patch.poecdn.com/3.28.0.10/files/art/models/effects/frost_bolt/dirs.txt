@@ -1,0 +1,8 @@
+explosion
+hit
+maelstrom
+nova
+projectile
+sml_explosion
+sml_maelstrom
+surge

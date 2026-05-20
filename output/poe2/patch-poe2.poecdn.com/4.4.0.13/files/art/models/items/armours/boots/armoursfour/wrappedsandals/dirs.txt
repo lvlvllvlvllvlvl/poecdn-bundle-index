@@ -1,0 +1,5 @@
+attachments
+attachments/lsandalstrap
+attachments/rsandalstrap
+attachments/straps
+textures

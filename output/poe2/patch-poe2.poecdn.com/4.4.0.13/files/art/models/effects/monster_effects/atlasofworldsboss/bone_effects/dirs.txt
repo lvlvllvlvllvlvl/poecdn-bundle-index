@@ -1,0 +1,3 @@
+bone_spear
+bone_wall
+bone_wall/bonewall

@@ -1,0 +1,4 @@
+chargeup
+impact
+projectile
+shoot

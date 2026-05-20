@@ -1,0 +1,3 @@
+clifftoshoredistant
+shoredistant
+walkableclifftowater

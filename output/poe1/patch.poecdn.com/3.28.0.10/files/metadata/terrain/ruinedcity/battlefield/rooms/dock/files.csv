@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+d7221f3ad84bb842,dock_void.et,Tiny_11,96294920,274
+a895889a05d7c26d,dock_straight_1.arm,Tiny_11,96291708,1560
+b2ac1c7834dc44fd,dock_straight_2.arm,Tiny_11,96293268,1652
+7e25447ab85c3605,dock_fill.arm,Tiny_11,102106037,3988
+a52371b107527275,dock_fill_corner.arm,Folders/metadata/5/terrain_1,2101742,4120
+b8ea5329231e236b,dock_fill_end.arm,Metadata/Terrain.1_1,736688,4120
+6f88ad95f11e8f8f,dock_fill_straight.arm,Folders/metadata/monsters,1142740,4120
+16334295b8427349,dock_fill_tri.arm,Folders/metadata/monsters,3626078,4120
+d6a8fe603b959e98,dock_convex_1.arm,Tiny_11,96288150,1580
+d025552027e239ad,dock_convex_2.arm,Tiny_11,96289730,1978
+3045d929cdb15d66,dock_concave_1.arm,Tiny_11,96284784,1356
+9083a8b7f8d6198c,dock_concave_2.arm,Tiny_11,96286140,2010

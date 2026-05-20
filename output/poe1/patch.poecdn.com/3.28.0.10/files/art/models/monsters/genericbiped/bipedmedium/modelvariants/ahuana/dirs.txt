@@ -1,0 +1,7 @@
+attachments
+attachments/bow
+attachments/hair
+attachments/headfeathers
+attachments/neckfeathers
+attachments/quiver
+attachments/skirt

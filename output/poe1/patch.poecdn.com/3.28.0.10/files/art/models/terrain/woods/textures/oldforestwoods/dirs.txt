@@ -1,0 +1,5 @@
+ground
+rocks
+ruins
+skulls
+trees

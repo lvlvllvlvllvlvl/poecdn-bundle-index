@@ -1,0 +1,4 @@
+bow
+bow/animations
+robe
+robe/animations

@@ -1,0 +1,7 @@
+audio
+epk
+epk/audio
+fx
+fx/affected_monster
+mat
+mat/affected_monster

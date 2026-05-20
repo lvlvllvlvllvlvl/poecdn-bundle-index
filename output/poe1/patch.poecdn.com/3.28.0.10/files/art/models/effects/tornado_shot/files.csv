@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+b681460ce14422e6,tornadoarrow_optimized.sm,Tiny_2,9955032,546
+f062b8486753fb22,tornadoarrow_optimized.amd,Tiny_2,9952823,196
+9fbd7838ac749f0b,tornadoarrow_optimized.ast,Tiny_2,9953019,2013
+137653c30d93bb45,tornadoarrow.sm,Tiny_2,9952297,526
+52d41c5094421c4b,tornadoarrow.amd,Tiny_2,9950084,198
+e81455c86e3e34d3,tornadoarrow.ast,Tiny_2,9950282,2015
+ac2eb7456399b104,rig_optimized_9baf6467.smd,Art/Models/Effects/tornado_shot,41070,16938
+7f82fab3150fc2a3,rig_optimized_9baf6467.smd.header,Tiny_2,9949716,368
+9bf053e96d3e7843,rig_b0d0e052.smd,Art/Models/Effects/tornado_shot,0,41070
+b7d6722403e1b04b,rig_b0d0e052.smd.header,Tiny_2,9949348,368

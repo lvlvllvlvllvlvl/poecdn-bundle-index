@@ -1,0 +1,13 @@
+animations
+effects
+weapon02
+weapon02/animations
+weapon02/animations/breachhandspider
+weapon02/animations/pet
+weapon02/animations/pet/justicegriffonfoal
+weapon02/animations/pet/precursor_centipede
+weapon02/animations/pitifulfabrication01
+weapon02/animations/prisoneraltarmapdevice
+weapon02/animations/prisonercinematic
+weapon02/animations/smalletchedbeetle
+weapon02/animations/vampiresservant

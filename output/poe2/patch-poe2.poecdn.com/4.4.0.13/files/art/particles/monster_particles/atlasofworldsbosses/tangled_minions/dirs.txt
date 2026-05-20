@@ -1,0 +1,5 @@
+mbs
+mbs/fodder_4_projectile
+mbs/mini_death_explode
+mbs/mini_emerge
+tex

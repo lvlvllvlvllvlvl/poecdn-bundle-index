@@ -1,0 +1,3 @@
+flame_breath
+lionstatue_goldenburned
+lionstatue_goldenburned/bodyfx

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+c5f62fc3951a25fe,impact_13fe960c.smd,Streaming/Content/metadata/effects/spells/monsters_effects/477B5EB62D07BB3A.45CD0A95F0F01831.lightning_strike.ao,0,13578
+ed26fd7d04474412,impact_13fe960c.smd.header,Tiny.VB,7397946,420
+c411adea129641c5,chaoslightningstrike.sm,Tiny.VB,7396838,1108
+8ac2a0d3baa54192,chaoslightningstrike.amd,Tiny.V3,7066395,86
+2934a74b41033248,chaoslightningstrike.ast,Content/metadata/effects/spells/monsters_effects/0A153FC4CACCA8BD.ballistaball.ao,273867,5374
+82dad7c56fd4018e,projectile.amd,Tiny.V9,7682754,144
+75856993bd33fb08,projectile.ast,Tiny.V0,7582953,2803
+48df83f477a271da,pulse_c7a655d7.smd,Streaming/Content/metadata/effects/spells/monsters_effects/477B5EB62D07BB3A.45CD0A95F0F01831.lightning_strike_pulse.ao,0,10998
+e59d4bcba3c05832,pulse_c7a655d7.smd.header,Tiny.V0,7593152,368
+6b73a1f930d0ff75,lightningstrikepulse.sm,Tiny.V8,7360975,392
+59bac38530544dff,lightningstrikepulse.amd,Tiny.VC,6859114,86
+ff735c3d762903a6,lightningstrikepulse.ast,Tiny.V6,7469807,1314

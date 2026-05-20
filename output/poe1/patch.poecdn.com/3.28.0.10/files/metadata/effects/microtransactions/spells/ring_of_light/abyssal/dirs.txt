@@ -1,0 +1,14 @@
+fx
+fx/projectile
+fx/scythe_large
+fx/scythe_mall
+fx/scythe_mid
+graph
+mat
+mat/hammer_projectile
+mat/holy_explosion
+mat/holy_implosion
+mat/ring_collapse
+mat/ring_large
+mat/ring_medium
+mat/ring_small

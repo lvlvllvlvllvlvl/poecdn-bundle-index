@@ -1,0 +1,3 @@
+on_act_doublehit
+slam_01
+slam_02

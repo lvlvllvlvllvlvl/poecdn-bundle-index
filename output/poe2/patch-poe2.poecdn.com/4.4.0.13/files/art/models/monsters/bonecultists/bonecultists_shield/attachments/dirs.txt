@@ -1,0 +1,4 @@
+belt_bones
+helmet
+shield
+skirt_skull

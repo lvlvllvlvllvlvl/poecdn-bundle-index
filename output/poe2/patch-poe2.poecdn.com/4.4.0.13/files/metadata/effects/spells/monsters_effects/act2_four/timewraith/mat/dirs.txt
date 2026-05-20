@@ -1,0 +1,7 @@
+barrage_buildup
+barrage_burst
+death
+hand_glow
+idle
+projectile
+sand_nova

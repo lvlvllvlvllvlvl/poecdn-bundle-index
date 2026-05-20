@@ -1,0 +1,6 @@
+fly_up_01
+fly_up_01/textures
+flying_spellcast_aoe_01
+flying_spellcast_aoe_01/textures
+memory
+memory/textures

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+dfc540ec82e5e02b,hot_coalsc.mat,Tiny_7,72377514,876
+3d218104ecda3d31,puntc.mat,Tiny_7,72381430,1906
+c22156a636ee3455,punt_normal_dxt5.dds,Art/Textures/Environment/Leagues/Heist/Punt_3,0,1398276
+145ca9b73c143839,punt_normal_dxt5.dds.header,Tiny_7,72379910,1520
+7fa12577939bd2da,punt_colour_dxt5.dds,Art/Textures/Environment/Leagues/Heist/Punt_2,0,1398276
+d7ea072df5daa851,punt_colour_dxt5.dds.header,Tiny_7,72378390,1520
+565fe9107a0c7d72,coals_normalaogloss_dxt5.dds,Art/Textures/Environment/Leagues/Heist/Punt_1,174924,349700
+4706016734e49dd5,coals_normalaogloss_dxt5.dds.header,Tiny_7,72375994,1520
+18bc0b091e90dcf7,coals_colour_dxt1.dds,Art/Textures/Environment/Leagues/Heist/Punt_1,0,174924
+d48f6be9820bf945,coals_colour_dxt1.dds.header,Tiny_7,72374474,1520

@@ -1,0 +1,4 @@
+textures
+textures/architecture
+textures/architecture/roof
+textures/architecture/walls

@@ -1,0 +1,14 @@
+basicskeleton4
+basicskeleton4/bs4lsleeve
+basicskeleton4/bs4rsleeve
+basicskeleton5
+basicskeleton5/bs5cape
+basicskeleton5/bs5helmet
+basicskeleton6
+basicskeleton6/bs6shield
+basicskeleton7
+basicskeleton7/bs7quiver
+basicskeleton8
+basicskeleton8/bs8swords
+basicskeleton_robes
+basicskeleton_shoulder

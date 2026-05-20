@@ -1,0 +1,17 @@
+epk
+fx
+fx/basic_sword
+fx/candle_b_flames
+fx/candle_flareup
+fx/candle_m_flames
+fx/candle_mortar_impact
+fx/candle_mortar_proj
+fx/fire_infused_sword
+fx/flame_breath
+fx/footsteps
+fx/leap_slam_circular
+fx/leap_slam_recslam
+fx/on_act
+fx/on_act/crouch_forward_01
+mat
+mat/flame_breath

@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+b2ebd8b0607d814a,floor_ink_corrupt.mat,Tiny_1,20615797,6110
+daf694bfb8dddde5,grad_corrupt.mat,Tiny_1,20621907,2866
+f044fbe71cc59b11,streaks_corrupt.mat,Tiny_1,20624773,6996
+424d5cf7cf0a460a,blk_streaks_corrupt.mat,Tiny_1,20608843,6954
+12ab99d5a3b4097f,blk_smoke_corrupt.mat,Tiny_1,20602399,3072
+83db77771509ebe7,blk_smoke_masked_corrupt.mat,Tiny_1,20605471,3372

@@ -1,0 +1,4 @@
+fx
+mat
+mat/slam02_impact_core
+mat/slam_01_impact_core

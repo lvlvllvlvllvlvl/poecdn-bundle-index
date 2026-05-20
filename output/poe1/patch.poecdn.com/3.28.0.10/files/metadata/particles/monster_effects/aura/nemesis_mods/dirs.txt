@@ -1,0 +1,11 @@
+avenging_shade
+avenging_shade/cross
+avenging_shade/epk
+retaliation
+retaliation/vines
+soul_eater
+static_discharge
+static_discharge/discharge
+static_discharge/epk
+static_discharge/mod_aura
+static_discharge/summon

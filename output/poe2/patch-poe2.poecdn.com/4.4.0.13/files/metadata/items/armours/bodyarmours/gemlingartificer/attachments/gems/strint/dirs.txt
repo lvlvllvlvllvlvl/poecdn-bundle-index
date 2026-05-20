@@ -1,0 +1,4 @@
+body
+boots
+gloves
+helmet

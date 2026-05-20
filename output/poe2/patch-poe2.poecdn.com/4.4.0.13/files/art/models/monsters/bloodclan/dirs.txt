@@ -1,0 +1,16 @@
+attachments
+attachments/pouch
+bloodclanduo
+bloodclanduo/attachments
+bloodclanduo/bottomclansman
+bloodclanduo/bottomclansman/animations
+bloodclanduo/bottomclansman/animations/axe
+bloodclanduo/bottomclansman/animations/birdfisherman
+bloodclanduo/bottomclansman/animations/harpoon
+bloodclanduo/bottomclansman/animations/pole
+bloodclanduo/bottomclansman/attachments
+bloodclanduo/topclansman
+bloodclanduo/topclansman/animations
+bloodclanduo/topclansman/animations/dagger
+bloodclanduo/topclansman/animations/kids
+textures

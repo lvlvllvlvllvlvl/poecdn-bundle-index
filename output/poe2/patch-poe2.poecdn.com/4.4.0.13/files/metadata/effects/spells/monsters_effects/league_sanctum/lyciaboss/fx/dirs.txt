@@ -1,0 +1,13 @@
+basic_proj
+basic_proj/impact
+basic_proj/loop
+beam_cannon
+dash_slam
+degen_area
+degen_area/loop
+delayed_blast
+delayed_blast_2
+kickup_dust
+lightning_circle_waves
+lightning_strike
+lightning_strike_impact

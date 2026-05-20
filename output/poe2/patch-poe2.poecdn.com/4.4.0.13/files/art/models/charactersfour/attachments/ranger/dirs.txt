@@ -1,0 +1,9 @@
+hairstyles
+hairstyles/hairdefault
+hairstyles/hairdefault/ponytail
+outfit
+outfit/daggerbelt
+outfit/necklace
+outfit/shoelaces
+outfit/shoelaces/lbootlace
+outfit/shoelaces/rbootlace

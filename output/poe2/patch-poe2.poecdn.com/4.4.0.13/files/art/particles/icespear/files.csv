@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+b5101cca5a2c7943,trail_main_base.mat,Tiny.VC,33148816,1676
+d464dbd45ae66d82,trail_main_base.dds,Streaming/Content/metadata/particles/shockwave_slam_02/box.pet,349973,43876
+9e3b8c662737a584,trail_main_base.dds.header,Tiny.VA,6512323,840
+95e78d8822faa02c,icespearcns.mat,Tiny.V1,32965326,2484
+6f6e835bc5e5d1dc,icespearns.dds,Streaming/Content/metadata/effects/spells/ice_spear/projectile.ao,99590,174948
+c1eb447638c09ba4,icespearns.dds.header,Tiny.V2,32938342,840
+61293a7d9cd97256,icespear_colour.dds,Streaming/Content/metadata/effects/spells/ice_spear/projectile.ao,12042,87548
+eb0721e0a91f4295,icespear_colour.dds.header,Tiny.V8,32766550,840

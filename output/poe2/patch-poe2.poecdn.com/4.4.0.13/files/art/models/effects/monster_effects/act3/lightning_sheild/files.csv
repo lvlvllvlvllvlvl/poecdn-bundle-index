@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+190ae319a66e0fdf,rig_f4ca9cf1.smd,Streaming/Content/metadata/effects/spells/monsters_effects/EAFB08A03A8B781A.584F38CBD75322AC.lightning_sheild_epk.epk,0,15912
+fd15d353c8460452,rig_f4ca9cf1.smd.header,Tiny.VB,7129647,743
+2d5a4127a7b1e905,lightning_sheildnodes.amd,Tiny.V4,7033226,96
+b0189e09f122fc2b,lightning_sheildnodes.ast,Tiny.V8,7042181,699
+643c30ff9535f58e,lightning_sheildmid.amd,Tiny.V4,7033226,96
+21ddf76253935d80,lightning_sheildmid.ast,Tiny.V3,7067246,880
+1668948e62b61c8e,lightning_sheild.sm,Tiny.V0,7298683,1078
+02911a33c09e4cf6,lightning_sheild.amd,Tiny.V4,7033226,96
+312d51248f31070c,lightning_sheild.ast,Content/metadata/effects/spells/monsters_effects/8979BF18BEEAFE35.midup.pet,80672,116196

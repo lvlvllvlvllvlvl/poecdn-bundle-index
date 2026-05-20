@@ -1,0 +1,10 @@
+dark_storm
+darkness
+dual_strike_wave
+on_act
+on_act/crown_smoke
+on_act/emerge_boss
+on_act/teleport
+smoke_telegraph
+volatile
+volatile_projectile

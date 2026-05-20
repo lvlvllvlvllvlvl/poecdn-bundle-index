@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+f489d6dba896c50d,bloom_glowc_impact.mat,Tiny_6,39259380,4004
+0b1a5c3f539ecb34,flash.mat,Tiny_6,39267684,2332
+8f4aa6c870186b9e,grd_crack_01.mat,Tiny_6,39270016,3286
+360aed8a05eb9fd8,omega_swirly.mat,Tiny_6,39281022,8820
+26ef6d3950b24c51,wisp_summon.mat,Tiny_6,39289842,3680
+574253f2f27ef95c,lightning_impact.mat,Tiny_6,39275354,5668
+00bf707613169288,light_glare.mat,Tiny_6,39273302,1212
+0bc8b0e54c8e793a,light_glare_dxt5.dds,Folders/art/particles/lightning_cone,87588,174948
+6fb15889fd60f99e,light_glare_dxt5.dds.header,Tiny_6,39274514,840
+776b18210b06ddad,cone_rays.mat,Tiny_6,39263384,1260
+b5562266f7973776,crack_003_normalaorough_dxt5.dds,Folders/art/particles/mana_void/textures,4023784,1398276
+ffd1438b6e6273bb,crack_003_normalaorough_dxt5.dds.header,Tiny_6,39266164,1520
+428c61f24b6a4df0,crack_003_colour_dxt5.dds,Art/particles/mana_void/Textures_2,0,1398276
+ff4109c47cb0db95,crack_003_colour_dxt5.dds.header,Tiny_6,39264644,1520
+8af9899450cbe9e5,air_shockwave.mat,Tiny_6,39247546,5500
+394fbf598bf9ab53,arc_beam.mat,Tiny_6,39253046,6334

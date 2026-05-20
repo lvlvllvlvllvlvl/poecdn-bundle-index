@@ -1,0 +1,14 @@
+forge_cine_end_01
+forge_cine_start_01
+forgeroom
+forgeroom/chamber
+forgeroom/entrance_door
+forgeroom/entrance_door/open_01
+forgeroom/machinary01
+forgeroom/machinary01/get_lasered_01
+forgeroom/machinary01/idle_02
+forgeroom/mural
+forgeroom/mural/activate
+forgeroom/walkway
+forgeroom/walkway/activate
+karuichieftain_slam

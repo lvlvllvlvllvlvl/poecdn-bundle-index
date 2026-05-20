@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+9e1be0bcf783b8bb,pointemitter_static_u.mat,Tiny_11,86642861,310
+5639062994aebb52,zoom_blur_r.mat,Tiny_9,96677444,13056
+052504d8f0eaf162,zoom_distortion_r.mat,Tiny_9,96690500,15452
+fd783b90f256d35b,teleport_crack_r.mat,Tiny_9,96583082,22746
+a579b294c2c3b920,teleport_flare_r.mat,Tiny_9,96605828,18264
+32565c28792faf86,teleport_gradient_r.mat,Tiny_9,96624092,13024
+eaa3851e19a00b6c,teleport_ring_r.mat,Tiny_9,96637116,18120
+aace6356975230f8,teleport_smoke_r.mat,Tiny_9,96655236,22208
+af112413ff329c21,space_smoke_r.mat,Tiny_9,96560282,20666
+1cdb54b1ba267f8f,sphereemitter_u.mat,Tiny_9,96580948,2134

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+ab489894bbc6d594,kelpdregcrossbows01_armour_5de6fec4.smd,Streaming/Content/metadata/monsters/kelpdreg/kelpdreg03nophys.ao,427520,178425
+9ad1d9274ff59841,kelpdregcrossbows01_armour_5de6fec4.smd.header,Tiny.VB,10873264,368
+4d5a62f8db7f60a2,kelpdregcrossbows03_armour_ad9104aa.smd,Streaming/Content/data/balance/worldareas/mapuniquecastaway.vworld,11185160,159833
+3c2f55958febfc14,kelpdregcrossbows03_armour_ad9104aa.smd.header,Tiny.VA,10886166,368
+96233c08574980b7,kelpdregcrossbows02_armour_10608067.smd,Streaming/Content/metadata/monsters/kelpdreg/kelpdreg03nophys.ao,240009,187511
+6ae8a6724a834699,kelpdregcrossbows02_armour_10608067.smd.header,Tiny.V4,10966393,368
+81490970e8195040,kelpdregcrossbow02.sm,Tiny.V5,10664027,606
+0c0f9bb3845921cd,kelpdregcrossbow03.sm,Tiny.VB,10872660,604
+7aefdcb90261263c,kelpdregcrossbow01.sm,Tiny.V1,10825117,606
+a77e194145df1e42,skeletoncrossbow.sm,Tiny.V3,10791257,564
+1e2114847c8230aa,skeletoncrossbow_armour_391dc0b2.smd,Streaming/Content/metadata/monsters/skeletons/maraketh/D9C7C7673D6E4B8D.marakethskelecrossbow.ao,0,80740
+a3a4ed18f279f2a1,skeletoncrossbow_armour_391dc0b2.smd.header,Tiny.V8,10817957,448
+e5b2abb98c08bf1a,skeletoncrossbow_armour.amd,Tiny.V2,11054381,1592
+2bb668049842f27b,skeletoncrossbow_armour.ast,Content/metadata/monsters/bitterguy/bitterguysurgechild.ot,294710,10009

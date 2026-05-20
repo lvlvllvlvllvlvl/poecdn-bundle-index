@@ -1,0 +1,15 @@
+act5shrine
+beach
+city
+darkshrines
+darkshrines/beach
+darkshrines/city
+darkshrines/forest
+darkshrines/generic
+forest
+generic
+izaroshrine
+izaroshrine/apple
+izaroshrine/crown
+izaroshrine/sceptre
+tgms

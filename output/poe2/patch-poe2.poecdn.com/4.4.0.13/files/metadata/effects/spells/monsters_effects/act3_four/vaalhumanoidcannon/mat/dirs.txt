@@ -1,0 +1,6 @@
+lightning_aoe
+muzzle_lightning
+napalm_impact
+napalm_proj
+proj_lightning
+skitterbot_mine

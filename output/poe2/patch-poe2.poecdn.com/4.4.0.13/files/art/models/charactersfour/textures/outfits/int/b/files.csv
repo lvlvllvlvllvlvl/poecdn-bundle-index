@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+29a587c58ed22c37,outfitbootsb_int_fc.mat,Tiny.V1,6631353,1272
+9037c2facc8882f4,outfitbootsb_int_f_normal_dxt5.dds,Streaming/Content/data/worldareas/AD/g_login.vworld,0,2796388
+ebefd42de3057d19,outfitbootsb_int_f_normal_dxt5.dds.header,Tiny.V8,6616449,840
+20a54ba70c0d0efd,outfitbootsb_int_f_metal_dxt1.dds,Streaming/Content/data/worldareas/9B/g_login.vworld,0,1398268
+eb409cb90b5f3a34,outfitbootsb_int_f_metal_dxt1.dds.header,Tiny.V9,6948327,840
+dac91746873488d8,outfitbootsb_int_f_colour_dxt1.dds,Streaming/Content/data/worldareas/A1/g_login.vworld,0,1398268
+49d9b61369926376,outfitbootsb_int_f_colour_dxt1.dds.header,Tiny.V6,6785876,840
+b0aef53182feb3c6,outfitbodyb_int_fc.mat,Tiny.VE,6765389,1266
+b5d136f8be189248,outfitbodyb_int_f_normal_dxt5.dds,Streaming/Content/metadata/items/armours/boots/1ADFD2D913CA1860.FACB22BD3C05336F.clockworkbootsintb.ao.1,2796364,5592580
+326cd26143138be0,outfitbodyb_int_f_normal_dxt5.dds.header,Tiny.VB,6721657,1520
+0c7f5b1a45458604,outfitbodyb_int_f_metal_dxt1.dds,Streaming/Content/metadata/items/armours/boots/1ADFD2D913CA1860.FACB22BD3C05336F.clockworkbootsintb.ao.1,0,2796364
+3c18339a172be312,outfitbodyb_int_f_metal_dxt1.dds.header,Tiny.V4,6817862,1520
+e26dcc90c205e447,outfitbodyb_int_f_colour_dxt1.dds,Streaming/Content/metadata/items/armours/boots/1ADFD2D913CA1860.FACB22BD3C05336F.clockworkbootsintb.ao,0,2796364
+93a9557f41faf904,outfitbodyb_int_f_colour_dxt1.dds.header,Tiny.V3,6617852,1520

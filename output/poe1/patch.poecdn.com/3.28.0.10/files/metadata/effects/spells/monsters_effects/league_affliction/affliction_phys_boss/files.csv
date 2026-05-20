@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+6b52e1a583ecf0fe,boss_light.ao,Tiny_D,179645112,784
+f2e0aa00ad17b78d,eyepk.epk,Tiny_D,179645896,442
+834d085dae919f22,sweep.ao,Tiny_D,179709756,4002
+82d607b23a951d03,vomitmortar.ao,Tiny_D,179713758,3578
+4f4cdd5c892f4ae4,vomitmortarimpact.ao,Tiny_D,179717336,3978
+ca309037be666eef,on_act_leapslam.ao,Tiny_D,280266908,3958
+8174e3459655965d,on_act_leapslamstart.ao,Tiny_D,179697224,3906
+ba129526b90d2714,onact_attack_01.ao,Tiny_D,179701130,2598
+5642947b75951a04,onact_deathpoof.ao,Tiny_D,179703728,6028
+ba0b199f19e7ff7b,onact_sweep.ao,Tiny_D,280272854,6076
+0a1bb14c0f0cb2ff,multislam_01.ao,Tiny_D,179676156,3488
+fbcd8c863e42fe5e,multislam_02.ao,Tiny_D,179679644,17580
+a1f1990ecc291277,leapslam.ao,Tiny_D,179663516,9640
+f63b7dd98bfa4546,leapslamphys.ao,Tiny_D,179673156,3000
+02c4f13afbb051a0,ground_slam_01.ao,Tiny_D,179646338,4866
+31df14dd7b100726,ground_slam_02.ao,Tiny_D,179651204,12312

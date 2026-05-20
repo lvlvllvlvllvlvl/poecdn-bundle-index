@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+dc22bcb9d034201d,swing_trl_mblur.mat,Tiny.V0.1,106035524,18208
+9eac35d8ab5bd7a3,idle_energy_u.mat,Tiny.VE.1,102017892,12484
+7846c9aaf9f96ec1,core_alive_foreground_r.mat,Tiny.VD.1,99386220,77430
+b30e88e36d7a830b,core_alive_blur_r.mat,Tiny.VD.1,99341380,44840
+6cb3fd4cf4428d2f,core_alive_background_r.mat,Tiny.VD.1,99317368,24012
+a4833849a7ea5c6a,core_alive_background_u.mat,Tiny.V7,49157616,576
+510b0b0ad10ca991,center_glow_r.mat,Tiny.V5.1,101143536,10690
+09b6dc281aaeda7f,center_glow_u.mat,Tiny.VF.1,103124284,790
+17e1000bdeb503b4,energy_pulse_pass01.mat,Tiny.V3.1,102860304,6072
+b73cfe0f83c8a3f8,energy_sparkles_r.mat,Tiny.VC.1,105427264,27110
+81eb9536a56d64e5,relic_debris_r.mat,Tiny.V8.1,99624874,4312
+10d2923a20eccbf1,relic_debris_u.mat,Tiny.V5.1,101348258,16474

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+c880eb2e9f02b8ae,moltentools_normal_dxt5.dds,Streaming/Content/data/worldareas/06/p2_1.vworld,5592580,349700
+b890da74d663a3ac,moltentools_normal_dxt5.dds.header,Tiny.VF,40360290,1520
+7e6537cacd748fb5,glowingcloals_height_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/932222A1BEF00583.arcanecraftingbench.ao.9,699400,349700
+3c41e3bd0d46267f,glowingcloals_height_dxt5.dds.header,Tiny.V2,40020871,1520
+495c1b8e11bb0f80,glowingcloals_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/932222A1BEF00583.arcanecraftingbench.ao.9,1049100,349700
+0fa38efeffbef180,glowingcloals_normal_dxt5.dds.header,Tiny.V0,40137154,1520
+8e937d9a32acff9d,glowingcoalsc.mat,Tiny.V6,40225656,4360
+c2c5526f55770350,glowingcoals_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/hideouts/932222A1BEF00583.arcanecraftingbench.ao.9,1398800,174924
+863d175fc1571a5c,glowingcoals_colour_dxt1.dds.header,Tiny.VD,40149724,1520
+189321861a589c8a,volcanicdirtstepc.mat,Tiny.VF,40361810,2420
+2061211a1aef0d69,volcanicdirtstep_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/932222A1BEF00583.arcanecraftingbench.ao.A,0,1398276
+cc0577851e5ee5c3,volcanicdirtstep_normal_dxt5.dds.header,Tiny.V8,39949176,1520
+4bdbf2d2af666511,volcanicdirtstep_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/hideouts/932222A1BEF00583.arcanecraftingbench.ao.9,1573724,699212
+bd993736afb3ee2a,volcanicdirtstep_colour_dxt1.dds.header,Tiny.V2,40022391,1520

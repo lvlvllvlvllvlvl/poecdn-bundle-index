@@ -1,0 +1,6 @@
+attachments
+attachments/cape
+attachments/openchesthanddemon
+attachments/openchesthanddemon/belt
+attachments/robe
+attachments/tongue

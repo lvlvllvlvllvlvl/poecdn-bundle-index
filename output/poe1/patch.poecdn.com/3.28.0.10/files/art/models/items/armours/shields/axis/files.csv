@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8c4c925f793374d9,shield.sm,Tiny_2,48418795,494
+435e62dbc291a439,shield.amd,Tiny_2,48417461,92
+80fc9906a84fb924,shield.ast,Tiny_2,48417553,1242
+35bb4a79dd867bb9,generalshield.fmt,Art/Models/Items/Armours/Shields/Axis,86478,10989
+a5d4f6cc19d73995,generalshield.fmt.header,Tiny_2,48416425,178
+cc66f6fdad4eca27,generalshield fx model_f25affbd.smd,Art/Models/Items/Armours/Shields/Axis,72840,13638
+4944b5af42a034fc,generalshield fx model_f25affbd.smd.header,Tiny_2,48416057,368
+714abf79f89fbecc,eliteshield.fmt,Art/Models/Items/Armours/Shields/Axis,62699,10141
+ccb33358b08d3622,eliteshield.fmt.header,Tiny_2,48415033,174
+1c5444ba9693e5c2,blackguardinquisitorshgield.fmt,Art/Models/Items/Armours/Shields/Axis,51614,11085
+2ec17022d11bd161,blackguardinquisitorshgield.fmt.header,Tiny_2,48414807,226
+e361b0f2ad2e7041,basicshield.fmt,Art/Models/Items/Armours/Shields/Axis,44499,7115
+6e53a7ed1bdbeac9,basicshield.fmt.header,Tiny_2,48413666,173
+48efbba9b9f84b52,axisshield_v01_01.fmt,Art/Models/Items/Armours/Shields/Axis,0,44499
+804933563b90aff8,axisshield_v01_01.fmt.header,Tiny_2,48412644,176

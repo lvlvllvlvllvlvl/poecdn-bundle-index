@@ -1,0 +1,5 @@
+fully_charged
+fully_charged/fx
+fully_charged/weapon_fx
+fully_charged/weapon_fx/fx
+fx

@@ -1,0 +1,4 @@
+deathpulse_primal
+deathpulse_sacred
+deathpulse_vivid
+deathpulse_wild

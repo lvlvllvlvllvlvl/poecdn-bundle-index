@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+b800ab67174efa9d,flash.mat,Tiny.VE,36937693,2716
+8bb3acc95be70637,trail_main.mat,Tiny.VD,37528781,1144
+2d21872a9c606d92,grd.mat,Tiny.V8,37012215,10342
+0934e769f1083884,p_crk_extra_mask_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_heist/C9289DEA2F08C2CB.E7111BDC103275DE.ice_mortar_circlestart.pet,43876,1398276
+b2513bf5bca94f79,p_crk_extra_mask_dxt5.dds.header,Tiny.VE,36940409,1520
+f17159abf0c651ca,lightning_sphere.mat,Tiny.V2,37268625,4550
+6a2b9967796ba6f9,lightning_trail_at2.mat,Tiny.VD,37525197,3584
+48e914e2016e9018,lightning_trail_at3.mat,Tiny.VB,37696405,3054
+8881253aa1e1e470,charge_energy.mat,Tiny.VE,36934385,3308
+1b77ecba99bcb397,crater_decal.mat,Tiny.V8,37009913,2302
+9a0981ef7a13b721,sharp_wave.mat,Tiny.V2,37273175,3434
+9087cf270aa6fc23,shockwave _add.dds,Streaming/Content/metadata/particles/monster_effects/solaris_and_lunaris/C9F8188BDDF1B1F7.9DE9A5F452786A64.sparks_end.pet,1935800,87556
+919524259b2eba24,shockwave _add.dds.header,Tiny.VD,33086445,1520
+0807f3443ec95957,suck01_8x8_dxt1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/EFE4362F5490CDDF.2378D72B69960334.vaal_ape_suicide.epk,5230,2796364
+c5de0baeb0387678,suck01_8x8_dxt1.dds.header,Tiny.VB,37699459,1520

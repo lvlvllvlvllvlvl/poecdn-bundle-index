@@ -1,0 +1,3 @@
+paledemonbow
+paledemonclaw
+textures

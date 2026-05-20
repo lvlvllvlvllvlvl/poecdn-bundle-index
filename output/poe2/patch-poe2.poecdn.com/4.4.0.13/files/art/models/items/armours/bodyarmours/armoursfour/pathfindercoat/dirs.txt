@@ -1,0 +1,12 @@
+attachments
+attachments/female
+attachments/female/horn
+attachments/female/skirt
+attachments/female/threads
+attachments/male
+attachments/male/horn
+attachments/male/skirt
+attachments/male/skirtstr
+attachments/male/threads
+attachments/male/threadsstr
+textures

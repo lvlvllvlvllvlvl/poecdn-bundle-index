@@ -1,0 +1,4 @@
+impact
+loop
+onact
+projectile

@@ -1,0 +1,4 @@
+decals
+for_prtcls
+normalized_prtcls
+normalized_prtcls/fx_meshes_dontoffsetuvs

@@ -1,0 +1,13 @@
+digsite
+digsite/textures
+oceancliffs
+oceancliffs/tgms
+textures
+textures/archdoorway
+textures/architecture
+textures/fresco
+textures/ground
+textures/stairkit
+textures/wallvertexpaint
+textures/woodkit
+tgms

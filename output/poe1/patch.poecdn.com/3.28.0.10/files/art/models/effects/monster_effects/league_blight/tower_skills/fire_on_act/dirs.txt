@@ -1,0 +1,9 @@
+activate_once
+flamethrower
+flamethrower_attach
+flamethrower_ground
+flamethrower_orb
+flamethrower_sweep
+meteor
+spellcast_aoe
+spellcast_proj

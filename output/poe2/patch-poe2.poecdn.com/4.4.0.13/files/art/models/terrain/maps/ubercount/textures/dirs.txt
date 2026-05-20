@@ -1,0 +1,7 @@
+architecture
+arena
+arena/medallion
+candles
+cliffs
+furniture
+ground

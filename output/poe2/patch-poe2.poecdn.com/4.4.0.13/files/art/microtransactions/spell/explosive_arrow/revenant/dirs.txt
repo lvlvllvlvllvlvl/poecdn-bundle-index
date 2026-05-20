@@ -1,0 +1,6 @@
+mb
+mb/arrow
+mb/explosion
+textures
+textures/arrow_rain
+textures/muzzle_flash

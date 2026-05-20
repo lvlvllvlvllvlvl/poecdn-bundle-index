@@ -1,0 +1,16 @@
+groundmasks
+mapbiomes
+mapencounters
+mapicons
+resourceicons
+upgradepanel
+upgradepanel/french
+upgradepanel/german
+upgradepanel/japanese
+upgradepanel/korean
+upgradepanel/portuguese
+upgradepanel/russian
+upgradepanel/simplified chinese
+upgradepanel/spanish
+upgradepanel/thai
+upgradepanel/traditional chinese

@@ -1,0 +1,9 @@
+textures
+vfx
+vfx/mb
+vfx/mb/breath_rigs
+vfx/mb/breath_rigs/forward
+vfx/mb/lava_pool
+vfx/mb/rock_crumble
+vfx/textures
+vfx/textures/lava_pool

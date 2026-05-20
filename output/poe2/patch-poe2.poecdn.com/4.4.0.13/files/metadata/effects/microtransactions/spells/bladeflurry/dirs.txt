@@ -1,0 +1,10 @@
+carnival_ringmaster
+faith
+faith/pets
+hasina
+illusionist
+illusionist/fx
+pets
+pets/purple
+phantasmal
+phantasmal/pet

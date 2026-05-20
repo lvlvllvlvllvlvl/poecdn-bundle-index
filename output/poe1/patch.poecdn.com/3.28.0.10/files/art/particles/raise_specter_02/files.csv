@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+6860e685d3a09f10,wisp.mat,Tiny_7,32716110,3174
+424c28552555eb3b,wisp_dxt1.dds,Art/particles/raise_specter_02,0,11084
+596ba12ccb2c19ba,wisp_dxt1.dds.header,Tiny_7,32719284,1520
+f31f3e3210774008,soul_trail_add.mat,Tiny_7,32691898,4004
+967c265d490026ec,soul_trail_add_dxt1.dds,Folders/art/particles/flame_lions,786768,87548
+b44b20717bc1a983,soul_trail_add_dxt1.dds.header,Tiny_7,32695902,840
+dc75ed1ae19e5e95,smoke.mat,Tiny_7,32687800,3258
+50d949a446b9fe39,smoke_dxt5.dds,Art/particles/raise_specter_02_1,0,43876
+56171e6a24b282c3,smoke_dxt5.dds.header,Tiny_7,32691058,840
+6de2785df7b46ebc,kickup_smoke_01_6x6.mat,Tiny_7,32682560,2606
+822669fc4226ed3f,kickup_smoke_01_6x6_dxt1.dds,Art/particles/raise_specter_02_1,43876,2796364
+53ab29ebbbcc8c1e,kickup_smoke_01_6x6_dxt1.dds.header,Tiny_7,32685166,1520

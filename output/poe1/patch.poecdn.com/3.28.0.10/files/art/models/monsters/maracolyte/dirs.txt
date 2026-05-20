@@ -1,0 +1,7 @@
+attachments
+attachments/earrings
+attachments/keychain
+attachments/pendant
+attachments/robe
+effects
+effects/fireslam

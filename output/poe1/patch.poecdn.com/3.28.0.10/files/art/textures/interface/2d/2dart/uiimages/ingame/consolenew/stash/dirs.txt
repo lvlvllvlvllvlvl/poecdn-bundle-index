@@ -1,0 +1,2 @@
+setprice
+setprice/4k

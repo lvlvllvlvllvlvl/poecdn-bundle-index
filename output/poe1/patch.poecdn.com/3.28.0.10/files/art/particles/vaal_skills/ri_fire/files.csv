@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+9e887dab7b5b9fa6,ink_dripc.mat,Tiny_7,42837197,3334
+4ae071d1fdd8533a,ink_drip.dds,Art/particles/vaal_skills/ri_fire,4182,22020
+f483fc5f29b89499,ink_drip.dds.header,Tiny_7,42835677,1520
+53aa730a0d6387af,fire_thinlines.mat,Tiny_7,42834703,974
+a5a36884099df257,fire_thinlines.dds,Art/particles/vaal_skills/flameblast_2,0,22020
+44bd4de17dd12eb6,fire_thinlines.dds.header,Tiny_7,42833183,1520
+9c8dc2ea0a287cc2,fire_lookup.mat,Tiny_7,42832227,956
+4c6557a46784444c,fire_lookup.dds,Tiny_7,42829735,2212
+6306c8a125a997bd,fire_lookup.dds.header,Tiny_7,42831947,280
+b50552dbcc4b7b71,fire_bits2_at.mat,Art/particles/vaal_skills/ri_fire,0,4182
+82648679f1509005,fire_bits2_at.dds,Art/particles/vaal_skills/flameblast_1,0,11108
+dd81f582de6cae40,fire_bits2_at.dds.header,Tiny_7,42828895,840
+50e38732fd6a68ca,cloud_black.mat,Tiny_7,42825263,3632
+f043ef3039621284,cloud_black.dds,Art/particles/monster_particles/League_Incursion_8,634552,22020
+4253afc761cf9eb5,cloud_black.dds.header,Tiny_7,42823743,1520

@@ -1,0 +1,13 @@
+basic_projectile
+caustic_mortar
+collapsing_aoe
+collapsing_pulse
+collide_chargeup_explode
+mortar_slam
+on_act
+on_act_viper_emerge
+phys_projectile
+poison_projectile
+rectangular_aoe
+snake_slither_aoe
+spinning_volatile_detonate

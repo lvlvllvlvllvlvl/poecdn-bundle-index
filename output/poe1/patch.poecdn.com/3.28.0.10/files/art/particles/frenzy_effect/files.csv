@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+33152617751339e1,subdot.mat,Tiny_6,30461435,1028
+82f545b9b60b0d01,subdot.dds,Tiny_6,30458375,1540
+819c62fc3b4f9e54,subdot.dds.header,Tiny_6,30459915,1520
+ad356309d2480cf6,light_gradient.mat,Tiny_6,30457299,1076
+8fd6b3b7cca08f9b,light_gradient.dds,Art/particles/frenzy_effect,93192,87556
+3efa759011b0653e,light_gradient.dds.header,Tiny_6,30455779,1520
+684dfd08664f0905,frenzytrail_green.mat,Tiny_6,30454685,1094
+5b745d92377be57b,frenzytrail_green.dds,Art/particles/frenzy_effect,87556,5636
+2a0459026ae2cb1e,frenzytrail_green.dds.header,Tiny_6,30453165,1520
+9a14dfb78a506de0,blink_spiral.mat,Tiny_6,30452101,1064
+2ba781e5649fadd2,blink_spiral.dds,Art/particles/frenzy_effect,0,87556
+0a755a0604ded8d5,blink_spiral.dds.header,Tiny_6,98534844,1520

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+f512cc698f2cc299,toc_carpetrectangular01c.mat,Tiny.V1,21824142,2876
+b405c02613ccd7c8,toc_carpetrectangular01_height.dds,Streaming/Content/data/worldareas/97/mapport.vworld,5592580,5592580
+09229cfb6512d7ba,toc_carpetrectangular01_height.dds.header,Tiny.V3,21735349,1520
+066709d9ce9c7cab,toc_carpetrectangular01_normal.dds,Streaming/Content/data/worldareas/34/mapport.vworld,0,5592580
+2487918607aa1365,toc_carpetrectangular01_normal.dds.header,Tiny.V9,22287522,1520
+3f55b783adedea3b,toc_carpetrectangular01_metallic.dds,Streaming/Content/data/balance/worldareas/CF/mapport.vworld.1,0,5592580
+7cafbb87cc1f9a87,toc_carpetrectangular01_metallic.dds.header,Tiny.V3,21736869,1520
+5616cfe1525f4bf1,toc_carpetrectangular01_colour.dds,Streaming/Content/data/balance/worldareas/D9/g5_11_1.vworld,14706,5592580
+9136e82af4be7abe,toc_carpetrectangular01_colour.dds.header,Tiny.V5,21562189,1520
+f92c9648b0b89c18,pce_heavyhempfabric01c.mat,Tiny.VF,22182203,908
+b6cc3946159007e9,pce_heavyhempfabric01_normal.dds,Streaming/Content/art/models/terrain/islands/CD07F2665713E7D4.EB51B331233D0B1E.digsiterubbleblocker03.fmt.1,0,5592580
+0136cae4db98569a,pce_heavyhempfabric01_normal.dds.header,Tiny.VF,22180683,1520
+9097911b1e8a8773,pce_heavyhempfabric01_colour.dds,Streaming/Content/art/models/terrain/islands/CD07F2665713E7D4.EB51B331233D0B1E.digsiterubbleblocker03.fmt,0,2796364
+1df2e1610d06f7b0,pce_heavyhempfabric01_colour.dds.header,Tiny.V1,21822622,1520

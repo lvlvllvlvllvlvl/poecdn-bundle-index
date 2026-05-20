@@ -1,0 +1,28 @@
+panel12
+panel16
+panel16/french
+panel16/german
+panel16/korean
+panel16/portuguese
+panel16/russian
+panel16/spanish
+panel16/thai
+panel16/traditional chinese
+panel4
+panel4/french
+panel4/german
+panel4/korean
+panel4/portuguese
+panel4/russian
+panel4/spanish
+panel4/thai
+panel4/traditional chinese
+panel7
+panel7/french
+panel7/german
+panel7/korean
+panel7/portuguese
+panel7/russian
+panel7/spanish
+panel7/thai
+panel7/traditional chinese

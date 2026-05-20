@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+ba979a7c8587557c,circle.mat,Tiny.VE,5201064,2832
+b860e0e32c8b4272,circle.dds,Streaming/Content/metadata/effects/microtransactions/spells/DBC6B563D6C5B9DC.smoke_trail.pet,700448,87556
+b27479660ec691fc,circle.dds.header,Tiny.V6,6439013,1520
+7436b7af7d60918b,pulse.mat,Tiny.V8,5132689,2412
+10e72435ef1a0b44,pulse.dds,Streaming/Content/metadata/effects/microtransactions/spells/DBC6B563D6C5B9DC.smoke_trail.pet,810024,87556
+2b84449b767167d4,pulse.dds.header,Tiny.V9,32386686,1520
+7f1e8ddd76ccba81,light_gradient_end.mat,Tiny.VB,5214050,2124
+46dc4b3667e47a0d,light_gradient_end.dds,Streaming/Content/metadata/effects/microtransactions/spells/DBC6B563D6C5B9DC.smoke_trail.pet,788004,22020
+460ab5ef887f5421,light_gradient_end.dds.header,Tiny.VD,5114851,1520
+e51aae3b4a6b61a7,snowpatch_colour.mat,Tiny.V5,5233877,2004
+bb4b87139e5544e7,snowpatch_colour.dds,Streaming/Content/metadata/effects/microtransactions/spells/8BA732D7BCDC1468.2F168D1BED0545B6.slash_line.pet,22052,349732
+6eaa915f22341c55,snowpatch_colour.dds.header,Tiny.V0,5326510,504
+5b1a857224ea0658,slash_add.mat,Tiny.V4,5301474,2724
+d1346587bcb8fb60,slash_add.dds,Streaming/Content/metadata/effects/microtransactions/spells/8BA732D7BCDC1468.2F168D1BED0545B6.slash_line.pet,0,22052
+e16609c8ec11457d,slash_add.dds.header,Tiny.VB,5216174,504

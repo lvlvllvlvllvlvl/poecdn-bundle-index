@@ -1,0 +1,8 @@
+female
+female/muffler
+female/skirt
+female/skirt_rigid
+male
+male/muffler
+male/skirt
+male/skirt_rigid

@@ -1,0 +1,6 @@
+attachments
+attachments/hipplates
+attachments/robe
+attachments/tail
+attachments/weapon
+textures

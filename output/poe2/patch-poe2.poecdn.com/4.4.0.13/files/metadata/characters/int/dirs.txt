@@ -1,0 +1,11 @@
+attachments
+attachments/hairstyles
+attachments/hairstyles/sorceress
+attachments/hairstyles/witch
+attachments/outfits
+attachments/outfits/generic
+attachments/outfits/sorceressoutfit
+attachments/outfits/witchoutfit
+forms
+forms/demonform
+forms/demonform/attachments

@@ -1,0 +1,11 @@
+part1
+part1/p1_4
+part1/p1_4/textures
+part1/p1_4/textures/ground
+part3
+part3/p3_5
+part3/p3_5/textures
+part3/p3_5/textures/ground
+part3/p3_6
+part3/p3_6/textures
+part3/p3_6/textures/snow

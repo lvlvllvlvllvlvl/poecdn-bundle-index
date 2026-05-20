@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+40fb2de264c6abb7,rig_a6cac556.smd,Tiny_2,7505718,1788
+d112d0f9b510fa3f,rig_a6cac556.smd.header,Tiny_2,7507506,368
+67e9f54cc4922cf0,rig.amd,Tiny_2,4774735,766
+7bdafa600811376f,rig.ast,Art/Models/Effects/monster_effects/act5/templar_slave_driver_kitava,0,14019
+3a5788699d7f3152,lightning_whip.sm,Tiny_2,4772331,484
+41f0dc7faa0f90e3,lightningwhip_cast.sm,Tiny_2,4774133,602
+58fa22d24d7d149f,lightningwhip_cast.amd,Tiny_2,10653431,94
+3dd1057be3a97364,lightningwhip_cast.ast,Tiny_2,4772815,1318
+6ada02b97586305c,holywhipcast_e579ced8.smd,Art/Models/Effects/flame_whip_cast/cast,0,15128
+756cb1e07167f954,holywhipcast_e579ced8.smd.header,Tiny_2,4771963,368

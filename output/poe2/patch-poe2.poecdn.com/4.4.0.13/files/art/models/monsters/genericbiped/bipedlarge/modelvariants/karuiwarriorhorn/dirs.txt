@@ -1,0 +1,10 @@
+attachments
+attachments/beard
+attachments/bloodfeverattachment
+attachments/cloak
+attachments/earrings
+attachments/horn
+attachments/skirt
+attachments/tukohamabuffingbattlehorn
+attachments/tukohamabuffingbattlehorn/horn
+attachments/tukohamabuffingbattlehorn/skirt

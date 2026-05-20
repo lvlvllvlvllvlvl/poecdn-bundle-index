@@ -1,0 +1,3 @@
+screech
+sword_summon
+teleport

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+9aa51a0d61004ad7,vaalsarcophagusc.mat,Tiny_7,45708274,2256
+4dd32597238aa0e9,vaalsarcophagus_normal_dxt5.dds,Art/Textures/Chests/Vaal,0,1398276
+3a1cd8acec97337f,vaalsarcophagus_normal_dxt5.dds.header,Tiny_7,45706754,1520
+a076279f1d433816,vaalsarcophagus_greyc.mat,Tiny_7,45704144,2610
+f0e7ca71ec4657b1,vaalsarcophagus_grey_colour.dds,Tiny_7,45701780,844
+6e7d63386294ccb7,vaalsarcophagus_grey_colour.dds.header,Tiny_7,45702624,1520
+39d63f1a3dcc7fa6,vaalsarcophagus_colour_dxt5.dds,Art/Textures/Chests/Vaal_1,0,1398276
+f48fdc9e7eadff4c,vaalsarcophagus_colour_dxt5.dds.header,Tiny_7,45700260,1520
+fc57436512e0de86,vaalsarcophagus_colour_dxt1.dds,Art/Textures/Chests/Vaal_2,0,699212
+d9475217ed8834ed,vaalsarcophagus_colour_dxt1.dds.header,Tiny_7,45698740,1520
+447823f5ec0b09e4,vaalsarcophagus_colour_bc7.dds,Art/Textures/Chests/Vaal_1,0,1398276
+a445e32c4b4554ea,vaalsarcophagus_colour_bc7.dds.header,Tiny_7,45700260,1520
+9f4bca76a16edac7,vaalsarcophagus_colour.dds,Art/Textures/Chests/Vaal_2,0,699212
+ede54bc2dceb8e32,vaalsarcophagus_colour.dds.header,Tiny_7,45698740,1520

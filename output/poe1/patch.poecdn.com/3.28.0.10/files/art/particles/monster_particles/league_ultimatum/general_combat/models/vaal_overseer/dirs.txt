@@ -1,0 +1,5 @@
+buff_wave
+clone_appear
+clone_strike
+on_act
+on_act/attack

@@ -1,0 +1,12 @@
+brigandmace
+constructhammer
+jadeclub
+morningstar
+platedmace
+slimmace
+smithinghammer
+spikedclub
+spikedclub/attachments
+textures
+warpick
+woodenclub

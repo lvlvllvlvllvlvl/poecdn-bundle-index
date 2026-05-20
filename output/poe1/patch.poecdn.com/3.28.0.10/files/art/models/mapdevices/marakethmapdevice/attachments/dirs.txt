@@ -1,0 +1,14 @@
+flattenedsinners
+flattenedsinners/animations
+flattenedsinners_back
+mapholder
+marakethguard01
+marakethguard01/animations
+marakethsinners
+marakethsinners/animations
+marakethsinners/animations/sinner_01
+marakethsinners/animations/sinner_02
+marakethsinners/animations/sinner_03
+marakethsinners/animations/sinner_04
+marakethsinners/animations/sinner_05
+marakethsinners/animations/sinner_06

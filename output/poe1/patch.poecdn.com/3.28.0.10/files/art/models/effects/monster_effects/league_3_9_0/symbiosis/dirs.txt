@@ -1,0 +1,2 @@
+blob_monster
+blob_monster/blob_tentacle

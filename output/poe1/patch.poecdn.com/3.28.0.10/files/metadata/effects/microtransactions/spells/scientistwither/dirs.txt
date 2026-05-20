@@ -1,0 +1,8 @@
+aoe
+aoe/pet
+buff
+buff/pet
+hinder
+orb
+orb/pet
+surge

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+c245a403a463ff71,mixasmeter.fmt,Art/Models/Items/Quests/Miasmeter,117484,189447
+a370c3031bbb4e1d,mixasmeter.fmt.header,Tiny_2,56716325,290
+e392898098f7eef5,miasmeterdrop_9dd17e60.smd,Folders/art/models/items/quests/tsoathateardrop,372208,123255
+f2e1d3174a3a9b6c,miasmeterdrop_9dd17e60.smd.header,Tiny_2,56715957,368
+6790b2fff3253fd3,miasmeterchest_c7dd9090.smd,Art/Models/Items/Quests/Miasmeter,0,117484
+26fe1ca2ccb0b851,miasmeterchest_c7dd9090.smd.header,Tiny_2,56715589,368
+b4cf2780d9e052bf,miasmeterchest.sm,Tiny_2,56715075,514
+2f5339954cada5cd,miasmeterchest.amd,Tiny_5,72298466,88
+16663840265bbfd7,miasmeterchest.ast,Tiny_2,56714085,990
+c075f5fe354eabb0,miasmeter.sm,Tiny_2,56713623,462
+081e0f5ea62e77e9,miasmeter.amd,Tiny_2,56711948,202
+d0667639264c3286,miasmeter.ast,Tiny_2,56712150,1473

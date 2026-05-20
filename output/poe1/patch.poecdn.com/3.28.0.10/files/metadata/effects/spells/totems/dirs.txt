@@ -1,0 +1,16 @@
+bleednova
+chargeflask
+damagetakenonmovement
+holyflametotem
+holyflametotem/projectile
+increaseddamage
+karui_totem
+karui_totem/essence
+karui_totem/slam
+karui_totem/slash
+karui_totem/weapon
+karui_totem/weapon/graphs
+karui_totem/weapon/graphs/ancestral
+spells
+spells/life_regen
+totem_idle_effects

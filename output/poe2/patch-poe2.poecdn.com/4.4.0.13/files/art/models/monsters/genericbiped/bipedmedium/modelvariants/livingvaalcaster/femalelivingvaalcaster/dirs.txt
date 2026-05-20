@@ -1,0 +1,7 @@
+attachments
+attachments/femalelivingvaalcastercape
+attachments/femalelivingvaalcasterfeathers
+attachments/femalelivingvaalcasterhair
+attachments/femalelivingvaalcasterrobe
+attachments/spymasterheaddress
+attachments/spymasterrobe

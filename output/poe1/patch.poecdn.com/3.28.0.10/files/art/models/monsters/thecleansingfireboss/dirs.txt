@@ -1,0 +1,7 @@
+attachments
+attachments/belts
+attachments/hanger
+attachments/robe
+attachments/sigils
+attachments/sigils/light_attachment
+attachments/weapon

@@ -1,0 +1,6 @@
+attack_01
+attack_01/fx
+attack_01/mat
+death
+death/fx
+death/mat

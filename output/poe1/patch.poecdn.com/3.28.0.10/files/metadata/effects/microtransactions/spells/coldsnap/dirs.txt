@@ -1,0 +1,9 @@
+delirium
+delirium/fx
+delirium/graph
+delirium/vaal
+demon_hand_coldsnap
+spore
+spore/fx
+spore/graph
+spore/vaal

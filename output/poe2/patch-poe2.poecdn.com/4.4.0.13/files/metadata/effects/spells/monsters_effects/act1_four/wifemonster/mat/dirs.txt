@@ -1,0 +1,16 @@
+bone_projectile
+bone_projectile_impact
+bonecone_spellcast
+boneraincastrune
+bonewallnew
+buildupstrail
+burningground
+delayed_blast
+explode_01_buildup
+explode_delayedblast
+impact
+raisingwave
+revive_aoe
+sickletrail
+slowwave
+soul_mortar

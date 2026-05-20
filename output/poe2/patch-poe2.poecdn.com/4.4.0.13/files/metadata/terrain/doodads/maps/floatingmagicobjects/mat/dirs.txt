@@ -1,0 +1,11 @@
+ezomytefloatingobject
+ezomytefloatingobject/emerge
+ezomytefloatingobject/shatter
+faridunfloatingobject
+faridunfloatingobject/emerge
+karuifloatingobject
+karuifloatingobject/click_nova
+karuifloatingobject/emerge
+vaalfloatingobject
+vaalfloatingobject/emerge
+vaalfloatingobject/shatter

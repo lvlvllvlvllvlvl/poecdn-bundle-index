@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+f815a6e1544b1b63,neuron_01_8x8.mat,Tiny_6,24755799,1938
+6048674b2bcbb279,neuron_01_8x8_dxt5.dds,Art/particles/environment_effects/League_Synthesis_7,0,5592580
+4a52f779a68185de,neuron_01_8x8_dxt5.dds.header,Tiny_6,24757737,1520
+87044c8a810cc75d,light_ring.mat,Tiny_6,24754639,1160
+dee38f5fc1914805,light_ring_dxt5.dds,Art/particles/environment_effects/League_Synthesis_9,22020,87556
+4d5cb7010b5a69a7,light_ring_dxt5.dds.header,Tiny_7,10015644,1520
+02846dde6be43334,flash1_sub.mat,Tiny_6,24751831,1288
+fe88dd2d92c2adb1,flash1_sub_dxt5.dds,Art/particles/environment_effects/League_Synthesis_9,0,22020
+766669d49d673250,flash1_sub_dxt5.dds.header,Tiny_6,24753119,1520
+cb0b70c64cf221d0,blue_lens_flare.mat,Tiny_6,24750641,1190
+d4cb31be9f1816b5,blue_lens_flare_dxt5.dds,Art/particles/environment_effects/League_Synthesis_6,349700,11108
+cd64563959c6e0d0,blue_lens_flare_dxt5.dds.header,Tiny_8,44885192,840
+9a42cf40fb99b417,azurite_flash.mat,Tiny_6,24749335,1306
+39c23c7068e3865b,azurite_flash_dxt5.dds,Folders/art/particles/monster_particles/lightning_elemental,0,87556
+72f58cf0e888c170,azurite_flash_dxt5.dds.header,Tiny_7,22067611,1520

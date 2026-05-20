@@ -1,0 +1,10 @@
+fx
+mat
+mat/chargeconsume
+mat/chargeconsume_red
+mat/chargeend
+mat/chargeend_red
+mat/emerge
+mat/emerge_red
+mat/idle
+mat/trail

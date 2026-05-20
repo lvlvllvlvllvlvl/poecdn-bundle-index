@@ -1,0 +1,9 @@
+default_attack
+double_strike
+dual_strike
+frenzy
+heavy_strike
+test_case
+trauma_strike
+trauma_strike/pet
+viper_strike

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+b851ae5b0d507f04,smoke_mid_multi.mat,Tiny_1,32701298,1642
+e7a3d2b24bcee2cb,smoke_mid_multi.dds,Art/particles/monster_particles/act4,2491856,22020
+32c22c3fe68a592d,smoke_mid_multi.dds.header,Tiny_6,89563581,1520
+f7811e7ff13d08ce,light_gradc.mat,Tiny_1,32698812,2486
+6e81af02b8181149,light_grad.dds,Tiny_1,32694400,2892
+c0a5e3ec3e6f069b,light_grad.dds.header,Tiny_1,32697292,1520
+a26f61abce95d849,ink_smoke2.mat,Tiny_1,32691628,2772
+6c6f275a78fdd6b6,ink_smoke2.dds,Art/Microtransactions/Misc/uniques_13,1452108,22020
+a9416d8785488e3e,ink_smoke2.dds.header,Tiny_1,32690108,1520
+b9c21858e61f354d,fake_bloom.mat,Tiny_1,32687812,2296
+b090aafe1d216764,fake_bloom.dds,Art/Microtransactions/Misc/uniques_13,1474128,22020
+8125ace245c8781d,fake_bloom.dds.header,Tiny_1,32686292,1520

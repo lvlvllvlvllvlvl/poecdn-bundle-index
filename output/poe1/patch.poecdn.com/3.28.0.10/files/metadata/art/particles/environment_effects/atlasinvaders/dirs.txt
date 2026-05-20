@@ -1,0 +1,4 @@
+cleansinginfluencedoodads
+cleansinginfluencedoodads/textures
+cleansinginfluencedoodads/textures/lanterns
+cleansinginfluencedoodads/textures/wells

@@ -1,0 +1,6 @@
+arc
+arc_impact
+holy_energy
+on_act_epic_lightning
+on_act_spellcast_02
+zap

@@ -1,0 +1,4 @@
+attachments
+attachments/ballchain
+attachments/headdress
+attachments/skirt

@@ -1,0 +1,10 @@
+arbalest
+arbalest/scourge_arrow
+bloat_zombie
+bone_cultist
+death_knight
+golemancer
+mercurial_armour
+sword_skeleton
+urchin
+zombie

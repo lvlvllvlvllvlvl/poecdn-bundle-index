@@ -1,0 +1,2 @@
+shaman_deer_ritual
+shaman_deer_ritual/textures

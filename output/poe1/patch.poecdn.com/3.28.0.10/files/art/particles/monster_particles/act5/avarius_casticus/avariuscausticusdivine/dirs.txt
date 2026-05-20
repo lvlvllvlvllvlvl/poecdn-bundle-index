@@ -1,0 +1,11 @@
+activate_statues
+beam_charge
+dash_endslam
+death
+divineblast_delayed
+divinecall
+epk
+holyspark
+spellcast
+ss_projectile
+ss_projectile/channeling

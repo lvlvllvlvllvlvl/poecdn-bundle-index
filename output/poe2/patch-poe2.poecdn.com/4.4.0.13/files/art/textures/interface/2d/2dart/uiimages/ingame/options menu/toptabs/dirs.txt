@@ -1,0 +1,6 @@
+gametab
+graphictab
+inputtab
+interfacetab
+notificationstab
+soundtab

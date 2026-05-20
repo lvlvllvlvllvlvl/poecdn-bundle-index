@@ -1,0 +1,4 @@
+altar_active
+altar_soulcharge
+beasts_death
+monster_death

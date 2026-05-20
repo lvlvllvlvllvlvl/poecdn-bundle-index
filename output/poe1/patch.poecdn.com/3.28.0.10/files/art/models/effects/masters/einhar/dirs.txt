@@ -1,0 +1,3 @@
+blood_aura
+mine_bomb
+projectile

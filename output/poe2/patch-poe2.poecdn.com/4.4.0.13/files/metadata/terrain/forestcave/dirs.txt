@@ -1,0 +1,12 @@
+abyss
+features
+ledge
+mushroomcaves
+mushroomcaves/abyss
+mushroomcaves/curves
+mushroomcaves/features
+mushroomcaves/ledge
+mushroomcaves/stairs
+mushroomcaves/walls
+stairs
+walls

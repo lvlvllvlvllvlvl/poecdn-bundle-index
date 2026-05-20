@@ -1,0 +1,8 @@
+voidemperor
+voidemperor/fire
+voidemperor/fire/pet
+voidemperor/ice
+voidemperor/ice/pet
+voidemperor/lightning
+voidemperor/lightning/pet
+voidemperor/pet

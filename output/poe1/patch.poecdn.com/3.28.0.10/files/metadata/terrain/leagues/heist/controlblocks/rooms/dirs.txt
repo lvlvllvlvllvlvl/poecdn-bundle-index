@@ -1,0 +1,15 @@
+1x1
+2x2
+blueprintgoal
+entrances
+goals
+npc
+npc/bruteforce
+npc/catburglar
+npc/counterthaumaturge
+npc/demolition
+npc/engineering
+npc/perception
+npc/trapdisarmament
+quest
+sides

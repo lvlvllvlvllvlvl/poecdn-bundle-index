@@ -1,0 +1,4 @@
+actfx
+bone_remains
+projectile
+projectile_egg

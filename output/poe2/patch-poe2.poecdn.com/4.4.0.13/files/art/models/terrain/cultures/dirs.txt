@@ -1,0 +1,10 @@
+azmeri
+azmeri/doodads
+azmeri/doodads/textures
+azmeri/doodads/textures/prayerboards
+azmeri/doodads/textures/stakes
+azmeri/doodads/textures/wendigosigils
+wendigo
+wendigo/doodads
+wendigo/doodads/textures
+wendigo/doodads/textures/wendigosigils

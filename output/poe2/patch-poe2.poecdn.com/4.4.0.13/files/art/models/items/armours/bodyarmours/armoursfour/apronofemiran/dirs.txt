@@ -1,0 +1,5 @@
+attachments
+attachments/hooks_f
+attachments/hooks_m
+attachments/robe
+textures

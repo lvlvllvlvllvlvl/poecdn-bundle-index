@@ -1,0 +1,7 @@
+bloodaltar
+bloodaltar/beam
+bloodaltar/tex
+floatingstatue
+soulcore
+soulcorealtar
+tgms

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+b5c49eebb70d9bf4,dropbearcns.mat,Tiny_6,83031993,2696
+f566855794587ab3,dropbear_invert.mat,Tiny_6,83030893,1100
+cf71f9a0213faca0,dropbear_invert.dds,Folders/art/particles/monster_particles/drop_bear,416244,87556
+ec326325bf5655ee,dropbear_invert.dds.header,Tiny_6,83029373,1520
+b80dcc316f2fc3e0,dropbear_glowc.mat,Tiny_6,83026941,2432
+bd13b7e3dc3677fc,dropbear_glow.dds,Folders/art/particles/monster_particles/drop_bear,328688,87556
+2493ec10764dc250,dropbear_glow.dds.header,Tiny_6,83025421,1520
+d3e94b6b45850f2f,dropbear_colour.dds,Folders/art/particles/monster_particles/drop_bear,284836,43852
+da154747669fc3e3,dropbear_colour.dds.header,Tiny_6,83023901,1520
+f00880f479a5215d,data_distortion_motion.mat,Tiny_6,83022055,1846
+adbb7a618a077463,data_distortion_motion.dds,Folders/art/particles/monster_particles/drop_bear,197280,87556
+3775bce2e421cc60,data_distortion_motion.dds.header,Tiny_6,83020535,1520

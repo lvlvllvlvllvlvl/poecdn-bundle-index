@@ -1,0 +1,8 @@
+currencymonsters
+sulphitegolems
+tankyzombie
+totemsnecropolis
+ultimatum
+ultimatum/golem
+ultimatum/vaalgoliath
+ultimatum/vaalguards

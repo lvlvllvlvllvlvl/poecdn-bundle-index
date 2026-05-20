@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+5a93264843a57d9b,playerbuff.epk,Tiny_D,259615683,242
+74e706c55d9aac8d,towerbuff.epk,Tiny_D,259615925,240
+855fcb47af03cf86,debuff.epk,Tiny_D,259609137,704
+ed83470b1e702fdf,debuff_enemy.ao,Tiny_D,259609841,1630
+e1cb186095820b17,debuff_epk_pass0.mat,Tiny_D,259611471,4212
+6898095c5f264cc6,buff_player.ao,Tiny_D,259605883,1628
+96457fff9816ddf0,buff_tower.ao,Tiny_D,259607511,1626
+e6e48a4ebf1699c5,aura_enemy.ao,Tiny_D,259601023,1622
+d123768bcaab5555,aura_player.ao,Tiny_D,259602645,1620
+7dadb37669440a09,aura_tower.ao,Tiny_D,259604265,1618

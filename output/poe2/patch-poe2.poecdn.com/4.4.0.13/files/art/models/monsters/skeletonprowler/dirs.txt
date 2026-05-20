@@ -1,0 +1,5 @@
+attachments
+attachments/skeletonprowler_bodyhair
+attachments/skeletonprowler_bodyseaweedhair
+attachments/skeletonprowler_hair
+attachments/skeletonprowler_seaweedhair

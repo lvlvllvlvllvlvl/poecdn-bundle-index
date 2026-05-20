@@ -1,0 +1,9 @@
+cannibal
+copperchests
+goldenchests
+goldpots
+pots
+sarcophagi
+tribalchests
+vaalchests
+weaponarmourrack

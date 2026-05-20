@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+8e63894a8b16d816,weights_bluroomph_01_r.mat,Tiny.VA.1,77406530,12640
+b9db563786146f7c,weights_blurup_01_r.mat,Tiny.VA.1,77419170,36472
+339ed4278418e860,weights_blurup_01_u.mat,Tiny.VE.1,78460714,2212
+183387770dce06e7,weights_smokering_01_r.mat,Tiny.V6.1,80384022,19332
+dad099dd178ce7d3,weights_smokering_01_u.mat,Tiny.VF.1,78923262,12128
+b91a6558f555eb75,weights_debris_01_r.mat,Tiny.VB.1,12554304,11092
+849bee32d512f16b,weights_debris_01_u.mat,Tiny.V7.1,78698278,28288

@@ -1,0 +1,9 @@
+monk_quarterstaffcombo
+monk_quarterstaffcombo/epk
+monk_quarterstaffcombo/mat
+monk_quarterstaffcombo/mat/epk
+monk_quarterstaffcombo/mat/impact
+monk_quarterstaffcombo/mat/slash
+monk_quarterstaffcombo/mat/trail
+monk_quarterstaffcombo/pet
+monk_quarterstaffcombo/trail

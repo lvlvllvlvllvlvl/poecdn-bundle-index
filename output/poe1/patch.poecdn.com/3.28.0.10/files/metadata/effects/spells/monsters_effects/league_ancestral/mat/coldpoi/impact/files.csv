@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+44696632f9000a19,debris_update.mat,Tiny_D,196119550,6332
+026efd1d5184f880,flares_render.mat,Tiny_D,196140308,17372
+4b79540b4f9e25ce,glow_render.mat,Tiny_D,196157680,14924
+31381152b7bbab8d,point_distortion_render.mat,Tiny_D,196211496,12266
+0798eec80952deb0,shards_update.mat,Tiny_D,196223762,4404
+7b47791860eba416,shockwave_distortion_render.mat,Tiny_D,196228166,14566
+4d896e10f6c8aa06,shockwave_render.mat,Tiny_D,196242732,25394
+ecbdb7cba8cec382,mist_render.mat,Tiny_D,196172604,31406
+d14646357e9ed9db,mist_update.mat,Tiny_D,196204010,7486
+cd9e668363188d83,embers_render.mat,Tiny_11,33727535,42
+be48b437eb1e2b0c,embers_update.mat,Tiny_D,196125882,14426

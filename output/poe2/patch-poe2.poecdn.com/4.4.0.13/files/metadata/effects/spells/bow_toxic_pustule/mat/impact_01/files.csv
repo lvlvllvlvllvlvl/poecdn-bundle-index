@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+e1c671875a9ca083,explode_poison_r.mat,Tiny.V7.1,46081522,17398
+a727ead0f8a148a1,explode_poison_u.mat,Tiny.VA.1,44129926,33168
+e8e9fcd3ac672d2f,blast_sphere_r.mat,Tiny.V9.1,45083020,19150
+d8484583d81d1263,blast_sphere_u.mat,Tiny.VE.1,1562868,310
+dc1b4e68dd7f4abe,sphere_distortion_r.mat,Tiny.VC.1,47143054,15686
+efec49333879c1df,sphere_distortion_u.mat,Tiny.VE.1,1562868,310
+4f315d58476f71e6,hitflash_r.mat,Tiny.V8.1,43952510,10090
+ec5f335ab7fd3b57,hitflash_u.mat,Tiny.VE.1,1562868,310
+d2c897d45579fc4c,dir_drips_r.mat,Tiny.V9.1,45102170,17728
+b80477ef26c34cf0,dir_drips_u.mat,Tiny.VA.1,44117924,12002

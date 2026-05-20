@@ -1,0 +1,7 @@
+consecrated
+desecrated
+fire_divine
+smoke_blind
+smoke_blind/mat
+smoke_blind_2
+tar

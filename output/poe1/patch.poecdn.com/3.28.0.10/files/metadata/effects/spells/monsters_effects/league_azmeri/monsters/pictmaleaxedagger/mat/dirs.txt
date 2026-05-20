@@ -1,0 +1,6 @@
+detonate
+detonate/explode_01
+detonate/runes
+detonate_dead_spellcast_01
+necro_corpse_purple_ignite
+revive_aoe

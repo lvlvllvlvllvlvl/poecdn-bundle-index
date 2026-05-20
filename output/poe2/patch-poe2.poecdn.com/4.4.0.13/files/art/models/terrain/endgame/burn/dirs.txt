@@ -1,0 +1,10 @@
+tiles
+tiles/burnledge
+tiles/burnledge/tgms
+tiles/burnrockpile
+tiles/burnrockpile/tgms
+tiles/burnstream
+tiles/burnstream/tgms
+tiles/tombs
+tiles/tombs/features
+tiles/tombs/features/tgms

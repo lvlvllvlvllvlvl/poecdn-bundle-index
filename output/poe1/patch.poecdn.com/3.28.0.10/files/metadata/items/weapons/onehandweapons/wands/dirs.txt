@@ -1,0 +1,13 @@
+exiles
+microtransactions
+microtransactions/balefire_fx
+microtransactions/goddesswandfx
+microtransactions/lifesprigblossoming
+microtransactions/marionettewand
+microtransactions/vaalchronowand
+microtransactions/vaalchronowand/attachments
+microtransactions/wandofthethaumaturge
+prophecy
+uniques
+uniques/thedarkbargain
+wb

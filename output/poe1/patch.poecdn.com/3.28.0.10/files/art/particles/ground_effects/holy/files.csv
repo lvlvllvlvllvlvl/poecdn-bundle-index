@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+7f3ef5cc73f72914,smoke_whisp.mat,Tiny_6,32903911,1666
+a401af6d0a273d9f,smoke_whisp.dds,Art/particles/ground_effects/holy,0,22020
+17cbeed5f81e08ca,smoke_whisp.dds.header,Tiny_6,32902391,1520
+77433d99a99d4199,glowc.mat,Tiny_6,32899547,2844
+217145da2949f7bf,glow.dds,Art/particles/ground_effects/holy,22020,22020
+6fa5242b80dc54f1,glow.dds.header,Tiny_6,32898027,1520
+081b548fe9b8cbbc,crossccrosssncross_specs.mat,Tiny_6,32895141,2886
+dc5daa0999d483f3,cross_colour.dds,Art/particles/ground_effects/holy,44040,87556
+f3aeaf0529f7bc49,cross_colour.dds.header,Tiny_7,27587832,1520
+475c0f90e2a6b398,crosssncross_specs.dds,Art/particles/monster_particles/tombstone,5636,87556
+a0f52c1939c65200,crosssncross_specs.dds.header,Tiny_7,27592188,1520

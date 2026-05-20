@@ -1,0 +1,4 @@
+animations
+animations/pet
+attachments
+attachments/vaalbonestriderdanglers

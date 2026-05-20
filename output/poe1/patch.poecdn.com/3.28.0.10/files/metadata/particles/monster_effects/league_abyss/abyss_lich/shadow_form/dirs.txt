@@ -1,0 +1,6 @@
+shadowend
+shadowend/spiritcharge
+shadowslam
+smokeform
+smokeform/spiritcharge
+spiritcharge

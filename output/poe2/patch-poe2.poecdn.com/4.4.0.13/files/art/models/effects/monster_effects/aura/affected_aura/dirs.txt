@@ -1,0 +1,10 @@
+evasion
+godmode_monster_de
+monster
+monster/elementalaura_fire
+monster/elementalaura_ice
+monster/elementalaura_light
+monster_de
+player_de
+sml_phyhaste
+sml_smothering

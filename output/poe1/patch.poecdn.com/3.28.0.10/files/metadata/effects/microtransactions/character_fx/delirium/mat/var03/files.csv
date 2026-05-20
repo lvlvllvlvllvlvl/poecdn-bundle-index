@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+6a13fc00348f9b9a,mirror_shard_03_u.mat,Tiny_8,194660951,19116
+749b7286afdef762,mirror_shard_04_u.mat,Tiny_8,194680067,16616
+0324a734283fee66,mirror_shard_02_r.mat,Tiny_8,194621643,23328
+6c8c6052198ea0de,mirror_shard_02_u.mat,Tiny_8,194644971,15980
+7da3a6373c4161a4,grd_mist_r.mat,Tiny_8,194590113,19874
+fd774b6831086263,grd_mist_u.mat,Tiny_8,194609987,11656
+1cdda80213b64c13,glass_core_r.mat,Tiny_8,194575845,12696
+29ac99a5a5a0e929,glass_core_u.mat,Tiny_8,194588541,1572
+63030abdbec6a127,flare_ring_r1.mat,Tiny_8,194540167,35678
+fa03627364fb708e,flare_ring_u.mat,Tiny_11,33397289,576
+7d6212a374ad3f8d,energy_sphere_r.mat,Tiny_8,194498653,41514
+19835ad1901def7f,energy_sphere_u.mat,Tiny_11,33397289,576

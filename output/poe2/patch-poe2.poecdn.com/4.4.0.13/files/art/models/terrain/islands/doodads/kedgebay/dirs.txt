@@ -1,0 +1,14 @@
+lootablecorpses
+lootablecorpses/lootablecorpse_01
+lootablecorpses/lootablecorpse_02
+lootablecorpses/lootablecorpse_03
+lootablecorpses/piratelootablechest
+ropephysics
+ropephysics/dwelling_01
+ropephysics/dwelling_02
+ropephysics/dwelling_03
+ropephysics/dwelling_04
+ropephysics/dwelling_05
+textures
+textures/dwellings
+textures/scatteredprops

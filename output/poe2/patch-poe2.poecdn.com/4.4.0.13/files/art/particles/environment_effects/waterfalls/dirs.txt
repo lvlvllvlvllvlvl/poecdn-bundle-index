@@ -1,0 +1,4 @@
+forest_town
+mudflats
+mudflats/blood
+twilight_strand

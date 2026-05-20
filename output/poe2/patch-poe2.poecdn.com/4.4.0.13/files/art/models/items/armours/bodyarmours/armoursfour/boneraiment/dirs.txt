@@ -1,0 +1,12 @@
+attachments
+attachments/chestbones
+attachments/chestcloth
+attachments/chestcloth/chestclothdexint
+attachments/chestcloth/chestclothstr
+attachments/chestcloth/chestclothstrdex
+attachments/chestcloth/chestclothstrint
+attachments/l_sleeve
+attachments/l_sleeve_str
+attachments/robe
+attachments/robestr
+textures

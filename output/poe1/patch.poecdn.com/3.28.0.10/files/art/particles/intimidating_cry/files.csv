@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+0611134b2610cf93,warcryc.mat,Tiny_6,36016449,1434
+51fa74c73c0c7f60,warcry_pulse.mat,Tiny_6,36015367,1082
+30ce90a04e55d841,warcry_pulse.dds,Art/particles/intimidating_cry,66060,349700
+eef377d47df7c6c4,warcry_pulse.dds.header,Tiny_6,36013847,1520
+16ed15960e42dbe8,warcry.mat,Tiny_6,36012939,908
+9429562deb8ef636,warcry.dds,Art/particles/intimidating_cry,44040,22020
+a6ca64748c67c658,warcry.dds.header,Tiny_6,36011419,1520
+428c0a6fcccdefeb,caustic_add_2.mat,Tiny_6,36010469,950
+277fd32ece9e7e3a,caustic_add_2.dds,Art/particles/intimidating_cry,0,22020
+b3e549c4fe6b48d9,caustic_add_2.dds.header,Tiny_6,36008949,1520
+00a9e077041edbfb,caustic_add.mat,Tiny_6,36008011,938
+adba6ab8cfed2ee5,caustic_add.dds,Art/particles/intimidating_cry,22020,22020
+617f282eaa8c7e17,caustic_add.dds.header,Tiny_6,36006491,1520

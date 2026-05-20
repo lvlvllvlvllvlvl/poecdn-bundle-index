@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+b8363cbaa9de64fe,sudokutotemboss.sm,Tiny.VB,12235140,430
+b4ae222795c1e149,rig_85fd323d.smd,Streaming/Content/metadata/monsters/sudokutotemboss/sudokutotemattachmenthigh.ao,39348,146483
+87396d36056a66a9,rig_85fd323d.smd.header,Tiny.V1,12196786,368
+d13e7377ddbfa788,rig.amd,Tiny.VC,12108163,900
+c2cd3b568241b3e8,rig.ast,Tiny.V5,12085316,928
+13a60b279cbec8ec,midsudoku.fmt,Streaming/Content/metadata/monsters/sudokutotemboss/sudokutotemattachmenthigh.ao,185831,12354
+323ac0473e2e3b09,midsudoku.fmt.header,Tiny.V7,12219685,144
+83f077654c9ec635,lowersudoku.fmt,Tiny.V4,12420595,3906
+815058a4cecfa18a,lowersudoku.fmt.header,Tiny.V7,12219541,144
+a69c6b61c9068a56,uppersudoku.fmt,Streaming/Content/metadata/monsters/sudokutotemboss/sudokutotemattachmenthigh.ao,0,39348
+b9b237fd4641d5d7,uppersudoku.fmt.header,Tiny.V8,12284396,141

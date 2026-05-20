@@ -1,0 +1,17 @@
+clone
+clone_mortar
+fish_on_act_submerge
+on_act
+on_act_waterclone
+projectile
+projectile_hit
+rocketjump_aoe
+sister_on_act
+snipe_impact
+snipe_projectile
+split_nova
+splitting_large_projectile
+splitting_small_projectile
+spout_marker
+submerge_emerge_attack
+water_spouts

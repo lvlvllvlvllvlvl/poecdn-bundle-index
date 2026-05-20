@@ -1,0 +1,13 @@
+fire
+fire/aoe
+fire/explode
+fire/orb
+ice
+ice/orb
+lightning
+lightning/orb
+lightning_v02
+lightning_v02/orb
+phys
+phys/explode
+phys/orb

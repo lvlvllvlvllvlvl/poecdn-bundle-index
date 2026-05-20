@@ -1,0 +1,5 @@
+attachments
+attachments/ropes
+fx
+fx/textures
+textures

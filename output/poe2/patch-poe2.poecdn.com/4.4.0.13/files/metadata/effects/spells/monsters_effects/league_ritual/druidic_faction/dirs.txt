@@ -1,0 +1,9 @@
+funguszombietreehollow
+funguszombietreehollow/epk
+funguszombietreehollow/fx
+funguszombietreehollow/graph
+funguszombietreehollow/mat
+funguszombietreehollow/mat/onact
+funguszombietreehollow/mat/projectile
+funguszombietreehollow/mat/projectile/burst
+funguszombietreehollow/mat/projectile/impact

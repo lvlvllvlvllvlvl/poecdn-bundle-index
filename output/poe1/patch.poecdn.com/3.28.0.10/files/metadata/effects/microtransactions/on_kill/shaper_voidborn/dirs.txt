@@ -1,0 +1,14 @@
+epk
+fx
+fx/teleport_appear
+fx/teleport_appear/weapontrail
+fx/teleport_disappear
+graph
+mat
+mat/attached
+mat/rune_slam
+mat/teleport_appear
+mat/teleport_appear/teleport_crack
+mat/teleport_appear/weapontrail
+mat/teleport_disappear
+mat/teleport_disappear/teleport_crack

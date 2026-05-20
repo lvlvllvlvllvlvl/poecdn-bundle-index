@@ -1,0 +1,17 @@
+big
+charges
+energyshield
+fast
+fire
+fortify
+gold
+green
+ice
+life
+lightning
+necro
+phys_blood
+pre_ritual
+purple
+reward
+vaal

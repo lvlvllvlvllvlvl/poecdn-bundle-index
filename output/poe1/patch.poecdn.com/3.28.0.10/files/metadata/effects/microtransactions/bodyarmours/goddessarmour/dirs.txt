@@ -1,0 +1,4 @@
+fx
+fx/pet
+fx/pet/blue
+fx/skullfx

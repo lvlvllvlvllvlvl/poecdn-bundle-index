@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+63549bec5d7684c8,spearattack_2ee01869.smd,Tiny.V5,33809607,77
+a47df6ce02722fcf,spearattack_2ee01869.smd.header,Tiny.V6,33943405,448
+7de5b46312b6790a,spearstrike.sm,Tiny.V1,34044998,354
+afe7136dfe434fb1,spearstrike.amd,Tiny.V0,32827508,96
+e74c0beba393c71d,spearstrike.ast,Tiny.VA,32872087,309
+1f3a7d89d5234d0c,swordattack_2ee01869.smd,Tiny.V5,33809607,77
+89d6ac273eb404ea,swordattack_2ee01869.smd.header,Tiny.V6,33943405,448
+b3608ad1e11239cb,swordthrust.sm,Tiny.V1,34045352,354
+c50f1553b0e86d9d,swordthrust.amd,Tiny.V0,32827508,96
+7d2dbce95ae4a836,swordthrust.ast,Tiny.VA,32872087,309
+a54315dc117ad04f,cone_01.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.0887913A90487228.fwd_line.pet,0,15900
+c81972025b3f0639,cone_01.fmt.header,Tiny.V5,33809370,237
+053a69dc792e4cef,cone_02.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.0887913A90487228.fwd_line.pet,15900,16092
+f0001b3b1dc16143,cone_02.fmt.header,Tiny.VC,34275164,237

@@ -1,0 +1,8 @@
+attachments
+attachments/chestdangles
+attachments/horn
+attachments/r_clavicledangles
+attachments/shoulderdangles
+attachments/skirt
+attachments/skirtdangles
+textures

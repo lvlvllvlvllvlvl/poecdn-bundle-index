@@ -1,0 +1,17 @@
+marionettemetal
+marionettemetal/attachments
+marionettemetal/attachments/hair
+marionettemetal/attachments/shawl
+marionettemetal/attachments/sickle
+marionettemetal/attachments/skirt
+marionetteporcelain
+marionetteporcelain/attachments
+marionetteporcelain/attachments/scarf
+marionetteporcelain/attachments/sickle
+marionetteporcelain/attachments/skirt
+marionetteporcelain/attachments/skirt/m
+marionetteskinslot
+textures
+textures/metal
+textures/porcelain
+textures/skinslot

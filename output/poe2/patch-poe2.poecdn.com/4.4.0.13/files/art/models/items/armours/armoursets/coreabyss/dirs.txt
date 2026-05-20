@@ -1,0 +1,10 @@
+attachments
+attachments/chestscraps
+attachments/chestscraps/lshoulder
+attachments/chestscraps/male
+attachments/chestscraps/male/rshoulder
+attachments/chestscraps/rshoulder
+attachments/hood
+attachments/loincloth
+textures
+textures/fx

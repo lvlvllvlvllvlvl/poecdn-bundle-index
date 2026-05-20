@@ -1,0 +1,7 @@
+animations
+animations/smallmapdevice
+attachments
+attachments/cloak
+attachments/hanger
+attachments/sigils
+attachments/sigils/light_attachment

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+b05f4264927cfcdd,grad_blk_orb.mat,Tiny.V6,4140125,1786
+520b7abaaa77eff8,drone_emg_decal.mat,Tiny.VA,10629482,5070
+582e831b140880bc,orb_lightning.mat,Tiny.V2,4563696,3398
+387290b210e6ef67,starflare_orb.mat,Tiny.V7,4305388,1686
+f9cb2731f20200cf,beam_orb.mat,Tiny.VA,4312579,3474
+0b08b0b1f0d2c0b6,beam_ring_orb.mat,Tiny.V3,4185746,2816
+fbcf3364764c97b3,beam_glow_orb.mat,Tiny.VA,4310693,1886
+e0b92d31a81713f7,beam_sparks_orb.mat,Tiny.VF,4244069,1778
+67ea0fc047d48318,beam_core_orb.mat,Tiny.VE,4272762,2122

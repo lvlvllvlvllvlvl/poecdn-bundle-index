@@ -1,0 +1,4 @@
+volcano_crumble
+volcano_eruption
+volcano_inactive
+volcano_lavaspill

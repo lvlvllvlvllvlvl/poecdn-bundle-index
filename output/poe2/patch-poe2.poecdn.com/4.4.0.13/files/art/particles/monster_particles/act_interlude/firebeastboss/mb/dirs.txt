@@ -1,0 +1,4 @@
+combo
+combo/claw_attack
+firewave
+volcano

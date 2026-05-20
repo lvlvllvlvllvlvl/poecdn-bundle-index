@@ -1,0 +1,5 @@
+cold_super_nova_projectile
+cold_super_nova_projectile/impact
+icebreath
+on_act
+on_act/pillar_leap_01

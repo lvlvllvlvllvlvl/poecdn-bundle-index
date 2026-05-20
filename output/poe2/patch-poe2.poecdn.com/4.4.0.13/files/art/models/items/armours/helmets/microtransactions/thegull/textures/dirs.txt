@@ -1,0 +1,7 @@
+fx
+fx/fist
+fx/massive
+fx/plus
+fx/resistance
+fx/run_fast
+fx/shield

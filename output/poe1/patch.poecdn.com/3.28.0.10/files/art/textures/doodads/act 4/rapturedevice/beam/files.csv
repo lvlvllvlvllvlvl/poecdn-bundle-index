@@ -1,0 +1,28 @@
+hash,file,bundle,offset,size
+73de6270fdc22c06,water_base_colour.dds,Art/Textures/Doodads/Act 4/RaptureDevice_7,262504,174948
+cbfb1f57f26922d9,water_base_colour.dds.header,Tiny_7,46322042,840
+497a99c789599a2b,water_basenwater_base_specs.dds,Art/Textures/Doodads/Act 4/RaptureDevice_7,87556,174948
+8f5fd2fc2bd6af2b,water_basenwater_base_specs.dds.header,Tiny_7,46322882,840
+2e84b34897a45f77,water_basec.mat,Art/Textures/Doodads/Act 4/RaptureDevice/beam,0,4618
+a90613d5b882f6d4,water_basecnwater_base_specs.mat,Art/Textures/Doodads/Act 4/RaptureDevice/beam,0,4618
+e5f03c0cea5a0f9e,spark2.mat,Tiny_7,46276226,1288
+4e1a6b2b3a5e77ac,spark2.dds,Art/Textures/Doodads/Act 4/RaptureDevice/beam,376370,22020
+e05a0009c9df94ab,spark2.dds.header,Tiny_7,46274706,1520
+c034a131d8f53d82,scrolly_midc.mat,Tiny_7,46270838,3868
+47344cd0c9d99eab,scrolly_mid.dds,Art/Textures/Doodads/Act 4/RaptureDevice_7,0,87556
+1d7d97848b1597cb,scrolly_mid.dds.header,Tiny_7,46313484,1520
+216a3e0ab57da8b2,light_grad_outer.mat,Tiny_7,46266614,1640
+8a0c3966eb36cf87,light_grad_outer.dds,Art/particles/monster_particles/act4_3,699236,87556
+0d38dca64f6e6a23,light_grad_outer.dds.header,Tiny_7,46265094,1520
+4cedb9c4cf1aea4c,lightning_random.mat,Tiny_7,46268758,2080
+36b01899f005e14c,lightning_random.dds,Art/Textures/Doodads/Act 4/RaptureDevice/beam,4618,349732
+4d20e8f5b06e5552,lightning_random.dds.header,Tiny_7,46268254,504
+4b662a9c5b7c6255,insidec.mat,Tiny_7,46263416,1678
+b47c916c8bad8c75,inside.dds,Art/particles/monster_particles/elemental_beacon_v2,3062328,5636
+58e38f9a3169be1b,inside.dds.header,Tiny_8,3635822,1520
+414e880f9815e99b,exhaust_glow.mat,Tiny_7,46261798,1618
+c63e42ca34ecd91e,exhaust_glow.dds,Art/Textures/Doodads/Act 4/RaptureDevice/beam,354350,22020
+30ebecf48ce7f066,exhaust_glow.dds.header,Tiny_7,46260278,1520
+b07cb69ef1a6384c,base_01.mat,Tiny_7,46258298,1980
+166c107a4ae24786,base_01.dds,Art/particles/monster_particles/act4_2,1816328,349700
+bc9a16a53e0eaad9,base_01.dds.header,Tiny_7,46256778,1520

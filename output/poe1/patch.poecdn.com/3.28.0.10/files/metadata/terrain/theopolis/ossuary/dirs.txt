@@ -1,0 +1,9 @@
+abyss
+bonepile
+feature
+floor
+hidden
+ledge
+stairs
+thickwall
+thinwall

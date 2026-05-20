@@ -1,0 +1,7 @@
+attachments
+attachments/cape
+attachments/chestplatedangle
+attachments/helmetcloth
+attachments/robe
+attachments/robe/female
+attachments/robe/male

@@ -1,0 +1,7 @@
+attachments
+attachments/armattach
+attachments/platesfemale
+attachments/platesmale
+attachments/skirtfemale
+attachments/skirtmale
+textures

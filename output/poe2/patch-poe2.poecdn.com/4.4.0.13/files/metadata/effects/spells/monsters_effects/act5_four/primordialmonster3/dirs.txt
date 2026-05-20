@@ -1,0 +1,6 @@
+epks
+fx
+fx/screech
+mat
+mat/petrified
+mat/screech_abyss

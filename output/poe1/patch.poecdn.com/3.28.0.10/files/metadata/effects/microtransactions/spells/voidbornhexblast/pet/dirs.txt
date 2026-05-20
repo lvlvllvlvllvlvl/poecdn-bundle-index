@@ -1,0 +1,4 @@
+doom_blast
+doom_blast_cursed
+shockwave
+surge

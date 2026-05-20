@@ -1,0 +1,4 @@
+headdress
+necklace
+shawl
+skirt

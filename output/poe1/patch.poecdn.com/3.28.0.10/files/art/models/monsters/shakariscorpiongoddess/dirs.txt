@@ -1,0 +1,5 @@
+animation
+animation/archnemesis
+leg_part
+leg_part/animation
+leg_part/animation/archnemesis

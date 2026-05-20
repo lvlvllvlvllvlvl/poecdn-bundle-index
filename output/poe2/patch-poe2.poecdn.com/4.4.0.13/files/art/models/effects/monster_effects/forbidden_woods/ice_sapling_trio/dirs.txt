@@ -1,0 +1,16 @@
+air_beam
+blood_mortar
+charge_beam
+ice_crystal
+ice_proj
+ice_rune
+ice_rune_explode
+ice_spike_impact
+ice_spike_travel
+interrupt_ritual
+on_act
+on_act/ice_orb
+on_act/teleport
+orb_beam
+orb_ice_ground
+soul_beam

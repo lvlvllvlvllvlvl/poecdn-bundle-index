@@ -1,0 +1,6 @@
+graphs
+groundtypes
+objects
+rooms
+rooms/unique
+rooms/warehouse

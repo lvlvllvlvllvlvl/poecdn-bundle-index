@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+f81b9cf00c5501b4,canal_road_01.arm,Tiny_41,6726517,2600
+bf7b64d0b458dd59,canal_to_buildings_01.arm,Tiny_41,6735761,3604
+8214e7600e80eddd,canal_straight_01.arm,Tiny_41,6729117,3152
+c156630f37063df4,canal_straight_02.arm,Tiny_41,6732269,3492
+db1a71808cf3043b,canal_concave_01.arm,Tiny_11,41393403,1506
+429a9588db1244c5,canal_convex_01.arm,Folders/metadata/5/terrain,1182320,4504
+fc0d218c82b38b95,canal_buildings_straight_01.arm,Tiny_11,45947913,3166
+1eb4647867689327,canal_bridge_01.arm,Folders/metadata/D/terrain,876474,4620
+aad3ebe2878ae23a,canal_bridge_01_pigeons.arm,Folders/metadata/F/terrain,1020032,5984

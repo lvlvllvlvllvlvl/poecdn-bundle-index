@@ -1,0 +1,6 @@
+vaaltimescientist
+vaaltimescientist/attachments
+vaaltimescientist/attachments/headfeathers
+vaaltimescientist/attachments/headfeathers/animations
+vaaltimescientist/attachments/robe
+vaaltimescientist/attachments/robe/animations

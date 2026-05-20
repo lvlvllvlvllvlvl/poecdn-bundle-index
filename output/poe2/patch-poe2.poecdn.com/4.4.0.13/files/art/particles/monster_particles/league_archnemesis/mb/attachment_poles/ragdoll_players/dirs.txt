@@ -1,0 +1,5 @@
+animations
+animations/pose_01
+animations/pose_02
+animations/pose_03
+animations/pose_04

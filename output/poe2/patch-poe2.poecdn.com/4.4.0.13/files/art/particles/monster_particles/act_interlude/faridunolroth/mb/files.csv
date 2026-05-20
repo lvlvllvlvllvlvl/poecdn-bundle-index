@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+479921be5b2910aa,l_arm.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/542F56B5A086A78E.92228571F2F4FF67.death_rock_platform.pet,392086,16160
+92f9ee3530e460be,l_arm.fmt.header,Tiny.V1,35182946,128
+11d8b8f7fb1b4031,r_arm.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/ADA130A68CBC8D87.6C2DA3C5AF5418F2.drop_marker.pet,547806,16160
+a9f2df23e883c73d,r_arm.fmt.header,Tiny.V5,34975076,128
+811c8f40e853bb4c,projectilerig.amd,Tiny.V0,32130112,1094
+98b801312f43b7b8,projectilerig.ast,Tiny.V4,35644872,1435
+dc0a13aede0f068d,mirrored_halfcyl.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/E00156BBB00B5844.A08826E55B9DED23.rune_fire.pet,355488,9842
+ca25ed02d252bebe,mirrored_halfcyl.fmt.header,Tiny.V8,35172339,182
+52c9ff02ffb9b8af,twistycone.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.05AC08E97D331122.whirlingblades_swirl.pet,458318,18134
+ab5ba84f6edf168b,twistycone.fmt.header,Tiny.V8,35172521,176
+4333ba1df120b141,twistysphere_reverse.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.605AE59E3AC7E730.bone_storm_marker.pet,400187,30970
+b95725a7cf7e57cd,twistysphere_reverse.fmt.header,Tiny.V3,34866269,186
+7454b90b41d560de,twistysphere.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.AAA2D90DA4B58A1F.upline.pet,491873,30954
+816c3866f02c6d4d,twistysphere.fmt.header,Tiny.VB,35821713,178

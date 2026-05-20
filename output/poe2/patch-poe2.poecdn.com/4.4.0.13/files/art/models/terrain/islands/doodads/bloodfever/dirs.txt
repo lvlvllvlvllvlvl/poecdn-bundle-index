@@ -1,0 +1,9 @@
+bossarena_burningprops
+bossarena_burningprops/burningbeams_01
+bossarena_burningprops/burningbeams_02
+bossarena_burningprops/burningbeams_03
+bossarenatotems
+loreobjects
+loreobjects/textures
+textures
+textures/arenachairs

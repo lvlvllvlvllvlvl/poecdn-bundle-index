@@ -1,0 +1,5 @@
+animations
+animations/town
+attachments
+attachments/cloth
+attachments/coat

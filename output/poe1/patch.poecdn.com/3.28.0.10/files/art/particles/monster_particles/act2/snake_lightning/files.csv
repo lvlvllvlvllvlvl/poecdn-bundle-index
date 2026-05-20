@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+7d5c8862655fbef6,thin_lightning.mat,Tiny_6,45421004,2770
+db210759b75b2b43,thin_lightning.dds,Art/particles/static_whip,174948,174948
+fe2bf4d869c377d2,thin_lightning.dds.header,Tiny_7,36653216,840
+39d9ff65eb091c57,test_lightning.mat,Tiny_6,45419498,1506
+187459662165713b,test_lightning.dds,Art/particles/static_whip/Ice,262700,174948
+2861aa8713126d3a,test_lightning.dds.header,Tiny_7,36650768,840
+287a5884623a5b5c,light_gradientc.mat,Tiny_6,45415690,2122
+8687967314bdf919,light_gradient.dds,Folders/art/particles/monster_particles/act2_1,2601580,11084
+dbb3b74f7f0b4a06,light_gradient.dds.header,Tiny_6,45414170,1520
+a545a1d441a0322c,lightning_random.mat,Tiny_6,45417812,1686
+1ff6b22d4f392879,lightning_random.dds,Art/particles/ground_effects/lightning,0,349732
+a70545a5f08629c4,lightning_random.dds.header,Tiny_6,52463627,504
+96d3018640fb7106,glow.mat,Tiny_6,45412462,1708
+0d2344ca9ac95a58,glow.dds,Art/particles/static_whip,0,174948
+088241b6643e2bff,glow.dds.header,Tiny_7,36623692,840

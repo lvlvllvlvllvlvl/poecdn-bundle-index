@@ -1,0 +1,3 @@
+spiderportal01
+spiderportal01/mb
+spiderportal01/textures

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+a21ec35605df8776,hellionspectralc.mat,Tiny_8,32656076,1876
+6b4872f9e8d0f861,hellionspectral_colour.dds,Art/Textures/Monsters/Hellion/spectral,0,174924
+c851573c5ebacceb,hellionspectral_colour.dds.header,Tiny_8,32654556,1520
+9e5a802d8e698a6b,hellionspectral_alpha_hlc.mat,Tiny_8,32651366,3190
+5caf7ea75e6682e0,hellionspectral_alpha_hl.dds,Art/Textures/Monsters/Hellion/spectral,174924,349700
+b18db31d23bd3953,hellionspectral_alpha_hl.dds.header,Tiny_8,32649846,1520
+59d260db568cab71,black_solidc.mat,Tiny_8,32648246,1600
+e00dd7208a1a9ef6,black_solid.dds,Tiny_8,45201365,332
+f1e870780e2f2085,black_solid.dds.header,Tiny_8,45201697,1520

@@ -1,0 +1,5 @@
+attachments
+attachments/bodywrap
+attachments/larmstrip
+attachments/rarmstrip
+textures

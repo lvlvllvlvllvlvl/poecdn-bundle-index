@@ -1,0 +1,11 @@
+primeval_boss
+primeval_boss/abyssal_shield
+primeval_boss/abyssal_volatile
+primeval_boss/abyssal_volatile/impact
+primeval_boss/abyssal_volatile/projectile
+primeval_boss/arena_mechanics
+primeval_boss/boulders
+primeval_boss/buildups
+primeval_boss/stone_block_proj
+primeval_boss/stone_geyser
+primeval_boss/stone_tomb

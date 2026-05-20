@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+20dba96c4cd73471,light_gradient.mat,Tiny.VE,34750293,1856
+9b40aa3ee487ae5d,light_gradient.dds,Streaming/Content/metadata/particles/monster_effects/act7/D7F81C03768CA656.059B3C2DFE3BFA73.midline.pet,405348,11084
+bfd27b43e1eae7bc,light_gradient.dds.header,Tiny.V5,34806592,1520
+74379802a09f3794,ring_shine.mat,Tiny.V1,35026108,1754
+3e405af779829cc1,ring_shine.dds,Streaming/Content/metadata/particles/monster_effects/act7/D7F81C03768CA656.059B3C2DFE3BFA73.midline.pet,416432,22020
+fa659becb698c7ce,ring_shine.dds.header,Tiny.V3,31410871,1520
+cd2f099d3275f002,beam_multic.mat,Tiny.VF,35282940,2028
+99633cd987a3fa4c,beam_multi.dds,Streaming/Content/metadata/effects/spells/monsters_effects/DF7FA9C6D6995B2F.7EFE43017C515A12.beamnova.ao,233488,174948
+c23eea4af1c8e02c,beam_multi.dds.header,Tiny.V5,34805752,840
+8ee5bcfd5d690c6c,beam_atc.mat,Tiny.V9,35737819,3644
+911457997252b2bf,beam_at.dds,Streaming/Content/metadata/effects/spells/monsters_effects/DF7FA9C6D6995B2F.7EFE43017C515A12.beamnova.ao,145900,87588
+2dbc2296de7a69d8,beam_at.dds.header,Tiny.VF,35274300,504
+738bd3270267a01a,beam_addc.mat,Tiny.VE,34747747,2546
+eff442d2d383d58a,beam_add.dds,Streaming/Content/metadata/effects/spells/monsters_effects/DF7FA9C6D6995B2F.7EFE43017C515A12.beamnova.ao,58352,87548
+ff779bef866e0651,beam_add.dds.header,Tiny.V4,35411240,840

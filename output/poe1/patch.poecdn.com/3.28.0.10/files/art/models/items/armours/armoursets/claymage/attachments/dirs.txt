@@ -1,0 +1,12 @@
+cape
+cape/dex
+cape/dexint
+cape/int
+cape/str
+cape/strdex
+cape/strdexint
+cape/strint
+glovedangle
+hatdangle
+pauldron
+skirt

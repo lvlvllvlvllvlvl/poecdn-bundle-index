@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+39bd3f803522d644,tornado_outerc.mat,Tiny_6,34854696,3688
+67aed1b6bf5e7dc3,tornado_outer.dds,Art/particles/ice_crash/shockwave,43876,87588
+6525277c53e6cb3a,tornado_outer.dds.header,Tiny_6,34854192,504
+cab31ac3e5c7d226,sun_shockwavec.mat,Tiny_6,34852204,1988
+f83d28ca59c9bbce,sun_shockwave.dds,Art/particles/monster_particles/act4_20,853504,87556
+238d64351e65c7f9,sun_shockwave.dds.header,Tiny_6,52534925,1520
+00f3b37772e5a66f,sun_sharp_shockwavec.mat,Tiny_6,34850430,1774
+71f6a5aa6dde6ccf,sun_sharp_shockwave.dds,Art/particles/ice_crash/shockwave,131464,22020
+36ffd93cfbfc8ebf,sun_sharp_shockwave.dds.header,Tiny_6,34848910,1520
+7e86c568c2029edf,shockwave_clean.mat,Tiny_6,34846364,2546
+753b631126205a01,shockwave_clean.dds,Art/particles/ice_crash/shockwave,0,43876
+c0808f1d2aaa2d13,shockwave_clean.dds.header,Tiny_6,34845524,840
+507d6cd9c2a13f2d,explosion_spherec.mat,Tiny_6,34842030,3494
+08dcdd6c8c636588,explosion_sphere.dds,Art/particles/ice_crash/shockwave,153484,87556
+3869b9ed8de048e3,explosion_sphere.dds.header,Tiny_6,34840510,1520

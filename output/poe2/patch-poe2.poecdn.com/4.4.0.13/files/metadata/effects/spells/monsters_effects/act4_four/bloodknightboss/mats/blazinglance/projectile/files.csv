@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+c478d37eea14d776,projectile_spray_r.mat,Tiny.V6.1,105101512,40272
+62ce0f688747a7f9,projectile_spray_u.mat,Tiny.V0.1,76973636,18446
+039c92a486beb359,projectile_splashes_r.mat,Tiny.VC.1,75834068,57674
+aed459f16fbd0e5b,projectile_splashes_u.mat,Tiny.V0.1,76953768,19868
+4a2b86246a451776,projectile_ribbons_0_r.mat,Tiny.V5.1,72592414,51204
+982036ae76afe6b6,projectile_ribbons_u.mat,Tiny.V3.1,72116832,12600
+9625d163a73e0fab,projectile_ribbons_tall_r.mat,Tiny.VF.1,72546492,51500
+38cd0fa065666307,projectile_ribbons_tall_r1.mat,Tiny.VD.1,68379774,25274
+f73b69b613eb500d,projectile_ribbons_1_r.mat,Tiny.VD.1,68379774,25274
+7d182706a92a3156,projectile_ribbons_1_u.mat,Tiny.VA.1,71604650,12566
+b45f51bdf2df0478,projectile_debris_r.mat,Tiny.V3.1,72112172,4660
+94939e89ea03e56a,projectile_debris_u.mat,Tiny.V1.1,71231064,18918
+0ac4e05c0eced247,sweep_core_u.mat,Tiny.V5.1,72643618,3718
+0bbaeea7f9ea60ee,sweep_core_r.mat,Tiny.V3.1,72129432,57636
+c402607a8578e420,sweep_core_r2.mat,Tiny.VB.1,71748538,57090

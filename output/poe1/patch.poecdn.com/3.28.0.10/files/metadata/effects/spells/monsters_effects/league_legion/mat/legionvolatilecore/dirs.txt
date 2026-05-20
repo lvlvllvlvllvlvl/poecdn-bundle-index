@@ -1,0 +1,5 @@
+volatile_appear
+volatile_impact_aoe
+volatile_ptemit
+volatile_spellcast
+volatile_spellcast/temp

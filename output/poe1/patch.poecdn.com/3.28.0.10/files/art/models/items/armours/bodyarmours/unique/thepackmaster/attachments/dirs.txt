@@ -1,0 +1,9 @@
+capedex
+capedexint
+capeint
+capestr
+capestrdex
+capestrdexint
+capestrint
+robe
+shoulderpadcloth

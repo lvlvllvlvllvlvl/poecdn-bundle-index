@@ -1,0 +1,8 @@
+armourattachments
+dex
+dexint
+int
+monsterspawners
+objects
+str
+strdexint

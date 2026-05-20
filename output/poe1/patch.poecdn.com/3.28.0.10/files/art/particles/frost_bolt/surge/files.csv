@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+59828a788390320d,white_solid.mat,Tiny_6,30612781,2274
+4e781a7e92e24236,white_solid.dds,Tiny_8,30911858,332
+de0a90992bdbfded,white_solid.dds.header,Tiny_8,30912190,1520
+b83094b49e954111,trail_bloom.mat,Tiny_6,30610893,1888
+b05c559fa9cf60a4,trail_bloom.dds,Art/particles/frost_bolt/surge,43852,11084
+34695a69ae31389c,trail_bloom.dds.header,Tiny_6,30609373,1520
+0ae0b65827a566fd,rays.mat,Tiny_6,30606861,2512
+6c7b8e25ed2beddb,rays.dds,Folders/art/particles/holy_explode,186260,349692
+b54f83a9c7453469,rays.dds.header,Tiny_6,102721726,840
+28d5a4634c8cf380,flash.mat,Tiny_6,30604957,1904
+5cfdc3cfbed4e5a5,flash.dds,Tiny_7,40091638,2892
+5dda0969c1122e0d,flash.dds.header,Tiny_7,40094530,1520
+9fe94954c97a7b02,burst.mat,Tiny_6,30603227,1730
+f767b4772171e8e1,burst.dds,Art/particles/frost_bolt/surge,0,43852
+f6c80d00cd30b209,burst.dds.header,Tiny_7,33032216,1520

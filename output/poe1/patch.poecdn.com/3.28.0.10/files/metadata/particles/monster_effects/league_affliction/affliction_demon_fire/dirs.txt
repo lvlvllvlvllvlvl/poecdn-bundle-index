@@ -1,0 +1,6 @@
+fire
+fire/body_epk
+fire/fire_slash
+fire/flameblast
+fire/flameblast_explode
+fire/tornado

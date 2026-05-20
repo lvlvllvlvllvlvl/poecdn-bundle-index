@@ -1,0 +1,6 @@
+gate
+lumbermillgate
+textures
+textures/cliffs
+textures/lumbermill
+tgms

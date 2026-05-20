@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+19cc2a62636e0f68,rampartraptor.sm,Tiny.V8,11039008,2552
+a1f0ae5241b67ef0,rampartraptordrop_adefa0d6.smd,Streaming/Content/metadata/items/weapons/twohandweapons/34582A1D8F9E4931.C5127762784B5782.rampartraptorcrossbowdrop.ao,0,660181
+8ef6ed565b3dc9ea,rampartraptordrop_adefa0d6.smd.header,Tiny.VE,11112748,448
+3ac6ed0c0c3cfeb7,rampartraptorcrossbowdrop.sm,Tiny.V2,11262167,672
+092feeb60b56f40d,rampartraptorcrossbowdrop.amd,Tiny.V8,9160640,198
+9e22bd8830ef2e72,rampartraptorcrossbowdrop.ast,Tiny.VA,11099171,1533
+a952e0332daa346a,rig_47e288f8.smd,Streaming/Content/metadata/items/weapons/twohandweapons/34582A1D8F9E4931.C5127762784B5782.rampartraptorcrossbowheld.ao,0,660181
+672acf9b056c5a11,rig_47e288f8.smd.header,Tiny.V8,11041560,387
+3a2077e2287c0224,rig.amd,Tiny.V2,11262839,3614
+e952e92dbc85892d,rig.ast,Content/metadata/items/weapons/twohandweapons/crossbows/DF41C0DC8EA901D2.doublevisionheld.ao,344355,22942

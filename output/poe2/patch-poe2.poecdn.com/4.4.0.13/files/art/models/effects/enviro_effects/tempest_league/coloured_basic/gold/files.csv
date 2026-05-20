@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+2faf63325ab27370,rarity_buff_af7104a5.smd,Streaming/Content/metadata/effects/environment/tempest_league/EEB19D40C9B0A0E6.BAF6F2A06F55E713.increaseddrop.epk,0,13247
+4fb6bc998cf4fba4,rarity_buff_af7104a5.smd.header,Tiny.V4,7138971,448
+6da22d10f330f7bd,increaseddrop.sm,Tiny.VC,7003035,862
+f0ae1d2d1537438e,increaseddrop.amd,Tiny.V5,6924963,110
+071bce965edfdc31,increaseddrop.ast,Tiny.VA,7116250,495
+b532f104116ff18b,explode_10b19f1b.smd,Streaming/Content/metadata/effects/environment/tempest_league/EEB19D40C9B0A0E6.BAF6F2A06F55E713.buffexplode.ao,0,150476
+7198dbeeae2a198c,explode_10b19f1b.smd.header,Tiny.V4,7141707,553
+789fecd6f49bccf7,buffexplode.sm,Tiny.V1,6852340,2306
+128011e7ce6113de,buffexplode.amd,Tiny.V2,7263718,86
+b826b04e6a615bc6,buffexplode.ast,Content/metadata/effects/spells/skeletal_chains/skeletalchains_chaining_fast.ao,2190724,7780

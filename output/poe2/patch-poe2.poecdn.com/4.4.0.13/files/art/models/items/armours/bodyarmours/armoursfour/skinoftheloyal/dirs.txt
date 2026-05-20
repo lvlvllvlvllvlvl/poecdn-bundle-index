@@ -1,0 +1,7 @@
+attachments
+attachments/f
+attachments/f/skirt
+attachments/m
+attachments/m/skirt
+attachments/str
+textures

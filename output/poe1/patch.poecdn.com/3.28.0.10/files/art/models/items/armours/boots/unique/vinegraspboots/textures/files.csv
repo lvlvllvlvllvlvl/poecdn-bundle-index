@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+6b431a60fd9447ca,vinegraspbootsc.mat,Art/Models/Items/Armours/Boots/Unique_24,349700,6872
+a7f51672ffe64d0e,vinegraspboots_sss_dxt1.dds,Art/Models/Items/Armours/Boots/Unique_22,699400,174924
+86cd06c10e9005c5,vinegraspboots_sss_dxt1.dds.header,Tiny_2,37152869,1520
+b9634e590598430c,vinegraspboots_normal_dxt5.dds,Art/Models/Items/Armours/Boots/Unique_22,349700,349700
+c0b90f2a815f116e,vinegraspboots_normal_dxt5.dds.header,Tiny_2,37151349,1520
+cbe2fe4530a21621,vinegraspboots_glow_dxt5.dds,Art/Models/Items/Armours/Boots/Unique_22,0,349700
+c1909c83cb1161cf,vinegraspboots_glow_dxt5.dds.header,Tiny_2,37149829,1520
+bb97afca4cbe9bd9,vinegraspboots_colour_dxt5.dds,Art/Models/Items/Armours/Boots/Unique_24,0,349700
+d9fc12d3a1234a1d,vinegraspboots_colour_dxt5.dds.header,Tiny_2,37148309,1520
+d2ca0c714fd97705,vinegraspbootsrefraction_mask_dxt1.dds,Art/Models/Items/Armours/Boots/Unique_24,531496,2796364
+82499b3ed009d31c,vinegraspbootsrefraction_mask_dxt1.dds.header,Tiny_2,37155909,1520
+980a4562247185aa,vinegraspbootsrefraction_glow_dxt1.dds,Art/Models/Items/Armours/Boots/Unique_24,356572,174924
+480d1ea789d49e22,vinegraspbootsrefraction_glow_dxt1.dds.header,Tiny_2,37154389,1520

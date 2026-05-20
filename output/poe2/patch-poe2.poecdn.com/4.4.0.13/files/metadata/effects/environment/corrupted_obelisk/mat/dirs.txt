@@ -1,0 +1,13 @@
+corrupted
+corrupted/env
+corrupted/epk
+corrupted/obelisk
+corrupted/obelisk/close
+corrupted/projectile
+radiant
+radiant/epk
+radiant/obelisk
+radiant/obelisk/close
+radiant/obelisk/open
+radiant/projectile
+radiant/projectile/impact

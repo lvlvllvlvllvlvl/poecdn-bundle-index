@@ -1,0 +1,4 @@
+architecture
+doodads
+foliage
+ground

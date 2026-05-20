@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+5f8ddc0dbc7cdd69,pavement.mat,Tiny_7,66021086,1982
+1ec152dee8e6d987,pavement_normal_dxt5.dds,Art/Textures/Environment/EndGame/CrimsonTownship_4,0,1398276
+844709e326fb4cac,pavement_normal_dxt5.dds.header,Tiny_7,66024588,1520
+10976a6d549fc252,pavement_colour_dxt5.dds,Art/Textures/Environment/EndGame/CrimsonTownship_3,1398276,1398276
+e0ad4a6409c58b82,pavement_colour_dxt5.dds.header,Tiny_7,66023068,1520
+d60e4a8cc7a9886b,pavementblood02.mat,Tiny_7,66031214,2066
+a44cc077c642d159,pavementblood02_normal_dxt5.dds,Art/Textures/Environment/EndGame/CrimsonTownship_3,0,1398276
+9a0b61ab204b1efc,pavementblood02_normal_dxt5.dds.header,Tiny_7,66034800,1520
+3407192c40a74b72,pavementblood02_colour_dxt5.dds,Art/Textures/Environment/EndGame/CrimsonTownship_2,0,1398276
+28762be985c3fe40,pavementblood02_colour_dxt5.dds.header,Tiny_7,66033280,1520
+840f814ff688d807,pavementblood01.mat,Tiny_7,66026108,2066
+6a53550ea71905ae,pavementblood01_normal_dxt5.dds,Art/Textures/Environment/EndGame/CrimsonTownship_1,0,1398276
+14609d3bdb4d820b,pavementblood01_normal_dxt5.dds.header,Tiny_7,66029694,1520
+543ce70021799d8c,pavementblood01_colour_dxt5.dds,Art/Textures/Environment/EndGame/CrimsonTownship,0,1398276
+8132f3cfc82ac133,pavementblood01_colour_dxt5.dds.header,Tiny_7,66028174,1520

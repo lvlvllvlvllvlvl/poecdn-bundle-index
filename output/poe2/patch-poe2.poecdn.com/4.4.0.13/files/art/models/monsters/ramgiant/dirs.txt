@@ -1,0 +1,6 @@
+animations
+animations/carverboggiant
+attachments
+attachments/carverboggiantskirt
+attachments/weapons
+textures

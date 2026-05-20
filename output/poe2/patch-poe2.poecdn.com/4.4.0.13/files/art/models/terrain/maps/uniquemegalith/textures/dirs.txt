@@ -1,0 +1,13 @@
+architecture
+centerrune
+foliage
+ground
+holedmegalith
+monolith
+moss
+rocks
+rubble
+runestones
+stonewall
+trees
+trees/rooffade

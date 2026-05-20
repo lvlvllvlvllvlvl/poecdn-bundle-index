@@ -1,0 +1,7 @@
+pet
+pet/1h_sword
+pet/2h_sword
+pet/bow
+pet/dwc
+pet/scepter
+pet/staff

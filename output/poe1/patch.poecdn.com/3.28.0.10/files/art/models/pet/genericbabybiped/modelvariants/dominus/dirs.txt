@@ -1,0 +1,3 @@
+attachments
+attachments/neck_chain
+attachments/robe

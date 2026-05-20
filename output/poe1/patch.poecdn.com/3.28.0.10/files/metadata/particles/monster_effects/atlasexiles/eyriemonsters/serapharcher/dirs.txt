@@ -1,0 +1,4 @@
+mortar
+projectile
+snipe
+trickshot

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+67e8fc9e047c583e,smoke_background._gradient.mat,Tiny_6,45532958,1442
+63f5df49b653727b,smoke_background._gradient_dxt5.dds,Art/particles/monster_particles/act2_boss_8,1792900,349700
+0763b0996ce5e870,smoke_background._gradient_dxt5.dds.header,Tiny_6,45534400,1520
+06bf9c6087d0c122,ground_smoke.mat,Tiny_6,45528826,1362
+20bf2137fac5a9d3,ground_smoke_ring.mat,Tiny_6,45530188,1250
+7e96ed8165c37cf8,ground_smoke_ring_dxt5.dds,Art/particles/monster_particles/act2_boss_8,2142600,349700
+22548250a820ba47,ground_smoke_ring_dxt5.dds.header,Tiny_6,45531438,1520
+13c2f137f3fd99aa,ground_smoke_dxt5.dds,Folders/art/particles/monster_particles/atlasexiles_7,3305652,43876
+1db8a93480493bbb,ground_smoke_dxt5.dds.header,Tiny_6,62921600,840

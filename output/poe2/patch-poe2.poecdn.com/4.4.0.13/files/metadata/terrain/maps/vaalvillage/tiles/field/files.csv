@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+05626e4a7c4e1210,field_fill_01.tdt,Tiny.V4.1,155294889,433
+6a17c768f4b12d55,fieldwalkable_quad_01.tdt,Tiny.V1.1,153671120,2695
+c89cec8d71a19c16,fieldwalkable_st_01.tdt,Tiny.V9.1,150059352,1629
+df848d392c1b3c1c,fieldwalkable_tri_01.tdt,Tiny.V7.1,152607852,2878
+901caf37e111d2e2,fieldwalkable_tri_02.tdt,Tiny.V9.1,150060981,2743
+2272154548647177,fieldwalkable_doorclosed_st_01.tdt,Tiny.V8.1,150671721,1762
+c5eb41e510020e36,fieldwalkable_door_cnr_01.tdt,Tiny.VA.1,153145369,1745
+834af2f4c30cedca,fieldwalkable_door_st_01.tdt,Tiny.V5.1,151467674,1710
+ed1d4b2d21c8112f,fieldwalkable_door_tri_01.tdt,Tiny.V5.1,151469384,2291
+7bf75146735f8e55,fieldwalkable_cnr_01.tdt,Tiny.VA.1,153142760,2609
+5951c9655112857b,fieldwalkable_cnr_02.tdt,Tiny.V8.1,150668894,2827
+dbf4bf8b161a2792,village_paddock.et,Tiny.V8.1,150673483,218
+70e94b1954ddaf3a,village_paddock_ground.gt,Tiny.VA.1,153147114,64
+1fd4829314474595,village_paddock_trim.gt,Tiny.VC.1,155506561,60

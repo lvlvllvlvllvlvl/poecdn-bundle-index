@@ -1,0 +1,12 @@
+cold
+cold/impact
+cold/projectile
+environmentdarkening
+fire
+fire/impact
+fire/meteor
+fire/trail
+lightning
+lightning/impact
+lightning/marker
+onact

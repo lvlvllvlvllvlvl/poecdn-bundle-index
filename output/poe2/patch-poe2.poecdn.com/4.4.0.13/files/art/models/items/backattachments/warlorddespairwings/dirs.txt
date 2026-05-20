@@ -1,0 +1,8 @@
+attachments
+attachments/base
+attachments/l_main_wings
+attachments/l_wing_rocks
+attachments/r_main_wings
+attachments/r_wing_rocks
+textures
+texturesfx

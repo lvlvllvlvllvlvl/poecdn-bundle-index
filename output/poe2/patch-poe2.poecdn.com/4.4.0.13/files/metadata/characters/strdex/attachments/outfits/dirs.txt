@@ -1,0 +1,3 @@
+gladiatoroutfit
+mercenaryoutfit
+mercenaryoutfit/attachments

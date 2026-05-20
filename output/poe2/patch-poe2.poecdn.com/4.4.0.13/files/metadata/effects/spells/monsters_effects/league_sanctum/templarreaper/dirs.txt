@@ -1,0 +1,7 @@
+fx
+fx/double_strike_01
+fx/holy_cannon_marker
+fx/on_hit
+fx/reaper_wall_laser
+fx/reaper_wall_laser/barrier_beam_01
+fx/reaper_wall_laser/barrier_beam_telegraph_01

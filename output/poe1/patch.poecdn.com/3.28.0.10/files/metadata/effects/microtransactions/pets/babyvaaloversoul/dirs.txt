@@ -1,0 +1,13 @@
+ao
+epk
+fx
+fx/idle_relaxed_01
+fx/idle_relaxed_02
+mat
+mat/emerge
+mat/idle_relaxed_01
+mat/idle_relaxed_02
+mat/idle_relaxed_02/chargeup
+mat/idle_relaxed_02/laser_impact
+mat/idle_relaxed_02/laser_shot
+mat/idle_relaxed_02/laser_whiff

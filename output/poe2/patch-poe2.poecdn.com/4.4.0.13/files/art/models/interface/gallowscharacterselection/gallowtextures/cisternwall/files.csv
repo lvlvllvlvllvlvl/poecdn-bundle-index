@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+d79f3063e3d51eb9,login_mainchamberwall03c.mat,Tiny.V2,7821736,1088
+97ee475320fcd36d,login_mainchamberwall03_normal.dds,Streaming/Content/data/worldareas/0F/g_login.vworld,0,2796388
+131428dad85d01ce,login_mainchamberwall03_normal.dds.header,Tiny.V4,7714248,840
+77c088c23e600414,login_mainchamberwall03_colour.dds,Streaming/Content/data/worldareas/B3/g_login.vworld,0,1398268
+7f787a8ebdbab687,login_mainchamberwall03_colour.dds.header,Tiny.V9,7822107,840
+49ca8258724da39b,login_mainchambercolumn01c.mat,Tiny.VB,7592435,1396
+1e42a81c128fa057,login_mainchambercolumn01_normal.dds,Streaming/Content/data/worldareas/82/g_login.vworld,0,5592580
+231e1c151c8aab11,login_mainchambercolumn01_normal.dds.header,Tiny.V9,7820587,1520
+dcf9b13b9af3b79b,login_mainchambercolumn01_colour.dds,Streaming/Content/data/worldareas/EA/g_login.vworld,0,2796364
+281048f02500e845,login_mainchambercolumn01_colour.dds.header,Tiny.V8,7523597,1520
+dad0efceb3d53adb,login_mainchambercolumn02c.mat,Tiny.V6,7639973,1096
+34dd6c9c5fe90778,login_mainchambercolumn02_normal.dds,Streaming/Content/data/balance/worldareas/D0/mappenitentiary.vworld,0,1398276
+82bcf3b484297416,login_mainchambercolumn02_normal.dds.header,Tiny.VD,7443710,1520
+0ff35e85b6367123,login_mainchambercolumn02_colour.dds,Streaming/Content/data/balance/worldareas/F5/mappenitentiary.vworld,0,699212
+b92f8d452c2c0ce8,login_mainchambercolumn02_colour.dds.header,Tiny.V1,7526198,1520

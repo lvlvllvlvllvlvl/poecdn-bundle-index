@@ -1,0 +1,5 @@
+unholy_trio_encounter
+unholy_trio_encounter/seed_of_corruption
+unholy_trio_encounter/seed_of_corruption/on_act
+unholy_trio_encounter/seed_of_corruption/on_act/energy_repelled_01
+unholy_trio_encounter/seed_of_corruption/on_act/unholy_reap_01

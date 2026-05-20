@@ -1,0 +1,8 @@
+ice_elemental
+kaom_warrior_archer
+kaom_warrior_archer/electrical_arrow
+maligaro_projectile
+power_shot
+power_shot/chargeup
+skeletonmass
+skeletonmass/blood_pierce

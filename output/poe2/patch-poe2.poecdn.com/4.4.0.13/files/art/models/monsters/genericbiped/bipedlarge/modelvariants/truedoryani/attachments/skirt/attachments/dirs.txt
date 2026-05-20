@@ -1,0 +1,5 @@
+belt
+dagger
+dangler_1
+dangler_2
+ropes

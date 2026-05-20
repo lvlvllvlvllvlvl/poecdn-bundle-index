@@ -1,0 +1,55 @@
+hash,file,bundle,offset,size
+b8cd9769366a0751,market_shelves_v04_05.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls_1,753757,359861
+6c7a5604fdfdfb0e,market_shelves_v04_05.fmt.header,Tiny_4,38494864,429
+f25d6cc6f823d954,market_shelves_v04_04.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls_1,389506,364251
+ec45b1c771c9b187,market_shelves_v04_04.fmt.header,Tiny_4,38494456,408
+97f6113d45d031bf,market_shelves_v04_03.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls_1,269981,119525
+b584ba36c7c22d7d,market_shelves_v04_03.fmt.header,Tiny_4,38494003,453
+2d2dac816bf6e7b2,market_shelves_v04_02.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls_1,0,269981
+9b9a4715d1fbec66,market_shelves_v04_02.fmt.header,Tiny_4,38493620,383
+2d8dfacb38f1d654,market_shelves_v04_01.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,2333778,578113
+0bf585aa9ab18241,market_shelves_v04_01.fmt.header,Tiny_4,38493100,520
+bc72750e9f476019,market_shelves_v03_02.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,2180287,153491
+5a11572b4c5b1ded,market_shelves_v03_02.fmt.header,Tiny_4,38492701,399
+1a3b65bcabb85c84,market_shelves_v03_01.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,1919864,260423
+24b89fae47bb050b,market_shelves_v03_01.fmt.header,Tiny_4,38492371,330
+3e36603de00666f7,market_shelves_v02_03.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,1532379,387485
+92f9c9332028692b,market_shelves_v02_03.fmt.header,Tiny_4,38491944,427
+b334228a48b3e0f8,market_shelves_v02_02.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,1462598,69781
+501b1827152687d4,market_shelves_v02_02.fmt.header,Tiny_4,38491640,304
+938e49cd66ee08d3,market_shelves_v02_01.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,1368357,94241
+890e71ab1688fa2e,market_shelves_v02_01.fmt.header,Tiny_4,38491213,427
+30a605408b1d6b16,market_shelves_v01_06.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,1150030,218327
+479fd9af4f69bcfa,market_shelves_v01_06.fmt.header,Tiny_4,38490898,315
+e3cc9dde8dae6adc,market_shelves_v01_05.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,1022339,127691
+1198b042dcac7ee9,market_shelves_v01_05.fmt.header,Tiny_4,38490480,418
+d6826fcd6c101022,market_shelves_v01_04.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,900650,121689
+780f1ac774909171,market_shelves_v01_04.fmt.header,Tiny_4,38490090,390
+ac1e439f7f42d0e1,market_shelves_v01_03.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,638459,262191
+52d31913dbed6ee9,market_shelves_v01_03.fmt.header,Tiny_4,38489775,315
+eb67884f8a21ded0,market_shelves_v01_02.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,404666,233793
+acb549963a491464,market_shelves_v01_02.fmt.header,Tiny_4,38489334,441
+6cde070c5e25cb3c,market_shelves_v01_01.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,272815,131851
+a9754f761a59c432,market_shelves_v01_01.fmt.header,Tiny_4,38489006,328
+ae0a77b2753978a0,market_debris_07.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,266184,6631
+3cd11d19bf0926cc,market_debris_07.fmt.header,Tiny_4,38488850,156
+3c083e273a7bf3bd,market_debris_06.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,251829,14355
+3499a2c70d58bfa7,market_debris_06.fmt.header,Tiny_4,38488544,306
+8ead73e0eb35b950,market_debris_05.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,245832,5997
+d2710add97176577,market_debris_05.fmt.header,Tiny_4,38488354,190
+beb880549c2316fb,market_debris_04.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,239883,5949
+ee18c5328d5d38d8,market_debris_04.fmt.header,Tiny_4,38488164,190
+f0435007103c1dea,market_debris_03.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,226796,13087
+fb5bce31b7a4c1f3,market_debris_03.fmt.header,Tiny_4,38487937,227
+af1ab094812e11ff,market_debris_02.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,209669,17127
+0c38940d35a289e1,market_debris_02.fmt.header,Tiny_4,38487710,227
+410f31d43b837e5e,market_debris_01.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,198982,10687
+38f559985c68a740,market_debris_01.fmt.header,Tiny_4,38487483,227
+6d92d4d68b682922,barrels_04.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,176567,22415
+b798c9e5912e458e,barrels_04.fmt.header,Tiny_4,38487276,207
+9e7f6fef1a59274c,barrels_03.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,135628,40939
+7e8baec4e7cf7f8f,barrels_03.fmt.header,Tiny_4,38487069,207
+b3fe99f67cb4fb1a,barrels_02.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,97839,37789
+a048e0275b67e107,barrels_02.fmt.header,Tiny_4,38486862,207
+adc54ec1efe1e41f,barrels_01.fmt,Art/Models/Terrain/Doodads/RuinedCity/Market Stalls,0,97839
+76d99992f981f604,barrels_01.fmt.header,Tiny_4,38486639,223

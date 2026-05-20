@@ -1,0 +1,7 @@
+foci
+foci/basetypes
+foci/uniques
+shields
+shields/uniques
+talismans
+talismans/uniques

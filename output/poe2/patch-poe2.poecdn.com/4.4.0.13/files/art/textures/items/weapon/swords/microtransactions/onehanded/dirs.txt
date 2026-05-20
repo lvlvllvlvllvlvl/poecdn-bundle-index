@@ -1,0 +1,15 @@
+blackpolaris1hsword
+blackpolaris1hsword/fx
+blackpolaris1hsword/fx/mb
+cruciblesword
+darkwoodweapons
+dragonhuntersword
+empyreansword
+highpriest
+lichboss2sword
+malicesword
+revenantweapons
+ringmastercane
+ringmasterfeathersword
+stygianshortsword
+waterelementalsword

@@ -1,0 +1,4 @@
+aoe
+sword_mortar
+sword_mortar/fx
+sword_mortar/sword

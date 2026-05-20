@@ -1,0 +1,15 @@
+attachments
+attachments/bra
+attachments/earrings
+attachments/earrings/earrings01
+attachments/earrings/earrings02
+attachments/earrings/earrings03
+attachments/feathers
+attachments/feathers/feather01
+attachments/feathers/feather02
+attachments/feathers/feather03
+attachments/hair
+attachments/hair_02
+attachments/robes
+attachments/robes/robe01
+attachments/robes/robe02

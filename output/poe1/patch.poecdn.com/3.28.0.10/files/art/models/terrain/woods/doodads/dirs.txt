@@ -1,0 +1,15 @@
+azmeriomanshrine
+canopy
+fx
+fx/town
+fx/town/bonfire
+fx/town/bonfire/textures
+graveyarddungeons
+graveyarddungeons/mausoleum
+ritualshrine
+road
+road/textures
+textures
+textures/ritualshrine
+village
+village/wheelbarrow

@@ -1,0 +1,7 @@
+attachments
+attachments/ffaulds
+attachments/mfaulds
+attachments/mshoulderpads
+attachments/mshoulderpads/lshoulderpad
+attachments/mshoulderpads/rshoulderpad
+textures

@@ -1,0 +1,8 @@
+clone
+clone/charge
+icestab
+images
+kneel_sheild
+reave
+sword_ground
+sword_ground/swordtornado_02

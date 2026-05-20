@@ -1,0 +1,5 @@
+microtransactions
+monsters
+onehandweapons
+quivers
+twohandweapons

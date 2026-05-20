@@ -1,0 +1,4 @@
+cape
+capestr
+skirt
+skirtstr

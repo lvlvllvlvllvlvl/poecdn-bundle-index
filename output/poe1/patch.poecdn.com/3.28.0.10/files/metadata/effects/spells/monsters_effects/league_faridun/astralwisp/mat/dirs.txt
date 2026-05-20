@@ -1,0 +1,4 @@
+proj_impact
+proj_trail
+projectile_core
+wisp_core

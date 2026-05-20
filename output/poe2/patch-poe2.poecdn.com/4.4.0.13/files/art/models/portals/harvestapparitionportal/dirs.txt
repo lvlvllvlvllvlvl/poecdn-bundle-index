@@ -1,0 +1,4 @@
+oshabi
+oshabi/attachments
+textures
+textures/fx

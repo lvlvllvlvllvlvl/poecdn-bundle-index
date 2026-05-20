@@ -1,0 +1,16 @@
+aura_effects
+aura_effects/cloudy
+aura_effects/greens
+aura_effects/sparky
+claws
+demon_effects
+demon_effects/demon_cloud
+elements
+elements/lightning
+fedofmotion
+ggg
+maces
+magic_find_effects
+mauls
+spikey
+watery

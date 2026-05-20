@@ -1,0 +1,12 @@
+epk
+fx
+fx/detonate
+fx/detonate_dead_spellcast_01
+fx/revive_aoe
+mat
+mat/detonate
+mat/detonate/explode_01
+mat/detonate/runes
+mat/detonate_dead_spellcast_01
+mat/necro_corpse_purple_ignite
+mat/revive_aoe

@@ -1,0 +1,9 @@
+g_2_3
+g_2_3/wind_mesh
+g_2_3/wind_mesh/sandwind_ground_med
+g_2_3/wind_mesh/sandwind_ground_small
+g_2_3/wind_mesh/sandwind_med
+g_2_3/wind_mesh/sandwind_med/textures
+g_2_3/wind_mesh/sandwind_small
+sand_blowing_meshes
+sand_blowing_meshes/textures

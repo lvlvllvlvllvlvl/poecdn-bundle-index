@@ -1,0 +1,4 @@
+ezomyte_remnant
+karui_remnant
+ritual_remnant
+vaal_remnant

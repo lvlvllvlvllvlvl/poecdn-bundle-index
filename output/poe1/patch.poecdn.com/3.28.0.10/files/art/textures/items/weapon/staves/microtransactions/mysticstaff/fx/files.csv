@@ -1,0 +1,33 @@
+hash,file,bundle,offset,size
+d444dd138f7b211b,swirl_smoke2.mat,Tiny_8,20192623,2570
+1d2c0adbbcbb663a,swirl_smoke2.dds,Folders/art/textures/items/weapon/staves/microtransactions_4,574332,22020
+712da28eb94b4518,swirl_smoke2.dds.header,Tiny_8,20191103,1520
+2bcac68fd67f9103,spark.mat,Tiny_8,20188907,2196
+1c799931aab660ec,spark.dds,Tiny_8,43964320,1532
+3a301b9074a299f9,spark.dds.header,Tiny_8,43965852,840
+3a3fe9b904e7d9f7,snow.mat,Tiny_8,20186605,2302
+a64718b83fe3b98e,snow.dds,Folders/art/particles/lib/shockwave,710296,43852
+41eb347bd7bd1924,snow.dds.header,Tiny_8,20185085,1520
+d7d915a202abf338,grad_blk.mat,Tiny_8,20182761,2324
+9525a6d1a8400743,grad_blk.dds,Tiny_8,20178349,2892
+15faa1c7a2aa2a5c,grad_blk.dds.header,Tiny_8,20181241,1520
+f2a2e5717d663624,grad_000.mat,Tiny_8,20176929,1420
+4cf8c4b8f13aac67,grad_000.dds,Folders/art/textures/items/weapon/staves/microtransactions_4,568696,5636
+c3f3a59428151c42,grad_000.dds.header,Tiny_8,20175409,1520
+6773b7330da48cb0,grad_0.mat,Tiny_8,20173451,1958
+450f39ecbd96699f,grad_0.dds,Tiny_8,43642022,2892
+6f0c28520d93e2d7,grad_0.dds.header,Tiny_8,43644914,1520
+0ed9ae4966533da7,grad.mat,Tiny_8,20171251,2200
+f552a1debb27ff40,grad.dds,Tiny_8,44185142,2892
+8cb36ed7ed665bd6,grad.dds.header,Tiny_8,44188034,1520
+2aa9d2ea4dfc59f8,glowmask_dxt5.dds,Folders/art/textures/items/weapon/staves/microtransactions_4,218964,349732
+d37a2e5d87d021c6,glowmask_dxt5.dds.header,Tiny_8,20170747,504
+87694c583898a033,circle_mystic.mat,Tiny_8,20166377,4370
+892a475d649e7819,circle_mystic.dds,Folders/art/textures/items/weapon/staves/microtransactions_4,131408,87556
+c0f0a6b31598ea60,circle_mystic.dds.header,Tiny_8,20164857,1520
+aa14efc72d7599ae,circle_mystic - glow.mat,Tiny_8,20163655,1202
+86599f176f76a7bf,circle_mystic - glow.dds,Folders/art/textures/items/weapon/staves/microtransactions_4,43852,87556
+3081ebd03c4a7dcd,circle_mystic - glow.dds.header,Tiny_8,20162135,1520
+110c982884305335,circle_flare_add.mat,Tiny_8,20159595,2540
+d31a661b9ff8a5f4,circle_flare_add.dds,Folders/art/textures/items/weapon/staves/microtransactions_4,0,43852
+4ea8a3c901cdaa70,circle_flare_add.dds.header,Tiny_8,20158075,1520

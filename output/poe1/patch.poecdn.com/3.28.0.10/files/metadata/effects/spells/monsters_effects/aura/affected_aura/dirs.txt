@@ -1,0 +1,5 @@
+elementalist_aura
+necrovigil
+sml_phyhaste
+sml_physical_degeneration_aura
+sml_smothering

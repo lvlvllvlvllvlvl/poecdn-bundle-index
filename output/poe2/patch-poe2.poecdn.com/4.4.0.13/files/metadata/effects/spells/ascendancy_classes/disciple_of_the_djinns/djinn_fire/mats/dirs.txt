@@ -1,0 +1,12 @@
+firewave
+livingbomb
+livingbomb/explode
+livingbomb/onact
+livingbomb/whiff
+onact
+onact/djinn_fire_slam_01
+onact/djinn_fire_slam_01/ground
+projectile
+rune
+tornado
+wave

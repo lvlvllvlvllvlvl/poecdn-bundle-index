@@ -1,0 +1,3 @@
+vaal_ruins
+vaal_ruins/bloodstained_fossil
+vaal_ruins/bloodstained_fossil/bloodpulse

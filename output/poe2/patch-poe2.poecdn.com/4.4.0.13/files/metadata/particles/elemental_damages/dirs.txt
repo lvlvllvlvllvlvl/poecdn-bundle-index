@@ -1,0 +1,4 @@
+green_lightning
+red_lightning
+revenant
+yellow_chaos

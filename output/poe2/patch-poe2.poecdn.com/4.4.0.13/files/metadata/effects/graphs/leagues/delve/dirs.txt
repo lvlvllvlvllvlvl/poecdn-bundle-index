@@ -1,0 +1,6 @@
+delvechildren
+thematic_areas
+thematic_areas/vaal_ruins
+thematic_areas/vaal_ruins/bloodstained_fossil
+thematic_areas/vaal_ruins/bloodstained_fossil/bloodpulse
+waypoint

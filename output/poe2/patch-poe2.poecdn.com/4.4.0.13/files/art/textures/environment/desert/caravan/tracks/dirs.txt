@@ -1,0 +1,13 @@
+badlands
+dreadnought
+dreadnoughtswake
+effects
+effects/badlands
+effects/gates
+gates
+keth
+quarry
+sinreveal
+spires
+valleyoftitans
+vastiri

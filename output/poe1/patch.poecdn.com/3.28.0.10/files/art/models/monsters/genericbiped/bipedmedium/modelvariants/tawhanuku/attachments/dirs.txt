@@ -1,0 +1,4 @@
+bones
+hair
+shawl
+skirt

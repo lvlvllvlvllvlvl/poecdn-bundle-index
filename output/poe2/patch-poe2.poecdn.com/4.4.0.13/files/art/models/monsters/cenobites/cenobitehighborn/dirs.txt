@@ -1,0 +1,4 @@
+attachments
+attachments/loincloth
+attachments/weapon_02
+pawn

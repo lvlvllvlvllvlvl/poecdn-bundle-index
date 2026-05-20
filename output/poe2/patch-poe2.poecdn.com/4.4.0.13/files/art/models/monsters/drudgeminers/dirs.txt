@@ -1,0 +1,4 @@
+drudgeminer01
+drudgeminer02
+drudgeminer03
+textures

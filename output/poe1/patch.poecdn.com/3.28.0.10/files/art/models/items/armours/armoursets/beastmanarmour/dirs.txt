@@ -1,0 +1,16 @@
+attachments
+attachments/female
+attachments/female/bells_dex
+attachments/female/bells_int
+attachments/female/bells_strdexint
+attachments/female/ponytail
+attachments/female/skirt
+attachments/male
+attachments/male/bells_dexint
+attachments/male/bells_str
+attachments/male/bells_strdex
+attachments/male/bells_strint
+attachments/male/hair
+attachments/male/hair_strdex
+attachments/male/skirt
+textures

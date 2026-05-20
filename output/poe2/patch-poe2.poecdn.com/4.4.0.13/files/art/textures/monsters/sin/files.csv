@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+65b87f5876ba65ea,black_solidc.mat,Tiny.V2,45917231,2408
+3ef651f101f51613,black_solid.dds,Tiny.V9,4974565,516
+08ec6e47ffe1bac5,black_solid.dds.header,Tiny.VC,32032458,1520
+fac7940d07d60321,sincns.mat,Tiny.V2,45919639,2960
+c60407077cbe343a,sinns.dds,Streaming/Content/metadata/monsters/kitavaboss/innocencesin/sin_attached.epk,1014258,349700
+0fc54b19f5f0d2ac,sinns.dds.header,Tiny.VB,6004362,1520
+330a3a1b1bc3d1eb,sin_colour.dds,Streaming/Content/metadata/monsters/kitavaboss/innocencesin/sin_attached.epk,620706,349700
+8807291296dbcac2,sin_colour.dds.header,Tiny.V5,6053089,1520
+d89b0093cccf9bda,sin_alpha.dds,Streaming/Content/metadata/monsters/kitavaboss/innocencesin/sin_attached.epk,533150,87556
+0a2d1116963a0a85,sin_alpha.dds.header,Tiny.V3,45370694,1520
+ae1a9b7c0573b690,sin_eye_glowc.mat,Tiny.V3,45372214,2024
+e9ef129c75911f84,sin_eye_glow.dds,Streaming/Content/metadata/monsters/kitavaboss/innocencesin/sin_attached.epk,970406,43852
+0d67751746a3af88,sin_eye_glow.dds.header,Tiny.V6,46018346,1520

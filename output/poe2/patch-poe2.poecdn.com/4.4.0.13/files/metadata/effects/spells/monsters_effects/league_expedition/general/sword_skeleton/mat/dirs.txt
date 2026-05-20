@@ -1,0 +1,4 @@
+attack_sword_01
+cleave_sword_01
+idle_chest
+sword_impale_01

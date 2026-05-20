@@ -1,0 +1,12 @@
+textures
+textures/ritual_iiq
+textures/ritual_vaal
+textures/ritual_vaal/atziri_phantasm
+textures/rune
+textures/rune/big
+textures/rune/fire
+textures/rune/fortify
+textures/rune/gold
+textures/rune/ice
+textures/rune/life
+textures/rune/lightning

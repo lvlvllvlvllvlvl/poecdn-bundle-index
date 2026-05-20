@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+172af276645b9d4f,shatter.amd,Tiny.V1,6770860,102
+864179d4da6fe306,shatter.ast,Tiny.V9,7131955,881
+55e0682bf17637d7,basearrow.sm,Tiny.V8,6782820,464
+11d9caec3ab659d6,basearrow.fmt,Streaming/Content/metadata/effects/spells/base_arrow_attack/arrow_base_shatter.ao,896432,10126
+67d95c3ba81c5639,basearrow.fmt.header,Tiny.V2,7162224,1708
+42c91d8e30fae151,rig_db963f32.smd,Streaming/Content/metadata/effects/spells/curses/A23E24E394BABBBC.fire.ao,1168930,9399
+26ccf50ba0577663,rig_db963f32.smd.header,Tiny.V9,7131587,368
+ec84fc326aae6f89,rig.amd,Tiny.VC,6879004,186
+eff3c8286cefc124,rig.ast,Tiny.V3,6799515,1254
+4fe5aa383b3f2036,arrow_burning.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/C3B4665162F18349.moltenbloodimpact_chunks.ao,534378,10098
+68588a8bbb8fbe28,arrow_burning.fmt.header,Tiny.VA,6987976,1670

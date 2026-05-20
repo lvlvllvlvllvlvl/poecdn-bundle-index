@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+7a5a9d42e2a09c9c,boom.mat,Tiny.V6,36496449,3028
+57ff9812e0652715,boom.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/3409775A95B3DDF0.erupt_mortar.trl,175176,22020
+c8a6c75d09129161,boom.dds.header,Tiny.V3,36043299,1520
+c9983dd67278e48d,shockwave_at.mat,Tiny.V4,36889894,3040
+5a97ba31a59c683b,shockwave_at.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/3409775A95B3DDF0.erupt_mortar.trl,202832,87556
+eff2cde6ac26a8f8,shockwave_at.dds.header,Tiny.VD,36733120,1520
+8e9af5c832fdc406,sand_test.mat,Tiny.V6,36499477,2324
+11824c1cd1aebc84,sand_test.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/3409775A95B3DDF0.erupt_mortar.trl,197196,5636
+a2aa5f7e4d405eb2,sand_test.dds.header,Tiny.V2,35571580,1520
+73a552c4a91e20b3,smoke.mat,Tiny.V2,36560514,3034
+730dd6c59928b3ed,smoke.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/3409775A95B3DDF0.erupt_mortar.trl,290388,43876
+4c19fa11e675a7cf,smoke.dds.header,Tiny.V7,36446747,840
+2c39fe0a75346a6d,tornado_sandc.mat,Tiny.VD,36723638,5214
+d9aefd9c766fe2c5,tornado_sand_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/ADA130A68CBC8D87.A8E25478ADD3BB4C.falling_sword3.ao,111971,349700
+542ca7d9bd0c7b72,tornado_sand_colour.dds.header,Tiny.V5,36143604,1520

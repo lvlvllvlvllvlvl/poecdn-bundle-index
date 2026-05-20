@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+0f8b4010935e13c0,side_01.arm,Folders/metadata/6/terrain,2684996,49146
+f4be3908e884fc02,solaris_boss_connection.arm,Folders/metadata/7/terrain,2289600,49384
+4abfa73b28084955,flow_sink.arm,Folders/metadata/0/terrain,2789338,15384
+e0d32ab424c90c54,flow_source.arm,Folders/metadata/9/terrain,2441038,15420
+e7a77be89c720020,entrance_moon.arm,Folders/metadata/C/terrain,2764480,30032
+999c247f3b90abfa,entrance_sun.arm,Folders/metadata/E/terrain,2582664,50728
+f170e5a32a5f9f21,bridge_arena.arm,Folders/metadata/C/terrain,2637520,126960
+5681656fe8ed5983,bridge_entrance.arm,Folders/metadata/2/terrain,2616630,72292

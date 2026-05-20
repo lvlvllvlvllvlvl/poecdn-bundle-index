@@ -1,0 +1,4 @@
+animations
+animations/pet1
+animations/portal
+animations/tailrat

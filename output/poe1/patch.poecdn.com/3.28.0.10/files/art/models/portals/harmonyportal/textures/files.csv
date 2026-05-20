@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+d7a9c74659ccd575,harmonyportalc.mat,Tiny_3,20312838,2922
+a74204b6829730ef,harmonyportal_normal_dxt5.dds,Art/Models/Portals/HarmonyPortal/textures_3,0,1398276
+a5fb55adaaa79a52,harmonyportal_normal_dxt5.dds.header,Tiny_3,20311318,1520
+78add8567eebc734,harmonyportal_metal_dxt5.dds,Folders/art/models/portals/harmonyportal/textures,1398276,1398276
+d7fa75dd244ce273,harmonyportal_metal_dxt5.dds.header,Tiny_3,20309798,1520
+dc05d1c7458d14e6,harmonyportal_glowc.mat,Tiny_3,20304524,5274
+8a91796c9e8061d9,harmonyportal_glow_dxt5.dds,Folders/art/models/portals/harmonyportal/textures,0,1398276
+3eba95bf8c071f50,harmonyportal_glow_dxt5.dds.header,Tiny_3,20303004,1520
+8547a620cd514edd,harmonyportal_colour_dxt5.dds,Art/Models/Portals/HarmonyPortal/textures_1,0,1398276
+a8e8c70ad8f944c4,harmonyportal_colour_dxt5.dds.header,Tiny_3,20301484,1520
+a43dc191e8237542,fx_top_poolc.mat,Tiny_3,20286098,7482
+3ae870b5810e9397,fx_waterfallc.mat,Tiny_3,20293580,7904

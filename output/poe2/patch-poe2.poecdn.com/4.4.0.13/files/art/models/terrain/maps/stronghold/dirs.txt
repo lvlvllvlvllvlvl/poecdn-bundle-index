@@ -1,0 +1,6 @@
+textures
+textures/architecture
+textures/doodads
+textures/foliage
+textures/ground
+tgms

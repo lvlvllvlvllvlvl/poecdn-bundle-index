@@ -1,0 +1,11 @@
+corpse
+disco_lazer
+disco_lazer/lazer
+hand_l
+hand_l/clamp
+hand_l/icebeam
+hand_r
+hand_r/flamethrower
+legs_lazer
+legs_lazer/finisher
+legs_lazer/lazer

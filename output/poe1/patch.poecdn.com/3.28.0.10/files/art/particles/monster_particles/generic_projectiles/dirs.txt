@@ -1,0 +1,6 @@
+blood
+fire
+ice
+lightning
+phys
+poison

@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+767f74416f115351,mblur_sphere_r.mat,Tiny.V4.1,118282,16568
+0578378b0fcc6fb1,mblur_sphere_u.mat,Tiny.V1.1,76224346,3870
+33265b55a01639fd,crashingfoam_r.mat,Tiny.V7.1,49487124,40706
+362cf41058cfc94d,crashingfoam_u.mat,Tiny.V3.1,78061728,12922
+babb11170a238966,foam_spray_r.mat,Tiny.VC,49718737,28380
+112c53762a074c87,foam_spray_u.mat,Tiny.V1.1,76218084,6262

@@ -1,0 +1,8 @@
+attachments
+attachments/weapons
+attachments/weapons/daggers_01
+attachments/weapons/daggers_02
+attachments/weapons/halberd
+attachments/weapons/spear
+attachments/zealot02_cloth
+attachments/zealot03_faulds

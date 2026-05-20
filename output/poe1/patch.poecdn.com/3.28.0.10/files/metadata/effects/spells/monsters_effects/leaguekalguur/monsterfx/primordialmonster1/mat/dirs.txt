@@ -1,0 +1,4 @@
+attack_01_02
+discharge_01
+discharge_01/onact
+fungal_explosion

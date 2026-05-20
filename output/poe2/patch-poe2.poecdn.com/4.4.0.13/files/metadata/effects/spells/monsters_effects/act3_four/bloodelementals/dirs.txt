@@ -1,0 +1,10 @@
+epk
+mat
+mat/alive_bodyfx
+pet
+pet/alive
+pet/b_projectile
+pet/b_projectile/idle
+pet/b_projectile/impact
+pet/dash
+pet/dash/loop

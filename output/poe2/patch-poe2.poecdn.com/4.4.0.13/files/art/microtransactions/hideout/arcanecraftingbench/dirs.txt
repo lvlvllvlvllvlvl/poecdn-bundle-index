@@ -1,0 +1,6 @@
+mb
+mb/bowl_liquid
+textures
+textures/arcanecraftingbenchflask
+textures/arcanecraftingbenchfurnace
+textures/arcanecraftingbenchsmalltable

@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+d271d952dd959a18,burst_smoke_add.dds,Streaming/Content/metadata/pet/hundun/hundun.ao,22020,22020
+522327fd15e169e6,burst_smoke_add.dds.header,Tiny.VD,4248745,1520
+206a0fed9dc2e939,burst_smoke.mat,Tiny.V5,4379954,4034
+da3c95d9523e67bd,burst_smoke.dds,Streaming/Content/metadata/pet/hundun/hundun.ao,0,22020
+5becb6321a42f592,burst_smoke.dds.header,Tiny.VC,4136142,1520
+866b5e15ce2f501c,light_gradient.mat,Tiny.VB,4348844,1718
+e8c12dcc1839e6ad,light_gradient.dds,Streaming/Content/metadata/pet/hundun/hundun.ao,44040,11084
+28d1c9b81d178e6a,light_gradient.dds.header,Tiny.V0,4416601,1520

@@ -1,0 +1,10 @@
+epk
+fx
+fx/aoe
+graphs
+mat
+mat/aoe_doom
+mat/aoe_doom/beam
+mat/orb
+mat/orb/fadeout
+mat/surge

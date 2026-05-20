@@ -1,0 +1,4 @@
+textures
+vfx
+vfx/textures
+vfx/textures/lava_pool

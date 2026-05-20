@@ -1,0 +1,5 @@
+l_armseaweed
+l_handseaweed
+r_armseaweed
+spineseaweed
+torsoseaweed

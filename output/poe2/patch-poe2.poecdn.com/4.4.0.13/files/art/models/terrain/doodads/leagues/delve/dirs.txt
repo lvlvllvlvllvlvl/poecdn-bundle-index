@@ -1,0 +1,4 @@
+azuriteitem
+mineprops
+waypoint_02
+waypoint_rig

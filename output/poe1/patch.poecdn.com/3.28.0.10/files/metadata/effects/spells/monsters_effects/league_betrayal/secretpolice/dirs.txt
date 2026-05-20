@@ -1,0 +1,5 @@
+whirlingblades
+whirlingblades/channelling
+whirlingblades/charge_up
+whirlingblades/release_max
+whirlingblades/spirit_slash

@@ -1,0 +1,12 @@
+absorb
+absorb/fx
+absorb/fx/celestial
+onkill
+onkill/main
+onkill/main/celestial
+onkill/subtle
+onkill/subtle/fx
+onkill/subtle/fx/celestial
+projectile
+projectile/fx
+projectile/fx/celestial

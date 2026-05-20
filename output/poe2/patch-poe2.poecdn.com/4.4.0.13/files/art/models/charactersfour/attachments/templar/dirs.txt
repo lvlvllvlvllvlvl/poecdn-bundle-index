@@ -1,0 +1,5 @@
+hairstyles
+outfit
+outfit/belts
+outfit/necklace
+outfit/skirt

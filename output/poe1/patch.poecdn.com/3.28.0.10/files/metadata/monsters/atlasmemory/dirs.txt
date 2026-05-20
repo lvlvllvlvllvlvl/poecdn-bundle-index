@@ -1,0 +1,8 @@
+fragmentofignorance
+fragmentofignorance/objects
+ignoranceboss
+ignoranceboss/attachments
+ignoranceboss/attachments/heads
+ignoranceboss/npc
+ignoranceboss/objects
+ignoranceboss/objects/markers

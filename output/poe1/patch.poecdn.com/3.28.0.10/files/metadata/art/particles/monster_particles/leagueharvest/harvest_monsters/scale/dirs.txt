@@ -1,0 +1,10 @@
+blackstrider
+devourer
+meleespider
+plaguespider
+platedscorpion
+scorpion
+spider
+thornspider
+vulture
+weta

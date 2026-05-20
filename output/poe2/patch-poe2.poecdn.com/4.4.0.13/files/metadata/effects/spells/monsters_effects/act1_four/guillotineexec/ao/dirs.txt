@@ -1,0 +1,8 @@
+charge_slam
+double_cleave
+epic_cleave
+guillotine_drop
+leap_slam
+overhead_chop_slam
+reverse_slam
+xbow_marker

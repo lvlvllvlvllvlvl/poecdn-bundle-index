@@ -1,0 +1,7 @@
+attachments
+attachments/larmcloth
+attachments/shawl
+attachments/shoulderpad
+attachments/skirt
+attachments/sword
+textures

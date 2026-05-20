@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+481112b8da54a9b6,horn_glowc.mat,Tiny.V4,4448068,1500
+50efb89846556073,horn_glow.dds,Streaming/Content/metadata/pet/basilisk/spectral.ot,634220,22020
+0a1f903964b09f38,horn_glow.dds.header,Tiny.V3,4184226,1520
+b561fde1b4d4cf5b,eye_glowc.mat,Tiny.VF,4242011,2058
+46213778aad011f8,eye_glow.dds,Streaming/Content/metadata/pet/basilisk/spectral.ot,623136,11084
+7630c1cc304b7dec,eye_glow.dds.header,Tiny.VF,32847924,1520
+1a47930c3cbe48b8,body_skin_glowmapc.mat,Tiny.VB,4312507,2294
+d077ce3eedabc956,body_skin_glowmap.dds,Streaming/Content/metadata/pet/basilisk/spectral.ot,535580,87556
+6b64cf1673b7b588,body_skin_glowmap.dds.header,Tiny.VD,4189867,1520
+d5f108dca90f900e,body_glowc.mat,Tiny.V4,4445998,2070
+f48c3595ab54b743,body_glow.mat,Tiny.VE,4263018,974
+57ae71ea0cf67333,body_glow.dds,Streaming/Content/metadata/pet/basilisk/spectral.ot,513560,22020
+610684c16ad30a12,body_glow.dds.header,Tiny.V4,33079091,1520

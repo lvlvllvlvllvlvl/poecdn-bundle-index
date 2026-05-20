@@ -1,0 +1,2 @@
+damageaura
+hpdegen_aura

@@ -1,0 +1,4 @@
+pet
+pet/disappear
+pet/emerge
+pet/idle

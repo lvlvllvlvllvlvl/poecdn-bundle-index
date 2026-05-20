@@ -1,0 +1,14 @@
+acc_proj
+cold_beam
+cold_beam_blast
+dash
+eyelaser
+ice_wave_primary
+ice_wave_secondary
+idle
+large
+lightning_beam
+lightning_beam_blast
+meteor
+onact_exalt_throw
+statue_shield

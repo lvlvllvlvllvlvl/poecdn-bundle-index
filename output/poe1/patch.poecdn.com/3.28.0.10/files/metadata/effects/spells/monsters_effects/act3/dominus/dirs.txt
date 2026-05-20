@@ -1,0 +1,14 @@
+blood_grasp
+blood_rains
+bomb_curse
+charge
+cleave
+cold_totem_beams
+demon_summon
+drop_down
+freezepulse_shockwaves
+lightning_slam
+lightning_souls
+portal
+sheild
+teleport

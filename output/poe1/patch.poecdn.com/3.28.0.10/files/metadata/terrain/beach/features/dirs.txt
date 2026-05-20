@@ -1,0 +1,10 @@
+brokenships
+coral
+karuishores
+karuistone
+rocks
+ships
+trees
+waterrocks
+whaleskeletons
+wood

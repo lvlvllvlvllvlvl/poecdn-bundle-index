@@ -1,0 +1,13 @@
+bladestaff
+heiststaff
+heistwarstaff
+holywarriorstaff
+staff1
+staff2
+staff3
+staff4
+staff5
+staff6
+staff7
+staff8
+totemstaff

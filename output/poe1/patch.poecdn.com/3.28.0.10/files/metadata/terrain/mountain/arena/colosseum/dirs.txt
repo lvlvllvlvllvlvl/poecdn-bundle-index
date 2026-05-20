@@ -1,0 +1,13 @@
+feature
+hallway
+objects
+objects/gauntlet
+rooms
+rooms/colosseum
+rooms/fills
+rooms/hallway
+rooms/hallway/1x1
+rooms/unique
+rooms/unique/gauntlet
+statues
+walls

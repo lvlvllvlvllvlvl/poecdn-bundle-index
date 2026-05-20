@@ -1,0 +1,5 @@
+celestial2
+celestial2/textures
+celestial2/textures/cold
+celestial2/textures/fire
+celestial2/textures/lightning

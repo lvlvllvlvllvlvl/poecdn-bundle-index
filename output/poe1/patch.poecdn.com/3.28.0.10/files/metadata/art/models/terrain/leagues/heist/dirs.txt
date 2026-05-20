@@ -1,0 +1,3 @@
+doors
+doors/vault
+doors/vault/textures

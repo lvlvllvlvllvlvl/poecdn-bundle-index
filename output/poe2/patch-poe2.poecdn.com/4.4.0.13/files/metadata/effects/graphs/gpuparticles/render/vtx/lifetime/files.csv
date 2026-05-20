@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+f93b8a27f1f0fa7c,lifetimedata_to_vertexcolor.fxgraph,Shared,16436959,53546
+311e4f6d586f6a06,rotate_local_overlife.fxgraph,Shared,16490505,139862
+3101966b1980c1d2,rotate_world_overlife.fxgraph,Content/metadata/effects/microtransactions/spells/arctic_breath_02/B589B0D0925987C1.hatred_grd.epk,664864,139636
+c4fdabc7fc99a332,rotate_group_local_overlife.fxgraph,Content/metadata/effects/environment/act1_four/g1_9/545E15AEA987AC65.spirit_fade.epk,669576,150334
+4b650b79e7fb6666,rotate_group_local_xyz_overlife.fxgraph,Content/metadata/effects/microtransactions/spells/arctic_breath_02/B589B0D0925987C1.hatred_grd.epk,866270,168264
+cbb2f7f26084f2f4,translate_world_overlife.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/5EC5DFD2E9A7D7F7.wave_front.pet,4072239,113498
+c332b1ad0020361c,translate_local_overlife.fxgraph,Content/metadata/effects/environment/act1_four/g1_9/545E15AEA987AC65.spirit_fade.epk,5199354,118988
+220b46ed73877773,translate_along_overlife.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/F1B52535E3154293.onact_attack_01.trl,3213133,96564
+a3bedea0d704c17d,displacement_local_overlife.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/5EC5DFD2E9A7D7F7.wave_front.pet,810815,208944
+cf625c3e9da54979,displacement_world_overlife.fxgraph,Shared,16226289,210670
+9acd1387d969d2c3,scale_overlife.fxgraph,Shared,16630367,100846
+e02a9397a131d72c,scale_xyz_overlife.fxgraph,Shared,16731213,126076
+e0712b9cbae55ac3,scale_shake_overlife.fxgraph,Content/metadata/effects/environment/act1_four/g1_9/545E15AEA987AC65.spirit_fade.epk,4037682,109400
+69804d2e609cf2d5,scale_group_overlife.fxgraph,Content/metadata/effects/spells/monsters_effects/league_delirium/80983161B53C610D.floating_explosion_idle_ring.pet,595036,123646
+c74e9d49e18f7757,scale_group_xyz_overlife.fxgraph,Content/metadata/effects/spells/monsters_effects/league_ultimatum/0D27CC49E359B10E.npc_fakeskin.epk,2341452,152692

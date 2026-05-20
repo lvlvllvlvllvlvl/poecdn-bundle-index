@@ -1,0 +1,7 @@
+exit_device_01
+possess_map_device_01
+raise_into_sky_01
+remove_map_device_01
+summon_bosses_01
+summon_bosses_02
+summon_pylon_01

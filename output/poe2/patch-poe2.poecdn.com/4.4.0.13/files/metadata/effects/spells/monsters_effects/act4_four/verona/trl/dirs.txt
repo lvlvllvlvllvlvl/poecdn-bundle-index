@@ -1,0 +1,2 @@
+ambient
+wraith_projectile

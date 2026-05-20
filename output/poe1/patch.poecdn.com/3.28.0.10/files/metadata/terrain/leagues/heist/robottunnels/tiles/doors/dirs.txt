@@ -1,0 +1,10 @@
+clicktoopen
+emergeonalarm
+npccatburglar
+npcdisarm
+npcengineering
+npcexplosivedoor
+npclockpick
+npcmagic
+npcstrength
+vault

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+2f2d4d1c38e26915,lt_electro_z.mat,Tiny.VA,5277042,2466
+b4661fe84fbe76f3,lt_beams.mat,Tiny.V4,5361176,4528
+0b829c503b26c96a,lt_grad_blk_f.mat,Tiny.V4,5365704,2102
+da801f2e4b65f315,lt_orb_trl.mat,Tiny.V9,5310111,4634
+3578c6b0aaa0ff7e,lt_ring_f.mat,Tiny.VB,5261190,2528
+ad3a698618ed9f77,lt_ribbons.mat,Tiny.V3,5145645,7586
+1cc831bb7bf64881,lt_ribbons_blk.mat,Tiny.VB,5255236,5954
+c42f2e6bf18e8c07,lt_shock_pass2.mat,Tiny.VF,5218280,4706
+1a794095598e1839,lt_starflare.mat,Tiny.V4,5367806,1712
+2868906cfe1301d5,lt_streaks.mat,Tiny.VD,5209952,4648

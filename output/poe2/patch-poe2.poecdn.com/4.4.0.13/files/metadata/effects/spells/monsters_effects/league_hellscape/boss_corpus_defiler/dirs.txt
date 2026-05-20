@@ -1,0 +1,16 @@
+epks
+fx
+graphs
+mat
+mat/attack_tentacle_01
+mat/attack_tentacle_02
+mat/basicattack
+mat/death
+mat/footsie
+mat/ground_slam
+mat/screech
+mat/tentacle_onact
+mat/tentacle_shen
+mat/vomit
+mat/vomit_explode
+onacts

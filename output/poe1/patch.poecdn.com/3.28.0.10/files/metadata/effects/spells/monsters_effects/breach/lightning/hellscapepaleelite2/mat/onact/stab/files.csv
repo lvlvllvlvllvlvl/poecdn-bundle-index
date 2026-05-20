@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+e6fde31d4df984fb,mortar_sparks_01_r.mat,Tiny_D,136186884,37120
+1c7d63f3e3e0186c,wave_ground_r.mat,Tiny_D,136325048,34648
+d37acfb8545bbde5,wave_ground_u.mat,Tiny_11,33555919,576
+f3d0554d7bead566,stab_cone_main_r.mat,Tiny_D,136224004,53546
+747e6542d71ae8fe,stab_grd_r.mat,Tiny_D,136277550,47498
+6841e5de440c4fc2,loopsmoke_u.mat,Tiny_D,136175208,11676
+151bfb9a6c5efe85,lightning_ribbonbolt_r.mat,Tiny_D,136147444,25560
+431062c6c82be0ee,lightning_ribbonbolt_u.mat,Tiny_D,136173004,2204
+e58c589fe71c5a74,impact_flare_r.mat,Tiny_D,136098578,26800
+1a55f6e2462abfcc,impact_flash_r.mat,Tiny_D,136125378,22066
+4e8619f103a2601c,explode_blur_r.mat,Tiny_D,136061074,11148
+110e9d388ccaa731,explode_sparks_u.mat,Tiny_D,136072222,26356
+79ad289609573b4a,buildup_lightning_r.mat,Tiny_D,136025202,35872
+03a4160da6a19852,buildup_lightning_u.mat,Tiny_D,386636742,344
+687a8671e35d318c,bnpnt_emit_1_u.mat,Tiny_D,136023582,1620
+8c28bbc14ac9d446,bnpnt_emit_u.mat,Tiny_11,63879857,346

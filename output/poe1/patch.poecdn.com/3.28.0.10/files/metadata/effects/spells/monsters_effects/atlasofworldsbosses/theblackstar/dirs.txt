@@ -1,0 +1,17 @@
+ao
+ao/graphs
+ao/spawn_effect
+epk
+epk/leap_slam_spear_01
+graph
+pet
+pet/annihilating_light
+pet/beam_spear_left_start_01
+pet/clone_death
+pet/death
+pet/intro_01
+pet/leap_slam_spear_01
+pet/melee_clone
+pet/melee_clone/on_act
+pet/melee_rebind
+pet/meteor_shower_01

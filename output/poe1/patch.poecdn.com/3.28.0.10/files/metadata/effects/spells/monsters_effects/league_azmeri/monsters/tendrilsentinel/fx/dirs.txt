@@ -1,0 +1,6 @@
+attack_01
+attack_03
+spellcast_aoe_01
+spellcast_aoe_01/vol_core
+spellcast_aoe_01/vol_spawner
+spiral_lance_01

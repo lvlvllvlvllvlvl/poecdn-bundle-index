@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+c08fc218c8563093,custom_subsurfacerefraction.fxgraph,Content/metadata/effects/spells/bow_spiralvolley/epks/arrowvisibility.epk,4631019,61238
+84f864a07034def7,custom_logic.fxgraph,Content/metadata/effects/spells/bow_spiralvolley/epks/arrowvisibility.epk,4568521,38380
+80cbc35b1f0f9b4d,custom_offsetlocal.fxgraph,Content/metadata/effects/spells/bow_spiralvolley/epks/arrowvisibility.epk,4606901,24118
+54c6fb5cf37a8826,custom_emissive_mult_bytimelinefloat_tex.fxgraph,Content/metadata/effects/spells/bow_spiralvolley/epks/arrowvisibility.epk,4560505,8016
+78dd10d213504305,custom_emissive_mult_bytimelinefloat_cyrstal.fxgraph,Content/metadata/effects/spells/bow_spiralvolley/epks/arrowvisibility.epk,4552485,8020

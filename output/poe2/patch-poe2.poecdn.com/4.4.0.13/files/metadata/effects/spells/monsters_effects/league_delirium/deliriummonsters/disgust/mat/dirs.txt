@@ -1,0 +1,7 @@
+bellyyuck
+lightningbeam
+lightningexplode
+meleetrail
+mortarexplode
+mortartrail
+onact_tentacles_lightning

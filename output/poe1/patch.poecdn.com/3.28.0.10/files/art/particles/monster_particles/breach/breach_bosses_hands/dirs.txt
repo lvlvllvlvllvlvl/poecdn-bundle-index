@@ -1,0 +1,5 @@
+chaos
+cold
+fire
+lightning
+physical

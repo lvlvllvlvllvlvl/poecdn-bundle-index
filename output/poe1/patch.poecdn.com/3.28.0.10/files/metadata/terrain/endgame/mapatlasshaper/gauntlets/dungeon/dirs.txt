@@ -1,0 +1,3 @@
+rooms
+rooms/1x1
+rooms/2x2

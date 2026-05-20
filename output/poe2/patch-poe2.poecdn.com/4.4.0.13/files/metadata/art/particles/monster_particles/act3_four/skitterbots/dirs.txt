@@ -1,0 +1,3 @@
+tex
+tex/on_act
+tex/on_act/detonate_long_01

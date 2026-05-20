@@ -1,0 +1,14 @@
+beam
+beam_impact
+cascade
+cyclone
+fire_aura
+on_hit
+onact
+onact/attack_01
+onact/attack_heavy_01
+onact/cyclone_01
+onact/figure_head_fizzle
+onact/soul_triple
+skeleton_aura
+soul_bolt

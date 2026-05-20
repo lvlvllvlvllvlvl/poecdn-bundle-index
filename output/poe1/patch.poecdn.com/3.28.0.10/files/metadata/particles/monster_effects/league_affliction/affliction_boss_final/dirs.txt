@@ -1,0 +1,6 @@
+beam_ruckus
+on_act
+skin_fx
+slash_barrage
+spam_projectiles
+warcry

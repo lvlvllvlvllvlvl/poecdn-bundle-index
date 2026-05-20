@@ -1,0 +1,3 @@
+ink_sac
+teleport
+tentaclegrasp

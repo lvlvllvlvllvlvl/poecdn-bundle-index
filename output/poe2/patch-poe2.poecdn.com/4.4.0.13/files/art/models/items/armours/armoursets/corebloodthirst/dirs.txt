@@ -1,0 +1,5 @@
+attachments
+attachments/heart
+attachments/skirt
+fx
+textures

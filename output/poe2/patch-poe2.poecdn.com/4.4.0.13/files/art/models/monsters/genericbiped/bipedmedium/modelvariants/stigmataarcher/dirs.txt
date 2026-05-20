@@ -1,0 +1,6 @@
+attachments
+attachments/stabow
+attachments/staheadaccss
+attachments/stahood
+attachments/staquiver
+attachments/starobe

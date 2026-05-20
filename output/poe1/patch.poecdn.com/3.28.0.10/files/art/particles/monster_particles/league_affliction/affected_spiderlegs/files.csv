@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+5c0cc1f50920c8ea,legsc.mat,Tiny_6,90488513,3806
+ddbc3a6e6721078c,legs_specular_dxt5.dds,Art/Textures/Misc/portals/KatarinaPortal_2,699236,699236
+e95a646722f6dee0,legs_specular_dxt5.dds.header,Tiny_8,25037996,840
+a367abd4af89892f,legs_normal_dxt5.dds,Art/particles/monster_particles/League_Affliction_98,0,699236
+fd004891012c39ae,legs_normal_dxt5.dds.header,Tiny_6,90487673,840
+e9207c6484efbed3,legs_colour_dxt5.dds,Folders/art/particles/monster_particles/league_affliction,1748116,699236
+5ae442da71f369a9,legs_colour_dxt5.dds.header,Tiny_6,90486833,840
+e8245d882a538954,legs_colour_bc7.dds,Folders/art/particles/monster_particles/league_affliction,1748116,699236
+4e005aa109eed6a0,legs_colour_bc7.dds.header,Tiny_6,90486833,840
+6036ffac7016eb1b,legs_colour.dds,Folders/art/particles/monster_particles/league_affliction,1398424,349692
+c484a774a070f20e,legs_colour.dds.header,Tiny_6,90485993,840

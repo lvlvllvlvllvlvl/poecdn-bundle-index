@@ -1,0 +1,2 @@
+fireball_proj
+fireball_proj/animations

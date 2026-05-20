@@ -1,0 +1,16 @@
+anwen_claymore
+dash_slam
+degen_area
+delayed_blast
+delayed_blast_2
+lightning_circle_waves
+on_act2
+on_act2/attack_02
+on_act2/circle_waves_idle_01
+on_act2/special_01
+overhead_slash_01
+weapon_zones
+weapon_zones/attack
+weapon_zones/basic
+weapon_zones/dash
+wind_tunnel

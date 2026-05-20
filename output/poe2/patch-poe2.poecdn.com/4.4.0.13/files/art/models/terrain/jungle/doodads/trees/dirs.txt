@@ -1,0 +1,9 @@
+textures
+textures/anthill
+textures/carver
+textures/chimeral
+textures/jungledepths
+textures/rooffade
+textures/rooffade/anthill
+textures/rooffade/chimeral
+textures/rooffade/jungle

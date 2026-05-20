@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+eecc42143af720d3,waypointgrad_colour.mat,Tiny_6,21028464,1798
+b1d9666f740a432a,waypointgrad_colour.dds,Art/particles/environment_effects/artifacts,33292,22020
+3dec2cb706a60dcc,waypointgrad_colour.dds.header,Tiny_6,21026944,1520
+1ba3acef5be5e4ae,particle_64.mat,Tiny_6,21020532,2682
+a608551fb354299a,particle_64.dds,Art/particles/environment_effects/artifacts,27656,5636
+b23b60e57dfd08e4,particle_64.dds.header,Tiny_6,21019012,1520
+4e4fcd49c42231bf,particles.mat,Tiny_6,21024734,2210
+0c930f6cb7068f77,particles.dds,Art/particles/environment_effects/artifacts,5636,22020
+45176baae4965da1,particles.dds.header,Tiny_6,21023214,1520

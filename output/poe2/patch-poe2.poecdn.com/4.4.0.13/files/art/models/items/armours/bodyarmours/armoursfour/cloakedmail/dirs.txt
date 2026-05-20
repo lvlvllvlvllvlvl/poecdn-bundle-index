@@ -1,0 +1,15 @@
+attachments
+attachments/female
+attachments/female/l_lace
+attachments/female/r_lace
+attachments/female/shawl
+attachments/female/skirt_chains
+attachments/female/skirt_cloth
+attachments/male
+attachments/male/l_lace
+attachments/male/r_lace
+attachments/male/shawl
+attachments/male/shawl_str
+attachments/male/skirt_chains
+attachments/male/skirt_cloth
+textures

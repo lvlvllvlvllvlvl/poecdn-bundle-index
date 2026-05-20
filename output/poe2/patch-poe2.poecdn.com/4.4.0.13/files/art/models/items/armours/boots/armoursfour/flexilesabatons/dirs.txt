@@ -1,0 +1,4 @@
+attachments
+attachments/rope
+attachments/string
+textures

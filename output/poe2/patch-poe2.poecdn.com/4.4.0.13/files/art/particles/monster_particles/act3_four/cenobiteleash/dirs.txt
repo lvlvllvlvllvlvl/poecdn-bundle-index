@@ -1,0 +1,10 @@
+mb
+mb/mortarburst
+mb/mortarburst2
+mb/mortarproj
+textures
+textures/healmortar
+textures/ignitemortar
+textures/ignitemortar_midair
+textures/poisonmortar
+textures/poisonmortar_midair

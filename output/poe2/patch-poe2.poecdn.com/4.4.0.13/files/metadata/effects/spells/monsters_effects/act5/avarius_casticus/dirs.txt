@@ -1,0 +1,16 @@
+avariuscasticusdivine
+avariuscasticusdivine/holyspark
+beam
+delayed_blast
+divine_slam
+firestorm
+golden_templar
+holy_projectile
+p2_golden_templar
+p2_golden_templar/channelling
+s_projectile
+ss_projectile
+ss_projectile/disperse
+ss_projectile/main_projectile
+ss_projectile/sml_projectile
+statue_weapon

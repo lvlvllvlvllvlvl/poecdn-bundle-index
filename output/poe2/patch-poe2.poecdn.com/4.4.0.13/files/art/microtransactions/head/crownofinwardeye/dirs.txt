@@ -1,0 +1,5 @@
+mb
+tex
+tex/es
+tex/hp
+tex/mana

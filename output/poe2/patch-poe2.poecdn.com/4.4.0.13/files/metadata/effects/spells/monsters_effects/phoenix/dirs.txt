@@ -1,0 +1,7 @@
+guardian_of_phoenix
+guardian_of_phoenix/doublespin
+guardian_of_phoenix/flaming_bomb
+guardian_of_phoenix/pulse
+guardian_of_phoenix/vortex
+projectile
+projectile_impact

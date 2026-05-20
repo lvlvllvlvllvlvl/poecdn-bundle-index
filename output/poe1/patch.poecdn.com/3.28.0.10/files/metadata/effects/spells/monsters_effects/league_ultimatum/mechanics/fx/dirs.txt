@@ -1,0 +1,3 @@
+altar
+altar/loop
+ruin

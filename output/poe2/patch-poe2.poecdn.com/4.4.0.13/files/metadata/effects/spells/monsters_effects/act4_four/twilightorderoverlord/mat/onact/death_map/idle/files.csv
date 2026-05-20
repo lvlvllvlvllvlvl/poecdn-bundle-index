@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+067834d720ea1709,blood_pool_r.mat,Tiny.VD.1,78752234,39126
+384fcde375b9e331,blood_pool_u.mat,Tiny.V3.1,81324926,1382
+ef1bf82696fe6d8b,impact_decal_01_r.mat,Tiny.VE.1,83057908,51398
+6a4f7c93128a6bf8,impact_decal_02_u.mat,Tiny.VD.1,78791360,3880
+9c508fe48f0511e7,rock_grd_blood_r.mat,Tiny.V6.1,83651356,37640
+04f840fab5919541,rock_mesh_blood_r.mat,Tiny.VD.1,78795240,37352
+dc339437082d32a9,rock_mesh_ground_r.mat,Tiny.VD.1,78832592,27120
+1f4e8db88e5b07b8,rock_mesh_ground_u.mat,Tiny.VE.1,83109306,14162
+4efbd7eb7dd9ed4b,rock_mesh_shattered_r.mat,Tiny.V3.1,81326308,64406
+4f30eb288cfa0dab,rock_mesh_shattered_u.mat,Tiny.VA.1,80724294,27296

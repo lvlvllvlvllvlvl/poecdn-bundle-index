@@ -1,0 +1,5 @@
+mapatlassummit
+timebomb_explode
+vastiri_portal
+vastiri_shield
+vastiri_stonegaze

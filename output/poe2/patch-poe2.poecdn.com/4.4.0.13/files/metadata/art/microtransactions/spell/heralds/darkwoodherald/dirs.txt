@@ -1,0 +1,5 @@
+texture
+texture/agnoy
+texture/ash
+texture/ice
+texture/thunder

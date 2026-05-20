@@ -1,0 +1,4 @@
+blackrose
+blackrose/textures
+blackrose/textures/shooting_up
+blackrose/textures/shooting_up/fx

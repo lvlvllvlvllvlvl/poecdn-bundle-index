@@ -1,0 +1,4 @@
+feather
+hair
+skirt
+weapon

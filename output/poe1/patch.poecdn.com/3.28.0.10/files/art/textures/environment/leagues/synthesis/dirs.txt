@@ -1,0 +1,18 @@
+brokenmapdevice
+guardianarenas
+rainbowroadbridge
+synthesis_devices
+synthesis_devices/bridgedevice
+synthesis_devices/bridgejoin
+synthesis_devices/bridgeplate
+synthesis_devices/craftingdevice
+synthesis_devices/map device
+synthesis_devices/portaldevice
+synthesis_devices/synthbridge
+synthesischests
+synthesischests/synthchestlarge
+synthesischests/synthchestsmall
+synthesischests/synthvaselarge
+synthesischests/synthvasemedium
+synthesischests/synthvasesmall
+tippingpoint

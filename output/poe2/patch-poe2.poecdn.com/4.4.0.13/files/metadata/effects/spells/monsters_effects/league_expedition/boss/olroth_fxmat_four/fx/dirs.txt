@@ -1,0 +1,12 @@
+arena_portal
+groundslam
+lacerate
+onact
+onact/dash_02
+onact/death_fake
+onact/groundslam_01
+onact/intro
+onact/sword_throw
+onact/triple_lacerate_01
+relic
+sword_projectile

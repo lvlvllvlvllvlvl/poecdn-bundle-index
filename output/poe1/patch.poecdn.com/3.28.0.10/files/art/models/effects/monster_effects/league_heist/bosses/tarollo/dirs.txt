@@ -1,0 +1,2 @@
+boss_light
+on_act

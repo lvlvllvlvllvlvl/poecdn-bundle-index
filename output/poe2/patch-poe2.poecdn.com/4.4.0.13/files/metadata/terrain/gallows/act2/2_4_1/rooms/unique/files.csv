@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+0178c7bf535667c0,landmark.arm,Content/data/balance/worldareas/g2_4_2.vworld,1760477,23408
+a061fa34a609f05e,mission_01.arm,Content/data/balance/worldareas/g2_4_2.vworld,1783885,4566
+f10b4f1438fa27b9,mission_02.arm,Content/data/balance/worldareas/g2_4_2.vworld,1788451,5788
+18aae33661d9fb19,mission_03.arm,Content/data/balance/worldareas/g2_4_2.vworld,1794239,4528
+9a9e2a8671b0ed3b,mission_04.arm,Content/data/balance/worldareas/g2_4_2.vworld,1798767,10404
+4e585ec5cfe7d1eb,superunique_01.arm,Content/data/balance/worldareas/g2_4_2.vworld,1809171,20034
+b2de2bb6b716d86b,superunique_watertrail_01.arm,Content/data/balance/worldareas/g2_4_2.vworld,1829205,19914
+c919c38b5ae8309b,boss_01.arm,Content/data/balance/worldareas/g2_4_2.vworld,1632151,19046
+2e2eb0ac8e2826e3,boss_02.arm,Content/data/balance/worldareas/g2_4_2.vworld,1651197,18386
+81bc811197b45430,bridge_01.arm,Content/data/balance/worldareas/g2_4_2.vworld,1669583,23052
+5a22698f2ece2064,brokenbridge_01.arm,Content/data/balance/worldareas/g2_4_2.vworld,1692635,16860
+4a754733949b3c24,entrance_01.arm,Content/data/balance/worldareas/g2_4_2.vworld,1709495,19280
+5dfa38cb4079c17f,exit_01.arm,Content/data/balance/worldareas/g2_4_2.vworld,1728775,31702

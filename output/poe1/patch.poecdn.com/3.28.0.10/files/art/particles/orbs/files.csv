@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8188bb90a9ad1785,up_glow.mat,Tiny_7,30514368,842
+55321054e8ff38db,up_glow.dds,Art/particles/orbs,137232,87556
+02f13f2ca5759b19,up_glow.dds.header,Tiny_7,30512848,1520
+6874714ee10a10cb,orb_outer2.mat,Tiny_7,30491336,1114
+d46fb0417b3d6abc,orb_outer2.dds,Art/particles/orbs,49676,87556
+f5c37ed09b065dfc,orb_outer2.dds.header,Tiny_7,30489816,1520
+4ae78a87c814ebf9,orb_outer.mat,Tiny_7,30488962,854
+fa88182f0476ce10,orb_outer.dds,Art/particles/orbs,27656,22020
+048676ac76477142,orb_outer.dds.header,Tiny_7,30487442,1520
+34a7e82f94ede28a,inner.mat,Tiny_7,30408284,946
+5712f4ec1a6e3b23,inner.dds,Art/particles/orbs,5636,22020
+95b198e1c5021a08,inner.dds.header,Tiny_7,30406764,1520
+8775d606a35c0e2c,charge_lightning.mat,Tiny_7,30323106,1150
+bacf89e3ed1fe605,charge_lightning.dds,Art/particles/orbs,0,5636
+94a8ef4b08bb9171,charge_lightning.dds.header,Tiny_7,30321586,1520

@@ -1,0 +1,2 @@
+place_cover_01
+place_cover_01/textures

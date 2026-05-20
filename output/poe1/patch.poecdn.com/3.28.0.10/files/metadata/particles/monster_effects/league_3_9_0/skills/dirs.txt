@@ -1,0 +1,12 @@
+cleave
+enrage
+mortar
+proj
+slam_circ
+slam_cone
+slam_rect
+surge
+volatile
+volatile/cold
+volatile/fire
+volatile/lightning

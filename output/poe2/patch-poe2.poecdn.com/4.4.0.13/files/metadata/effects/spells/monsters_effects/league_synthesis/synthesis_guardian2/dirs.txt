@@ -1,0 +1,13 @@
+cone_explode
+dash_palm_strike
+detonate_wave
+double_palmstrike
+double_slash_arc
+drone_charged_projectile
+drone_projectile
+fire_volatile_explode
+ground_slam
+ground_slam/graphs
+projectile
+triangle_slam
+triangle_slam/graphs

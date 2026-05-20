@@ -1,0 +1,11 @@
+champ_hound
+champ_spiker
+corpse_wheel
+generic
+hound
+synthesis_guardian4
+venarius
+walker
+walker/lantern
+walker/pickaxe
+wyvern

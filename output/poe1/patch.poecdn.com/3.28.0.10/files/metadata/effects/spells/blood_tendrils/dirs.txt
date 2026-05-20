@@ -1,0 +1,6 @@
+decals
+pet
+pet/beam
+pet/debuff
+pet/hitfx
+pet/surge

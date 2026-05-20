@@ -1,0 +1,3 @@
+hairstyles
+outfit
+outfit/toolbelt

@@ -1,0 +1,10 @@
+attachment
+epks
+fx
+fx/fistofwar
+fx/wings
+graphs
+mats
+mats/fistofwar
+mats/wings
+onacts

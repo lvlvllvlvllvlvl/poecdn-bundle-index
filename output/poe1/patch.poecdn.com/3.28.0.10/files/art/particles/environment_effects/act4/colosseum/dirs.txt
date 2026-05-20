@@ -1,0 +1,5 @@
+daressos_area
+daressos_area/arena_edge
+light
+smog
+trapdoor

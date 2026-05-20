@@ -1,0 +1,12 @@
+1haxe
+1hsword
+2haxe
+2hsword
+bow
+claw
+quiver
+quiver/attachments
+scepter
+textures
+textures/fx
+wand

@@ -1,0 +1,5 @@
+sorceress_apparition
+sorceress_convo
+sorceress_gameplay
+sorceress_skills
+sorceress_wild

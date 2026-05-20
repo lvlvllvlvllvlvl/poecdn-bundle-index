@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+57497e8f9c7bdf6d,round_shards.fmt,Streaming/Content/metadata/effects/spells/cold_herald_of_ice/1F35E63A751D6E18.weapon_buff_longhandle.epk.2,2796364,4336
+70aeb4552a964dca,round_shards.fmt.header,Tiny.V4,32306408,208
+867211a80d00e749,explosion_cf9bf5bb.smd,Tiny.V0,32164546,77
+53b852a857c86c65,explosion_cf9bf5bb.smd.header,Tiny.VF,32124335,448
+e1da18119b73b598,ice_explosion.sm,Tiny.V8,31717510,318
+3f31bca378ba181d,ice_explosion.amd,Tiny.V2,37765817,94
+76ddb58abe7e1f53,ice_explosion.ast,Tiny.V9,32307935,309

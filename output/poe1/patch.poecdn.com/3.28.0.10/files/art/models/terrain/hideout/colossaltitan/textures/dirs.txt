@@ -1,0 +1,7 @@
+architecture
+desertcliffs
+foliage
+ground
+hideouttitan
+sinkholecliffs
+water

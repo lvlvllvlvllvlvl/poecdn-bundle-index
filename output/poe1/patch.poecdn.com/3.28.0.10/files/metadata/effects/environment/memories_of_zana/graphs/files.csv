@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+613278caa93d9dcf,custom_scalebytimelinefloat.fxgraph,Folders/metadata/effects.3,12183294,4494
+ee23930b5da1cd29,dt_disintegratemask.fxgraph,Folders/metadata/effects,7200490,48216
+bc5a662399f7e56d,memory_rift_custom.fxgraph,Folders/metadata/effects,7348046,39450
+91ea62a337ba7a14,vtx_curlnoise_displacement.fxgraph,Folders/metadata/effects,8329818,87482
+fc359d58f8086d0e,vtx_meshparticlerampscaleovertime.fxgraph,Folders/metadata/effects,8417300,49242
+ef6d7cb13873f91b,vtx_rosesuck_tlf.fxgraph,Folders/metadata/effects,8466542,39594
+af6a68e0d7440a3f,vtx_vertexsuck_tlf.fxgraph,Folders/metadata/effects,8560380,39594
+c8e4031e75ff7845,vtx_tremble_overlifetime.fxgraph,Folders/metadata/effects,8506136,26792
+527b25544570c4a6,vtx_tremble_tlf.fxgraph,Folders/metadata/effects,8532928,27452
+a014c977856b3359,threadreaction.fxgraph,Folders/metadata/effects,7693418,275106
+628e5dada61629d3,threadreaction2.fxgraph,Folders/metadata/effects,7968524,208286
+10d836e032f329c5,threadreaction_compute.fxgraph,Folders/metadata/effects,8176810,153008
+6973bc64920a2913,shapeshift.fxgraph,Folders/metadata/effects,7387496,102814
+51d5cdee6569177b,singlethread_stasis.fxgraph,Folders/metadata/effects,7490310,203108
+a1a7fcefc8c593d0,expand_tlf.fxgraph,Folders/metadata/effects,7248706,11012
+9a03812262b4b22a,explosion_influence.fxgraph,Folders/metadata/effects,7259718,88328

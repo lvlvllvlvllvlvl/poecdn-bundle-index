@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+e19a10f56f41b6fa,antenna_fx.pet,Tiny_E,320992327,2544
+38b98a3e138be7f9,cold_trl.trl,Tiny_E,321002421,1284
+924a1196e4da0555,light_trl.trl,Tiny_E,321020443,1286
+7ab6c7d9d7b13acb,trigger_bip.pet,Tiny_E,321021729,5220
+7fb2c3967c298695,trigger_emerge.pet,Tiny_E,321026949,2608
+693375629a39f377,emerge_line.pet,Tiny_E,321015281,5162
+8848a0d2de04839a,emerge_circle.pet,Tiny_E,321007611,5122
+b7a344a5bd5e629c,emerge_crk.pet,Tiny_E,321012733,2548
+e51442df6570f0eb,detonate_beam.trl,Tiny_E,321003705,1328
+9a4f0edf1f708641,dust_spread.pet,Tiny_E,321005033,2578
+87f1bb791137e13b,body_fx_cold.pet,Tiny_E,320994871,5002
+b8256c9a174de9dc,body_fx_light.pet,Tiny_E,320999873,2548

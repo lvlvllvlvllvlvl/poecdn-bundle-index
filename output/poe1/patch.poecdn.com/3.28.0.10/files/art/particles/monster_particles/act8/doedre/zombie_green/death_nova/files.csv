@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+b1f1fb5a4a66ba92,tile_green.mat,Tiny_6,58311200,1154
+97e89c2a49c0660d,tile_green.dds,Art/particles/monster_particles/act8,1514414,87556
+80c56dc431613fc9,tile_green.dds.header,Tiny_7,43534927,1520
+bb571aa3c04ebcf6,green_shockwave.mat,Tiny_6,58308444,2756
+605ddeebb8bb76f8,green_shockwave.dds,Art/particles/monster_particles/act8,1317282,87556
+a04ed0b710697949,green_shockwave.dds.header,Tiny_7,19757707,1520
+6b85813e2002921a,green_light_ring_add.mat,Tiny_6,58306542,1902
+f19fedfa0698617d,green_light_ring_add.dds,Art/particles/monster_particles/act8,1404838,22020
+66321dd033f60e2d,green_light_ring_add.dds.header,Tiny_6,58305022,1520
+3af0421f589adfbb,flat_shockwave.mat,Tiny_6,58301580,3442
+ea2701d017d04767,flat_shockwave.dds,Art/particles/monster_particles/act8,1426858,87556
+e1461825c59f1cb3,flat_shockwave.dds.header,Tiny_6,58300060,1520

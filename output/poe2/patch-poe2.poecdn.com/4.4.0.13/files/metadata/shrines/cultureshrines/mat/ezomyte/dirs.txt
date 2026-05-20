@@ -1,0 +1,3 @@
+shrine_activate_core
+shrine_activate_shockwave
+shrine_active

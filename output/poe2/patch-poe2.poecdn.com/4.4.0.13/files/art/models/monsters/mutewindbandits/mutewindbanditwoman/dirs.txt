@@ -1,0 +1,5 @@
+attachments
+attachments/headcloth
+attachments/hipcloth
+attachments/ponytail
+attachments/robe

@@ -1,0 +1,8 @@
+bonerabble
+chatters
+defaultskeleton
+fairgraves
+fleshpicked
+ironpoint
+playersummonedskeleton
+zomboskeleton

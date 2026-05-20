@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+d0a503f35d569ba4,oldlionc.mat,Tiny_7,68116058,2464
+bcc0eed840f54f64,oldlion_colour_dxt5.dds,Art/Textures/Environment/forest/OldStoneLion,0,349700
+8f1b7e3ab9223e89,oldlion_colour_dxt5.dds.header,Tiny_7,68114538,1520
+0d76083c4e447519,oldlion_colour_bc7.dds,Art/Textures/Environment/forest/OldStoneLion,0,349700
+05ef9872bef062b6,oldlion_colour_bc7.dds.header,Tiny_7,68114538,1520
+efc23f10e16eaf48,oldlion_colour.dds,Art/Textures/Environment/forest/OldStoneLion,349700,174924
+8a0967ce9d285c1e,oldlion_colour.dds.header,Tiny_7,68113018,1520
+4d4d32e785c880e5,mosstuff_normal_dxt5.dds,Art/Textures/Environment/forest/OldStoneLion,524624,349700
+54794608ebae8f61,mosstuff_normal_dxt5.dds.header,Tiny_7,68111498,1520

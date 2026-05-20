@@ -1,0 +1,4 @@
+ancientdreadbow
+ancientdreadquiver
+ancientdreadshield
+textures

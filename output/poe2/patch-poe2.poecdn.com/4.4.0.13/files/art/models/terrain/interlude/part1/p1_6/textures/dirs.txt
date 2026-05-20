@@ -1,0 +1,4 @@
+architecture
+curtains
+foliage
+ground

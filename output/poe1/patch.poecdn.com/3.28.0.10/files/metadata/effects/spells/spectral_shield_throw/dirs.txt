@@ -1,0 +1,11 @@
+fx
+mat
+mat/detach
+mat/gold_fragment
+mat/gold_trail_shield
+mat/shard_impact
+mat/shard_trail
+mat/shatter
+mat/shieldfx
+release
+shieldthrowsecondary

@@ -1,0 +1,12 @@
+incense
+necklace
+skirt
+skirt/f
+skirt/m
+sleeves
+sleeves/f
+sleeves/f/l
+sleeves/f/r
+sleeves/m
+sleeves/m/l
+sleeves/m/r

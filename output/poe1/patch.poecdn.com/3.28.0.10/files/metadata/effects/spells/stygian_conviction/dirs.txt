@@ -1,0 +1,6 @@
+debuff
+debuff/pet
+ignite
+ignite/pet
+shock
+shock/pet

@@ -1,0 +1,5 @@
+claw_swipes
+death_spike_charge
+idle
+spike_down_impact
+spike_up

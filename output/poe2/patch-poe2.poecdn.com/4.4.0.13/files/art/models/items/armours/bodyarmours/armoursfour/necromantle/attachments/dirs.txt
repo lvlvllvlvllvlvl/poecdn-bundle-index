@@ -1,0 +1,10 @@
+f
+f/necromantlechest
+f/necromantleskirt
+f/necromantleskirtbones
+f/necromantleskull
+m
+m/necromantlechest
+m/necromantleskirt
+m/necromantleskirtbones
+m/necromantleskull

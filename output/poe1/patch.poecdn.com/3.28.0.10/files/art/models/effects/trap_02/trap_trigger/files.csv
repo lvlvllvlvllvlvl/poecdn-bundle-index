@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+941d15a9ac94fc3e,blade_trap.sm,Tiny_2,10268091,466
+f3985f873763c411,celestial.sm,Tiny_2,10268557,678
+b0d6e1bcc6e9787f,trap_trigger.sm,Tiny_2,10270749,690
+14a482e2b2b70d71,rig_4bfa908e.smd,Art/Models/Effects/trap_02/trap_trigger,63295,46728
+e59939684dd6ef30,rig_4bfa908e.smd.header,Tiny_2,10269235,1514
+bc452daa4a5304dc,rig.amd,Tiny_2,10271439,992
+fa8c8386785bf9e3,rig.ast,Art/Models/Effects/trap_02/trap_trigger,43744,19551
+435c95d145a9da13,armour_blade_trap_a8197183.smd,Art/Models/Effects/trap_02/trap_trigger,0,43744
+972bec6d89460345,armour_blade_trap_a8197183.smd.header,Tiny_2,10267615,476

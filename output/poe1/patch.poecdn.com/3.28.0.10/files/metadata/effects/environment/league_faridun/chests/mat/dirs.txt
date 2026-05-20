@@ -1,0 +1,6 @@
+bronze
+bronze/burst
+gold
+gold/burst
+silver
+silver/burst

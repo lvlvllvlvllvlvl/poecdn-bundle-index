@@ -1,0 +1,3 @@
+blackguard
+ranged_blackguard
+ranged_blackguard/animations

@@ -1,0 +1,9 @@
+epk
+fx
+mat
+mat/decellightningball
+mat/decellightningballexplode
+mat/lightningattack
+mat/lightninghit
+mat/meleetrail
+mat/onact_lightning_ball

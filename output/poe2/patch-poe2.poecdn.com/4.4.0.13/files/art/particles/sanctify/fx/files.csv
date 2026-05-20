@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+df31b4130e4ebbe7,wavec.mat,Tiny.V0,38843255,3248
+3ad473ac503f7ec1,wave.dds,Streaming/Content/metadata/effects/spells/curses/A23E24E394BABBBC.fire.ao,541626,87556
+b2dda87f836717d6,wave.dds.header,Tiny.V4,39106312,1520
+f9a9093dd485cc00,holy_fire_lookup.dds,Tiny.V6,38692305,2212
+07181f2a74350444,holy_fire_lookup.dds.header,Tiny.V9,39282702,280
+0406c7e37dfdd5fc,holy_flame.mat,Tiny.V7,38644415,3184
+7f9e4fcf0ed1c1e7,holy_flame.dds,Streaming/Content/metadata/particles/warcry_smoke.pet.1,979304,349700
+4a14ec72bdb0b882,holy_flame.dds.header,Tiny.V7,32512985,1520
+43cae5f61c04427b,frenzytrail_fireball.mat,Tiny.V0,38841369,1886
+16eb4de5a5f5dfcf,frenzytrail_fireball_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.3C7C6866F823AD84.loop_fwdline.pet,456933,11084
+87b02336ffaf620b,frenzytrail_fireball_dxt1.dds.header,Tiny.VF,3483093,1520

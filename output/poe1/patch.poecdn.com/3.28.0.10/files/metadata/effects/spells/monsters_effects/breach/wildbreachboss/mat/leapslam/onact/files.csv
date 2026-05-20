@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+0f944e8a6a2b775b,ring_in_r.mat,Tiny_D,171776692,45706
+ca959d516c5197d9,ghost_ribbons_r.mat,Tiny_D,171668080,78662
+a769e69f11c171cb,ghost_ribbons_u.mat,Tiny_D,171746742,29950
+3b39a838859c508d,core_soul_once_r.mat,Tiny_D,171609644,54792
+fe30fd5d7e053d6e,core_soul_once_u.mat,Tiny_D,171664436,3644
+90b29bdff29633f9,core_flash_r.mat,Tiny_D,171577086,32558
+e01a0bc08ed19561,core_flames_init_r.mat,Tiny_D,171467474,78662
+a285665c9be8a843,core_flames_init_u.mat,Tiny_D,171546136,30950
+4b5f2d51d0b9775a,bnpnt_emit_u.mat,Tiny_D,390134182,774
+e3c25aff88de9044,blur_buildup_r.mat,Tiny_D,171444268,9468
+893f4b8452ad838c,blur_surge_r.mat,Tiny_D,171453736,13738

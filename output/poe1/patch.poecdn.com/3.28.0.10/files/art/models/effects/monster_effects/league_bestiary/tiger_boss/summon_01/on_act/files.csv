@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+1e2e362365cd61b9,scream_geo.fmt,Art/Models/Effects/monster_effects/League_Bestiary/Tiger_Boss,69434,6030
+6802777c93712908,scream_geo.fmt.header,Tiny_2,2365825,166
+5f9c65024776984a,rig_ad0bfdef.smd,Art/Models/Effects/monster_effects/League_Bestiary/Tiger_Boss,22967,46467
+1174e27e261a80e6,rig_ad0bfdef.smd.header,Tiny_2,2365421,404
+10a70e712e6faa50,on_act.sm,Tiny_2,2363983,1438
+229d45ab0b265890,on_act.amd,Tiny_2,2363681,302
+fe5d77812317af17,on_act.ast,Art/Models/Effects/monster_effects/League_Bestiary/Tiger_Boss,18191,4776

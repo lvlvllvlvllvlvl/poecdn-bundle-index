@@ -1,0 +1,12 @@
+bellow
+props
+props/hammer
+props/shovel
+props/sword
+sharpening_wheel
+simplehireling
+simplehireling/animations
+simplehireling/animations/hammering
+simplehireling/animations/shovelling
+simplehireling/animations/table
+simplehireling/animations/weapon_rack

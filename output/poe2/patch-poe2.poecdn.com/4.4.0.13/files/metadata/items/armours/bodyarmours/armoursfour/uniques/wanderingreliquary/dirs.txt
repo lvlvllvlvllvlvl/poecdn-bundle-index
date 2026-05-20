@@ -1,0 +1,5 @@
+attachments
+attachments/cloth
+attachments/r_cloth
+attachments/shoulderpads
+attachments/skirt

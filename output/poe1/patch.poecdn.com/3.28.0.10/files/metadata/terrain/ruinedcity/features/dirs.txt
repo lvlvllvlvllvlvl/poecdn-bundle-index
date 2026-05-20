@@ -1,0 +1,13 @@
+balls
+barricade
+bodypiles
+energyblockade
+gallows
+garden
+shadowroof
+ships
+statues
+statues/monster
+tents
+trees
+wagons

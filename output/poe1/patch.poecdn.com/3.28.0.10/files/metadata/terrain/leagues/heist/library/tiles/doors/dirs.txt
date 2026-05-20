@@ -1,0 +1,10 @@
+clicktoopen
+emergeonalarm
+npccatburglardoor
+npccounterthaumaturgedoor
+npcdetectiondoor
+npcdisarmdoor
+npcengineerdoor
+npcinfiltrationdoor
+npclockpickerdoor
+vault

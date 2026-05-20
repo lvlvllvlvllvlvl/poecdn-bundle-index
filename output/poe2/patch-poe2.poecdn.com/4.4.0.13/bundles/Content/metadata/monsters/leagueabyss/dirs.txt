@@ -1,0 +1,8 @@
+blackblood
+blackblood/doomboss
+lichboss
+lightless
+lightless/consumeboss
+pit
+pit/cocoons2
+soulwrest

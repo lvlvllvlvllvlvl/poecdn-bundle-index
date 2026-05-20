@@ -1,0 +1,8 @@
+epk
+fx
+mat
+mat/chargingcore
+mat/muzzlefire
+mat/muzzlewind
+mat/surgewave
+mat/volcano_surge

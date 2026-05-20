@@ -1,0 +1,6 @@
+attachments
+attachments/l_legrags
+attachments/r_legrags
+attachments/robe
+attachments/tentaclearm
+textures

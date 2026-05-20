@@ -1,0 +1,6 @@
+blue_team
+blue_team_summon
+blue_team_traps
+red_team
+red_team_summon
+red_team_traps

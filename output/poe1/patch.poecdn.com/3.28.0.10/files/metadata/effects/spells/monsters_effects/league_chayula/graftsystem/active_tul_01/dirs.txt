@@ -1,0 +1,12 @@
+aos
+fx
+fx/tornado_idle_01
+graphs
+mats
+mats/tg01_chilledgroundtrail
+mats/tg01_icenova
+mats/tg01_iceprojectile
+mats/tg01_iceprojectile_impact
+mats/tg01_tornadoaoe
+mats/tg01_tornadobase
+mats/tg01_tornadobase/tornado_idle_01

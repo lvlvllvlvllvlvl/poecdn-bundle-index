@@ -1,0 +1,3 @@
+charge_up
+release_max
+shadow01

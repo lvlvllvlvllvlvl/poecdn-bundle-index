@@ -1,0 +1,5 @@
+abyss
+ledge
+stairs
+walkway
+walls

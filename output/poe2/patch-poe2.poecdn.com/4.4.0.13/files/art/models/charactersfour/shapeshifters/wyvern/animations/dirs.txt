@@ -1,0 +1,10 @@
+attack
+blink
+devour
+flamebreath
+groundstomp
+rollingmagma
+shapeshifting
+swipe
+wildbeast
+wingblast

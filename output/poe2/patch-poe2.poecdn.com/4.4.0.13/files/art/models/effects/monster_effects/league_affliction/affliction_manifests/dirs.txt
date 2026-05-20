@@ -1,0 +1,8 @@
+bulky
+bulky/ground_slam
+football_player
+football_player/on_act
+noodles
+noodles/volatile_trap
+sanic
+sanic/spiky_blast

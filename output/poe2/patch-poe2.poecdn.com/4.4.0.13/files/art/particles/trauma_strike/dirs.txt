@@ -1,0 +1,6 @@
+mb
+mb/hit_fx
+mb/shockwave
+textures
+textures/hit_fx
+textures/weapon_buildup

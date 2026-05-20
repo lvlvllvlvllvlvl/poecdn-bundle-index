@@ -1,0 +1,7 @@
+fire
+fire/explode
+ice
+ice/explode
+lightning
+lightning/lightning_strike
+lightning/player_idle

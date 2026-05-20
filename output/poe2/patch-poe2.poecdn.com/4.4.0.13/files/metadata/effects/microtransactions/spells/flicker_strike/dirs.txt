@@ -1,0 +1,6 @@
+afterimage
+afterimage/fx
+afterimage/fx/on_hit
+afterimage/fx/vaal_on_hit
+necro_smoke
+ninja_smoke

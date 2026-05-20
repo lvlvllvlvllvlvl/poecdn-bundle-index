@@ -1,0 +1,7 @@
+continuous
+eagon
+eagon/fist_clutch
+inert_01
+townportal
+townportalclose
+townportalopen

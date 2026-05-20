@@ -1,0 +1,15 @@
+ground_dust
+ground_slam
+mastodon_step
+onact
+onact/death_first_01
+onact/death_last_01
+onact/death_volatile
+onact/death_volatile/explosion
+onact/spell_aoe_bone_storm_01
+onact/spell_aoe_bullet_hell_01
+onact/spell_aoe_meteor_01
+onact/spell_aoe_storm_call_01
+onact/teleport_01
+shocked_grd
+status_aliment

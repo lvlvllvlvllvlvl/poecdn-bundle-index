@@ -1,0 +1,4 @@
+eagon
+eagon_greeting
+eagon_wild
+eagon_wild_boss

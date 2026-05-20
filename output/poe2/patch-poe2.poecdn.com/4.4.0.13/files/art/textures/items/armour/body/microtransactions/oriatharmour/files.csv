@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+03502538050b0964,oriathbodycns.mat,Tiny.VF,44927446,5840
+d12f9bfdc76dca05,oriathbodyns.dds,Streaming/Content/metadata/items/armours/bodyarmours/6D0A3F30F424D120.oriathbodydex.ao,1763415,349700
+f86326296936dcb3,oriathbodyns.dds.header,Tiny.VE,44600401,1520
+337d5bb28f612101,oriathbody_glow_dxt5.dds,Streaming/Content/metadata/items/armours/bodyarmours/6D0A3F30F424D120.oriathbodydex.ao,714315,349700
+900d10ad32c9e0e4,oriathbody_glow_dxt5.dds.header,Tiny.V2,44728605,1520
+0d923dd96f5dd6df,oriathbody_specular_dxt5.dds,Streaming/Content/metadata/items/armours/bodyarmours/6D0A3F30F424D120.oriathbodydex.ao,1413715,349700
+dba499fc19d9d902,oriathbody_specular_dxt5.dds.header,Tiny.V1,44617078,1520
+29373c07749f568c,oriathbody_normal_dxt5.dds,Streaming/Content/metadata/items/armours/bodyarmours/6D0A3F30F424D120.oriathbodydex.ao,1064015,349700
+38bfc632142696cf,oriathbody_normal_dxt5.dds.header,Tiny.V9,45355913,1520
+28bff0ebcb8495b9,oriathbody_colour_bc7.dds,Streaming/Content/metadata/items/armours/bodyarmours/6D0A3F30F424D120.oriathbodydex.ao,364615,349700
+649ceed582ac78d7,oriathbody_colour_bc7.dds.header,Tiny.V6,44750552,1520
+c8c4ed215659c471,oriathbody_colour.dds,Streaming/Content/metadata/items/armours/bodyarmours/6D0A3F30F424D120.oriathbodydex.ao,189691,174924
+852b53afdb97ee56,oriathbody_colour.dds.header,Tiny.VC,44987938,1520

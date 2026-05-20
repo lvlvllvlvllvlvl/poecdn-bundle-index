@@ -1,0 +1,16 @@
+banditboy
+banditboy/attachments
+banditboy/attachments/weapons
+banditexecutioner
+banditexecutioner/attachments
+banditgirl
+banditgirl/attachments
+banditman
+banditman/attachments
+banditwoman
+banditwoman/attachments
+banditwoman/objects
+oldbandit
+oldbandit/attachments
+oldbanditwoman
+oldbanditwoman/attachments

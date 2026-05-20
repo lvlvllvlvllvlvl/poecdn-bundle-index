@@ -1,0 +1,8 @@
+cultist
+cultist/textures
+cultist/textures/purity
+cultist/textures/purity/spawn
+divine
+divine/textures
+divine/textures/fire
+divine/textures/fire/fx

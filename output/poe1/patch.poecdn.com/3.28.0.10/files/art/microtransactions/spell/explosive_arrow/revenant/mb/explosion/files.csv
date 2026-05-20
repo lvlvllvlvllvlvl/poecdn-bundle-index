@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+77fc04f4e492e325,sphere.fmt,Folders/art/models/effects/shattering_mine,40619,30361
+fd9f75de9764ccaf,sphere.fmt.header,Tiny_1,87477922,156
+cc1c30c6252c2de1,rig_0653c306.smd,Folders/art/models/effects/shattering_mine,18349,22270
+47b8d657b871b603,rig_0653c306.smd.header,Tiny_1,87477554,368
+eca8d3ed47c1b73e,lines.fmt,Folders/art/microtransactions/spell/explosive_arrow,12472,5407
+a33b048761db1a7b,lines.fmt.header,Tiny_1,46073534,207
+095326d878739770,explosion.sm,Tiny_1,46073052,482
+0ebd3261851e14ec,explosion.amd,Tiny_2,2361380,86
+50c1258eb4fbb32f,explosion.ast,Tiny_1,87475778,1334

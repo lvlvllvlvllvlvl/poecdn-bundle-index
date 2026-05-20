@@ -1,0 +1,3 @@
+beam_head
+beam_hit
+grd_hit_decal

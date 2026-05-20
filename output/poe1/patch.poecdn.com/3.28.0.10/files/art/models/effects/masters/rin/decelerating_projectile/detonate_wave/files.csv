@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+29659456570d8d09,ring2.fmt,Tiny_6,3485064,43
+ae989683fa9ce894,ring2.fmt.header,Tiny_7,42091864,128
+106d7100378f4969,rig_dc33f6d8.smd,Art/Models/Effects/Masters/Rin/decelerating_projectile,10909,4784
+07dea520adc563b8,rig_dc33f6d8.smd.header,Tiny_1,89229248,368
+90bcd747ddbede4c,detonate_wave.sm,Tiny_1,89228564,684
+24da50844e13a7c0,detonate_wave.amd,Tiny_7,12165646,94
+23d11324f21a3368,detonate_wave.ast,Art/Models/Effects/Masters/Rin/decelerating_projectile,0,10909

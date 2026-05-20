@@ -1,0 +1,11 @@
+temporalchains
+temporalchains/epk
+temporalchains/fx
+temporalchains/fx/aoe
+temporalchains/graphs
+temporalchains/mat
+temporalchains/mat/aoe_doom
+temporalchains/mat/aoe_doom/beam
+temporalchains/mat/orb
+temporalchains/mat/orb/fadeout
+temporalchains/mat/surge

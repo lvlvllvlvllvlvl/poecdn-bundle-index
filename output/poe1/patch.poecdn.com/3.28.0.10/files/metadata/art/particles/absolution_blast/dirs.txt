@@ -1,0 +1,2 @@
+textures
+textures/aoe_explosion_01

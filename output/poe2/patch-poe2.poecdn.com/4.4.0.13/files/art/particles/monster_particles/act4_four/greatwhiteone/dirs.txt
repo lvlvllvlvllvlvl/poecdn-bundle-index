@@ -1,0 +1,8 @@
+mb
+mb/footsteps
+mb/piranha
+mb/tail_sand_wave
+textures
+textures/on_act
+textures/on_act/attack_01
+textures/on_act/tail_whip_01

@@ -1,0 +1,11 @@
+attack
+death
+dischargeprojectile
+dischargeprojectile/onact
+emerge
+impact
+onact
+projectile
+projectilefire
+soulsuckepk
+witheredground

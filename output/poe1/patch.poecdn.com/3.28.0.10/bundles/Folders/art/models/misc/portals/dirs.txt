@@ -1,0 +1,8 @@
+chiyouportal
+dragonportal
+stygianportal_demonic
+stygianportal_divine
+stygianportal_fiery
+stygianportal_ghostflame
+stygianportal_lightning
+wranglerportal

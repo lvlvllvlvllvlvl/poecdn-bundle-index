@@ -1,0 +1,15 @@
+bossgate
+feature
+feature/trees
+gravestones
+impassablewall
+roomkeys
+stairs
+thickwall
+thickwall_impassableledgefence
+thickwall_impassablewall
+thickwall_ledgefence
+thickwall_thinwall
+thickwall_walkway
+thinwall
+walkwaytrim

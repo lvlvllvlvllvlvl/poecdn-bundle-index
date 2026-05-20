@@ -1,0 +1,34 @@
+hash,file,bundle,offset,size
+fb431bce0057b15e,vaalcolossusc.mat,Tiny_3,8515907,3434
+8c1b85132af59508,vaalcolossusmtxc.mat,Tiny_3,8529515,6060
+443e5109695a1225,vaalcolossus_normal_dxt5.dds,Art/Models/MONSTERS/VaalColossus/Textures_6,0,1398276
+a78daf997a8b23d5,vaalcolossus_normal_dxt5.dds.header,Tiny_3,8508459,1520
+6664a351cc64c8cb,vaalcolossus_glow_gray_dxt5.dds,Art/Models/MONSTERS/VaalColossus/Textures_5,699212,1398276
+d77c7ff97c73ff4e,vaalcolossus_glow_gray_dxt5.dds.header,Tiny_3,8506939,1520
+6a815353680d5c13,vaalcolossus_glow_dxt1.dds,Art/Models/MONSTERS/VaalColossus/Textures_5,0,699212
+bd68bdaacc390c9f,vaalcolossus_glow_dxt1.dds.header,Tiny_3,8505419,1520
+993e7854a66d880e,vaalcolossus_colour_dxt5.dds,Art/Models/MONSTERS/VaalColossus/Textures_4,0,1398276
+4480f1ebfb4d55bd,vaalcolossus_colour_dxt5.dds.header,Tiny_3,8503899,1520
+984d4e5602afbec4,vaalcolossus_bent normals_dxt5.dds,Art/Models/MONSTERS/VaalColossus/Textures_3,0,1398276
+73bb3f96d6517052,vaalcolossus_bent normals_dxt5.dds.header,Tiny_3,8502379,1520
+197faa2be3aeb7be,vaalcolossusweaponc.mat,Tiny_7,15854161,4366
+c5f1ceb7acadfc2d,vaalcolossusweapon_normal_dxt5.dds,Folders/art/models/monsters/vaalcolossus/textures,394248,174948
+1fd4dcc3240a7795,vaalcolossusweapon_normal_dxt5.dds.header,Tiny_3,8537255,840
+105209934b600c17,vaalcolossusweapon_metal_dxt1.dds,Folders/art/models/monsters/vaalcolossus/textures,372236,22012
+d4713a134c45702c,vaalcolossusweapon_metal_dxt1.dds.header,Tiny_3,8536415,840
+946f2b7162b8d9cc,vaalcolossusweapon_colour_dxt1.dds,Folders/art/models/monsters/vaalcolossus/textures,350224,22012
+cf775c626cdd54e4,vaalcolossusweapon_colour_dxt1.dds.header,Tiny_3,8535575,840
+0a549b1f17cf6347,vaalcolossushelmetc.mat,Tiny_3,8525421,4094
+bea49112ae8233c5,vaalcolossushelmet_normal_dxt5.dds,Folders/art/models/monsters/vaalcolossus/textures,262668,87556
+9f46d97539bffdba,vaalcolossushelmet_normal_dxt5.dds.header,Tiny_3,8523901,1520
+8a65135bb50e57b8,vaalcolossushelmet_glow_dxt5.dds,Folders/art/models/monsters/vaalcolossus/textures,175112,87556
+d8e3a3c84c41b9b9,vaalcolossushelmet_glow_dxt5.dds.header,Tiny_3,8522381,1520
+5cf338c62a603d46,vaalcolossushelmet_colour_dxt5.dds,Folders/art/models/monsters/vaalcolossus/textures,87556,87556
+e2fc5c7ca7bf320e,vaalcolossushelmet_colour_dxt5.dds.header,Tiny_3,8520861,1520
+8b071dbc4d6eb646,vaalcolossushelmet_bentnormal_dxt5.dds,Folders/art/models/monsters/vaalcolossus/textures,0,87556
+6ead06a03119355c,vaalcolossushelmet_bentnormal_dxt5.dds.header,Tiny_3,8519341,1520
+927ee4ae80eaa860,vaalcolossusbodyc.mat,Tiny_3,8513019,2888
+5f569b14c5e1f8f3,vaalcolossusbody_normal_dxt5.dds,Art/Models/MONSTERS/VaalColossus/Textures_1,0,1398276
+24419ad1c9a5c422,vaalcolossusbody_normal_dxt5.dds.header,Tiny_3,8511499,1520
+543f4c8445a69181,vaalcolossusbody_colour_dxt5.dds,Art/Models/MONSTERS/VaalColossus/Textures,0,1398276
+8d2b32a563bf4a4f,vaalcolossusbody_colour_dxt5.dds.header,Tiny_3,8509979,1520

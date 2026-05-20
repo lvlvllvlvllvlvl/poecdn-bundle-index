@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+8f34b0b609b854c2,factory_entrance.arm,Folders/metadata/3/terrain,7264832,13496
+390560a6d3d2b902,factory_boss.arm,Folders/metadata/4/terrain,7128816,14494
+79efae15d8d5de66,factory_bossentry.arm,Folders/metadata/1/terrain,7773816,13326
+384b55d051d07d68,2x2_shrine1.arm,Folders/metadata/4/terrain,7101008,27808
+2f1984338775e303,2x2_shrine2.arm,Folders/metadata/A/terrain,7792610,26640
+725b20797b0acafb,2x2_shrine3.arm,Folders/metadata/3/terrain,7236186,28646
+08f95e6994478ef7,2x2_mission1.arm,Folders/metadata/A/terrain,7760728,31882
+2a0b50e6fd84a434,2x2_mission2.arm,Folders/metadata/9/terrain,7610850,27088
+ed055d4dc3cb8a3b,2x2_mission3.arm,Folders/metadata/5/terrain,7679966,30702
+c8887b59da3f4957,1x1_shrine1.arm,Folders/metadata/0/terrain,7817854,10080
+8381c88b0e87f840,1x1_shrine2.arm,Folders/metadata/7/terrain,6596248,10860
+c63ae32623cd7ce3,1x1_shrine3.arm,Folders/metadata/C/terrain,8229536,11058
+1469e261370a58ae,1x1_shrine4.arm,Folders/metadata/6/terrain,8216002,11756
+5ff14f2ff6e9d137,1x1_mission1.arm,Folders/metadata/4/terrain,7094546,6462
+eb5fe30de8522e31,1x1_mission2.arm,Folders/metadata/0/terrain,7810628,7226
+db239bb68cc87638,1x1_mission3.arm,Folders/metadata/2/terrain,7681000,6458

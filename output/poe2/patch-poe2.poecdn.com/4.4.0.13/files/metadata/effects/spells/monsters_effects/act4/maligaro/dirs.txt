@@ -1,0 +1,3 @@
+desecrate_ground
+fire_trap
+fire_trap/explosion

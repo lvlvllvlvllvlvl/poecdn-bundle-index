@@ -1,0 +1,15 @@
+clothesline
+fishermansdisplay
+fishingsupplies
+fishstorage
+hammock
+marineframes
+mutineerscages
+mutineerstree
+shipwreckbarrels
+shipwreckcratecluster
+shipwreckcrates
+shipwrecklanterns
+shipwreckseat
+shipwreckstoragecluster
+shipwrecktable

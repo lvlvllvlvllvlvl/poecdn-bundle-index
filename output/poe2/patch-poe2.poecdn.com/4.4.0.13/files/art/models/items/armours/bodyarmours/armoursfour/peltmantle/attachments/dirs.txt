@@ -1,0 +1,6 @@
+female
+female/belt
+female/skirt
+male
+male/belt
+male/skirt

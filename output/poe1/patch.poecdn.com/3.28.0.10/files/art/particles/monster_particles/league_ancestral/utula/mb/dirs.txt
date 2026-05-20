@@ -1,0 +1,3 @@
+fireball_proj
+slash_rig
+stomp

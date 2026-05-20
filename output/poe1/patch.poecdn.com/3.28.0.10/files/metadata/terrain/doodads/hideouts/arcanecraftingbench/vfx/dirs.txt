@@ -1,0 +1,15 @@
+epks
+epks/arcanecraftingbenchflask
+epks/arcanecraftingbenchfurnace
+epks/arcanecraftingbenchsmalltable
+fx
+fx/candle_flames
+fx/flask_bowl
+fx/flask_bowl/fadeout
+fx/furnace
+fx/furnace/active_fadein
+fx/furnace/idle
+fx/furnace/off
+fx/small_table
+fx/small_table/active_fadein
+graphs

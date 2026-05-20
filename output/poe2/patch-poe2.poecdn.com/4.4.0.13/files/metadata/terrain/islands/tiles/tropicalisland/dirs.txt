@@ -1,0 +1,9 @@
+coastline
+elephantspawner
+features
+ground
+mapmire
+steamingsprings
+steamingsprings/forstcliff
+tropicalcliff
+tropicalslope

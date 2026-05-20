@@ -1,0 +1,16 @@
+mb
+mb/blood_proj
+mb/blood_proj/animations
+mb/detonate_dead
+mb/detonate_dead/blast
+mb/detonate_dead/blast_scalable
+mb/second_explode
+mb/soulrend
+mb/soulrend/projectile
+mb/volatile_dead
+mb/volatile_dead/blood_orb
+mb/volatile_dead/volatiledead_aoe
+textures
+textures/soulrend
+textures/soulrend_impact
+textures/volatile_dead

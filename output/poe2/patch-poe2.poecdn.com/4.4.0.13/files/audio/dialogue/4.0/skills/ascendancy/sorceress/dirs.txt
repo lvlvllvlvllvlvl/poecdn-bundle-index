@@ -1,0 +1,7 @@
+discipleofthedjinn
+discipleofthedjinn/firedjinn
+discipleofthedjinn/firedjinn2d
+discipleofthedjinn/sanddjinn
+discipleofthedjinn/sanddjinn2d
+discipleofthedjinn/waterdjinn
+discipleofthedjinn/waterdjinn2d

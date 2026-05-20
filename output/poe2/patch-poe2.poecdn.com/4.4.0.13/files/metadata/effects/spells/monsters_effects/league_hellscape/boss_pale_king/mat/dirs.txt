@@ -1,0 +1,15 @@
+attack02
+attack02_big
+attack03
+axe_degen
+axe_proj
+bow_build
+bow_proj
+cleave
+dash_gather
+dash_stab
+death_pulse
+heavystun
+idle_fx
+leapslam
+lightning_wave

@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+a1dae0b4b5441041,rhossaddlec.mat,Tiny_8,27131666,1864
+519fe1b160dbe26d,rhossaddle_normal_dxt5.dds,Art/Textures/Monsters/390MarakethBird,393552,87556
+df445d9f32219fd0,rhossaddle_normal_dxt5.dds.header,Tiny_8,27130146,1520
+3720cc05738bd7b6,rhossaddle_colour_dxt1.dds,Art/Textures/Monsters/390MarakethBird,0,43852
+c677da79b3a4ce8b,rhossaddle_colour_dxt1.dds.header,Tiny_8,40595104,1520
+be203faad4388e53,rhoaideals01cns.mat,Tiny_8,40609284,2028
+e67d9d1de824455e,rhoaideals02c.mat,Tiny_8,27126072,1786
+8d04331e2489515b,rhoaideals02cns.mat,Tiny_8,27127858,2288
+51c9c19547d09134,bluerhoac.mat,Tiny_8,27124232,1840
+3fde1c9f0f88bfac,bluerhoa_normal_dxt5.dds,Art/Textures/Monsters/390MarakethBird,43852,349700
+c8598b39a389bdc4,bluerhoa_normal_dxt5.dds.header,Tiny_8,27122712,1520
+106eed4e471caaaa,bluerhoa_colour_dxt1.dds,Art/Textures/NPC/MarakethBird,1092952,174924
+b2b77dc2fd455269,bluerhoa_colour_dxt1.dds.header,Tiny_8,40591756,1520

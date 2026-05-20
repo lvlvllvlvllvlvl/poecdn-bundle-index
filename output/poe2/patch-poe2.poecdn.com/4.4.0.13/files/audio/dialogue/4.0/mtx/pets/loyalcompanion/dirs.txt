@@ -1,0 +1,6 @@
+loyalcompanion_angry
+loyalcompanion_happy
+loyalcompanion_sad
+loyalcompaniondecoration_angry
+loyalcompaniondecoration_happy
+loyalcompaniondecoration_sad

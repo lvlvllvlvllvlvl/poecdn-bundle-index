@@ -1,0 +1,6 @@
+cruciblesword2h
+cruciblesword2h/textures
+demonsword
+orossacrifice
+queensdecreealt
+starforge

@@ -1,0 +1,11 @@
+catburglar
+clicktoopen
+emergeonalarm
+emergeonalarmside
+npc_strengthdestruction
+npcdetectiondoor
+npcdisarmdoor
+npcinfiltrationdoor
+npclockpick
+npcstrength2
+vault

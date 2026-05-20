@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+e7a2f5fc9d90b181,glow_arm.mat,Tiny_D,130814982,31690
+ca7365724a2d5b7b,glow_arm_left.mat,Tiny_D,130846672,28488
+1161ec9ec5b649a3,glow_arm_right.mat,Tiny_D,130875160,28484
+ef22b4fda6df7177,fire_trail.mat,Tiny_D,130777836,37146
+b3202704d20aadf7,fire_arm_r.mat,Tiny_D,130677092,61994
+b7d21014148ec409,fire_arm_u.mat,Tiny_D,130761172,16664
+b713b17ef2a549f1,fire_arm_sparks_r.mat,Tiny_D,131689772,39830
+a12dc0f5c20db2ed,fire_arm_sparks_u.mat,Tiny_D,130739086,22086

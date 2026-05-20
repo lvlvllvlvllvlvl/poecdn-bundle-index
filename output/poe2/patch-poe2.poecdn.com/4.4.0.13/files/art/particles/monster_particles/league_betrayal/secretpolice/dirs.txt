@@ -1,0 +1,2 @@
+charge_up
+spirit_slash

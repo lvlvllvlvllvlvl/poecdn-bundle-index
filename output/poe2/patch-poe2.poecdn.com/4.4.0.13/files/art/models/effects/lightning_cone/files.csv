@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+0a9ec7971ff4c6b7,rig_a25e6d2f.smd,Streaming/Content/metadata/effects/spells/lightning_cone/lightningcone.ao,0,60622
+0c35816f4e6e842a,rig_a25e6d2f.smd.header,Tiny.VC,7066851,1342
+3c885b7109128468,lightningcone.sm,Tiny.VF,7082993,1586
+9805e8bb421ff58c,lightningcone.amd,Tiny.V9,7794686,86
+8b2f167994fda8a4,lightningcone.ast,Content/metadata/effects/spells/player_resources/energy_shield/1F35E63A751D6E18.es_recharge.epk,296874,5415

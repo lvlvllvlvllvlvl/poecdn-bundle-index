@@ -1,0 +1,17 @@
+animations
+animations/ghostbody
+attachments
+attachments/hinekoradeathcaster
+attachments/hinekoradeathcaster/hair
+attachments/hinekoradeathcaster/skirt
+attachments/ksc_feather
+attachments/ksc_hair
+attachments/ksc_robe
+attachments/tjc_hair
+attachments/tjc_robe
+attachments/vkm02_axe
+attachments/vkm02_axe/attachments
+attachments/vkm02_hair
+attachments/vkm02_shield
+attachments/vkm02_shield/attachments
+attachments/vkm02_skirt

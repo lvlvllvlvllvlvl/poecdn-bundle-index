@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+77de0b884682c281,paledemonhornc.mat,Tiny.V7,16278366,2892
+77e97836caebff85,paledemonhorn_normal_dxt5.dds,Streaming/Content/metadata/terrain/gallows/act2/62A95E8C6A53C9CB.DFB0A6340C2D948C.sanctumdeferralobject.ot,749778,699236
+b86ea74d5951cade,paledemonhorn_normal_dxt5.dds.header,Tiny.V2,16524191,840
+fc307a07f4e60f5b,paledemonhorn_colour_dxt5.dds,Streaming/Content/metadata/terrain/gallows/act2/62A95E8C6A53C9CB.DFB0A6340C2D948C.sanctumdeferralobject.ot,50542,699236
+dc5f127272c15e95,paledemonhorn_colour_dxt5.dds.header,Tiny.V2,16523351,840
+a41d926e5360d81a,blackdemonhornc.mat,Tiny.VF,16489918,2354
+7aff70b4cde2dc50,blackdemonhorn_normal_dxt5.dds,Streaming/Content/art/models/terrain/doodads/0D3A98814BD200CF.2AD464123BB08319.blackhornsmall02_02.fmt,699236,699236
+a4ce54aacfb74b37,blackdemonhorn_normal_dxt5.dds.header,Tiny.V9,16598724,840
+5f361eaec7706ff8,blackdemonhorn_colour_dxt5.dds,Streaming/Content/art/models/terrain/doodads/0D3A98814BD200CF.2AD464123BB08319.blackhornsmall02_02.fmt,0,699236
+b5043dd3fd12934a,blackdemonhorn_colour_dxt5.dds.header,Tiny.VF,16489078,840

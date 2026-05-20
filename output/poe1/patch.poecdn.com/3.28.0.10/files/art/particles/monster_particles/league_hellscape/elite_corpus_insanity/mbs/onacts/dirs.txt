@@ -1,0 +1,4 @@
+attack_01
+attack_02
+blood_orb
+death_01

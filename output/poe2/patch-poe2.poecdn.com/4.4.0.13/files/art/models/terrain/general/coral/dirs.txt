@@ -1,0 +1,6 @@
+textures
+textures/coralbrain
+textures/coralfinger
+textures/coralflat
+textures/coralleaf
+textures/coralsponge

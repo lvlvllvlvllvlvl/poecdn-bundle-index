@@ -1,0 +1,7 @@
+coat
+plants
+plants/chest_rig
+plants/midback1_rig
+plants/sideback1_rig
+plants/sidefront1_rig
+plants/stomach_rig

@@ -1,0 +1,17 @@
+aura
+aura/green
+axes
+axes/uulnetoulskiss
+axes/uulnetoulskiss/physical
+balefire
+celestial_weapon
+demon
+demon/cloud
+dusk
+ggg
+ggg/money_sword
+gold
+illusionist
+maces
+wands
+wands/tulbornskiss

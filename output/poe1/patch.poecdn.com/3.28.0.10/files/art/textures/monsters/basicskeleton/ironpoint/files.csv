@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e67975c76cd7449e,ironpoint.mat,Tiny_8,27869376,3798
+0cd95250850ee1ce,ironpoint_sss_dxt1.dds,Art/Textures/Monsters/BasicSkeleton/IronPoint_3,0,699212
+3743438eb34c036b,ironpoint_sss_dxt1.dds.header,Tiny_8,27877734,1520
+092e4e905042ab8e,ironpoint_normal_dxt5.dds,Art/Textures/Monsters/BasicSkeleton/IronPoint_2,0,1398276
+29b175dd51590be9,ironpoint_normal_dxt5.dds.header,Tiny_8,27876214,1520
+22fe4f76ba3aedb2,ironpoint_metal_dxt5.dds,Art/Textures/Monsters/BasicSkeleton/IronPoint_1,0,1398276
+7a1ef99f865442b8,ironpoint_metal_dxt5.dds.header,Tiny_8,27874694,1520
+d9b3e616074e8ed6,ironpoint_colour_dxt1.dds,Art/Textures/Monsters/BasicSkeleton/IronPoint,0,699212
+d88fbeb0e4479a6a,ironpoint_colour_dxt1.dds.header,Tiny_8,27873174,1520

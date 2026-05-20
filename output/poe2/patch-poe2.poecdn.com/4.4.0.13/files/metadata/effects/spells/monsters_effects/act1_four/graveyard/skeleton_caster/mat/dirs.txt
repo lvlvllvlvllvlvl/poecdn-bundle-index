@@ -1,0 +1,9 @@
+onact
+onact/spellcast_unarmed_01_chaos
+onact/spellcast_unarmed_01_cold
+onact/spellcast_unarmed_01_fire
+onact/spellcast_unarmed_01_lightning
+onact/spellcast_unarmed_01_lightning/projectile
+projectile
+projectile/cold
+projectile/cold/impact

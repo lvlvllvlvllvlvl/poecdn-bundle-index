@@ -1,0 +1,6 @@
+attachments
+attachments/bloodpriestmalecape
+attachments/bloodpriestmalecape/animations
+attachments/bloodpriestmalerobe
+attachments/bloodpriestmalerobe/animations
+attachments/bloodpriestmaleweapon

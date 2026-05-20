@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+77f03a16b73a4813,rig_11a8527a.smd,Tiny.VB,36295512,77
+b9bbaf6ccf413774,rig_11a8527a.smd.header,Tiny.VB,36295589,448
+d5775b768dd57313,corefx.sm,Tiny.VC,34266762,368
+5ae03f5b048f08eb,corefx.amd,Tiny.VD,34304827,106
+3060af14c53182bc,corefx.ast,Tiny.V3,33728677,356

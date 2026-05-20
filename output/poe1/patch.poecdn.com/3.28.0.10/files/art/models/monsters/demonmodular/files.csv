@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+c500e2972debb8a1,rig_724d636a.smd,Art/Models/MONSTERS/demonmodular,494017,184038
+570f75b2d418044b,rig_724d636a.smd.header,Tiny_2,76655500,1090
+0ae19e9b422211ad,rig_05553e18.smd,Art/Models/MONSTERS/demonmodular,352025,141992
+3d9292a27dd7ef9e,rig_05553e18.smd.header,Tiny_2,76654649,851
+a34a27dd4d62abbb,rig.amd,Tiny_2,76651073,3576
+373c46f9b83d596e,rig.ast,Art/Models/MONSTERS/demonmodular,0,352025
+f2fe5a32d1600dfd,demon_demon.sm,Tiny_2,76646337,606
+4415a6aafce8c157,demonmodular.sm,Tiny_2,76646943,414
+eb40261a1cc32a3d,demonmodularelementsbosssidearea.sm,Tiny_2,76648253,514
+10e876a29d82251f,demonmodularfire.sm,Tiny_2,76648767,458
+035c257f8c62d282,demonmodularice.sm,Tiny_2,76649225,456
+a3aebc33935fa35e,demonmodularpoison.sm,Tiny_2,76650623,450
+bed240932eeca63b,demonmodularlight.sm,Tiny_2,76649681,468
+bd97760f237b9a59,demonmodularlunaris.sm,Tiny_2,76650149,474
+db21b407613e0e26,demonmodularblood.sm,Tiny_2,76647357,448
+979d623da71e2801,demonmodularbosstower.sm,Tiny_2,76647805,448

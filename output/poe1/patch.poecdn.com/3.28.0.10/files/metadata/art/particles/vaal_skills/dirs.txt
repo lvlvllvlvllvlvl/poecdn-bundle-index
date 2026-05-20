@@ -1,0 +1,17 @@
+blade_flurry
+blade_flurry/demonic
+blade_flurry/demonic/textures
+blade_flurry/demonic/textures/shadow
+blade_flurry/gloom
+blade_flurry/gloom/textures
+blade_flurry/gloom/textures/shadow
+blade_flurry/original
+blade_flurry/original/textures
+blade_flurry/original/textures/shadow
+caustic_arrow
+caustic_arrow/celestial
+caustic_arrow/celestial/textures
+caustic_arrow/celestial/textures/acidic_grd
+caustic_arrow/celestial/textures/large_projectile
+cleave
+cleave/textures

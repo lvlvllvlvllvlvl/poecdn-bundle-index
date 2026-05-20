@@ -1,0 +1,16 @@
+ao
+epk
+fx
+fx/2haxe
+fx/bow
+fx/dwc
+fx/shield
+fx/staff
+fx/sword
+graph
+mat
+mat/2haxe
+mat/bow
+mat/dwc
+mat/shield
+mat/sword

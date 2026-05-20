@@ -1,0 +1,7 @@
+bladefall
+bladefall/acid
+bladefall/cold
+flamethrower
+spikesup
+spitfx
+submerge

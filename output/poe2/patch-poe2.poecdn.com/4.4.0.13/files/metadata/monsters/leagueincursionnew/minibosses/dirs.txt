@@ -1,0 +1,7 @@
+incursionchainedbeastboss
+incursionsunpriestboss
+incursionvaalcolossusboss
+incursionvaalcolossusboss/objects
+incursionvaalsentinelboss
+soulcorefusedskeletonboss
+soulcorequadrillaboss

@@ -1,0 +1,6 @@
+beamblast
+beambuild
+onact
+teleport
+zap
+zap_end

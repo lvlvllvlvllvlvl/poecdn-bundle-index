@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+913079f225ad61b0,gravebindc.mat,Tiny.V4,9670420,2550
+8529bc3bd53a5397,gravebind_glow.dds,Streaming/Content/metadata/items/armours/gloves/DD3FA0B6015E1BC0.26EC6802721DF311.gravebindstrdex.ao,1759359,699212
+6191d09c3b19727e,gravebind_glow.dds.header,Tiny.VB,9597762,1520
+e5d56b0a2fc4bd7c,gravebind_mask.dds,Streaming/Content/metadata/items/armours/gloves/DD3FA0B6015E1BC0.26EC6802721DF311.gravebindstrdex.ao.1,0,699212
+accc04e03974eef7,gravebind_mask.dds.header,Tiny.VD,9443446,1520
+f451ec28b7941e10,gravebind_normal.dds,Streaming/Content/metadata/items/armours/gloves/DD3FA0B6015E1BC0.26EC6802721DF311.gravebindstrdex.ao.1,699212,1398276
+74006b3201850715,gravebind_normal.dds.header,Tiny.V0,9730434,1520
+b95f0c5e43e46f6d,gravebind_colour.dds,Streaming/Content/metadata/items/armours/gloves/DD3FA0B6015E1BC0.26EC6802721DF311.gravebindstrdex.ao,361083,1398276
+e8c639aa8c94161f,gravebind_colour.dds.header,Tiny.V6,9607466,1520

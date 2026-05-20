@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+a042cde08e2c4446,trail_galaxy.mat,Tiny_6,104294162,3444
+d83f628104c98b58,trail_galaxy_dxt5.dds,Art/particles/monster_particles/League_Blight,174924,11108
+2c92d1fb99f83136,trail_galaxy_dxt5.dds.header,Tiny_7,32679606,840
+91f491b3f0506e4c,slash_mask_dxt1.dds,Art/particles/monster_particles/League_Blight,0,174924
+e5ba82628607d4ec,slash_mask_dxt1.dds.header,Tiny_7,3703646,1520
+5c8279e70006706b,shockwave.mat,Tiny_6,104291904,2258
+b8c090cc5d7c9e75,shockwave_dxt5.dds,Folders/art/particles/monster_particles/league_blight_1,4873936,87556
+7863c399052afd37,shockwave_dxt5.dds.header,Tiny_6,105177384,1520
+ef5c29eebf44c082,light_spine.mat,Tiny_6,104287948,2436
+6d3732a59cc9598f,light_spine_dxt1.dds,Art/particles/monster_particles/League_Blight_36,0,43852
+e4036b2495419c69,light_spine_dxt1.dds.header,Tiny_6,104290384,1520
+6a15c17c87d70682,bloom_glow.mat,Tiny_6,104285800,2148
+972da7d4f241ec95,bloom_glow_dxt1.dds,Folders/art/particles/environment_effects/league_heist,699548,11084
+a03aa37f8fadd1d9,bloom_glow_dxt1.dds.header,Tiny_8,23446054,1520

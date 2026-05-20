@@ -1,0 +1,6 @@
+animations
+animations/godofthunder
+animations/harmonious_tiger
+textures
+textures/effects
+textures/harmonioustigerfx

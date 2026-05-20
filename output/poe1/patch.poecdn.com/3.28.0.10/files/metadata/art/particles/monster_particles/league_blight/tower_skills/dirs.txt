@@ -1,0 +1,7 @@
+arc
+buff_on_act
+fireball
+ice
+ice/ice_prison
+meteor
+summoned_minions

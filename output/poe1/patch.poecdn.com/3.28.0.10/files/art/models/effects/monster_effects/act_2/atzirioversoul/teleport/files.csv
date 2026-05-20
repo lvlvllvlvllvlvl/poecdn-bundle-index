@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+3471fe2dcdd0ed7a,up_365cd6f4.smd,Art/Models/Effects/monster_effects/act_2/AtziriOversoul,421448,193644
+898861c49068c3b3,up_365cd6f4.smd.header,Tiny_1,91356096,905
+ac803b9ce5ffce3c,teleportup.sm,Tiny_1,91325513,1984
+26c7a85ec21ad8fd,teleportup.amd,Tiny_2,6417135,94
+49f205f8a2754676,teleportup.ast,Tiny_1,91323436,2077
+8f90304410b8b694,teleportdown.sm,Tiny_1,91321446,1990
+00abf9e07ea1396a,teleportdown.amd,Tiny_2,6417135,94
+9560c28a6fc8ede6,teleportdown.ast,Tiny_1,91319351,2095
+008364b822a95b80,down_e5e6d647.smd,Art/Models/Effects/monster_effects/act_2/AtziriOversoul,213980,207468
+6ce0e4a01855b60b,down_e5e6d647.smd.header,Tiny_1,91347653,905

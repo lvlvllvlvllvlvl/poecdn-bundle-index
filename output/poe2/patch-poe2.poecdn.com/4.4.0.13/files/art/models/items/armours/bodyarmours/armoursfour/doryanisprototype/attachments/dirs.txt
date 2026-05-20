@@ -1,0 +1,8 @@
+cape
+chestdangle
+lcape
+overskirt
+pouch
+rcape
+sash
+skirt

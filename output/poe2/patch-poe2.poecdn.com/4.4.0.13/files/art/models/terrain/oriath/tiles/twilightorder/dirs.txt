@@ -1,0 +1,6 @@
+textures
+textures/architecture
+textures/doors
+textures/ground
+textures/ground/prayerplatform
+textures/prayerplatforms

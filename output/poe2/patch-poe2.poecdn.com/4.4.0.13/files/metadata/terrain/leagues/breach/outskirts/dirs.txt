@@ -1,0 +1,5 @@
+abyss
+abysswall
+feature
+ledge
+thickwall

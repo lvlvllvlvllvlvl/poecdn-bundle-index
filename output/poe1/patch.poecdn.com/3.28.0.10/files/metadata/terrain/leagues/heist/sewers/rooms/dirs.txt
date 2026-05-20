@@ -1,0 +1,12 @@
+1x1
+2x2
+blueprintgoal
+entrances
+goals
+npc
+npc/agility
+npc/bruteforce
+npc/demolition
+npc/engineeringturrets
+npc/gapcross
+sides

@@ -1,0 +1,13 @@
+banditbarricades
+banditcamp
+churchruins
+flowers
+foresttown
+foresttownsnow
+forestwall
+gravestones
+groundplants
+groundweeds
+potplants
+tents
+trees

@@ -1,0 +1,8 @@
+animals
+marketshops
+rogshop
+vfx
+vfx/blacksmith01_01
+vfx/blacksmith01_01/fx
+vfx/blacksmith01_01/mat
+vfx/blacksmith01_01/mat/fire_idle_01

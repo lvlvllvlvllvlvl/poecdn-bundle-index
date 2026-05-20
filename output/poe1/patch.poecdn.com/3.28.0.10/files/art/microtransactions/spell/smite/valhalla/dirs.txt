@@ -1,0 +1,14 @@
+models
+models/aura
+models/lightning_ipct
+models/melee_ipct
+models/weapon
+textures
+textures/aura
+textures/aura/fx
+textures/lightning_ipct
+textures/lightning_ipct/fx
+textures/melee_ipct
+textures/melee_ipct/fx
+textures/weapon
+textures/weapon/fx

@@ -1,0 +1,13 @@
+epk
+fx
+fx/ball_lightning
+fx/charged_shock_nova
+fx/combo_beam
+fx/hand_slam
+fx/laser_beam
+fx/snake_head_slam
+fx/triangle_slam
+fx/wall_emerge
+fx/wall_laser_beam
+graphs
+mat

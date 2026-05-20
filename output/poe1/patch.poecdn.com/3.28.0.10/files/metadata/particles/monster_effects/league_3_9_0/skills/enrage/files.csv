@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+03bfdeade1fa93f6,ring_start.pet,Tiny_32,31926,8502
+d0d6448f3a423f05,ring_loop.pet,Tiny_32,7114,7432
+3ca9727825387f30,ring_loop_cold.pet,Tiny_32,14546,7214
+cf3577b71a66546b,ring_loop_fire.pet,Tiny_32,21760,7616
+d99573e94f229fda,ring_loop_phys.pet,Tiny_32,29376,2550
+c88aa8dbf6dbda16,mid_loop.pet,Tiny_E,234411990,4558
+917e6da0af9161d8,mid_loop_cold.pet,Tiny_E,234416548,6976
+63e73556e5c46362,mid_loop_fire.pet,Tiny_E,234423524,9470
+345894baa89bc328,mid_loop_phys.pet,Tiny_32,0,7114

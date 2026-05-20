@@ -1,0 +1,16 @@
+skull
+skull/dex
+skull/dexint
+skull/int
+skull/str
+skull/strdex
+skull/strdexint
+skull/strint
+spinedangle
+spinedangle/dex
+spinedangle/dexint
+spinedangle/int
+spinedangle/str
+spinedangle/strdex
+spinedangle/strdexint
+spinedangle/strint

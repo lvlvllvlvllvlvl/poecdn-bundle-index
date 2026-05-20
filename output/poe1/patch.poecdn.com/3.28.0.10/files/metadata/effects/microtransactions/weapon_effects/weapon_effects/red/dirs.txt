@@ -1,0 +1,40 @@
+carnage
+carnage/1h_mace_axe
+carnage/1h_sword
+carnage/2h_axe
+carnage/2h_mace
+carnage/2h_staves
+carnage/2h_sword
+carnage/bow
+carnage/claw_dagger_wand
+first_blood
+first_blood/1h_axe
+first_blood/1h_mace
+first_blood/1h_sword
+first_blood/2h_axe
+first_blood/2h_bow
+first_blood/2h_mace
+first_blood/2h_staff
+first_blood/2h_sword
+first_blood/claw
+first_blood/wand_dagger
+infernal
+inferno
+inferno/1h_axe
+inferno/1h_mace
+inferno/1h_sword
+inferno/2h_axe
+inferno/2h_mace
+inferno/2h_staff
+inferno/2h_sword
+inferno/bow
+inferno/dagger_wand
+mtx_thailand
+razoroftheseventh
+vampires_hunger
+vampires_hunger/1h mace_1h axe
+vampires_hunger/1h sword_dagger_wand
+vampires_hunger/2h mace
+vampires_hunger/2h sword
+vampires_hunger/bow
+vampires_hunger/staff

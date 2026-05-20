@@ -1,0 +1,13 @@
+graphs
+pet
+pet/axemace
+pet/bow
+pet/dwc
+pet/staff
+pet/sword
+trl
+trl/axe
+trl/bow
+trl/dwc
+trl/staff
+trl/sword

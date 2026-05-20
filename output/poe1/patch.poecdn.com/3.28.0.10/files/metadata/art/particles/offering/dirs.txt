@@ -1,0 +1,8 @@
+soul
+soul/celestial
+soul/celestial/bone
+soul/celestial/bone/texture
+soul/celestial/bone/trl
+soul/celestial/flesh
+soul/celestial/flesh/texture
+soul/celestial/flesh/trl

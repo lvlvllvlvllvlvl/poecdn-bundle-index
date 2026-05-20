@@ -1,0 +1,6 @@
+doodads
+tiles
+tiles/aquaductadaptations
+tiles/aquaductadaptations/tgms
+tiles/river
+tiles/river/tgms

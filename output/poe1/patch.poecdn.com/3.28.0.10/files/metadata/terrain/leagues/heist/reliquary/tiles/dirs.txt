@@ -1,0 +1,16 @@
+doors
+doors/clicktoopen
+doors/emergeonalarm
+doors/npccatburglar
+doors/npcdetection
+doors/npcdisarmdoor
+doors/npcengineer
+doors/npcexplosivedoor
+doors/npcinfiltration
+doors/npclockpick
+doors/npcmagic
+doors/npcstrength1
+doors/securitygate
+doors/vault
+elevatorspawnlocators
+medallions

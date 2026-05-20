@@ -1,0 +1,10 @@
+cape
+head
+head/hair
+head/headdecor
+headfeathers
+robe
+thighguards
+weapons
+weapons/shield
+weapons/spear

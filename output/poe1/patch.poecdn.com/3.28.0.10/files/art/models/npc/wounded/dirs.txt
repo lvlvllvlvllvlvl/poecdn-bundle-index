@@ -1,0 +1,7 @@
+tolman
+woundedfemale
+woundedfemalebaby
+woundedmale1
+woundedmale1bite
+woundedmale1zombie
+woundedmale2

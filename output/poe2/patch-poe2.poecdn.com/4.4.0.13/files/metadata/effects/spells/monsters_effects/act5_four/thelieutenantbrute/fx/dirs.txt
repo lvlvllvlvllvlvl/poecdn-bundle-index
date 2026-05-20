@@ -1,0 +1,6 @@
+shield_crush
+shield_throw
+shield_throw/flying
+shield_throw/impact
+shield_wave
+sunder

@@ -1,0 +1,5 @@
+epk
+fx
+lamp_fx
+mat
+mat/r_gauntlet

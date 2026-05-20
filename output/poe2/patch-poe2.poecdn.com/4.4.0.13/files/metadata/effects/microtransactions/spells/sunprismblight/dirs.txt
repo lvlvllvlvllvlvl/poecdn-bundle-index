@@ -1,0 +1,8 @@
+caster_hand
+caster_hand/pet
+channelling
+channelling/pet
+horrify
+horrify/pet
+vaal
+vaal/pet

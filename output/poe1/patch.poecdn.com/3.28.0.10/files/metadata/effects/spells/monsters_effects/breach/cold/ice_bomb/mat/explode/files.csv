@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+c4fcca93094745fe,smokering_r.mat,Tiny_D,127812762,21058
+37a4fd88be59e710,smokering_u.mat,Tiny_D,127833820,8030
+9ae78cdf0fa5081d,impactaoering_u.mat,Tiny_D,127810614,2148
+115175d43565c56b,impactaoering_r1.mat,Tiny_D,127746912,38558
+d8af0a4dc3ea0f8c,impactaoering_r2.mat,Tiny_D,127785470,25144
+e2f36f8b843d80a0,iceshards_r.mat,Tiny_D,128321100,16634
+38f6f63525f39239,iceshards_u.mat,Tiny_D,127727246,19666
+954749ea53c42f93,explosionsnow_r.mat,Tiny_D,127706012,21234
+46bef25ee8ad9310,explosionsnow_u.mat,Tiny_D,128280252,20540
+c27d1ebe885cf219,coreexplosion_windoomph_r.mat,Tiny_D,127667976,38036
+0f7a6842b3886d6b,coreexplosion_windoomph_u.mat,Tiny_D,393514124,2148
+3cb0c33a262f45e0,coreexplosion_flash_u.mat,Tiny_D,127665824,2152
+3f58f303c3f24433,coreexplosion_flash_r1.mat,Tiny_D,127583358,40614
+95c0fc4d19594323,coreexplosion_flash_r2.mat,Tiny_D,127623972,41852

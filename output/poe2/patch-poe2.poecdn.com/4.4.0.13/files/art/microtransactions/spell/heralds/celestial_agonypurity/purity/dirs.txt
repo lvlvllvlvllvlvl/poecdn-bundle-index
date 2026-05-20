@@ -1,0 +1,5 @@
+models
+textures
+textures/minion
+textures/minion/slam
+textures/minion/spawn

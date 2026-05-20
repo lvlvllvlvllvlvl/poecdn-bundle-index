@@ -1,0 +1,10 @@
+attachments
+axe
+axe_axe
+axe_dagger
+axe_shield
+bow
+bow/attachments
+dagger_dagger
+staff
+staff/objects

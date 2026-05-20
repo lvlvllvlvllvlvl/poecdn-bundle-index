@@ -1,0 +1,13 @@
+an_act_spellbuff
+on_act_summon
+on_act_tripleprojectile
+on_act_voidsand
+phys_droneemerge
+phys_droneenragewave
+phys_droneexplode
+phys_dronemortar
+phys_volatile
+phys_volatileexplosion
+phys_volatilemortar
+phys_volatilewave
+phys_waveslam

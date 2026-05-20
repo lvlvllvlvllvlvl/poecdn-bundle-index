@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+b72043df3bfefe3c,seraphbannerspecularc.mat,Tiny_8,10926207,3564
+d223099212c4014b,seraphbanner_normal_dxt5.dds,Art/Textures/Items/armour/Capes/SeraphBanner,699572,174948
+21e62c6a17cecaa7,seraphbanner_normal_dxt5.dds.header,Tiny_8,10925367,840
+9ed2a2e0ac88d09c,seraphbanner_glow_dxt5.dds,Art/Textures/Items/armour/Capes/SeraphBanner,524624,174948
+9c373c415ea39c56,seraphbanner_glow_dxt5.dds.header,Tiny_8,10924527,840
+603122c0773b6e3a,seraphbanner_colourspecular_dxt5.dds,Art/Textures/Items/armour/Capes/SeraphBanner,174924,349700
+3eb51de618e7b1f0,seraphbanner_colourspecular_dxt5.dds.header,Tiny_8,10923007,1520
+479c90a4114d4781,seraphbanner_colourspecular_bc7.dds,Art/Textures/Items/armour/Capes/SeraphBanner,174924,349700
+01133eb61adb261e,seraphbanner_colourspecular_bc7.dds.header,Tiny_8,10923007,1520
+ab3ae0bec6a7abc7,seraphbanner_colourspecular.dds,Art/Textures/Items/armour/Capes/SeraphBanner,0,174924
+981ee2d0dc1fba30,seraphbanner_colourspecular.dds.header,Tiny_8,10921487,1520

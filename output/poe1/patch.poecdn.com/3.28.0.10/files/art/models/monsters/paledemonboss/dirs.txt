@@ -1,0 +1,7 @@
+animations
+animations/wildbreachboss
+attachments
+attachments/bow
+attachments/wildbreachbossbow
+attachments/wildbreachbossmaul
+attachments/wildbreachbossrobe

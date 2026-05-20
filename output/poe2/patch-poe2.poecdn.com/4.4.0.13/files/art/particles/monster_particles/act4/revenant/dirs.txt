@@ -1,0 +1,4 @@
+bolt
+chaos_projectiles_deathsplode
+projectile
+revive

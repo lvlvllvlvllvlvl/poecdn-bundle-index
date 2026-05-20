@@ -1,0 +1,13 @@
+bloodthorn
+bloodthorn_alt
+branddetonatestaff
+cruciblestaff
+cruciblestaff/textures
+duskdawnstaff
+eclipsestaff
+femurofthesaints
+hegemony_era
+martyrinnocence
+tarynsshiver
+tarynsshiver_alt
+whispering_ice_alt

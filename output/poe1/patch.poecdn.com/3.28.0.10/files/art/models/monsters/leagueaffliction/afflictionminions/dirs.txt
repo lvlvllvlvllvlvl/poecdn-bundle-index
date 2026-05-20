@@ -1,0 +1,13 @@
+afflictiondemonm1boss
+afflictiondemonm1boss/attachments
+afflictiondemonm1boss/attachments/larmtentacle
+afflictiondemonm1boss/attachments/rarmtentacle
+afflictiondemonminionsm1
+afflictiondemonminionsm1/attachments
+afflictiondemonminionsm1/attachments/eyes
+afflictiondemonminionsm1/attachments/tentacles
+afflictiondemonminionsm1/textures
+afflictiondemonminionsm2
+afflictiondemonminionsm3
+afflictionmeleedemonb
+afflictionspellcasterminion

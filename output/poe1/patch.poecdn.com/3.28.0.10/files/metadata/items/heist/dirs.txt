@@ -1,0 +1,7 @@
+goalassets
+heistcloakdrops
+heistdrilldrops
+heisttoolkitdrops
+questcontracts
+questitems
+questobjects

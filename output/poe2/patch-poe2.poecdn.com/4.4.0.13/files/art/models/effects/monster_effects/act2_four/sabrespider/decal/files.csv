@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+59fbc83ee07f39ab,innergrd.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.174FE30CAE6BA59E.emerge_pt.pet,0,12690
+9019a006e663017b,innergrd.fmt.header,Tiny.VD,6967629,208
+5f4e045809557398,cutout.fmt,Tiny.V5,7086828,876
+e46dc00968db0226,cutout.fmt.header,Tiny.VA,7230687,213
+8b254fd0d5571e95,outtergrd.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.174FE30CAE6BA59E.emerge_pt.pet,12690,7034
+10ac386bf444a968,outtergrd.fmt.header,Tiny.V7,7059967,208
+6562d588f2dc05d2,rig_30f077f1.smd,Streaming/Content/metadata/monsters/demonspiders/spidersabre/sabrespider.ot,0,24797
+a7a6439ad3cec396,rig_30f077f1.smd.header,Tiny.V9,7384501,448
+a31b65afe667851d,decalspider.sm,Tiny.VD,6966787,842
+9288915a58a6e703,decalspider.amd,Tiny.V0,32827508,96
+48fe863276823b72,decalspider.ast,Tiny.V4,7248626,650

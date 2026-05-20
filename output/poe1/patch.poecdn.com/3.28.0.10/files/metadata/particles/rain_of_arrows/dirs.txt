@@ -1,0 +1,4 @@
+aoe_new
+aoe_new/eternalempire
+earth
+lightning

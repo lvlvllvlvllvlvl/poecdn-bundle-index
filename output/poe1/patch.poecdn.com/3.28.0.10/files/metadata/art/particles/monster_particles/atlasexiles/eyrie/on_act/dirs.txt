@@ -1,0 +1,6 @@
+attack_01
+barrage_01
+dash_attack_01
+dash_dive_01
+death_01
+tornado_spin_01

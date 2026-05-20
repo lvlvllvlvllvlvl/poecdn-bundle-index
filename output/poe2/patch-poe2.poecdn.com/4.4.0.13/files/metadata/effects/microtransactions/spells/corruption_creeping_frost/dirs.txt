@@ -1,0 +1,7 @@
+attached_objects
+fx
+fx/aura
+fx/impact
+fx/projectile
+fx/surge
+graphs

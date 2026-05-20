@@ -1,0 +1,5 @@
+disengage_01
+engage_01
+spear_throw_01
+spear_throw_01/spear_fade
+spear_thrust_combo_01

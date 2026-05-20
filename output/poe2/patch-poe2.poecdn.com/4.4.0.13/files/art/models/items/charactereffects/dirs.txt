@@ -1,0 +1,8 @@
+archdemon
+archdemon/archdemonaura
+demon
+demon/demonaura
+demon2
+demon2/demon2_aura
+impdemon
+impdemon/impdemon_aura

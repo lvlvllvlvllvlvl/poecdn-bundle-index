@@ -1,0 +1,9 @@
+fx
+fx/idle_01
+fx/idle_01_l
+fx/idle_01_s
+graphs
+mat
+mat/idle_01
+mat/idle_01_l
+mat/idle_01_s

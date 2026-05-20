@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+b0fc7bc566e3d0c1,energy_r.mat,Tiny.V0.1,65190236,22412
+cdba6a3a14e719cf,onact_flames_r.mat,Tiny.V2.1,63132286,30562
+0d7e4b798dd6fb82,heat_shimmer_r.mat,Tiny.V5.1,61039238,16192
+3a02282351c4c4f7,glow_r.mat,Tiny.VC.1,63831430,34094
+d68df1bc5d09ddf2,glow_u.mat,Tiny.VB.1,59987178,7150
+6a987cc4f673193b,glow_eye_r.mat,Tiny.V3.1,60980748,20100
+a0c92857b2a4d79f,glow_eye_u.mat,Tiny.V8.1,59910166,970
+083231cb9cc294e3,charge_trail_r.mat,Tiny.V7.1,62948156,40624
+98cfeeace0839da3,charge_trail_u.mat,Tiny.VC.1,63825574,5856
+87276b8ea8a6ad8a,sparks_r.mat,Tiny.VE.1,70970552,17218
+b7f658737e57f957,sparks_u.mat,Tiny.V3.1,61000848,9194
+25fc14bf0c8b7d9d,bluroomph_render.mat,Tiny.V4.1,66230456,10286
+290ba36c9a82e145,bluroomph_update.mat,Tiny.VF.1,33454642,738
+6d4ae862d20daf1f,bone_pnt_u.mat,Tiny.VE.1,1562868,310
+d457713e74aab79e,boneline_u.mat,Tiny.V8.1,60218768,2142

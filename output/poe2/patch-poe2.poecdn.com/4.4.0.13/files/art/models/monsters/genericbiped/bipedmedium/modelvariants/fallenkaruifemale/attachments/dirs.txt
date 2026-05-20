@@ -1,0 +1,8 @@
+feathers
+feathers/feather01
+feathers/feather03
+hair
+hair_02
+robes
+robes/robe01
+robes/robe02

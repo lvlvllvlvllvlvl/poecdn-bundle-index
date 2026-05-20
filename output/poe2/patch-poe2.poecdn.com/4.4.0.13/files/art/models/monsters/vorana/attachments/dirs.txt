@@ -1,0 +1,4 @@
+chains_l
+chains_r
+hangingcloth
+robe

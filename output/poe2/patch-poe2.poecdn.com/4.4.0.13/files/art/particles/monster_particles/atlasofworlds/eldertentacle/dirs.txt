@@ -1,0 +1,7 @@
+large
+large/ground_ink
+large/projectile
+large/projectile_epic
+large/projectile_epic/build_up
+small
+small/projectile

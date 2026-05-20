@@ -1,0 +1,10 @@
+female
+female/bag
+female/buckles
+female/skirt
+male
+male/bag
+male/buckles
+male/skirt
+str
+str/buckles

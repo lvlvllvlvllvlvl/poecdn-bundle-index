@@ -1,0 +1,9 @@
+blue
+green
+izaro
+mint
+orange
+purple
+red
+white
+yellow

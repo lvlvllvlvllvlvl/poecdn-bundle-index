@@ -1,0 +1,14 @@
+1h_attack_02
+adds_summon
+charge_slam
+emerge_01
+epic_cleave
+guillotine_drop
+guillotine_drop/guillotine
+guillotine_drop/impact
+guillotine_drop/marker
+guillotine_drop/onact
+misc
+overhead_chop_slam
+reverse_slam
+xbow_marker

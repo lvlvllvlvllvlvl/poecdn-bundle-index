@@ -1,0 +1,9 @@
+amulet_es
+amulet_mana
+beam_es
+beam_life
+beam_mana
+leech_es
+leech_es/loop_01
+leech_mana
+leech_mana/loop_01

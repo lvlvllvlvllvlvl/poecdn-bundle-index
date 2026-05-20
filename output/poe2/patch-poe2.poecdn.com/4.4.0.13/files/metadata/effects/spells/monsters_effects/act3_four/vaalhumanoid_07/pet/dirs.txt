@@ -1,0 +1,8 @@
+basic_arrow
+sr_arrow_lightning
+sr_impact_lightning
+sr_lightning_beam
+sr_placed_object_lightning
+sr_placed_object_lightning/emerge
+sr_placed_object_lightning/idle
+sr_placed_object_lightning/submerge

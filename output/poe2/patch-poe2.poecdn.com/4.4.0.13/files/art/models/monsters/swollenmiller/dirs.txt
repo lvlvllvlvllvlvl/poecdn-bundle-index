@@ -1,0 +1,8 @@
+animations
+animations/largedualaxeboss
+animations/largedualaxeboss/twighlight_order
+attachments
+attachments/largedualaxeboss
+attachments/largedualaxeboss/cloak
+attachments/largedualaxeboss/loincloth
+swollenmillerrobe

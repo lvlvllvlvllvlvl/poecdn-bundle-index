@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+789740824a2356eb,trail_mainc.mat,Tiny_6,14106074,2656
+ff201600b46bd44f,trail_main_multic.mat,Tiny_6,14104026,2048
+5862ca3645a8118e,trail_main_multi.dds,Art/particles/dancing_daggers/dagger,87980,43876
+fd8c77c5db60d516,trail_main_multi.dds.header,Tiny_6,14103186,840
+c66183dabe03e141,trail_main.dds,Art/particles/dancing_daggers/dagger,22052,43876
+d0749972b26b2ee6,trail_main.dds.header,Tiny_6,14102346,840
+6b8a199a2af6a3ad,binoscns.mat,Tiny_6,14099944,2402
+2faa558d08674910,binos_glowc.mat,Tiny_6,14098042,1902
+25c95e6970570ba9,binos_glow.dds,Art/particles/dancing_daggers/dagger,65928,22052
+d5e67d3c7d8afc74,binos_glow.dds.header,Tiny_6,14097538,504
+315d5a52c20dbc9f,binos_colour.dds,Art/particles/dancing_daggers/dagger,0,22052
+10994ae3914ea9c1,binos_colour.dds.header,Tiny_6,14097034,504

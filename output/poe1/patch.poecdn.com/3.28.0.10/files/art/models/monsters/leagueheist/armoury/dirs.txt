@@ -1,0 +1,17 @@
+banditweapons
+banditweapons/banditbowelite
+banditweapons/banditbowstd
+banditweapons/textures
+bearthuggreataxe
+heistcloaks
+heistskeletoncrossbow
+nenetbow
+nenetbow/quiver
+nenetbow/quiver/textures
+safecrackingtools
+safecrackingtools/safecrackerdrill
+templarcrossbow
+textures
+thaumaturgyscientistaxe
+undeadweapons
+undeadweapons/textures

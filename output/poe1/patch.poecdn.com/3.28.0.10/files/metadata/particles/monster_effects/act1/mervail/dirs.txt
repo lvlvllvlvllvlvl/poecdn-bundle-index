@@ -1,0 +1,10 @@
+act_bigwave
+death
+death/explode
+death/passive
+geyser
+geyser/start
+gold_summon
+screech
+sword_summon
+teleport

@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+856f4db8c83e1f8d,decoration.hideout,Folders/metadata/npc,1455535,15650
+e34b5621f7acfb28,filegroups.fgp,Tiny_11,88091998,118
+7e3f799369b73f1e,generate.rs,Tiny_11,88092116,604
+9bf875bf330796af,random_fill_tiles.gft,Tiny_11,88095732,1568
+52d5036fecca3801,tiles.tst,Tiny_11,88097300,16178
+e8c2b5a79764e29a,materials.mtd,Tiny_11,88095264,468
+0d2a1d37cfbbd39c,master.tsi,Tiny_11,88094162,644
+df7028ce320938e6,master_upstairs.tsi,Tiny_11,88094806,458

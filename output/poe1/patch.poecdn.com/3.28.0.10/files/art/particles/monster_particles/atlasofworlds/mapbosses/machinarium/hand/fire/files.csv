@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+beac099901d64307,spark2.mat,Tiny_6,68192045,1590
+da72c19a35d2faf9,spark2.dds,Tiny_7,41034094,516
+a916b5d1f5823109,spark2.dds.header,Tiny_7,41034610,1520
+fa94dc28bc32a987,smoketest.mat,Tiny_6,68188393,3652
+b13e2d0e0a78772a,smoketest.dds,Art/particles/monster_particles/League_Incursion_4,1420664,22020
+79b1d3d95a759cfa,smoketest.dds.header,Tiny_6,128910177,1520
+5d282db923095365,projectile_add.mat,Tiny_6,68185549,2844
+4bd6e923fe6ab935,projectile_add.dds,Folders/art/particles/monster_particles/league_bestiary_3,1689820,11084
+a72028c5df3f8a78,projectile_add.dds.header,Tiny_7,41021178,1520
+2dd8a9f2568dc5e2,frenzytrail_fireball.mat,Tiny_6,68183191,2358
+8bab6b055ec0d38c,frenzytrail_fireball.dds,Folders/art/microtransactions/character_fx/innocence_sin,435797,11084
+cc9d0954efa36504,frenzytrail_fireball.dds.header,Tiny_7,33487416,1520
+8e8be3ff19b15631,fire_lookup.mat,Tiny_6,68181971,1220
+8c7236e1c36d5acf,fire_lookup.dds,Tiny_6,128894837,2212
+9b71a62b0bb36f12,fire_lookup.dds.header,Tiny_6,128897049,280

@@ -1,0 +1,11 @@
+faridunblackprince
+faridunblackprince/backattachment
+faridunblackprince/backattachment_attach
+faridunblackprince/clothback
+faridunblackprince/shawl
+faridunblackprince/skirt
+faridunblackprince/weapon
+l_sleeve
+r_sleeve
+skirt
+sword

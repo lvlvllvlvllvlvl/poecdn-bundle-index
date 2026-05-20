@@ -1,0 +1,7 @@
+attachments
+attachments/hairstyles
+attachments/hairstyles/brute
+attachments/hairstyles/marauder
+attachments/outfits
+attachments/outfits/bruteoutfit
+attachments/outfits/marauderoutfit

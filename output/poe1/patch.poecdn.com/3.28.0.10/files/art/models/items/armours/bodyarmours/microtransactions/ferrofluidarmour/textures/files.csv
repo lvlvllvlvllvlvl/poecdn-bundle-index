@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+f171bbfecf534033,core_proxyc.mat,Tiny_2,30246496,4500
+9abcc772f01ea5e1,fx_proxyc.mat,Tiny_2,30267452,6220
+f5ca2d00719ef266,faithswornbodymalec.mat,Tiny_2,30261502,5950
+8e272270bc93fff0,faithswornbodymale_normal_dxt5.dds,Art/Models/Items/Armours/BodyArmours/Microtransactions_217,0,1398276
+6ae513e891186241,faithswornbodymale_normal_dxt5.dds.header,Tiny_2,30259982,1520
+eb113459a26e7a54,faithswornbodymale_mask_dxt5.dds,Folders/art/models/items/armours/bodyarmours/microtransactions_91,0,1398276
+7c4786c580f11cb8,faithswornbodymale_mask_dxt5.dds.header,Tiny_2,30258462,1520
+1f0077e67fba12d7,faithswornbodymale_colour_dxt5.dds,Art/Models/Items/Armours/BodyArmours/Microtransactions_219,0,1398276
+0da778ed97da71d1,faithswornbodymale_colour_dxt5.dds.header,Tiny_2,30256942,1520
+0f86b3afa02d9a10,faithswornbodymale_colour_bc7.dds,Art/Models/Items/Armours/BodyArmours/Microtransactions_219,0,1398276
+deb0df3c34130769,faithswornbodymale_colour_bc7.dds.header,Tiny_2,30256942,1520
+e5d1aa9082f1670f,faithswornbodymale_colour.dds,Folders/art/models/items/armours/bodyarmours/microtransactions_81,1675248,699212
+6dc6017592ba2fb4,faithswornbodymale_colour.dds.header,Tiny_2,30255422,1520
+fb8fff14c08a4cc5,dotdrop02.mat,Tiny_2,30250996,2706
+502febf90e9b09d6,dotdrops.mat,Tiny_2,30253702,1720

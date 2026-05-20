@@ -1,0 +1,13 @@
+int4_savagehits
+sorceress
+sorceress/sorceress_apparition
+sorceress/sorceress_convo
+sorceress/sorceress_gameplay
+sorceress/sorceress_skills
+sorceress/sorceress_wild
+witch
+witch/witch_apparition
+witch/witch_convo
+witch/witch_gameplay
+witch/witch_skills
+witch/witch_wild

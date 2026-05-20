@@ -1,0 +1,5 @@
+attachments
+attachments/facecoins
+attachments/plume
+attachments/wings
+textures

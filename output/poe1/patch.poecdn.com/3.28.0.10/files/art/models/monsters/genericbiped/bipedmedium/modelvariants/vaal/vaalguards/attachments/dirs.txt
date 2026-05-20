@@ -1,0 +1,9 @@
+vaalguard01chestornaments
+vaalguard01headdress
+vaalguard01mantle
+vaalguard01robe
+vaalguard02headdress
+vaalguard03cape
+vaalguard03headdress
+vaalguard03skirt
+vaalweapons

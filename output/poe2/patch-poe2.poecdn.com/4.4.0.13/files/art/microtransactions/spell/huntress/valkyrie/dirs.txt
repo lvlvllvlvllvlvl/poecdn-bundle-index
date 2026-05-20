@@ -1,0 +1,9 @@
+spear_lightningspear
+spear_lightningspear/texture
+spear_overchargedspear
+spear_overchargedspear/mb
+spear_overchargedspear/texture
+spear_primalstrikes
+spear_primalstrikes/mb
+spear_primalstrikes/mb/bird
+spear_primalstrikes/mb/wing

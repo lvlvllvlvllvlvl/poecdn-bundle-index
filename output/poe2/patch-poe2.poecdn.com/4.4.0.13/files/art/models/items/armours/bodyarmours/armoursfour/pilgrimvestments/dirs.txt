@@ -1,0 +1,6 @@
+attachments
+attachments/cape
+attachments/l_sleeve
+attachments/r_sleeve
+attachments/robe
+textures

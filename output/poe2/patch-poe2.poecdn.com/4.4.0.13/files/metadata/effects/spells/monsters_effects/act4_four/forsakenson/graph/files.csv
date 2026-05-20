@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+e11b64452b08d5c7,sim_fire_loop_texinit.fxgraph,Content/metadata/effects/spells/monsters_effects/league_delirium/80983161B53C610D.floating_explosion_idle_ring.pet,4380336,51076
+b32e4823fe4b2599,burnt_ground.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/ED93B2C1966D7550.vomit_decal_01.pet,934589,90064
+851c7d3c091ef80e,geometryanglemesh.fxgraph,Content/metadata/effects/spells/monsters_effects/league_delirium/80983161B53C610D.floating_explosion_idle_ring.pet,5224032,36288
+f13b9fd57debc51b,custom_scalebydistancefromemitterrender.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/5EC5DFD2E9A7D7F7.wave_front.pet,0,18858
+1b38d6448274a470,censer_ignite_r.fxgraph,Content/metadata/monsters/leaguesanctum/boss/objects/sentineltrackingeffect.ot,768991,60328

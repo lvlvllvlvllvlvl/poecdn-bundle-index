@@ -1,0 +1,3 @@
+waterelemental
+waterelemental/attachments
+waterelemental/attachments/waterelementalrobe

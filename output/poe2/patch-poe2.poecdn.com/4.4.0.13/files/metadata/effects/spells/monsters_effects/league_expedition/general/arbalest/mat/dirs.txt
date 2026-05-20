@@ -1,0 +1,10 @@
+attack_01
+attack_01/base_arrow
+rain_arrow
+rain_arrow/explode
+rain_arrow_player
+rain_arrow_player_once
+scourge_arrow
+scourge_arrow/arrow_shot
+virulent_arrow_pod
+virulent_arrow_pod_explode

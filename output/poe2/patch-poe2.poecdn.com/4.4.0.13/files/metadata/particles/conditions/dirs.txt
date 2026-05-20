@@ -1,0 +1,15 @@
+black_flame
+blood_frenzycasts
+chaosed
+divine_shocked
+hinder
+ignited_sin
+kitava_ignited
+large_monsters
+malachai_burning
+mid_monsters
+parasite
+petrified
+poisoned_dart_slow
+red_shocked
+white_burning

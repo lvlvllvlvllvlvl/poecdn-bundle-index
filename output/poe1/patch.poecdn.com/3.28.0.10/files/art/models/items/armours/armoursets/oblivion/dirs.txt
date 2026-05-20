@@ -1,0 +1,12 @@
+attachments
+attachments/femalehairattachment
+attachments/malehairattachment
+attachments/oblivionarmourdexintrobe
+attachments/oblivionarmourdexrobe
+attachments/oblivionarmourintrobe
+attachments/oblivionarmourstrdexintrobe
+attachments/oblivionarmourstrdexrobe
+attachments/oblivionarmourstrintrobe
+attachments/oblivionarmourstrrobe
+onyxobliviontemp
+textures

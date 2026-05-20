@@ -1,0 +1,10 @@
+epk
+fx
+graph
+mat
+mat/activation_pulse
+mat/activation_surge
+mat/idle_fx
+mat/idle_fx_small
+mat/portal_frame
+mat/statue_fx

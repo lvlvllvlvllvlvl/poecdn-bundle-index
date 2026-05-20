@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+fa4badddf4b74a71,basepass.mat,Tiny_9,452084280,954
+40bee7e7ab393fee,rune_idle_glow_r.mat,Tiny_9,452382342,24798
+d0406ecda30af035,rune_idle_r.mat,Tiny_9,452407140,21244
+8b5b445f7213da88,rune_idle_u.mat,Tiny_9,452428384,17782
+e8656bb9c1ed09d1,metal_static_r.mat,Tiny_9,452341644,40698
+4ee97b60d29267c5,metal_along_conection_r.mat,Tiny_9,452307612,22208
+284ed8bd61104ae8,metal_along_warp_r.mat,Tiny_9,452329820,11824
+13af32a03ae76242,mblur_warp_r.mat,Tiny_9,452295176,10468
+d51ac4e751fb3174,mblur_warp_u.mat,Tiny_9,452305644,1968
+750c081c7580bc27,glow_r.mat,Tiny_9,452253156,20084
+1b439ae451ab1ce7,glow_u.mat,Tiny_9,452273240,4176

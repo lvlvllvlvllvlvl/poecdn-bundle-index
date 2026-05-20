@@ -1,0 +1,4 @@
+idle_cyl
+lighting_surge
+lightning_strike_hearld
+mid

@@ -1,0 +1,7 @@
+animations
+animations/aesirapparition
+animations/aesirapparition/map_device_large
+animations/aesirapparition/map_device_small
+animations/aesirapparition/rare_finisher_effect
+textures
+textures/fx

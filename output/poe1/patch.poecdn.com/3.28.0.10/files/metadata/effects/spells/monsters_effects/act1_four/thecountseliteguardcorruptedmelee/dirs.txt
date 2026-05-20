@@ -1,0 +1,8 @@
+mat
+mat/onact
+mat/onact/attack_01_02
+mat/onact/tentacle_pull_start_01
+pet
+pet/onact
+pet/onact/tentacle_pull_start_01
+trl

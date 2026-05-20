@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+e33393666846b03e,cutoutwaterc.mat,Tiny.VD,41164764,202
+0ebc2e59c59140c2,gen_watertile01_normal.dds,Streaming/Content/data/worldareas/13/c_g3_17.vworld,8773,2796364
+42c48f83704dfdfd,gen_watertile01_normal.dds.header,Tiny.VC,41055028,1520
+7843229446477f4f,backwatertile_normal_dxt1.dds,Streaming/Content/metadata/terrain/jungle/jungleexterior/E2E60081128AA5AA.D94FE6DFCBCAB99D.water_cvdiag_big_01.ao,349672,43852
+ac780eb4dfaa84eb,backwatertile_normal_dxt1.dds.header,Tiny.V3,40277448,1520
+1eaab1162e533eb6,water_murkycity01_normal_dxt5.dds,Streaming/Content/metadata/terrain/jungle/jungleexterior/E2E60081128AA5AA.D94FE6DFCBCAB99D.water_cvdiag_big_01.ao,6073660,5592580
+2dc53e4f13ca213d,water_murkycity01_normal_dxt5.dds.header,Tiny.V9,41552943,1520
+d4492ff0f373f005,water_murkycity01_colour_dxt4.dds,Streaming/Content/metadata/terrain/jungle/jungleexterior/E2E60081128AA5AA.D94FE6DFCBCAB99D.water_cvdiag_big_01.ao,481080,5592580
+7254c3cc26558a65,water_murkycity01_colour_dxt4.dds.header,Tiny.VE,40645805,1520
+7b43f22cc9f2a8e3,water_caustics_2_dxt5.dds,Streaming/Content/metadata/terrain/jungle/jungleexterior/E2E60081128AA5AA.D94FE6DFCBCAB99D.water_cvdiag_big_01.ao,393524,87556
+8b26a94d01b45bd8,water_caustics_2_dxt5.dds.header,Tiny.VC,33419133,1520
+b70b642073a0ddee,water_caustics_2_bc1.dds,Streaming/Content/metadata/terrain/hideoutdecorations/canopy/B2B9EC0175BADB45.canopy_hut02curved.ao,532433,43852
+005baf05cafd9969,water_caustics_2_bc1.dds.header,Tiny.VE,32830534,1520

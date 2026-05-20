@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+faf383b0e8e36372,zoom_distort_2_r.mat,Tiny_8,102841125,9816
+043a070f1d343464,zoom_distort_2_u.mat,Tiny_11,63879857,346
+32fc217b120f6bf7,sphere_shockwave_r.mat,Tiny_8,102805683,20930
+d610100542a036db,spores_scatter_r.mat,Tiny_8,102826613,5680
+d59448a2b0d739ed,spores_scatter_u.mat,Tiny_8,102832293,8832
+bbc370e6f442354d,shockfield_sphere_r.mat,Tiny_8,102782439,19648
+be1d5b40cf97ed11,shockfield_sphere_u.mat,Tiny_8,102802087,3596
+f7d60058adf55cbc,ring_smoke_r.mat,Tiny_8,102755057,22372
+d478c72eb133a47f,ring_smoke_u.mat,Tiny_8,102777429,5010
+966fde7ba1672773,caustics_r.mat,Tiny_8,102702665,12356
+c033f0a3d4ed4581,core_streaks_r.mat,Tiny_8,102740805,12486
+8621957275d80ee3,core_streaks_u.mat,Tiny_8,102753291,1766
+f29425ae1a9a1031,core_shockwave_r.mat,Tiny_8,102715021,23608
+91bba0bb755f8b83,core_shockwave_u.mat,Tiny_8,102738629,2176
+30c224d808ce13af,blowup_sparks_r.mat,Tiny_8,102684635,8354
+8afdc724e58b3425,blowup_sparks_u.mat,Tiny_8,102692989,9676

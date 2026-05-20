@@ -1,0 +1,11 @@
+attachments
+attachments/coat
+attachments/coat/dex
+attachments/coat/dexint
+attachments/coat/int
+attachments/coat/str
+attachments/coat/strdex
+attachments/coat/strdex/attachments
+attachments/coat/strdexint
+attachments/coat/strint
+textures

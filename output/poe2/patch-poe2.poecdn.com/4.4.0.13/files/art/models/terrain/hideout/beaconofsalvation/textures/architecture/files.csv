@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+4b563e81af7388ff,hbos_domespanels01c.mat,Tiny.V9,17188330,1158
+8c04f9c02fd2a208,hbos_domespanels01_normal.dds,Streaming/Content/data/worldareas/E6/hideoutbeaconofsalvation.vworld,0,5592580
+072cf4a03cd54df2,hbos_domespanels01_normal.dds.header,Tiny.V8,29464496,1520
+7c9465af1851b566,hbos_domespanels01_colour.dds,Streaming/Content/data/worldareas/B8/hideoutbeaconofsalvation.vworld,0,5592580
+189e624192ec3bf6,hbos_domespanels01_colour.dds.header,Tiny.VE,29316012,1520
+82a33ebaf0def519,hbos_marbleprimary01c.mat,Tiny.V1,16826289,916
+8670a25660cb39ce,hbos_marbleprimary01_normal.dds,Streaming/Content/data/worldareas/5E/mapport.vworld,5689472,5592580
+27ba6c9a9e3996b8,hbos_marbleprimary01_normal.dds.header,Tiny.V8,17078000,1520
+73531c6b29564487,hbos_marbleprimary01_colour.dds,Streaming/Content/data/balance/worldareas/EB/mapport.vworld,5592580,5592580
+fbc0d08115365de7,hbos_marbleprimary01_colour.dds.header,Tiny.VF,17160511,1520

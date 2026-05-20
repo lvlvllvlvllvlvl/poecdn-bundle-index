@@ -1,0 +1,4 @@
+mace_1h
+mace_2h
+quarterstaff
+spear

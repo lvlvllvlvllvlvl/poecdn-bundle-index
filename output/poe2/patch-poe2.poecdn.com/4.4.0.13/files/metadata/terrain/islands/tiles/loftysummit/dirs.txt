@@ -1,0 +1,7 @@
+features
+lowerledge
+oceanledge
+oceanledgecliff
+ridgecliff
+unwalkablecliffocean
+walkablecliff

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+013397a555db6290,spike_poison.mat,Tiny.VB.1,95067886,17542
+3a8ea0c7991111db,spike_dissolve.mat,Tiny.V8.1,90836410,2566
+48807e5da64c4794,spike_dissolve_poison.mat,Tiny.VF.1,94673536,2566
+026e5b9cabe395e5,dissolve_smoke_r.mat,Tiny.VA.1,93938908,35632
+2082ed6e1c56feee,dissolve_smoke_u.mat,Tiny.VC.1,96755178,10942
+cb46fc63feea0808,dissolve_smoke_poison_r.mat,Tiny.V6.1,94654162,36648
+34577f45e1a5ad0d,dissolve_smoke_poison_u.mat,Tiny.V6.1,94690810,12260
+d5c257301f259cbc,dissolve_spores_r.mat,Tiny.VC.1,96766120,21932
+d8efcf5b2a99dd6f,dissolve_spores_u.mat,Tiny.V8.1,90820454,15956
+aac5e9e5c7f5aa32,dissolve_spores_poison_r.mat,Tiny.V5.1,92749892,19682
+dc825107f01f1471,dissolve_spores_poison_u.mat,Tiny.VA.1,93974540,14110
+5b636a46b3dc35ce,trail_poison_mblurbutitsthefireone.mat,Tiny.V8.1,90838976,31510
+6dd75b3ddbbec577,trail_poison_mb.mat,Tiny.VB.1,95085428,31536
+f23cb2b8cfa30f21,quillcrabpoisonc_spike.mat,Tiny.VE.1,94326020,9046
+a711694a383913dc,quillcrabc_spike_held.mat,Tiny.VE.1,94321586,4434
+ecc7e007501484a1,quillcrabc_spike.mat,Tiny.V7.1,94216912,13564

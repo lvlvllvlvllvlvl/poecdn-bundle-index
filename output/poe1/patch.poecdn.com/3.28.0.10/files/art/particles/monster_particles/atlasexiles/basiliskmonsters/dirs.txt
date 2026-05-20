@@ -1,0 +1,7 @@
+human_ranged
+humanoid_melee
+scorpion
+spawn
+spider
+taster
+wyvern

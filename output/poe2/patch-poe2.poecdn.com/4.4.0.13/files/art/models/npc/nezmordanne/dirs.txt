@@ -1,0 +1,6 @@
+animations
+animations/simulacrum
+attachments
+attachments/chestattachment
+attachments/ponytail
+textures

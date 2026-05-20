@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+9b00e340fa2ca71c,beach_cliffblock_shallow_v01_03_rock01.fmt,Art/Models/Terrain/Beach/BeachBlocks,35277,19593
+b2aa98a365f343c6,beach_cliffblock_shallow_v01_03_rock01.fmt.header,Tiny_4,9979054,175
+81137ffa5188da6a,beach_cliffblock_shallow_v01_03.tgt,Tiny_4,9950647,442
+63941be100617be3,beach_cliffblock_shallow_v01_03.tmd,Tiny_4,9951089,357
+cec6af81cf770789,beach_cliffblock_shallow_v01_02_rock02.fmt,Art/Models/Terrain/Beach/BeachBlocks,0,35277
+e5c82f184dda7f04,beach_cliffblock_shallow_v01_02_rock02.fmt.header,Tiny_4,9978056,175
+9f44cb2265511198,beach_cliffblock_shallow_v01_02.tgt,Tiny_4,9949848,442
+4fb12fa80f5a9b87,beach_cliffblock_shallow_v01_02.tmd,Tiny_4,9950290,357
+f2814cfe653c0008,beach_cliffblocks_v01_01.tgt,Tiny_4,9953190,658
+621ea9cdd83fec50,beach_cliffblocks_v02_01.tgt,Tiny_4,9953848,586
+0df267ecbeae43e2,beach_cliffblocks_v03_01.tgt,Tiny_4,9954434,916
+8983e91ad4802cbb,beach_cliffblocks_v04_01.tgt,Tiny_4,9955350,918
+42413598e2152605,beach_cliffblocks_ocean_v04_01.tgt,Tiny_4,9951446,872
+0b53380a7737396d,beach_cliffblocks_ocean_v04_02.tgt,Tiny_4,9952318,872

@@ -1,0 +1,7 @@
+loop
+loop/animations
+loop/animations/static
+loop/coward_trial
+loop/coward_trial/animations
+loop/coward_trial/animations/static
+new

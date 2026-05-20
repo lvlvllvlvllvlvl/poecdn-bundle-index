@@ -1,0 +1,13 @@
+epk
+fx
+graphs
+mat
+mat/chimney
+mat/chimney/fadein
+mat/chimney/idle
+mat/chimney/loop
+mat/furnance_fire
+mat/furnance_fire/fadein
+mat/furnance_fire/idle
+mat/furnance_fire/loop
+mat/mining

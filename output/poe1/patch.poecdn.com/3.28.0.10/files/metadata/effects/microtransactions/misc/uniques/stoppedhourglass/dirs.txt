@@ -1,0 +1,7 @@
+epk
+fx
+mat
+mat/clone_fadeout
+mat/sand_trails
+mat/spawn_beam
+mat/weapon_sand

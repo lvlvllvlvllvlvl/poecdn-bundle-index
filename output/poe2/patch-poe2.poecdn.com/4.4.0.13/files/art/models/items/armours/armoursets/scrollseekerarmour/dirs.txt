@@ -1,0 +1,8 @@
+attachments
+attachments/hat
+attachments/robe
+attachments/shawl
+attachments/sleeves
+fx
+fx/textures
+textures

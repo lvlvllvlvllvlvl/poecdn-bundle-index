@@ -1,0 +1,5 @@
+attachments
+attachments/ccbelt
+attachments/ccrobe
+attachments/ccshoulderpads
+textures

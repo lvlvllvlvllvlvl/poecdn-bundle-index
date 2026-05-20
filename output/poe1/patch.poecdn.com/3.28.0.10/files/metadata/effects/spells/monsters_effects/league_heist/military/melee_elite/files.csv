@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+d6b128a659820316,act_start.ao,Tiny_D,318398706,2062
+a2111f62812e660e,step.ao,Tiny_D,318437656,2012
+af3d8afccb7c5349,shieldpulse.epk,Tiny_D,318430984,496
+b12be83a2eec36ee,shieldpulse_epk_pass0.mat,Tiny_D,318431480,6176
+1c1ce296eb443788,melee4_onact_groundslam.ao,Tiny_D,318417152,2388
+de48df8094b04b0a,melee4elitedashaudio.ao,Tiny_D,318429610,1374
+46e226d542593f6d,melee4elite_dash.epk,Tiny_D,318419540,1426
+d48984567a6b1569,melee4elite_dash_epk_pass0.mat,Tiny_D,318420966,8644
+a882942cac0cd775,charge.epk,Tiny_D,318400768,716
+37be4a9ac6c0d779,charge_fx.ao,Tiny_D,318408410,3312
+aa25e13d1d044454,charge_start.epk,Tiny_D,318411722,498
+ad0545b389c411b4,charge_start_epk_pass0.mat,Tiny_D,318412220,4932
+007e7c5b0e5794ad,charge_end_cone.ao,Tiny_D,318401484,2782
+0de6416cc5d7d37d,charge_epk_pass0.mat,Tiny_D,318404266,4144

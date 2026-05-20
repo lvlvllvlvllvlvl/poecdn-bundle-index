@@ -1,0 +1,15 @@
+petfabrication1
+petfabrication1/animations
+petfabrication1/attachments
+petfabrication1/attachments/heart
+petfabrication1/attachments/skirt
+petfabrication2
+petfabrication2/animations
+petfabrication2/attachments
+petfabrication2/attachments/cape
+petfabrication2/attachments/head
+petfabrication2/attachments/hood
+potfabrications
+potfabrications/attachments
+potfabrications/attachments/knife
+textures

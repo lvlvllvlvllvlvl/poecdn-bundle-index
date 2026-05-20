@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+6d84f1f2817d4159,whitelacqueredpetspecularc.mat,Tiny_8,44999052,3442
+81cd90934f0ec24e,whitelacqueredpet_normal_dxt5.dds,Art/Textures/Pet/WhiteLacqueredPet_1,0,349700
+e96034e10731ef4c,whitelacqueredpet_normal_dxt5.dds.header,Tiny_8,44997532,1520
+f81c79a0fec57324,whitelacqueredpet_glow_dxt5.dds,Art/Textures/Pet/WhiteLacqueredPet,0,349700
+c1154e90676b6b93,whitelacqueredpet_glow_dxt5.dds.header,Tiny_8,44996012,1520
+66a5ffc18a039008,whitelacqueredpet_colourspecular_dxt5.dds,Art/Textures/Pet/WhiteLacqueredPet,699392,699236
+03b0be9a6de9080d,whitelacqueredpet_colourspecular_dxt5.dds.header,Tiny_8,44995172,840
+2edc88190830bc87,whitelacqueredpet_colourspecular_bc7.dds,Art/Textures/Pet/WhiteLacqueredPet,699392,699236
+5474f3cb1f4d3377,whitelacqueredpet_colourspecular_bc7.dds.header,Tiny_8,44995172,840
+0971aed5366485e2,whitelacqueredpet_colourspecular.dds,Art/Textures/Pet/WhiteLacqueredPet,349700,349692
+246ac7835584dd5b,whitelacqueredpet_colourspecular.dds.header,Tiny_8,44994332,840

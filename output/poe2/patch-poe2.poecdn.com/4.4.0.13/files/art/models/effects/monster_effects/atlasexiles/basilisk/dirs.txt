@@ -1,0 +1,7 @@
+large_projectile
+large_projectile_impact
+spin_aoe
+spit_projectile
+stab_attack
+viper_projectile
+viper_projectile_impact

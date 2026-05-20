@@ -1,0 +1,10 @@
+magma
+purple
+shieldhitvfx
+textures
+textures/magma
+textures/purple
+textures/shieldhitvfx
+textures/shieldhitvfx/default
+textures/shieldhitvfx/magma
+textures/shieldhitvfx/purple

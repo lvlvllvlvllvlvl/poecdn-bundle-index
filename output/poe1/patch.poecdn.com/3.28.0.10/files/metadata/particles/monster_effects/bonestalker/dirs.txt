@@ -1,0 +1,6 @@
+double_slash
+double_slash/shockwave
+doublespin
+doublespin/start_up
+on_act
+on_act/double_slash

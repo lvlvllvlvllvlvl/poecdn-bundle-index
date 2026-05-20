@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+dc7bf28f5b27dd6b,spark_tiledc.mat,Tiny_6,29640503,2302
+11076e80595018da,spark_tiled.dds,Art/particles/flask_effects/Gold,175112,87556
+dd55e5250cb57c4f,spark_tiled.dds.header,Tiny_6,29638983,1520
+c064c0e1163f5dc9,projectile_at.mat,Tiny_6,29635101,3882
+74dcb81da5e54070,projectile_at.dds,Art/particles/flask_effects/Gold,87556,87556
+b67309529dc4d64e,projectile_at.dds.header,Tiny_6,29633581,1520
+00053e0c0f26de7b,light_immortal_call_pulsec.mat,Tiny_6,29617105,2674
+6adbdc7d719f2486,light_immortal_call_pulse.dds,Art/particles/flask_effects/Gold,0,87556
+38fcc1382ccfea03,light_immortal_call_pulse.dds.header,Tiny_7,23649465,1520

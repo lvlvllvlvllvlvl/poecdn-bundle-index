@@ -1,0 +1,3 @@
+bomb_explode
+mortar
+on_act_bomb_throw

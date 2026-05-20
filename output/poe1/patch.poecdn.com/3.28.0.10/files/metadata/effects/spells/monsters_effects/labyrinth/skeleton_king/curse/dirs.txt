@@ -1,0 +1,8 @@
+gold
+gold/reduce_armour
+gold/reduce_resistance
+gold/temporal_chains
+pylon
+reduce_armour
+reduce_resistance
+temporal_chains

@@ -1,0 +1,11 @@
+armourerstrongbox
+basicstrongbox
+blacksmithstrongbox
+ezomytetombstrongbox
+largeetchedbeetlebosschest
+largestrongbox
+textures
+vaalstrongbox
+ventorstrongbox
+ventorstrongbox/attachments
+ventorstrongbox/attachments/slotspinner

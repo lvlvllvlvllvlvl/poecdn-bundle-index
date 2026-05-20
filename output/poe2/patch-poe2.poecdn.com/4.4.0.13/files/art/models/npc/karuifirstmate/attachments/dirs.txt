@@ -1,0 +1,7 @@
+bottle
+cloak
+hair
+shoulder_fabric
+skirt
+sword
+sword/physics

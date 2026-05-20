@@ -1,0 +1,7 @@
+animations
+animations/boss
+attachments
+attachments/bossskirt
+attachments/colossussentinel02_chains
+attachments/colossussentinel02_skirt
+attachments/colossussentinel02_straps

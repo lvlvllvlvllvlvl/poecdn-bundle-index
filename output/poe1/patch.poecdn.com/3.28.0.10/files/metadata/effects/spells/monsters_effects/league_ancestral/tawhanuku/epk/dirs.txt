@@ -1,0 +1,6 @@
+spell_aoe_ball_01
+spell_aoe_ball_01/on_act
+spell_cast_left_float_01
+spell_cast_left_float_01/on_act
+spell_cast_right_float_01
+spell_cast_right_float_01/on_act

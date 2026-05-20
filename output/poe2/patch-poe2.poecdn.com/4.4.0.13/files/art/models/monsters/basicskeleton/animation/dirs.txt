@@ -1,0 +1,14 @@
+goldenones
+goldenones/goldenonesposed01
+goldenones/goldenonesposed02
+goldenones/goldenonesposed03
+kelpdreg01
+manowar
+playerminions
+playerminions/bow
+playerminions/caster
+playerminions/maul
+playerminions/sceptrebook
+playerminions/staff
+playerminions/swordshield
+playerminions/swordsword

@@ -1,0 +1,4 @@
+attachments
+attachments/twohandmacerobe
+attachments/twohandmacescarf
+attachments/twohandmaceweapon

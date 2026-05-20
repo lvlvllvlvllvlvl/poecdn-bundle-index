@@ -1,0 +1,5 @@
+bound_soul
+ghost_beam_01
+treasure_location_01
+treasure_location_01/idle_01
+treasure_location_01/spinner

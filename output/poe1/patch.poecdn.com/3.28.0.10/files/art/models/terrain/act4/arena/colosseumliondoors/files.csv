@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+eb5f59e6f6eb701d,liondoors.sm,Tiny_3,55777089,506
+95595bdf055966fe,colosseum_wall_liondoor_v01_01_replace_right.fmt,Tiny_6,3485064,43
+a184dd490d1df205,colosseum_wall_liondoor_v01_01_replace_right.fmt.header,Tiny_7,42091864,128
+b5cd5c4d75ed15c3,colosseum_wall_liondoor_v01_01_replace_left.fmt,Tiny_6,3485064,43
+184a069c883f1e52,colosseum_wall_liondoor_v01_01_replace_left.fmt.header,Tiny_7,42091864,128
+2744bcc04e5d8a63,colosseum_wall_liondoor_v01_01_replace2.fmt,Tiny_6,3485064,43
+e1ffce1907bb6d4c,colosseum_wall_liondoor_v01_01_replace2.fmt.header,Tiny_7,42091864,128
+1ca04048f3aa28ed,colosseum_wall_liondoor_v01_01.tgt,Tiny_3,55773600,1906
+721ee87e09095b43,colosseum_wall_liondoor_v01_01.tmd,Tiny_3,55775506,1583
+1d675d246b23d61f,colosseum_liondoors_rig_c4dd1c44.smd,Art/Models/Terrain/Act4/Arena/ColosseumLionDoors,0,41710
+e036581db78300a0,colosseum_liondoors_rig_c4dd1c44.smd.header,Tiny_3,55773232,368
+984b51f3682cd4a9,colosseum_liondoors_rig.amd,Tiny_3,55771771,150
+63aa46e1b64da58e,colosseum_liondoors_rig.ast,Tiny_3,55771921,1311

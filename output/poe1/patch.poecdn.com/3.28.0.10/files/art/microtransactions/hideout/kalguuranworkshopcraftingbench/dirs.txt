@@ -1,0 +1,14 @@
+attachments
+attachments/bellow
+attachments/props
+attachments/props/hammer
+attachments/props/shovel
+attachments/props/sword
+attachments/sharpening_wheel
+attachments/simplehireling
+attachments/simplehireling/animations
+attachments/simplehireling/animations/hammering
+attachments/simplehireling/animations/shovelling
+attachments/simplehireling/animations/table
+attachments/simplehireling/animations/weapon_rack
+textures

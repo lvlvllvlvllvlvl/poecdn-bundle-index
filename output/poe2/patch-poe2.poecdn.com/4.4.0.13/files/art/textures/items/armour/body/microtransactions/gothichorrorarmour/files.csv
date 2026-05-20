@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+4a21bc3d2661ab8a,gothichorrorcapecns.mat,Tiny.V4,45269120,5852
+181007b357aa0ca4,gothichorrorcapens.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.2B5BD66F812415F3.gothichorrorcape.fmt,524844,174948
+b7110e33d66b520d,gothichorrorcapens.dds.header,Tiny.VE,44472015,840
+19a6a414a254e3f1,gothichorrorcape_specular_dxt5.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.2B5BD66F812415F3.gothichorrorcape.fmt,349896,174948
+3a1c1a22ae2feb6b,gothichorrorcape_specular_dxt5.dds.header,Tiny.VE,44471175,840
+019a97597711407d,gothichorrorcape_normal_dxt5.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.2B5BD66F812415F3.gothichorrorcape.fmt,174948,174948
+5fda4bc756511519,gothichorrorcape_normal_dxt5.dds.header,Tiny.V2,44617269,840
+b7160f9c54ec47d6,gothichorrorcape_colour.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.2B5BD66F812415F3.gothichorrorcape.fmt,0,174948
+1c5f558a723b2232,gothichorrorcape_colour.dds.header,Tiny.V9,45260845,840
+f92bef563b16ac42,gothichorrorarmourcns.mat,Tiny.V2,44614201,3068
+1ea117c7e3c67f49,gothichorrorarmourns.dds,Streaming/Content/metadata/items/armours/boots/2B5BD66F812415F3.gothichorrorarmourbootsstrdex.ao,203797,349700
+36bdbcbed879ecf9,gothichorrorarmourns.dds.header,Tiny.VE,44469655,1520
+7380e1cb9fd88dec,gothichorrorarmour_colour.dds,Streaming/Content/metadata/items/armours/boots/2B5BD66F812415F3.gothichorrorarmourbootsstrdex.ao,28873,174924
+2e39f759492b803e,gothichorrorarmour_colour.dds.header,Tiny.V3,44126272,1520

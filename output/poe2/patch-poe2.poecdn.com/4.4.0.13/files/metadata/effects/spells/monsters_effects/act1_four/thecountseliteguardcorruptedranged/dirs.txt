@@ -1,0 +1,8 @@
+epk
+fx
+mat
+mat/blood_trail
+mat/laser
+mat/projectile_dissolve
+mat/projectile_stuck
+mat/stab_distort

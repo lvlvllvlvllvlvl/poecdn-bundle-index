@@ -1,0 +1,4 @@
+attack
+basic
+dash
+idle

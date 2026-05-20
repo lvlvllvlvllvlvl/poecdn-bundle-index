@@ -1,0 +1,5 @@
+attachments
+attachments/hairbeam
+attachments/hanginghair
+attachments/robe
+textures

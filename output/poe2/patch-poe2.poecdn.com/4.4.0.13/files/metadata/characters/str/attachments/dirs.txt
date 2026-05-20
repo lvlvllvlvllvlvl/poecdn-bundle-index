@@ -1,0 +1,6 @@
+hairstyles
+hairstyles/brute
+hairstyles/marauder
+outfits
+outfits/bruteoutfit
+outfits/marauderoutfit

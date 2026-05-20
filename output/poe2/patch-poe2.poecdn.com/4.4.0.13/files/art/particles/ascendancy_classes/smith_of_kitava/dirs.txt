@@ -1,0 +1,5 @@
+animate_weapon
+animate_weapon/mb
+animate_weapon/textures
+imbue_weapon
+imbue_weapon/textures

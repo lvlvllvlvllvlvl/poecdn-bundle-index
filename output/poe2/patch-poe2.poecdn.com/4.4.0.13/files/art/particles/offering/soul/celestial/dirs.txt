@@ -1,0 +1,6 @@
+bone
+bone/texture
+bone/trl
+flesh
+flesh/texture
+flesh/trl

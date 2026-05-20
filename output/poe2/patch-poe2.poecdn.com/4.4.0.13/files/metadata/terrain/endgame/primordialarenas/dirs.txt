@@ -1,0 +1,6 @@
+primordialaltars
+primordialaltars/pet
+primordialaltars/pet/cleansingfirealtar
+primordialaltars/pet/cleansingfirealtar/altar_fadeout
+primordialaltars/pet/tangledaltar
+primordialaltars/pet/tangledaltar/altar_fadeout

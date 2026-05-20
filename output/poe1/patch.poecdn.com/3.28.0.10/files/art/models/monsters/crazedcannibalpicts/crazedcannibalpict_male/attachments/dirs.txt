@@ -1,0 +1,5 @@
+animations
+animations/robereduced_01
+animations/robereduced_02
+animations/robereduced_03
+animations/robereduced_04

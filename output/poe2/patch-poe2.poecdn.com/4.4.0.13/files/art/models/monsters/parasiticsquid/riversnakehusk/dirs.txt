@@ -1,0 +1,5 @@
+attachments
+attachments/goldsword
+textures
+tumourstatuemonster02
+tumourstatuemonster02/animations

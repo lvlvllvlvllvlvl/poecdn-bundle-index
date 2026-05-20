@@ -1,0 +1,9 @@
+back_sphere
+fireballbig
+fireballbig_impact
+fireballsmall
+fireballsmall_impact
+geyser_base
+geyser_explode
+mortar_fire
+onact

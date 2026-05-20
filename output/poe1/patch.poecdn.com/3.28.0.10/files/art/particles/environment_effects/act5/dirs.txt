@@ -1,0 +1,15 @@
+ascent
+ascent/teleport
+bonfires
+cathedralbrokenroof
+cathedralbrokenroof/thick_smoke
+entrance_portal
+entrance_portal/portal_in
+entrance_portal/portal_in/build_up
+oriathsquare
+oriathsquare/blood_pool
+oriathsquare/footprint
+ossuary
+portalcraterglow
+slavepen
+snow

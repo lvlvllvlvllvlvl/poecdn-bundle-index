@@ -1,0 +1,5 @@
+attachments
+attachments/lbracelets
+attachments/rbracelets
+attachments/rcuff
+textures

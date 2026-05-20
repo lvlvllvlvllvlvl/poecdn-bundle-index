@@ -1,0 +1,4 @@
+aoe
+explode
+orb
+shards_up

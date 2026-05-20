@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+59f35e114a803752,lightning.mat,Tiny_1,86262911,5376
+6692fa1531065ca5,sparks.mat,Tiny_1,86268287,1518
+efa81967fcefe390,sparks_blink.mat,Tiny_1,86269805,1456
+283ac225af5cbd4c,flow_swirl1_dxt1.dds,Folders/art/particles/lib/3/jav,2641630,174924
+ae2db34db014ef1d,flow_swirl1_dxt1.dds.header,Tiny_6,37269086,1520
+fbfffe057ce26d57,flicker_lut2_dxt1.dds,Folders/art/particles/lib/0/jav_3,536044,43868
+af447045c28649fc,flicker_lut2_dxt1.dds.header,Tiny_6,37376966,504
+1fe6293b81eb77b7,flicker_lut1_dxt1.dds,Art/particles/lib/jav.B_12,0,43868
+ff6d8a45a4dc7853,flicker_lut1_dxt1.dds.header,Tiny_6,37376462,504
+33db4831f6af7b71,cloud_nmaogloss_uncompressed.dds,Folders/art/models/effects/enviro_effects/hideout/angeldemon_demonic,0,1398248
+a215fb03133780b1,cloud_nmaogloss_uncompressed.dds.header,Tiny_1,86246239,1520
+33c92f835ffc72ad,clouds_demon.mat,Tiny_1,86247759,7402
+eaaf300d9fd87fd6,clouds_demon2.mat,Tiny_1,86255161,7750

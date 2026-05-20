@@ -1,0 +1,15 @@
+apparitionfadein
+apparitionfadeout
+empower_01
+ghostflame_wall
+ghostflame_wall_impact
+ghostsoul_large
+impact
+medallion_break
+overheadcleave
+overheadcleave/groundhit
+overheadcleave/stomp
+projectile
+revive_aoe
+reviveskeleton
+swordtrail

@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+9d242387fcec62c9,ring_small_full_r.mat,Tiny_D,403692308,76516
+71831dcd5ae85e57,ring_small_full_u.mat,Tiny_D,403768824,3684
+3e8f441ccd56a002,ring_blur_streaks_r.mat,Tiny_D,403772508,16712
+148e29b89cd4a7a2,ring_blur_streaks_u.mat,Tiny_D,403789220,1924

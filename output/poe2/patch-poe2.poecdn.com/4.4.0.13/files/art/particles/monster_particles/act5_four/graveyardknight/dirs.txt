@@ -1,0 +1,14 @@
+mb
+mb/explosive_lightning
+mb/explosive_lightning_cleave
+mb/fire_double_slam
+mb/melee_clone_summon
+mb/melee_clone_summon/rec
+textures
+textures/explosive_lightning
+textures/explosive_lightning_cleave
+textures/fire_double_slam
+textures/fire_double_slam/slam01
+textures/fire_double_slam/slam02
+textures/melee_clone_summon
+textures/melee_clone_summon/rec

@@ -1,0 +1,4 @@
+attachments
+attachments/skirtfemale
+attachments/skirtmale
+textures

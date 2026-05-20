@@ -1,0 +1,3 @@
+elegant
+eleganttowildcard
+wildcardtoelegant

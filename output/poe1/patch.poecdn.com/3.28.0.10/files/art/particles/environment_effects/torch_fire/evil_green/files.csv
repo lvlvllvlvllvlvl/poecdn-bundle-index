@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+e8e9bd822493bd28,torch_windy.mat,Tiny_6,27901857,2888
+a669618e239ff4ec,torch_windy.dds,Art/particles/environment_effects/torch_fire,11084,43876
+1327541cf1146d52,torch_windy.dds.header,Tiny_6,27901017,840
+4ee26f67197c1eac,smoketestgreen.mat,Tiny_6,27898739,2278
+34f4d6c7fc425fcf,smoketestgreen.dds,Art/particles/environment_effects/abyss_chasm_2,481108,87556
+b394b9aaa80e2c8a,smoketestgreen.dds.header,Tiny_6,27897219,1520
+71cc0dedd4473ed0,light_gradient.mat,Tiny_6,27895371,1848
+200527a832bf882f,light_gradient.dds,Art/particles/environment_effects/torch_fire,0,11084
+102aa139ac4e81a9,light_gradient.dds.header,Tiny_6,27893851,1520
+cd8a0e7f791db667,fire_spark.mat,Tiny_6,27892061,1790
+501da41f7523fc93,fire_spark.dds,Tiny_6,57719374,1540
+4d031d02fca0d3a3,fire_spark.dds.header,Tiny_6,57720914,1520
+528e8c27868415b3,ember_dark.mat,Tiny_6,27890243,1818
+7a3a509e539236e1,ember_dark.dds,Tiny_6,73136308,516
+cf46453783c5d616,ember_dark.dds.header,Tiny_6,73136824,1520

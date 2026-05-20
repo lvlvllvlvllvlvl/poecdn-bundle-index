@@ -1,0 +1,17 @@
+desert
+elderarena
+eleganthouse
+garden
+reef
+refinery
+reliquary
+river
+sceptre
+sceptre/lightningcoil
+sceptre/lightningconductor
+sceptre/lightninggrid
+sins
+sulphurwastes
+temple
+tower
+volcanic

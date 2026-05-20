@@ -1,0 +1,12 @@
+shoulderpads
+shoulderpads/animation
+shoulderpads/animation/l_side
+shoulderpads/animation/r_side
+skirt
+skirt/clockwork_dex
+skirt/clockwork_dexint
+skirt/clockwork_int
+skirt/clockwork_str
+skirt/clockwork_strdex
+skirt/clockwork_strdexint
+skirt/clockwork_strint

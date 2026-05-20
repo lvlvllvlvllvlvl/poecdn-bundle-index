@@ -1,0 +1,15 @@
+atzirioversoul
+atzirioversoul/laser
+atzirioversoul/summon_monsters
+atzirioversoul/teleport
+blue
+blue/mid
+ice_shoot
+red
+red/slam
+rock_fall
+summon
+summon/poison_summons
+summon/summon_effect
+summon_monsters
+teleport

@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+f980fdad918beff8,entrance_01.arm,Metadata/Terrain.A_9,0,64802
+24ea9fb4a24dcd84,vault_gauntlet_plates.arm,Folders/metadata/7/terrain,444160,9284
+1641bdadbba2223b,vault_inner.arm,Metadata/Terrain.A_9,64802,56488
+ab593662e91224f2,vault_stairs.arm,Folders/metadata/3/terrain,594176,12096

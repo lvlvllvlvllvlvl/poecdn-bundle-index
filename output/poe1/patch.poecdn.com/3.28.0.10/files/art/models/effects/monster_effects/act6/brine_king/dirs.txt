@@ -1,0 +1,16 @@
+cleave
+cleave/cleave_left
+cleave/cleave_right
+lightning_strike
+lightning_strike/build_up
+opening_animation
+opening_animation/ground_slam
+siren_song
+siren_song/nessa_glow
+siren_song/storm_song
+slam_cone
+slam_cone_cluster
+surf_cascade
+surf_cascade_indicator
+tidal_wave
+tide_rush

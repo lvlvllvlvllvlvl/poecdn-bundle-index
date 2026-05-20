@@ -1,0 +1,12 @@
+badlands
+ezomyte
+farudin
+general
+karui
+keth
+precursor
+precursor/idle_on
+precursor/monster_affected
+precursor/turn_off
+twilight
+vaal

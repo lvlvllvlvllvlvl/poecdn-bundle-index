@@ -1,0 +1,11 @@
+fx
+mats
+mats/endurance
+mats/endurance_consume
+mats/endurance_emerge
+mats/frenzy
+mats/frenzy_consume
+mats/frenzy_emerge
+mats/power
+mats/power_consume
+mats/power_emerge

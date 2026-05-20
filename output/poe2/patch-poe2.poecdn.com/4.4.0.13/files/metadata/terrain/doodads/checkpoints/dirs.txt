@@ -1,0 +1,17 @@
+epks
+epks/idle_off
+graph
+mat
+mat/activate
+mat/idle_off
+mat/idle_on
+mat/unique
+mat/unique/activate
+mat/unique/idle_on
+mat/unique_blue
+mat/unique_blue/activate
+pet
+pet/activate
+pet/idle_on
+pet/unique_flame
+unique

@@ -1,0 +1,8 @@
+carpet_bomb_01
+idle_01
+jog_01
+lightning_bolts_01
+spell_aoe_01
+spell_projectile_01
+spell_projectile_02
+teleport_01

@@ -1,0 +1,36 @@
+hash,file,bundle,offset,size
+8c1b85132af59508,vaalcolossusmtxc.mat,Tiny.V7,12278787,3696
+fb431bce0057b15e,vaalcolossusc.mat,Tiny.V8,12375394,7790
+197faa2be3aeb7be,vaalcolossusweaponc.mat,Tiny.V9,12514651,6506
+c5f1ceb7acadfc2d,vaalcolossusweapon_normal_dxt5.dds,Streaming/Content/metadata/monsters/trialmaster/thetrialmaster.ot.1,0,2796388
+1fd4dcc3240a7795,vaalcolossusweapon_normal_dxt5.dds.header,Tiny.V9,12513811,840
+105209934b600c17,vaalcolossusweapon_metal_dxt1.dds,Streaming/Content/metadata/monsters/trialmaster/thetrialmaster.ot,1512133,1398268
+d4713a134c45702c,vaalcolossusweapon_metal_dxt1.dds.header,Tiny.V4,12509955,840
+946f2b7162b8d9cc,vaalcolossusweapon_colour_dxt1.dds,Streaming/Content/metadata/monsters/trialmaster/thetrialmaster.ot,113865,1398268
+cf775c626cdd54e4,vaalcolossusweapon_colour_dxt1.dds.header,Tiny.VF,12453782,840
+0a549b1f17cf6347,vaalcolossushelmetc.mat,Tiny.V4,12508277,1678
+8b071dbc4d6eb646,vaalcolossushelmet_bentnormal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/EFE4362F5490CDDF.0D27CC49E359B10E.trialmasterhelm.ao,0,1398276
+6ead06a03119355c,vaalcolossushelmet_bentnormal_dxt5.dds.header,Tiny.V6,12372607,1520
+8a65135bb50e57b8,vaalcolossushelmet_glow_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/EFE4362F5490CDDF.0D27CC49E359B10E.trialmasterhelm.ao.1,0,1398276
+d8e3a3c84c41b9b9,vaalcolossushelmet_glow_dxt5.dds.header,Tiny.V8,12383184,1520
+bea49112ae8233c5,vaalcolossushelmet_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/EFE4362F5490CDDF.0D27CC49E359B10E.trialmasterhelm.ao.1,1398276,1398276
+9f46d97539bffdba,vaalcolossushelmet_normal_dxt5.dds.header,Tiny.VF,12452262,1520
+5cf338c62a603d46,vaalcolossushelmet_colour_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/EFE4362F5490CDDF.0D27CC49E359B10E.trialmasterhelm.ao,1398276,1398276
+e2fc5c7ca7bf320e,vaalcolossushelmet_colour_dxt5.dds.header,Tiny.VB,12336092,1520
+927ee4ae80eaa860,vaalcolossusbodyc.mat,Tiny.V4,12506441,1836
+9e290a388a59b8d6,vaalcolossusbody_metal.dds,Streaming/Content/art/models/monsters/vaalcolossus/vaalcolossus.fmt.4,0,5592580
+d2176240fce099d6,vaalcolossusbody_metal.dds.header,Tiny.VF,12450742,1520
+5f569b14c5e1f8f3,vaalcolossusbody_normal_dxt5.dds,Streaming/Content/art/models/monsters/vaalcolossus/vaalcolossus.fmt.5,0,5592580
+24419ad1c9a5c422,vaalcolossusbody_normal_dxt5.dds.header,Tiny.VE,12327354,1520
+543f4c8445a69181,vaalcolossusbody_colour_dxt5.dds,Streaming/Content/art/models/monsters/vaalcolossus/vaalcolossus.fmt.3,0,5592580
+8d2b32a563bf4a4f,vaalcolossusbody_colour_dxt5.dds.header,Tiny.V6,12371087,1520
+f8065a77dbe8f1ca,vaalcolossus_metal.dds,Streaming/Content/art/models/monsters/vaalcolossus/vaalcolossus.fmt.1,2796364,5592580
+bed3fa3e19ad02c4,vaalcolossus_metal.dds.header,Tiny.V6,12369567,1520
+6a815353680d5c13,vaalcolossus_glow_dxt1.dds,Streaming/Content/art/models/monsters/vaalcolossus/vaalcolossus.fmt.1,0,2796364
+bd68bdaacc390c9f,vaalcolossus_glow_dxt1.dds.header,Tiny.VE,12325834,1520
+984d4e5602afbec4,vaalcolossus_bent normals_dxt5.dds,Streaming/Content/metadata/items/armours/helmets/DD3FA0B6015E1BC0.FC1FC07169857BC2.elevorestrint.ao,181208,87556
+73bb3f96d6517052,vaalcolossus_bent normals_dxt5.dds.header,Tiny.V8,12372354,1520
+443e5109695a1225,vaalcolossus_normal_dxt5.dds,Streaming/Content/art/models/monsters/vaalcolossus/vaalcolossus.fmt.2,0,5592580
+a78daf997a8b23d5,vaalcolossus_normal_dxt5.dds.header,Tiny.VA,12428827,1520
+993e7854a66d880e,vaalcolossus_colour_dxt5.dds,Streaming/Content/art/models/monsters/vaalcolossus/vaalcolossus.fmt,0,5592580
+4480f1ebfb4d55bd,vaalcolossus_colour_dxt5.dds.header,Tiny.V8,12373874,1520

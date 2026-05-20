@@ -1,0 +1,3 @@
+fx
+fx/pyramid_fire_beam
+fx/pyramid_fire_beam/cast

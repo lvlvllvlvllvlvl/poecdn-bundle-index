@@ -1,0 +1,12 @@
+blood_grasp
+blood_rain
+bombrune
+charge
+charge/shockwaves
+charge/slam
+charge/slam/merge
+ice_totem_beam
+lightning_slam
+lightning_souls
+lightning_souls/explosion
+teleport

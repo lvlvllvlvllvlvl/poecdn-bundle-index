@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+8b8bc680d318172a,elephantcns.mat,Tiny_8,41626828,1824
+73121b8d39f7a02f,elephant_normal_dxt5.dds,Art/Textures/Pet/BabyElephant_1,0,349700
+b538f0721853818d,elephant_normal_dxt5.dds.header,Tiny_8,41625308,1520
+618185e02303b50d,elephant_colour.dds,Art/Textures/Pet/BabyElephant,349700,174924
+f5982aacb4d4e543,elephant_colour.dds.header,Tiny_8,41623788,1520
+d8de2104a9ef529e,elephantns.dds,Art/Textures/Pet/BabyElephant,0,349700
+0d8515a547153bfd,elephantns.dds.header,Tiny_8,41628652,1520

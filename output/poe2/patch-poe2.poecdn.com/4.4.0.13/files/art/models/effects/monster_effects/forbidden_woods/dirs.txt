@@ -1,0 +1,17 @@
+ice_sapling_trio
+ice_sapling_trio/air_beam
+ice_sapling_trio/blood_mortar
+ice_sapling_trio/charge_beam
+ice_sapling_trio/ice_crystal
+ice_sapling_trio/ice_proj
+ice_sapling_trio/ice_rune
+ice_sapling_trio/ice_rune_explode
+ice_sapling_trio/ice_spike_impact
+ice_sapling_trio/ice_spike_travel
+ice_sapling_trio/interrupt_ritual
+ice_sapling_trio/on_act
+ice_sapling_trio/on_act/ice_orb
+ice_sapling_trio/on_act/teleport
+ice_sapling_trio/orb_beam
+ice_sapling_trio/orb_ice_ground
+ice_sapling_trio/soul_beam

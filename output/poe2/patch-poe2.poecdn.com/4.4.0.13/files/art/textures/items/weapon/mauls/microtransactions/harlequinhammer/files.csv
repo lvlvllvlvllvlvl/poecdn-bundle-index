@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+876078b33f74c750,fx_dxt5.dds,Streaming/Content/art/models/items/weapons/8517D47C1C7BFA39.0EA15EC89FDBCA2E.harlequin2hsword.fmt,55991,699236
+d254335406749eb6,fx_dxt5.dds.header,Tiny.V7,45480842,840
+092e809333fa1e73,harlequinhammerspecular2c.mat,Tiny.V9,46051099,5308
+7811b602cb6f9b9c,harlequinhammer_glow_dxt5.dds,Streaming/Content/art/models/items/weapons/8517D47C1C7BFA39.0EA15EC89FDBCA2E.harlequin2hsword.fmt,1804155,349700
+f4b84b37abb5eea0,harlequinhammer_glow_dxt5.dds.header,Tiny.V6,45423350,1520
+16847cc052e02b2b,harlequinhammer_normal_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/weapons/ECF85C9DFCA6FF9B.AF422F56B15B08D7.harlequinhammer.ao,0,349700
+df855aa8b53b53ab,harlequinhammer_normal_dxt5.dds.header,Tiny.V3,44810781,1520
+fc344c0c69ce2e63,harlequinhammer_colourspecular2_bc7.dds,Streaming/Content/art/models/items/weapons/8517D47C1C7BFA39.0EA15EC89FDBCA2E.harlequin2hsword.fmt,1104919,699236
+66a7f44c5caa87f5,harlequinhammer_colourspecular2_bc7.dds.header,Tiny.V2,45264167,840
+22ce2304491eaf8f,harlequinhammer_colourspecular2.dds,Streaming/Content/art/models/items/weapons/8517D47C1C7BFA39.0EA15EC89FDBCA2E.harlequin2hsword.fmt,755227,349692
+32b3ff4e6ce928fd,harlequinhammer_colourspecular2.dds.header,Tiny.V6,45422510,840

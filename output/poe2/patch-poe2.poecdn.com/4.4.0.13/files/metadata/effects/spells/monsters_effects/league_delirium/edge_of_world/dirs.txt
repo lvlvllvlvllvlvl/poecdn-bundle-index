@@ -1,0 +1,7 @@
+fx
+fx/eow_ring_01
+fx/eow_ring_01/idle_01
+graphs
+mat
+mat/eow_ring_01
+mat/eow_ring_01/idle_01

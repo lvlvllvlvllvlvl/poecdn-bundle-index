@@ -1,0 +1,9 @@
+charges
+charges/textures
+debuff
+debuff/textures
+scythe
+scythe/textures
+scythe/textures/bloodscythe_slash
+surge
+surge/textures

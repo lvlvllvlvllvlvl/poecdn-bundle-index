@@ -1,0 +1,12 @@
+double_strike_01
+holy_cannon_marker
+idle_bodyfx
+on_act
+on_act/attack_01
+on_act/attack_04
+on_act/cyclone_01
+on_act/dash_01
+on_act/dualstrike_01
+on_act/walk_emerge_01
+on_hit
+reaper_wall_laser

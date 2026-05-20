@@ -1,0 +1,11 @@
+attachments
+attachments/blueeyes
+attachments/blueeyes/hair
+attachments/blueeyes/skirt
+attachments/blueeyes/skirt/baubles
+attachments/cape
+attachments/elbowpadbelt
+attachments/hood
+attachments/robe
+attachments/weaponwraps
+textures

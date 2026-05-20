@@ -1,0 +1,7 @@
+candle
+fog
+lantern01
+magical_spear_gate
+ripples
+water
+water_wheel

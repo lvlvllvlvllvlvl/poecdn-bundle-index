@@ -1,0 +1,5 @@
+effigy
+effigy/ezomyteeffigystand02
+effigy/ezomyteeffigystand03
+effigy/ezomyteeffigystand04
+effigy/textures

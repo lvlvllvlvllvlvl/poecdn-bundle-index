@@ -1,0 +1,17 @@
+dark
+dark/t1_bag
+dark/t2_bag
+dark/t3_bag
+dark/t3_hangings
+gift
+gift/t1_bag
+gift/t2_bag
+gift/t3_bag
+junk
+junk/t1_bag
+junk/t2_bag
+junk/t3_bag
+treasure
+treasure/t1_bag
+treasure/t2_bag
+treasure/t3_bag

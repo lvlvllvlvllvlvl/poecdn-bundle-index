@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+bf5835641c96492a,oriathblackguard_normal_dxt5.dds,Streaming/Content/art/models/monsters/oriathblackguard/blackguardcaptain.fmt,87556,349700
+531dd5a359c52d1a,oriathblackguard_normal_dxt5.dds.header,Tiny.VA,45994005,1520
+084c3ca7da5fcaf4,oriathblackguard_colour_dxt5.dds,Streaming/Content/art/models/monsters/oriathblackguard/blackguardcaptain.fmt,0,87556
+bf51743f6216cf8d,oriathblackguard_colour_dxt5.dds.header,Tiny.VA,45992485,1520
+ea79f50144347795,oriathblackguardc.mat,Tiny.VA,45995525,1990
+caede69938195a57,oriathblackguardcapec.mat,Tiny.V3,45288760,2038
+12632bab4ce0a22c,oriathblackguardcape_normal_dxt5.dds,Streaming/Content/metadata/terrain/cargohold/cinematic2/scene.ao,87556,349700
+07afadc11f4ca89d,oriathblackguardcape_normal_dxt5.dds.header,Tiny.V8,45405982,1520
+7bbce868247549f8,oriathblackguardcape_colour_dxt5.dds,Streaming/Content/metadata/terrain/cargohold/cinematic2/scene.ao,0,87556
+f03e59fec51ab38a,oriathblackguardcape_colour_dxt5.dds.header,Tiny.V7,46016988,1520

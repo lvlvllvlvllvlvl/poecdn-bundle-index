@@ -1,0 +1,5 @@
+hit
+hit/chaos
+hit/cold
+hit/fire
+hit/lightn

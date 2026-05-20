@@ -1,0 +1,12 @@
+attachments
+attachments/female
+attachments/female/belt
+attachments/female/lsleeves
+attachments/female/rsleeves
+attachments/female/skirt
+attachments/male
+attachments/male/belt
+attachments/male/lsleeves
+attachments/male/rsleeves
+attachments/male/skirt
+textures

@@ -1,0 +1,4 @@
+karui_totem
+karui_totem/melee_trail
+karui_totem/weapon
+karui_totem/weapon/earthshatter

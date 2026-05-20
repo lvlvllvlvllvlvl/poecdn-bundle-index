@@ -1,0 +1,13 @@
+attachments
+attachments/stridervest_jacket
+attachments/stridervest_jacket/stridervestjacketfemale
+attachments/stridervest_jacket/stridervestjacketfemale/dex
+attachments/stridervest_jacket/stridervestjacketfemale/int
+attachments/stridervest_jacket/stridervestjacketmale
+attachments/stridervest_knife
+attachments/stridervest_knife/stridervestknifefemale
+attachments/stridervest_knife/stridervestknifemale
+attachments/stridervest_skirt
+attachments/stridervest_skirt/stridervestskirtfemale
+attachments/stridervest_skirt/stridervestskirtmale
+textures

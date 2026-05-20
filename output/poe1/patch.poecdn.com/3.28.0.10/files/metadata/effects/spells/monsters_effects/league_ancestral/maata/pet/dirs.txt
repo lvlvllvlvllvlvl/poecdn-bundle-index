@@ -1,0 +1,6 @@
+alive
+oshabicombatvine
+smol_aoe_grdhit
+stone_tomb
+stone_tomb/on_act
+summon_attackvine_small

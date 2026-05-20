@@ -1,0 +1,8 @@
+attachments
+attachments/beltattachments
+attachments/femalehair
+attachments/helmetribbons
+attachments/necklace
+attachments/robe
+textures
+textures/fx

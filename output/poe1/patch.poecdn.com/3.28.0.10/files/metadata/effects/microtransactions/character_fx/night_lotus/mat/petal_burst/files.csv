@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+54d93f01b9bb8b5d,sphere_distortion_r.mat,Tiny_8,203463281,13562
+925a936a9c869295,point_offset_u.mat,Tiny_D,192787388,1350
+4dbb36446d490017,point_shimmer_r.mat,Tiny_8,203456035,7246
+8cd7477e681cb1c9,point_u.mat,Tiny_11,86642861,310
+b1cca771a89a54e4,petals_r1.mat,Tiny_8,203419615,36420
+70d60dbb2d0a20bd,petal_critical_stike_u1.mat,Tiny_8,203385901,16068
+96283d05703c1e61,petal_impact_u1.mat,Tiny_8,203401969,17646
+5db45c276143dfd3,impact_r1.mat,Tiny_8,203317309,38594
+c8a766db9a01a12b,impact_shimmer_r1.mat,Tiny_8,203355903,29998
+ce752a93676b0b9e,glow_r.mat,Tiny_8,203264303,18814
+d9a976ef43ee1f2b,glow_r2.mat,Tiny_8,203283117,17760
+f019fa79e0c2e2a9,glow_r3.mat,Tiny_8,203300877,16432
+b13bf684cd724e8e,embers_critical_strike_u1.mat,Tiny_8,203229155,15348
+037ed225e6ae7833,embers_impact_u1.mat,Tiny_8,203244503,19800

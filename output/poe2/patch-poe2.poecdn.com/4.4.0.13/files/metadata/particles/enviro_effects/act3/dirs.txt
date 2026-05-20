@@ -1,0 +1,16 @@
+crematorium
+eleganthouse
+eleganthouse/spikes
+eleganthouse/spikes/glitchy_abyss_edgeblade
+eleganthouse/spikes/ledge_blade_01
+lab_portals
+scepter_of_god
+scepter_of_god/balcony_rain
+scepter_of_god/lightning_mid
+scepter_of_god/middle_fog
+scepter_of_god/pod_shatter
+scepter_of_god/pod_shatter/rotaters
+scepter_of_god/sky
+scepter_of_god/steam_vents
+temple_abyss
+town

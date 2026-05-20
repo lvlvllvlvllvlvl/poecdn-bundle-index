@@ -1,0 +1,4 @@
+fade
+impact
+swordextension
+trail

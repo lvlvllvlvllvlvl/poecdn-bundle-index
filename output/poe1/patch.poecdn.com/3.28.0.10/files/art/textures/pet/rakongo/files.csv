@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+3e71cbb17eef31a7,rakongocns.mat,Tiny_8,44226280,3474
+14196969def0970e,rakongo_gloss.mat,Tiny_8,44225366,914
+7cc97b29d6d24596,rakongo_gloss.dds,Art/Textures/Pet/Rakongo_1,699212,349700
+2970a9853af89602,rakongo_gloss.dds.header,Tiny_8,44223846,1520
+bdcd0796c701e205,rakongo_emissive_dxt1.dds,Art/Textures/Pet/Rakongo_1,0,699212
+6f3b7035e73c71ec,rakongo_emissive_dxt1.dds.header,Tiny_8,44222326,1520
+ad71a16e0ac342ee,rakongo_emissive_bc7.dds,Folders/art/textures/pet/rakongo,0,1398276
+f57af6a9fab250ad,rakongo_emissive_bc7.dds.header,Tiny_8,44219982,1520
+26cdc2a7fdecde8c,rakongo_emissive.mat,Tiny_8,44221502,824
+4d670778d6d1c74d,rakongo_emissive.dds,Art/Textures/Pet/Rakongo,1048912,1398276
+1ee71a2cf3be9c9b,rakongo_emissive.dds.header,Tiny_8,44219982,1520
+a5501d003ec2dbb8,rakongo_colour.dds,Art/Textures/Pet/Rakongo,349700,699212
+26e3bdc740375038,rakongo_colour.dds.header,Tiny_8,44218462,1520
+acf3878941faae17,rakongons.dds,Art/Textures/Pet/Rakongo,0,349700
+eed2b13ab9dceaaf,rakongons.dds.header,Tiny_8,44229754,1520

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+1f6547b547247bfa,glassproxyc.mat,Art/Textures/Monsters/TheUnbreakableMK,0,4902
+294e13b992480241,theunbreakablemkc.mat,Tiny_8,38553902,3804
+d1efa215d7b6aa20,theunbreakablemk_sss_dxt1.dds,Art/Textures/Monsters/TheUnbreakableMK_2,0,174924
+7daac73d2741aea1,theunbreakablemk_sss_dxt1.dds.header,Tiny_8,38552382,1520
+a82332d557e3d2d8,theunbreakablemk_normal_dxt5.dds,Art/Textures/Monsters/TheUnbreakableMK_1,0,1398276
+08a1887200dbc32b,theunbreakablemk_normal_dxt5.dds.header,Tiny_8,38550862,1520
+87b836de8f35a9c8,theunbreakablemk_metal_dxt5.dds,Art/Textures/Monsters/TheUnbreakableMK,4902,349700
+959e505e43404493,theunbreakablemk_metal_dxt5.dds.header,Tiny_8,38549342,1520
+02017debe8edcfde,theunbreakablemk_colour_dxt5.dds,Art/Textures/Monsters/TheUnbreakableMK,354602,349700
+a1a6deae2db6ebeb,theunbreakablemk_colour_dxt5.dds.header,Tiny_8,38547822,1520

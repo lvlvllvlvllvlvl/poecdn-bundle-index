@@ -1,0 +1,3 @@
+vaal_fire
+vaal_ice
+vaal_lightning

@@ -1,0 +1,6 @@
+alt
+attachments
+attachments/capelet
+attachments/capelet/alt
+attachments/deliriumrobe
+attachments/fracturedrobe

@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+1a98d6cda7762d22,sparkling.mat,Tiny.VC,33179270,2050
+45c872cb343ccb88,hand_choppedcns.mat,Tiny.V8,35840906,5830
+5f47f0d49421021d,hand_choppedns.dds,Streaming/Content/metadata/effects/spells/monsters_effects/DA5155BE1CBF9800.5176845DE8E0E4CC.fireclaw.ao,737270,349700
+f0c76d159717e1b8,hand_choppedns.dds.header,Tiny.V6,5741042,1520
+562576890a19588b,hand_chopped_fireglow_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/DA5155BE1CBF9800.5176845DE8E0E4CC.fireclaw.ao,387570,349700
+d5e88b9b287eff2f,hand_chopped_fireglow_dxt5.dds.header,Tiny.V1,35827741,1520
+1e41ac374b95cb66,hand_chopped_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/DA5155BE1CBF9800.5176845DE8E0E4CC.fireclaw.ao,212646,174924
+7456825f1c959d64,hand_chopped_colour.dds.header,Tiny.V0,5932578,1520
+3ce57c101b5b249e,blade_edge.mat,Tiny.VB,36470305,2980
+1211a914a8dc340c,blade_edge_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/breach/A51070A8BE5275C4.EEAAFB45FAA48E90.lightning_trail.trl,524844,87556
+e1d5a770c378543a,blade_edge_dxt5.dds.header,Tiny.V7,36332738,1520
+98f48d8ca958d382,fire_pulse_02.mat,Tiny.V1,35821841,5900
+bfd248ad9f2f9c54,fire_01_2x2.mat,Tiny.VF,36135377,4466

@@ -1,0 +1,9 @@
+blackstararenafloatingrock
+blackstararenaorb
+blackstararenaorb/light_attach
+blackstararenaorb/light_attach/animations
+blackstararenaorb/light_attach/animations/moon
+blackstararenaorb/light_attach/animations/sun
+blackstararenapillardestroyed
+textures
+tgms

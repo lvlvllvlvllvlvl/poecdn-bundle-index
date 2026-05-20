@@ -1,0 +1,13 @@
+climbing
+climbing/textures
+flowers
+flowers/textures
+flowers/textures/wildflowers
+grass
+herbs
+herbs/textures
+shrubs
+shrubs/textures
+textures
+trees
+trees/textures

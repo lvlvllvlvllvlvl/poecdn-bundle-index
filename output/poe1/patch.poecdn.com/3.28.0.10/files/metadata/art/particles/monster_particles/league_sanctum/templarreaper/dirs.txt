@@ -1,0 +1,6 @@
+textures
+textures/on_act
+textures/on_act/attack_01
+textures/on_act/cyclone_01
+textures/on_act/walk_emerge_01
+textures/reaper_wall_laser

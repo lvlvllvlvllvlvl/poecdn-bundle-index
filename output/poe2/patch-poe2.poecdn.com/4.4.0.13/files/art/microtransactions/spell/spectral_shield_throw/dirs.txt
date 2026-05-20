@@ -1,0 +1,11 @@
+stygian
+stygian/models
+stygian/models/release
+stygian/models/shieldthrow
+stygian/models/shieldthrowsecondary
+stygian/textures
+stygian/textures/effects
+stygian/textures/effects/release
+stygian/textures/effects/secondary
+stygian/textures/effects/shieldthrow
+stygian/textures/effects/shieldthrow/impact

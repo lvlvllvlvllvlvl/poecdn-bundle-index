@@ -1,0 +1,12 @@
+models
+models/caustic_ground
+models/impact
+models/projectile
+textures
+textures/caustic_ground
+textures/caustic_ground/fx
+textures/caustic_ground/masks
+textures/impact
+textures/impact/fx
+textures/projectile
+textures/projectile/fx

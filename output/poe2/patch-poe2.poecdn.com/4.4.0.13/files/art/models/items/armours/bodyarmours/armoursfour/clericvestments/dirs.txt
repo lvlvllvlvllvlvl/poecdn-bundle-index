@@ -1,0 +1,14 @@
+attachments
+attachments/incense
+attachments/necklace
+attachments/skirt
+attachments/skirt/f
+attachments/skirt/m
+attachments/sleeves
+attachments/sleeves/f
+attachments/sleeves/f/l
+attachments/sleeves/f/r
+attachments/sleeves/m
+attachments/sleeves/m/l
+attachments/sleeves/m/r
+textures

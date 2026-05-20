@@ -1,0 +1,8 @@
+arena
+boats
+brinerotprops
+buildings
+gibbets
+hangingdeadtrees
+lanterns
+scaffold_noropes

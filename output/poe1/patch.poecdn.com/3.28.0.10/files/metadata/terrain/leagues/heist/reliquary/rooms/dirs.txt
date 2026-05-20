@@ -1,0 +1,14 @@
+1x1
+2x2
+blueprintgoals
+entrances
+goals
+npc
+npc/agility
+npc/demolition
+npc/gapcross
+npc/perception
+npc/strength
+npc/trapdisarm
+quest
+sides

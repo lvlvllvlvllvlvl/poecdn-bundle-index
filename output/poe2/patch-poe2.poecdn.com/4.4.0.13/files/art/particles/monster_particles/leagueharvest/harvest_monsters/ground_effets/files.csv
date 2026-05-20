@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+b8e6dc6fc7561250,fire_bits_2x2.mat,Tiny.VD,38484211,4442
+e0e4cd427a419be9,fire_bits_2x2_dxt5.dds,Streaming/Shared/Normal/Shared,175112,349700
+259f6829e16db8fa,fire_bits_2x2_dxt5.dds.header,Tiny.V0,4409002,1520
+b6de6e43d0e675f4,ground_proxyc.mat,Tiny.VD,38488653,1252
+9ec01ff1c3249622,ground_proxy.dds,Tiny.V2,4082343,172
+5fd227877114b2ac,ground_proxy.dds.header,Tiny.VA,3867548,240
+0dd9535cbe618435,burn_nmlao_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/872610C16E020B75.BB78D766BFF8C070.static_spores.ao,1398276,1398276
+21f7e1950d4a2c82,burn_nmlao_dxt5.dds.header,Tiny.V9,33278117,1520
+fbfb5a1ceee5fd21,burn_clr_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/872610C16E020B75.BB78D766BFF8C070.static_spores.ao,0,1398276
+3d604adaee19f0b2,burn_clr_dxt5.dds.header,Tiny.V1,32800713,1520
+cda3fe80664ccc85,polen_scale.mat,Tiny.V4,38573273,4150
+49bf9a786ede7451,polen_bulb.mat,Tiny.V9,38769944,4008
+a28db952cab258d0,polen_thorn.mat,Tiny.V7,38132850,4036

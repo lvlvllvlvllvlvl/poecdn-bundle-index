@@ -1,0 +1,13 @@
+cleansing_tavakai
+heal_pulse
+healing_makoru
+healing_makoru/healed_01
+onact
+onact/act4_extract_staff_01
+onact/act4_extract_staff_01/bu_qitem
+onact/act4_extract_staff_01/captured
+onact/act4_extract_staff_01/item_implode_out
+onact/act4_extract_staff_01/qitem_fx
+onact/fly_enter_01
+onact/language_gift_01
+retrieve_precursor_lance

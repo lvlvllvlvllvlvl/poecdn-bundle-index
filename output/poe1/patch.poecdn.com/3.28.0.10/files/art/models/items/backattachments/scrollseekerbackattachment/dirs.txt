@@ -1,0 +1,8 @@
+attachments
+attachments/bags
+attachments/dangles
+attachments/hinge
+attachments/rat
+fx
+fx/textures
+textures

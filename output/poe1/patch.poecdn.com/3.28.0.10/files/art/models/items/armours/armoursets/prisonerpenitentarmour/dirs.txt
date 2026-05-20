@@ -1,0 +1,6 @@
+attachments
+attachments/l_locks
+attachments/r_locks
+attachments/skirt
+attachments/skirtchain
+textures

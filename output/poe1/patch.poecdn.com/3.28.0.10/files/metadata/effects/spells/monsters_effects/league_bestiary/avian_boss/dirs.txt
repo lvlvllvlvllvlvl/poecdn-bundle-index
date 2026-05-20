@@ -1,0 +1,6 @@
+bird_swarm
+bite
+combo_tailwhip
+screech
+slam_ground
+tail_whip

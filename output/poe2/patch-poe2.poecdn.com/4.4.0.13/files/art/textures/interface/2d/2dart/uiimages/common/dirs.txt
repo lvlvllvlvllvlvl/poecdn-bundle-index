@@ -1,0 +1,24 @@
+4k
+archetypes
+cursorpreviewicons
+flagicons
+flagicons/4k
+gamepad
+gamepad/dualsense
+gamepad/dualsense/4k
+gamepad/dualshock4
+gamepad/dualshock4/4k
+gamepad/steamdeck
+gamepad/steamdeck/4k
+gamepad/xboxone
+gamepad/xboxone/4k
+mtx
+mtx/4k
+notifications
+notifications/korean
+notifications/russian
+notifications/simplified chinese
+notifications/traditional chinese
+portraitvariations
+subaccounticons
+subaccounticons/4k

@@ -1,0 +1,4 @@
+generic_cyl_vert
+no_light
+ramp_transition
+titangrottoexit_01

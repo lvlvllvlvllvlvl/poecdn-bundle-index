@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+0a24e12f2630e9b0,smoketest.mat,Tiny.V5,34943666,2972
+7614cd36e2a0fbb9,smoketest.dds,Streaming/Content/metadata/particles/monster_effects/act9/7CB29E66044C8D2E.EF72C9FE68ED0E1B.loop_midup.pet,219152,87556
+0c00b6cc5d0d7110,smoketest.dds.header,Tiny.V3,34819591,1520
+996b13aa1c80b4dc,sand_ripple.mat,Tiny.V4,35597166,3788
+70870520dee1349e,sand_ripple.dds,Streaming/Content/metadata/particles/monster_effects/act9/7CB29E66044C8D2E.EF72C9FE68ED0E1B.loop_midup.pet,44040,87556
+6c65e51f284c1610,sand_ripple.dds.header,Tiny.V8,35090705,1520
+75603819ba60553f,sand_ripple_at.dds,Streaming/Content/metadata/particles/monster_effects/act9/7CB29E66044C8D2E.EF72C9FE68ED0E1B.loop_midup.pet,131596,87556
+37f08cbd28645870,sand_ripple_at.dds.header,Tiny.V6,35203570,1520
+5d58611c7e8d0e50,dunewang_colour.mat,Tiny.V8,35087061,3644
+9285b6d4d78ad0d4,dunewang_colour.dds,Streaming/Content/metadata/particles/monster_effects/act9/7CB29E66044C8D2E.EF72C9FE68ED0E1B.loop_midup.pet,22020,22020
+dfc7a2279fb9431a,dunewang_colour.dds.header,Tiny.VC,35374955,1520
+b341c57621997312,dunewang_alpha.dds,Streaming/Content/metadata/particles/monster_effects/act9/7CB29E66044C8D2E.EF72C9FE68ED0E1B.loop_midup.pet,0,22020
+b9112ba974290414,dunewang_alpha.dds.header,Tiny.V1,35129456,1520

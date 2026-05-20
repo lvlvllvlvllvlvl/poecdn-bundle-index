@@ -1,0 +1,4 @@
+architecture
+ground
+snow
+statues

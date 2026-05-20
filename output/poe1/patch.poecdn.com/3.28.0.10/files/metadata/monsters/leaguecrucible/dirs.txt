@@ -1,0 +1,8 @@
+chaos
+cold
+criticalspeed
+fire
+lightning
+lightning/attachedobjects
+physical
+physical/minions

@@ -1,0 +1,5 @@
+attachments
+attachments/cape
+attachments/head_attach
+attachments/skirt
+textures

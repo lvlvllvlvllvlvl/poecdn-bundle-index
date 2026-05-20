@@ -1,0 +1,7 @@
+death
+shadow_form
+shadow_form/shadowslam
+shadow_teleport
+teleport_strike
+teleport_strike/slash
+teleport_strike/target

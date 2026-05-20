@@ -1,0 +1,7 @@
+machinarium
+machinarium/barrage_mortars
+machinarium/beams
+machinarium/lightning_bolts
+machinarium/rock_fall_fire
+machinarium/rock_fall_ice
+machinarium/summon_projectiles

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+b9a8cb6a65869b18,sparkling.mat,Tiny_6,104807758,1678
+b679dd0469fa7ee1,sparkling_dxt5.dds,Tiny_8,44447608,1572
+ae055ea95edd41c3,sparkling_dxt5.dds.header,Tiny_8,44449180,504
+10f4fb2878427c29,shockwave_ring.mat,Tiny_6,104801864,2900
+04f65d9ad1ee1006,shockwave_sphere.mat,Tiny_6,104804764,2994
+65e38ac6be62b2f2,shockwave_sphere_dxt1.dds,Tiny_8,30911858,332
+10f7aa7614338322,shockwave_sphere_dxt1.dds.header,Tiny_8,30912190,1520
+f1b1e643bb1012c0,shockwave01_8x8.mat,Tiny_6,104798548,3316
+5a592e5884ba0042,shockwave01_8x8_dxt5.dds,Art/particles/StygianBoneGolem_1,0,5592580
+64d041ab25096194,shockwave01_8x8_dxt5.dds.header,Tiny_7,38535020,1520
+78761afb300ba419,kickup_smoke_01_6x6.mat,Tiny_6,104795526,3022
+a64409f0c7c0f2a6,kickup_smoke_01_6x6_dxt1.dds,Art/particles/raise_specter_02_1,43876,2796364
+a874817bf0bf89d9,kickup_smoke_01_6x6_dxt1.dds.header,Tiny_7,32685166,1520
+f1b85ce0f3250004,crys2_gradlinear2_mask_dxt1.dds,Art/particles/Masters/Tora,635192,43852
+850c8f80d9f8f910,crys2_gradlinear2_mask_dxt1.dds.header,Tiny_7,40108644,1520

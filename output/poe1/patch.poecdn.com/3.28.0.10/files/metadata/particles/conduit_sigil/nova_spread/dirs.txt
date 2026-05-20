@@ -1,0 +1,4 @@
+arcane
+cold
+fire
+lightning

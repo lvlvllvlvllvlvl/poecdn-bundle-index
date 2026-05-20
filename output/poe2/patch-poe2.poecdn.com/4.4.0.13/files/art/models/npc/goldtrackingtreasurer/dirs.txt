@@ -1,0 +1,6 @@
+animations
+attachments
+attachments/gtthairfeathers
+textures
+treasurerprops_model
+treasurerprops_model/textures

@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+2b5a8e4568c77217,crk_rect_rgba_dxt5.dds,Art/particles/pom_cracks/crk_rect,1049100,349700
+180501f94d8cd08c,crk_rect_rgba_dxt5.dds.header,Tiny_7,31099796,1520
+cfe5bd5c9fe01f4e,crk_rect_naog_dxt5.dds,Art/particles/pom_cracks/crk_rect,699400,349700
+9ed2352bb909f67b,crk_rect_naog_dxt5.dds.header,Tiny_7,31098276,1520
+61100d114c699fbc,crk_rect_inv_rgba_dxt5.dds,Art/particles/pom_cracks/crk_rect,349700,349700
+98127b105b144d7a,crk_rect_inv_rgba_dxt5.dds.header,Tiny_7,31096756,1520
+8fb02c1b9bd718ef,crk_rect_hgt_dxt5.dds,Art/particles/pom_cracks/crk_rect,0,349700
+23d86c29f00625b7,crk_rect_hgt_dxt5.dds.header,Tiny_7,31095236,1520

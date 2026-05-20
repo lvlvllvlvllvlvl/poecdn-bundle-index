@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+7d6ed46b09a17d8a,spark_tile_addc.mat,Tiny_6,17012897,3210
+d93824c6be3db78f,spark_tile_add.dds,Art/particles/enchantment_skills/weapon_throw,323468,174924
+04a918c4e3753992,spark_tile_add.dds.header,Tiny_6,17011377,1520
+9892e4b9e6c46f45,lightning_vert_at.mat,Tiny_6,17008135,3242
+1f00fa0028103403,lightning_vert_at.dds,Art/particles/enchantment_skills/weapon_throw,498392,349732
+219914ea3a40414d,lightning_vert_at.dds.header,Tiny_6,17007631,504
+243a0dc11b05e151,lightning.mat,Tiny_6,17004883,2748
+dec4cc3aa3fa86e1,lightning.dds,Art/particles/enchantment_skills/weapon_throw,848124,699300
+6ed831329755f6f0,lightning.dds.header,Tiny_6,17004539,344
+3aa215de636126c9,caustic_outc.mat,Tiny_6,17001323,3216
+26adaa5d911d8079,caustic_out.dds,Art/particles/enchantment_skills/weapon_throw,1547424,43852
+ea61dff694d1e806,caustic_out.dds.header,Tiny_6,16999803,1520
+a0531ecf828100a8,caustic_inc.mat,Tiny_6,16996535,3268
+7179868975c5b3ad,caustic_in.mat,Tiny_6,16995381,1154
+d2cd35549d187a6a,caustic_in.dds,Art/particles/enchantment_skills/weapon_throw,235912,87556
+7f5f513a44a6f565,caustic_in.dds.header,Tiny_6,16993861,1520

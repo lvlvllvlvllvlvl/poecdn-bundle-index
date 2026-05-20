@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+531ea1dd961635b1,bonfire_smoke.mat,Tiny_6,4314290,3034
+d10de504ff6d6b39,real_fire_campfire.mat,Tiny_6,4336088,9626
+60efe7bc0c1f8b2d,roundy_dxt5.dds,Folders/art/models/terrain/woods/doodads/fx,349700,349700
+f96a5ef72196a8fb,roundy_dxt5.dds.header,Tiny_6,4345714,1520
+05dd53d2a568f783,noise_cell_2_dxt5.dds,Folders/art/particles/environment_effects/gallows,1409360,87556
+1668d3796bcc08d4,noise_cell_2_dxt5.dds.header,Tiny_6,17655053,1520
+6a744657ce86becf,gritty_fire_dxt5.dds,Folders/art/models/terrain/woods/doodads/fx,0,349700
+ad35961fa5341ee3,gritty_fire_dxt5.dds.header,Tiny_6,4334568,1520
+9ed4905d02c4e451,core_fire_shapes.mat,Tiny_6,4317324,5656
+eb135f6d5b7743bf,core_fire_shapes_alt.mat,Tiny_6,4322980,5902
+642b1109ad43308a,core_fire_shapes_gritty.mat,Tiny_6,4328882,5686

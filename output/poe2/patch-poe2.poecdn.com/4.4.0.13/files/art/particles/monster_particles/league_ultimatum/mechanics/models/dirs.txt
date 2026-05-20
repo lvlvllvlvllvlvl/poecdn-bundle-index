@@ -1,0 +1,11 @@
+buffing_totems
+fire_spitter
+ice_parasite
+koh_altar
+lights
+proximity_bubble
+reward_altars
+ruin
+rune_trap
+vaal_graveyard
+vaal_sawblade

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+2a331b4c3e6efe58,fresnelglow_flash.fxgraph,Folders/metadata/effects.3,11850556,86994
+284e3592435a60b6,glowalpha_fadebytime.fxgraph,Folders/metadata/effects.3,11937550,75096
+b72b8757b8bf799a,hair.fxgraph,Folders/metadata/effects.3,12012646,24678
+9ed495448f8e110d,hair_physic_mask.fxgraph,Folders/metadata/effects.3,12037324,30954
+3443391096490215,hair_skinmesh_mask.fxgraph,Folders/metadata/effects.3,12068278,31050
+4a07d3c9bd5676de,dynamic_alpha_multiply.fxgraph,Folders/metadata/effects.3,11836760,6696
+d17eef3dc4442e95,dynamic_fire_alpha_multiply.fxgraph,Folders/metadata/effects.3,11843456,7100
+032b9ea5961f092f,curlnoise_wind.fxgraph,Folders/metadata/effects.3,11185514,86570
+80c06161e68b4579,customwindworldxyz.fxgraph,Folders/metadata/effects.3,11810016,26744
+2046c766094fc7c3,custom_vertexmuddlemask.fxgraph,Folders/metadata/effects.3,11791716,18300
+78acf726ba5f2641,custom_ribbom_hidden_fps.fxgraph,Folders/metadata/effects.3,11730712,13028
+81633def7c25a47c,custom_ribbonsblur.fxgraph,Folders/metadata/effects.3,11771184,20532
+96d6a850ad42853a,custom_ribbon_fixed_fps.fxgraph,Folders/metadata/effects.3,11743740,27444
+53943c7cd87c27ea,custom_flagconstraint.fxgraph,Folders/metadata/effects.3,11272084,229516
+19d4bc8104eb6fb3,custom_flagconstraint_fire.fxgraph,Folders/metadata/effects.3,11501600,229112

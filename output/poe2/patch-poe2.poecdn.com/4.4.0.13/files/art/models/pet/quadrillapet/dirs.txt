@@ -1,0 +1,5 @@
+attachments
+attachments/armoured
+attachments/capuchin
+attachments/capuchin/crest
+textures

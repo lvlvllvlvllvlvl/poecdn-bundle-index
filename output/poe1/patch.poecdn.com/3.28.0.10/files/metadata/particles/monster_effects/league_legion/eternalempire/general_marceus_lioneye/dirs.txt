@@ -1,0 +1,9 @@
+charfx
+onact
+onact/lioneye_area_barrage_01
+onact/lioneye_attack_bow_01
+onact/lioneye_circle_flame_01
+onact/lioneye_dive_roll
+onact/lioneye_double_fire_arrow_01
+onact/lioneye_flare_signal_01
+onact/lioneye_pull_fire_01

@@ -1,0 +1,9 @@
+epk
+fx
+mat
+mat/aura
+mat/impact
+mat/impact_fow
+mat/kickup
+mat/weapon
+onact

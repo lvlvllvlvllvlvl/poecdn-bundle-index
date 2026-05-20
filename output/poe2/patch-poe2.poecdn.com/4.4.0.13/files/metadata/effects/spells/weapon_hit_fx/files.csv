@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+934e6bc1cd439033,parry_epk.epk,Tiny.VF.1,124581386,494
+c3c9744b76914724,parry_epk_epk_pass0.mat,Tiny.VA.1,123037992,29632
+396df89c5103e5a7,parry_epk_passive.epk,Tiny.V2.1,125171304,502
+edff4621ad34413e,parry_epk_passive_pass0.mat,Tiny.VA.1,123067624,30076
+2c464c7ec7d07625,hit_block_unarmed.ao,Tiny.VD.1,120176666,308
+48789261e2d45b41,hit_block_unarmed.aoc,Tiny.V1.1,122003396,1102
+dd7b207e97203eb8,hit_block_metal.ao,Tiny.VD.1,120176666,308
+851ff77264f30133,hit_block_metal.aoc,Tiny.V1.1,122002298,1098
+3b4b8e485d15d76f,hit_block_wood.ao,Tiny.VD.1,120176666,308
+0bda3a255469628c,hit_block_wood.aoc,Tiny.VC.1,127095638,1096
+ad5d5333102cbf9e,hit_parry_wood.ao,Tiny.VD.1,120176666,308
+7a095ad37e9edecb,hit_parry_wood.aoc,Tiny.VF.1,124580198,1188
+4d5a3df97feb0f29,hit_parry_metal.ao,Tiny.VD.1,120176666,308
+0a2892af4c506aff,hit_parry_metal.aoc,Tiny.VF.1,124579008,1190

@@ -1,0 +1,6 @@
+beltdangles
+beltends
+lshoulderdangle
+rshoulderdangle
+skirt
+skirtcloth

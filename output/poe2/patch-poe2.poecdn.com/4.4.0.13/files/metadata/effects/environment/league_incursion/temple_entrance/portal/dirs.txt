@@ -1,0 +1,9 @@
+vfx
+vfx/fx
+vfx/fx/doryani_open_01
+vfx/fx/portal_open
+vfx/mat
+vfx/mat/alva_open_01
+vfx/mat/doryani_open_01
+vfx/mat/gem
+vfx/mat/portal_open

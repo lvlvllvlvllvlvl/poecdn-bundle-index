@@ -1,0 +1,11 @@
+auspicious
+auspicious/texture
+demonic
+nightfall
+polaris_black
+polaris_black/mb
+scientist
+scientist/mb
+stygian
+stygian/textures
+stygian/textures/fx

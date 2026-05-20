@@ -1,0 +1,13 @@
+female
+female/cannisters
+female/muffler
+female/shoulder_bones
+female/skirt
+female/spine_belt
+male
+male/cannisters
+male/muffler
+male/shoulder_bones
+male/skirt
+male/skirtstr
+male/spine_belt

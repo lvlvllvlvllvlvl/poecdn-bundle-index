@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+70e64c3953c84de3,tornado_outerc.mat,Tiny_6,12215900,3082
+8a57614a0a5fb12e,tornado_outer.dds,Art/particles/curse_aura/reduce_resistances,0,87588
+f8068e121694d7dd,tornado_outer.dds.header,Tiny_6,12321488,504
+81e8cc86e6aa9449,light_middle_upc.mat,Tiny_6,12208306,2354
+f4b8f6282f79e9c5,light_middle_up.dds,Folders/art/particles/environment_effects/breach,219160,87556
+7d3ddc564dd1bad9,light_middle_up.dds.header,Tiny_6,78440343,1520
+f8fcd0137d589937,lightning_atc.mat,Tiny_6,12213478,2422
+edef12b82b2f2acd,lightning_at.dds,Folders/art/particles_1,754804,87588
+c130db1cc5079073,lightning_at.dds.header,Tiny_6,78446941,504
+11901bfeb4dd9777,lightning_addc.mat,Tiny_6,12211164,2314
+569f145899226f7f,lightning_add.dds,Art/particles/curse_aura/conductivity,0,87588
+cc5e872f2d8fcebc,lightning_add.dds.header,Tiny_6,12210660,504

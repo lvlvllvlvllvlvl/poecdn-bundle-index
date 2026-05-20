@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+0e4baeb167cd0a17,ringmasterpetstriped.sm,Tiny_3,16789095,708
+0114b0859717ed7b,ringmasterpetstriped.fmt,Art/Models/Pet/RingmasterPet,1420313,212555
+4c41299f8edada2b,ringmasterpetstriped.fmt.header,Tiny_3,16788774,321
+ea5cbafc1e27b95d,ringmasterpetmask.fmt,Art/Models/Pet/RingmasterPet,1376154,44159
+386bc721c6184e1b,ringmasterpetmask.fmt.header,Tiny_3,16788565,209
+52b425ba5ca58a56,ringmasterpetcheckered.sm,Tiny_3,16787845,720
+b402be9a08796cfc,ringmasterpetcheckered.fmt,Art/Models/Pet/RingmasterPet,1163583,212571
+8670cb861e1858ac,ringmasterpetcheckered.fmt.header,Tiny_3,16787516,329
+67ab6e41b16270d9,rig_b09a80a5.smd,Art/Models/Pet/RingmasterPet,841845,321738
+9e874de624d69011,rig_b09a80a5.smd.header,Tiny_3,16786144,1372
+d7feb256c83ce436,rig_7f7605cd.smd,Art/Models/Pet/RingmasterPet,520115,321730
+ad1b1ec808a0fce9,rig_7f7605cd.smd.header,Tiny_3,16784776,1368
+15406ed7bd01dc8d,rig.amd,Tiny_3,16783978,798
+4f4a4da51866c14f,rig.ast,Art/Models/Pet/RingmasterPet,0,520115

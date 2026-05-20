@@ -1,0 +1,16 @@
+boilinglakes
+delve
+green
+lightning
+molten
+mud
+pus
+riptide
+riverboss
+riverboss/attachments
+sewer
+sewerboss
+stranglecharm
+temple
+watergraph
+yellowblood

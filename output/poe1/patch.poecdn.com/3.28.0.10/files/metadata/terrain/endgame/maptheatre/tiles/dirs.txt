@@ -1,0 +1,9 @@
+backstagethickwall
+backstagethinwall
+boothledge
+curtain
+lobbycarpet
+lobbythickwall
+lobbythinwall
+stage
+stands

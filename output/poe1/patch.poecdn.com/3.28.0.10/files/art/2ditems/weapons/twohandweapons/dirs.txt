@@ -1,0 +1,7 @@
+bows
+fishingrods
+staves
+staves/harbingershards
+twohandaxes
+twohandmaces
+twohandswords

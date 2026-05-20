@@ -1,0 +1,12 @@
+attachments
+attachments/hands
+attachments/mantle
+attachments/mantle/mantledex
+attachments/mantle/mantledexint
+attachments/mantle/mantleint
+attachments/mantle/mantlestr
+attachments/mantle/mantlestrdex
+attachments/mantle/mantlestrdexint
+attachments/mantle/mantlestrint
+attachments/robe
+textures

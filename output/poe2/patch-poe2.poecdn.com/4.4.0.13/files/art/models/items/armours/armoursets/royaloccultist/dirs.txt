@@ -1,0 +1,6 @@
+attachments
+attachments/chain
+attachments/lpauldron
+attachments/robe
+attachments/rpauldron
+textures

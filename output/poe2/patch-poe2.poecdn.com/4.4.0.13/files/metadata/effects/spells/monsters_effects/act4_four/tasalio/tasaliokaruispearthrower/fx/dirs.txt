@@ -1,0 +1,8 @@
+onact
+onact/disengage_01
+onact/engage_01
+onact/spear_throw_01
+onact/spear_thrust_combo_01
+spear_throw_01
+spear_throw_01/frozenspear_idle
+spear_throw_01/frozenspear_impact

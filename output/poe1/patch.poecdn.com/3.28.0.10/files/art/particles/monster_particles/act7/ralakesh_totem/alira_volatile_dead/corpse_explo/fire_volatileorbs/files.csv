@@ -1,0 +1,31 @@
+hash,file,bundle,offset,size
+8f7aca1908498b98,wisp_smoke_add.mat,Tiny_6,57473508,3608
+0bc4dd16b3b8c720,wisp_smoke_add.dds,Art/particles/monster_particles/act7_12,486944,22020
+a6f8612713c161c1,wisp_smoke_add.dds.header,Tiny_7,25391183,1520
+67049d01956b526d,warp_cirlce_3dc.mat,Tiny_6,57469940,3568
+a9baa0b1de704100,warp_cirlce_3d.dds,Art/particles/monster_particles/act7_12,908242,87556
+ea0af470761e6667,warp_cirlce_3d.dds.header,Tiny_6,83824807,1520
+b4585bc8b19c1e15,spark.mat,Tiny_6,57468178,1762
+796f1ca6ae6772e4,spark.dds,Tiny_8,24734428,1540
+324c29393fb7ee9d,spark.dds.header,Tiny_8,24735968,1520
+b95f7a9da0f10a28,shieldc.mat,Art/particles/monster_particles/act7_12,880684,5538
+7909fb580d59260c,shield_colour.dds,Art/particles/monster_particles/act7_12,858664,22020
+182b67f997eb1e07,shield_colour.dds.header,Tiny_6,57466658,1520
+ca35043768f75900,scrolly_lightning.mat,Tiny_6,57465252,1406
+da8d49bb5f0d48f4,scrolly_lightning.dds,Art/particles/monster_particles/act7_12,93204,22020
+3cddb45e5b8c59bf,scrolly_lightning.dds.header,Tiny_6,57509620,1520
+7bf3808ee865fb82,scrolling_tex.mat,Tiny_6,57461746,3506
+fae13561773fff0b,scrolling_tex.dds,Art/particles/monster_particles/act7_12,115224,22020
+f705eca9f1a4a108,scrolling_tex.dds.header,Tiny_6,57460226,1520
+a258a34beeb13a0d,light_gradient.mat,Tiny_6,57457750,2476
+92e0cdb0945e4060,light_gradient.dds,Art/particles/monster_particles/act7_12,886222,22020
+19213a07a92d4bc1,light_gradient.dds.header,Tiny_6,57456230,1520
+4fc891b436c660db,firey_flare.mat,Tiny_6,57454458,1772
+341162ad694f5ab8,firey_flare.dds,Art/particles/monster_particles/AtlasofWorlds_110,2154814,87556
+88fcea1da728d8f1,firey_flare.dds.header,Tiny_8,24715844,1520
+4de0ec81a0ee5749,blink_spiral_bigger.mat,Tiny_6,57451564,2894
+21cbf0578a527d9f,blink_spiral_bigger.dds,Art/particles/monster_particles/act7_12,137244,349700
+4f01f37c9477ad74,blink_spiral_bigger.dds.header,Tiny_6,57450044,1520
+d03c839825581350,blink_spiral_bigger _accent.mat,Tiny_6,57447128,2916
+19a03274e6a550aa,blink_spiral_bigger _accent.dds,Art/particles/monster_particles/act7_12,508964,349700
+7c54a69fd322f22a,blink_spiral_bigger _accent.dds.header,Tiny_6,57445608,1520

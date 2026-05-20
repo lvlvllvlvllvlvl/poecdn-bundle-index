@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+015dbb4c5876726d,vaalcolourdyes01c.mat,Tiny.V3,6772172,2962
+4cdb217f8c1c00bd,vaalcolourdyes01_normal_dxt5.dds,Streaming/Content/art/models/chests/vaalpots/B1F1F7E077EF078B.vaaldyepot_03.fmt,43852,87556
+c7e900edbf189270,vaalcolourdyes01_normal_dxt5.dds.header,Tiny.VC,23960695,1520
+5a0f6ef6fa4660a4,vaalcolourdyes01_colour_dxt1.dds,Streaming/Content/art/models/chests/vaalpots/B1F1F7E077EF078B.vaaldyepot_03.fmt,0,43852
+4d94c0b768e65e4b,vaalcolourdyes01_colour_dxt1.dds.header,Tiny.V9,24231932,1520
+307e7dba34fe4a74,vaalpotscenobites02c.mat,Tiny.VA,6968285,1848
+09cd4e6238607c86,vaalpotscenobites02_normal_dxt5.dds,Streaming/Content/metadata/chests/vaalpots/aggorat/vaalaggpot05.ao.1,0,5592580
+b7f9d77afad04dd3,vaalpotscenobites02_normal_dxt5.dds.header,Tiny.V2,7137745,1520
+bef66339ebcd36cc,vaalpotscenobites02_colour_dxt1.dds,Streaming/Content/metadata/chests/vaalpots/aggorat/vaalaggpot05.ao,0,2796364
+87888021160eee10,vaalpotscenobites02_colour_dxt1.dds.header,Tiny.VC,6860928,1520
+2322234d82677168,vaalpots01c.mat,Tiny.VA,6966599,1686
+7c24d1126830fb59,vaalpots01_normal_dxt5.dds,Streaming/Content/art/models/chests/vaalpots/B1F1F7E077EF078B.vaaldyepot_03.fmt.1,0,5592580
+71f200ead0838b71,vaalpots01_normal_dxt5.dds.header,Tiny.VC,6859408,1520
+29b7bcf39d971cf9,vaalpots01_colour_dxt1.dds,Streaming/Content/art/models/chests/vaalpots/B1F1F7E077EF078B.vaaldyepot_03.fmt,131408,2796364
+79b7852f22b6e6dd,vaalpots01_colour_dxt1.dds.header,Tiny.V7,6833750,1520

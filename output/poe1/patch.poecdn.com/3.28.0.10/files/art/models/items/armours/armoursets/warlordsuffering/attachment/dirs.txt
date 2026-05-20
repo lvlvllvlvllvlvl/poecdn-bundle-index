@@ -1,0 +1,3 @@
+ornaments
+robe
+robe_front

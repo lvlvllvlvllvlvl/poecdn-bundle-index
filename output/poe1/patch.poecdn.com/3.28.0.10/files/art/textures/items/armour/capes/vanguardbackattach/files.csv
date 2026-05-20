@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+d20fb74257268ed4,vanguardbackattachmentcns.mat,Tiny_8,11137981,4896
+6104d2cdb1aa6fe5,vanguardbackattachment_specular_dxt5.dds,Art/Textures/Items/armour/Capes/VanguardBackAttach,349700,349700
+c8b81e719efda1c9,vanguardbackattachment_specular_dxt5.dds.header,Tiny_8,11136461,1520
+aca36b9c93771e02,vanguardbackattachment_normal_dxt5.dds,Art/Textures/Items/armour/Capes/VanguardBackAttach,699400,349700
+c034c2b2b2683b55,vanguardbackattachment_normal_dxt5.dds.header,Tiny_8,11134941,1520
+865e4d90f94318c2,vanguardbackattachment_colour_dxt5.dds,Art/Textures/Items/armour/Capes/VanguardBackAttach,0,349700
+ff2262ad9bac8a5d,vanguardbackattachment_colour_dxt5.dds.header,Tiny_8,11133421,1520
+51361340da979549,vanguardbackattachment_colour_bc7.dds,Art/Textures/Items/armour/Capes/VanguardBackAttach,0,349700
+853ba9bbc060e0c7,vanguardbackattachment_colour_bc7.dds.header,Tiny_8,11133421,1520
+cc6726d1ddaa20c7,vanguardbackattachment_colour.dds,Folders/art/textures/items/armour/capes/vanguardbackattach,0,174924
+4ff6fe7bda207542,vanguardbackattachment_colour.dds.header,Tiny_8,11131901,1520
+709401ed04eeb803,vanguardbackattachmentns.dds,Folders/art/textures/items/armour/capes/vanguardbackattach,174924,349700
+0596328e0a7b70f4,vanguardbackattachmentns.dds.header,Tiny_8,11142877,1520

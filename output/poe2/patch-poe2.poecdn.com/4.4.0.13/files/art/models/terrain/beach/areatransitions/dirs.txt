@@ -1,0 +1,7 @@
+beachisland
+beachtoendcave
+endcavetoforest
+passageway
+passagewaytoshipgraveyard
+southentrance
+toswamp

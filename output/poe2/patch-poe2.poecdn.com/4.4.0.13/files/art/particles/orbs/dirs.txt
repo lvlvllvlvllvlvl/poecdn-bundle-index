@@ -1,0 +1,17 @@
+alternate
+blooddance
+dex
+elder
+elder/dex
+elder/int
+elder/sipho
+elder/str
+new
+new/dex
+new/inspiration
+new/int
+new/purple
+new/spine_charge
+new/str
+str
+void

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+471b49f6ff1704b1,zoom_distort_2_render.mat,Tiny_9,63623204,9758
+1fca51e7fa3137c4,zoom_distort_2_update.mat,Tiny_11,86642861,310
+98ebf4fe3503beff,ring_blast_render.mat,Tiny_9,63598090,25114
+0d2ad253de64d634,ring_blast_update.mat,Tiny_11,33555919,576
+16fe3576074e2f59,poison_shimmer_render.mat,Tiny_9,93560970,11832
+087f384b7c2ec7de,poison_shimmer_update.mat,Tiny_9,93572802,6370
+3ea1ace895158fff,kickup_smoke_render.mat,Tiny_9,63571202,26888
+13e8f300ad542f44,kickup_smoke_update.mat,Tiny_D,211846186,11878
+dad2e93c3b1a6212,impact_spark_render.mat,Tiny_9,63542420,21054
+40189367383eb756,impact_spark_update.mat,Tiny_9,63563474,7728
+98283e05090045c2,fire1_render.mat,Tiny_9,63503270,33498
+2d32c5eb62a62c5c,fire1_update.mat,Tiny_9,63536768,5652
+acd248a7fd2c88e1,embers_render.mat,Tiny_9,63472584,15674
+651869540c7cd926,embers_update.mat,Tiny_9,63488258,15012

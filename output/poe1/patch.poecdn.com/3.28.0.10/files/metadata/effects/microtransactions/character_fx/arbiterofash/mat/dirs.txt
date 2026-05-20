@@ -1,0 +1,6 @@
+char_fx_01
+char_fx_02
+char_fx_03
+char_wings_purple_fx
+char_wings_red_fx
+char_wings_white_fx

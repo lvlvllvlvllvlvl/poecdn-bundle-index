@@ -1,0 +1,9 @@
+chimney
+chimney/fadein
+chimney/idle
+chimney/loop
+furnance_fire
+furnance_fire/fadein
+furnance_fire/idle
+furnance_fire/loop
+mining

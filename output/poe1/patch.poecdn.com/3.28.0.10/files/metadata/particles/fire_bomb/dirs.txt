@@ -1,0 +1,2 @@
+fire_bomb_trail
+firebomb_poof

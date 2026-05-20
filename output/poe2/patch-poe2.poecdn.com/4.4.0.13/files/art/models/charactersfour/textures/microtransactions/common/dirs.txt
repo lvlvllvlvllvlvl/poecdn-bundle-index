@@ -1,0 +1,17 @@
+bodymasks
+paint
+paint/crocdruidpaintedskin
+paint/crocdruidpaintedskin/mat
+paint/hyenahunter
+paint/hyenahunter/mat
+paint/skeletonbodypaint
+paint/skeletonbodypaint/mat
+skin
+skin/vampire
+tattoos
+tattoos/djinnoftime
+tattoos/djinnoftime/mat
+tattoos/oracledruidseidrman
+tattoos/oracledruidseidrman/mat
+tattoos/vaalchronoseer
+tattoos/vaalchronoseer/mat

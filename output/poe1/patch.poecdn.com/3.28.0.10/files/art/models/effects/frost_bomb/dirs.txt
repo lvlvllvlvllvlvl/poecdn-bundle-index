@@ -1,0 +1,2 @@
+crystal_loop_anim
+explosion

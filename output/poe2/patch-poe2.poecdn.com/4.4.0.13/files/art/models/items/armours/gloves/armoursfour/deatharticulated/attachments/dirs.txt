@@ -1,0 +1,3 @@
+cloth
+cloth/female
+cloth/male

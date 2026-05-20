@@ -1,0 +1,7 @@
+attachments
+attachments/armwraps_l
+attachments/armwraps_r
+attachments/robefemale
+attachments/robemale
+attachments/shoulderpad_l
+attachments/shoulderpad_r

@@ -1,0 +1,6 @@
+attachments
+attachments/armourshards
+attachments/necklace
+attachments/necklacef
+attachments/skirt
+attachments/skirtf

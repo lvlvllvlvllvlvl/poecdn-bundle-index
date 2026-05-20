@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+d1eeef7f02ca1d55,smoke.mat,Tiny_6,98451666,2486
+936a43cd0face4f9,smoke.dds,Art/particles/monster_particles/AtlasofWorlds_20,290388,43876
+88a1437ef2bcfd89,smoke.dds.header,Tiny_6,98450826,840
+a980ae63c4c2afcf,ground_crack_colour.mat,Tiny_6,98448430,2396
+621ea22de3c45d7a,ground_crack_colour.dds,Folders/art/particles/monster_particles/atlasofworlds_1,591788,87556
+d8c85bf726e77049,ground_crack_colour.dds.header,Tiny_6,98446910,1520
+897439510fcce086,dust_twin.mat,Tiny_6,98436494,1598
+d43c7d1d58417f6e,dust_twin.dds,Folders/art/particles/monster_particles/league_betrayal_E1,832364,174948
+4622610c58808574,dust_twin.dds.header,Tiny_7,32312104,840
+a4ec8535ed3a4b33,blood_impact.mat,Tiny_6,98433712,2782
+428981613e238450,blood_impact.dds,Art/particles/monster_particles/League_Bestiary_30,2017720,87556
+2c43b78c265823b9,blood_impact.dds.header,Tiny_6,125749769,1520
+fdf40c9f50771d63,blood_drip.mat,Tiny_6,98430996,2716
+80fcaf0791604f23,blood_drip.dds,Art/particles/offering/blood_1,0,22020
+e082d691a923b673,blood_drip.dds.header,Tiny_7,32754690,1520

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+cdef79072ec6b9f8,glow_testc.mat,Tiny_6,88505931,3102
+29acb95617d60975,glow_test.dds,Art/particles/monster_particles/labyrinth_4,1398800,349700
+ec08b87625b9bf4a,glow_test.dds.header,Tiny_6,88504411,1520
+8f083ed281f4b73f,glow_addac.mat,Tiny_6,88501475,2936
+6a572a76777c9535,glow_adda.dds,Art/particles/monster_particles/labyrinth_5,0,1398276
+7fa37accc761c721,glow_adda.dds.header,Tiny_6,88499955,1520
+84918d8cc636969f,burntcns.mat,Tiny_6,88495539,2896
+6ad99d85913c9cad,burnt_colour.dds,Art/particles/monster_particles/labyrinth_4,1049100,349700
+be7195e582592bec,burnt_colour.dds.header,Tiny_6,88494019,1520
+5bbcb1419a17d836,burntns.dds,Art/particles/monster_particles/labyrinth_5,1398276,349700
+76a60bffc7a19947,burntns.dds.header,Tiny_6,88498435,1520

@@ -1,0 +1,3 @@
+core_cracks
+edge_cracks
+impact

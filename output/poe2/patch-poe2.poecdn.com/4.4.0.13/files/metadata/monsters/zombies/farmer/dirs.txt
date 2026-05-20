@@ -1,0 +1,5 @@
+attachments
+attachments/farmerzombiesgoodoutfits
+attachments/farmerzombiesmediumoutfits
+attachments/farmerzombiesskinnyoutfits
+attachments/farmerzombiesweapons

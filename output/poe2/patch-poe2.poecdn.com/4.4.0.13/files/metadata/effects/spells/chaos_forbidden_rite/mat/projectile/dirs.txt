@@ -1,0 +1,2 @@
+impact
+non_grd_impact

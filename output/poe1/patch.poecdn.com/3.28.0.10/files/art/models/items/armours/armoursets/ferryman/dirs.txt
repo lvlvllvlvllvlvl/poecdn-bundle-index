@@ -1,0 +1,14 @@
+attachments
+attachments/cape
+attachments/cape/dex
+attachments/cape/dexint
+attachments/cape/int
+attachments/cape/str
+attachments/cape/strdex
+attachments/cape/strdexint
+attachments/cape/strint
+attachments/helmetdecoration
+attachments/skirt
+fx
+fx/mb
+textures

@@ -1,0 +1,6 @@
+basetypes
+basetypes/textures
+microtransactions
+microtransactions/zodiacdragonaxe
+monsters
+uniques

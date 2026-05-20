@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+1695f968345f1689,151.mat,Tiny.V8,32503448,1962
+dab3f39b6768fe17,151.dds,Streaming/Content/metadata/effects/microtransactions/spells/5C10CF61C5AF5FF7.D43F47CAA6AFECFA.chains04.trl,770932,43852
+cb1f1d9b40c9484d,151.dds.header,Tiny.V3,32390837,1520
+89a91ed774d8f45b,tile_01_dxt1.dds,Streaming/Content/metadata/pet/skadi/pet/skadi_ground_rune.pet,378289,43852
+b0951563af657ab6,tile_01_dxt1.dds.header,Tiny.V0,32954071,1520
+dc0da02ff4885ff1,tile_01_bc7.dds,Streaming/Content/metadata/effects/microtransactions/spells/BF9541611E4CDE5F.0D29B67D6D3A166B.in_floor.pet,902316,87556
+763a35d210e88f34,tile_01_bc7.dds.header,Tiny.V6,32614665,1520
+d09a9f0b318eea68,snow_side_explosion_at.mat,Tiny.VD,32938989,3724
+1e0d1f1d7201a1eb,snow_side_explosion_at.dds,Streaming/Content/metadata/effects/spells/monsters_effects/FD9B3212F5A96F83.9E9A83F79FEF3A9C.lightning_sparks.pet,1764531,87556
+49a5ac99eb5ef950,snow_side_explosion_at.dds.header,Tiny.VA,13169040,1520
+321ba6c5bdc14989,spark.mat,Tiny.V9,33164443,2698
+cd9b55415805e39b,spark.dds,Streaming/Content/metadata/effects/microtransactions/spells/BF9541611E4CDE5F.0D29B67D6D3A166B.in_floor.pet,896680,5636
+cef8e8f86d1bbd51,spark.dds.header,Tiny.V7,32591127,1520

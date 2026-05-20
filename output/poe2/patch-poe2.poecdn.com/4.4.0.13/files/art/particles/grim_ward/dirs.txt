@@ -1,0 +1,2 @@
+corpse_effect
+graveyard

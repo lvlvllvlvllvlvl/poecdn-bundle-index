@@ -1,0 +1,7 @@
+animations
+animations/finisher
+animations/graveyardsuperunique
+attachments
+attachments/graveyardsuperuniqueweapons
+attachments/graveyardsuperuniquewings
+attachments/weapons

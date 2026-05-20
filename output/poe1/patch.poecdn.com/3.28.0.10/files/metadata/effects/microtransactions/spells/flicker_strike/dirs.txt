@@ -1,0 +1,11 @@
+afterimage
+afterimage/epk
+afterimage/fx
+afterimage/fx/afterimage
+afterimage/fx/beam
+afterimage/fx/on_hit
+afterimage/fx/teleport_in
+afterimage/fx/teleport_out
+afterimage/fx/vaal_on_hit
+necro_smoke
+ninja_smoke

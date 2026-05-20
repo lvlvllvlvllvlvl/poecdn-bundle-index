@@ -1,0 +1,6 @@
+fx
+mat
+mat/molten_aoe
+mat/molten_aoe_start
+mat/slowwalk_slam
+mat/sound_wave

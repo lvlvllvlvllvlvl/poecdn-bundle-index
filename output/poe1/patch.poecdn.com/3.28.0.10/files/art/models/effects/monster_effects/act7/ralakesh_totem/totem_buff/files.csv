@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+34e7bbb7e65753f4,deactivate.sm,Tiny_1,90817251,1250
+25cf8df976c9a9d4,deactivate.amd,Tiny_1,90816019,104
+fc5984fac7d95cdf,deactivate.ast,Tiny_1,90816123,1128
+8f110f0abd498ccc,buff deactivate_55aa5af2.smd,Art/Models/Effects/monster_effects/act7/Ralakesh_Totem,126300,94978
+d54bfcd9b6d6e5b8,buff deactivate_55aa5af2.smd.header,Tiny_1,90814707,1312
+7272f191d47064f5,buff constant_5e59f368.smd,Art/Models/Effects/monster_effects/act7/Ralakesh_Totem,94946,31354
+554e6f8f2874cb19,buff constant_5e59f368.smd.header,Tiny_1,90814339,368
+b663bbc508ff16f8,buff activate_ba937fd2.smd,Art/Models/Effects/monster_effects/act7/Ralakesh_Totem,0,94946
+2bc49f280be9782a,buff activate_ba937fd2.smd.header,Tiny_1,90813043,1296
+f9b6dcd973ae09f5,active.sm,Tiny_1,90811965,1078
+33ad2a72aac4271c,active.amd,Tiny_1,90811022,102
+e91b6258fe8f817c,active.ast,Tiny_1,90811124,841
+f2d8b40c5d9ce9de,activate.sm,Tiny_1,90809776,1246
+841ab6dc97fe8177,activate.amd,Tiny_1,90808548,104
+34e1e551e7690226,activate.ast,Tiny_1,90808652,1124

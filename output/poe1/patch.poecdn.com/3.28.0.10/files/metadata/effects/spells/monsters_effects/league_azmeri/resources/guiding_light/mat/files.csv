@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+3db682014abbb266,sparks_render.mat,Tiny_D,245152029,23214
+b64159c46017db27,sphere_distortion_render.mat,Tiny_D,245518223,11246
+f47d05703c12e82c,sphere_distortion_update.mat,Tiny_11,89827740,308
+9dd69ed2f96e453d,pixiedust_r.mat,Tiny_D,245114387,18556
+e1baa4658a534df5,pixiedust_u.mat,Tiny_D,245132943,19086
+cb338f4302654006,mblur_sphere_r.mat,Tiny_D,245102301,12086
+4323d5532e23b14f,mblur_sphere_u.mat,Tiny_11,86642861,310
+abe9ca5a48f20fa2,body_absorb_skin.mat,Tiny_D,245059069,11520
+6557e7458c62a7d0,burst_sparks_update.mat,Tiny_D,245070589,31712

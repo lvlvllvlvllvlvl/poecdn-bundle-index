@@ -1,0 +1,5 @@
+decal
+pet
+pet/monster_hit
+pet/surge
+pet/vortex

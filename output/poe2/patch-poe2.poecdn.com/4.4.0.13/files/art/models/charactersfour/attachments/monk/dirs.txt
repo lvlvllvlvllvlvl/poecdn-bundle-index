@@ -1,0 +1,8 @@
+hairstyles
+hairstyles/default
+hairstyles/tight
+outfits
+outfits/attachments
+outfits/attachments/gourd
+outfits/attachments/knot
+outfits/attachments/rope

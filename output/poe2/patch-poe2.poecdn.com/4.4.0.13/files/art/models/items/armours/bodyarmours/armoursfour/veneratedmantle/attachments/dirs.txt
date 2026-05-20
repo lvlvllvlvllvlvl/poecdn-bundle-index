@@ -1,0 +1,8 @@
+mantle
+robe
+robe/layer01
+robe/layer02
+robestr
+robestr/layer01
+robestr/layer02
+shoulderpad

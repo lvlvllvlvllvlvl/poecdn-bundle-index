@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+674658c8cd3c9cfd,trail_main_base.mat,Tiny_7,36536516,1606
+d527a7eb0140a8e2,trail_main_base.dds,Art/particles/static_strike_02/player_buff,0,22012
+e4f56780b7676c77,trail_main_base.dds.header,Tiny_7,36535676,840
+3f3b8f9dacbce03f,trail_bloom.mat,Tiny_7,36534508,1168
+adc96356dcda57fe,trail_bloom.dds,Art/particles/static_strike_02/player_buff,33096,11084
+0bc2aacf793f14b2,trail_bloom.dds.header,Tiny_7,36532988,1520
+a6e7b82bdc6e3394,light_grad.mat,Tiny_7,36529062,1814
+2b09b46a5426b4a1,light_grad.dds,Art/particles/static_strike_02/player_buff,22012,11084
+6ec5567a9bc95574,light_grad.dds.header,Tiny_7,36527542,1520
+0556bf8fa5519e9a,lightning_bolts_thin.mat,Tiny_7,36531380,1608
+373006f1abe64e4e,lightning_bolts_thin.dds,Art/particles/static_strike_02/beam_02,0,349732
+e169b66d4bdb6ed9,lightning_bolts_thin.dds.header,Tiny_7,36530876,504

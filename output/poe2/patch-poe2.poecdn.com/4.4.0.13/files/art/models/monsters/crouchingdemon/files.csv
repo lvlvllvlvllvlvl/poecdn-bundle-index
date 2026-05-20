@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+0e00e2c69f91a5ba,crouchingdemon.sm,Tiny.V8,11568577,2544
+e6c605c3e9ce7667,squattingfingersdemon.sm,Tiny.VD,11539119,2916
+9429765667605855,squattingfingersdemon_armour_41702e94.smd,Streaming/Content/data/balance/worldareas/97/null.vworld,215903,594421
+d0991014da0db4fa,squattingfingersdemon_armour_41702e94.smd.header,Tiny.V9,11826845,448
+0bc2b4c62076888a,thesmotherer.sm,Tiny.V1,11542599,2572
+791b8e8bd7e95df5,thesmotherercolliders.sm,Tiny.VE,11640724,2570
+6376be6315f788d8,thesmotherer_armour_577693ea.smd,Tiny.VD,11542035,593
+94b22bcde13b3343,thesmotherer_armour_577693ea.smd.header,Tiny.VC,11471991,448
+5c7645da1602c9eb,thesmotherer_armour_e0b239cf.smd,Streaming/Content/metadata/monsters/drownedcrawler/drownedcrawler.act,20579,436857
+0c7fd8804eb71aea,thesmotherer_armour_e0b239cf.smd.header,Tiny.V0,11759750,448
+5d90d835f202ab8d,rig_f3922703.smd,Streaming/Content/metadata/monsters/leaguehellscape/fleshfaction/hellscapefleshfodder1.ot.5,634537,218747
+a2da1531ae139a5a,rig_f3922703.smd.header,Tiny.V3,11612475,448
+54c604ddadcf4452,rig.amd,Content/metadata/monsters/drownedcrawler/drownedcrawler.act,0,9954
+63c5f1fc62188303,rig.ast,Content/metadata/monsters/drownedcrawler/drownedcrawler.act,9954,529083

@@ -1,0 +1,10 @@
+acridwand
+attunedwand
+bonewand
+galvanicwand
+galvanicwand/attachments
+offeringwand
+siphoningwand
+textures
+volatilewand
+witheredwand

@@ -1,0 +1,9 @@
+ammo
+ammo/textures
+animations
+animations/base
+animations/npc
+basetypes
+basetypes/crossbow01
+basetypes/crossbow02
+basetypes/textures

@@ -1,0 +1,17 @@
+bodyfx
+death_nova
+detonate_runes
+detonate_runes/arena_runes
+detonate_runes/beam
+detonate_runes/rune_explosion
+influence
+on_act
+on_act/emerge_01
+on_act/spellcast_ranged_3
+rune_debuff
+slam
+slam_projectile
+spellcast_ranged_1
+spellcast_ranged_1/beam
+spellcast_ranged_1/beam_impact
+spellcast_ranged_1/delayed_blast

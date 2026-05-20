@@ -1,0 +1,7 @@
+attachments
+attachments/shield
+attachments/sword_03_end
+attachments/swords
+textures
+vfx
+vfx/textures

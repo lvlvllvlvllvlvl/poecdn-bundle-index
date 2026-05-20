@@ -1,0 +1,4 @@
+l_glove
+l_glove/animations
+r_glove
+r_glove/animations

@@ -1,0 +1,4 @@
+coppercitadel
+ironcitadel
+monolith
+stonecitadel

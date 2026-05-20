@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+13ec972b0df25599,wolfcns.mat,Tiny_8,39550222,2332
+5f41706b2055b4a7,wolf_colour.dds,Art/Textures/Monsters/wolf_elements/lightning,109576,174924
+1fa23465662a14bd,wolf_colour.dds.header,Tiny_8,39548702,1520
+472f5483c2eddbd5,lightning_random_glowy.mat,Tiny_8,39546808,1894
+165bd73000415c39,lightning_random_glowy.dds,Art/particles/ground_effects/lightning_1,0,349732
+7fef27f83dbbfa05,lightning_random_glowy.dds.header,Tiny_8,39546304,504
+fa09f6ac9635c8df,lightning.mat,Tiny_8,39545288,1016
+11ad99bdaa2ba1a0,lightning.dds,Art/Textures/Monsters/wolf_elements/lightning,22020,87556
+8732f1a1b8a4c3d7,lightning.dds.header,Tiny_8,39543768,1520
+a4ce2c5e8660a2fb,grad.mat,Tiny_8,39542102,1666
+0e155908057db715,grad.dds,Art/Textures/Monsters/wolf_elements/lightning,0,22020
+cbd0f81629693897,grad.dds.header,Tiny_8,39540582,1520

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+acc3c0a5c935b832,blood_2.mat,Tiny.VB,32648224,4268
+cb4661cd324ca9d3,blood_2_normal_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/gallows/CDEE4CF934E4086A.825A524E8CE455EB.trail_point_shrapnel.pet,642026,43876
+919317c9428ef0af,blood_2_normal_dxt5.dds.header,Tiny.VB,32652492,840
+763934a3d1f043af,blood_2_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/gallows/CDEE4CF934E4086A.825A524E8CE455EB.trail_point_shrapnel.pet,598150,43876
+af6641747978f16b,blood_2_dxt5.dds.header,Tiny.V9,36758860,840
+bd7206ed02a1726f,splat.mat,Tiny.V3,32046703,1582
+c25b0c4840fceef0,splat_specular_dxt1.dds,Streaming/Content/metadata/particles/enviro_effects/chests/5AC03A6B1642F110.azurtrl.trl,699736,174924
+42301257caab12af,splat_specular_dxt1.dds.header,Tiny.V3,36335097,1520
+700050aaba1c3937,splat_normal_dxt1.dds,Streaming/Content/metadata/particles/enviro_effects/chests/5AC03A6B1642F110.azurtrl.trl,524812,174924
+5836c8f6afbac547,splat_normal_dxt1.dds.header,Tiny.V7,36753619,1520
+0f929e5852f185ad,splat_dxt5.dds,Streaming/Content/metadata/particles/enviro_effects/chests/5AC03A6B1642F110.azurtrl.trl,437256,87556
+9d0a1e6c949bbac5,splat_dxt5.dds.header,Tiny.VC,45883384,1520
+226b24e9b1f7a669,shooty_out.mat,Tiny.VD,32630789,1550
+4d601c57d47881cb,shooty_out_dxt5.dds,Streaming/Content/metadata/particles/enviro_effects/chests/5AC03A6B1642F110.azurtrl.trl,87556,349700
+dfdf577fd6112d3e,shooty_out_dxt5.dds.header,Tiny.V3,32045183,1520

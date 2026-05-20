@@ -1,0 +1,7 @@
+knightlordfmantle
+knightlordfmantle/dex
+knightlordfmantle/int
+knightlordfmantle/strdexint
+knightlordfponytail
+knightlordfrobe
+knightlordmrobe

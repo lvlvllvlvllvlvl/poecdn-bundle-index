@@ -1,0 +1,12 @@
+mb
+mb/blood_pool
+mb/chest
+mb/chestshimmer
+mb/portal
+tex
+tex/chest
+tex/chestshimmer
+tex/monster_epk
+tex/portal
+tex/portal/fx
+tex/portal/fx/bloodpool

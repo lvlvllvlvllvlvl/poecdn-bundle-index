@@ -1,0 +1,5 @@
+lightning_nova
+projectile
+projectile/fx
+self_detonate
+self_detonate/fx

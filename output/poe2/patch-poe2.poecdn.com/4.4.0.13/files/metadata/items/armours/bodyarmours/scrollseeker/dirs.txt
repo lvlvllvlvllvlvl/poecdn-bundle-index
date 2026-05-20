@@ -1,0 +1,4 @@
+attachments
+attachments/shawls
+attachments/skirts
+attachments/sleeves

@@ -1,0 +1,8 @@
+onact_fire_projectile
+soundwave_projectile
+soundwave_projectile/impact_01
+soundwave_projectile/projectile_01
+wind_buff
+windpalmempty
+windpalmhit
+windpalmstun

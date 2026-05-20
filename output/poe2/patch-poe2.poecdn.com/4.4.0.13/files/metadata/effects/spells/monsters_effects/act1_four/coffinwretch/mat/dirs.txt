@@ -1,0 +1,5 @@
+buildup
+ghostflame_debuff
+projectile_hit
+projectile_trail
+spellcast_01

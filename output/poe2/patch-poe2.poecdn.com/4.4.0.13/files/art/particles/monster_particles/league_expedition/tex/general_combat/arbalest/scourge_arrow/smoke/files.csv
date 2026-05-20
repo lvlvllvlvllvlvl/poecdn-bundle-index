@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+220b04471f15147e,smoke_wispy_6x6_nrm_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.6084ECE45452DF12.onact_hand.trl,1485832,1398276
+35e93ee94d699ca7,smoke_wispy_6x6_nrm_dxt5.dds.header,Tiny.V5,36715614,1520
+24e600af203fd256,smoke_wispy_6x6_clr_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.6084ECE45452DF12.onact_hand.trl,87556,1398276
+2e51d8afeb4f2d52,smoke_wispy_6x6_clr_dxt5.dds.header,Tiny.VE,36748653,1520
+17d961fc6bd57ef4,smoke_impact_5x5_nrm_dxt5.dds,Streaming/Shared/Normal/Shared.1,0,1398276
+440b32eb4061d169,smoke_impact_5x5_nrm_dxt5.dds.header,Tiny.V1,6250593,1520
+19830a3290aca5db,smoke_impact_5x5_clr_dxt5.dds,Streaming/Shared/Normal/Shared,4087838,1398276
+93ff96cabdbf5f3d,smoke_impact_5x5_clr_dxt5.dds.header,Tiny.V0,6394100,1520

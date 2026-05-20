@@ -1,0 +1,9 @@
+ball_lightning
+ball_lightning_new
+lightning_souleater
+lightning_whip
+lightning_whip_new
+lightning_zap
+shock_nova
+shock_nova/surge
+team_vaal_lw

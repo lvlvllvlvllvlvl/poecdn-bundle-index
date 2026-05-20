@@ -1,0 +1,3 @@
+shield
+sword_03_end
+swords

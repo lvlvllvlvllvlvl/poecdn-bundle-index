@@ -1,0 +1,17 @@
+account_features
+alternate_skill_effects
+animations
+bundles
+character_effects
+custom_content
+guild
+hideout
+item_effects
+mystery
+mystery/french
+mystery/german
+mystery/portuguese
+mystery/russian
+mystery/spanish
+mystery/traditional chinese
+pets

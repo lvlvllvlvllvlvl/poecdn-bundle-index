@@ -1,0 +1,24 @@
+french
+german
+item hovers
+item hovers/french
+item hovers/german
+item hovers/korean
+item hovers/portuguese
+item hovers/russian
+item hovers/simplified chinese
+item hovers/spanish
+item hovers/thai
+item hovers/traditional chinese
+korean
+portuguese
+russian
+screenshots
+screenshots/panel2
+screenshots/panel3
+screenshots/panel4
+screenshots/panel5
+simplified chinese
+spanish
+thai
+traditional chinese

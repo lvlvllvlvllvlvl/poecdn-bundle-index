@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+51a64664f1ac614d,silver01_specular_dxt5.dds,Streaming/Content/data/balance/worldareas/A4/mapfrozenfalls.vworld,330964,1398276
+ea779e7bb9980717,silver01_specular_dxt5.dds.header,Tiny.VD,45505071,1520
+b59604a6b7202214,template_mask_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/4E84159AF1DFE4F0.rig.ao.3,7087482,22020
+b879a9d466611438,template_mask_dxt5.dds.header,Tiny.VE,45355443,1520
+6faf6036f0bb03b7,xyspecgloss_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/20091A9E99CBB8D3.529FC5CBC017B099.projectileaoe.ao,1867936,87556
+c500583db4cb1809,xyspecgloss_normal_dxt5.dds.header,Tiny.V2,45417511,1520
+65e6332d8b466eb7,greenwithalpha_colour_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/20091A9E99CBB8D3.529FC5CBC017B099.projectileaoe.ao,1780380,87556
+1233835fa0527c6e,greenwithalpha_colour_dxt5.dds.header,Tiny.VC,45772456,1520
+313fffec9d96a48b,orange_glow_dxt5.dds,Streaming/Shared/Super/Shared.1,5471620,87556
+c9e354434554bb5c,orange_glow_dxt5.dds.header,Tiny.V7,45623374,1520
+772bd645a117e670,blue_sss_bc7.dds,Streaming/Content/metadata/characters/dex/dexfourcinematic.ao,1398276,87556
+c4f7f607202fac44,blue_sss_bc7.dds.header,Tiny.V7,45621854,1520
+84749368ae1f6e8c,blue_sss_dxt1.dds,Streaming/Shared/Super/Shared.1,5427768,43852
+c37a9323983fb326,blue_sss_dxt1.dds.header,Tiny.V8,45049230,1520

@@ -1,0 +1,5 @@
+vaal_auras
+vaal_auras/resistance
+vaal_auras/resistance/vaal_fire
+vaal_auras/resistance/vaal_ice
+vaal_auras/resistance/vaal_lightning

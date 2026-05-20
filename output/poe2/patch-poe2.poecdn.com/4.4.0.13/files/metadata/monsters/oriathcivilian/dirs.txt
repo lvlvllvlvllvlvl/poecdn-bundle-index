@@ -1,0 +1,4 @@
+female
+male
+male/spectral
+male/spectral/graph

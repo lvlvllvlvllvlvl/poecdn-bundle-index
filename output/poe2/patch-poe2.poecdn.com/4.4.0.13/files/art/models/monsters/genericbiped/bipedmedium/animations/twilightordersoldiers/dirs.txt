@@ -1,0 +1,3 @@
+2h_sword
+sword_shield
+town

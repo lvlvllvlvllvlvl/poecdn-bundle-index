@@ -1,0 +1,6 @@
+attack_spear
+attack_spear/attack_spear_01
+attack_spear/attack_spear_03
+combo_spear_01
+combo_spear_01/fwd_stab
+energy_spear_throw

@@ -1,0 +1,2 @@
+npcdoor_strength2
+npcdoor_strength2/smashable

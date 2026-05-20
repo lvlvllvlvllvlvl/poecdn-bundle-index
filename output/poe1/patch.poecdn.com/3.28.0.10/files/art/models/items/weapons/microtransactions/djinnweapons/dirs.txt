@@ -1,0 +1,6 @@
+foci
+quarterstaff
+sceptre
+spear
+textures
+wand

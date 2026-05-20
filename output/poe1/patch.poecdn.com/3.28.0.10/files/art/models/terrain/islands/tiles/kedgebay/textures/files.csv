@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+d840f4cacc2f8493,g_kgb_drysand03.mat,Tiny_5,47533559,2302
+a8afe0dad36bae5e,g_kgb_drysand03_normal_dxt5.dds,Folders/art/models/terrain/islands/tiles/kedgebay_2,0,1398276
+793f4006dc05d0ce,g_kgb_drysand03_normal_dxt5.dds.header,Tiny_5,47537381,1520
+40a9b504e8752f46,g_kgb_drysand03_colour_dxt5.dds,Folders/art/models/terrain/islands/tiles/kedgebay_1,1398276,1398276
+641c5780204bfd25,g_kgb_drysand03_colour_dxt5.dds.header,Tiny_5,47535861,1520
+cf8be176e292b095,g_kgb_drysand02.mat,Tiny_5,47528217,2302
+d02fdcc67191f92e,g_kgb_drysand02_normal_dxt5.dds,Folders/art/models/terrain/islands/tiles/kedgebay_1,0,1398276
+61a9d06c5c393aee,g_kgb_drysand02_normal_dxt5.dds.header,Tiny_5,47532039,1520
+0cc96396d1f0cfd3,g_kgb_drysand02_colour_dxt5.dds,Folders/art/models/terrain/islands/tiles/kedgebay,1398276,1398276
+1c17dc2373c78515,g_kgb_drysand02_colour_dxt5.dds.header,Tiny_5,47530519,1520
+08ad35a618d65b52,g_kgb_drysand01.mat,Tiny_5,47524423,2274
+b7fa438f06d693bb,g_kgb_drysand01_normal_dxt5.dds,Folders/art/particles/fxlib/pbr_E,699212,1398276
+d52f55bb0c167dd4,g_kgb_drysand01_normal_dxt5.dds.header,Tiny_6,31346347,1520
+ab973243e556108e,g_kgb_drysand01_colour_dxt5.dds,Folders/art/models/terrain/islands/tiles/kedgebay,0,1398276
+fa42f29f8c1a39b0,g_kgb_drysand01_colour_dxt5.dds.header,Tiny_5,47526697,1520

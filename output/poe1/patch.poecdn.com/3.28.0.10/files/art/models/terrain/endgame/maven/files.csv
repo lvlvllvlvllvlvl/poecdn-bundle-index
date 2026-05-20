@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+4d807d7c67951941,fill_maven_outer.tgt,Tiny_4,53785155,450
+aaea71df60432af1,maven_arena.tgt,Tiny_4,53785605,2850
+71b070c18e6c9503,shadowrings.sm,Tiny_4,53813682,432
+f304508dea5272ce,shadowrings.amd,Tiny_4,53810593,106
+444676fac47f2a1d,shadowrings.ast,Tiny_4,53810699,2983
+948c51ef4387eb56,outsiderings.sm,Tiny_4,53810141,452
+da3ca3e902aa3ae2,outsiderings.amd,Tiny_4,53810035,106
+0cc4f58f7109ed03,outsiderings.ast,Art/Models/Terrain/EndGame/Maven,328596,13695
+fdb3fcaded1e8176,outershadowrings_e45bb9e4.smd,Art/Models/Terrain/EndGame/Maven,293640,34956
+ca85f4f909ae60cc,outershadowrings_e45bb9e4.smd.header,Tiny_4,53809667,368
+8cb2a468f1692470,outerrings_2d364bc9.smd,Art/Models/Terrain/EndGame/Maven,0,293640
+787f8e25d07691e2,outerrings_2d364bc9.smd.header,Tiny_4,53808998,669

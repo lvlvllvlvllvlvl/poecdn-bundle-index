@@ -1,0 +1,3 @@
+wings
+wings/animations
+wings/animations/gullshrines

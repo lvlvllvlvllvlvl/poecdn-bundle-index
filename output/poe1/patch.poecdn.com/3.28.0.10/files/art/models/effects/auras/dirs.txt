@@ -1,0 +1,2 @@
+delve_resists_aura
+delve_resists_aura/player

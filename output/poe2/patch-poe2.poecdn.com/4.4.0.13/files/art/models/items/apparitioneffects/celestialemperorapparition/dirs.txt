@@ -1,0 +1,9 @@
+animations
+animations/rare_finisher_effect
+attachments
+attachments/backpieces
+attachments/light
+attachments/light/animations
+attachments/light/animations/demonic
+attachments/light/animations/lunar
+attachments/light/animations/sun

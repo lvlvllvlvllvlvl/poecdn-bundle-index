@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+932c91cc4b2ae671,texturecquiver1ns.mat,Tiny_6,35137416,1870
+cb02ae17cc8d059c,texture.dds,Art/particles/icearrow,0,22020
+b87c3017eaaa1837,texture.dds.header,Tiny_6,35135896,1520
+5a00c071431a4794,spiralc.mat,Tiny_6,35133852,2044
+50be63425db13b77,spiral.dds,Art/particles/icearrow,109576,43876
+99e84cc6e3fab32d,spiral.dds.header,Tiny_6,35133012,840
+26bcad6028009d72,light_immortal_callc.mat,Tiny_6,35130330,2682
+ab103eb6b57eca7b,light_immortal_call.dds,Art/particles/icearrow,153452,87556
+ef92b2c752cf456f,light_immortal_call.dds.header,Tiny_6,35128810,1520
+62178a0aee778985,light_gradient.mat,Tiny_6,35127510,1300
+626d4bc751d55b11,light_gradient.dds,Art/particles/icearrow,22020,87556
+18179eaa2e176f55,light_gradient.dds.header,Tiny_6,35125990,1520
+eb7cb83d229492f4,ice_shockwave.mat,Tiny_6,35125056,934
+a5bc86d1e721f2f2,ice_shockwave.dds,Art/particles/icearrow,241008,43852
+06672ec002881591,ice_shockwave.dds.header,Tiny_7,88727752,1520

@@ -1,0 +1,7 @@
+female
+female/l_tie
+female/r_tie
+female/robe
+l_tie
+r_tie
+robe

@@ -1,0 +1,11 @@
+canopy
+clearfell
+crypt
+graveyard
+huntingground
+mud_burrow
+red_vale
+riverbank
+tomb
+village
+village_road

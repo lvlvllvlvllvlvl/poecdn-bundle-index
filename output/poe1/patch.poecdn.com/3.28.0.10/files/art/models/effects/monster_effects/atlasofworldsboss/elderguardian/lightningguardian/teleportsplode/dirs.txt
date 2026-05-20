@@ -1,0 +1,5 @@
+explosion
+projectile_big
+projectile_big_elder
+projectile_big_elder/fx_attach
+projectile_small

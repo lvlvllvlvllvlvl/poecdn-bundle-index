@@ -1,0 +1,4 @@
+endurance_slam
+perforate
+spike_slam
+sunder

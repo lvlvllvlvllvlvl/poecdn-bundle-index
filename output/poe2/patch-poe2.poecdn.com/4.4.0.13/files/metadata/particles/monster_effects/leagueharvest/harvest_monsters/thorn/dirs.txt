@@ -1,0 +1,14 @@
+bearboss
+beast
+beastt3
+birddog
+bramblehulk
+chieftain
+hellion
+hellion/beam
+hound
+insect
+insectspawner
+monkey
+spikeminer
+spiker

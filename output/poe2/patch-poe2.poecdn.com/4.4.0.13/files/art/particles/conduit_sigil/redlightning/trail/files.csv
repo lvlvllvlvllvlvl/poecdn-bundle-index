@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+c32e96aa2721b1d7,tornado_outer_multi.mat,Tiny.VA,32157389,2956
+9fd294ef85c7a039,tornado_outer_multi_dxt5.dds,Streaming/Content/metadata/particles/conduit_sigil/fire/target.pet,1247304,87588
+41c0af8c1e9e15e9,tornado_outer_multi_dxt5.dds.header,Tiny.VF,32144353,504
+6dbdd5260f797256,energy_ftrail_add.mat,Tiny.V6,31820541,4646
+ae1c370b2040c731,energy_ftrail_add_red.mat,Tiny.V9,32369722,2006
+a4499f8538f67dce,energy_ftrail_add_red_dxt5.dds,Streaming/Content/metadata/particles/conduit_sigil/fire/target.pet,1072356,174948
+489f46481574b49e,energy_ftrail_add_red_dxt5.dds.header,Tiny.VB,32169212,840
+5b3fad5655f3a253,energy_ftrail_add_dxt5.dds,Streaming/Content/metadata/particles/conduit_sigil/redlightning/sigildraw.trl,0,174948
+ff12b2565ba45c75,energy_ftrail_add_dxt5.dds.header,Tiny.VB,32169212,840

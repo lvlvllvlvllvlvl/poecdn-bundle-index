@@ -1,0 +1,7 @@
+backbow
+earrings
+hair
+hairstrand
+l_thighdagger
+robe
+weapon_hammer

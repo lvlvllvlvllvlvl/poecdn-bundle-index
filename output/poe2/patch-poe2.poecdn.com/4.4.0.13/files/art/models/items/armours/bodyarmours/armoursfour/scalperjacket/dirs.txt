@@ -1,0 +1,13 @@
+attachments
+attachments/bag
+attachments/poncho
+attachments/poncho/f
+attachments/poncho/m
+attachments/poncho/str
+attachments/poncho/str/animations
+attachments/scarf
+attachments/scarf/f
+attachments/scarf/m
+attachments/scarf/str
+attachments/skirt
+textures

@@ -1,0 +1,24 @@
+axis supplies
+barrels and crates
+battlefront
+biowall
+catapults
+cranes
+crematorium
+electric_chair
+electric_chair/prodwoundedchair
+electric_chair/prodwoundedchair_effects
+eleganthouse
+eleganthouse/labyrinthplaque
+gore
+grass
+guardians
+marble
+market stalls
+plants
+sewers
+slums
+tolman_chair_torture_urn
+wagons
+wagons/tgms
+warehouse trash

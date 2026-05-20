@@ -1,0 +1,16 @@
+shawls
+shawls/dex
+shawls/dexint
+shawls/int
+shawls/str
+shawls/strdex
+shawls/strdexint
+shawls/strint
+skirts
+skirts/dex
+skirts/dexint
+skirts/int
+skirts/str
+skirts/strdex
+skirts/strdexint
+skirts/strint

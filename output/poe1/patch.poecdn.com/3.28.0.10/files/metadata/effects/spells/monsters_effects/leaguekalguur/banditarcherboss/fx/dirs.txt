@@ -1,0 +1,12 @@
+circle_fire
+detonate
+flamingarrow
+flamingarrow/end
+footsteps
+marked_for_seige
+onact
+onact/area_barrage_01
+onact/blink_arrow
+onact/death_audio
+onact/snipe
+stream_fire

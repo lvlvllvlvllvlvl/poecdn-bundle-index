@@ -1,0 +1,8 @@
+attachments
+automaton
+automaton/attachments
+celestial
+celestial/attachments
+fx
+stygian
+stygian/attachments

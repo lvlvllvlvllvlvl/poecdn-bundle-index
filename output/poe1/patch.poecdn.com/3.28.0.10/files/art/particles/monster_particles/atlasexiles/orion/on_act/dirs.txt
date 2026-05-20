@@ -1,0 +1,4 @@
+beam_03
+death
+summon_apparition
+throne_activate

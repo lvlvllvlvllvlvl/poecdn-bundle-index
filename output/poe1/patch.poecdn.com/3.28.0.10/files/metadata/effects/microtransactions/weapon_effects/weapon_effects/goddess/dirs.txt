@@ -1,0 +1,15 @@
+goddessblue
+goddessblue/pet
+goddessblue/pet/axemace
+goddessblue/pet/bow
+goddessblue/pet/dwc
+goddessblue/pet/staff
+goddessblue/pet/sword
+goddessblue/trl
+pet
+pet/axemace
+pet/bow
+pet/dwc
+pet/staff
+pet/sword
+trl

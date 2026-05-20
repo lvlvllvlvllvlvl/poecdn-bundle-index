@@ -1,0 +1,6 @@
+attack_01
+cold_degen
+emerge
+icethrower
+screech_01
+teleport

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+f6fff562469c0715,impact.mat,Tiny.V3,31329552,1954
+f38d53840e040f32,fire_bits_2x2.mat,Tiny.V7,31600670,3436
+3eeb228649a3334d,fire_bits_2x2_dxt5.dds,Streaming/Shared/Normal/Shared,175112,349700
+8377f1e5e7f35eac,fire_bits_2x2_dxt5.dds.header,Tiny.V0,4409002,1520
+8d5ed0c1c4a54226,shockwave_charge.mat,Tiny.VB,31933557,6018
+b328860cd552574e,sparkling.mat,Tiny.V7,31604386,2042
+0f7b2b4805f926d6,sparkling_dxt5.dds,Tiny.VD,4913647,1572
+8f393b44df24f3c0,sparkling_dxt5.dds.header,Tiny.V2,5201687,504
+50a2ddb3745cbe45,stone_dust.mat,Tiny.VB,31939575,1408
+3e8c59991d0ccbe3,stone_dust_dxt5.dds,Streaming/Content/metadata/particles/fireball_explosion_smoke.pet,5811568,43876
+9d133443df018eb1,stone_dust_dxt5.dds.header,Tiny.V2,35462186,840
+0a1a350f95621c6a,phys_lookup_dxt1.dds,Tiny.V1,31636460,1180
+fd0ec7157f98ae18,phys_lookup_dxt1.dds.header,Tiny.V7,31604106,280
+59aa6c5ed6aca461,example03.mat,Tiny.V9,32066406,1604
+f55275c9d734ce77,example01.mat,Tiny.V5,31310352,1458

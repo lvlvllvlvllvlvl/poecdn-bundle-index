@@ -1,0 +1,13 @@
+basic_sword
+candle_b_flames
+candle_flareup
+candle_m_flames
+candle_mortar_impact
+candle_mortar_proj
+fire_infused_sword
+flame_breath
+footsteps
+leap_slam_circular
+leap_slam_recslam
+on_act
+on_act/crouch_forward_01

@@ -1,0 +1,4 @@
+attachments
+attachments/l_danglies
+attachments/r_danglies
+textures

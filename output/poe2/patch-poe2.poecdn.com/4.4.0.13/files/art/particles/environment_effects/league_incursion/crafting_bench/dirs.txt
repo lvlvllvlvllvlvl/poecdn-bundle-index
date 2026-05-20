@@ -1,0 +1,14 @@
+alchemy_lab
+alchemy_lab/vaalstatue
+alchemy_lab/vaalstatue/mat
+alchemy_lab/vaalstatue/mat/death_bwd_01
+rewardrooms
+rewardrooms/mb
+sacrifice_chamber
+sacrifice_chamber/craftingbench_t2
+sacrifice_chamber/craftingbench_t2/mb
+smithy
+smithy/mb
+smithy/mb/t1
+smithy/mb/t2
+smithy/mb/t3

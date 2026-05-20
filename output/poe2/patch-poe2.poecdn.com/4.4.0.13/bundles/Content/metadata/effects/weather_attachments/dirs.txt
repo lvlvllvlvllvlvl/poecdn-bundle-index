@@ -1,0 +1,2 @@
+g2_town
+g2_town/skin

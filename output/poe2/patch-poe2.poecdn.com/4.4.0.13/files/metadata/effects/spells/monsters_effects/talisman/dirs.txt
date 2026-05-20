@@ -1,0 +1,15 @@
+bone_spire
+fire_arctic_breath
+gore_mortar
+icy_areadamage
+lightning_snap
+rigwald
+rigwald/axe_throw
+rigwald/siphon_projectile
+rigwald/transform
+rigwald/wolf
+rune_trap
+rune_trap/blue
+shrink
+talisman
+tribal_totem

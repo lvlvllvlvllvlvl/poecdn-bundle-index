@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+52eae562436b6fb7,main_crystal.pet,Tiny_9,220036742,18766
+34ce9c074b74a6ad,shard_impact.pet,Tiny_9,220146718,10722
+57d232b349fa73ba,shard_04.pet,Tiny_9,220127834,15714
+2351ccaada573f59,shard_04.trl,Tiny_9,220143548,3170
+11a8d6097af8f0cb,shard_03.pet,Tiny_9,220108962,15718
+a3352caff3793271,shard_03.trl,Tiny_9,220124680,3154
+0f6979f5105bf1f6,shard_02.pet,Tiny_9,220093240,15722
+edb534afdf1b17aa,shard_02.trl,Tiny_9,220071188,3168
+294dd2f8d2a3c3e9,shard_01_once.pet,Tiny_9,220074356,15628
+052b493291ff97af,shard_01_once.trl,Tiny_9,220089984,3256
+bb77df45db89608f,shard_01.pet,Tiny_9,220055508,15680
+3bbb2830479ceafa,shard_01.trl,Tiny_9,220071188,3168
+01c3282e00401600,detonate_crystals.pet,Tiny_9,220030828,2996
+9edefb03266d064f,detonate_sphere.pet,Tiny_9,220033824,2918

@@ -1,0 +1,12 @@
+bodyfx
+guardian_of_phoenix
+guardian_of_phoenix/doublespin
+guardian_of_phoenix/doublespin/weaponfx
+guardian_of_phoenix/flaming_bomb
+guardian_of_phoenix/flaming_bomb/bomb
+guardian_of_phoenix/flaming_bomb/pulse
+guardian_of_phoenix/pulse
+guardian_of_phoenix/vortex
+guardian_of_phoenix/weapon
+projectile
+projectile_impact

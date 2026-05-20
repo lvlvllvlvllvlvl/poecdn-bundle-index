@@ -1,0 +1,3 @@
+elementalaura_fire
+elementalaura_ice
+elementalaura_light

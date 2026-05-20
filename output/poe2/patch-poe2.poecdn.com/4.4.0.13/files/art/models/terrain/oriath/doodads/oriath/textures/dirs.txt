@@ -1,0 +1,6 @@
+curtains
+decorations
+furniture
+pots
+rugs
+statues

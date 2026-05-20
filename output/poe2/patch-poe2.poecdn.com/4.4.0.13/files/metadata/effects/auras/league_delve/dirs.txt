@@ -1,0 +1,3 @@
+resist_debuff_aura
+resist_debuff_aura/affected
+resist_debuff_aura/player

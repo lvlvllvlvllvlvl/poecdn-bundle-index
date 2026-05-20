@@ -1,0 +1,4 @@
+attack_01_02
+death_01
+flinch
+sonic_screech

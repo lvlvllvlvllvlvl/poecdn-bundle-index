@@ -1,0 +1,5 @@
+fx
+fx/attack_01
+mat
+mat/attack_01
+mat/attack_01/stab

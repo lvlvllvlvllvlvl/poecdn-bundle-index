@@ -1,0 +1,8 @@
+attachments
+attachments/bells
+attachments/campsite
+attachments/campsite/attachments
+attachments/potsandbags
+attachments/saddle
+attachments/well
+textures

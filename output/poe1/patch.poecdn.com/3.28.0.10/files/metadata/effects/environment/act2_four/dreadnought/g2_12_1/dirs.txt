@@ -1,0 +1,8 @@
+mat
+mat/brazier
+mat/nowind
+pet
+pet/bodypile_fire
+pet/brazier_fire
+pet/sand_dust
+pet/torch_fire

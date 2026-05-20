@@ -1,0 +1,9 @@
+attachments
+attachments/female
+attachments/female/danglers
+attachments/female/skirt
+attachments/male
+attachments/male/danglers
+attachments/male/skirt
+attachments/male/str_danglers
+textures

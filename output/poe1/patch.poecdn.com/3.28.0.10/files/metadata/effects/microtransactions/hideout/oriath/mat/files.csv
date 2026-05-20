@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+fd17b7ea1d68be0f,smoke_r.mat,Tiny_D,9832366,13072
+828b8caaff930e48,smoke_u.mat,Tiny_D,9845438,13570
+15eb9022a69f714d,heat_distortion_r.mat,Tiny_D,9814050,11964
+6fc5855fbca4b2d2,heat_distortion_u.mat,Tiny_D,9826014,6352
+3aef0d8237ef9041,embers_01_r.mat,Tiny_D,9748214,31516
+6f87410a9afe1609,embers_r.mat,Tiny_D,9779730,17656
+5b3b79767165363b,embers_u.mat,Tiny_D,9797386,16664
+1793a0f4e6488b03,burn_ash_02_r.mat,Tiny_D,9672864,37676
+d8fbb94bb578e7af,burn_ash_r.mat,Tiny_D,9710540,37674
+7a7429f303779c19,braziershimmer_r.mat,Tiny_D,9615188,57676
+f164b4e625e2bcb0,brazierflame_r.mat,Tiny_D,9519500,78750
+900361fece0d960c,brazierflame_u.mat,Tiny_D,9598250,16938

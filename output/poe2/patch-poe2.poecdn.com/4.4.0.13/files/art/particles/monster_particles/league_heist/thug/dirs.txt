@@ -1,0 +1,11 @@
+1hsword
+2hmace
+2hmaul
+bow
+miniboss
+shield_throw
+torch
+trapper
+trapper/trapper_bomb
+trapper_miniboss
+weapon

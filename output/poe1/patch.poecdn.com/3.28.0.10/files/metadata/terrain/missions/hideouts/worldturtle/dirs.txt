@@ -1,0 +1,9 @@
+fx
+fxmat
+fxmat/doodadfountain_01
+fxmat/doodadfountain_02
+fxmat/doodadfountain_03
+fxmat/hideout_fountain_01
+fxmat/hideout_space
+graphs
+rooms

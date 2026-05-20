@@ -1,0 +1,5 @@
+clone_beam
+clone_rune
+death_coin
+floating_knife
+spinning_knife

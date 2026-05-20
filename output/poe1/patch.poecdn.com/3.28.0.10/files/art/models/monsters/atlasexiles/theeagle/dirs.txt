@@ -1,0 +1,4 @@
+apparition
+apparition/attachments
+character
+character/attachments

@@ -1,0 +1,5 @@
+attachments
+attachments/wings
+textures
+vfx
+vfx/textures

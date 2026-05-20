@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+2ed95f58a9a68467,rig_10b6c959.smd,Tiny.VD,6927716,3784
+a0d99a6f72cbb38c,rig_10b6c959.smd.header,Tiny.VA,7182018,448
+0c5692aaf21c446d,rig_f8b7ebcc.smd,Tiny.VF,7085085,3628
+24a44be27e7b0f41,rig_f8b7ebcc.smd.header,Tiny.V4,7203165,448
+4966c82029a908db,lightninglong1.sm,Tiny.VD,6927210,506
+35ee7c2e1eb82dc0,lightninglong1.amd,Tiny.VC,7428191,84
+8045e0b745fadcb6,lightninglong1.ast,Tiny.V3,7011716,2995
+0c4e49be5cb8e476,lightninglong.sm,Tiny.VF,7084579,506
+20f41af39759e434,lightninglong.amd,Tiny.VC,7428191,84
+62fe294702c6fdbc,lightninglong.ast,Tiny.V0,7251080,2577

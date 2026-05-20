@@ -1,0 +1,9 @@
+blackblood_spawning
+doom_projectile
+doom_slam
+onact
+onact/death
+onact/emerge_pillar_idle_01
+onact/vomit
+sumo_charge
+vomit

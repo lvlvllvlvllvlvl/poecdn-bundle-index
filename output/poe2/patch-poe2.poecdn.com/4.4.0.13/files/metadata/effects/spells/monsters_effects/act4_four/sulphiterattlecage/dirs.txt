@@ -1,0 +1,12 @@
+epk
+fx
+mat
+mat/bu_chest_midline
+mat/death
+mat/eruption_01
+mat/eruption_02
+mat/eruption_03
+mat/grd_pulse_build_up
+mat/impact_big
+mat/slam_01
+mat/sulphur_ground

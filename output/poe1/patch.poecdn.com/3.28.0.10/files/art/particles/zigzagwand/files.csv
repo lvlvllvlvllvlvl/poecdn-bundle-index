@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+7acfb039d0889e83,ring.mat,Tiny_7,45156646,3628
+c7e5ebb88a21686a,sparkling.mat,Tiny_7,45160274,2468
+82f6bc1fa9dc25f9,wand_proj_beam.mat,Tiny_7,45162742,2780
+8a6f5ba758f21851,flash.mat,Tiny_7,45153504,1702
+07fc31aa7c40ea92,flash2.mat,Tiny_7,45155206,1440
+324c11a79b867c86,energy_trail_multi.mat,Tiny_7,45150272,2392
+fec794d494875407,energy_trail_multi_dxt5.dds,Art/particles/monster_particles/League_Incursion_18,1466962,174948
+187680eb185566e1,energy_trail_multi_dxt5.dds.header,Tiny_7,45152664,840
+bc2580540c8571a0,base_wind_multi.mat,Tiny_7,45145364,2484
+9f6df69a506853bd,bloom_glow.mat,Tiny_7,45147848,2424
+763795b445d53eca,alpha_base_add.mat,Tiny_7,45139078,5214
+36ac190fed26b966,anti_flash.mat,Tiny_7,45144292,1072

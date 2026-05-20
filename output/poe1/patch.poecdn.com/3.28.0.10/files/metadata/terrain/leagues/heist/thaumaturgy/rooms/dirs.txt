@@ -1,0 +1,9 @@
+1x1
+2x2
+blueprintgoal
+entrances
+goals
+npc
+overlays
+quest
+sides

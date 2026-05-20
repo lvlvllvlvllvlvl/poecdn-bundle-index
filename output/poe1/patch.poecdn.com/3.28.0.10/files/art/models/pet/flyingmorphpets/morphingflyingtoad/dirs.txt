@@ -1,0 +1,6 @@
+animations
+animations/gullshrines
+attachments
+attachments/wings
+attachments/wings/animations
+attachments/wings/animations/gullshrines

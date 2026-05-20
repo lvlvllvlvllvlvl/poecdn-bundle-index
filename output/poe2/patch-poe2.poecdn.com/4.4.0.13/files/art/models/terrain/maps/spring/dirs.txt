@@ -1,0 +1,8 @@
+textures
+textures/architecture
+textures/cliffs
+textures/foliage
+textures/ground
+textures/props
+textures/rocks
+tgms

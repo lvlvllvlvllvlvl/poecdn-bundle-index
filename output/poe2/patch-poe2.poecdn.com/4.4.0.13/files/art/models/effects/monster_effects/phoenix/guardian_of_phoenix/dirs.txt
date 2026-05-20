@@ -1,0 +1,6 @@
+doublespin
+flaming_bomb
+flaming_bomb/bomb
+flaming_bomb/pulse
+pulse
+vortex

@@ -1,0 +1,11 @@
+textures
+textures/arches
+textures/general
+textures/pillars
+textures/roofs
+textures/spiretop
+textures/stairs
+textures/tileable
+textures/turrets
+textures/walls
+tgms

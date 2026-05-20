@@ -1,0 +1,16 @@
+battle_root
+bulb_ultimate
+bulb_ultimate/volatile
+crown_of_thorns
+crown_of_thorns/ground_effect
+phase_transition
+phase_transition/souls
+road_roots
+scale_ultimate
+scale_ultimate/earthquake_donut
+scale_ultimate/earthquake_marker
+scale_ultimate/quake_shockwave
+scale_ultimate/spikes
+scale_ultimate/vine_onact
+spam_proj
+thorn_ultimate

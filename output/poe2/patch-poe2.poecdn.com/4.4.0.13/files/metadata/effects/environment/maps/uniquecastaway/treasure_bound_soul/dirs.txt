@@ -1,0 +1,13 @@
+epk
+fx
+fx/bound_soul
+fx/ghost_beam_01
+fx/treasure_location_01
+fx/treasure_location_01/idle_01
+fx/treasure_location_01/spinner
+mat
+mat/bound_soul
+mat/ghost_beam_01
+mat/treasure_location_01
+mat/treasure_location_01/idle_01
+mat/treasure_location_01/spinner

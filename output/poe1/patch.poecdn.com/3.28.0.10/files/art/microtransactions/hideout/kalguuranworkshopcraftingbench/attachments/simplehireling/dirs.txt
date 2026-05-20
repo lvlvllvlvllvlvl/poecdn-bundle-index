@@ -1,0 +1,5 @@
+animations
+animations/hammering
+animations/shovelling
+animations/table
+animations/weapon_rack

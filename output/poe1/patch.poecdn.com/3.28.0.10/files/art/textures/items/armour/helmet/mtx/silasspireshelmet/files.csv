@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+fee19fd3458035f0,silasspireshelmetc.mat,Tiny_8,13216165,4500
+bffed3b3238879e4,silasspireshelmet_specular_dxt5.dds,Art/Textures/Items/armour/helmet/Mtx_11,87556,87556
+2576881eefe68754,silasspireshelmet_specular_dxt5.dds.header,Tiny_8,13214645,1520
+95c350b2aa50b499,silasspireshelmet_normal_dxt5.dds,Art/Textures/Items/armour/helmet/Mtx_11,218964,349700
+42762bd9f4491966,silasspireshelmet_normal_dxt5.dds.header,Tiny_8,13213125,1520
+ca3ae24de04e20bc,silasspireshelmet_glow_dxt5.dds,Art/Textures/Items/armour/helmet/Mtx_11,0,87556
+e965e8da7b5294d2,silasspireshelmet_glow_dxt5.dds.header,Tiny_8,13211605,1520
+2c4959e9a46874cb,silasspireshelmet_colour_dxt5.dds,Folders/art/textures/items/armour/helmet/mtx_B,766508,87556
+2a6f4a10a6a13538,silasspireshelmet_colour_dxt5.dds.header,Tiny_8,13210085,1520
+fa33a71a87695dee,silasspireshelmet_colour_bc7.dds,Folders/art/textures/items/armour/helmet/mtx_B,766508,87556
+95880709d9ba0862,silasspireshelmet_colour_bc7.dds.header,Tiny_8,13210085,1520
+4c47a03b7f19cc1c,silasspireshelmet_colour.dds,Art/Textures/Items/armour/helmet/Mtx_11,175112,43852
+fbb3dd56568a2eb7,silasspireshelmet_colour.dds.header,Tiny_8,13208565,1520

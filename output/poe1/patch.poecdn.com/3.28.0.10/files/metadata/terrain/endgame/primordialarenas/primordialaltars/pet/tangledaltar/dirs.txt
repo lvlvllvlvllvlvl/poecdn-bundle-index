@@ -1,0 +1,2 @@
+altar_fadeout
+altar_spawn

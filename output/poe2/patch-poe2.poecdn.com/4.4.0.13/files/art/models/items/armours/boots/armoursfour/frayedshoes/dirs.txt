@@ -1,0 +1,6 @@
+attachments
+attachments/bag
+attachments/belt
+attachments/fray
+attachments/fray_str
+textures

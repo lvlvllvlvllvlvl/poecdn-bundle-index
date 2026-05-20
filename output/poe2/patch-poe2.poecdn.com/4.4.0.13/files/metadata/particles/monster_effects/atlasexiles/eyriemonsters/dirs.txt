@@ -1,0 +1,11 @@
+arcticcaster
+armouredbird
+elementalfighter
+kiweth
+ministorm
+serapharcher
+serapharcher/mortar
+serapharcher/projectile
+serapharcher/snipe
+serapharcher/trickshot
+seraphfighter

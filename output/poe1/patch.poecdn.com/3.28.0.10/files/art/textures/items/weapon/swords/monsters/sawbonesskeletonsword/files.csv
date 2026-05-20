@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+b1a58c8ce76514ed,sawbone_weaponc.mat,Tiny_8,21215024,2904
+b12e93cad1c8045a,sawbone_weapon_normal_dxt5.dds,Art/Textures/Items/weapon/swords/Monsters,87548,87556
+cd6404e25dccc57b,sawbone_weapon_normal_dxt5.dds.header,Tiny_8,21213504,1520
+837716387cda4156,sawbone_weapon_colour_dxt5.dds,Art/Textures/Items/weapon/swords/Monsters,175104,174948
+1a5aa8eb7469251e,sawbone_weapon_colour_dxt5.dds.header,Tiny_8,21212664,840
+02fade8fbc277638,sawbone_weapon_colour_bc7.dds,Art/Textures/Items/weapon/swords/Monsters,175104,174948
+b18289c44d8b629b,sawbone_weapon_colour_bc7.dds.header,Tiny_8,21212664,840
+8cde21722c6d39ca,sawbone_weapon_colour.dds,Art/Textures/Items/weapon/swords/Monsters,0,87548
+c8d56915e37031a3,sawbone_weapon_colour.dds.header,Tiny_8,21211824,840

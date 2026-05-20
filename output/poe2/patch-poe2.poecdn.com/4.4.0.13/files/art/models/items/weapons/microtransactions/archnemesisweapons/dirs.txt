@@ -1,0 +1,4 @@
+archnemesisbow
+archnemesisquiver
+textures
+textures/effects

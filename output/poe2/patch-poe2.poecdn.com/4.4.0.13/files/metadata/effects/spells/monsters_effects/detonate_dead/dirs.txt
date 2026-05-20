@@ -1,0 +1,11 @@
+epk
+fx
+fx/fire_core_explosion_01
+fx/fire_explosion_01
+graph
+mat
+mat/fire_explosion_01
+mat/windup
+mat/windup_chaos
+mat/windup_chaos_stronger
+mat/windup_stronger

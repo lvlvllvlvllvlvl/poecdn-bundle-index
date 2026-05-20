@@ -1,0 +1,10 @@
+attachments
+attachments/f
+attachments/f/robe
+attachments/f/robe/attachments
+attachments/f/shawl
+attachments/m
+attachments/m/robe
+attachments/m/robe/attachments
+attachments/m/shawl
+textures

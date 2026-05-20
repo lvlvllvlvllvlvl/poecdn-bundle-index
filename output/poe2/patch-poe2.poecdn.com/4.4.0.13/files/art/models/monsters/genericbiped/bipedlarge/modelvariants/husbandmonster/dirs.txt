@@ -1,0 +1,5 @@
+attachments
+attachments/skirt
+attachments/skirt/attachments
+attachments/skirt/attachments/belt
+attachments/skirt/attachments/skirtlayers

@@ -1,0 +1,4 @@
+attachments
+attachments/base
+attachments/chains
+textures

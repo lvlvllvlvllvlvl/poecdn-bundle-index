@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e29a39ca672f36eb,testc.mat,Tiny_7,40467402,2954
+d81467fef83ac16b,test.dds,Art/particles/totem/searing_bond_blue,349896,174948
+3aa6f1e6fbf7a4a6,test.dds.header,Tiny_7,40466562,840
+0ebc2dc8ed7d7723,smokec.mat,Tiny_7,40463490,3072
+b85d7af2d8302011,smoke.dds,Art/particles/totem/searing_bond_blue,174948,174948
+2fa09afbe6d01ef1,smoke.dds.header,Tiny_7,40462650,840
+1e4b7635eff2c7b8,basec.mat,Tiny_7,40459696,2954
+aa485dbf98824e0f,base.dds,Art/particles/totem/searing_bond_blue,0,174948
+567e85b4c579e550,base.dds.header,Tiny_7,40458856,840

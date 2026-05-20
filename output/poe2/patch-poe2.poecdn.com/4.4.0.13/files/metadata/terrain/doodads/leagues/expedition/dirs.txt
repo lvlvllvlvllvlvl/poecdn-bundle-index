@@ -1,0 +1,14 @@
+campprops
+chestmarkers
+chestmarkers/mat
+chestmarkers/mat/elite
+chestmarkers/mat/magic
+chestmarkers/mat/rare
+encampment
+ezomyterocks
+kalguurdungeon
+kalguurruins
+mapspecificremnants
+miscenvobjects
+miscexplodables
+objectindicatorflags

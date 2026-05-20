@@ -1,0 +1,15 @@
+fire
+fire/aoe
+fire/arrow
+fire/melee
+fire/wand
+ice
+ice/aoe
+ice/arrow
+ice/melee
+ice/wand
+light
+light/aoe
+light/arrow
+light/melee
+light/wand

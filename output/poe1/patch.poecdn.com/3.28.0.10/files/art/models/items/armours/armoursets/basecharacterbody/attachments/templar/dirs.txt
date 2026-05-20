@@ -1,0 +1,7 @@
+hairstyles
+hairstyles/hairdefault
+hairstyles/hairtight
+outfit
+twist
+twist/l_shoulderpad
+twist/r_shoulderpad

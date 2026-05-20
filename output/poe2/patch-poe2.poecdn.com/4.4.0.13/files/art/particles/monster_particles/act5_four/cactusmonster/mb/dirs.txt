@@ -1,0 +1,2 @@
+basic_projectile
+basic_projectile/animations

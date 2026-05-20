@@ -1,0 +1,19 @@
+hash,file,bundle,offset,size
+b9b81c21aede298a,outerswipec.mat,Tiny.V1,4110634,5006
+f6161f684bbfd4fd,outerswipe_bc1.dds,Tiny.VE,4085748,924
+8820d0eac235676d,outerswipe_bc1.dds.header,Tiny.V9,4024865,280
+ed4b671bf7778c59,yellow_solidc.mat,Tiny.V7,4089432,2176
+9141163efc1232ae,yellow_solid.dds,Tiny.V6,32876016,332
+5f89345b2d37182f,yellow_solid.dds.header,Tiny.V9,33467863,1520
+75637e8437d11eec,corelight.mat,Tiny.V7,4087638,1794
+581ff9706163820a,corelight_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/hideout/0C16669B128F29A0.CAE58C92B230AD8B.portal_center_02_end.pet,561693,5636
+5321e49b2da51538,corelight_dxt5.dds.header,Tiny.V6,32470087,1520
+5091b877820d2855,explosion - shimmer.mat,Tiny.V3,3931633,2470
+a2bf95470aa1f6f3,explosion - shimmer_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/hideout/0C16669B128F29A0.CAE58C92B230AD8B.portal_center_02_end.pet,567329,22020
+c720a74deee77a38,explosion - shimmer_dxt5.dds.header,Tiny.V9,6084611,1520
+39a5a8b57413bbaf,waves_tiled.mat,Tiny.VD,3969613,3762
+66788faafad0de60,waves_tiled_dxt2.dds,Streaming/Content/metadata/effects/microtransactions/hideout/0C16669B128F29A0.CAE58C92B230AD8B.portal_center_02_end.pet,589349,87556
+576990a40ab47379,waves_tiled_dxt2.dds.header,Tiny.VA,6087101,1520
+f9d9f8fd2d28ada7,white_solid.mat,Tiny.V8,4083406,1284
+349ea1fc5aac58d4,white_solid_dxt5.dds,Tiny.V9,4974565,516
+2f59472e41f15ded,white_solid_dxt5.dds.header,Tiny.VC,32032458,1520

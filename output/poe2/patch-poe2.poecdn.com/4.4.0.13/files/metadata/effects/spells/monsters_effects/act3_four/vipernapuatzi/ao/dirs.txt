@@ -1,0 +1,12 @@
+death
+fire_chaos_rain
+lance_hell
+serpent_strike
+snake_barrage
+snake_release
+snake_strike
+spear_aura
+spear_combo
+spear_dash_bwd
+spear_throw
+spiral_slam

@@ -1,0 +1,5 @@
+fire_chasm
+leap_slam
+volcano
+volcano/charge_up
+volcano/impact

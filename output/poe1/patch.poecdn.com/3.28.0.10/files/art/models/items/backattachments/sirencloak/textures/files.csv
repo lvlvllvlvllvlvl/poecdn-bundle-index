@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+41d9ec07db55c3fb,sirencloakc.mat,Tiny_2,55009077,8142
+10d8aa24fe21a01a,sirencloak_normal_dxt5.dds,Art/Models/Items/BackAttachments/SirenCloak/Textures_1,0,1398276
+0acf2a1aef9ea9ff,sirencloak_normal_dxt5.dds.header,Tiny_2,55007557,1520
+24feb2f392dc95db,sirencloak_metal_dxt1.dds,Art/Models/Items/BackAttachments/SirenCloak/Textures,2097488,699212
+38c5f3ca1f1f012e,sirencloak_metal_dxt1.dds.header,Tiny_2,55006037,1520
+cf68fc5402094c48,sirencloak_glow_dxt5.dds,Art/Models/Items/BackAttachments/SirenCloak/Textures,699212,1398276
+f8cf65037391bc1d,sirencloak_glow_dxt5.dds.header,Tiny_2,55004517,1520
+fb60026f5f635a59,sirencloak_colour_dxt1.dds,Art/Models/Items/BackAttachments/SirenCloak/Textures,0,699212
+6c8ac72b6d578628,sirencloak_colour_dxt1.dds.header,Tiny_2,55002997,1520

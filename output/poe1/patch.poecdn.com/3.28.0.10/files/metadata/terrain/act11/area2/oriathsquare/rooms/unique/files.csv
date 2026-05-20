@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+e8e16f055cd3d01b,rubble_blockage_01.arm,Metadata/Terrain.9_5,192618,5504
+0480b90682620687,mission_branch_01.arm,Tiny_41,6771749,4010
+e0ff9b57fe5da935,mission_end_01.arm,Tiny_41,6782815,1982
+8a9db95f7479ad35,mission_straight_01.arm,Tiny_41,6784797,3010
+f29cb0b0c1aab253,mission_corner_01.arm,Tiny_41,6775759,3292
+bb7d41a1e385454c,mission_cross_01.arm,Tiny_41,6779051,3764
+4b87147e92790faa,entrance_05.arm,Metadata/Terrain.F_8,373834,8258
+d3a2bbfba96c380c,entrance_square.arm,Metadata/Terrain.9_5,198122,19502

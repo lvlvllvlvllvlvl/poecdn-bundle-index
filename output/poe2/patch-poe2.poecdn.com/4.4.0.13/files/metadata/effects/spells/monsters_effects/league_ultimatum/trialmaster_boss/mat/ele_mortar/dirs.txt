@@ -1,0 +1,6 @@
+fire
+fire/impact
+ice
+ice/impact
+lightning
+lightning/impact

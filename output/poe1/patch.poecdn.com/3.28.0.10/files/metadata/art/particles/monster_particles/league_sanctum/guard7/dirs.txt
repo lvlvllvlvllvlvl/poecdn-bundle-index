@@ -1,0 +1,5 @@
+textures
+textures/bodyfx
+textures/staff
+textures/staff/on_act
+textures/staff/on_act/spell_projectile_01

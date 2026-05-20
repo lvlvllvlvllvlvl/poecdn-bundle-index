@@ -1,0 +1,7 @@
+ice_crystal
+ice_crystal/shatter
+ice_crystal/start
+ice_crystal_explosion
+ice_nova
+onact
+phys_shockwave

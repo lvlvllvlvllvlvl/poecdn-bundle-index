@@ -1,0 +1,5 @@
+belt_rig
+impact_absorb_rig
+impact_absorb_secondary_rig
+town_shield_rig
+town_shield_rig2

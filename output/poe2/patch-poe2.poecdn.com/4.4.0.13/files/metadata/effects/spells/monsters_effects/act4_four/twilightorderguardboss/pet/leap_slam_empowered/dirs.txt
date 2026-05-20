@@ -1,0 +1,3 @@
+debuff
+onact
+wall

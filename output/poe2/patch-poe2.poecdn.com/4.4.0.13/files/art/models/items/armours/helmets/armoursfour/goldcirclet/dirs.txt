@@ -1,0 +1,6 @@
+attachments
+attachments/circletdecor
+attachments/circletdecor/back
+attachments/circletdecor/front
+attachments/circletdecor/side
+textures

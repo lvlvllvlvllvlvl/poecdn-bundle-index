@@ -1,0 +1,15 @@
+fx
+fx/chilled
+fx/frozen
+fx/frozenspear_idlesecond
+fx/frozenspear_impact
+fx/pierce
+fx/surge
+graphs
+mat
+mat/chilled
+mat/frozen
+mat/pierce
+mat/projectile
+mat/projectile/frozenspear_impact
+mat/surge

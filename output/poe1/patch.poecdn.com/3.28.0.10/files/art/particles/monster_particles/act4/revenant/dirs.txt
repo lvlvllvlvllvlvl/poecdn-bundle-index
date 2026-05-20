@@ -1,0 +1,6 @@
+bolt
+chaos_projectiles_deathsplode
+projectile
+revive
+revive/explode
+revive/shadow

@@ -1,0 +1,6 @@
+gold_celestial
+gold_celestial/textures
+judicator
+judicator/textures
+stygian
+stygian/textures

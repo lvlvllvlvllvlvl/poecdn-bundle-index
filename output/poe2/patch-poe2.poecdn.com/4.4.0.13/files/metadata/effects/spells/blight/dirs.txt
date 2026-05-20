@@ -1,0 +1,5 @@
+caster_hand
+channelling
+cone
+debuff
+horrify

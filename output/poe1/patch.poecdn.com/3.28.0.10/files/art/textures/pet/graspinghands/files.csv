@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+1b66e4ff1a648b33,slavearmcns.mat,Tiny_8,43293414,1982
+84c3bf89a1808c26,slavearm_colour.dds,Art/Textures/Pet/GraspingHands,175112,43852
+12b193979b928070,slavearm_colour.dds.header,Tiny_8,43291894,1520
+7568c986e51e3976,slavearmns.dds,Art/Textures/Pet/GraspingHands,218964,87556
+028aad702e03a959,slavearmns.dds.header,Tiny_8,43295396,1520
+4cb6a6b2efb209d2,bloodcns.mat,Tiny_8,43288312,2062
+908b8ceab8eecf78,blood_colour.dds,Art/Textures/Pet/GraspingHands,0,87556
+a29acb866e35d296,blood_colour.dds.header,Tiny_8,43286792,1520
+040b5b1acefd7a10,bloodns.dds,Art/Textures/Pet/GraspingHands,87556,87556
+cf112a668b4030e3,bloodns.dds.header,Tiny_8,43290374,1520

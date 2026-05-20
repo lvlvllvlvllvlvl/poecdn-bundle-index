@@ -1,0 +1,8 @@
+attachments
+attachments/epk
+attachments/fx
+attachments/lamp_fx
+attachments/mat
+attachments/mat/r_gauntlet
+fx
+fx_demonic

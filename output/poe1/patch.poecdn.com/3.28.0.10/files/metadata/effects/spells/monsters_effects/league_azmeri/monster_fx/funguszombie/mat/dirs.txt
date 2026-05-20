@@ -1,0 +1,5 @@
+attack_01_02
+death_explosion_01
+death_explosion_01/explosion
+death_explosion_01/fadein
+death_explosion_01/loop

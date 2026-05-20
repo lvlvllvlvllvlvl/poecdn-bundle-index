@@ -1,0 +1,16 @@
+fx
+fx/cyclone_01
+fx/double_strike_01
+fx/holy_cannon_marker
+fx/idle_bodyfx
+fx/on_act
+fx/on_act/attack_01
+fx/on_act/attack_04
+fx/on_act/dash_01
+fx/on_act/death_01
+fx/on_act/dualstrike_01
+fx/on_act/walk_emerge_01
+fx/on_hit
+fx/reaper_wall_laser
+fx/reaper_wall_laser/barrier_beam_01
+fx/reaper_wall_laser/barrier_beam_telegraph_01

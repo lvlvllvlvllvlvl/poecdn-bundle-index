@@ -1,0 +1,12 @@
+celestial
+celestial/models
+celestial/textures
+crimson
+crimson/models
+crimson/textures
+sulphite
+sulphite/models
+sulphite/models/arc_beam
+sulphite/models/arc_impact
+sulphite/textures
+sulphite/textures/impact

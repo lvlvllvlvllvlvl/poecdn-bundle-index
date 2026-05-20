@@ -1,0 +1,6 @@
+perennialkingbodybasetendrils
+perennialkingcorpse
+perennialkingcorpsetendrils
+perennialkingcorpsetendrils/corpsetentaclelong
+perennialkingcorpsetendrils/corpsetentacleshort
+perennialkingtendrils

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+2321044b0a70947a,sparks.mat,Tiny_6,33382111,1608
+241c4bef34ba0747,sparks.dds,Tiny_6,33380075,516
+cf8bfdacd7160d86,sparks.dds.header,Tiny_6,33380591,1520
+e200767eb80dba74,smoke_black.mat,Tiny_6,33377347,2728
+69cb88ae8f28060a,smoke_black.dds,Art/particles/ground_effects_v2/fire_divine_1,743650,22020
+d3d92dd9badf5446,smoke_black.dds.header,Tiny_6,33375827,1520
+56ecb4e7ff236e39,light_gradient.mat,Tiny_6,33372971,2856
+ec23c6e309561f39,light_gradient.dds,Art/particles/ground_effects_v2/fire_harbinger,132176,5636
+07165b7debb444f9,light_gradient.dds.header,Tiny_6,33371451,1520
+87a41cff314498f2,fireball_flame3.mat,Tiny_6,33368929,2522
+ac27fd1fde5826ab,fireball_flame3.dds,Art/particles/ground_effects_v2/fire_harbinger,137812,5636
+69b1c9ef3f578793,fireball_flame3.dds.header,Tiny_6,33367409,1520

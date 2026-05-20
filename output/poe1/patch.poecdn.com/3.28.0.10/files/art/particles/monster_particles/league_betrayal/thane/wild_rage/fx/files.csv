@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+a41f7b7b63288276,thane_lookup.mat,Tiny_6,103579954,1160
+d39ff9ff71adb146,thane_lookup.dds,Tiny_7,29645529,2212
+a75c5c104f222c8f,thane_lookup.dds.header,Tiny_7,29647741,280
+2de43573993e67a1,streaks_trail_multi.mat,Tiny_6,103577122,2832
+0b00421201510fed,streaks_trail_multi.dds,Folders/art/particles/monster_particles/league_betrayal_42,0,349732
+a03cabf5143a3b70,streaks_trail_multi.dds.header,Tiny_6,103576618,504
+51de2176a0459e1a,streaks_trail.mat,Tiny_6,103572778,3840
+ae7d24a7b34d3bf7,streaks_trail.dds,Art/Microtransactions/weapon_effects/Crusader,22020,349732
+41a5a944369663ea,streaks_trail.dds.header,Tiny_7,40428386,504
+b3002f3f9483e25d,shockwave_fire.mat,Tiny_6,103571320,1458
+6169f0d2994e0a57,shockwave_fire.dds,Art/particles/monster_particles/AtlasofWorlds_31,0,87556
+a36a66e8adcb8030,shockwave_fire.dds.header,Tiny_7,8747226,1520
+5a266bd621fb65c9,barrier_impact.mat,Tiny_6,103568968,2352
+8cb5898654e18d76,barrier_impact.dds,Art/particles/storm_barrier_3,0,87556
+23b423e00ee61e64,barrier_impact.dds.header,Tiny_7,36937706,1520

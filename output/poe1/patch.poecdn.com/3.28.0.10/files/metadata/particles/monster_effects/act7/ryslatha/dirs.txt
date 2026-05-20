@@ -1,0 +1,5 @@
+burrowskill_groundfx
+caustic_ground
+parasite_spit
+poison_flamethrower
+poison_flamethrower/impact

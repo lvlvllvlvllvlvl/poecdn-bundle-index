@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+eb512853de4736e4,vine_trail.mat,Tiny_6,9379937,1572
+7a8e7429ca5051f2,vine_trail.dds,Folders/art/particles_1,500880,22052
+452b66a9e4529f6d,vine_trail.dds.header,Tiny_7,20399399,504
+9c53e45f76903576,poison_lookup.mat,Tiny_6,9378945,992
+5e0fab0b1669ef0b,poison_lookup.dds,Tiny_7,43500469,2212
+a3d158e60a2d5d29,poison_lookup.dds.header,Tiny_7,43502681,280
+e8d68499ba184849,poison_add.mat,Tiny_6,9374577,4368
+6595d591ccb3d78e,poison_add.dds,Art/particles/caustic_arrow/caustic_cloud_1,0,11084
+57de1db3af017dfe,poison_add.dds.header,Tiny_6,33063023,1520
+596de68adfc0d409,impact.mat,Tiny_6,9372337,2240
+e46ae97b7b5d1763,impact.dds,Art/particles/rain_of_spores/pod_aoe_1,0,22020
+2624f63a67b3e78f,impact.dds.header,Tiny_7,43238709,1520
+ab376ea720b72dfe,cloud_mask.mat,Tiny_6,9371363,974
+f6b60bc2057f089c,cloud_mask.dds,Folders/art/particles_1,478860,22020
+f5fa03df7fd307cd,cloud_mask.dds.header,Tiny_6,82656193,1520

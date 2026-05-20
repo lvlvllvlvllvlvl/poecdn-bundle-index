@@ -1,0 +1,9 @@
+epk
+fx
+mat
+mat/axe_trail
+mat/burning_grd
+mat/explode
+mat/line_slam_hits
+mat/line_slam_main
+mat/melee_trail

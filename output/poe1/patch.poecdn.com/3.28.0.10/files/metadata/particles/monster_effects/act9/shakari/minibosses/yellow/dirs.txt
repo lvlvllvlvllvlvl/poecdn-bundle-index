@@ -1,0 +1,3 @@
+tail_strike
+tail_strike/buildup
+tail_strike/sting

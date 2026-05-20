@@ -1,0 +1,11 @@
+epk
+fx
+mat
+mat/idle
+mat/limb_glow
+mat/onact
+mat/onact/attack
+mat/onact/charge
+mat/onact/jump
+mat/onact/stab
+mat/onact/web

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+57afcadcf2b1d6f6,beam_trail.mat,Tiny.V5,37272612,1608
+d0e88edb9f4d4ab9,beam_trail_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.3C7C6866F823AD84.loop_fwdline.pet,404872,5660
+87c8990485a5480d,beam_trail_dxt1.dds.header,Tiny.VC,37741933,344
+e73a02ab74feffc4,lightning_vert_2x2.mat,Tiny.V9,38178783,2352
+f8832ce281f536b1,lightning_vert_2x2_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.023CEECC4D7F1DFF.grdup_churn.pet,864524,699212
+db15ee0bac8db48f,lightning_vert_2x2_dxt1.dds.header,Tiny.V2,37612062,1520
+9ac02466db52a2cb,solidc.mat,Tiny.V7,37537926,2944
+164220716d0e8a9d,solid.dds.header,Tiny.V2,4019313,1520
+09854cebf6138bcd,grad_radial.mat,Tiny.V0,37787754,2050
+2a0f57f0e1e59692,grad_radial_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.023CEECC4D7F1DFF.grdup_churn.pet,853440,11084
+d93cc4532002ef00,grad_radial_dxt1.dds.header,Tiny.V4,37972094,1520
+4294a542fcf7c388,grad_linearc.mat,Tiny.V6,37536796,2518
+82fe1579b2346876,grad_linear.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8F69DF47C9C3B045.27AE42C1BDFC61D8.quakespike_02.ao,374684,11084
+b23f5a340e1f3226,grad_linear.dds.header,Tiny.VF,4444538,1520

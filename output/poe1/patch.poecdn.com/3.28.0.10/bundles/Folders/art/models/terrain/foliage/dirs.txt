@@ -1,0 +1,7 @@
+cradle
+general
+islands
+jungle
+nightmare
+oriath
+woods

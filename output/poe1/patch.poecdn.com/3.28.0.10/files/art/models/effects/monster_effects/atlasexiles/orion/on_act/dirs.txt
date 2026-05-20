@@ -1,0 +1,6 @@
+beam_03
+energy
+on_act_death_attach
+on_death
+throne_activate
+throne_deactivate

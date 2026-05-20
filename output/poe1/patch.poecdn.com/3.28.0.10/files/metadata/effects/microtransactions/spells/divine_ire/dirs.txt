@@ -1,0 +1,3 @@
+automaton
+automaton/graphs
+automaton/pet

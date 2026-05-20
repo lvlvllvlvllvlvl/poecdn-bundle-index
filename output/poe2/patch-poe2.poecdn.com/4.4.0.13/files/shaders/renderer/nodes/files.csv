@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+b267da2a263ac8e5,effects.ffx,Shared,31346435,378860
+da77d5d64f539bba,legacy.ffx,Shared,32546501,69314
+775996c64c85fa7c,utilitynodes.ffx,Shared,32615815,757576
+b40061043c18701b,volumetricfx.ffx,Shared,33373391,61684
+7cff4fd9cebf6111,windeffects.ffx,Shared,33435075,61654
+5541ab5c7bfb3d7d,inputoutput.ffx,Shared,32281559,87492
+8363a9e35cc560f4,internalonly.ffx,Shared,32369051,177450
+394f08ced6d40bbc,gpuparticles.ffx,Shared,31725295,447536
+7fcced78c1ac1456,gputrails.ffx,Shared,32172831,108728
+4e00f639b4fee23f,debug.ffx,Shared,31312015,18614
+65b571c2e827c94c,dynamicnodes.ffx,Shared,31330629,15806

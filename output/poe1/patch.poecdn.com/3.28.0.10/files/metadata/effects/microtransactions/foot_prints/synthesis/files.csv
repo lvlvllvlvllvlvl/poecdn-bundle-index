@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+799de243a75b1fcc,footprints_synthesis.ot,Tiny_8,223849719,828
+d307ca2a4409401f,synthesis_fp.ao,Tiny_8,224075409,4406
+7cd98f8407518125,synthesis_fp_idle.ao,Tiny_8,224079815,4936
+5f857b53a7d1fe64,synthesis_fp_sml.ao,Tiny_8,224084751,1830

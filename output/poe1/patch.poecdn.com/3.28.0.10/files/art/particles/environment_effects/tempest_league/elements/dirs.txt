@@ -1,0 +1,15 @@
+fire
+fire/buff
+fire/buff/epk
+fire/explode
+fire/rune
+ice
+ice/buff
+ice/buff/epk
+ice/explode
+ice/rune
+light
+light/buff
+light/buff/epk
+light/explode
+light/rune

@@ -1,0 +1,8 @@
+bow
+caster
+general
+halberd
+melee
+melee_elite
+melee_trails
+miniboss

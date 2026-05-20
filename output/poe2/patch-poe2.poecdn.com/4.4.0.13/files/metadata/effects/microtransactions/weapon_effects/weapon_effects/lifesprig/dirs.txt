@@ -1,0 +1,4 @@
+ao
+pet
+pet/grounddust
+pet/idle

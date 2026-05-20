@@ -1,0 +1,3 @@
+detonate
+detonate_dead_spellcast_01
+revive_aoe

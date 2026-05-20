@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+2f446c20be15f585,grad_line.mat,Tiny.V3,31578486,1828
+3af07e442c5ea1db,grad_line_dxt1.dds,Tiny.V7,31787648,2892
+887d69febf00cec5,grad_line_dxt1.dds.header,Tiny.VB,32172786,1520
+31db18ac34aa8a48,emblem_ring.mat,Tiny.V2,31890241,1864
+d7527cc44ff0313e,emblem_ring_dxt5.dds,Streaming/Content/metadata/particles/contagion/mid_area.pet,349700,349700
+b78c2ef79eda0ee4,emblem_ring_dxt5.dds.header,Tiny.V8,31779458,1520
+0ad3475e14f5b4ae,light_middle_upc.mat,Tiny.V8,31780978,2466
+37ad4716c2573d75,light_middle_up.dds,Streaming/Content/metadata/effects/spells/monsters_effects/656B6D809A8C5460.F60C5ADB1056E62B.mortarspin_beam.ao,624552,87556
+97d7b4ad77cf74d7,light_middle_up.dds.header,Tiny.V6,31827647,1520
+a92a5d9b27335b30,rune.mat,Tiny.V9,32378018,1760
+d2d8cbad1cfaf314,rune_dxt5.dds,Streaming/Content/metadata/particles/contagion/mid_area.pet,0,349700
+f2ea42f78d50995a,rune_dxt5.dds.header,Tiny.V8,31783444,1520

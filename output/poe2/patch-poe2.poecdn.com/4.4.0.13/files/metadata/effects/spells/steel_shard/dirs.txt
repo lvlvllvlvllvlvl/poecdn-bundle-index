@@ -1,0 +1,3 @@
+fxgraphs
+shattered_weapons
+shattered_weapons/shards_nophys

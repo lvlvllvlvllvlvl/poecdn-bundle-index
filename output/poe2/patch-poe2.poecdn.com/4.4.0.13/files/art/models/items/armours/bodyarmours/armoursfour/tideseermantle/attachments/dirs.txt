@@ -1,0 +1,12 @@
+female
+female/backpiece
+female/belt
+female/shoulderfeathers
+female/shoulderpad
+female/skirt
+male
+male/backpiece
+male/belt
+male/shoulderfeathers
+male/shoulderpad
+male/skirt

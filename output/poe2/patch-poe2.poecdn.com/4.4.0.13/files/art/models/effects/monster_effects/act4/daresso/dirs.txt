@@ -1,0 +1,9 @@
+clone
+clone/charge
+combo_ice
+images
+images/daresso_cyclone
+images/daresso_strafe
+kneel_sheild_buff
+reave
+sword_tornado_2

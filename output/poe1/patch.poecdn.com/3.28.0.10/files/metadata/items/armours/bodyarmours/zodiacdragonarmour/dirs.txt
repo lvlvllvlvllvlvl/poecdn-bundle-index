@@ -1,0 +1,8 @@
+attachments
+attachments/dex
+attachments/dexint
+attachments/int
+attachments/str
+attachments/strdex
+attachments/strdexint
+attachments/strint

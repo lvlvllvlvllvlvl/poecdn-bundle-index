@@ -1,0 +1,6 @@
+resist_debuff_aura
+resist_debuff_aura/affected
+resist_debuff_aura/player
+resist_debuff_aura_azurite
+resist_debuff_aura_azurite/affected
+resist_debuff_aura_azurite/player

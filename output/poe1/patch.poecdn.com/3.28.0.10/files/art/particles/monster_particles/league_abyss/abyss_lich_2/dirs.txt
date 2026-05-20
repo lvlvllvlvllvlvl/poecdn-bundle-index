@@ -1,0 +1,2 @@
+shard_weapon
+shard_weapon/wepfx

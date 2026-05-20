@@ -1,0 +1,8 @@
+f
+f/bag
+f/skirt
+f/sleeves
+m
+m/bag
+m/skirt
+m/sleeves

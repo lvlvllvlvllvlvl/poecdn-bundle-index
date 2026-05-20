@@ -1,0 +1,7 @@
+bash
+on_act
+on_act/titucius_double_attack
+shield_charge
+shield_charge/aoe
+shield_charge/impact
+slam

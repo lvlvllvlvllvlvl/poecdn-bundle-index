@@ -1,0 +1,11 @@
+alttiles
+alttiles/foundry
+miningshaftcrane
+miningshaftfloor
+textures
+textures/cliffs
+textures/copper
+textures/ground
+tgms
+towntiles
+towntiles/tgms

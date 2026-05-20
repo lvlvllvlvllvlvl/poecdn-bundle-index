@@ -1,0 +1,6 @@
+attachments
+attachments/altrobe
+attachments/caplet
+attachments/helmetfur
+attachments/robe
+textures

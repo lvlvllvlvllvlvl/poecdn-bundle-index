@@ -1,0 +1,10 @@
+riptide
+riptide/attachments
+riptide/attachments/tasaliokaruiwhipmace
+riptide/wave
+spearfisher
+spearfisher/attachments
+spearfisher/attachments/tasaliokaruispearthrower
+trawler
+trawler/attachments
+trawler/attachments/tasaliokaruifishingtaiha

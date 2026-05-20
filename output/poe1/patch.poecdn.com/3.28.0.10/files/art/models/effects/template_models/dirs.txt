@@ -1,0 +1,5 @@
+decals
+for_prtcls
+grid_wave_rig
+normalized_prtcls
+normalized_prtcls/fx_meshes_dontoffsetuvs

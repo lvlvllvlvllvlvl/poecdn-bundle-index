@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+74ec33b4bb0a1bce,broadleafdc.mat,Tiny_7,75264446,2098
+45290e39e2973cec,broadleafd_mcfc.mat,Tiny_7,75259840,3086
+d2e0d5fe66775984,broadleafd_stump_normal_dxt5.dds,Art/Textures/Environment/Woods/Broadleaf_1,0,349700
+cc317c85c015c07c,broadleafd_stump_normal_dxt5.dds.header,Tiny_7,75245310,1520
+0bc72eeab7f063b6,broadleafd_normal_dxt5.dds,Art/Textures/Environment/Woods/Broadleaf/BroadleafD_Textures,699400,349700
+7f3aebde970b29a5,broadleafd_normal_dxt5.dds.header,Tiny_7,75262926,1520
+0e4d671c3e7314e6,broadleafd_height_dxt5.dds,Art/Textures/Environment/Woods/Broadleaf/BroadleafD_Textures,349700,349700
+1bd5b145ffc8f5f2,broadleafd_height_dxt5.dds.header,Tiny_7,75258320,1520
+26c085fc2853b931,broadleafd_colour_dxt5.dds,Art/Textures/Environment/Woods/Broadleaf/BroadleafD_Textures,0,349700
+52cd55ab223b2c42,broadleafd_colour_dxt5.dds.header,Tiny_7,75256800,1520

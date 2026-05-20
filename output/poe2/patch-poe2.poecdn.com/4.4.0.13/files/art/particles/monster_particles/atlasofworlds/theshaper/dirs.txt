@@ -1,0 +1,16 @@
+anomaly
+anomaly_uniquering
+beam
+beam/orb
+bullet_hell
+bullet_hell/projectile
+bullet_hell/release_projectile
+death
+elderglyph_beam_channel
+immune_buff
+instant_teleport
+portal_explode
+shaper_portal
+teleport_slam
+teleport_slam/slam
+zoneportal

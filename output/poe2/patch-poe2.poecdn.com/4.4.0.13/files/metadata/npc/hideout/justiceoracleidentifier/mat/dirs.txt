@@ -1,0 +1,4 @@
+abyss_effects
+magic_identify
+rare_identify
+unique_identify

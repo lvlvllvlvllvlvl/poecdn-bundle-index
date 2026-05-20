@@ -1,0 +1,5 @@
+detonate
+detonate_cone
+detonate_lightning
+emerge
+emerge_idle

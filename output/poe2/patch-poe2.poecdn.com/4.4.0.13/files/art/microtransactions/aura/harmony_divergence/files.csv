@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+a75552974662b994,aoe_aura.mat,Tiny.VD,3334067,5792
+f33c79b7dd3f9f2b,ink_floor_aura.mat,Tiny.V2,3487522,3214
+6ec7d13fbbc59147,ink_floor_world_aura.mat,Tiny.V1,3372800,4080
+237cc396ed242568,trail_edge_mask_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/C3B4665162F18349.moltenbloodimpact_chunks.ao,425107,22020
+a12876e5281b8bd2,trail_edge_mask_dxt5.dds.header,Tiny.V7,3349195,1520
+77170cf033395086,trails_aura.mat,Tiny.V4,3523023,6116
+559a1ba384fa825e,trails_main_aura.mat,Tiny.V8,3322001,8614
+ff3972dcc59a9463,trails_main2_aura.mat,Tiny.VC,3281353,3800
+975d36bfa938db0b,smoke_path_aura.mat,Tiny.V2,3490736,7460
+4b7fce16b8350e94,space_floor_aura.mat,Tiny.V4,3520209,2814
+9fc5bf42c8b06048,sparks_aura.mat,Tiny.VA,3696085,1798
+2811353c749a54a5,sparks_big_aura.mat,Tiny.VD,3339859,2096

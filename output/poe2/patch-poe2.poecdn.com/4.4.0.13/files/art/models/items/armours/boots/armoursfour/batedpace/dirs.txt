@@ -1,0 +1,5 @@
+attachments
+attachments/frontskirt
+attachments/legstrip
+attachments/skirt
+textures

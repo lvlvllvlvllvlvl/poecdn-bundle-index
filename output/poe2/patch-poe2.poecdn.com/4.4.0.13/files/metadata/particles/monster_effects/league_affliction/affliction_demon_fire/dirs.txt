@@ -1,0 +1,4 @@
+fire
+fire/flameblast
+fire/flameblast_explode
+fire/tornado

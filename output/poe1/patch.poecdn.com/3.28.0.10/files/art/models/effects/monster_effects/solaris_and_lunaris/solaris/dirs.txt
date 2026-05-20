@@ -1,0 +1,12 @@
+light_spear
+no_offset
+shield_beam
+shield_beam_buildup
+solar_flare
+solaris_emerge
+spear_stab
+spear_throw
+statuetocelestial
+sun_beam
+sun_beam/impact
+sun_beam_ground

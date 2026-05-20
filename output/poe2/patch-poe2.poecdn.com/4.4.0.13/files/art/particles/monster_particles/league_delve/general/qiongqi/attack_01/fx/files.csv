@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+1de2b183901c9f86,azurite_slash.mat,Tiny.VD,37138967,1640
+f262737665ca8e7f,azurite_slash.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/C98BF5A65AE74887.tinyspawn.trl,497021,43852
+9ccab379ae1d1fec,azurite_slash.dds.header,Tiny.V1,36782467,1520
+2d92b7f4f4928712,impact.mat,Tiny.VF,36991777,2384
+bede1840394d3d50,impact.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/E46749CC2AF6D08B.78CD86EC8B154B13.spark.trl,542268,22020
+3cae8f094f366de3,impact.dds.header,Tiny.V7,36820028,1520
+ea42e8978a296845,fire_lookup.dds,Tiny.VA,37249342,2212
+3c6057bd5fb8175d,fire_lookup.dds.header,Tiny.VD,37183041,280
+6458445738c93be9,shockwave.mat,Tiny.VC,37006492,1616
+5a0049fb9316b5f0,shockwave.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/E46749CC2AF6D08B.78CD86EC8B154B13.spark.trl,87588,43852
+542e92b201c8064b,shockwave.dds.header,Tiny.VB,37341335,1520
+bae90f2bf2690b90,shockwave_at.mat,Tiny.V0,37181910,2884
+9dd2483fe785bfd7,shockwave_at.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/E46749CC2AF6D08B.78CD86EC8B154B13.spark.trl,131440,349700
+33dff2f4c3278245,shockwave_at.dds.header,Tiny.V4,37343200,1520

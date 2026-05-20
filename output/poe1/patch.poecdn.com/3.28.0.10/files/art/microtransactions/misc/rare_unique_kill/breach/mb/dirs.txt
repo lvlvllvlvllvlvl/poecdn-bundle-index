@@ -1,0 +1,5 @@
+hand
+hand/animations
+hand_plight
+tombstone
+tombstone/grd_dirt

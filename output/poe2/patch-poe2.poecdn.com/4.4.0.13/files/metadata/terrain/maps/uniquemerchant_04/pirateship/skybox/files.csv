@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+05474c936ae8262e,skybox_doodads.ddt,Tiny.V6.1,152489080,54
+2bc5f809a6023905,skybox_generate.rs,Tiny.VF.1,154951705,668
+316d45da66337221,skybox_random_fill_tiles.gft,Tiny.V9.1,149997637,1042
+df53c0ac27a91a6e,skybox_tiles.tst,Tiny.VB.1,152712491,792
+b783a70b5da452cd,skybox_master.tsi,Tiny.V1.1,153575339,602
+638b5df7c83a64ca,skybox_materials.mtd,Tiny.V8.1,145002208,600
+8660b8107d12c3e4,skybox_material_overrides.tmo,Tiny.V6.1,152489134,244
+019ffa5af114a5d0,sea_floor_fill.arm,Tiny.V4.1,155227918,602
+df09df5baf809e87,sea_floor_st_01.arm,Tiny.V2.1,155180206,894
+8216cb98ff5c41c4,sea_floor_cc_01.arm,Tiny.VF.1,154950811,894
+a82e460cfbac8a64,sea_floor_centre.arm,Tiny.V2.1,155179254,952
+138caaab0edc6ccf,boatnaut_skybox_fill_cc_01.tdt,Tiny.V1.1,153569680,5659
+b7c2460287e17873,boatnaut_skybox_fill_st_01.tdt,Tiny.V9.1,149991978,5659

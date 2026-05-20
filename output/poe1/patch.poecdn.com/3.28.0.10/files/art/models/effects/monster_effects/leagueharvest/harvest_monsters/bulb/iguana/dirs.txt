@@ -1,0 +1,5 @@
+ice_flamethrower
+ice_flamethrower_new
+on_act_flamethrower_left
+proj
+stonegaze_icestorm

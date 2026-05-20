@@ -1,0 +1,5 @@
+alttiles
+alttiles/dry
+alttiles/noroof
+door
+tgms

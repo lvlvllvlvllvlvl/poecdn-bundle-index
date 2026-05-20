@@ -1,0 +1,8 @@
+idle
+limb_glow
+onact
+onact/attack
+onact/charge
+onact/jump
+onact/stab
+onact/web

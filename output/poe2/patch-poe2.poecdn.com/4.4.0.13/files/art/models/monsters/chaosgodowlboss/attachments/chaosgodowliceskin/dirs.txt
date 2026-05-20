@@ -1,0 +1,6 @@
+eyebrows
+feathers
+feathers/chest
+feathers/l_arm
+feathers/legs
+feathers/r_arm

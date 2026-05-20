@@ -1,0 +1,9 @@
+fx
+fx/attack_01
+fx/footsteps
+fx/tentacle_vomit_01
+graph
+mat
+mat/attack_01
+mat/footsteps
+mat/tentacle_vomit_01

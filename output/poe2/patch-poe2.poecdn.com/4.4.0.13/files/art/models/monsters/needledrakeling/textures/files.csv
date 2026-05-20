@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+4b54810ca9259c4b,needledrakelingc.mat,Tiny.V5,11925339,3030
+c0bb8b50d3c2a2ca,needledrakeling_normal_dxt5.dds,Streaming/Content/metadata/pet/paragonpet/paragonpet.act.1,699212,1398276
+853a4768584283ca,needledrakeling_normal_dxt5.dds.header,Tiny.VF,12153153,1520
+489886ca66e4795b,needledrakeling_metal_dxt1.dds,Streaming/Content/metadata/pet/paragonpet/paragonpet.act.1,0,699212
+3b92ad22b3a89f82,needledrakeling_metal_dxt1.dds.header,Tiny.V2,12246582,1520
+012780df51159bd8,needledrakeling_colour_dxt5.dds,Streaming/Content/metadata/pet/paragonpet/paragonpet.act,821900,1398276
+1c7a5c3343b20be3,needledrakeling_colour_dxt5.dds.header,Tiny.V1,11990141,1520
+73fc8eb5249a4e49,needledrakeling_colour_bc1.dds,Streaming/Content/metadata/pet/paragonpet/paragonpet.act,122688,699212
+b768b6d1b5dd1678,needledrakeling_colour_bc1.dds.header,Tiny.V5,11923819,1520

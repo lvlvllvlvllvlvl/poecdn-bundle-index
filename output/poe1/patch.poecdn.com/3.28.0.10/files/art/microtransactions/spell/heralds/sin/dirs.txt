@@ -1,0 +1,13 @@
+models
+models/fire
+models/ice
+models/lightning
+models/lightning/lightning_strike
+textures
+textures/fire
+textures/fire/explode
+textures/ice
+textures/ice/explode
+textures/lightning
+textures/lightning/lightning_strike
+textures/lightning/player_idle

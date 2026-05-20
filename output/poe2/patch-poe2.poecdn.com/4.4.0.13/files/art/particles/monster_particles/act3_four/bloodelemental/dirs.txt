@@ -1,0 +1,8 @@
+mb
+mb/b_projectile
+mb/bodyfx
+mb/dash
+textures
+textures/b_projectile
+textures/bodyfx
+textures/dash

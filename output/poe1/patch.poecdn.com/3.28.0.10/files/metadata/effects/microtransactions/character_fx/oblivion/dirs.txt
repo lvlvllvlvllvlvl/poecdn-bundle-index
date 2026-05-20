@@ -1,0 +1,6 @@
+characterfx_armour_levle_01
+characterfx_armour_levle_01/pet
+characterfx_armour_levle_02
+characterfx_armour_levle_02/pet
+characterfxdefault
+pets

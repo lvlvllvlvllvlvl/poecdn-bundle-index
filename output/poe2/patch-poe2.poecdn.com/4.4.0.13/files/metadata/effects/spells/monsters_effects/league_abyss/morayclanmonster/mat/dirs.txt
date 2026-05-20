@@ -1,0 +1,5 @@
+explode_01
+fireball_impact
+flamethrower
+melee_swipe
+onact_spin_detonate

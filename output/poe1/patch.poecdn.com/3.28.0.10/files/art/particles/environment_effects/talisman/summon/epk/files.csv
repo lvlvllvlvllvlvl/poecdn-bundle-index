@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+a6889ef3a5b4ef3c,smoke.mat,Tiny_6,26275019,2404
+126986fca42e7745,smoke.dds,Art/particles/monster_particles/labyrinth_23,349700,349732
+e3b2ab0e5ef85ad4,smoke.dds.header,Tiny_6,87247211,504
+4e7c759cf4dd8c82,multi_overlay.mat,Tiny_6,26273931,1088
+ce53519e35751188,multi_overlay.dds,Tiny_6,26270871,1540
+a77d9f61a89d33e1,multi_overlay.dds.header,Tiny_6,26272411,1520
+a78b3c1e421456fa,base_edge.mat,Tiny_6,26269807,1064
+5283be08c0962300,base_edge.dds,Art/particles/environment_effects/talisman,0,87556
+86ba019651627257,base_edge.dds.header,Tiny_6,26268287,1520

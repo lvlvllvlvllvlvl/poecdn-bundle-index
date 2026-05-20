@@ -1,0 +1,5 @@
+attachments
+attachments/cleaningclothes
+attachments/cleaningclothes/textures
+attachments/skirt
+textures

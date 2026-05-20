@@ -1,0 +1,4 @@
+beam_fx
+beam_fx/aoe
+teleport
+teleport/arrive_explosion

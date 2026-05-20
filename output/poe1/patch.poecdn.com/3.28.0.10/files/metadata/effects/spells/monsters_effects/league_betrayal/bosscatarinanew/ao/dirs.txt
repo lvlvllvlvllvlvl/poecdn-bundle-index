@@ -1,0 +1,11 @@
+act_fx
+beams
+dead_pillar
+death_barrage
+death_claws
+ghastly_warp
+reapers_trap
+revival_wave
+scythe_cleave
+soul_mortar
+unstable_beam

@@ -1,0 +1,2 @@
+atlashideout
+atlashideout/textures

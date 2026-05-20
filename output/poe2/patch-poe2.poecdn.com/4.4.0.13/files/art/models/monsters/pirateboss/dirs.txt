@@ -1,0 +1,17 @@
+animations
+animations/snakepirateboss
+attachments
+attachments/anchor
+attachments/beard
+attachments/cannon
+attachments/helm
+attachments/seaweed
+attachments/snakepirateboss
+attachments/snakepirateboss/anchor
+attachments/snakepirateboss/basket
+attachments/snakepirateboss/cannon
+attachments/snakepirateboss/clothtop
+attachments/snakepirateboss/hair
+attachments/snakepirateboss/helm
+textures
+textures/snakepirateboss

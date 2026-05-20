@@ -1,0 +1,5 @@
+epk
+fx
+mat
+mat/bloodfever_grd
+mat/bloodfever_trail

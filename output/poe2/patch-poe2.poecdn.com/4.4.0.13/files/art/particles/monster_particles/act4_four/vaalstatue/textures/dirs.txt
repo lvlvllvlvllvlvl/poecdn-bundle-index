@@ -1,0 +1,11 @@
+ball_lightning
+charged_shock_nova
+combo_laser
+hand_slam
+laser_beam
+laser_impact
+onact
+snake_head_slam
+triangle_slam
+wall_emerge
+wall_laser

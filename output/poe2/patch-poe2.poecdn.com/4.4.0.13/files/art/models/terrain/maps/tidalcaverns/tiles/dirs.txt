@@ -1,0 +1,8 @@
+corridor
+corridor/tgms
+ledge
+ledge/tgms
+thickwall
+thickwall/tgms
+thinwall
+thinwall/tgms

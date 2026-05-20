@@ -1,0 +1,4 @@
+black
+explosion_end
+ghost
+mid

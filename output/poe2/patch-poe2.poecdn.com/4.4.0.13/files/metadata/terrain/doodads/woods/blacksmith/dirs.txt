@@ -1,0 +1,4 @@
+vfx
+vfx/blacksmith_fireplace_01
+vfx/blacksmith_fireplace_01/fx
+vfx/blacksmith_fireplace_01/mat

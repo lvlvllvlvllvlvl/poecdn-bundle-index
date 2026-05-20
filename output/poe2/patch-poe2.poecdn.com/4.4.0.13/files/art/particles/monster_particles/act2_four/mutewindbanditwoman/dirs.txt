@@ -1,0 +1,2 @@
+sword_sword_cut
+textures

@@ -1,0 +1,4 @@
+cant_die_shield
+rose_spec_throw
+scourge_thrust
+thorn_vines_grd

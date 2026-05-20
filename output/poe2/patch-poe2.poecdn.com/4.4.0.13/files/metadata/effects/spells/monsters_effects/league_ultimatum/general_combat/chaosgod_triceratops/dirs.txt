@@ -1,0 +1,15 @@
+epks
+fx
+fx/180_slam
+fx/basic_attack
+fx/lightning_beam
+fx/lightning_charge
+fx/tail_slam
+graphs
+mat
+mat/180_slam
+mat/180_slam_large
+mat/basic_attack
+mat/lightning_beam
+mat/lightning_charge
+mat/tail_slam

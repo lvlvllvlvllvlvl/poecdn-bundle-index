@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+2235fab0703eb993,fieldcracks.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,342048,165420
+1ee64f533e0e03af,fadein_mask.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,254302,87746
+9ba608226a7018d7,geometryanglemesh.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,507468,36288
+5459a0c2ac938f0e,groundtexture.fxgraph,Content/metadata/effects/spells/monsters_effects/act2_four/0D137DB09E72D874.spawn_totem.epk,831654,114402
+613a79b3e5684585,update_bonestakectrls.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,2626201,39694
+4e18e393f097bd0a,update_groundtexture.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,543756,8606
+ea0a3590a0752c48,custom_bonedirectionallineemitter.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,2326113,208060
+4f6511e58f737170,custom_spikeburst.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,2534173,92028
+2f6fd214abf387f4,custom_gameplayemitter.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,126288,106600
+25a1a2f5fe99c9c7,custom_revealparticlesonbiggerangle.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,232888,21414
+b81dbd6017718eb0,custom_orientassembled.fxgraph,Content/metadata/effects/spells/monsters_effects/9A41299407D0CC24.pyramid_totem.ao,3911081,57300
+12f2c28042d5e2c4,custom_condition_lifetime.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,21894,104394
+7c39d1b8196e8360,custom_fadeheight.fxgraph,Content/metadata/effects/spells/monsters_effects/9A41299407D0CC24.pyramid_totem.ao,2866044,68620
+e418cba63fc37413,custom_fadebytimelinefloat.fxgraph,Content/metadata/npc/four_act1/wifeloreapparition.ot,2065080,21646

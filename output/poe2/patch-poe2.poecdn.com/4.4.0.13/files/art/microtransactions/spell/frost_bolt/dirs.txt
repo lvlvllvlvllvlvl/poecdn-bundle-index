@@ -1,0 +1,7 @@
+explosion
+hit
+projectile
+textures
+textures/explosion
+textures/malestrom
+textures/projectile

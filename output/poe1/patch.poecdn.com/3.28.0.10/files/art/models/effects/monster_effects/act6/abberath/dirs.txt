@@ -1,0 +1,11 @@
+abberathelite_fireresist_aura
+callmeteor
+cliffbombs
+enrage
+enrage/left
+enrage/right
+enraged_hoovesimpact
+fireballcombo
+fireballcombo/big
+fireballcombo/small
+hidejump

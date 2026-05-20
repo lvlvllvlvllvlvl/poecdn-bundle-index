@@ -1,0 +1,4 @@
+cone_draw
+main_slash
+shadow_beam
+shadow_copy

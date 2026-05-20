@@ -1,0 +1,6 @@
+ball
+cycloning
+golem
+monkey
+pin
+sentinel

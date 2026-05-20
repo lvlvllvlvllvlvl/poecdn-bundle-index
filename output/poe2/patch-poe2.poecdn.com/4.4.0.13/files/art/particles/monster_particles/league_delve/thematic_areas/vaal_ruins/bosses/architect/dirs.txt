@@ -1,0 +1,7 @@
+blood_expanding_pulse
+blood_spirit_bomb
+delayed_blood_meteor
+delayed_blood_meteor/impact_aoe
+delayed_blood_meteor/projectile
+delayed_blood_meteor/surge_up
+vaal_corruption_beam

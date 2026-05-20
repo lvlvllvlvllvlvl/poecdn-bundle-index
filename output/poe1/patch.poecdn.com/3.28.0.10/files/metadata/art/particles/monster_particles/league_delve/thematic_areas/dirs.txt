@@ -1,0 +1,8 @@
+proto_city
+proto_city/entrance
+proto_city/entrance/fx
+proto_city/soldiers
+proto_city/soldiers/summon_mannequin
+vaal_ruins
+vaal_ruins/bloodstained_fossil
+vaal_ruins/bloodstained_fossil/bubble

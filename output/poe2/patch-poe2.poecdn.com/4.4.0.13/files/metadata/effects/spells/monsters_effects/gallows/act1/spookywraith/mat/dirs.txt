@@ -1,0 +1,14 @@
+cold
+cold/eyeglow
+cold/proj
+cold/proj_explode
+epk
+onact
+onact/create_orb_01
+onact/dash_01
+onact/lightning
+onact/lightning/spellcast_01
+onact/lightning/spellcast_01/impact
+onact/lightning/spellcast_01/projectile
+onact/lightning/spellcast_01/release
+spookydash

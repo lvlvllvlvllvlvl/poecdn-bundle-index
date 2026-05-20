@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+72fcd6ae136c0aa4,groundbreak_direction_mesh.fxgraph,Folders/metadata/effects_1,509280,246120
+63bb031bedd066c9,customwindvortex_omni.fxgraph,Folders/metadata/effects_A,10319368,179852
+a20c6e2650b0f7bb,custom_groundbreak_texturemask.fxgraph,Folders/metadata/effects_A,9931862,322260
+baec4d03eba77e32,custom_piemask.fxgraph,Folders/metadata/effects_A,10254122,29236
+e0fdf8dd076cf17c,custom_windvortex_onact.fxgraph,Folders/metadata/effects_7,14488594,54054
+dae2aa867195428d,custom_scalebydistancefromemitterrender.fxgraph,Folders/metadata/effects_A,10300510,18858
+e81ae08b92408204,custom_scale_bytimelinefloat.fxgraph,Folders/metadata/effects_A,10283358,17152

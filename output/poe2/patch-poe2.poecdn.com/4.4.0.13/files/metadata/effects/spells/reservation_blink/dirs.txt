@@ -1,0 +1,6 @@
+attachments
+audio
+epks
+fx
+graphs
+mats

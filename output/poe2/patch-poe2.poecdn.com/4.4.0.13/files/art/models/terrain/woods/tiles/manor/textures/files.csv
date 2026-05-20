@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+962b6ac9f4683a76,mnr_graves01c.mat,Tiny.V2,30508022,1866
+d9c46f673dfdc284,mnr_graves01_normal.dds,Streaming/Content/data/worldareas/93/c_g1_15.vworld,0,2796388
+b95e591d1a46024d,mnr_graves01_normal.dds.header,Tiny.VB,30761856,840
+7c11a68a17cb012a,mnr_graves01_colour.dds,Streaming/Content/data/worldareas/B6/mapuberboss_ironcitadel.vworld,596864,1398268
+f419956d7d9f4558,mnr_graves01_colour.dds.header,Tiny.V4,30897290,840
+04485d15680b6c1d,mnr_thinwalldoorac.mat,Tiny.V7,30410982,1050
+7183cc04f54218b2,mnr_thinwalldoora_normal.dds,Streaming/Content/data/worldareas/c_g1_15.vworld.3,699236,699236
+f2f653bb5ec19182,mnr_thinwalldoora_normal.dds.header,Tiny.V6,30385315,840
+b6511643b7d11f7b,mnr_thinwalldoora_colour.dds,Streaming/Content/data/worldareas/c_g1_15.vworld.3,0,699236
+7b240a4db4f8924a,mnr_thinwalldoora_colour.dds.header,Tiny.V4,30898130,840
+0fa36d8ff91a26d1,mnr_barsfencec.mat,Tiny.VF,30733353,926
+e6b5e59784e14277,mnr_barsfence_normal.dds,Streaming/Content/data/worldareas/g1_15.vworld.1,8389132,5592580
+167c2914f7ae0e9f,mnr_barsfence_normal.dds.header,Tiny.V6,30383795,1520
+4d871d2104ede995,mnr_barsfence_colour.dds,Streaming/Content/data/worldareas/g1_15.vworld.1,2796552,5592580
+ea9f36acd0bdbcdf,mnr_barsfence_colour.dds.header,Tiny.VF,30731833,1520

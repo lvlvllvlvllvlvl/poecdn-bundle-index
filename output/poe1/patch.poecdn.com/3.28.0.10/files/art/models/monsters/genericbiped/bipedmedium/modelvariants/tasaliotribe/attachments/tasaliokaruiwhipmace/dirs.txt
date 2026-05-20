@@ -1,0 +1,4 @@
+hair
+skirt
+top
+weapon

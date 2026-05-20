@@ -1,0 +1,6 @@
+burningcliff
+burningdeepriver
+burninglowriver
+burningroad
+burningwall
+burningwallimpassable

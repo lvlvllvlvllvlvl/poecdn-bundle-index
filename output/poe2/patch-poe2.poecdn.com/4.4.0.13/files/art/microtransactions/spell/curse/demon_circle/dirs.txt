@@ -1,0 +1,4 @@
+textures
+textures/izaro
+textures/orange
+textures/white

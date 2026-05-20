@@ -1,0 +1,5 @@
+attachments
+attachments/scarf
+attachments/sickle
+attachments/skirt
+attachments/skirt/m

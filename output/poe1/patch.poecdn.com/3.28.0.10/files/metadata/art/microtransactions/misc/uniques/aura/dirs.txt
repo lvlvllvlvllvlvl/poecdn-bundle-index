@@ -1,0 +1,3 @@
+demigods
+demigods/gold
+demigods/gold/textures

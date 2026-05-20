@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+27f80282801ddaac,ribbon_02_r.mat,Tiny_9,243637378,52672
+cde95a3f9596d804,ribbon_02_u.mat,Tiny_9,243690050,19074
+ab1465785509e916,ribbon_01_r.mat,Tiny_9,243584650,35868
+66abbaa3148cd2e2,ribbon_01_u.mat,Tiny_9,243620518,16860
+07544de1c3fed2e9,particles_r.mat,Tiny_9,243554646,30004
+8b7eb25bed893020,particles_u.mat,Tiny_D,419141816,1356
+d114f58d70377121,dust_circle_u.mat,Tiny_D,419073026,20394
+10ac4911141dd0c3,dust_r.mat,Tiny_9,243531496,23150
+b3421e7fa5521614,core_r.mat,Tiny_9,243477606,53890
+22848c47dce08cb0,core_u.mat,Tiny_D,419070866,2160
+68a8357175693175,blur_sphere_r.mat,Tiny_D,419007124,11010
+b4ef0772a509d485,blur_sphere_u.mat,Tiny_D,419018134,1142

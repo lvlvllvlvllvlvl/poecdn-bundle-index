@@ -1,0 +1,9 @@
+epk
+fx
+graph
+mat
+mat/hit_fire
+mat/hit_lightning
+mat/hit_phys
+mat/ignite
+mat/shock

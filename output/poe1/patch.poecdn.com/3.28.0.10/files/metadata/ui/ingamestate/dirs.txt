@@ -1,0 +1,10 @@
+characterpanel
+hud
+tutorialpanel
+tutorialpanel/french
+tutorialpanel/german
+tutorialpanel/portuguese
+tutorialpanel/russian
+tutorialpanel/spanish
+tutorialpanel/thai
+tutorials

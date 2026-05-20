@@ -1,0 +1,13 @@
+microtransactions
+microtransactions/harlequinclub
+microtransactions/illusionistmace
+microtransactions/valkyriehammer
+microtransactions/wanderermace
+microtransactions/zodiacdragonmace
+monsters
+monsters/textures
+uniques
+uniques/kalgforgeguardmace
+uniques/kalgforgeguardmace/textures
+uniques/thebellringer
+uniques/thebellringer/textures

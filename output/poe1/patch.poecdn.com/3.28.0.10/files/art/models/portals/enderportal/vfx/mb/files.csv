@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+233f84581f28e557,tubemesh1.fmt,Art/Models/Portals/EnderPortal/vfx/mb,278990,68440
+8e7288f054e07506,tubemesh1.fmt.header,Tiny_3,19752712,171
+3170d4970e0db9bd,grd_plane.fmt,Art/Models/Portals/EnderPortal/vfx/mb,274038,4952
+7f1949bb91ff14e7,grd_plane.fmt.header,Tiny_3,23600246,167
+6f2a5c70e0fd7dcc,fx_thickwave01.fmt,Art/Models/Portals/EnderPortal/vfx/mb,258798,15240
+7b5bae8c82b04f61,fx_thickwave01.fmt.header,Tiny_3,23597291,175
+1b63affbb1a7dfcf,enderportalliquid03.fmt,Art/Models/Portals/EnderPortal/vfx/mb,239214,19584
+c6aceb11ab31393d,enderportalliquid03.fmt.header,Tiny_3,19751512,181
+e2d6c1a21471a9e9,enderportalliquid02.fmt,Art/Models/Portals/EnderPortal/vfx/mb,182628,56586
+96df6c9a522fafb8,enderportalliquid02.fmt.header,Tiny_3,19751331,181
+0f57491caef66e7b,enderportalliquid01.fmt,Art/Models/Portals/EnderPortal/vfx/mb,0,182628
+b4c3bf18bb7e5231,enderportalliquid01.fmt.header,Tiny_3,19751150,181

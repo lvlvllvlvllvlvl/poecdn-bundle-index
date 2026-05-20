@@ -1,0 +1,9 @@
+boss_shield
+boss_shield/fx
+charging_clone
+charging_clone/crystal_stomp
+charging_clone/crystal_stomp/fx
+charging_clone/crystal_wall
+charging_clone/crystal_wall/fx
+tower
+tower/fx

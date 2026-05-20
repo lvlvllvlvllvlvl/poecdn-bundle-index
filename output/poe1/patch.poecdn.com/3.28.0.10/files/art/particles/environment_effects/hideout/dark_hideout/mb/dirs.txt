@@ -1,0 +1,8 @@
+demonic_brazier
+demonic_torch
+fire_brazier
+fire_torch
+ghostflame_brazier
+ghostflame_torch
+olivion_brazier
+olivion_torch

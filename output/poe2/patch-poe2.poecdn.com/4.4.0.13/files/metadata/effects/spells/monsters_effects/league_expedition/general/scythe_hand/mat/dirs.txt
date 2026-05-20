@@ -1,0 +1,3 @@
+attack_01
+dash
+double_strike_01

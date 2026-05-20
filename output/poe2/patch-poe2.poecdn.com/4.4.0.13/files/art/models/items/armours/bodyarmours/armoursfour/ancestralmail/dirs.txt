@@ -1,0 +1,6 @@
+attachments
+attachments/backdanglers
+attachments/backdanglersint
+attachments/skirt
+attachments/skirtstr
+textures

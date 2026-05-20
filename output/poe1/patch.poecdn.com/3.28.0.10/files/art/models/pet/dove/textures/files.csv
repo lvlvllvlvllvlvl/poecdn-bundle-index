@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+6fa4e44609c8cd16,dovec.mat,Tiny_3,13623254,2834
+b4211c718162fb56,dove_normal_dxt5.dds,Art/Models/Pet/Dove/Textures,174924,349700
+6218fe5a477bc333,dove_normal_dxt5.dds.header,Tiny_3,13621734,1520
+b2e93803f9134110,dove_colour_dxt1.dds,Art/Models/Pet/Dove/Textures,0,174924
+f1dda3cd9c0f17d1,dove_colour_dxt1.dds.header,Tiny_3,13620214,1520
+468a9935e74d9dba,curlcrestedaracaric.mat,Tiny_3,13617156,3058
+2528a7210a6b238f,curlcrestedaracari_normal_dxt5.dds,Folders/art/models/pet/dove/textures,349848,349700
+5cd35ae05561d80a,curlcrestedaracari_normal_dxt5.dds.header,Tiny_3,13615636,1520
+047f3d382591a56c,curlcrestedaracari_metal_dxt1.dds,Folders/art/models/pet/dove/textures,174924,174924
+1720d1504337464d,curlcrestedaracari_metal_dxt1.dds.header,Tiny_3,13614116,1520
+a500d5b9a4dbee63,curlcrestedaracari_colour_dxt1.dds,Folders/art/models/pet/dove/textures,0,174924
+d7d374c2dbdec54d,curlcrestedaracari_colour_dxt1.dds.header,Tiny_3,13612596,1520

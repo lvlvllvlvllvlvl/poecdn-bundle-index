@@ -1,0 +1,12 @@
+fish
+fish/floppyfish
+portals
+portals/chiyouportal
+portals/dragonportal
+portals/stygianportal_demonic
+portals/stygianportal_divine
+portals/stygianportal_fiery
+portals/stygianportal_ghostflame
+portals/stygianportal_lightning
+portals/wranglerportal
+skull

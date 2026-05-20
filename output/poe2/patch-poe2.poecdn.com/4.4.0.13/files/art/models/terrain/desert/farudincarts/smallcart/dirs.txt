@@ -1,0 +1,3 @@
+smallcartkit_attachments
+smallcartkit_attachments/chain01
+tgms

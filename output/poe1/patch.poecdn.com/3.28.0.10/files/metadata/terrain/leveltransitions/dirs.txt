@@ -1,0 +1,8 @@
+coast
+mudflats
+prisonersgate
+ridge
+shipgraveyard
+submergedpassage
+thecrossroads
+theoldfields

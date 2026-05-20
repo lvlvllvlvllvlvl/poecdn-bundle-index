@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+6979429a055fcd11,dust_poof.mat,Tiny_6,114686097,4414
+9914bb7c35363d1a,light_rays.mat,Tiny_6,114695941,5398
+e948c2751a4549d8,oomph.mat,Tiny_6,114701339,4364
+abadef5240304d62,paper.mat,Tiny_6,114705703,1828
+d2180fc6d1afa0d7,spark.mat,Tiny_6,114707531,3302
+b95f66f91d681a21,spherical_spike.mat,Tiny_6,114710833,7824
+f0bf8f4bbad502f1,explode.mat,Tiny_6,114690511,3910
+f1725203bfafaf2d,explode_scatter_dxt1.dds,Folders/art/particles/monster_particles/league_expedition_01,0,2796364
+8f195f6e3db871b4,explode_scatter_dxt1.dds.header,Tiny_6,114694421,1520
+63f76c658a36f215,charge_explode_02_dxt5.dds,Art/particles/monster_particles/League_Expedition_56,0,5592580
+a7a2402cf50b0800,charge_explode_02_dxt5.dds.header,Tiny_6,114684577,1520
+089a13873e15a18b,charge_explode_02_dxt1.dds,Art/particles/monster_particles/League_Expedition_55,0,2796364
+e36b0f3bd9b88b2c,charge_explode_02_dxt1.dds.header,Tiny_6,114683057,1520
+d2f0850838f0ffcb,charge_explode_02_bc1.dds,Art/particles/monster_particles/League_Expedition_55,0,2796364
+b2189e4e714c5e61,charge_explode_02_bc1.dds.header,Tiny_6,114683057,1520

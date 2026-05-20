@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+1c958add66f8cd64,sciencemapdevice_orrery.fmt,Tiny_6,3485064,43
+7eae2f3d25e2dd6e,sciencemapdevice_orrery.fmt.header,Tiny_7,42091864,128
+fdc203d86b44a937,sciencemapdevice.tgt,Tiny_4,38990004,2020
+8c627b76c660523f,sciencemapdevice.tmd,Tiny_4,38992024,457
+9ed4a257db94a8af,rig_ad41d93c.smd,Art/Models/Terrain/Doodads/TempleDungeon/MapOrreryDestruction_1,698850,698966
+c20e99d6a81f8ef1,rig_ad41d93c.smd.header,Tiny_4,38989036,968
+1531f8b253ff66f5,rig_49d410a0.smd,Art/Models/Terrain/Doodads/TempleDungeon/MapOrreryDestruction_1,0,698850
+42b8e1e7fee549de,rig_49d410a0.smd.header,Tiny_4,38988068,968
+6b09b5c19e2922ed,rig.amd,Tiny_4,38987792,276
+c172a4d342b1d2b2,rig.ast,Art/Models/Terrain/Doodads/TempleDungeon/MapOrreryDestruction,0,208965
+c4a1fa86bc499bac,maporrery.sm,Tiny_4,38985157,644
+52fd4dd4cf34b8f2,maporrery_destroyed.sm,Tiny_4,38985801,662

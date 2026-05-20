@@ -1,0 +1,6 @@
+earthquake
+earthquake/large_explosion
+earthquake/marker
+earthquake/upgraded
+fireball
+glacialcascade

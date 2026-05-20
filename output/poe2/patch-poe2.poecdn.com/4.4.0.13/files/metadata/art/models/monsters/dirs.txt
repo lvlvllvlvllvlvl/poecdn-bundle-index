@@ -1,0 +1,12 @@
+atlasexiles
+atlasexiles/thejudge
+atlasexiles/thejudge/apparition
+atlasexiles/thejudge/apparition/gauntlet
+atlasexiles/thejudge/apparition/gauntlet/fx
+hellhound
+hellhound/textures
+hellhound/textures/vfx
+largedualaxeboss
+largedualaxeboss/textures
+spiderarakaali
+spiderarakaali/fx_demonic

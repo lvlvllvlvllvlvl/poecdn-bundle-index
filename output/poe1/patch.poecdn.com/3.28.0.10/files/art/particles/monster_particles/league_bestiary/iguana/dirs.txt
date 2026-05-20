@@ -1,0 +1,2 @@
+iceshard_projectile
+iceshard_projectile/aurafx

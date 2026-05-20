@@ -1,0 +1,7 @@
+act_bigwave
+death
+geyser
+screech
+summon
+sword_summon
+teleport

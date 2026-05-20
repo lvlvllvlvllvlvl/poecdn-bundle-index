@@ -1,0 +1,12 @@
+hair
+necklace
+shawl
+shawl/back
+shawl/l_arm_dangler
+shawl/l_dangler
+shawl/r_arm_dangler
+shawl/r_dangler
+skirt
+skirt/back
+skirt/front
+skirt/r_dangler

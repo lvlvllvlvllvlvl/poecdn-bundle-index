@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+48ec7abee00dd9d5,base_seedc.mat,Art/particles/monster_particles/LeagueHarvest,0,8172
+9ff7b1fae1634627,base_seed.dds,Tiny_8,45172037,204
+3f9f72de47949764,base_seed.dds.header,Tiny_8,45172241,496
+8a26059d8e51fb6d,base_nmlao_uncompressed.dds,Art/particles/monster_particles/LeagueHarvest_1,0,5592552
+b2c0e84a93806499,base_nmlao_uncompressed.dds.header,Tiny_7,21572719,1520
+30d25c51d4d2b0f3,base_hgt_uncompressed.dds,Art/particles/monster_particles/LeagueHarvest_2,0,5592552
+5ab061ca32479e1f,base_hgt_uncompressed.dds.header,Tiny_7,21571199,1520
+8238ac4bceadf677,base_clr_dxt5.dds,Art/particles/monster_particles/League_Hellscape_19,0,1398276
+a645fa103b39c657,base_clr_dxt5.dds.header,Tiny_6,124243626,1520

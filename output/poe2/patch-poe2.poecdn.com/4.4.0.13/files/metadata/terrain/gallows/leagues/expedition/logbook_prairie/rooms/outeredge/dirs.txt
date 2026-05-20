@@ -1,0 +1,5 @@
+cliff
+cows
+river
+road
+unwalkable

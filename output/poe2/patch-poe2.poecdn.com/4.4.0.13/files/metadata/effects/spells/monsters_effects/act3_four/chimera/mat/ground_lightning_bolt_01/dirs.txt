@@ -1,0 +1,4 @@
+impact
+muzzle
+projectile
+zap

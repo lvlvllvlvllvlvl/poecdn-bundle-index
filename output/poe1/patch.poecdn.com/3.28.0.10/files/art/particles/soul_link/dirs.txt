@@ -1,0 +1,7 @@
+link_block
+link_crit
+link_fire
+link_leech
+link_soul
+link_trigger
+mbs

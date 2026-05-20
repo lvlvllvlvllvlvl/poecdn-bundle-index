@@ -1,0 +1,13 @@
+cant_die_shield
+cant_die_shield/fx
+rose_spec_throw
+rose_spec_throw/fx
+scourge_thrust
+scourge_thrust/channel
+scourge_thrust/channel/fx
+scourge_thrust/pods
+scourge_thrust/pods/fx
+scourge_thrust/projectile
+scourge_thrust/projectile/fx
+thorn_vines_grd
+thorn_vines_grd/fx

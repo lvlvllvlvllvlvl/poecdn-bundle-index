@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+de3af83c6b0be8f2,rig_ebc34ba7.smd,Art/Models/Effects/monster_effects/act3/ice_sheild,33328,15912
+a248c9f4265d9392,rig_ebc34ba7.smd.header,Tiny_1,89837977,707
+1e43cc25cd5c999b,ice_sheildnodes.amd,Tiny_1,89835654,104
+b2607c78ed78e9dc,ice_sheildnodes.ast,Tiny_1,89826779,476
+116aed812434d475,ice_sheildmid.amd,Tiny_1,89835654,104
+31c11f2647528a9e,ice_sheildmid.ast,Tiny_1,89826256,523
+609dd3dfa50c2797,ice_sheild.sm,Tiny_1,89825200,1056
+0f64da6673b38e18,ice_sheild.amd,Tiny_1,89835654,104
+15d76f588bd950a9,ice_sheild.ast,Art/Models/Effects/monster_effects/act3/ice_sheild,0,33328

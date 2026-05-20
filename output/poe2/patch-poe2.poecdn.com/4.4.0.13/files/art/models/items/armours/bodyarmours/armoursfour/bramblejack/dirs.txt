@@ -1,0 +1,5 @@
+attachments
+attachments/beltdangle
+attachments/skirt
+attachments/skirtstr
+textures

@@ -1,0 +1,16 @@
+mbs
+mbs/attack_01
+mbs/cremation_mortar
+mbs/cremation_mortar_impact
+mbs/fissure_line
+mbs/fissure_line_start
+mbs/fissure_slam
+mbs/fissure_start_slam
+mbs/mortar_explode
+mbs/onacts
+mbs/onacts/death_grd
+mbs/onacts/entrance
+mbs/onacts/entrance_blood_decal
+mbs/onacts/siphon
+mbs/projectile
+mbs/slam_01

@@ -1,0 +1,7 @@
+models
+models/ri_firehands
+models/ring_vaal
+textures
+textures/debuff
+textures/handfx
+textures/vaal_ring

@@ -1,0 +1,4 @@
+attachments
+attachments/jewelry
+attachments/legchain
+attachments/sandalfeathers

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+ebdfaced9884fb15,static01_7x7.mat,Tiny_6,21325281,1428
+7852251fb63f9e6d,space_bg.mat,Tiny_6,21324113,1168
+c19fc7b19ebd9216,space_bg.dds,Art/particles/environment_effects/breach,349732,349700
+27cdd827a5dc89ac,space_bg.dds.header,Tiny_6,21322593,1520
+3a8ddfa6bd2ce18e,lightning_random_glowy.mat,Tiny_6,21320911,1682
+220cb61d3c6db3de,lightning_random_glowy.dds,Art/particles/environment_effects/breach,0,349732
+ca6c00f9b8ecbcf5,lightning_random_glowy.dds.header,Tiny_7,22053185,504
+0c8467a3d1f39d08,lightning.mat,Tiny_6,21319737,1174
+c8b45d22df2302e5,lightning.dds,Art/particles/environment_effects/breach_1,0,22020
+51c544d4512fb694,lightning.dds.header,Tiny_7,40906150,1520
+4c764ff965b88802,channel_snowblobs.mat,Tiny_6,21316057,3680
+8930a01fc466ccd0,channel_snowblobs.dds,Art/Textures/Misc/portals/IcePortal/effects_1,87556,5636
+7f10c2aaf8dbc90c,channel_snowblobs.dds.header,Tiny_8,24595178,1520
+d48fd644612df285,channel_smoke_02.mat,Tiny_6,21312147,3910
+ca7120e4f03faef4,channel_smoke_02.dds,Folders/art/particles/environment_effects/breach,0,43876
+e91c8903d9755aa1,channel_smoke_02.dds.header,Tiny_6,109419070,840

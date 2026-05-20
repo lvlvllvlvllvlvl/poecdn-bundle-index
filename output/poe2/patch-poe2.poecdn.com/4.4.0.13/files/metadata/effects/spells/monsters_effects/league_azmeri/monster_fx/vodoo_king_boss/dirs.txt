@@ -1,0 +1,12 @@
+audio
+epk
+fx
+fx/blood_beam
+fx/emerge_mapping
+graphs
+mat
+mat/blood_beam
+mat/bugbomb
+mat/emerge_mapping
+mat/nova
+mat/swarm_aura

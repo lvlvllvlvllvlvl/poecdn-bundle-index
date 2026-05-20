@@ -1,0 +1,4 @@
+attachment
+attachment/robe
+attachment/shawl
+attachment/staffblade

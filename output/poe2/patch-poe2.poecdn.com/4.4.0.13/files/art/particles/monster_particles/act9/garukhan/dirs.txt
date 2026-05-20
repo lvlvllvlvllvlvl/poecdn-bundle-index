@@ -1,0 +1,17 @@
+ambush
+charged_dash
+charged_dash/aoe
+charged_dash/buildup
+charged_dash/buildup/weapon_trail
+charged_dash/charge_end
+charged_dash/shadows
+combo_attack
+combo_attack/claw_stab
+combo_attack/shield_nova
+combo_attack/sword_slash
+large_tornado
+minions
+minions/big
+minions/big/emerge
+sandstorm
+small_tornado

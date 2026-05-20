@@ -1,0 +1,6 @@
+cape
+shoulder_danglers
+skirt
+skirt_attach
+weapon_01
+weapon_02

@@ -1,0 +1,16 @@
+general_combat
+general_combat/textures
+general_combat/textures/vaal_crawler
+general_combat/textures/vaal_crystal_totem
+general_combat/textures/vaal_goliath
+general_combat/textures/vaal_goliath/blood_orbs
+general_combat/textures/vaal_goliath/on_act
+general_combat/textures/vaal_goliath/on_act/attack
+general_combat/textures/vaal_overseer
+mechanics
+mechanics/textures
+npc
+npc/portal
+npc/portal/textures
+trialmaster_boss
+trialmaster_boss/textures

@@ -1,0 +1,4 @@
+cathedral_broken_roof
+cathedral_broken_roof/burning_frame
+entrance_portal
+entrance_portal/portal_in

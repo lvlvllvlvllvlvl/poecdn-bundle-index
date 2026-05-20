@@ -1,0 +1,6 @@
+precursormachines
+precursorprops
+precursorprops/precursorclusters
+precursorprops/precursorlargeprops
+precursorprops/precursorsmallprops
+precursorrubble

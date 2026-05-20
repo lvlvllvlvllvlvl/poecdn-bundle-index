@@ -1,0 +1,7 @@
+effects
+effects/badlands
+effects/dreadnought
+effects/gates
+effects/maraketh
+effects/tpassage
+marakethdesert

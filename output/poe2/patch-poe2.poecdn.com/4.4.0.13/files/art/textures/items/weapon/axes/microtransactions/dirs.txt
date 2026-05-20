@@ -1,0 +1,10 @@
+onehanded
+twohanded
+twohanded/colossusaxe
+twohanded/darkmagicaxe
+twohanded/ringmasterwheel
+twohanded/stygianscythe
+twohanded/thaumaturgyscientistaxe
+twohanded/ultimatechaosaxe
+twohanded/voidweapons
+twohanded/wild2haxe

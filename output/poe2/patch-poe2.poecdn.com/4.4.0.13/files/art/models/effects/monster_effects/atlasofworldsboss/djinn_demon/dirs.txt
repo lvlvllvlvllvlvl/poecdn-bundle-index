@@ -1,0 +1,8 @@
+on_act
+on_act/on_act_spin_attack_01
+teleport_aoe
+water_beam
+water_gout
+water_gout_aoe
+water_wave
+water_whirlpool

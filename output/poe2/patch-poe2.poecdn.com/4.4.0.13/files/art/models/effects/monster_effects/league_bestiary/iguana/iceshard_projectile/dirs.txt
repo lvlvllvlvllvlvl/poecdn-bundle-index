@@ -1,0 +1,4 @@
+blue_projectile
+green_projectile
+nova
+red_projectile

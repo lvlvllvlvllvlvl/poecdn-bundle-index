@@ -1,0 +1,14 @@
+attachments
+attachments/femalerobe
+attachments/femalerobe/attachments
+attachments/malerobe
+attachments/malerobe/attachments
+attachments/scarfs
+attachments/scarfs/scarfdex
+attachments/scarfs/scarfdexint
+attachments/scarfs/scarfint
+attachments/scarfs/scarfstr
+attachments/scarfs/scarfstrdex
+attachments/scarfs/scarfstrdexint
+attachments/scarfs/scarfstrint
+textures

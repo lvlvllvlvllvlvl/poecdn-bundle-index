@@ -1,0 +1,12 @@
+ao
+epk
+fx
+mat
+mat/attack_01
+mat/fireprojectile
+mat/fireprojectile/impact
+mat/fireprojectile/portal_fire
+mat/fireprojectile/shoot
+mat/fireprojectile/wall_impact
+mat/idle
+mat/teleport

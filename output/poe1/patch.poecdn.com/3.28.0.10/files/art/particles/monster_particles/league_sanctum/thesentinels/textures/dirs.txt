@@ -1,0 +1,14 @@
+blood_pool
+cascade_ground_slam
+ground_slam_02
+impale_marker
+leap_slam_circular
+mace
+multislam_01
+multislam_02
+onact
+orb_impact
+soulrend
+soulrend_impact
+spikes
+volatile_dead

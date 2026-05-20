@@ -1,0 +1,10 @@
+demonicstygianarmour
+on_act
+on_act/carpet_bomb_01
+on_act/idle_01
+on_act/jog_01
+on_act/lightning_bolts_01
+on_act/spell_aoe_01
+on_act/spell_projectile_01
+on_act/spell_projectile_02
+on_act/teleport_01

@@ -1,0 +1,6 @@
+bugs
+leaves
+lightbeams
+rivercrossing_streams
+shadow
+waterfall

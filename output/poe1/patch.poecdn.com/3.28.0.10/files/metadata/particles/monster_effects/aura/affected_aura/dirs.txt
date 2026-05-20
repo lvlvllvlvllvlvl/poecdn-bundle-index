@@ -1,0 +1,3 @@
+necrovigil
+sml_phyhaste
+sml_physical_degeneration_aura

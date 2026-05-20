@@ -1,0 +1,11 @@
+attachments
+attachments/backdangle
+attachments/femalelowerback
+attachments/femalerobe
+attachments/fx
+attachments/fx/texture
+attachments/l_thighguard
+attachments/malerobe
+attachments/plume
+attachments/r_thighguard
+textures

@@ -1,0 +1,8 @@
+beam_fx
+beam_fx/aoe
+beam_fx/player_fizzle
+explode
+projectile
+teleport
+teleport/affected_buff
+teleport/arrive_explosion

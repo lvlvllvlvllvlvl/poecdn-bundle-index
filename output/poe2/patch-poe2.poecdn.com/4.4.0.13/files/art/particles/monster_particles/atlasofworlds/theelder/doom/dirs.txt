@@ -1,0 +1,4 @@
+doom_hit
+projectile
+projectile/hit
+projectile/tentacles

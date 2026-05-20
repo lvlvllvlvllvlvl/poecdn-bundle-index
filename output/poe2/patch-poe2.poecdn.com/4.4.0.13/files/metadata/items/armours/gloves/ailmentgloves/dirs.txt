@@ -1,0 +1,5 @@
+bleed_ailmentgloves
+burn_ailmentgloves
+freeze_ailmentgloves
+poison_ailmentgloves
+shock_ailmentgloves

@@ -1,0 +1,17 @@
+attack_01
+attack_03
+spellcast_aoe_01
+spellcast_aoe_01/vol_boom
+spellcast_aoe_01/vol_core
+spellcast_aoe_01/vol_core/emerge_01
+spellcast_aoe_01/vol_core/run_01
+spellcast_aoe_01/vol_core/spellcast_01
+spellcast_aoe_01/vol_core/vol_idle
+spellcast_aoe_01/vol_spawner
+spellcast_aoe_01/vol_spawner/emerge_blast
+spellcast_aoe_01/vol_spawner/fruit
+spellcast_aoe_01/vol_spawner/fruit_burst
+spellcast_aoe_01/vol_spawner/root_emerge
+spellcast_aoe_01/vol_spawner/root_emerge_grd
+spellcast_aoe_01/vol_spawner/root_emerge_vine_base_grd
+spiral_lance_01

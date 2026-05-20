@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+6997959fb107cea8,oriathornatepetcns.mat,Tiny.V6,46248192,4624
+8c259e6e3a59336b,oriathornatepetns.dds,Streaming/Content/metadata/pet/raven/oriath.ot.1,2796552,1398276
+1a884bc7b83a7bb9,oriathornatepetns.dds.header,Tiny.VB,46361851,1520
+0d7c0aa29bf6dc63,oriathornatepet_emissive_dxt5.dds,Streaming/Content/metadata/pet/raven/oriath.ot,1469906,1398276
+08f496febba2fbe1,oriathornatepet_emissive_dxt5.dds.header,Tiny.VE,46060875,1520
+ff1562229f7c839e,oriathornatepet_specular.dds,Streaming/Content/metadata/pet/raven/oriath.ot.1,1398276,1398276
+79fb59fa40d451a2,oriathornatepet_specular.dds.header,Tiny.V2,46139451,1520
+a196e1eff902cc92,oriathornatepet_glow.dds,Streaming/Content/metadata/pet/raven/oriath.ot.1,0,1398276
+27ba61be8220b548,oriathornatepet_glow.dds.header,Tiny.VC,46460514,1520
+cad8431aa354da83,oriathornatepet_gloss.dds,Streaming/Content/metadata/pet/raven/oriath.ot,2868182,1398276
+ca266b765484206b,oriathornatepet_gloss.dds.header,Tiny.VC,46458994,1520
+1047be6ca071abdd,oriathornatepet_colour.dds,Streaming/Content/metadata/pet/raven/oriath.ot,71630,1398276
+97edf63d94d82c2c,oriathornatepet_colour.dds.header,Tiny.V2,46137931,1520

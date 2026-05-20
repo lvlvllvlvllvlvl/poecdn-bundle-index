@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+b993fdc8a695e6b0,darkshardcloakc.mat,Art/Models/Items/BackAttachments/DarkshardCloak/Textures,0,5972
+3150a44b350a17d4,darkshardcloak_sss_mask_dxt5.dds,Art/Models/Items/BackAttachments/DarkshardCloak/Textures_4,699212,349700
+19cf430cab862194,darkshardcloak_sss_mask_dxt5.dds.header,Tiny_2,52564808,1520
+64a97df8f7dc2dbe,darkshardcloak_sss_dxt1.dds,Art/Models/Items/BackAttachments/DarkshardCloak/Textures_4,0,699212
+9796694a534f672a,darkshardcloak_sss_dxt1.dds.header,Tiny_2,52563288,1520
+a1b1ba78158121a8,darkshardcloak_normal_dxt5.dds,Art/Models/Items/BackAttachments/DarkshardCloak/Textures_3,0,1398276
+89f4521694b67749,darkshardcloak_normal_dxt5.dds.header,Tiny_2,52561768,1520
+319eb43c50249aed,darkshardcloak_metal_dxt5.dds,Art/Models/Items/BackAttachments/DarkshardCloak/Textures_2,0,1398276
+fdb30edca3d19ea8,darkshardcloak_metal_dxt5.dds.header,Tiny_2,52560248,1520
+a084f6a9ea38383d,darkshardcloak_colour_dxt5.dds,Art/Models/Items/BackAttachments/DarkshardCloak/Textures_1,0,1398276
+397800135d2c2b69,darkshardcloak_colour_dxt5.dds.header,Tiny_2,52558728,1520

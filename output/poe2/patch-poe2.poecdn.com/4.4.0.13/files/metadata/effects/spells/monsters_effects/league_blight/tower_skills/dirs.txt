@@ -1,0 +1,14 @@
+arc
+buff_aura
+fireball
+flame_thrower
+ice
+ice/chilling_beam
+ice/ice_prison
+ice/projectile
+lightningstorm
+meteor
+shocknova
+stun_cascade
+summoned_minions
+tower_meteor

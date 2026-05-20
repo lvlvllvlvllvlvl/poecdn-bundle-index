@@ -1,0 +1,5 @@
+inactiveidle
+inactiveidle/02
+inactiveidle/03
+lightning
+lightningshroud

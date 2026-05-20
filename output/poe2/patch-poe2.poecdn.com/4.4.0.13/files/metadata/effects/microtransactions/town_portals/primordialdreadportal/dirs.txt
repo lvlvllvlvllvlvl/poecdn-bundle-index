@@ -1,0 +1,7 @@
+attachments
+vfx
+vfx/graphs
+vfx/pet
+vfx/pet/close
+vfx/pet/loop
+vfx/pet/open

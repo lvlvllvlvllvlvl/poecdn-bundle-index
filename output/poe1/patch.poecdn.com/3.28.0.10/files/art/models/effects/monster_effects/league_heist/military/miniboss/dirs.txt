@@ -1,0 +1,6 @@
+cleave_projectiles
+heavystrike_flamebreath
+on_act_heavystrike
+onact_cleaveprojectiles
+shield_clone
+shield_shockwave

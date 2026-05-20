@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+a1740aa1be9ed364,chicken_normal_dxt5.dds,Art/Textures/Pet/Chicken,131408,87556
+349fbcecc0334f20,chicken_normal_dxt5.dds.header,Tiny_8,42098494,1520
+95776608e4d76c2b,chicken_colour_dxt1.dds,Art/Textures/Pet/Chicken,87556,43852
+0b6cd6ae94c95ff4,chicken_colour_dxt1.dds.header,Tiny_8,42096974,1520
+4aa8d4276c577f3e,chicken_colour.dds,Art/Textures/Pet/Chicken,87556,43852
+8087e52a63a26131,chicken_colour.dds.header,Tiny_8,42096974,1520
+1d12daa2de06aac1,chickenns.dds,Art/Textures/Pet/Chicken,0,87556
+424f172d357cbf59,chickenns.dds.header,Tiny_8,42103242,1520
+82b80ea4f344313e,chickenc.mat,Tiny_8,42100014,1488
+a3ee225e98d943d6,chickencns.mat,Tiny_8,42101502,1740

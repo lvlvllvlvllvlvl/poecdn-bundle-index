@@ -1,0 +1,9 @@
+epk
+fx
+graph
+mat
+mat/cleave
+mat/ghostflame_energy
+mat/projectile
+mat/projectile_impact
+mat/shield_slam

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+2825214d25113ad3,ring3.fmt,Art/Models/Effects/bloodspears/blood,33463,11201
+b4d32c5dabf567c0,ring3.fmt.header,Tiny_2,2014691,176
+33b0621fc6d0b7fb,flameblast.amd,Tiny_2,2012826,102
+3501af4ed1d5de8d,flameblast.ast,Tiny_2,2012928,1763
+2a9fdf76fe12cfb3,explosion_049615c0.smd,Art/Models/Effects/monster_effects/League_Affliction/affliction_mods,81276,26458
+2ddcb69680f61b21,explosion_049615c0.smd.header,Tiny_2,2012458,368
+fd9bcc3e3888655d,explode.sm,Tiny_2,2011658,800
+db120da3f38051c5,explode.amd,Tiny_7,37927089,94
+4d9ae8a4cc66108b,explode.ast,Tiny_2,2009748,1910

@@ -1,0 +1,15 @@
+pets
+pets/boom
+pets/boom/ash
+pets/boom/ice
+pets/boom/thunder
+pets/buff
+pets/buff/agnoy
+pets/buff/ash
+pets/buff/ice
+pets/buff/purity
+pets/buff/thunder
+pets/guard
+pets/spider
+trl
+trl/spider

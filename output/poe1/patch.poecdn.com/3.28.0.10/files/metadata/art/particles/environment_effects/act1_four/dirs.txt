@@ -1,0 +1,4 @@
+g1_1
+g1_1/models
+g1_1/models/tut_forcefeild
+g1_1/models/tut_forcefeild/textures

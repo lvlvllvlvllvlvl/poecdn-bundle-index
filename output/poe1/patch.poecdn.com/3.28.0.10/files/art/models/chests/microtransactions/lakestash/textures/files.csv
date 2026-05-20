@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+6e7514e41742b705,stonesc.mat,Tiny_1,83091104,2060
+ee9d7f2ab0a4271b,stones_normal_dxt5.dds,Art/Models/Chests/Microtransactions/LakeStash/Textures_5,0,1398276
+0356ae1df51d49e3,stones_normal_dxt5.dds.header,Tiny_1,83089584,1520
+f7537892d9a57795,stones_colour_dxt5.dds,Art/Models/Chests/Microtransactions/LakeStash/Textures,0,1398276
+4662fd7bf73c199e,stones_colour_dxt5.dds.header,Tiny_1,83088064,1520
+3594131a518c8b1a,groundc.mat,Tiny_1,83086034,2030
+4a1c43af0573835d,ground_normal_dxt5.dds,Art/Models/Chests/Microtransactions/LakeStash/Textures_2,0,1398276
+15cd75c9dee76883,ground_normal_dxt5.dds.header,Tiny_1,83084514,1520
+ee761281441361e1,ground_colour_dxt1.dds,Art/Models/Chests/Microtransactions/LakeStash/Textures_4,0,699212
+59e359c7b43ec35c,ground_colour_dxt1.dds.header,Tiny_1,83082994,1520
+2f89943169af767e,chestc.mat,Tiny_1,83080946,2048
+57ba48db7319386a,chest_normal_dxt5.dds,Art/Models/Chests/Microtransactions/LakeStash/Textures_1,0,1398276
+282aab5789596245,chest_normal_dxt5.dds.header,Tiny_1,83079426,1520
+b0d6acb05f1ee524,chest_colour_dxt5.dds,Art/Models/Chests/Microtransactions/LakeStash/Textures_3,0,1398276
+772c9c753d600302,chest_colour_dxt5.dds.header,Tiny_1,83077906,1520

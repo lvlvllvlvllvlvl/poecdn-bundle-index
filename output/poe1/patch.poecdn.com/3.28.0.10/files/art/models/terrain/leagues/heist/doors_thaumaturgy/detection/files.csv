@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+6fed951668f59c9e,heistdoordetection_01_heistdoordetection.fmt,Tiny_7,4891885,43
+0f279727111601ad,heistdoordetection_01_heistdoordetection.fmt.header,Tiny_7,42091864,128
+2c0dcdbe365def07,heistdoordetection_01_eventdrivenblocker.fmt,Tiny_5,58089254,269
+19e93ef6b76a9ef5,heistdoordetection_01_eventdrivenblocker.fmt.header,Tiny_5,58089523,152
+71087ad816cbc6ff,heistdoordetection_01.tgt,Tiny_5,58070465,800
+868a4be9eda46622,heistdoordetection_01.tmd,Tiny_5,58071265,1085
+219e2775b7becaeb,detectionwall.sm,Tiny_5,58069727,738
+30a24091a2aa71ea,detectiondoor_rig_ba496bd6.smd,Art/Models/Terrain/Leagues/Heist/Doors_Thaumaturgy,2276745,349500
+b87ebff5a29fe463,detectiondoor_rig_ba496bd6.smd.header,Tiny_5,58068555,1172
+2eb0257ccb4cc04c,detectiondoor_rig.amd,Tiny_5,58068405,150
+c7e988915510f2c0,detectiondoor_rig.ast,Art/Models/Terrain/Leagues/Heist/Doors_Thaumaturgy,2268421,8324

@@ -1,0 +1,4 @@
+attachments
+attachments/eyes
+attachments/tentacles
+textures

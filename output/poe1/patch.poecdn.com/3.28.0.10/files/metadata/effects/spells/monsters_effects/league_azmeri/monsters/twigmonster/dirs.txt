@@ -1,0 +1,10 @@
+epk
+epk/spellcast_02
+fx
+fx/attack_01
+fx/poison_pod
+fx/spellcast_02
+mat
+mat/attack_01
+mat/poison_pod
+mat/spellcast_02

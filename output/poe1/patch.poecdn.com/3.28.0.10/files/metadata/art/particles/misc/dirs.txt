@@ -1,0 +1,5 @@
+gold_explosion
+gold_explosion/textures
+upgraded_side_area
+upgraded_side_area/labyrinth
+upgraded_side_area/vaal

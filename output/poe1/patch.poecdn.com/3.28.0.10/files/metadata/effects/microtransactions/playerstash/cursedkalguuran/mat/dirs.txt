@@ -1,0 +1,10 @@
+mouth_gold
+mouth_open_glow
+mouth_rays_idle
+renderpasses
+tentacle_submerge
+tentacles_dust
+tentacles_emerge_pt
+water_splashes
+waterdrips
+waterpuddle

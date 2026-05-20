@@ -1,0 +1,6 @@
+activation_pulse
+activation_surge
+idle_fx
+idle_fx_small
+portal_frame
+statue_fx

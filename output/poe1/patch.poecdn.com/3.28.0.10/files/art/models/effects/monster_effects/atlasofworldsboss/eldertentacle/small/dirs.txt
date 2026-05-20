@@ -1,0 +1,6 @@
+death
+portal_out
+projectile
+projectile/projectile
+spawn
+spawn/portal

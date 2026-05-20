@@ -1,0 +1,3 @@
+blood_explosion
+rat_proj
+rat_tornado

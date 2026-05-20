@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+54307fe1472417e8,spark.mat,Tiny_6,18128764,1424
+9f5fea0746273646,spark.dds,Tiny_6,51913267,1540
+03ceb91a8e330835,spark.dds.header,Tiny_6,51914807,1520
+01e317321ff1f9da,fire_03.mat,Tiny_6,18127380,1384
+a86227b1af9c5d0a,fire_03.dds,Art/particles/environment_effects/act3_20,0,349700
+2f6081c92bf1a987,fire_03.dds.header,Tiny_6,18125860,1520
+27b3a20f06e6fbcb,fire_02.mat,Tiny_6,18123798,2062
+27998fee8cd28486,fire_02.dds,Art/particles/environment_effects/act3_4,791608,349700
+62c74ff00e1a795d,fire_02.dds.header,Tiny_6,18122278,1520
+30492b1734a495a8,fire_01.mat,Tiny_6,18120274,2004
+d36269e12a80d000,fire_01.dds,Art/particles/surge/holy,0,349700
+ee3f72fd8170ca12,fire_01.dds.header,Tiny_7,38913298,1520
+587511cfe5f9b300,bloom_glow.mat,Tiny_6,18118846,1428
+67f0b032387524e7,bloom_glow.dds,Art/particles/monster_particles/act4_54,1486420,22020
+981debed63706515,bloom_glow.dds.header,Tiny_7,3454230,1520

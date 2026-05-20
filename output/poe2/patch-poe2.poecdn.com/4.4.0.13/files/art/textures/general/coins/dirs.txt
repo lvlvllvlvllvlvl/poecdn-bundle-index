@@ -1,0 +1,3 @@
+genericcoins
+genericcoins/gold
+prophecycoins

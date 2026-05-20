@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+574386701f1780d7,vanguardpetspecularc.mat,Tiny_8,44833780,4298
+d1111064abce8235,vanguardpet_normal_dxt5.dds,Folders/art/textures/pet/vanguardowl,1049092,349700
+b9f77a3c4fed8eb5,vanguardpet_normal_dxt5.dds.header,Tiny_8,44832260,1520
+c10f375f39844af3,vanguardpet_colourspecular_dxt5.dds,Art/Textures/Pet/VanguardOwl_1,0,699236
+eecb903ed1b4b15d,vanguardpet_colourspecular_dxt5.dds.header,Tiny_8,44831420,840
+6e6c2f7204dde98e,vanguardpet_colourspecular_bc7.dds,Art/Textures/Pet/VanguardOwl_1,0,699236
+b32b858856bd9507,vanguardpet_colourspecular_bc7.dds.header,Tiny_8,44831420,840
+49787c4fbcc6d123,vanguardpet_colourspecular.dds,Folders/art/textures/pet/vanguardowl,699400,349692
+cef56a41ee37d5f3,vanguardpet_colourspecular.dds.header,Tiny_8,44830580,840
+f0331e46928979d9,mask_dxt5.dds,Folders/art/textures/pet/vanguardowl,349700,349700
+5899a2708347491c,mask_dxt5.dds.header,Tiny_8,44829060,1520
+4d7ab8ecf30408be,glow_dxt5.dds,Folders/art/textures/pet/vanguardowl,0,349700
+87f58a98e6f977f5,glow_dxt5.dds.header,Tiny_8,44827540,1520

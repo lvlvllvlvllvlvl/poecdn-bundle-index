@@ -1,0 +1,9 @@
+dam
+dam/vfx
+dam/vfx/pet
+dam/vfx/pet/idle
+water
+water/vfx
+water/vfx/pet
+water/vfx/pet/generic_water_splashes
+waterway_nowater

@@ -1,0 +1,11 @@
+attachments
+attachments/capefemale
+attachments/capemale
+attachments/capestr
+attachments/skirtdex
+attachments/skirtdexint
+attachments/skirtint
+attachments/skirtstr
+attachments/skirtstrdex
+attachments/skirtstrint
+textures

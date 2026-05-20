@@ -1,0 +1,9 @@
+attachments
+attachments/backbow
+attachments/earrings
+attachments/hair
+attachments/hairstrand
+attachments/l_thighdagger
+attachments/robe
+attachments/weapon_hammer
+textures

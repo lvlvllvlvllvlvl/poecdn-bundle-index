@@ -1,0 +1,10 @@
+astral_bolt_impact
+hand_trail
+head_sand
+player_chains
+proj_trail
+sand_aura
+timetrap_explode
+timetrap_fadein
+timetrap_fadeout
+timetrap_idle

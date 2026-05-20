@@ -1,0 +1,4 @@
+bipedmedium
+bipedmedium/modelvariants
+bipedmedium/modelvariants/carvershaman
+bipedmedium/modelvariants/carvershaman/textures

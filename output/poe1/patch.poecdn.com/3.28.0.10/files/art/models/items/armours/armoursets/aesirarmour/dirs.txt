@@ -1,0 +1,7 @@
+attachments
+attachments/aesirhelmetattachmentf
+attachments/aesirhelmetattachmentm
+attachments/aesirhelmetattachmentm/shroud
+attachments/aesirloincloth
+attachments/aesirskirt
+textures

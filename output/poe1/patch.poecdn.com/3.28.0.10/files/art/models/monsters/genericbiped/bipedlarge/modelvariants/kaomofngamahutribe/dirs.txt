@@ -1,0 +1,4 @@
+attachments
+attachments/kaomofngamahutribeweapon
+attachments/necklace
+attachments/skirt

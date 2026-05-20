@@ -1,0 +1,8 @@
+fmt
+mapdevice
+mapdevice/fire_skull_beam
+mb
+mb/flamebreath_l
+mb/flamebreath_r
+mb/multi_slam
+textures

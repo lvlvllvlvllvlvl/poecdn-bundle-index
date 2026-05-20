@@ -1,0 +1,9 @@
+epks
+fx
+fx/act
+graphs
+mat
+mat/attack_sword_01
+mat/cleave_sword_01
+mat/idle_chest
+mat/sword_impale_01

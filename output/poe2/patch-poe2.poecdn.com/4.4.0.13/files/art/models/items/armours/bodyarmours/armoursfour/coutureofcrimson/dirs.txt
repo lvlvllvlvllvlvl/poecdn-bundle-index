@@ -1,0 +1,7 @@
+attachments
+attachments/cloak
+attachments/cloakdex
+attachments/cloakstr
+attachments/skirt
+attachments/skirtstr
+textures

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+32d90a224f9793b9,empyreanportalspecularc.mat,Tiny_8,24147714,5518
+bf4579fd27f929dc,empyreanportal_sss_dxt1.dds,Folders/art/textures/misc/portals/twilightsunriseportal/1/fx,776652,699212
+1a3ca27df75cc449,empyreanportal_sss_dxt1.dds.header,Tiny_8,24146194,1520
+746976e818e3d123,empyreanportal_normal_dxt5.dds,Art/Textures/Misc/portals/Empyrean_1,0,349700
+9cf7eca365a0aa5a,empyreanportal_normal_dxt5.dds.header,Tiny_8,24144674,1520
+effaef741d3346b6,empyreanportal_glow_dxt5.dds,Folders/art/textures/misc/portals/5/empyrean,0,1398276
+8b4a8e2f9fe7d205,empyreanportal_glow_dxt5.dds.header,Tiny_8,24142144,1520
+f5c9ecaba9462fcd,empyreanportal_glow.mat,Tiny_8,24143664,1010
+17c95fb9d6268440,empyreanportal_glow.dds,Folders/art/textures/misc/portals/5/empyrean,0,1398276
+fd49311d58150886,empyreanportal_glow.dds.header,Tiny_8,24142144,1520
+7b4627ad5f97272c,empyreanportal_colourspecular_dxt5.dds,Art/Textures/Misc/portals/Empyrean_2,0,2796388
+ff9770afa3cc7830,empyreanportal_colourspecular_dxt5.dds.header,Tiny_8,24141304,840
+50c90e6d0744fa2b,empyreanportal_colourspecular_bc7.dds,Art/Textures/Misc/portals/Empyrean_2,0,2796388
+75196e4c1004fe27,empyreanportal_colourspecular_bc7.dds.header,Tiny_8,24141304,840
+34dcdda6a134a898,empyreanportal_colourspecular.dds,Art/Textures/Misc/portals/Empyrean_3,0,1398268
+c7f8871516d6d97d,empyreanportal_colourspecular.dds.header,Tiny_8,24140464,840

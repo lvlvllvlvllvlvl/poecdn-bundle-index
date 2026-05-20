@@ -1,0 +1,7 @@
+goddesscloakdex
+goddesscloakdexint
+goddesscloakint
+goddesscloakstr
+goddesscloakstrdex
+goddesscloakstrdexint
+goddesscloakstrint

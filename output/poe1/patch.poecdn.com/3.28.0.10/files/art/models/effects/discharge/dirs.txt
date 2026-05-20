@@ -1,0 +1,7 @@
+fire_discharge
+ice_discharge
+light_discharge
+no_sound
+no_sound/fire_discharge
+no_sound/ice_discharge
+no_sound/light_discharge

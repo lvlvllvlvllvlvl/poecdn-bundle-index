@@ -1,0 +1,10 @@
+butterfly_projectiles
+dash_projectile
+default_arrow
+default_arrow/projectile
+on_act
+on_act/butterfly_fire
+on_act/charge_rain_bow_01
+on_act/dash_spray_bow_01
+on_act/snipe_bow_01
+snipe_projectile

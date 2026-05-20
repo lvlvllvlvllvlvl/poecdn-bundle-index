@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+9a7a87966e04cc4c,entrance.arm,Folders/metadata/A/terrain,6147454,6482
+5c2b03a151f826b0,mission1.arm,Tiny_11,43990511,580
+dca863f1add0c372,shrine1.arm,Folders/metadata/8/terrain,5108190,5438
+bd56f333ad08cc90,shrine2.arm,Folders/metadata/F/terrain,5621576,7864
+02fc70c7cbbb80e2,gapfill_injector_7x7.arm,Folders/metadata/E/terrain,5819246,12518
+406244fceb199b94,gapfill_injector_9x9.arm,Folders/metadata/1/terrain,6356054,12322
+4e62af9e40660305,broken_bridge_01.arm,Folders/metadata/E/terrain,5804442,7334
+9fcc71ee73938b74,broken_bridge_02.arm,Folders/metadata/E/terrain,5811776,7470
+e2f241239c0fc82a,broken_bridge_03.arm,Folders/metadata/3/terrain,5878728,7342
+5fd847f7485553de,boss.arm,Folders/metadata/D/terrain,5832656,54510
+34a6048eeda52102,boss_bridge.arm,Folders/metadata/4/terrain,5460890,6492

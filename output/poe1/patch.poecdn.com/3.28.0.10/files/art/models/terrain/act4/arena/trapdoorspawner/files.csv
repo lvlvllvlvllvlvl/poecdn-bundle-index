@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+b6eb66f35869b6b3,trapdoor.sm,Tiny_3,56313795,476
+3f85776b3d1deea4,trapdoor_rig_7800210c.smd,Art/Models/Terrain/Act4/Arena/TrapDoorSpawner,0,38958
+fce2212840b9af17,trapdoor_rig_7800210c.smd.header,Tiny_3,56315081,368
+d5c8bef02ccc87dc,trapdoor_rig.amd,Tiny_3,56314271,150
+abb6eab6fe306507,trapdoor_rig.ast,Tiny_3,56314421,660
+9a7dd231cf0356d5,colosseum_trap_door_spawner_v01_01_spawner_right.fmt,Tiny_6,3485064,43
+286bf82e219c8ae4,colosseum_trap_door_spawner_v01_01_spawner_right.fmt.header,Tiny_7,42091864,128
+65358806b4a11471,colosseum_trap_door_spawner_v01_01_spawner_left.fmt,Tiny_6,3485064,43
+a6bf3fec54802be1,colosseum_trap_door_spawner_v01_01_spawner_left.fmt.header,Tiny_7,42091864,128
+2faeafe2405ca7b3,colosseum_trap_door_spawner_v01_01_gatereplace.fmt,Tiny_6,3485064,43
+b44410ede10d5ff0,colosseum_trap_door_spawner_v01_01_gatereplace.fmt.header,Tiny_7,42091864,128
+b1439af72b95dc72,colosseum_trap_door_spawner_v01_01.tgt,Tiny_3,56308709,604
+418bc147d30d6a44,colosseum_trap_door_spawner_v01_01.tmd,Tiny_3,56309313,1585

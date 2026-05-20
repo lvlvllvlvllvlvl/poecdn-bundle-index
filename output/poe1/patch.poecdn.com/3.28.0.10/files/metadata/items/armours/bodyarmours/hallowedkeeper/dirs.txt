@@ -1,0 +1,5 @@
+attachments
+vfx
+vfx/fx
+vfx/graphs
+vfx/mat

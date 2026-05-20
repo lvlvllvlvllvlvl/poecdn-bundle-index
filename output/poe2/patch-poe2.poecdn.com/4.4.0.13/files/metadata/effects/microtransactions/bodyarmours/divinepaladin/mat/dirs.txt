@@ -1,0 +1,5 @@
+armour_glow
+burst
+burst/bones
+consecrate
+soulwisp

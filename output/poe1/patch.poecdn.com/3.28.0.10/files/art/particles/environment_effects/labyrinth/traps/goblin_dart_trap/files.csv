@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+1f6e3dcbc604e079,trailc.mat,Tiny_6,23299625,2422
+313e473245eeeb07,trail_fatc.mat,Tiny_6,23296877,2748
+97a9622e392f759b,trail_fat.dds,Art/particles/environment_effects/labyrinth_2,729836,174948
+8f239e1519931769,trail_fat.dds.header,Tiny_6,23296037,840
+439e90beb61a183b,trail.dds,Art/particles/environment_effects/labyrinth_2,992340,11108
+2bb10385c4018d8a,trail.dds.header,Tiny_6,23295197,840
+3c6f461b38a2919d,spinecnspecs.mat,Tiny_6,23292309,2888
+5a0d47678c545b71,spine_colour.dds,Art/particles/environment_effects/labyrinth_2,707816,22020
+b983585e830397e5,spine_colour.dds.header,Tiny_6,23290789,1520
+b6fb64c872d189b0,poison_smoke_other.mat,Tiny_6,23288305,2484
+7fe26071683ef724,poison_smoke_other.dds,Art/particles/environment_effects/labyrinth_2,904784,87556
+c8be7b2076ab3a0a,poison_smoke_other.dds.header,Tiny_6,23286785,1520
+1f2ceda5e647f3a2,glowtipc.mat,Tiny_6,23284879,1906
+e942698630f3cb0e,glowtip.dds,Art/particles/monster_particles/act3_13,349700,11108
+7dc04447a3e367e0,glowtip.dds.header,Tiny_7,28412849,840

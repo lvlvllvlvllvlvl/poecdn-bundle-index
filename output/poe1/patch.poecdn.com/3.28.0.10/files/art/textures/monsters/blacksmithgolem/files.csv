@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+22b37718bc546a03,scroll.mat,Tiny_8,28639898,950
+6b9200bf0cdde579,scroll.dds,Art/Textures/Monsters/BlacksmithGolem_2,0,349700
+917effcb254aada6,scroll.dds.header,Tiny_8,31360000,1520
+8f3c8d8878c12541,blacksmithgolemcns.mat,Tiny_8,28635958,2420
+d99ef42256917fb3,blacksmithgolem_glowc.mat,Art/Textures/Monsters/BlacksmithGolem_1,0,4290
+21335786d48c5614,blacksmithgolem_glow_colour.dds,Art/Textures/Monsters/BlacksmithGolem_1,4290,1398276
+aa81e4c4c40778d5,blacksmithgolem_glow_colour.dds.header,Tiny_8,28634438,1520
+f7f84e0105d0e992,blacksmithgolem_colour.dds,Art/Textures/Monsters/BlacksmithGolem_1,1402566,699212
+4cad59abd4c6f78c,blacksmithgolem_colour.dds.header,Tiny_8,28632918,1520
+f0834f3b43035514,blacksmithgolemns.dds,Art/Textures/Monsters/BlacksmithGolem,0,1398276
+3f8c0c421325124d,blacksmithgolemns.dds.header,Tiny_8,28638378,1520

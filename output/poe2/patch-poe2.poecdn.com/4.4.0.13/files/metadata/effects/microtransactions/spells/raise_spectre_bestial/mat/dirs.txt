@@ -1,0 +1,6 @@
+capturedsoul_hand
+corrupted_ground
+ground_summon
+skin_tentancles
+spectre_skin
+spectre_warping

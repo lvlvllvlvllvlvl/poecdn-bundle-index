@@ -1,0 +1,17 @@
+animations
+animations/ss_rare_finisher_effect
+attachments
+attachments/cape
+attachments/l_shoulder_cloth
+attachments/lantern_01
+attachments/lantern_cluster
+attachments/pickaxe
+attachments/pickaxe_fabric
+attachments/portal
+attachments/portal/animations
+attachments/portal/animations/just_chain
+attachments/r_shoulder_cloth
+attachments/skirt
+effects
+effects/textures
+textures

@@ -1,0 +1,5 @@
+fx
+fx/monster_hit
+fx/surge
+fx/vortex
+fx/weapon_rage

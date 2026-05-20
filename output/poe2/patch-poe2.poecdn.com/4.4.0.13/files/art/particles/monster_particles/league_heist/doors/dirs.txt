@@ -1,0 +1,2 @@
+laser
+str_door

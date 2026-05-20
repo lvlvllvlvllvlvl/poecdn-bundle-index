@@ -1,0 +1,5 @@
+attachments
+attachments/chain
+attachments/l_arm_chain
+attachments/r_arm_chain
+attachments/skirt

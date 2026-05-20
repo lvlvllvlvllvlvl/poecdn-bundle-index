@@ -1,0 +1,10 @@
+ao
+ao/ball_lightning
+epk
+fx
+mat
+mat/ball_lightning
+mat/ball_lightning/ball_idle
+mat/ball_lightning/ball_start
+mat/ball_lightning/buildup
+mat/ball_lightning/muzzle

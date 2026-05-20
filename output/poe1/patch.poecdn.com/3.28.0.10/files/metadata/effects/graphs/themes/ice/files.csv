@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+2bf9a6d6255be2af,surface_edgewear.fxgraph,Folders/metadata/effects.3,2353998,50384
+176986229f1b3ea6,surface_init.fxgraph,Folders/metadata/effects.3,2404382,83826
+8a0933c43ba5b9d5,surface_snowaccumulation.fxgraph,Folders/metadata/effects.3,2488208,75112
+318538acd0392145,core_init.fxgraph,Folders/metadata/effects.3,2109482,86880
+7eb80b430ec35897,core_translucencymodifier.fxgraph,Folders/metadata/effects.3,2341490,12508
+8f393b5f76ac979f,core_scaleadjustment.fxgraph,Folders/metadata/effects.3,2196362,7944
+f0b5369bede8ddaf,core_surfacedistance_glow.fxgraph,Folders/metadata/effects.3,2287654,53836
+2447966da2eb2a33,core_sscolor.fxgraph,Folders/metadata/effects.3,2204306,38942
+6c44aaa3f2e860c4,core_ssdriven_glow.fxgraph,Folders/metadata/effects.3,2243248,44406

@@ -1,0 +1,4 @@
+attachments
+attachments/bloodchalice
+attachments/soulcoredevice
+elevator

@@ -1,0 +1,4 @@
+cloak
+hair
+robe
+weapon

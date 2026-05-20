@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+b38726e3c9126e19,brutusremakec.mat,Art/Models/MONSTERS/Brute/Textures,0,4894
+f20825ae63c8b33b,brutusremake_sss_dxt1.dds,Art/Models/MONSTERS/Brute/Textures_5,0,699212
+e2c1b903a4a05781,brutusremake_sss_dxt1.dds.header,Tiny_2,75565114,1520
+878ba20033c5ba87,brutusremake_normal_dxt5.dds,Art/Models/MONSTERS/Brute/Textures_4,0,1398276
+3a70a4f929f62096,brutusremake_normal_dxt5.dds.header,Tiny_2,75563594,1520
+89081283f69b0d10,brutusremake_metal_dxt5.dds,Art/Models/MONSTERS/Brute/Textures_3,0,1398276
+fd3e7e79ab157b6d,brutusremake_metal_dxt5.dds.header,Tiny_2,75562074,1520
+e2bb7ddb7aaf6757,brutusremake_colour_dxt5.dds,Art/Models/MONSTERS/Brute/Textures_2,0,1398276
+31f13183aa0fdd1f,brutusremake_colour_dxt5.dds.header,Tiny_2,75560554,1520
+484fb75e47c7a2a8,brutusremake_bentnorma_dxt5.dds,Art/Models/MONSTERS/Brute/Textures_1,0,1398276
+82c51ed31ec639bf,brutusremake_bentnorma_dxt5.dds.header,Tiny_2,75559034,1520
+d479149cd9e12915,brutusremakeweaponc.mat,Tiny_2,75569674,1908
+73fce319478da424,brutusremakeweapon_normal_dxt5.dds,Art/Models/MONSTERS/Brute/Textures,4894,349700
+58aa419c97fe78e9,brutusremakeweapon_normal_dxt5.dds.header,Tiny_2,75568154,1520
+04148d24d04fc0eb,brutusremakeweapon_colour_dxt5.dds,Art/Models/MONSTERS/Brute/Textures,354594,349700
+c1e10758ac572bdb,brutusremakeweapon_colour_dxt5.dds.header,Tiny_2,75566634,1520

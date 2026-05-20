@@ -1,0 +1,11 @@
+disenchanting
+farming
+hirefireworkers
+jobicons
+maprunning
+mining
+recombinatecrafting
+shipping
+smelting
+upgrade
+villagemap

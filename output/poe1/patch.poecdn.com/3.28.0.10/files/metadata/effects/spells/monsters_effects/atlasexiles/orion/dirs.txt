@@ -1,0 +1,17 @@
+body_fx
+death_projectile
+destruction_assets
+destruction_assets/meteors
+epk
+graphs
+mapdevice_corruption
+meteor
+on_act
+on_act/beam_03
+on_act/beam_barrage_01
+on_act/on_act_death
+on_act/throne_activate
+on_act/throne_deactivate
+teleporting
+triplebeam
+triplebeam/maps_influence

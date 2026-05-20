@@ -1,0 +1,4 @@
+attachments
+attachments/back
+attachments/skirt
+attachments/weapon

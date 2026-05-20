@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+cca55e69de497fdc,oriathcapec.mat,Tiny_8,10845661,4262
+55ff9dbbf81b0234,oriathcape_specular_dxt5.dds,Art/Textures/Items/armour/Capes/OriathCape_3,0,699236
+ec6ce2c27bf220f1,oriathcape_specular_dxt5.dds.header,Tiny_8,10844821,840
+47504dd739e6b207,oriathcape_normal_dxt5.dds,Art/Textures/Items/armour/Capes/OriathCape_2,1398472,699236
+1f0ab691eb038466,oriathcape_normal_dxt5.dds.header,Tiny_8,10843981,840
+2625e4c0e9f21688,oriathcape_glow_dxt5.dds,Art/Textures/Items/armour/Capes/OriathCape_2,699236,699236
+fbb253c65fca2488,oriathcape_glow_dxt5.dds.header,Tiny_8,10843141,840
+cbe053a5913d57c6,oriathcape_colour_dxt5.dds,Art/Textures/Items/armour/Capes/OriathCape_2,0,699236
+fca4c3e67e9b92a3,oriathcape_colour_dxt5.dds.header,Tiny_8,10842301,840
+102c8355f166511d,oriathcape_colour_bc7.dds,Art/Textures/Items/armour/Capes/OriathCape_2,0,699236
+03362b13f8928d9f,oriathcape_colour_bc7.dds.header,Tiny_8,10842301,840
+695a27322e38921c,oriathcape_colour.dds,Folders/art/textures/items/armour/capes/oriathcape,0,349692
+1223a55915db1778,oriathcape_colour.dds.header,Tiny_8,10841461,840

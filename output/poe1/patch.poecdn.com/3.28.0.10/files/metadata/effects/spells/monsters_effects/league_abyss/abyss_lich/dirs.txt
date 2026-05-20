@@ -1,0 +1,8 @@
+death
+shadow_form
+shadow_form/epk
+shadow_form/spiritcharge
+shadow_teleport
+teleport_strike
+teleport_strike/slash
+teleport_strike/target

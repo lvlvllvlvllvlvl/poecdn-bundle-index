@@ -1,0 +1,4 @@
+continuous
+townportal
+townportalclose
+townportalopen

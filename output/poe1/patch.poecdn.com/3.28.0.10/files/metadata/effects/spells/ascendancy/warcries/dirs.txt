@@ -1,0 +1,7 @@
+loot
+loot/ao
+loot/epk
+loot/graph
+loot/mat
+loot/mat/gold
+loot/pet

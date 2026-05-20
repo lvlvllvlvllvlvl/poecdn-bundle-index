@@ -1,0 +1,6 @@
+belt_deco
+earings
+hair
+hat
+scarf
+weapon

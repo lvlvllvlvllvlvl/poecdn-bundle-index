@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+56b401d728497fb8,trail_bloom.mat,Tiny.VB,33085774,1546
+4e55b7f3349428cf,trail_bloom.dds,Streaming/Content/metadata/particles/ground_effects_v2/desecrated/loop_cyl.pet,643722,11084
+9e0c3a4ebc9e8d34,trail_bloom.dds.header,Tiny.VA,33082978,1520
+69894ecd35f13fbf,spark.mat,Tiny.V5,32493029,1472
+ab8b9c8767b91ccd,spark.dds,Tiny.V5,6113005,516
+81927f1cd6c29d2d,spark.dds.header,Tiny.VB,6036828,1520
+8ffe8cef984188a3,crossns.dds,Streaming/Content/metadata/particles/ground_effects_v2/desecrated/loop_cyl.pet,556166,87556
+b2e123b663eaae72,crossns.dds.header,Tiny.V1,32776665,1520
+91c7456c0ad7098b,cross_colour.mat,Tiny.V2,32801774,2900
+7279e4cfbee15cf5,cross_colour.dds,Streaming/Content/metadata/particles/ground_effects_v2/desecrated/loop_cyl.pet,468610,87556
+d97082c9d79a2a3b,cross_colour.dds.header,Tiny.V5,32491509,1520

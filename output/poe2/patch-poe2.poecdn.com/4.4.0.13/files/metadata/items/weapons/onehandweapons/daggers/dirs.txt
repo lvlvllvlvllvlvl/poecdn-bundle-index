@@ -1,0 +1,8 @@
+microtransactions
+microtransactions/battlepasstwoarakaalisfang_fx
+microtransactions/marionettedagger
+microtransactions/royalsacrificaldagger
+microtransactions/royalsacrificaldagger/attachments
+microtransactions/watergoblindagger
+uniques
+uniques/primalistdagger

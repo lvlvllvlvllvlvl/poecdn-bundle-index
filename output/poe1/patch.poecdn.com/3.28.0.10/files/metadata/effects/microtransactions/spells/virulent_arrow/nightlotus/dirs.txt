@@ -1,0 +1,6 @@
+pet
+pet/buildup
+pet/buildup/weapon_fx
+pet/main_proj
+pet/pods
+pet/pods_proj

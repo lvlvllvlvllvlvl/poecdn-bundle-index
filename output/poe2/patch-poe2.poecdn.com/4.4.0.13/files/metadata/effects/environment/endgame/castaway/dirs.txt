@@ -1,0 +1,10 @@
+ao
+epk
+epk/barrelexplosion
+fx
+fx/barrelexplosion
+mat
+mat/activate
+mat/barrelexplosion
+mat/explosion
+mat/fog

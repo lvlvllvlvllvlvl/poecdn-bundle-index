@@ -1,0 +1,6 @@
+attack_shaper
+darkstoryglyph
+doodads
+elder_portal
+watcher_rune
+zanachannel

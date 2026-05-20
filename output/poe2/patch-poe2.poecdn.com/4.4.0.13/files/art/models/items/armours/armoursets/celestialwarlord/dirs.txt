@@ -1,0 +1,15 @@
+alt
+alt/attachments
+alt/attachments/chestplatedangle
+alt/attachments/headcloth
+alt/attachments/robe
+base
+base/attachments
+base/attachments/cape
+base/attachments/chestplatedangle
+base/attachments/helmetcloth
+base/attachments/robe
+base/attachments/robe/female
+base/attachments/robe/male
+textures
+textures/alt

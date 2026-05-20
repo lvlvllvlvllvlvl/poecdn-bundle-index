@@ -1,0 +1,3 @@
+claw_stab
+shield_nova
+sword_slash

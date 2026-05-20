@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+0a61f00ad7c85713,fx_sss_mask_dxt1.dds,Streaming/Content/metadata/pet/freyacompanion/attachments/romanfreyazombieheld.ao,0,43852
+8d620ade25fa2a35,fx_sss_mask_dxt1.dds.header,Tiny.V4,5587724,1520
+896783eabae3395c,veins_noise_dxt1.dds,Streaming/Content/metadata/pet/freyacompanion/freya.ao,16639,349692
+90eb98efd05e6077,veins_noise_dxt1.dds.header,Tiny.VC,5384998,840
+38d207c0e045fff1,project zombiec.mat,Tiny.VE,5463228,6390
+31f71e4d37cc16dc,project zombie_metal_dxt5.dds,Streaming/Content/metadata/pet/freyacompanion/attachments/romanfreyazombieheld.ao,917988,349700
+1ee063bf481fd27e,project zombie_metal_dxt5.dds.header,Tiny.V4,5589244,1520
+9fcec37667a50c69,project zombie_normal_dxt5.dds,Streaming/Content/metadata/pet/freyacompanion/attachments/romanfreyazombieheld.ao,1267688,1398276
+d55f9030b28d30ae,project zombie_normal_dxt5.dds.header,Tiny.V3,5321097,1520
+c51cbf946ad66f6c,project zombie_colour.dds,Streaming/Content/metadata/pet/freyacompanion/attachments/romanfreyazombieheld.ao,43852,699212
+66091250ff927d57,project zombie_colour.dds.header,Tiny.VC,5383478,1520
+be573309ce15a37a,project zombie_glowmask_dxt1.dds,Streaming/Content/metadata/pet/freyacompanion/attachments/romanfreyazombieheld.ao,743064,174924
+b50ff1dc361660b8,project zombie_glowmask_dxt1.dds.header,Tiny.V9,5504977,1520

@@ -1,0 +1,10 @@
+robe
+robe/f
+robe/m
+robe/str
+sidepipes
+sidepipes/f
+sidepipes/m
+sleeves
+sleeves/l
+sleeves/r

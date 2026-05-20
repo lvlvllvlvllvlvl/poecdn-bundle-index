@@ -1,0 +1,9 @@
+candle_mortar_hit
+candle_mortar_proj
+fallingdust
+flamebreath
+leap_slam_circular
+leap_slam_rect
+sweep_projectile
+sword_flame_infusion
+swordsparks

@@ -1,0 +1,16 @@
+epk
+fx
+graph
+mat
+mat/activate
+mat/activate/burst
+mat/activate_black
+mat/activate_black/burst
+mat/activate_pink
+mat/activate_pink/burst
+mat/idle
+mat/idle_black
+mat/idle_pink
+mat/idle_podium
+mat/idle_podium_black
+mat/idle_podium_pink

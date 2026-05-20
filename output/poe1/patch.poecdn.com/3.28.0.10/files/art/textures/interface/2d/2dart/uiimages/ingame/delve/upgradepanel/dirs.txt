@@ -1,0 +1,10 @@
+french
+german
+japanese
+korean
+portuguese
+russian
+simplified chinese
+spanish
+thai
+traditional chinese

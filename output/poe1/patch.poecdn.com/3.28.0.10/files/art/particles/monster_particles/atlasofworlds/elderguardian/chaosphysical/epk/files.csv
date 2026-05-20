@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e700079eb2e12704,smoke_2.mat,Tiny_6,65640424,2746
+68b685784415524f,smoke_2.dds,Art/particles/monster_particles/aura_11,0,349700
+5f01c76ec16be1c3,smoke_2.dds.header,Tiny_6,79007687,1520
+74b519e3fcc0d298,poison_smoke.mat,Tiny_6,65637858,2566
+e4667b268b3ffa99,poison_smoke.dds,Art/particles/monster_particles/AtlasofWorlds_8,0,43876
+1cd25eaf247264a4,poison_smoke.dds.header,Tiny_6,65893328,840
+b873d9bd56eac40d,leaves_b.mat,Tiny_6,65636008,1850
+bda898263c45eeca,leaves_b.dds,Art/particles/monster_particles/AtlasofWorlds_20,284720,5668
+debb918be99ed2f0,leaves_b.dds.header,Tiny_6,79000419,504

@@ -1,0 +1,2 @@
+melee_rig
+melee_rig/animations

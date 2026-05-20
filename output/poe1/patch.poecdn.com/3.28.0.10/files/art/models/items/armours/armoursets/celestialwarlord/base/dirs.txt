@@ -1,0 +1,6 @@
+attachments
+attachments/capelet
+attachments/chestplate
+attachments/chestplate/attachments
+attachments/headcloth
+attachments/robem

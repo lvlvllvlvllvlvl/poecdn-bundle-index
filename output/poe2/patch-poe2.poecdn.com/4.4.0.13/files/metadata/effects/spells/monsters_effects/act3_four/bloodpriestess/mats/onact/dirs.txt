@@ -1,0 +1,6 @@
+attack
+blooddrips
+clawcombo
+clawflurry
+defeat
+teleport

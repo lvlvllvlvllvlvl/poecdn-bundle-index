@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+d9b28e1a1a42cf24,bonepointemitter_axis.fxgraph,Folders/metadata/effects.4,19816126,143294
+ae5611d0f6933ec3,mask_spherical_meshspace_lifetime.fxgraph,Folders/metadata/effects.4,20847140,265346
+58e138a649466d82,scalebyboundingbox.fxgraph,Folders/metadata/effects.4,21112486,34788
+79fe3d579a935a38,sphereemitter_boundingbox_syncedrandomness.fxgraph,Folders/metadata/effects.4,21147274,219102
+36546187632bafbf,emitimpulsealong.fxgraph,Folders/metadata/effects.4,20552198,52694
+6051f3cbbdfc3e2c,emitteroffsetlocaldetermistic.fxgraph,Folders/metadata/effects.4,20604892,131664
+4ba3cb7ccacee757,emitteroffsetworlddetermistic.fxgraph,Folders/metadata/effects.4,20736556,110584
+25107ea0cf4cbccf,circleemitter_boundingbox.fxgraph,Folders/metadata/effects.4,19959420,248528
+ba5ca4674f21cca4,custom_gushing.fxgraph,Folders/metadata/effects_1,9650440,82564
+38c5bd06afa6d598,customwindcameraproject.fxgraph,Folders/metadata/effects.4,20207948,174308
+8478c8e042731624,customwindtimelineburst.fxgraph,Folders/metadata/effects.4,20382256,169942

@@ -1,0 +1,5 @@
+human_phase2
+human_wolf
+textures
+textures/oghamwolfsummon
+wolf_phase3

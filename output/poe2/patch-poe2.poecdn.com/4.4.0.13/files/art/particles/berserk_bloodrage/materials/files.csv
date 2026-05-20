@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+a28580dcece917b5,blood_splash_render.mat,Tiny.V1,31667616,7344
+492470e585de966a,blood_splash_update.mat,Tiny.VA,31932989,352
+cfe76009e20f2db3,blood_buff_pass.mat,Tiny.V1,31655472,12144
+9c3d7ec02751f744,blood_buff_trail.mat,Tiny.V7,31631506,9588
+ad5aad35ba331765,rage_ribbons_render.mat,Tiny.VD,31883681,14286
+a9a91474020c65a7,rage_ribbons_update.mat,Tiny.V6,31628211,6232
+7603f9af0459eb53,rage_buff_bear_pass.mat,Tiny.VA,31933341,9610
+7eda78641a915cef,rage_buff_pass.mat,Tiny.V8,31557803,9398

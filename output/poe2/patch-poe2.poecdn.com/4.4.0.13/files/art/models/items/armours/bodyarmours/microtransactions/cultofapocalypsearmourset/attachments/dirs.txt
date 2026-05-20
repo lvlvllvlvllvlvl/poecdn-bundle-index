@@ -1,0 +1,6 @@
+cloth
+cloth/female
+cloth/male
+skirt
+skirt/female
+skirt/male

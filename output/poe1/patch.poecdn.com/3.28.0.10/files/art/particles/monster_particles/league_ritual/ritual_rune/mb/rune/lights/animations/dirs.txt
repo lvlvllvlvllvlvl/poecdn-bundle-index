@@ -1,0 +1,2 @@
+ritual_aoe
+shrine

@@ -1,0 +1,10 @@
+church
+female
+femalelarge
+lion
+lion02
+male
+male/oblivionspectre
+male/onyxoblivionspectre
+malelarge
+petrificationstatue

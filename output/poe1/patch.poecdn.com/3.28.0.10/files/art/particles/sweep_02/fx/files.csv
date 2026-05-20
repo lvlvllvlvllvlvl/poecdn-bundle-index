@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+afa2dd3a11a7feac,trail_sweep.mat,Tiny_7,39292806,3616
+f531a36a4c785b16,trail_sweep_dxt5.dds,Art/Microtransactions/spell/whirlwind,1327224,87556
+67729fce082d5054,trail_sweep_dxt5.dds.header,Tiny_7,39288598,1520
+93d999c5f33530bb,swipe_trail.mat,Tiny_7,39290118,1168
+293d9a2b613a354f,swipe_trail_dxt5.dds,Art/particles/sweep_02/fx,0,87556
+79a4ad6832f88d32,swipe_trail_dxt5.dds.header,Tiny_7,39291286,1520
+276584d77b3facca,sweep_main.mat,Art/particles/sweep_02/fx,87556,4314
+43e3fc56a3299b29,sweep_main_dxt5.dds,Art/Microtransactions/spell/whirlwind,1327224,87556
+1edf8c23f7569b36,sweep_main_dxt5.dds.header,Tiny_7,39288598,1520
+56868d5640082bf1,blur_dust.mat,Tiny_7,39284018,3060
+594020279c7aa048,blur_dust_dxt5.dds,Art/particles/sweep_02/fx_1,0,22020
+41e6cb927d253def,blur_dust_dxt5.dds.header,Tiny_7,39287078,1520
+6f34e0161bbee779,blade_shimmer.mat,Tiny_7,39282934,1084
+4bc614e74415fe96,blade_edge.mat,Tiny_7,39280458,956
+7a39f7799ff0a6dd,blade_edge_dxt5.dds,Folders/art/particles/distortion_4,376246,87556
+bd9c682dc22fd24b,blade_edge_dxt5.dds.header,Tiny_7,39281414,1520

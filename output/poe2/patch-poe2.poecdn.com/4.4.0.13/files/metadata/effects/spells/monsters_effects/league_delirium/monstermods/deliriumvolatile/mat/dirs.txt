@@ -1,0 +1,4 @@
+blood_aura
+blood_explosion
+blood_surge
+blood_trail

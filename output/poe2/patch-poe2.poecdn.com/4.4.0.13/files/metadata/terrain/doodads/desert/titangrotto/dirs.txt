@@ -1,0 +1,9 @@
+effects
+effects/blue
+effects/blue/ao
+effects/blue/mat
+effects/blue/pet
+effects/pets
+headvariations
+pots
+titanstatues

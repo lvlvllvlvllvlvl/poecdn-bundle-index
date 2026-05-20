@@ -1,0 +1,6 @@
+attachments
+attachments/flowerclose
+attachments/floweropen
+fx
+fx/texture
+textures

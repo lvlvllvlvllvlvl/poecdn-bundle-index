@@ -1,0 +1,2 @@
+onact
+onact/attack1_2hsword

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+5aef8cb5f79629b2,ring_small_blur_r.mat,Tiny_D,403791144,11438
+e91fbf8074ea6b8f,ring_small_r.mat,Tiny_D,403954098,56828
+f829bd643f1fd16c,ring_small_u.mat,Tiny_D,404010926,14760
+7bc6b0cb1828469c,ring_small_full_r.mat,Tiny_D,403874428,78026
+51b282ac664fed39,ring_small_full_u.mat,Tiny_D,403952454,1644
+7692f4bb17f22772,ring_small_collapse_r.mat,Tiny_D,403802582,63762
+9d67c50b30094d86,ring_small_collapse_u.mat,Tiny_D,403866344,8084
+57a9256633daae7f,ring_blur_streaks_r.mat,Tiny_D,403772508,16712
+53f7442ade396b58,ring_blur_streaks_u.mat,Tiny_D,403789220,1924

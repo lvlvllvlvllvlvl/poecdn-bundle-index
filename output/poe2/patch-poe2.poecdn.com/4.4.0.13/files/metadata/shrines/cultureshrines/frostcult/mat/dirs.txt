@@ -1,0 +1,4 @@
+eyes_glow
+monster_affected
+orb_midup
+vol_core

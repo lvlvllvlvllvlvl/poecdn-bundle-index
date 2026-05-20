@@ -1,0 +1,16 @@
+graphs
+pet
+pet/buff_wave
+pet/buff_wave_ruin
+pet/clone_appear
+pet/clone_appear_ruin
+pet/clone_disappear
+pet/clone_disappear_ruin
+pet/clone_idle
+pet/clone_idle_ruin
+pet/clone_strike
+pet/clone_strike_ruin
+pet/on_act
+pet/on_act/attack_01
+pet/on_act/cleave_projectile_01
+pet/on_act/heavystrike_01

@@ -1,0 +1,5 @@
+fx
+fx/lightning_beam
+fx/onact
+fx/projectile
+graphs

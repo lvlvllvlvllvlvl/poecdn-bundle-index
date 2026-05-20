@@ -1,0 +1,9 @@
+abysschests
+classicvault
+cosmicchest
+cosmicchest/fx
+fruit_tree
+strongboxes
+strongboxes/bookstandstrongbox
+strongboxes/strongbox_lock
+vaalchests

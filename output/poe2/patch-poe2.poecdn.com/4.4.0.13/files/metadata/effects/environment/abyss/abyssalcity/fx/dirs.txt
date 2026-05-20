@@ -1,0 +1,5 @@
+destroy_01
+full_idle_01
+half_idle_01
+idle_off
+transition_to_half_idle_01

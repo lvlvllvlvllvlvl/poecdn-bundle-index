@@ -1,0 +1,15 @@
+ground_slam_01
+ground_slam_02
+leap_slam
+leap_slam_land
+multi_slam_01
+multi_slam_02
+on_act_attack_01
+on_act_deathpoof
+on_act_leapslam
+on_act_leapslam_01
+on_act_sweep_cleave
+on_act_vomit
+sweep_cleave
+vomin_mortar
+vomit_mortar_impact

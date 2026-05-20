@@ -1,0 +1,8 @@
+ascendancy_rework
+ascendancy_rework/adrenaline
+debilitating_presence
+debilitating_presence/fadeout
+elder_guardian_weapons
+elder_guardian_weapons/dominator
+elder_guardian_weapons/redeemer
+elder_guardian_weapons/subjulgator

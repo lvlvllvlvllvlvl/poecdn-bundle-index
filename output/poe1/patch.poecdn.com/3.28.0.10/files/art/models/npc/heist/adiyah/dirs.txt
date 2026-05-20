@@ -1,0 +1,5 @@
+attachments
+attachments/adiyahcoat
+attachments/adiyahhair
+attachments/adiyahstaff
+attachments/adiyahstaff/adiyahstaffend

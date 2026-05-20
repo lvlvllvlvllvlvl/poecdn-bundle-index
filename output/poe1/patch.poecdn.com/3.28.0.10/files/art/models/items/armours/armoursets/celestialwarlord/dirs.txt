@@ -1,0 +1,15 @@
+alt
+alt/attachments
+alt/attachments/chestplate
+alt/attachments/chestplate/attachments
+alt/attachments/headcloth
+alt/attachments/robe
+base
+base/attachments
+base/attachments/capelet
+base/attachments/chestplate
+base/attachments/chestplate/attachments
+base/attachments/headcloth
+base/attachments/robem
+textures
+textures/alt

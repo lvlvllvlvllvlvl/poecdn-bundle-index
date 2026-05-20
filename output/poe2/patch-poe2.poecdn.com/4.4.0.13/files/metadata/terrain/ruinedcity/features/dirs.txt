@@ -1,0 +1,5 @@
+balls
+gallows
+statues
+statues/monster
+trees

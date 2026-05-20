@@ -1,0 +1,7 @@
+attachments
+attachments/arohonguikaruimooncaster
+attachments/arohonguikaruimooncaster/hair
+attachments/arohonguikaruimooncaster/skirt
+attachments/arohonguikaruipo
+attachments/arohonguikaruipo/skirt
+attachments/arohonguikaruipo/weapon

@@ -1,0 +1,9 @@
+charge_up
+charges
+maxed_out
+pulse
+release
+release_max
+spirit_slash
+spirit_slash/shadow01
+surge

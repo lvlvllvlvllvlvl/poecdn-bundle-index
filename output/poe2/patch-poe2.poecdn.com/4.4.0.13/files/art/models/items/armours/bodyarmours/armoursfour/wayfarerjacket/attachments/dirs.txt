@@ -1,0 +1,7 @@
+female
+female/danglers
+female/skirt
+male
+male/danglers
+male/skirt
+male/str_danglers

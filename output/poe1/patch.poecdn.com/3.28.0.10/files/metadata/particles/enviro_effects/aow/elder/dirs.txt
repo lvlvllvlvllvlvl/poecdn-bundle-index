@@ -1,0 +1,6 @@
+darkstoryglyph
+darkstoryglyph/glyphbeam
+elder_portal
+memory_fragment
+watcher_rune
+zana_channel

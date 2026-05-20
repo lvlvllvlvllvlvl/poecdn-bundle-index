@@ -1,0 +1,12 @@
+graph
+mat
+mat/act_eggproj
+mat/act_spellcast_aoe
+mat/act_spellcast_proj_01
+mat/body_base
+mat/egg_explosion
+mat/egg_impact
+mat/egg_pop
+mat/egg_projectile
+mat/projectile
+pets

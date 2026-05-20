@@ -1,0 +1,12 @@
+mb
+mb/bloodlane_motes
+mb/bloodspear
+mb/bloodspear_throwrig
+mb/clone_fmts
+mb/lightning_spear_proj
+mb/lightning_spear_proj/animations
+mb/melee_rig
+mb/mirror_fmts
+mb/sacrifice_motes
+mb/wall
+textures

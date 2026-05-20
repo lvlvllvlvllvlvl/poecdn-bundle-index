@@ -1,0 +1,9 @@
+fx
+fx/beam
+fx/beam/animations
+karui_totemsrigged
+textures
+textures/jadetotem
+textures/pristine
+textures/structures
+textures/worn

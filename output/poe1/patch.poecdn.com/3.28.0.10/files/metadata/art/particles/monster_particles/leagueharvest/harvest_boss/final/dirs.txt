@@ -1,0 +1,17 @@
+battle_root
+battle_root/override
+bulb_ultimate
+crown_of_thorns
+on_act
+on_act/crown_of_thorns
+on_act/death
+on_act/emerge
+on_act/scale_ultimate
+on_act/thorn_ultimate
+on_act/transition
+phase_transition
+road_roots
+spam_proj
+thorn_ultimate
+travel_blast
+vine_cascade

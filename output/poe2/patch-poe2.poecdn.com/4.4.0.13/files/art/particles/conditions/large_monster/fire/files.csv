@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+a6a07849b8dfc09b,light_grad.mat,Tiny.VB,32154052,1180
+ff01e8a612b63908,light_grad.dds,Streaming/Content/metadata/particles/elemental_damages/revenant/revenant_fire_damage3.pet,218776,22020
+62e464325540c1b4,light_grad.dds.header,Tiny.V0,3457360,1520
+f90fbd9db34a5a6b,lut_dxt5.dds,Tiny.VF,32128031,2212
+51c1621544687e5f,lut_dxt5.dds.header,Tiny.V4,32335320,280
+1bfa72efd1d442fc,fire_bits_2x2.mat,Tiny.VB,32151180,2872
+127dd15e89f5ed17,fire_bits_2x2_dxt1.dds,Streaming/Shared/Normal/Shared.2,4658498,174924
+d4bea76ed2823221,fire_bits_2x2_dxt1.dds.header,Tiny.VF,33249004,1520
+4589daf5889ae5d0,fire_01_2x2.mat,Tiny.V8,31740688,2516
+ba973a6c85ba9b85,fire_01_2x2_bc1.dds,Streaming/Content/metadata/monsters/forsakenson/icespike.ao,288418,174924
+6e5878fa09117325,fire_01_2x2_bc1.dds.header,Tiny.V5,31528349,1520
+2059f518a5390477,flame_tile_dxt5.dds,Streaming/Content/metadata/effects/statusailments/ignited_sin_player.epk,274300,349700
+cdb6b3e1dcab19e8,flame_tile_dxt5.dds.header,Tiny.V5,31529869,1520

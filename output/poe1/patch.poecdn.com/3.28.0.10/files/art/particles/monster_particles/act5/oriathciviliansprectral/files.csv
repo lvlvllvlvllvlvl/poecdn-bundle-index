@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+89cd3fe1a0a5659a,wisp_smoke_add.mat,Tiny_6,55620326,2922
+f9cc2fc929e1bc49,wisp_smoke_add.dds,Art/particles/monster_particles/act5_20,1776378,22020
+42622d794ea7c64c,wisp_smoke_add.dds.header,Tiny_6,55618806,1520
+55045b44bd8c64a1,spark.mat,Tiny_6,55616916,1890
+1cb1acc662fccbda,spark.dds,Tiny_6,110636498,516
+b7bfa9d43108588f,spark.dds.header,Tiny_6,110637014,1520
+0ee36cd3bc87aa28,smoke_grain.mat,Tiny_6,55613622,3294
+77007a47200e2db3,smoke_grain.dds,Art/particles/monster_particles/act5_20,1798398,11108
+b852f0967e39cc6a,smoke_grain.dds.header,Tiny_6,55612782,840
+fb5373a78d7f372e,light_ring_add.mat,Tiny_6,55611218,1564
+d5118e1c20080656,light_ring_add.dds,Art/particles/monster_particles/act5_20,1770742,5636
+0a1454c58eaf553e,light_ring_add.dds.header,Tiny_6,55609698,1520
+600898e126f54c58,light_prtcl.mat,Tiny_6,55606906,2792
+cb2785af81d23701,light_prtcl.dds,Tiny_6,80332123,2892
+29639dfa59e469ed,light_prtcl.dds.header,Tiny_6,80335015,1520

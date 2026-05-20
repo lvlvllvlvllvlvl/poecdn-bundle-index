@@ -1,0 +1,9 @@
+chestseaweed
+headseaweed
+hipseaweed
+l_lowerlegseaweed
+l_upperarmseaweed
+l_upperlegseaweed
+r_armseaweed
+r_lowerlegseaweed
+r_upperlegseaweed

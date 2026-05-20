@@ -1,0 +1,7 @@
+mb
+mb/cordyceps
+mb/on_hit
+textures
+textures/bow
+textures/death
+textures/on_hit

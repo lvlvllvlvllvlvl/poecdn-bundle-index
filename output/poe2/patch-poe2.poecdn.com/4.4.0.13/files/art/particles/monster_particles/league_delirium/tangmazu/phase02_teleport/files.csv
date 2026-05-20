@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+73183ffd02492189,decal.fmt,Tiny.VE,36555756,1302
+d0eb555b00d46685,decal.fmt.header,Tiny.V2,36881896,128
+3c82768596d65453,box1.fmt,Tiny.VA,37173538,964
+83342618d68ae8a0,box1.fmt.header,Tiny.V4,37238414,128
+49c5e8a07d74d0e0,rig.amd,Tiny.V2,36882716,122
+3c366780b04ce79c,rig.ast,Tiny.VC,36970314,982
+8496916679a41084,frame_02.fmt,Tiny.V6,36833514,2500
+d46948054ab96e5d,frame_02.fmt.header,Tiny.V3,36381205,128
+fc4ac7ea99d22aef,frame_01.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/FAD2B4308B7A5474.2295463C765B64CE.halo_pit_01.pet,470513,7202
+25d7cb369c6a212d,frame_01.fmt.header,Tiny.VA,37174502,128
+c7fa63a14379fbf8,glass_shatter_01.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/A9FA1323F4C4C558.5596330DB9CF188B.fwdline.pet,432028,27882
+025fe87049f1a244,glass_shatter_01.fmt.header,Tiny.V2,36882024,692
+f8e0ddc373e62184,glass_shatter_02.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/A9FA1323F4C4C558.209779F6E2A1022B.cube_glass_shatter_02.pet,0,18566
+b58403d13f9dd27c,glass_shatter_02.fmt.header,Tiny.V1,36766278,653
+17e1e0b4b6143e55,glass_shatter_03.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/A9FA1323F4C4C558.5596330DB9CF188B.fwdline.pet,404182,27846
+d0ae65287bb1876a,glass_shatter_03.fmt.header,Tiny.V5,36495602,653

@@ -1,0 +1,10 @@
+attachments
+attachments/bloodfeverblisters
+attachments/bloodfeverhair
+attachments/bloodfeverrobe
+attachments/bowl
+attachments/earring
+attachments/hair
+attachments/robe
+attachments/shawl
+attachments/tawhoamedicinewomanshawl

@@ -1,0 +1,4 @@
+freezingmark_buff
+hunter
+preying
+voltaicmark_buff

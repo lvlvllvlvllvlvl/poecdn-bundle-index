@@ -1,0 +1,6 @@
+wrappedgift1_drop
+wrappedgift1_idle
+wrappedgift2_drop
+wrappedgift2_idle
+wrappedgift3_drop
+wrappedgift3_idle

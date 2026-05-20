@@ -1,0 +1,7 @@
+architecture
+buriedchestprops
+chestpots
+clusters
+effects
+g2_4_1
+recolour

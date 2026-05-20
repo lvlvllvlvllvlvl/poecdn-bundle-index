@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+6294e56da0569ad8,spaceminioncns.mat,Art/Textures/Monsters/LeagueIncursion/TimeSpaceMinion,699400,4780
+4ec5857afd41bbec,spaceminion_normal.mat,Tiny_8,34069616,1118
+1ca25fb9dc3328fb,spaceminion_normal.dds,Art/Textures/Monsters/LeagueIncursion/TimeSpaceMinion,0,349700
+1a21bcae07db5ca4,spaceminion_normal.dds.header,Tiny_8,34068096,1520
+e8cd435054cd3780,spaceminion_colour.dds,Art/Textures/Monsters/LeagueIncursion/TimeSpaceMinion,704180,349700
+e8a31473758c73bc,spaceminion_colour.dds.header,Tiny_8,34066576,1520
+3264beea776c0e58,spaceminionns.dds,Art/Textures/Monsters/LeagueIncursion/TimeSpaceMinion,1053880,349700
+978b9297b516ef15,spaceminionns.dds.header,Tiny_8,34070734,1520
+5a2187d089f4e873,maskcns.mat,Tiny_8,34062078,2978
+710c8c35088db6ea,mask_colour.dds,Art/Textures/Monsters/LeagueIncursion/TimeSpaceMinion,349700,349700
+bbf9fc69a0db0968,mask_colour.dds.header,Tiny_8,34060558,1520
+48c4501edf493953,maskns.dds,Art/Textures/Monsters/LeagueIncursion/TimeSpaceMinion_1,0,349700
+b29aa86c005db96b,maskns.dds.header,Tiny_8,34065056,1520

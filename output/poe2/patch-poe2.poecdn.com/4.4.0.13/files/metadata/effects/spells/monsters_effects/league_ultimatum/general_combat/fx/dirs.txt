@@ -1,0 +1,9 @@
+vaal_ape
+vaal_golem
+vaal_golem/act
+vaal_guards
+vaal_guards/act
+vaal_snakehead
+vaal_spider
+vaal_wraith
+vaal_wraith/act

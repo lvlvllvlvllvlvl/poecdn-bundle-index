@@ -1,0 +1,4 @@
+bow
+claw_claw
+hook
+sword

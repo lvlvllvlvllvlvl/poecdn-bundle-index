@@ -1,0 +1,8 @@
+de_de
+es_es
+fr_fr
+ko_kr
+pt_br
+ru_ru
+th_th
+tw_zh

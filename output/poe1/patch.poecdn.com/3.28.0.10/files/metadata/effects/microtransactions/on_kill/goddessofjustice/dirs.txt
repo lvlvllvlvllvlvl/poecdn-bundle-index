@@ -1,0 +1,8 @@
+attachments
+epk
+fx
+graph
+mat
+mat/balance
+mat/burn_corpse
+mat/heaven_death

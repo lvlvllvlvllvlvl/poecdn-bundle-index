@@ -1,0 +1,17 @@
+attachments
+epk
+fx
+graphs
+mat
+mat/emerge_rocks
+mat/melee_trail
+mat/rockfall
+mat/rockfall_marker
+mat/volcanic_fissure
+mat/volcano
+mat/volcano/volcano_crumble
+mat/volcano/volcano_eruption
+mat/volcano/volcano_inactive
+mat/volcano/volcano_lavaspill
+mat/volcano_projectile
+mat/volcano_projectile_impact

@@ -1,0 +1,7 @@
+alt
+alt/attachments
+alt/attachments/shawls
+alt/attachments/skirts
+attachments
+attachments/shawls
+attachments/skirts

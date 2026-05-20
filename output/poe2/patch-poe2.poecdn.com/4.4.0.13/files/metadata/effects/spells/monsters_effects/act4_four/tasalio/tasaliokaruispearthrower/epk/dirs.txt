@@ -1,0 +1,5 @@
+onact
+onact/disengage_01
+onact/spear_throw_01
+spear_throw_01
+spear_throw_01/frozenspear_idle

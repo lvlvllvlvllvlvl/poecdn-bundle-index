@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+6855639f052e377f,portal_close_mid.pet,Tiny_9,344369034,6618
+4b57706bb9103751,portal_open_box.pet,Tiny_9,344403570,5082
+2c29868a093789cc,portal_open_mid.pet,Tiny_9,344408652,5300
+d9135b983cff13b9,portal_idle_box.pet,Tiny_9,344375652,5076
+2267400401873d11,portal_idle_gateframe.pet,Tiny_9,344380728,11050
+8b97104df6840ad0,portal_idle_light.pet,Tiny_9,344391778,5176
+550d50e487e19716,portal_idle_mid.pet,Tiny_9,344396954,6616
+552e542e3c915470,npc_emerge.pet,Tiny_9,344363956,5078
+8d18069f28698e0f,npc_barrow_emerge.pet,Tiny_9,344352462,6320
+9c5eb889f4864beb,npc_barrow_emerge_once.pet,Tiny_9,344358782,5174

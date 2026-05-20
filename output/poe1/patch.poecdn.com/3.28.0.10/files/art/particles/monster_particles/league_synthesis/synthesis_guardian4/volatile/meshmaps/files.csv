@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+186118bb2023d426,sscorpsewheelc.mat,Tiny_7,11678124,3604
+2a31136409f5c6a3,sscorpsewheel_normal_dxt5.dds,Art/Textures/Monsters/CorpseWheel,0,349700
+6415467716166996,sscorpsewheel_normal_dxt5.dds.header,Tiny_8,29598322,1520
+2321de1fce17df0a,sscorpsewheel_colour_dxt5.dds,Art/particles/monster_particles/League_Synthesis_71,349692,699236
+c0bac6f09365ea79,sscorpsewheel_colour_dxt5.dds.header,Tiny_7,11677284,840
+7626a2fffc723dbf,sscorpsewheel_colour_dxt1.dds,Art/particles/monster_particles/League_Synthesis_71,0,349692
+ee31847464eb4cec,sscorpsewheel_colour_dxt1.dds.header,Tiny_8,29597482,840
+1e7875b2254ea262,sscorpsewheel_colour_bc1.dds,Art/particles/monster_particles/League_Synthesis_71,0,349692
+ed099117069dfe61,sscorpsewheel_colour_bc1.dds.header,Tiny_8,29597482,840

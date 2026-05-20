@@ -1,0 +1,7 @@
+attachments
+attachments/beltaccessories
+attachments/bodyribbons
+attachments/helmetribbons
+attachments/necklace
+attachments/skirt
+textures

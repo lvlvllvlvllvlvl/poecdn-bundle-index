@@ -1,0 +1,6 @@
+mb
+mb/discharge_explosion
+textures
+textures/discharge_explosion
+textures/volatile_fireflies
+textures/volatile_fireflies/detonate

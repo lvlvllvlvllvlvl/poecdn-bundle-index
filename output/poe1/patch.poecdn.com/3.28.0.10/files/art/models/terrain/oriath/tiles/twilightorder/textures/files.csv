@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+cdaa777769dea0c4,order_prayerplatform03c.mat,Tiny_7,518189,2184
+39c22e00123b4883,order_prayerplatform03_normal_dxt5.dds,Folders/art/models/terrain/oriath/tiles/twilightorder_F1,2097488,1398276
+028ca4a65dacf973,order_prayerplatform03_normal_dxt5.dds.header,Tiny_7,516669,1520
+060f49d9ebfcbea6,order_prayerplatform03_colour_dxt1.dds,Folders/art/models/terrain/oriath/tiles/twilightorder_F1,1398276,699212
+b119e5be50ea0c86,order_prayerplatform03_colour_dxt1.dds.header,Tiny_7,515149,1520
+56cfba5a6677a6d8,order_prayerplatform01c.mat,Tiny_7,512965,2184
+b92142a626470c6d,order_prayerplatform01_normal_dxt5.dds,Folders/art/models/terrain/oriath/tiles/twilightorder_F1,0,1398276
+da3c98ffc1d23826,order_prayerplatform01_normal_dxt5.dds.header,Tiny_7,511445,1520
+7b1f55bdb03f0623,order_prayerplatform01_colour_dxt1.dds,Folders/art/models/terrain/oriath/tiles/twilightorder_E1,2097488,699212
+268a94dfe9518ab1,order_prayerplatform01_colour_dxt1.dds.header,Tiny_7,509925,1520
+5ff2d4cdb3d83d74,order_marbleflat01c.mat,Tiny_7,507699,2226
+aabdc9858a02df9e,order_marbleflat01_normal_bc7.dds,Folders/art/models/terrain/oriath/tiles/twilightorder_E1,699212,1398276
+c6d4712788df3c48,order_marbleflat01_normal_bc7.dds.header,Tiny_7,506179,1520
+4cd84fb7399b1026,order_marbleflat01_colour_bc1.dds,Folders/art/models/terrain/oriath/tiles/twilightorder_E1,0,699212
+da33328952d54f4b,order_marbleflat01_colour_bc1.dds.header,Tiny_7,504659,1520

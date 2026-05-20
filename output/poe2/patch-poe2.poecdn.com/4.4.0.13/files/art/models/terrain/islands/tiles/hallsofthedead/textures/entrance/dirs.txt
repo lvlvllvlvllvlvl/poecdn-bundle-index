@@ -1,0 +1,8 @@
+ammonite
+cavestroma
+edges
+ground
+sandclifflarge
+stalagmites
+statues
+tafonirock

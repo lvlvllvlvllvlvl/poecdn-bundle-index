@@ -1,0 +1,8 @@
+blackstararena
+blackstararena/textures
+cleansingfirearena
+cleansingfirearena/influencedoodads
+cleansingfirearena/influencedoodads/textures
+primordialaltars
+primordialaltars/vfx
+primordialaltars/vfx/textures

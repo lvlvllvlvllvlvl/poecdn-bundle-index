@@ -1,0 +1,7 @@
+attachments
+attachments/brain
+attachments/hooddrawstrings
+attachments/paper
+attachments/robe
+attachments/tail
+attachments/thecollectorbrainrings

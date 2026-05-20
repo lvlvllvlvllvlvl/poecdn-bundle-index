@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+06de7821ede08e70,poolc.mat,Tiny_6,98710190,8656
+618107558c936be1,pool_specular_dxt5.dds,Folders/art/particles/monster_particles/league_betrayal,3280096,1398276
+f484c9ab79cc1c02,pool_specular_dxt5.dds.header,Tiny_6,101965920,1520
+c7026332592910f5,pool_normal_dxt5.dds,Folders/art/particles/monster_particles/leagueharvest_9,0,1398276
+bb10aba985befbbc,pool_normal_dxt5.dds.header,Tiny_7,4140472,1520
+fee5bf3990ca9d0a,pool_colour_dxt5.dds,Folders/art/particles/monster_particles/league_betrayal,1881820,1398276
+62fea2dac5e651cb,pool_colour_dxt5.dds.header,Tiny_6,98708670,1520
+6ba8002977a862a0,pool_colour.dds,Folders/art/particles/monster_particles/league_betrayal,1881820,1398276
+630cc71e8bd8151f,pool_colour.dds.header,Tiny_6,98708670,1520
+be8da28bb1edd263,ground_mask.mat,Tiny_6,98707432,1238
+fcc617ce6b910db7,ground_mask.dds,Folders/art/particles/monster_particles/league_betrayal,1532120,349700
+d833ef2e503dd7e2,ground_mask.dds.header,Tiny_6,98705912,1520

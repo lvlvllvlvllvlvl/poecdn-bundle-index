@@ -1,0 +1,16 @@
+graphs
+groundtypes
+objects
+rooms
+rooms/beachfill
+rooms/bellyfill
+rooms/boilinglakefill
+rooms/desertfill
+rooms/drygardenfill
+rooms/icefill
+rooms/lavafill
+rooms/overlays
+rooms/swampfill
+rooms/verdantcliffsfill
+tiles
+tiles/swamptrees

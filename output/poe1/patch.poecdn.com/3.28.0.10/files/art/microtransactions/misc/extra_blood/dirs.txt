@@ -1,0 +1,11 @@
+black_blood
+first_blood
+first_blood/red
+first_blood/spider
+first_blood/zombie
+gib_textures
+gibs
+gibs/yellow
+gibs/zombie
+green
+zombie

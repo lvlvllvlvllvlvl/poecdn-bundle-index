@@ -1,0 +1,11 @@
+elemental_outlines
+paleking
+paleking/shadow
+palekingchaos
+palekingchaos/chaos_projectile
+palekingchaos/physical_projectile
+quest
+quest/book
+summon_spectre
+trap
+vanish

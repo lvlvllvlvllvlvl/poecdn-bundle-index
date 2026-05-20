@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+a5b75ee8b0ddac86,water_volume2.mat,Tiny_6,18610146,1734
+bad2177ec4938789,water_volume2.dds,Folders/art/particles/environment_effects/act3,524812,87556
+4bd9c128e7604c92,water_volume2.dds.header,Tiny_6,18608626,1520
+51e75d64486134ae,waterfallsmoke_bottom.mat,Tiny_6,18615176,1500
+ba41417616aa2dd4,waterfallsmoke_bottom.dds,Art/particles/environment_effects/act3_18,87556,87556
+14f5b261aed4e413,waterfallsmoke_bottom.dds.header,Tiny_7,44688661,1520
+d31667038c111d1e,waterfallsmoke.mat,Tiny_6,18613332,1844
+7245f847d0fe9419,waterfallsmoke.dds,Art/particles/environment_effects/act3_18,87556,87556
+68da9fdbcf1de9ef,waterfallsmoke.dds.header,Tiny_7,44688661,1520
+f9aa6005480e0200,waterfallmist.mat,Tiny_6,18611880,1452
+57cdb79ed55618d7,waterfallmist.dds,Art/particles/cargohold/splash,0,87556
+8db031f3d6881592,waterfallmist.dds.header,Tiny_7,44680621,1520
+f61e7de8580cc88c,smoketest.mat,Tiny_6,18607172,1454
+c6ce997ab60cdfca,smoketest.dds,Art/particles/environment_effects/act3_19,1328676,349700
+b39889f2d07fbbe5,smoketest.dds.header,Tiny_7,44686209,1520

@@ -1,0 +1,7 @@
+textures
+textures/karui
+textures/rocks
+textures/rocks/kedgebay
+textures/rocks/shrike
+textures/rocks/shrike/caves
+textures/rocks/shrike/oceanspray

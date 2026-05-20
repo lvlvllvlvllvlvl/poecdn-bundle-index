@@ -1,0 +1,2 @@
+jump_attack
+jump_attack/bomb_arrow

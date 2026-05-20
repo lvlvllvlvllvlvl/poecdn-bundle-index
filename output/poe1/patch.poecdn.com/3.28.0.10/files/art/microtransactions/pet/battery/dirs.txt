@@ -1,0 +1,10 @@
+blue
+global
+gold
+life
+life/mb
+life/mb/rig_new
+life/textures
+mana
+mana/mb
+mana/textures

@@ -1,0 +1,7 @@
+attachments
+attachments/hands
+attachments/lhand
+attachments/rhand
+effects
+effects/textures
+textures

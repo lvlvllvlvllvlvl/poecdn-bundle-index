@@ -1,0 +1,4 @@
+pre_open_01
+townportal
+townportalclose
+townportalopen

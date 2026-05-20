@@ -1,0 +1,16 @@
+absorb_trail
+bone_spear
+bone_spike
+bone_spikes
+bone_wall_burn
+bones_cascade_start
+bones_trail
+bonespearspull
+bonespikespush
+disintegrate
+fire_teleport
+fire_wave_cascade2
+flamethrower
+on_act
+on_act/fire_wave_01
+phase2_start

@@ -1,0 +1,8 @@
+attachments
+attachments/arm_cloth
+attachments/arm_cloth/l_side
+attachments/arm_cloth/r_side
+attachments/ribbon
+attachments/skirt
+attachments/tail
+transform

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+ed978936b9382a09,faithguardwingscns.mat,Art/Textures/Items/armour/body/Microtransactions_287,874324,6624
+cf5719d8c471d953,faithguardwings_specular.mat,Tiny_8,1100470,1220
+2c5c46fd1f4be022,faithguardwings_specular.dds,Art/Textures/Items/armour/body/Microtransactions/FaithguardWings,349700,349700
+e1c7fc3844429fcb,faithguardwings_specular.dds.header,Tiny_8,1098950,1520
+15f9510ddc57806c,faithguardwings_glow.mat,Tiny_8,1097754,1196
+ee2f16726be11d73,faithguardwings_glow.dds,Art/Textures/Items/armour/body/Microtransactions/FaithguardWings,0,349700
+af401a90ffa2b621,faithguardwings_glow.dds.header,Tiny_8,1096234,1520
+8eb1e1713ae5d17c,faithguardwings_gloss.mat,Tiny_8,1095032,1202
+67ec6a3a87ce4ee2,faithguardwings_gloss.dds,Art/Textures/Items/armour/body/Microtransactions/FaithguardWings,699400,349700
+a0bbc7c6db493e18,faithguardwings_gloss.dds.header,Tiny_8,1093512,1520
+c24d1d5e51092c3e,faithguardwings_colour.dds,Art/Textures/Items/armour/body/Microtransactions_287,1230648,174924
+1f27c459e7844bb6,faithguardwings_colour.dds.header,Tiny_8,1091992,1520
+2be31fbd44d7a54d,faithguardwingsns.dds,Art/Textures/Items/armour/body/Microtransactions_287,880948,349700
+ffa7448a47d1ebac,faithguardwingsns.dds.header,Tiny_8,1101690,1520

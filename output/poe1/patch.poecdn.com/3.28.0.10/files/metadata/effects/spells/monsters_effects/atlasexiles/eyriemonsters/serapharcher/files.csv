@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+8b8805ab5c1dd8b6,impact.ao,Tiny_D,29469186,2338
+0d745f1a7b61bdce,mortar.ao,Tiny_D,29471524,3596
+8fc0b4ab47be8cfd,projectile.ao,Tiny_D,29475120,4540
+9f34b44c03398a9c,snipe_projectile.ao,Tiny_D,29479660,5822
+fbe41474c40c0d62,trickshot_crystals.ao,Tiny_D,29485482,6490
+a24286aa54bcc20c,trickshot_shatterproj.ao,Tiny_D,29491972,4138
+f1de70bf3b871182,trickshot_snipe_projectile.ao,Tiny_D,29496110,5074
+d13f24a7355d65f8,asphyxiawrathquiver.ao,Tiny_D,29467036,942
+6072b9a4563b3561,asphyxiawrathquiver_ao_pass0.mat,Tiny_D,29467978,1208
+5581ddf46ddf36de,act_throw_snipe.ao,Tiny_D,29453790,4602
+daa379a21eac738e,act_trickshot_up.ao,Tiny_D,29458392,8644

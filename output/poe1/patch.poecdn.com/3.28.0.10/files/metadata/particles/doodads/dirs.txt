@@ -1,0 +1,14 @@
+church_dungeon
+church_dungeon/fires
+forest
+forest/bugs
+forest/cauldron
+forest/cauldron/animation
+forest/leaves
+forest/light
+hideoutdoodads
+hideoutdoodads/redlaz
+incadungeon
+mudflats
+prison
+prison/fires

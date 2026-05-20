@@ -1,0 +1,12 @@
+epk
+fx
+fx/affected_monsters
+fx/inert_next_01
+fx/turn_on_01
+fx/turned_on_idle_01
+graphs
+mat
+mat/affected_monsters
+mat/inert_next_01
+mat/turn_on_01
+mat/turned_on_idle_01

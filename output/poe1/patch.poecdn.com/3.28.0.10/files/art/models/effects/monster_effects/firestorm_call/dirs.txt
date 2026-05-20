@@ -1,0 +1,5 @@
+idle
+idle_pulse
+impact
+impact2
+vaal_impact

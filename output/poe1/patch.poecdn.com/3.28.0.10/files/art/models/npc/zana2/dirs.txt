@@ -1,0 +1,6 @@
+animations
+attachments
+attachments/hair
+attachments/rapier
+attachments/skirt
+textures

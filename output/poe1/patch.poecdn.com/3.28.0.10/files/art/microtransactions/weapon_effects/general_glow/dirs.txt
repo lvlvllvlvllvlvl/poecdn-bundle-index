@@ -1,0 +1,7 @@
+aqua
+black
+blue
+green
+purple
+red
+white

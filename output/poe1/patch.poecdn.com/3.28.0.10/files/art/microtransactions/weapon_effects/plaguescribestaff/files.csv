@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+c4b17173b75f924a,torch_windy.mat,Tiny_1,79349140,2928
+857e3dfbb025da8c,torch_windy.dds,Art/Microtransactions/weapon_effects/PlagueScribeStaff,0,11108
+cfb9aa98b3e240eb,torch_windy.dds.header,Tiny_1,79348300,840
+7dd29c3a140c37d3,scream_wisp.mat,Tiny_1,79346290,2010
+f3c59e42b7aed814,scream_wisp.dds,Art/particles/monster_particles/League_Incursion_18,1291654,43876
+5e0f56520e4654e8,scream_wisp.dds.header,Tiny_6,126059051,840
+dcaebf0a0af28612,light_gradient.mat,Tiny_1,79344472,1818
+001af2d495e8e045,light_gradient.dds,Art/Microtransactions/shield/Celestial_ArcaneShield,0,5636
+91994cffc262a9c3,light_gradient.dds.header,Tiny_8,5778546,1520
+e4315fad1bcc466e,fire_spark.mat,Tiny_1,79342996,1476
+0adc1a7efe92ebbe,fire_spark.dds,Tiny_1,79339936,1540
+308a635c5e9619d2,fire_spark.dds.header,Tiny_1,79341476,1520

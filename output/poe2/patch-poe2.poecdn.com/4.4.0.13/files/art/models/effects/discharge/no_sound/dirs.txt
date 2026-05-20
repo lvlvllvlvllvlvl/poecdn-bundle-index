@@ -1,0 +1,3 @@
+fire_discharge
+ice_discharge
+light_discharge

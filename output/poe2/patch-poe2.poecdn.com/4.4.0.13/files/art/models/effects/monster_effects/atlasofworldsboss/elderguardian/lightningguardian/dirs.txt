@@ -1,0 +1,15 @@
+arenabeam
+beamball
+beamball/beam_ball
+beamball/beam_ball_beam2
+bounceprojectile
+bounceprojectile/projectile
+groundimpact
+lightningbeam
+lightningbolts
+lightningbolts/char_castfx
+teleportsplode
+teleportsplode/explosion
+teleportsplode/projectile_big
+teleportsplode/projectile_small
+towerdegenbeam

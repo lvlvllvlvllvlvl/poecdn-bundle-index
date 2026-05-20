@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+1e9fa23865d1a44b,shard.fmt,Tiny_1,84593364,731
+26f526f7404a6195,shard.fmt.header,Tiny_1,84594095,173
+79b0022164b6e360,rig_efd7f1bd.smd,Art/Models/Effects/bladeburst/ninjashotgun,7269,8834
+1c129781ae73fe47,rig_efd7f1bd.smd.header,Tiny_1,84596968,368
+93e9cae7351a06ff,rig.amd,Tiny_1,84594738,562
+afc1bf20fd5ee15b,rig.ast,Tiny_1,84595300,1668
+9fdf5d24f6a54c36,knife.sm,Tiny_1,84592918,446
+5da80d464ae2dde0,knife.fmt,Art/Models/Effects/bladeburst/ninjashotgun,0,7269
+b717beec929ae194,knife.fmt.header,Tiny_1,84592620,298
+9dd7dbad0086d7a3,cast.amd,Tiny_7,37927089,94
+12b3b20efd32bee9,cast.ast,Tiny_1,84590430,499

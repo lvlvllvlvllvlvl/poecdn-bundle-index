@@ -1,0 +1,2 @@
+no_offset
+tp_strike_finish

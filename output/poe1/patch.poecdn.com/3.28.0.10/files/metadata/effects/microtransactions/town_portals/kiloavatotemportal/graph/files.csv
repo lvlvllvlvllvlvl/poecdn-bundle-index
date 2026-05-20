@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+441219601f764a45,directional_mesh_ctrls.fxgraph,Folders/metadata/effects_A,16383250,48198
+f11f53388133fd70,emitvelocityworldxyz.fxgraph,Folders/metadata/effects_5,16609460,61342
+adef21ec43af22c3,eyeclose_cull.fxgraph,Folders/metadata/effects_2,22288544,25746
+df1baca15397b8a4,custom_alpha_timeline_mask.fxgraph,Folders/metadata/effects_2,22026470,52446
+2614c1e1adf7b52e,custom_insideuvs.fxgraph,Folders/metadata/effects_2,22078916,31916
+e55af0c2063991bf,custom_particleposition_scale_xyz.fxgraph,Folders/metadata/effects_2,22110832,22870
+441aba83b2b49594,custom_scale_xyz.fxgraph,Folders/metadata/effects_2,22133702,91006
+add0788557a7c001,custom_windvortex.fxgraph,Folders/metadata/effects_2,22224708,63836

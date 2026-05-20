@@ -1,0 +1,3 @@
+explosive_wall
+laser
+str_door

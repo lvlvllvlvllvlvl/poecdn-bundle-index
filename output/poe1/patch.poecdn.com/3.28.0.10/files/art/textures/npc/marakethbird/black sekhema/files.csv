@@ -1,0 +1,19 @@
+hash,file,bundle,offset,size
+56c870d8a27d7314,blacksekhemamountc.mat,Tiny_8,40582344,2776
+dc55c8650fb6b107,blacksekhemamount_normal_dxt5.dds,Art/Textures/NPC/MarakethBird/Black Sekhema,0,349700
+425ddbb34a9229b0,blacksekhemamount_normal_dxt5.dds.header,Tiny_8,40574666,1520
+964bdbe02b2b486d,blacksekhemamount_colour_dxt5.dds,Art/Textures/NPC/MarakethBird/Black Sekhema_1,0,349700
+a25ceb421b6e570a,blacksekhemamount_colour_dxt5.dds.header,Tiny_8,40573146,1520
+c41e1f8316296550,blacksekhemamount_colour_bc7.dds,Art/Textures/NPC/MarakethBird/Black Sekhema_1,0,349700
+fd72d28ee8a0762a,blacksekhemamount_colour_bc7.dds.header,Tiny_8,40573146,1520
+5ae14c985224633c,blacksekhemamount_colour.dds,Art/Textures/NPC/MarakethBird/Black Sekhema,349700,174924
+eabc40bd3b2bb290,blacksekhemamount_colour.dds.header,Tiny_8,40571626,1520
+a3611b838e19e688,blacksekhemamountarmourspecularc.mat,Tiny_8,40579386,2958
+63bb968fb20574b7,blacksekhemamountarmour_normal_dxt5.dds,Art/Textures/NPC/MarakethBird/Black Sekhema_1,699392,349700
+c7cfef8a7c84fb85,blacksekhemamountarmour_normal_dxt5.dds.header,Tiny_8,40577866,1520
+9125bf7175aae99b,blacksekhemamountarmour_colourspecular_dxt5.dds,Art/Textures/NPC/MarakethBird/Black Sekhema,524624,699236
+9134c78e5c6905f6,blacksekhemamountarmour_colourspecular_dxt5.dds.header,Tiny_8,40577026,840
+f56f8ebac483a1b4,blacksekhemamountarmour_colourspecular_bc7.dds,Art/Textures/NPC/MarakethBird/Black Sekhema,524624,699236
+375c971c2ede35dc,blacksekhemamountarmour_colourspecular_bc7.dds.header,Tiny_8,40577026,840
+196577d0e369a9a2,blacksekhemamountarmour_colourspecular.dds,Art/Textures/NPC/MarakethBird/Black Sekhema_1,349700,349692
+e00fdb4ed842eb50,blacksekhemamountarmour_colourspecular.dds.header,Tiny_8,40576186,840

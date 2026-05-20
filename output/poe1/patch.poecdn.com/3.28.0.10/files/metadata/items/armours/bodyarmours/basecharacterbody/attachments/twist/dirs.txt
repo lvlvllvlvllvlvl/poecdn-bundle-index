@@ -1,0 +1,7 @@
+duelist
+marauder
+ranger
+scion
+shadow
+templar
+witch

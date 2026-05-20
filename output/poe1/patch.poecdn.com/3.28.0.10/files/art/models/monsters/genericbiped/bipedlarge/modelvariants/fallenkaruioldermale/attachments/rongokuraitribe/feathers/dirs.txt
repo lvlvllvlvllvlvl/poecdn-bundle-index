@@ -1,0 +1,5 @@
+armfeathers_01
+armfeathers_02
+headfeather_01
+legfeathersleft_01
+legfeathersright_01

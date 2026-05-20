@@ -1,0 +1,8 @@
+effects
+effects/death_sand
+effects/emerge_new
+effects/rune
+effects/slam
+effects/slam_impact
+effects/slam_impact_circle
+effects/surge

@@ -1,0 +1,13 @@
+apparition
+apparition/banner
+apparition/gauntlet
+apparition/gauntlet/animations
+apparition/gauntlet/animations/fist_bump
+apparition/gauntlet/fx
+apparition/gauntlet/fx/mb
+apparition/rgauntlet
+apparition/rgauntlet/animations
+apparition/rgauntlet/animations/fist_bump
+apparition/rgauntlet/animations/mtx
+character
+character/attachments

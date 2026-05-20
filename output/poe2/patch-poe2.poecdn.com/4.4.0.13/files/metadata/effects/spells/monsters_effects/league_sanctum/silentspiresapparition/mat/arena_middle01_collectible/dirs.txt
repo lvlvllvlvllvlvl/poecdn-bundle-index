@@ -1,0 +1,3 @@
+fadein_01
+fadeout_01
+idle_01

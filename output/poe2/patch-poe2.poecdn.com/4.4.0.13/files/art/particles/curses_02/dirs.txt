@@ -1,0 +1,8 @@
+area
+area/curse_runes
+area/doom
+area/doom_runes
+area/extra_runes
+marks
+marks/mark_runes
+orbs

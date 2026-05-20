@@ -1,0 +1,7 @@
+textures
+textures/armour_piercing
+textures/cold
+textures/fire
+textures/incendiary
+textures/permafrost
+textures/phys

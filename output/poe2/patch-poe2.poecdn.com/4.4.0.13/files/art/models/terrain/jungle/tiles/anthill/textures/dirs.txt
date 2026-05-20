@@ -1,0 +1,4 @@
+chest
+decals
+ground
+roots

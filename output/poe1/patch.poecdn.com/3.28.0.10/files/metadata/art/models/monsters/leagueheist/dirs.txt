@@ -1,0 +1,4 @@
+monsters
+monsters/skeleton
+monsters/skeleton/arbalest
+monsters/skeleton/arbalest/textures

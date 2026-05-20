@@ -1,0 +1,5 @@
+cast_speed_buff_01
+cast_speed_buff_01/handfx
+monster_freeze
+slow_debuff
+time_freeze_nova_01

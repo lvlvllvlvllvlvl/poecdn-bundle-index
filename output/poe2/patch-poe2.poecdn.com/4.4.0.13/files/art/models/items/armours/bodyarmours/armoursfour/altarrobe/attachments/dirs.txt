@@ -1,0 +1,10 @@
+arfemale
+arfemale/neckaccss
+arfemale/robe
+arfemale/waistaccss
+armale
+armale/chestcloth
+armale/neckaccss
+armale/robe
+armale/waistaccss
+armale/waistcloth

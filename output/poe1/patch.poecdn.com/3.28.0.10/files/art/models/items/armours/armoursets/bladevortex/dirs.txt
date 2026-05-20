@@ -1,0 +1,6 @@
+attachments
+attachments/femaleloincloth
+attachments/femaleloincloth/attachments
+attachments/maleloincloth
+attachments/maleloincloth/attachments
+texture

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+3504a66b51a028a0,flask_tower.sm,Tiny_6,29891926,1288
+76846b612a4155c1,rig_adc24581.smd,Art/particles/flask_fountain/mb,173309,998070
+25c4ed1b7a1f106b,rig_adc24581.smd.header,Tiny_6,29898562,1285
+d2ed0f05d4202714,rig.amd,Tiny_6,29897257,208
+463fe56959b8ca64,rig.ast,Tiny_6,29897465,1097
+9520b012c31397a2,ribbon.fmt,Art/particles/flask_fountain/mb,153900,19409
+0cbe353f21b88b2e,ribbon.fmt.header,Tiny_6,73799580,167
+4f153feac29b53b7,lightray.fmt,Tiny_6,29893214,3881
+574587f38798f0ab,lightray.fmt.header,Tiny_6,29897095,162

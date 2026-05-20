@@ -1,0 +1,7 @@
+attachments
+attachments/f
+attachments/f/robe
+attachments/f/tassles
+attachments/m
+attachments/m/robe
+attachments/m/tassles

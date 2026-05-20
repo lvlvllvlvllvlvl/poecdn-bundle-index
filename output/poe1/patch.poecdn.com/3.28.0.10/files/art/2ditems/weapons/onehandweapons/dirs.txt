@@ -1,0 +1,9 @@
+claws
+daggers
+onehandaxes
+onehandmaces
+onehandswords
+onehandswords/harbingerleagueshards
+rapiers
+scepters
+wands

@@ -1,0 +1,7 @@
+attack_02
+corpse_detonate
+corpse_detonate/scalable
+feed_01
+feed_01/feed_end
+poison_cloud
+projectile

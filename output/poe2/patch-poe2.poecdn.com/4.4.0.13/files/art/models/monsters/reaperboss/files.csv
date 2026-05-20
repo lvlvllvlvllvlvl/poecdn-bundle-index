@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+67fb49d2a4e89993,graveyardsuperunique.sm,Tiny.V5,12023894,2928
+b6cea55e0cdd19fd,graveyardsuperunique_armour_40a260e9.smd,Streaming/Content/metadata/monsters/skeletalreaper/skeletalreaper.act,768063,271131
+25f06cd6b49de1f8,graveyardsuperunique_armour_40a260e9.smd.header,Content/metadata/monsters/skeletalreaper/skeletalreaper.act,1802867,5728
+94f2a8525607d1eb,deathsoulstealer.sm,Tiny.V8,12213145,550
+ff34a031b3a58895,deathsoulstealerfinisher_armour_9aee02b7.smd,Streaming/Content/metadata/effects/microtransactions/spells/C99FBEE6B9765377.8A78D9D3974B2150.rose_frenzycharges.ao,606392,393857
+e8641c83ed11166e,deathsoulstealerfinisher_armour_9aee02b7.smd.header,Content/metadata/effects/microtransactions/on_kill/crueltyfinisher/A2423F3D01E7A113.blood_viscera_mid.pet,292800,5521
+521d655fe3eca849,reaperboss.sm,Tiny.V2,12363013,2980
+b963b2e0654929d7,rig_14424484.smd,Streaming/Content/metadata/monsters/leagueexpedition/deathknight/deathknight.act,273843,259991
+4299e55307b394df,rig_14424484.smd.header,Content/metadata/monsters/leagueexpedition/reaperboss/grandbrandreaper.ao,1628851,6410
+2c443378cb1ca401,rig.amd,Content/metadata/monsters/leagueexpedition/reaperboss/grandbrandreaper.ao,0,9814
+9f138ab6dcab3941,rig.ast,Content/metadata/monsters/leagueexpedition/reaperboss/grandbrandreaper.ao,9814,1619037

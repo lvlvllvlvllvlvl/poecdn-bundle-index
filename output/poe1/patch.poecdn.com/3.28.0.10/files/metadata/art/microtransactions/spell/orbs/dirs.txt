@@ -1,0 +1,4 @@
+crystal
+crystal/demonic
+crystal/ghostflame
+crystal/stygian

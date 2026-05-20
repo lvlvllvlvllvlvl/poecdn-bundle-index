@@ -1,0 +1,4 @@
+textures
+textures/architecture
+textures/doodads
+tgms

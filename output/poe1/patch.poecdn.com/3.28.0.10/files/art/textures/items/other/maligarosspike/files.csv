@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+4410a8016b2d1d5f,maligarosspikecns.mat,Art/Textures/Items/other/MaligarosSpike,306632,5116
+f03b90c64495b383,maligarosspike_specular.mat,Tiny_8,17308961,1064
+7c803256fb7beeb9,maligarosspike_specular.dds,Art/Textures/Items/other/MaligarosSpike,87588,87588
+c9729b77a8c2651b,maligarosspike_specular.dds.header,Tiny_8,17308457,504
+3a3941fc7e6d1571,maligarosspike_gloss.mat,Tiny_8,17307411,1046
+c1fb1b2cdf45b9c8,maligarosspike_gloss.dds,Art/Textures/Items/other/MaligarosSpike,0,87588
+6229b2bdb0e0e253,maligarosspike_gloss.dds.header,Tiny_8,17306907,504
+5ab80b5a16f1edbb,maligarosspike_emissive.mat,Tiny_8,17305843,1064
+6bc399780080d06d,maligarosspike_emissive.dds,Art/Textures/Items/other/MaligarosSpike,311748,87588
+538df16e8f5a0651,maligarosspike_emissive.dds.header,Tiny_8,17305339,504
+e7cc7a2ddc7c94d2,maligarosspike_colour.dds,Art/Textures/Items/other/MaligarosSpike,175176,43868
+e2e8167086f85d70,maligarosspike_colour.dds.header,Tiny_8,17304835,504
+607621ba56417221,maligarosspikens.dds,Art/Textures/Items/other/MaligarosSpike,219044,87588
+6c226a9173e42f2b,maligarosspikens.dds.header,Tiny_8,17310025,504

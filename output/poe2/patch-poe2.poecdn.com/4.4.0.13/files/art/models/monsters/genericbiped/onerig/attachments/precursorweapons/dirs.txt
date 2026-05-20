@@ -1,0 +1,5 @@
+precursorcleaver
+precursormaul
+precursororb
+precursorraptor
+precursorscepter

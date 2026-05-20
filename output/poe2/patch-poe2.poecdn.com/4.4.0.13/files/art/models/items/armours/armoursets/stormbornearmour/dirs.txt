@@ -1,0 +1,8 @@
+attachments
+attachments/glovetassles
+attachments/helmettassles
+attachments/skirt
+attachments/skirt/f
+attachments/skirt/m
+attachments/top
+textures

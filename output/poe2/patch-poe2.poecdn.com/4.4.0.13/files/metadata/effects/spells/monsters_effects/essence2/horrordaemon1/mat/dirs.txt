@@ -1,0 +1,9 @@
+aura
+epk_ambient
+onact
+onact/attack_04
+onact/cyclone_01
+onact/dash_01
+onact/dualstrike_01
+onact/emerge_boss_01
+teleport

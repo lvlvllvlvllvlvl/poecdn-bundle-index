@@ -1,0 +1,8 @@
+cant_die_shield
+cant_die_shield/beam
+cant_die_shield/shield
+rose_spec_throw
+scourge_thrust
+scourge_thrust/pods
+scourge_thrust/projectile
+thorn_vines_grd

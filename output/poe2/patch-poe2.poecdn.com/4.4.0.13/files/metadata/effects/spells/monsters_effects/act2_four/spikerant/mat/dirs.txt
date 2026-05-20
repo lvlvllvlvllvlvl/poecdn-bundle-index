@@ -1,0 +1,6 @@
+attack_02
+posion_trail
+spike
+spike_poison
+spikeball_poison
+spikemortar_poison_explode

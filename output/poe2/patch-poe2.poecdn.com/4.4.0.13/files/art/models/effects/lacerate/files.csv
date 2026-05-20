@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+c1ddc38a5539674a,lacerateblade.amd,Tiny.V0,5207431,86
+beff4d81af479b27,lacerateblade.ast,Content/metadata/effects/spells/soul_link/link_soul_broken_02.ao,466050,4271
+5352d1fa18b4a03b,cleaveact.amd,Tiny.V6,5678149,102
+5dbe2a5d722fde10,cleaveact.ast,Tiny.V7,7022950,1353
+850e5cb4ef2c6a94,cleaveshape03.fmt,Streaming/Content/metadata/particles/default_cold_damage.pet,656964,5456
+900c560bb38d465b,cleaveshape03.fmt.header,Tiny.VC,7058557,208
+796f31f8209eacbb,slash01.fmt,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.98C3EF3960F9A627.end_midline.pet,416120,15707
+f0ee1ef195dbd46a,slash01.fmt.header,Tiny.V1,6919656,221
+30b78b0e5090eec8,slash02.fmt,Streaming/Content/metadata/particles/default_cold_damage.pet,1012644,15707
+a44ca6118fa9c27d,slash02.fmt.header,Tiny.VA,7175067,221

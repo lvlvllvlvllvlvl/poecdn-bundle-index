@@ -1,0 +1,6 @@
+explosion
+impact
+projectile
+spear
+trail
+wind_surge

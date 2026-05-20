@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+1c979f17a3c7145b,crucibleportalspecularc.mat,Tiny_8,23880572,4904
+cc706758daee0639,crucibleportal_normal_dxt5.dds,Art/Textures/Environment/EndGame/Maven/PlatfromSocekts_2,0,1398276
+47efb8a0c1c9f80b,crucibleportal_normal_dxt5.dds.header,Tiny_8,23874972,1520
+27a1c4d39146cb27,crucibleportal_glow_dxt5.dds,Art/Textures/Environment/EndGame/Maven/PlatfromSocekts_1,0,349700
+c204f6c901d8f9fa,crucibleportal_glow_dxt5.dds.header,Tiny_8,23873452,1520
+8fc41863be44d32c,crucibleportal_colourspecular_dxt5.dds,Art/Textures/Misc/portals/CruciblePortal_1,0,2796388
+0f0e4511f7cd2b72,crucibleportal_colourspecular_dxt5.dds.header,Tiny_8,23872612,840
+8da1507e105778e1,crucibleportal_colourspecular.dds,Art/Textures/Misc/portals/CruciblePortal_1,0,2796388
+0d07e6d0bdd3c8be,crucibleportal_colourspecular.dds.header,Tiny_8,23872612,840
+f23b57297a945cd9,crucibleportalmask_dxt4.dds,Folders/art/textures/misc/portals/1/crucibleportal,0,1398276
+f14621f4459dd878,crucibleportalmask_dxt4.dds.header,Tiny_8,23879052,1520
+8eb27d4b850fdd1c,crucibleportalmask_bc7premult.dds,Folders/art/textures/misc/portals/1/crucibleportal,0,1398276
+8e00e1985b9cc773,crucibleportalmask_bc7premult.dds.header,Tiny_8,23879052,1520
+4442e33300f5d736,crucibleportalmask.mat,Tiny_8,23878012,1040
+a61250a95d02786f,crucibleportalmask.dds,Art/Textures/Misc/portals/CruciblePortal_2,0,1398276
+0c44e91f566b19a1,crucibleportalmask.dds.header,Tiny_8,23876492,1520

@@ -1,0 +1,11 @@
+primordialboss1
+primordialboss1/objects
+primordialboss1/rooms
+primordialboss1/rooms/sidearenafills
+primordialboss1/tiles
+primordialboss1/tiles/doomswampislands
+primordialboss2
+primordialboss2/tiles
+primordialboss2/tiles/blackstararenafloatingrock
+primordialboss4
+primordialboss4/tiles

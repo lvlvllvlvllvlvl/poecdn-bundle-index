@@ -1,0 +1,8 @@
+attack1
+attack_ranged
+attack_ranged/projectile
+attack_ranged/projectile/impact
+attack_ranged/trail
+emerge
+fadein
+fadeout

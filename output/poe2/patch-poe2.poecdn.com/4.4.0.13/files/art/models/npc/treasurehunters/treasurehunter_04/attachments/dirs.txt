@@ -1,0 +1,6 @@
+chestbag
+clothattachment
+coat
+hatfeather
+smallbags
+swordholder

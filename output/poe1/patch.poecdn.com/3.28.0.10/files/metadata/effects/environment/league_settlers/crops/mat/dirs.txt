@@ -1,0 +1,6 @@
+onact
+onact/idle_relaxed_01
+onact/working_farming_01
+onact/working_farming_02
+onact/working_foraging_01
+onact/working_foraging_02

@@ -1,0 +1,12 @@
+floppy
+monstrosity
+monstrosity/attachments
+scythe
+scythe/attachments
+snake
+snake/attachments
+spider
+tentacle
+tentacle/attachments
+triclaw
+writhing

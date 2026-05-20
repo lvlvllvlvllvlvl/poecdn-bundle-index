@@ -1,0 +1,10 @@
+textures
+textures/archeology
+textures/carts
+textures/containers
+textures/crane
+textures/debris
+textures/machines
+textures/machinevases
+textures/stoneslabs
+textures/tents

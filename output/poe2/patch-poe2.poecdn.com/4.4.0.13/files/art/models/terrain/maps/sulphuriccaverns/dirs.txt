@@ -1,0 +1,8 @@
+bones
+doodads
+doodads/dlp
+doodads/dlp/msca_bonebison01
+doodads/dlp/msca_bonecarcuss02
+doodads/dlp/msca_driedbonesmisc01
+magma
+tgms

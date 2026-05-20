@@ -1,0 +1,13 @@
+cannonball
+cannonball_mortar
+dash_mortar
+dash_slash
+dash_start
+geyser
+marker
+muzzle
+onact_dashstab
+onact_doublestrike
+onact_geyser
+onact_wave_epic
+wave

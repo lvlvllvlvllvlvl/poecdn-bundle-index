@@ -1,0 +1,13 @@
+cold
+condecon_fx
+drone_projectiles
+drone_target
+fire
+general_proj
+guardian_death
+lightning
+monsterfx
+phys
+ribbons
+ribbons/ribbon_bodyfx
+wings

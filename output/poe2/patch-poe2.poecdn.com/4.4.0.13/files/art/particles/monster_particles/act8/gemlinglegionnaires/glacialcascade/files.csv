@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+04eca038df43a649,snowpatch_normal_masked.dds,Streaming/Content/metadata/particles/monster_effects/act8/219B3578B2489F32.5037EAE19D6288BA.burst_midline.pet,641824,87588
+37ebcf22d3106868,snowpatch_normal_masked.dds.header,Tiny.VD,35388426,504
+a389b8151d94413c,snowpatch_colour.mat,Tiny.V4,35480676,3202
+9165f14c08aaef0f,snowpatch_colour.dds,Streaming/Content/metadata/particles/monster_effects/act8/219B3578B2489F32.5037EAE19D6288BA.burst_midline.pet,554236,87588
+cf0c1edc66e88a83,snowpatch_colour.dds.header,Tiny.VE,34801175,504
+dc77cb8cabeab594,texturentex_specs.dds,Streaming/Content/metadata/particles/monster_effects/act8/219B3578B2489F32.5037EAE19D6288BA.burst_midline.pet,816968,87556
+01e1e5b25e051e33,texturentex_specs.dds.header,Tiny.V9,34811403,1520
+7a5d8496aeff956c,texture.mat,Tiny.V4,35483878,3420
+f61f7e37edadb746,texture.dds,Streaming/Content/metadata/particles/monster_effects/act8/219B3578B2489F32.5037EAE19D6288BA.burst_midline.pet,729412,87556
+77a5d7155411d9ab,texture.dds.header,Tiny.V8,32510406,1520
+0e7d4513af3709e2,icetrapcns.mat,Tiny.V3,34730695,4060
+6a2307c6e204134d,icetrapns.dds,Streaming/Content/metadata/effects/spells/monsters_effects/E00156BBB00B5844.9C641DE1B1CF0140.projbuildup.ao,202382,87556
+b85ace578eee43e8,icetrapns.dds.header,Tiny.VB,35685763,1520
+2792fcf09d66ec39,icetrap_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/E00156BBB00B5844.9C641DE1B1CF0140.projbuildup.ao,114826,87556
+8619bf008f29d945,icetrap_colour.dds.header,Tiny.VB,35684243,1520

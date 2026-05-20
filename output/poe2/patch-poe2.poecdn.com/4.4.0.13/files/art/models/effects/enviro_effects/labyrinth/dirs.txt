@@ -1,0 +1,12 @@
+airlock
+airlock/wind
+talisman
+talisman/summon
+traps
+traps/fire
+traps/goblin_dart_trap
+traps/goblin_dart_trap/poison
+traps/sawblade_impact
+traps/smokes
+trinket
+trinket/trigger

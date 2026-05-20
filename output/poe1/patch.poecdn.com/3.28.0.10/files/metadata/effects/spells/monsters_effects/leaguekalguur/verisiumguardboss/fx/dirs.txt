@@ -1,0 +1,7 @@
+deflect
+groundslam
+groundslam_detonation
+onact
+projectile_cleave
+rockdrop
+rockpillar

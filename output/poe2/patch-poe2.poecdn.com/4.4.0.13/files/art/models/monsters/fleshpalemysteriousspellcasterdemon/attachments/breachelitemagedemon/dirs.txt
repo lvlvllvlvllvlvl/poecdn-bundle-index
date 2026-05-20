@@ -1,0 +1,3 @@
+cape
+chest
+head

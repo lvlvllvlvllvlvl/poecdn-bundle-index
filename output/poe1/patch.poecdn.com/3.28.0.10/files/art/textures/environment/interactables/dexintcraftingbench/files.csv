@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+6f2768f0242a9bff,dexintcraftingbench_normal_dxt5.dds,Art/Textures/Environment/interactables/DexIntCraftingBench_1,0,699236
+6ea4d1c7167567bb,dexintcraftingbench_normal_dxt5.dds.header,Tiny_7,70541914,840
+7bcbbf55eef147be,dexintcraftingbench_colour_dxt1.dds,Art/Textures/Environment/interactables/DexIntCraftingBench,699400,349692
+3744e8d2e8f59cda,dexintcraftingbench_colour_dxt1.dds.header,Tiny_7,70541074,840
+d9a1eac84f2c3c6f,dexintcraftingbenchc.mat,Tiny_7,70548394,2076
+3a4e82291d05e60a,dexintcraftingbenchcns.mat,Tiny_7,70548394,2076
+fb547aa15ffd34d1,dexintcraftingbenchalt_normal_dxt5.dds,Art/Textures/Environment/interactables/DexIntCraftingBench,349700,349700
+85744ccd0718dd2d,dexintcraftingbenchalt_normal_dxt5.dds.header,Tiny_7,70544274,1520
+1bdecc77d8c60bec,dexintcraftingbenchalt_colour_dxt5.dds,Art/Textures/Environment/interactables/DexIntCraftingBench,0,349700
+7c381a89612a4741,dexintcraftingbenchalt_colour_dxt5.dds.header,Tiny_7,70542754,1520
+09e89462514e84d8,dexintcraftingbenchaltc.mat,Tiny_7,70545794,2600
+234843d2c5d1cfbf,dexintcraftingbenchaltcns.mat,Tiny_7,70545794,2600

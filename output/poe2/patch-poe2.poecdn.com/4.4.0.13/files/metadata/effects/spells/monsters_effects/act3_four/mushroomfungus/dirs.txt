@@ -1,0 +1,16 @@
+ao
+epk
+graph
+mat
+mat/attack_01_02
+mat/attack_01_02/beam
+mat/vacuum_breath
+mat/vacuum_breath/grd_idle
+mat/vacuum_breath/grd_impact
+mat/volatile_orb
+mat/volatile_orb/charge
+mat/volatile_orb/explode
+mat/volatile_orb/idle
+mat/volatile_orb/open
+pet
+trl

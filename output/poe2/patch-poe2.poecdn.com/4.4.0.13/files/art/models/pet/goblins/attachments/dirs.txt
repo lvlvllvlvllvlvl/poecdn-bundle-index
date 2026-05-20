@@ -1,0 +1,11 @@
+outfits
+outfits/outfit_01
+outfits/outfit_01/helmet
+outfits/outfit_01/skirt
+outfits/outfit_02
+outfits/outfit_03
+tools
+tools/drum
+tools/lyre
+tools/pipe
+tools/violinbow

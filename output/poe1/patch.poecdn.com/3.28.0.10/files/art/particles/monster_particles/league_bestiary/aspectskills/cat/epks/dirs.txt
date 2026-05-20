@@ -1,0 +1,2 @@
+cat_frenzy
+cat_stealth

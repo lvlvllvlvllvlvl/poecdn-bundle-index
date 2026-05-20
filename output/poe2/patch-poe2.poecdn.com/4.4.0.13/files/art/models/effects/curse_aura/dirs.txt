@@ -1,0 +1,5 @@
+assassins_mark
+poachers_mark
+projectile_weakness
+punishment
+warlords_mark

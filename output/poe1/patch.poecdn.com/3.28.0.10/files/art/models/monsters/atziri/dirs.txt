@@ -1,0 +1,4 @@
+animations
+animations/hateforge
+mirror_death
+mirror_image

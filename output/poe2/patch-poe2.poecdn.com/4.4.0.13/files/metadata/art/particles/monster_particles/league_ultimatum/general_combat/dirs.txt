@@ -1,0 +1,4 @@
+textures
+textures/vaal_crystal_totem
+textures/vaal_goliath
+textures/vaal_goliath/blood_orbs

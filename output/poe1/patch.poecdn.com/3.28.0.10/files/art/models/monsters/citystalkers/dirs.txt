@@ -1,0 +1,4 @@
+female
+female/textures
+male
+male/textures

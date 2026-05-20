@@ -1,0 +1,7 @@
+aos
+epks
+fx
+mats
+mats/multistrike
+mats/onact
+mats/slashcombo

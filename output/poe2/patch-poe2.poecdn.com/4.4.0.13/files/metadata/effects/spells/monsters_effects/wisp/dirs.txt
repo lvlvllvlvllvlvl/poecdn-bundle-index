@@ -1,0 +1,7 @@
+ritualscarab
+ritualscarab/ao
+ritualscarab/graph
+ritualscarab/mat
+ritualscarab/mat/aura
+ritualscarab/mat/teleport
+ritualscarab/pet

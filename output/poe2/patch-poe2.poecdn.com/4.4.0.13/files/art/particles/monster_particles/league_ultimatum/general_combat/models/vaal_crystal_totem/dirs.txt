@@ -1,0 +1,2 @@
+impact_beam
+lightning_beam

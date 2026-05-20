@@ -1,0 +1,5 @@
+deathdust
+meleetrail
+proj
+shock
+zap

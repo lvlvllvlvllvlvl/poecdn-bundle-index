@@ -1,0 +1,2 @@
+large_pile
+medium_pile

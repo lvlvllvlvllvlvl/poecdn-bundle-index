@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+97c60d29a2c190c7,malec.mat,Tiny_8,31262306,2180
+9910b7a43e57326e,male_normal_dxt5.dds,Art/Textures/Monsters/GenericBiped,699548,349700
+04f59cc19c26e680,male_normal_dxt5.dds.header,Tiny_8,31260786,1520
+fa1761b583867621,male_colour_dxt1.dds,Art/Textures/Monsters/GenericBiped,524624,174924
+8c72b129ff8c8ab8,male_colour_dxt1.dds.header,Tiny_8,31259266,1520
+b2bc91d4a18fdc78,femalec.mat,Tiny_8,31257098,2168
+60baf5ac0391af19,female_normal_dxt5.dds,Art/Textures/Monsters/GenericBiped,174924,349700
+c331505b9d62c37c,female_normal_dxt5.dds.header,Tiny_8,31255578,1520
+4abcd972981f788e,female_colour_dxt1.dds,Art/Textures/Monsters/GenericBiped,0,174924
+e2db540d6a4d747f,female_colour_dxt1.dds.header,Tiny_8,31254058,1520

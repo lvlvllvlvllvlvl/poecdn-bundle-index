@@ -1,0 +1,10 @@
+mud
+mud/steam
+tidal_passage
+vfx
+vfx/bugs
+vfx/leaves
+vfx/lightbeams
+vfx/rivercrossing_streams
+vfx/shadow
+vfx/waterfall

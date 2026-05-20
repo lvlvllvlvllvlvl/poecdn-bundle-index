@@ -1,0 +1,6 @@
+blue_laser
+death
+ice_shoot
+incaboss fallingrocks
+summon_shoot
+teleport

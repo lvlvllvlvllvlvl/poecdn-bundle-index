@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+48c2f8b21d6004c2,flow_turbulent_01.mat,Tiny.VC,12847819,2900
+9a65647956e699e4,core_fusion.mat,Tiny.VD,12776710,5652
+eeac6ec7cf809611,wispy_smoke.mat,Tiny.V1,12982693,5456
+ad9dfc9b47aa450d,open_flare.mat,Tiny.VD,12782362,2698
+c57ab7893040664c,sparks.mat,Tiny.V6,13068542,3002
+9ca479fc60f0a11d,spark_open.mat,Tiny.V8,13040724,2244
+cec0772880765690,spark_suck.mat,Tiny.V7,12948689,3026
+2b4ff7dad683adca,ground_wisp.mat,Tiny.VC,12850719,7820
+3bc8b78bbb0e6707,glow_shapeoverride.mat,Tiny.VB,12929630,2692
+597e236a11ad4cdd,glow_fog_emissive.mat,Tiny.V7,12944133,3036
+67a6175e81f0ef18,lightning_static_sphere.mat,Tiny.VE,12942350,5600
+1adb8639f79f59eb,lightning_static_02_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/1F6424B6ECC400FD.CAE58C92B230AD8B.cyl_mid.pet,623460,1398276
+170b404373a39f8a,lightning_static_02_dxt5.dds.header,Tiny.V7,12947169,1520

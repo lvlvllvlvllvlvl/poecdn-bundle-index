@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+445dda78b23d531c,flies.mat,Tiny.VC,32998966,1602
+8a0ec202732626d2,flies.dds,Streaming/Content/metadata/particles/ground_effects_v2/desecrated/loop_cyl.pet,87556,43876
+af2dd801e9a48efa,flies.dds.header,Tiny.V4,33041969,840
+35dea93f10b13e73,acid_bits.mat,Tiny.V8,32605208,1840
+3d19f0b0c3ac1345,acid_bits.dds,Streaming/Content/metadata/particles/ground_effects_v2/desecrated/loop_cyl.pet,0,87556
+17db07e088a416e1,acid_bits.dds.header,Tiny.VF,33016765,1520
+d3670703787c9e28,poison_smokepurple.mat,Tiny.V2,32804674,2780
+45be7542a665bef6,poison_smokepurple.dds,Streaming/Content/metadata/particles/ground_effects_v2/desecrated/loop_cyl.pet,218988,87556
+039c666164d3551f,poison_smokepurple.dds.header,Tiny.V3,32493590,1520
+90814895f9d42e09,poison_smoke_rhoa.mat,Tiny.VA,33086018,1860
+2edc69ab8e83cef4,poison_smoke_rhoa.dds,Streaming/Content/metadata/particles/ground_effects_v2/desecrated/loop_cyl.pet,131432,87556
+c8206d0be4b0ed1d,poison_smoke_rhoa.dds.header,Tiny.V8,32607048,1520

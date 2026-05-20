@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+28d621d6e30a5ce7,entrance_1.arm,Folders/metadata/E/terrain,7927390,40816
+0f0481a770e80046,pier_entrance_1.arm,Metadata/Terrain.0_6,0,68216
+c39eb833ffe6728c,pier_open_1.arm,Folders/metadata/2/terrain,8010218,16094
+1b5c14c38d542ce7,pier_turn_1.arm,Folders/metadata/A/terrain,8627400,11530
+7ed0911b1956ce2d,pier_turn_2.arm,Folders/metadata/0/terrain,8419734,16242
+4d99bf565e43081c,pier_turn_3.arm,Folders/metadata/7/terrain,7021762,12092
+a91feaee5dc3d248,pier_tri_1.arm,Metadata/Terrain.B_8,98778,14188
+efda35e97fed6cf6,pier_tri_2.arm,Folders/metadata/F/terrain,7669488,22078
+227e88e75aaccb38,pier_straight_1.arm,Folders/metadata/5/terrain,8336426,21696
+085159c881efa6c8,pier_straight_2.arm,Folders/metadata/4/terrain,7635776,17722
+12acd464ae3c9d56,pier_straight_3.arm,Folders/metadata/2/terrain,8026312,18952
+8d99cfe395bcbdc0,pier_straight_4.arm,Metadata/Terrain.F_5,90468,18302
+a060f11dad6100ec,boss_1.arm,Folders/metadata/C/terrain,8734826,29934
+62d831e267a1beaa,boss_gauntlet_1.arm,Folders/metadata/0/terrain,8359232,46640
+348d8c7f12ed74ef,boss_gauntlet_2.arm,Folders/metadata/C/terrain,8764760,67122
+f37e95b225b6dcb2,boss_gauntlet_3.arm,Folders/metadata/2/terrain,7962034,48184

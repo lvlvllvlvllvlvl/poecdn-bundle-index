@@ -1,0 +1,4 @@
+kwp_earrings
+kwp_hair
+kwp_skirt
+kwp_top

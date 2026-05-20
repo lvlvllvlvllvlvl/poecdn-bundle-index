@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+6013105a3341b3a5,stygianshieldskullc.mat,Tiny.V8,44833646,3494
+6f8273caec64e9f5,stygianshieldjawc.mat,Tiny.VC,45537222,3036
+2f94819895447af8,stygianshieldc.mat,Tiny.VE,45104603,3906
+dab9b981aea3e219,stygianshield_metal_dxt5.dds,Streaming/Content/metadata/items/armours/shields/stygianshieldheld.ao,1151880,349700
+c6c33c008afda768,stygianshield_metal_dxt5.dds.header,Tiny.V9,45933215,1520
+2dbf1f9402f9fa1f,stygianshield_normal_dxt5.dds,Streaming/Content/metadata/items/armours/shields/stygianshieldheld.ao,1501580,349700
+7929497db609a0b7,stygianshield_normal_dxt5.dds.header,Tiny.V0,45575030,1520
+f6fd5c9de141e8d5,stygianshield_glow_bc1.dds,Streaming/Content/metadata/items/armours/shields/stygianshieldheld.ao,627256,174924
+81aa6b3e712708b0,stygianshield_glow_bc1.dds.header,Tiny.V9,45931695,1520
+93c9d79461e32c5c,stygianshield_glow_dxt5.dds,Streaming/Content/metadata/items/armours/shields/stygianshieldheld.ao,802180,349700
+079764b18234ad0a,stygianshield_glow_dxt5.dds.header,Tiny.V1,45098326,1520
+8ada24bb6d6e72d0,stygianshield_colour_bc7.dds,Streaming/Content/metadata/items/armours/shields/stygianshieldheld.ao,277556,349700
+4a9853e9e8227063,stygianshield_colour_bc7.dds.header,Tiny.VA,45414155,1520
+5f3dc006f9e35143,stygianshield_colour.dds,Streaming/Content/metadata/items/armours/shields/stygianshieldheld.ao,102632,174924
+4d16df57e771d258,stygianshield_colour.dds.header,Tiny.V3,44696921,1520

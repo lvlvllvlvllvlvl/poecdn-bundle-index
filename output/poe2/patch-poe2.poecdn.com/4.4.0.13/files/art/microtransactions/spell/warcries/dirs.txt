@@ -1,0 +1,8 @@
+wolf_cry
+wolf_cry/textures
+wolf_cry/textures/enduring
+wolf_cry/textures/generals
+wolf_cry/textures/infernal
+wolf_cry/textures/intimidating
+wolf_cry/textures/rallying
+wolf_cry/textures/seismic

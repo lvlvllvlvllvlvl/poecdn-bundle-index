@@ -1,0 +1,7 @@
+mb
+mb/lightning_rig
+mb/projectile_rig
+textures
+textures/lightning_beam
+textures/onact
+textures/projectile

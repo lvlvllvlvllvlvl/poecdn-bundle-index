@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+b969919d9a10c438,markerc.mat,Tiny_2,65078624,2500
+99c4e612f1d63c35,marker_strc.mat,Tiny_2,65073978,2308
+6c9328c1be2fbb61,marker_strdexc.mat,Tiny_2,65076286,2338
+0fe306fd26295d31,marker_normal_dxt5.dds,Art/Models/Items/Weapons/Test/Textures,87556,87556
+b22091e4d752291b,marker_normal_dxt5.dds.header,Tiny_2,65072458,1520
+4f587b680b6d9b93,marker_intc.mat,Tiny_2,65067726,2368
+39af7a91ea44cac4,marker_intstrc.mat,Tiny_2,65070094,2364
+db1942c3a5f49165,marker_dexc.mat,Tiny_2,65062990,2368
+6b683a58b4c72965,marker_dexintc.mat,Tiny_2,65065358,2368
+1c39142afbb0b057,marker_colour_dxt5.dds,Art/Models/Items/Weapons/Test/Textures,0,87556
+bb3ea6476698f4f4,marker_colour_dxt5.dds.header,Tiny_2,65061470,1520

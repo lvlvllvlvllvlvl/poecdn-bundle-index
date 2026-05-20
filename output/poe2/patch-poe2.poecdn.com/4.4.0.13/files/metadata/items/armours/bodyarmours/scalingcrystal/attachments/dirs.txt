@@ -1,0 +1,4 @@
+emerald
+opal
+ruby
+sapphire

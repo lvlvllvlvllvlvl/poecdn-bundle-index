@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+e12d76234fd613c2,karuituataramonster.sm,Tiny.VC,11553593,3406
+95745b5f22fe7ec0,karuituataramonster_armour_90010530.smd,Streaming/Content/metadata/monsters/karuituatara/karuituatara.ot,0,193685
+d6969018c19e2fbd,karuituataramonster_armour_90010530.smd.header,Tiny.V5,11532090,368
+d9c190e3dd532472,faridunlizards.sm,Tiny.V8,11693579,3340
+2fc7e1c7247e681d,faridunlizardsarmoured01.sm,Tiny.VF,11790614,3396
+4f17385569b30d78,faridunlizardsarmoured01_armour_c2857a4c.smd,Streaming/Content/data/worldareas/g2_5_1.vworld.6,391493,140057
+baee843ccd0cf4b0,faridunlizardsarmoured01_armour_c2857a4c.smd.header,Tiny.VF,11794010,448
+0abdbf50682b0d2d,faridunlizardsarmoured02.sm,Tiny.V8,11696919,3396
+bdaa5ea1691e5f43,faridunlizardsarmoured02_armour_27e91e59.smd,Streaming/Content/data/worldareas/g2_10_1.vworld.1,0,128297
+b2946a02e074dc30,faridunlizardsarmoured02_armour_27e91e59.smd.header,Tiny.V5,11531642,448
+78d978f591cb6518,rig_a92a4e09.smd,Streaming/Content/data/balance/worldareas/0B/null.vworld,0,79251
+3dd66358c62695bd,rig_a92a4e09.smd.header,Tiny.V9,11909672,448
+d3f6463b5825dea7,rig.amd,Content/metadata/monsters/tuataramonster/tuatara.ao,0,11470
+89748469378a00f3,rig.ast,Content/metadata/monsters/tuataramonster/tuatara.ao,11470,583530

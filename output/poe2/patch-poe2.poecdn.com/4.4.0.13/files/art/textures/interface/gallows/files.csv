@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+b47c0f831df8dab4,gallowsbackdropc.mat,Tiny.V3,43880286,1516
+a003ef3d8131bb9b,gallowsbackdrop_colour_dxt1.dds,Streaming/Content/data/worldareas/E1/g_login.vworld,0,2796364
+9aef99cdda37cbc0,gallowsbackdrop_colour_dxt1.dds.header,Tiny.VB,44696003,1520
+f775c85936f0b647,flat_normal_bc7.dds,Tiny.V6,44395290,1540
+eadbb9a253c29552,flat_normal_bc7.dds.header,Tiny.VB,44692123,1520
+34a15876813661fe,introskyc.mat,Tiny.VA,44541852,2380
+d3a71720a856339d,introsky_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/mtx/equip_preview_backdrop_act1.ao.D,0,2796364
+e40bad710703bf74,introsky_colour_dxt1.dds.header,Tiny.V3,43881802,1520

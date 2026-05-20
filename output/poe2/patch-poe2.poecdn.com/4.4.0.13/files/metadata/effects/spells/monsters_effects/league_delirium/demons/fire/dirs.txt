@@ -1,0 +1,9 @@
+fx
+graphs
+mat
+mat/fierytrails
+mat/splitidle
+mat/splitidletrails
+mat/splitsurge
+mat/swordslashground
+mat/swordtrail

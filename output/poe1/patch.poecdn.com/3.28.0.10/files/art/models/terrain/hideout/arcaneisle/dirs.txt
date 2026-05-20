@@ -1,0 +1,6 @@
+doodads
+doodads/textures
+doodads/textures/furnitures
+doodads/textures/plants
+textures
+tgms

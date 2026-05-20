@@ -1,0 +1,7 @@
+hairstyles
+hairstyles/druid
+hairstyles/templar
+outfits
+outfits/druid
+outfits/druid/attachments
+outfits/templar

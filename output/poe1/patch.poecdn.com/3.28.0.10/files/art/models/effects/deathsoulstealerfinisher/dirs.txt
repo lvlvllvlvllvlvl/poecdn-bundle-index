@@ -1,0 +1,7 @@
+attachments
+attachments/graveyardsuperuniqueweapons
+attachments/graveyardsuperuniquewings
+fx
+fx/mb
+fx/texture
+textures

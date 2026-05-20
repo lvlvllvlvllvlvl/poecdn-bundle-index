@@ -1,0 +1,5 @@
+attachments
+attachments/dangler
+attachments/skirt
+attachments/tassles
+textures

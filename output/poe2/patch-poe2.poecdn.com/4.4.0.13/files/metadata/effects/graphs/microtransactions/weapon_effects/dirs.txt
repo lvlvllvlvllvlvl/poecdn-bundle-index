@@ -1,0 +1,2 @@
+faithguard_bow
+manticore

@@ -1,0 +1,16 @@
+arenabeam
+beam_ball_lightning
+beam_ball_lightning/beam_ball
+beam_ball_lightning/beam_ball_beam2
+beam_ball_lightning/impact
+beams_impact_aoe
+bounceballprojectile
+dmgbeam
+generic_lightning
+lightning_strike
+lightning_strike/chara_castfx
+lightning_strike/chara_castfx/overlay
+tentacles_lightning
+tentacles_lightning/particles
+tentacles_lightning_elder
+tp_skill

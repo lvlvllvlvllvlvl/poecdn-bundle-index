@@ -1,0 +1,5 @@
+blood
+cold
+fire
+lightning
+poison

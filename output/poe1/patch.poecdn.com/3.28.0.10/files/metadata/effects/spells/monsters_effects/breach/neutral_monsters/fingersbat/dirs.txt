@@ -1,0 +1,7 @@
+epk
+fx
+graph
+mat
+mat/idle
+mat/impact
+mat/projectile

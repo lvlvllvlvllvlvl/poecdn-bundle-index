@@ -1,0 +1,6 @@
+helmetcloth
+helmetdangles
+helmetearring
+lbootdangle
+rbootdangle
+sash

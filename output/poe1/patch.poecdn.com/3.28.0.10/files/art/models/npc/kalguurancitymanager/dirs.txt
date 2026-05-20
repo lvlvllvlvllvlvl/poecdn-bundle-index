@@ -1,0 +1,7 @@
+animations
+attachments
+attachments/coat
+attachments/l_sleeve
+attachments/r_sleeve
+attachments/robe
+textures

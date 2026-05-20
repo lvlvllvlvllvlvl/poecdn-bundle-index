@@ -1,0 +1,4 @@
+fire
+ice
+light
+poison

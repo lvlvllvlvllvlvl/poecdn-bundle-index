@@ -1,0 +1,6 @@
+magma
+purple
+shieldhitvfx
+shieldhitvfx/default
+shieldhitvfx/magma
+shieldhitvfx/purple

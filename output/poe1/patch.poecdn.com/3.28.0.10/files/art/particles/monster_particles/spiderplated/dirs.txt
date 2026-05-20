@@ -1,0 +1,3 @@
+attack_groundstrike_v1
+polytex
+spiderplated_champion

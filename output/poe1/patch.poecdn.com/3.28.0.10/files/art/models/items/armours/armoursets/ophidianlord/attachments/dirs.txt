@@ -1,0 +1,6 @@
+collar
+shoulderpad
+shoulderpad/animation
+shoulderpad/animation/l_side_animation
+shoulderpad/animation/r_side_animation
+skirt

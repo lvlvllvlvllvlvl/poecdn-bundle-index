@@ -1,0 +1,10 @@
+attachments
+attachments/bowl
+attachments/earring
+attachments/hair
+attachments/hinekoradeathmedicinewoman
+attachments/hinekoradeathmedicinewoman/cloth
+attachments/hinekoradeathmedicinewoman/hair
+attachments/robe
+attachments/shawl
+attachments/tawhoamedicinewomanshawl

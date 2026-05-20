@@ -1,0 +1,12 @@
+fx
+fx/gem_blast_combo_01
+fx/nova_proj
+fx/porcupine_nova
+fx/spear_proj
+mat
+mat/blood_hunt
+mat/gem_blast_combo_01
+mat/nova_proj
+mat/skyfall_impact
+mat/slip_attack
+mat/spear_proj

@@ -1,0 +1,14 @@
+influencedoodads
+influencedoodads/chains
+influencedoodads/lanterns
+influencedoodads/lanterns/lantern_01
+influencedoodads/lanterns/lantern_02
+influencedoodads/lanterns/lantern_03
+influencedoodads/lanterns/lantern_04
+influencedoodads/lanterns/lantern_05
+influencedoodads/lanterns/lantern_06
+influencedoodads/lanterns/lantern_07
+influencedoodads/textures
+influencedoodads/wells
+textures
+tgms

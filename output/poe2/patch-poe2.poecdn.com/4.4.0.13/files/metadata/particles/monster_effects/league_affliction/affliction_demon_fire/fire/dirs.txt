@@ -1,0 +1,3 @@
+flameblast
+flameblast_explode
+tornado

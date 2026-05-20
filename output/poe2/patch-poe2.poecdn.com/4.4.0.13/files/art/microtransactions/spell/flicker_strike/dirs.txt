@@ -1,0 +1,7 @@
+afterimage
+afterimage/mb
+afterimage/mb/on_hit
+afterimage/textures
+afterimage/textures/on_hit
+necro_smoke
+ninja_smoke

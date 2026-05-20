@@ -1,0 +1,9 @@
+death
+shadowform
+shadowform/shadowslam
+shadowform/smokeform
+shadowform/smokeform/spiritcharge
+teleport_strike
+teleport_strike/charge
+teleport_strike/slash
+teleport_strike/target

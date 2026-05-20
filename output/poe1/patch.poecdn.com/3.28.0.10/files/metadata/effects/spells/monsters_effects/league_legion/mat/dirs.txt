@@ -1,0 +1,6 @@
+legionvolatilecore
+legionvolatilecore/volatile_appear
+legionvolatilecore/volatile_impact_aoe
+legionvolatilecore/volatile_ptemit
+legionvolatilecore/volatile_spellcast
+legionvolatilecore/volatile_spellcast/temp

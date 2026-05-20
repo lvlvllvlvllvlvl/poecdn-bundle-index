@@ -1,0 +1,9 @@
+attachments
+epks
+fx
+fx/close
+fx/loop
+fx/open
+fx/possessed
+fx/spirit_spawn_beam
+graphs

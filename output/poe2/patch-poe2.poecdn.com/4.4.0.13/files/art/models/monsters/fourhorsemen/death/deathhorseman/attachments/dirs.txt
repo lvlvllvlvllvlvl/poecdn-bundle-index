@@ -1,0 +1,4 @@
+halo
+robe
+shawl
+weapon

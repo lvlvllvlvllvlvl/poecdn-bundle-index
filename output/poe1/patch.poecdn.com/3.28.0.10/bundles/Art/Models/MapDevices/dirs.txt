@@ -1,0 +1,11 @@
+BloodlordMapDevice
+CelestialMapDevice
+DemonicMapDevice
+DemonicMapDevice/vfx
+MasqueradeFlowerMapDevice
+MasqueradeFlowerMapDevice/attachments
+OphidianMapDevice
+OphidianMapDevice/attachments
+StygianMapDevice
+SunMapDevice
+SunMapDevice/fx

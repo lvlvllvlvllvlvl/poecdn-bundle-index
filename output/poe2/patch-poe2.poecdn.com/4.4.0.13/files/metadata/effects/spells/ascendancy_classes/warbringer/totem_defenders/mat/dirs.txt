@@ -1,0 +1,14 @@
+horn_buff
+horn_slam
+idle_spectre
+jade_caster
+jade_hulk
+jadehulkwarcry
+rongokuraispirittortoise
+spawn_beam
+spawn_beam/end
+totem_buff
+tukohamabuffingbattlehorn
+tukohamajadecaster
+tukohamajadehulk
+turtle_aura

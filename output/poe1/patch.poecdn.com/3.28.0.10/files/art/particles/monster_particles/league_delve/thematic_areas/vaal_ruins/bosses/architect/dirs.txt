@@ -1,0 +1,17 @@
+beam_cannon_01
+blood_expanding_pulse
+blood_spirit_bomb
+death
+delayed_blood_meteor
+delayed_blood_meteor/impact_aoe
+delayed_blood_meteor/projectile
+delayed_blood_meteor/surge_up
+emerge
+heal_01
+mask
+raise_armour_01
+spellcast_aoe_01
+spellcast_aoe_02
+sword_barrage_01
+vaal_blood_runes
+vaal_corruption_beam

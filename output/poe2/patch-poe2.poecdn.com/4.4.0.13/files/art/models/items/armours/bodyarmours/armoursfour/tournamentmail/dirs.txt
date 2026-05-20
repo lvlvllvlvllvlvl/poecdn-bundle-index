@@ -1,0 +1,10 @@
+attachments
+attachments/belt
+attachments/ropes
+attachments/ropes/f
+attachments/ropes/m
+attachments/skirt
+attachments/str
+attachments/str/belt
+attachments/str/skirt
+textures

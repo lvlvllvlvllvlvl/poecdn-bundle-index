@@ -1,0 +1,4 @@
+CelestialWaypoint
+DemonicWayPoint
+ScientistWaypoint
+SynthesisWaypoint

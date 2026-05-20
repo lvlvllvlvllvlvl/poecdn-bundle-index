@@ -1,0 +1,7 @@
+attachments
+backalleyalttradersack
+large
+large/attachments
+small
+small/attachments
+textures

@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+452b4fd8824ca590,labradorc.mat,Tiny_8,43535252,2578
+ff3b92e6e0d6cdae,labrador_normal_dxt5.dds,Art/Textures/Pet/Labrador,349700,349700
+600f7b05e79c928c,labrador_normal_dxt5.dds.header,Tiny_8,43533732,1520
+4db66138e6191baf,labrador_fur01c.mat,Tiny_8,43527460,3028
+5652da98b10e9313,labrador_fur02c.mat,Tiny_8,43530488,3244
+72ca6d20631b2298,labrador_colour_dxt5.dds,Art/Textures/Pet/Labrador,0,349700
+c3f1b6a8d286b357,labrador_colour_dxt5.dds.header,Tiny_8,43525940,1520

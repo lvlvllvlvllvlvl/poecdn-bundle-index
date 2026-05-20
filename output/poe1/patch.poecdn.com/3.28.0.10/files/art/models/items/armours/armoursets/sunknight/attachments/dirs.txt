@@ -1,0 +1,4 @@
+cape
+shoulderpad
+skirt
+strint_shoulderpad

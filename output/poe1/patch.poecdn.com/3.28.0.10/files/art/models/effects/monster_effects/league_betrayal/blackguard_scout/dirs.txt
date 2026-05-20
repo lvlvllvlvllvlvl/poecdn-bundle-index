@@ -1,0 +1,15 @@
+banner
+banner/aura
+banner/banner_emerge
+banner/epk
+banner/large_aura
+blackguard_dash_slam
+blackguard_slash
+decelerating_mini
+decelerating_projectile
+sunder_explode
+sunder_explode/march
+sunder_explode/on_act
+sunder_explode/pulse
+sunder_explode/shockwave2
+sunder_explode/shockwave4

@@ -1,0 +1,15 @@
+ancestral
+battlemages
+enduring
+generals
+infernal
+intimidating
+pets
+pets/ancestral
+pets/generals
+pets/infernal
+pets/intimidating
+pets/rallying
+pets/seismic
+rallying
+seismic

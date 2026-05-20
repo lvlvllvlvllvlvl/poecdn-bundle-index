@@ -1,0 +1,6 @@
+channel
+elite_alert
+flameblast
+flameblast_explode
+on_act_balllightning
+on_act_flameblast

@@ -1,0 +1,6 @@
+bash
+bash/impact
+shield_charge
+shield_charge/aoe
+shield_charge/impact
+slam

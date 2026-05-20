@@ -1,0 +1,6 @@
+attachments
+attachments/skirt
+attachments/snakes
+attachments/snakes/snakechest
+attachments/snakes/snakeclav
+textures

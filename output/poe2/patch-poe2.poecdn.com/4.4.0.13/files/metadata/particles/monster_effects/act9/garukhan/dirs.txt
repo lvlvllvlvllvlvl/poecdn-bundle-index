@@ -1,0 +1,17 @@
+ambush
+charged_dash
+charged_dash/aoe
+charged_dash/buildup
+charged_dash/charge_end
+charged_dash/shadows
+charged_dash/shadows/death
+charged_dash/shadows/emerge
+combo_attack
+combo_attack/claw_stab
+combo_attack/shield_nova
+combo_attack/sword_slash
+kira
+kira/emerge
+kira/submerge
+large_tornado
+sandstorm

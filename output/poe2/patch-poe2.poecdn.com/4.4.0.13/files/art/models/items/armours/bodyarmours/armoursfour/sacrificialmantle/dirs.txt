@@ -1,0 +1,5 @@
+attachments
+attachments/smbackdecor
+attachments/smcape
+attachments/smskirt
+textures

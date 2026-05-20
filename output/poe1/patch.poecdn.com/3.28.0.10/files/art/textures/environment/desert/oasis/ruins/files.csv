@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+e58b84454e12cd65,ruin_tallassets01c.mat,Tiny_7,62682890,2192
+13cbb20f2f15a077,ruin_tallassets01_normal_dxt5.dds,Folders/art/textures/environment/desert/oasis/ruins,1398276,1398276
+44d54a6325e91216,ruin_tallassets01_normal_dxt5.dds.header,Tiny_7,62681370,1520
+c2bac22d2611945f,ruin_tallassets01_colour_dxt5.dds,Folders/art/textures/environment/desert/oasis/ruins,0,1398276
+c4499eed4811a8de,ruin_tallassets01_colour_dxt5.dds.header,Tiny_7,62679850,1520
+38476d62c2e90eb0,ruin_drapesropesc.mat,Tiny_7,62677682,2168
+e7d8108fed11b384,ruin_drapesropes_normal_dxt5.dds,Folders/art/textures/environment/desert/shore_5,2097488,1398276
+01af450ac860ab04,ruin_drapesropes_normal_dxt5.dds.header,Tiny_7,63368116,1520
+e52fbe570b141505,ruin_drapesropes_colour_dxt5.dds,Folders/art/textures/environment/desert/shore_5,699212,1398276
+fbca26e5aceeeb2b,ruin_drapesropes_colour_dxt5.dds.header,Tiny_7,63366596,1520
+a2e484f7ca83bf0b,ruinropec.mat,Tiny_7,62685082,1980
+156044c5cbb9b014,ruinrope_normal_dxt5.dds,Folders/art/models/terrain/leagues/kalguuransettlers/textures_F6,43868,87588
+1bbdf6dc750c70a7,ruinrope_normal_dxt5.dds.header,Tiny_7,63136790,504
+930b6d0ccb1edba0,ruinrope_colour_dxt5.dds,Folders/art/textures/environment/desert/shore/fishery_F,349700,87588
+bd5828279e66bbf4,ruinrope_colour_dxt5.dds.header,Tiny_7,63136286,504

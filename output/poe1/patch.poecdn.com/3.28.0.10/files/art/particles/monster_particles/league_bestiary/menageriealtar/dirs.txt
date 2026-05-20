@@ -1,0 +1,5 @@
+altar_active
+altar_active/effects
+altar_soulcharge
+beasts_death
+monster_death

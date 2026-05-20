@@ -1,0 +1,13 @@
+attachments
+attachments/female_skirt_back
+attachments/female_skirt_front
+attachments/l_boot_hand
+attachments/l_shoulder_hand
+attachments/l_strint_shoulder_pad
+attachments/male_skirt_back
+attachments/male_skirt_back_plates
+attachments/male_skirt_front
+attachments/r_boot_hand
+attachments/r_shoulder_hand
+attachments/r_strint_shoulder_pad
+textures

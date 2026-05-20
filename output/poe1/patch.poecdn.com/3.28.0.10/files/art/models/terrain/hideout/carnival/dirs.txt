@@ -1,0 +1,5 @@
+carnival_civillians
+female
+female/animations
+male
+male/animations

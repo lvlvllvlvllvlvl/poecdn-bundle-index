@@ -1,0 +1,4 @@
+entrance
+entrance/fx
+soldiers
+soldiers/summon_mannequin

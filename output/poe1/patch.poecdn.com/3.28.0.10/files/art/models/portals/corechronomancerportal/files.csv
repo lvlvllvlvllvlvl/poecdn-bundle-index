@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+5b021d73453f8fe8,rig_1e1897df.smd,Art/Models/Portals/CoreChronomancerPortal,1540323,1617285
+583eafade3eb85ad,rig_1e1897df.smd.header,Tiny_3,19235371,476
+6d042e10d3e4f347,rig.amd,Tiny_3,19235063,308
+c2b8c8acf8923559,rig.ast,Art/Models/Portals/CoreChronomancerPortal,866738,42407
+17f19a278a1c87a0,corechronomancerportal.sm,Tiny_3,19234159,904
+03c61a85469abb14,corechronomancerportal.fmt,Art/Models/Portals/CoreChronomancerPortal,0,866738
+fd98ca9acc8a3e46,corechronomancerportal.fmt.header,Tiny_3,19233726,433
+513922b3d20b5c38,broken_corechronomancerportal.fmt,Art/Models/Portals/CoreChronomancerPortal,909145,631178
+4be2884654a3ae20,broken_corechronomancerportal.fmt.header,Tiny_3,19233531,195

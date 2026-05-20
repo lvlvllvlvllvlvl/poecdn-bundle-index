@@ -1,0 +1,27 @@
+BanditTraps
+Bridges
+BrokenBridge
+ChurchRuin
+Cliff
+Connections
+DeepRiver
+Feature
+Infestation
+Largecliff
+Largeclifftree
+MoundsAndHoles
+OaksCamp
+Pool
+Pool_FlowingWater
+River
+Road
+Ruins
+Stream
+Thickforest
+Trees
+VillageRuin
+Walls
+areatransitions
+cliffslargetosmall
+large cliff to river
+walkablelargecliffwater

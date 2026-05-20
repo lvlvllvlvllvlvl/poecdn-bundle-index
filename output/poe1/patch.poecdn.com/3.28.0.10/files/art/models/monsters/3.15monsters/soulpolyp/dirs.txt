@@ -1,0 +1,4 @@
+attachments
+attachments/cloth
+attachments/cloth/l_cloth_1
+attachments/cloth/l_cloth_2

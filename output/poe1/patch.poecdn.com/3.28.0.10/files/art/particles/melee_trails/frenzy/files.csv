@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+e0d6d8b0f347abef,multi_base.mat,Tiny_6,42140055,1464
+7fc9e95f00735910,multi_base_dxt5.dds,Art/particles/melee_trails/frenzy,87556,349700
+14e1ea821a22f832,multi_base_dxt5.dds.header,Tiny_6,42141519,1520
+007263e863c347a2,blink_flash.mat,Tiny_6,42137579,2476
+f8d0f735ca9866e0,blink_flash_dxt5.dds,Art/particles/shattering_mine/fx,0,22020
+11d1b0b0e9029002,blink_flash_dxt5.dds.header,Tiny_7,33741404,1520
+fb413d0bd5a13515,blade_sharp.mat,Tiny_6,42134143,1916
+ad11c35aa690e497,blade_sharp_dxt5.dds,Art/particles/melee_trails/frenzy,437256,87556
+137f2db9e3bac264,blade_sharp_dxt5.dds.header,Tiny_6,42136059,1520
+58758d5d302a622b,blade_edge.mat,Tiny_6,42131581,2562
+3cb56444f6b7fd58,blade_edge_dxt5.dds,Art/particles/melee_trails/frenzy,0,87556
+15b424e8765ee871,blade_edge_dxt5.dds.header,Tiny_6,42150311,1520

@@ -1,0 +1,13 @@
+aura
+chargeup
+chargeup_explosion
+emerge
+emerge_weapon
+ion_cannon
+lightning_bomb
+lightning_bomb/explosion
+lightning_bomb/marker
+lightning_bomb/marker/loop
+lightning_bomb/marker/once
+quake_slam
+quake_slam/large_explosion

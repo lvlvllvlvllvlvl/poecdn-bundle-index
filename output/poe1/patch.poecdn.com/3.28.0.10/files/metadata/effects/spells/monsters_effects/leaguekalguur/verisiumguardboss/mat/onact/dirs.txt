@@ -1,0 +1,8 @@
+breakout
+cleave
+dash
+death
+deflect
+groundslam
+groundslam_aoe
+rage

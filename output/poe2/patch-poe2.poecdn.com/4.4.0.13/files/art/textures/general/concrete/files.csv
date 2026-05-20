@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+8dd148a1cc91f050,grout01_normal_bc7.dds,Streaming/Content/data/worldareas/48/c_g1_7.vworld,788432,5592580
+e542d7962d6e9df6,grout01_normal_bc7.dds.header,Tiny.V2,40644795,1520
+0d5652a30576a169,concrete02c.mat,Tiny.V0,41113750,1590
+02745c093666824f,concrete02_normal_bc7.dds,Streaming/Content/data/worldareas/g1_15.vworld.1,22998004,1398276
+3f4d189526a04ba9,concrete02_normal_bc7.dds.header,Tiny.V2,40643275,1520
+4bb60b27b1a4e4c8,concrete02_colour_dxt1.dds,Streaming/Content/data/worldareas/E8/c_g1_15.vworld,0,699212
+d79973c37b0b6594,concrete02_colour_dxt1.dds.header,Tiny.V8,40574948,1520
+ca750b956db6cdb4,concrete01c.mat,Tiny.VB,41259601,1778
+3100acc470871739,concrete01_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/islands/826200F750B0876D.F549F9A945724704.bnprop_01.ao.3,0,1398276
+43c396743e004151,concrete01_normal_dxt5.dds.header,Tiny.V8,40573428,1520
+12154839dde54ac1,concrete01_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/islands/826200F750B0876D.F549F9A945724704.bnprop_01.ao.2,2097488,699212
+e2bbe17145a9d627,concrete01_colour_dxt1.dds.header,Tiny.V9,41521383,1520

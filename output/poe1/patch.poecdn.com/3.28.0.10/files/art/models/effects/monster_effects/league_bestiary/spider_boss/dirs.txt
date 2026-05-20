@@ -1,0 +1,10 @@
+ambush
+ambush/emerge
+ambush/submerge
+attack_projectile
+gooey_projectile
+screech
+tail_strike
+tail_strike/web_ground
+venom_beam
+web_coat

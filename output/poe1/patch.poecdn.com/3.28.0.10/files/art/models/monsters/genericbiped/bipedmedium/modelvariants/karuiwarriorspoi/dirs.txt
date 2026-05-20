@@ -1,0 +1,7 @@
+attachments
+attachments/kwp_hair
+attachments/kwp_skirt
+attachments/kwp_top
+attachments/kwp_weapon
+attachments/kwp_weapon/animations
+attachments/kwp_weapon/animations/r_weapon

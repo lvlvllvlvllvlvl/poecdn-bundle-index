@@ -1,0 +1,4 @@
+canon_fire_grd
+canon_grd_spark
+extra_smoke
+smoke_trail

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+0360663f251073bf,rig_f13d5d37.smd,Art/Models/Items/Quivers/BloodSandQuiver,358960,374772
+d2c3344852ecd3d4,rig_f13d5d37.smd.header,Tiny_2,56853372,849
+0239a4d07cdf7b9c,loop_bloodsandquiver.sm,Tiny_2,56852892,480
+39d9513164bc50fc,loop_bloodsandquiver.amd,Tiny_4,10157892,88
+0024491c128f3632,loop_bloodsandquiver.ast,Tiny_2,56852402,490
+0ea013df094e95a7,bloodsandquiverdrop_50c6a6a1.smd,Art/Models/Items/Quivers/BloodSandQuiver,733732,374273
+574eaac408cb78ae,bloodsandquiverdrop_50c6a6a1.smd.header,Tiny_2,56852034,368
+7ed074b95f86689e,bloodsandquiverdrop.sm,Tiny_2,56851506,528
+e42a6a4ddcd2e060,bloodsandquiverdrop.amd,Tiny_2,56847379,202
+c7208324deb266fa,bloodsandquiverdrop.ast,Tiny_2,56847581,3925
+6209db158b082782,bloodsandquiver.fmt,Art/Models/Items/Quivers/BloodSandQuiver,62953,296007
+7a513c045788f377,bloodsandquiver.fmt.header,Tiny_2,56847080,299
+29b08d82dec0eb9a,arrow_bloodsand.fmt,Art/Models/Items/Quivers/BloodSandQuiver,0,62953
+da35f90b6047af65,arrow_bloodsand.fmt.header,Tiny_2,56846798,282

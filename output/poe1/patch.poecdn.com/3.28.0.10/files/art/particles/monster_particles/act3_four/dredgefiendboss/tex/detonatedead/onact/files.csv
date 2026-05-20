@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+44fc6cc4ed338f54,aura_render.mat,Tiny_6,49019215,10236
+0fe96fbd6570a74b,distortion_render.mat,Tiny_6,49029451,4218
+2d65080471f5138f,shockwave_render.mat,Tiny_6,49054159,5260
+e332248950b65f62,vines_render.mat,Tiny_6,49059419,14736
+70544fdf8f1be5e3,rootwallcut_normal_fade_bc7.dds,Art/Textures/Environment/Hideout/Darkwood_9,617996,349700
+48ee41f081447397,rootwallcut_normal_fade_bc7.dds.header,Tiny_7,69341264,1520
+b90d08677d347fe3,rootwallcut_colour_fade_bc1.dds,Folders/art/particles/monster_particles/act3_four_3,273682,174924
+e2bbe44f5d5f369a,rootwallcut_colour_fade_bc1.dds.header,Tiny_6,49052639,1520
+b693c1f83caeb966,flare_render.mat,Tiny_6,49042477,10162
+87a8d917d5a3e9bd,flare_update.mat,Tiny_6,56238948,208
+bedfd57b457e9a69,embers_render.mat,Tiny_6,49033669,6306
+ecf9b20509b8d24b,embers_update.mat,Tiny_6,49039975,2502

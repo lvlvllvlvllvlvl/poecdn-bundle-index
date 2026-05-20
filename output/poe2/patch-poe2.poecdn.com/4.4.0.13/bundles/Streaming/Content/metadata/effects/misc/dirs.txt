@@ -1,0 +1,9 @@
+char_selection
+flask_effects
+gold_explosion
+leaguestone_drop
+quest_hand_in
+quest_indicator
+rareitem_drop
+uniques
+upgraded_side_area

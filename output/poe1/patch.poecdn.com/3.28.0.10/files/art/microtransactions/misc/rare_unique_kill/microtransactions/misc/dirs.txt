@@ -1,0 +1,4 @@
+rare_unique_kill
+rare_unique_kill/vaaljudgementpalm
+rare_unique_kill/vaaljudgementpalm/textures
+rare_unique_kill/vaaljudgementpalm/textures/textures

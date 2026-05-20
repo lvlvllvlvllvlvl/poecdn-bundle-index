@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+0552a5fe4d9e7b46,channeling.ao,Tiny_9,287161760,6542
+2f61796a50ed6999,orb.ao,Tiny_9,287188052,2348
+4dbc1a5706e29b26,projectile.ao,Tiny_9,287329306,10184
+b53afbe2f6072893,proj_impact.ao,Tiny_9,287326206,3100
+1c1f00a1c3c23ac3,enemy_hit.epk,Tiny_9,287168302,468
+bbc34ea9b5106458,enemy_hit_epk_pass0.mat,Tiny_9,287168770,9402
+d7a1517420c96776,enemy_hit_large.epk,Tiny_9,287178172,480
+1219658b9f3c6fd3,enemy_hit_large_epk_pass0.mat,Tiny_9,287178652,9400
+46d8be42d1e601a6,aura_channeling.epk,Tiny_9,287158976,956
+57f0fd7a559a79cb,aura_channeling_epk_pass0.mat,Tiny_9,287159932,608
+36f2b7b989deee2f,aura_channeling_totem.epk,Tiny_9,287161030,730
+771942cb0771ab43,aura_channeling_totem_epk_pass0.mat,Tiny_9,287159932,608
+d7344cf44c8e7846,aura_channeling_idle.epk,Tiny_9,287160540,490
+8cf14b9f339a0acd,aura_channeling_idle_epk_pass0.mat,Tiny_9,287159932,608

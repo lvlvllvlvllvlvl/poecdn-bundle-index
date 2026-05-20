@@ -1,0 +1,6 @@
+fire
+flying_roomba_impact
+goblin_dart_trap
+goblin_dart_trap/poison
+sawblade_impact
+smokes

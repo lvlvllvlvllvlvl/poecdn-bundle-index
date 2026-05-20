@@ -1,0 +1,3 @@
+ground
+ice
+snow

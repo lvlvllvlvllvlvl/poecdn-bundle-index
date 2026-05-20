@@ -1,0 +1,11 @@
+apollyondarkshardhairfemale
+apollyondarkshardhairmale
+dex
+dex/apollyondarkshardrobe
+dexint
+int
+int/apollyondarkshardrobe
+str
+strdex
+strdexint
+strint

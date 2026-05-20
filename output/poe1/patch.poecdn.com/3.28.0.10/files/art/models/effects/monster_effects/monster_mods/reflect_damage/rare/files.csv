@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+1c5154830da46d7e,rig.amd,Tiny_2,5874552,108
+2962c8b33a3625c7,rig.ast,Tiny_2,5874660,455
+5fd942b2829f58cc,damagereflec.sm,Tiny_2,5872308,1110
+61f3d0ab8b6346d1,damagereflec_big.sm,Tiny_2,5873418,1134
+c72838f33dac6336,armour_damagereflec_35a78ef1.smd,Folders/art/models/effects/monster_effects/monster_mods/reflect_damage,103389,10936
+2d8ff83fc639feb0,armour_damagereflec_35a78ef1.smd.header,Tiny_2,5871789,519
+e611911b742893a0,armour_big_damagereflec_90f59fe4.smd,Art/Models/Effects/monster_effects/aura/nemesis_mod,97071,10930
+b537f43acfbdba08,armour_big_damagereflec_90f59fe4.smd.header,Tiny_2,5871273,516

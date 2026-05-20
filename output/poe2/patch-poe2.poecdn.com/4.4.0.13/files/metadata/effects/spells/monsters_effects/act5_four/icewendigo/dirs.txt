@@ -1,0 +1,7 @@
+fx
+fx/cold_super_nova_projectile
+fx/cold_super_nova_projectile/end
+fx/cold_super_nova_projectile/once
+fx/icebreath
+fx/on_act
+fx/on_act/pillar_leap_01

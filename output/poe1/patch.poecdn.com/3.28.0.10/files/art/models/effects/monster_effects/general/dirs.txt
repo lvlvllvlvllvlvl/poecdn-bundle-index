@@ -1,0 +1,3 @@
+leagues
+leagues/prototypes
+leagues/prototypes/blight

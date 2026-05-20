@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+17a34181d5648190,fx_dxt5.dds,Art/Textures/Misc/portals/CorruptedEmperorPortal_1,0,2796388
+6a7fcfbfa804ab46,fx_dxt5.dds.header,Tiny_8,23779532,840
+5b59c88eb1a92903,corruptedemperorportalspecularc.mat,Tiny_8,23773976,5556
+12a7293115e64680,corruptedemperorportal_normal_dxt5.dds,Folders/art/textures/misc/portals/1/corruptedemperorportal,0,1398276
+c2226ba5ed033e27,corruptedemperorportal_normal_dxt5.dds.header,Tiny_8,23772456,1520
+eca8ea94d8a54296,corruptedemperorportal_mask_dxt5.dds,Art/Textures/Misc/portals/CorruptedEmperorPortal_2,1048928,1398276
+0d7a17a056abd74a,corruptedemperorportal_mask_dxt5.dds.header,Tiny_8,23770936,1520
+fad681bfc373be58,corruptedemperorportal_colourspecular_dxt5.dds,Art/Textures/Misc/portals/CorruptedEmperorPortal_2,349692,699236
+ed643be77e9288b8,corruptedemperorportal_colourspecular_dxt5.dds.header,Tiny_8,23770096,840
+615e7d4ccdeccd87,corruptedemperorportal_colourspecular_bc7.dds,Art/Textures/Misc/portals/CorruptedEmperorPortal_2,349692,699236
+8dbfa93cd47e43dc,corruptedemperorportal_colourspecular_bc7.dds.header,Tiny_8,23770096,840
+d67eb0e3b4c47a39,corruptedemperorportal_colourspecular.dds,Art/Textures/Misc/portals/CorruptedEmperorPortal_2,0,349692
+8d158a9043532687,corruptedemperorportal_colourspecular.dds.header,Tiny_8,23769256,840

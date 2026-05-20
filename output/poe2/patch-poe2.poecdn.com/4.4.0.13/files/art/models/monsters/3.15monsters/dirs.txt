@@ -1,0 +1,7 @@
+ratmonster_2
+ratmonster_2/animations
+ratmonster_2/animations/pet_triceratops
+textures
+textures/pirateboss
+textures/reaperboss
+textures/vorana

@@ -1,0 +1,12 @@
+grandmasters_forcewall
+harbringer
+harbringer/portals
+harbringer/portals/portal
+harbringer/portals/portal_glow
+harbringer/portals/tgms
+mapatlassummit
+timebomb_debuff
+vastiri_pillars
+vastiri_pillars/portal
+vastiri_pillars/stonegaze
+vastiri_pillars/tp_effect

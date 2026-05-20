@@ -1,0 +1,3 @@
+banditleader_int
+banditleader_intdex
+banditleader_strdex

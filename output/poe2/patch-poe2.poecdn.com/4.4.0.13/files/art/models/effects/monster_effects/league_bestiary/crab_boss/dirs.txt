@@ -1,0 +1,7 @@
+burrow
+geysers
+roar
+rockfall
+roll
+slam
+slam/impact

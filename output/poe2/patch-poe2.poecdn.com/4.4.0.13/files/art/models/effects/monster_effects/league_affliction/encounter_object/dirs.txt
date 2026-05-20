@@ -1,0 +1,3 @@
+clone_beam
+main_object
+main_object/mo_grd

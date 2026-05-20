@@ -1,0 +1,12 @@
+mb
+mb/attack_03
+mb/curse_aoe
+mb/on_act
+mb/vomit_proj
+textures
+textures/despair
+textures/enfeeble
+textures/on_act
+textures/temporal_chains
+textures/vomit_mortar
+textures/vulnerability

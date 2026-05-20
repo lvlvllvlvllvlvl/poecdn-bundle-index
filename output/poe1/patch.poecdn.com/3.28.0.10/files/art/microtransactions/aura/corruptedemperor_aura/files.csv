@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+704a6c51b66a5a98,torus02.fmt,Art/Microtransactions/Aura/CorruptedEmperor_Aura,9160,6487
+93ace0d1638ad484,torus02.fmt.header,Tiny_1,13718334,171
+51bfbc08a3d98aa4,torus01.fmt,Art/Microtransactions/Aura/CorruptedEmperor_Aura,5025,4135
+9e1ecf16cb95d3be,torus01.fmt.header,Tiny_1,13718163,171
+dfd66d11f9bbdd6c,rig_803fc9dd.smd,Art/Microtransactions/Aura/CorruptedEmperor_Aura,15647,216760
+ef3c5646ad6d6958,rig_803fc9dd.smd.header,Tiny_1,13677580,1267
+671abdc8c6c4281c,aura.sm,Tiny_1,13676794,786
+adfb2abc357fc2d7,aura.amd,Tiny_1,13676688,106
+f2dd99e76dbc423f,aura.ast,Art/Microtransactions/Aura/CorruptedEmperor_Aura,0,5025

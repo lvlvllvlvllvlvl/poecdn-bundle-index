@@ -1,0 +1,4 @@
+flame_breath
+flame_breath/on_act
+lionstatue_goldenburned
+lionstatue_goldenburned/bodyfx

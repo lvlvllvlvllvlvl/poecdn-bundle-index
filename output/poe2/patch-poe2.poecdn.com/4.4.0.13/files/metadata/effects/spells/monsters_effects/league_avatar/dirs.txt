@@ -1,0 +1,8 @@
+avatarbuffs
+beam
+flameblast
+mortar
+ri_fire_blue
+summons
+ultimate_ball_lightning
+upheaval

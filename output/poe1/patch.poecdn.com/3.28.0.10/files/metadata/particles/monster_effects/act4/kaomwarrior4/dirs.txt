@@ -1,0 +1,3 @@
+firestorm
+firewhip
+firewhip/shockwave

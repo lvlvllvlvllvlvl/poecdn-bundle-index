@@ -1,0 +1,5 @@
+bulb
+cent
+particles
+ribz
+tip

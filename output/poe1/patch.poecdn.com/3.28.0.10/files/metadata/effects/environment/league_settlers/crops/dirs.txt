@@ -1,0 +1,10 @@
+ao
+fxgrpah
+mat
+mat/onact
+mat/onact/idle_relaxed_01
+mat/onact/working_farming_01
+mat/onact/working_farming_02
+mat/onact/working_foraging_01
+mat/onact/working_foraging_02
+pet

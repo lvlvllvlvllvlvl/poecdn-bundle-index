@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+06879c7c59056a65,crl_sinkholeflatstone03_mcfc.mat,Tiny.V1,20069534,2770
+16249f1f2c7e7935,hod_sinkholebedrockflat01c.mat,Tiny.V6,20078358,3404
+40fcaba9dd5c3788,hod_sinkholebedrockflat01_pxfc.mat,Tiny.V8,20316707,4296
+e16d30fdefd8af9b,hod_sinkholebedrockflat01_height.dds,Streaming/Content/data/worldareas/42/g4_4_2.vworld,0,5592580
+3312f4697c285041,hod_sinkholebedrockflat01_height.dds.header,Tiny.V6,20075318,1520
+a974415b56c744d2,hod_sinkholebedrockflat01_normal.dds,Streaming/Content/data/worldareas/C0/g4_4_2.vworld,5592580,5592580
+36910ee346466349,hod_sinkholebedrockflat01_normal.dds.header,Tiny.V6,20076838,1520
+0d89e9dba5a0af36,hod_sinkholebedrockflat01_colour.dds,Streaming/Content/data/worldareas/2A/g4_4_2.vworld,0,2796364
+9c1e9d4c310669be,hod_sinkholebedrockflat01_colour.dds.header,Tiny.V8,20315187,1520

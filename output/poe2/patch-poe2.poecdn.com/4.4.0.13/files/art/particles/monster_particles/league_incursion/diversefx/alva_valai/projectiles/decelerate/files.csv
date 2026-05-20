@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+4e6fdcb6ec26590a,golden_waveline.mat,Tiny.VF,37443619,2796
+c39e884a7f294950,golden_waveline.dds,Streaming/Content/metadata/particles/monster_effects/league_incursion/449855495CFCAAF5.8B609D301CE48B15.boom_flash.pet,618888,43876
+c236e93b4b61be0f,golden_waveline.dds.header,Tiny.V6,37369868,840
+4363b3b0c598955a,fire_spark.mat,Tiny.VA,37692818,1704
+b6127302e7de76cf,fire_spark.dds.header,Tiny.V5,37183630,1520
+8b5cf0f102b9a075,multiwave_at.mat,Tiny.V3,36859735,1454
+19791fe9894f9125,multiwave_at.dds,Streaming/Content/metadata/particles/monster_effects/league_incursion/449855495CFCAAF5.8B609D301CE48B15.boom_flash.pet,662764,349700
+8f912516503baa9f,multiwave_at.dds.header,Tiny.VF,37439663,1520
+c4d9d0f2d22c3b3a,shockwave-sample.mat,Tiny.VC,37553077,1772
+04ab475918c167dc,shockwave-sample.dds,Streaming/Content/metadata/particles/monster_effects/league_incursion/449855495CFCAAF5.8B609D301CE48B15.boom_flash.pet,1012464,87556
+f34cbfa428c6770c,shockwave-sample.dds.header,Tiny.V3,36858215,1520
+0c641cb474af9cdb,light_beam.mat,Tiny.V9,38026115,2626
+d80ad9613e82e088,light_beam.dds,Streaming/Content/metadata/particles/monster_effects/league_incursion/449855495CFCAAF5.C078558DD5D40CFC.energy_fix.pet,0,22020
+83cf11b9150840c5,light_beam.dds.header,Tiny.V5,37098030,1520

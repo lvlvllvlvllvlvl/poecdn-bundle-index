@@ -4,6 +4,8 @@ use poecdn_bundle_index::db::{generate_differential_update, get_version, extract
 use sea_orm::Database;
 use std::path::PathBuf;
 use anyhow::Context;
+use poecdn_bundle_index::exporter::generate_root_index;
+use std::path::Path;
 
 #[derive(Parser)]
 #[command(name = "poecdn-bundle-index", version, about = "Path of Exile CDN Bundle Index tool")]
@@ -60,12 +62,17 @@ async fn main() -> anyhow::Result<()> {
     match cli.command {
         Commands::Poe1 { out_dir } => {
             run("patch.pathofexile.com:12995", &out_dir).await?;
+            generate_root_index(Path::new("output"))?;
         }
         Commands::Poe2 { out_dir } => {
             run("patch.pathofexile2.com:13060", &out_dir).await?;
+            generate_root_index(Path::new("output"))?;
         }
         Commands::Offline { url, index, out_dir } => {
             run_offline_from_index(&url, &out_dir, &index).await?;
+            if let Some(parent) = Path::new(&out_dir).parent() {
+                generate_root_index(parent)?;
+            }
         }
         Commands::DiffUpdate { previous, current, output } => {
             // Open both databases to derive versions (for naming and validation)

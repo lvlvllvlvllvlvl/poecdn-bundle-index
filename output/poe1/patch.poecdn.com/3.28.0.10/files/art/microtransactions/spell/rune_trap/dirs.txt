@@ -1,0 +1,2 @@
+fire_rune_trap
+fire_rune_trap/textures

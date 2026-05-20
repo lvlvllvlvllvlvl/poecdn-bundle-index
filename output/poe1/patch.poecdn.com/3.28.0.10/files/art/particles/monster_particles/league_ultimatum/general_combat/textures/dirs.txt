@@ -1,0 +1,11 @@
+vaal_crawler
+vaal_crystal_totem
+vaal_goliath
+vaal_goliath/beam
+vaal_goliath/blood_orbs
+vaal_goliath/cascade_grdslam
+vaal_goliath/on_act
+vaal_goliath/on_act/attack
+vaal_goliath/orb_explosion
+vaal_goliath/tendrils_cone
+vaal_overseer

@@ -1,0 +1,7 @@
+pose01
+pose02
+pose03
+pose04
+pose05
+pose06
+stands

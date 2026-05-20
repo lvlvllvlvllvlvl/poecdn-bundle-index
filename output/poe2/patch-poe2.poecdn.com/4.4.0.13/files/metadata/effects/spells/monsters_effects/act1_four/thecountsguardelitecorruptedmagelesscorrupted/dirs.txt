@@ -1,0 +1,9 @@
+epk
+fx
+graph
+mat
+mat/attack
+mat/fireball
+mat/flamethrower
+mat/flamethrower_active
+mat/handglow

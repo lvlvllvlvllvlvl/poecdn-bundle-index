@@ -1,0 +1,9 @@
+architectboss
+atziriboss
+corruption
+doctor
+garrison
+minibosses
+smithy
+thaumaturge
+vaaltrainingdummy

@@ -1,0 +1,6 @@
+celestial
+celestial/fx
+celestial/fx/hit_fx
+celestial/fx/shockwave
+celestial/fx/weapon_buildup
+celestial/graph

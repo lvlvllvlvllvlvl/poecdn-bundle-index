@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+41a1e6fdd3257b49,eldritchmapdevice_tentaclesc.mat,Tiny_2,68891181,872
+e3f860b96fb2ad1c,eldritchmapdevice_tentacles_normal.dds,Folders/art/models/mapdevices/eldritchmapdevice/textures_2,699212,1398276
+27a38a985dfbeb90,eldritchmapdevice_tentacles_normal.dds.header,Tiny_3,59918601,1520
+92671bfe4d37e3f9,eldritchmapdevice_tentacles_colour.dds,Folders/art/models/mapdevices/eldritchmapdevice/textures_2,0,699212
+215cd27dea03cdc0,eldritchmapdevice_tentacles_colour.dds.header,Tiny_3,59917081,1520
+b5057deda62fdc9a,eldritchmapdevice_shellsc.mat,Tiny_2,68890165,1016
+e930a1043878dcb2,eldritchmapdevice_shells_normal.dds,Folders/art/models/mapdevices/eldritchmapdevice/textures_1,699212,1398276
+eb60b4798093df1e,eldritchmapdevice_shells_normal.dds.header,Tiny_3,59913483,1520
+78404420e7af565b,eldritchmapdevice_shells_colour.dds,Folders/art/models/mapdevices/eldritchmapdevice/textures_1,0,699212
+3919915aecc48956,eldritchmapdevice_shells_colour.dds.header,Tiny_3,59911963,1520
+e41b40fbb82e1765,eldritchmapdevice_rootsc.mat,Tiny_2,68889153,1012
+2c1729d488c5ea4f,eldritchmapdevice_roots_normal.dds,Folders/art/models/mapdevices/eldritchmapdevice/textures,1398276,1398276
+5843588c989a1a31,eldritchmapdevice_roots_normal.dds.header,Tiny_2,68887633,1520
+905a22f29bd05a10,eldritchmapdevice_roots_colour.dds,Folders/art/models/mapdevices/eldritchmapdevice/textures,0,1398276
+4fe73c4b7aae8a2f,eldritchmapdevice_roots_colour.dds.header,Tiny_2,68886113,1520

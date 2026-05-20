@@ -1,0 +1,6 @@
+blood
+bone
+celestial
+flesh
+soul
+spirit

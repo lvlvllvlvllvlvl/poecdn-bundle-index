@@ -1,0 +1,3 @@
+cruciblecraftweapontreeinterface
+crucibleencounter
+crucibleweaponcombine

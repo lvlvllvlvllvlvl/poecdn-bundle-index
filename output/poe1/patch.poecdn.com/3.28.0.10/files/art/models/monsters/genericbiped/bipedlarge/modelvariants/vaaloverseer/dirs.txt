@@ -1,0 +1,4 @@
+attachments
+attachments/vaaloverseerbeltskulls
+attachments/vaaloverseerdecayedbeltskulls
+attachments/vaaloverseershield

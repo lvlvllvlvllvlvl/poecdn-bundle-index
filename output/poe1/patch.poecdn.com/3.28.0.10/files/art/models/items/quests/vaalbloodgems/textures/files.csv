@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+bd37f31279ac6256,vaalbloodgemmediumc.mat,Tiny_2,56807303,6220
+3a80615712b30889,vaalbloodgemmedium_normal_dxt5.dds,Folders/art/models/items/quests/vaalbloodgems/textures,1049248,349700
+b6387c56dcc25976,vaalbloodgemmedium_normal_dxt5.dds.header,Tiny_2,56805783,1520
+f5c0c39eaa968cf3,vaalbloodgemmedium_mask_dxt5.dds,Folders/art/models/items/quests/vaalbloodgems/textures,699548,349700
+aab4117ebd7ea978,vaalbloodgemmedium_mask_dxt5.dds.header,Tiny_2,56802743,1520
+0dcd965b63bff478,vaalbloodgemmedium_mask_dxt1.dds,Folders/art/models/items/quests/vaalbloodgems/textures,524624,174924
+e5f0ca42007cdfa5,vaalbloodgemmedium_mask_dxt1.dds.header,Tiny_2,56804263,1520
+ba343f418f4b6885,vaalbloodgemmedium_mask_bc7.dds,Folders/art/models/items/quests/vaalbloodgems/textures,699548,349700
+6e87496010365994,vaalbloodgemmedium_mask_bc7.dds.header,Tiny_2,56802743,1520
+8edc759defe08971,vaalbloodgemmedium_glow_dxt1.dds,Folders/art/models/items/quests/vaalbloodgems/textures,349700,174924
+d39bf514d19ea418,vaalbloodgemmedium_glow_dxt1.dds.header,Tiny_2,56801223,1520
+60f82fa075e1f03a,vaalbloodgemmedium_colour_dxt5.dds,Folders/art/models/items/quests/vaalbloodgems/textures,0,349700
+8ae213baae772c2f,vaalbloodgemmedium_colour_dxt5.dds.header,Tiny_2,56799703,1520

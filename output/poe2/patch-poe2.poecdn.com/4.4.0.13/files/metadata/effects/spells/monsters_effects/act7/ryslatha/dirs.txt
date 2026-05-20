@@ -1,0 +1,3 @@
+burrow
+poison_flamethrower
+spit_parasite

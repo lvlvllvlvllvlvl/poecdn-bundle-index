@@ -1,0 +1,10 @@
+arcticcaster
+armouredbird
+eagletotem
+elementalfighter
+kiweth
+map_monster_spawn
+ministorm
+serapharcher
+seraphfighter
+spawn

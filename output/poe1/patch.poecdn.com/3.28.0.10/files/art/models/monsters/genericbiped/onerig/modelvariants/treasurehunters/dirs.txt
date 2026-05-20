@@ -1,0 +1,11 @@
+treasurehunter_01
+treasurehunter_01/attachments
+treasurehunter_01/attachments/coat
+treasurehunter_01/attachments/swordholder
+treasurehunter_02
+treasurehunter_02/attachments
+treasurehunter_02/attachments/backcloth
+treasurehunter_03
+treasurehunter_03/attachments
+treasurehunter_03/attachments/coat
+treasurehunter_03/attachments/swordholder

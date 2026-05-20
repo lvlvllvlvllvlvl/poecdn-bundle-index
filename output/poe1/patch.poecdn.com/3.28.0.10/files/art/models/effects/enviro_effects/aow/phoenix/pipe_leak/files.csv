@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+19d8f4ec748b91ac,pipe_leak.sm,Tiny_1,86116859,348
+9089ca78ced96c94,rig_26fae9e9.smd,Tiny_1,86117626,72
+10659a68eca00f72,rig_26fae9e9.smd.header,Tiny_1,86117698,368
+f5f84f46112bdb58,rig.amd,Tiny_7,12138784,146
+a72e383521871d01,rig.ast,Tiny_1,86117207,419

@@ -1,0 +1,10 @@
+ground
+pet
+pet/lantern_01
+pet/lantern_02
+pet/lantern_03
+pet/rocks_big_cluster
+pet/rocks_mid_cluster
+pet/rocks_sml_cluster
+pet/wells
+scorch

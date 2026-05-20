@@ -1,0 +1,7 @@
+detach
+gold_fragment
+gold_trail_shield
+shard_impact
+shard_trail
+shatter
+shieldfx

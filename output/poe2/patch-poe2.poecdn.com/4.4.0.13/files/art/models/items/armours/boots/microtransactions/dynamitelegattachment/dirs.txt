@@ -1,0 +1,4 @@
+animation
+animation/l_leg
+animation/r_leg
+textures

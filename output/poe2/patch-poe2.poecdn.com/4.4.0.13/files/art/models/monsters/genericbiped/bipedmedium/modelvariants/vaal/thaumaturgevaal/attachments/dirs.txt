@@ -1,0 +1,5 @@
+01mask
+01skirt
+02headdress
+02shawl
+02skirt

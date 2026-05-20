@@ -1,0 +1,5 @@
+cape
+ribbon
+skirt
+skirt/female
+skirt/male

@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+6b814e6b9b9012f2,wind_smoke_r.mat,Tiny_D,2282802,22522
+c383c721e9b3a95e,wind_smoke_u.mat,Tiny_D,2305324,9732
+f1933ca27cddb0bc,scream_cone_r.mat,Tiny_D,4906772,33808
+96efa00ac6d23176,scream_cone_u.mat,Tiny_D,387564858,572
+1a5a5e83cf000c46,mblur_sphere_r.mat,Tiny_D,4872378,11614
+2fc100ac47345035,mblur_sphere_u.mat,Tiny_11,63879857,346
+8bd967b11821b8a2,liquid_strings_r.mat,Tiny_D,4846278,12148
+b1593c6e683ddc58,liquid_strings_u.mat,Tiny_D,4858426,13952

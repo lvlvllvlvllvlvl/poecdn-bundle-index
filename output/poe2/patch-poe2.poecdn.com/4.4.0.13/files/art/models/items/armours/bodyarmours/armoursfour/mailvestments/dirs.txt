@@ -1,0 +1,6 @@
+attachments
+attachments/mvbelt
+attachments/mvcape
+attachments/mvcapestraps
+attachments/mvrobe
+textures

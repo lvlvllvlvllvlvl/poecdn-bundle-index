@@ -1,0 +1,5 @@
+chestropes
+eyeseffectattachment
+helmeffectattachment
+robe
+robe/rigidbelt

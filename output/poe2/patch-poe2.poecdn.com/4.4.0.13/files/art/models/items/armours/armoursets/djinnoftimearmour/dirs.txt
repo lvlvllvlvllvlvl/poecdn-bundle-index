@@ -1,0 +1,12 @@
+attachments
+attachments/headattachment
+attachments/headwrap
+attachments/shawl
+attachments/shawl/f
+attachments/shawl/m
+attachments/shawl/str
+attachments/skirt
+attachments/skirt/dex
+attachments/skirt/m
+attachments/skirt/str
+textures

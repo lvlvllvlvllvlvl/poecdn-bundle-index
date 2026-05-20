@@ -1,0 +1,10 @@
+ao
+epk
+fx
+mat
+mat/costume_fade
+mat/idle_costume_relaxed_02
+mat/idle_costume_relaxed_02/impact
+mat/idle_relaxed_01
+mat/idle_relaxed_01/electricball
+mat/idle_relaxed_02

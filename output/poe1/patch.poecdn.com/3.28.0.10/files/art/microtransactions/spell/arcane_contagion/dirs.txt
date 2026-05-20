@@ -1,0 +1,7 @@
+affected
+affected/textures
+main
+main/textures
+projectile_aoe_impact
+surge
+surge/textures

@@ -1,0 +1,2 @@
+proj_rig
+proj_rig/animations

@@ -1,0 +1,3 @@
+thaumaturgy
+thaumaturgy/project
+thaumaturgy/science

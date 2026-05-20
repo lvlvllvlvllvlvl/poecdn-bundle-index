@@ -1,0 +1,6 @@
+costume_fade
+idle_costume_relaxed_02
+idle_costume_relaxed_02/impact
+idle_relaxed_01
+idle_relaxed_01/electricball
+idle_relaxed_02

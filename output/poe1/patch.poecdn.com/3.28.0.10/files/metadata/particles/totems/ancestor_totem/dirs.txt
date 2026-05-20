@@ -1,0 +1,4 @@
+hole
+totem
+warrior
+weapon

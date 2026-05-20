@@ -1,0 +1,10 @@
+animations
+animations/breachhandspider
+animations/pet
+animations/pet/justicegriffonfoal
+animations/pet/precursor_centipede
+animations/pitifulfabrication01
+animations/prisoneraltarmapdevice
+animations/prisonercinematic
+animations/smalletchedbeetle
+animations/vampiresservant

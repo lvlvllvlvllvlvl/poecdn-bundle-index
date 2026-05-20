@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+77cb7bb4e95f5102,nuke_beam_damagec.mat,Tiny_6,64582774,8206
+46a06d8dc93599f9,nuke_beam_damage.dds,Tiny_8,45172037,204
+e5c4f2e3c26dc8cd,nuke_beam_damage.dds.header,Tiny_8,45172241,496
+82913eba33e5c272,burn_mark01c.mat,Tiny_6,64483966,4580
+a45e841c6490c671,burn_mark01_dxt4.dds,Folders/art/particles/monster_particles/atlasexiles_01,2491972,1398276
+a08c0d98a7accec2,burn_mark01_dxt4.dds.header,Tiny_6,64482446,1520
+6667ae847042a31a,basec.mat,Tiny_6,64481332,1114
+d12fa35f2d10837f,base.dds,Tiny_8,45172037,204
+99895aceb4a66b36,base.dds.header,Tiny_8,45172241,496

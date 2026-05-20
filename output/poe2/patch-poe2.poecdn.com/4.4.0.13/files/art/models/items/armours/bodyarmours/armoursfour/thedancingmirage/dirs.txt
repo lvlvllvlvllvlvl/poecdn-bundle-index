@@ -1,0 +1,9 @@
+attachments
+attachments/scarf
+attachments/scarf_str
+attachments/skirt
+attachments/skirt/attachments
+attachments/skirt/attachments/skirt_layer_02
+attachments/skirt/attachments/skirt_layer_03
+attachments/waist
+textures

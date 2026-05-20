@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+5ebbb1df9b928bd3,proto_volumc.mat,Art/particles/monster_particles/League_Delve_21,791554,4868
+eb34d55054d9003f,proto_volum.dds,Art/particles/monster_particles/League_Delve_22,786768,11084
+63ba55da2e0fc7f4,proto_volum.dds.header,Tiny_6,109453466,1520
+ecd3942dad4f6fe1,light_boostc.mat,Tiny_6,109433980,3724
+f38d2ff9bc37d598,light_boost.dds,Art/particles/monster_particles/League_Delve_22,699212,87556
+ef8eb7da981c03e7,light_boost.dds.header,Tiny_6,109432460,1520
+c4ddc46120dd9f65,glow_03c.mat,Tiny_6,109430658,1802
+841249bec12ca31a,glow_03.dds,Art/particles/monster_particles/League_Delve_21,92342,699212
+6f9177ba3eea3e1a,glow_03.dds.header,Tiny_6,109429138,1520
+20183e35cae42790,glow_01_02c.mat,Tiny_6,109427318,1820
+e2f56682cb32f2ec,glow_01_02.dds,Art/particles/monster_particles/League_Delve_22,0,699212
+a4bf22bb6efb9150,glow_01_02.dds.header,Tiny_6,109425798,1520
+a7c2ec6e1b3f4102,azurite_lookup.mat,Tiny_6,109424512,1286
+de9e9a8cca0edd4d,azurite_lookup.dds,Tiny_7,11951174,2212
+b6ecd6412680293a,azurite_lookup.dds.header,Tiny_7,11953386,280

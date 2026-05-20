@@ -1,0 +1,4 @@
+ambush
+spirit_bite
+spirit_roar
+spirit_swipe_01

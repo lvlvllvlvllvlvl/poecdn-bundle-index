@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+60ef302fec74744c,geodite_flash.mat,Tiny_6,89356097,1886
+b00471a9f75f93c9,impact_spike.mat,Tiny_6,89357983,2566
+f87d675e5f75e4ee,static01_7x7.mat,Tiny_6,89372195,2362
+7dd7d7aa9bc952e9,ring.mat,Tiny_6,89365511,3158
+8c2f3b31f4a9fe15,ringspark.mat,Tiny_6,89368669,3526
+6e16fd817f7c914d,lightning_spark.mat,Tiny_6,89362703,1288
+183e7cda00f5abcf,lightning_spark_dxt5.dds,Folders/art/particles/blood_tendrils/surge,90291,87556
+45d9163a113d9860,lightning_spark_dxt5.dds.header,Tiny_6,89363991,1520
+fe7ccff8d90d74cc,lightning_bolts_vert.mat,Tiny_6,89360549,1650
+3a5c5faa4bf5d570,lightning_bolts_vert_dxt5.dds,Art/particles/environment_effects/AoW_11,2906128,87588
+41d1120145cece22,lightning_bolts_vert_dxt5.dds.header,Tiny_6,89362199,504
+56ca9ddb89e3fef7,flash_dxt5.dds,Folders/art/particles/icearrow_02,481108,22020
+2a765f747c93179e,flash_dxt5.dds.header,Tiny_7,38252115,1520
+6e8c3dd6dcdc2763,black.mat,Tiny_6,89347085,5128
+71e784ab8973ad99,blade_trail.mat,Tiny_6,89352213,3884

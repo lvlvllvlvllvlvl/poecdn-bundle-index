@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+056bb65e9c13e76e,web_bits.mat,Tiny.V8,36371221,3038
+85dcc1c4ce59e834,web_bits.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/70541693D745DB37.BB02498F7AB381AD.ursae_01.pet,564656,349700
+524c35abb0d7fab6,web_bits.dds.header,Tiny.V1,36445240,1520
+90ab43f4fd25f76a,web_splat_colour.mat,Tiny.V5,36209316,1870
+812bb3b06ebf9a4e,web_splat_colour.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/70541693D745DB37.BB02498F7AB381AD.ursae_01.pet,914356,87556
+3d56c5d65ab8f2a0,web_splat_colour.dds.header,Tiny.V4,36964566,1520
+57e8c10972c3ce67,smokegreenhighlightwisp.mat,Tiny.V9,37206940,2068
+af63b7f0e54bbf11,smokegreenhighlightwisp.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/9375332777171DEB.D766B59C8B1B727D.spawnsmoke.pet,0,87556
+cc4e814d54db9ba1,smokegreenhighlightwisp.dds.header,Tiny.V4,36963046,1520
+4fc7a5b540c0c87f,poisonbubble.mat,Tiny.V5,36206394,2922
+4b2aec85fe115258,poisonbubble.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/9375332777171DEB.D766B59C8B1B727D.loop_cyl.pet,87556,11108
+d953d295554884db,poisonbubble.dds.header,Tiny.V7,36497871,840
+470e8778dc3f80b2,poison_smoke_rhoa.mat,Tiny.V1,36443562,1678
+91cfed745c193d8d,poison_smoke_rhoa.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/9375332777171DEB.D766B59C8B1B727D.loop_cyl.pet,0,87556
+58ba287ad16f98e6,poison_smoke_rhoa.dds.header,Tiny.V6,35208130,1520

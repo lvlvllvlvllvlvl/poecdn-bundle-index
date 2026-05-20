@@ -1,0 +1,14 @@
+epk
+fx
+fx/attack_01
+fx/death_pulse
+fx/screech_01
+fx/teleport
+graphs
+mat
+mat/attack_01
+mat/death_pulse
+mat/death_pulse_debuff
+mat/idle_01
+mat/screech_01
+mat/teleport

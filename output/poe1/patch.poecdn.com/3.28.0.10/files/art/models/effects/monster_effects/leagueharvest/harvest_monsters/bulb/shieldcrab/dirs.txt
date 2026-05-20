@@ -1,0 +1,5 @@
+on_act_deathescape
+on_act_spellcastexplode
+spellcast_explode
+water_bubble
+water_mortar

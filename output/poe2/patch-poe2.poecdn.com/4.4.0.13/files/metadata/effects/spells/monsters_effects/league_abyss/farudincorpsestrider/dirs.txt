@@ -1,0 +1,13 @@
+attachment
+fx
+graphs
+mats
+mats/barrage_lightning
+mats/barrage_throw_projectile
+mats/barrageimpact
+mats/barragemarker
+mats/barrageprojectile
+mats/lightningbarrage_cone
+mats/lightningbarrage_onactbuild
+mats/lightningbarrage_onactimpact
+mats/stab

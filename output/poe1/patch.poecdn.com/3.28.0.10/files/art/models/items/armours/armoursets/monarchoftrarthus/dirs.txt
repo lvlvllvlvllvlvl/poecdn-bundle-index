@@ -1,0 +1,15 @@
+attachments
+attachments/female
+attachments/female/cloakdex
+attachments/female/cloakint
+attachments/female/cloakstrdexint
+attachments/female/helmet
+attachments/female/skirt
+attachments/male
+attachments/male/cloakdexint
+attachments/male/cloakstr
+attachments/male/cloakstrdex
+attachments/male/cloakstrint
+attachments/male/helmet
+attachments/male/skirt
+textures

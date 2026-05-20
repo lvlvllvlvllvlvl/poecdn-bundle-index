@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+f1c853239fda8474,g_kethfloor02withsand.mat,Tiny_5,22733957,978
+f040f9146a1dbae6,g_kethfloor01withsand.mat,Tiny_5,22725783,1034
+09f3c1f1a3afef06,g_kethfloor01withsand_normal.dds,Folders/art/models/terrain/hideout/racetrack/textures_D,2097488,1398276
+a745a2a3ff8e28ba,g_kethfloor01withsand_normal.dds.header,Tiny_5,22732437,1520
+6cdd9427bf9d0caa,g_kethfloor01withsand_colour.dds,Folders/art/models/terrain/hideout/racetrack/textures_D,1398276,699212
+091caf2590f9d13e,g_kethfloor01withsand_colour.dds.header,Tiny_5,22730917,1520
+4a795adc30c89127,g_kethfloor01withsand_2c.mat,Tiny_5,22729857,1060
+77d500bde93623a7,g_kethfloor01withsand_2_normal.dds,Folders/art/models/terrain/hideout/racetrack/textures_D,0,1398276
+59a4e7f99e8ca0f9,g_kethfloor01withsand_2_normal.dds.header,Tiny_5,22728337,1520
+0f7e7458b5034bed,g_kethfloor01withsand_2_colour.dds,Folders/art/models/terrain/hideout/racetrack/textures_C,1398276,1398276
+dad76816c6c78868,g_kethfloor01withsand_2_colour.dds.header,Tiny_5,22726817,1520
+f17390cf3c57465e,dryruins_sand_mcfc.mat,Tiny_5,22724229,1554
+d4388f59f10582f2,dryruins_sand_mcf_normal.dds,Folders/art/models/terrain/hideout/racetrack/textures_C,0,1398276
+2f90fe037eb16dc1,dryruins_sand_mcf_normal.dds.header,Tiny_5,22722709,1520
+e4f25621d503962e,dryruins_sand_mcf_colour.dds,Folders/art/models/terrain/hideout/racetrack/textures_B,2097488,699212
+56a7df5b8b4b9472,dryruins_sand_mcf_colour.dds.header,Tiny_5,22721189,1520

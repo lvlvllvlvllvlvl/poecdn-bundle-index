@@ -1,0 +1,7 @@
+attachments
+attachments/globe
+attachments/receptacle
+fx
+fx/mb
+fx/texture
+textures

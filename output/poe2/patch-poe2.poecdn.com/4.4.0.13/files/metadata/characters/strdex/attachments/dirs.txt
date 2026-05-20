@@ -1,0 +1,7 @@
+hairstyles
+hairstyles/gladiator
+hairstyles/mercenary
+outfits
+outfits/gladiatoroutfit
+outfits/mercenaryoutfit
+outfits/mercenaryoutfit/attachments

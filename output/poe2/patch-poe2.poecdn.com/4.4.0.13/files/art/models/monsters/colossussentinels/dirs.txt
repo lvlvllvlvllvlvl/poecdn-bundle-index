@@ -1,0 +1,16 @@
+colossussentinel_01
+colossussentinel_01/animations
+colossussentinel_01/animations/boss
+colossussentinel_01/attachments
+colossussentinel_01/attachments/bossskirt
+colossussentinel_01/attachments/colossussentinel02_chains
+colossussentinel_01/attachments/colossussentinel02_skirt
+colossussentinel_01/attachments/colossussentinel02_straps
+colossussentinel_04
+colossussentinel_04/animations
+colossussentinel_04/animations/boss
+colossussentinel_04/attachments
+colossussentinel_04/attachments/l_chain
+colossussentinel_04/attachments/r_chain
+colossussentinel_04/attachments/skirt
+textures

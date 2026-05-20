@@ -1,0 +1,12 @@
+phase3_beam_c_b
+phase3_beam_c_f
+phase3_beam_c_m
+phase3_beam_double_c
+phase3_beam_double_l
+phase3_beam_double_r
+phase3_beam_l_b
+phase3_beam_l_f
+phase3_beam_l_m
+phase3_beam_r_b
+phase3_beam_r_f
+phase3_beam_r_m

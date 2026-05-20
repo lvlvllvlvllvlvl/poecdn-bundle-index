@@ -1,0 +1,7 @@
+onact
+onact/attack_sword_shield
+onact/spellcast_meteor_sceptre_shield_01
+onact/telegraph_sword_shield_01
+shield_bash_aoe
+shield_bash_cone
+stampede

@@ -1,0 +1,29 @@
+hash,file,bundle,offset,size
+3f6bd6dd005b663a,omeyocan_bootsint.sm,Tiny_2,36972447,506
+a6d9d64a5d47b266,omeyocan_bootsstr.sm,Tiny_2,36972953,508
+b80d80da137db63a,omeyocan_bootsstrint.sm,Tiny_2,36974489,514
+a795508fda7a72c3,omeyocan_bootsstrdex.sm,Tiny_2,36973461,510
+5b85a9f5c3a2ae91,omeyocan_bootsstrdexint.sm,Tiny_2,36973971,518
+41b5498cba0f4cd8,omeyocan_bootsdrop.sm,Tiny_2,36971925,522
+02175397ed008faa,omeyocan_bootsdrop.amd,Tiny_2,36971723,202
+e26d73e761254335,omeyocan_bootsdrop.ast,Art/Models/Items/Armours/Boots/Unique_9,1250823,7211
+df5992c32938537d,omeyocan_bootsdex.sm,Tiny_2,36970705,508
+6f6a859547ba378f,omeyocan_bootsdexint.sm,Tiny_2,36971213,510
+deb0903a54f8df96,omeyocan_boots.fmt,Art/Models/Items/Armours/Boots/Unique_9,1207384,19397
+e9a365220e55088d,omeyocan_boots.fmt.header,Tiny_2,36970523,182
+25cf8abed91696fa,omeyocan bootsstr_bcaead81.smd,Art/Models/Items/Armours/Boots/Unique_9,1063021,24068
+a6f2395e329c00bb,omeyocan bootsstr_bcaead81.smd.header,Tiny_2,36969051,368
+c37e6db7bb3e4e2f,omeyocan bootsstrint_5646483d.smd,Art/Models/Items/Armours/Boots/Unique_9,1226781,24042
+73672ed69af037d0,omeyocan bootsstrint_5646483d.smd.header,Tiny_2,36970155,368
+f775fd2e1d67cf65,omeyocan bootsstrdex_9f1e86a9.smd,Art/Models/Items/Armours/Boots/Unique_9,1087089,24074
+95a10ce47175bff0,omeyocan bootsstrdex_9f1e86a9.smd.header,Tiny_2,36969419,368
+1928b0650a447f8d,omeyocan bootsstrdexint_98c949f6.smd,Art/Models/Items/Armours/Boots/Unique_9,1183368,24016
+89927ec2b9eff8be,omeyocan bootsstrdexint_98c949f6.smd.header,Tiny_2,36969787,368
+c94797d1cb60e621,omeyocan bootsint_312149fa.smd,Art/Models/Items/Armours/Boots/Unique_9,1111163,24068
+ee8dd7d6015cea7f,omeyocan bootsint_312149fa.smd.header,Tiny_2,36968683,368
+c853576570c22746,omeyocan bootsdrop_9dfe1fea.smd,Art/Models/Items/Armours/Boots/Unique_9,1135231,24101
+543578b3c513afb5,omeyocan bootsdrop_9dfe1fea.smd.header,Tiny_2,36968315,368
+6fd918164949df06,omeyocan bootsdex_1fa0d366.smd,Art/Models/Items/Armours/Boots/Unique_9,1159332,24036
+e98733ec611c6d90,omeyocan bootsdex_1fa0d366.smd.header,Tiny_2,36967579,368
+038a8e02d0e12608,omeyocan bootsdexint_ffe61fc2.smd,Art/Models/Items/Armours/Boots/Unique_9,1038979,24042
+c8af3f56c31f2eed,omeyocan bootsdexint_ffe61fc2.smd.header,Tiny_2,36967947,368

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+2e25af20eee7cdfa,neural_wisp_phys_dxt5.dds,Folders/art/particles/monster_particles/leagueharvest_91,4566360,87556
+fea2c04ba9d92ce0,neural_wisp_phys_dxt5.dds.header,Tiny_7,44341395,1520
+9a3bfd2101c0d29c,hit_bulb.mat,Tiny_7,19288701,2928
+87e7822128d6dbca,hit_scale.mat,Tiny_7,19291629,2896
+a95953eb6c45e859,hit_thorn.mat,Tiny_7,19294525,2958
+b5cc29f5364c6233,hit_dxt5.dds,Folders/art/particles/weapon_hit_fx/fx,0,87556
+02b0b2b24b73b093,hit_dxt5.dds.header,Tiny_7,44926944,1520
+14bf5391167dffe2,hitwisp_bulb.mat,Tiny_7,19297483,2742
+6131330a34a1fcb1,hitwisp_scale.mat,Tiny_7,19300225,2744
+5289198b7c36c584,hitwisp_thorn.mat,Tiny_7,19302969,2744

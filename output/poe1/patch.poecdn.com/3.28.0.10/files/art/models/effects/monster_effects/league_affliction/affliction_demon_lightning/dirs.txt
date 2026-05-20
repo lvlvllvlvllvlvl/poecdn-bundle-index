@@ -1,0 +1,5 @@
+ball_lightning_cannon
+bouncing_proj
+lightning_warp
+on_act_flailrifle
+on_act_flailruckus

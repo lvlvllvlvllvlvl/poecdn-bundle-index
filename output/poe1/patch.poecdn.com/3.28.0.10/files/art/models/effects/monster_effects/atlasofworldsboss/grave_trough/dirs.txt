@@ -1,0 +1,17 @@
+chain_rune
+coffin_blast
+coffin_drop
+coffin_object
+coffin_object_explode
+dash
+frontal_wave
+nova
+on_act
+on_act/coffin_explosion
+on_act/death
+on_act/emerge
+on_act/nova_blast
+sarcophaghi
+sarcophagus_chest
+skeleton
+skeleton/melee_01

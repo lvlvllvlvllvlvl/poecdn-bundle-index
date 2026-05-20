@@ -1,0 +1,14 @@
+blood_charges
+blood_grasp
+blood_rain
+bomb_curse
+bomb_curse/once
+bomb_curse/symb
+charge_shockwaves
+charge_shockwaves/end
+cold_beam
+dom_demon_portal
+lightning_groundslam
+lightning_souls
+lightning_souls/explosions
+lightning_souls/particles

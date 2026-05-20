@@ -1,0 +1,11 @@
+attachments
+fx
+graph
+mat
+mat/body_idle
+mat/centerpoint_idle
+mat/enter_along
+mat/enter_body_along
+mat/exit_body_along
+mat/portal_open_burst
+mat/surge_core

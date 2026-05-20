@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+988a86a3da78269e,bnpnt_emit_u.mat,Tiny_11,63879857,346
+9d65acd3480e23cc,mblur_sphere_r.mat,Tiny_D,304469122,11588
+dcebe59498d39825,shimmerwave_01_r.mat,Tiny_D,304628504,24414
+b502528b4ec6f9ff,windup_sand_r1.mat,Tiny_D,304652918,72046
+0b0845f124821291,windup_sand_u.mat,Tiny_11,63879857,346
+44ea8cac082a2c20,ring_shockwave_r.mat,Tiny_D,304533804,33528
+d3059070f48be6c1,ring_shockwave_u.mat,Tiny_11,63879857,346
+e8585745ce4724ae,ringwave_01_r.mat,Tiny_D,304567332,31242
+e4dfdb32a0a0810b,ringwave_03_r.mat,Tiny_D,304598574,29930
+50091cbba9e30550,potal_surge_up_r2.mat,Tiny_D,304480710,53094
+c28f3abf40a82bd1,pntemit_forcegrd_u.mat,Tiny_11,63879857,346
+c402d36770782c8f,pntemit_u.mat,Tiny_11,63879857,346
+f3dd979f97fec65f,ghostface_r.mat,Tiny_D,304384328,69444
+b465aa45fbe2a142,ghostface_u.mat,Tiny_D,304453772,15350
+ee6bf2290edafd3d,dark_buildribbon_r.mat,Tiny_D,306115370,112480
+995725e45d4ead46,dark_buildribbon_u.mat,Tiny_D,304359458,24870

@@ -1,0 +1,11 @@
+curse_aura
+curse_aura/enfeeble
+curse_aura/invulnerability
+curse_aura/temporal_chains
+curse_aura/vulnerability
+emerge
+spellcast
+spellcast/enfeeble
+spellcast/temporal_chains
+spellcast/vulnerability
+submerge

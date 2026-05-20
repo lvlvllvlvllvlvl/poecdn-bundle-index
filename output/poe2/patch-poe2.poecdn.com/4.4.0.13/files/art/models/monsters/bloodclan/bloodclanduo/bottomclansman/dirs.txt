@@ -1,0 +1,6 @@
+animations
+animations/axe
+animations/birdfisherman
+animations/harpoon
+animations/pole
+attachments

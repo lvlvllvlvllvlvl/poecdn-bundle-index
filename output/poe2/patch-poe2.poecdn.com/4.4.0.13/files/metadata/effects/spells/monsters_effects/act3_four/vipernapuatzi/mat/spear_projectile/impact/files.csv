@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+dbcbc2a31c4c772e,lightning_surround_r.mat,Tiny.VF.1,72147884,23826
+4cacc165d20e17ea,lightning_surround_u.mat,Tiny.VA.1,70697766,2946
+fdf40d2dbb2557dc,lightning_arcs_r.mat,Tiny.VF.1,72124094,23790
+a8026e8fd3d1d104,lightning_arcs_u.mat,Tiny.V5.1,71861256,1114
+3309964ec3e4b114,bone_pnt_u.mat,Tiny.VE.1,1562868,310
+60981291acd14790,bluroomph_r.mat,Tiny.VD.1,64598902,8238
+db1ea747aa9c9fa2,bluroomph_u.mat,Tiny.VE.1,1562868,310
+23091c9de9036563,core_glow_r.mat,Tiny.V3.1,71522912,24610
+2a268ede0f11b12f,core_glow_spike_r.mat,Tiny.V1.1,70799966,26530
+b665c472681f96f1,core_glow_spike_u.mat,Tiny.VE.1,23883536,2116
+e5f64c3614d87cc2,sphere_distort_r.mat,Tiny.V3.1,53148270,9694
+e4edce48d5c2bc33,sphere_distort_u.mat,Tiny.VE.1,1562868,310
+503d25d144d057c1,sparks_r.mat,Tiny.V2.1,74247880,18560
+ea73def3d47160fc,sparks_dir_u.mat,Tiny.V5.1,71862370,6842
+89a07665210c33dc,sparks_u.mat,Tiny.VC.1,75248148,7258

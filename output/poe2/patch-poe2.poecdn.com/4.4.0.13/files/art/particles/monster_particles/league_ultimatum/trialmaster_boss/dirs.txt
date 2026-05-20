@@ -1,0 +1,14 @@
+models
+models/act
+models/elemortar
+models/fmts
+models/heart
+models/heart_beam
+models/heart_death
+models/lacerate
+models/melee_groundslam_01
+models/melee_waveslam
+models/weapon_nova
+models/weapon_onground
+textures
+textures/blood_tex

@@ -1,0 +1,5 @@
+dex
+inspiration
+int
+purple
+str

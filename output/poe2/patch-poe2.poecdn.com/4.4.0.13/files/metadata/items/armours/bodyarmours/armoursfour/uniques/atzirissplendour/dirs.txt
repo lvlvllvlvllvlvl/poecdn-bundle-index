@@ -1,0 +1,4 @@
+attachments
+attachments/lshoulderfeathers
+attachments/robe
+attachments/rshoulderfeathers

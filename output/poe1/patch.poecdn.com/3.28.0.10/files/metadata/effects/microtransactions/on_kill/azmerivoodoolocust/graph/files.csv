@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+0cc1eb3912df5de7,disintegrate_down_byboundingbox.fxgraph,Folders/metadata/effects.4,14916020,86354
+3d44ef1447ad754f,fresnel_emissive_multi_prelightcalc.fxgraph,Folders/metadata/effects.4,15210688,33946
+8675df03ff2240e0,skin_dissolve.fxgraph,Folders/metadata/effects.4,15244634,87828
+dc1bc5262db6fdb1,mask_texturestatic_prelightcalc.fxgraph,Folders/metadata/effects.4,23458930,380372
+bb0b06c5c16ee54f,meat_dissolve.fxgraph,Folders/metadata/effects_1,8628502,73172
+1c97824b78be3255,emissive_rgb_mult_prelightcalc.fxgraph,Folders/metadata/effects.4,15002374,5746
+2dc2c5514511ed0d,emitimpulselocalxyzoversettime.fxgraph,Folders/metadata/effects.4,15008120,51188
+154d4ebb64d94dc4,emitteroffsetlocaloversettime.fxgraph,Folders/metadata/effects.4,15059308,151380

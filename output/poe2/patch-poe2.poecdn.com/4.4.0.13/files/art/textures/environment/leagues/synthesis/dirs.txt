@@ -1,0 +1,10 @@
+brokenmapdevice
+guardianarenas
+rainbowroadbridge
+synthesis_devices
+synthesis_devices/bridgejoin
+synthesis_devices/bridgeplate
+synthesis_devices/craftingdevice
+synthesis_devices/map device
+synthesis_devices/synthbridge
+tippingpoint

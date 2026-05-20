@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+424fb220c9c3f1fb,deathsoulstealerc.mat,Tiny.V6,6935673,10750
+0f27a5802a458e10,deathsoulstealer_normal.dds,Streaming/Content/metadata/effects/microtransactions/on_kill/E05DE58D6D1635C9.deathsoulstealer.ot.1,2796364,5592580
+0cbbc1b9033b3f6e,deathsoulstealer_normal.dds.header,Tiny.VE,11910296,1520
+e5d462b24f8e9f27,deathsoulstealer_metal.dds,Streaming/Content/metadata/effects/microtransactions/on_kill/E05DE58D6D1635C9.deathsoulstealer.ot.1,0,2796364
+e8b30b18b1504ee9,deathsoulstealer_metal.dds.header,Tiny.VE,11908776,1520
+2f02909062d874d1,deathsoulstealer_colour.dds,Streaming/Content/metadata/effects/microtransactions/on_kill/E05DE58D6D1635C9.deathsoulstealer.ot,0,2796364
+a1d4c5d4fe18a28a,deathsoulstealer_colour.dds.header,Tiny.V0,12036492,1520
+5adb37aa05449efa,armsc.mat,Tiny.VA,7012815,8464
+07dde723900b3c4f,arms_normal.dds,Streaming/Content/metadata/monsters/skeletalreaper/attachments/deathsoulstealerweaponheld.ao,2097668,1398308
+000f1508bc77855a,arms_normal.dds.header,Tiny.V6,11963689,504
+878c6e255d016e11,arms_metal.dds,Streaming/Content/metadata/monsters/skeletalreaper/attachments/deathsoulstealerweaponheld.ao,1398440,699228
+fc2c3482f36674a0,arms_metal.dds.header,Tiny.VE,11903948,504
+15dff234802f8d77,arms_colour.dds,Streaming/Content/metadata/monsters/skeletalreaper/attachments/deathsoulstealerweaponheld.ao,699212,699228
+9283b642bed60761,arms_colour.dds.header,Tiny.V3,11881031,504

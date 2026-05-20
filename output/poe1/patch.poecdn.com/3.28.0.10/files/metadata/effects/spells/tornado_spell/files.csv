@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+578be43547b34da0,tornado.ao,Tiny_D,406660458,11080
+f0853a53afe60f4a,tornado_aoe.ao,Tiny_D,406671538,17564
+8dbdbd942ec448f8,primary_duration_pulse.ao,Tiny_D,406647546,2572
+0a84cfaf576ef19b,primary_duration_pulse_fire.ao,Tiny_D,406655284,2582
+e9a4d9d9ab695909,primary_duration_pulse_lightning.ao,Tiny_D,406657866,2592
+e27d02956e78bc30,primary_duration_pulse_chaos.ao,Tiny_D,406650118,2584
+76236c776a99d580,primary_duration_pulse_cold.ao,Tiny_D,406652702,2582
+88681f2f10e82660,hit_fx_fire.ao,Tiny_D,406643756,1262
+19cfc5d605431097,hit_fx_lightning.ao,Tiny_D,406645018,1266
+93628182cd2177bf,hit_fx_physical.ao,Tiny_D,406646284,1262
+46efd14e70249b03,hit_fx_chaos.ao,Tiny_D,406641228,1266
+20d11f8e0e8a394f,hit_fx_cold.ao,Tiny_D,406642494,1262

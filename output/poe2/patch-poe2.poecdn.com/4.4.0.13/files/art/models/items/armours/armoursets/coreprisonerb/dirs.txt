@@ -1,0 +1,8 @@
+attachments
+attachments/hairshead
+attachments/hairship
+attachments/hairslarm
+attachments/hairsrarm
+attachments/hairsshoulders
+attachments/skirt
+textures

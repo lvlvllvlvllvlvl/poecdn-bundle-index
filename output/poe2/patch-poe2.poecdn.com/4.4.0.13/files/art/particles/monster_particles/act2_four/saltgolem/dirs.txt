@@ -1,0 +1,6 @@
+light
+mb
+mb/on_act
+mb/on_act/death_boss_01
+mb/on_act/death_boss_01/explosion
+textures

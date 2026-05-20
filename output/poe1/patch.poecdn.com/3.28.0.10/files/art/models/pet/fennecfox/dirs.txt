@@ -1,0 +1,4 @@
+animations
+animations/origami
+textures
+textures/origamifox

@@ -1,0 +1,11 @@
+prestige_icons
+prestige_icons/armours
+prestige_icons/armours/a
+prestige_icons/armours/b
+prestige_icons/armours/c
+prestige_icons/armours/d
+prestige_icons/armours/e
+prestige_icons/armours/f
+prestige_icons/armours/fx_png
+prestige_icons/armours/g
+prestige_icons/textures

@@ -1,0 +1,6 @@
+attachments
+effects
+effects/attack
+effects/decal
+effects/dust
+effects/impact

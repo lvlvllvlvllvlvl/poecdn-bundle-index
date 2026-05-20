@@ -1,0 +1,9 @@
+fx
+mat
+mat/meteor_marker
+mat/onact_blood_trail
+swarmpustules
+swarmpustules/fx
+swarmpustules/mat
+swarmpustules/mat/pustule_explode
+swarmpustules/mat/pustule_start

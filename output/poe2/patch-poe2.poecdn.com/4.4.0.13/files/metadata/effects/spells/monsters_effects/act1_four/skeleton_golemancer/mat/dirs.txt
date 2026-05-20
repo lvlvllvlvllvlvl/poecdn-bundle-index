@@ -1,0 +1,6 @@
+impact
+onact
+projectile
+skelenado
+spellcast_01
+summon_circle

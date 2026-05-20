@@ -1,0 +1,4 @@
+attachments
+attachments/hoops
+attachments/skirt
+attachments/statue

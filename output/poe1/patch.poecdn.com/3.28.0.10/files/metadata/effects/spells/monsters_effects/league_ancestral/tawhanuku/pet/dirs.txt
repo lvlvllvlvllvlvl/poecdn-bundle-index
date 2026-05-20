@@ -1,0 +1,8 @@
+alive
+frontal_wave
+frontal_wave_grd
+onact_nova
+spell_aoe_ball_01
+spell_aoe_ball_01/on_act
+spell_aoe_triple_01
+spell_aoe_triple_01/on_act

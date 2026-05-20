@@ -1,0 +1,5 @@
+beetleexplosion_windup
+dagger_burst
+dagger_grd_hit
+dagger_trail
+teleport_explosion

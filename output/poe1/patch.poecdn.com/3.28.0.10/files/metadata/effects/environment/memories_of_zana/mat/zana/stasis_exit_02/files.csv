@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+a86365e2a016b5b4,sucked_in_skin.mat,Tiny_8,116116363,11876
+79d7fa4584d161c7,petals_r.mat,Tiny_8,116467721,20722
+e961d33fcfb18b44,petals_u.mat,Tiny_8,116096693,19670
+7852ebe461e278dc,mblur_sphere_r.mat,Tiny_8,116504489,8822
+4c86867d75797de9,mblur_sphere_u.mat,Tiny_8,116513311,2242
+99e55d1a4665253a,disint_energy_prtcls_r.mat,Tiny_8,116075463,21230
+0dd90489294a9197,disint_energy_prtcls_u.mat,Tiny_8,116096693,19670

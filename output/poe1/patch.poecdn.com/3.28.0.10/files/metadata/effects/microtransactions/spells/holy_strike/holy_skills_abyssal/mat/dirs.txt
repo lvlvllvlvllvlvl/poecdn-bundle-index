@@ -1,0 +1,7 @@
+hit_effects
+idle
+mace_fadein
+mace_refresh
+refresh
+swing
+trail

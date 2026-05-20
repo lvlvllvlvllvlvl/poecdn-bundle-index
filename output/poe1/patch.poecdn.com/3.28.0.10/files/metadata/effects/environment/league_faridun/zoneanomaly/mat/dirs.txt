@@ -1,0 +1,2 @@
+spawn_area
+zone_anomaly

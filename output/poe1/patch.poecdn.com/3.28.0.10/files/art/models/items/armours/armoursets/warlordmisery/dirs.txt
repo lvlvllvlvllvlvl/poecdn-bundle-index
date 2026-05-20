@@ -1,0 +1,5 @@
+attachments
+attachments/fleshwardenbigbrain
+attachments/warlordmiseryrobe
+textures
+texturesfx

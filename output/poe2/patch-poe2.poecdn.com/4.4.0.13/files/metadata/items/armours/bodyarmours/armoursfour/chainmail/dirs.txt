@@ -1,0 +1,3 @@
+attachments
+attachments/chainmail_female_attachments
+attachments/chainmail_male_attachments

@@ -1,0 +1,17 @@
+banshee
+banshee/bat_screech
+banshee/wraith
+banshee/wraith/bodyfx
+epic_screech
+stone_pillar
+stone_pillar/curse_aura
+stone_pillar/curse_aura/enfeeble
+stone_pillar/curse_aura/invulnerability
+stone_pillar/curse_aura/temporal_chains
+stone_pillar/curse_aura/vulnerability
+stone_pillar/emerge
+stone_pillar/spellcast
+stone_pillar/spellcast/enfeeble
+stone_pillar/spellcast/temporal_chains
+stone_pillar/spellcast/vulnerability
+stone_pillar/submerge

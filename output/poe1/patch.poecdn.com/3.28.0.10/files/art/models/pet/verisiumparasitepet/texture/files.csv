@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+7b2a88defbee316b,verisiumparasitepetc.mat,Tiny_3,17607163,4262
+0b46f4b6906ac477,verisiumparasitepet_sss.dds,Folders/art/models/pet/verisiumparasitepet/texture_2,0,1398276
+c92a43603b526380,verisiumparasitepet_sss.dds.header,Tiny_3,17605643,1520
+bd89edb473fc0e02,verisiumparasitepet_normal.dds,Folders/art/models/pet/verisiumparasitepet/texture_1,2884108,1398276
+6bd0f88f57c64715,verisiumparasitepet_normal.dds.header,Tiny_3,17604123,1520
+3663ab4d1b7f0460,verisiumparasitepet_metallic.dds,Folders/art/models/pet/verisiumparasitepet/texture_1,1485832,1398276
+957d52a2b5870f20,verisiumparasitepet_metallic.dds.header,Tiny_3,17602603,1520
+f15f70b8fba77e28,verisiumparasitepet_mask.dds,Folders/art/models/pet/verisiumparasitepet/texture_1,87556,1398276
+ef788a415290b9fc,verisiumparasitepet_mask.dds.header,Tiny_3,17601083,1520
+e62f859ee0315940,verisiumparasitepet_iridescence.dds,Folders/art/models/pet/verisiumparasitepet/texture_1,0,87556
+866c1a08cec0ecbd,verisiumparasitepet_iridescence.dds.header,Tiny_3,17599563,1520
+c44cb714c686cd51,verisiumparasitepet_glow.dds,Folders/art/models/pet/verisiumparasitepet/texture,1398276,1398276
+006f639f38e45ed5,verisiumparasitepet_glow.dds.header,Tiny_3,17598043,1520
+ec0db84297c15929,verisiumparasitepet_colour.dds,Folders/art/models/pet/verisiumparasitepet/texture,0,1398276
+e765a4c2195d4243,verisiumparasitepet_colour.dds.header,Tiny_3,17596523,1520

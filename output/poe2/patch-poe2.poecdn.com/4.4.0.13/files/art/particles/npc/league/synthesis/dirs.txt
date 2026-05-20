@@ -1,0 +1,4 @@
+zana
+zana/memoryportal
+zana/memoryportal/scenes
+zana/memoryportal/scenes_nooffset

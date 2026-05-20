@@ -1,0 +1,10 @@
+agony
+agony/pet
+fire
+fire/pet
+ice
+ice/pet
+lightning
+lightning/pet
+purity
+purity/pet

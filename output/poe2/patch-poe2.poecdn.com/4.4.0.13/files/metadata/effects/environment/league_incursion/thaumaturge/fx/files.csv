@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+904fb90d72f5762e,idle_fx.pet,Tiny.VF.1,1810174,8378
+254b304da0cbdc4e,idle_top.pet,Tiny.VB,53707127,6432
+4dbb5166d84d9288,t2_activategrinding.pet,Tiny.VA.1,851744,6466
+10d6b4118dbae195,t1_corruptingidle_burst.pet,Tiny.V2,52581801,25500
+66593a86bafdf117,t1_corruptingidle_sparks_burst.pet,Tiny.V0.1,2064926,12752
+97389e58f61295d8,t1_corruptingidle_sparks.pet,Tiny.VC.1,2645894,12726
+b00bfa24f76f745e,t3_steam.pet,Tiny.VA.1,858210,20978
+cce2c227a8091f14,t3_activatebeam.pet,Tiny.V7.1,2715456,34078
+dab7908acbbcc64d,t3_activationclamp.pet,Tiny.V3.1,762438,19218
+2b9ae850e5038fb1,t3_idlebeams.pet,Tiny.VC.1,2658620,12540
+c06a25fe79574151,t3_idle_top.pet,Tiny.VB,53707127,6432
+dfd614afa7f29f4b,t3_idlecorefloatbeam.pet,Tiny.V0.1,2077678,6368
+37af8406081965c0,activate_blast.pet,Tiny.V4.1,4354190,32432
+b88b163908e655c0,activate_lightstuff.pet,Tiny.V1,52513000,27630
+31b6c18ab22646be,activate_laser.pet,Tiny.VA.1,845320,6424

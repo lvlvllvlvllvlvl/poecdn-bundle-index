@@ -1,0 +1,5 @@
+special_beam_cannon
+spellcast_avatar
+spellcast_epic_avatar_01
+spellcast_long_avatar
+summon_avatar

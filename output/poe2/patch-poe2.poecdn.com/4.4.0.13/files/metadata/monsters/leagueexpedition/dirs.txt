@@ -1,0 +1,12 @@
+apparitionboss
+apparitionboss/spawner
+deathknight
+deathknight/attachments
+npc
+olroth
+olroth/attachments
+olroth/objects
+reaperboss
+reaperboss/attachments
+reaperboss/objects
+reaperboss/objects/arenarocks

@@ -1,0 +1,9 @@
+fx
+fx/guillotine
+fx/impact
+graphs
+mats
+mats/guillotine_shatter
+mats/impact
+mats/mudpile
+mats/trails

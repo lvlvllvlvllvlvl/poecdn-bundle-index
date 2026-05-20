@@ -1,0 +1,7 @@
+areatransition_scan
+largecliffs_scan
+largecliffstodunes_scan
+largecliffstostormyocean
+largecliffstowater_scan
+rocks
+walkableedgetowater_scan

@@ -1,0 +1,8 @@
+female
+female/noblood
+female/spectral
+female/spectral/graph
+male
+male/noblood
+male/spectral
+male/spectral/graph

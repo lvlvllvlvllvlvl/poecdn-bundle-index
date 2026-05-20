@@ -1,0 +1,11 @@
+attachments
+attachments/cape
+attachments/head
+attachments/head/hair
+attachments/head/headdecor
+attachments/headfeathers
+attachments/robe
+attachments/thighguards
+attachments/weapons
+attachments/weapons/shield
+attachments/weapons/spear

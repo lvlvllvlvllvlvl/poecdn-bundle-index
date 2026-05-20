@@ -1,0 +1,5 @@
+voodooattachments
+voodooattachments/body
+voodooattachments/l_arm
+voodooattachments/r_arm
+voodooattachments/stick

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+c45c4ca00b6edd1f,fire_tile.mat,Tiny.VE,37311728,2016
+2220e317b4dd0e78,fire_tile_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D80EDF62996D803B.4F2173182474F039.charge.pet,1100436,43876
+50d34c450403084e,fire_tile_dxt5.dds.header,Tiny.V7,37515600,840
+a2a7052a491a89bc,light_spine_desat.mat,Tiny.V8,37312814,2418
+a4fcb55703f5e645,light_spine_desat_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.914F25DE71AE64D8.shoulder.pet,349700,43852
+65ed9ba149967e6b,light_spine_desat_dxt1.dds.header,Tiny.VF,37623104,1520
+31aebe90e018e934,spark.mat,Tiny.VD,37841042,2338
+63a6b5a346679f4d,spark_dxt5.dds.header,Tiny.V2,37605908,1520
+daf63179bbbaff02,novafire6.mat,Tiny.V1,37561500,2850
+39bcafd27def933c,novafire6_dxt1.dds,Tiny.V9,38176419,844
+356ef870943d38e6,novafire6_dxt1.dds.header,Tiny.VE,37313744,1520
+8b1cd3569d60e5c8,base_runec.mat,Tiny.VE,37307602,4126
+41540a9a1ac339fd,base_rune.dds,Streaming/Content/metadata/effects/spells/monsters_effects/9F3F25555185181D.37DBDA7E9EE151C3.rollattack.ao,5902549,174940
+1c1a37422b4b80f5,base_rune.dds.header,Tiny.V0,37779530,504

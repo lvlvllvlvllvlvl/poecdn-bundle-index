@@ -1,0 +1,7 @@
+coralsinkhole
+coralsinkhole/arena
+goblins
+hallsofthedead
+island
+lava
+sirencove

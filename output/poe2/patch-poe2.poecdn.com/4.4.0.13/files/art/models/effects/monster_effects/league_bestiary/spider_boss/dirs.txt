@@ -1,0 +1,8 @@
+ambush
+ambush/emerge
+attack_projectile
+gooey_projectile
+tail_strike
+tail_strike/web_ground
+venom_beam
+web_coat

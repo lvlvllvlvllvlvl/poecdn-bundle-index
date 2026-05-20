@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+11bb66bc59d8177b,boss_death.epk,Tiny_8,121798261,546
+996f0b1cfc9437bb,emissive_off.epk,Tiny_8,121800279,470
+90ca90b3a7516b7c,leave_consuming.epk,Tiny_8,121800749,898
+0bd71bd7a4ed2f85,spawn_in.epk,Tiny_8,121804813,1032
+fa01cf59e209883b,spawn_in_consuming.epk,Tiny_8,121805845,1454
+81f3e7aa34e51f3f,spawn_in_particles.epk,Tiny_8,121807299,228
+5d805d8e87f7a38b,snake_debuff.epk,Tiny_8,121802589,720
+b42a72e252851c00,snake_debuff_player.epk,Tiny_8,121803309,1504
+f2b4910e8e463cb4,rune_turn_off.epk,Tiny_8,121801647,472
+79c4357d6c3e8ba8,rune_turn_on.epk,Tiny_8,121802119,470
+74bcc4a8f2a36c63,consuming_finisher_dissolve.epk,Tiny_8,121800039,240
+6f1917550f5c941c,cleansing_charge.epk,Tiny_8,121798807,230
+60cd3c4e9e16f7db,cleansing_finisher_dissolve.epk,Tiny_8,121799037,1002

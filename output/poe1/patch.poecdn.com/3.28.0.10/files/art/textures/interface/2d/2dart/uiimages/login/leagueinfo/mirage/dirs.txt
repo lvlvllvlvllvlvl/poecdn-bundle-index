@@ -1,0 +1,11 @@
+french
+german
+japanese
+korean
+portugese
+russian
+screenshots
+screenshots/panel3
+spanish
+thai
+traditional chinese

@@ -1,0 +1,6 @@
+innocence_beam
+innocence_beam/beam
+innocence_beam/hit
+sin_beam
+sin_beam/beam
+sin_beam/hit

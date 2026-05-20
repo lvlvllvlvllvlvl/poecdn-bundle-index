@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+ad3ef8ae96ebfeeb,spark2.mat,Tiny_6,60289076,1764
+840a5ccf9285ebdd,spark2.dds,Tiny_6,61123106,516
+bb941d66cb9a6667,spark2.dds.header,Tiny_6,61123622,1520
+549d462ad43828fb,poison_drip.mat,Tiny_6,60286370,2706
+7969b6afb2478d88,poison_drip.dds,Art/particles/monster_particles/League_Bestiary_25,924074,22020
+6dffbc05b6cad996,poison_drip.dds.header,Tiny_6,97885276,1520
+2fc652d73f73cea6,light_beam.mat,Tiny_6,60284726,1644
+d1e9af31caaba1cd,light_beam.dds,Art/particles/monster_particles/act9_37,525008,22020
+5d3e3afe718b5285,light_beam.dds.header,Tiny_6,60283206,1520

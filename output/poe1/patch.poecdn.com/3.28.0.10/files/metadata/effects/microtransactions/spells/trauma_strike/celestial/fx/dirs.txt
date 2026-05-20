@@ -1,0 +1,5 @@
+damage_player
+hit_fx
+shockwave
+traumatised
+weapon_buildup

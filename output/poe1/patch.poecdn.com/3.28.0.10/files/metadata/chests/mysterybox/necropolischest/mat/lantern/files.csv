@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+141a824c18d62dcf,mblur_sphere_r.mat,Tiny_8,71147753,11514
+96ee2af0ff2912e6,mblur_sphere_u.mat,Tiny_11,86642861,310
+790429e37c0acb8e,lanternsoul_u.mat,Tiny_D,329456368,17202
+bfade6c9a88a4ab6,lanternsoul_r1.mat,Tiny_D,329371068,38498
+355afedc9db6584b,lanternsoul_r2.mat,Tiny_D,329409566,46802
+efd29a49f7bd16e4,lanternlight_01_r.mat,Tiny_8,71127343,20410
+eb93b6acbb6a15a2,lanternlight_01_u.mat,Tiny_D,469398981,540
+a05adf1257f90d97,lanternembers_01_r.mat,Tiny_8,71095277,32066
+70a2e638dca58625,lanternembers_01_u.mat,Tiny_D,329307606,14120

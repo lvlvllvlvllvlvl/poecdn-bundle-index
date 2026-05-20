@@ -1,0 +1,6 @@
+cliffs
+coins
+ground
+kedgebay
+marine
+wood

@@ -1,0 +1,4 @@
+female
+female/animations
+male
+male/animations

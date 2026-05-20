@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+3ab5289251a6b0ce,skullc.mat,Tiny.V7,40257970,1066
+55e72ce1e0f5646d,skull_colour.dds,Streaming/Content/metadata/terrain/doodads/forest/472213AA6792012C.forestthick_island_v01_02_ftisland08.ao,117982,174924
+e0f64213de12fa2f,skull_colour.dds.header,Tiny.VB,40662073,1520
+734cc69bc502f4fa,palisadec.mat,Tiny.V1,40239512,1788
+77e8620936d000ad,palisade_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/forest/2C5587DC9AF2EB45.bandit_barricade_9.ao,710131,1398276
+20fa383d23edc1de,palisade_normal_dxt5.dds.header,Tiny.VE,40007859,1520
+844fad9d0937b98b,palisade_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/forest/2C5587DC9AF2EB45.bandit_barricade_9.ao,10919,699212
+b2d93a80f350a9e6,palisade_colour_dxt1.dds.header,Tiny.VE,40006339,1520
+b05725202f24882e,ropec.mat,Tiny.VB,40660481,1592
+581acf05438c68d7,rope_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/leagues/6C68F720D1BB6F48.delvemachine.ao,233499,87588
+81f2a7d4672f3ce5,rope_normal_dxt5.dds.header,Tiny.V8,39950696,504
+c661e5015136c9c7,rope_colour.dds,Streaming/Content/art/models/terrain/woods/7FF6CE1239CFA86C.694403A5C2675D84.suckin_01.japan.fmt,386258,43868
+1de70d502d8a3aa5,rope_colour.dds.header,Tiny.V6,40230016,504

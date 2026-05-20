@@ -1,0 +1,3 @@
+copernode
+petrifiedambertree
+textures

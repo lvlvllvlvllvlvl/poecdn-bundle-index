@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+b51752bef220231c,rig_0cc2383b.smd,Art/Models/NPC/Bannon,0,213534
+400f5d51c7b2af73,rig_0cc2383b.smd.header,Tiny_3,10392873,368
+75a2587ffe67307a,rig.amd,Tiny_3,10395214,454
+665552d2753a1546,rig.ast,Art/Models/NPC/Bannon,383201,949731
+f48bcadfda4e2410,bannonwounded.sm,Tiny_3,10394746,468
+500aa36f7f700450,bannon.sm,Tiny_3,10393390,468
+7275c80099489f97,bannon.fmt,Art/Models/NPC/Bannon,213534,169667
+edd2264c39ace451,bannon.fmt.header,Tiny_3,10393241,149
+f6f16c193a9144a1,armour_bannonwounded_0cc2383b.smd,Art/Models/NPC/Bannon,0,213534
+2a8c74989b85b14d,armour_bannonwounded_0cc2383b.smd.header,Tiny_3,10392873,368

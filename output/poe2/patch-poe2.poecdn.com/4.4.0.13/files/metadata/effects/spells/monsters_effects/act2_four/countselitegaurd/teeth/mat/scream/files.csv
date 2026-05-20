@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+0a60a8af00a1d05b,blood_spray_r.mat,Tiny.V3.1,56246442,26658
+a0b0203c41792c58,blood_spray_u.mat,Tiny.V4.1,60504964,11446
+3697e66266f7fa91,mblur_radial_r.mat,Tiny.V2.1,57102166,12708
+7125ec6c4ced58d8,mblur_radial_u.mat,Tiny.VA.1,55012320,4282
+74a32a66a2851b9b,distortion_cone_r.mat,Tiny.VF.1,56663930,11782
+30bc40466628fb36,distortion_cone_u.mat,Tiny.V9.1,56605914,3460
+fd33a5771fd85f46,shockwave_r.mat,Tiny.VE.1,57661862,25124
+50700c7c6b18ca6d,shockwave_u.mat,Tiny.VC.1,58830834,2428
+084d7cdeefed79b1,shockwave_emissive_r.mat,Tiny.VF.1,56675712,42304
+a7ba817d312717ba,shockwave_emissive_u.mat,Tiny.VF.1,56718016,1634
+d4b30461036f46c4,impact_dir_r.mat,Tiny.V2.1,57061824,40342
+c4a471e0c4d74751,impact_dir_u.mat,Tiny.VB.1,55410272,6564

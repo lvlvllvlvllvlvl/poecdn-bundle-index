@@ -1,0 +1,6 @@
+animations
+attachments
+attachments/cape
+attachments/ponytail
+attachments/robe
+attachments/sword

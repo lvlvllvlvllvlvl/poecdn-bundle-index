@@ -1,0 +1,10 @@
+epk
+epk/open_01
+fx
+fx/emerge
+fx/idle_01
+fx/open_01
+mat
+mat/emerge
+mat/idle_01
+mat/open_01

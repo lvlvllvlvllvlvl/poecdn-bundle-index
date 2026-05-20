@@ -1,0 +1,10 @@
+attachments
+attachments/skirtfemale
+attachments/skirtfemale/attachments
+attachments/skirtfemale/attachments/beltdecorf
+attachments/skirtfemale/attachments/clothf
+attachments/skirtmale
+attachments/skirtmale/attachments
+attachments/skirtmale/attachments/beltdecorm
+attachments/skirtmale/attachments/clothm
+textures

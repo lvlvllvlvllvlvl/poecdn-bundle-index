@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+f4e4297e335749f4,grad2z.mat,Tiny.V7,5410588,1542
+dd4f8f6dd52796c2,grad_core.mat,Tiny.VB,5429384,1164
+00010c3a011f0ba0,grad_flash.mat,Tiny.VF,5471096,2370
+0958bf3de32648f4,ring.mat,Tiny.VB,6566005,4022
+457b08149e83d91c,ring_rays.mat,Tiny.V5,5466594,3600
+d6f8dbe16ed39cf2,ring_automtn.mat,Tiny.V4,3985367,1846
+8ed01cadd79b0190,shockwave.mat,Tiny.V1,5500672,2818
+9496aea3a6f02bcd,smoke.mat,Tiny.V4,5639996,2366
+8b234efd8f46550f,scientistrune_rule.mat,Tiny.V0,5639614,5932
+ccecd4f86c57e03b,scientistrune_spell.mat,Tiny.VD,5394505,5914
+714beb6ec201f3a1,scientistrune_spell_01.mat,Tiny.V1,5494878,5794

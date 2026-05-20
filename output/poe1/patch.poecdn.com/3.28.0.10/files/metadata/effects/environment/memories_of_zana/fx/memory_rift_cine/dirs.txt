@@ -1,0 +1,5 @@
+eagon
+inert_01
+townportal
+townportalclose
+townportalopen

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+43bc72e9ad541093,specmask_uncompressed.dds,Streaming/Content/metadata/miscellaneousobjects/stashskins/fairgravesstash.ot,2035784,1398248
+498403ddfe0b7388,specmask_uncompressed.dds.header,Tiny.VC,39454796,1520
+d9078711fbd1340b,fairgravesstashspecularc.mat,Tiny.V8,39005154,8512
+f951f424b2ede89f,fairgravesstash_glow_dxt5.dds,Streaming/Content/metadata/miscellaneousobjects/stashskins/fairgravesstash.ot,1336384,349700
+e9591709437f8f59,fairgravesstash_glow_dxt5.dds.header,Tiny.V0,39474920,1520
+517d5e6392913bb7,fairgravesstash_normal_dxt5.dds,Streaming/Content/metadata/miscellaneousobjects/stashskins/fairgravesstash.ot,1686084,349700
+b71a8a308c0fde21,fairgravesstash_normal_dxt5.dds.header,Tiny.VD,39534148,1520
+8d0a9188eb089d41,fairgravesstash_colourspecular_bc7.dds,Streaming/Content/metadata/miscellaneousobjects/stashskins/fairgravesstash.ot,637148,699236
+b1af3251752bb093,fairgravesstash_colourspecular_bc7.dds.header,Tiny.V0,39474080,840
+b5094baedab1f65f,fairgravesstash_colourspecular.dds,Streaming/Content/metadata/miscellaneousobjects/stashskins/fairgravesstash.ot,287456,349692
+60f6a860c78d1899,fairgravesstash_colourspecular.dds.header,Tiny.VC,39453956,840

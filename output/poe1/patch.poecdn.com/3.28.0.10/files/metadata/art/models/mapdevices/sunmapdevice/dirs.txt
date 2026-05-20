@@ -1,0 +1,6 @@
+fx
+fx/texture
+fx/texture/black
+fx/texture/red
+fx/texture/white
+fx/texture/yellow

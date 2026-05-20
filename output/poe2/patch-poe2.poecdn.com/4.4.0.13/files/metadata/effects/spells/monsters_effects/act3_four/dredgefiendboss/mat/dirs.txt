@@ -1,0 +1,17 @@
+death_bwd_01
+detonatingdead
+detonatingdead/corpseexplosion
+detonatingdead/detonatecast
+detonatingdead/energy
+detonatingdead/onact
+detonatingdead/onact/hand
+quicksand_01
+quicksand_01/onact
+quicksand_01/start
+spell_projectile_01
+spell_projectile_01/onact
+summon_zombies
+summon_zombies/onact
+volatile_dead
+volatile_dead/onact
+volatile_dead/volatile_dead_end_01

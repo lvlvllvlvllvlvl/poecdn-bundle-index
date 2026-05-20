@@ -1,0 +1,3 @@
+chest
+l_shoulderpad
+r_shoulderpad

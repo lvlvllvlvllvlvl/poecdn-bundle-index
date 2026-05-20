@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+fc3808cc0916cad2,marker.mat,Tiny_6,62996676,1628
+ed09bfe9e497b3fd,wisp_trail.mat,Art/particles/monster_particles/AtlasExiles_7,2844972,4678
+bba60e8fd7be68e2,staff_glowc.mat,Tiny_6,63002848,2214
+3f3302e45eb6c218,staff_glow.dds,Art/particles/monster_particles/AtlasExiles_7,2849650,699212
+0af445ddd8c46ef9,staff_glow.dds.header,Tiny_6,63001328,1520
+6935b532ef39a966,sharp_bloom.mat,Tiny_6,62998304,1868
+4f974ffed830ebb0,shim_radial.mat,Tiny_6,63000172,1156
+96d091560500c275,lightning_subuv.mat,Tiny_6,62993264,1892
+31f61e05c7700968,lightning_subuv_dxt5.dds,Art/particles/monster_particles/AtlasExiles_7,1446696,1398276
+3b8f509fafb3755d,lightning_subuv_dxt5.dds.header,Tiny_6,62995156,1520
+eacaace978b1a2fd,glow_ring_thin.mat,Tiny_6,62988300,1734
+3c184f004f2c1225,glow_small.mat,Tiny_6,62990034,1710
+c46e924ef8c84e88,glow_small_dxt5.dds,Art/particles/monster_particles/AtlasExiles_7,3548862,22020
+13a7445dcbddc282,glow_small_dxt5.dds.header,Tiny_6,62991744,1520

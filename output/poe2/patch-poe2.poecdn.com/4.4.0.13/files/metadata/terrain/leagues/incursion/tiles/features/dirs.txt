@@ -1,0 +1,13 @@
+accesschamber
+architect
+commander
+corruption
+corruption/present
+generator
+golemworks
+medallions
+presentatziri
+presententrance
+reward
+smithy
+waygates

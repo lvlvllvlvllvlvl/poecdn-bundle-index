@@ -1,0 +1,11 @@
+epks
+fx
+fx/act
+fx/reap_slash
+graphs
+mat
+mat/death_nova
+mat/head
+mat/idle
+mat/reap_slash
+mat/summon

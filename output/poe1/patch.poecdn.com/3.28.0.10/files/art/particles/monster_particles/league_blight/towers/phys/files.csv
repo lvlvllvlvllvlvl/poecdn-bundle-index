@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+4731680761281f9e,spark1.mat,Tiny_6,105709664,2176
+5ed73cffa23d7c4e,spark1_dxt1.dds,Tiny_7,38479458,332
+38e4679a44572afa,spark1_dxt1.dds.header,Tiny_7,38479790,1520
+a9558322f5367c7b,bloom_glow.mat,Tiny_6,105695712,1980
+c4a68fff2a2176d5,bloom_glow_dxt1.dds,Folders/art/particles/environment_effects/league_heist,699548,11084
+3201317a8ccad857,bloom_glow_dxt1.dds.header,Tiny_8,23446054,1520
+3f38dc4baceb6b26,blink_flash.mat,Tiny_6,105693644,2068
+d14315eabfa5cfaf,blink_flash_dxt5.dds,Art/particles/shattering_mine/fx,0,22020
+377bdac1d7d1599b,blink_flash_dxt5.dds.header,Tiny_7,33741404,1520

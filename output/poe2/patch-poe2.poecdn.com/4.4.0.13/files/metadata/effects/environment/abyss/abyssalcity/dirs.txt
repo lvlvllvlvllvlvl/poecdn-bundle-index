@@ -1,0 +1,14 @@
+fx
+fx/destroy_01
+fx/full_idle_01
+fx/half_idle_01
+fx/idle_off
+fx/transition_to_half_idle_01
+mat
+mat/destroy_01
+mat/destroy_01/grd_dispersion
+mat/destroy_01/top_dispersion
+mat/full_idle_01
+mat/half_idle_01
+mat/idle_off
+mat/transition_to_half_idle_01

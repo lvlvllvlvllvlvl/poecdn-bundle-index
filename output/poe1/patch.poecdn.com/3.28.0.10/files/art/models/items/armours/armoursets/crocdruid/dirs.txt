@@ -1,0 +1,4 @@
+attachments
+attachments/necklace
+attachments/skirt
+textures

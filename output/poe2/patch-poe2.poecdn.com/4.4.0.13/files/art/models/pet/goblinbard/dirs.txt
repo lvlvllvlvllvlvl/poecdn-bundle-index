@@ -1,0 +1,5 @@
+attachments
+attachments/outfit_02
+attachments/outfit_03
+attachments/pipe
+textures

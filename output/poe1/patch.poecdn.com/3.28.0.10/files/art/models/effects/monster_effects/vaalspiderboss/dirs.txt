@@ -1,0 +1,15 @@
+basicmortar
+basicmortar/impact
+cleave
+deathacid
+egghatch
+eggmortar
+eggmortarimpact
+riptideprojectile
+riptideprojectile/big
+riptideprojectile/big/projectile
+riptideprojectile/big/pulse
+shadowriptide
+webmortar
+webmortar/impact
+webzone

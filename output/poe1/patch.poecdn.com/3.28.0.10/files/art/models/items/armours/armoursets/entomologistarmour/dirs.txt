@@ -1,0 +1,6 @@
+attachments
+attachments/chain
+attachments/robe
+fx
+fx/mb
+textures

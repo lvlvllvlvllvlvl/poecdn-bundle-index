@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+ab67243ea8efdbd4,childmonkoutfitc.mat,Tiny_3,10417477,1134
+54d3638d9193ade9,childmonkoutfit_normal.dds,Folders/art/models/npc/childmonk/textures_2,5592580,5592580
+9c6b8f06b8264214,childmonkoutfit_normal.dds.header,Tiny_3,10415957,1520
+2ae1e3aa76448755,childmonkoutfit_metal.dds,Folders/art/models/npc/childmonk/textures_2,0,5592580
+443954918fca7a30,childmonkoutfit_metal.dds.header,Tiny_3,10414437,1520
+9ac239ef86967555,childmonkoutfit_colour.dds,Folders/art/models/npc/childmonk/textures_1,5592580,2796364
+def4e3a29cda01d2,childmonkoutfit_colour.dds.header,Tiny_3,10412917,1520
+9cd52ac6cb5005c7,childmonkbodyc.mat,Tiny_3,10411355,1562
+fb6608d634236e25,childmonkbody_sss.dds,Folders/art/models/npc/childmonk/textures_1,0,5592580
+604b88d0353e1f38,childmonkbody_sss.dds.header,Tiny_3,10409835,1520
+e45a95b2e4de7a1d,childmonkbody_normal.dds,Folders/art/models/npc/childmonk/textures,8388944,5592580
+1b7a23e332f13f11,childmonkbody_normal.dds.header,Tiny_3,10408315,1520
+5f5eb92321d35492,childmonkbody_metal.dds,Folders/art/models/npc/childmonk/textures,2796364,5592580
+a08c6ab6fab19422,childmonkbody_metal.dds.header,Tiny_3,10406795,1520
+24bec32e0e6024a0,childmonkbody_colour.dds,Folders/art/models/npc/childmonk/textures,0,2796364
+5be78910715072d4,childmonkbody_colour.dds.header,Tiny_3,10405275,1520

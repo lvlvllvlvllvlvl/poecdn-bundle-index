@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+f8e01a55b04090b9,flashcloud.fxgraph,Folders/metadata/effects_2,27232686,111530
+2b376b98bec17599,grd_portal_fade.fxgraph,Folders/metadata/effects_2,27344216,39284
+ab541a2ea50df410,refractionglow_mask.fxgraph,Folders/metadata/effects_2,27383500,62326
+f64e766a5e0f3281,tentacle_grd.fxgraph,Folders/metadata/effects_2,27549522,179976
+92a23cb143f08d40,tentacle_main.fxgraph,Folders/metadata/effects_5,5485946,267856
+5eeb00542f9ab231,tentacle_main_vtxcol.fxgraph,Folders/metadata/effects_5,5753802,292406
+da44de930e4fb45a,spherical_emissivemultiplier_prelight.fxgraph,Folders/metadata/effects_2,27445826,36488
+87fe4b332d7104a1,subsurfacerefraction_mask.fxgraph,Folders/metadata/effects_2,27482314,67208

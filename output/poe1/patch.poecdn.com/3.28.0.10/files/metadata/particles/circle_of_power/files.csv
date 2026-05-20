@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+76b2e372e04d93af,buff.pet,Tiny_E,156648160,4796
+b4f65d3aef0a4795,stage04_idle.pet,Tiny_E,156769814,24526
+1f3b1efae18eb253,stage04_idle_ring.pet,Tiny_E,156794340,8980
+4452b233515a2644,stage04_fade_in.pet,Tiny_E,156729636,25884
+47262ac16830aa6a,stage04_fade_out.pet,Tiny_E,156755520,14294
+cfe9d839db70f4e3,stage03_idle.pet,Tiny_E,156718184,11452
+ecd6e2eab7d5176c,stage03_fade_in.pet,Tiny_E,156695588,11344
+225b92f1487aea0b,stage03_fade_out.pet,Tiny_E,156706932,11252
+5675e6e356306e54,stage02_idle.pet,Tiny_E,156687050,8538
+02fca2151e27ccaa,stage02_fade_in.pet,Tiny_E,156670098,8488
+3c5d461a120d16b2,stage02_fade_out.pet,Tiny_E,156678586,8464
+ca67544af9fa128b,stage01_idle.pet,Tiny_E,156664360,5738
+e5b35780b4ef911f,stage01_fade_in.pet,Tiny_E,156652956,5754
+eff3101310d03bb3,stage01_fade_out.pet,Tiny_E,156658710,5650

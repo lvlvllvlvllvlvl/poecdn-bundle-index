@@ -1,0 +1,17 @@
+epk
+epk/corpse
+fx
+fx/corpse
+fx/disco_lazer
+fx/hand_l
+fx/hand_r
+fx/legs_lazer
+graph
+mat
+mat/corpse_burnt
+mat/corpse_frozen
+mat/corpse_laser_burnt
+mat/disco_lazer
+mat/hand_l
+mat/hand_r
+mat/legs_lazer

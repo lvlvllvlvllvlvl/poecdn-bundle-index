@@ -1,0 +1,15 @@
+dex
+dex/animations
+dexint
+dexint/animations
+int
+int/animations
+str
+str/animations
+strdex
+strdex/animations
+strdexint
+strdexint/animations
+strint
+strint/animations
+textures

@@ -1,0 +1,2 @@
+life_regen_totem
+life_regen_totem/mini

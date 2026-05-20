@@ -1,0 +1,7 @@
+attack_once
+emerge_portal
+ground_slam
+run_02
+spell_buff
+summon
+teleport_stab

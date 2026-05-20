@@ -1,0 +1,3 @@
+head_attach
+shoulderpad
+skirt

@@ -1,0 +1,6 @@
+absorb
+aura
+bolt
+emerge
+orb
+projectile

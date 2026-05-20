@@ -1,0 +1,9 @@
+bullethell
+chaosorb_dash
+chargedexp
+emerge
+exaltthrow
+immolate_wave
+laser
+rifire
+skybeam

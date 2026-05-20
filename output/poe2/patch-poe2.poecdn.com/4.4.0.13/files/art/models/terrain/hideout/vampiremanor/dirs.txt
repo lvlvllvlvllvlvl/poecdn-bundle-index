@@ -1,0 +1,9 @@
+doodads
+doodads/textures
+doodads/textures/trees
+manordoor
+textures
+textures/architecture
+textures/ground
+textures/textiles
+tgms

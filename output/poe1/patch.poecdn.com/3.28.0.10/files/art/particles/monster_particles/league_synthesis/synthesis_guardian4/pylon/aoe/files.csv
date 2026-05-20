@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+95b0cf10725bec50,plasma_8x8.mat,Tiny_7,11432832,3054
+a6c35d45b509c0f7,plasma_8x8_dxt5.dds,Art/particles/monster_particles/League_Heist_57,0,5592580
+5b3630deff7254ca,plasma_8x8_dxt5.dds.header,Tiny_7,11437406,1520
+90cafef726589cc9,plasma_8x8_dxt1.dds,Art/particles/monster_particles/League_Synthesis_68,349732,2796364
+80b7fadecde1b1b7,plasma_8x8_dxt1.dds.header,Tiny_7,11435886,1520
+08d7647f2dcd9e2c,plasma_8x8_bc1.dds,Art/particles/monster_particles/League_Synthesis_68,349732,2796364
+0e910c5a1528323e,plasma_8x8_bc1.dds.header,Tiny_7,11435886,1520
+f8f144c3ad4e3779,light_line_add.mat,Tiny_7,11428482,2514
+ecba33aa2c28a186,light_line_add_dxt1.dds,Tiny_7,11555756,332
+8dd36a56aa8081b1,light_line_add_dxt1.dds.header,Tiny_7,11556088,1520
+da01e0df4a537863,lightning_flipbook_01.mat,Tiny_7,11430996,1836
+7b8ec25e27fbcf23,lightning_flipbook_01_dxt5.dds,Art/particles/monster_particles/League_Synthesis_68,0,349732
+5696f01e7846db41,lightning_flipbook_01_dxt5.dds.header,Tiny_7,11440932,504
+b11f2314629f26e4,flash.mat,Tiny_7,11426050,2432
+95d22932806f1381,flash_dxt1.dds,Tiny_7,40091638,2892
+4d2858b370be7609,flash_dxt1.dds.header,Tiny_7,40094530,1520

@@ -1,0 +1,14 @@
+cone_explode
+cone_explode_hit
+leap_mace_slam
+leap_mace_slam_small
+lightning_aura
+lightning_bolt
+lightning_bolt_impact
+lightning_cleave
+lightning_orb_impact
+lightning_slash
+lightning_trail
+weapon_static
+zap_bolt
+zap_impact

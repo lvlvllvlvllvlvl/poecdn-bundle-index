@@ -1,0 +1,10 @@
+epks
+pets
+pets/affected_buff
+pets/blob_explosion
+pets/bodyfx
+pets/debuff_lightning_buff_speed
+pets/debuff_lightning_buff_speed/orb_charges
+pets/lightning_grd
+pets/sml_portal
+pets/spellcast_buildup

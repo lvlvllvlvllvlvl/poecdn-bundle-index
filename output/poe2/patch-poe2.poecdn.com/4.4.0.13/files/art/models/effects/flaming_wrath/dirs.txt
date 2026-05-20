@@ -1,0 +1,5 @@
+big
+biggest
+mid
+power_up
+small

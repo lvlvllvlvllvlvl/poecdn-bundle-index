@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+7f16a8e8456c1c2b,g_msva_stonetiles03.mat,Tiny.V4,28581630,1118
+0dadce104dd7b239,g_msva_stonetiles03_normal.dds,Streaming/Content/data/worldareas/mapsavanna_noboss.vworld.1,6991380,1398276
+ee846c2c12873564,g_msva_stonetiles03_normal.dds.header,Tiny.V0,28455282,1520
+99b55c837a883828,g_msva_stonetiles03_colour.dds,Streaming/Content/data/worldareas/mapsavanna_noboss.vworld.1,5593104,1398276
+6638cd340602df36,g_msva_stonetiles03_colour.dds.header,Tiny.VE,28009291,1520
+3e9f07d585486c1a,g_msva_stonetiles02.mat,Tiny.V4,28580512,1118
+f06e524cd4a16537,g_msva_stonetiles02_normal.dds,Streaming/Content/data/worldareas/mapsavanna_noboss.vworld.1,4194828,1398276
+34a92148b5e9d84c,g_msva_stonetiles02_normal.dds.header,Tiny.VF,28416036,1520
+7d3f659a6e98f2ef,g_msva_stonetiles02_colour.dds,Streaming/Content/data/worldareas/mapsavanna_noboss.vworld.1,2796552,1398276
+c5db7fe64cd0891a,g_msva_stonetiles02_colour.dds.header,Tiny.V0,28453762,1520
+ddb20afa7623ee65,g_msva_stonetiles01.mat,Tiny.V5,27700199,1118
+fc97d9f3c388f848,g_msva_stonetiles01_normal.dds,Streaming/Content/data/worldareas/mapsavanna_noboss.vworld.1,1398276,1398276
+b7e2d7551cd03c09,g_msva_stonetiles01_normal.dds.header,Tiny.VC,28377132,1520
+dffa706c7b5eb777,g_msva_stonetiles01_colour.dds,Streaming/Content/data/worldareas/mapsavanna_noboss.vworld.1,0,1398276
+9b4f808052f04205,g_msva_stonetiles01_colour.dds.header,Tiny.V2,28252068,1520

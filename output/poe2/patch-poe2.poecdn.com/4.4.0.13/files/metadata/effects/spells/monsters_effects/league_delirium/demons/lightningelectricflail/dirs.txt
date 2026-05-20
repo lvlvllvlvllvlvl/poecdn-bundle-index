@@ -1,0 +1,6 @@
+epk
+fx
+mat
+mat/elec_hit
+mat/elec_idle
+mat/elec_trail

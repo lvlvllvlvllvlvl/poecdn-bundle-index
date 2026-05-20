@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+a83af376aa609669,cerberuscloakc.mat,Tiny.V0,10340018,5966
+d9c95f3ecb147e39,cerberuscloak_glow_dxt1.dds,Streaming/Content/art/models/items/backattachments/7D273A3AA737A0B5.cerberuscloak3.fmt.1,0,2796364
+db3f5f12032c2560,cerberuscloak_glow_dxt1.dds.header,Tiny.VF,10257217,1520
+8cbc5a27c6aeef8d,cerberuscloak_mask_dxt5.dds,Streaming/Content/art/models/items/backattachments/7D273A3AA737A0B5.cerberuscloak3.fmt.1,2796364,349700
+6b998e605f930fec,cerberuscloak_mask_dxt5.dds.header,Tiny.V0,10338498,1520
+067eb48a0698359f,cerberuscloak_metal_dxt1.dds,Streaming/Content/art/models/items/backattachments/7D273A3AA737A0B5.cerberuscloak3.fmt.1,3146064,2796364
+a49986682c9f5339,cerberuscloak_metal_dxt1.dds.header,Tiny.VA,10228282,1520
+dde1d740c476e3a5,cerberuscloak_normal_dxt5.dds,Streaming/Content/art/models/items/backattachments/7D273A3AA737A0B5.cerberuscloak3.fmt.1,5942428,5592580
+bda6bd1dc42921bd,cerberuscloak_normal_dxt5.dds.header,Tiny.V6,10287828,1520
+6380b582f240d346,cerberuscloak_colour_dxt1.dds,Streaming/Content/art/models/items/backattachments/7D273A3AA737A0B5.cerberuscloak3.fmt,0,2796364
+c4cfe6193c46fc0f,cerberuscloak_colour_dxt1.dds.header,Tiny.VA,10226762,1520

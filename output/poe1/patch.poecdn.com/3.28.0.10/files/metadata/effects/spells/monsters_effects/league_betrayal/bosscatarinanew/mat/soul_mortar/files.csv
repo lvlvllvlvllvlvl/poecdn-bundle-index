@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+c5a89488c8823ea0,fire_trail_at.mat,Tiny_D,254938707,24850
+64f8436d416e7637,soul_trail.mat,Tiny_D,254980159,23966
+b06ba0a6c0bed51d,sphere_energy_r.mat,Tiny_D,255446949,43462
+4f89d577b0f0be83,sphere_energy_u.mat,Tiny_11,86642861,310
+191b9a6028204cda,sphere_energydark_r.mat,Tiny_D,255490411,46904
+87160c5e74697727,sphere_energydark_u.mat,Tiny_11,86642861,310
+2e2645f878eaa415,rune_r.mat,Tiny_D,254963557,16602
+90d1c0952a25d435,rune_u.mat,Tiny_11,86642861,310
+e3fee33d7770854c,glow_core_r.mat,Tiny_D,256428153,53804
+556ab29542d0e51e,glow_core_u.mat,Tiny_11,63879857,346
+ef6c169c4df217c8,base_wind_multi.mat,Tiny_D,254887991,23062
+413b24f65f1d161f,blur_r.mat,Tiny_D,254911053,13486
+230c444c3f9c4f52,blur_trail.mat,Tiny_D,254924539,14168
+19351cc620914f16,blur_u.mat,Tiny_11,63879857,346

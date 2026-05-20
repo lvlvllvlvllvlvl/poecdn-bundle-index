@@ -1,0 +1,15 @@
+basetypes
+basetypes/textures
+microtransactions
+microtransactions/archnemesisparadoxica
+microtransactions/archnemesisparadoxica/textures
+microtransactions/ringmastercane
+microtransactions/ringmasterfeathersword
+microtransactions/zodiacdragonsword
+microtransactions/zodiacdragonsword/attachments
+monsters
+uniques
+uniques/demigodssword
+uniques/demigodssword/textures
+uniques/divinarius
+uniques/divinarius/textures

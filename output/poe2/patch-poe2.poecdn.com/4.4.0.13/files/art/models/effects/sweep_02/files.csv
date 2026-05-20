@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+87f7c242be4b0bdb,slashes.fmt,Tiny.V8,7436465,3140
+bf7895630ca49ec6,slashes.fmt.header,Tiny.VD,7348512,208
+c23a265a90036cdc,sweep.amd,Tiny.V2,32993364,102
+fc1acc67c260dde2,sweep.ast,Tiny.VD,7348720,3137

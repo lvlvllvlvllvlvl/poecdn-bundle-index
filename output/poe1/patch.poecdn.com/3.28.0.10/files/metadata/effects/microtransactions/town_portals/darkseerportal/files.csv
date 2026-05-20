@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+5f5c583a042c4e31,lp_core.pet,Tiny_9,308955460,10122
+00013ca9489b8d47,rig.ao,Tiny_9,308989070,9850
+d8162b367c48599f,rig_map.ao,Tiny_9,308998920,9702
+662a729f900a2b37,op_core.pet,Tiny_9,308965582,2672
+eefcc00dc2d69e6e,op_flash.pet,Tiny_9,308968254,5266
+cbcbb84547e927ab,op_floor_cyl.pet,Tiny_9,308973520,12910
+ac54a0bfd23e252d,op_floor_heads.pet,Tiny_9,308986430,2640
+61df1e76c8decda1,add_pulse.fxgraph,Folders/metadata/effects_2,18006586,71684
+b5277871b1450826,alb.fxgraph,Folders/metadata/effects_2,25187382,49824

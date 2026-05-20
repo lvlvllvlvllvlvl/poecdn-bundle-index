@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8dd804001e6a6b57,twilighthorsepet.sm,Tiny_3,16889812,776
+79da3a898740a34e,twilighthorse_armour_ebd9042b.smd,Art/Models/Pet/StygianSteed_1,0,127320
+de1d7575fbf8bdfb,twilighthorse_armour_ebd9042b.smd.header,Tiny_3,16886337,3475
+7b168425f3260c10,stygiansteed.sm,Tiny_3,16885699,638
+12bf5893e52e6948,stygiansteed.fmt,Art/Models/Pet/StygianSteed,762641,114237
+22b3f825e33384f4,stygiansteed.fmt.header,Tiny_3,16885363,336
+3a91bce93d1f27b2,rig_e4520cbb.smd,Art/Models/Pet/StygianSteed,617603,145038
+204437e739e1b008,rig_e4520cbb.smd.header,Tiny_3,16881909,3454
+e025202eddeb0f38,rig_acbd556d.smd,Art/Models/Pet/StygianSteed,468441,149162
+642b9a5e76a491c5,rig_acbd556d.smd.header,Tiny_3,16878419,3490
+a839f5a094ff1436,rig.amd,Tiny_3,16877961,458
+746d85a2d338540d,rig.ast,Art/Models/Pet/StygianSteed,117603,350838
+f9f469462cfca4a7,hellsteed.sm,Tiny_3,16877281,680
+18c7d4ac174d6d39,hellsteed.fmt,Art/Models/Pet/StygianSteed,0,117603
+6811445201eca810,hellsteed.fmt.header,Tiny_3,16876888,393

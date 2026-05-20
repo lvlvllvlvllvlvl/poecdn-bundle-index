@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+d9524c2d013cbb75,fire_simple_dxt1.dds,Art/particles/FrostGlobe/shield_3,0,699212
+e09e10d458b09159,fire_simple_dxt1.dds.header,Tiny_8,23450926,1520
+ee8e71f9000820bc,fire_m_01_2x2_dxt1.dds,Art/particles/FXLib/fire,0,699212
+20aa45675316f1bd,fire_m_01_2x2_dxt1.dds.header,Tiny_6,36523605,1520
+4c46030856c31389,fire_01_2x2_dxt1.dds,Art/particles/FXLib/fire_2,371712,174924
+bd1fee14a00ee192,fire_01_2x2_dxt1.dds.header,Tiny_6,36522085,1520
+9f8841f233aac2b6,fire_01_2x2_bc7.dds,Folders/art/particles/lib/fire,0,349700
+6453d56823a2f650,fire_01_2x2_bc7.dds.header,Tiny_6,93545847,1520

@@ -1,0 +1,14 @@
+buildup
+buildup/fully_charged
+buildup/fully_charged/fx
+buildup/fully_charged/weapon_fx
+buildup/fully_charged/weapon_fx/fx
+buildup/fx
+pods
+pods/fx
+pods_proj
+pods_proj/fx
+projectile
+projectile/fx
+projectile/release
+projectile/release/fx

@@ -1,0 +1,4 @@
+fire
+ice
+lightning
+lightning/lightning_strike

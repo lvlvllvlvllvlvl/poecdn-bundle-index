@@ -1,0 +1,19 @@
+shop
+shop/item
+shop/item/account_features
+shop/item/alternate_skill_effects
+shop/item/animations
+shop/item/bundles
+shop/item/character_effects
+shop/item/custom_content
+shop/item/guild
+shop/item/hideout
+shop/item/item_effects
+shop/item/mystery
+shop/item/mystery/french
+shop/item/mystery/german
+shop/item/mystery/portuguese
+shop/item/mystery/russian
+shop/item/mystery/spanish
+shop/item/mystery/traditional chinese
+shop/item/pets

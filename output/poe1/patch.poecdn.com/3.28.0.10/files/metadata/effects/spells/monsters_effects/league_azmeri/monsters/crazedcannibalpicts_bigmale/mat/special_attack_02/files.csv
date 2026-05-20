@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+223e1e65fc03d1fb,weapon_glow.mat,Tiny_D,227084674,10902
+51969c65e1d1e453,sweep_distortion_r.mat,Tiny_D,227066050,15124
+ce798c45f2a759d9,sweep_distortion_u.mat,Tiny_D,227081174,3500
+63f9b2ca97e8ce9e,sparks_r.mat,Tiny_D,227030586,21186
+2fbf4deb930faa2f,sparks_u.mat,Tiny_D,227051772,14278
+d367ee62c79cf51e,smoke_pt_u.mat,Tiny_D,226986136,14122
+150fa900839aaf7a,smoke_ring_r.mat,Tiny_D,227000258,30328
+c4364a61a0928708,melee_axe_swing_mblur_special.mat,Tiny_D,226949078,16514
+4d99b3387c97086e,melee_axe_swing_smudge_special.mat,Tiny_D,226965592,20544
+a002042a76168a5b,melee_axe_swing_edgeglow_special.mat,Tiny_D,226925150,23928
+77f2a952b8d05689,melee_axe_swing_edge_special.mat,Tiny_D,226905690,19460
+e4c45b97078abd7a,gather_sparks_r.mat,Tiny_D,226875012,23026
+fc92efbffeec529d,gather_sparks_u.mat,Tiny_D,226898038,7652

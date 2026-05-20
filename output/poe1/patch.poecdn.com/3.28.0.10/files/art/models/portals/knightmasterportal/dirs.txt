@@ -1,0 +1,5 @@
+attachments
+attachments/knightmasterapparition
+attachments/knightmasterweapon
+textures
+textures/fx

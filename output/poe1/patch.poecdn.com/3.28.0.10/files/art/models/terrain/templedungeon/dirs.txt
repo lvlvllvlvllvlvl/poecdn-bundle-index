@@ -1,0 +1,15 @@
+alttiles
+alttiles/lunaris
+alttiles/lunariswater
+door
+doorbar
+lunariswater
+lunariswater/tgms
+solaris_lunaris_decorations
+temple_piety_fight
+temple_piety_fight/tgms
+temple_piety_prefight
+temple_piety_prefight/tgms
+templesplash
+templesplash/tgms
+tgms

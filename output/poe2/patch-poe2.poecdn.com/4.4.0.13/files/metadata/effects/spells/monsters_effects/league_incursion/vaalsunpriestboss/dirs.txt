@@ -1,0 +1,13 @@
+epk
+fx
+graphs
+mat
+mat/burrow_travel
+mat/burrow_travel/crater
+mat/fire_trail
+mat/mortar
+mat/mortar/impact
+mat/proj
+mat/proj/muzzle
+mat/proj_buildup
+mat/projectile_spell_buildup

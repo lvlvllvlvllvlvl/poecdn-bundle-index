@@ -1,0 +1,10 @@
+attachments
+attachments/l_strint_shoulder_pad
+attachments/r_strint_shoulder_pad
+attachments/skirt
+fx
+fx_automaton
+fx_celestial
+fx_stygian
+override
+textures

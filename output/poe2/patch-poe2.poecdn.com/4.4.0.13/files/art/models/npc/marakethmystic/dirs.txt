@@ -1,0 +1,6 @@
+attachments
+attachments/hair
+attachments/pouch
+attachments/robe
+attachments/sleaves
+attachments/stafftrinket

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+0363a0e60f01d1c5,smoke_wisp.mat,Tiny_6,107984702,2998
+e6f0fc04f14217a2,smoke_wisp.dds,Folders/art/particles/monster_particles/league_delve_9,241000,11084
+801c8b338252567b,smoke_wisp.dds.header,Tiny_6,110302380,1520
+eecb0475f5b0f175,poison_lookup.mat,Tiny_6,107983482,1220
+a988521bdb0ae78f,poison_lookup.dds,Tiny_6,108007184,2212
+4f7603f02b41c834,poison_lookup.dds.header,Tiny_6,108009396,280
+9777046e741d2613,poison_drip.mat,Tiny_6,107980156,3326
+8f761d7e1f30e38b,poison_drip.dds,Art/particles/caustic_arrow/projectile,87556,22020
+3db3b9ba120cd5e8,poison_drip.dds.header,Tiny_6,108002332,1520
+43227dcf237497fe,fill_ring_dust.mat,Tiny_6,107978636,1520
+83d7876e4621e6c9,fill_ring_dust.dds,Folders/art/particles/monster_particles/leagueharvest_D1,503152,22020
+0e27745b7060d4e0,fill_ring_dust.dds.header,Tiny_6,110293714,1520
+b09e7f1353b2135d,azurite_spark.mat,Tiny_6,107976858,1778
+f4443e0b46da9947,azurite_spark.dds,Tiny_6,110204860,1572
+57c9199f9ed9e22c,azurite_spark.dds.header,Tiny_6,110206432,504

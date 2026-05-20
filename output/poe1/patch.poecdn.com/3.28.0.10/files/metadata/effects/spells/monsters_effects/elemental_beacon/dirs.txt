@@ -1,0 +1,6 @@
+fire
+ice
+lightning
+lightning_hand
+lightning_v02
+phys

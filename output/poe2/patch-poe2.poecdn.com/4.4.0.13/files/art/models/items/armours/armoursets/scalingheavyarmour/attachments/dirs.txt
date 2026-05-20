@@ -1,0 +1,8 @@
+loincloth
+skirt
+skirt/dex
+skirt/dexint
+skirt/int
+skirt/str
+skirt/strdex
+skirt/strint

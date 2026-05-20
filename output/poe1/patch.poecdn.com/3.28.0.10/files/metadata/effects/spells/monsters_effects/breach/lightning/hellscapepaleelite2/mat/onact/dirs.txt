@@ -1,0 +1,5 @@
+attack
+charge
+jump
+stab
+web

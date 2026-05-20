@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+000e787c9198aa98,encounter_boss_1_1.arm,Folders/metadata/2/terrain_1,58134,91396
+8f4b6d78c02e0041,encounter_gauntlet_1_1.arm,Folders/metadata/itemfilters,382127,126798
+0c200b1c3990dbe2,encounter_miniboss_1_1.arm,Folders/metadata/1/terrain,17590494,94834
+d758b2ab7251e0bf,encounter_lair_1_1.arm,Folders/metadata/4/terrain,15770812,111434
+8a38e4a5e92c8f6f,encounter_lair_2_1.arm,Folders/metadata/B/terrain,16693671,114218
+7a43860f897e7b13,encounter_explore_1_1.arm,Folders/metadata/D/terrain,17427264,133322
+74735e391e6b8b89,encounter_explore_1_1b.arm,Folders/metadata/mapdevices,2210452,132864
+be8e8154bf02ffe7,encounter_explore_1_1c.arm,Folders/metadata/4/terrain,15637874,132938
+4b4eb17eaec88588,encounter_arena_1_1.arm,Folders/metadata/B/terrain,16611157,82514
+5f01db5c5a826ffb,encounter_arena_2_1.arm,Folders/metadata/npc,510128,84126
+e2d4cc0e9a4003be,encounter_arena_3_1.arm,Folders/metadata/A/terrain,17175990,84684

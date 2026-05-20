@@ -1,0 +1,5 @@
+attachments
+attachments/illusionistbanditrobe
+attachments/illusionistbanditshawl
+attachments/illusionistbanditshoulderpadleft
+attachments/illusionistbanditshoulderpadright

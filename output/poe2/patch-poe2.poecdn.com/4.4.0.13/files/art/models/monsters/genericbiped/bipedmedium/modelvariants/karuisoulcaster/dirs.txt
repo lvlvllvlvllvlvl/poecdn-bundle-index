@@ -1,0 +1,5 @@
+attachments
+attachments/ksc_feather
+attachments/ksc_hair
+attachments/ksc_robe
+attachments/tjc_robe

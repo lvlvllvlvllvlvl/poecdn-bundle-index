@@ -1,0 +1,6 @@
+bulb
+bulb/variation_01
+plant_fluids
+scale
+scale/variation_01
+thorn

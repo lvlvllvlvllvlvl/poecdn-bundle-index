@@ -1,0 +1,6 @@
+druid
+druid/textures
+huntress
+huntress/textures
+thethirdedict
+thethirdedict/textures

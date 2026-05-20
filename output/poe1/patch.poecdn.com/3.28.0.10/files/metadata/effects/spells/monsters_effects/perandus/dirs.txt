@@ -1,0 +1,10 @@
+aura
+aura/gold
+chest
+chest/chains
+chest/surge
+chest/surge/gold
+elemental_buff
+gold_beam
+key_chest_buff
+revive

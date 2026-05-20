@@ -1,0 +1,4 @@
+rooms
+rooms/1x1
+rooms/bonesfill
+rooms/unique

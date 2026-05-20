@@ -1,0 +1,6 @@
+explode
+explode/particles
+flameblast_rigs
+flameblast_rigs/circle
+flameblast_rigs/explode
+idle

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+a0214d0bd3e99032,wispy_trail.mat,Tiny_6,39896160,1566
+11fdfe76049d525f,wispy_trail.dds,Art/particles/monster_particles/League_Betrayal_3,87556,43876
+78612f80e5bdc0fc,wispy_trail.dds.header,Tiny_6,101631908,840
+4e54466e63a0cf58,trail_center.mat,Tiny_6,39894300,1860
+f0601c30e9b3c5e1,trail_center.dds,Art/particles/monster_particles/League_Synthesis_15,1928592,174948
+126ed54ce0c13686,trail_center.dds.header,Tiny_7,10124684,840
+5e28986a30245410,sharp_trail.mat,Tiny_6,39892336,1964
+8235aa1075d72085,sharp_trail.dds,Art/particles/Masters/Elreon_12,1611194,43868
+5754770e617be102,sharp_trail.dds.header,Tiny_6,40458984,504
+ba596846d44ab6da,ground_bits.mat,Tiny_6,39888874,3462
+ce481fea8f607386,ground_bits.dds,Folders/art/particles/bladeburst/ninjashotgun,0,43876
+0d8d4f5e27820be2,ground_bits.dds.header,Tiny_7,43215961,840
+b0fe670415c9f4fa,fire_lookup.mat,Tiny_6,39887864,1010
+d28175ece711ce94,fire_lookup.dds,Tiny_6,130598787,2212
+c1f7398f677063ef,fire_lookup.dds.header,Tiny_6,130600999,280

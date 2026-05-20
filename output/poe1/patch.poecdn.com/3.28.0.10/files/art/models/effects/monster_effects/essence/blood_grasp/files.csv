@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+9eb1074402a14866,rune_effects_death_48240dbe.smd,Art/Models/Effects/monster_effects/essence/blood_grasp,0,17388
+1a791de613e7e35b,rune_effects_death_48240dbe.smd.header,Tiny_2,1009054,368
+7761378c326d4ae7,blood_grasp_end_b71f713d.smd,Art/Models/Effects/monster_effects/act3/dominus,549387,16104
+8b22f8a38351e8e8,blood_grasp_end_b71f713d.smd.header,Tiny_2,1005343,368
+eadee98fb803e900,blood_grasp_end.sm,Tiny_2,1004485,858
+5891080a7bebb1aa,blood_grasp_end.amd,Tiny_2,7339290,94
+e789bb6d1756ffab,blood_grasp_end.ast,Tiny_2,1003913,572
+58c03eec9e58e88e,bloodgrasp.sm,Tiny_2,1007510,1544
+b755b41d57bc38f5,bloodgrasp.amd,Tiny_2,1005711,198
+ae32bd69d4fe2221,bloodgrasp.ast,Tiny_2,1005909,1601

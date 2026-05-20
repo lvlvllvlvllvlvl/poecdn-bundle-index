@@ -1,0 +1,7 @@
+grd_slam
+grd_slam_01
+onact_shockrifle
+shock_rifle
+shock_rifle/beam
+shock_rifle/explode
+shock_rifle/proj

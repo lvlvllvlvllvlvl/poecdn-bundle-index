@@ -1,0 +1,9 @@
+effects
+hideouts
+hideouts/default
+hideouts/default/textures
+islands
+islands/textures
+woods
+woods/textures
+woods/tgms

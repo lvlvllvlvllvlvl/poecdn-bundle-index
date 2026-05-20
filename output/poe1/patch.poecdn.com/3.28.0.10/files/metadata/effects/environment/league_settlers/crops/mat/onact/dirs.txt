@@ -1,0 +1,5 @@
+idle_relaxed_01
+working_farming_01
+working_farming_02
+working_foraging_01
+working_foraging_02

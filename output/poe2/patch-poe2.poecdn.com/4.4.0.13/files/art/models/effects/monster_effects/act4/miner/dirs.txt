@@ -1,0 +1,8 @@
+death_boss
+death_boss/explode
+fireshoots
+fireshoots/once
+rock_upheaval
+rock_upheaval/aoe_beacon
+throwspawn
+throwspawn_rockexplosion

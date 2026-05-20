@@ -1,0 +1,5 @@
+attachments
+attachments/drownedcrew04skirt
+attachments/drownedcrew04weapon
+attachments/slamghoulrobe
+textures

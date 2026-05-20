@@ -1,0 +1,4 @@
+attachments
+attachments/bones
+attachments/hair
+attachments/pipe

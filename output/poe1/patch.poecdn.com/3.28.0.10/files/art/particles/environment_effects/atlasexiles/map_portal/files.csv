@@ -1,0 +1,36 @@
+hash,file,bundle,offset,size
+5234abf9b967e53f,wisp_trail.mat,Tiny_6,21138892,3872
+2012482c81476147,wisp_trail_dxt5.dds,Folders/art/particles/monster_particles/leagueharvest_01,2447440,87556
+3d02c5458b948788,wisp_trail_dxt5.dds.header,Tiny_8,32769472,1520
+39684df1c1356cb8,shockwave.mat,Tiny_6,21125568,2526
+358fd345dd78baad,smoke_line_thinc.mat,Tiny_6,21134676,4216
+69fe5b785dba87fe,smoke_line_thin.dds,Folders/art/particles/environment_effects/atlasexiles,1180704,174948
+e4150b04d19c1655,smoke_line_thin.dds.header,Tiny_6,21133836,840
+5ec82fb0f7fe9578,smoke_line_thickc.mat,Tiny_6,21128934,4902
+7ecf6da11f7afa3a,smoke_line_thick.dds,Folders/art/particles/environment_effects/atlasexiles,1005756,174948
+116e20b52bf0456e,smoke_line_thick.dds.header,Tiny_6,21128094,840
+d7d61bfa65ed91c6,orb_solid.mat,Tiny_6,21122342,3226
+c6387e1cc2cd9a43,orb_solid_dxt1.dds,Tiny_8,30911858,332
+2a21b18578fe9014,orb_solid_dxt1.dds.header,Tiny_8,30912190,1520
+de26ee0bc2c891b6,light_middle_upc.mat,Tiny_6,21119632,2710
+9c59f92b0dc04522,light_middle_up_dxt5.dds,Folders/art/particles/environment_effects/atlasexiles,918200,87556
+ada0d2b45cbc41f8,light_middle_up_dxt5.dds.header,Tiny_6,21118112,1520
+63e851adbdbdaa47,innerc.mat,Tiny_6,21114802,3310
+ae55a7aaa6e7d15e,inner_multic.mat,Tiny_6,21112044,2758
+f18778705b63c88a,inner_multi.dds,Folders/art/microtransactions/town_portal/crucible,349700,22020
+cdefc31322b7ae50,inner_multi.dds.header,Tiny_6,21110524,1520
+28b3050e7a62d974,inner_light_imortalc.mat,Tiny_6,21105672,4852
+2568cd032d1a48fc,inner_light_imortal.dds,Folders/art/particles/monster_particles/atlasexiles_6,919108,349700
+10d08f78426dfd46,inner_light_imortal.dds.header,Tiny_6,62614984,1520
+0e179dbf3bc4849f,inner_light_imortal _2c.mat,Tiny_6,21102392,3280
+80d705b9d8060cd1,inner_light_imortal _2.dds,Folders/art/particles/environment_effects/atlasexiles,743252,174948
+87a26d306b5612c3,inner_light_imortal _2.dds.header,Tiny_6,21101552,840
+2ecbfe452288af40,inner.dds,Folders/art/particles/environment_effects/atlasexiles,721232,22020
+c48e8873b3f1b6d9,inner.dds.header,Tiny_6,21100032,1520
+9144f2336743fc14,glow_tile.mat,Tiny_6,21091234,4932
+fc7d5789936467d5,gradiantc.mat,Tiny_6,21097686,2346
+acf00989cd551a35,gradiant.dds,Folders/art/particles/environment_effects/atlasexiles,699212,22020
+cd901f946e96c608,gradiant.dds.header,Tiny_6,21096166,1520
+904b403f55f751e9,fungal_growth_04c.mat,Tiny_6,64445936,8468
+f615af79cf392362,fungal_growth_04_emissive_dxt1.dds,Folders/art/particles/environment_effects/atlasexiles,0,699212
+e65b51e8e9420b5b,fungal_growth_04_emissive_dxt1.dds.header,Tiny_6,104007094,1520

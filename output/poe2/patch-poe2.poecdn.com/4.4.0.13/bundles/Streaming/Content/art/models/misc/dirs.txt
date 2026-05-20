@@ -1,0 +1,9 @@
+banner
+challengetotem
+checkpoints
+harvestseeds
+league_expedition
+mapdevice02
+portals
+shrines
+stonecircles

@@ -1,0 +1,13 @@
+collect_loot
+collect_loot/tex
+currencygoldcoin
+currencygoldcoin/mb
+currencygoldcoin/mb/coin_pickup
+currencygoldcoin/textures
+currencygoldcoin/textures/coin_pickup
+gold_explosion
+gold_explosion/textures
+nodegraph
+upgraded_side_area
+upgraded_side_area/labyrinth
+upgraded_side_area/vaal

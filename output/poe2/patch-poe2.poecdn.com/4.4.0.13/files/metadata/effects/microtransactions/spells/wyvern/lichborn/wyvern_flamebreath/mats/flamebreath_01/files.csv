@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+6993d3b7dfd4ea4c,abyssal_ribbons_beam_u.mat,Tiny.V0.1,33343634,14230
+23be154b848ec086,abyssal_ribbons_beam_r1.mat,Tiny.V7.1,30921382,80090
+f8a7128d8064a96a,abyssal_ribbons_beam_r2.mat,Tiny.V9.1,31658210,28636
+0598cd2d0e3b4fad,abyssal_muzzle_r.mat,Tiny.V0.1,33279618,64016
+efa9835eb5e23f1b,abyssal_muzzle_u.mat,Tiny.V6.1,30957740,31600
+f8c65ce9b27ba929,abyssal_curl_r.mat,Tiny.VE.1,31139634,57790
+d7480388e5726cec,abyssal_curl_u.mat,Tiny.V3.1,30170526,7274
+e50a3688f86de863,beamcore_r.mat,Tiny.VB.1,28895118,43924
+01e04b53bf4225a9,beamcore_u.mat,Tiny.V1.1,63841040,1398
+7dd389e23335fe1f,flameribbons_u.mat,Tiny.V7.1,124505982,50234
+73f2ad1785dfccf4,flameribbons_r1.mat,Tiny.VC.1,32621256,61612
+a25e2619003000ae,flameribbons_r2.mat,Tiny.V8.1,29922368,41760
+4898a025775cebd8,flameribbons_r3.mat,Tiny.V9.1,31686846,64392
+5febd791074af8bc,fireembers_r.mat,Tiny.V4.1,34254964,25260
+a0a561b6582acd9c,fireembers_u.mat,Tiny.V7.1,124474418,31564

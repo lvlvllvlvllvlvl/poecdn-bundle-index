@@ -1,0 +1,13 @@
+cannonball
+dash_mortar
+dash_slash
+dash_start
+geyser
+marker
+melee
+muzzle
+onact_dash
+onact_double
+onact_geyser
+onact_wave
+wave

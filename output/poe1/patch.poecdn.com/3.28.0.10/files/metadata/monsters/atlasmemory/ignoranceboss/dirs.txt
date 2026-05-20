@@ -1,0 +1,5 @@
+attachments
+attachments/heads
+npc
+objects
+objects/markers

@@ -1,0 +1,5 @@
+attachments
+attachments/feather
+attachments/hair
+attachments/skirt
+attachments/weapon

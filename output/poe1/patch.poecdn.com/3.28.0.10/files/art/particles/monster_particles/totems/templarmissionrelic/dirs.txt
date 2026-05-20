@@ -1,0 +1,5 @@
+aura
+nova
+portal
+unholy_nova
+zone

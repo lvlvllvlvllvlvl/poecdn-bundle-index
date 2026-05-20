@@ -1,0 +1,8 @@
+attachments
+attachments/currency
+attachments/l_thigh
+attachments/r_earring
+attachments/robe
+attachments/voodooimppet
+attachments/voodooimppet/voodooimpscrolls
+textures

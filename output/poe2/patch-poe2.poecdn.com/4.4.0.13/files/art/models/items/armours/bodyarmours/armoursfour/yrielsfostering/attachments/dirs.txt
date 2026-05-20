@@ -1,0 +1,10 @@
+belthanging
+chain
+chain/dex
+chain/dexint
+chain/int
+chain/str
+chain/strdex
+chain/strint
+robe
+shawl

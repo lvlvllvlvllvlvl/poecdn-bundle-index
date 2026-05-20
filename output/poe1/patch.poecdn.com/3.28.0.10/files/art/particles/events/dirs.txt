@@ -1,0 +1,5 @@
+royale
+royale/mb
+royale/mb/teammate_highlight
+royale/textures
+royale/textures/teammate_highlight

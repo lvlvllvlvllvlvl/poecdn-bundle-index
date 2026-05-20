@@ -14,6 +14,7 @@ use url::Url;
 use crate::db;
 use crate::entity::prelude::*;
 use crate::entity::{bundles, dirs, files, version};
+use crate::exporter::{FileItem, Node};
 use crate::models::{Dir, File};
 use crate::utils::{add_dir, decode_paths, decompress, read_u32, read_u64};
 use sea_query::{Query, SqliteQueryBuilder};
@@ -300,6 +301,7 @@ pub async fn process_bundle_bytes(
     // First, collect all directories and prepare file data without inserting into the database
     let mut file_data = BTreeMap::new();
     let mut all_dirs = BTreeMap::new();
+    let mut files_tree = Node::new();
 
     for filename in paths.iter() {
         // Always register the directory for every decoded path
@@ -309,6 +311,19 @@ pub async fn process_bundle_bytes(
         let hash = murmurhash64::murmur_hash64a(filename.as_bytes(), 0x1337b33f);
 
         if let Some(&(bundle_index, offset, size)) = files.get(&hash) {
+            let bundle = bundle_names[bundle_index as usize];
+
+            files_tree.insert_file(
+                dir,
+                FileItem {
+                    name: name.to_string(),
+                    hash: format!("{:016x}", hash),
+                    bundle: bundle.to_string(),
+                    offset: offset.to_string(),
+                    size: size.to_string(),
+                },
+            );
+
             let range = if offset == 0
                 && bundle_sizes
                     .get(bundle_index as usize)
@@ -319,7 +334,6 @@ pub async fn process_bundle_bytes(
                 Some((offset, size))
             };
 
-            let bundle = bundle_names[bundle_index as usize];
             let file = File { bundle, range };
 
             file_data
@@ -331,8 +345,27 @@ pub async fn process_bundle_bytes(
         }
     }
 
+    let mut bundles_tree = Node::new();
+    for (&name, &size) in bundle_names.iter().zip(&bundle_sizes) {
+        let (dir, name_str) = name.rsplit_once('/').unwrap_or(("", name));
+        bundles_tree.insert_file(
+            dir,
+            FileItem {
+                name: name_str.to_string(),
+                hash: "".to_string(),
+                bundle: "".to_string(),
+                offset: "".to_string(),
+                size: size.to_string(),
+            },
+        );
+    }
+
     // Generate CSV files for reference
     generate_csv_files(&paths, &files, &bundle_names, &bundle_sizes, &dir)?;
+
+    // Generate HTML and machine-readable index trees
+    files_tree.export(&dir.join("files"), "")?;
+    bundles_tree.export(&dir.join("bundles"), "")?;
 
     // Generate SQL files for initializing the database
     generate_sql_files(

@@ -1,0 +1,4 @@
+fx
+fx/cold
+fx/fire
+fx/lightning

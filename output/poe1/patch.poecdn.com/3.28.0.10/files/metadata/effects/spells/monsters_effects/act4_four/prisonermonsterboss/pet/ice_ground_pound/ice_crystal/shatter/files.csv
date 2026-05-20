@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+6648e1268970aee6,blast_sphere_update.mat,Tiny_D,23008368,2114
+249436e9155e1a0a,fwdline.pet,Tiny_D,23031730,30124
+fbf7b13d6a6c0734,kickup_smoke_update.mat,Tiny_D,23061854,9014
+1c52805a34d81d8f,snow_debris_01_update.mat,Tiny_D,23094972,29846
+53e91df9519cc792,sphere_distortion_update.mat,Tiny_11,89827740,308
+5f604941fcfd32a2,shardsdebris_update.mat,Tiny_D,23070868,24104
+a6a426b765b4ec25,shockwaveblur_update.mat,Tiny_11,89827740,308
+711f2cecb601ec31,emit_shard_01.pet,Tiny_D,23010482,5866
+b9e796b951037518,emit_shard_02.pet,Tiny_D,23016348,5126
+aa454e1183e6a81a,emit_shard_03.pet,Tiny_D,23021474,5126
+64fbd30748c71409,emit_shard_04.pet,Tiny_D,23026600,5130

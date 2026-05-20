@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+9545af858e9c9837,buff_apply.ao,Tiny.VA.1,27592130,336
+405605a2ba803a85,buff_apply.aoc,Tiny.V7.1,46774366,1806
+2217fdf1563281ca,corrosive_affected.epk,Tiny.V7.1,46776172,368
+87b5e340f586b4a0,corrosive_affected_loop.ao,Tiny.V8.1,151019253,334
+f4a5af744ec5f6d6,corrosive_affected_loop.aoc,Tiny.V3.1,45595868,924
+e5c23a59409ecba1,corrosive_start.ao,Tiny.VA.1,27592130,336
+df05e36058882ca8,corrosive_start.aoc,Tiny.VD.1,42548336,1808
+f79568f42e4b333a,corrosive_shroud_active.epk,Tiny.VB.1,45299484,628
+165faee2ad31fe49,corrosive_shroud_active_epk_pass0.mat,Tiny.VC.1,48116368,556
+50f358e0fcace3ac,corrosive_shroud_aura.ao,Tiny.VB.1,125576376,328
+902723971a97f327,corrosive_shroud_aura.aoc,Tiny.VF.1,46192446,2156
+ea42a677b4bda63b,playeractiveloop.ao,Tiny.V3.1,45596792,342
+f2e5073d5bf43a5c,playeractiveloop.aoc,Tiny.VA.1,44602528,398
+46a7bcfc1f343b6f,poison_max.ao,Tiny.VA.1,27592130,336
+2788068b26dc7d81,poison_max.aoc,Tiny.V6.1,47833914,1796

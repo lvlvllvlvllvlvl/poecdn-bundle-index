@@ -1,0 +1,5 @@
+head
+l_clavicle
+l_shoulder
+r_clavicle
+r_shoulder

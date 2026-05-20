@@ -1,0 +1,5 @@
+carvertribedelinquent
+carvertribedelinquent/attachments
+carvertribedelinquent/attachments/delinquent_01_frontloincloth
+carvertribedelinquent/attachments/delinquent_02_frontloincloth
+carvertribedelinquent/attachments/delinquent_03_backloincloth

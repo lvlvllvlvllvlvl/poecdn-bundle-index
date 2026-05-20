@@ -1,0 +1,10 @@
+chaos
+ebony
+fire_projectile
+fireglow
+gold
+ice_glow
+ice_projectile
+light_glow
+light_projectile
+new

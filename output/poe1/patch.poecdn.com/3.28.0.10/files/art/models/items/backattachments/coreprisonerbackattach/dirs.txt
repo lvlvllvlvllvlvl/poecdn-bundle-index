@@ -1,0 +1,10 @@
+attachments
+attachments/lantern_01
+attachments/lantern_02
+attachments/lantern_03
+attachments/lantern_04
+attachments/lantern_05
+attachments/lantern_end
+attachments/lantern_energy
+attachments/lantern_juice_01
+textures

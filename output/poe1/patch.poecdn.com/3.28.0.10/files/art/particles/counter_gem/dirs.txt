@@ -1,0 +1,11 @@
+circle
+circle/weapons
+circle/weapons/axe
+circle/weapons/mace
+circle/weapons/staff
+circle/weapons/sword
+single
+single/axe
+single/mace
+single/sword
+unarmed

@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+efe96ccd05fafe1f,debuff_shocked.fxgraph,Content/metadata/effects/microtransactions/spells/elemental_hit/08E5D14A74A66FA3.elehit_arrow_light.ao,5228206,128758
+e9cc0c8ce41f5784,damagetype_light.fxgraph,Content/metadata/effects/spells/celestial_conviction/debuff/celestiallightning.epk,247342,60566
+a8460d219b39a6b2,damagetype_fire.fxgraph,Content/metadata/effects/spells/celestial_conviction/debuff/celestiallightning.epk,186648,60694
+eec641e06fe7858f,damagetype_phys.fxgraph,Content/metadata/effects/spells/celestial_conviction/debuff/celestiallightning.epk,368504,60974

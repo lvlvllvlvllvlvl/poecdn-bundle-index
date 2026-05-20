@@ -1,0 +1,11 @@
+hairstyles
+hairstyles/hair
+hairstyles/hair/default
+hairstyles/hair/tight
+outfit
+outfit/attachments
+outfit/attachments/l_shoulderpad
+outfit/attachments/necklace
+outfit/attachments/r_shoulderpad
+outfit/attachments/robe
+outfit/attachments/robefront

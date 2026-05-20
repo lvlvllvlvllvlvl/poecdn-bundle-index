@@ -1,0 +1,3 @@
+attatchments
+attatchments/gigantism_l_shoulderplate
+attatchments/gigantism_r_shoulderplate

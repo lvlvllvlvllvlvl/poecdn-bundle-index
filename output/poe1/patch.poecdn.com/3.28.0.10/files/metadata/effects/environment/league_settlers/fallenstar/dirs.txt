@@ -1,0 +1,9 @@
+resource_loot
+resource_loot/epk
+resource_loot/fx
+resource_loot/fx/collect_visual_cue_01
+resource_loot/fx/collect_visual_cue_01/idle_01
+resource_loot/mat
+resource_loot/mat/collect_visual_cue_01
+resource_loot/mat/collect_visual_cue_01/collected
+resource_loot/mat/collect_visual_cue_01/idle_01

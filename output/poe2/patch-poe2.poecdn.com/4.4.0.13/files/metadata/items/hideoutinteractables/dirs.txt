@@ -1,0 +1,9 @@
+wrappingpaper
+wrappingpaper/epks
+wrappingpaper/fx
+wrappingpaper/fx/wrappedgift1_drop
+wrappingpaper/fx/wrappedgift1_idle
+wrappingpaper/fx/wrappedgift2_drop
+wrappingpaper/fx/wrappedgift2_idle
+wrappingpaper/fx/wrappedgift3_drop
+wrappingpaper/fx/wrappedgift3_idle

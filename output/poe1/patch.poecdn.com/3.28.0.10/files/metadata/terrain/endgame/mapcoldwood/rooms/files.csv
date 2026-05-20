@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+42e1c59d918d8b42,entrance.arm,Tiny_11,46126365,2226
+b58ad2f23da4f9c1,side_entrance.arm,Folders/metadata/5/terrain,6939298,8228
+2727877dbdbea1a9,village_01.arm,Folders/metadata/E/terrain,6581906,13476
+d820f44c87480f7e,village_02.arm,Folders/metadata/1/terrain,7168176,12434
+72e0ad93c26c253f,village_03.arm,Folders/metadata/9/terrain,6840698,11898
+c4ac282c88dcfefe,village_04.arm,Folders/metadata/B/terrain,6853326,12550
+2ef54edbd9a85b22,village_05.arm,Folders/metadata/2/terrain,7007122,7512
+79f7555b52a3301f,fill_01.arm,Tiny_11,46128591,2510
+b93eb2d6dc7ff69f,fill_02.arm,Tiny_11,46131101,1338
+e5ba08ac81d4f093,fill_03.arm,Tiny_11,46132439,1524
+08fdbbc6aa29a890,fill_04.arm,Tiny_11,46133963,960
+09f8ac4b524d68d1,fill_05.arm,Tiny_11,46134923,960
+a9f9df3128b64504,boss_arena.arm,Folders/metadata/7/terrain,6034496,21646
+37214d56607a83bf,boss_entrance.arm,Folders/metadata/9/terrain,6835354,5344

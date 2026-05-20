@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+4f72fe8551942f42,eyes_normal_dxt5.dds,Art/Textures/Environment/Act4/Belly/Eyes,874324,349700
+d282b8fdd5e77680,eyes_normal_dxt5.dds.header,Tiny_7,52902426,1520
+f15afb06ade44435,eyes_glowc.mat,Tiny_7,52900478,1948
+0b617de204ed26d6,eyes_glow.dds,Art/Textures/Environment/Act4/Belly/Eyes,524624,349700
+93b6137a35b26ede,eyes_glow.dds.header,Tiny_7,52898958,1520
+b7dec1fdde2a78ef,eyes_colour_dxt5.dds,Art/Textures/Environment/Act4/Belly/Eyes,0,349700
+66687c9e25556376,eyes_colour_dxt5.dds.header,Tiny_7,52897438,1520
+6e943532281c499f,eyes_colour_bc1.dds,Art/Textures/Environment/Act4/Belly/Eyes,349700,174924
+92b07495b3a91fdd,eyes_colour_bc1.dds.header,Tiny_7,52895918,1520
+eaaf7678dc6430e0,eyes_colour.dds,Art/Textures/Environment/Act4/Belly/Eyes,349700,174924
+60fc128ba5bdcb50,eyes_colour.dds.header,Tiny_7,52895918,1520
+96536fc87c606075,eyesns.dds,Art/Textures/Environment/Act4/Belly/Eyes_1,0,349700
+f39e794ed2216d00,eyesns.dds.header,Tiny_7,52909414,1520
+4db0c9d12ddbb5a6,eyesc.mat,Tiny_7,52903946,1976
+1737c198e46ab9ca,eyescns.mat,Tiny_7,52905922,3492

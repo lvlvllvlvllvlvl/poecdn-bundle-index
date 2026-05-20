@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+c816ba3500ece30f,wasp_normal_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.3176B091A4349F78.ao_trl.trl,477420,22020
+a321096e0026e872,wasp_normal_dxt5.dds.header,Tiny.VC,6195255,1520
+66fa2eb398baa07b,fly_flipbook_bee_colour_dxt4.dds,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.B9E1B333E35ABC08.swarm_bees_base.ao,0,22052
+62c1b82d9d2c97f4,fly_flipbook_bee_colour_dxt4.dds.header,Tiny.VA,6269187,504
+795a70844778270f,bee_bees.mat,Tiny.VC,6192267,2988
+cd39edf487a04ce6,bee_drool.mat,Tiny.V6,6217465,2776
+9c481b4aaf652d02,bee_drop.mat,Tiny.V6,6220241,2760
+e3d05065c1c436f2,bee_drop_splat.mat,Tiny.VB,6139140,4024
+2a07b34ac8bcc419,bee_comb.mat,Tiny.VA,6265551,3636
+40f6f4b1f4e284c8,bee_comb_p2.mat,Tiny.V3,6093338,3484
+a8b2bd0155f12b15,bee_override_flys.mat,Tiny.VF,6191315,3230
+85e2739a6734adac,bee_override_p2.mat,Tiny.V1,6123282,4640

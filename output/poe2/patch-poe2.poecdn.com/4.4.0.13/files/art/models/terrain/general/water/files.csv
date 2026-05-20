@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+a401a9b00dfadb85,waterplane1x1.fmt,Streaming/Content/data/worldareas/15/mapaugury_noboss.vworld,0,7998
+5b4b75e507923ba4,waterplane1x1.fmt.header,Tiny.V2,17116282,214
+6296d378b9043628,waterplane3x3.fmt,Streaming/Content/data/worldareas/FC/mapuberboss_stonecitadel.vworld,0,54126
+0a5778aba699cb8c,waterplane3x3.fmt.header,Tiny.V9,17140053,214
+c06041c8d4b79d7d,flowingwaterplane2x2.fmt,Streaming/Content/data/worldareas/mapchannel.vworld.1,2789023,34262
+0c96d7a82dc9ab23,flowingwaterplane2x2.fmt.header,Tiny.V1,16745878,232
+9cb2ddd0fc08ae9b,flowingwaterplane1x1.fmt,Streaming/Content/data/worldareas/mapchannel.vworld.1,2777441,11582
+705f888349e84e88,flowingwaterplane1x1.fmt.header,Tiny.V7,16790500,256
+44814524a30aa383,flowingwaterplane3x3.fmt,Streaming/Content/data/balance/worldareas/2D/mapmezzanine.vworld,0,59294
+c57018a72d3e69c9,flowingwaterplane3x3.fmt.header,Tiny.V2,17115779,256
+6f80a1c3e6ccac94,marsh_flowingwaterplane1x1.fmt,Streaming/Content/data/worldareas/mapburialbog.vworld,1693668,8060
+82e6014a31094b38,marsh_flowingwaterplane1x1.fmt.header,Tiny.V2,17116035,247
+fea4f7ee7bc5cc95,marsh_flowingwaterplane3x3.fmt,Streaming/Content/data/worldareas/mapburialbog.vworld,1701728,54188
+8cf69fd2746242fa,marsh_flowingwaterplane3x3.fmt.header,Tiny.V0,17078926,247

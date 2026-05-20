@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+d84f7c8a76968cce,wispy_trail.mat,Tiny_6,125983957,3012
+8a321d9dbbc0067c,wispy_trail.dds,Art/particles/monster_particles/League_Incursion_18,1641910,11108
+32d76e56e483a02a,wispy_trail.dds.header,Tiny_6,126048959,840
+c4f72513728f811f,trail_multi_distance.mat,Tiny_6,125980431,3526
+94f8da0a50e5a977,trail_multi_distance.dds,Art/particles/monster_particles/League_Incursion_18,1466962,174948
+988f51dfbfa1834a,trail_multi_distance.dds.header,Tiny_7,45152664,840
+d2821de7fe0e3526,energy_trail_add.mat,Tiny_6,125977827,2604
+e335dc7048f38402,energy_trail_add.dds,Art/particles/monster_particles/League_Incursion_18,1745836,43876
+4d1e7c9dd4f01d5d,energy_trail_add.dds.header,Tiny_6,126039131,840
+2dd35909d5675e80,cold_smoke.mat,Tiny_6,125975275,2552
+6d7fb803e2681047,cold_smoke.dds,Art/Textures/Misc/portals/IceAndFirePortal/effects,175112,43876
+b0564cd824b32f93,cold_smoke.dds.header,Tiny_8,24605628,840

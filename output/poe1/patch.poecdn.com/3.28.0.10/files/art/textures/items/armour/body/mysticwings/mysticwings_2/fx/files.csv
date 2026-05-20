@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+b1220b33f6699dc7,wing_mask_dxt5.dds,Art/Textures/Items/armour/body/MysticWings_2,349700,349700
+6d02a9366cfac08d,wing_mask_dxt5.dds.header,Tiny_8,8407161,1520
+f429c9cad045b6c4,wing_mask_dxt1.dds,Art/Textures/Items/armour/body/MysticWings_2,699400,174924
+4e4e3b775cc0f8cf,wing_mask_dxt1.dds.header,Tiny_8,8408681,1520
+99d4e37a13b0bdea,wing_mask_bc7.dds,Art/Textures/Items/armour/body/MysticWings_2,349700,349700
+fd05ac7ebf796a8c,wing_mask_bc7.dds.header,Tiny_8,8407161,1520
+66515e8e1f08bc30,spark.mat,Tiny_8,8405011,2150
+d6410e88f006aa43,spark.dds,Tiny_8,43964320,1532
+fe0ac73ed0fe308f,spark.dds.header,Tiny_8,43965852,840
+3f6931aff318bb62,scroll_dxt1.dds,Art/Textures/Items/armour/body/MysticWings_2,874324,174924
+b6ee2355460480fd,scroll_dxt1.dds.header,Tiny_8,8403491,1520
+49fed5d85c11a631,grad.mat,Tiny_8,8401053,2438
+51d53b2e1e44351e,grad.dds,Tiny_8,44185142,2892
+889af1f4f470fbe9,grad.dds.header,Tiny_8,44188034,1520

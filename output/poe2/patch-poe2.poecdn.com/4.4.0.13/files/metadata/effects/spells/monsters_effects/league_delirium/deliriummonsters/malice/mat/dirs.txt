@@ -1,0 +1,4 @@
+meleetrail
+ondeath_buildup
+ondeath_explode
+spiketrail

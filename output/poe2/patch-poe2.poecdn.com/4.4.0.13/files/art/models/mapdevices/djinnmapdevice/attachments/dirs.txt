@@ -1,0 +1,12 @@
+coin
+coin/animations
+djinn
+djinn/attachments
+djinn/attachments/marakethtimedjinn
+djinn/attachments/marakethtimedjinn/sash
+djinn/attachments/marakethtimedjinn/shatter
+djinn/attachments/marakethwaterdjinn
+djinn/attachments/marakethwaterdjinn/marakethwaterdjinncape
+djinn/attachments/marakethwaterdjinn/marakethwaterdjinnhair
+djinn/attachments/marakethwaterdjinn/marakethwaterdjinnrobe
+pedestal

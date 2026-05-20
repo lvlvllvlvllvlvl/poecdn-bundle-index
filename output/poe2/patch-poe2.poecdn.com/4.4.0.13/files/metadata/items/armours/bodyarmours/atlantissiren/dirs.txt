@@ -1,0 +1,9 @@
+attachments
+attachments/backstrings
+attachments/chestdangles
+attachments/chestdangles/female
+attachments/chestdangles/male
+attachments/chestdangles/male/str
+attachments/skirt
+attachments/skirt/female
+attachments/skirt/male

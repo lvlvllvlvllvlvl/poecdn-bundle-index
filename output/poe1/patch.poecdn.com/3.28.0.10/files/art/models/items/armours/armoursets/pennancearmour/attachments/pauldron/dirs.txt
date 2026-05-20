@@ -1,0 +1,4 @@
+l_pauldron
+l_pauldron/animations
+r_pauldron
+r_pauldron/animations

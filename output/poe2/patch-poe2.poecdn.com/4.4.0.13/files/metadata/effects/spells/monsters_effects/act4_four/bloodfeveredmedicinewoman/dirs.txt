@@ -1,0 +1,6 @@
+fx
+fx/projectile
+graphs
+mat
+mat/blob_explode
+mat/blob_trail

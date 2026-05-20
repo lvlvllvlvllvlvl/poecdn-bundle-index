@@ -1,0 +1,15 @@
+boss
+boss/beam
+boss/beam_impact
+boss/cascade
+boss/cyclone
+boss/fire_aura
+boss/on_hit
+boss/onact
+boss/onact/attack_01
+boss/onact/attack_heavy_01
+boss/onact/cyclone_01
+boss/onact/figure_head_fizzle
+boss/onact/soul_triple
+boss/skeleton_aura
+boss/soul_bolt

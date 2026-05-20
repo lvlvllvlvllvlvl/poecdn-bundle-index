@@ -1,0 +1,11 @@
+onact
+onact/shockwave
+onact/shockwave/main
+onact/shockwave/start
+onact/slam_aoe
+onact/spawn
+onact/teleport
+onact/teleport/out
+sword
+sword/pet
+sword/trl

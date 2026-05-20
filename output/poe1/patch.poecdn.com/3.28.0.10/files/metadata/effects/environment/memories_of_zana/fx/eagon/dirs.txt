@@ -1,0 +1,2 @@
+channel_map_device
+fadeout

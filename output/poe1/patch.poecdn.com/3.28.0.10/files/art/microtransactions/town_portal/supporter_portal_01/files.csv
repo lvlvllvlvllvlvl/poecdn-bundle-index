@@ -1,0 +1,33 @@
+hash,file,bundle,offset,size
+798b04ffa39ac094,supportportal_01.sm,Tiny_1,72581511,1452
+e0396620072a90a1,runesc.mat,Tiny_1,72579289,2222
+e3de3cf0604a0543,runes_brightc.mat,Tiny_1,72577415,1874
+ddc5a16c59bdf14e,runes_bright.dds,Art/Microtransactions/Town_Portal/supporter_portal_01,1478552,349700
+10a03dc379f515d4,runes_bright.dds.header,Tiny_1,72575895,1520
+f42599023666c097,runes.dds,Art/Microtransactions/Town_Portal/supporter_portal_01,1828252,349700
+708be3dff6d0bc9a,runes.dds.header,Tiny_1,72574375,1520
+535331dfb287cf22,rig_f568d87a.smd,Art/Microtransactions/Town_Portal/supporter_portal_01,961804,123008
+9cbe3610f257ba85,rig_f568d87a.smd.header,Tiny_1,72846635,391
+f6f630f268f728af,rig.amd,Tiny_1,72844540,272
+dba8f5426c81a217,rig.ast,Tiny_1,72844812,1823
+6f67e9c82c8cf872,lightningc.mat,Tiny_1,72571033,3342
+ba7e7b60db42cf9c,lightning.dds,Art/Microtransactions/Town_Portal/supporter_portal_01,262504,699300
+8a0c421c1c176dbf,lightning.dds.header,Tiny_1,72570689,344
+0da7389c592e0adf,inner_multic.mat,Tiny_1,72569223,1466
+19a78d77bd174f0c,inner_multi.dds,Folders/art/microtransactions/town_portal/crucible,349700,22020
+cf906601dcd142cb,inner_multi.dds.header,Tiny_6,21110524,1520
+f3848638a128bcd7,inner_light_imortalc.mat,Tiny_1,72566309,2914
+10f8dbe97dc13b3f,inner_light_imortal.dds,Art/Microtransactions/Town_Portal/supporter_portal_01,1128852,349700
+46ec667dcea78d8e,inner_light_imortal.dds.header,Tiny_1,72564789,1520
+bc4f15fabd35b057,inner_light_imortal _2c.mat,Tiny_1,72561853,2936
+bc9940629814415c,inner_light_imortal _2.dds,Art/Microtransactions/Town_Portal/supporter_portal_01,87556,174948
+4c9ed0d16966f1a5,inner_light_imortal _2.dds.header,Tiny_1,72561013,840
+0fce884a3b6d6d12,hole_glare.mat,Tiny_1,72559277,1736
+15570b2740ea9949,hole_glare.dds,Art/Microtransactions/Town_Portal/supporter_portal_01,1106832,22020
+cf6116967eefb9dc,hole_glare.dds.header,Tiny_1,72557757,1520
+a2b9761c8a886eea,gradiantc.mat,Tiny_1,72555753,2004
+bc9fed2d2ee648a0,gradiant.dds,Art/Microtransactions/Town_Portal/supporter_portal_01,1084812,22020
+38c98ec1e2952074,gradiant.dds.header,Tiny_1,72554233,1520
+d9e82520cad7ff7d,glow.mat,Tiny_1,72552525,1708
+fe787eb90b426f3d,glow.dds,Art/Microtransactions/Town_Portal/supporter_portal_01,0,87556
+e09019daf5c7d96b,glow.dds.header,Tiny_1,72551005,1520

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+6242efeb1a298870,mortarsquidc.mat,Tiny_8,35375932,2744
+f9bfe847307f8000,mortarsquid_sss_dxt5.dds,Art/Textures/Monsters/MortarSquid_4,0,5592580
+c796664a06205297,mortarsquid_sss_dxt5.dds.header,Tiny_8,35374412,1520
+cfd870bd07f6f0bb,mortarsquid_normal_dxt5.dds,Art/Textures/Monsters/MortarSquid_3,0,5592580
+89e7aee5c7547f5e,mortarsquid_normal_dxt5.dds.header,Tiny_8,35372892,1520
+3852e03019159701,mortarsquid_colour_dxt5.dds,Art/Textures/Monsters/MortarSquid_2,0,5592580
+f83d2a26479b0a58,mortarsquid_colour_dxt5.dds.header,Tiny_8,35371372,1520
+165d7b7ac82e62f4,mortarsquid_colour_bc7.dds,Art/Textures/Monsters/MortarSquid_2,0,5592580
+f2ccc56ee3ac1812,mortarsquid_colour_bc7.dds.header,Tiny_8,35371372,1520
+ca8fc8db05bbfc9b,mortarsquid_colour.dds,Art/Textures/Monsters/MortarSquid,0,2796364
+5d530dc31091ab36,mortarsquid_colour.dds.header,Tiny_8,35369852,1520

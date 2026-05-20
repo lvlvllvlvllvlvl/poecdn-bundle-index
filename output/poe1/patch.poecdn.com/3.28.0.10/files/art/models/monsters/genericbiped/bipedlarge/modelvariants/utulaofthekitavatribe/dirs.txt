@@ -1,0 +1,9 @@
+attachments
+attachments/uotktearrings
+attachments/uotktfeathers
+attachments/uotkthair
+attachments/uotktthighguardl
+attachments/uotktthighguardr
+attachments/uotktwaistaccss
+attachments/uotktweaponl
+attachments/uotktweaponr

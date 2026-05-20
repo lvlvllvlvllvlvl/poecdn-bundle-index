@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+08e8d5889e889439,snow_splash.mat,Tiny_6,67585992,2296
+5393c802823e680c,snow_splash_dxt5.dds,Art/particles/environment_effects/tempest_league_20,1182372,174948
+f6b8856d74e880f4,snow_splash_dxt5.dds.header,Tiny_6,67588288,840
+c67f9456f2ca23e0,snow_smoke.mat,Tiny_6,67583288,1184
+a3ea842af6e975bf,snow_smoke_dxt5.dds,Folders/art/particles/monster_particles/atlasofworlds_7,0,22020
+6091554026b41346,snow_smoke_dxt5.dds.header,Tiny_6,67584472,1520
+78f1771e200969d3,smoke.mat,Tiny_6,67580686,2602
+4c47b664bf8288fd,smoke_dxt5.dds,Folders/art/particles/flask_effects/ichor_mana,409793,43876
+1e905c325e20be3e,smoke_dxt5.dds.header,Tiny_8,26468846,840
+b38657bf5df9bc2b,fire_bits.mat,Tiny_6,67578496,2190
+f760eaf655699cee,fire_bits_dxt5.dds,Folders/art/particles/monster_particles/atlasofworlds_6,2974660,11108
+85ec35e8dfcb5ea7,fire_bits_dxt5.dds.header,Tiny_6,67591264,840

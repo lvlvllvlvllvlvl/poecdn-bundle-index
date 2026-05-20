@@ -1,0 +1,8 @@
+textures
+textures/vaal_crawler
+textures/vaal_crystal_totem
+textures/vaal_goliath
+textures/vaal_goliath/blood_orbs
+textures/vaal_goliath/on_act
+textures/vaal_goliath/on_act/attack
+textures/vaal_overseer

@@ -1,0 +1,5 @@
+attachments
+attachments/arms
+attachments/belt
+attachments/collar
+attachments/skirt

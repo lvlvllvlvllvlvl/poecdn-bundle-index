@@ -1,0 +1,6 @@
+vfx
+vfx/shards01
+vfx/shards01/fx
+vfx/shards01/fx/idle_01
+vfx/shards01/mat
+vfx/shards01/mat/idle_01

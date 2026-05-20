@@ -1,0 +1,4 @@
+corridor
+ledge
+thickwall
+thinwall

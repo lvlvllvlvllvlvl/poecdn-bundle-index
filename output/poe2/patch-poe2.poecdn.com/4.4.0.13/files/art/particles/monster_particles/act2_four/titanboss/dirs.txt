@@ -1,0 +1,16 @@
+arm_sweep
+chisel_slam
+fissure
+laser
+mega_blast
+mega_blast/mb
+roof_laser
+sword_thrust
+textures
+textures/arm_sweep
+textures/attack
+textures/decals
+textures/eye_beam_01
+textures/palm_slam
+textures/roof_laser
+wave

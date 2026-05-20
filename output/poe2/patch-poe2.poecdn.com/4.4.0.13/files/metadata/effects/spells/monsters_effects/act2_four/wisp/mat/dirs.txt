@@ -1,0 +1,5 @@
+explosion_boss
+explosion_sanctum
+projectile_sanctum
+projectile_sanctum_explode
+trail_sanctum

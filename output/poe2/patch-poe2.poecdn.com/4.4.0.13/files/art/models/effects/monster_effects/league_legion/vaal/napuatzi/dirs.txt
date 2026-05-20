@@ -1,0 +1,12 @@
+basic_projectile
+caustic_mortar
+caustic_mortar_impact
+collapsing_aoe
+collapsing_pulse
+collide_chargeup_explode
+general_projectile
+mortar_slam
+rectangular_aoe
+snake_slither
+spectral_viper_sting
+spinning_volatile_detonate

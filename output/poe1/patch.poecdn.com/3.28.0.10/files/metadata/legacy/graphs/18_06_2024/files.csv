@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+0f80b6475f6fe740,circleemitter.fxgraph,Folders/metadata/pet,5167917,233428
+c4fd1c7781f044bf,pointemitter.fxgraph,Folders/metadata/pet,5401345,25516
+935dc9b22e3e1a80,sphereemitter.fxgraph,Folders/metadata/pet,5426861,208996
+34ab1467021efd41,bonecircleemitter.fxgraph,Folders/metadata/pet,3534339,184342
+6e8d932e77af0364,bonelineemitter.fxgraph,Folders/metadata/pet,4316831,200006
+14814c8d3bca4995,bonepointemitter.fxgraph,Folders/metadata/pet,4516837,142938
+ac01d5f7ebfec4bd,bonesphereemitter.fxgraph,Folders/metadata/pet,4659775,197572
+b73a0d44ddf75e88,bonetubeemitter.fxgraph,Folders/metadata/pet,4857347,310570
+a63c4c47a0412c08,bonedirectionallineemitter.fxgraph,Folders/metadata/pet,3718681,233400
+3e2bb405db515aff,bonedirectionalspeedtubeemitter.fxgraph,Folders/metadata/pet,3952081,364750

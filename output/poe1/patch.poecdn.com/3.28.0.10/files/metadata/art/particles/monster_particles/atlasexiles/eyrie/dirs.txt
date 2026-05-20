@@ -1,0 +1,17 @@
+arenablocker
+barrage
+barrage/ice_projectils_ns
+bulletdive
+bulletdive/impact
+death_nova
+eye_of_storm
+influence
+on_act
+on_act/attack_01
+on_act/barrage_01
+on_act/dash_attack_01
+on_act/dash_dive_01
+on_act/death_01
+on_act/tornado_spin_01
+whirl
+whirl/burst_ring

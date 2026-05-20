@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8755ac051c26a8d9,bnpnt_emit_u.mat,Tiny_11,63879857,346
+03c971b48a3c8844,distortion_sphere_r.mat,Tiny_9,105451932,11808
+e55f567b04118d92,emerge_oomph_u.mat,Tiny_9,105463740,3140
+3700fd01a05a22c5,smoke_slow_body_r.mat,Tiny_9,105593260,28764
+60a62974177ac0ae,smoke_slow_body_u.mat,Tiny_9,105573490,12892
+c9e19b3591ffd026,smoke_burst_r.mat,Tiny_9,105678932,27956
+73ad7d30f5eb4e6b,smoke_burst_u.mat,Tiny_9,105586382,6878
+a8578113ae3761cb,smoke_burst_head_r.mat,Tiny_9,105544722,28768
+67e6bd8ee886066f,smoke_burst_head_u.mat,Tiny_9,105573490,12892
+973915cc7740be5f,shardsdebris_body_u.mat,Tiny_9,105475410,23202
+ae8770e856a40270,shardsdebris_head_u.mat,Tiny_9,105498612,17402
+44fdd3d21a7b75fe,shardsdebris_r.mat,Tiny_9,105516014,8696
+e31d81cc99416b60,shardsdebris_u.mat,Tiny_9,105524710,20012
+18a7e1e689c4a021,roar.pet,Tiny_9,105466880,6352
+caa3a433eabe3f02,roar_u.mat,Tiny_9,105473232,2178

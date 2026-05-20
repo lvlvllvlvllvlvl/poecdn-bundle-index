@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+f61c6599dc5c7cb2,olmectotemcns.mat,Tiny_8,26584950,2486
+e041819f2933edb0,olmectotem_colour.dds,Art/Textures/Misc/Totems/Olmec,349700,349700
+cfce2bb645369ef0,olmectotem_colour.dds.header,Tiny_8,26583430,1520
+195eac386b582d56,olmectotemns.dds,Art/Textures/Misc/Totems/Olmec,0,349700
+9b9a17b2a18262ac,olmectotemns.dds.header,Tiny_8,26587436,1520
+69468466641bccbf,olmecghostcolmectotemns.mat,Tiny_8,26574936,3424
+82a8e41cd3d085ce,olmecghost_colour.dds,Art/Textures/Misc/Totems/Olmec,699400,349700
+3c03006547ff5d3b,olmecghost_colour.dds.header,Tiny_8,26573416,1520
+493f405ce018dbd3,olmecghostglowc.mat,Tiny_8,26579880,3550
+cdc645b823fee4de,olmecghostglow_colour.dds,Art/particles/monster_particles/skele_hands,1049884,87556
+c1960dec15d33e42,olmecghostglow_colour.dds.header,Tiny_8,26578360,1520

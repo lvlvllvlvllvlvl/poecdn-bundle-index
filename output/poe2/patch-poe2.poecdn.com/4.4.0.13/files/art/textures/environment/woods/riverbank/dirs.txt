@@ -1,0 +1,6 @@
+cliffs
+ground
+rocks
+treedebris
+trees
+treestumps

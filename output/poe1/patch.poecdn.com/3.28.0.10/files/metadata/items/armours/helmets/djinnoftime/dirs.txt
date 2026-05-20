@@ -1,0 +1,5 @@
+attachments
+attachments/bcb
+attachments/gem
+attachments/headattachment
+attachments/headwrap

@@ -1,0 +1,4 @@
+fx
+fx/textures
+fx_smalldevice
+textures

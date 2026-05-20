@@ -1,0 +1,11 @@
+boomerang
+boomerang/particles
+colour
+colour/ebony
+colour/ebony/weapon
+colour/ebony_new
+colour/ebony_new/boomerang
+colour/gold
+kitava
+triple_blade
+triple_blade/impact

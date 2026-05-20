@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+91b824519ddd0dd3,trail_sharp.mat,Tiny_6,86088636,1946
+42e4145ca9e77990,trail_sharp.dds,Art/particles/monster_particles/Hydra,1804886,5628
+82aae936113de099,trail_sharp.dds.header,Tiny_6,86087796,840
+58f15ed7b57d6595,trail.mat,Tiny_6,86086182,1614
+58da2ca8faa195e7,trail.dds,Art/particles/monster_particles/Hydra,1793802,11084
+c023f3fe588e2acf,trail.dds.header,Tiny_6,86084662,1520
+33b5103269ddee41,spark2.mat,Tiny_6,86082754,1908
+a8dd71d39f17dfea,spark2.dds,Tiny_6,86079694,1540
+cd986399aa015426,spark2.dds.header,Tiny_6,86081234,1520
+1846c947cad6e2ce,mask_glowc.mat,Tiny_6,86078056,1638
+5d94165ec0ad02c0,mask_glow.dds,Art/particles/monster_particles/Hydra,1749950,43852
+c552f98eae80f147,mask_glow.dds.header,Tiny_6,86076536,1520
+b76df533c111b7d7,light_gradientc.mat,Tiny_6,86074570,1966
+0000ffd8d643c175,light_gradient.dds,Tiny_6,86390728,2892
+703355d2819af6d2,light_gradient.dds.header,Tiny_6,86393620,1520

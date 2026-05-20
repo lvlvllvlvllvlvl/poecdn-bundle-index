@@ -1,0 +1,2 @@
+treasurechest_openable
+treasurechest_smaller

@@ -1,0 +1,2 @@
+activate_monster
+activation_pulse

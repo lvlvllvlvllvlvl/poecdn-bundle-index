@@ -1,0 +1,4 @@
+lshoulder
+male
+male/rshoulder
+rshoulder

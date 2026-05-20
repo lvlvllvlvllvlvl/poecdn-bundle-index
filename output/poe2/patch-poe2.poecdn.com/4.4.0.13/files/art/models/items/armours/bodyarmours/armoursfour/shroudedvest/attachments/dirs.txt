@@ -1,0 +1,9 @@
+scarf
+scarf/f
+scarf/m
+shoulderpad
+shoulderpad/f
+shoulderpad/m
+skirt
+skirt/f
+skirt/m

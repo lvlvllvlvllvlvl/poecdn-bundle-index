@@ -1,0 +1,8 @@
+abyss_tornado
+abyss_tornado/abyss
+abyss_tornado/aoe_pull
+abyss_tornado/base
+abyss_tornado/cold
+abyss_tornado/fadein
+abyss_tornado/fire
+abyss_tornado/lightning

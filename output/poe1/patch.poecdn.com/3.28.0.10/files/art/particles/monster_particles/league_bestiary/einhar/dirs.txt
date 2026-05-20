@@ -1,0 +1,4 @@
+trailer
+trailer/fire_harpoon_gun
+transition
+transition/disappear

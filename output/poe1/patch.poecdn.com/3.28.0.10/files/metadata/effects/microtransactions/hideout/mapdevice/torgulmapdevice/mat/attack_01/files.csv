@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+5bbc70bae0fb45ab,explode_shimmer_r.mat,Tiny_D,1869600,39212
+58895daba14c2898,explode_flash_r.mat,Tiny_D,1847896,21704
+1c4d65b6814e1696,explode_flash_u.mat,Tiny_D,307123322,1342
+0640d4b35e33ba40,explode_core_u.mat,Tiny_D,393514124,2148
+fe8e0189eea75062,explode_core_r1.mat,Tiny_D,1743102,55446
+19e7826509784508,explode_core_r2.mat,Tiny_D,1798548,49348
+b774a882c5bbbdf5,explode_blur_r.mat,Tiny_D,1732950,10152
+67db41a062b37020,explode_blur_u.mat,Tiny_11,63879857,346

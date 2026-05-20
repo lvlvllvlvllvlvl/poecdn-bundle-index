@@ -1,0 +1,6 @@
+attachments
+attachments/l_sleeve
+attachments/r_sleeve
+attachments/skirt
+attachments/sword
+textures

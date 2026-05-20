@@ -1,0 +1,5 @@
+bandana
+beard
+fullrobe
+openrobe
+textures

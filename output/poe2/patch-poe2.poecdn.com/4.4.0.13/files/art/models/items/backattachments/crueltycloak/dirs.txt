@@ -1,0 +1,5 @@
+attachments
+attachments/chain
+attachments/cloth
+attachments/skeleton
+textures

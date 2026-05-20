@@ -1,0 +1,16 @@
+monk_bell
+monk_bell/mb
+monk_bell/mb/breachchest
+monk_bell/mb/hand
+monk_bell/mb/slave
+monk_flickerstrike
+monk_flickerstrike/mb
+monk_killingpalm
+monk_killingpalm/mb
+monk_killingpalm/tex
+monk_vaultingimpact
+monk_vaultingimpact/tex
+monk_whirlingassault
+monk_whirlingassault/mb
+monk_windblast
+monk_windblast/mb

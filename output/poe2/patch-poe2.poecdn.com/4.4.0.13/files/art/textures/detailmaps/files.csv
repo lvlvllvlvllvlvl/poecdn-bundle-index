@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+77ad2efa8c429fe1,flakes_dxt5.dds,Streaming/Content/art/models/misc/banner/demoniceyebanner.fmt,0,349700
+4781a5faf0a15887,flakes_dxt5.dds.header,Tiny.V6,39277386,1520
+e4e93792d189161d,rock_porous_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.5605CECC1C3F6FC3.controlled_bite_apparition.ao,1573200,349700
+eb71a40983618d13,rock_porous_normal_dxt5.dds.header,Tiny.VF,39370816,1520
+78c98dfd7f85382c,perlin_normal_bc7.dds,Streaming/Content/metadata/effects/spells/monsters_effects/7622DBF46D0B6BEA.2F04BB4DBBD20236.rig.ao,383286,22020
+31f2e9628f9edd9b,perlin_normal_bc7.dds.header,Tiny.V7,32969228,1520
+765466c49e74a0ae,grundgemask003_dxt1.dds,Streaming/Content/art/models/terrain/act3/D86BCEA44615DB28.2A6858C37AE49ABE.labyrinth_elegant_cascade_spikes_v02_01.fmt,0,174924
+5b2642c7d1d0b160,grundgemask003_dxt1.dds.header,Tiny.VA,39500978,1520
+e50e7369537c15ff,granitecliff3_normal_dxt5.dds,Streaming/Content/metadata/terrain/hideoutdecorations/maraketh/688867CB365EDF09.burialdoodads_06.ao.6D,0,349700
+f1844c38528113ac,granitecliff3_normal_dxt5.dds.header,Tiny.V7,40216038,1520
+4a5e331b6930774f,stonesurface5_normal_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/2C9B82F09CEECE4B.22EC4F5B10B92FEC.loop_midline.pet,29823,349700
+1e16cb9d23337212,stonesurface5_normal_dxt5.dds.header,Tiny.VF,40313934,1520
+6112d8128bb8a5b8,stonesurface_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/desert/C8EC2360E964E0D8.badlandsprisoner_set.ao.1,1388674,87556
+d0576d8a7f2b98bb,stonesurface_normal_dxt5.dds.header,Tiny.V6,39278906,1520

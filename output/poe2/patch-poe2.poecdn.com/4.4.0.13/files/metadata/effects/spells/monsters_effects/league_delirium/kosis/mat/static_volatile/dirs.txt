@@ -1,0 +1,4 @@
+static_explode
+static_spellcast
+static_volatile
+static_volatile_start

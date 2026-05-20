@@ -1,0 +1,13 @@
+attachments
+attachments/helmet
+attachments/shoulderpads
+attachments/shoulderpads/animation
+attachments/shoulderpads/animation/l_side
+attachments/shoulderpads/animation/r_side
+attachments/skirt
+attachments/skirt/attachments
+attachments/skirt/attachments/lantern
+attachments/skirt/attachments/statue
+attachments/skirt/attachments/thigh_plates
+textures
+textures/fx

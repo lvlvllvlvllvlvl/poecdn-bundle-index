@@ -1,0 +1,16 @@
+aquamarine
+aquamarine/on_use
+armour
+bismuth
+crit
+curse_immunity
+evasion
+forbiddentastequartzflask
+gold
+gold/on_use
+lion_roar
+mercury
+sprint
+stibnite
+stibnite/on_use
+stone

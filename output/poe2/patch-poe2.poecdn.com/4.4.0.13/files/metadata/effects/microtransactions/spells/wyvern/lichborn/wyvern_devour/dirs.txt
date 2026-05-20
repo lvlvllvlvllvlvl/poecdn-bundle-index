@@ -1,0 +1,9 @@
+attached
+epks
+fx
+mats
+mats/attack
+mats/devourblood
+mats/groundgoo
+mats/onact_flight
+mats/onact_land

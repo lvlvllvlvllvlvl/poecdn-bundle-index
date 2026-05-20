@@ -1,0 +1,7 @@
+beam
+flameblast
+flameblast_explode
+on_act_flameblast
+projectile
+shield_wall
+spectral_axe

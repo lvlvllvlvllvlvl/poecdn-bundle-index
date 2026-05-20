@@ -1,0 +1,12 @@
+chokepoint_channel
+cleave
+cleave_projectile
+graphs
+heavystrike
+on_act_heavystrike
+onact_cleaveprojectiles
+shield_clone
+shield_clone/epk
+shield_clone/graphs
+shield_shockwave
+weapon_effects

@@ -1,0 +1,9 @@
+attachments
+attachments/interface
+attachments/tentacles
+fx
+fx/mb
+fx/mb/center_root
+fx/mb/root
+fx/texture
+textures

@@ -1,0 +1,4 @@
+double_slash
+drone_charged_projectile
+frontal_blast
+on_act

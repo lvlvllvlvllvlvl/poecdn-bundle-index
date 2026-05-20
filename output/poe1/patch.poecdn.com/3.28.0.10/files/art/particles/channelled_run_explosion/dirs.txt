@@ -1,0 +1,7 @@
+02
+beam
+beam_02
+explosion
+explosion_02
+slow_epk
+teleport

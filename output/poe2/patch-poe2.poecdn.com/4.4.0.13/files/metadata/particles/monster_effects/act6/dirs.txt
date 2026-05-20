@@ -1,0 +1,13 @@
+abberath
+abberath/enraged_hoof_stomp
+brine_king
+brine_king/lightning_strike
+brine_king/lightning_strike/buildup
+brine_king/opening_animation
+brine_king/opening_animation/ground_slam
+brine_king/slam_cone
+brine_king/slam_cone_cluster
+brine_king/surf_cascade
+brine_king/surf_cascade_indicator
+brine_king/tidal_wave
+brine_king/tide_rush

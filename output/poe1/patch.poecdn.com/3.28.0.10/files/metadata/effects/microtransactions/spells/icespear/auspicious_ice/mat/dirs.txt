@@ -1,0 +1,6 @@
+chilled
+frozen
+pierce
+projectile
+projectile/frozenspear_impact
+surge

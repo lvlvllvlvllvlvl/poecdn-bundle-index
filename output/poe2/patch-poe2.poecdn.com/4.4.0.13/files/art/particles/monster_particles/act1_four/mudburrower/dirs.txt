@@ -1,0 +1,7 @@
+bite
+chasm
+mortar
+onact
+slow_slam
+spitacid
+tail_emerge_attack_01

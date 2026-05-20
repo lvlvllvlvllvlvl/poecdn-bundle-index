@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+9603848118ffb6fc,main.mat,Tiny.VE,36265458,2086
+2621a971ca04df3d,main.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/70541693D745DB37.2DAF2219AE8C0081.midup.pet,268672,43876
+1a3de420ff9afaa6,main.dds.header,Tiny.V7,36492471,840
+69c60eb7fe52e101,poison_at.mat,Tiny.VF,36694103,2724
+7adcc3d030f9c922,poison_at.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/70541693D745DB37.02CB01D2D7745545.moving_trails.trl,0,43876
+6959079feb0fe468,poison_at.dds.header,Tiny.VD,35572516,840
+bfec9a75f5bdadcd,poison_mist.mat,Tiny.VD,36781636,2238
+ccc2cdbaa1e3aa28,poison_mist.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/70541693D745DB37.02CB01D2D7745545.moving_trails.trl,43876,22020
+0dfeae7b025e7876,poison_mist.dds.header,Tiny.V3,36091199,1520
+3f540534ae02cfea,trail_multi.mat,Tiny.VE,36267544,3248
+93fa0529bc3db0d2,trail_multi.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/70541693D745DB37.02CB01D2D7745545.moving_trails.trl,65896,43876
+74b60d7c94a0f764,trail_multi.dds.header,Tiny.V5,36196042,840

@@ -1,0 +1,5 @@
+attachments
+attachments/danglers
+attachments/danglersstr
+attachments/ties
+textures

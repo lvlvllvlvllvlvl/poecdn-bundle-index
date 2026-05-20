@@ -1,0 +1,4 @@
+animations
+attachments
+attachments/anchor
+textures

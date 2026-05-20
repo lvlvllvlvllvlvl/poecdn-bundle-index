@@ -1,0 +1,8 @@
+doodads
+doodads/textures
+doodads/vaalbraziers
+doodads/vaalbraziers/animations
+textures
+textures/paint
+textures/paintmasks
+tgms

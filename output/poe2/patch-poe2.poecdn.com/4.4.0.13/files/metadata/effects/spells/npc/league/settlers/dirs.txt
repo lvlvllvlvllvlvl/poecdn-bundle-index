@@ -1,0 +1,8 @@
+eramir
+eramir/fx
+eramir/fx/body_fx
+eramir/fx/fadeout_01
+eramir/graphs
+eramir/mat
+eramir/mat/body_fx
+eramir/mat/fadeout_01

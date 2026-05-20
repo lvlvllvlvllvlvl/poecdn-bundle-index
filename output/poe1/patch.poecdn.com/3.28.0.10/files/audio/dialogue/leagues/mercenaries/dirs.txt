@@ -1,0 +1,14 @@
+duelist1
+duelist2
+marauder1
+marauder2
+neon
+ranger1
+ranger2
+scion1
+shadow1
+shadow2
+templar1
+templar2
+witch1
+witch2

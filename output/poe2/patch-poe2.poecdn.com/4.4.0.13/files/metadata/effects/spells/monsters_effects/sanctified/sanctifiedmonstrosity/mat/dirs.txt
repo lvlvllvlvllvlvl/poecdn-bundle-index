@@ -1,0 +1,10 @@
+body
+body/persistant
+body/walk
+hand
+mouth
+mouth/walk
+muzzle
+projectile_01
+projectile_01/impact
+surge

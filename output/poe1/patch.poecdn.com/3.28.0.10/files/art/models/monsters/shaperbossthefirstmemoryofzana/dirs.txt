@@ -1,0 +1,10 @@
+attachments
+attachments/sbtfmozcape
+attachments/sbtfmozcoin01
+attachments/sbtfmozcoin02
+attachments/sbtfmozcoin03
+attachments/sbtfmozcoin04
+attachments/sbtfmozcube
+attachments/sbtfmozskirt
+attachments/sbtfmozstaff
+textures

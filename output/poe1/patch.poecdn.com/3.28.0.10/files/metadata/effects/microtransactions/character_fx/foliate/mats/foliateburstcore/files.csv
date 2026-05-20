@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+511a8135581c2938,bnpnt_emit_u.mat,Tiny_D,390134182,774
+cb43250385a1100e,burst_blur_r.mat,Tiny_8,195693017,11508
+1021fe16f651ea42,burst_energy_r.mat,Tiny_8,195704525,59250
+c4ef034b10a82111,burst_pass1.mat,Tiny_8,195763775,33384
+e7d872a47ef260ff,burst_sparkles_r.mat,Tiny_9,270701804,39606
+6c4fd5ef79080907,burst_sparkles_u.mat,Tiny_9,270741410,14268

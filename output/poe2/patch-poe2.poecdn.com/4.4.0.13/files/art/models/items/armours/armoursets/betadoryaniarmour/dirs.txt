@@ -1,0 +1,13 @@
+attachments
+attachments/glovesfeathers
+attachments/glovesfeathers/l
+attachments/glovesfeathers/r
+attachments/helmetfeathers
+attachments/helmettassles
+attachments/robe
+attachments/robe/f
+attachments/robe/m
+attachments/shawl
+attachments/shawl/f
+attachments/shawl/m
+textures

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+edeca9432f4ffb44,hypnotictoadc.mat,Art/Textures/Pet/HypnoticToad,1398448,6326
+5a237beea103351d,hypnotictoad_normal_dxt5.dds,Art/Textures/Pet/HypnoticToad_3,0,1398276
+2eba3fab42736e45,hypnotictoad_normal_dxt5.dds.header,Tiny_8,43488614,1520
+0aa9b4b9ed8ed5d4,hypnotictoad_colour_specular_dxt5.dds,Art/Textures/Pet/HypnoticToad_2,0,699236
+ae9f8da6624ed23c,hypnotictoad_colour_specular_dxt5.dds.header,Tiny_8,43487774,840
+28959b049fe392a3,hypnotictoad_colour.dds,Art/Textures/Pet/HypnoticToad_1,349700,699212
+c4f739626df6025c,hypnotictoad_colour.dds.header,Tiny_8,43486254,1520
+d0cb75ca99368f8e,huntsmantoadc.mat,Art/Textures/Pet/HypnoticToad_1,1048912,5232
+cd8003b8c3de1045,huntsmantoad_sss_dxt1.dds,Art/Textures/Pet/HypnoticToad,1404774,174924
+1d98728f8387d5fa,huntsmantoad_sss_dxt1.dds.header,Tiny_8,43484734,1520
+045e6f7ba666cff4,huntsmantoad_normal_dxt5.dds,Art/Textures/Pet/HypnoticToad_1,0,349700
+26a4ace8de6a6fa3,huntsmantoad_normal_dxt5.dds.header,Tiny_8,43483214,1520
+cb209f450cc86862,huntsmantoad_colour_specular_dxt5.dds,Art/Textures/Pet/HypnoticToad,0,699236
+2987f0a5e3dfa264,huntsmantoad_colour_specular_dxt5.dds.header,Tiny_8,43482374,840
+ffce7e88fd18296d,huntsmantoad_colour.dds,Art/Textures/Pet/HypnoticToad,699236,699212
+8f8e45b18c1c5e2c,huntsmantoad_colour.dds.header,Tiny_8,43480854,1520

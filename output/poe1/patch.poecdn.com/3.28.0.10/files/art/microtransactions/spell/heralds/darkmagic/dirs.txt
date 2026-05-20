@@ -1,0 +1,8 @@
+texture
+texture/ash
+texture/guard
+texture/ice
+texture/purity
+texture/spider
+texture/thunder
+trl

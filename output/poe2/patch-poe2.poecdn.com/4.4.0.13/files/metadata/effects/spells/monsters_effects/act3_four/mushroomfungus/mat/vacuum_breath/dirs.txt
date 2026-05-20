@@ -1,0 +1,2 @@
+grd_idle
+grd_impact

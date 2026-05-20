@@ -1,0 +1,9 @@
+cold
+cold/empowered
+connections
+epk
+epk/burst
+fire
+fire/empowered
+lightning
+lightning/empowered

@@ -1,0 +1,9 @@
+chatter
+glowhand
+lieutenantfire
+lieutenantfire/hammer_explosion
+lieutenantice
+lieutenantlightning
+lightningsurge
+skeleton_gore
+skeletonmeleelargebosssidearea

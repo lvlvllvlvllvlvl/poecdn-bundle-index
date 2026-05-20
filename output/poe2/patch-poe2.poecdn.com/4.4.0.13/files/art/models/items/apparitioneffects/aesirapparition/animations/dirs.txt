@@ -1,0 +1,3 @@
+map_device_large
+map_device_small
+rare_finisher_effect

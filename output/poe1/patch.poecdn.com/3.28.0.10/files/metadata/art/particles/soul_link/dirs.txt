@@ -1,0 +1,5 @@
+link_block
+link_crit
+link_leech
+link_soul
+link_trigger

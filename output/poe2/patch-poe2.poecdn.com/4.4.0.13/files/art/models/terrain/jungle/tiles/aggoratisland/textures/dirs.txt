@@ -1,0 +1,8 @@
+filthy
+filthy/dung
+filthy/ground
+filthy/mushrooms
+filthy/mushrooms/questmushrooms
+sacrificial
+sacrificial/fabric
+sacrificial/marigold

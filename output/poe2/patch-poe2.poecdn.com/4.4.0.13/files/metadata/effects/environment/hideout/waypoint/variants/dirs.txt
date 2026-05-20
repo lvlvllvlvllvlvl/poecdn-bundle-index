@@ -1,0 +1,2 @@
+synthesis_waypoint
+synthesis_waypoint/pet

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+7dc8fe0425ffc26e,crosssocket_01.fmt,Art/Models/Terrain/Act5/CathedralRoof,297188,31797
+869ef6a7d965c9ba,crosssocket_01.fmt.header,Tiny_3,71207155,172
+41cffa5fb3be1162,crosssocketdrop_8500610e.smd,Art/Models/Terrain/Act5/CathedralRoof,72650,224538
+fc3c5263c29da8c9,crosssocketdrop_8500610e.smd.header,Tiny_3,71207327,2900
+672b4e80cef57af9,crosssocket.sm,Tiny_3,71206675,480
+48ee4a113a09fbc5,crosssocket.amd,Tiny_3,71206487,188
+f705a1301164e1e0,crosssocket.ast,Art/Models/Terrain/Act5/CathedralRoof,0,72650
+e621e33696e10897,cathedral_footprint_v01_01_footprint_fx.amd,Tiny_7,32115374,98
+cc7c40365de0a608,cathedral_footprint_v01_01_footprint_fx.ast,Tiny_3,70536456,1863
+5cdb43e6a4aff4aa,cathedral_footprint_v01_01.tgt,Tiny_3,70534097,1830
+5f5ccf8e71724003,cathedral_footprint_v01_01.tmd,Tiny_3,70535927,529

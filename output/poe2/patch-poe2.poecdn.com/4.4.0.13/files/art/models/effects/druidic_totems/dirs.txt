@@ -1,0 +1,7 @@
+attachments
+attachments/trunks
+attachments/trunks/trunk_1
+attachments/trunks/trunk_2
+attachments/trunks/trunk_3
+attachments/trunks/trunk_4
+textures

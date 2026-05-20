@@ -1,0 +1,13 @@
+3.15npc
+act3blacksmith
+armormaster
+finn
+heist
+hoodedmentor
+justiceoracleidentifier
+karuielder
+marakethmaster
+potiontraderduo
+renly
+risumutewind
+treasurehunter

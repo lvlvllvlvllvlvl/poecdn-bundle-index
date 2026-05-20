@@ -1,0 +1,56 @@
+hash,file,bundle,offset,size
+d45743f6f43f3f23,stumps07c.mat,Tiny_7,73779866,4164
+05b95b9e85ab2c1f,stumps07_normal_dxt5.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps_2,0,349700
+86c249dfe3a0308e,stumps07_normal_dxt5.dds.header,Tiny_7,73778346,1520
+e69bcd06f102dc1e,stumps07_mask_dxt5.dds,Tiny_7,73774590,2916
+5f0dd7669f44f52e,stumps07_mask_dxt5.dds.header,Tiny_7,73777506,840
+282cdb48ea8dbc06,stumps07_colour_dxt1.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps_1,1060520,174924
+964b99b0439cf1d9,stumps07_colour_dxt1.dds.header,Tiny_7,73773070,1520
+940f5df1f8898f22,stumps04c.mat,Tiny_7,73768876,4194
+175170a2c1e1151b,stumps04_normal_dxt5.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps_1,710820,349700
+777b50eb3e1138d1,stumps04_normal_dxt5.dds.header,Tiny_7,73767356,1520
+7057d82457f8c34c,stumps04_mask_dxt5.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps_1,705184,5636
+72628d1fe45ff05f,stumps04_mask_dxt5.dds.header,Tiny_7,73765836,1520
+1e90db21a4015cbb,stumps04_colour_dxt1.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps_1,530260,174924
+6fccbaa4842bf1a2,stumps04_colour_dxt1.dds.header,Tiny_7,73764316,1520
+27810941e42fd7ac,stumps03c.mat,Tiny_7,73760122,4194
+f52a219ccb96a742,stumps03_normal_dxt5.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps_1,180560,349700
+2d8798769f1b1354,stumps03_normal_dxt5.dds.header,Tiny_7,73758602,1520
+b20752f301953f98,stumps03_mask_dxt5.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps_1,174924,5636
+2b676723e3dc3bdd,stumps03_mask_dxt5.dds.header,Tiny_7,73757082,1520
+70ed7f45c1d6a2c1,stumps03_colour_dxt1.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps_1,0,174924
+f24621c90d33b049,stumps03_colour_dxt1.dds.header,Tiny_7,73755562,1520
+f49295b9d1bd624f,stumps02c.mat,Tiny_7,73751368,4194
+9096de800eddd98e,stumps02_normal_dxt5.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps,1235296,349700
+178d6e205b1f34b9,stumps02_normal_dxt5.dds.header,Tiny_7,73749848,1520
+c489eccfbc0135a9,stumps02_mask_dxt5.dds,Art/Textures/Environment/Leagues/Ultimatum/Tree Stumps_3,174924,5636
+bc210b22bf32621c,stumps02_mask_dxt5.dds.header,Tiny_7,73748328,1520
+9d40f850a5f3a5bf,stumps02_colour_dxt1.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps,1060372,174924
+e2efce11bed4856b,stumps02_colour_dxt1.dds.header,Tiny_7,73746808,1520
+865c3b3452048b56,stumps01c.mat,Tiny_7,73741250,5558
+f3fde688cc170ede,stumps01_normal_dxt5.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps,710672,349700
+3c6aca7009d35ea7,stumps01_normal_dxt5.dds.header,Tiny_7,73739730,1520
+ca1dd189cdf78255,stumps01_mask_dxt5.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps,699400,5636
+5f71ca4a43c4a740,stumps01_mask_dxt5.dds.header,Tiny_7,73736690,1520
+625b668f901b2d3d,stumps01_mask_dxt2.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps,705036,5636
+c111febdddc195dc,stumps01_mask_dxt2.dds.header,Tiny_7,73738210,1520
+91c51a2e95710d8c,stumps01_mask_bc7.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps,699400,5636
+f126103e7e75038d,stumps01_mask_bc7.dds.header,Tiny_7,73736690,1520
+f2a46992149ab4ae,stumps01_colour_dxt1.dds,Art/Textures/Environment/Leagues/Ultimatum/Tree Stumps_3,0,174924
+6a5d41abb93e630c,stumps01_colour_dxt1.dds.header,Tiny_7,73735170,1520
+812c0d56e8864d8f,stumpatlasc.mat,Tiny_7,73733000,2170
+e5c19668980076de,stumpatlas_normal_dxt5.dds,Art/Textures/Environment/Hideout/Ritual/Tree Stumps_1,0,1398276
+5d01489d80bcbc49,stumpatlas_normal_dxt5.dds.header,Tiny_7,73731480,1520
+dcb16ed0e2c01356,stumpatlas_colour_dxt1.dds,Art/Textures/Environment/Hideout/Ritual/Tree Stumps,0,699212
+612a21da48560d27,stumpatlas_colour_dxt1.dds.header,Tiny_7,73729960,1520
+e16c4a6ef1d051ff,broadleaf_trunkc.mat,Tiny_7,73727164,2796
+051df0e52da16241,broadleaf_trunk_normal_dxt5.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps,349700,349700
+a3564079919ef958,broadleaf_trunk_normal_dxt5.dds.header,Tiny_7,73725644,1520
+e8b286949b4d7070,broadleaf_trunk_colour_dxt5.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps,0,349700
+f536748d18811a5e,broadleaf_trunk_colour_dxt5.dds.header,Tiny_7,73724124,1520
+f5aba231fc7e4543,broadleaf_trunk_colour_dxt1.dds,Folders/art/textures/environment/hideout/halloween2019,175112,174924
+9286161442879645,broadleaf_trunk_colour_dxt1.dds.header,Tiny_7,73722604,1520
+5f3005f7dd63cc58,broadleaf_trunk_colour_bc7.dds,Folders/art/textures/environment/leagues/ultimatum/tree stumps,0,349700
+7904824f4f2745a6,broadleaf_trunk_colour_bc7.dds.header,Tiny_7,73724124,1520
+8aed28ec79a35681,broadleaf_trunk_colour.dds,Folders/art/textures/environment/hideout/halloween2019,175112,174924
+fa2e93f6686973ec,broadleaf_trunk_colour.dds.header,Tiny_7,73722604,1520

@@ -1,0 +1,8 @@
+titles
+titles/french
+titles/german
+titles/portugese
+titles/russian
+titles/spanish
+titles/thai
+titles/traditional chinese

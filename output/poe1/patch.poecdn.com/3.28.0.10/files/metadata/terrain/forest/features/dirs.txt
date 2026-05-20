@@ -1,0 +1,10 @@
+altars
+banditcamp
+churchruins
+graveyard
+moundsandknolls
+ruins
+tents
+trees
+villageruins
+wallgates

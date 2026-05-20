@@ -1,0 +1,12 @@
+1hsword
+2hmace
+2hmaul
+bow
+melee
+miniboss
+shield
+shield_throw
+torch
+trapper
+trapper_miniboss
+weapon_effects

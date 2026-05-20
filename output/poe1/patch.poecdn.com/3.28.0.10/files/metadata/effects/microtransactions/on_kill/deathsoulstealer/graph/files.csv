@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+4e9bc2d5cfbf487e,custom_emissive_mult_bytimelinefloat_prelight.fxgraph,Folders/metadata/effects.4,17634178,8018
+d70c5e8774631534,custom_handspheremask_localposition.fxgraph,Folders/metadata/effects.4,17679108,35684
+3f3ea731124c4a95,custom_mask_spherical_objectspace_static.fxgraph,Folders/metadata/effects.4,17714792,278672
+eb2a01f9e21bf9d2,custom_vtx_vertexsuck.fxgraph,Folders/metadata/effects.4,17993464,43754
+89422caad46d8bc6,custom_fadebytimelinefloat_prelight.fxgraph,Folders/metadata/effects.4,17659364,19744
+848ac208abf276e9,custom_fadebytime_nooverride.fxgraph,Folders/metadata/effects.4,17642196,17168

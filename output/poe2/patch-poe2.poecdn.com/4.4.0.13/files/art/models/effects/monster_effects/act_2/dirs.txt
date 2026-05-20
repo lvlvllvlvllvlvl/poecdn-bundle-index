@@ -1,0 +1,20 @@
+atzirioversoul
+atzirioversoul/laser
+atzirioversoul/summon_shoot
+atzirioversoul/teleport
+drop_bear
+greentrail
+incaboss
+incaboss/blue_laser
+incaboss/ice_shoot
+incaboss/incaboss fallingrocks
+incaboss/summon_shoot
+incaboss/teleport
+root_spider
+root_spider/emerge
+root_spider/projectile
+snake_fire
+snake_fire_lightning
+snake_spine
+spider
+spider/spider_spike_spit

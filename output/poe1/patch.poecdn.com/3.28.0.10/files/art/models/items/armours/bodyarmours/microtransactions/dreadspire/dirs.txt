@@ -1,0 +1,5 @@
+attachments
+attachments/l_shoulder
+attachments/r_shoulder
+attachments/robe
+attachments/robe_front

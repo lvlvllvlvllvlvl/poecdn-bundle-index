@@ -1,0 +1,12 @@
+fx
+fx/purge_01
+fx/soul_escape_01
+fx/unleash_souls_01
+graphs
+mat
+mat/purge_01
+mat/soul_escape_01
+mat/soul_escape_01/appear_soul
+mat/soul_escape_01/disappear_poof
+mat/soul_large
+mat/unleash_souls_01

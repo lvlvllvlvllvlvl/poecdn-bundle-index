@@ -1,0 +1,4 @@
+mb
+mb/pustule
+tex
+tex/pustule

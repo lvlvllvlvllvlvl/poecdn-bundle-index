@@ -1,0 +1,9 @@
+ao
+epk
+graph
+mat
+mat/death_01
+mat/death_01_gold
+mat/death_grd
+mat/death_poof
+pet

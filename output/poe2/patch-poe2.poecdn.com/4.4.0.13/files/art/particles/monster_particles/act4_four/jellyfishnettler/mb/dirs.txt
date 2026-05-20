@@ -1,0 +1,4 @@
+beam
+death_explode
+mini_death_explode
+zap

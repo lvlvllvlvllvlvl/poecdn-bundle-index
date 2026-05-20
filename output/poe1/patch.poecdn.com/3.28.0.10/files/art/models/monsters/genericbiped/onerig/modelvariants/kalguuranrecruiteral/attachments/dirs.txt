@@ -1,0 +1,6 @@
+hair
+handscroll
+scrollbag
+skirt
+skirtdangle
+skirtmetal

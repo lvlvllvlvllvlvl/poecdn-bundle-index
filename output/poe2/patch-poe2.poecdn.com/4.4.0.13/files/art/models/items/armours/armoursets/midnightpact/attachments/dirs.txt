@@ -1,0 +1,9 @@
+female
+female/helmet01
+female/robe
+female/robe/attachments
+helmet02
+male
+male/helmet01
+male/robe
+male/robe/attachments

@@ -1,0 +1,9 @@
+ao
+epk
+mat
+mat/attack02
+mat/deathslam
+mat/groundslam
+mat/groundslamfire
+mat/weaponfire
+pet

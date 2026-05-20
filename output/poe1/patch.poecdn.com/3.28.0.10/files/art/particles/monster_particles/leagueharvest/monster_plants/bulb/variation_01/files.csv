@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+034efc4d324cf281,b_vtx_mask_dxt5.dds,Folders/art/particles/monster_particles/leagueharvest_42,0,5592580
+bd07cdad5249902a,b_vtx_mask_dxt5.dds.header,Tiny_7,21136657,1520
+8c92dbdfecaf0370,b_stageready.mat,Tiny_7,21124591,12066
+8ae8abff35239c9d,b_stage_01.mat,Tiny_7,21100439,11924
+51126f9a2387c1f7,b_stage_02.mat,Tiny_7,21112363,12228
+59c338221b9df7fa,b_glow_dxt5.dds,Folders/art/particles/monster_particles/leagueharvest_32,2382560,5592580
+f878cea7eca62073,b_glow_dxt5.dds.header,Tiny_7,21098919,1520
+0c9aabe2038f7dde,b_glow_bc7.dds,Folders/art/particles/monster_particles/leagueharvest_32,2382560,5592580
+4a692398477bca9c,b_glow_bc7.dds.header,Tiny_7,21098919,1520
+5a416d9cadcdd600,a_stageready.mat,Tiny_7,21088827,10092
+211b4a9586ddf07c,a_stage_01.mat,Tiny_7,21068495,10062
+d269fcf253b5ef79,a_stage_02.mat,Tiny_7,21078557,10270

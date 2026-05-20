@@ -1,0 +1,7 @@
+animations
+animations/charred
+effects
+effects/burn
+effects/burn/mb
+effects/burn/mb/light
+effects/burn/textures

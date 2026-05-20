@@ -1,0 +1,10 @@
+attachments
+attachments/glovedangle
+attachments/glovedangle/l_glove
+attachments/glovedangle/l_glove/animations
+attachments/glovedangle/r_glove
+attachments/glovedangle/r_glove/animations
+attachments/l_locks
+attachments/r_locks
+attachments/skirt
+textures

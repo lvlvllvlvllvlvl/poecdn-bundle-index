@@ -1,0 +1,5 @@
+attachments
+attachments/cloth
+attachments/cloth/female
+attachments/cloth/male
+textures

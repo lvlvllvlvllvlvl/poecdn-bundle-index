@@ -1,0 +1,12 @@
+act2
+act2/g2_12_1
+act2/g2_12_1/wind_meshes
+act2/g2_2
+act2/g2_2/pet
+act2/g2_3
+act2/g2_3/wind_meshes
+act2/g2_4_1
+act2/g2_4_1/pet
+act2/lizard_footsteps
+act2/lizard_footsteps/fx
+act2/lizard_footsteps/mat

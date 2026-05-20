@@ -1,0 +1,9 @@
+burrow_ambush
+burrow_ambush/emerge
+burrow_ambush/travelling
+rockafall
+rockafall/falling_rocks
+rockafall/ground_slam
+rockafall/instability_zone
+sweep
+sweep/nova

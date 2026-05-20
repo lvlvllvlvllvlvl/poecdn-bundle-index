@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+48c2f8b21d6004c2,flow_turbulent_01.mat,Tiny_6,111787556,2900
+ad9dfc9b47aa450d,open_flare.mat,Tiny_3,19888662,2698
+eeac6ec7cf809611,wispy_smoke.mat,Tiny_3,19899632,5456
+c57ab7893040664c,sparks.mat,Tiny_3,19896630,3002
+9ca479fc60f0a11d,spark_open.mat,Tiny_3,19891360,2244
+cec0772880765690,spark_suck.mat,Tiny_3,19893604,3026
+67a6175e81f0ef18,lightning_static_sphere.mat,Tiny_3,19883062,5600
+1adb8639f79f59eb,lightning_static_02_dxt5.dds,Folders/art/models/portals/midnightpactscavengerportal/fx,87556,1398276
+170b404373a39f8a,lightning_static_02_dxt5.dds.header,Tiny_3,19881542,1520
+2b4ff7dad683adca,ground_wisp.mat,Tiny_3,19873836,7706
+3bc8b78bbb0e6707,glow_shapeoverride.mat,Tiny_3,19871144,2692
+4c99539da187b5ee,glow_fog.mat,Tiny_3,19865228,2880
+597e236a11ad4cdd,glow_fog_emissive.mat,Tiny_3,19868108,3036
+f44deb8d6c759365,core_fogbg.mat,Tiny_3,19856494,3068
+9a65647956e699e4,core_fusion.mat,Tiny_3,19859562,5666

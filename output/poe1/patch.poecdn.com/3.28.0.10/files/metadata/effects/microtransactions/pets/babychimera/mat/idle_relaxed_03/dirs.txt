@@ -1,0 +1,5 @@
+firebreath
+icebreath
+kickup
+lightningbreath
+poisonspit

@@ -1,0 +1,4 @@
+azurite_energy
+azurite_energy/fx
+crystal_shards
+crystal_shards/fx

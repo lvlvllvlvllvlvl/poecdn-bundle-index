@@ -1,0 +1,15 @@
+epk
+epk/electrocute
+epk/projectile_01
+epk/projectile_stuck_01
+fx
+fx/aoe
+fx/electrocute
+fx/impact_01
+fx/projectile_01
+fx/projectile_stuck_01
+mat
+mat/aoe
+mat/electrocute
+mat/projectile_01
+mat/projectile_stuck_01

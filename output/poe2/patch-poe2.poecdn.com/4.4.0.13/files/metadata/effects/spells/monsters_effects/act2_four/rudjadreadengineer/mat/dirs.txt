@@ -1,0 +1,7 @@
+burninng_grdzone
+death
+explosive
+eye
+flashbang
+poison_gas
+tar

@@ -1,0 +1,8 @@
+aura
+death
+lightbeam
+monster_spawn
+nova
+portal
+unholy_nova
+wrapping_glyphs

@@ -1,0 +1,6 @@
+on_act_fire
+on_act_poison
+projectile_fire
+projectile_impact_fire
+projectile_impact_poison
+projectile_poison

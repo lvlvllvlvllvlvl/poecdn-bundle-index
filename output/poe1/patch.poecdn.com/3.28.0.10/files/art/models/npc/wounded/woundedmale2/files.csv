@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+124bef4e45b330e7,tolman.sm,Tiny_3,12259318,402
+b26fce95777cedee,woundedmale2a.sm,Tiny_3,12259720,406
+c43ef53b9f1902e2,woundedmale2b.sm,Tiny_3,12260126,424
+f0b3997360de6747,woundedmale2dead.sm,Tiny_3,12260550,430
+d0e23ec5eb3ee78e,rig_e7510064.smd,Art/Models/NPC/wounded/WoundedMale2,97148,44514
+a6781b36904f9583,rig_e7510064.smd.header,Tiny_3,12258950,368
+713106485056888d,rig_76c6d667.smd,Art/Models/NPC/wounded/WoundedMale2,52634,44514
+5f59a22c6931ff2c,rig_76c6d667.smd.header,Tiny_3,12258582,368
+452a532526cb72c3,rig_54cd1319.smd,Art/Models/NPC/wounded/WoundedMale2,8120,44514
+a61f90ff6d629354,rig_54cd1319.smd.header,Tiny_3,12258214,368
+e0160d94625fcf7c,rig.amd,Tiny_3,12258102,112
+e951d574d103a83a,rig.ast,Art/Models/NPC/wounded/WoundedMale2,0,8120

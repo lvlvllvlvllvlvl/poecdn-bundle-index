@@ -1,0 +1,3 @@
+lightning_bomb
+lightning_bomb_explode
+meleetrails

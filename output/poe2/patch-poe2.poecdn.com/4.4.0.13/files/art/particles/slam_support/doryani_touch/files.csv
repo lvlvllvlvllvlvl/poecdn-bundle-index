@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+12afb5cc3f323479,amcestral_runec.mat,Tiny.VC,38872623,6270
+d86ac347b6f9eb15,amcestral_rune_dxt1.dds,Streaming/Content/metadata/effects/spells/slam_support/AB78D55FBCCF52E0.lightningslam.ao,349700,174924
+c31d73e2a8a7bd9b,amcestral_rune_dxt1.dds.header,Tiny.V0,38931927,1520
+50550e3b73665e70,amcestral_rune_backgroundc.mat,Tiny.VB,39150392,1668
+e2c714287caddf3a,amcestral_rune_background.dds,Streaming/Content/metadata/effects/spells/slam_support/AB78D55FBCCF52E0.lightningslam.ao,0,349700
+9a14ec0f46f4c38a,amcestral_rune_background.dds.header,Tiny.VF,38853585,1520
+6a2d8885ab46222c,ancestral_rune_centralc.mat,Tiny.V3,38216252,4242
+6058a41449eed843,ancestral_rune_central.dds,Streaming/Content/metadata/effects/spells/slam_support/AB78D55FBCCF52E0.lightningslam.ao,524624,174924
+afd0acbf6c93fd39,ancestral_rune_central.dds.header,Tiny.V7,38723173,1520
+87c841362fc3c832,ancestral_rune_central_backgroundc.mat,Tiny.VC,38878893,1716
+6c21ad8ecc31b791,ancestral_rune_central_background.dds,Streaming/Content/metadata/effects/spells/slam_support/AB78D55FBCCF52E0.lightningslam.ao,699548,1398276
+299b3c7e11a58600,ancestral_rune_central_background.dds.header,Tiny.VE,38527880,1520
+2c37b6605ff4d3a2,arc_beam.mat,Tiny.V6,38743815,6568
+b0c0e7d837c5fa0e,arc_beam_hit.mat,Tiny.VD,39040619,6416

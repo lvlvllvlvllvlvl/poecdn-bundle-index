@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+a9d9446f46383ace,prisonspiderc.mat,Art/Models/MONSTERS/HarvestSpiders/HarvestMeleeSpider/Textures,0,4280
+3fdebd8d521be087,prisonspider_normal_dxt5.dds,Art/Models/MONSTERS/HarvestSpiders/HarvestMeleeSpider/Textures,353980,349700
+b9696d44d8edd061,prisonspider_normal_dxt5.dds.header,Tiny_3,3705121,1520
+c239520463cee658,prisonspider_metal_dxt5.dds,Art/Models/MONSTERS/HarvestSpiders/HarvestMeleeSpider/Textures,4280,349700
+91568b532ae96f8d,prisonspider_metal_dxt5.dds.header,Tiny_3,3703601,1520
+2ec66a605f7de373,prisonspider_glow_dxt1.dds,Art/Models/MONSTERS/HarvestSpiders/HarvestMeleeSpider/Textures,703680,174924
+067cd03fccebebba,prisonspider_glow_dxt1.dds.header,Tiny_3,3702081,1520
+cca99b0e5fc5dc77,prisonspider_colour_dxt1.dds,Art/Models/MONSTERS/HarvestSpiders/HarvestMeleeSpider/Textures,878604,174924
+92783a22cca8a32d,prisonspider_colour_dxt1.dds.header,Tiny_3,3700561,1520

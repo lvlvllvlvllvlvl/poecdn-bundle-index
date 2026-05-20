@@ -1,0 +1,4 @@
+mb
+mb/mon_spawn_in
+textures
+textures/mon_death_out

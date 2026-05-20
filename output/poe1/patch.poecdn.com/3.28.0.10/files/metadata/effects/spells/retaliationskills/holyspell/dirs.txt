@@ -1,0 +1,8 @@
+fx
+fx/lightning_01
+fx/lightning_aoe_01
+fx/surge_01
+mat
+mat/lightning_01
+mat/lightning_aoe_01
+mat/surge_01

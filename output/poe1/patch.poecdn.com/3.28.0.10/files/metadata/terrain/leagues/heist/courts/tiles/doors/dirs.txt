@@ -1,0 +1,10 @@
+clicktoopen
+emergeonalarm
+npc_strengthdestruction
+npcbruteforce2
+npccounterthaumaturgedoor
+npcdisarmdoor
+npcexplosivedoor
+npcinfiltrationdoor
+npclockpickerdoor
+vault

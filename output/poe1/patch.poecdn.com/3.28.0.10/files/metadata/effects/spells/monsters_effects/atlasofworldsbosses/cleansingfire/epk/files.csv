@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+739305de4e57969f,spawn_in.epk,Tiny_D,42796288,498
+a70ac01e39c43863,spawn_in_epk_pass0.mat,Tiny_D,42796786,1932
+25c049a4556c01a1,snake_debuff.epk,Tiny_D,42793370,758
+0caed1c2ac4fb3a3,snake_debuff_epk_pass1.mat,Tiny_D,42794128,612
+e964b1b0feafcc97,snake_debuff_player.epk,Tiny_D,42794740,1548
+1083978ffe3f5390,snake_debuff_player_epk_pass1.mat,Tiny_D,42794128,612
+2290455415875726,rune_turn_on.epk,Tiny_D,42791820,506
+3bd14f216b47dafd,rune_turn_on_epk_pass0.mat,Tiny_D,42792326,1044
+5008a3f67e653262,rune_turn_off.epk,Tiny_D,42789198,508
+e8c16b0f05c75a8f,rune_turn_off_epk_pass0.mat,Tiny_D,42789706,2114
+d486da5522437ca4,emissive_off.epk,Tiny_D,42788692,506
+474323cfc2f6bbe0,emissive_off_epk_pass0.mat,Tiny_11,69776635,970
+6f06bc018b88e069,boss_death.epk,Tiny_D,42786266,502
+f6cd3af0d047154d,boss_death_epk_pass0.mat,Tiny_D,42786768,1924

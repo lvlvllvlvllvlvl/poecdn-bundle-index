@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+e40e9080832c5a97,seraphbattlewingscns.mat,Tiny_8,10948253,5748
+f429c1ce85da2b83,seraphbattlewings_specular_dxt5.dds,Art/Textures/Items/armour/Capes/SeraphBattleWings_6,349700,1398276
+65db5bb6dbeb2d32,seraphbattlewings_specular_dxt5.dds.header,Tiny_8,10946733,1520
+ad72985d0b254b5e,seraphbattlewings_normal_dxt5.dds,Art/Textures/Items/armour/Capes/SeraphBattleWings_4,0,1398276
+afd241bf7ea51ffb,seraphbattlewings_normal_dxt5.dds.header,Tiny_8,10958561,1520
+dd147cfb24ba81d6,seraphbattlewings_glow_dxt5.dds,Art/Textures/Items/armour/Capes/SeraphBattleWings_6,0,349700
+30a45b733af3e8a6,seraphbattlewings_glow_dxt5.dds.header,Tiny_8,10945213,1520
+166796bb1d9a4003,seraphbattlewings_colour_dxt5.dds,Art/Textures/Items/armour/Capes/SeraphBattleWings_5,0,1398276
+f8b4328bccf8d4ce,seraphbattlewings_colour_dxt5.dds.header,Tiny_8,10943693,1520
+a1359ef8c7ee7771,seraphbattlewings_colour_bc7.dds,Art/Textures/Items/armour/Capes/SeraphBattleWings_5,0,1398276
+688be95acf480242,seraphbattlewings_colour_bc7.dds.header,Tiny_8,10943693,1520
+bdf8cb2103502dec,seraphbattlewings_colour.dds,Art/Textures/Items/armour/Capes/SeraphBattleWings_8,0,699212
+90ea454b689f6171,seraphbattlewings_colour.dds.header,Tiny_8,10942173,1520

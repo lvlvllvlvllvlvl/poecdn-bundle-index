@@ -1,0 +1,8 @@
+textures
+textures/arena_wide_explosion
+textures/beam_down_phase
+textures/decelerating_projectiles
+textures/projectiles
+textures/rectangle_beam
+textures/rectangle_beam2
+textures/void_zone

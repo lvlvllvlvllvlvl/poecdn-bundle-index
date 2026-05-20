@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+2ebc4809f4778ab4,burst2_normalglossspec_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/impale_spike_explode/midline_impact.pet,3060168,349700
+5a1df0506357d62d,burst2_normalglossspec_dxt5.dds.header,Tiny.VA,38893296,1520
+ed84af1c42048159,burst2.mat,Tiny.V0,38818501,2786
+ddb77302e4a30ef0,burst2.dds,Streaming/Content/metadata/particles/monster_effects/impale_spike_explode/midline_impact.pet,2710468,349700
+5ddc1fd643c246c9,burst2.dds.header,Tiny.V2,38606680,1520
+510512295e880c8c,metal_normalglossspec_masked.dds,Streaming/Content/metadata/particles/monster_effects/impale_spike_explode/midline_impact.pet,3541276,87556
+9903d21ec65b6504,metal_normalglossspec_masked.dds.header,Tiny.V0,38823087,1520
+0e38d3a41ee00f16,metal_lut_dxt5.dds,Tiny.VC,38798374,2212
+1383dfd74b08b32c,metal_lut_dxt5.dds.header,Tiny.V0,38822807,280
+fc348643ea6644b8,metal_burst.mat,Tiny.VA,38894816,1922
+ddf799d393836010,metal_burst.dds,Streaming/Content/metadata/particles/monster_effects/impale_spike_explode/midline_impact.pet,3409868,43852
+70a42f6515b6012a,metal_burst.dds.header,Tiny.V7,38628225,1520
+e6895ab54d413c1b,metal_colour_prtcl.mat,Tiny.V1,38645981,4426
+45aef367936d2178,metal_colour_prtcl.dds,Streaming/Content/metadata/particles/monster_effects/impale_spike_explode/midline_impact.pet,3453720,87556
+f6e77bae3e7d984a,metal_colour_prtcl.dds.header,Tiny.V0,38821287,1520

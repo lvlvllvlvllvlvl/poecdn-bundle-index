@@ -1,0 +1,5 @@
+elehit_alt_arrow
+elehit_alt_arrow_micro
+elehit_alt_explosion
+elehit_alt_wand
+elehit_alt_wand_micro

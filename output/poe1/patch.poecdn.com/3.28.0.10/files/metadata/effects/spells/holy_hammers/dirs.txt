@@ -1,0 +1,8 @@
+epk
+fx
+graphs
+mat
+mat/falling_hammer
+mat/holy_slam
+mat/holy_trail
+mat/weapon_charge

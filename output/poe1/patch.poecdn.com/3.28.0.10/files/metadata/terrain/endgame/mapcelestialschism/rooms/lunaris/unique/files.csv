@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+a31531f25fed1d2d,boss_lunaris.arm,Folders/metadata/8/terrain,5612272,55156
+89f1cf33e17d1f4e,door_lunaris.arm,Folders/metadata/D/terrain,6577984,27704
+d9438e6f1b27b57a,entrance_lunaris.arm,Folders/metadata/0/terrain,6835492,22534
+48ec00ae6be4c283,shrine_lunaris_05.arm,Folders/metadata/8/terrain,5709824,11044
+ce5ca0178f1b58b4,mission_lunaris_01.arm,Folders/metadata/8/terrain,5677868,31956
+4ae4da87789ae120,mission_lunaris_02.arm,Folders/metadata/D/terrain,6605688,27534
+42b0ecc3ff3212d3,mission_lunaris_03.arm,Folders/metadata/C/terrain,7107704,12162
+a0fb1d4b78c452c7,mission_lunaris_04.arm,Folders/metadata/6/terrain,7385448,4894
+a543d330aecd74e5,fusion_1_01_lunaris.arm,Folders/metadata/8/terrain,5667428,10440
+55ff8b5e4d02e673,fusion_2_01_lunaris.arm,Folders/metadata/F/terrain,5932944,20456
+a2b22c84d25aa391,ambush_large_01.arm,Folders/metadata/2/terrain,6665834,50600
+5a4e751d2089a730,ambush_med_01.arm,Folders/metadata/6/terrain,7337498,47950
+eb558523c368e6ae,ambush_small_01.arm,Folders/metadata/4/terrain,6019296,44864

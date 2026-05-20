@@ -1,0 +1,5 @@
+aos
+fx
+mats
+mats/hit
+mats/trail

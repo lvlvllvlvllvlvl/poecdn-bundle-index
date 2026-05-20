@@ -1,0 +1,5 @@
+attack
+fireball
+flamethrower
+flamethrower_active
+handglow

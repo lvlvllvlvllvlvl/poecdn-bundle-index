@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+ff5bee7562c2af23,steam_hydrantcns.mat,Tiny_7,40926324,2182
+d86b2a39b6225fa2,steam_hydrant_colour.dds,Art/Textures/Environment/Act3.C4_1,0,174924
+a0e83f5070caebbc,steam_hydrant_colour.dds.header,Tiny_7,51426154,1520
+09f329747c54eb36,steam_hydrantns.dds,Art/particles/trap_02/mechanism,0,349700
+c800a774ec1480d3,steam_hydrantns.dds.header,Tiny_7,51441632,1520
+5c7b12aa1ce3f312,crane_partscns.mat,Tiny_7,40859418,2154
+d2d180efcfc28014,crane_parts_colour.dds,Folders/art/particles/trap_02/mechanism,349848,174924
+2f3da5efb0cce5ed,crane_parts_colour.dds.header,Tiny_7,40857898,1520
+84a9545aea3d6d7b,crane_partsns.dds,Art/particles/trap_02/mechanism,699400,349700
+2964686939f64b9f,crane_partsns.dds.header,Tiny_7,40861572,1520
+0b5dda860bcb04f9,clone_machine_podcns.mat,Tiny_7,40842510,2238
+c495f737baf00f7d,clone_machine_pod_colour.dds,Folders/art/particles/trap_02/mechanism,524772,174924
+3b1ad2e09fa40228,clone_machine_pod_colour.dds.header,Tiny_7,40840990,1520
+cf08f3232b6eb5a1,clone_machine_podns.dds,Art/particles/trap_02/mechanism,349700,349700
+50d9ede5c7eb8a5a,clone_machine_podns.dds.header,Tiny_7,40844748,1520

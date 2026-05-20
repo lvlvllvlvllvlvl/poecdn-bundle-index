@@ -1,0 +1,5 @@
+hit_fire
+hit_lightning
+hit_phys
+ignite
+shock

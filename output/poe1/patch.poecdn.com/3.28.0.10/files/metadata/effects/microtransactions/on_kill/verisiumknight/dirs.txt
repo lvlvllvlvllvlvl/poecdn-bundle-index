@@ -1,0 +1,8 @@
+epk
+fx
+graph
+mat
+mat/fade
+mat/impact
+mat/swordextension
+mat/trail

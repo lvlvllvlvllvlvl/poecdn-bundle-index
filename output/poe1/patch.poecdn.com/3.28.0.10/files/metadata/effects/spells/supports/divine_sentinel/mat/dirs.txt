@@ -1,0 +1,7 @@
+chaos_resistance_aura
+curse_protection_aura
+fire_damage_aura
+holy_aura_core
+life_regeneration_aura
+lightning_damage_aura
+mana_regeneration_aura

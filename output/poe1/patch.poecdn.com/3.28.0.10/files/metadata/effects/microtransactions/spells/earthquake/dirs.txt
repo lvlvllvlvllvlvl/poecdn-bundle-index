@@ -1,0 +1,6 @@
+crystal
+crystal/fist
+crystal/pets
+crystal_red
+crystal_red/fist
+crystal_red/pets

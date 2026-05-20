@@ -1,0 +1,6 @@
+female_skirt_a
+female_skirt_b
+female_skirt_c
+male_skirt_a
+male_skirt_b
+male_skirt_c

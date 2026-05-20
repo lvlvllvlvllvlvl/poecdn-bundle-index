@@ -1,0 +1,3 @@
+explode
+ice_explode
+lightning_strike

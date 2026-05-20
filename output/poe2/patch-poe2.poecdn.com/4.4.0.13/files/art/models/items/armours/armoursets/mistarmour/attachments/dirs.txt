@@ -1,0 +1,8 @@
+ringgloves
+ringhelmet
+skirtdex
+skirtdexint
+skirtint
+skirtstr
+skirtstrdex
+skirtstrint

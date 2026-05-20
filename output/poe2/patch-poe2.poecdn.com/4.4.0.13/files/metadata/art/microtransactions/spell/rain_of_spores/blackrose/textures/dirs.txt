@@ -1,0 +1,2 @@
+shooting_up
+shooting_up/fx

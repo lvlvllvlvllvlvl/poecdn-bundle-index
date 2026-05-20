@@ -1,0 +1,6 @@
+bells
+campsite
+campsite/attachments
+potsandbags
+saddle
+well

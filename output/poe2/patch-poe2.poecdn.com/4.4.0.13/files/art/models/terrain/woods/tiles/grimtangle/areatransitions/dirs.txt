@@ -1,0 +1,7 @@
+activation
+hoodedmentorrope
+root1_rune_glow
+root2_rune_glow
+root3_rune_glow
+tgms
+tree_anim

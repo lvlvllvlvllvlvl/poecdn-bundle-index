@@ -1,0 +1,13 @@
+aos
+epks
+fx
+mats
+mats/appear
+mats/hop_armbuff
+mats/hop_despawn
+mats/hop_idle
+mats/hop_slam
+mats/hop_slam_02
+mats/hop_spawn
+mats/hop_surge
+mats/trl

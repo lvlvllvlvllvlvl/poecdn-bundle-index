@@ -1,0 +1,14 @@
+buff_wave
+buff_wave_ruin
+clone_appear
+clone_appear_ruin
+clone_disappear
+clone_disappear_ruin
+clone_idle
+clone_idle_ruin
+clone_strike
+clone_strike_ruin
+on_act
+on_act/attack_01
+on_act/cleave_projectile_01
+on_act/heavystrike_01

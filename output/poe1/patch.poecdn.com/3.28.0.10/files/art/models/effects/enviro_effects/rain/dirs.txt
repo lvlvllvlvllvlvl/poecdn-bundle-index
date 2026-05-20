@@ -1,0 +1,3 @@
+lightweight
+lightweight/rain
+lightweight/splash

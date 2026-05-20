@@ -1,0 +1,11 @@
+attachments
+attachments/tasaliokaruispearthrower
+attachments/tasaliokaruispearthrower/chest
+attachments/tasaliokaruispearthrower/hair
+attachments/tasaliokaruispearthrower/necklace
+attachments/tasaliokaruispearthrower/skirt
+attachments/tasaliokaruiwhipmace
+attachments/tasaliokaruiwhipmace/hair
+attachments/tasaliokaruiwhipmace/skirt
+attachments/tasaliokaruiwhipmace/top
+attachments/tasaliokaruiwhipmace/weapon

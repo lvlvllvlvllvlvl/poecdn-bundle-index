@@ -1,0 +1,10 @@
+afflictionsword
+afflictionsword/textures
+demigodssword
+demigodssword/textures
+divinarius
+divinarius/textures
+flaviasword
+flaviasword/textures
+skeletonsword
+skeletonsword/textures

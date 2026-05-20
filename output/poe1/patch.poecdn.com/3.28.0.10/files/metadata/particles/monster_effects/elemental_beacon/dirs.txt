@@ -1,0 +1,10 @@
+fire
+fire/explode
+ice
+ice/explode
+lightning
+lightning/explode
+lightning_v02
+lightning_v02/explode
+phys
+phys/explode

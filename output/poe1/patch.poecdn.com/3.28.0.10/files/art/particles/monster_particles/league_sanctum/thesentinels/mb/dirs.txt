@@ -1,0 +1,10 @@
+blood_pool
+boss_light
+cascade_ground_slam
+cascade_ground_slam_init
+ground_slam_02
+impale_marker
+soulrend
+volatile_dead
+volatile_dead/blood_orb
+volatile_dead/volatiledead_aoe

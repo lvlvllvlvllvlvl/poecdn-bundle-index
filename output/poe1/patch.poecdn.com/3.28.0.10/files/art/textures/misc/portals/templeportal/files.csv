@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+2c49288e342233c1,templeportalc.mat,Tiny_8,25613128,6348
+21d9fdd0af6b5ca0,templeportal_normal_dxt5.dds,Art/Textures/Misc/portals/TemplePortal_4,0,1398276
+f76e254cef8908e0,templeportal_normal_dxt5.dds.header,Tiny_8,25611608,1520
+6d0f8ee74773ae17,templeportal_glow_dxt5.dds,Art/Textures/Misc/portals/TemplePortal_3,0,1398276
+593912fea0fcd773,templeportal_glow_dxt5.dds.header,Tiny_8,25610088,1520
+933c99b7f465500f,templeportal_colour_dxt5.dds,Art/Textures/Misc/portals/TemplePortal_2,0,1398276
+e643bf8911032ede,templeportal_colour_dxt5.dds.header,Tiny_8,25608568,1520
+2ecb57b0c01a0bde,templeportal_colour_bc7.dds,Art/Textures/Misc/portals/TemplePortal_2,0,1398276
+bd7e5cdcfcccbedf,templeportal_colour_bc7.dds.header,Tiny_8,25608568,1520
+25ec83ccb1423936,templeportal_colour.dds,Art/Textures/Misc/portals/TemplePortal_1,0,699212
+761507de2caba365,templeportal_colour.dds.header,Tiny_8,25607048,1520

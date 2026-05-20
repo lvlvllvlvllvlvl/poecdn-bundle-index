@@ -1,0 +1,4 @@
+mace_slam
+quarterstaff_spin
+spear_dash
+talisman_slash

@@ -1,0 +1,5 @@
+body_epk
+fire_slash
+flameblast
+flameblast_explode
+tornado

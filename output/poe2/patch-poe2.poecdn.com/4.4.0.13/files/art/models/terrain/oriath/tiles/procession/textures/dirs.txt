@@ -1,0 +1,7 @@
+architecture
+doors
+emblems
+ground
+mosaics
+murals
+prayerplatforms

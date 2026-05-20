@@ -1,0 +1,7 @@
+onact
+onact/attack_spear
+onact/attack_spear/attack_spear_01
+onact/attack_spear/attack_spear_03
+onact/combo_spear_01
+onact/combo_spear_01/fwd_stab
+onact/energy_spear_throw

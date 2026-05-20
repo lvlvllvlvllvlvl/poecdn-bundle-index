@@ -1,0 +1,6 @@
+cold
+fire
+lightning
+pull
+summon
+tornado_core

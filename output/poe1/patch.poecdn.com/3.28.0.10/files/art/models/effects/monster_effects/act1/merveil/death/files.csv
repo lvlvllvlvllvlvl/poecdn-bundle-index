@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+2705ddc5d9047323,passive_death_b39787d9.smd,Art/Models/Effects/monster_effects/act1/merveil,1406680,20563
+0c63f3ee348a1580,passive_death_b39787d9.smd.header,Tiny_2,330204,368
+11322c6a57fbf46f,merv_passiveconnection.amd,Tiny_2,1653319,94
+f432c57d621ae852,merv_passiveconnection.ast,Tiny_1,89429250,318
+dd8f308a2df08596,merv_explodeconnection.amd,Tiny_1,89428835,94
+b7dc3ee23c25a6ef,merv_explodeconnection.ast,Tiny_1,89428929,321
+e734d80a5061ddf4,mervpassive_death.sm,Tiny_1,89433183,728
+81594c744c9c9636,mervpassive_death.amd,Tiny_2,330572,102
+9024c01ce2c73eeb,mervpassive_death.ast,Tiny_2,330674,1806
+9749972e2a297a28,mervexplode_death.sm,Tiny_1,89432111,1072
+9d23014a2d1f689e,mervexplode_death.amd,Tiny_7,15026160,102
+cf0f4fafa7083023,mervexplode_death.ast,Tiny_1,89429568,2543
+9ad90c9b7d0341f4,explode_death_2287dbcc.smd,Art/Models/Effects/monster_effects/act1/merveil,1368411,38269
+b289c7fceaf15e31,explode_death_2287dbcc.smd.header,Tiny_1,89428467,368

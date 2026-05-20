@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+b10cd7c555961d64,broadcastcondition.fxgraph,Folders/metadata/effects_4,12628840,24174
+6c6b968eef885890,chainconstraint.fxgraph,Folders/metadata/effects_4,12653014,221108
+beb4e276b8f78cf3,flagconstraint.fxgraph,Folders/metadata/effects_4,12874122,240160
+7543d53aa8de70c8,rigidbody.fxgraph,Folders/metadata/effects_4,13347270,124062
+6bc10cd2cf78ca8d,syncedspawn.fxgraph,Folders/metadata/effects_4,13471332,14460
+a1e04ff7c500b722,syncedspawnposition.fxgraph,Folders/metadata/effects_4,13485792,33304
+7bff89f020b3ce11,leadonlyvelocity.fxgraph,Folders/metadata/effects_4,13114282,10634
+e4ee7a7453aa034e,lockgroupshape.fxgraph,Folders/metadata/effects_4,13124916,64402
+49f37d242185132f,lockleadposition.fxgraph,Folders/metadata/effects_4,13189318,86678
+c0a1e952a8ffe992,lockleadrotation.fxgraph,Folders/metadata/effects_4,13275996,71274

@@ -1,0 +1,7 @@
+eagon
+eagon/extract_memory_01
+fadein_01
+fadeout_01
+idle_01
+memory_extraction_01
+monster_death_collapse

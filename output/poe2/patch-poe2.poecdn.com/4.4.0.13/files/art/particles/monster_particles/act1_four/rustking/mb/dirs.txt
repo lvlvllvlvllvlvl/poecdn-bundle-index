@@ -1,0 +1,7 @@
+combo_cleave
+death_fmt
+emerge_bits
+emerge_fxrig
+pillar_fx
+spike_proj
+spike_proj/animations

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+21bac1a2bf0820d2,abyssapparitionportalc.mat,Tiny_3,18216453,6784
+ba08a9e631ad9cf5,abyssapparitionportal_proxyc.mat,Tiny_3,18213537,2916
+dce18a9cd8f3cac4,abyssapparitionportal_normal_dxt5.dds,Art/Models/Portals/AbyssApparitionPortal/Textures_3,0,1398276
+8423532aa12a448c,abyssapparitionportal_normal_dxt5.dds.header,Tiny_3,18212017,1520
+b5b0ea44d9d7ee2b,abyssapparitionportal_metal_dxt5.dds,Art/Models/Portals/AbyssApparitionPortal/Textures_2,1398276,1398276
+a60d87d8d077b31e,abyssapparitionportal_metal_dxt5.dds.header,Tiny_3,18210497,1520
+e26219141cdef381,abyssapparitionportal_glow_dxt5.dds,Art/Models/Portals/AbyssApparitionPortal/Textures_2,0,1398276
+d174f9c8a907ec41,abyssapparitionportal_glow_dxt5.dds.header,Tiny_3,18208977,1520
+6604e861af8923b3,abyssapparitionportal_colour_dxt5.dds,Art/Models/Portals/AbyssApparitionPortal/Textures_1,0,1398276
+bcf347120e081aa2,abyssapparitionportal_colour_dxt5.dds.header,Tiny_3,18207457,1520

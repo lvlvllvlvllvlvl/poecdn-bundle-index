@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+7aa547d62b2726da,foam_sprays_r.mat,Tiny.VB.1,34785184,23092
+888765bd460b04f1,foam_sprays_u.mat,Tiny.V9.1,12388108,6318
+20d9c9b8b0554d38,pushwave_r.mat,Tiny.V9.1,12394426,25288
+3befe873df6e97da,pushwave_u.mat,Tiny.VA.1,104107374,1342
+f99fcd65b9e907a5,bolt_arcs_r.mat,Tiny.VF.1,14020178,20894
+5512c98402027eaf,bolt_arcs_u.mat,Tiny.VD,50519481,346
+18e3ad5e8f71ffc8,bolt_wave_r.mat,Tiny.VD.1,10849040,34792
+a792a81e579af48a,bolt_wave_u.mat,Tiny.VD,50519481,346
+adc3e5ec3d8e1136,bolt_core_r.mat,Tiny.VC.1,14631938,27418
+688e1521f39dda2d,bolt_core_u.mat,Tiny.VD,50519481,346
+033a7918537b0e45,bolt_sparks_r.mat,Tiny.V8.1,10625366,20146
+d059d97cf2a166cb,bolt_sparks_u.mat,Tiny.V1.1,8658102,13256
+8b1fc21b3af0ee63,bolt_shimmer_r.mat,Tiny.V6.1,12538034,8000
+1b6aa86caa2f13ba,bolt_shimmer_u.mat,Tiny.VD,50519481,346
+136b7eb73bfb9e97,bolt_decal_r.mat,Tiny.VF.1,14041072,58536
+bd99aa2d3398a4f8,bolt_decal_u.mat,Tiny.V8.1,10676122,2442

@@ -1,0 +1,5 @@
+ebony
+ebony/weapon
+ebony_new
+ebony_new/boomerang
+gold

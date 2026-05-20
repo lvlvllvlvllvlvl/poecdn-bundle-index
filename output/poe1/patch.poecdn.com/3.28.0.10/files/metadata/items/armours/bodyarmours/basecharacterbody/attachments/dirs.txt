@@ -1,0 +1,15 @@
+outfits
+outfits/duelist
+outfits/marauder
+outfits/ranger
+outfits/scion
+outfits/shadow
+outfits/templar
+twist
+twist/duelist
+twist/marauder
+twist/ranger
+twist/scion
+twist/shadow
+twist/templar
+twist/witch

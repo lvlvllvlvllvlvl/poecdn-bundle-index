@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+68c04860e47e0868,paragon.mat,Tiny.VD,46169285,4394
+2e44986aec51832d,trail_master.mat,Tiny.V3,45607698,1180
+f2b523c8b5e97396,trail_master_01.mat,Tiny.V4,46810560,2320
+5fa0066e09181613,rune_02.mat,Tiny.VB,46363371,5480
+ac93134b7202e3ad,rune_03.mat,Tiny.VC,46462034,5350
+0cf8fe26bf481fbd,rune_01.mat,Tiny.VE,46063915,5678
+3e139cb8e5cf9aae,rune_01_dxt1.dds,Streaming/Content/metadata/pet/paragonpet/pet/symbol_01.pet,14969,174924
+37c0c20e8d383d4c,rune_01_dxt1.dds.header,Tiny.V0,46529374,1520
+6321941cf192a441,energy_streaks.mat,Tiny.V8,45664203,9902
+a76ea6ca1d0aab2f,eyeglow_dxt1.dds,Streaming/Content/metadata/pet/paragonpet/paragonpet.act.1,2097488,174924
+bec8f299157d0552,eyeglow_dxt1.dds.header,Tiny.V0,46527854,1520
+ab03a71cc15e45ae,sparks.mat,Tiny.V1,45929344,2882
+66aa54e21c0f3420,spark_dxt1.dds,Tiny.VF,3298449,1532
+929f6ebd65a45a51,spark_dxt1.dds.header,Tiny.V6,3269649,840

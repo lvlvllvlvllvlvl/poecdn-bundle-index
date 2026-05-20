@@ -1,0 +1,7 @@
+abyss
+aoe_pull
+base
+cold
+fadein
+fire
+lightning

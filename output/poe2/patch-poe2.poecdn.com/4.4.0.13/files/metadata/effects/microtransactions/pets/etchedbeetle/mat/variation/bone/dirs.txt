@@ -1,0 +1,9 @@
+beetling_explode
+bolt
+bolt_impact
+charge_aoe
+charge_trail
+debuff_lightning
+idle_orb
+lightning_sparks
+orb_lightning_disco
