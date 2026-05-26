@@ -1,8 +1,0 @@
-t2
-t2/rings
-t2/rings/fx
-t2/rings/mat
-t3
-t3/energysphere
-t3/energysphere/fx
-t3/energysphere/mat

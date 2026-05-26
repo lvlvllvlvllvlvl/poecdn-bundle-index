@@ -1,2 +1,0 @@
-arena_environment
-arena_environment/texture

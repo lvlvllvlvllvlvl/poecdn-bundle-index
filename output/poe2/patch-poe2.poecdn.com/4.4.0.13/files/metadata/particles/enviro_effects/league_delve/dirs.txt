@@ -1,3 +1,0 @@
-torch
-waypoint
-waypoint_02

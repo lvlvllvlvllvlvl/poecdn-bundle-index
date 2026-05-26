@@ -1,9 +1,0 @@
-backdangle
-femalelowerback
-femalerobe
-fx
-fx/texture
-l_thighguard
-malerobe
-plume
-r_thighguard

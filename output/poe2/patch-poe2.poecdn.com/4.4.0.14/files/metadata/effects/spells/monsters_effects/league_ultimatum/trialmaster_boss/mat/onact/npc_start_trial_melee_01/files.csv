@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+14a433ac3566e33f,shimmer_sphere_r.mat,Tiny.VA.1,112555714,13400
+add150e2129f472b,radial_blur_r.mat,Tiny.VD.1,110438386,9074
+b4f124ca1d739e34,weapon_mask_pass.mat,Tiny.V9.1,112149532,6546
+7355031cee889e54,bone_pnt_emit_u.mat,Tiny.VD,50518121,346
+c02eee094460d623,body_effects_pass.mat,Tiny.V5.1,112302132,32796
+71486c374be0b2ef,body_glow_pass.mat,Tiny.VD.1,110422060,16326
+4c214b92498483a0,energy_out_r.mat,Tiny.VF.1,113355758,78498
+068b6ab30c3179ff,energy_out_u.mat,Tiny.VD,50518121,346

@@ -1,0 +1,3 @@
+fireball
+fireball_hit
+fireball_trail

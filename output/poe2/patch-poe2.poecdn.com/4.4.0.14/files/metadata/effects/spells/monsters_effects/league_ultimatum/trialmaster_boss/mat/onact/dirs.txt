@@ -1,0 +1,13 @@
+bloodgush
+bloodtrail
+combo_bloodtrail
+death
+elemortar
+hand_glow
+kickup_dust
+melee_knockdown_bwd
+melee_spear_slam
+melee_trail
+npc_start_trial_melee_01
+teleport
+weapon_glow

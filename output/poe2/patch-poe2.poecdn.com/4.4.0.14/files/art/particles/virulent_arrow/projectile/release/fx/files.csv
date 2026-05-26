@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+800dff6416cc34aa,poison_lookup.dds,Tiny.VE,38438468,2212
+eebd921b5c1aa68b,poison_lookup.dds.header,Tiny.V9,39246166,280
+d80df434fe433f78,flash.mat,Tiny.V1,39114399,1192
+8dde86b6400ba7b6,flash.dds,Tiny.VB,38164719,2892
+146502065fdc761e,flash.dds.header,Tiny.V6,37682576,1520
+c43d9d739d6679ce,flash_ring_alpha.mat,Tiny.VE,38919387,2692
+63bda97e486904b5,flash_ring_alpha.dds,Streaming/Content/metadata/particles/virulent_arrow/buildup/wave_back.pet,569800,349700
+99eac64e5d201368,flash_ring_alpha.dds.header,Tiny.V5,38847614,1520
+fcf51ef28d8a18cf,impact.mat,Tiny.V6,39188114,2540
+3da5b77b759b6df2,impact.dds,Streaming/Content/metadata/particles/virulent_arrow/buildup/wave_back.pet,919500,22020
+606323ef2eae4aef,impact.dds.header,Tiny.V0,39392434,1520

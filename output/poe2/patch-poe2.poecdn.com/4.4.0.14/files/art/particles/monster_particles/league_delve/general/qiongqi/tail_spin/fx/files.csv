@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+7796159b49cb7525,black_smoke_tile.mat,Tiny.V6,36856178,2780
+0d5c827cb81745cd,black_smoke_tile.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/7F62BF4A12CB1319.06CC77122E110F64.bu_grd_circle.pet,479451,22052
+ed7488fe6642e21f,black_smoke_tile.dds.header,Tiny.VB,3935017,504
+203c021a9ad6c6ee,fire_lookup.dds,Tiny.V2,4011399,2212
+f48c9820d0ba2f05,fire_lookup.dds.header,Tiny.VE,3888491,280
+e4056174717e9d12,fire_thick.mat,Tiny.V3,36404238,3734
+29b0f15694a15459,fire_thick.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/E46749CC2AF6D08B.7D77C9F9F239AADE.lights_inwards.pet,963048,43876
+e963bba7bd553228,fire_thick.dds.header,Tiny.V5,36594564,840
+5fd362f8b47bf957,fire_bits2_at.mat,Tiny.V0,37206889,3432
+dfb52055493c8bdd,fire_bits2_at.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/7F62BF4A12CB1319.06CC77122E110F64.bu_grd_circle.pet,501503,11108
+918de0a68778325a,fire_bits2_at.dds.header,Tiny.V1,36786362,840

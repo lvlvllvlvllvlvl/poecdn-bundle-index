@@ -1,7 +1,0 @@
-attack_03
-despair
-enfeeble
-onact
-temporalchains
-vomit
-vulnerability

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+4b6aea54ee3dd50c,scatterbone1.fmt,Tiny.VC,33921936,3774
+41a028c71111878e,scatterbone1.fmt.header,Tiny.V7,33595030,208
+24a053f7991ffe47,scatterbone3.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.605AE59E3AC7E730.onact_ball_cyl.pet,0,8466
+9929601dc6643591,scatterbone3.fmt.header,Tiny.V7,33595238,208
+2183726761b34736,scatterbone2.fmt,Tiny.V5,33399711,2442
+87e5d7db7cb68467,scatterbone2.fmt.header,Tiny.V3,33323943,208
+35b02f5822070b57,fx_cyl01.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.05AC08E97D331122.whirlingblades_swirl.pet,394102,22096
+bb81c2eeabf32474,fx_cyl01.fmt.header,Tiny.VF,33858108,208
+121d3a659d6b17ba,cyl.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/B525297545B3A382.C50E70A572B440C3.green_shock.epk,349732,22098
+aeb443f93103d126,cyl.fmt.header,Tiny.V3,33323735,208
+bbb0bc3642783e57,bone2.fmt,Tiny.VF,33855692,2416
+be95e84fddba7d65,bone2.fmt.header,Tiny.VC,33921728,208
+3a1656b3f4f0b9eb,bone1.fmt,Tiny.V6,33581806,2188
+2cb709897aa2d6bc,bone1.fmt.header,Tiny.V3,33323527,208
+216bfbe419643edd,big_ball_aoe.amd,Tiny.V7,33594932,98
+cd8fb2a483d62891,big_ball_aoe.ast,Tiny.V3,33320529,2998

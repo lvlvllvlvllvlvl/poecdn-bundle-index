@@ -1,7 +1,0 @@
-bossroomcage
-bossroomdoor
-explodablewall
-textures
-textures/cliffs
-textures/copper
-tgms

@@ -1,0 +1,10 @@
+fx
+fx/big_nova
+fx/townportal
+fx/townportalopen
+mat
+mat/big_nova
+mat/townportal
+mat/townportalopen
+mat/townportalopen/bu
+mat/townportalopen/burst

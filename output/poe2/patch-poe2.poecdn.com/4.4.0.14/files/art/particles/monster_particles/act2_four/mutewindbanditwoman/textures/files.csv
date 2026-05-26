@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+10d578dd1671be46,point_release_add.mat,Tiny.V0,34143820,2078
+e3aa9fe588bdf9a7,fire_spark.mat,Tiny.VD,34034911,2014
+11e7b8ed85d1c7b1,blade_edge.mat,Tiny.V9,34289899,1866
+90126cfbf78aa8f1,base_multi.mat,Tiny.V2,33683507,1228
+b77a91ad9b71b749,cross_slash.mat,Tiny.VB,34139610,3016
+e735221e88a8cc56,chop_cut_norm.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.00F6F06CF77FB1B2.cone_mid.pet,699212,1398276
+fd1a64d31f7379d5,chop_cut_norm.dds.header,Tiny.V9,34291765,1520
+7f05641c2fb800e5,chop_cut_clr.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.00F6F06CF77FB1B2.cone_mid.pet,0,699212
+ad6b848749ba4c7b,chop_cut_clr.dds.header,Tiny.V1,33772763,1520
+b4ac35cbde705619,trail_2_3.mat,Tiny.V7,33693245,6560
+089f28f790579d49,trail_cracks_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.8DC8AD5E625B19F3.chop_face.trl,349700,349700
+53da6587c82a45de,trail_cracks_normal_dxt5.dds.header,Tiny.V3,33458579,1520
+ca099a319c42824e,trail_cracks_add_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.8DC8AD5E625B19F3.chop_face.trl,0,349700
+fb83b5667f0e09ad,trail_cracks_add_dxt5.dds.header,Tiny.V9,34293285,1520

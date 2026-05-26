@@ -1,0 +1,6 @@
+epk
+fx
+mat
+mat/melee_swipe
+mat/mortar
+mat/poison_trail

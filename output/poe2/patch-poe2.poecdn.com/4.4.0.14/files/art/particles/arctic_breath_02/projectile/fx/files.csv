@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+8f41920ba451d856,ice_lookup.dds,Tiny.V6,31562650,2212
+41dc26eddf495d78,ice_lookup.dds.header,Tiny.V2,31628391,280
+abe553b3349b32c1,blood_trail_01.mat,Tiny.VD,31802788,2362
+c62ca1ce52b2dc01,blood_trail_01.dds,Streaming/Content/metadata/particles/cyclone/cyclone_hit.pet,813584,174948
+c5fce2f767f9540a,blood_trail_01.dds.header,Tiny.V2,31630015,840
+8c7dd4499d3efbd3,blue_wisp.mat,Tiny.V9,32024361,2974
+4ce7871a886460e8,blue_wisp.dds,Streaming/Content/metadata/particles/arctic_breath_02/projectile/mist.pet,0,11084
+4ba0bb5823d28eaa,blue_wisp.dds.header,Tiny.V0,31935334,1520
+fb57432b4372f3d6,refraction_normal.dds,Streaming/Content/metadata/particles/arctic_breath_02/projectile/mist.pet,98640,349700
+e4b88fae680e456a,refraction_normal.dds.header,Tiny.V5,31266291,1520
+5c831ee48ff4fd57,refraction.mat,Tiny.VB,31878017,5328
+503c383a75b95bd8,refraction.dds,Streaming/Content/metadata/particles/arctic_breath_02/projectile/mist.pet,11084,87556
+75530bd0e032c2cf,refraction.dds.header,Tiny.V8,33481687,1520
+9daf1546407ff4f3,solar_flare_add.mat,Tiny.VC,31858911,2496
+d0f719970b336541,solar_flare_add.dds,Streaming/Content/metadata/particles/arctic_breath_02/projectile/mist.pet,448340,87556
+776c0bb5f0240806,solar_flare_add.dds.header,Tiny.V8,31521533,1520

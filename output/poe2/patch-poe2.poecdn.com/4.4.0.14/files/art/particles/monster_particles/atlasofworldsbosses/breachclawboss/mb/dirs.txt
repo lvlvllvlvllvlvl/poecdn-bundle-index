@@ -1,0 +1,11 @@
+arena_fx
+chasm_rectslam
+dashslash_meleerig
+dashslash_rectslam
+fireball_proj
+flameseed
+fmts
+giga_beam
+ground_seeds
+spawned_proj
+vortex_beam

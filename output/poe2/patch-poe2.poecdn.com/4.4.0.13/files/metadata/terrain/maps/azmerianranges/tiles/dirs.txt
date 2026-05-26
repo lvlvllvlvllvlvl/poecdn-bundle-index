@@ -1,9 +1,0 @@
-azmeri_wideriver
-azmerifillcliff
-huts
-hutscliff
-hutsledge
-hutsslope
-lowerledge
-unwalkablecliff
-unwalkableledge

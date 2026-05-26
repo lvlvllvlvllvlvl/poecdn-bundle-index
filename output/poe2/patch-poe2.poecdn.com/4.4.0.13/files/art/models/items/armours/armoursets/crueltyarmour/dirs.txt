@@ -1,9 +1,0 @@
-attachments
-attachments/armcloth
-attachments/belt
-attachments/chestcloth
-attachments/shoulderchaindangle
-attachments/shoulderpads
-attachments/skirt
-attachments/skirtplate
-textures

@@ -1,0 +1,6 @@
+big
+fortify
+gold
+ice
+life
+lightning

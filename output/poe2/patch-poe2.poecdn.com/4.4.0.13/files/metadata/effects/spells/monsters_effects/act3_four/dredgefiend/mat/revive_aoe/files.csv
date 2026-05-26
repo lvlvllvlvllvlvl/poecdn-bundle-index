@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-b7db766f14fa5fa5,shimmerwave_01_r.mat,Tiny.V7.1,68320178,21906
-c8c0bb6d19aa92f1,mblur_sphere_r.mat,Tiny.VA.1,52387948,11588
-6871cba194c48d36,ringwave_01_r.mat,Tiny.V1.1,66066332,56810
-4890f02c99198ae2,ring_shockwave_r.mat,Tiny.V2.1,69172396,33678
-c6b1b71c141e4f68,ring_shockwave_u.mat,Tiny.VD,50519481,346
-dfa973b48e462dad,pntemit_u.mat,Tiny.VD,50519481,346
-3810d5de81cc5913,pntemit_forcegrd_u.mat,Tiny.VD,50519481,346

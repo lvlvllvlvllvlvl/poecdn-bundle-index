@@ -1,4 +1,0 @@
-attachments
-attachments/delinquent_01_frontloincloth
-attachments/delinquent_02_frontloincloth
-attachments/delinquent_03_backloincloth

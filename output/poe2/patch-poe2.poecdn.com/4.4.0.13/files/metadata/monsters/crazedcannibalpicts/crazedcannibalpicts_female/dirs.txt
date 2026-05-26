@@ -1,8 +1,0 @@
-attachments
-audio
-bow
-bow/attachments
-dagger_dagger
-staff
-staff/attachments
-staff/objects

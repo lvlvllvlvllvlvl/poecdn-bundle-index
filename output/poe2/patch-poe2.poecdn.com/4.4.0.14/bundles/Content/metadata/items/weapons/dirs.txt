@@ -1,0 +1,7 @@
+onehandweapons
+onehandweapons/flails
+onehandweapons/onehandswords
+twohandweapons
+twohandweapons/bows
+twohandweapons/crossbows
+twohandweapons/staves

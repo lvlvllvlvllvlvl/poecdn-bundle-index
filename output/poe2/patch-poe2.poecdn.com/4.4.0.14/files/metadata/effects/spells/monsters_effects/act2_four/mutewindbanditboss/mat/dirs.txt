@@ -1,0 +1,4 @@
+onact
+spearproj
+spearproj/impact
+spearwall

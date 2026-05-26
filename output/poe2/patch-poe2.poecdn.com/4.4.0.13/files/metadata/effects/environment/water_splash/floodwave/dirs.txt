@@ -1,8 +1,0 @@
-mat
-mat/ankle
-mat/hip
-mat/knee
-pet
-pet/ankle
-pet/hip
-pet/knee

@@ -1,0 +1,16 @@
+cold
+condecon_fx
+condecon_fx/fx
+drone_projectiles
+drone_projectiles/fx
+fire
+fire/fx
+general_proj
+general_proj/fx
+guardian_death
+guardian_summon
+lightning
+lightning/fx
+phys
+ribbons
+ribbons/fx

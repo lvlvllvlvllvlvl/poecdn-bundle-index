@@ -1,0 +1,10 @@
+epk
+fx
+mat
+mat/bellyyuck
+mat/lightningbeam
+mat/lightningexplode
+mat/meleetrail
+mat/mortarexplode
+mat/mortartrail
+mat/onact_tentacles_lightning

@@ -1,0 +1,10 @@
+attachments
+attachments/headdress
+attachments/robe
+attachments/skincape
+attachments/skinhair
+attachments/skinheaddress
+attachments/skinskirt
+attachments/skinskirt/bones
+attachments/skinweapon
+attachments/spear

@@ -1,8 +1,0 @@
-microtransactions
-microtransactions/apollyonstash
-microtransactions/apollyonstash/fx
-microtransactions/midnightpactstash
-microtransactions/midnightpactstash/fx
-sentinelstash
-sentinelstash/textures
-sentinelstash/textures/fx

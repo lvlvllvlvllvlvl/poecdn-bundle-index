@@ -1,6 +1,0 @@
-nova
-projectile
-projectile_hit
-sml_explosion
-sml_maelstrom
-surge

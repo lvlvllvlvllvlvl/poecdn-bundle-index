@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+0fe79eeabcc704be,air_shockwave.mat,Tiny.V8,38668743,4090
+0184a4a89912d09d,flare_mult.mat,Tiny.VB,39344721,3952
+8ec3354d421ac07f,sparkling.mat,Tiny.VF,39010705,1998
+4867c014640d6503,thin_lightning_ring.mat,Tiny.VB,39348673,2146
+fb6abe4049ea54bd,thin_lightning_ring_dxt5.dds,Streaming/Content/metadata/effects/spells/storm_call_02/D1AC74E5AECBBE16.marker_idle.pet,349700,349700
+d6526fe6f87e8646,thin_lightning_ring_dxt5.dds.header,Tiny.V4,36256982,1520
+fc3d88f2a04013d9,lt_loop01_6x6.mat,Tiny.V8,38672833,2386
+13a54d23b73ca7b6,lava_dots.mat,Tiny.V6,38973324,4406
+4313e9063b65088a,rainbow.mat,Tiny.V5,38650174,1612
+e50f862200bb4dd0,rune.mat,Tiny.VE,38736323,2800
+715a11e06443244d,rune.dds,Streaming/Content/metadata/effects/spells/storm_call_02/D1AC74E5AECBBE16.marker_idle.pet,0,349700
+25926af87f742f25,rune.dds.header,Tiny.V6,38977730,1520
+d6a83b4e84f3855d,beam_flare.mat,Tiny.VE,38733139,3184
+8863a6a0e41e0ccc,blink_spiral2.mat,Tiny.VA,39130138,3598
+eeced5fd4b5c62cf,black_hole_glow.mat,Tiny.V9,39487335,2102
+c02f6a08b9ee9988,black_wisps.mat,Tiny.V3,31273966,1926

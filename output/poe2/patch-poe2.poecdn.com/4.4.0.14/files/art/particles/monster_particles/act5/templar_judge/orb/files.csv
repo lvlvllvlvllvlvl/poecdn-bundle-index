@@ -1,0 +1,37 @@
+hash,file,bundle,offset,size
+d7038e6385347ce1,pulse.mat,Tiny.V4,35246056,1942
+85a59e58d9675477,pulse.dds,Streaming/Content/metadata/particles/monster_effects/act5/9DA6ACD15846AA37.CF66970444285687.shoot.pet,22020,22020
+97078aa658f35296,pulse.dds.header,Tiny.VE,34522397,1520
+08bcc38de1c13cee,rainbow.mat,Tiny.V8,34690105,1510
+372945e0c92b1724,rainbow.dds,Streaming/Content/metadata/particles/monster_effects/act5/9DA6ACD15846AA37.CF66970444285687.shoot.pet,44040,22020
+fc361ddfb9088f4d,rainbow.dds.header,Tiny.VC,32564901,1520
+26d598bc8a148531,impact_swirl 2.mat,Tiny.V2,34755652,1682
+1ff0307139b2999e,impact_swirl 2.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.779C08AD8E9AECF0.midline.pet,481108,22020
+0751b86548e11336,impact_swirl 2.dds.header,Tiny.V7,34817674,1520
+1f682959b866fbe1,blink_spiral_bigger.mat,Tiny.VF,35051359,1920
+9f17c2d64b200ce0,blink_spiral_bigger.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.779C08AD8E9AECF0.midline.pet,43852,87556
+e14c50a967d07033,blink_spiral_bigger.dds.header,Tiny.VD,35163658,1520
+e7a55c7cb1ae52f3,core_01.mat,Tiny.V1,34807532,1890
+d6b76a05e58dab7a,core_01.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.779C08AD8E9AECF0.midline.pet,131408,349700
+1b8f0a28378ff8a7,core_01.dds.header,Tiny.V4,35244536,1520
+e2d57a8a1c4d689d,strike_01c.mat,Tiny.V5,34568955,2576
+c91aca3c139565f0,strike_01.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.lightning_bolt.ao,705368,87548
+87b72e86332f8589,strike_01.dds.header,Tiny.V0,35217613,840
+54696773f83ce0cb,light_gradient.mat,Tiny.VA,35117691,1552
+1ccb0be4577d7c50,light_gradient.dds,Streaming/Content/metadata/particles/monster_effects/act5/9DA6ACD15846AA37.CF66970444285687.shoot.pet,0,22020
+0710ed840d61e422,light_gradient.dds.header,Tiny.VF,5621176,1520
+ccaa189cca21e1e0,light_gradient 2.mat,Tiny.V8,34686557,1566
+5466dfaa0df25563,light_gradient 2.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/21F13D13CA11B813.spear_attack.trl,2273156,11084
+dc579ffc5e2fb9b3,light_gradient 2.dds.header,Tiny.V8,4181760,1520
+1d236fd2bf050947,lightningc.mat,Tiny.V0,35215057,2556
+a1b8c5538e8bd93e,lightning_bolts.mat,Tiny.VB,35378644,2278
+ab757048ecb7ba8d,lightning_bolts.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.779C08AD8E9AECF0.midline.pet,503128,349732
+1ae0d603c2beadcd,lightning_bolts.dds.header,Tiny.V5,33621186,504
+2749d463e75a765e,lightning_random_glowy.mat,Tiny.V8,34688123,1982
+c48845f87d52c39e,lightning_random_glowy.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.779C08AD8E9AECF0.midline.pet,1202592,349732
+4a2850c34e2ac4cf,lightning_random_glowy.dds.header,Tiny.V7,34819194,504
+35f72ea8e681972e,lightning_random.mat,Tiny.V3,34454985,1716
+555732e3f48473de,lightning_random.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.779C08AD8E9AECF0.midline.pet,852860,349732
+452c27fe845dd80c,lightning_random.dds.header,Tiny.V6,34858531,504
+81fb31d3fc90f5cf,lightning.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.lightning_bolt.ao,6068,699300
+ba5e588c3465f255,lightning.dds.header,Tiny.VA,35119243,344

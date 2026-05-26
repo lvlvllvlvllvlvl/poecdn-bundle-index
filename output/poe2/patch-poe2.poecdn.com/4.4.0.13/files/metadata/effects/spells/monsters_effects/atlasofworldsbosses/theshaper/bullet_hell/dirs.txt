@@ -1,3 +1,0 @@
-projectile
-release_projectile
-release_projectile_player

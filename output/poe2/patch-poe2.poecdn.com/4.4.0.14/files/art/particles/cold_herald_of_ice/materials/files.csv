@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+0521df170c5e8829,oomph_update.mat,Tiny.V4,35267773,336
+34f10d6a349fca9e,oomph_render.mat,Tiny.V8,31713906,6060
+d4c9312c88d710bd,ice_shards_update.mat,Tiny.VD,32099344,1584
+2d89f2055f095d04,ice_shards_render.mat,Tiny.V9,32304165,7074
+89aefc8d8f9d4e42,shockwave2_update.mat,Tiny.V4,35267773,336
+2ce30d0cf1fa6bc8,shockwave2_render.mat,Tiny.V0,32159421,4798
+dddb1c03afa696e7,shockwave_update.mat,Tiny.V4,35267773,336
+94e957eb67c3b41d,shockwave_render.mat,Tiny.V0,32164219,4112
+cfb13c85203c18bf,buff_embers_render.mat,Tiny.V9,32321740,7772
+11cb4f2a5112a552,buff_embers_update.mat,Tiny.VB,32115436,4320
+55b57d485ce8677b,weapon_overlay.mat,Tiny.VA,32110859,12256
+53cd3012a7c89ee0,weapon_trail.mat,Tiny.V7,31743641,6706
+681aec57c3038b76,weapon_trail_long.mat,Tiny.VB,32119756,6836

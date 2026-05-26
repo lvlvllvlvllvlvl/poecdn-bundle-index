@@ -1,6 +1,0 @@
-emerge
-emerge/sand
-submerge
-submerge/sand
-travel
-travel/sand

@@ -1,8 +1,0 @@
-armdangles
-armdangles/leftarmdangle
-armdangles/rightarmdangle
-backfeathers
-belt
-bodychains
-shoulderguards
-skirt

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+89ae0d3957459845,perandusboxc.mat,Tiny.V1,40361869,3764
+5afbc9f03ebe50d6,perandusbox_specular_dxt5.dds,Streaming/Content/metadata/chests/strongboxes/perandusbox.ao,874324,349700
+2ee2ecab8605e108,perandusbox_specular_dxt5.dds.header,Tiny.VF,40499930,1520
+8c513b02d8eaf803,perandusbox_normal_dxt5.dds,Streaming/Content/metadata/chests/strongboxes/perandusbox.ao,524624,349700
+235bf02e35e7a78e,perandusbox_normal_dxt5.dds.header,Tiny.V8,40061304,1520
+836111a8c2bf2e25,perandusbox_colour_bc7.dds,Streaming/Content/metadata/chests/strongboxes/perandusbox.ao,174924,349700
+039a2ae8df02e4dc,perandusbox_colour_bc7.dds.header,Tiny.V5,40059650,1520
+13bf522e7c8fbe48,perandusbox_colour.dds,Streaming/Content/metadata/chests/strongboxes/perandusbox.ao,0,174924
+e62dc46643992868,perandusbox_colour.dds.header,Tiny.VC,40563429,1520

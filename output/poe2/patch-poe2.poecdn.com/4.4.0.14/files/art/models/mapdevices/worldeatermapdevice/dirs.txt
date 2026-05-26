@@ -1,0 +1,6 @@
+attachments
+attachments/sacrifices
+attachments/sacrificialbowl
+fx
+fx/mb
+textures

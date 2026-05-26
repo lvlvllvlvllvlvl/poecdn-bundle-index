@@ -1,5 +1,0 @@
-fire
-fire/aoe
-fire/explode
-phys
-phys/explode

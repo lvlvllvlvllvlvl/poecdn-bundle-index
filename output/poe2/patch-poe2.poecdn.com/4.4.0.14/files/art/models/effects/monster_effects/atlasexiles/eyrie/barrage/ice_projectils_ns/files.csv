@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+f650cae456ab2980,midspike.sm,Tiny.V1,7039369,596
+b5954a383a6e2d3e,bigspike.sm,Tiny.V4,7333918,596
+9b3926bba3208a01,smlspike.sm,Tiny.V4,7335960,594
+18c1fdd7f8719b7e,rig_352e9d53.smd,Tiny.V6,7224566,3678
+062175ce61b92a9f,rig_352e9d53.smd.header,Tiny.VE,7158817,448
+473cf5482726642f,rig_1c6192d4.smd,Tiny.V4,7334514,1446
+ae5b20fa908213cf,rig_1c6192d4.smd.header,Tiny.VF,7212902,448
+34ad7ea882e1ddfc,rig_d767ecb4.smd,Streaming/Content/metadata/effects/spells/monsters_effects/C3B4665162F18349.moltenbloodimpact_chunks.ao,486267,5358
+4a7066191499efd5,rig_d767ecb4.smd.header,Tiny.VD,7052082,448
+7e62eddbf3a2eb15,rig.amd,Tiny.VD,7051932,150
+960ea1b0972e789a,rig.ast,Content/metadata/effects/spells/monsters_effects/3C7323A910A0D76C.lightpulse.ao,887794,4422

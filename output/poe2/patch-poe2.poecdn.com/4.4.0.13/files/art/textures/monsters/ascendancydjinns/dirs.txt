@@ -1,4 +1,0 @@
-coins
-fire
-sand
-water

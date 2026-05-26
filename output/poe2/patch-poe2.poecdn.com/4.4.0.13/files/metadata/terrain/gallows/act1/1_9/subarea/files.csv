@@ -1,7 +1,0 @@
-hash,file,bundle,offset,size
-691152fc99cfd607,master.tsi,Tiny.V4.1,148202535,1236
-00241774ad5996c4,random_fill_tiles.gft,Tiny.VF.1,148295172,1272
-cd84e74220496086,generate.rs,Tiny.V5.1,145726777,312
-91751f318050ecff,tiles.tst,Tiny.V9.1,143273314,2566
-05ee6c1e8d6c4bb6,tomb_graveyard_secret_1.arm,Content/data/balance/worldareas/g1_2.vworld,1608419,8124
-fc2bf5e2e2a75e60,tomb_graveyard_secret_2.arm,Content/data/balance/worldareas/g1_2.vworld,1616543,11292

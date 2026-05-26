@@ -1,3 +1,0 @@
-mat
-mat/townportal_inactive
-mat/townportal_open

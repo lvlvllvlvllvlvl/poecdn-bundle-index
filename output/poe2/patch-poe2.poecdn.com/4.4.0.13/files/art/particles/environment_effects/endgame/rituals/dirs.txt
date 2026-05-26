@@ -1,6 +1,0 @@
-blood_wave
-chaos_wave
-crimson_wolves
-crimson_wolves/blood_border
-rat_tornado
-root_wall

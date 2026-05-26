@@ -1,2 +1,0 @@
-quest_mushroom
-quest_mushroom/mat

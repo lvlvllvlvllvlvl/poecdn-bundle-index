@@ -1,0 +1,9 @@
+atzirisrule
+atzirisrule/mirror
+atzirisrule/mirror/textures
+bloodthorn_alt
+eclipsestaff
+sire_of_shards
+sire_of_shards/mb
+tarynsshiver_alt
+whispering_ice_alt

@@ -1,3 +1,0 @@
-attached
-fx
-textures

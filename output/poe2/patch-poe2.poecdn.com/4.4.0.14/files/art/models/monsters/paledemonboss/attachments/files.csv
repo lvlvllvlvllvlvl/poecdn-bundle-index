@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+7b62f4a33fafcd92,rig_af90e228.smd,Streaming/Content/metadata/monsters/leaguehellscape/demonfaction/hellscapedemonboss.act,524624,59985
+bf40558d08fb8c89,rig_af90e228.smd.header,Content/metadata/monsters/leaguehellscape/palefaction/hellscapepaleboss.ao,6721,4185
+f695576e4286d696,paledemonboss_armwings.sm,Tiny.V3,12058843,668
+3d9daa5e5f6c628e,paledemonboss_armwings.amd,Tiny.V3,12058755,88
+1dec769a25026668,paledemonboss_armwings.ast,Content/metadata/monsters/leaguehellscape/palefaction/hellscapepaleboss.ao,0,6721

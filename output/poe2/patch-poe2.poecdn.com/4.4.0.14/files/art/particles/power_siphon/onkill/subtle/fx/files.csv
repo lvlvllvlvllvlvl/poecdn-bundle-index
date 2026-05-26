@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+b5bc3a3f1970479a,soul_trail_add.mat,Tiny.V3,38075068,2336
+e4f2d2c2d3228ce5,soul_trail_add.dds,Streaming/Content/metadata/particles/generic_projectiles/genericfire.pet,1243164,5628
+aef73646013f1f63,soul_trail_add.dds.header,Tiny.VD,38888339,840
+83bbcdceacd8aaf9,trail_multi.mat,Tiny.VD,38889179,3134
+8f8999bf82633ff1,trail_multi.dds,Streaming/Content/metadata/particles/generic_projectiles/genericfire.pet,1248792,11108
+75de02939cb1b5e0,trail_multi.dds.header,Tiny.V9,39198878,840
+abbdc26e7e9c341e,wisp_es.mat,Tiny.V5,38354727,2356
+79a80bbda044a915,wisp_es.dds,Streaming/Content/metadata/particles/generic_projectiles/genericfire.pet,1326312,5628
+271b94337f295cad,wisp_es.dds.header,Tiny.VF,38694946,840
+486a91ef7423ff2d,wisp_es_spin.mat,Tiny.V4,39021412,1734
+1d78fd118ad9d7a8,wisp_es_spin.dds,Tiny.V9,39199718,2892
+76002f58b6cc9e08,wisp_es_spin.dds.header,Tiny.V2,38525105,1520
+42077339cb7167ae,dark_light.mat,Tiny.VB,39009777,1728
+04db17f57832c854,dark_light.dds,Tiny.V0,38743810,2892
+e7d97a97e2641e4a,dark_light.dds.header,Tiny.V6,38610582,1520

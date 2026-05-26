@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+7ded28233456f013,aura_update.mat,Tiny.VB,35562337,720
+32e927c74647e43f,aura_long_needle_render.mat,Tiny.VF,35248722,5054
+21abead534b625ef,aura_long_needle_update.mat,Tiny.V2,34982320,1726
+79178b0c54fda71f,aura_middle_render.mat,Tiny.V7,34954349,5964
+fd014c86bfc1517c,aura_middle_update.mat,Tiny.V3,34640777,1662
+405360bc8cbd000c,aura_render.mat,Tiny.VD,35325276,4594
+6f03502e1631d64e,aura_ring_render.mat,Tiny.V7,34960313,6284
+d6a92720049c7b48,aura_ring_update.mat,Tiny.VE,34701645,1128

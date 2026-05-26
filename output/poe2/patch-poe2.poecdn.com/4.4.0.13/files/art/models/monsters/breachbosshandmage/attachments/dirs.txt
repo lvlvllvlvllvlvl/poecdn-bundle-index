@@ -1,5 +1,0 @@
-crown
-l_shoulder_cloth
-r_elbow_cloth
-r_shoulder_cloth
-robe

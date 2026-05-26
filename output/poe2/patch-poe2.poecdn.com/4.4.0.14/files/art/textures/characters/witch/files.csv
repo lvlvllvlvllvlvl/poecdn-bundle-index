@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+a0ceacebbc106c52,witch_sss_dxt1.dds,Streaming/Content/metadata/characters/int/intmirage.ao,1111613,174924
+08558a1e549ee1f0,witch_sss_dxt1.dds.header,Tiny.V3,38671206,1520
+8c6f2b9441ea85e1,witch_normal_dxt5.dds,Streaming/Content/metadata/characters/int/intmirage.ao,761913,349700
+c2208a6ca1b7c9cf,witch_normal_dxt5.dds.header,Tiny.V5,38936456,1520
+512ffa2eeabb5249,witch_colour_dxt1.dds,Streaming/Content/metadata/characters/int/intmirage.ao,586989,174924
+1d20fccb2e537464,witch_colour_dxt1.dds.header,Tiny.V1,39232567,1520
+25720da419ab63c0,normalnspeculars.dds,Streaming/Content/metadata/characters/int/intmirage.ao,237289,349700
+b86d20222f7924f1,normalnspeculars.dds.header,Tiny.V1,39231047,1520
+aca6061bd343b83e,colourcnormalnspeculars.mat,Tiny.V1,39226539,4508
+e7a4838ed20bead9,colour_mastercnormalnspeculars.mat,Tiny.VE,39027401,2092
+cd6b1297e557719e,colour_master.dds,Streaming/Content/metadata/terrain/doodads/leagues/EF6F9436A4A9708F.oldcatarina.ao,217057,349700
+6cf2e4cb1afc98aa,colour_master.dds.header,Tiny.V3,38669686,1520
+2698539bcfdb1ff1,colour.dds,Streaming/Content/metadata/characters/int/intmirage.ao,62365,174924
+8126cdad83410a25,colour.dds.header,Tiny.V8,39003050,1520

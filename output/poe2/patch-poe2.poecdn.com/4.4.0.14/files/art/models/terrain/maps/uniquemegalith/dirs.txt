@@ -1,0 +1,15 @@
+doodads
+textures
+textures/architecture
+textures/centerrune
+textures/foliage
+textures/ground
+textures/holedmegalith
+textures/monolith
+textures/moss
+textures/rocks
+textures/rubble
+textures/runestones
+textures/stonewall
+textures/trees
+textures/trees/rooffade

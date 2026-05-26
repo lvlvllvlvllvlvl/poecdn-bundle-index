@@ -1,0 +1,9 @@
+cast
+discharge
+sheild
+sheild/vaal
+small
+small/sheild
+small/spinner
+spinner
+surge

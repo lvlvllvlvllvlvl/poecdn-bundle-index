@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+32af8483ec2b0b0b,single_1e7d6954.smd,Streaming/Content/metadata/effects/spells/counter_gem/DBF44EB2BDEC124F.axecounter.ao,99749,49943
+a640a905639af3f3,single_1e7d6954.smd.header,Tiny.V8,6802821,368
+2dacdbb0838f5ac8,rig_43e3da3a.smd,Streaming/Content/metadata/effects/spells/counter_gem/DBF44EB2BDEC124F.axecounter.ao,0,99749
+fef3adcce035e7f1,rig_43e3da3a.smd.header,Tiny.V5,6888376,491
+e0f2fe58872cc9bd,axecountersingle.sm,Tiny.VD,6759443,602
+f5213df0677b5385,axecountersingle.amd,Tiny.VE,6921213,202
+f80221db816ac6a9,axecountersingle.ast,Tiny.VC,6898788,1003
+0df0139a876d9977,axecounter.sm,Tiny.V7,6870478,596
+a6e679bf0228be36,axecounter.amd,Tiny.VE,6921213,202
+5dd0390e10ef496b,axecounter.ast,Tiny.V1,6790301,954

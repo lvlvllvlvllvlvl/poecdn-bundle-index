@@ -1,0 +1,2 @@
+blackguard
+ranged_blackguard

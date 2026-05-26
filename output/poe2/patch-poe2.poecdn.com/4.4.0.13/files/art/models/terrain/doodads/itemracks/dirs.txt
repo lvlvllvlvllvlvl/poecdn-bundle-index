@@ -1,4 +1,0 @@
-artisan
-blacksmith
-fancy
-karui

@@ -1,5 +1,0 @@
-attack_01
-attack_02
-attack_03
-nova
-slam

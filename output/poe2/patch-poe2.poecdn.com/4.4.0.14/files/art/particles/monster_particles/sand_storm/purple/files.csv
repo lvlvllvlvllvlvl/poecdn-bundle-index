@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e1a10c843327b223,base_01.mat,Tiny.V9,38961328,2066
+49bbae8bf30682d2,base_01.dds,Streaming/Content/metadata/particles/monster_effects/sandstorm/707DAEF30E67A3CD.cyl.pet,437616,349700
+63b60bd617183391,base_01.dds.header,Tiny.VF,38473418,1520
+ac9e7d16a637066a,rock.mat,Tiny.VE,38187003,1042
+d94338c14109bc1a,rock.dds,Streaming/Content/metadata/particles/monster_effects/sandstorm/707DAEF30E67A3CD.cyl.pet,0,22020
+37065cdc18a4c6ad,rock.dds.header,Tiny.V0,38494228,1520
+9d005343df50fdea,smoke.mat,Tiny.V4,38757348,2736
+a2dce9e7609ad683,smoke.dds,Streaming/Content/metadata/particles/monster_effects/talisman/21CA48B5300A7C2B.C0C17DCBE9A5D4FA.on_basecyl.pet,0,43876
+97464bd8be221e23,smoke.dds.header,Tiny.VD,38662063,840

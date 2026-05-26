@@ -1,5 +1,0 @@
-borderopen
-fills
-lakeside
-lakeside_2x2
-unique

@@ -1,7 +1,0 @@
-epk
-fx
-graph
-mat
-mat/cloneburst
-mat/donut_blast
-mat/skindistortion

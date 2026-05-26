@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+482d2db9ab33593b,trail_main.mat,Tiny.VB,4794890,2386
+e154a01093675fda,trail_main.dds,Streaming/Content/metadata/effects/microtransactions/spells/E21ACFC359FBA9FA.6C63734004DADE31.blade_trail.trl,22020,43876
+0ac6d4ff45ef7f21,trail_main.dds.header,Tiny.V2,5047445,840
+6361b9633f986d10,trail_bloom.mat,Tiny.V2,5043747,3698
+59f0cfcd8add217e,trail_bloom.dds,Streaming/Content/metadata/effects/microtransactions/spells/E21ACFC359FBA9FA.6C63734004DADE31.blade_trail.trl,0,22020
+bd0851396abdf058,trail_bloom.dds.header,Tiny.V8,4701069,1520
+ea6a26e36bd6e4a3,trail_projectile_sub.mat,Tiny.V4,4907503,3720
+ce80ac9d71e3b51e,trail_projectile_sub.dds,Streaming/Content/metadata/effects/microtransactions/spells/E21ACFC359FBA9FA.6C63734004DADE31.blade_trail.trl,65896,11084
+c31b7c8e54c39c74,trail_projectile_sub.dds.header,Tiny.V0,4880972,1520

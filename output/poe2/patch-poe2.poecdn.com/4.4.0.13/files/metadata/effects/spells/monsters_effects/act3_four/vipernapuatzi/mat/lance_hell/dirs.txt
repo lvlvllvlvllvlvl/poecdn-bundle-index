@@ -1,6 +1,0 @@
-beam
-onact
-soldier
-soldier/buff
-soldier/surge
-thrust

@@ -1,0 +1,6 @@
+decellightningball
+decellightningballexplode
+lightningattack
+lightninghit
+meleetrail
+onact_lightning_ball

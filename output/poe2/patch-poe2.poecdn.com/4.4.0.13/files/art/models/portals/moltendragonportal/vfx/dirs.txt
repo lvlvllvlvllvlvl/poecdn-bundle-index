@@ -1,7 +1,0 @@
-mb
-mb/breath_rigs
-mb/breath_rigs/forward
-mb/lava_pool
-mb/rock_crumble
-textures
-textures/lava_pool

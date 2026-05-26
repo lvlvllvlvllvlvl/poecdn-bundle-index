@@ -1,0 +1,6 @@
+cape
+chestplatedangle
+helmetcloth
+robe
+robe/female
+robe/male

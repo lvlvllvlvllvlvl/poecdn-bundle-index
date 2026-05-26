@@ -1,5 +1,0 @@
-impact
-meteor
-meteor_impact
-projectile
-slam

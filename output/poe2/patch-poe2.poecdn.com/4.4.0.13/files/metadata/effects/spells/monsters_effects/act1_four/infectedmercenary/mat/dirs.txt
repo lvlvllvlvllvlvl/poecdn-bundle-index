@@ -1,3 +1,0 @@
-crossbow
-crossbow/physical
-shovel

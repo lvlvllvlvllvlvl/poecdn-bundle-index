@@ -1,0 +1,12 @@
+attachments
+attachments/belthanging
+attachments/chain
+attachments/chain/dex
+attachments/chain/dexint
+attachments/chain/int
+attachments/chain/str
+attachments/chain/strdex
+attachments/chain/strint
+attachments/robe
+attachments/shawl
+textures

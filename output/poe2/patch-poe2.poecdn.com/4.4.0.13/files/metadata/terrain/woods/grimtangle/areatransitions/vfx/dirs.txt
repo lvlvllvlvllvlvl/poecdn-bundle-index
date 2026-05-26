@@ -1,6 +1,0 @@
-graphs
-graphs/tree_activation
-mat
-mat/root1
-mat/tree_activation
-mat/tree_activation/dispersion

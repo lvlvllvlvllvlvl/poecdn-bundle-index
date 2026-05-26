@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+5ff2d4cdb3d83d74,order_marbleflat01c.mat,Tiny.VF,29678809,2226
+aabdc9858a02df9e,order_marbleflat01_normal_bc7.dds,Streaming/Content/data/balance/worldareas/92/mapport.vworld.1,5592580,5592580
+c6d4712788df3c48,order_marbleflat01_normal_bc7.dds.header,Tiny.V8,17079520,1520
+4cd84fb7399b1026,order_marbleflat01_colour_bc1.dds,Streaming/Content/data/balance/worldareas/F8/g5_11_1.vworld,5615459,2796364
+da33328952d54f4b,order_marbleflat01_colour_bc1.dds.header,Tiny.VB,22067169,1520
+889101e41bc6dbb3,order_walltile01c.mat,Tiny.VD,29618519,2210
+9a1480061c7678c4,order_walltile01_normal_dxt5.dds,Streaming/Content/data/balance/worldareas/DE/g4_8a.vworld,1122589,5592580
+7affdbdf6ecb9df9,order_walltile01_normal_dxt5.dds.header,Tiny.V8,17079520,1520
+824f3daba40d644c,order_walltile01_colour_dxt1.dds,Streaming/Content/data/balance/worldareas/DA/g4_8a.vworld,1562856,2796364
+538841f3dc5c1b6a,order_walltile01_colour_dxt1.dds.header,Tiny.V1,29444725,1520

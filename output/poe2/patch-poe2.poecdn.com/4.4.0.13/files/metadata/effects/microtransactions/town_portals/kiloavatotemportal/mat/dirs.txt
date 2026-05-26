@@ -1,6 +1,0 @@
-burst
-close_ground_burst
-close_surge
-emerge
-feathers
-portal_core

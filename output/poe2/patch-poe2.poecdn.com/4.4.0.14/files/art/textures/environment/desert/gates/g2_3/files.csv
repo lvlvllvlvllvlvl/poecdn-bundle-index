@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+586dc44695a8958b,actual_falling dust2.mat,Tiny.VD,40119486,1934
+5d8154b4a2a5ca26,actual_falling dust2_dxt4.dds,Streaming/Content/metadata/terrain/doodads/desert/C2D85CDA5B24A92F.bodycart_7.ao,495932,22020
+424f62de183fb58a,actual_falling dust2_dxt4.dds.header,Tiny.V3,39260198,1520
+4a5374aff5c7de14,explosionb_smoke_top_8x8.mat,Tiny.V0,40107517,6686
+0e3c22cc2c3efdee,explosionb_smoke_2_8x8.mat,Tiny.V0,40107517,6686
+4b6db8b4155acabf,sparkling.mat,Tiny.V1,39831231,1990
+94ed70e5f4faf5ce,sand_grain_tile.mat,Tiny.V4,40310567,2690
+c4cdc054d91ec770,shockwave_pulse.mat,Tiny.V3,39261718,1980
+4846f6c7f16f5cfa,shockwave_pulse_dxt5.dds,Streaming/Content/metadata/terrain/doodads/desert/1E1B8CA035F6ECDD.6070158A2EE0B8CD.stonebreaker01.ao,759194,349700
+6f1b4dc5fae65e13,shockwave_pulse_dxt5.dds.header,Tiny.V7,39889149,1520
+f0ca2dfed91da5f6,stormy_sand_wind_dxt1.dds,Streaming/Folders/art/textures/environment/desert/A368B8EC011374AD.g2_3,699212,699212
+70a279797b36ef7d,stormy_sand_wind_dxt1.dds.header,Tiny.VD,40121420,1520
+43b9813d4d1eb8f7,stormy_sand_wind2_bc1.dds,Streaming/Folders/art/textures/environment/desert/A368B8EC011374AD.g2_3,0,699212
+43169864d8f70a87,stormy_sand_wind2_bc1.dds.header,Tiny.VB,40298535,1520

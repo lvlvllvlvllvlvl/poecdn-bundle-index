@@ -1,5 +1,0 @@
-animations
-animations/living
-attachments
-attachments/weapon
-textures

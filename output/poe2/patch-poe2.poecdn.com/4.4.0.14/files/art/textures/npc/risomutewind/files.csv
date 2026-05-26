@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+ad07602d25e2cf0e,risomutewindc.mat,Tiny.VF,46192812,3736
+40932b313c4e009f,risomutewind_sss_dxt5.dds,Streaming/Content/art/models/npc/risumutewind/risomutewind.fmt.2,0,5592580
+60d714967516fe4f,risomutewind_sss_dxt5.dds.header,Tiny.V9,46678831,1520
+8c0c4b4c56b37323,risomutewind_metal_dxt5.dds,Streaming/Content/art/models/npc/risumutewind/risomutewind.fmt,0,5592580
+17529c87d625368a,risomutewind_metal_dxt5.dds.header,Tiny.V0,46396427,1520
+2f1f7cd98ed07bbe,risomutewind_normal_dxt5.dds,Streaming/Content/art/models/npc/risumutewind/risomutewind.fmt.1,0,5592580
+9081890f8a91ab01,risomutewind_normal_dxt5.dds.header,Tiny.V4,46678653,1520
+da2bae42d8b0a7b7,risomutewind_colour_dxt1.dds,Streaming/Content/data/worldareas/65/c_g2_town.vworld,1398276,2796364
+e18ff986e2f4515f,risomutewind_colour_dxt1.dds.header,Tiny.V9,46677311,1520

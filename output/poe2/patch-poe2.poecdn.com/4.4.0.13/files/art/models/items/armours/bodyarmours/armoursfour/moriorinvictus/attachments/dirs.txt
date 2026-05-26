@@ -1,9 +1,0 @@
-cape
-robe
-robe/l01
-robe/l01/f
-robe/l01/m
-robe/l02
-robe/l02/f
-robe/l02/m
-sleeve

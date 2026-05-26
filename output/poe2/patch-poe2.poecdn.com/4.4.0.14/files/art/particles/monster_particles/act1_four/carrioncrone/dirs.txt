@@ -1,0 +1,10 @@
+cleave
+corpse_find_beam
+detonate_dead
+detonate_dead/grd
+frost_spike
+frost_wave
+ice_spear
+monsterfx
+on_act
+summonwolves

@@ -1,9 +1,0 @@
-lightning_strike
-opening_animation
-opening_animation/ground_slam
-slam_cone_cluster
-slam_cone_small
-surf_cascade
-surf_cascade_indicator
-tidal_rush
-tidal_wave

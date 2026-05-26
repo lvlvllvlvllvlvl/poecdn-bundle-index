@@ -1,0 +1,10 @@
+attachments
+attachments/female
+attachments/female/hangingarm
+attachments/female/hipattachment
+attachments/male
+attachments/male/hangingarm
+attachments/male/hipattachment
+attachments/str
+attachments/str/hangingarm
+textures

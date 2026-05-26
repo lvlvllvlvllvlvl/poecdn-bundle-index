@@ -1,0 +1,46 @@
+hash,file,bundle,offset,size
+91867c5cad1bd0c1,deadmarakethcivilian3c.mat,Tiny.V9,46665161,1646
+4d94b014530ac370,deadmarakethcivilian3_normal_dxt5.dds,Streaming/Content/metadata/chests/corpsechests_95702/corpsechest_05.ao,915367,1398276
+2182ac8574f86f52,deadmarakethcivilian3_normal_dxt5.dds.header,Tiny.V8,45536548,1520
+c453f366c8dc844f,deadmarakethcivilian3_colour_dxt1.dds,Streaming/Content/metadata/chests/corpsechests_95702/corpsechest_05.ao,216155,699212
+3136d32033dcc689,deadmarakethcivilian3_colour_dxt1.dds.header,Tiny.V1,45791139,1520
+9cf6d8df747a30d8,deadmarakethcivilian1c.mat,Tiny.V3,45452594,1646
+946656725d09abda,deadmarakethcivilian1_normal_dxt5.dds,Streaming/Content/metadata/npc/four_act2/deadmarakethcivilian1.ao,924621,1398276
+9e1e30785cff2236,deadmarakethcivilian1_normal_dxt5.dds.header,Tiny.V8,45533508,1520
+410bfa33e56a8250,deadmarakethcivilian1_colour_dxt1.dds,Streaming/Content/metadata/npc/four_act2/deadmarakethcivilian1.ao,225409,699212
+1793277a34a6529d,deadmarakethcivilian1_colour_dxt1.dds.header,Tiny.VC,46322829,1520
+3d9902f0ca27795b,deadmarakethcivilian2c.mat,Tiny.V0,46374925,1646
+e9490211cf5b6588,deadmarakethcivilian2_normal_dxt5.dds,Streaming/Content/metadata/npc/four_act2/deadmarakethcivilian2.ao,699212,1398276
+5f144aaae5d6d847,deadmarakethcivilian2_normal_dxt5.dds.header,Tiny.V7,46188045,1520
+576e83e90c75a59d,deadmarakethcivilian2_colour_dxt1.dds,Streaming/Content/metadata/npc/four_act2/deadmarakethcivilian2.ao,0,699212
+bc278343dec0151c,deadmarakethcivilian2_colour_dxt1.dds.header,Tiny.V8,45535028,1520
+192628b8c2563fd9,maraketh blankets normal_dxt5.dds,Streaming/Content/metadata/npc/four_act2/marakethcivilian2_withblanket1_idle2wounded2_nophys.ao.2,0,5592580
+b11545b5ab89d872,maraketh blankets normal_dxt5.dds.header,Tiny.V1,45792659,1520
+7c621885bc6b9ab0,maraketh blankets colorc.mat,Tiny.V9,46666807,2536
+d142d1fe29730227,maraketh blankets color_bc7.dds,Streaming/Content/metadata/npc/four_act2/marakethcivilian2_withblanket1_idle2wounded2_nophys.ao.1,0,5592580
+2c6ad66c5080c8c5,maraketh blankets color_bc7.dds.header,Tiny.V3,45454240,1520
+0bcb3edcf414731e,maraketh blankets color.dds,Streaming/Content/metadata/npc/four_act2/marakethcivilian2_withblanket1_idle2wounded2_nophys.ao,24475,2796364
+73eedf140d2776ae,maraketh blankets color.dds.header,Tiny.VE,45904779,1520
+15e76260caef9608,marakethcivilian2c.mat,Tiny.VF,46169822,3844
+d7ab2fcd7a86a2d1,marakethcivilian2_sss_dxt5.dds,Streaming/Content/metadata/npc/four_act2/marakethcivilian2.ao.1,0,1398276
+022b3a18e6d74a8b,marakethcivilian2_sss_dxt5.dds.header,Tiny.V4,46658111,1520
+51847472fec0e772,marakethcivilian2_metal_dxt1.dds,Streaming/Content/metadata/npc/four_act2/marakethcivilian2.ao,887100,699212
+7828c05fa1e3b905,marakethcivilian2_metal_dxt1.dds.header,Tiny.V2,46008679,1520
+478f328c84124c38,marakethcivilian2_normal_dxt5.dds,Streaming/Content/metadata/npc/four_act2/marakethcivilian2.ao,1586312,1398276
+8d87991d39f8320f,marakethcivilian2_normal_dxt5.dds.header,Tiny.V5,45626412,1520
+369d6656d04cc959,marakethcivilian2_colour_dxt1.dds,Streaming/Content/metadata/npc/four_act2/marakethcivilian2.ao,187888,699212
+3fe3fd44ef496e21,marakethcivilian2_colour_dxt1.dds.header,Tiny.V4,46656591,1520
+2b52ba1bf2fd9fe4,marakethciviliansgirlc.mat,Tiny.V6,46087678,2948
+2d981578eaeaee1e,marakethciviliansgirl_sss_dxt1.dds,Streaming/Content/metadata/npc/four_act2/marakethcivilian3nophys.ao.1,0,699212
+132492fbe849b99d,marakethciviliansgirl_sss_dxt1.dds.header,Tiny.V6,46086158,1520
+5735e86b8a2535ee,marakethciviliansgirl_normal_dxt5.dds,Streaming/Content/metadata/npc/four_act2/marakethcivilian3nophys.ao,1516553,1398276
+5982c880c39a1d08,marakethciviliansgirl_normal_dxt5.dds.header,Tiny.V2,46010199,1520
+1c6f79051c9aaf7c,marakethciviliansgirl_colour_dxt5.dds,Streaming/Content/metadata/npc/four_act2/marakethcivilian3nophys.ao,118277,1398276
+be35849c685bd3fb,marakethciviliansgirl_colour_dxt5.dds.header,Tiny.V0,46376571,1520
+ba098055969804e2,marakethcivilian1c.mat,Tiny.V6,46083314,2844
+a8459395f89515c3,marakethcivilian1_sss_dxt5.dds,Streaming/Content/metadata/npc/four_act2/deadmarakethcivilian1.ao.2,0,1398276
+5ef845c81a935908,marakethcivilian1_sss_dxt5.dds.header,Tiny.VC,46324349,1520
+98f4603c5b7d1c8b,marakethcivilian1_normal_dxt5.dds,Streaming/Content/metadata/npc/four_act2/deadmarakethcivilian1.ao.1,1398276,1398276
+e612647970f1b0ea,marakethcivilian1_normal_dxt5.dds.header,Tiny.V1,45794179,1520
+c18269a2117f1de7,marakethcivilian1_colour_dxt5.dds,Streaming/Content/metadata/npc/four_act2/deadmarakethcivilian1.ao.1,0,1398276
+c6e8f32a83c0d359,marakethcivilian1_colour_dxt5.dds.header,Tiny.VD,46011261,1520

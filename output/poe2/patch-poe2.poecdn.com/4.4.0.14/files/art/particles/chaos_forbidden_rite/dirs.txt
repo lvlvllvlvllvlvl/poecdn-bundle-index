@@ -1,0 +1,5 @@
+mb
+mb/onact
+mb/onact/fx_forbidden_rite_end_base_01_r
+mb/projectile
+mb/projectile/animations

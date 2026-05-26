@@ -1,8 +1,0 @@
-attachments
-attachments/hairstyles
-attachments/hairstyles/druid
-attachments/hairstyles/templar
-attachments/outfits
-attachments/outfits/druid
-attachments/outfits/druid/attachments
-attachments/outfits/templar

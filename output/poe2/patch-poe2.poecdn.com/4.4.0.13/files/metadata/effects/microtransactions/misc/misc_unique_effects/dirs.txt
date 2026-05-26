@@ -1,9 +1,0 @@
-elementalaegis
-elementalaegis/graph
-elementalaegis/pet
-elementalaegis/pet/lightning
-glowring
-glowring/mokou_embrace
-head
-head/bringer_of_rain
-minion_crazy

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+68ab8b651ddae64d,ghostdogc.mat,Tiny.V5,12625195,1976
+9f756376759bee65,ghostdog_glow.dds,Streaming/Content/metadata/pet/thaumaturgydogs/ghostdog_.act.1,2097488,1398276
+cdf78532fb19249b,ghostdog_glow.dds.header,Tiny.VD,12570555,1520
+b3b5f19f71222f46,ghostdog_normal.dds,Streaming/Content/metadata/pet/thaumaturgydogs/ghostdog_.act.2,0,1398276
+76abf9fea2c43191,ghostdog_normal.dds.header,Tiny.VD,12572075,1520
+83f23b0a3d1f612b,ghostdog_colour.dds,Streaming/Content/metadata/pet/thaumaturgydogs/ghostdog_.act.1,1398276,699212
+f120da549d5045c3,ghostdog_colour.dds.header,Tiny.V5,12623675,1520
+dd57216d31484a58,ghostdog_clothc.mat,Tiny.V7,12747163,12582
+7641af9be70967bb,ghostdog_cloth_glow.dds,Streaming/Content/metadata/pet/thaumaturgydogs/ghostdog_.act,1398276,1398276
+8e6ac6632dfb6ff5,ghostdog_cloth_glow.dds.header,Tiny.VD,12569035,1520
+cc2a3ab3d2cb1859,ghostdog_cloth_normal.dds,Streaming/Content/metadata/pet/thaumaturgydogs/ghostdog_.act.1,0,1398276
+d5b456c47f0651fe,ghostdog_cloth_normal.dds.header,Tiny.V7,12745643,1520
+e3d77b7c6cc55f28,ghostdog_cloth_colour.dds,Streaming/Content/metadata/pet/thaumaturgydogs/ghostdog_.act,0,1398276
+163a0d869270c129,ghostdog_cloth_colour.dds.header,Tiny.V7,12744123,1520

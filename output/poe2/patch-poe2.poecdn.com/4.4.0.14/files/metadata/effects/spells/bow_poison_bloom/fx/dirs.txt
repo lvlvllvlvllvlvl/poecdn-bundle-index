@@ -1,0 +1,12 @@
+explosion_aoe_01
+onact
+onact/vine_arrow_bow_01
+poisonbloom
+poisonbloom/emerge_01
+poisonbloom/idle_01
+projectile_01
+projectile_01/projectileraindown_01
+projectile_01/projectilerainup_01
+vine_beam_01
+vine_beam_01/end_01
+vine_beam_01/start_01

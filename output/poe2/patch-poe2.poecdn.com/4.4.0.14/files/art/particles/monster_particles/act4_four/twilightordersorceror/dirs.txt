@@ -1,0 +1,8 @@
+holy_fireball
+mb
+mb/cleanse
+mb/fireball
+mb/holy_scorching_ray
+textures
+textures/cleanse
+textures/holy_firebeam

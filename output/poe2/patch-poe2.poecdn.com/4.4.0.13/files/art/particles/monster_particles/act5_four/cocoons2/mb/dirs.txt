@@ -1,3 +1,0 @@
-degen_cloud
-lightning_beam
-lightning_beam_impact

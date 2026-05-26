@@ -1,2 +1,0 @@
-alira_volatile_dead
-greust_buffed_projectile

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+e8871d8dee37fb9d,black_wisps.mat,Tiny.V4,38277252,1196
+c4b3468843e3b8f3,black_wisps_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/67429B87162C193E.DFA72DC84200A5F4.impact.pet,0,22020
+a496e87b9bfd0c7e,black_wisps_dxt5.dds.header,Tiny.V5,6502230,1520
+66556d859f97add0,neuron_03_8x8_ice.mat,Tiny.V4,38278448,2026
+71efa6a591c5f117,neuron_03_8x8_ice_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.61C17D58928B681D.dagger_wand_claw.epk,262480,2796364
+f698d67488f9ad77,neuron_03_8x8_ice_dxt1.dds.header,Tiny.V3,37392043,1520
+fabda4da997ccb3b,neuron_03_8x8_fire.mat,Tiny.VE,37636831,2034
+97f90da357835d36,neuron_03_8x8_fire_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/E62E1AEE9E31E15D.3C96968A16F53199.deactivate.pet,87556,2796364
+95114e878b442e3b,neuron_03_8x8_fire_dxt1.dds.header,Tiny.V3,37392043,1520
+87cb64e8fdbf7cac,neuroveins_radial_7x7.mat,Tiny.V7,37823742,2186
+95c5fc4c342bdf92,neuroveins_radial_7x7_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/E46749CC2AF6D08B.0C9E193B3F72E054.ice_box.pet,0,2796364
+56863053fa33b31f,neuroveins_radial_7x7_dxt1.dds.header,Tiny.VF,37983365,1520

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+43ce9bf51ab6d632,dtbeam.sm,Tiny.V1,6795304,476
+fcc8718091bc1293,dtnova.amd,Tiny.V2,32993578,102
+f19759f7b3fdf88f,dtnova.ast,Tiny.VE,6927518,876
+aa0e8c826a0a0bc2,rig_da2a812e.smd,Streaming/Content/metadata/effects/spells/mana_void/82394F3C2C5238D2.D1B1AF9F4DEF4654.grd_midline.pet,1614008,32805
+45421b325704a06c,rig_da2a812e.smd.header,Tiny.VA,7022765,368
+6131354c0ef4cb81,rig.amd,Tiny.V0,7085188,268
+32346cd6e4459e97,rig.ast,Content/metadata/effects/spells/D9BB9A9316E02DD3.vaal_blast_04.ao,716347,58580
+2a189e6912fb41db,backwave.fmt,Streaming/Content/metadata/effects/microtransactions/spells/3E98092E960B27A6.F699169723DA2183.beam_nova.pet,0,9074
+fcd9a16a4c497bdb,backwave.fmt.header,Tiny.VF,6905459,172
+a2b16029884fd332,blastwave.fmt,Streaming/Content/metadata/effects/microtransactions/spells/6091F861C871A0B1.release_projectile.ao,1340263,15338
+e00db2ef89558706,blastwave.fmt.header,Tiny.V3,6845718,172

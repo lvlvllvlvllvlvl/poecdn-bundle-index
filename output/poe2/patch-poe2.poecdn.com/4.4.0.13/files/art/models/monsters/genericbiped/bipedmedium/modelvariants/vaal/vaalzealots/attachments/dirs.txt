@@ -1,7 +1,0 @@
-weapons
-weapons/daggers_01
-weapons/daggers_02
-weapons/halberd
-weapons/spear
-zealot02_cloth
-zealot03_faulds

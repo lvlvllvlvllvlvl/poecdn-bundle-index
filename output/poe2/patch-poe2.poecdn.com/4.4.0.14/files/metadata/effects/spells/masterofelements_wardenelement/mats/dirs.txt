@@ -1,0 +1,8 @@
+cold
+cold/empowered
+epk
+epk/burst
+fire
+fire/empowered
+lightning
+lightning/empowered

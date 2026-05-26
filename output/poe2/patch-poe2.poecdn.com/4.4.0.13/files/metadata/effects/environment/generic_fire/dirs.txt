@@ -1,7 +1,0 @@
-grd_fire
-grd_fire/fx
-grd_fire/fx/grd_fire_1x1
-grd_fire/fx/grd_fire_1x1/idle_01
-grd_fire/mat
-grd_fire/mat/grd_fire_1x1
-grd_fire/mat/grd_fire_1x1/idle_01

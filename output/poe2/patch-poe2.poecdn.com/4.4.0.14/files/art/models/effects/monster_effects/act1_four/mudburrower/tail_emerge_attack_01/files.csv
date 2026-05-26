@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+fb220ca242fbd9ab,rig_be5b7ba5.smd,Tiny.V6,33472246,77
+b69cc2d042151dbc,rig_be5b7ba5.smd.header,Tiny.V4,33986116,448
+990ed4ea8345aa85,tail_aoe.sm,Tiny.V4,7234964,376
+0875041aedd7aae8,tail_aoe.amd,Tiny.VA,7228008,102
+b02d940de10830e8,tail_aoe.ast,Tiny.V6,7157208,305

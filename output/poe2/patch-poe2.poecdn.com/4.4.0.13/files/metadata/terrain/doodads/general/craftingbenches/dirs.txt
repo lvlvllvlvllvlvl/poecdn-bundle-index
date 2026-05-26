@@ -1,8 +1,0 @@
-craftingbench_vaalhammer_vfx
-craftingbench_vaalhammer_vfx/mat
-craftingbench_vaalhammer_vfx/pet
-vfx
-vfx/epk
-vfx/graphs
-vfx/mat
-vfx/mat/glint

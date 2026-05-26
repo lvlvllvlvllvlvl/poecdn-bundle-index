@@ -1,0 +1,2 @@
+attach_idle
+hand_emerge

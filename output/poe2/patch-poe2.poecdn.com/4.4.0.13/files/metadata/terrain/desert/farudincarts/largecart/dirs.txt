@@ -1,5 +1,0 @@
-attachments
-bosscart
-bosscart/attachments
-corruption
-shieldcovers

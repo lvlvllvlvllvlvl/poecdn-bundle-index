@@ -1,2 +1,0 @@
-npcexplosivedoor
-npcexplosivedoor/graphs

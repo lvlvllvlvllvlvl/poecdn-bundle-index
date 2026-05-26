@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+356f2570841dc994,bloodguardshieldspecularc.mat,Tiny.V7,45329743,5208
+d74acbdbfd333b6f,bloodguardshield_glow_dxt5.dds,Streaming/Content/metadata/items/armours/shields/blooguardshield.ao,788834,349700
+9ebf95d98a218686,bloodguardshield_glow_dxt5.dds.header,Tiny.VA,45399709,1520
+ed7ceafba3343806,bloodguardshield_normal_dxt5.dds,Streaming/Content/metadata/items/armours/shields/blooguardshield.ao,1138534,349700
+fa28ff51e3fb611f,bloodguardshield_normal_dxt5.dds.header,Tiny.VB,45506237,1520
+b56f300063ec0b7f,bloodguardshield_colourspecular_bc7.dds,Streaming/Content/metadata/items/armours/shields/blooguardshield.ao,613886,174948
+dede2b79cd60992c,bloodguardshield_colourspecular_bc7.dds.header,Tiny.VE,45080483,840
+f942a2fa669a4cb6,bloodguardshield_colourspecular.dds,Streaming/Content/metadata/items/armours/shields/blooguardshield.ao,526338,87548
+b59e87c94a52ac76,bloodguardshield_colourspecular.dds.header,Tiny.VD,45238443,840

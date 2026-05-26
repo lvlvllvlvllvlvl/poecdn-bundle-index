@@ -1,3 +1,0 @@
-chest
-shoulder_l
-shoulder_r

@@ -1,8 +1,0 @@
-mb
-mb/arc
-mb/arc_impact
-mb/holy_energy
-mb/on_act_epic_lightning
-mb/on_act_spellcast_02
-mb/zap
-tex

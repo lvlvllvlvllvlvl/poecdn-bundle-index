@@ -1,4 +1,0 @@
-healing_aura
-life_regen
-projectile
-projectile_explode

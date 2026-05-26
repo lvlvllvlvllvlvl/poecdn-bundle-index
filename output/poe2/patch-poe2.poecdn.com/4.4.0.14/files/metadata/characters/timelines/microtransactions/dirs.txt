@@ -1,0 +1,7 @@
+emotes
+fountain_hallway_map_device
+honour_guard_dodge_roll
+town_portal
+town_portal/atzirimirror
+town_portal/mektul
+town_portal/split

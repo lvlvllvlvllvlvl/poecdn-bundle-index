@@ -1,8 +1,0 @@
-islandcaves
-islandlowerledge
-islandoceanledge
-islandoceanledgecliff
-islandunwalkablecliff
-islandunwalkablecliffocean
-islandunwalkableledge
-islandwalkablecliffocean

@@ -1,5 +1,0 @@
-pyramid_fire_beam
-pyramid_fire_beam/mb
-pyramid_fire_beam/mb/fire_beam
-pyramid_fire_beam/textures
-pyramid_fire_beam/textures/fire_beam

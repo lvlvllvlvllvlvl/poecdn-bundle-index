@@ -1,0 +1,3 @@
+cliffs
+copper
+ground

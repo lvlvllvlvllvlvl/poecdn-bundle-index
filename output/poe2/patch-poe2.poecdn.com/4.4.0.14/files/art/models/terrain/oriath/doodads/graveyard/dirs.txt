@@ -1,0 +1,4 @@
+textures
+textures/blight
+textures/sarcophagus
+textures/trees

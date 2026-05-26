@@ -1,5 +1,0 @@
-attachments
-attachments/bones
-attachments/bones_moss
-attachments/loopspines
-attachments/loopspines_moss

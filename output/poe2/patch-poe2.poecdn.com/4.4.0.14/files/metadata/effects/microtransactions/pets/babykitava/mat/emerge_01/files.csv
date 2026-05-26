@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+03c971b48a3c8844,distortion_sphere_r.mat,Tiny.V2.1,12665434,11808
+e55f567b04118d92,emerge_oomph_u.mat,Tiny.V4.1,15591952,3140
+caa3a433eabe3f02,roar_u.mat,Tiny.VE.1,12232344,2178
+44fdd3d21a7b75fe,shardsdebris_r.mat,Tiny.V7.1,12784076,8696
+973915cc7740be5f,shardsdebris_body_u.mat,Tiny.VB.1,10226158,23202
+e31d81cc99416b60,shardsdebris_u.mat,Tiny.V6.1,12030248,20012
+ae8770e856a40270,shardsdebris_head_u.mat,Tiny.V2.1,12677242,17402
+c9e19b3591ffd026,smoke_burst_r.mat,Tiny.VF.1,13323468,27956
+73ad7d30f5eb4e6b,smoke_burst_u.mat,Tiny.V2.1,12694644,6878
+a8578113ae3761cb,smoke_burst_head_r.mat,Tiny.VB.1,10249360,28768
+67e6bd8ee886066f,smoke_burst_head_u.mat,Tiny.VE.1,12234522,12892
+3700fd01a05a22c5,smoke_slow_body_r.mat,Tiny.VB.1,10278128,28764
+60a62974177ac0ae,smoke_slow_body_u.mat,Tiny.VE.1,12234522,12892

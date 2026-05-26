@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+5b20d9a1e8556194,innocenceshieldspecularc.mat,Tiny.VF,45376216,4538
+9f965bc6a0821b79,innocenceshield_normal_dxt5.dds,Streaming/Content/metadata/items/armours/shields/innocenceshieldheld.ao,1488666,349700
+d4aa7c728e6024dd,innocenceshield_normal_dxt5.dds.header,Tiny.V1,45087777,1520
+e5832262d15b5e79,innocenceshield_colourspecular_bc7.dds,Streaming/Content/metadata/items/armours/shields/innocenceshieldheld.ao,789430,699236
+27cec7ac97e23ba9,innocenceshield_colourspecular_bc7.dds.header,Tiny.V3,44690001,840
+827e0f8f8a24d3ee,innocenceshield_colourspecular.dds,Streaming/Content/metadata/items/armours/shields/innocenceshieldheld.ao,439738,349692
+aaef9783eaa70c62,innocenceshield_colourspecular.dds.header,Tiny.V5,44843652,840

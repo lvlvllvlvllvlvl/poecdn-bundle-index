@@ -1,0 +1,17 @@
+ground_dust
+ground_slam
+mastodon_step
+necromancer_meteor_explosion
+necromancerboss_hover
+onact
+onact/death_first_01
+onact/death_last_01
+onact/death_volatile_01
+onact/heavy_stun_01
+onact/mastodon_attack
+onact/mastodon_attack_trails
+onact/spell_aoe_bonestorm_01
+onact/spell_aoe_bullet_hell_01
+onact/spell_aoe_storm_calls_01
+onact/teleport_01
+status_aliment

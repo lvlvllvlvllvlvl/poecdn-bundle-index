@@ -1,0 +1,11 @@
+ambient
+combo
+combo/slash
+death
+door
+ground_slam
+leapslam
+leapslam/impact
+multislam_01
+rage
+volcano

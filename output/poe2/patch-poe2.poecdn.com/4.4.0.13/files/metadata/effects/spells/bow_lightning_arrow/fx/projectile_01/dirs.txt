@@ -1,2 +1,0 @@
-impact_01
-projectile_01

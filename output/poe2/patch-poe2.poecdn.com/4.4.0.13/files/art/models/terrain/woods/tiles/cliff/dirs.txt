@@ -1,4 +1,0 @@
-cliffbramble
-cliffbramble/tgms
-textures
-tgms

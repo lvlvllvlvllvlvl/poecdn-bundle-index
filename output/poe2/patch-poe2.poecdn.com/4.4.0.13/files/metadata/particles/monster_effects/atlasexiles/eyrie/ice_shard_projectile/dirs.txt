@@ -1,3 +1,0 @@
-bigspike
-midspike
-smlspike

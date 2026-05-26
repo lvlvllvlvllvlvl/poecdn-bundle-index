@@ -1,6 +1,0 @@
-graphs
-ground types
-objects
-rooms
-rooms/fill
-rooms/jut

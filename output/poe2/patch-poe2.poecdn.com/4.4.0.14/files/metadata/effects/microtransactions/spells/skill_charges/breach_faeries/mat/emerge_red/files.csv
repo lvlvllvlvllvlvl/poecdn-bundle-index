@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+10f1b5b68e8c446a,core_flareup_r.mat,Tiny.V2.1,26029064,23608
+18e2892dc5761b6f,core_flareup_u.mat,Tiny.VD,50518121,346
+3cf6ec4cebf3b8bb,flareup_r.mat,Tiny.V6.1,26108608,43248
+0a8f20fd2aff7eac,flareup_u.mat,Tiny.VD,50518121,346
+c95d0691af523e56,burst_distort_sphere_r.mat,Tiny.VE.1,25714940,15512
+fb2c3cfc0c9e2876,bnpnt_emit_u.mat,Tiny.VD,50518121,346
+e50f13b35f4a911e,ghost_ribbons_r.mat,Tiny.VD.1,22744944,80982
+4b704cc2b42ba5b3,ghost_ribbons_u.mat,Tiny.VF.1,26847222,30488
+bb637f29858ec6de,impact_flametufts_r.mat,Tiny.V9.1,26035320,56218
+8971db6354f65cf0,impact_flametuftsfountain_u.mat,Tiny.V3.1,24388244,15732
+40efa22be6e07e01,shattersparks_r.mat,Tiny.V4.1,29063628,34670
+a80cdb013469a95f,shattersparks_u.mat,Tiny.V9.1,26091538,21916

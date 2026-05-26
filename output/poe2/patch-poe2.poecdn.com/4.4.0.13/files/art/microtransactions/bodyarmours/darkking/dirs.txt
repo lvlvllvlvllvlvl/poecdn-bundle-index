@@ -1,9 +1,0 @@
-mb
-mb/core_light
-mb/trail_rig
-mb/trail_rig_f
-textures
-textures/bodyfx
-textures/death_melt
-textures/molten_blood
-textures/molten_trail

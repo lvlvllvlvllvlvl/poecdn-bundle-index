@@ -1,9 +1,0 @@
-epk
-fx
-graphs
-mat
-mat/lightning_aura
-mat/lightning_proj
-mat/lightning_proj_impact
-mat/lightning_shield
-mat/lightning_wave

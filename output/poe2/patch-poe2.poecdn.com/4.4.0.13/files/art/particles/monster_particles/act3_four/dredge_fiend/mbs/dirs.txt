@@ -1,4 +1,0 @@
-mortar
-mortar_impact
-on_act
-revive

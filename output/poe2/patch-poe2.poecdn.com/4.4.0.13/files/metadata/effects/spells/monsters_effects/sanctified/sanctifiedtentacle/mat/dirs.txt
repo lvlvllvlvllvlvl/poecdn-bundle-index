@@ -1,6 +1,0 @@
-onact
-onact/run_01
-onact_attack_03
-projectile_01
-projectile_01/impact
-projectile_01/projectile

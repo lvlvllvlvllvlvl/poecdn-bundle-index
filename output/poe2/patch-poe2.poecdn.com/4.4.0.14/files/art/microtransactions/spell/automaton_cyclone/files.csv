@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+d099cbf4117d67c3,ring1.fmt,Streaming/Content/metadata/effects/microtransactions/spells/0EB7D72D609B77CB.D87D918E3FE10B23.spawn_line.pet,540801,7965
+04e69d685f048f1f,ring1.fmt.header,Tiny.V1,4455830,166
+222e923d5636e62b,vaalcyclone.amd,Tiny.VF,39055834,92
+c0bae1ec287ba87c,vaalcyclone.ast,Tiny.VF,4391881,2474
+e8f3e00cd30bf809,cyclone.amd,Tiny.VD,33298347,94
+96f2908a560c8cd8,cyclone.ast,Content/metadata/effects/microtransactions/spells/whirlwind/96370D76122CAC83.whirlwindwhite_end.ao,1644636,8236
+7ea7accb0a03441c,cyclone_aoe.amd,Tiny.VD,33298347,94
+4fe0ab968a0f1a8c,cyclone_aoe.ast,Content/metadata/effects/microtransactions/spells/whirlwind/96370D76122CAC83.whirlwindwhite_end.ao,1652872,10315
+386970cefe156adf,cyclonehit.amd,Tiny.VB,32958642,92
+55fdb769fbf5a3d1,cyclonehit.ast,Tiny.VA,4490785,1897

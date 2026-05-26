@@ -1,0 +1,4 @@
+epk
+fx
+fx/attach_idle
+fx/hand_emerge

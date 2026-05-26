@@ -1,4 +1,0 @@
-hat
-hat/attachments
-helmet
-helmet/attachments

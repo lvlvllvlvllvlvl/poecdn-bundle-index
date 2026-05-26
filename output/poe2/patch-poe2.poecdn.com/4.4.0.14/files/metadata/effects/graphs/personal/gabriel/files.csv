@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+f1283edb44e65606,fade_ground_surface.fxgraph,Content/metadata/effects/spells/holy_consecrate/consecrate_nova.ao,2005037,20966
+d56f14c1f76fd93b,emissive_ground_surface.fxgraph,Content/metadata/effects/spells/holy_consecrate/consecrate_nova.ao,1977911,27126
+f45d6190f43d265c,subtractvertexalpha.fxgraph,Content/metadata/effects/microtransactions/spells/scientistwither/94E113C7E56CA891.line.pet,518877,15306
+0f350d758c37dfa7,mask_localposition.fxgraph,Content/metadata/effects/weather_attachments/g2_town/skin/21F13D13CA11B813.weather.ao,3684494,116460

@@ -1,0 +1,5 @@
+spellcast_unarmed_01_chaos
+spellcast_unarmed_01_cold
+spellcast_unarmed_01_fire
+spellcast_unarmed_01_lightning
+spellcast_unarmed_01_lightning/projectile

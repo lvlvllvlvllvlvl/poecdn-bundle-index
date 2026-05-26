@@ -1,0 +1,12 @@
+faridunolroth
+faridunolroth/mb
+faridunolroth/mb/lacerates
+firebeastboss
+firebeastboss/mb
+firebeastboss/mb/combo
+firebeastboss/mb/combo/claw_attack
+firebeastboss/mb/firewave
+firebeastboss/mb/volcano
+serpentclancasterbossinterlude
+serpentclancasterbossinterlude/mb
+serpentclancasterbossinterlude/mb/spin_detonate_01

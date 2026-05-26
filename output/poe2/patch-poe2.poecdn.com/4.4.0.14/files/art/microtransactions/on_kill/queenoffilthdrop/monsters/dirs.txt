@@ -1,0 +1,3 @@
+anchoriteflathead
+anchoritemother
+anchoritespawn

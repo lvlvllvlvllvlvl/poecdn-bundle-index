@@ -1,0 +1,12 @@
+machinarium
+machinarium/beams
+machinarium/beams/fire
+machinarium/beams/fire/end_rig
+machinarium/lightning_bolts
+machinarium/slams
+machinarium/slams/cold_slam_blast
+machinarium/slams/cold_slam_crater
+machinarium/slams/cold_slam_marker
+machinarium/slams/fire_slam
+machinarium/slams/lightning_slams
+machinarium/summon_projectile

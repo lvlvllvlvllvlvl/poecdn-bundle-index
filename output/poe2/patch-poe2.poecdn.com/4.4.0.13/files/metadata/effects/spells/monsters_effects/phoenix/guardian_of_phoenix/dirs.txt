@@ -1,4 +1,0 @@
-doublespin
-flaming_bomb
-pulse
-vortex

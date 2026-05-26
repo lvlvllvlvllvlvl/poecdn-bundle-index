@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+ada59b012f3e4e75,precursorlancestaffrodcorec.mat,Tiny.V3,49442421,25902
+607f5500a2088039,lance_fade.mat,Tiny.VC,48512160,3020
+ce5c31fc367f5054,blur_distortion_small_r.mat,Tiny.V3,49425789,16632
+665b32ac076a240d,blur_distortion_u.mat,Tiny.V9,49128045,2174
+3f53069e65fa3cce,mblur_r.mat,Tiny.V0,47853176,7966
+c41c81c31b2aa1aa,mblur_u.mat,Tiny.VA,48681264,2176
+060ceef03671e21d,energy_flow_r.mat,Tiny.V6,48521212,33854
+6c09edc343668493,energy_flow_u.mat,Tiny.VE,48411652,2936
+56a57777b8a10177,contact_glow_r.mat,Tiny.V5,47153315,46298
+f2a84ae42c508f6d,contact_glow_u.mat,Tiny.VC,48509950,2210

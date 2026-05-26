@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+2ed630389f4aa51a,wind_fine_detail.mat,Tiny.V3,7492092,6172
+75feb829d4c674e3,weapontrapc.mat,Tiny.V6,7606289,2696
+332dd45fc9d5ea75,weapontrap_normal_dxt5.dds,Streaming/Content/art/models/effects/traps/6ACFCD6351FDEB45.F14B6AB907D37EC9.weapontrap01_01.fmt,349700,349700
+1dba76921212ff21,weapontrap_normal_dxt5.dds.header,Tiny.V4,7694282,1520
+2354776bec0e720e,weapontrap_colour_dxt2.dds,Streaming/Content/art/models/effects/traps/6ACFCD6351FDEB45.F14B6AB907D37EC9.weapontrap01_01.fmt,0,349700
+15cdce4015671fa8,weapontrap_colour_dxt2.dds.header,Tiny.VA,7661590,1520
+f60be024539d14f2,chain_nmlao_dxt5.dds,Streaming/Content/metadata/effects/spells/traps/6ACFCD6351FDEB45.spinnner_joints.ao,41282,22020
+e9bc5995aae30d0a,chain_nmlao_dxt5.dds.header,Tiny.VA,7660070,1520
+a641962c1d10ec95,chain_metal_dxt1.dds,Streaming/Content/metadata/effects/spells/traps/6ACFCD6351FDEB45.spinnner_joints.ao,30198,11084
+8a54d2f0c26f72cd,chain_metal_dxt1.dds.header,Tiny.V0,7689576,1520
+d4647061898f61c7,chain_clrc.mat,Tiny.V1,7455622,2880
+560fbc2e06461c9a,chain_clr_dxt5.dds,Streaming/Content/metadata/effects/spells/traps/6ACFCD6351FDEB45.spinnner_joints.ao,8178,22020
+9b545eafc670b285,chain_clr_dxt5.dds.header,Tiny.V4,7692762,1520

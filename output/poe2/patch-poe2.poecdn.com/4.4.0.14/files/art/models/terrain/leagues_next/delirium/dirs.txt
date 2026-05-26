@@ -1,0 +1,10 @@
+doodads
+doodads/shards01
+doodads/shards02
+doodads/shards03
+doodads/shards04
+doodads/shards05
+doodads/shards06
+doodads/shards07
+doodads/shards08
+doodads/textures

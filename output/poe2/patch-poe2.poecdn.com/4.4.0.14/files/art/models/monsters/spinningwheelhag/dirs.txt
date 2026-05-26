@@ -1,0 +1,14 @@
+attachments
+attachments/hair
+attachments/necklace
+attachments/shawl
+attachments/shawl/back
+attachments/shawl/l_arm_dangler
+attachments/shawl/l_dangler
+attachments/shawl/r_arm_dangler
+attachments/shawl/r_dangler
+attachments/skirt
+attachments/skirt/back
+attachments/skirt/front
+attachments/skirt/r_dangler
+textures

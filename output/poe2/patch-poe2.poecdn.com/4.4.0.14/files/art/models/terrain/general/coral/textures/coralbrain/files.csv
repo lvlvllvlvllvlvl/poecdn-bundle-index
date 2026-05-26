@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+44240f6a5b9f9f09,coralsbrain01c.mat,Tiny.V2,17079353,832
+55fe6289412a36c4,coralsbrain01_normal.dds,Streaming/Content/data/worldareas/maprockpools.vworld,7553408,5592580
+0e98fe27fd776218,coralsbrain01_normal.dds.header,Tiny.V4,17134055,1520
+86f6c7803222e648,coralsbrain01_colour.dds,Streaming/Content/data/worldareas/maprockpools.vworld,4757044,2796364
+dda500db4ef0e431,coralsbrain01_colour.dds.header,Tiny.V4,17132535,1520
+26f9698f7167e949,coralsbrain02c.mat,Tiny.V7,16730486,832
+f6df5a81a2d7c536,coralsbrain02_normal.dds,Streaming/Content/data/worldareas/74/hideoutshoreline.vworld,0,5592580
+c7351e867df98a1b,coralsbrain02_normal.dds.header,Tiny.V8,16911563,1520
+e2e3db5e9ebc3518,coralsbrain02_colour.dds,Streaming/Content/data/worldareas/8B/hideoutshoreline.vworld,0,2796364
+343740e8ea8404b8,coralsbrain02_colour.dds.header,Tiny.VE,16774600,1520

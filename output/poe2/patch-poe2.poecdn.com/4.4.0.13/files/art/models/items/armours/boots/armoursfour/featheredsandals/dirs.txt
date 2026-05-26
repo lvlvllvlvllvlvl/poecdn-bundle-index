@@ -1,6 +1,0 @@
-attachments
-attachments/lsandalfeathers
-attachments/ltassles
-attachments/rsandalfeathers
-attachments/rtassles
-textures

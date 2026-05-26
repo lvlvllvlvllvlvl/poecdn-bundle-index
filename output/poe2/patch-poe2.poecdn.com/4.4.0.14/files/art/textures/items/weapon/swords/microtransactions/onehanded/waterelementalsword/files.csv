@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+720ec7ddc8b4a650,back_watertile_dxt5.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.405325BEC013F393.waterelementalsword.fmt,13055,87556
+30e62a280149eb41,back_watertile_dxt5.dds.header,Tiny.V1,9442328,1520
+89debc633f96206b,mask_dxt5.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.405325BEC013F393.waterelementalsword.fmt,100611,174948
+ac7f9d846d4f3876,mask_dxt5.dds.header,Tiny.VC,45701257,840
+b5eedbf7e77ef067,waterelementswordspecularc.mat,Tiny.VE,45234887,6970
+c00252040208b75a,waterelementsword_normal_dxt5.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.405325BEC013F393.waterelementalsword.fmt,2373047,699236
+4a4550e8a8e2d37e,waterelementsword_normal_dxt5.dds.header,Tiny.V5,44991826,840
+935a932c3fda00b7,waterelementsword_colourspecular_bc7.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.405325BEC013F393.waterelementalsword.fmt,974771,1398276
+a0f7eeb28d9356c3,waterelementsword_colourspecular_bc7.dds.header,Tiny.V8,44993084,1520
+34c59a2d82434ad9,waterelementsword_colourspecular.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.405325BEC013F393.waterelementalsword.fmt,275559,699212
+d871674f1b741b5e,waterelementsword_colourspecular.dds.header,Tiny.V1,45214103,1520

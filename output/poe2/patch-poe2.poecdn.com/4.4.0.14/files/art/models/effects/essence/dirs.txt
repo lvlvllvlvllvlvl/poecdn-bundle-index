@@ -1,0 +1,6 @@
+animation
+animation/skillgemvaalarcticarmour
+animation/skillgemvaalarcticarmour/prisoncloud
+animation/skillgemvaalarcticarmour/stormcloud
+animation/skillgemvaalarcticarmour/stormcloud/tex
+animation/skillgemvaalarcticarmour/stormcloud/tex/prison

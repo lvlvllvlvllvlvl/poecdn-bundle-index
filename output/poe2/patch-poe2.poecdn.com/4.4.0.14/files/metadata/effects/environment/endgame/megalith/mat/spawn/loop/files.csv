@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+a60eca7e1d3f8560,debris_floating_r.mat,Tiny.V6,50439602,43368
+85b7dc440fc4f1f8,debris_floating_u.mat,Tiny.VE,51038058,23480
+d2f77b9b2e622def,watervapour_grainystuff.mat,Tiny.VF,50215286,25152
+306aa4e48fb93da0,watervapour_base_r.mat,Tiny.VA,51466182,24874
+cf12a3500f953768,watervapour_base_u.mat,Tiny.V5,49598931,7982
+c375235e211ee32f,wind_groundheight_looping_r.mat,Tiny.VB,50913867,39798
+91de0eafe505835e,wind_ground_looping_r.mat,Tiny.VE,51061538,40832
+e54e5f7939be204c,wind_ground_u.mat,Tiny.V0,50135554,1622
+ade7542c4ede126b,bnpnt_emit_u.mat,Tiny.V0.1,150343396,1620
+f06e8fd5a9ea584a,beam_r.mat,Tiny.VC,51260946,53444
+7f047568ee4f6609,explode_blur_r.mat,Tiny.V2,50285883,10494
+57154ecb5bd61997,explode_afterglow_01_r.mat,Tiny.V8,49708243,37156
+54c38cbf2ee57eef,lightning_bolt_r.mat,Tiny.V5.1,145427613,50958
+c8c9421c7eff2317,lightning_bolt_r2.mat,Tiny.V4.1,147196630,16738

@@ -1,0 +1,10 @@
+basetypes
+basetypes/textures
+microtransactions
+microtransactions/voidforge_starforge_atlaspassfour
+microtransactions/voidforge_starforge_atlaspassfour/fx
+microtransactions/voidforge_starforge_atlaspassfour/fx/voidforge
+microtransactions/voidforge_starforge_atlaspassfour/textures
+microtransactions/zodiacdragonsword
+microtransactions/zodiacdragonsword/attachments
+uniques

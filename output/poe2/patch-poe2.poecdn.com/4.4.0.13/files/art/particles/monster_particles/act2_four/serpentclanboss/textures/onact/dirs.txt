@@ -1,4 +1,0 @@
-attack_01_02
-summon
-summon/beam
-summon/channel

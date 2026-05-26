@@ -1,0 +1,16 @@
+arohonguitribe
+arohonguitribe/arohonguikaruimooncaster
+chieftains
+chieftains/maata
+chieftains/navali
+fallenkarui
+fallenkarui/fallenkaruifemale
+fallenkarui/fallenkaruioldermale
+karuiboar
+standalonengamahu
+standalonengamahu/ngamahu01
+standalonengamahu/ngamahudrunk
+standalonetasalio
+standalonetasalio/riptide
+standalonetasalio/trawler
+tasaliotribe

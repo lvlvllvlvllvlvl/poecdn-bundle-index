@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+8bc0bd72fbefac3e,cleansingfirephantasmminionc.mat,Tiny.V2,12195500,5344
+88e95925091d54e3,cleansingfirephantasmminion_glow_dxt1.dds,Streaming/Content/metadata/items/armours/bodyarmours/61248E55AD36D3FB.mist_spiritheld.act,580859,174924
+6b97761322fa273e,cleansingfirephantasmminion_glow_dxt1.dds.header,Tiny.VD,11917946,1520
+14f8c68e9c460ac4,cleansingfirephantasmminion_normal_dxt5.dds,Streaming/Content/metadata/items/armours/bodyarmours/61248E55AD36D3FB.mist_spiritheld.act,755783,349700
+b017263a91023b32,cleansingfirephantasmminion_normal_dxt5.dds.header,Tiny.V3,12011708,1520
+9d951a58063bd956,cleansingfirephantasmminion_colour_dxt5.dds,Streaming/Content/metadata/items/armours/bodyarmours/61248E55AD36D3FB.mist_spiritheld.act,231159,349700
+16cb81e31bac2473,cleansingfirephantasmminion_colour_dxt5.dds.header,Tiny.VA,12095395,1520
+6c6852e1e6de54e4,kethphantasmmonsterc.mat,Tiny.VC,11904955,2716
+50bc6d54b16b5348,kethphantasmmonster_normal_dxt5.dds,Streaming/Content/data/worldareas/14/sanctum_2.vworld,0,5592580
+68904eebe9b5e6e4,kethphantasmmonster_normal_dxt5.dds.header,Tiny.V3,12013228,1520
+a331e1aa7e90f7e3,kethphantasmmonster_metal_dxt1.dds,Streaming/Content/data/worldareas/sanctum_2.vworld.7,0,2796364
+2cb4877cbd84d78c,kethphantasmmonster_metal_dxt1.dds.header,Tiny.V1,11956650,1520
+1f3e5b315d96488d,kethphantasmmonster_colour_dxt1.dds,Streaming/Content/data/worldareas/45/sanctum_2.vworld,0,2796364
+a823b856ae96e940,kethphantasmmonster_colour_dxt1.dds.header,Tiny.VB,12048344,1520

@@ -1,4 +1,0 @@
-attachments
-attachments/chains
-attachments/secondring
-attachments/thirdring

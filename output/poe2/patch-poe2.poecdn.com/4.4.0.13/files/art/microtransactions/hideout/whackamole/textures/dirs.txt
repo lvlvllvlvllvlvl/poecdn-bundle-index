@@ -1,4 +1,0 @@
-foliage
-ground
-tree
-woodkit

@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-69831271bbed4d49,zerog_waterdroplets_render.mat,Tiny.VC.1,80477680,22150
-b84e29f777d10083,zerog_waterdroplets_sphere_update.mat,Tiny.VD.1,74033330,9204
-d946889f99eaf0eb,grd_caustics_render.mat,Tiny.VE.1,77760840,21190
-9d730712128a2ae8,grd_caustics_update.mat,Tiny.VB.1,120091962,1104
-ee0eb8470f7912b7,water_drops_sphere_render.mat,Tiny.V0.1,80758394,32746
-1321aefa708b7dbb,water_drops_sphere_update.mat,Tiny.VD,50519481,346
-bf5fcf79113ca6c0,water_ripple_render.mat,Tiny.VC.1,80561254,24144
-d15abe54f9ede64a,water_ripple_update.mat,Tiny.VE.1,1562868,310

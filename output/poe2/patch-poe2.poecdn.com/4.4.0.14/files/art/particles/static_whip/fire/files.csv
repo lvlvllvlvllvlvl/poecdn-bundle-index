@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+bf7345f01732d111,fire_test.mat,Tiny.V5,38584610,1726
+d9ec1379c977da1d,fire_test.dds,Streaming/Content/metadata/particles/icetrapshatter.pet,410296,174948
+49f6ddb78bda7e3d,fire_test.dds.header,Tiny.VB,39306255,840
+5b03744f1bf9fa36,trail.mat,Tiny.V9,39460719,1670
+e39286edc10850a5,trail.dds,Streaming/Content/metadata/particles/flame_whip/fire/B522513249B6A8C6.default_fire_damage3.pet,612204,43876
+9e348f5a23680242,trail.dds.header,Tiny.VB,32921492,840
+c8d80dde1885ab84,thin_firelightning.mat,Tiny.V6,38951560,2534
+e66416f3309ec5c6,thin_firelightning_dxt5.dds,Streaming/Content/metadata/particles/flame_whip/fire/B522513249B6A8C6.default_fire_damage3.pet,437256,174948
+6fd3d63da289ba31,thin_firelightning_dxt5.dds.header,Tiny.V8,38650061,840
+cd1c64f2e5569da5,light_immortal_callc.mat,Tiny.V0,39107271,2108
+e4e89ac6478ad274,light_immortal_call.dds,Streaming/Content/metadata/effects/spells/blood_tendrils/CAE58C92B230AD8B.AAA583F89DEE1EB5.beam_01_start_line.pet,562025,87556
+cc691780a7ecc9c7,light_immortal_call.dds.header,Tiny.V2,36041379,1520

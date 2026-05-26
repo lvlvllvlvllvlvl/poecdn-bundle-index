@@ -1,4 +1,0 @@
-pet
-pet/main
-pet/pulse
-pet/start

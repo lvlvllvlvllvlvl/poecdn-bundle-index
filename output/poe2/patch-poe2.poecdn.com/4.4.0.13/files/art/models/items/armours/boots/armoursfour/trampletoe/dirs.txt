@@ -1,6 +1,0 @@
-attachments
-attachments/f
-attachments/f/trampletoewrap
-attachments/m
-attachments/m/trampletoewrap
-textures

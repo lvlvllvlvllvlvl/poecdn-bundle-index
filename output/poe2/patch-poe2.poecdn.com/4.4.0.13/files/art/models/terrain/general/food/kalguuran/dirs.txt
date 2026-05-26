@@ -1,4 +1,0 @@
-textures
-textures/cheese
-textures/curedmeat
-textures/fish

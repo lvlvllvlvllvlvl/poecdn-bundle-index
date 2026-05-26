@@ -1,0 +1,3 @@
+skeleton
+skeleton/arbalest
+skeleton/arbalest/textures

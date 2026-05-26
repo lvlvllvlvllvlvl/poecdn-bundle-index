@@ -1,5 +1,0 @@
-doodads
-doodads/textures
-doodads/textures/prayerboards
-doodads/textures/stakes
-doodads/textures/wendigosigils

@@ -1,7 +1,0 @@
-graphs
-rooms
-rooms/deepwater
-rooms/fills
-rooms/shoreline
-tiles
-tiles/unwalkableoceancliff

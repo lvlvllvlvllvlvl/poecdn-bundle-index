@@ -1,0 +1,15 @@
+body_drop_sand
+canon_proj
+canon_proj_impact
+fire_geyser
+line_slam
+melee_trail
+sand_arm_emerge
+sand_arm_hit
+sand_arm_submerge
+sand_fire_orb
+sand_gather
+sand_mortar_hit
+sand_mortar_proj
+sand_tornado
+summon_beam

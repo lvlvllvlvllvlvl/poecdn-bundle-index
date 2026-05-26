@@ -1,5 +1,0 @@
-cannisters
-muffler
-shoulder_bones
-skirt
-spine_belt

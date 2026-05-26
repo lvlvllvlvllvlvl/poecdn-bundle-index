@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+24ba85a83db47675,branch04.fmt,Streaming/Content/metadata/pet/overseerlargeowl/overseerowlbranchattachment.ao,0,45233
+922ae74a5ce294c6,branch04.fmt.header,Tiny.V6,12837267,274
+59dd40f975b30dc7,rig.amd,Tiny.V2,13038801,814
+4a72ee0688d0968f,rig.ast,Content/metadata/pet/overseerlargeowl/overseerlargeowl.act,60029,482608
+089f623c2335a2e8,rig_5debee75.smd,Streaming/Content/metadata/effects/microtransactions/town_portals/F0BE21D3D6CA60BB.D9C7C7673D6E4B8D.portalowlclose.ao,0,213962
+a944e6b75a638ed7,rig_5debee75.smd.header,Tiny.V1,12766755,448
+45ea99823505b462,overseerowl_simple.sm,Tiny.V7,12796528,2808
+e318d46be83cac56,overseerlargeowl.sm,Tiny.VC,12646554,596
+d0e989998038db32,overseerlargeowl_simple_armour_bb09c17b.smd,Streaming/Content/metadata/terrain/doodads/hideouts/932222A1BEF00583.arcanecraftingbench.ao.1,874324,114877
+94402aa760f5e92d,overseerlargeowl_simple_armour_bb09c17b.smd.header,Tiny.V8,12879293,368
+887cc63b87b83a92,owl_midnightpact_boundbox.sm,Tiny.V7,12799336,370
+39a428416593318a,owl_midnightpact_portal_boundbox_2e3b7d51.smd,Tiny.V2,13038725,76
+3d664e1d43ef517a,owl_midnightpact_portal_boundbox_2e3b7d51.smd.header,Tiny.V7,12799706,448

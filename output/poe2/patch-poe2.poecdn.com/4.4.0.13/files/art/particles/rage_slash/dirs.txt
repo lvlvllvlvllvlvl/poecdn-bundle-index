@@ -1,9 +1,0 @@
-mb
-mb/monster_hit
-mb/surge
-mb/vortex
-mb/weapon_spinner
-textures
-textures/monster_hit
-textures/surge
-textures/vortex

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+1f0aacf08803b0ea,globallit_surface.fxgraph,Folders/metadata/characters.1,1475422,10922
+701b9d443fc01a60,indirectlight_multiplier.fxgraph,Shared,11299009,9354
+b8390208d68852a3,fxlit_init.fxgraph,Shared,11264057,34952
+d8df3a340e456b64,sss_translucencyctrls.fxgraph,Content/metadata/effects/spells/spear_bloodhunt/fx/bloodhunt_spearfield.pet,209590,7280
+2e31c44d028dc3e7,emissivebirth.fxgraph,Content/metadata/effects/spells/spear_bloodhunt/fx/bloodhunt_spearfield.pet,392284,28846
+507817bba6253b69,environmentcompensation.fxgraph,Content/metadata/effects/microtransactions/spells/ritual_summon_ring/44937B5BD689476D.emerge.pet,4062945,28634
+6c1df97f1c3f0b41,environmentcolor_multi.fxgraph,Shared,11209905,14686
+cb40744f18d16a56,environmentcolor_override.fxgraph,Shared,11224591,16110
+fe3c0899fc8f054c,environmentcolor_overridesss.fxgraph,Shared,11240701,23356
+6f6aba504853c1cd,environmentcolor_overrideemissive.fxgraph,Content/metadata/effects/environment/act4_four/g4_4_1/6543A974D7697D21.release_fx.pet,3934688,14126

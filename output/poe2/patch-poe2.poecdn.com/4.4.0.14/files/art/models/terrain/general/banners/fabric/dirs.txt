@@ -1,0 +1,16 @@
+textures
+textures/components
+textures/components/emblems
+textures/components/emblems/vaal
+textures/components/patterns
+textures/components/patterns/vaal
+textures/components/shapes
+textures/components/shapes/common
+textures/components/shapes/common/toptether
+textures/components/textiles
+textures/components/textiles/linen
+textures/materials
+textures/materials/default
+textures/materials/default/toptether
+textures/materials/vaal
+textures/materials/vaal/toptether

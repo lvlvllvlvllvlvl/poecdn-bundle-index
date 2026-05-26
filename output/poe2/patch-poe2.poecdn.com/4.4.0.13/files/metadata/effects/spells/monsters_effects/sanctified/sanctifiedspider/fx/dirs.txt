@@ -1,4 +1,0 @@
-onact
-onact/spit_01
-projectile
-projectile/explode

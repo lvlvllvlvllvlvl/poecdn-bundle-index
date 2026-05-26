@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+163eaa90864145e8,start_poof.pet,Tiny.VF.1,17680420,5740
+5c0fba9dc35385d4,end_ring.pet,Tiny.VE.1,16413880,10620
+4cde8f8e37ee3ab0,cyclone_hit.pet,Tiny.VC.1,18008872,9936
+0d62650f4647a189,vaal_cyclone_wind.pet,Tiny.VE.1,16427260,5098
+c21a120f8a85c4da,vaal_cyclone_cyl.pet,Tiny.V9.1,15903516,5640
+e857d0a84eeaeeaf,main_loop.pet,Tiny.V0.1,17915140,28764
+63689104cc6a439f,mid_loop.pet,Tiny.VA.1,16303836,3134
+7b59e04c894acc6e,aoe_mid.pet,Tiny.V1.1,12826664,7066
+6b66dab7b130d1b5,aoe_start_pop.pet,Tiny.VD.1,14040038,5538
+870d2be0cfe3f741,trail_grd.trl,Tiny.V6.1,16594794,2570
+d225639c9e1201a0,trl_line.pet,Tiny.V7.1,17100250,10338
+d267f30be6d2af7f,trl_aoe_start.trl,Tiny.V3.1,15540694,3034
+29f6997db470b498,trl_aoe.trl,Tiny.VE.1,16424500,2760

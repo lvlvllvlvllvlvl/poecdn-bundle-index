@@ -1,4 +1,0 @@
-attachments
-epk
-fx
-graph

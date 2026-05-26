@@ -1,4 +1,0 @@
-illusionist
-illusionist/mb
-medusa
-medusa/textures

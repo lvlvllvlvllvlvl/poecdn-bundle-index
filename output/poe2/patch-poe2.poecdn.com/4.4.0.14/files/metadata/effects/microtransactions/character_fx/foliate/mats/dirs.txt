@@ -1,0 +1,4 @@
+foliateburstcore
+foliatespawn
+petalburst
+weapon

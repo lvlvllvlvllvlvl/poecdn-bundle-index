@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+b7cfc4481e8dfdc0,desaturation.mat,Tiny.VF,3659960,3614
+76326a86fe0a7737,pro_flare_multi.mat,Tiny.VD,3667127,2828
+01da2cbf8626749c,blood_multi.mat,Tiny.V0,3750416,1642
+e2806f365992e814,blood_multi.dds,Streaming/Content/metadata/effects/microtransactions/character_fx/1A14B963EEC981B7.elder_characterfx.epk,117594,174948
+e077acb05654d5ad,blood_multi.dds.header,Tiny.VE,35298413,840
+b3d36879fa75a7d4,ice_base_at.mat,Tiny.V5,3666364,1872
+417a8920d92c14fa,ice_base_at.dds,Streaming/Content/metadata/effects/microtransactions/character_fx/1A14B963EEC981B7.elder_characterfx.epk,292542,174948
+04c2fea595ae231b,ice_base_at.dds.header,Tiny.V7,3705160,840
+d728d863f124afad,time_spectrum_add.mat,Tiny.VA,3669527,3048
+eba01e6c3f4523e4,time_spectrum_add.dds,Streaming/Content/metadata/effects/microtransactions/character_fx/1A14B963EEC981B7.elder_characterfx.epk,467490,174948
+6576480e7463125b,time_spectrum_add.dds.header,Tiny.VB,3687658,840
+b34a423476968b1f,tentaclesc.mat,Tiny.V4,3857431,4262
+80481fc1ea4e1788,tentacles_dxt5.dds,Tiny.V2,33161442,260
+44e2c5fe603f7e9f,tentacles_dxt5.dds.header,Tiny.V0,33540922,496
+1c2e3abbf9919d82,spark_bits.dds,Tiny.V8,3719051,1540
+3aff497e7148b092,spark_bits.dds.header,Tiny.V7,3706000,1520

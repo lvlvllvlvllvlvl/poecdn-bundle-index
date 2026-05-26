@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+11065ee952079870,bomb_explode.ao,Tiny.V2.1,106725194,716
+4e85c1bc7147270a,bomb_explode.aoc,Tiny.V7.1,109371238,1588
+d4bc2efd983052cd,bomb_mortar.ao,Tiny.V4.1,112212278,1360
+5b8b294a20de524e,bomb_mortar.aoc,Tiny.V4.1,112213638,5318
+6c17ba4c24f6dc8c,volatile_mortar.ao,Tiny.VF.1,109354856,742
+54a5707934a82a04,volatile_mortar.aoc,Tiny.VE.1,108369428,2308
+0e5c2b09d020d6b5,volatile_explode.ao,Tiny.V2.1,106725194,716
+4749a5d1f24c1334,volatile_explode.aoc,Tiny.VD.1,106810130,1588

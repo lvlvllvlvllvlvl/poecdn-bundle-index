@@ -1,0 +1,6 @@
+epk
+obelisk
+obelisk/close
+obelisk/open
+projectile
+projectile/impact

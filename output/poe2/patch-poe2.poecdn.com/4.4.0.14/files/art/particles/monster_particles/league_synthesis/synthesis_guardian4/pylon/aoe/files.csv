@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+95b0cf10725bec50,plasma_8x8.mat,Tiny.V9,38518006,3054
+08d7647f2dcd9e2c,plasma_8x8_bc1.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/9C3048819D915DF5.E094149AD0780436.once_midline.pet,349732,2796364
+0e910c5a1528323e,plasma_8x8_bc1.dds.header,Tiny.V7,37887594,1520
+a6c35d45b509c0f7,plasma_8x8_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/9C3048819D915DF5.E094149AD0780436.once_midline.pet,3146096,5592580
+5b3630deff7254ca,plasma_8x8_dxt5.dds.header,Tiny.V5,35051036,1520
+da01e0df4a537863,lightning_flipbook_01.mat,Tiny.V8,37656333,1836
+7b8ec25e27fbcf23,lightning_flipbook_01_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/9C3048819D915DF5.E094149AD0780436.once_midline.pet,0,349732
+5696f01e7846db41,lightning_flipbook_01_dxt5.dds.header,Tiny.V2,37915386,504
+f8f144c3ad4e3779,light_line_add.mat,Tiny.V1,37888239,2514
+8dd36a56aa8081b1,light_line_add_dxt1.dds.header,Tiny.VF,37980037,1520
+b11f2314629f26e4,flash.mat,Tiny.VC,38007554,2432
+95d22932806f1381,flash_dxt1.dds,Tiny.VB,38352895,2892
+4d2858b370be7609,flash_dxt1.dds.header,Tiny.VF,37932537,1520

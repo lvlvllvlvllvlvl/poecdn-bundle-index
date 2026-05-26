@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+8ecb46f7e2408a28,light_gradient.mat,Tiny.VB,5091832,1652
+9e46b69c8fd8f5fc,light_gradient.dds,Streaming/Content/metadata/effects/microtransactions/spells/E2D3F823ED9DCFFC.CAE58C92B230AD8B.flesh_aura.pet,481108,22020
+dbeddcdf07dbc2e9,light_gradient.dds.header,Tiny.VE,5038880,1520
+aa43dcbecb020326,light_gradient_bc1.dds,Streaming/Content/metadata/effects/microtransactions/aura/F05FB7B2394CD4D1.cyl.pet,545603,11084
+ec04574ecad56d71,light_gradient_bc1.dds.header,Tiny.VD,5016803,1520
+1a4f86e9bdd739ce,smoke.mat,Tiny.VD,5018323,1636
+5699100c3958a063,smoke.dds,Streaming/Content/metadata/effects/microtransactions/spells/C1712120C0B3B5F2.B61BE9AF84E326E9.big_spike_exert_02.ao,773287,43876
+687e7a01c492d502,smoke.dds.header,Tiny.VB,32920652,840
+5ca884d7c42095ee,fireball_flame3.mat,Tiny.VB,5089550,2282
+acdff6461b7bc762,fireball_flame3.dds,Streaming/Content/metadata/effects/microtransactions/spells/C1712120C0B3B5F2.B61BE9AF84E326E9.big_spike_exert_02.ao,685731,87556
+716e55438fd83f6f,fireball_flame3.dds.header,Tiny.VE,5037360,1520
+7df4fcf3d2579d7d,fireball_flame2.mat,Tiny.VD,5014523,2280
+ef8a84f68ec62b27,fireball_flame2.dds,Streaming/Content/metadata/effects/microtransactions/spells/C1712120C0B3B5F2.B61BE9AF84E326E9.big_spike_exert_02.ao,598175,87556
+b8546bb6e0b875a8,fireball_flame2.dds.header,Tiny.VF,4973563,1520

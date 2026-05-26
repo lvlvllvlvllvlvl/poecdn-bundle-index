@@ -1,0 +1,7 @@
+body_idle
+centerpoint_idle
+enter_along
+enter_body_along
+exit_body_along
+portal_open_burst
+surge_core

@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+434a1d86fdd5a36e,dungeon_prison_cell2x1_v01_01.tgt,Content/data/balance/worldareas/p2_5.vworld,1642068,7200
+053143a692a24c14,chainanchorpoint.fmt,Streaming/Content/metadata/monsters/perennialkingstage2/perennialking.ot.1,621978,48358
+bf526dd60553b078,chainanchorpoint.fmt.header,Tiny.V4,21447419,201
+1b25f9d01c6427c3,maximumprison.tgt,Content/data/balance/worldareas/bossrush_area3.vworld,1786090,11102
+ce6282a3035b2360,maximumprison.tmd,Tiny.VF,21285836,1858
+e51fe629b5a2e389,prison_armoury_01.tgt,Content/data/balance/worldareas/p2_5.vworld,1649268,11206
+42956270d763f9f1,prisonerarena01.tgt,Content/data/balance/worldareas/bossrush_area3.vworld,1797192,10420
+a51ef4cefe018a9e,prisonerarena01.tmd,Tiny.VC,21033087,2848

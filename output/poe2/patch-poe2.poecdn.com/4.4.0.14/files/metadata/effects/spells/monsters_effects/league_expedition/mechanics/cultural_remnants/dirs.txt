@@ -1,0 +1,7 @@
+epk
+fx
+mat
+mat/ezomyte_remnant
+mat/karui_remnant
+mat/ritual_remnant
+mat/vaal_remnant

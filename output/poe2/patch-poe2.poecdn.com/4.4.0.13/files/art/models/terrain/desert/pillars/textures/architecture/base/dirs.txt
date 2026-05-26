@@ -1,9 +1,0 @@
-arches
-clusters
-general
-pillars
-roofs
-stairs
-tileable
-turrets
-walls

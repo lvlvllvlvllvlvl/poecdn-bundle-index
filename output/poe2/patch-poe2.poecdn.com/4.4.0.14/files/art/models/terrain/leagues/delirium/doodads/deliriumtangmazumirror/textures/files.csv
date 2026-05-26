@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+25f6aa83236cd51f,dlrm_tangmazumirrorwarpc.mat,Tiny.V8,25705714,964
+c7e3e6adeed58d39,dlrm_tangmazumirrorwarp_normal.dds,Streaming/Content/data/balance/worldareas/mapuberboss_delirium.vworld.1,11185308,5592580
+64a47eec48114260,dlrm_tangmazumirrorwarp_normal.dds.header,Tiny.VB,25863331,1520
+4ceec8adb459781e,dlrm_tangmazumirrorwarp_colour.dds,Streaming/Content/data/balance/worldareas/mapuberboss_delirium.vworld.1,8388944,2796364
+1b1f3c6e65eaba88,dlrm_tangmazumirrorwarp_colour.dds.header,Tiny.V5,25159363,1520
+e6f9af661993785f,dlrm_tangmazumirrorshardc.mat,Tiny.VC,25695053,10744
+81ba0478e700a6ce,dlrm_tangmazumirrorshard_thickness.dds,Streaming/Content/data/balance/worldareas/mapuberboss_delirium.vworld.1,5592580,2796364
+f505fae34ebb225c,dlrm_tangmazumirrorshard_thickness.dds.header,Tiny.V4,25972219,1520
+5f330b7776d982c0,dlrm_tangmazumirrorshard_sss.dds,Streaming/Content/data/balance/worldareas/mapuberboss_delirium.vworld.1,0,5592580
+91f18635d45a9a60,dlrm_tangmazumirrorshard_sss.dds.header,Tiny.VD,25576904,1520
+b4ffe5379a261afa,dlrm_tangmazumirrorshard_colour.dds,Streaming/Content/data/balance/worldareas/mapuberboss_delirium.vworld,20924449,5592580
+0174072f1f58fd54,dlrm_tangmazumirrorshard_colour.dds.header,Tiny.V8,25704194,1520
+d26ef1000902a0f0,dlrm_tangmazumirrorshard_normal.dds,Streaming/Content/data/balance/worldareas/mapuberboss_delirium.vworld,26517029,5592580
+30ffa1786f8ef2ae,dlrm_tangmazumirrorshard_normal.dds.header,Tiny.V1,25535276,1520

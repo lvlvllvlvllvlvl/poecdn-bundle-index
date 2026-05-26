@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+b454347dd7df5b34,rig to ref_2df1250b.smd,Tiny.V2,32391505,658
+943d1d28ccdd6c37,rig to ref_2df1250b.smd.header,Tiny.VB,32692370,448
+f1cd6afa9abff583,coins_m.sm,Tiny.VE,32176353,474
+d8a98409fbb9bfee,coins_m.amd,Tiny.V3,3575500,86
+5632189a89ce2a6a,coins_m.ast,Content/metadata/terrain/doodads/forest/banditcamp/cauldronfire_hideout.ao,1394384,10582
+6376b14d8a2d3eb9,coins_l.sm,Tiny.VE,32176353,474
+4b2a024d1f95d4dd,coins_l.amd,Tiny.V3,3575500,86
+709926fdbeaf27ad,coins_l.ast,Content/metadata/terrain/doodads/forest/banditcamp/cauldronfire_hideout.ao,1383802,10582
+f8e56dcf974c20d3,coins_s.sm,Tiny.VE,32176353,474
+1ab63a21d7880e2d,coins_s.amd,Tiny.V3,3575500,86
+7c0c2131f84de83e,coins_s.ast,Content/metadata/effects/environment/hideout/frontier_wrangler/6A599F66072C5280.coins.pet,17242,10582
+31091b9224136ffe,bullet_phc.mat,Tiny.V6,32313901,1150
+0537c8a3c408669b,bullet_ph.dds,Tiny.V9,6359863,332
+cd32fbc4cf01e689,bullet_ph.dds.header,Tiny.V6,6307595,1520
+76d83bb10547baf9,bullets_wrangler.fmt,Tiny.V7,32291648,911
+bd01b00b1d205d19,bullets_wrangler.fmt.header,Tiny.V9,32878894,221

@@ -1,4 +1,0 @@
-dust_kickup
-punch_impact
-rock_proj
-weapon_oomph

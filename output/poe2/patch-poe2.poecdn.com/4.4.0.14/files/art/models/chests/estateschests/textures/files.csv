@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+5b382740903e6810,est_oriathchests02_normal_dxt5.dds,Streaming/Content/metadata/chests/oriathchests/oriathchest02.ao.1,0,1398276
+d561568529f1602f,est_oriathchests02_normal_dxt5.dds.header,Tiny.VF,6753084,1520
+2922f5f5ea8515e6,est_oriathchests02_colour_dxt5.dds,Streaming/Content/metadata/chests/oriathchests/oriathchest02.ao,0,5592580
+cbdd8bcbce4996f3,est_oriathchests02_colour_dxt5.dds.header,Tiny.VF,6751564,1520
+0292ddbc263a8e33,est_oriathchests01_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/oriath/B1BE833DBB2F5802.669941C8EB33A619.crateg02.ao.1,0,5592580
+d35c8b4675105fb6,est_oriathchests01_normal_dxt5.dds.header,Tiny.V2,7040842,1520
+0a09548d90ec4902,est_oriathchests01_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/oriath/B1BE833DBB2F5802.669941C8EB33A619.crateg02.ao,0,5592580
+0d5730cc0d1515a6,est_oriathchests01_colour_dxt5.dds.header,Tiny.VD,6647958,1520
+8b20ce0bf9b1e938,est_oriathchests03_normal_dxt5.dds,Streaming/Content/metadata/chests/oriathchests/oriathchest03.ao,1398276,5592580
+c98843454adaaa7c,est_oriathchests03_normal_dxt5.dds.header,Tiny.V1,6666032,1520
+3edd248f3864c74a,est_oriathchests03_colour_dxt5.dds,Streaming/Content/metadata/chests/oriathchests/oriathchest03.ao,0,1398276
+8db6719e3a6fe210,est_oriathchests03_colour_dxt5.dds.header,Tiny.V4,6854159,1520

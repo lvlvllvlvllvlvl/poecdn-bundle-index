@@ -1,0 +1,4 @@
+fx
+mat
+mat/smoke_fadein
+mat/smoke_idle

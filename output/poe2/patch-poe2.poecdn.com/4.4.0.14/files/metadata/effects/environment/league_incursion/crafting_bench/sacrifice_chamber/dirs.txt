@@ -1,0 +1,11 @@
+craftingbench_t1
+craftingbench_t1/epk
+craftingbench_t1/mat
+craftingbench_t1/pet
+craftingbench_t2
+craftingbench_t2/fx
+craftingbench_t2/mats
+craftingbench_t3
+craftingbench_t3/fx
+craftingbench_t3/graphs
+craftingbench_t3/mats

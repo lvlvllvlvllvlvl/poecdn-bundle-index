@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+6fdc204427273001,rvl_skeletonswordsa_pxc.mat,Tiny.V8,40460128,3098
+1fd9454ad3116c6e,rvl_skeletonswordsa_height.dds,Streaming/Content/data/worldareas/09/c_g1_5.vworld,1479895,5592580
+c3dfeb4d4f2a480b,rvl_skeletonswordsa_height.dds.header,Tiny.V5,40452882,1520
+eaf1a686e78d08e5,rvl_skeletonswordsa_normal.dds,Streaming/Content/data/worldareas/BC/c_g1_5.vworld,1337625,5592580
+defcb1278ae35c48,rvl_skeletonswordsa_normal.dds.header,Tiny.V5,40454402,1520
+a5876fc5705bccdc,rvl_skeletonswordsa_metallic.dds,Streaming/Content/metadata/terrain/doodads/woods/61E79985F931A9C7.rustpile_5.ao,0,5592580
+e85da7fa06125dda,rvl_skeletonswordsa_metallic.dds.header,Tiny.VC,40927401,1520
+e1fbc5fc250f8a10,rvl_skeletonswordsa_colour.dds,Streaming/Content/data/worldareas/93/c_g1_5.vworld,7989306,2796364
+c729e10db142b81f,rvl_skeletonswordsa_colour.dds.header,Tiny.V3,40140336,1520
+7a9d08bae8fc1cc2,rvl_skeletonswords01c.mat,Tiny.V6,40737472,1428
+f8649aa536e53ab2,rvl_skeletonswords01_normal.dds,Streaming/Content/data/worldareas/F8/c_g1_5.vworld,1621021,1398276
+49a4fc743b1d772f,rvl_skeletonswords01_normal.dds.header,Tiny.VA,41043504,1520
+1d9bdda45aeb8937,rvl_skeletonswords01_colour.dds,Streaming/Content/data/worldareas/F0/c_g1_5.vworld,0,349700
+8d0bd1a1069b839c,rvl_skeletonswords01_colour.dds.header,Tiny.V3,40138816,1520

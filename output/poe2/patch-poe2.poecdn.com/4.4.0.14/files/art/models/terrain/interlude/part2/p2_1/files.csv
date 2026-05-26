@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+23fd946088536d10,titan_forge.tgt,Content/data/balance/worldareas/p2_1.vworld,1540597,4898
+4267cfcead2d1a69,forge_entrance.tgt,Content/data/balance/worldareas/p2_1.vworld,1338644,8688
+2573c0a71049831b,river_barrins_exit.tgt,Tiny.VF,18696724,3390
+c747a62a441bafad,dregs_transition.tgt,Content/data/balance/worldareas/p2_1.vworld,1330990,7654
+5c4d3239ac912e3d,gates_exit_transition_01.tgt,Content/data/balance/worldareas/p2_1.vworld,1347332,18074
+7cb44d6b9b555603,salt_waste_bossroom.tgt,Content/data/balance/worldareas/p2_1.vworld,1365406,23278
+5fc4b2c30cf35407,saltwaste_building_landmark_02.tgt,Tiny.V2,18610342,3710
+fe9e1d4214f11a8c,saltwaste_building_landmark_01.tgt,Content/data/balance/worldareas/p2_1.vworld,1388684,4370
+85408609fac9c755,clifftodune_st_01.tgt,Tiny.V5,18318921,2540
+3928a7bae3dc1a14,clifftodune_transition_cvcv_01.tgt,Tiny.VE,18455541,3242
+f0ed8f7bb17d5aed,clifftodune_cv_01.tgt,Tiny.VB,18508810,2036
+e698090393475557,clifftodune_cc_01.tgt,Tiny.V8,18604206,2344

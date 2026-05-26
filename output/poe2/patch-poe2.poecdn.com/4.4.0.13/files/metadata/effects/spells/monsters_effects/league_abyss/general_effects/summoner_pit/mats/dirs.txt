@@ -1,3 +1,0 @@
-pit_activation
-pit_active
-pit_idle

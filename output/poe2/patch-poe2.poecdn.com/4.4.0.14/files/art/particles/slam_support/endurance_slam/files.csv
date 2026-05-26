@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+47ef20111769c799,core_01.mat,Tiny.V2,38666404,926
+0f2d4ed6181b0301,core_01_dxt1.dds,Streaming/Content/metadata/particles/slam_support/endurance_slam/D49AD5188C8ADFC5.impact_mid.pet,0,11084
+05afbc9b6f438571,core_01_dxt1.dds.header,Tiny.VA,32144153,1520
+567dc662530e574d,spark1.mat,Tiny.V4,39180155,1284
+72a5fae82f85a261,spark2.mat,Tiny.V6,38748693,984
+760431464adcf48b,shock.mat,Tiny.V2,38667330,720
+2ad1e74f4366bef8,shockwavesphere.mat,Tiny.V3,38219946,2922
+ff77d957f2dfd9ed,shock_dxt1.dds,Streaming/Content/metadata/particles/slam_support/endurance_slam/D49AD5188C8ADFC5.impact_mid.pet,186008,174924
+2645c2396922f2e4,shock_dxt1.dds.header,Tiny.VD,31963443,1520
+da54a7257c27fd68,flow_red_sparks.mat,Tiny.VE,38528160,1620
+15c3dd4dd360618f,fire_bits_2x2.mat,Tiny.VA,38956097,3674
+453752ed5b35deb7,ring_shockwave.mat,Tiny.V6,38747367,1326
+af013743dc301db1,ring_half.mat,Tiny.V3,38218342,1604
+be84b11ee7303e67,ring_half_dxt1.dds,Streaming/Content/metadata/particles/slam_support/endurance_slam/D49AD5188C8ADFC5.impact_mid.pet,11084,174924
+5034f6d28a40da45,ring_half_dxt1.dds.header,Tiny.V4,39178635,1520

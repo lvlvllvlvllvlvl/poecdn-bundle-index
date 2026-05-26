@@ -1,0 +1,7 @@
+onact_fire_projectile
+palmclone
+soundwave_projectile
+soundwave_projectile/projectile_01
+wind_buff
+windpalmempty
+windpalmstun

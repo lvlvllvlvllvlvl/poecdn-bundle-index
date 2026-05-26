@@ -1,0 +1,7 @@
+dagger_throw
+dagger_throw/fx
+dagger_throw_poison
+dagger_throw_poison/fx
+poison_spin
+poison_spin/aoe
+poison_spin/fx

@@ -1,0 +1,12 @@
+helma
+helma/birdhelm
+helma/knighthelm
+helmb
+helmb/birdhelm
+helmb/knighthelm
+helmetachainmail
+helmetachainmail/str
+helmetastrips
+helmetbchainmail
+helmetbchainmail/str
+helmethairb

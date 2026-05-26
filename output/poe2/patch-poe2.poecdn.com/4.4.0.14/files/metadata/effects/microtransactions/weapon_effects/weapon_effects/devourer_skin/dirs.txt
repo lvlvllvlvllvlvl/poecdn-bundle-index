@@ -1,0 +1,7 @@
+graphs
+pet
+pet/1h_axe
+pet/2h_axe
+pet/2h_sword
+pet/bow
+pet/claw

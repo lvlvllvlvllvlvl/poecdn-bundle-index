@@ -1,0 +1,11 @@
+body
+body/cape
+body/cape/str
+body/skirt
+body/sleeves
+body/sleeves/int
+body/sleeves/str
+gloves
+gloves/rope
+helmet
+helmet/fur

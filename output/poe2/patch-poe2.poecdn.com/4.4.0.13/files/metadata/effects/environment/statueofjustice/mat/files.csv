@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-2065ecefac5f9277,body_wisps_r.mat,Tiny.V5,53429436,29612
-4e1ed854599abb48,body_wisps_u.mat,Tiny.V2.1,509514,10628
-e0ba43ee34068d90,heat_distort_r.mat,Tiny.V5,53459048,14278
-2c156ac4b26cfeb6,heat_distort_u.mat,Tiny.V1,53470548,6450
-cf8bd8d55337dc10,embers_r.mat,Tiny.V7,48732360,32124
-13053a7d62eaa050,embers_u.mat,Tiny.VB,54085571,19498
-041726e7c0a7d210,fire_pt_r.mat,Tiny.V0.1,2731150,28666
-9c5af6d201c689ac,fire_pt_u.mat,Tiny.V0.1,2759816,7392

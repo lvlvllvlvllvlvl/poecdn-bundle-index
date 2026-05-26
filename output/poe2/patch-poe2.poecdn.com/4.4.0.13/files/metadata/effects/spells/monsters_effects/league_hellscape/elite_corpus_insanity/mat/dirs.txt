@@ -1,5 +1,0 @@
-attack_01
-bloodorb
-bloodorb_burst
-proj
-spike

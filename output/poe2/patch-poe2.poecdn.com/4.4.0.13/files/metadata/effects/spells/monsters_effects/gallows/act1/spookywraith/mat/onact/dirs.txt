@@ -1,7 +1,0 @@
-create_orb_01
-dash_01
-lightning
-lightning/spellcast_01
-lightning/spellcast_01/impact
-lightning/spellcast_01/projectile
-lightning/spellcast_01/release

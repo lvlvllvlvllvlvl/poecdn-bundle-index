@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+f7527ddf6f84800d,rvl_drymoss01c.mat,Tiny.V7,40819233,1232
+aedb830929aa1544,rvl_drymoss01_pxc.mat,Tiny.VF,40888920,2594
+7d46ed3cd6aa5023,rvl_drymoss01_mcfc.mat,Tiny.VB,41135501,2152
+782a8ea6f60ee974,rvl_drymoss01_height.dds,Streaming/Content/data/worldareas/1F/c_g1_5.vworld,64090,2796364
+4ca697bcbb5c9100,rvl_drymoss01_height.dds.header,Tiny.VC,40912357,1520
+13af26d4cbeda7e1,rvl_drymoss01_normal.dds,Streaming/Content/data/worldareas/2E/mapbloodwood_noboss.vworld,0,5592580
+e2c1dd24c6dd8a32,rvl_drymoss01_normal.dds.header,Tiny.VE,40501287,1520
+6cfbb9a1956aa02f,rvl_drymoss01_colour.dds,Streaming/Content/data/worldareas/FF/mapbloodwood_noboss.vworld,846129,2796364
+d82472eade89ef01,rvl_drymoss01_colour.dds.header,Tiny.V0,41006177,1520

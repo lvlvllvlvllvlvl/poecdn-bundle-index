@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+1e2a8e462dd41ac2,smoke_01.mat,Tiny.V0,36168671,2302
+9a4d39e85d785835,smoke_01.dds,Streaming/Content/metadata/particles/monster_effects/6BFE022A5E838E27.proj_flying_trl.trl,430528,22020
+e9a9c64362abb2e0,smoke_01.dds.header,Tiny.VB,36361999,1520
+25394519ffe6d42c,grad_multic.mat,Tiny.VB,36359983,2016
+020d686bd6bd99cb,grad_multi.dds,Streaming/Content/metadata/effects/spells/monsters_effects/B589B0D0925987C1.9476D17063BDC651.temporal_chains.epk,10140,87556
+ba4e021aaabf7014,grad_multi.dds.header,Tiny.V3,35451446,1520
+d1c2c690c3c3340c,runesc.mat,Tiny.VA,36193795,2910
+7e6bd0f807200b62,runes.dds,Streaming/Content/metadata/effects/spells/monsters_effects/B589B0D0925987C1.9476D17063BDC651.temporal_chains.epk,97696,87556
+324434a22761e156,runes.dds.header,Tiny.V0,36167151,1520

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+59c654608ba931c9,illusionistbackspecularc.mat,Tiny.V6,44962444,3144
+11bad0b976f58a3c,illusionistback_normal_dxt5.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.122E4CB73995283F.illusionistbackattachment.fmt,4544692,349732
+68c49b0f2386a551,illusionistback_normal_dxt5.dds.header,Tiny.VF,45126360,504
+17deeeb4fb3615c8,illusionistback_colourspecular_bc7.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.122E4CB73995283F.illusionistbackattachment.fmt,349692,699236
+b779008abee60477,illusionistback_colourspecular_bc7.dds.header,Tiny.V9,45586843,840
+08ec5511cfa0cb3a,illusionistback_colourspecular.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.122E4CB73995283F.illusionistbackattachment.fmt,0,349692
+b2d9390cbc67cf1e,illusionistback_colourspecular.dds.header,Tiny.V1,44835763,840
+70f08e9b266dc25e,illusionistback_fxc.mat,Tiny.V6,44959672,2772
+b8e23361036de83f,illusionistback_fx_glow_dxt5.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.122E4CB73995283F.illusionistbackattachment.fmt,3146416,1398276
+461bffc92add08ee,illusionistback_fx_glow_dxt5.dds.header,Tiny.VD,45040726,1520
+11658e53045910e7,illusionistback_fx_colour_bc1.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.122E4CB73995283F.illusionistbackattachment.fmt,1048928,699212
+79a367f4193faa1b,illusionistback_fx_colour_bc1.dds.header,Tiny.V3,44413427,1520
+ec9fff087d1b4f19,illusionistback_fx_colour_dxt5.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.122E4CB73995283F.illusionistbackattachment.fmt,1748140,1398276
+04035abc07bed10c,illusionistback_fx_colour_dxt5.dds.header,Tiny.VD,45039206,1520

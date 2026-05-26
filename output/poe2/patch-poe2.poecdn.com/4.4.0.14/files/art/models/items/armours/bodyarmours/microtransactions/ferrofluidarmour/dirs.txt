@@ -1,0 +1,10 @@
+attachments
+attachments/ferrofluidrobe
+attachments/ferrofluidrobefemale
+attachments/ferrofluidrobeshoulderpads
+attachments/ferrofluidrobeshoulderpads/animation
+attachments/ferrofluidrobeshoulderpads/animation/l_side
+attachments/ferrofluidrobeshoulderpads/animation/r_side
+textures
+textures/gold
+textures/white

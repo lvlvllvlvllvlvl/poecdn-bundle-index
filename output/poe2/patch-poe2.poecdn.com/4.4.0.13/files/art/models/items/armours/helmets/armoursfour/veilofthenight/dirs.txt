@@ -1,4 +1,0 @@
-attachments
-attachments/crowd
-attachments/crowdstr
-textures

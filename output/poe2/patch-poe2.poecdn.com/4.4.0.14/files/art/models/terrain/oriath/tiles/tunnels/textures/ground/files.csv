@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+046bdfdb1478db53,g_smt_floorboards01_normal.dds,Streaming/Content/metadata/terrain/doodads/oriath/3294B8632BD4ABBC.B1790B1CE7DC6341.tunnels_woodfloor_st_02.ao,699212,1398276
+54a61c6599b16a53,g_smt_floorboards01_normal.dds.header,Tiny.V3,29135674,1520
+5050457821297917,g_smt_floorboards01_colour.dds,Streaming/Content/metadata/terrain/doodads/oriath/3294B8632BD4ABBC.B1790B1CE7DC6341.tunnels_woodfloor_st_02.ao,0,699212
+e8eb3ee1fd00cc6f,g_smt_floorboards01_colour.dds.header,Tiny.VA,29654169,1520
+bc4fa36d0c128647,smt_floorboards01c.mat,Tiny.VC,29720905,1166
+19a04f7caca6ae2b,smt_floormosaicc01c.mat,Tiny.V5,29041089,4036
+cf0d7cec6b542fb2,smt_floormosaicc01_height_bc7.dds,Streaming/Content/metadata/terrain/doodads/oriath/3294B8632BD4ABBC.B1790B1CE7DC6341.tunnels_concretefloor_stairsst_01.ao,1398276,5592580
+681a6ffb91f8bf0c,smt_floormosaicc01_height_bc7.dds.header,Tiny.VF,29664599,1520
+3829ca0dbebc2e47,smt_floormosaicc01_normal_bc7.dds,Streaming/Content/metadata/terrain/doodads/oriath/3294B8632BD4ABBC.B1790B1CE7DC6341.tunnels_concretefloor_stairsst_01.ao.1,0,1398276
+1180ad91da7baf64,smt_floormosaicc01_normal_bc7.dds.header,Tiny.VB,29718013,1520
+47eb25370e0c117e,smt_floormosaicc01_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/oriath/3294B8632BD4ABBC.B1790B1CE7DC6341.tunnels_concretefloor_stairsst_01.ao,0,1398276
+f9e95553caefa5c6,smt_floormosaicc01_colour_bc7.dds.header,Tiny.V5,29039569,1520

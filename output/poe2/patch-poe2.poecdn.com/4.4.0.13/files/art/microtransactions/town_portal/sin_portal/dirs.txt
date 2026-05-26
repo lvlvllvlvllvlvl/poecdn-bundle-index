@@ -1,2 +1,0 @@
-sin_portal01
-sin_portal01/textures

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+a85a479090b74baa,spike_02.fmt,Tiny.VD,32637059,2032
+b9c475e396a96016,spike_02.fmt.header,Tiny.V8,32221085,171
+d1e8b6b50a674b0c,veinsgeo_lod5.fmt,Tiny.V1,32335124,1278
+71a0944202a88da4,veinsgeo_lod5.fmt.header,Tiny.VC,32584417,128
+789088c418926125,veinsgeo_lod0.fmt,Streaming/Content/metadata/effects/environment/corrupted_obelisk/1F35E63A751D6E18.corrupted_buff.epk,0,20310
+9beb7f49f95441cb,veinsgeo_lod0.fmt.header,Tiny.V7,32245552,128
+4c0362e219ca2a2c,veinsgeo_lod3.fmt,Streaming/Content/metadata/effects/environment/corrupted_obelisk/1F35E63A751D6E18.corrupted_buff.epk,28500,4350
+e586b06e1d308141,veinsgeo_lod3.fmt.header,Tiny.V5,32041635,128
+9e7a17a9c4e9d7e4,veinsgeo_lod1.fmt,Streaming/Content/metadata/effects/microtransactions/spells/3B79F2B36AB63B42.A2423F3D01E7A113.corrupted_grd.pet,0,15870
+fd1d514ff37b621c,veinsgeo_lod1.fmt.header,Tiny.V8,32221256,128
+63317e1a67426474,veinsgeo_lod2.fmt,Streaming/Content/metadata/effects/environment/corrupted_obelisk/1F35E63A751D6E18.corrupted_buff.epk,20310,8190
+25b911265c31875e,veinsgeo_lod2.fmt.header,Tiny.VE,32140100,128
+b56e93749285f0d0,veinsgeo_lod4.fmt,Tiny.VB,32655930,1854
+c88aef74f5e4c7a1,veinsgeo_lod4.fmt.header,Tiny.V4,32874093,128
+b6814ca05f257739,crystal_13.fmt,Streaming/Content/metadata/effects/environment/corrupted_obelisk/1F35E63A751D6E18.radiant_grd.epk.2,2796364,12768
+ac5a802252edfe6d,crystal_13.fmt.header,Tiny.VF,32617482,175

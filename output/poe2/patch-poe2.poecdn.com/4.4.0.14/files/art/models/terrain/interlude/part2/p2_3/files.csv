@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+0b0c0f446ab43010,bossroomtile.tgt,Content/data/balance/worldareas/g4_town.vworld,2330557,11336
+0b05afc974ce3932,sealpillar_01.tgt,Tiny.V4,19016181,732
+ffb04dc1a826f2ef,vault_wall_feature_02.tgt,Content/data/balance/worldareas/g4_town.vworld,2420158,4574
+51a80eba47614eab,vault_wall_feature_01.tgt,Tiny.V6,18576721,3880
+60d261273b4936b7,penitentarchive_entrance.tgt,Content/data/balance/worldareas/g4_town.vworld,2341893,4268
+54655f38003aa37a,pillardecor01.fmt,Streaming/Content/data/worldareas/B5/mapcaverncity.vworld,0,39622
+fa189c2111357332,pillardecor01.fmt.header,Tiny.V9,18905730,244
+ae0cabd31e0f6204,floorseals02.fmt,Streaming/Content/metadata/terrain/doodads/interlude/E172A24FE5E519DA.kethpostlight01.ao,311558,5816
+29389451c655252d,floorseals02.fmt.header,Tiny.VB,18624739,203
+a9941a014a382df5,floorseals04.fmt,Tiny.V4,19012754,3224
+8f67f7d99a14bbc4,floorseals04.fmt.header,Tiny.V4,19015978,203
+344503045ab66eb0,floorseals01.fmt,Tiny.V0,18906132,3224
+48b5d69d4452c883,floorseals01.fmt.header,Tiny.V5,18454380,203
+c6da3885f12a6325,floorseals03.fmt,Streaming/Content/metadata/terrain/doodads/interlude/E172A24FE5E519DA.kethpostlight01.ao,305742,5816
+a63397a6a07bc319,floorseals03.fmt.header,Tiny.VF,18847842,203

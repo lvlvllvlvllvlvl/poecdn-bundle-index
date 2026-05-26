@@ -1,0 +1,9 @@
+doodads
+doodads/effigy
+doodads/effigy/ezomyteeffigystand02
+doodads/effigy/ezomyteeffigystand03
+doodads/effigy/ezomyteeffigystand04
+doodads/effigy/textures
+textures
+textures/ground
+tgms

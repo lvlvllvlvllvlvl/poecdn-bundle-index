@@ -1,6 +1,0 @@
-audio
-epk
-fx
-graph
-mat
-mat/tanglerootl

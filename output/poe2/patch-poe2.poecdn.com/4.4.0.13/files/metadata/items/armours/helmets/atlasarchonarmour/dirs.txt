@@ -1,3 +1,0 @@
-attachments
-hood
-hood/attachments

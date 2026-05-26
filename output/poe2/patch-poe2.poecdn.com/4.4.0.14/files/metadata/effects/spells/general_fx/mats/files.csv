@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+9ad16158dbc9a0b1,liferecovery_skin.mat,Tiny.VA.1,43429250,58142
+8a96888712129a3d,manarecovery_skin.mat,Tiny.VF.1,49319398,58144
+879d696e18b939ab,channelrestore_mana_r.mat,Tiny.VC.1,50782028,40388
+2b2a3da30f3f442a,channelrestore_mana_u.mat,Tiny.VD.1,45283282,5422
+cffd7a5f79bd0e59,channelrestore_life_r.mat,Tiny.VC.1,50741636,40392
+fd7c693781cc61cd,channelrestore_life_u.mat,Tiny.VD.1,45283282,5422
+b3a84d50a1cf783d,burstrestore_mana_r.mat,Tiny.VF.1,49279376,40022
+42f72c222b0c0de8,burstrestore_mana_u.mat,Tiny.V1.1,42074518,6818
+d18ad70847712142,burstrestore_life_r.mat,Tiny.VC.1,50701610,40026
+5340b7f417894b6c,burstrestore_life_u.mat,Tiny.V1.1,42074518,6818

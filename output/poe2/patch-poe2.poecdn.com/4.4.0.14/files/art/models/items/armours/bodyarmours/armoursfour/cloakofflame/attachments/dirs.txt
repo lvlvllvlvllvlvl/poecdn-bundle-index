@@ -1,0 +1,10 @@
+female
+female/belt
+female/lsleeves
+female/rsleeves
+female/skirt
+male
+male/belt
+male/lsleeves
+male/rsleeves
+male/skirt

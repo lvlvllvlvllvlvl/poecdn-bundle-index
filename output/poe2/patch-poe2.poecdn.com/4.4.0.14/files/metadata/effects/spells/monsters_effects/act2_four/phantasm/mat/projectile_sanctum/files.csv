@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+7436203434869010,wisp_trail.mat,Tiny.V2.1,61070330,41062
+d9da98360f93f228,lightning_warptrail_01_r.mat,Tiny.VB.1,101488248,13712
+5b4397a8c0be685d,lightning_smoketrail_02_r.mat,Tiny.V1.1,101085802,49374
+989974b5bb3b5615,lightning_hori_2.mat,Tiny.V3.1,58891604,34040
+f3b24f6b9845e6be,lightning_hori_1.mat,Tiny.VE.1,60378512,28196
+5893808a3acbe60e,sand_ball_r.mat,Tiny.V5.1,59407124,37460
+885eeb53065ab9cd,sand_ball_u.mat,Tiny.VD,50518121,346
+8d7d48b3429e04f3,sand_prtcl_r.mat,Tiny.V2.1,61037670,32660
+54ea55ce144e840b,sand_prtcl_u.mat,Tiny.VB.1,60499230,19012
+a2ed774884a7f77e,core_trail_01.mat,Tiny.V7.1,59585264,35710
+2698c664f67d813f,core_flare_r.mat,Tiny.VB.1,58059916,19796
+dbc7e3fd255e77b7,core_flare_u.mat,Tiny.VD,50518121,346
+62e5c7d5e60e8c8c,mblur_trail_core.mat,Tiny.VA.1,57948488,18620
+70c26c2c86405b42,mblur_sphere_r.mat,Tiny.VA.1,110004636,14128
+1366663373a6adb8,mblur_sphere_u.mat,Tiny.VD,50518121,346

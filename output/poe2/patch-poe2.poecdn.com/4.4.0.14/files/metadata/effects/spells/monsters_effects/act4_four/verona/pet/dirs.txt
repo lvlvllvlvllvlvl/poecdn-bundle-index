@@ -1,0 +1,13 @@
+ambient
+ambient_lightning_strike
+centre_rune
+cyclone_01
+dark_storm
+darkness_phase
+death_01
+dualstrike
+emerge
+escaped_wisp
+melee_swipes
+shadow_wraith
+teleport

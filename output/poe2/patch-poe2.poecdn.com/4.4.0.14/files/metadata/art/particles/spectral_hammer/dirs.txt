@@ -1,0 +1,2 @@
+impacts
+weapon_attachment_particles

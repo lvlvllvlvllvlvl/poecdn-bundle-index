@@ -1,5 +1,0 @@
-healmortar
-ignitemortar
-ignitemortar_midair
-poisonmortar
-poisonmortar_midair

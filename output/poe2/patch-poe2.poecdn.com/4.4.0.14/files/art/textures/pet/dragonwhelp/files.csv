@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e6fef0cccfb233cf,dragonwhelpspecularc.mat,Tiny.VF,46242598,3312
+42827e9030fb9864,dragonwhelp_sss_dxt5.dds,Streaming/Content/metadata/pet/dragonwhelp/dragonwhelp.ao.1,1398276,1398276
+10d1d1b68bb49799,dragonwhelp_sss_dxt5.dds.header,Tiny.VE,45988293,1520
+8af3d09589d0e443,dragonwhelp_colourspecular_bc7.dds,Streaming/Content/metadata/pet/dragonwhelp/dragonwhelp.ao,1615400,2796388
+2360f1dd5668c51e,dragonwhelp_colourspecular_bc7.dds.header,Tiny.V2,46086017,840
+c0f272ec02e37c31,dragonwhelp_colourspecular.dds,Streaming/Content/metadata/pet/dragonwhelp/dragonwhelp.ao,217132,1398268
+f6ab6caa70ea82a5,dragonwhelp_colourspecular.dds.header,Tiny.V4,46737757,840
+f5b6ac41b56cd3bd,dragonwhelp_normal_dxt5.dds,Streaming/Content/metadata/pet/dragonwhelp/dragonwhelp.ao.1,0,1398276
+2e9a2e0587220412,dragonwhelp_normal_dxt5.dds.header,Tiny.VE,45986773,1520

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+5a4a360b1f459b4a,iceandfireshieldcns.mat,Tiny.VC,45524455,5928
+fc4ed40f66e52a52,iceandfireshieldns.dds,Streaming/Content/metadata/items/armours/shields/fireandiceshield.ao,1427330,349700
+f7a1c96f173b0a7e,iceandfireshieldns.dds.header,Tiny.V2,45173471,1520
+06924da23c65d836,iceandfireshield_sss.dds,Streaming/Content/metadata/items/armours/shields/fireandiceshield.ao,1077630,349700
+27dcd533106509b6,iceandfireshield_sss.dds.header,Tiny.VA,45407469,1520
+f73e6052cf417ec1,iceandfireshield_colour.dds,Streaming/Content/metadata/items/armours/shields/fireandiceshield.ao,28530,349700
+8126e55039ddb86b,iceandfireshield_colour.dds.header,Tiny.V7,45356003,1520
+e32bd88f149d2fa8,iceandfireshield_gloss.dds,Streaming/Content/metadata/items/armours/shields/fireandiceshield.ao,378230,349700
+e1d1a0e9a6592599,iceandfireshield_gloss.dds.header,Tiny.V9,45927025,1520
+fc23a01bc19a7bcb,iceandfireshield_glowc.mat,Tiny.V7,45357523,1368
+50b276fe5e8299d6,iceandfireshield_glow.dds,Streaming/Content/metadata/items/armours/shields/fireandiceshield.ao,727930,349700
+3863f6d5c7fe81ab,iceandfireshield_glow.dds.header,Tiny.VD,45248967,1520

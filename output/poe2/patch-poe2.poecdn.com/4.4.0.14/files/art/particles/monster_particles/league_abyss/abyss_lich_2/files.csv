@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+f99593969f6cb6be,trail.mat,Tiny.VB,36785137,1732
+f1d0af9d6d04ab1c,trail.dds,Streaming/Content/metadata/particles/monster_effects/league_abyss/807B975F9FD34CE2.charge_popin.pet,334364,43876
+b5fa1861d9f3c3e1,trail.dds.header,Tiny.VD,36503915,840
+4a55bd7926d8a20f,trail_main.mat,Tiny.V0,36628399,2186
+dc209cda0e5ad696,trail_main.dds,Streaming/Content/metadata/particles/monster_effects/league_abyss/90B1BF1A3D2E3C5B.skeleton_mid.pet,1333624,43876
+80a245b79a010912,trail_main.dds.header,Tiny.V5,35928607,840
+bd7c84d4e496ea5a,soul_trail_multiply.dds,Streaming/Content/metadata/particles/monster_effects/league_abyss/90B1BF1A3D2E3C5B.skeleton_mid.pet,1158676,174948
+2326b897f328b908,soul_trail_multiply.dds.header,Tiny.VA,36637706,840
+6fed3c93383ee27b,soul_multi.mat,Tiny.V9,36946288,3672
+3722900da9031d03,soul_multi.dds,Streaming/Content/metadata/particles/monster_effects/league_abyss/90B1BF1A3D2E3C5B.skeleton_mid.pet,808976,349700
+7f6b8ae2b49ff3ea,soul_multi.dds.header,Tiny.VA,36615440,1520
+334352f4731f4697,snow_side_explosion.mat,Tiny.VD,36501197,2718
+f5a9ac9b55ad874b,snow_side_explosion.dds,Streaming/Content/metadata/particles/monster_effects/league_abyss/42E7C644784BA28A.444B0F5433EAF95D.mid_trail.pet,416480,22020
+f705ac7211797669,snow_side_explosion.dds.header,Tiny.VD,37176395,1520

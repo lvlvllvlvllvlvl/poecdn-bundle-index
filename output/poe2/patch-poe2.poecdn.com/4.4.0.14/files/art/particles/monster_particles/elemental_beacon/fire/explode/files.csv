@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+63558dec1482ad77,charge_24.mat,Tiny.VA,36332836,1890
+5742053af870298f,charge_24.dds,Streaming/Content/metadata/particles/monster_effects/fire_elemental/4B5AD401497D01E6.242DD7897339D20B.mid.pet,0,699300
+9d97afa5250bd1ee,charge_24.dds.header,Tiny.V4,5395132,344
+ba52146ae0174796,shockwave2.mat,Tiny.VB,36522533,2650
+04634281a3ae0815,shockwave2.dds,Streaming/Content/metadata/particles/monster_effects/fire_elemental/4B5AD401497D01E6.242DD7897339D20B.mid.pet,699300,349700
+d44a67412db97679,shockwave2.dds.header,Tiny.V1,35886486,1520
+21e299c65883048c,shockwave_start.mat,Tiny.V3,35623221,2836
+0bb109ad054d16a4,shockwave_start.dds,Streaming/Content/metadata/particles/monster_effects/elemental_beacon/BF6039A7874A81E4.85CB3B376B735BB9.mid.pet,1426356,349700
+8c3bd4896f12bed4,shockwave_start.dds.header,Tiny.V2,35982749,1520
+5b11dcf3490fec2b,shockwave_end.mat,Tiny.VA,36334726,2824
+cf76e5aa073dbd6c,shockwave_end.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/70541693D745DB37.AEE26DCBAB3B4628.ursae_buff_02.trl,43876,349700
+5dc0b66c328fe577,shockwave_end.dds.header,Tiny.VE,35711290,1520
+2687f3615784dfa8,shockwave.mat,Tiny.VE,35708770,2520
+dc55e36a32fe4b43,shockwave.dds,Streaming/Content/metadata/particles/monster_effects/oriathblackguard/A850DF728DA22F91.4_rune.pet,558400,174924
+a6669ad08d9548e9,shockwave.dds.header,Tiny.V0,36308972,1520

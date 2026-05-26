@@ -1,0 +1,3 @@
+textures
+textures/body
+textures/body_silver

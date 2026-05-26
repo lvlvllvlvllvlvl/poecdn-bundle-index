@@ -1,4 +1,0 @@
-fx
-fx/goblin
-fx/huntinghyenapet
-mat

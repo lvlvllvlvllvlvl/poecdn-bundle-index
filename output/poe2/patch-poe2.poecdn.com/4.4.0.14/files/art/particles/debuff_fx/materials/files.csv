@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+ff7ee21d2acfda61,chilleddebuff_skin01.mat,Tiny.V2,32062397,218
+dc655a6d9e9f67c5,expcolddebuff_skin.mat,Tiny.VF,32261413,840
+5ad9e9fb8cd68bad,explightdebuff_skin.mat,Tiny.V3,31727659,1012
+9ce14f626245898a,expfiredebuff_skin.mat,Tiny.V3,31726651,1008
+732e9307ee4fa422,freezedebuff_skin01.mat,Tiny.V0,32310363,2962
+32f52eff6fc0e325,freezedebuff_skin02.mat,Tiny.V8,31900974,396
+620164ce81a64e99,poisondebuff_masks_bc1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/542F56B5A086A78E.435C71C0737F31C1.l_fattrail.trl,174948,174924
+b5c572283b99779c,poisondebuff_masks_bc1.dds.header,Tiny.V5,31697317,1520
+d96b0d28a6c2c286,shockdebuff_skin.mat,Tiny.VC,32245544,806
+ded3397908a0ac33,shocklightningstart_update.mat,Tiny.VD,33984333,1118
+b309bbd417025aad,shocklightning_update.mat,Tiny.V1,33752108,678

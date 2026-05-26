@@ -1,0 +1,11 @@
+acid_ground
+body_appear
+goop
+mortar
+mudburrower_travelling
+on_act
+slamwave
+spit
+spit_impact
+tail_attack_01
+tail_emerge_attack_01

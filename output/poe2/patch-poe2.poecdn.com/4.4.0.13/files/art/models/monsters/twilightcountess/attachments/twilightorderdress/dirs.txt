@@ -1,4 +1,0 @@
-attachments
-attachments/capelet
-attachments/hair
-attachments/skirt

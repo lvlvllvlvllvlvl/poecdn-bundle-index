@@ -1,4 +1,0 @@
-death_explode
-debuff_nova
-spider_mortar
-spider_mortar_impact

@@ -1,4 +1,0 @@
-charge
-explode
-idle
-open

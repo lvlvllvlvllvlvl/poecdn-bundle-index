@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-3a6f006c9b098dd9,random_fill_tiles.gft,Tiny.V0.1,152788980,448
-f54347c9d6902f47,generate.rs,Tiny.V7.1,147335530,708
-23a637748994209a,decals.dct,Tiny.V1.1,151968297,50
-27fc2adfae727af6,tiles.tst,Tiny.V9.1,145013836,5150
-11513532267a8c71,master.tsi,Tiny.V8.1,145589547,596
-21918d718c00765a,materials.mtd,Tiny.V2.1,149695635,584
-7b15cb2df24f43f5,material_overrides.tmo,Content/data/balance/worldareas/hideoutthaumaturgy.vworld,1805231,28590

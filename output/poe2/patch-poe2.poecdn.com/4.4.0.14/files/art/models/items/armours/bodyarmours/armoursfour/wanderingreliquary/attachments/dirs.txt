@@ -1,0 +1,5 @@
+cloth
+r_cloth
+shoulderpads
+skirt
+skirtstr

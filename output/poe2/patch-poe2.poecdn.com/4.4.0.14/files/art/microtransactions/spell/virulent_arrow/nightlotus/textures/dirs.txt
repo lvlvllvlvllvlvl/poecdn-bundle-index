@@ -1,0 +1,11 @@
+buildup
+buildup/fx
+main_proj
+main_proj/fx
+main_proj/release
+main_proj/release/fx
+muzzle_flash
+pods
+pods/fx
+pods_proj
+pods_proj/fx

@@ -1,5 +1,0 @@
-epks
-fx
-graphs
-mats
-mats/thunder_bolt

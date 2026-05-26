@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+9bc4d4ed3d9fa5a9,mortar.amd,Tiny.V4,34245035,128
+0ac968626f55e9da,mortar.ast,Tiny.VC,34030163,1305
+e1e42b1c8f8ffb5a,afflictionmodbeam.amd,Tiny.V1,3444420,94
+e49ed2c402b7eec6,afflictionmodbeam.ast,Tiny.VE,33551025,3409
+39d0c469b7ee90e6,act_attack01.amd,Tiny.VD,34043066,102
+306b9c49dc7a60d9,act_attack01.ast,Tiny.V8,33563458,516
+58ec6a7072efb995,act_buff.amd,Tiny.VD,33298347,94
+0ca1ef77683f1315,act_buff.ast,Tiny.V2,33711806,2039
+2de80020213ab276,buff.amd,Tiny.V1,3444420,94
+6e06d8410482d2f8,buff.ast,Tiny.V8,33563974,401
+48fab0a5e33cf578,bone01.fmt,Tiny.VA,34025815,3094
+169a118d4ec52a32,bone01.fmt.header,Tiny.VB,34205260,156

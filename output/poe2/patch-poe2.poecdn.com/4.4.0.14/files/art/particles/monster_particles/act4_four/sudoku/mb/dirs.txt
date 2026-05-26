@@ -1,0 +1,13 @@
+arc_beam
+calamity_of_frost
+cold_abyss_slam
+cold_abyss_slam/spikes
+expanding_shock_nova
+expanding_shock_nova/nova_wave_1
+lightning_storm
+lightning_storm/impact
+lightning_storm/marker
+magma_fireball_proj
+volcanic_burst
+volcano_slam
+volcano_slam/crater

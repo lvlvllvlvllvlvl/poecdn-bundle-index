@@ -1,0 +1,23 @@
+panel2
+panel3
+panel4
+panel8
+panel8/french
+panel8/german
+panel8/japanese
+panel8/korean
+panel8/portuguese
+panel8/russian
+panel8/spanish
+panel8/thai
+panel8/traditional chinese
+panel9
+panel9/french
+panel9/german
+panel9/japanese
+panel9/korean
+panel9/portuguese
+panel9/russian
+panel9/spanish
+panel9/thai
+panel9/traditional chinese

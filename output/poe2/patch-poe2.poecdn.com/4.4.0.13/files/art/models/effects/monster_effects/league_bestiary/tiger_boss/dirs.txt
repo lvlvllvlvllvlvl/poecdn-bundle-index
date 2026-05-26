@@ -1,9 +1,0 @@
-ambush
-ambush/slam_impact
-spirit_bite
-spirit_roar
-spirit_roar/pulse
-summon_01
-summon_01/on_act
-swipes
-swipes/claw_slash

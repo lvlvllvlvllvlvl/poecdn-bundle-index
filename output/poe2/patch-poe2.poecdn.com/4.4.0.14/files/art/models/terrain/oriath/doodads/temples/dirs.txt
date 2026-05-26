@@ -1,0 +1,4 @@
+textures
+textures/patrons
+textures/patrons/exterior
+textures/pots

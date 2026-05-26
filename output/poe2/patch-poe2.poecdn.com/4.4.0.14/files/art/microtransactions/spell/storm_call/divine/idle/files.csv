@@ -1,0 +1,21 @@
+hash,file,bundle,offset,size
+7897c91642b7ad3b,rune_targetc.mat,Tiny.V6,5567509,2160
+cde749f762083909,rune_target.dds,Streaming/Content/metadata/effects/microtransactions/spells/EC06F14A72F93357.FA512E6ED455395E.beam_cannon.ao,1251873,22020
+9201b63cee82398e,rune_target.dds.header,Tiny.VE,5608785,1520
+7a49e500b194ae2c,rune_target_mulic.mat,Tiny.V6,5566263,1246
+b895d2101fa1f77b,rune_target_muli.dds,Streaming/Content/metadata/effects/microtransactions/spells/EC06F14A72F93357.FA512E6ED455395E.beam_cannon.ao,1273893,22020
+556b65747745221f,rune_target_muli.dds.header,Tiny.V2,5845144,1520
+5af4c0a9a018b089,runes_idle_blackc.mat,Tiny.V2,5846664,1246
+91f12a91bdb09002,runes_idle_black.dds,Streaming/Content/metadata/effects/microtransactions/spells/EC06F14A72F93357.FA512E6ED455395E.beam_cannon.ao,1339765,87556
+4020ccf9c434f1c3,runes_idle_black.dds.header,Tiny.VC,39034566,1520
+30924232513e95bd,runes_idle_addac.mat,Tiny.VC,5580290,2114
+ef1ae69510db8108,runes_idle_adda.dds,Streaming/Content/metadata/effects/microtransactions/spells/EC06F14A72F93357.FA512E6ED455395E.beam_cannon.ao,1295913,43852
+6abe15001c18843e,runes_idle_adda.dds.header,Tiny.V8,5506758,1520
+6178751dcb3ea70b,rig_0643eabc.smd,Streaming/Content/metadata/effects/microtransactions/spells/EC06F14A72F93357.FA512E6ED455395E.beam_cannon.ao,1232153,19720
+de2968bdc0a390e7,rig_0643eabc.smd.header,Tiny.V5,5578832,368
+a854bdd1cce51ef7,idle.sm,Tiny.V5,5577990,842
+7cc7b69064d992a1,idle.amd,Tiny.VA,7595234,96
+fcaefc7d8defc0cc,idle.ast,Tiny.V6,5563484,2779
+b2695615bc59071c,blink_spiral_bigger 2.mat,Tiny.V0,5783504,1910
+d26600f5f57a9ec5,blink_spiral_bigger 2.dds,Streaming/Content/metadata/effects/microtransactions/spells/207F1E913366095D.CFA48B2E095CB7DB.idle_shimmer.pet,0,87556
+9f24615181246e9c,blink_spiral_bigger 2.dds.header,Tiny.VD,35163658,1520

@@ -1,5 +1,0 @@
-blacksmith
-treasurehunters
-treasurehunters/treasurehunter_01
-treasurehunters/treasurehunter_02
-treasurehunters/treasurehunter_03

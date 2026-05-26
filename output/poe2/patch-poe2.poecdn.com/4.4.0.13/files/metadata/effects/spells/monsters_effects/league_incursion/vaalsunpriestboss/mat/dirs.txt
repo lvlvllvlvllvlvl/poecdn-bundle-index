@@ -1,9 +1,0 @@
-burrow_travel
-burrow_travel/crater
-fire_trail
-mortar
-mortar/impact
-proj
-proj/muzzle
-proj_buildup
-projectile_spell_buildup

@@ -1,5 +1,0 @@
-attachments
-attachments/straightrazor
-attachments/whakanoapron
-attachments/whakanohair
-attachments/whakanonecklace

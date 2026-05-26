@@ -1,0 +1,13 @@
+blisters_epks
+carrier
+carrier/attack_01
+carrier/attack_01/fx
+carrier/attack_01/mat
+carrier/death
+carrier/death/fx
+carrier/death/mat
+cretin
+cretin/fx
+cretin/fx/attack_01
+cretin/mat
+cretin/mat/attack_01

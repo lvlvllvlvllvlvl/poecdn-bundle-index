@@ -1,0 +1,9 @@
+ball_lightning
+charged_shock_nova
+combo_beam
+hand_slam
+laser_beam
+snake_head_slam
+triangle_slam
+wall_emerge
+wall_laser_beam

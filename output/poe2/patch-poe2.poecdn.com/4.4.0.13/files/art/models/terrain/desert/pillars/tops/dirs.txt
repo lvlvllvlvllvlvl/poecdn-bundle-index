@@ -1,3 +1,0 @@
-corpse
-corpse/hole_01
-tgms

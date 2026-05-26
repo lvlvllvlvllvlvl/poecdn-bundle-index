@@ -1,3 +1,0 @@
-projectile
-rig
-textures

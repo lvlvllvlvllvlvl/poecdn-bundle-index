@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+24abb4414fc6f2df,arrow_base.ao,Tiny.V3.1,7418506,80
+4caed294c19a4379,arrow_base.aoc,Tiny.V9.1,70886258,936
+d9cdaf4739f0169a,sr_impact_lightning.ao,Tiny.V0.1,120021754,338
+9e2d503f3a73fe7b,sr_impact_lightning.aoc,Tiny.V1.1,69171826,2266
+84002e4e7cb308be,sr_arrow_lightning.ao,Tiny.V6.1,117411502,336
+b9d8bca4dee44b6d,sr_arrow_lightning.aoc,Tiny.V3.1,69303016,1406
+16edc46d3b566e4d,sr_placed_object_lightning_01.ao,Tiny.VD.1,66392362,444
+e0835625c9a1d010,sr_placed_object_lightning_01.aoc,Tiny.V3.1,69304422,7834
+b6a74c92a49619ee,sr_lightning_beam.ao,Tiny.V6.1,117416034,360
+3bcbbda44c1fa654,sr_lightning_beam.aoc,Tiny.VC.1,73314580,3120

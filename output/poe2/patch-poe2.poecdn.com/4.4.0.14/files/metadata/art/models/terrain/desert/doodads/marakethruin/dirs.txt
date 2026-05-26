@@ -1,0 +1,2 @@
+hanging_light
+hanging_light/texture

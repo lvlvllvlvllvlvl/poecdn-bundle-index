@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+621dc1c660e713c1,blackstriderc.mat,Tiny.VF,11723179,5052
+44a8b0adb03b8c58,blackstrider_sss_dxt1.dds,Streaming/Content/data/worldareas/sanctum_1.vworld,2373380,699212
+d70ac14f8173fd6e,blackstrider_sss_dxt1.dds.header,Tiny.V1,11556659,1520
+ebca11f4f4ad8032,blackstrider_glow_dxt5.dds,Streaming/Content/data/worldareas/2F/sanctum_1.vworld,0,1398276
+1321c99606753285,blackstrider_glow_dxt5.dds.header,Tiny.V3,11619431,1520
+e46a733698adbc18,blackstrider_colour_dxt5.dds,Streaming/Content/data/worldareas/5A/sanctum_1.vworld,0,1398276
+8eea0707a70386fc,blackstrider_colour_dxt5.dds.header,Tiny.V1,11555139,1520
+acae69024b2d2316,blackstrider_normal_dxt5.dds,Streaming/Content/data/worldareas/sanctum_1.vworld,975104,1398276
+5e6319878bd572bc,blackstrider_normal_dxt5.dds.header,Tiny.V0,11763686,1520
+8e07bb6cd01604ab,blackstrider_metal_dxt1.dds,Streaming/Content/data/worldareas/37/sanctum_1.vworld,0,699212
+a7bcd3bf6808c48d,blackstrider_metal_dxt1.dds.header,Tiny.VB,11663530,1520
+6f7cc7bbc16a2f2c,blackstriderlegsc.mat,Tiny.VB,11665050,1124
+4e13b16e1775f48b,blackstriderlegs_colour_dxt5.dds,Streaming/Content/data/worldareas/9F/sanctum_1.vworld,0,349700
+ed2bf8431907b837,blackstriderlegs_colour_dxt5.dds.header,Tiny.V2,11812981,1520

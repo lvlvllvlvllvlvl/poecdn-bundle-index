@@ -1,7 +1,0 @@
-epk
-fx
-mat
-mat/meleetrail
-mat/ondeath_buildup
-mat/ondeath_explode
-mat/spiketrail

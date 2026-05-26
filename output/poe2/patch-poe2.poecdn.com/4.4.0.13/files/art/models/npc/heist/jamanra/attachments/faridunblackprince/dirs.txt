@@ -1,6 +1,0 @@
-backattachment
-backattachment_attach
-clothback
-shawl
-skirt
-weapon

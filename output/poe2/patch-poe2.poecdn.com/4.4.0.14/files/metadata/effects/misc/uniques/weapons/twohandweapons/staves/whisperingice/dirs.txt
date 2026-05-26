@@ -1,0 +1,6 @@
+fx
+mats
+mats/icebolt_01
+mats/icebolt_01/impact
+mats/icebolt_02
+mats/icebolt_02/impact

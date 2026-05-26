@@ -1,0 +1,13 @@
+bannerskill
+essence
+goddessofjusticefinisher
+icetrap
+misc
+monkbellskill
+monster_effects
+offering_spike
+totems
+traps
+zodiacdragonapparitioneffect
+zodiacdragonchargeeffect
+zodiacdragonrarefinishereffect

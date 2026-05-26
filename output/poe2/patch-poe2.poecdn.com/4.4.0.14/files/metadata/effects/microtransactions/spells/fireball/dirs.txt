@@ -1,0 +1,13 @@
+celestial
+celestial/pets
+demonic
+demonic/pets
+direblade
+direblade/fx
+dragon_fireball
+oblivionfireball
+oblivionfireball/pets
+onyxoblivionfireball
+onyxoblivionfireball/pets
+stygian
+stygian/pets

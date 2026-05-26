@@ -1,3 +1,0 @@
-shorelinehideout
-shorelinehideout/textures
-textures

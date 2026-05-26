@@ -1,0 +1,5 @@
+attachments
+attachments/chains
+attachments/chains/l_chain
+attachments/chains/r_chain
+textures

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+a460f2013dbe0ff1,dirt_charge_06_flipbook.mat,Tiny.VE,38168976,1900
+29824c210bbd53f6,dirt_charge_06_flipbook.dds,Streaming/Content/metadata/particles/monster_effects/7B18F275108C0283.longcyl.pet,131596,349860
+15b024fb6fc07917,dirt_charge_06_flipbook.dds.header,Tiny.V0,38475620,280
+53846e62809d9479,dirt_colour.mat,Tiny.V9,38945094,1656
+a8935ea4ece2cc9a,dirt_colour.dds,Streaming/Content/metadata/particles/monster_effects/7B18F275108C0283.longcyl.pet,962912,22020
+d55f6f78bd385e76,dirt_colour.dds.header,Tiny.V3,37822964,1520
+1a1458d516ad943f,wisp_smoke_base.mat,Tiny.VA,38619857,2614
+9d5f2ddb154ac651,wisp_smoke_base.dds,Streaming/Content/metadata/particles/monster_effects/7B18F275108C0283.longcyl.pet,1028808,43876
+b8f406e0f33219c6,wisp_smoke_base.dds.header,Tiny.VF,38460932,840
+c01777fc971dd8cd,smoke.mat,Tiny.VF,38458470,2462
+3d417ed15aa7d664,smoke.dds,Streaming/Content/metadata/particles/monster_effects/7B18F275108C0283.longcyl.pet,984932,43876
+d77db1e6124639ff,smoke.dds.header,Tiny.V9,39239910,840

@@ -1,3 +1,0 @@
-ice
-projectile
-projectile/impact

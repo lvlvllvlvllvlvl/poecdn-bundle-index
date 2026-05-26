@@ -1,6 +1,0 @@
-epk
-fx
-mat
-mat/magictorare
-mat/normaltomagic
-mat/raretounique

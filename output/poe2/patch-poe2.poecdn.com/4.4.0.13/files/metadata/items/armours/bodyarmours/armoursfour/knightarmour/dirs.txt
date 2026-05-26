@@ -1,4 +1,0 @@
-attachments
-attachments/faulds
-attachments/lshoulderpad
-attachments/rshoulderpad

@@ -1,6 +1,0 @@
-attachments
-attachments/female
-attachments/female/hair
-attachments/female/skirt
-attachments/male
-attachments/male/skirt

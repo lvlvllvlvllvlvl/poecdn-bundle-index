@@ -1,5 +1,0 @@
-lfootattachment
-rfootattachment
-skirt
-skirt/female
-skirt/male

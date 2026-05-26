@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+c8ac1347c4cebc97,rig_003fce0d.smd,Streaming/Content/metadata/effects/spells/monsters_effects/49C57ADA115EEAA8.F2BBF756CB3C127A.slowzone.ao,511518,33225
+24a43610437131ee,rig_003fce0d.smd.header,Tiny.VF,33787628,448
+97d3b7a4605b126a,rig.amd,Tiny.V5,33327190,320
+e3be2a4ef0a7fec7,rig.ast,Tiny.V2,33560729,518
+7d6d518d8ad999e7,knife.sm,Tiny.VF,33786942,686
+7e273bf0fd88cb4d,knife.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/B589B0D0925987C1.63C643ADED9B65E6.life_regen_buff.epk,305245,8898
+7bfd6b6f866a509b,knife.fmt.header,Tiny.VF,33786732,210
+263cac02a6ae31a3,smudgeknife02.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/B589B0D0925987C1.63C643ADED9B65E6.life_regen_buff.epk,314143,17008
+94695fc28c0ea626,smudgeknife02.fmt.header,Tiny.V4,34046978,227
+78019deea78c6ea8,grassblade01.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/5F33D1A52C561F8B.F3FEFAE154E3038C.idle_upline.pet,519530,8882
+4a4a58374c21c9f7,grassblade01.fmt.header,Tiny.VF,33786524,208

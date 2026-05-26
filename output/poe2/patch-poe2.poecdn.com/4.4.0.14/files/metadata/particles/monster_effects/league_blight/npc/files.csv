@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+da543da73b33e688,nun_teleport.pet,Tiny.V5.1,139108140,33922
+d50e964480a9f3ea,teleport_cyl.pet,Tiny.VA.1,138641096,25056
+34c3b2e016e55efc,projectile_end.pet,Tiny.VB.1,139142180,23872
+44e4c79c311455e7,projectile_back_emit.pet,Tiny.VA.1,138606526,34570
+0a9db8509f0a1375,projectile_loop_core.pet,Tiny.V4.1,140838292,10528
+56a6fa16baf8cb51,projectile_trail.trl,Tiny.V8.1,136893752,2930
+f0c7a58f6db4a7e5,buff_tower_line.pet,Tiny.VE.1,136314834,4926
+53cfd4c4baff6ee3,buff_tower.trl,Tiny.V0.1,142784154,7156

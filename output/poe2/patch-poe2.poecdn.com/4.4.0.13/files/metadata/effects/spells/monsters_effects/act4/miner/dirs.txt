@@ -1,4 +1,0 @@
-death_boss
-lanter_fireball
-throw_spawn
-upheaval

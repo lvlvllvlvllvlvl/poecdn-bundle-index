@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+d8665eeb7834b9bf,runes.mat,Tiny.V5,35627192,2058
+01b2877d51337d1a,runes.dds,Streaming/Content/metadata/particles/monster_effects/E10AE6A6BDB9809C.ground.pet,1019968,87588
+5a9fa031d6c5a659,runes.dds.header,Tiny.V3,35605347,504
+318d0285051aaadc,multi_scrolling_cosmos.mat,Tiny.V7,35926023,1422
+de0e7739bb6dc105,multi_scrolling_cosmos.dds,Streaming/Content/metadata/particles/monster_effects/E10AE6A6BDB9809C.ground.pet,997948,22020
+0090947da64e2b4b,multi_scrolling_cosmos.dds.header,Tiny.VF,31899939,1520
+5f88c38653f7e524,smoke_01.mat,Tiny.V8,35871631,1016
+a06b5ed2f92e4427,smoke_01.dds,Streaming/Content/metadata/particles/monster_effects/E10AE6A6BDB9809C.ground.pet,1151432,22020
+6f71891dcf82f7b5,smoke_01.dds.header,Tiny.V2,5488053,1520
+f2627de7b4435e27,smoke.mat,Tiny.VC,36151420,2092
+8e26d15ff0d62107,smoke.dds,Streaming/Content/metadata/particles/monster_effects/E10AE6A6BDB9809C.ground.pet,1107556,43876
+f0368f4e011f9a30,smoke.dds.header,Tiny.V8,35870791,840

@@ -1,7 +1,0 @@
-on_act
-on_act/attack_01
-on_act/attack_03
-rocketfist_projectile
-rocketfist_projectile/flying
-rocketfist_projectile/grd_impact
-rocketfist_projectile/wall_impact

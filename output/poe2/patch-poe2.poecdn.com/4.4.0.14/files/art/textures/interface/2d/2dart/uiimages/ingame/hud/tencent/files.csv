@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+b680de789ceb60e3,portalpressed.dds,Tiny.V2,42356773,3844
+7a22a79b0e73dd60,portalpressed.dds.header,Tiny.VE,42265571,3624
+e9c63885522fb9d8,portalnormal.dds,Tiny.V6,42606098,3844
+5c2f6a3bacfd6840,portalnormal.dds.header,Tiny.VE,42261947,3624
+ddab7e90a789724b,portalhover.dds,Tiny.V7,42636059,3844
+23b2692af7d55d5f,portalhover.dds.header,Tiny.VD,42773426,3624
+7cdb62a6667a520e,bookpressed.dds,Tiny.V1,42482531,3844
+e975cad566b73210,bookpressed.dds.header,Tiny.V7,42632435,3624
+4934744c6ca2c89d,booknormal.dds,Tiny.V3,41966028,3844
+a13425e3c507a0ae,booknormal.dds.header,Tiny.V6,42602474,3624
+ad9e994d1d975a05,bookhover.dds,Tiny.V1,42478687,3844
+a464a9b09a2dca95,bookhover.dds.header,Tiny.V2,42353149,3624

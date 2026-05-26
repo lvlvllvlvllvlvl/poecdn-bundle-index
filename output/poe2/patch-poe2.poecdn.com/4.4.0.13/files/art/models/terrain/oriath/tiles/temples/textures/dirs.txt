@@ -1,4 +1,0 @@
-architecture
-corruption
-misc
-water

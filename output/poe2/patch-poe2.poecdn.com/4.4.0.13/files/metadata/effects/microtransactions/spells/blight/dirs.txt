@@ -1,4 +1,0 @@
-celestial
-celestial/pet
-project
-project/fx

@@ -1,5 +1,0 @@
-past
-past/textures
-past/textures/flower
-past/textures/pots
-past/textures/powder

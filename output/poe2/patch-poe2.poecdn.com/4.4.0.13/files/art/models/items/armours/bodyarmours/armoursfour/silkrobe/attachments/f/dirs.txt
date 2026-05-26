@@ -1,9 +1,0 @@
-bcloth
-robe
-robe/l1
-robe/l2
-robe/l3
-shawl
-shawl/shawll
-shawl/shawlm
-shawl/shawlr

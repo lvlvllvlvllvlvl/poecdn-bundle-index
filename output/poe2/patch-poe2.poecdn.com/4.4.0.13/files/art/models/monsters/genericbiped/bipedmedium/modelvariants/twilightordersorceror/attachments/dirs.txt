@@ -1,9 +1,0 @@
-twilightordersorcererbook
-twilightordersorcererbook/animations
-twilightordersorcererbook/animations/npc
-twilightordersorcerernecklace
-twilightordersorcererscarf
-twilightordersorcererskirt
-twilightordersorcererskirtattach
-twilightordersorcererskirtnpc
-twilightordersorcererstaff

@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-8e96dcc4dc7160d9,bu_wispy_flare_r.mat,Tiny.V5.1,42116286,39654
-e06dadf0f9afe8df,bu_wispy_flare_u.mat,Tiny.V0.1,113858220,2148
-da067240493ca4ff,bu_core_flare_r.mat,Tiny.VF.1,44186266,18248
-f60058298e38e2d6,bu_core_flare_u.mat,Tiny.VD,50519481,346
-f37901d866d1ee16,mblur_sphere_r.mat,Tiny.VE.1,108617952,10530
-2a358871e6474dab,mblur_sphere_u.mat,Tiny.VD,50519481,346
-bbcb174fc7b649a1,wisps_r.mat,Tiny.VA.1,43007848,43598
-f6edc763275239c3,wisps_u.mat,Tiny.V3.1,43496322,11748

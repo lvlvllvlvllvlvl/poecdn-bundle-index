@@ -1,8 +1,0 @@
-attachments
-attachments/beltdangles
-attachments/beltends
-attachments/lshoulderdangle
-attachments/rshoulderdangle
-attachments/skirt
-attachments/skirtcloth
-textures

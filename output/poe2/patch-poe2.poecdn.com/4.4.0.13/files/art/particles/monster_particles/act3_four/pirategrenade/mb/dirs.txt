@@ -1,2 +1,0 @@
-grenade_explosion
-grenade_proj

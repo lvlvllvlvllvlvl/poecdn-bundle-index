@@ -1,7 +1,0 @@
-marakethguard01
-marakethguard01/attachments
-marakethguard01/attachments/skirt
-marakethguard01/attachments/whip
-marakethguard02
-marakethguard02/attachments
-marakethguard02/attachments/skirt

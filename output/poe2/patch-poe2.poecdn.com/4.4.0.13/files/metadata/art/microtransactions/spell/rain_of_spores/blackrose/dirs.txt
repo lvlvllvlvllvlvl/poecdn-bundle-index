@@ -1,3 +1,0 @@
-textures
-textures/shooting_up
-textures/shooting_up/fx

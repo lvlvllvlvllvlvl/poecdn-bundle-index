@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+6910196fba4cf973,golem_icec.mat,Tiny.V4,16492901,4640
+d68b0d6b76d897c8,golem_ice_thickness_dxt1.dds,Streaming/Content/metadata/terrain/doodads/hideouts/icelake_st_01.ao,28783,699212
+c11370606866f357,golem_ice_thickness_dxt1.dds.header,Tiny.VE,16141259,1520
+0991df24f7c762ae,golem_ice_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/421719695B6AF2AC.ice_golem.ao,1580335,1398276
+1d9eabaa8dc4aabc,golem_ice_normal_dxt5.dds.header,Tiny.V0,16376851,1520
+e7c26aa7788a6249,golem_ice_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/421719695B6AF2AC.ice_golem.ao,182059,1398276
+ef0a66c75aef609c,golem_ice_colour_dxt5.dds.header,Tiny.VD,15884479,1520

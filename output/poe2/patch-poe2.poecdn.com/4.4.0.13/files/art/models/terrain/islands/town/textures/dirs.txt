@@ -1,7 +1,0 @@
-ground
-karuiwakahourua
-karuiwakahourua/charred
-karuiwakahourua/jade
-karuiwakahourua/pristine
-karuiwakahourua/redwood
-props

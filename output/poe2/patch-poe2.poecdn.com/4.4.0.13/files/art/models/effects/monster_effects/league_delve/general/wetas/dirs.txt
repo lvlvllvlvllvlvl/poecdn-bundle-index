@@ -1,2 +1,0 @@
-cold_snap
-cold_snap/grd_fx

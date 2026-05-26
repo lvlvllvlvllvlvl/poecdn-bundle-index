@@ -1,0 +1,13 @@
+dex4_savagehits
+huntress
+huntress/huntress_apparition
+huntress/huntress_convo
+huntress/huntress_gameplay
+huntress/huntress_skills
+huntress/huntress_wild
+ranger
+ranger/ranger_apparition
+ranger/ranger_convo
+ranger/ranger_gameplay
+ranger/ranger_skills
+ranger/ranger_wild

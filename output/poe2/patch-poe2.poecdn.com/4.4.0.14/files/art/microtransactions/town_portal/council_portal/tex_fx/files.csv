@@ -1,0 +1,31 @@
+hash,file,bundle,offset,size
+adffc595d508a312,tile_add.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A7C8824527C99445.rig.ao,716036,87556
+3f7e2c51d0c13747,tile_add.dds.header,Tiny.V8,5745975,1520
+56e47f7cfc75c9c3,blood.mat,Tiny.V1,5787946,4012
+0f75e6b4b947f902,blood.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A7C8824527C99445.CAE58C92B230AD8B.drips.pet,87556,22020
+a876f5a37cb21184,blood.dds.header,Tiny.VD,37922854,1520
+ce060045e38cf378,blood_trail2.mat,Tiny.VF,5881185,2846
+53805950b3f07fb1,blood_trail2.dds,Streaming/Content/metadata/pet/bloodlordpet/fx/floor.pet,393552,174948
+02cc0082980c7118,blood_trail2.dds.header,Tiny.V7,38888637,840
+2e0544c16d5da756,blood_trail.mat,Tiny.V9,5934054,2840
+a6074b7a50b18db5,blood_trail.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A7C8824527C99445.CAE58C92B230AD8B.drips.trl,0,174948
+3a55d35b0f48c8ef,blood_trail.dds.header,Tiny.VD,36497317,840
+33dac9d0ba94becf,red_bits.mat,Tiny.V5,5840621,2578
+acceb6c2f878d271,red_bits.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A7C8824527C99445.CAE58C92B230AD8B.loop_center.pet,218988,11108
+bff972df57a6db6b,red_bits.dds.header,Tiny.V0,5970071,840
+d49d6e9fab1e1400,fire_test.mat,Tiny.V8,5743303,2672
+72e34efe5524cba2,fire_test.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A7C8824527C99445.CAE58C92B230AD8B.loop_center.pet,87556,43876
+4e3fec81729296d9,fire_test.dds.header,Tiny.V8,31577031,840
+d0ec91e62e6519a5,drip smk.mat,Tiny.V7,5749487,2004
+22e9fbe96c1ca37b,drip smk.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A7C8824527C99445.CAE58C92B230AD8B.drips.pet,109576,43876
+a48c1e4e583b5880,drip smk.dds.header,Tiny.V6,3496629,840
+1870dcc9b62aefb6,decal.mat,Tiny.V3,5757623,2036
+8574ef79ede9c724,decal.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A7C8824527C99445.CAE58C92B230AD8B.loop_center.pet,0,87556
+b19d03d4324be6c9,decal.dds.header,Tiny.V7,5747967,1520
+42ceb2ef7981c17d,portal_mask.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A7C8824527C99445.rig.ao,16636,349700
+23cc27f1f5def29d,portal_mask.dds.header,Tiny.VA,5885590,1520
+e98ad5a134573ee1,portal_sss.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A7C8824527C99445.rig.ao,366336,349700
+e75b7cc41eb8032b,portal_sss.dds.header,Tiny.V2,6078835,1520
+64f5968cab1a5630,projectile.mat,Tiny.V9,5936894,2684
+5e37fdadc0b985ef,projectile.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A7C8824527C99445.CAE58C92B230AD8B.loop_center.pet,131432,87556
+e724259870fc6b9c,projectile.dds.header,Tiny.V4,33834637,1520

@@ -1,0 +1,11 @@
+affliction
+ancestral
+betrayal
+expedition
+heist
+kalguur
+kalguur/settlerpeasants
+perandus
+prophecy
+ritual
+ultimatum

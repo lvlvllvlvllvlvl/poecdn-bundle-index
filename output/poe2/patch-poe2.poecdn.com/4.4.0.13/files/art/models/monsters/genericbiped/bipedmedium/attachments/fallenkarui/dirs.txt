@@ -1,4 +1,0 @@
-weapons
-weapons/bow
-weapons/bow/animations
-weapons/bow/animations/female

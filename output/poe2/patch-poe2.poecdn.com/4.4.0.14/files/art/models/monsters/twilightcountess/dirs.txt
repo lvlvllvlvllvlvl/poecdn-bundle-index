@@ -1,0 +1,13 @@
+attachments
+attachments/desertdress
+attachments/desertdress/attachments
+attachments/desertdress/attachments/scarf
+attachments/desertdress/attachments/skirt
+attachments/desertdress/attachments/sleeves
+attachments/twilightorderdress
+attachments/twilightorderdress/attachments
+attachments/twilightorderdress/attachments/capelet
+attachments/twilightorderdress/attachments/hair
+attachments/twilightorderdress/attachments/skirt
+faceanims
+textures

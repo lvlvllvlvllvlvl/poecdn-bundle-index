@@ -1,9 +1,0 @@
-g2_12_1
-g2_12_1/mat
-g2_12_1/mat/brazier
-g2_12_1/mat/nowind
-g2_12_1/pet
-g2_12_1/pet/bodypile_fire
-g2_12_1/pet/brazier_fire
-g2_12_1/pet/sand_dust
-g2_12_1/pet/torch_fire

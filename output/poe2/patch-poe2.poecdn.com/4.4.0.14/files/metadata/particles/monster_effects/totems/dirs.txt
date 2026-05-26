@@ -1,0 +1,8 @@
+crossbow
+crossbow/projectile
+crossbow/snipe_launch
+crystaltotem
+crystaltotem/abyss
+icecrystaltotem
+icecrystaltotem/projectile
+templarmissionrelic

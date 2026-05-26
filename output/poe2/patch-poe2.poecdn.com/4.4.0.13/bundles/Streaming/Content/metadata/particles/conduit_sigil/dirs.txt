@@ -1,5 +1,0 @@
-beam
-cold
-fire
-lightning
-redlightning

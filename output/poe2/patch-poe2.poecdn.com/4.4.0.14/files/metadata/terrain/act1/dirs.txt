@@ -1,0 +1,6 @@
+area1
+area1/objects
+area5
+area5/groundtypes
+area6
+area6/groundtypes

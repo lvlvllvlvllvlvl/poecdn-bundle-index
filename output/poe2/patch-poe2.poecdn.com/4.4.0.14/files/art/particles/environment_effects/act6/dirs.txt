@@ -1,0 +1,3 @@
+beacon_light
+beacon_light/base_fire
+beacon_light/black_fire

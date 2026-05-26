@@ -1,5 +1,0 @@
-cliffbombs
-enraged_hoovesimpact
-fireballcombo
-fireballcombo/big
-fireballcombo/small

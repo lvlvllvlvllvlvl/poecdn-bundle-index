@@ -1,8 +1,0 @@
-bulky
-bulky/ground_slam
-foot_ball_player
-foot_ball_player/on_act
-mage
-noodles
-sanic
-sanic/spiky_blast

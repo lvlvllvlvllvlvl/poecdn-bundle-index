@@ -1,4 +1,0 @@
-cape
-skirt
-skirt/female
-skirt/male

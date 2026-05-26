@@ -1,0 +1,10 @@
+chestbones
+chestcloth
+chestcloth/chestclothdexint
+chestcloth/chestclothstr
+chestcloth/chestclothstrdex
+chestcloth/chestclothstrint
+l_sleeve
+l_sleeve_str
+robe
+robestr

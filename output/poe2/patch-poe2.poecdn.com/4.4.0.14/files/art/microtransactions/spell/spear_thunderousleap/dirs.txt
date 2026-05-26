@@ -1,0 +1,4 @@
+valkyrie
+valkyrie/mb
+valkyrie/mb/animations
+valkyrie/texture

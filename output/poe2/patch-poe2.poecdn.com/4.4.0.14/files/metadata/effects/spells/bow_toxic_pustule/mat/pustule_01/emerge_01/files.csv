@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+2de6a739e3613c5c,mblur_sphere_r.mat,Tiny.V6.1,111041082,11048
+e8a43c38bb8b51a9,mblur_sphere_u.mat,Tiny.VE.1,1562868,310
+f5006bf0b02e5ab9,poison_puddle_grd_r.mat,Tiny.V2.1,46419202,22412
+5ca796d0cabc38b7,poison_puddle_grd_u.mat,Tiny.V0.1,12890262,540
+3b0b923d419b509a,liquid_strings_r.mat,Tiny.VC.1,113193306,13840
+131733d46f6adbde,liquid_strings_u.mat,Tiny.VD.1,41939390,23134

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+1561dd634fa5aa8d,dune_border_connection.arm,Tiny.V7.1,145910332,2884
+ae503512a39a6bfd,landmark_02.arm,Tiny.V1.1,147915888,1724
+e1221f2cf86bf8f4,landmark_03.arm,Tiny.V9.1,144248662,1682
+1404511b76f75a24,landmark_04.arm,Content/data/balance/worldareas/p2_1.vworld,2666029,35554
+9dac565ed74d2b67,landmark_05.arm,Content/data/balance/worldareas/p2_1.vworld,2701583,39714
+9f29ad3372740cd2,landmark_01.arm,Tiny.VF.1,149057439,2900
+1c025d97018768c7,landmark_01_interior.arm,Content/data/balance/worldareas/p2_1.vworld,2639275,26754
+be693efd2e3c2a4c,bossroom_01.arm,Content/data/balance/worldareas/p2_1.vworld,2594349,25662
+fd850400bd6167f7,bones_border_connection.arm,Tiny.V3.1,147028848,2090
+a7f3ec44d4bf2920,bones_dune_connection.arm,Tiny.V7.1,145907510,2822
+f40980c81ae2510b,entrance_01.arm,Content/data/balance/worldareas/p2_1.vworld,2620011,12092
+011b93c3344a6f07,exit_01.arm,Tiny.V9.1,144245736,2926
+2d325f67a7266e65,exit_02.arm,Tiny.V7.1,145913216,3618
+197f892514c9f031,exit_03.arm,Content/data/balance/worldareas/p2_1.vworld,2632103,7172
+97d001e811e100a0,exit_04.arm,Tiny.V1.1,147913426,2462

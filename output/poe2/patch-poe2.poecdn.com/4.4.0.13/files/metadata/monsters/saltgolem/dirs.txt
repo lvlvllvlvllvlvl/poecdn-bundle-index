@@ -1,4 +1,0 @@
-attachments
-attachments/rattlecagerocks
-landmark
-landmark/objects

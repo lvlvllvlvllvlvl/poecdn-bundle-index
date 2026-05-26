@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+99f308f05c924e14,summon_effect_4d2db7b5.smd,Streaming/Content/metadata/effects/spells/doublestrike/doublestrikesummon_vaal.ao,0,9690
+8cc6825292b44248,summon_effect_4d2db7b5.smd.header,Tiny.VD,6776690,448
+ae357043b43dfd68,doublestrikesummon.sm,Tiny.VF,6910326,342
+1a0ea0a631a3f785,doublestrikesummon.amd,Tiny.VF,6954108,86
+3f9e4801f4d337f4,doublestrikesummon.ast,Tiny.VC,6909369,1105

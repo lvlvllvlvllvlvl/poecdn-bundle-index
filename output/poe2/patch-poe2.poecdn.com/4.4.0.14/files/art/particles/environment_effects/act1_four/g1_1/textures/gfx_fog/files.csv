@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+be8a30c7387b96e6,bakedfog_uncompressed.dds,Streaming/Folders/art/particles/environment_effects/act1_four,2097636,5592552
+bb5726f56b11733e,bakedfog_uncompressed.dds.header,Tiny.V8,32074558,1520
+a810aa7d406b40bc,bakedfog_soft_uncompressed.dds,Streaming/Folders/art/particles/environment_effects/act1_four.1,0,5592552
+910e9b5bba9d3c51,bakedfog_soft_uncompressed.dds.header,Tiny.V4,32707613,1520
+e473727545ad1fb6,bakedfog_soft_bc1.dds,Streaming/Folders/art/particles/environment_effects/act1_four,1398424,699212
+60c3f07ca9dbe55d,bakedfog_soft_bc1.dds.header,Tiny.VB,32482340,1520
+5195ff717768278b,bakedfog_highcontrast_bc1.dds,Streaming/Folders/art/particles/environment_effects/act1_four,699212,699212
+e8042eb3dfbd5cc3,bakedfog_highcontrast_bc1.dds.header,Tiny.V4,32706093,1520
+4c8663b70f7722a2,bakedfog_bc1.dds,Streaming/Folders/art/particles/environment_effects/act1_four,0,699212
+42bb016b5f89a3e9,bakedfog_bc1.dds.header,Tiny.VE,32501284,1520

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+3212daa882e140a4,order_prayerplatform03_normal.dds,Streaming/Content/metadata/shrines/cultureshrines/twilight_shrine.ao.1,0,5592580
+0b009dbc95c1b56c,order_prayerplatform03_normal.dds.header,Tiny.V1,29342543,1520
+655ab51348d27acd,order_prayerplatform03_colour.dds,Streaming/Content/metadata/shrines/cultureshrines/twilight_shrine.ao,1433883,2796364
+024a454eb7c00f76,order_prayerplatform03_colour.dds.header,Tiny.V9,29915773,1520
+11ee94c393dab14f,order_prayerplatform02c.mat,Tiny.VE,29316814,1212
+313196ea501cebce,order_prayerplatform02_normal.dds,Streaming/Content/data/balance/worldareas/15/g5_11_1.vworld,8013,5592580
+77f9ce49134520e4,order_prayerplatform02_normal.dds.header,Tiny.V6,29297401,1520
+27c8e892f8c5f867,order_prayerplatform02_colour.dds,Streaming/Content/data/worldareas/37/mapport.vworld,0,2796364
+9c06f6dc7cd1c840,order_prayerplatform02_colour.dds.header,Tiny.VC,29733661,1520
+0298a75967e6fafa,order_prayerplatform01c.mat,Tiny.VB,29736599,1524
+9dd69ec1b49fa028,order_prayerplatform01_normal.dds,Streaming/Content/data/balance/worldareas/B7/g5_11_1.vworld,8388944,5592580
+6ac5e6f62b5af101,order_prayerplatform01_normal.dds.header,Tiny.V7,29313908,1520
+feab134368b8fd42,order_prayerplatform01_colour.dds,Streaming/Content/data/balance/worldareas/6A/g5_11_1.vworld,3504150,2796364
+47c5505a8e953ac3,order_prayerplatform01_colour.dds.header,Tiny.VC,29732141,1520

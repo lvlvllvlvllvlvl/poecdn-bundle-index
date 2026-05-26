@@ -1,6 +1,0 @@
-doodads
-golem
-golem/textures
-lunarisstatue
-lunarisstatue/textures
-textures

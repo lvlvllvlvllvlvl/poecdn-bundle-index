@@ -1,0 +1,4 @@
+absorb_blood
+blood_beam
+idle
+maxed_idle

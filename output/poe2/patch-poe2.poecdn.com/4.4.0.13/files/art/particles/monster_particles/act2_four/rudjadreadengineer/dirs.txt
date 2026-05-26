@@ -1,5 +1,0 @@
-mb
-mb/granada
-mb/granada/projectile
-mb/granada/projectile/animations
-mb/granada/roll

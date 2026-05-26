@@ -1,4 +1,0 @@
-maps
-templedungeon
-woods
-woods/tiles

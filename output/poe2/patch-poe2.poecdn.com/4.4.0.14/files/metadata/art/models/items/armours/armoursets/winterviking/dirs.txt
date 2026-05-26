@@ -1,0 +1,3 @@
+attachments
+attachments/eye_fx
+attachments/eye_fx/textures

@@ -1,5 +1,0 @@
-treasurechest
-treasurechest/attachments
-treasurechestnophys
-treasurechestsmaller
-treasurechestsmaller/attachments

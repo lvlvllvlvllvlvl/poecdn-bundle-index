@@ -1,0 +1,9 @@
+attachments
+attachments/vaalcaster
+attachments/vaalcaster/ball_string
+beasts
+bloodpriests
+bloodpriests/attachments
+bloodpriests/objects
+minions
+objects

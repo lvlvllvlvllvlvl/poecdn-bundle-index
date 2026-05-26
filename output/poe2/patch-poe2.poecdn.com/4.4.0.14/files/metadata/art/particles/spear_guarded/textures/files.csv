@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+11f54ae73f74bd47,sharp.fxgraph,Content/metadata/effects/spells/skeletal_chains/skeletalchains_chaining_fast.ao,1782546,11560
+364efab03e000916,barrier.fxgraph,Content/metadata/effects/spells/skeletal_chains/skeletalchains_chaining_fast.ao,1794106,45374
+1a5df733fcf3b724,barrier_hit_shimmer.fxgraph,Content/metadata/effects/spells/skeletal_chains/skeletalchains_chaining_fast.ao,1928850,29802
+3262f11115570624,barrier_hit.fxgraph,Tiny.VD,46423309,3906
+7126637990b8d6fc,barrier_shimmer.fxgraph,Content/metadata/effects/spells/skeletal_chains/skeletalchains_chaining_fast.ao,1839480,29772
+fe32470293858cee,barrier_start_shimmer.fxgraph,Content/metadata/effects/spells/skeletal_chains/skeletalchains_chaining_fast.ao,1899052,29798
+8788853538c8d6ab,barrier_start.fxgraph,Content/metadata/effects/spells/skeletal_chains/skeletalchains_chaining_fast.ao,1869252,29800
+f35320b39f6fe7d1,wind_storm_blast.fxgraph,Tiny.VE,46360406,516
+7f77a511dd67cf9a,wisp_charge_02.fxgraph,Content/metadata/effects/spells/holy_consecrate/consecrate_nova.ao,4480328,11772

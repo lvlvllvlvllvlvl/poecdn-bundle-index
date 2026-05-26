@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+51a03cef79e3c319,noise_01_dxt5.dds,Streaming/Shared/Super/Shared.1,3454668,349700
+154e19f8e8bfbf4a,noise_01_dxt5.dds.header,Tiny.V1,38496140,1520
+d55b56106612c75b,blood_splatround_01.mat,Tiny.V2,36116263,2204
+a9b196f844014367,blood_splatround_01.dds,Streaming/Content/metadata/particles/monster_effects/generic_projectiles/E950CDD28071339E.genericblood.trl,459472,22020
+c86db86307d2d8f1,blood_splatround_01.dds.header,Tiny.V5,31361429,1520
+693626a3e193972c,blood_drops.mat,Tiny.V2,36114853,1410
+c04e3a650e9e5677,blood_drops.dds,Streaming/Content/metadata/particles/monster_effects/generic_projectiles/E950CDD28071339E.genericblood.trl,437452,22020
+ff014ecebf1e9681,blood_drops.dds.header,Tiny.V3,31354423,1520
+a37fb78ac377cd42,blood_multi.mat,Tiny.V7,36027039,1464
+087543d1533f2b0a,blood_multi.dds,Streaming/Content/metadata/particles/monster_effects/act3/51F62C23DDEC2AC4.88993D90AF9E4251.cyl_big.pet,897252,174948
+ce81eafffef6173f,blood_multi.dds.header,Tiny.VD,33259881,840
+9b84f986947d8b3c,blood_trail.mat,Tiny.VD,36346817,1512
+451472f12f5093eb,blood_trail.dds,Streaming/Content/metadata/particles/monster_effects/generic_projectiles/E950CDD28071339E.genericblood.trl,0,174948
+153153429ab80193,blood_trail.dds.header,Tiny.V0,5770594,840

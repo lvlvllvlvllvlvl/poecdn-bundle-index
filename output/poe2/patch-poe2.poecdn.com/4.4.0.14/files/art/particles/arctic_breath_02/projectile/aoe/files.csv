@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+35c9e50408b82a78,nuke_base_add.mat,Tiny.V0,31930552,4782
+e356bd043247fd79,snow_spark.mat,Tiny.V2,31628671,1344
+81819901b7c66a77,snow_spark.dds,Tiny.VB,31876477,1540
+23cb33c6e2a3cba1,snow_spark.dds.header,Tiny.V5,31267811,1520
+ebd6bac94e87d4ef,shockwavering_alf.mat,Tiny.V7,31556588,1748
+44f32eb05eee90ad,shockwavering_alf.dds,Streaming/Content/metadata/particles/arc_purple/surge/mid.pet,1246568,87556
+70955fce3064f3d0,shockwavering_alf.dds.header,Tiny.V3,31281044,1520
+0fa3a8524666fad4,refraction.mat,Tiny.VD,31798786,4002
+15a88a21667455b6,refraction.dds,Streaming/Content/metadata/particles/arc_purple/surge/mid.pet,1159012,87556
+df0a2dbfefb5596f,refraction.dds.header,Tiny.V8,33481687,1520
+510bb07454bc7c66,refraction_normal.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.A08FDB4D0364B02F.fadein_midline.pet,43852,349700
+50121c4807cd1fe4,refraction_normal.dds.header,Tiny.V5,31266291,1520
+0d7a4791efaf435b,ice_lookup.dds,Tiny.V6,31562650,2212
+3cdbb057c5cd4c57,ice_lookup.dds.header,Tiny.V2,31628391,280

@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+57307e04627b65eb,generic_marker_r.mat,Tiny.V2.1,99149622,56890
+ed7557f2cc01a0cb,base_beam_u.mat,Tiny.V6.1,48978670,532
+8525258b0dcae019,ring_r.mat,Tiny.V3.1,96588454,46498
+409d8300ee2a27bf,ring_u.mat,Tiny.VF.1,3743618,540
+a70e9acb1dbcebf6,ring_edge_r.mat,Tiny.V0.1,99330668,27296
+daa50730e0bd5ee9,wind_suckin_01_r.mat,Tiny.V8.1,93504052,57212
+fc0908399b1b6104,wind_suckin_01_u.mat,Tiny.V9.1,45051478,1334

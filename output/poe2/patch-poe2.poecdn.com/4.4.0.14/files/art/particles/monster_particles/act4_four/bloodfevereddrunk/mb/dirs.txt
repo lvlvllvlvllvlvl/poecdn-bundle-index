@@ -1,0 +1,3 @@
+death_puddle_rig
+stun_vomit
+vomit_puddle_rig

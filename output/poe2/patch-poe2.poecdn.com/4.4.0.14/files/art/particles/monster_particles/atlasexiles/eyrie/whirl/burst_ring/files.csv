@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+660b4e5270893293,u_slash.mat,Tiny.VB,35854639,2656
+1c0c2cd29eb03772,bigspike.mat,Tiny.VD,35611568,5404
+d89effe0c81f82d4,snow_explosion.mat,Tiny.V5,35017010,2246
+9bdb7f55bedd358f,snow_explosion_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/4FCB192E98D523CD.71D8A65BF6B08AF1.light_up.pet,414632,11084
+63aa95311a9f09a5,snow_explosion_dxt1.dds.header,Tiny.V0,35681242,1520
+c23b84c40967d683,trail2_bc1.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/C9EB0B9306ADB971.82FACB58EE94A23A.loop_midup.pet,11213,87548
+a81e18da32f10969,trail2_bc1.dds.header,Tiny.V6,45665138,840
+f88b1bbe1539ba08,distort_uline.mat,Tiny.VC,35544536,1210
+e734761293d43650,dustwave.mat,Tiny.VF,35519474,1994
+bb9dfa3858b99acb,dustwave_dxt5.dds,Streaming/Content/metadata/pet/skadi/pet/skadi_ground_rune.pet,6569,349700
+10bc34cbf9808155,dustwave_dxt5.dds.header,Tiny.V1,35243204,1520

@@ -1,4 +1,0 @@
-rcfemale
-rclshoulderpad
-rcmale
-rcrshoulderpad

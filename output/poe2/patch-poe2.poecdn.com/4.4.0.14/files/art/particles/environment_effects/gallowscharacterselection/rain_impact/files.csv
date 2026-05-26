@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+56c8e0e8cb4bdbc8,water_circular_splash.mat,Tiny.V5,32069556,2442
+4190a2c62137bec3,water_circular_splash_dxt5.dds,Streaming/Content/data/worldareas/DE/c_g1_1.vworld,850171,349700
+da19b0c4eda75af0,water_circular_splash_dxt5.dds.header,Tiny.V8,37352480,1520
+f6e3d1e030d98167,water_circular_splash_bc1.dds,Streaming/Content/metadata/terrain/woods/grimtangle/D8DBC30FC68A4A3F.6DFCDFF7DF48EC1C.root_pulse.epk,428289,174924
+cc4a4fd4f7020e71,water_circular_splash_bc1.dds.header,Tiny.VE,32169433,1520
+867715f2fddadad2,water_splash_2x2.mat,Tiny.VA,32679193,2988
+95ab66a04ebcf353,water_splash_2x2_dxt5.dds,Streaming/Content/data/worldareas/AA/c_g1_1.vworld,184782,349700
+d24c26d164f0db5f,water_splash_2x2_dxt5.dds.header,Tiny.VE,32170953,1520
+eac41ae1ea57a288,water_splash_2x2_bc1.dds,Streaming/Content/data/worldareas/42/c_g1_5.vworld,233993,174924
+eb3947e9926b63c6,water_splash_2x2_bc1.dds.header,Tiny.V2,32385900,1520
+5a35a72a0ac03894,sand_grain_tile.mat,Tiny.VC,32599438,1176
+71bcdb37654c759f,splash_up.mat,Tiny.VC,32600614,3470
+0583031321b47ec3,splash_up_dxt5.dds,Streaming/Content/data/worldareas/c_g1_1.vworld,10892507,87556
+0d2941cfc83a0b29,splash_up_dxt5.dds.header,Tiny.VD,32666889,1520
+3ea3e92a7cfa132a,splash_up_bc1.dds,Streaming/Content/data/worldareas/E1/c_g1_5.vworld,3167189,43852
+d05bf9208267db07,splash_up_bc1.dds.header,Tiny.VD,32665369,1520

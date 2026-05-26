@@ -1,6 +1,0 @@
-fx
-fx/zapbolt
-mat
-mat/build
-mat/transform_toguide
-mat/zapbolt

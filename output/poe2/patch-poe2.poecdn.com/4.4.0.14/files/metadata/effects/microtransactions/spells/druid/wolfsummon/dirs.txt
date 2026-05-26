@@ -1,0 +1,10 @@
+attached
+epks
+fx
+graphs
+mats
+mats/death
+mats/portal
+mats/trail
+mats/transform
+trail

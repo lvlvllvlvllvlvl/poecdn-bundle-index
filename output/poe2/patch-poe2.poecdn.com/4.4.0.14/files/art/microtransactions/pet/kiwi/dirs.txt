@@ -1,0 +1,3 @@
+diamond
+gold
+silver

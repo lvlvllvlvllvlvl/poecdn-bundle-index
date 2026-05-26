@@ -1,8 +1,0 @@
-black_shadow_stuff
-black_shadow_stuff/screen_wisps
-dust
-flame_splash
-flies
-hourglass_sand
-inca_doors
-mud

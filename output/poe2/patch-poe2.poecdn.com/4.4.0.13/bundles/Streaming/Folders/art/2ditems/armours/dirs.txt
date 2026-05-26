@@ -1,4 +1,0 @@
-bodyarmours
-boots
-gloves
-helmets

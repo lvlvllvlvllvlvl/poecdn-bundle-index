@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+ef01ef3f139741ef,noise_wave_2_5_dxt1.dds,Streaming/Shared/Super/Shared.1,1093396,43852
+17d5b1f45741ae5e,noise_wave_2_5_dxt1.dds.header,Tiny.VD,33010309,1520
+9f2c41ecaee1590b,flow_dxt5.dds,Streaming/Content/metadata/effects/environment/gallows/1A9DC157848BAAE7.17D29EC6470FE81C.footstep_m_mid.pet,868669,22020
+5bc80f344b9fc03b,flow_dxt5.dds.header,Tiny.VF,39912938,1520
+999d43da5daa33ee,square_256_dxt5.dds,Streaming/Content/data/worldareas/B7/mapfortress.vworld,1440585,87556
+d24a2afd7f4d82e3,square_256_dxt5.dds.header,Tiny.VD,40080730,1520
+ccc468315cb272f3,slipfacecm.mat,Tiny.VD,40075794,4936
+b3fc060145344d28,slipfacec.mat,Tiny.V9,40447443,4938
+f1503d0ab4fc10d3,slipfacecs.mat,Tiny.VC,40057033,4352
+12efcb28b4442feb,slipface_normal_dxt5.dds,Streaming/Content/metadata/monsters/mudgolem/sandgolemsummoned.act,1732000,1398276
+b73b74b9f1738da6,slipface_normal_dxt5.dds.header,Tiny.V6,39814574,1520
+048014e30d492f87,sandsplit.mat,Tiny.V6,39811458,3116
+96a821a045c8059b,sand_particle.mat,Tiny.V6,39807878,3580

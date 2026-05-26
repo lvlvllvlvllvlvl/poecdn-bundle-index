@@ -1,0 +1,8 @@
+fx
+graphs
+mats
+mats/abyss_energy_eyes
+mats/gate_unlocked
+mats/kickupdust
+mats/player_handglow
+mats/renderpasses

@@ -1,3 +1,0 @@
-materials
-mb
-mb/axe_throwing

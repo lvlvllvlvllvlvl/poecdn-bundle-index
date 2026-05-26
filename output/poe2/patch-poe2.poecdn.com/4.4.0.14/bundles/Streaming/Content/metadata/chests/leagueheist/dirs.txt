@@ -1,0 +1,3 @@
+banditchests
+robotchests
+sciencechests

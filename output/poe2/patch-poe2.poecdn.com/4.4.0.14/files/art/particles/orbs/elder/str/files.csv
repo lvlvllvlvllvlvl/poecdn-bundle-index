@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+0093e86f3db0c2ec,tentacle_strcns.mat,Tiny.VC,38682348,2822
+c2dd7dc89ee611d7,tentacle_strns.dds,Streaming/Content/metadata/effects/spells/orbs/purple_charge.ao,627228,87556
+d2e4b5f1e57f540e,tentacle_strns.dds.header,Tiny.V8,38280600,1520
+db0e7a9e71f866fe,tentacle_str_colour.dds,Streaming/Content/metadata/effects/spells/orbs/purple_charge.ao,583376,43852
+74340c05a8587d2e,tentacle_str_colour.dds.header,Tiny.V4,38978430,1520
+bad004148c7c5a21,light_gradient.mat,Tiny.VE,38355993,1408
+cb6bdbc334b9701a,light_gradient.dds,Tiny.VA,38792736,2892
+4e0984d9a879df3d,light_gradient.dds.header,Tiny.VB,38972293,1520

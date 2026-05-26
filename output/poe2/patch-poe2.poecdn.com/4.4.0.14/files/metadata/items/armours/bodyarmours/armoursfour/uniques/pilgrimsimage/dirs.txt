@@ -1,0 +1,4 @@
+attachments
+attachments/arms
+attachments/chest
+attachments/skirt

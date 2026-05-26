@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+a727c22b39f892a6,flash up2.mat,Tiny.V5,38823133,1958
+5b7f89183734d0af,flash up2.dds,Streaming/Content/metadata/effects/spells/storm_call_02/D1AC74E5AECBBE16.marker_idle.pet,1992665,22020
+3080cdd41695d74b,flash up2.dds.header,Tiny.VD,39392043,1520
+a48907fc53e1b81a,blur_dust.mat,Tiny.VA,39377489,3150
+ee41f8a663ba5108,blur_dust.dds,Streaming/Content/metadata/particles/leap_bot.pet,427212,87556
+5c61ead55f7cff2f,blur_dust.dds.header,Tiny.VE,38890573,1520
+7158be3ed9214e7a,crack01_expns.dds,Streaming/Content/metadata/particles/leap_bot.pet,689716,174948
+73b154de4f2f7715,crack01_expns.dds.header,Tiny.VE,38892093,840
+ab47cae9676f4429,crack01_colour.mat,Tiny.V0,39350142,3366
+e3e7e54372f2f01f,crack01_colour.dds,Streaming/Content/metadata/particles/leap_bot.pet,514768,174948
+f3b5098a2ad474f6,crack01_colour.dds.header,Tiny.V2,38953742,840
+700d4b874c282470,ground_rocks_colourblack.mat,Tiny.V9,39694109,1730
+d6d4800223bc5f44,ground_rocks_colourblack.dds,Streaming/Content/metadata/particles/leap_bot.pet,864664,87588
+5ba4dbeefa667905,ground_rocks_colourblack.dds.header,Tiny.V8,38865094,504

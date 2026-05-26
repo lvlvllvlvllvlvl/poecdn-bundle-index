@@ -1,4 +1,0 @@
-attachments
-attachments/brawn
-attachments/generic
-attachments/mum

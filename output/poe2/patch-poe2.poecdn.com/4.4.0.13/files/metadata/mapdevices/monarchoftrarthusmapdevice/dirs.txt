@@ -1,9 +1,0 @@
-attachments
-attachments/pillars
-attachments/pillars/large
-attachments/pillars/small
-audio
-epk
-fx
-mat
-mat/predestal

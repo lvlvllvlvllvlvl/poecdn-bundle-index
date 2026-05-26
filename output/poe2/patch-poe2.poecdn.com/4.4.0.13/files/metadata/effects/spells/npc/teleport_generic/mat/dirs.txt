@@ -1,2 +1,0 @@
-checkpoint_teleport
-checkpoint_teleport/flames_burst

@@ -1,0 +1,4 @@
+divine_idle
+divine_impact
+divine_impact/vaal
+divine_pulse

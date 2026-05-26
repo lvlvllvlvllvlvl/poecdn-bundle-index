@@ -1,5 +1,0 @@
-chain_beam
-crack_anchor_slam
-crack_rework
-crack_rework_end
-crack_rework_start

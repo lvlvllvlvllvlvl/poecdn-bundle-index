@@ -1,0 +1,5 @@
+cold_slam_blast
+cold_slam_crater
+cold_slam_marker
+fire_slam
+lightning_slams

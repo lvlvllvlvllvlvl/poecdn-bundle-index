@@ -1,0 +1,11 @@
+ao
+epk
+fx
+graph
+mat
+mat/arena_darkness
+mat/darkness_sucker
+mat/flame_thrower
+mat/large_darkness_slam
+mat/large_darkness_slam/darkness_patch
+mat/shadow_step

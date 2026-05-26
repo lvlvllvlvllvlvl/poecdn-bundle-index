@@ -1,0 +1,5 @@
+corpse
+disco_lazer
+hand_l
+hand_r
+legs_lazer

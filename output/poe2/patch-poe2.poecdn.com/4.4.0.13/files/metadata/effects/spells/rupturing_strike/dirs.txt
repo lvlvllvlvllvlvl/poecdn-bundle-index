@@ -1,3 +1,0 @@
-epk
-epk/purple
-sound

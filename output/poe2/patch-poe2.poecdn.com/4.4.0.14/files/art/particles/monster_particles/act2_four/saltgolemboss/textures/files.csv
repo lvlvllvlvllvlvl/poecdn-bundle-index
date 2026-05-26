@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+e84463a550f7fa80,real_fire.mat,Tiny.VC,34050443,8938
+64f5e5880511d291,flares.mat,Tiny.V1,33814135,1446
+ab8aa399972940c7,epk_pulse.mat,Tiny.V0,34199718,3388
+48e1df44b5046c2e,epk_slamglow.mat,Tiny.VD,34062095,4076
+a4e1f9b4f9eeac4f,trail_cracks_add_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/542F56B5A086A78E.435C71C0737F31C1.l_fattrail.trl,612596,349700
+f0332fc4b9b0e033,trail_cracks_add_dxt5.dds.header,Tiny.VD,34069925,1520
+ab5dc6a800c99511,poison_shimmer.mat,Tiny.V7,37042285,1488
+c857f27b6f0bf17d,proj_crack_permac.mat,Tiny.V1,33815581,6552
+1b50f57529f45b95,proj_crack2_render.mat,Tiny.V5,33563569,11442
+fc0f8408edccaefd,proj_crack2_update.mat,Tiny.VD,34066171,690
+020a2981b21fb73c,spark1.mat,Tiny.VE,33573540,634
+4b6b1dc9b3998e3b,shockwave_1_2.mat,Tiny.VD,34066861,3064
+204bccb64c5afe8f,shockwave_death.mat,Tiny.V1,33822133,3310
+6f3ffdd39dfa3f83,glow_grad_1_0.mat,Tiny.VF,33961846,2084
+034a6df311a6be11,glow_2_1.mat,Tiny.V3,33483859,2140

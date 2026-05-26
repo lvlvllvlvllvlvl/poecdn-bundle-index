@@ -1,7 +1,0 @@
-attachments
-attachments/acbcloak
-attachments/acbcloakhorn
-attachments/acblshoulderpad
-attachments/acbrshoulderpad
-attachments/acbskirtmetal
-attachments/orb

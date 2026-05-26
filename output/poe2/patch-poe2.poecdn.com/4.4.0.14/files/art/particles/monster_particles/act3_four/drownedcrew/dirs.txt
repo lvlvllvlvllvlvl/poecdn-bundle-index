@@ -1,0 +1,6 @@
+mb
+mb/bodyfx
+mb/bodyfx/core
+textures
+textures/bodyfx_alive
+textures/on_death

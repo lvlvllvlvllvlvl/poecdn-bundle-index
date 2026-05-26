@@ -1,4 +1,0 @@
-lightning_ball
-lightning_mortar_pull
-lightning_refractingbeams
-void_field

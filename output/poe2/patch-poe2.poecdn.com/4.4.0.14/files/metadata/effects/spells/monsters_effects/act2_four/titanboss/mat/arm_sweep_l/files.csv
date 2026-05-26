@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+613a2bce96dedf51,decal_render.mat,Tiny.VF.1,61020868,42210
+145083622d554522,decal_update.mat,Tiny.VF.1,3743618,540
+13a0799a87feba7b,rock_wave_shattered_r.mat,Tiny.V6.1,62484440,26840
+169b15e27b950956,rock_wave_shattered_u.mat,Tiny.V7.1,61664980,18566
+b1ac2691729615c5,smoke_chasing_r.mat,Tiny.V3.1,60581712,26516
+61a4dc9cb6fc2563,smoke_chasing_u.mat,Tiny.V1.1,59280520,11904
+cff8cc582ec4a64a,smoke_ring_01_r.mat,Tiny.V1.1,59254182,26338
+c9902de19ab6faa9,smoke_ring_01_u.mat,Tiny.V4.1,65750256,11236
+47da34fcefc1bea0,shardsdebris_r.mat,Tiny.V1.1,59480524,22092
+9db56157b1190194,shardsdebris_u.mat,Tiny.V8.1,59708058,19806
+be259523df403526,impactcrater_r.mat,Tiny.VB.1,59788898,30866
+70145f26c4e974a0,impactcrater_u.mat,Tiny.VA.1,59961714,996

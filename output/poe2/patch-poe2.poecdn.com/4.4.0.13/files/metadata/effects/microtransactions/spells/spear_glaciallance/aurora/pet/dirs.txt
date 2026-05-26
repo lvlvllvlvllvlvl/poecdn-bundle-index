@@ -1,4 +1,0 @@
-iceformation
-impact
-projectile
-trail

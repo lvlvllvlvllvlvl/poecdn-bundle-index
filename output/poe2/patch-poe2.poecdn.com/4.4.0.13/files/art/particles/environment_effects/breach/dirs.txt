@@ -1,7 +1,0 @@
-chaos
-cold
-fire
-lightning
-physical
-soulcoaster
-soulcoaster/ritual

@@ -1,3 +1,0 @@
-bleeding
-bleeding/tex
-tri_exposure

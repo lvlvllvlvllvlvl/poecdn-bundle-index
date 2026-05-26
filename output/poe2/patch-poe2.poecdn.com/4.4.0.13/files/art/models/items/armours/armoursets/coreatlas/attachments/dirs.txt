@@ -1,5 +1,0 @@
-beltaccessories
-bodyribbons
-helmetribbons
-necklace
-skirt

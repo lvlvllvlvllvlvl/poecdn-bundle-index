@@ -1,4 +1,0 @@
-mat
-mat/elite
-mat/magic
-mat/rare

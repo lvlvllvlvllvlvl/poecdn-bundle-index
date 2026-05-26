@@ -1,0 +1,6 @@
+circle
+single
+single/axe
+single/mace
+single/sword
+unarmed

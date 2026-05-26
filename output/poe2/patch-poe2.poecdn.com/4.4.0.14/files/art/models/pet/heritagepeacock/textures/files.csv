@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+8cbabb53bb8eb439,heritagepeacockpetc.mat,Tiny.V0,12812069,7458
+99facb214274d0bc,heritagepeacockpet_normal_dxt5.dds,Streaming/Content/art/models/pet/heritagepeacock/heritagepeacock.fmt,4194976,1398276
+0292956cd6c61f56,heritagepeacockpet_normal_dxt5.dds.header,Tiny.V3,12626197,1520
+118de8bedad30fa1,heritagepeacockpet_mask_dxt5.dds,Streaming/Content/art/models/pet/heritagepeacock/heritagepeacock.fmt,699212,1398276
+4472bbb66aea62ae,heritagepeacockpet_mask_dxt5.dds.header,Tiny.V0,12810549,1520
+37e5101a31bb9da9,heritagepeacockpet_metal_bc7.dds,Streaming/Content/art/models/pet/heritagepeacock/heritagepeacock.fmt,2097488,1398276
+583833ad5bbd5a6d,heritagepeacockpet_metal_bc7.dds.header,Tiny.VD,12555109,1520
+1008d5a4a16abb3d,heritagepeacockpet_metal_dxt1.dds,Streaming/Content/art/models/pet/heritagepeacock/heritagepeacock.fmt,3495764,699212
+9ca3b98c84e71345,heritagepeacockpet_metal_dxt1.dds.header,Tiny.VC,12573608,1520
+6189b77d8bf7d34b,heritagepeacockpet_colour_dxt1.dds,Streaming/Content/art/models/pet/heritagepeacock/heritagepeacock.fmt,0,699212
+88e1e8d5916a04bc,heritagepeacockpet_colour_dxt1.dds.header,Tiny.V6,12764786,1520

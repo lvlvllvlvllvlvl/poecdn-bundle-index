@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+414f91f377bb1c76,tarus.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/2BC74FC430E2EC26.93EAD1EC3702AC5F.volcanocrumble.pet,480066,30976
+15c4de64416ca226,tarus.fmt.header,Tiny.VE,33409278,208
+1daa91e207ccc82d,rig_bb0353e4.smd,Tiny.V6,33585773,77
+f562a47c3e7b3489,rig_bb0353e4.smd.header,Tiny.V2,33731232,448
+2ab73b76915058d4,onact_death.sm,Tiny.V4,34117361,394
+c0d4590706d1c72f,onact_death.amd,Tiny.V2,33608861,96
+1c1f110d4521a998,onact_death.ast,Content/metadata/effects/spells/monsters_effects/act2_four/0D137DB09E72D874.spawn_totem.epk,3724776,15652

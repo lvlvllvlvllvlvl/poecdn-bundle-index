@@ -1,0 +1,7 @@
+anti_caster_curse
+anti_melee_curse
+anti_minion_curse
+on_act
+on_act/emerge_01
+tainted_life
+tainted_mana

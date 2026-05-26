@@ -1,9 +1,0 @@
-attachments
-epk
-fx
-graphs
-mat
-mat/crumble_kickup
-mat/dissolve
-mat/portal_idle
-mat/start_nova

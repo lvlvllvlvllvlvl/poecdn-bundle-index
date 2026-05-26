@@ -1,3 +1,0 @@
-finger_energy
-snap
-spawn

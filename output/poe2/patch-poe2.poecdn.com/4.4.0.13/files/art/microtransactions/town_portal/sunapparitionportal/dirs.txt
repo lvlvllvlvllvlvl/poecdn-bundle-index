@@ -1,3 +1,0 @@
-textures
-textures/demonic
-textures/lunar

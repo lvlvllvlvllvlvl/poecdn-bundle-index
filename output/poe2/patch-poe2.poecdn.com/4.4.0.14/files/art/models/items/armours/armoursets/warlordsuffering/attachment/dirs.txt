@@ -1,0 +1,4 @@
+cape
+ornaments
+scarf
+skirt

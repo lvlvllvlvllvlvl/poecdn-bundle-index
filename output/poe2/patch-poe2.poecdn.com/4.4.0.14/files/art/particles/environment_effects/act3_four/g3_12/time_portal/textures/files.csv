@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+ff20d972796ea209,open_grad_core.mat,Tiny.V4,32751427,1436
+c5685c7890fdb474,beam_open_cyl.mat,Tiny.V6,32169763,3420
+45ce07cda33efb2f,mars_ring.mat,Tiny.V8,32133324,1322
+df3a5b7332298931,postproc_ball.mat,Tiny.V8,32134646,1432
+4cd0807dd1b588a2,eclipse.mat,Tiny.VD,32526045,3878
+cf3e228df3ab0daa,env_dust_spiralin.mat,Tiny.VB,32533942,4136
+2211fa535c2d834f,flare_web.mat,Tiny.V5,31901823,6338
+f8810f2d66154c75,flare_suckin_in.mat,Tiny.V0,32474776,3412
+010b190054537bfa,flare_sparks.mat,Tiny.VC,32492347,1570
+082eaa67aec00c5a,smokeswirlin_01.mat,Tiny.VE,31997213,5626
+5afde3ab87987e7a,sphere_shockwave.mat,Tiny.VB,32538078,3804
+d13aebbc54b404f2,sphere_grain.mat,Tiny.V0,32478188,3778

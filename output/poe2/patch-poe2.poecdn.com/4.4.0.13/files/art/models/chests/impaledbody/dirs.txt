@@ -1,6 +1,0 @@
-body_01
-body_02
-body_03
-body_04
-body_05
-body_06

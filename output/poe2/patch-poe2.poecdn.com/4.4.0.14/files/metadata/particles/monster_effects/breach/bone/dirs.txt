@@ -1,0 +1,5 @@
+bone_mortar
+bone_quake
+bonewall_explode
+delayed_blast
+gorespire

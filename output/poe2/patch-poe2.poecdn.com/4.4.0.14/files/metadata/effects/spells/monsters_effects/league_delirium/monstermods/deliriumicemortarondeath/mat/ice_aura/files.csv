@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+0fbdd45f4d5efaa0,charge_ring_r.mat,Tiny.V3.1,114949596,54756
+9e0592830de4a309,blur_ring_r.mat,Tiny.V5.1,100623170,36240
+9e267511c5bce27c,snow_r.mat,Tiny.VC.1,117474104,25476
+cf6adff372f8446c,snow_u.mat,Tiny.V9.1,100574410,22042
+f3c3e36c92ac33b6,pt_infinte_u.mat,Tiny.V4.1,104835152,3224
+15e0200eda2825fa,puritycold_base_r.mat,Tiny.V9.1,100533538,40872
+1442058e6a2dab89,puritycold_base_u.mat,Tiny.VE.1,111658080,2850

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+608aa5069b240067,hod_kiloava_equipc.mat,Tiny.V8,19220315,12270
+be4bcf11334a307b,hod_kiloava_equip_glow.dds,Streaming/Content/data/balance/worldareas/19/g4_4_1.vworld,0,349700
+488d7b5e6cefd890,hod_kiloava_equip_glow.dds.header,Tiny.V9,19385387,1520
+ee6eeede9561ff5e,hod_kiloava_equip_metal.dds,Streaming/Content/data/balance/worldareas/E5/g4_4_1.vworld,0,349700
+70f2a3402246bf00,hod_kiloava_equip_metal.dds.header,Tiny.V1,19033155,1520
+d748b7bdd204df99,hod_kiloava_equip_normal.dds,Streaming/Content/data/balance/worldareas/05/g4_4_1.vworld,0,1398276
+1dfac60b4633eb45,hod_kiloava_equip_normal.dds.header,Tiny.VF,13138687,1520
+df5051e5f0c03911,hod_kiloava_equip_colour.dds,Streaming/Content/data/balance/worldareas/23/g4_4_1.vworld,0,1398276
+5a08ed7fb43d3857,hod_kiloava_equip_colour.dds.header,Tiny.VC,12908333,1520
+3a6a227981337dfb,hod_kiloavatotemarmorrackc.mat,Tiny.VC,19003567,7982
+8514ad05c4eb8a77,hod_kiloavatotemarmorrack_normal.dds,Streaming/Content/data/balance/worldareas/EB/g4_4_1.vworld,0,5592580
+b83253e420606720,hod_kiloavatotemarmorrack_normal.dds.header,Tiny.VD,20335406,1520
+b2c2918a630ca3ca,hod_kiloavatotemarmorrack_metal.dds,Streaming/Content/data/balance/worldareas/6D/g4_4_1.vworld,0,2796364
+f10fee47ac332900,hod_kiloavatotemarmorrack_metal.dds.header,Tiny.VE,19008844,1520
+eeca689aa8eedc97,hod_kiloavatotemarmorrack_colour.dds,Streaming/Content/data/balance/worldareas/DB/g4_4_1.vworld,0,2796364
+20087ca466b33411,hod_kiloavatotemarmorrack_colour.dds.header,Tiny.VB,20745760,1520

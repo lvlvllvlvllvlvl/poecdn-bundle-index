@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+b3305a49ef9d0f23,onact_fire_projectile.ao,Tiny.V8,50183467,322
+d169a0fac1689398,onact_fire_projectile.aoc,Tiny.V4.1,55138460,1772
+d6d24d2afd55a5fc,soundwave_projectile.ao,Tiny.VB.1,50513506,3482
+29d99ba6f8ec204a,soundwave_projectile.aoc,Tiny.V8.1,49748186,4288
+7b20adb27798bacf,windpalmstun.ao,Tiny.VD.1,106831472,416
+5879b4a0551d3b84,windpalmstun.aoc,Tiny.VE.1,52729724,2778
+f31a79dc6f3c956a,windpalmhit.ao,Tiny.VD.1,106831472,416
+dd77f23b6add429c,windpalmhit.aoc,Tiny.VA.1,49332170,1600
+434c26f0beece625,windpalmempty.ao,Tiny.VD.1,106831472,416
+fb9038b35838e57c,windpalmempty.aoc,Tiny.V8.1,49752474,1608

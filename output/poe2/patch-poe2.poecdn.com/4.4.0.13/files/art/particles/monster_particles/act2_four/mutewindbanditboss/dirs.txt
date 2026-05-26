@@ -1,6 +1,0 @@
-actfx
-grd_spear
-grd_spear_cluster
-proj_spear
-proj_spear/animations
-textures

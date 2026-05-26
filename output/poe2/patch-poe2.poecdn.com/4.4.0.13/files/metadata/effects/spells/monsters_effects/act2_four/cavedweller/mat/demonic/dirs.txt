@@ -1,4 +1,0 @@
-blood_orb
-blood_orb/burst
-blood_orb/emerge
-blood_orb/onact

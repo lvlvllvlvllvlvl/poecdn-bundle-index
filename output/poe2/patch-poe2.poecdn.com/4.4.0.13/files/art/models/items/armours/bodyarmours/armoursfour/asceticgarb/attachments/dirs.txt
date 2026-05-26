@@ -1,6 +1,0 @@
-beltcloth
-beltcloth/f
-beltcloth/m
-skirt
-skirt/f
-skirt/m

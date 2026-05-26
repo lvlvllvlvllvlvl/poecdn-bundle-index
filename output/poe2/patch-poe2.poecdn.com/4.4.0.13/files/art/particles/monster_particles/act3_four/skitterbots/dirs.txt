@@ -1,8 +1,0 @@
-mb
-mb/mortar
-mb/mortar_explode
-mb/on_act
-mb/on_act/detonate_long_01
-tex
-tex/on_act
-tex/on_act/detonate_long_01

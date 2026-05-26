@@ -1,0 +1,4 @@
+celestial
+celestial/crystal_loop_anim
+celestial/crystal_loop_anim/explosion
+celestial/crystal_loop_anim/new

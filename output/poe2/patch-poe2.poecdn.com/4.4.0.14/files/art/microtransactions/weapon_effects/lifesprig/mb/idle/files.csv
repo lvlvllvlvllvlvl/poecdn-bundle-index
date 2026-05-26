@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+382ebf92e9598928,rig_e2074de1.smd,Tiny.V8,6314880,77
+085a7ec5e1bc49ea,rig_e2074de1.smd.header,Tiny.V6,6473211,448
+548e5ee2ccb734b9,aura.sm,Tiny.V9,6568311,336
+1a91f7347147d737,aura.amd,Tiny.VD,3415425,112
+23c8193dee7cdd63,aura.ast,Tiny.VD,6292288,312
+7f2fc031e06d2514,fx_cyl01.fmt,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.4E67F4886766173B.staff.epk,393010,7170
+0fcc05d4f7251e74,fx_cyl01.fmt.header,Tiny.V0,6483620,208
+be448f0d9c350495,lifesprig.fmt,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.4AE0D471EB21581B.fwdline.pet,0,107574
+317e1ec654e08e71,lifesprig.fmt.header,Tiny.V1,6354482,228

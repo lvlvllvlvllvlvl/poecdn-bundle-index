@@ -1,6 +1,0 @@
-left
-left/dex
-left/int
-right
-right/dex
-right/int

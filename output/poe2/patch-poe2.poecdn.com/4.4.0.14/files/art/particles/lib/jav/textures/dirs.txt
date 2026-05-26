@@ -1,0 +1,16 @@
+fire
+fire/64x64
+glow
+ink_blood
+mask
+noise
+normal
+others
+others/placeholders
+ramp
+ring
+space
+space/1024x1024
+space/256x256
+texture
+trail

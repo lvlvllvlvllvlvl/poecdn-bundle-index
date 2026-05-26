@@ -1,5 +1,0 @@
-male
-male/attachments
-male/attachments/platesfront
-male/attachments/platesrear
-male/attachments/robe

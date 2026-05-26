@@ -1,4 +1,0 @@
-attachments
-fx
-fx/bright
-fx/dark

@@ -1,2 +1,0 @@
-physics
-physics_02

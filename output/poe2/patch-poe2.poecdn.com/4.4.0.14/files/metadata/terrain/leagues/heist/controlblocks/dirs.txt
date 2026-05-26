@@ -1,0 +1,4 @@
+tiles
+tiles/doors
+tiles/doors/npcexplosivedoor
+tiles/doors/npcexplosivedoor/graphs

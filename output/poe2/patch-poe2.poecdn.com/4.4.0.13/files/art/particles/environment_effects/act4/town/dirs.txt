@@ -1,3 +1,0 @@
-candle
-fog
-lantern01

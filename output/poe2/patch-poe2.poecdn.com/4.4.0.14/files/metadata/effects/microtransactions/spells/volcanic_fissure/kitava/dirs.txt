@@ -1,0 +1,13 @@
+epk
+fx
+fx/fissure_01
+fx/fissure_erupt_01
+fx/fissure_start_01
+mat
+mat/fissure_01
+mat/fissure_01/end
+mat/fissure_01/start_01
+mat/fissure_erupt_01
+mat/fissure_start_01
+mat/mortar_impact
+mat/weapon_surge

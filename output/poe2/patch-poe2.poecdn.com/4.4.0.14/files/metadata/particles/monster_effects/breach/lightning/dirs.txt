@@ -1,0 +1,4 @@
+ball_lightning
+lightning_souleater
+lightning_whip
+lightning_zap

@@ -1,4 +1,0 @@
-microtransactions
-onehandweapons
-twohandweapons
-uniques

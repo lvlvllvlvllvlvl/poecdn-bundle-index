@@ -1,5 +1,0 @@
-attack_04
-cyclone_01
-dash_01
-dualstrike_01
-emerge_boss_01

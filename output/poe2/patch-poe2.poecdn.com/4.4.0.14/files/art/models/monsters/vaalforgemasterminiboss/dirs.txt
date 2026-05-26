@@ -1,0 +1,6 @@
+attachments
+attachments/architectsoftheforgebeast
+attachments/architectsoftheforgebeast/crest
+attachments/architectsoftheforgebeast/weapons
+attachments/weapons
+textures

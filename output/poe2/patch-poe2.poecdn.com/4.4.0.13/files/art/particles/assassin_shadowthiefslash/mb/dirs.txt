@@ -1,3 +1,0 @@
-main_slash
-shadow_beam_travel
-shadow_draw_cone

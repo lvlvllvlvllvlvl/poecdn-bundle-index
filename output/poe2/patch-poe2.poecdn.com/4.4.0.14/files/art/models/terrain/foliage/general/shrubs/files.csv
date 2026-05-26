@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+02fd969f0639608f,lavender01.fmt,Streaming/Content/data/balance/worldareas/mapbluff.vworld,0,6022
+b6dbf0b080f07265,lavender01.fmt.header,Tiny.VE,16540705,258
+7d62f278d39dab20,lavender02.fmt,Streaming/Content/data/balance/worldareas/mapbluff.vworld,6022,6022
+3ea47c841e96b802,lavender02.fmt.header,Tiny.V5,16378034,258
+68f02f15e4533295,lavender03.fmt,Streaming/Content/data/balance/worldareas/mapbluff.vworld,12044,19990
+181db984df197c17,lavender03.fmt.header,Tiny.VC,16581080,258
+2225fc3f22acf67f,lavender04.fmt,Streaming/Content/data/worldareas/mapbluff.vworld,0,46430
+cdf88d66286d6ead,lavender04.fmt.header,Tiny.VD,16308266,258
+acf9e07dc6989fbe,lavender05.fmt,Streaming/Folders/art/2dart/skillicons/4k.2,67640,51386
+440eb9e0b744143f,lavender05.fmt.header,Tiny.V7,16507366,258
+d896e56a265a5f1b,lavender06.fmt,Streaming/Content/data/worldareas/mapbluff.vworld,46430,124298
+8e43afa76b43c98f,lavender06.fmt.header,Tiny.V1,16471072,258
+b805cba7fb3e2177,lavender07.fmt,Streaming/Content/data/worldareas/mapbluff.vworld,170728,144830
+21947034d1285776,lavender07.fmt.header,Tiny.VB,16620342,258

@@ -1,4 +1,0 @@
-treantarena
-treantarena/graphs
-treantarena/objects
-treantarena/rooms

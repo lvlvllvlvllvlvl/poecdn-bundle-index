@@ -1,8 +1,0 @@
-graphs
-objects
-rooms
-rooms/borderopen
-rooms/fills
-rooms/lakeside
-rooms/lakeside_2x2
-rooms/unique

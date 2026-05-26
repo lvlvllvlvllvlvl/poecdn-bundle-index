@@ -1,6 +1,0 @@
-graphs
-rooms
-rooms/burned
-rooms/fills
-rooms/road
-rooms/unique

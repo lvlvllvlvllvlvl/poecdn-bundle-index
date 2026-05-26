@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+620d1d6a7476c689,sandgolemc.mat,Tiny.V0,46281233,2058
+010209470c3400e9,sandgolem_normal_dxt5.dds,Streaming/Content/data/worldareas/9C/null.vworld.1,436581,1398276
+19e9c03df58105ac,sandgolem_normal_dxt5.dds.header,Tiny.VD,45886245,1520
+48fbbd98dcef6515,sandgolem_colour_dxt5.dds,Streaming/Content/data/worldareas/D5/null.vworld.1,2796364,1398276
+2f32a6320a50d842,sandgolem_colour_dxt5.dds.header,Tiny.VD,45884725,1520
+ccd6277861df1ef0,lightsandgolemc.mat,Tiny.V4,46516473,2538
+3ed4a8a0feabecbd,lightsandgolem_normal_dxt5.dds,Streaming/Content/metadata/monsters/mudgolem/sandgolemsummoned.act.2,1573200,1398276
+71bd567cc853b069,lightsandgolem_normal_dxt5.dds.header,Tiny.VE,45792835,1520
+f975a227b4ff5a9e,lightsandgolem_colour_dxt5.dds,Streaming/Content/metadata/monsters/mudgolem/sandgolemsummoned.act.2,174924,1398276
+c8874fa613f4b5bd,lightsandgolem_colour_dxt5.dds.header,Tiny.VD,45883205,1520

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+360b98bdcc2347a6,custom_vtx_trailphase_scale.fxgraph,Content/metadata/effects/misc/uniques/gloves/901E765B7E423A07.character_warp.epk,401442,71698
+3f04f4e972772b35,custom_swordglow_bytlp.fxgraph,Content/metadata/npc/four_act1/wifeloreapparition.ot,2038044,27036
+8aef0331388b5bf5,custom_glowon.fxgraph,Content/metadata/npc/four_act1/wifeloreapparition.ot,2004528,33516
+ef1121c8b311dd5d,custom_data_groundcolor_triplanar.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/2CD38DEC3C64DEA6.wolfraise.pet,684722,71660
+77927b07b7badbba,custom_data_groundnormals_triplanar.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/2CD38DEC3C64DEA6.wolfraise.pet,756382,61212
+0d62ce959aeb6238,custom_flagconstraint.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,1337365,231546
+9da3eda2effc0fd3,custom_fadebyanimationtime.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,2935561,8536
+a637db5fe12d221c,custom_fadeabsorbed.fxgraph,Content/metadata/effects/spells/monsters_effects/9A41299407D0CC24.pyramid_totem.ao,2934664,66136
+d6f81ef2d3292fbb,custom_fadereleased.fxgraph,Content/metadata/effects/spells/monsters_effects/9A41299407D0CC24.pyramid_totem.ao,2703798,73128
+2887b346421bd9fd,custom_fadeexploded.fxgraph,Content/metadata/effects/spells/monsters_effects/9A41299407D0CC24.pyramid_totem.ao,3000800,66138
+8e02ea2269d5ebfc,custom_ribbonsblur.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,2944097,20460
+79388d66135bb5ca,custom_reviveopacity.fxgraph,Content/metadata/effects/spells/monsters_effects/9A41299407D0CC24.pyramid_totem.ao,2043515,14092
+60e9dd6c7bced967,custom_reviveglow.fxgraph,Content/metadata/effects/spells/monsters_effects/9A41299407D0CC24.pyramid_totem.ao,1944281,99234
+24d151d300a0d75f,custom_customwindattraction.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,2722919,212642
+940829faf30b4d4c,custom_chaintotrail.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/DD78AFB3B3DE5402.bird_swarm.pet,1084171,253194

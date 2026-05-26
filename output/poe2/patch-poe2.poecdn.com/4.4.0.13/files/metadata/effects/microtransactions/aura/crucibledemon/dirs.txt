@@ -1,4 +1,0 @@
-fx
-fx/ao
-fx/graphs
-fx/pet

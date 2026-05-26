@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+aa4f07634cf2d756,skeletonprowlerc.mat,Tiny.V5,12239425,2518
+de107855ddebac99,skeletonprowler_normal_dxt5.dds,Streaming/Content/art/models/monsters/werewolfprowler/skeletonprowler.fmt,1398276,1398276
+f5bd02543347d7f2,skeletonprowler_normal_dxt5.dds.header,Tiny.VB,12419994,1520
+2c5738ef9be51500,skeletonprowler_colour_dxt5.dds,Streaming/Content/art/models/monsters/werewolfprowler/skeletonprowler.fmt,0,1398276
+a41e72d88f78e511,skeletonprowler_colour_dxt5.dds.header,Tiny.V2,12659759,1520
+bc560896b582b8f5,seaweedskeletonprowlerc.mat,Tiny.VE,12416472,2604
+c64a7d278ac632b3,seaweedskeletonprowler_normal_dxt5.dds,Streaming/Content/data/worldareas/1B/g4_5_2.vworld,0,1398276
+9d1bce3b9c2c471d,seaweedskeletonprowler_normal_dxt5.dds.header,Tiny.V0,12492857,1520
+95ae9d89603d8b09,seaweedskeletonprowler_colour_dxt5.dds,Streaming/Content/data/worldareas/F0/g4_5_2.vworld,0,1398276
+5301f49717ba5323,seaweedskeletonprowler_colour_dxt5.dds.header,Tiny.V2,12658239,1520
+792e9504a863cf25,hairyskeletonprowlerc.mat,Tiny.V9,12603367,2728
+c85670bc98e8340f,hairyskeletonprowler_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/oriath/619BA70962601B5E.muddraint01.ao,1398276,1398276
+1bd840ee39ad69d0,hairyskeletonprowler_normal_dxt5.dds.header,Tiny.V4,12586819,1520
+9da62e1dd126aa3d,hairyskeletonprowler_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/oriath/619BA70962601B5E.muddraint01.ao,0,1398276
+965441747f26a6d5,hairyskeletonprowler_colour_dxt5.dds.header,Tiny.V0,12491337,1520

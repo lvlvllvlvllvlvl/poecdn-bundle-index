@@ -1,2 +1,0 @@
-textures
-textures/delayed_blast

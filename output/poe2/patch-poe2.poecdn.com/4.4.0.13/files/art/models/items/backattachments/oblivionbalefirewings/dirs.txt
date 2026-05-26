@@ -1,5 +1,0 @@
-attachments
-attachments/tier2wings
-attachments/tier3wings
-textures
-textures/fx

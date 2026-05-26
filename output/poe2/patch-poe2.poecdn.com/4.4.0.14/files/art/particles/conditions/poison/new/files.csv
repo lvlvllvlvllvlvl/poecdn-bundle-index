@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+accd103dd17d4019,wisp_smoke_base.mat,Tiny.V2,31868491,2620
+fa28e33d80be2b70,wisp_smoke_base.dds,Streaming/Content/metadata/effects/statusailments/monsters/E23985AC8D2479CC.poisoned_02.epk,459308,174948
+7e7899d7bdb0765a,wisp_smoke_base.dds.header,Tiny.VF,32134705,840
+6b221680e7414218,bubble.mat,Tiny.V1,31861017,1528
+c4c8e24c11bd3583,bubble.dds,Streaming/Content/metadata/effects/statusailments/monsters/E23985AC8D2479CC.poisoned_02.epk,87556,22020
+8ae95b522b84a6d5,bubble.dds.header,Tiny.VD,32112820,1520
+a87a6ff246cb019b,smoke.mat,Tiny.VD,32114340,2562
+6f39886f708f8202,smoke.dds,Streaming/Content/metadata/effects/statusailments/monsters/E23985AC8D2479CC.poisoned_02.epk,109576,349732
+189fc71c40cd5f19,smoke.dds.header,Tiny.VE,31646829,504

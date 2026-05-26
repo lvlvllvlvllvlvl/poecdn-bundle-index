@@ -1,0 +1,4 @@
+royalsacrificaldagger
+royalsacrificaldagger/attachments
+textures
+wandofthethaumaturge

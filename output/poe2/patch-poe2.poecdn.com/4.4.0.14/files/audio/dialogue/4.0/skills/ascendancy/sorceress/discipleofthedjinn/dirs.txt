@@ -1,0 +1,6 @@
+firedjinn
+firedjinn2d
+sanddjinn
+sanddjinn2d
+waterdjinn
+waterdjinn2d

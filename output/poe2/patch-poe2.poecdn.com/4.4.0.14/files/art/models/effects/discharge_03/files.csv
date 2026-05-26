@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e6cb0436c41a56fb,rig_90610d63.smd,Streaming/Content/metadata/effects/microtransactions/spells/F3C4693666378A39.3AEDA41EF911CD3E.discharge_ice_wave.ao,0,90102
+c8cc8ba839d503e2,rig_90610d63.smd.header,Tiny.V8,6819779,448
+6c1ec07c5e095287,discharge.sm,Tiny.V8,6818882,530
+c09c878077e7cb92,discharge.amd,Tiny.VB,6917787,94
+9f19d3278f408942,discharge.ast,Content/metadata/effects/microtransactions/spells/storm_cloud/F32791C8A30A656D.aoe_mid.pet,2222006,7913
+cf0cd63a7c1a1057,explosion2.fmt,Streaming/Content/metadata/particles/discharge_03/initial_impact_lightning.pet,437256,118117
+df88521b0e384017,explosion2.fmt.header,Tiny.V8,6819571,208
+7ae311f1f5b97753,explosion.fmt,Streaming/Content/metadata/particles/monster_effects/league_heist/C0F3AB82217886BF.1AD66E846AC937ED.cleave_lightning_hit.pet,729149,118111
+a29ff4e0ff59c68d,explosion.fmt.header,Tiny.V8,6819412,159

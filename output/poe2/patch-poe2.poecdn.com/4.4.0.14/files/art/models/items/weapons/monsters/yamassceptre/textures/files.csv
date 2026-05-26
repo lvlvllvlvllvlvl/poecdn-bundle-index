@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+877fc5fc12c9d42d,yamassceptrec.mat,Tiny.VD,10759697,10396
+ff71b7ed6b1266b7,yamassceptre_alphac.mat,Tiny.VB,10881792,1236
+4059e7af245a21ea,yamassceptre_sss_bc1.dds,Streaming/Content/metadata/monsters/yamaboss/yamaboss.ao.2,0,699212
+27c8d70fc363c400,yamassceptre_sss_bc1.dds.header,Tiny.V6,10958302,1520
+ad342f3080dfff8f,yamassceptre_glow_bc7.dds,Streaming/Content/metadata/monsters/yamaboss/yamaboss.ao.1,0,1398276
+b0b5c33ab975f4f9,yamassceptre_glow_bc7.dds.header,Tiny.VE,10875245,1520
+c99979f67dc7fd53,yamassceptre_glow_bc1.dds,Streaming/Content/metadata/monsters/yamaboss/yamaboss.ao,2097488,699212
+8aa714d6e506c89f,yamassceptre_glow_bc1.dds.header,Tiny.VE,10873725,1520
+e7356682084d32ad,yamassceptre_normal_bc7.dds,Streaming/Content/metadata/monsters/yamaboss/yamaboss.ao.1,1398276,1398276
+d550b74c5cb2a3a3,yamassceptre_normal_bc7.dds.header,Tiny.V9,11189324,1520
+5aa680e82598156c,yamassceptre_colour_bc7premult.dds,Streaming/Content/metadata/monsters/yamaboss/yamaboss.ao,699212,1398276
+86caa93454e358e9,yamassceptre_colour_bc7premult.dds.header,Tiny.VA,10895945,1520
+a1612374bbb2288f,yamassceptre_colour_bc1.dds,Streaming/Content/metadata/monsters/yamaboss/yamaboss.ao,0,699212
+a0bf678029fc7138,yamassceptre_colour_bc1.dds.header,Tiny.V2,11063951,1520

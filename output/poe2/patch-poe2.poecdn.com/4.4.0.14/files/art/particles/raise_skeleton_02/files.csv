@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+58519d5d6d6797a0,trail_soul.mat,Tiny.VB,39066171,2066
+502906bb62e1f4d7,trail_soul_dxt5.dds,Streaming/Content/metadata/particles/player_auras/clarity/midline.pet,853580,174948
+7702e1866c142079,trail_soul_dxt5.dds.header,Tiny.V0,38806564,840
+caf0056b01cd1914,spinning_runes.mat,Tiny.VC,38769385,3532
+cb9e17161e0a412a,spinning_runes_dxt5.dds,Streaming/Content/metadata/particles/player_auras/clarity/midline.pet,1291196,87556
+1a01bd9e33b08a39,spinning_runes_dxt5.dds.header,Tiny.V8,38338864,1520
+653c070111d903c7,sparkling.mat,Tiny.V6,38659385,1404
+705b9a81bcdbcff5,sparkling_dxt5.dds,Tiny.VD,4913647,1572
+4e2c87829f7f9535,sparkling_dxt5.dds.header,Tiny.V2,5201687,504
+81b703762adf5643,wisp_smoke_base.mat,Tiny.V9,39254026,3006
+296294ed908431b9,wisp_smoke_base_dxt5.dds,Streaming/Content/metadata/particles/player_auras/clarity/midline.pet,1378752,87556
+c3914610120fa06a,wisp_smoke_base_dxt5.dds.header,Tiny.V4,38450376,1520
+3796f4a8cae36bce,golden_waveline.mat,Tiny.V6,38650789,3118
+6d7f888e2954304d,golden_waveline_dxt5.dds,Streaming/Content/metadata/particles/player_auras/clarity/midline.pet,678632,174948
+f38b611b33111b86,golden_waveline_dxt5.dds.header,Tiny.V6,38653907,840

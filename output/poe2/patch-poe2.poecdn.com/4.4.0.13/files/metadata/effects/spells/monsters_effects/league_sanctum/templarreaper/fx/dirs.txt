@@ -1,6 +1,0 @@
-double_strike_01
-holy_cannon_marker
-on_hit
-reaper_wall_laser
-reaper_wall_laser/barrier_beam_01
-reaper_wall_laser/barrier_beam_telegraph_01

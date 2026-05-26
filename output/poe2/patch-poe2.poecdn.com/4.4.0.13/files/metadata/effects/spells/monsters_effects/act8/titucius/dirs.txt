@@ -1,3 +1,0 @@
-bash
-shield_charge
-slam

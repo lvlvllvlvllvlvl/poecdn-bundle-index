@@ -1,4 +1,0 @@
-buildup
-main_proj
-pods
-pods_proj

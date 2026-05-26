@@ -1,0 +1,3 @@
+audiodoodads
+bossroompriestobjects
+bossroomscaffolding

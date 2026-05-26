@@ -1,6 +1,0 @@
-beacon
-features
-largecliffs
-largecliffstostormyocean
-shoreline
-swamppools

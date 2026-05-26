@@ -1,6 +1,0 @@
-attachments
-attachments/female
-attachments/female/tassles
-attachments/male
-attachments/male/tassles
-textures

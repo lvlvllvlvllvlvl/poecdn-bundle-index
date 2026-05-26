@@ -1,9 +1,0 @@
-epk
-epk/start_01
-fx
-fx/idle_01
-fx/start_01
-mat
-mat/idle_01
-mat/idle_01/pot_subtle
-mat/start_01

@@ -1,0 +1,17 @@
+bullethell
+bullethell/proj
+burning_ground
+burning_ground_slow
+burning_ground_slow/animations
+chaosorb_dash
+chaosorb_surge_beam
+corrfire_beam
+corrfire_charged_beam
+divineorb_base
+exalt_skybeam
+exaltedorb_base
+minion_beam
+minion_shapeshift
+orb_beam
+shield_bubble
+shield_bubble_blend

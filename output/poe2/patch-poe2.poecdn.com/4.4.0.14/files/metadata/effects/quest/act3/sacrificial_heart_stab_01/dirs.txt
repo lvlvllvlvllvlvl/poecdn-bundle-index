@@ -1,0 +1,10 @@
+audio
+epk
+fx
+fx/sacrificial_ritual_ruckus_01
+mat
+mat/bloody_heart
+mat/fling
+mat/sacrificial_ritual_ruckus_01
+mat/sacrificial_ritual_ruckus_01/player_gettin_buffed
+mat/stab_in

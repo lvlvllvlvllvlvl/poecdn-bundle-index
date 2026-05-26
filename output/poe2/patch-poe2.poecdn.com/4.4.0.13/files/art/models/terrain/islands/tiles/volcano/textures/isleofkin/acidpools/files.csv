@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-4be6d711dbaaa4a6,gob_volcanicacid01_normal.dds,Streaming/Content/data/worldareas/mapsteamingsprings.vworld.1,2097460,5592580
-3211ee677a89cf8a,gob_volcanicacid01_normal.dds.header,Tiny.VD,21812181,1520
-0b33a69b29e8d003,gob_volcanicacid01_height.dds,Streaming/Content/data/worldareas/17/mapsteamingsprings.vworld,0,5592580
-3e78e43afceafe55,gob_volcanicacid01_height.dds.header,Tiny.V7,21972337,1520
-fc46c6858412350c,gob_volcanicacid01_mask.dds,Streaming/Content/data/worldareas/56/mapsteamingsprings.vworld,0,5592580
-fca69d04264ba6e7,gob_volcanicacid01_mask.dds.header,Tiny.V1,21921231,1520
-6fe38d9672ade7d4,gob_volcanicacidgradient01_lut.dds,Tiny.VC,22081068,1188
-e648900521649d6f,gob_volcanicacidgradient01_lut.dds.header,Tiny.V4,22318337,280

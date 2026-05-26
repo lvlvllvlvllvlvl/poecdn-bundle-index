@@ -1,3 +1,0 @@
-fall
-fall/aoe_explosion
-fall/explosion

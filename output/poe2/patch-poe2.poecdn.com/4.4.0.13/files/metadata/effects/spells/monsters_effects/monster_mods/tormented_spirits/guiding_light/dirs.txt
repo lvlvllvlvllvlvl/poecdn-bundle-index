@@ -1,7 +1,0 @@
-fx
-graphs
-mat
-mat/deathpulse_primal
-mat/deathpulse_sacred
-mat/deathpulse_vivid
-mat/deathpulse_wild

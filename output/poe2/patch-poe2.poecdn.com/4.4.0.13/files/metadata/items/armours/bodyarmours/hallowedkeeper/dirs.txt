@@ -1,6 +1,0 @@
-attachments
-attachments/pauldrons
-attachments/robe
-vfx
-vfx/fx
-vfx/mat

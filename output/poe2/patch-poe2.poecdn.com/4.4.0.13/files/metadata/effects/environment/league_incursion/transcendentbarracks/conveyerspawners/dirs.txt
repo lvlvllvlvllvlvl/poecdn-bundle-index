@@ -1,7 +1,0 @@
-epk
-fx
-graphs
-mats
-mats/monster
-mats/plasmaball
-mats/travel

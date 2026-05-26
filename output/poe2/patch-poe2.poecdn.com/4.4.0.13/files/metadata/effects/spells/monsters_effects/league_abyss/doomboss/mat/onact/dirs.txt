@@ -1,9 +1,0 @@
-basic_surge
-beam_surge
-cleave
-death
-death/burst
-death/surge
-emerge_pillar_idle_01
-vomit
-vomit/start

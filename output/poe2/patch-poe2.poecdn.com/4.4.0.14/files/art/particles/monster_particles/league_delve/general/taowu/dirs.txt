@@ -1,0 +1,14 @@
+delve_cleave
+delve_cleave/fx
+emerge
+fireball_proj
+fireball_proj/fx
+fireball_proj/fx/aoe
+light_absorb
+light_absorb/fx
+monsterfx
+monsterfx/fx
+super_fireball_proj
+super_fireball_proj/aoe
+super_fireball_proj/aoe/fx
+super_fireball_proj/fx

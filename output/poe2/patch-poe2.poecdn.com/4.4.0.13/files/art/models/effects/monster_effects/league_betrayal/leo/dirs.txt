@@ -1,9 +1,0 @@
-chain_pull_slam
-chain_pull_slam/chain
-chain_pull_slam/hook
-chain_pull_slam/slam
-chain_pull_slam/slash
-combo_attack
-combo_attack/attack_01
-combo_attack/attack_02
-combo_attack/attack_03

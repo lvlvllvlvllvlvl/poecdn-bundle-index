@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+0c3662d2dd426e4a,tile_01c.mat,Tiny.V2,36029639,2324
+97f05d612d0ee38c,tile_01_bc1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.D3DFEE5175C784E6.chunks.ao,719710,174924
+59ad5df685e31970,tile_01_bc1.dds.header,Tiny.V5,35687211,1520
+e672826c07df6b01,crack2.mat,Tiny.V4,36412314,1186
+5d95a135db7a256e,crack2_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/fire_elemental/DCFE1A37E7E46959.mid.pet,22020,349700
+61cc707a62f0df04,crack2_dxt5.dds.header,Tiny.V0,36343039,1520
+9e0de44d299ab4c6,explosion_01.mat,Tiny.V4,36413500,1234
+c9166bad08b16e51,explosion_01.dds,Streaming/Content/metadata/particles/monster_effects/fire_elemental/4B5AD401497D01E6.242DD7897339D20B.mid.pet,1049000,349860
+def0d438e62cb882,explosion_01.dds.header,Tiny.V1,35936815,280
+b5a2e0c42c7caa6d,lava_rock_tilecns.mat,Tiny.VE,35759713,3674
+5e0548fc7dd55679,lava_rock_tilens.dds,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.D3DFEE5175C784E6.chunks.ao,370010,349700
+b5f1c21834f8a2bc,lava_rock_tilens.dds.header,Tiny.V8,35914817,1520
+cc29fafc7c01d243,lava_rock_tile_colour_bc7premult.dds,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.D3DFEE5175C784E6.chunks.ao,20310,349700
+f40b69d8664a03e8,lava_rock_tile_colour_bc7premult.dds.header,Tiny.V1,35937095,1520
+ae5351f954438012,lava_rock_tile_colour_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/A376839140AC88E0.whitepolarisportal_map.ao,93996,174924
+bff5c19e4dcb8754,lava_rock_tile_colour_dxt1.dds.header,Tiny.V4,36414734,1520

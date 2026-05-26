@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+45eaace9e9f31355,exit_01.arm,Content/data/balance/worldareas/expeditionsubarea_uhtredboss.vworld,589178,19448
+38aad8e1f309d5b6,join_sandedge_01.arm,Tiny.V1.1,147176904,968
+954d06056e36eb6d,landmark_01.arm,Content/data/balance/worldareas/expeditionsubarea_uhtredboss.vworld,608626,42136
+653a6efe9d33e4d3,landmark_01_v1.arm,Content/data/balance/worldareas/expeditionsubarea_uhtredboss.vworld,650762,38730
+648d074c2652ddb6,swamp_sink.arm,Tiny.V6.1,146056953,818
+0fdcff92cb99e72d,swamp_source.arm,Tiny.V4.1,148441421,826
+69b9cd63f28f5a7f,crossgraph_bridge_01.arm,Tiny.V4.1,148439735,1686
+10e9d1410b12baf0,crossgraph_ford_01.arm,Tiny.V9.1,143497802,908
+48f824cea4d08d18,bridge_01.arm,Tiny.V0.1,151561555,624
+c224160226377dd9,bridge_02.arm,Tiny.V3.1,146427296,1338

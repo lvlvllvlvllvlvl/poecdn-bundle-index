@@ -1,0 +1,15 @@
+axis supplies
+catapults
+cranes
+crematorium
+eleganthouse
+gore
+grass
+guardians
+marble
+market stalls
+sewers
+slums
+tolman_chair_torture_urn
+wagons
+warehouse trash

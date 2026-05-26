@@ -1,5 +1,0 @@
-cliffwall
-features
-gatehouse
-gatewall
-ruins

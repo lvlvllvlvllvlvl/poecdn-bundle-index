@@ -1,6 +1,0 @@
-aura
-aura/mb
-aura/textures
-projectile
-projectile/mb
-projectile/textures

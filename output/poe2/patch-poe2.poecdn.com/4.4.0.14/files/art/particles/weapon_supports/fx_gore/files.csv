@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+58043a3edea0d4f3,fire_01_2x2.mat,Tiny.V1,39205619,4826
+5120d08e74e585fb,blood_normals_dxt5.dds,Streaming/Content/metadata/particles/weapon_supports/blunt_support.pet,87556,87556
+780728f2e9757122,blood_normals_dxt5.dds.header,Tiny.VB,36597249,1520
+e4febefd86ecd947,ring_light.mat,Tiny.V7,39208203,5264
+c17ff2083c272cba,ring_light_dxt5.dds,Streaming/Content/metadata/particles/weapon_supports/blunt_support.pet,175112,87556
+5556d834cc1ad223,ring_light_dxt5.dds.header,Tiny.V7,31660383,1520

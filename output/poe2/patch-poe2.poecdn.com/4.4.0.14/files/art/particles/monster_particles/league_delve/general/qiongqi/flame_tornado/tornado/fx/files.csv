@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+9745dda5c9662619,azurite_spark.mat,Tiny.V9,37528550,1838
+068e86b60d6bfdba,azurite_spark.dds,Tiny.VA,3823212,1572
+e543ccdd7eef68ce,azurite_spark.dds.header,Tiny.V3,3727803,504
+acd510852e32557c,fire_lookup.dds,Tiny.V2,4011399,2212
+2dc26a6ae9c3a6a0,fire_lookup.dds.header,Tiny.VE,3888491,280
+7a02c9288069c324,fire_bits2_at.mat,Tiny.VE,36561526,3586
+0ff5b146ba62a18f,fire_bits2_at.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/7F62BF4A12CB1319.06CC77122E110F64.bu_grd_circle.pet,325155,11108
+4924a6dbcfeb33d4,fire_bits2_at.dds.header,Tiny.V1,36786362,840

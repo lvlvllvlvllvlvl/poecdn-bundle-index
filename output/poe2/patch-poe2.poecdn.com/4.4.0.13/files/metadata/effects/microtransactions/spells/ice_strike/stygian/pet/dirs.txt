@@ -1,3 +1,0 @@
-ice_pierce
-iceburst
-iceprojectile

@@ -1,0 +1,8 @@
+attack_01
+fireprojectile
+fireprojectile/impact
+fireprojectile/portal_fire
+fireprojectile/shoot
+fireprojectile/wall_impact
+idle
+teleport

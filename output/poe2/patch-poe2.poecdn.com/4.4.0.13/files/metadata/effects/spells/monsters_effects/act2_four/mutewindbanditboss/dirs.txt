@@ -1,7 +1,0 @@
-graph
-mat
-mat/onact
-mat/spearproj
-mat/spearproj/impact
-mat/spearwall
-pets

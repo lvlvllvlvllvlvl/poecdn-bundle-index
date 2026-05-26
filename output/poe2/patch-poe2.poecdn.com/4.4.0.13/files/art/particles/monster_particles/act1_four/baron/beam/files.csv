@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-ed6ca702598d34f7,blood_trail.mat,Tiny.V0,33815562,5476
-6b12563c5ab8c77c,trail_multi.mat,Tiny.VE,33246409,2962
-ad0336505d8483d9,slash_base.mat,Tiny.VF,33678156,2388
-a2a2e6b077b6f2d8,slash_base_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/C104C8373D891D33.E9591D2133A108CD.bloodtrail.trl,793648,87548
-8c1cdae5be589ec1,slash_base_dxt1.dds.header,Tiny.V7,33357841,840
-ace5e36e00095c99,energy_trail_multi.mat,Tiny.V8,33283678,2136
-635f51879db0ac8d,energy_trail_multi_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/C104C8373D891D33.B39413C6FAAA88A3.run_trail.trl,0,174948
-ca2cd5737f76b21c,energy_trail_multi_dxt5.dds.header,Tiny.V9,34053684,840

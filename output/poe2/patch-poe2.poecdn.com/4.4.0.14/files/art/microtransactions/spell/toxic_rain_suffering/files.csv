@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+e152e7bef79aa9f1,burst.amd,Tiny.V1,3444420,94
+a46d5ed7e48ad277,burst.ast,Tiny.V3,5584359,863
+5674fdceed5cc590,shootup.amd,Tiny.V1,3444420,94
+c43521d959f8e3aa,shootup.ast,Tiny.VF,5711426,816
+45bd86a9656d14bc,sporevines.sm,Tiny.V0,5867076,500
+9dc3dce7c88e1617,spore_drop_4e5a12f4.smd,Streaming/Content/metadata/effects/microtransactions/spells/E7BFB3DF080CF075.slash04.ao,522190,9688
+5271f1ec8a11add1,spore_drop_4e5a12f4.smd.header,Tiny.V4,5850701,368
+b6ea9aeb6caea149,sporedrop.sm,Tiny.V7,5591591,520
+5e72590cad78a2e8,sporedrop.amd,Tiny.V3,7285668,92
+544c25b9ba319e94,sporedrop.ast,Tiny.V5,5668674,923
+6e683c62b6b4e64e,rig_a348928e.smd,Streaming/Content/metadata/effects/microtransactions/spells/207F1E913366095D.E13863F853E430EA.arcanecall_idle.ao,464977,12392
+71fe59d4d5f0f21a,rig_a348928e.smd.header,Tiny.V3,5576160,368
+fe26659e09d87402,rig.amd,Tiny.V7,5591365,226
+4ef49bc64c39f5b0,rig.ast,Content/metadata/effects/microtransactions/spells/nightfall_spectralhelix/D1AC74E5AECBBE16.cast.pet,117002,21720
+7c8f91885bdb1c22,arrow_suffering.fmt,Streaming/Content/metadata/effects/microtransactions/spells/20A7104A89DBE199.arrow.ao,0,7947
+4cca17f9936d02d3,arrow_suffering.fmt.header,Tiny.V3,5584070,289

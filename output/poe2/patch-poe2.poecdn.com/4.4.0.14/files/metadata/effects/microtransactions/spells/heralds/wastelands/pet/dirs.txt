@@ -1,0 +1,6 @@
+fire
+ghost
+ghost/ice
+ghost/lightning
+ice
+lightning

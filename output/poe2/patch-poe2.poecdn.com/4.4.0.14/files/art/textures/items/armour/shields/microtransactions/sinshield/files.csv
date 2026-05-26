@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+b57cd73f865390d6,sinshieldspecularc.mat,Tiny.V9,45929385,4094
+0ff6ff0b3e0c9ff8,sinshield_normal_dxt5.dds,Streaming/Content/metadata/items/armours/shields/sinshieldheld.ao,1493696,349700
+bb826d3c60406522,sinshield_normal_dxt5.dds.header,Tiny.VF,45385830,1520
+4269a5124c21d673,sinshield_colourspecular_bc7.dds,Streaming/Content/metadata/items/armours/shields/sinshieldheld.ao,794460,699236
+1257fcf2a6e5649b,sinshield_colourspecular_bc7.dds.header,Tiny.V8,44835262,840
+080a06f3c19fa0d3,sinshield_colourspecular.dds,Streaming/Content/metadata/items/armours/shields/sinshieldheld.ao,444768,349692
+47cd82f44e2fa13c,sinshield_colourspecular.dds.header,Tiny.V0,45577975,840

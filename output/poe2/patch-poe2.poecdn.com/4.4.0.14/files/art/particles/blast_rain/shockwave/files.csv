@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+304bc6dccc2e39d5,aoe_shockwave.mat,Tiny.V9,32102242,3976
+ecbdd0550a060fd7,fire_bits_2x2.mat,Tiny.V0,32013790,2698
+6e2f66ca7b880cd7,texture.mat,Tiny.V9,32106218,2492
+973341c2be463e6b,tornado_outer_dxt1.dds,Streaming/Content/metadata/particles/blast_rain/fall/trail.trl,496453,43868
+424fcc0c45c2f292,tornado_outer_dxt1.dds.header,Tiny.V8,31576527,504
+89f56313f2d7f1b3,black_shockwave_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/0EB7D72D609B77CB.EE05B4D2CC0846EA.proj_trail_main.trl,698516,349700
+24545b9f27eb3929,black_shockwave_dxt5.dds.header,Tiny.V2,32018863,1520
+fe7619c2973897b3,black_grad.mat,Tiny.V5,31336199,1094
+ecc58d4b761cb1ed,black_grad.dds,Streaming/Content/metadata/particles/blast_rain/fall/trail.trl,393576,87556
+9ca67a5d96757b60,black_grad.dds.header,Tiny.V3,4378805,1520
+f88f45e4063089de,wisp_smoke_base.mat,Tiny.VC,31942211,2614
+92e6f7c1a7dfec5f,wisp_smoke_base.dds,Streaming/Content/metadata/particles/blast_rain/fall/trail.trl,540321,174948
+8617986e7891fe56,wisp_smoke_base.dds.header,Tiny.V8,31577871,840

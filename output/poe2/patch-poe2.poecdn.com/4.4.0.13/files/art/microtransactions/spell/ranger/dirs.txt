@@ -1,3 +1,0 @@
-faridun
-faridun/models
-faridun/textures

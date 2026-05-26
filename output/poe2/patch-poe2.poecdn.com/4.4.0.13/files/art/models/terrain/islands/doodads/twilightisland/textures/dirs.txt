@@ -1,6 +1,0 @@
-beehive
-bells
-digsite
-digsite/stoneslabs
-furniture
-pots

@@ -1,7 +1,0 @@
-death_sand
-emerge_new
-rune
-slam
-slam_impact
-slam_impact_circle
-surge

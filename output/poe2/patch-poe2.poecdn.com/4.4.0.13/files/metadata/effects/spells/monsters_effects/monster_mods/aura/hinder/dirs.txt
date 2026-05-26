@@ -1,7 +1,0 @@
-ao
-epk
-graph
-mat
-mat/aura
-mat/epk
-pet

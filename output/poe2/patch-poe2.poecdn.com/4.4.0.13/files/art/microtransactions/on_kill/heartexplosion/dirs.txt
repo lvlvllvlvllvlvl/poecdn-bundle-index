@@ -1,5 +1,0 @@
-mb
-mb/hand
-mb/heart
-texture
-texture/fx

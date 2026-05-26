@@ -1,5 +1,0 @@
-abyss
-arena
-cave
-trialmaster
-trialmaster/pristine

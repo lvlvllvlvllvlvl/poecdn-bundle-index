@@ -1,3 +1,0 @@
-bandit
-bandit/powershot
-banditlord

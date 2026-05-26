@@ -1,0 +1,9 @@
+animations
+animations/axe
+animations/axe_axe
+animations/axe_dagger
+animations/axe_shield
+animations/bow
+animations/dagger_dagger
+animations/staff
+attachments

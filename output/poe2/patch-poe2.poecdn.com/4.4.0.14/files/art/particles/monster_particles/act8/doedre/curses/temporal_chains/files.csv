@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+cc6bbb09c8bf329c,tile_purple.dds,Streaming/Content/metadata/particles/monster_effects/act8/90D04C46789F39A2.E54516C5B96EEF0A.kb_wand_projectile_midtrail.trl,422672,5636
+8d5cf2e7f46ad30c,tile_purple.dds.header,Tiny.VD,35378038,1520
+bb036dd71e259c84,chainsns.dds,Streaming/Content/metadata/particles/monster_effects/act8/90D04C46789F39A2.E54516C5B96EEF0A.kb_wand_projectile_midtrail.trl,405764,5636
+0cfd22d4fcad8447,chainsns.dds.header,Tiny.VC,35266314,1520
+fd7c01e1b3621aca,chains_colour.mat,Tiny.V6,35089950,3674
+4888df2c3e946243,chains_colour.dds,Streaming/Content/metadata/particles/monster_effects/act8/90D04C46789F39A2.E54516C5B96EEF0A.kb_wand_projectile_midtrail.trl,400128,5636
+1fbde29c2d42d965,chains_colour.dds.header,Tiny.VF,35320894,1520
+6f9bdf40adc3d6fc,red_smoke1.mat,Tiny.VD,35375370,1148
+05ac50ad1837c745,red_smoke1.dds,Streaming/Content/metadata/particles/monster_effects/act8/90D04C46789F39A2.E54516C5B96EEF0A.kb_wand_projectile_midtrail.trl,411400,5636
+7a22cc0e3f54b6c7,red_smoke1.dds.header,Tiny.V8,34964677,1520
+212bde0740a8c405,rune.mat,Tiny.V5,34838817,3152
+5b28cc9bafe32b8b,rune.dds,Streaming/Content/metadata/particles/monster_effects/act8/90D04C46789F39A2.E54516C5B96EEF0A.kb_wand_projectile_midtrail.trl,417036,5636
+5ca23e77795ede70,rune.dds.header,Tiny.VD,35376518,1520
+c783572540b56e2e,darkness_scrollingc.mat,Tiny.VB,35658805,2688
+e51e8eb6b5337de4,darkness_scrolling.dds,Streaming/Content/metadata/effects/spells/monsters_effects/144F377049E8E0CE.1FB3F77601C54C62.rig.ao,500698,5636
+6a256ffb1a10f41f,darkness_scrolling.dds.header,Tiny.V9,35767171,1520

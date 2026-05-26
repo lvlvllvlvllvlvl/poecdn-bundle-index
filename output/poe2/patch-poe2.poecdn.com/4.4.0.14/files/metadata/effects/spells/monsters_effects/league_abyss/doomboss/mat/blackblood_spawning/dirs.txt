@@ -1,0 +1,7 @@
+boss_dissolve
+double_burst_slam
+double_burst_slam/burst
+double_burst_slam/slam
+pustule
+spawn_epk
+swim

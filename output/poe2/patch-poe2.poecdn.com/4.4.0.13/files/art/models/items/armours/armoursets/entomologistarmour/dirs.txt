@@ -1,6 +1,0 @@
-attachments
-attachments/chainschest
-attachments/chainswaistback
-attachments/chainswaistfront
-attachments/skirt
-textures

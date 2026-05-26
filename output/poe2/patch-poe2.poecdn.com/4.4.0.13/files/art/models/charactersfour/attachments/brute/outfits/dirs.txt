@@ -1,4 +1,0 @@
-attachments
-attachments/necklace
-attachments/tongs
-attachments/waistband

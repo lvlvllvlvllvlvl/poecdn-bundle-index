@@ -1,3 +1,0 @@
-textures
-textures/on_act
-textures/on_act/spellcast_01

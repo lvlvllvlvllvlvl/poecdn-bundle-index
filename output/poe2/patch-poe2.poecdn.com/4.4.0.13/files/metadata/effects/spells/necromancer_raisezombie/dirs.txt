@@ -1,7 +1,0 @@
-epks
-epks/audio
-fx
-fx/zombieskeleton
-graphs
-mats
-mats/zombieskeleton

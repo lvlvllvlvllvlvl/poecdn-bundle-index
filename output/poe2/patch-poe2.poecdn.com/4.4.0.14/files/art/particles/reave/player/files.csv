@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+58ab3a4093ccdc50,swirlc.mat,Tiny.VF,38763167,2062
+abd0e4608c0bb612,swirl.dds,Streaming/Content/metadata/effects/spells/ground_slam_02/clusterspines3.ao,978377,87556
+03d26a8f11dda451,swirl.dds.header,Tiny.VD,38960603,1520
+55cd1430a6769d47,swirl_multic.mat,Tiny.VD,38962123,1600
+422ba5e6d4a6cdae,swirl_multi.dds,Streaming/Content/metadata/effects/spells/ground_slam_02/clusterspines3.ao,1065933,87556
+a5c78ba4a948f4ce,swirl_multi.dds.header,Tiny.V0,5590987,1520
+4582829e5495854e,light_gradient.mat,Tiny.VC,38796453,1600
+9eb56417faad66b3,light_gradient.dds,Streaming/Content/metadata/particles/reave/player_suckin.pet,786956,22020
+f198fac2d1b472ac,light_gradient.dds.header,Tiny.V4,39080517,1520
+7bce3370af58608f,flare_suck_in.mat,Tiny.V0,38821230,1056
+cee858135b195c85,flare_suck_in.dds,Streaming/Content/metadata/particles/reave/impact_pet.pet,0,87556
+ab37744518357651,flare_suck_in.dds.header,Tiny.VD,5773556,1520

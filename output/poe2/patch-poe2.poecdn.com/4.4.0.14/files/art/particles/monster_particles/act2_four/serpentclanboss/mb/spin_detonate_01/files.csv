@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+4e9101916576fcdd,rig_bb0353e4.smd,Tiny.VA,34062702,77
+7d89cd724892de71,rig_bb0353e4.smd.header,Tiny.V2,33731232,448
+6428eea7e5603307,spin_detonate.sm,Tiny.VF,33966530,382
+371d744a9fc4dd89,spin_detonate.amd,Tiny.VA,34062779,96
+694a9e8b1dd82307,spin_detonate.ast,Tiny.VA,34062875,1929
+303d6462f1a73338,twist_cyl_01.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.87478076297673D6.pt_start.pet,118322,30432
+6b1c3b0d38d32160,twist_cyl_01.fmt.header,Tiny.V5,33575235,208
+0c907483c962843d,twist_cyl_02.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.87478076297673D6.pt_start.pet,148754,30432
+f9b3aecb9258adc4,twist_cyl_02.fmt.header,Tiny.V4,34273219,208
+ad9abb7ee40b8b34,tornado_mesh_04.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.87478076297673D6.pt_start.pet,20282,49020
+13912ca754333ed6,tornado_mesh_04.fmt.header,Tiny.VE,33575258,208
+6a09b2faff3b6d41,tornado_mesh_05.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.87478076297673D6.pt_start.pet,69302,49020
+d6a62228533d23f6,tornado_mesh_05.fmt.header,Tiny.VD,34077391,208
+0960b1d26fa09bfe,tornado_mesh_02.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.87478076297673D6.pt_start.pet,0,20282
+c3cefbc7724656b2,tornado_mesh_02.fmt.header,Tiny.VF,33966912,208

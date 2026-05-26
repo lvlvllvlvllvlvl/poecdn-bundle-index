@@ -1,8 +1,0 @@
-dropbear
-greentrail
-snake_fire
-snake_lightning
-snake_spine
-snake_spit
-spider
-spider/spine_spit

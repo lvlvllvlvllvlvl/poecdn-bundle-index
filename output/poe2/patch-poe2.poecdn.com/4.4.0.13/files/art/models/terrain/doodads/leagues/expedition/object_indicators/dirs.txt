@@ -1,3 +1,0 @@
-basicmonstermarker
-basicmonstermarker/attachments
-textures

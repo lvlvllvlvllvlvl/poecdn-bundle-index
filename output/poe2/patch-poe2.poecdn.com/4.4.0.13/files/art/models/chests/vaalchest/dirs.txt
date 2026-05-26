@@ -1,9 +1,0 @@
-textures
-vaalgoldchests
-vaalgoldchests/01
-vaalgoldchests/02
-vaalgoldchests/03
-vaalstonechests
-vaalstonechests/01
-vaalstonechests/02
-vaalstonechests/03

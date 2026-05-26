@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-bdd7f91c8fd39835,arc_beam_smll.mat,Tiny.V9,39614979,6022
-9db6a86253a63c65,lightning04_2x2.mat,Tiny.V9,39621845,2784
-fecd216edd91938f,lightning_sphere02.mat,Tiny.VE,38848549,3844
-18c4105aa00b4a13,lightning_sphere_dxt5.dds,Streaming/Content/metadata/particles/trap_02/mechanism/DF00F77D4DF306F1.idle_hitpulse.pet,525884,87556
-b1118540a6a1691a,lightning_sphere_dxt5.dds.header,Tiny.V2,31871401,1520
-19dff4a928d32030,glowc.mat,Tiny.V7,39017704,1522
-b8994fc4a221d6e7,glow.dds,Tiny.V9,39621001,844
-302161966bccfc3d,glow.dds.header,Tiny.V8,38795430,1520

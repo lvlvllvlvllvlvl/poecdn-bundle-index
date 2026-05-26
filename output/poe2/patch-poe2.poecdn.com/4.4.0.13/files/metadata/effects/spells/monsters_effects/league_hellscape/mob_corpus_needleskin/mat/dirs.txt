@@ -1,4 +1,0 @@
-bloodmine
-bloodmine_burst
-deathburst
-meleetrails

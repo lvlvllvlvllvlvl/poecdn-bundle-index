@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+eb4c3a608bb740f5,fire.mat,Tiny.V3,37681768,2592
+15ce5c67e3f95732,fire_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.F52A1F7AE38F3384.melee.trl,0,174948
+639df56aa98c46e7,fire_dxt5.dds.header,Tiny.VF,38475778,840
+2691d84299f6f6d6,fire_trail.mat,Tiny.V4,38647094,3422
+1a649ef15c810dab,fire_trail_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.929D6C7E8F67A46C.melee.trl,0,43876
+9cb3fde0785e01e4,fire_trail_dxt5.dds.header,Tiny.VB,35977129,840
+505fb9b9523beb57,dark_trail.mat,Tiny.V7,38235229,1756
+838245587676d327,dark_trail_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/talisman/21CA48B5300A7C2B.C0C17DCBE9A5D4FA.on_basecyl.pet,1319660,87556
+0e8e7c35a73005a4,dark_trail_dxt5.dds.header,Tiny.V0,38329350,1520

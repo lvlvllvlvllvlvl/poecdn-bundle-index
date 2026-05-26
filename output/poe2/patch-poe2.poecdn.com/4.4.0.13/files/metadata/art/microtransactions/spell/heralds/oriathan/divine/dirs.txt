@@ -1,3 +1,0 @@
-textures
-textures/fire
-textures/fire/fx

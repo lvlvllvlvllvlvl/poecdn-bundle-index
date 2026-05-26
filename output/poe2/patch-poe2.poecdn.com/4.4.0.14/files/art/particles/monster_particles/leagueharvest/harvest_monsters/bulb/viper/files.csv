@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+45ae97e51a0ab0c5,golden_waveline.mat,Tiny.V3,37637696,2154
+2872f3c08d8e00a5,slash01_8x8.mat,Tiny.V3,37639850,2824
+dd75e7e1530872c6,slash01_8x8_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.5663E343F6AD7FC6.melee.pet,1485832,5592580
+49d60225b0a42b01,slash01_8x8_dxt5.dds.header,Tiny.V2,4846499,1520
+c1336b9ac555631f,azurite_slash.mat,Tiny.V1,38164427,2328
+186487d3b0e82240,azurite_slash_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.5663E343F6AD7FC6.melee.pet,0,87556
+865c958365bcbdb6,azurite_slash_dxt5.dds.header,Tiny.VF,38270204,1520
+920b009bae3b035e,ice_particle.mat,Tiny.V6,38162763,2562
+6d8f6bd0713c9c15,ice_particle_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.5663E343F6AD7FC6.melee.pet,87556,1398276
+e91b2f2d1599650d,ice_particle_dxt5.dds.header,Tiny.V5,37898786,1520
+da72e49b5aded182,bulb_glint.mat,Tiny.V0,38257650,4596
+c1f0e2d346771831,blood_diffusec.mat,Tiny.V9,38763628,9620
+711c921981dbb166,blood_diffuse.dds,Streaming/Content/metadata/effects/spells/monsters_effects/872610C16E020B75.7714D679E62DD78E.projectile.ao,99986,1398276
+e21fbbf7d87a707d,blood_diffuse.dds.header,Tiny.V2,33484508,1520

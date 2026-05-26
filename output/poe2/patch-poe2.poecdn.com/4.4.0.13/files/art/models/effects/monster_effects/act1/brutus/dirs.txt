@@ -1,3 +1,0 @@
-fallingsinglecage
-ground_slam
-ground_slam/impact

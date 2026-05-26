@@ -1,9 +1,0 @@
-archeology
-carts
-containers
-crane
-debris
-machines
-machinevases
-stoneslabs
-tents

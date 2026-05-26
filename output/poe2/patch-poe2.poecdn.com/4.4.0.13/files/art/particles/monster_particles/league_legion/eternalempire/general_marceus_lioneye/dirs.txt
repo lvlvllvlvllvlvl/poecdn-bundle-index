@@ -1,4 +1,0 @@
-onact
-onact/lioneye_attack_bow_01
-onact/lioneye_circle_flame_01
-onact/lioneye_flare_signal_01

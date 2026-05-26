@@ -1,0 +1,17 @@
+attachments
+attachments/arms
+attachments/arms/left
+attachments/arms/left/dex
+attachments/arms/left/int
+attachments/arms/right
+attachments/arms/right/dex
+attachments/arms/right/int
+attachments/back
+attachments/chest
+attachments/head
+attachments/shoulderpad
+attachments/shoulderpad/animation
+attachments/shoulderpad/animation/lshoulder
+attachments/shoulderpad/animation/rshoulder
+attachments/skirt
+textures

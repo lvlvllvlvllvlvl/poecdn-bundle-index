@@ -1,3 +1,0 @@
-desecrate_ground
-desecrate_ground/corpse
-trap_explosion

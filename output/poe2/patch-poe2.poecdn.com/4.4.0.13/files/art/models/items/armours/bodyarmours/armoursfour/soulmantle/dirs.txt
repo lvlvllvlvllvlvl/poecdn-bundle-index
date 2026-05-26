@@ -1,8 +1,0 @@
-attachments
-attachments/feathers
-attachments/feathersdex
-attachments/feathersstr
-attachments/poncho
-attachments/ponchodex
-attachments/ponchostr
-textures

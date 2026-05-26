@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+0bf86e6f4189f607,primarylance.sm,Tiny.V7,7024303,222
+23909952b6680937,blade_10.fmt,Streaming/Content/metadata/particles/lancingsteel/primary_projectile/midline_loop.pet,4141,10213
+7b8042290a35c8d3,blade_10.fmt.header,Tiny.VF,7080031,174
+d5f9e4bf47bde5a8,blade_05.fmt,Tiny.VC,7059211,1357
+e4cab09eef715cea,blade_05.fmt.header,Tiny.VA,7175288,174
+3eea22a29de38d38,blade_02.fmt,Tiny.V6,7097558,1753
+330dc5ba2bc82724,blade_02.fmt.header,Tiny.VB,7071961,174
+a170e20992c9ac91,blade_01.fmt,Streaming/Content/metadata/particles/lancingsteel/primary_projectile/midline_loop.pet,0,4141
+0c7ed0700c90a972,blade_01.fmt.header,Tiny.VC,7059037,174
+63767f2e9fe6ae6d,rig.amd,Tiny.V1,6919877,152
+b44c242795b14d4b,rig.ast,Content/metadata/effects/spells/D9BB9A9316E02DD3.vaal_blast_02.ao,484842,4194
+c277202b03d88819,rig_c5c43256.smd,Tiny.VF,7080381,72
+0289c7655b6b34f9,rig_c5c43256.smd.header,Tiny.V9,7332480,448

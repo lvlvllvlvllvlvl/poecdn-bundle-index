@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+8a737dd8d429a8cd,rig_cd5cc920.smd,Tiny.V7,7437662,72
+bfe1793570f5cf8b,rig_cd5cc920.smd.header,Tiny.VB,7464034,368
+1308a9adfa66c13a,proj.sm,Tiny.VF,5552916,290
+8c74a06b50188675,proj_rig_be5b7ba5.smd,Tiny.VD,7222502,72
+cc0456a8dac14b5c,proj_rig_be5b7ba5.smd.header,Tiny.V4,33986116,448
+b65be60e935d1b65,proj_rig.amd,Tiny.VE,5525691,146
+de6df58b38cf517a,proj_rig.ast,Content/metadata/effects/microtransactions/spells/ground_slam/3AEDA41EF911CD3E.spikes1.ao,615454,6888
+fb27b71bd4607fe6,projectile_aoe_impact.sm,Tiny.V8,5404609,326
+3a956bc4ee4dee8d,projectile_aoe_impact.amd,Tiny.VC,5469129,78
+6e0f60a7596a4c88,projectile_aoe_impact.ast,Tiny.V4,5678886,1687

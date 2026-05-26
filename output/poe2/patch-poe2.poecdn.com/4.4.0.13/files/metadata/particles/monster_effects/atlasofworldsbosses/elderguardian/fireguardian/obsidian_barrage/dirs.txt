@@ -1,2 +1,0 @@
-slam
-slam/slam_impact

@@ -1,0 +1,9 @@
+blood_explosion
+buildup
+onact
+projectile
+projectile/aoe_impact
+projectile/impact
+projectile/onact
+submerge
+suckin

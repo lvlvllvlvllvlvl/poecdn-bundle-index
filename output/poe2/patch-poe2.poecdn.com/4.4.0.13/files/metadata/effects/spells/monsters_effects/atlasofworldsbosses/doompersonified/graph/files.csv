@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-2ff2836084504843,sim_smoke2.fxgraph,Content/metadata/effects/spells/monsters_effects/6FEDFAEE044F0FE6.trl.trl,3615906,43632
-e5746f152b84de6c,ao_gloss.fxgraph,Content/metadata/effects/spells/monsters_effects/E10AE6A6BDB9809C.main_ice_flower.ao,1465635,44132
-301e3e2a5f4efa40,flowmaterial.fxgraph,Content/metadata/effects/spells/monsters_effects/atlasofworldsbosses/9B6FA42BF34085E4.rig.ao,2452536,22528
-ba023381fb324774,fogcard.fxgraph,Content/metadata/effects/spells/monsters_effects/atlasofworldsbosses/9B6FA42BF34085E4.rig.ao,1627449,90356
-4e12a24e4fc8f803,player_consume_sp.fxgraph,Content/metadata/effects/spells/monsters_effects/atlasofworldsbosses/9B6FA42BF34085E4.rig.ao,2003019,75260
-e953134ece610bf0,player_doom.fxgraph,Content/metadata/effects/spells/monsters_effects/atlasofworldsbosses/9B6FA42BF34085E4.rig.ao,1461869,88264
-2c665245b7270210,transitioneffect.fxgraph,Folders/metadata/characters.1,3583178,97712
-810f73c6a58101f6,transitioneffect_fadein.fxgraph,Folders/metadata/characters.1,3680890,103436

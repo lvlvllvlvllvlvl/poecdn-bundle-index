@@ -1,5 +1,0 @@
-attachments
-attachments/nets
-attachments/ring
-attachments/rod
-attachments/rope

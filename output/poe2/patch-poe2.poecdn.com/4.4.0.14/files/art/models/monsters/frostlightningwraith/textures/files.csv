@@ -1,0 +1,27 @@
+hash,file,bundle,offset,size
+68642dd0f4d4f582,timeminionc.mat,Tiny.VC,11576213,1278
+f10b4e9c7252a21b,timeminion_normal.dds,Streaming/Content/metadata/monsters/wraith/timewraith.act,26691,5592580
+ae061a6e2174303a,timeminion_normal.dds.header,Tiny.VB,11762552,1520
+8320f68d4414dbcf,timeminion_metal.dds,Streaming/Content/data/worldareas/9C/sanctum_4.vworld,0,5592580
+056195a689861876,timeminion_metal.dds.header,Tiny.V5,11544170,1520
+7c750595640178a2,timeminion_colour.dds,Streaming/Content/metadata/monsters/wraith/timewraith.act.1,0,2796364
+5dd6f047ea818ce4,timeminion_colour.dds.header,Tiny.VC,11574693,1520
+b00e74f65f5d8a89,lightningwraithc.mat,Tiny.VE,11753297,1506
+4a042fa0ad537fb1,lightningwraith_metal .dds,Streaming/Content/data/worldareas/c_g1_7.vworld,26292120,5592580
+514d235b81956fed,lightningwraith_metal .dds.header,Tiny.VD,11626222,1520
+79c432275431e1a6,lightningwraith_normal.dds,Streaming/Content/data/worldareas/c_g1_7.vworld,31884700,5592580
+4a036d8345b74254,lightningwraith_normal.dds.header,Tiny.V7,11700130,1520
+9f12e982afc2a4e6,lightningwraith_colour.dds,Streaming/Content/data/worldareas/c_g1_7.vworld,23495756,2796364
+caae261a240e49c5,lightningwraith_colour.dds.header,Tiny.V1,11652745,1520
+5c57cf927b8658ec,frostwraithc.mat,Tiny.VE,11750375,1402
+0981b0d9aaaecec1,frostwraith_metal.dds,Streaming/Content/data/worldareas/c_g1_7.vworld,3921652,5592580
+9b061019c2d6310f,frostwraith_metal.dds.header,Tiny.VD,11626222,1520
+481aa0b63ca36192,frostwraith_colour.dds,Streaming/Content/data/worldareas/c_g1_7.vworld,1125288,2796364
+9910270e8d3824fc,frostwraith_colour.dds.header,Tiny.V1,11651225,1520
+5e91a98959233974,frostwraith_refractrionmask.dds,Streaming/Content/data/worldareas/c_g1_7.vworld,15106812,5592580
+390c0aab1eb0b176,frostwraith_refractrionmask.dds.header,Tiny.V2,11908918,1520
+ced6948c094019af,frostwraith_normal.dds,Streaming/Content/data/worldareas/c_g1_7.vworld,9514232,5592580
+92491d39228b24e8,frostwraith_normal.dds.header,Tiny.V3,11696400,1520
+6d992dc9d02de566,frostwraithicec.mat,Tiny.V8,11716669,1496
+fe264e56d33d9c40,frostwraithice_colour.dds,Streaming/Content/data/worldareas/c_g1_7.vworld,20699392,2796364
+079574e80ba684a1,frostwraithice_colour.dds.header,Tiny.VE,11751777,1520

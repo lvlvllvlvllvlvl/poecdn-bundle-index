@@ -1,8 +1,0 @@
-attachments
-attachments/area_transitions
-attachments/area_transitions/transition_up_01_ropes
-attachments/area_transitions/transition_up_02_ropes
-attachments/island_oceanshipwrecks
-attachments/island_oceanshipwrecks/galleon_bow_01
-attachments/island_oceanshipwrecks/galleon_stern_01
-tgms

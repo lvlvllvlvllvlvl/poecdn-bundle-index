@@ -1,9 +1,0 @@
-mb
-mb/mudpool
-textures
-textures/blue
-textures/brown
-textures/purple
-textures/purple_shake
-textures/qof_mudpool
-textures/yellow

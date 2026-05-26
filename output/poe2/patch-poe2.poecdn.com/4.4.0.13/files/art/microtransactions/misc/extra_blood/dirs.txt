@@ -1,8 +1,0 @@
-first_blood
-first_blood/red
-gib_textures
-gibs
-gibs/yellow
-gibs/zombie
-green
-zombie

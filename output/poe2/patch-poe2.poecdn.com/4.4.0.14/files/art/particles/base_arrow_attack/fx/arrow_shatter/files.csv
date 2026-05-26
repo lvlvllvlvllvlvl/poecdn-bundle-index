@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+4c076b4ca2e0ef02,impact_spike.mat,Tiny.VF,31948537,3256
+046f26b742ca1c18,impact_spike_dxt5.dds,Streaming/Content/metadata/effects/spells/base_arrow_attack/arrow_base_shatter.ao,109576,87556
+30102e9db50929df,impact_spike_dxt5.dds.header,Tiny.VD,35600070,1520
+08cd2def7178cc76,rust_shards.mat,Tiny.VF,31951793,1472
+3f681da6c8fda882,rust_shards_dxt5.dds,Streaming/Content/metadata/effects/spells/base_arrow_attack/arrow_base_shatter.ao,197132,699300
+b8dc8cc198f50e5b,rust_shards_dxt5.dds.header,Tiny.V0,31987502,344
+b9447cd96f57a6c6,dust_particles.mat,Tiny.V0,31985204,2298
+5b9e6006c695b88f,dust_particles_dxt5.dds,Streaming/Content/metadata/effects/spells/base_arrow_attack/arrow_base_shatter.ao,87556,22020
+d6bb2e721991e4d5,dust_particles_dxt5.dds.header,Tiny.V5,5485958,1520
+2c8518ff1caa186b,dirt_charge.mat,Tiny.V3,31318434,1774
+8994cac1e21a9e0c,dirt_charge_dxt5.dds,Streaming/Content/metadata/effects/spells/base_arrow_attack/arrow_base_shatter.ao,0,87556
+c9023cd5628c0971,dirt_charge_dxt5.dds.header,Tiny.VC,39005124,1520

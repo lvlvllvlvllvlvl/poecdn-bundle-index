@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+2c8ad5deb30c9436,attack_01_02.ao,Tiny.VC.1,116990992,3208
+cc627dc546f5c717,attack_01_02.aoc,Tiny.V2.1,69440422,1320
+a4c23972476ccf19,attack_01_02_beam.ao,Tiny.V9.1,60989382,3220
+3bb573a84cfac144,attack_01_02_beam.aoc,Tiny.V0.1,71941306,1112
+bd8b282d071256be,vacuum_breath_grd.ao,Tiny.V2.1,69441742,8946
+aa258a16cb7beb16,vacuum_breath_grd.aoc,Tiny.VB.1,67138002,3838
+3e7c382a07bb2c26,volatile_orb.ao,Tiny.V8.1,66312438,9620
+aa15721055eeff3b,volatile_orb.aoc,Tiny.V8.1,66322058,4606
+269382bf80dfcfe4,volatile_orb_explosion.ao,Tiny.V3.1,66415034,9098
+143b1018e8cb07a3,volatile_orb_explosion.aoc,Tiny.VA.1,66525980,5470

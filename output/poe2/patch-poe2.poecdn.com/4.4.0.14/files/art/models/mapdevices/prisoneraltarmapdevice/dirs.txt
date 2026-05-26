@@ -1,0 +1,14 @@
+attachments
+attachments/corpse
+attachments/corpse/textures
+attachments/pamdbanner
+attachments/pamdpedestal
+attachments/pamdtable
+fx
+fx/mb
+fx/mb/flame
+fx/textures
+prisoneraltarlarge
+prisoneraltarsmall
+sacrifices
+textures

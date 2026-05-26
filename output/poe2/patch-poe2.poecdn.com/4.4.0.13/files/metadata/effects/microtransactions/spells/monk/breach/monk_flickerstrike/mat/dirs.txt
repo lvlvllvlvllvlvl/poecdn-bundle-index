@@ -1,5 +1,0 @@
-beam
-hit
-onact
-surge
-trail

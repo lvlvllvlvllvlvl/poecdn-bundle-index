@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+f45dd92fe509f86e,crucibleshield_normal_dxt5.dds,Streaming/Content/metadata/items/armours/shields/crucibleshieldheld.ao,268669,349700
+ee5bfaffdaebf0e0,crucibleshield_normal_dxt5.dds.header,Tiny.V8,44823480,1520
+f8c61900240d843f,crucibleshield_specularc.mat,Tiny.VE,45081323,3718
+077d1f36557a0cb9,crucibleshield_specular_dxt5.dds,Streaming/Content/metadata/items/armours/shields/crucibleshieldheld.ao,793293,349700
+11d116e169a8e0fc,crucibleshield_specular_dxt5.dds.header,Tiny.V4,45844163,1520
+5dddca4af8e5f4e7,crucibleshield_specular_bc1.dds,Streaming/Content/metadata/items/armours/shields/crucibleshieldheld.ao,618369,174924
+32db0f98bd7efbb9,crucibleshield_specular_bc1.dds.header,Tiny.V0,45556359,1520
+a6a611e017535055,glow_piecesc.mat,Tiny.VB,45512317,1154
+3718ba1d251d1157,glowc.mat,Tiny.V9,45918729,2896

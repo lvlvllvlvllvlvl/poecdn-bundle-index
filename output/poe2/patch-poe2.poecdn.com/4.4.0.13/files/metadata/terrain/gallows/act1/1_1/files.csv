@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-d032c6beff4c7a9f,critters.clt,Tiny.V0.1,151074279,270
-c2e4595f31238221,tiles.tst,Tiny.V8.1,144099666,22648
-c4b5029ea00f620c,random_fill_tiles.gft,Tiny.VE.1,144091455,18174
-5ba2459bcf3effc8,room_nodes.rs,Tiny.VF.1,147988941,3664
-f7561409dd84a255,master.tsi,Tiny.V3.1,145959150,658
-e6681b384544b80e,materials.mtd,Tiny.VB.1,146266061,8274
-f10208eb8bb3e760,material_overrides.tmo,Content/data/balance/worldareas/hideoutmonolith.vworld,1928054,45008

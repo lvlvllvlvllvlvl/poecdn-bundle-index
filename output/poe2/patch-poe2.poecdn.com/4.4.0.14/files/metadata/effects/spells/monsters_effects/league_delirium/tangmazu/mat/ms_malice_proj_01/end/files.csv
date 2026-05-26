@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+e1199967a40916ee,trail_smokey.mat,Tiny.V6.1,102232988,32100
+7963c65f1dbb8c3f,mblur_trail.mat,Tiny.VF.1,102262314,8500
+1475adeebf04ac75,core_glow_r.mat,Tiny.V4.1,105291358,10322
+3ebe0f4d2b42796a,core_glow_u.mat,Tiny.VD,50518121,346
+1678f2c90cc27597,zoom_distort_r.mat,Tiny.VE.1,101058158,5964
+3c1b90090f2362ed,zoom_distort_u.mat,Tiny.V4.1,55706100,2116
+37e27f6cb524ee86,explosionsparks_r.mat,Tiny.VC.1,104451968,30602
+eadc4c7d58b33a1d,explosionsparks_u.mat,Tiny.V7.1,102133866,10808
+23bd1435a2d4cdf3,shatter_debris_r.mat,Tiny.V8.1,98635274,19356
+6b5441063255f136,shatter_debris_u.mat,Tiny.V5.1,101014378,14986

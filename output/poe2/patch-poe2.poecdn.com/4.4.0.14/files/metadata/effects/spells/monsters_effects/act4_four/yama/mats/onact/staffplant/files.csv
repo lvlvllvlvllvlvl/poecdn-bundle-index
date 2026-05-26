@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+519adce57db731e0,bnpnt_emit_u.mat,Tiny.V4.1,16892004,902
+cbc694916b87b6ba,fan_smokebase_u.mat,Tiny.V6.1,86358292,15040
+5af7726ebd96f192,phys_impactup_cyl_r.mat,Tiny.V6.1,86373332,26536
+4f876dcbb32190c9,debris_r.mat,Tiny.VF.1,85190892,4348
+3bb7d9f8bf26cd44,debris_u.mat,Tiny.V6.1,86339378,18914
+d66d9edd0e2d31c2,sp_grddecal_r.mat,Tiny.VA.1,83933310,20708
+28ce18d203690377,sp_blurpushy_r.mat,Tiny.V1.1,83214194,11512
+997996bf23cbd573,sp_kickupdust_r.mat,Tiny.VF.1,85195240,28128

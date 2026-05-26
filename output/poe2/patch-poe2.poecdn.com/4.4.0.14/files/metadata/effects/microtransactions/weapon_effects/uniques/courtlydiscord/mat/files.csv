@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+6c1d474dec516f50,orb_crystaldust_r.mat,Tiny.V6.1,37930148,23002
+bf959f0bc8bd0bee,orb_crystaldust_u.mat,Tiny.VC.1,39146684,23880
+0b0b932122864058,orb_flames_r.mat,Tiny.VE.1,38066394,43128
+8a0c0db323f444f4,orb_flames_u.mat,Tiny.VD,50518121,346
+e782534938714640,orb_dropbolt_r.mat,Tiny.V3.1,36449002,25028
+040f56037bbae5b0,orb_dropbolt_u.mat,Tiny.VD,50518121,346
+15ec8466b6764f1c,trail_fire.mat,Tiny.V0.1,39937654,31898
+0f1e93764a58114b,trail_cold.mat,Tiny.V7.1,36020984,29736
+52aaca3e1d8d60fd,trail_lightning.mat,Tiny.V1.1,33896110,34376
+ffb2399c7e035ced,buff_gain_r.mat,Tiny.V6.1,37887394,42754
+8e8ed5c9b95507dc,buff_gain_u.mat,Tiny.VD,50518121,346
+88e3bdd2ac361755,buff_core_u.mat,Tiny.V7,49159477,576
+f855575f564c2cf9,buff_core_r.mat,Tiny.VC.1,39114906,31778
+bba0f1362eeaeccf,buff_core_r2.mat,Tiny.V8.1,35967406,34400
+e8f7491710486644,buff_core_r3.mat,Tiny.V8.1,36001806,31838

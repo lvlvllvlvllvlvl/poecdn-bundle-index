@@ -1,5 +1,0 @@
-death_nova
-head
-idle
-reap_slash
-summon

@@ -1,5 +1,0 @@
-alt_bolt
-ice_proj
-ice_proj/animations
-snipe_onact
-snipe_proj

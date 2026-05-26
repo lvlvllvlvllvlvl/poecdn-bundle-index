@@ -1,0 +1,9 @@
+blueeyes
+blueeyes/hair
+blueeyes/skirt
+blueeyes/skirt/baubles
+cape
+elbowpadbelt
+hood
+robe
+weaponwraps

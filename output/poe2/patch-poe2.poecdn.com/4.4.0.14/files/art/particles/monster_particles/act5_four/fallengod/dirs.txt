@@ -1,0 +1,13 @@
+mb
+mb/fallen_god_bloater
+mb/fallen_god_crawler
+mb/fallen_god_crawler/fireball_proj
+mb/fallen_god_crawler/fireball_proj/animations
+mb/fallen_god_lunaris
+mb/fallen_god_lunaris/corrfire_beam
+mb/stag
+textures
+textures/bloater
+textures/crawler
+textures/split
+textures/stag

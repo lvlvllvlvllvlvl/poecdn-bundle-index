@@ -1,9 +1,0 @@
-bossroomplates
-bossroomspikes
-bossroomspikes/spikes01
-bossroomspikes/spikes02
-bossroomspikes/spikes03
-bossroomspikes/spikes04
-bossroomspikes/spikes05
-textures
-tgms

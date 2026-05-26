@@ -1,9 +1,0 @@
-black_flame
-black_flame/epk
-black_flame/pet
-black_flame/pet/epk
-shaper
-shaper/burn
-shaper/burn/graphs
-shaper/pet
-shaper/pet/burn

@@ -1,3 +1,0 @@
-muffler
-skirt
-skirt_rigid

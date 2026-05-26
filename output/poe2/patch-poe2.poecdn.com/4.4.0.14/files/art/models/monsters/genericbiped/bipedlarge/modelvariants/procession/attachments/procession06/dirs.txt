@@ -1,0 +1,5 @@
+feathers
+loincloth
+loincloth/attachments
+loincloth/attachments/axes01
+loincloth/attachments/axes02

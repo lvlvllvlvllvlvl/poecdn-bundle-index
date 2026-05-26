@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+4311a89e3f623b54,dissolve_pass01.mat,Tiny.V3.1,95084794,27860
+3cb86281289e5b38,dissolve_pass02.mat,Tiny.V9.1,94295630,30646
+e38078efd771a5d8,mblur_suckin_r.mat,Tiny.VD.1,92646142,31826
+cdb87be83a3650d4,mblur_suckin_u.mat,Tiny.VC.1,153914194,1164
+982f12bc9c15c68a,surge_smokecurl_01_r.mat,Tiny.V5.1,96389496,64788
+79fad7af0bd8d92b,surge_smokecurl_02_u.mat,Tiny.V4.1,12096028,3252
+77ab29e5e405baa7,surge_ribbons_01_u.mat,Tiny.V2.1,97736582,24876
+0a0f6461169ec0bf,surge_ribbons_01_r.mat,Tiny.V8.1,92183430,59206
+c9a0857979ed003e,surge_ribbons_01_r1.mat,Tiny.V6.1,8542572,37992

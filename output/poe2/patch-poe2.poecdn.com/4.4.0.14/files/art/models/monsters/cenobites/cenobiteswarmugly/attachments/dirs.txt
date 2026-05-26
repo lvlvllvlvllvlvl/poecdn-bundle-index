@@ -1,0 +1,3 @@
+skirt
+weapon
+weapon_small

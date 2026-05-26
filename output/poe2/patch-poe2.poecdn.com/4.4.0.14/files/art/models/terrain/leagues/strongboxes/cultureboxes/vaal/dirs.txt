@@ -1,0 +1,10 @@
+arcaniststrongbox
+armourerstrongbox
+basicstrongbox
+blacksmithbox
+cartographersstrongbox
+divinersstrongbox
+jewllersstrongbox
+largestrongbox
+ornatestrongbox
+textures

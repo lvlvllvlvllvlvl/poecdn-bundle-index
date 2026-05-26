@@ -1,7 +1,0 @@
-iguana
-miner
-nessacrab
-regurgitator
-rhex
-taco
-viper

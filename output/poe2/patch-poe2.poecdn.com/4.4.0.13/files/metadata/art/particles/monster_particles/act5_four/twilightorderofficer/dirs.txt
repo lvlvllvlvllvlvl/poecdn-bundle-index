@@ -1,3 +1,0 @@
-textures
-textures/warcry
-textures/warcry_cold

@@ -1,6 +1,0 @@
-attachments
-attachments/boulbootdeco
-attachments/boulthighdeco
-attachments/bourbootdeco
-attachments/bouwaistdeco
-textures

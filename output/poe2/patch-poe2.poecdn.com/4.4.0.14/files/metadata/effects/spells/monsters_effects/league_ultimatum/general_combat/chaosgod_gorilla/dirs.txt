@@ -1,0 +1,10 @@
+epk
+fx
+graph
+mat
+mat/basic_attacks
+mat/ground_slam
+mat/ground_slam/impact
+mat/ground_slam/orb_buildup
+mat/leapslam_build
+mat/leapslam_impact

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+f289dd7921cffa82,inflatedc.mat,Tiny.VD,12512594,1700
+d96bfc64a6f1e7f5,inflated_normal_dxt5.dds,Streaming/Content/metadata/pet/fishmine/fishmine.ao,985433,349700
+6158240a326be089,inflated_normal_dxt5.dds.header,Tiny.V5,12547185,1520
+73829eb76a706462,inflated_colour_dxt5.dds,Streaming/Content/metadata/pet/fishmine/fishmine.ao,635733,349700
+08d0bad57c9efecb,inflated_colour_dxt5.dds.header,Tiny.V6,12735396,1520
+d1d3f1adede3229b,basec.mat,Tiny.V7,12698883,3988
+58b684559d31ab8d,base_glow_dxt5.dds,Streaming/Content/metadata/pet/fishmine/fishmine.ao,416769,87556
+c8c55bcbbecfe9d0,base_glow_dxt5.dds.header,Tiny.V8,12795754,1520
+9963b8bbe96276e1,base_normal_dxt5.dds,Streaming/Content/metadata/pet/fishmine/fishmine.ao,548177,87556
+0688bde3f9b04841,base_normal_dxt5.dds.header,Tiny.V9,12815541,1520
+e5249165d36432f8,base_metal_dxt1.dds,Streaming/Content/metadata/pet/fishmine/fishmine.ao,504325,43852
+7ca8bc2eaae908bf,base_metal_dxt1.dds.header,Tiny.V9,12814021,1520
+256fa8fde4caeb68,base_colour_dxt1.dds,Streaming/Content/metadata/pet/fishmine/fishmine.ao,372917,43852
+69132148de0b1154,base_colour_dxt1.dds.header,Tiny.VB,12662221,1520

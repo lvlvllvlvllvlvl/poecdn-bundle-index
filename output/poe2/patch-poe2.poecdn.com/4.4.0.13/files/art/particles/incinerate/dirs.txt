@@ -1,3 +1,0 @@
-handfx
-pulse
-stages_signalling

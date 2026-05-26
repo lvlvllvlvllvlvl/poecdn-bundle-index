@@ -1,7 +1,0 @@
-mortara
-mortara/impact
-mortara/mortar
-mortarb
-mortarb/impact
-mortarb/mortar
-projectile

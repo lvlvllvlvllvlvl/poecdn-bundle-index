@@ -1,0 +1,6 @@
+attachments
+attachments/jingweicranehair
+attachments/thunderbirdhair
+fx
+fx_amulate
+textures

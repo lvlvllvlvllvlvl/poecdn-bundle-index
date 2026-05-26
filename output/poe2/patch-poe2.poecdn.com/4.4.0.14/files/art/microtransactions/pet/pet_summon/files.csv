@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+711051bcdf61a255,pulse.mat,Tiny.V9,4310420,1076
+3f03bb3b7ad79a73,pulse.dds,Streaming/Content/metadata/particles/enviro_effects/league_delve/E431B7C855CA3B01.cyl_loop_on.pet,426712,22020
+2104b383cb7abaef,pulse.dds.header,Tiny.VE,4336441,1520
+d4315709f656df2b,coldspark_snow.mat,Tiny.V1,4337726,1130
+15272465a64e04c5,coldspark_snow.dds,Streaming/Content/metadata/particles/enviro_effects/league_delve/E431B7C855CA3B01.cyl_loop_on.pet,404692,22020
+0dff2ae97cbc2fa5,coldspark_snow.dds.header,Tiny.VC,4150115,1520
+ae8e35eeff0c6288,light_shoot.mat,Tiny.VC,4154644,1112
+8b7f242007b4ce7e,light_shoot.dds,Streaming/Content/metadata/effects/microtransactions/pets/1048BA71935395F5.3325C18AF815B1D7.i_handle.pet,542596,22020
+a0fd082a666fea53,light_shoot.dds.header,Tiny.V3,4244039,1520
+1e4006bb152de343,light_gradientc.mat,Tiny.VC,4152980,1664
+a86f785c844a8695,light_gradient.dds,Streaming/Shared/Normal/Shared,558970,22020
+5f8cbe340ba0eb6a,light_gradient.dds.header,Tiny.V4,4512478,1520
+a6c7cfc3fb9aa5a8,light_beamc.mat,Tiny.V1,4338856,2328
+9ddd86f93f3ab8d6,light_beam.dds,Streaming/Shared/Normal/Shared,536950,22020
+3e9c8f73f4e1bb38,light_beam.dds.header,Tiny.V4,4510958,1520

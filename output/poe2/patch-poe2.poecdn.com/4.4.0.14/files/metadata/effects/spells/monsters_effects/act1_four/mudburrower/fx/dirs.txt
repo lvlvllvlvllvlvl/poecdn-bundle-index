@@ -1,0 +1,9 @@
+bite_vomit
+boss_mortar
+boss_mortar_goop
+death_01
+emerge
+emerge_epic
+spit_prj
+submerge
+trail_attack_02

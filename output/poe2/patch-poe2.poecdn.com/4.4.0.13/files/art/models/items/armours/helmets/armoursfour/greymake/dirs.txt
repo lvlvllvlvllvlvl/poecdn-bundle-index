@@ -1,6 +1,0 @@
-attachments
-attachments/f
-attachments/f/hair
-attachments/m
-attachments/m/hair
-textures

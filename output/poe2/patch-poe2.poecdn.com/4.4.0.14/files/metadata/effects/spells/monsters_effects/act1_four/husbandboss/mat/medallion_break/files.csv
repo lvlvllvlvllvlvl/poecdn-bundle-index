@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+b8c24f5764bff0e6,cone_flare_r.mat,Tiny.V5.1,53604110,26492
+ef33b1b7be9cebad,cone_flare_u.mat,Tiny.VE.1,1562868,310
+9c7731fc53670777,flare_r.mat,Tiny.V4.1,58156766,20374
+b8d537b5ec59afb5,flare_u.mat,Tiny.VE.1,1562868,310
+ce46a687be5325bb,hot_burst_r.mat,Tiny.V7.1,54597258,34850
+4b00c6cd63c75928,hot_burst_u.mat,Tiny.VE.1,1562868,310
+f28cf1745b886e4a,explosion_sphereblur_r2.mat,Tiny.V0,50550896,19564
+e550b805329105e3,explosion_sphereblur_u.mat,Tiny.VE.1,1562868,310
+43a0b8ea180b2cef,small_debris_burst_r.mat,Tiny.V8,50631009,17376
+fd89c0945ba488d9,small_debris_burst_u.mat,Tiny.V6,50697928,8806
+cec52b8cc6a63f9b,debris_mesh_burst_01_r.mat,Tiny.VC.1,272902,6412
+7a8cfb3da531deab,debris_mesh_burst_01_u.mat,Tiny.V1,50252795,20946
+e04d4ff3c08f3c97,dust_kickup_02_u.mat,Tiny.VA.1,52529166,9906
+5be5e2fc83f63978,dust_kickup_01_r.mat,Tiny.VD.1,49958958,31728
+58b269b442ce6726,dust_kickup_01_u.mat,Tiny.V0,50525540,14414

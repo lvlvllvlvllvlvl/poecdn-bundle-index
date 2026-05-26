@@ -1,0 +1,4 @@
+burst
+idle
+pull
+ring

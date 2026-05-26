@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+a9912d833841850b,snakehulkc.mat,Tiny.V7,12205591,2890
+92e835ad47934b21,snakehulk_sss_dxt1.dds,Streaming/Content/metadata/monsters/snakehulk/snakehulk.act.2,0,2796364
+8eb86b17f70bbbe1,snakehulk_sss_dxt1.dds.header,Tiny.V2,12420952,1520
+34d9929e04eac4fa,snakehulk_normal_dxt5.dds,Streaming/Content/metadata/monsters/snakehulk/snakehulk.act.1,0,5592580
+655507031f63668e,snakehulk_normal_dxt5.dds.header,Tiny.VA,12324722,1520
+9232e9cf3883d045,snakehulk_colour_dxt5.dds,Streaming/Content/metadata/monsters/snakehulk/snakehulk.act,277385,5592580
+886813b35c61db29,snakehulk_colour_dxt5.dds.header,Tiny.V7,12204071,1520
+79d229f8e1f4de43,snakehulkvar01.mat,Tiny.VD,12119277,2706
+768b7f27f25c16e7,snakehulkvar01_sss_bc1.dds,Streaming/Content/data/worldareas/FA/c_g3_4.vworld,0,2796364
+a09aedbaedaa3c85,snakehulkvar01_sss_bc1.dds.header,Tiny.VA,12326242,1520
+b81a9bbfd5489da1,snakehulkvar01_normal_dxt5.dds,Streaming/Content/data/worldareas/27/c_g3_4.vworld,0,5592580
+2fd30863e7d51fbd,snakehulkvar01_normal_dxt5.dds.header,Tiny.V7,12208481,1520
+51217e3f05f7826a,snakehulkvar01_colour_dxt5.dds,Streaming/Content/data/worldareas/2B/c_g3_4.vworld,0,5592580
+4f7d4623774e52f6,snakehulkvar01_colour_dxt5.dds.header,Tiny.V6,12276854,1520

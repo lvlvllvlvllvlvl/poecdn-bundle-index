@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+ad200e1c0d87a383,mist_r.mat,Tiny.V0.1,155795213,33122
+cbebb15971efd574,mist_u.mat,Tiny.V3.1,150260061,9924
+e0c7db72eb2c2823,foam_sprays_u.mat,Tiny.V3.1,150260061,9924
+de857c95e0a9affd,foam_sprays_u2.mat,Tiny.V3.1,150236467,23594
+e7453e847dd539c9,foam_sprays_r.mat,Tiny.V4.1,152412338,25406
+acc978113d447c04,foam_sprays_r2.mat,Tiny.VD.1,145692959,24246
+8561e9785e31ede4,whitefoam_spray_r.mat,Tiny.V2.1,152521473,29734
+a8fd00b05f963251,whitefoam_spray_u.mat,Tiny.VB.1,150510078,10896
+b2954ec5c53a1e21,waterfall_01.mat,Tiny.VA.1,150650171,33880
+d4471e9a44f1a10b,wave_lip_splash_r.mat,Tiny.V4.1,151136186,33440
+85bb16b56ca020e2,wave_lip_splash_u.mat,Tiny.V3.1,150236467,23594

@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-99ddf36e757995ab,blur_sphere_r.mat,Tiny.V5.1,67224828,10188
-917e02ebf80c76eb,pt_infinte_u.mat,Tiny.V0.1,86770346,2406
-d30211399e21cf57,energy_r.mat,Tiny.V3.1,66424132,25544
-14c607e581f7b37a,energy_u.mat,Tiny.V7.1,68904060,10248
-a7b40de25b08e155,handglow_pass1.mat,Tiny.VA.1,66611624,24476
-048d0daf1b6e0806,handglow_r_pass1.mat,Tiny.V5.1,67235016,24478
-fd7dbfc59796d0e0,gas_r.mat,Tiny.V7.1,68914308,53782
-94c554e9fafe8c66,gas_u.mat,Tiny.V2.1,69519054,1486

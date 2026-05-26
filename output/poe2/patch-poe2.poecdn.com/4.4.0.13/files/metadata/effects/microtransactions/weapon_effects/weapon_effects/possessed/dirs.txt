@@ -1,8 +1,0 @@
-controllers
-controllers/cultist
-controllers/mercenary
-controllers/pyromaniac
-controllers/templar
-epk
-fx
-graph

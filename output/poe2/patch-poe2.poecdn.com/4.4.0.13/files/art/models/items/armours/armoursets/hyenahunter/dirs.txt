@@ -1,6 +1,0 @@
-attachments
-attachments/hhfringe
-attachments/hhhelmet
-attachments/hhlshoulderpad
-attachments/hhskirt
-textures

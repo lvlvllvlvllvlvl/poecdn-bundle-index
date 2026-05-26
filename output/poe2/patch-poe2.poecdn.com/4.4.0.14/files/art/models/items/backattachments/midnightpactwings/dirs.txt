@@ -1,0 +1,6 @@
+attachments
+attachments/chains
+attachments/chainsbottom
+attachments/smallchains
+fx
+textures

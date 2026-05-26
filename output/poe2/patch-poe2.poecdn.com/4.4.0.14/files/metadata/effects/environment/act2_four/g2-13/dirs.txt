@@ -1,0 +1,4 @@
+fx
+mat
+mat/brazier_fire
+mat/door_opening_dust

@@ -1,9 +1,0 @@
-attachments
-attachments/masks
-attachments/masks/greathelm
-attachments/masks/nosehelm
-breachdiverb
-breachdiverb/attachments
-breachdiverb/attachments/masks
-breachdiverb/attachments/masks/greathelm
-breachdiverb/attachments/masks/nosehelm

@@ -1,0 +1,16 @@
+epk
+epk/audio
+fx
+graphs
+mat
+mat/curse_nuke
+mat/death
+mat/doubleslam_hit_01
+mat/doubleslam_hit_02
+mat/emerge_fx
+mat/idle_fx
+mat/idle_fx/weapon
+mat/melee_trail
+mat/onact_curse_nuke
+mat/onact_overhead_slam
+mat/overhead_slam

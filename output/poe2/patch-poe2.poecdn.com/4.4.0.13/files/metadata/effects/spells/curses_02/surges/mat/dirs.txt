@@ -1,8 +1,0 @@
-conductivity
-despair
-ele_weakness
-enfeeble
-flammability
-frostbite
-synchronisation
-temp_chains

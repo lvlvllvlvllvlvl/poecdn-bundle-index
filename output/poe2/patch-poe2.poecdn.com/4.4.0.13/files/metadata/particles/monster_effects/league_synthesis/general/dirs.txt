@@ -1,7 +1,0 @@
-cold
-drone_projectiles
-fire
-general_proj
-lightning
-phys
-ribbons

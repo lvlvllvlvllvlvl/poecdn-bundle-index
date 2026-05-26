@@ -1,8 +1,0 @@
-animations
-animations/pet
-attachments
-attachments/huntinghyena
-attachments/huntinghyena/chaindangle
-chawmongrel
-chawmongrel/animations
-textures

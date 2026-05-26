@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+853bb0b57ab51103,foam_test.mat,Tiny.V0,32512798,2740
+c0839e9ea749e30a,foam_test.dds,Streaming/Content/metadata/particles/enviro_effects/act4/5ABC9F9EE0E4A130.flying_embers.pet,43876,87556
+17ac39f9286c99b1,foam_test.dds.header,Tiny.V6,32184926,1520
+283cae02cf6c66a3,water_blast_02.mat,Tiny.V3,31958887,1970
+3e3aea9a8f080b85,water_blast_02.dds,Streaming/Content/metadata/particles/enviro_effects/act4/5ABC9F9EE0E4A130.flying_embers.pet,852852,349860
+78eadaeb812ff37e,water_blast_02.dds.header,Tiny.V8,32155021,280
+fb5960c0bc02c27f,light_gradient_test.mat,Tiny.V1,32248194,1766
+d73de210d3cbb40b,light_gradient_test.dds,Streaming/Content/metadata/particles/enviro_effects/act4/5ABC9F9EE0E4A130.flying_embers.pet,830832,22020
+10f45f0763b7fbf1,light_gradient_test.dds.header,Tiny.V4,33079970,1520
+6f0cb759e1b9debe,lava_burst_02.mat,Tiny.VE,32030653,2694
+b26d1dff387c40dd,lava_burst_02.dds,Streaming/Content/metadata/particles/enviro_effects/act4/5ABC9F9EE0E4A130.flying_embers.pet,481132,349700
+ead155e2e8d82d90,lava_burst_02.dds.header,Tiny.V1,32246674,1520
+6f5d280b3b9ec6ab,lava_burst_01.mat,Tiny.V4,32773369,2912
+69c19b0b283ed993,lava_burst_01.dds,Streaming/Content/metadata/particles/enviro_effects/act4/5ABC9F9EE0E4A130.flying_embers.pet,131432,349700
+96f0e87587a08ce0,lava_burst_01.dds.header,Tiny.VB,32567824,1520

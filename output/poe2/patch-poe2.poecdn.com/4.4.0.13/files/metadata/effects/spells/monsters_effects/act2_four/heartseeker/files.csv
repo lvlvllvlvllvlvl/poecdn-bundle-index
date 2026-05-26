@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-030215bcc8b336eb,volatile_explosion.ao,Tiny.VE.1,58663060,400
-2aa86e9a96165512,volatile_explosion.aoc,Tiny.VA.1,55604716,2106
-865a9b5186f1390e,big_mortar_proj.ao,Tiny.V3.1,56969366,908
-0cf38ad19533b170,big_mortar_proj.aoc,Tiny.VF.1,57370052,2512
-fc2ca404f9a917a3,big_mortar_impact.ao,Tiny.VD.1,53616898,392
-55fb9498b806c678,big_mortar_impact.aoc,Tiny.V8.1,55640858,2960
-6c32805cd85e6f6d,basic_projectile.ao,Tiny.V6.1,59132022,384
-048edb7ba6366185,basic_projectile.aoc,Tiny.VB.1,56172524,3354

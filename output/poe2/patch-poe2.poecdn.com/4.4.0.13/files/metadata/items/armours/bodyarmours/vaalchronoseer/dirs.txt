@@ -1,4 +1,0 @@
-attachments
-attachments/armdangle
-attachments/mantle
-attachments/skirt

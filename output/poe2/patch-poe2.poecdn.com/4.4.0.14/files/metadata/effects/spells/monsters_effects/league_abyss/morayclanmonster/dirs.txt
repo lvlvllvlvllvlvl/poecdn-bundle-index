@@ -1,0 +1,8 @@
+epk
+fx
+mat
+mat/explode_01
+mat/fireball_impact
+mat/flamethrower
+mat/melee_swipe
+mat/onact_spin_detonate

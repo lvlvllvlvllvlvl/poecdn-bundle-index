@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-bb4f48b68c9cc134,tarhulk.sm,Tiny.V1,12203508,4540
-484e58ddaf301d1a,tarhulkphys.sm,Tiny.VA,12347457,4500
-9b1ccc87b7cf6ba3,tarhulk_armour_cc5f24f7.smd,Tiny.VB,12260001,1317
-873b32e33f0d133b,tarhulk_armour_cc5f24f7.smd.header,Tiny.V0,12331977,1137
-30b069fd5bf0ce0a,rig_6071cd2c.smd,Streaming/Content/data/worldareas/7B/p3_3.vworld,0,365605
-da21ebfacf08e343,rig_6071cd2c.smd.header,Tiny.V5,12105799,368
-5fcb2b05b14fff08,rig.amd,Content/metadata/monsters/elitezombie/elitezombie.act,0,14154
-280b97c9b5e5329e,rig.ast,Content/metadata/monsters/elitezombie/elitezombie.act,14154,1050083

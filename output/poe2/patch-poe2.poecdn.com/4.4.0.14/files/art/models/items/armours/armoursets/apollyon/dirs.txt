@@ -1,0 +1,7 @@
+attachments
+attachments/cape
+attachments/robe
+attachments/shoulderpads
+fx
+fx/mb
+textures

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e58cfe66255796e3,lava_dots.mat,Tiny.V9,32879789,1566
+50299ece7b17357e,lava_dots.dds,Streaming/Content/metadata/particles/enviro_effects/hideout/fire_mtx.pet,5636,87556
+b49ee64c9c711ed2,lava_dots.dds.header,Tiny.V6,4840294,1520
+789258aacf3a1a4b,maxres.mat,Tiny.V7,32292559,3510
+faa6768a8b171ed7,maxres.dds,Streaming/Content/metadata/particles/enviro_effects/hideout/fire_mtx.pet,93192,87588
+fece9865a6531e46,maxres.dds.header,Tiny.VD,32679305,504
+593a1719162fe5d6,channel_snowblobs.mat,Tiny.V1,32362127,3990
+ce3b2ece813cf5ad,channel_snowblobs.dds,Streaming/Content/metadata/particles/enviro_effects/hideout/fire_mtx.pet,0,5636
+e0c3c6871055d3c6,channel_snowblobs.dds.header,Tiny.VA,32611565,1520

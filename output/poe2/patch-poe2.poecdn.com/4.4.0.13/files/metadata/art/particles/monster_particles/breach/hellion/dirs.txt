@@ -1,3 +1,0 @@
-flame_breath
-flame_breath/lava_pool
-flame_breath/lava_pool/new

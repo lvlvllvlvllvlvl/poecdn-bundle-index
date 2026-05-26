@@ -1,9 +1,0 @@
-attachments
-attachments/f
-attachments/f/bcloth
-attachments/f/robe
-attachments/f/shawl
-attachments/m
-attachments/m/bcloth
-attachments/m/robe
-attachments/m/shawl

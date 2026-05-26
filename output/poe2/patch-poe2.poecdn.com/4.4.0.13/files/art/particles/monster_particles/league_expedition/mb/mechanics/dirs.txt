@@ -1,7 +1,0 @@
-boss_tile_explosive
-explosives
-monster_emerge
-npc_lights
-relics
-relics/shockwave
-relics/stone_plinth

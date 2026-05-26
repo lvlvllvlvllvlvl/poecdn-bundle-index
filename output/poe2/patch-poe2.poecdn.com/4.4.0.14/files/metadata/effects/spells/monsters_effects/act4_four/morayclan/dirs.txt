@@ -1,0 +1,8 @@
+on_act
+on_act/death_01
+pet
+pet/on_act
+pet/on_act/attack_01
+pet/on_act/death_01
+pet/on_act/emerge_01
+pet/on_act/tail_whip_01

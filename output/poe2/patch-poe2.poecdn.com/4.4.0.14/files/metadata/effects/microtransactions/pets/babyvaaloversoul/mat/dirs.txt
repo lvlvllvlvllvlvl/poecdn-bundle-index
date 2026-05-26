@@ -1,0 +1,7 @@
+emerge
+idle_relaxed_01
+idle_relaxed_02
+idle_relaxed_02/chargeup
+idle_relaxed_02/laser_impact
+idle_relaxed_02/laser_shot
+idle_relaxed_02/laser_whiff

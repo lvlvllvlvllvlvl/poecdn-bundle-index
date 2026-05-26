@@ -1,6 +1,0 @@
-clarity
-delirium
-physical_damage
-physical_damage/fx
-precision
-spell_damage

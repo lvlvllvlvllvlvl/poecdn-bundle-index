@@ -1,0 +1,11 @@
+mb
+mb/fire_proj_impact
+mb/firebeam_grd
+mb/ground_180_flap_attack_01
+mb/ice_beam
+mb/ice_grd
+mb/lightning_zap
+mb/pillars_destruction
+mb/poison_spill_mortar
+mb/poison_spray
+tex

@@ -1,5 +1,0 @@
-talldune
-talldune/tgms
-tgms
-waterfront
-waterfront/tgms

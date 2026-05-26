@@ -1,0 +1,6 @@
+beam
+impact
+onact
+onact/rdy
+projectile
+shot

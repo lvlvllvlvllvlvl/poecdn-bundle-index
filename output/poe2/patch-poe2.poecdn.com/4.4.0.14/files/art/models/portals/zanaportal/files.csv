@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+92b87157799ff9ed,zanaportal.sm,Tiny.V1,13192987,586
+6ff2c842a8497def,petal01.fmt,Tiny.V2,13393603,3124
+93ce0b1b91a76164,petal01.fmt.header,Tiny.V9,13297906,128
+ec5fac6734f14b6c,portal_energy.fmt,Streaming/Content/metadata/effects/microtransactions/town_portals/9CAAAD218573E48D.zanaportal02.ao,0,13374
+94a1490b1f78c3d2,portal_energy.fmt.header,Tiny.V1,13191339,128
+5a7042692877494c,portal_plane_back.fmt,Tiny.VE,13134276,2192
+9a6806f6b99d097f,portal_plane_back.fmt.header,Tiny.V5,13079958,185
+865e796531ec4780,portal_plane.fmt,Tiny.V3,12979993,2182
+1e92710a45e56ba1,portal_plane.fmt.header,Tiny.V4,13348429,180
+bb09df686e8c8ead,rig_7f85aecd.smd,Streaming/Content/metadata/effects/microtransactions/town_portals/9CAAAD218573E48D.zanaportal02.ao,13374,73455
+79ad6139de981627,rig_7f85aecd.smd.header,Tiny.V4,13348609,368
+21a6b81196805c13,rig.amd,Tiny.V0,13295445,324
+795d163d58c90093,rig.ast,Content/metadata/effects/microtransactions/town_portals/zanaportal2/zanaportal02.ao,0,22421

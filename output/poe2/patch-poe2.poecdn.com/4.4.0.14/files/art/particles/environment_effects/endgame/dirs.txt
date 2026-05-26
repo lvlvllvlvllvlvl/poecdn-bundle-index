@@ -1,0 +1,14 @@
+megalith
+megalith/rune_activation_beam
+megalith/soul_beam
+megalith/soul_beam/mb
+rituals
+rituals/blood_wave
+rituals/chaos_wave
+rituals/crimson_wolves
+rituals/crimson_wolves/blood_border
+rituals/rat_tornado
+rituals/root_wall
+strogboxes
+strogboxes/ezomyte_revive_beam
+strogboxes/player_blood_beam

@@ -1,7 +1,0 @@
-corpse_ball
-double_slam
-on_act
-on_act/tainted_curse
-on_act/trailer_emerge_01
-overhead_slam
-roll_slam

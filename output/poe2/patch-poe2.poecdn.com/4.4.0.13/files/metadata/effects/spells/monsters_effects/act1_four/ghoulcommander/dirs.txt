@@ -1,7 +1,0 @@
-graph
-mat
-mat/leap_01
-mat/vomit_01
-pet
-trl
-trl/vomit_01

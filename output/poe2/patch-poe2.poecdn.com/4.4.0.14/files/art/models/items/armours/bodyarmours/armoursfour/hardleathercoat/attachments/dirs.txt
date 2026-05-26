@@ -1,0 +1,5 @@
+female
+female/skirt
+male
+male/skirt
+male/strskirt

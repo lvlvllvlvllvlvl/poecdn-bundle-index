@@ -1,4 +1,0 @@
-ao
-mat
-pet
-pet/projectile

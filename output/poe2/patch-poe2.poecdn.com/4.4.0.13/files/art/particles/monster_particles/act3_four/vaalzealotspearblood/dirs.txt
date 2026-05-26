@@ -1,7 +1,0 @@
-mb
-mb/degen_pool
-mb/mortar
-mb/mortar_explosion
-textures
-textures/degen_pool
-textures/mortar

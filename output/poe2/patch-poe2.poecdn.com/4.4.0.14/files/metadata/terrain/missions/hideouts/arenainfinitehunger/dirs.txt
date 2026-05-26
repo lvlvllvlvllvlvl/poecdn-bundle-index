@@ -1,0 +1,4 @@
+effects
+graphs
+objects
+rooms

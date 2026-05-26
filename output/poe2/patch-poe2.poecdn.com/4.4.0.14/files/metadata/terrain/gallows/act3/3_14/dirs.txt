@@ -1,0 +1,15 @@
+graphs
+objects
+objects/vaalpriestencounter
+rooms
+rooms/backstreets
+rooms/canal
+rooms/canal_sidestreet
+rooms/fills
+rooms/sidestreets
+rooms/street
+rooms/unique
+subarea
+subarea/graphs
+subarea/objects
+subarea/rooms

@@ -1,0 +1,8 @@
+bone
+flesh
+ground
+guts
+membrane
+muscle
+teeth
+veins

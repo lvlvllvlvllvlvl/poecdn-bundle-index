@@ -1,0 +1,8 @@
+attack_01
+flame_swipes
+flame_tornado
+flame_tornado/tornado
+flamebreath
+flight
+flight/aerial_firebreath
+tail_spin

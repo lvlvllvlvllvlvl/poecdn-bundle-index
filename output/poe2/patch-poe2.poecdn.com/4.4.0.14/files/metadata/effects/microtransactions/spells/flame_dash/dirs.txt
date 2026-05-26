@@ -1,0 +1,15 @@
+auspicious
+auspicious/fx
+corsair
+corsair/graphs
+corsair/pets
+demonic
+man
+man/pets
+nightfall
+polaris_black
+scientist
+siren
+siren/pets
+stygian
+stygian/pet

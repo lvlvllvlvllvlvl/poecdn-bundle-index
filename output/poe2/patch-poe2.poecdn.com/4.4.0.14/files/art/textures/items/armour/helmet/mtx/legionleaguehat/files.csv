@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+ab05994febbf5114,caustics_dxt5.dds,Streaming/Content/metadata/items/armours/helmets/9915B2B92DEDF7D8.legionleaguehatstrint.ao,64469,87556
+f1c2f1eb633b2c2d,caustics_dxt5.dds.header,Tiny.V7,45269845,1520
+b60bdd5a5c2f5fae,legionleaguehatspecularc.mat,Tiny.V3,44582113,5136
+16c401ffc0fd01fd,legionleaguehat_mask_dxt5.dds,Streaming/Content/metadata/items/armours/helmets/9915B2B92DEDF7D8.legionleaguehatstrint.ao,1200953,349700
+bbc009e8018e0d31,legionleaguehat_mask_dxt5.dds.header,Tiny.VB,45434551,1520
+b3d9d566fc962e0b,legionleaguehat_normal_dxt5.dds,Streaming/Content/metadata/items/armours/helmets/9915B2B92DEDF7D8.legionleaguehatstrint.ao,1550653,349700
+31d9bf948acc90cc,legionleaguehat_normal_dxt5.dds.header,Tiny.V4,45779673,1520
+5cecfd63b11fa597,legionleaguehat_colourspecular_bc7.dds,Streaming/Content/metadata/items/armours/helmets/9915B2B92DEDF7D8.legionleaguehatstrint.ao,501717,699236
+17d4475e653d9faf,legionleaguehat_colourspecular_bc7.dds.header,Tiny.V9,45832069,840
+bbfb68de0d74f8a9,legionleaguehat_colourspecular.dds,Streaming/Content/metadata/items/armours/helmets/9915B2B92DEDF7D8.legionleaguehatstrint.ao,152025,349692
+426f11a0ad21ffa0,legionleaguehat_colourspecular.dds.header,Tiny.VB,45433711,840

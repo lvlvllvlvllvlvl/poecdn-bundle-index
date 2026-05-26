@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+e73a6151c92e0993,mergedpolariscloakc.mat,Tiny.V9,45707205,5824
+5379e31b429a4fd4,mergedpolariscloak_glow_dxt1.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.5752E34C770F521D.mergedpolariscloak.fmt,1048928,349692
+7e2468745d9d415f,mergedpolariscloak_glow_dxt1.dds.header,Tiny.V1,44938339,840
+a80dd3eb6958c79e,mergedpolariscloak_sss_dxt1.dds,Streaming/Content/art/models/items/armours/584DA142A73233C7.6E4653D603B5B726.ancientdreadarmour.fmt,175176,349692
+2573924bd25fdb31,mergedpolariscloak_sss_dxt1.dds.header,Tiny.V6,45079352,840
+0cb02cad5b841b4d,mergedpolariscloak_specular_dxt5.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.5752E34C770F521D.mergedpolariscloak.fmt,2097856,174948
+3e8cf9a4d7a9f1ef,mergedpolariscloak_specular_dxt5.dds.header,Tiny.V7,45197617,840
+2004a637a9f6fb45,mergedpolariscloak_normal_dxt5.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.5752E34C770F521D.mergedpolariscloak.fmt,1398620,699236
+17889f224054c842,mergedpolariscloak_normal_dxt5.dds.header,Tiny.V7,45196777,840
+8bc5b68343c353de,mergedpolariscloak_colour_bc7.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.5752E34C770F521D.mergedpolariscloak.fmt,349692,699236
+fc536ceb208f1e3a,mergedpolariscloak_colour_bc7.dds.header,Tiny.V9,45706365,840
+0346c5933ced92ca,mergedpolariscloak_colour.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.5752E34C770F521D.mergedpolariscloak.fmt,0,349692
+737e2eb013164fef,mergedpolariscloak_colour.dds.header,Tiny.V5,44660516,840

@@ -1,0 +1,3 @@
+textures
+textures/vfx
+textures/vfx/textures

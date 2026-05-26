@@ -1,6 +1,0 @@
-epk
-fx
-mat
-mat/slam_01
-mat/spellcast
-mat/volatile

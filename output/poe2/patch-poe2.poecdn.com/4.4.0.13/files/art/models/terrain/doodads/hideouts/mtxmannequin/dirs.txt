@@ -1,7 +1,0 @@
-female
-female/animations
-male
-male/animations
-props
-stand
-textures

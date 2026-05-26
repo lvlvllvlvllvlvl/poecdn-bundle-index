@@ -1,7 +1,0 @@
-graphs
-rooms
-rooms/fill
-rooms/shoreline
-rooms/shoreline/1x1
-rooms/unique
-tiles

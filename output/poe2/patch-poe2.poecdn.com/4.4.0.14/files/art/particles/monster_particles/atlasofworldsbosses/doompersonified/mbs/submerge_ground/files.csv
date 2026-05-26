@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+d8349f40f434d8f5,tentacle01.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/ADA130A68CBC8D87.9F12562869F487F5.submerge_emerge_ptemit.pet.2,235522,30718
+0b634b0bb036cf05,tentacle01.fmt.header,Tiny.V2,35694728,174
+46db600514573d94,submerge_ground.sm,Tiny.V3,35331879,616
+0d9c853013a77bb9,splash.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/ADA130A68CBC8D87.9F12562869F487F5.submerge_emerge_ptemit.pet.2,0,235522
+8c29a06e8054a563,splash.fmt.header,Tiny.VE,35419910,180
+d80dc8a2911c7fad,rig_d229ec1b.smd,Streaming/Content/metadata/effects/spells/monsters_effects/ADA130A68CBC8D87.D4B7AF4236CB7DF8.submerge_emerge.ao,0,33727
+1c295bb1dd70d594,rig_d229ec1b.smd.header,Tiny.V0,36045864,448
+aa5ee5f0dd36c998,rig.amd,Tiny.VE,35419692,218
+d432d1efb347113f,rig.ast,Tiny.V2,35693387,1341

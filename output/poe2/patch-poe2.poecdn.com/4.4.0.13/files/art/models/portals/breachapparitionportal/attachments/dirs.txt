@@ -1,3 +1,0 @@
-hands
-lhand
-rhand

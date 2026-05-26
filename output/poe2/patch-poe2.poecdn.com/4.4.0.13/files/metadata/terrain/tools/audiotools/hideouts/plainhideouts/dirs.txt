@@ -1,4 +1,0 @@
-plaincrypt
-plaindesert
-plainsnow
-plainurban

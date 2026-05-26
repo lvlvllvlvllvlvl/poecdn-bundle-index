@@ -1,0 +1,10 @@
+poe2
+poe2/act 1
+poe2/act 2
+poe2/act 3
+poe2/act 4
+poe2/act 5
+poe2/character
+poe2/endgame
+poe2/interlude
+poe2/league

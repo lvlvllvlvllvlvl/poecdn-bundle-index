@@ -1,0 +1,8 @@
+bell_attack_01
+bell_charge_end
+calming_mortar_impact
+einhar_harpoon_beam
+enrage_mortar
+leapslam
+onact_attack_01
+onact_death_01

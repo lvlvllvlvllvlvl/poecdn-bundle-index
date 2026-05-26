@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+512a69bc30e1efdd,rune_glow_dxt5.dds,Streaming/Content/art/models/waypoints/demonicwaypoint/demonicwaypoint.fmt,1398800,349700
+026daced2d9c75a3,rune_glow_dxt5.dds.header,Tiny.VD,31772794,1520
+a1f67dea9dc776ee,demonicwaypoint3c.mat,Tiny.V2,31611805,2744
+88a9ac6ac609f29b,demonicwaypoint3_normal_dxt5.dds,Streaming/Content/art/models/waypoints/demonicwaypoint/demonicwaypoint.fmt,1049100,349700
+ed989ede3767dc4d,demonicwaypoint3_normal_dxt5.dds.header,Tiny.VB,31848607,1520
+8b840a3f688dc83f,demonicwaypoint3_colour_dxt5.dds,Streaming/Content/art/models/waypoints/demonicwaypoint/demonicwaypoint.fmt,699400,349700
+3379e27892f10f05,demonicwaypoint3_colour_dxt5.dds.header,Tiny.V2,31610285,1520
+656f17a9e2ecc9b2,demonicwaypoint2c.mat,Tiny.VD,31770628,2166
+ad46ad275d22da32,demonicwaypoint2_normal_dxt5.dds,Streaming/Content/art/models/waypoints/demonicwaypoint/demonicwaypoint.fmt,349700,349700
+b524731eecf92ef9,demonicwaypoint2_normal_dxt5.dds.header,Tiny.VD,31769108,1520
+059cbd280356576b,demonicwaypoint2_colour_dxt5.dds,Streaming/Content/art/models/waypoints/demonicwaypoint/demonicwaypoint.fmt,0,349700
+ac5075b8a78a42e4,demonicwaypoint2_colour_dxt5.dds.header,Tiny.V1,31557910,1520

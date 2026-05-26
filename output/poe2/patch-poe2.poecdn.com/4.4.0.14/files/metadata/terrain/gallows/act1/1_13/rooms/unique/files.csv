@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+d794dcca91538c0c,story_glyph_01.arm,Tiny.V6.1,145733807,2514
+f3638d699502cbc5,feature_hut_01.arm,Content/data/balance/worldareas/g1_5.vworld,1392043,72278
+9e71433bd1d09d85,blacksmith.arm,Content/data/balance/worldareas/g1_5.vworld,1227849,13244
+5ec16f3c2b603cb0,bonfire.arm,Content/data/balance/worldareas/g1_5.vworld,1241093,5332
+10827c625df15c88,bonfire_fence.arm,Content/data/balance/worldareas/g1_5.vworld,1246425,5628
+e570fc2eb088f9d6,bonfire_fence_nocrop.arm,Content/data/balance/worldareas/g1_5.vworld,1252053,5646
+102b9b0dc390702a,entrance_canopy.arm,Content/data/balance/worldareas/g1_5.vworld,1257699,8054
+1589a748d50ff4d7,exit_manor_02.arm,Content/data/balance/worldareas/g1_5.vworld,1349581,42462
+47bd29e7689af56e,exit_manor_01.arm,Content/data/balance/worldareas/g1_5.vworld,1265753,42954
+543e568d2919fccc,exit_manor_01_nocrop.arm,Content/data/balance/worldareas/g1_5.vworld,1308707,40874

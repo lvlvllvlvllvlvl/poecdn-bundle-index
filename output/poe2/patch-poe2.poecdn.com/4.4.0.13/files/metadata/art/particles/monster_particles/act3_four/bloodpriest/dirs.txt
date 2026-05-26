@@ -1,4 +1,0 @@
-textures
-textures/soulrend
-textures/soulrend_impact
-textures/volatile_dead

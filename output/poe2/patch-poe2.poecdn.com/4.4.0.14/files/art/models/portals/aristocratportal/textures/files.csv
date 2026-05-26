@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+bf87f00b02841ac4,aristocratportaleffectc.mat,Tiny.V2,13151097,4552
+7e3eb25e24816cfe,aristocratportaleffect_glow_dxt5.dds,Streaming/Content/art/models/portals/aristocratportal/aristocratportal.fmt.1,0,1398276
+464546583cfeeb7f,aristocratportaleffect_glow_dxt5.dds.header,Tiny.VF,13027563,1520
+2d0d150aac546dae,aristocratportaleffect_normal_dxt5.dds,Streaming/Content/art/models/portals/aristocratportal/aristocratportal.fmt.1,1398276,5592580
+9ff4f6b1ee2aa1af,aristocratportaleffect_normal_dxt5.dds.header,Tiny.V8,12976245,1520
+973ec9243ba93839,aristocratportaleffect_colour_dxt5.dds,Streaming/Content/art/models/portals/aristocratportal/aristocratportal.fmt,0,5592580
+b6a63bfdabdfadf3,aristocratportaleffect_colour_dxt5.dds.header,Tiny.V3,12776701,1520

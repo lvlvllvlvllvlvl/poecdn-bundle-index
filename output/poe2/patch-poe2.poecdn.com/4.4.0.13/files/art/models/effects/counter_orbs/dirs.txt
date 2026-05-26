@@ -1,8 +1,0 @@
-atlasexiles
-atlasexiles/adjudicator
-dex
-elder
-inspiration
-int
-purple
-void

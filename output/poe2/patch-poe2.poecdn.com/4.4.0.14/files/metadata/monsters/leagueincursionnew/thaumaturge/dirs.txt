@@ -1,0 +1,13 @@
+boss
+boss/tier3
+boss/tier3/obects
+monsters
+monsters/gorechargerexperiment
+monsters/monkeyexperiment
+monsters/plaguemorphexperiment1
+monsters/plaguemorphexperiment2
+monsters/plaguemorphexperiment3
+monsters/plaguemorphexperiment4
+monsters/spittingsnakeexperiment
+monsters/vaalthaumaturgeclaws
+monsters/vaalthaumaturgespear

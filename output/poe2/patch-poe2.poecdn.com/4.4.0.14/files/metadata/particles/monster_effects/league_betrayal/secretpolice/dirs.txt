@@ -1,0 +1,7 @@
+chargedattack
+chargedattack/charge_up
+chargedattack/release_max
+chargedattack/shadow01
+daggerprojectile
+frostfury
+tasernet

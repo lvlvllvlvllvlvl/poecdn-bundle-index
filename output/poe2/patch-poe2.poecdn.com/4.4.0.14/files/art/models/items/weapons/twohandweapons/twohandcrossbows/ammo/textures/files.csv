@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+85cfc9833cf337c9,boltstandardc.mat,Tiny.V2,11234440,3252
+f05cdb5ad267c51c,boltstandard_metal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.attackdummyarrowed.ao,699236,699236
+a85b9f50142867e5,boltstandard_metal_dxt5.dds.header,Tiny.VA,11075985,840
+47e3c71cef3a1b15,boltstandard_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.attackdummyarrowed.ao,1398472,699236
+e3422f8f16811631,boltstandard_normal_dxt5.dds.header,Tiny.VA,11076825,840
+ee296f54c2c75911,boltstandard_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.attackdummyarrowed.ao,0,699236
+dc35231107999bfb,boltstandard_colour_dxt5.dds.header,Tiny.V7,11050483,840
+7bddabcaad105b4c,grenadec.mat,Tiny.VB,11132113,4192
+b6644449179b953e,grenade_glow_bc7.dds,Streaming/Content/metadata/effects/spells/crossbow_stungrenade/flash_grenade.ao,361928,349700
+03a9687f89cf0048,grenade_glow_bc7.dds.header,Tiny.V8,11030061,1520
+132d470feceee2ee,grenade_normal_bc7.dds,Streaming/Content/metadata/effects/spells/crossbow_stungrenade/flash_grenade.ao,711628,349700
+7c251ba8d438bb4f,grenade_normal_bc7.dds.header,Tiny.VD,10962829,1520
+207b8f48e3770afd,grenade_colour_bc7.dds,Streaming/Content/metadata/effects/spells/crossbow_stungrenade/flash_grenade.ao,12228,349700
+c766a641cf222dc1,grenade_colour_bc7.dds.header,Tiny.V3,11040113,1520

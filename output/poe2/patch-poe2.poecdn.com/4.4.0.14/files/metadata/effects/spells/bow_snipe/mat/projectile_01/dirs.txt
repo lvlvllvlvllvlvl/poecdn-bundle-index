@@ -1,0 +1,5 @@
+critical_impact_01
+critical_shot_01
+low_impact_01
+max_stages_impact_01
+medium_01

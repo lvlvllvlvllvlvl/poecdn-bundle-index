@@ -1,3 +1,0 @@
-mb
-mb/leap_impact
-textures

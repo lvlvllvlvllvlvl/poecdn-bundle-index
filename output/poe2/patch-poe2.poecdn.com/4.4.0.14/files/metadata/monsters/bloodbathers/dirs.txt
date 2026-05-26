@@ -1,0 +1,17 @@
+bloodbatherdualwield
+bloodbatherdualwield/attachments
+bloodbatherflail
+bloodbatherflail/attachments
+bloodbathermace
+bloodbathermace/attachments
+bloodbathershield
+bloodbathershield/attachments
+bloodbatherspear
+bloodbatherspear/attachments
+bloodbathersword
+bloodbathersword/attachments
+masks
+masks/attachments
+sunaura
+vaalapparition
+weapons

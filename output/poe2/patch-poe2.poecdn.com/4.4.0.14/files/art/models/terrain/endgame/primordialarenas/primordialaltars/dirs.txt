@@ -1,0 +1,4 @@
+vfx
+vfx/mb
+vfx/mb/mini_pulse
+vfx/textures

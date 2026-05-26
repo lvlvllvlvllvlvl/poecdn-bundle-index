@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+c9cdee2af3397543,bloodcsbloodsn.mat,Tiny.VF,36460638,5062
+f1841f9debe19a2d,bloodsnbloods.dds,Streaming/Content/metadata/projectiles/abyssbonehuskmortarobject.ot,420590,1398276
+68906e4e4b6885f1,bloodsnbloods.dds.header,Tiny.V8,36132811,1520
+7f0c6a5b3a9044a4,blood_colour.dds,Streaming/Content/metadata/projectiles/abyssbonehuskmortarobject.ot,70890,349700
+06d1190c6d8b931f,blood_colour.dds.header,Tiny.V8,36131291,1520
+be1500bbb9b06152,blood_normals_bc7.dds,Streaming/Content/metadata/effects/spells/monsters_effects/542F56B5A086A78E.ED93B2C1966D7550.peck_01_onact_spittle.pet,721420,1398276
+676cf86258594db0,blood_normals_bc7.dds.header,Tiny.VB,36786869,1520
+3acf333a53e19ab5,blood_splat_1cns.mat,Tiny.V7,36183983,3958
+a6197316be35dbd3,blood_splat_1ns.dds,Streaming/Content/metadata/effects/spells/monsters_effects/FAD2B4308B7A5474.90B1BF1A3D2E3C5B.skeletonmortar_impact.ao,349700,349700
+fca9f28b8bc4817d,blood_splat_1ns.dds.header,Tiny.V6,36300283,1520
+0ac1bd7f7eedf752,blood_splat_1_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/FAD2B4308B7A5474.90B1BF1A3D2E3C5B.skeletonmortar_impact.ao,0,349700
+4536d7ae14e99f09,blood_splat_1_colour.dds.header,Tiny.V7,36182463,1520
+a89d28580d80f932,blood_specular_bc1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/542F56B5A086A78E.709E3A22036B9211.onact_spittle.pet.1,22020,699212
+9082d72c0dfb6454,blood_specular_bc1.dds.header,Tiny.VD,36504755,1520
+49bee46c9af1727b,blood_specular_bc7premult.dds,Streaming/Content/metadata/effects/spells/monsters_effects/542F56B5A086A78E.ED93B2C1966D7550.peck_01_onact_spittle.pet,2119696,1398276
+643b0b4daece41ad,blood_specular_bc7premult.dds.header,Tiny.VC,36402853,1520

@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-c4fcc8b593d482da,smoke.mat,Tiny.VF,8272256,3014
-55a8864165a0bd16,trail_lit_tip.mat,Tiny.V1,8227132,4154
-3fbb1570bbe7b638,trail_lightning.mat,Tiny.V0,8406667,2294
-b448c42c4dd94e03,lightnings_thin.mat,Tiny.V1,8225114,2018
-6b95a6d183ac05a2,lightnings_small.mat,Tiny.V1,8220008,5106
-f3be6530d7b23a3d,lightnings_long.mat,Tiny.VD,8103813,4912
-48fa9a5ec804fd33,grad.mat,Tiny.V3,8237814,1538
-04ceccbcc54f9016,grad_sparks.mat,Tiny.VD,8102273,1540

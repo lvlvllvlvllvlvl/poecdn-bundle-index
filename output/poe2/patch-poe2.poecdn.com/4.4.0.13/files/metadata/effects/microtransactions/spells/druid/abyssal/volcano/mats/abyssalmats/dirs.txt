@@ -1,4 +1,0 @@
-volcanoeruption
-volcanoobject
-volcanoprojectile
-volcanoprojectileimpact

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+45d5a08bead1c63e,corec.mat,Tiny.VF,32143529,1054
+c1b2ec1c238649bb,tile_fire_001_mask_dxt1.dds,Streaming/Content/metadata/effects/spells/conduit_sigil/A51070A8BE5275C4.236DB81321E2A735.rig.ao,227266,174924
+5b59423d79710a57,tile_fire_001_mask_dxt1.dds.header,Tiny.V0,37781795,1520
+50ea8e4708d29efa,rune_stripc.mat,Tiny.V1,31871943,842
+62afdc732085f57b,rune_strip_dxt5.dds,Streaming/Content/metadata/effects/spells/conduit_sigil/A51070A8BE5275C4.236DB81321E2A735.rig.ao,52254,175012
+f008ed8b4414557e,rune_strip_dxt5.dds.header,Tiny.VB,32162666,344
+825851488e9b00be,lens_bokeh.mat,Tiny.VE,31661423,1742
+b5ec48c11b8e1bf7,lens_bokeh_dxt1.dds,Streaming/Content/metadata/particles/conduit_sigil/lightning/236DB81321E2A735.loop_midline.pet,0,43852
+8a3a744bd6372268,lens_bokeh_dxt1.dds.header,Tiny.V6,31812443,1520
+23bdb6f911c86479,shockwave_sphere.mat,Tiny.V4,32353339,1152
+0a7ba7732b8791b8,straight_lightning.mat,Tiny.V2,31880823,1014
+6189d5a1489d1e1c,straight_lightning_dxt1.dds,Streaming/Content/metadata/particles/conduit_sigil/lightning/236DB81321E2A735.loop_midline.pet,54936,174924
+ff5c2d60ac9c00cb,straight_lightning_dxt1.dds.header,Tiny.V4,32354491,1520
+794720a9f990fca0,flash.mat,Tiny.VA,32151737,1832
+981376065c81948f,flash_dxt1.dds,Streaming/Content/metadata/particles/conduit_sigil/lightning/236DB81321E2A735.loop_midline.pet,43852,11084
+7470db8a767349a1,flash_dxt1.dds.header,Tiny.V7,3289947,1520

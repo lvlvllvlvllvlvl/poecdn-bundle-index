@@ -1,4 +1,0 @@
-alive
-onact
-swamp_boulder
-swamp_pod

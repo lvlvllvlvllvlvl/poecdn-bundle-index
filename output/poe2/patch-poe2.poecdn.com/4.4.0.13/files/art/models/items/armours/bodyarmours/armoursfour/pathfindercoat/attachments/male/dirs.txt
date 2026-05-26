@@ -1,5 +1,0 @@
-horn
-skirt
-skirtstr
-threads
-threadsstr

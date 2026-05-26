@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+c579dd4ae5422654,line_spike.pet,Tiny.V1.1,29445920,6570
+cbae1197dfdd353d,rig_map.ao,Tiny.V7.1,31657322,276
+57b9e24501b85764,rig_map.aoc,Tiny.VF.1,32454648,13402
+c2771461e715c8b7,rig.ao,Tiny.V7.1,31657322,276
+938553a4063c2822,rig.aoc,Tiny.VC.1,34136314,13396
+a540532f534afecb,circle_loop.pet,Tiny.VE.1,33318772,2124
+b5162706184d6ac6,circle_openingexplode.pet,Tiny.VC.1,34132210,4104
+072ea930c9de572e,cyl_openingexplode.pet,Tiny.V3.1,31950280,4326
+f2565b9008002882,cyl_close.pet,Tiny.V1.1,29441600,4320
+298f1efc7fa2a029,mid_close.pet,Tiny.V1.1,29452490,4102
+936b6678f3279ba0,mid_loop.pet,Tiny.V9.1,33087528,2124
+3cba8c0aa754c227,mid_openexplode.pet,Tiny.V7.1,31647222,10100
+234886f7f3192e05,mid_opening.pet,Tiny.V6.1,32672090,2070
+240bb5aa8e8fe20d,mid_spikedown.pet,Tiny.V3.1,31954606,4236
+df434e7a4bfc7111,mid_spikeup.pet,Tiny.V8.1,31742504,2068

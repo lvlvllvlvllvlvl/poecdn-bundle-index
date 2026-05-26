@@ -1,0 +1,14 @@
+barbedspear
+boarspear
+broadspear
+crossbladespear
+elegantspear
+forkedspear
+hardwoodspear
+helixspear
+ironheadspear
+serratedspear
+swordspear
+textures
+warspear
+wingedspear

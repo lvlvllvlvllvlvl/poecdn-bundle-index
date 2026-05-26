@@ -1,0 +1,10 @@
+mb
+mb/cold_super_nova_projectiles
+mb/cold_super_nova_projectiles/animations
+mb/ice_breath
+textures
+textures/cold_super_nova_projectile
+textures/cold_super_nova_projectile/impact
+textures/icebreath
+textures/on_act
+textures/on_act/pillar_leap_01

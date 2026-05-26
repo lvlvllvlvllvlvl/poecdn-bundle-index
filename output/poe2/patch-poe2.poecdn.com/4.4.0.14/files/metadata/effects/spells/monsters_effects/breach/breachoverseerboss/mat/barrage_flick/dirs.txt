@@ -1,0 +1,6 @@
+flick
+flying
+impact
+loop
+rdy
+windup

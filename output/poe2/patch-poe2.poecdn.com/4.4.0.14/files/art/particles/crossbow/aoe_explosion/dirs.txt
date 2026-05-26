@@ -1,0 +1,6 @@
+cold
+cold/textures
+fire
+fire/textures
+phys
+phys/textures

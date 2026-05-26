@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+0823210ff9f158bf,wolpertiger_pet02cns.mat,Tiny.V4,46873301,2020
+5c618142d9f8d31f,wolpertiger_pet02ns.dds,Streaming/Content/art/models/pet/wolpertiger_pet02/wolpertiger_pet02.fmt,174924,349700
+fa134c8704f5d0f6,wolpertiger_pet02ns.dds.header,Tiny.VA,46344949,1520
+8271937a9562b03d,wolpertiger_pet02_colour.dds,Streaming/Content/art/models/pet/wolpertiger_pet02/wolpertiger_pet02.fmt,0,174924
+3350264863cd6271,wolpertiger_pet02_colour.dds.header,Tiny.VB,46415829,1520
+99eca1229490f515,carrotcns.mat,Tiny.V3,45684158,3044
+32fafcd88d1ee5ba,carrotns.dds,Streaming/Content/metadata/pet/wolpertinger/gruntingwolpertinger.ot,387126,43876
+aa81db957f573ac4,carrotns.dds.header,Tiny.V8,45748891,840
+7f2d43f03ec1699e,carrot_colour.dds,Streaming/Content/metadata/pet/wolpertinger/gruntingwolpertinger.ot,343250,43876
+366ac31f2f86a689,carrot_colour.dds.header,Tiny.V6,46311670,840

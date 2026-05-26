@@ -1,4 +1,0 @@
-door1
-door1/attachments
-door2
-door2/attachments

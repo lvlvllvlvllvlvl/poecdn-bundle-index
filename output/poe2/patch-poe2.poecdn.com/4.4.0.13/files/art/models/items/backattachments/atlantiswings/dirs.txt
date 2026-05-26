@@ -1,6 +1,0 @@
-attachments
-attachments/l_wing_tubes
-attachments/middle_tubes
-attachments/r_wing_tubes
-fx
-textures

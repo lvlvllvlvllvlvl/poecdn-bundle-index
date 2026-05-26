@@ -1,6 +1,0 @@
-attachments
-attachments/beltcloth
-attachments/scarf
-attachments/skirt
-attachments/sleeve
-textures

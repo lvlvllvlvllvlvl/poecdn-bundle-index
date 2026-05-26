@@ -1,3 +1,0 @@
-buff_tower_beam
-projectile
-teleport

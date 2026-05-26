@@ -1,5 +1,0 @@
-graphs
-rooms
-tiles
-tiles/boarder
-tiles/extrafeatures

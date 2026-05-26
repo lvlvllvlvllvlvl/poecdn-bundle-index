@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+6d50fb7dcdb65886,shimmer_wave_r.mat,Tiny.VF.1,41885830,23554
+e4dc4b6571753f45,shimmer_wave_u.mat,Tiny.VE.1,1562868,310
+89c72f9dee724d1b,charge_ring_r.mat,Tiny.V5.1,40625000,37314
+04ec0dbff460f7d0,charge_ring_u.mat,Tiny.VE.1,1562868,310
+087b126165425b38,impactwave_r.mat,Tiny.V8.1,51518730,42842
+c775f9b3ff7208a9,impactwave_u.mat,Tiny.V0.1,3403672,302
+cc104e561ae1aba9,impactsmokewave_r.mat,Tiny.VE.1,42628972,31898
+4fd16670067b7587,impactsmokewave_u.mat,Tiny.VE.1,1562868,310
+d2920a5677511d8e,bluroomph_r.mat,Tiny.V3.1,41180366,10232
+1d98b4e2a0e476ca,bluroomph_u.mat,Tiny.V0.1,3403672,302

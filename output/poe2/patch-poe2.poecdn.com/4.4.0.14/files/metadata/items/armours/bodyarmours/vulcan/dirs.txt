@@ -1,0 +1,6 @@
+attachments
+attachments/malerobe
+attachments/robedex
+attachments/robeint
+fx
+fx/pet

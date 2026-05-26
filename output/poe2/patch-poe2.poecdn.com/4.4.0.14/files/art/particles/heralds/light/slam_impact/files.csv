@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+2a82e96b1cad1521,yellow_fw.mat,Tiny.V5,32542964,1294
+b0449b56527d314c,yellow_fw.dds,Streaming/Content/metadata/particles/herald/agony/C90822070AA82F11.E950CDD28071339E.fadeout_impact_midup.pet,230048,87556
+e26ed9bbe06dd3c8,yellow_fw.dds.header,Tiny.V9,6200361,1520
+2b68f11bd2a251e2,main_rune_edgeglow.mat,Tiny.VC,33066047,1204
+e079b3c45b05cb51,main_rune_edgeglow.dds,Streaming/Content/metadata/particles/herald/agony/C90822070AA82F11.E950CDD28071339E.fadeout_impact_midup.pet,186196,43852
+9195526ff84fd261,main_rune_edgeglow.dds.header,Tiny.VE,32568442,1520
+d63b113a2b01af23,crack_01.mat,Tiny.V6,32777964,1550
+49d67f1b6de8e613,crack_01.dds,Streaming/Content/metadata/particles/herald/agony/C90822070AA82F11.E950CDD28071339E.fadeout_impact_midup.pet,98640,87556
+97d5cf5b3f9eb485,crack_01.dds.header,Tiny.V2,32854460,1520
+878f8f903a84ba59,light_gradient.mat,Tiny.VE,32567000,1442
+bc402d5b9474c270,light_gradient.dds,Tiny.V5,32540072,2892
+9e8b57e642c3f055,light_gradient.dds.header,Tiny.V8,32666100,1520
+dc0963c191c97bb7,light_grad_hori.mat,Tiny.VD,33119427,1186
+0061a21196debe0e,light_grad_hori.dds,Tiny.V8,32663208,2892
+273e698d0611fd23,light_grad_hori.dds.header,Tiny.V7,32771442,1520

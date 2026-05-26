@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+7182520e32b88cba,lightning_blur_r.mat,Tiny.V0.1,28050278,13424
+70e0e6d38dbfddd8,lightning_blur_u.mat,Tiny.V0.1,11939982,338
+60949a8d4dbcacc0,lightning_flash_r.mat,Tiny.V9.1,26434104,19348
+18da2f28a9c53d33,lightning_flash_u.mat,Tiny.VD,50518121,346
+838ada69a2d3cd9a,lightning_dropbolt_r.mat,Tiny.V5.1,25558414,28320
+6a2d3970e3b6726f,lightning_dropbolt_u.mat,Tiny.V2.1,26219018,4616
+2641670dcb26b47f,lightning_sparks_r.mat,Tiny.V9.1,26453452,31882
+1380569a929f6236,lightning_sparks_u.mat,Tiny.V6.1,26267952,18384
+c98fe855a483b2c6,lightning_caustics_r.mat,Tiny.V0.1,28063702,7776
+b725fffdcefc6af3,lightning_caustics_u.mat,Tiny.VD,50518121,346
+05236ff778b6b8ba,lightning_ring_0_r.mat,Tiny.V5.1,25586734,42896
+a0dfbd17af5752d2,lightning_ring_shimmer_r.mat,Tiny.V7.1,25356492,25754
+e0c2e454c2de3cf1,lightning_ring_u.mat,Tiny.V7.1,25382246,2208

@@ -1,0 +1,14 @@
+act1town
+act1town/gate
+act1town/lumbermillgate
+act1town/textures
+act1town/textures/cliffs
+act1town/textures/lumbermill
+act1town/tgms
+act3town
+act3town/tgms
+doodads
+doodads/deliriumglassshards
+doodads/deliriumglassshards/textures
+doodads/deliriumtangmazumirror
+doodads/deliriumtangmazumirror/textures

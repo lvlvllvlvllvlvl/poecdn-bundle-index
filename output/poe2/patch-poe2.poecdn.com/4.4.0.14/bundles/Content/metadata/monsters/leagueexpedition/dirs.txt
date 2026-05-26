@@ -1,0 +1,5 @@
+apparitionboss
+npc
+olroth
+reaperboss
+reaperboss/objects

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+2e5fb0ce7d1f20eb,noise_01_dxt5.dds,Streaming/Shared/Super/Shared.1,3454668,349700
+2b135a1de2ba0da2,noise_01_dxt5.dds.header,Tiny.V1,38496140,1520
+fbe3acbc74319d2d,firey_flare.mat,Tiny.V2,32790280,992
+db2644ba735332f8,firey_flare.dds,Streaming/Content/metadata/particles/generic_projectiles/impacts/impactpoison.pet,590872,87556
+e6a78d1e6adfe728,firey_flare.dds.header,Tiny.V2,32788760,1520
+5383e07aa03f1bb2,blood_trail.mat,Tiny.VB,33058968,1404
+823b96eeca99a5e3,blood_trail.dds,Streaming/Content/metadata/particles/generic_projectiles/genericfire.pet,109576,174948
+cf666c2e41330220,blood_trail.dds.header,Tiny.V0,5770594,840
+2d5dfb79e7189095,blood_drops.mat,Tiny.V8,32585462,1302
+d9e15229ad65bd77,blood_drops.dds,Streaming/Content/metadata/particles/generic_projectiles/impacts/impactpoison.pet,568852,22020
+77876d48f30c77d7,blood_drops.dds.header,Tiny.V3,31354423,1520
+59bc20ba00e7368e,blood_drip.mat,Tiny.V2,32786488,2272
+2c4fc11ea919e4bd,blood_drip.dds,Streaming/Content/metadata/particles/generic_projectiles/impacts/impactpoison.pet,546832,22020
+02e65f39acd9ba99,blood_drip.dds.header,Tiny.VD,37922854,1520

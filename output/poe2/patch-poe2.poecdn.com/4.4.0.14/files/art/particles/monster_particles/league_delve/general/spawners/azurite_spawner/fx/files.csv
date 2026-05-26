@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+b9cc86d77103b0ce,mask_splat.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/7F62BF4A12CB1319.4230441664DE5D90.wave_trail.trl,755899,22020
+c0beb664fac5572f,mask_splat.dds.header,Tiny.V5,36530286,1520
+318ae21635512a5d,azurite_adda.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/7F62BF4A12CB1319.4230441664DE5D90.wave_trail.trl,580787,87556
+88c1874c7666173c,azurite_adda.dds.header,Tiny.V5,36522476,1520
+ae8e672142e36fed,azurite_colour.mat,Tiny.V1,36788722,5776
+432ed41333d0bb51,azurite_colour.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/7F62BF4A12CB1319.4230441664DE5D90.wave_trail.trl,668343,87556
+6ae3e49b0a1f2447,azurite_colour.dds.header,Tiny.V1,36787202,1520
+271161d4e1c36442,azurite_spark.mat,Tiny.VF,37007003,1808
+6d049f25af710713,azurite_spark.dds,Tiny.VA,3823212,1572
+ea8b78ef2de75226,azurite_spark.dds.header,Tiny.V3,3727803,504
+e7494c4005ee246b,smoke_wisp.mat,Tiny.V6,36858958,2120
+2af1bdce00105f12,smoke_wisp.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/7C1DF2A173DEFEC3.submerge.pet,486744,11084
+af9de94a8fa1ef40,smoke_wisp.dds.header,Tiny.VA,37264220,1520

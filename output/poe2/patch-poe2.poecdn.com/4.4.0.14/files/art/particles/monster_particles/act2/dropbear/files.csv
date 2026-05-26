@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+2162e09f9b40992e,2_leaves.mat,Tiny.V5,33291748,1042
+71a5349246131140,2_leaves.dds,Streaming/Content/metadata/particles/monster_effects/94C001EECBAC1020.azurite_energy_trail.trl,634616,43876
+52fe50dd1279caaa,2_leaves.dds.header,Tiny.V8,33381666,840
+fa295a307ea64e0e,middle_detail.mat,Tiny.V3,33237911,2598
+a0321cbefbea38ac,middle_detail.dds,Streaming/Content/metadata/particles/monster_effects/94C001EECBAC1020.azurite_energy_trail.trl,568720,22020
+64eb3e618993ac76,middle_detail.dds.header,Tiny.V1,4942544,1520
+d8489a5313c5048a,tornado_outerc.mat,Tiny.V1,33619998,2576
+56cf545331ec8ce3,tornado_outer.dds,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.D11E8DA3441D7726.cyclone.ao.1,300462,87588
+ea9e6f24473ffe3e,tornado_outer.dds.header,Tiny.VF,33751240,504
+0e0e629dcd0014a9,edge_spherec.mat,Tiny.V7,33449890,2224
+3109773428ce98f5,edge_sphere.dds,Tiny.VF,33749700,1540
+0621957156e9f0d9,edge_sphere.dds.header,Tiny.V0,33963587,1520

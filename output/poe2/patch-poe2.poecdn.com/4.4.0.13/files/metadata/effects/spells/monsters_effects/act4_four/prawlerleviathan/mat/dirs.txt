@@ -1,2 +1,0 @@
-footsteps
-melee_swipe

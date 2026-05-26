@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+17b58267d44eb80e,mudpool.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/D2D05496620B1656.4E61622EA3B96841.mudpile.pet,0,50442
+7c5ab9dfc4c11121,mudpool.fmt.header,Tiny.V2,33506303,222
+fb6cce1e32908912,rig_b7525c11.smd,Streaming/Content/metadata/effects/microtransactions/on_kill/DE4DA89F2238505E.1F35E63A751D6E18.blood_impact.epk,477057,19435
+70a20bc826a3bc49,rig_b7525c11.smd.header,Tiny.V7,33404770,448
+ee4c46ddb55fa07f,guillotineweaponspecularc.mat,Tiny.VC,33757313,3688
+6e2735ee34d8ac30,guillotineweapon_shatter.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.C842586D0E8ABAAF.nova_ptemit.pet,885408,192268
+535b2b2e514b7340,guillotineweapon_shatter.fmt.header,Tiny.V6,33472323,233
+d947f86aa52fc70b,guillotinedrop.sm,Tiny.VE,33277337,578
+9b10fc55b2c1dfd0,guillotinedrop.amd,Tiny.VB,33905096,102
+8b93f67eecaba414,guillotinedrop.ast,Tiny.V1,33603071,648

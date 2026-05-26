@@ -1,2 +1,0 @@
-combo_01
-throw_01

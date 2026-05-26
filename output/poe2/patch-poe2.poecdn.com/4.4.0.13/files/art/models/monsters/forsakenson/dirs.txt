@@ -1,6 +1,0 @@
-attachments
-attachments/forsakensonreskin
-attachments/forsakensonreskin/drapery
-attachments/forsakensonreskin/skirt
-attachments/shatteredcenser
-textures

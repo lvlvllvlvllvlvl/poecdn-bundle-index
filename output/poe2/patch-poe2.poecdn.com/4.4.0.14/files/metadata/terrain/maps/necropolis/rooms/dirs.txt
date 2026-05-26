@@ -1,0 +1,7 @@
+fill
+impassable
+ledge
+road
+thickwall
+thinwall
+unique

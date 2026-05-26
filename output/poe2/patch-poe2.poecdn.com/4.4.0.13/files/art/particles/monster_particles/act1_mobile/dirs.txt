@@ -1,9 +1,0 @@
-tenderizer
-tenderizer/mb
-tenderizer/mb/on_act
-tenderizer/mb/on_act/corpseboom
-tenderizer/mb/on_act/groundslam
-tenderizer/textures
-tenderizer/textures/on_act
-tenderizer/textures/on_act/bloodboom
-tenderizer/textures/on_act/groundslam

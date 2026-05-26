@@ -1,4 +1,0 @@
-blackstrider
-blackstrider/textures
-meleespider
-spidersabre

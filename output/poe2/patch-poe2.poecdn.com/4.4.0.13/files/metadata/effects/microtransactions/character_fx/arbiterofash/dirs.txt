@@ -1,9 +1,0 @@
-epk
-fx
-mat
-mat/char_fx_01
-mat/char_fx_02
-mat/char_fx_03
-mat/char_wings_purple_fx
-mat/char_wings_red_fx
-mat/char_wings_white_fx

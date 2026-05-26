@@ -1,0 +1,6 @@
+attachments
+vfx
+vfx/fx
+vfx/fx/kalguuranrowboat
+vfx/mat
+vfx/mat/kalguuranrowboat

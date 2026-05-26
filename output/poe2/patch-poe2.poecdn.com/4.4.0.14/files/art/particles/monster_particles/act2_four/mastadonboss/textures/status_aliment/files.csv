@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+e4e0c549fc282613,shockdebuff_skin.mat,Tiny.VF,33889306,766
+fe32baa14798a3c9,shocklightning_render.mat,Tiny.V4,34188303,12266
+61f01414fd835e0b,shocklightning_update.mat,Tiny.V1,33752108,678
+3a814c21a4e112ec,shocklightningstart_render.mat,Tiny.VB,34092068,11154
+c3ee43c67e0f7f1d,shocklightningstart_glow_render.mat,Tiny.V0,34110630,6386
+3eaac8107342f20a,shocklightningstart_update.mat,Tiny.VD,33984333,1118

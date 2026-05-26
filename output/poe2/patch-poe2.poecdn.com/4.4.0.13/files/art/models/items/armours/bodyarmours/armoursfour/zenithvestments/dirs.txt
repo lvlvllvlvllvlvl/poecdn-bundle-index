@@ -1,9 +1,0 @@
-attachments
-attachments/l_sleeve
-attachments/r_sleeve
-attachments/skirt
-attachments/skirt/f
-attachments/skirt/m
-attachments/skirt/m/str
-attachments/skirt/m/strdex_dexint_strint
-textures

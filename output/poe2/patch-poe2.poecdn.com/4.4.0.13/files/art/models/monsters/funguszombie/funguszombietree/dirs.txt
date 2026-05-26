@@ -1,3 +1,0 @@
-l_clavicle
-r_clavicle
-r_shoulder

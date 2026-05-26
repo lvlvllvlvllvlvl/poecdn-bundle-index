@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-1535031f54fa0d5e,grayscaleattachment_ao_pass0.mat,Tiny.VD,52720753,1504
-4bb7f61bb6155b64,grayscalepostprocessing.fxgraph,Folders/metadata/characters.1,226134,71470
-9907247f3c516213,fogattachment_ao_pass0.mat,Tiny.V4.1,2351048,2140
-822dbdd17948781c,fogattachment.ao,Tiny.VF.1,121516,314
-f000a48644697307,fogattachment.aoc,Tiny.V3,53320515,1496
-c4f65ed63d4eeaa2,afflictionscreenspacefog.fxgraph,Folders/metadata/characters.1,185154,40980
-55ed00fce0384f8b,ashes.ao,Tiny.VD,52720311,442
-96ba10eb0471240a,ashes.aoc,Tiny.V4.1,2349130,1918

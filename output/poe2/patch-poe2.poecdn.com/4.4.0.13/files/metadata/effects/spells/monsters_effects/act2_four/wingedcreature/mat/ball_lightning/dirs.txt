@@ -1,4 +1,0 @@
-ball_idle
-ball_start
-buildup
-muzzle

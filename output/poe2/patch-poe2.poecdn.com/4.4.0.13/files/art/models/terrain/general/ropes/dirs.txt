@@ -1,2 +1,0 @@
-shipropebundles
-shipropebundles/textures

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+021ad8ca9addbcfc,basegrenade.ao,Tiny.V3.1,7418506,80
+5c44d082ca9112b3,basegrenade.aoc,Tiny.VB.1,45654968,496
+8001eaddf5d11cfd,secondary_explode.ao,Tiny.V4.1,102880452,416
+0c4973ea786d0757,secondary_explode.aoc,Tiny.V0.1,49825168,1946
+e4e0bb1f47930c1e,secondary_grenade.ao,Tiny.V0.1,49827114,406
+8d6ab6b93eb6a6d1,secondary_grenade.aoc,Tiny.V6.1,48292364,2408
+5d029244fa122911,main_grenade.ao,Tiny.VC.1,48494716,662
+d96f7f49c1260104,main_grenade.aoc,Tiny.V4.1,50679970,2882
+0f86e1dc2a86f256,main_explode.ao,Tiny.V4.1,102880452,416
+f10999685e8d7a77,main_explode.aoc,Tiny.VA.1,44923598,2330

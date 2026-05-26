@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+2863975195afd9f0,entrance_01.arm,Content/data/balance/worldareas/mapwetlands.vworld,728907,7994
+b25428f5911a0b12,no_boss_01.arm,Content/data/balance/worldareas/mapwetlands.vworld,751975,4156
+9758eb5bb045b8cc,outer_boss_01.arm,Content/data/balance/worldareas/mapwetlands.vworld,756131,23382
+a797ff95514bc26e,checkpoint_01.arm,Content/data/balance/worldareas/mapwetlands.vworld,709995,5360
+5c005e3adf0bc49c,checkpoint_02.arm,Content/data/balance/worldareas/mapwetlands.vworld,715355,4460
+66bfe96cf899f3f3,checkpoint_03.arm,Content/data/balance/worldareas/mapwetlands.vworld,719815,4372
+85d017741bb7178a,checkpoint_04.arm,Content/data/balance/worldareas/mapwetlands.vworld,724187,4720
+c29e0db693c889f6,rare_block_01.arm,Content/data/balance/worldareas/mapwetlands.vworld,779513,5430
+2736a892158840cb,rare_cv_01.arm,Content/data/balance/worldareas/mapwetlands.vworld,784943,5002
+968700b904125a62,rare_cv_02.arm,Content/data/balance/worldareas/mapwetlands.vworld,789945,4766
+ab0d7fca67bb1289,mission_outer_01.arm,Content/data/balance/worldareas/mapwetlands.vworld,741017,6458
+9771c3a8d2b67dd7,mission_outer_02.arm,Content/data/balance/worldareas/mapwetlands.vworld,747475,4500
+381648137c2db140,mission_inner_01.arm,Tiny.V8.1,149743473,4044
+e03e96ccdf53eaa1,mission_inner_02.arm,Tiny.V7.1,151060834,4046
+7594c97cf6d4e852,mission_inner_03.arm,Content/data/balance/worldareas/mapwetlands.vworld,736901,4116

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+c07c2f8c8da20094,mesh_blood.mat,Tiny.VE,35410661,4828
+5400b1e01c5ac9e6,wave_cyl.mat,Tiny.VA,36093853,7440
+32c3989ac8991417,trail_multi.mat,Tiny.VB,36248695,1550
+4f123b062f520607,tail_trail.mat,Tiny.VD,35989508,2466
+ed9b4e646e819935,blood_drip.mat,Tiny.VF,37713918,1894
+3ebf23557df7baa7,blood_nmlao_dxt5.dds,Streaming/Shared/High/Shared,1832309,1398276
+33b2c611690595ab,blood_nmlao_dxt5.dds.header,Tiny.V4,33065266,1520
+9ec656132934f74d,blood_clr_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/F50EB9A78F6C03E1.6B49A9722F9616B8.rig.ao,28068,1398276
+0cd62ab6a6a2e279,blood_clr_dxt5.dds.header,Tiny.V4,36161163,1520

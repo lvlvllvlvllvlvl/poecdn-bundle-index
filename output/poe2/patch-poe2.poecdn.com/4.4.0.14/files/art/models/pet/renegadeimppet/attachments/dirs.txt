@@ -1,0 +1,3 @@
+currency
+l_thigh
+robe

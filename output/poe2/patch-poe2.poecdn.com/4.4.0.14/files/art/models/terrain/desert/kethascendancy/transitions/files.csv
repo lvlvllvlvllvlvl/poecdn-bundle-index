@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+8815b24fd9b82a4c,grandentrance.tgt,Content/data/balance/worldareas/mapicecave.vworld,1260140,7430
+d5540634c31228ab,doorblockage01.fmt,Streaming/Content/data/worldareas/sanctum_3_foyer_2.vworld.5,0,53426
+f1789a470ae5bce1,doorblockage01.fmt.header,Tiny.V8,14834986,228
+1fd77cfbabf0b096,doorblockage02.fmt,Streaming/Content/metadata/terrain/doodads/desert/36971E1F3911743C.barrelclustermedium02.ao,351950,62554
+d81edb84011c0558,doorblockage02.fmt.header,Tiny.V4,15061235,228
+20f0ce858745104b,doorblockage03.fmt,Streaming/Content/data/worldareas/sanctum_3_foyer_2.vworld.5,53426,70918
+2dfb97d5d8380aea,doorblockage03.fmt.header,Tiny.VD,14482456,499
+209b7fba5abcf009,level03tolevel03_01.tgt,Tiny.V7,14733114,2150
+cb41e7c5c1e24b7b,level2tolevel3new.tgt,Content/metadata/pet/origamipet/origamivulture.ao,598074,6776
+08e7b1b606c5449c,level2tolevel3.tgt,Content/metadata/pet/origamipet/origamivulture.ao,593014,5060
+be19bd9aac7ff5f9,level1doors.tgt,Content/data/balance/worldareas/sanctum_1_foyer_2.vworld,1454244,7748
+9394327692bbdea2,level1tolevel2.tgt,Content/data/balance/worldareas/sanctum_1_foyer_2.vworld,1461992,5090
+332a998fdeb5cd4c,level1tolevel2.tmd,Tiny.VB,14709331,704

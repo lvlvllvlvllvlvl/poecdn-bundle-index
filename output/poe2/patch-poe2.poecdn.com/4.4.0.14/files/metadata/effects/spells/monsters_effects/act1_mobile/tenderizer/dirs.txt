@@ -1,0 +1,5 @@
+ao
+pet
+pet/on_act
+pet/on_act/corpseboom
+pet/on_act/ground_slam

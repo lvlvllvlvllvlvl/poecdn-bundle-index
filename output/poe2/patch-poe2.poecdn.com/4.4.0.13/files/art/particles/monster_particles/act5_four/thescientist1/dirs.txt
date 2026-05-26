@@ -1,4 +1,0 @@
-mb
-mb/orb_storm
-mb/projectile
-texture

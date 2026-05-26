@@ -1,3 +1,0 @@
-gold
-gold/mb
-gold/textures

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+ab446de55a085469,neuron_03_8x8_overseer.mat,Tiny.V8,6868432,6004
+14c997eb2f25e43d,circle_flare.mat,Tiny.V5,6942380,2750
+a3a705fb06b928b4,energy_streaks.mat,Tiny.V4,7093011,4862
+51a13b2d951082ef,grad_ring.mat,Tiny.VE,6960767,2250
+35bf947753fea30d,gradf.mat,Tiny.VC,6954416,2012
+a86b639410a2d3c1,sparks.mat,Tiny.VD,6820411,1886
+297e7c94bddadb50,shockwave.mat,Tiny.V6,6984769,5120
+9664aad0b1de70ef,shockwaves_cleave2.mat,Tiny.VF,6974117,4010
+137eacea5cf4d835,shockwaves_cleave.mat,Tiny.V8,6874436,5424
+065ac4da97811de1,surge_small.mat,Tiny.V2,7226389,5914
+903ef12153dd2b84,surge_biggest.mat,Tiny.VA,7065757,7450
+3fa3fb965853521b,surge_big.mat,Tiny.V8,6879860,6234

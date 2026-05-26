@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+cee97a86b56ea697,wingedrhoa.sm,Tiny.V2,12372461,3968
+7c96742b1a040525,wingedrhoa_armour_703f8258.smd,Streaming/Content/metadata/monsters/rhoas/winged/wingedrhoa.ot.2,2796364,206653
+622e6b7d927ec59d,wingedrhoa_armour_703f8258.smd.header,Content/metadata/monsters/vaalmonsters/vipernapuatzi/vipernapuatziazmeri.ao,470724,4131
+95e5627fed3216e6,cartrhoa.sm,Tiny.V6,12214688,3940
+e6b952495129a1b8,cartrhoa_armour_5199c137.smd,Streaming/Content/data/worldareas/25/g1_11.vworld,0,263815
+51e5854a6d8b0612,cartrhoa_armour_5199c137.smd.header,Content/metadata/monsters/vaalmonsters/vipernapuatzi/vipernapuatziazmeri.ao,485040,4412
+ffe48ba7073d1284,cartrhoanophys.sm,Tiny.V2,12365993,3952
+8b77cec7154ff985,cartrhoanophys_armour_2d1c379d.smd,Streaming/Content/data/worldareas/D3/g1_11.vworld,0,259723
+135a72a5a166d27d,cartrhoanophys_armour_2d1c379d.smd.header,Tiny.V9,12377102,448
+c4cb0bd56b5799cd,rig.amd,Content/metadata/terrain/gallows/act2/2_town/DFB0A6340C2D948C.cartrhoanophys_rider.ao,0,4958
+2fd67c9e694ed0b2,rig.ast,Content/metadata/terrain/gallows/act2/2_town/DFB0A6340C2D948C.cartrhoanophys_rider.ao,4958,311914
+8dac259c9fb947e9,ritualrhoa.sm,Tiny.V1,12105603,3986
+79a147bdf4b2819a,ritualrhoa_armour_5d689777.smd,Streaming/Content/data/balance/worldareas/p2_3.vworld.1,129953,304899
+cf314011beb8b716,ritualrhoa_armour_5d689777.smd.header,Content/data/balance/worldareas/null.vworld.1,24027394,6378

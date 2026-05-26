@@ -1,0 +1,6 @@
+banshee
+banshee/bat_screech
+epic_screech
+stone_pillar
+stone_pillar/spellcast
+stone_pillar/spellcast/enfeeble

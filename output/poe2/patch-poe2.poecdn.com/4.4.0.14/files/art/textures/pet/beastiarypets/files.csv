@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+e9bdaaff516f43c6,beastpetcns.mat,Tiny.V1,45812725,3248
+03e0edb8ff958990,beastpetns.dds,Streaming/Content/art/models/pet/beastbaby/beastpet.fmt,2097488,1398276
+2b08e6e7ced24525,beastpetns.dds.header,Tiny.VB,46246715,1520
+50e1df7e3203b0f5,beastpet_flow.dds,Streaming/Content/art/models/pet/beastbaby/beastpet.fmt,699212,1398276
+7fd87c7eba3a09c1,beastpet_flow.dds.header,Tiny.V3,45485340,1520
+7c884caed03050c8,beastpet_colour.dds,Streaming/Content/art/models/pet/beastbaby/beastpet.fmt,0,699212
+936bceaeabf52821,beastpet_colour.dds.header,Tiny.V3,45483820,1520
+faa4cab763ee6c04,goatpetcns.mat,Tiny.VA,46173483,3548
+208989ace10b574b,goatpetns.dds,Streaming/Content/metadata/pet/goatman/goatman.ao.1,0,1398276
+58c234ea745f4994,goatpetns.dds.header,Tiny.V9,46693169,1520
+11cfa4f546f5d930,goatpet_flowmap.dds,Streaming/Content/metadata/pet/goatman/goatman.ao,1481492,1398276
+15b4e3f7bb5442c5,goatpet_flowmap.dds.header,Tiny.V0,46411083,1520
+05e978e9e5054814,goatpet_colour.dds,Streaming/Content/metadata/pet/goatman/goatman.ao,83216,1398276
+422291a21cc7b7a6,goatpet_colour.dds.header,Tiny.V0,46409563,1520

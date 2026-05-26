@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+1eaf89baefe07610,expeditiondeathknight.mat,Tiny.V5,11439424,5600
+fd6818763aacdce7,expeditiondeathknight_glowgray_dxt1.dds,Streaming/Content/data/balance/worldareas/g2_1.vworld,403627,43852
+d4f473dd8de994e8,expeditiondeathknight_glowgray_dxt1.dds.header,Tiny.VF,11720139,1520
+b83b8a1fa0d79612,expeditiondeathknight_normal_dxt5.dds,Streaming/Content/data/balance/worldareas/E5/null.vworld,0,5592580
+d9e7a14431225920,expeditiondeathknight_normal_dxt5.dds.header,Tiny.VA,11645042,1520
+254bb547e331ea9f,expeditiondeathknight_metal_dxt1.dds,Streaming/Content/data/worldareas/3B/null.vworld,0,2796364
+6e7338deaf7b2417,expeditiondeathknight_metal_dxt1.dds.header,Tiny.VD,11546406,1520
+80fb10a0b2773d3e,expeditiondeathknight_colour_dxt1.dds,Streaming/Content/data/worldareas/0D/null.vworld,0,2796364
+dbfaf0fb13f972ca,expeditiondeathknight_colour_dxt1.dds.header,Tiny.VF,11718619,1520
+e4d7c861817567dc,deathknightmaulc.mat,Tiny.V8,11573815,6256
+013323c471643684,deathknightmaul_glowgray_dxt5.dds,Streaming/Content/metadata/monsters/marakethsanctumtrial/boss/D9C7C7673D6E4B8D.sentinelmacebossweaponheld.ao,159087,22020
+245cb31cf36fd135,deathknightmaul_glowgray_dxt5.dds.header,Tiny.V2,37809274,1520
+794eb95d4d5a0b6d,deathknightmaul_normal_dxt5.dds,Streaming/Content/metadata/monsters/marakethsanctumtrial/boss/D9C7C7673D6E4B8D.sentinelmacebossweaponheld.ao,181107,87556
+5cef11c12508c11f,deathknightmaul_normal_dxt5.dds.header,Tiny.V3,37305171,1520
+ad6b6677b9cc6c3a,deathknightmaul_colour_dxt5.dds,Streaming/Content/metadata/monsters/marakethsanctumtrial/boss/D9C7C7673D6E4B8D.sentinelmacebossweaponheld.ao,71531,87556
+3328430f904ee67c,deathknightmaul_colour_dxt5.dds.header,Tiny.V7,37752912,1520

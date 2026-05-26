@@ -1,0 +1,8 @@
+fire
+fire/explode
+ice
+ice/explode
+lightning
+lightning/explode
+phys
+phys/explode

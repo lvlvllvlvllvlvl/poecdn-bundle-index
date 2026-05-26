@@ -1,3 +1,0 @@
-attachments
-cutscene
-cutscene/attachments

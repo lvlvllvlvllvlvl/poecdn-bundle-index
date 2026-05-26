@@ -1,4 +1,0 @@
-attachments
-attachments/headshatter
-attachments/vaalstonesentinelrobe
-textures

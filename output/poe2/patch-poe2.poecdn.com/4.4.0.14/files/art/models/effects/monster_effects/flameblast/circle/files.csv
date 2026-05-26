@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+ae42282a8ad6972b,rig_cfd8473e.smd,Streaming/Content/metadata/effects/spells/monsters_effects/4C6BA7B1F53821F3.flameblast_target.ao,0,91239
+78143f0202c38e14,rig_cfd8473e.smd.header,Tiny.VF,7325784,446
+3e5dd9ed42c215fd,flameblasttarget.sm,Tiny.VC,7244237,1414
+0710606ab7ba9ca7,flameblasttarget.amd,Tiny.V2,16561836,110
+c8721ec655247a75,flameblasttarget.ast,Tiny.VD,7134018,585

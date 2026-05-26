@@ -1,9 +1,0 @@
-barrage_lightning
-barrage_throw_projectile
-barrageimpact
-barragemarker
-barrageprojectile
-lightningbarrage_cone
-lightningbarrage_onactbuild
-lightningbarrage_onactimpact
-stab

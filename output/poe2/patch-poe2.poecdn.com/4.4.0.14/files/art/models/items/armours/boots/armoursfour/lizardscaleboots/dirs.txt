@@ -1,0 +1,4 @@
+attachments
+attachments/feathers
+attachments/feathers_dexint
+textures

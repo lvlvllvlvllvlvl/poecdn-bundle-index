@@ -1,4 +1,0 @@
-badlands
-badlands/spiral_trail
-karui
-karui/spiral_trail

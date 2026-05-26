@@ -1,7 +1,0 @@
-orb
-orb/ball
-orb/bolt
-stormcall
-stormcall/idle
-stormcall/idle_pulse
-stormcall/impact

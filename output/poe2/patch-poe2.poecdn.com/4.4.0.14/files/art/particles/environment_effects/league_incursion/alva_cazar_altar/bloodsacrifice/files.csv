@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+e4dc254b0d348c82,alpha_mask.dds,Streaming/Content/metadata/particles/enviro_effects/water_splash/knee_cyl.pet,482360,22020
+6ec019bbafc4204e,alpha_mask.dds.header,Tiny.V6,37184208,1520
+baf75f60ea6e6770,blood_splatter_01.mat,Tiny.VF,32674225,1934
+07b113104602733d,blood_splatter_01.dds,Streaming/Content/metadata/particles/enviro_effects/water_splash/knee_cyl.pet,504380,22020
+ee2a354632fbbe3c,blood_splatter_01.dds.header,Tiny.V3,32136672,1520
+2fcfaeb78ece7d88,blood_dripns.dds,Tiny.V6,5734858,516
+4a5dd637894898a4,blood_dripns.dds.header,Tiny.V2,6031937,1520
+26fb1bf761beb198,blood_drip.mat,Tiny.VB,32746086,5396
+0384cc2c208332d5,blood_drip.dds,Tiny.V1,32397929,332
+fc3e49fa735d0593,blood_drip.dds.header,Tiny.V5,32130746,1520

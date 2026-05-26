@@ -1,4 +1,0 @@
-mb
-mb/onact
-mb/onact/attack_01
-mb/onact/attack_03

@@ -1,3 +1,0 @@
-shockwave_slam
-shockwave_slam/main
-shockwave_slam/shockwave_start

@@ -1,5 +1,0 @@
-attachments
-attachments/cloth_second_layer
-attachments/scale_base
-attachments/scale_bowls
-textures

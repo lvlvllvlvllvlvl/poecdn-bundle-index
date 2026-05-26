@@ -1,9 +1,0 @@
-epk
-fx
-mat
-mat/cull_crush
-mat/culling_impact
-mat/culling_soul
-mat/hands
-mat/hit_impact
-mat/whiff

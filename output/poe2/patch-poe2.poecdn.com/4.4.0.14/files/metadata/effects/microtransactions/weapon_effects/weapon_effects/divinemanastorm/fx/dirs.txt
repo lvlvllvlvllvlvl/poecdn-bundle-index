@@ -1,0 +1,8 @@
+2haxe
+bow
+crossbow
+dwc
+mace
+sheild
+staff
+sword

@@ -1,0 +1,5 @@
+attachments
+attachments/female
+attachments/female/skirt
+attachments/male
+attachments/male/skirt

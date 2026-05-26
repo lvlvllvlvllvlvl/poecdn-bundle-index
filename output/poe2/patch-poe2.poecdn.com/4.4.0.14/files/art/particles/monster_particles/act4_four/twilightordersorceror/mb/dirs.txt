@@ -1,0 +1,3 @@
+cleanse
+fireball
+holy_scorching_ray

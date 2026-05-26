@@ -1,0 +1,111 @@
+hash,file,bundle,offset,size
+9c74b9e709f3dbe4,hobosackcns.mat,Tiny.V4,39740159,1894
+cb7d33e39a6bb315,hobosackns.dds,Streaming/Content/metadata/items/heist/goalassets/heiststaffoffirstsineater01drop.ao,199626,43876
+5875d1eb8b418321,hobosackns.dds.header,Tiny.V8,39056446,840
+4a9c82c52324c390,hobosack_colour.dds,Streaming/Content/metadata/items/heist/goalassets/heiststaffoffirstsineater01drop.ao,177614,22012
+26fc7adebd6f27a0,hobosack_colour.dds.header,Tiny.V9,39918055,840
+766481d5b4656b82,stovec.mat,Tiny.V9,39923455,2140
+12f27705ced70ebe,stove_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.stove.ao,64104,349700
+140a937bcdb1f19e,stove_colour_dxt5.dds.header,Tiny.VB,39719469,1520
+e61042e7211f392e,stove_colour_noshadow_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.canibalstove_03.ao,114433,349700
+99360014bc214993,stove_colour_noshadow_dxt5.dds.header,Tiny.VB,39719469,1520
+22a2b0f06ec18ae6,stove_noshadowc.mat,Tiny.V3,38732556,2194
+f362c36182e0f38a,stove_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.stove.ao,413804,349700
+88477245af15a190,stove_normal_dxt5.dds.header,Tiny.V4,39742053,1520
+8c9698d9eeb69f44,sheepskinrugc.mat,Tiny.V5,38981692,2268
+769e8cd5e9f89e50,sheepskinrug_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/mtx/C210F1AA63B02EE1.thaumaturgydaschundpetdeco01_1.ao.2,425968,349700
+4562c467828ecd71,sheepskinrug_normal_dxt5.dds.header,Tiny.V7,39306049,1520
+2ac31c4daee427b2,sheepskinrug_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/mtx/C210F1AA63B02EE1.thaumaturgydaschundpetdeco01_1.ao.2,251044,174924
+ac86c3b2befb411d,sheepskinrug_colour_dxt1.dds.header,Tiny.V6,39320402,1520
+c36399b2043fdded,slavearmns.dds,Streaming/Content/metadata/effects/spells/monsters_effects/49C57ADA115EEAA8.F2BBF756CB3C127A.slowzone.ao,200114,87556
+bf81d47fed413624,slavearmns.dds.header,Tiny.V9,39921935,1520
+1841a73106d572b1,slavearm_colour_bc1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/49C57ADA115EEAA8.F2BBF756CB3C127A.slowzone.ao,156262,43852
+fa2e8dd7832f4228,slavearm_colour_bc1.dds.header,Tiny.VC,39533793,1520
+6c6b05d4ab10ff89,slavepenclothc.mat,Tiny.VA,39568118,1796
+ec33768e83174624,slavepencloth_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.slavepen_broken_single_bed_06.ao,1398800,349700
+3857283e140b3477,slavepencloth_normal_dxt5.dds.header,Tiny.V7,39307569,1520
+889707a14b4f0c6f,slavepencloth_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.slavepen_broken_single_bed_06.ao,1049100,349700
+8fc7180bf0feb41c,slavepencloth_colour_dxt5.dds.header,Tiny.V2,39120211,1520
+61c95a4e28f76a45,planebannersc.mat,Tiny.V8,39058806,2580
+980b082b54f183bc,planebanners_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/932222A1BEF00583.arcanecraftingbench.ao.9,349700,349700
+36978c73e5a7eceb,planebanners_normal_dxt5.dds.header,Tiny.VA,39566598,1520
+4530f36aed782fa2,planebanners_colour_bc7premult.dds,Streaming/Content/metadata/terrain/doodads/hideouts/932222A1BEF00583.arcanecraftingbench.ao.9,0,349700
+e9b4bd542ad25072,planebanners_colour_bc7premult.dds.header,Tiny.V8,39057286,1520
+54e81b1ffb0d449e,planebanners_colour.dds,Streaming/Content/metadata/terrain/doodads/hideouts/932222A1BEF00583.arcanecraftingbench.ao.8,2097676,349700
+9cf54c6c1fee8b7e,planebanners_colour.dds.header,Tiny.V9,39920415,1520
+e6fd2c67e21d4079,applesc.mat,Tiny.VF,39422028,1600
+e334d4ef0f056277,apples_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.DA83EA207A46DD62.candlered_holder_v03_01.ao,267927,87556
+f4be6dd8223f5d8e,apples_normal_dxt5.dds.header,Tiny.V2,39109387,1520
+9fbb48fc7b0de023,apples_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.DA83EA207A46DD62.candlered_holder_v03_01.ao,180371,87556
+6c85e2639066583f,apples_colour_dxt5.dds.header,Tiny.V6,39314322,1520
+f1d3d5f77633e09c,damagedcontrolblocks02c.mat,Tiny.VA,39563286,1792
+41ebc4260adba60b,damagedcontrolblocks02_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.5AE4D5AC1B95BF7D.damagedcrate_v01_05.ao,402932,349700
+a58ed00c01c44cc9,damagedcontrolblocks02_normal_dxt5.dds.header,Tiny.VC,39530145,1520
+18db6c6726d39870,damagedcontrolblocks02_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.5AE4D5AC1B95BF7D.damagedcrate_v01_05.ao,53232,349700
+3ade715740c17efb,damagedcontrolblocks02_colour_dxt5.dds.header,Tiny.VA,39561766,1520
+9b02265c7ace84f2,damagedcontrolblocks02ac.mat,Tiny.V3,38727122,1802
+f3cb718ca9c5244a,damagedcontrolblocks02a_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.5AE4D5AC1B95BF7D.damagedsack.ao,355214,349700
+094b50c5f0afc9fc,damagedcontrolblocks02a_normal_dxt5.dds.header,Tiny.V6,39317362,1520
+fc0d41e968e9fa9b,damagedcontrolblocks02a_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.5AE4D5AC1B95BF7D.damagedsack.ao,5514,349700
+792df73646154cd9,damagedcontrolblocks02a_colour_dxt5.dds.header,Tiny.V6,39315842,1520
+962279cf0aa94420,debrisdecalc.mat,Tiny.V9,39914235,1780
+86dc7c943301b91a,debrisdecal_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.slavepen_broken_single_bed_06.ao,699400,349700
+61b120b82bd3667f,debrisdecal_normal_dxt5.dds.header,Tiny.V3,38728924,1520
+5e2c256ba62a9396,debrisdecal_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.slavepen_broken_single_bed_06.ao,349700,349700
+2ab3859dd770ee02,debrisdecal_colour_dxt5.dds.header,Tiny.V6,39318882,1520
+2fa535f374c32a07,food_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.81388EA2D43409DB.apple_v01_03.ao,349700,349700
+b3f8a9e1ef29ee42,food_normal_dxt5.dds.header,Tiny.VF,39423628,1520
+ae74957bc1fb1e6c,food_02c.mat,Tiny.VB,39717565,1904
+0b61bc2c76348dc3,food_02_colour.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.301595200F104328.looted_rellic_pile_v01_04.ao,59433,349700
+7150d86bd7fbe7a1,food_02_colour.dds.header,Tiny.V7,39304529,1520
+9cc099242471cc01,food_03c.mat,Tiny.VE,39093701,2040
+98451ee810b47467,food_03_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.81388EA2D43409DB.apple_v01_03.ao,0,349700
+ce6e05302a2c5f68,food_03_colour_dxt5.dds.header,Tiny.VE,39092181,1520
+c248dc6cef17aa8f,food_01c.mat,Tiny.V9,39916015,2040
+b8ee41be49c064ec,food_01_noshadowc.mat,Tiny.V2,39114905,2266
+072ddf0a4c5902e8,food_01_colour_noshadow_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.justicardinner_01.ao,880761,349700
+01aad18bd95ee33a,food_01_colour_noshadow_dxt5.dds.header,Tiny.V7,39303009,1520
+00ffaa6a8bc7576a,food_01_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.2512BD66E698CCAF.relic_display_v03_02.ao,57637,349700
+7280b334c24d88a8,food_01_colour_dxt5.dds.header,Tiny.V7,39303009,1520
+023e117aa93d636d,glass_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/ruinedcity/A9F70759A0522B04.harborbridge_post_01.ao,118499,87556
+c0bcebc26f2f4f49,glass_normal_dxt5.dds.header,Tiny.V2,39117171,1520
+a9ee36936e1f4f73,glass_specular_masked.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.12F87AB9F9F3AA3F.templar_burned_wirting_desk_v01_02.ao,666428,87556
+4e6d95078b60b464,glass_specular_masked.dds.header,Tiny.V2,39118691,1520
+a03a005361201c3f,glass_colour.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.12F87AB9F9F3AA3F.templar_burned_wirting_desk_v01_02.ao,578872,87556
+8f9c6efbfaa6aee9,glass_colour.dds.header,Tiny.V4,39738639,1520
+b0c3542cbea8c815,glasscs.mat,Tiny.VC,39531665,2128
+c02847abf71e3d03,glassc.mat,Tiny.VE,39095741,1682
+fd99968016819a55,cuttleryc.mat,Tiny.V8,39054430,2016
+be6d47e1b9c849de,cuttlery_noshadowc.mat,Tiny.VA,39559696,2070
+7f40abd0c50afe36,cuttlery_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/932222A1BEF00583.arcanecraftingbench.ao.8,1747976,349700
+bf313e352b154d6f,cuttlery_normal_dxt5.dds.header,Tiny.V0,39527849,1520
+f3e31edb15bdd61e,cuttlery_colour_noshadow_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.justicardinner_01.ao,531061,349700
+4c6642ac7ed9f438,cuttlery_colour_noshadow_dxt5.dds.header,Tiny.V9,39912715,1520
+ec94543cebf64f2b,cuttlery_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/932222A1BEF00583.arcanecraftingbench.ao.8,1398276,349700
+edf57d5abe968ba6,cuttlery_colour_dxt5.dds.header,Tiny.V9,39912715,1520
+dd5857244591ca40,controlblockdoodads 02c.mat,Tiny.V2,39112531,2374
+812fd233251b56ce,controlblockdoodads 02_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.crate_v01_02.ao,367514,349700
+761460e8b42dc0ce,controlblockdoodads 02_normal_dxt5.dds.header,Tiny.VA,39558176,1520
+52dc5e9c94236e37,controlblockdoodads 02_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.crate_v01_02.ao,17814,349700
+e96b3dad08bd6da2,controlblockdoodads 02_colour_dxt5.dds.header,Tiny.VE,39090661,1520
+6cfb397f7bc244e7,controlblockdoodads 02a_noshadowc.mat,Tiny.V0,39525491,2358
+5094cd6db1e6f889,controlblockdoodads 02a_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.candleholder_v01_03a.ao,442315,349700
+adc5ae8fae0e15c4,controlblockdoodads 02a_normal_dxt5.dds.header,Tiny.VB,39716045,1520
+b16dc0705261faf3,controlblockdoodads 02a_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.candleholder_v01_03a.ao,92615,349700
+8de599a9a053698f,controlblockdoodads 02a_colour_dxt5.dds.header,Tiny.V9,39911195,1520
+0c1d5630da8f0cd1,controlblockdoodads 02ac.mat,Tiny.V0,39525491,2358
+79915fe7852357c8,controlblockdoodads 02acns.mat,Tiny.V0,39525491,2358
+00f67e1d11e7738b,cleawoodc.mat,Tiny.V2,39110907,1624
+997eb7eba9d6f3b2,cleawood_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.slavepen_broken_single_bed_06.ao,0,349700
+2f645206bd6329a0,cleawood_colour_dxt5.dds.header,Tiny.V7,39301489,1520
+f3b1db141447de74,cleawood_colour_noshadow_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.humanexperiment_01.ao,240639,349700
+da87cc01b7b7980f,cleawood_colour_noshadow_dxt5.dds.header,Tiny.V7,39301489,1520
+af8153519e3002f3,cleawood_noshadowc.mat,Tiny.V4,39736961,1678
+0c56fd7f06de69c9,cleawood_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.44F03FAB095CA212.humanexperiment_01.ao,590339,349700
+9659ccc2f431720a,cleawood_normal_dxt5.dds.header,Tiny.VB,39714525,1520
+40d93a14eed716b1,metalpattern_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/corsairlair/corsairwall_set.ao,885408,349700
+575d639ce730e9e0,metalpattern_normal_dxt5.dds.header,Tiny.V9,39918895,1520
+ebfb393c3679a3bf,metalpattern_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/corsairlair/corsairwall_set.ao,535708,349700
+80376f8d0a79010f,metalpattern_colour_dxt5.dds.header,Tiny.VA,39565078,1520
+cf3890968e47dc5c,metalpatternc.mat,Tiny.V3,38730444,2112
+ceb41b41e15f6c54,metalpatterncns.mat,Tiny.V3,38730444,2112

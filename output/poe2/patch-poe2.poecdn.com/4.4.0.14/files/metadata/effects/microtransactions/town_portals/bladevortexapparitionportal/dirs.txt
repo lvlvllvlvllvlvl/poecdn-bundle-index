@@ -1,0 +1,6 @@
+attachment
+epks
+pet
+pet/townportal
+pet/townportalclose
+pet/townportalopen

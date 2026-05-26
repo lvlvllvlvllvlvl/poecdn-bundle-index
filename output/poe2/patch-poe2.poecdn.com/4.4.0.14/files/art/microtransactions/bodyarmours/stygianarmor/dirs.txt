@@ -1,0 +1,9 @@
+demonicstygianlight
+divinestygianlight
+ghostflamestygianlight
+lightningstygianlight
+textures
+textures/demonicstygian
+textures/divinestygian
+textures/ghostflamestygian
+textures/lightningstygian

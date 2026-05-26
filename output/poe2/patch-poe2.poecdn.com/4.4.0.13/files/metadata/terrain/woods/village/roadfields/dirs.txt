@@ -1,8 +1,0 @@
-brambleconnections
-feature
-fills
-harvestedfield
-roadedge
-roadsplit
-unwalkablefield
-walkablefield

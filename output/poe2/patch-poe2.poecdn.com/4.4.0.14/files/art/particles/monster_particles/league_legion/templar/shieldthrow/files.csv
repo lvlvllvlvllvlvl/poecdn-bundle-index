@@ -1,0 +1,31 @@
+hash,file,bundle,offset,size
+a94db51848ecc584,energy_trail_at.mat,Tiny.V6,37643818,2558
+6611df12217e1b53,energy_trail_at_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D9801C5B1F03D675.5F949A7D6BC3B418.breach_midline.pet,437952,43876
+c75623994131547b,energy_trail_at_dxt5.dds.header,Tiny.V3,37179275,840
+f235431f25a245a3,trail.mat,Tiny.V5,37356335,516
+2540c66bf93d29d7,trail_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D9801C5B1F03D675.5F949A7D6BC3B418.breach_midline.pet,481828,11108
+4d5b1d0f50a62ddd,trail_dxt5.dds.header,Tiny.V2,37680174,840
+d228360a57014144,flash_mid.mat,Tiny.VC,37815924,1538
+1800644acdfe2d50,flash_mid_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/5C36FCAE7ADD4FD5.45094FF964BB384C.beam_fire.pet,546832,22020
+e36af073b7633df1,flash_mid_dxt5.dds.header,Tiny.V3,37180115,1520
+52a42f9d7709f66e,shieldgloc.mat,Tiny.V8,37420346,1684
+b39fbd036c7ac7c1,shieldglo.dds,Streaming/Content/metadata/effects/spells/monsters_effects/B36A06BC80D721BF.727C650CC2E0D775.decel_shieldthrow.ao,11040,87548
+270a0afd2d996464,shieldglo.dds.header,Tiny.V8,37419506,840
+0a88f242427eaac8,bloom_glow.mat,Tiny.VA,37985936,1424
+66c378e545d77e15,bloom_glow_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/5C36FCAE7ADD4FD5.45094FF964BB384C.beam_fire.pet,524812,22020
+9c6da2665bdaaefa,bloom_glow_dxt5.dds.header,Tiny.VE,37422908,1520
+f715a161c7fe6a2d,impact.mat,Tiny.V9,38268925,1520
+38725cc177a086db,impact_swirl 2.mat,Tiny.V8,37418200,1306
+0b5e8723295e57d5,impact_swirl 2_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/338ACA1CA314DE2E.monolith_buildup.pet,3239444,22020
+a5d91a36620007ab,impact_swirl 2_dxt5.dds.header,Tiny.V7,37612897,1520
+f47a9fc2912dc9ff,impact_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/338ACA1CA314DE2E.monolith_idle_shatter_grd.pet,284688,22020
+248bac35cac1ee28,impact_dxt5.dds.header,Tiny.VC,37814404,1520
+070f511b37166575,divslam_ring_add.mat,Tiny.V4,38066643,1580
+1994d51b8925e2c1,divslam_ring_add_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/338ACA1CA314DE2E.monolith_buildup.pet,2889744,349700
+593c4d7aabbf45d5,divslam_ring_add_dxt5.dds.header,Tiny.VB,38136189,1520
+05b85e96f37bf4e1,gold_shatter_at.mat,Tiny.V6,37646376,1696
+712b041a2e5a7b7f,gold_shatter_at_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/21F13D13CA11B813.3A1739FDA38A7B14.cleave_combo01.pet,689684,43876
+3de60fd44cea6e7f,gold_shatter_at_dxt5.dds.header,Tiny.VE,11292750,840
+aa4dd533757d6a44,gold_spark2_clean.mat,Tiny.V5,37355011,1324
+a9e7c9905cc36c82,gold_spark2_clean_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D9801C5B1F03D675.5F949A7D6BC3B418.divination_midline.pet,507523,5636
+911c395bc669b34e,gold_spark2_clean_dxt5.dds.header,Tiny.V4,38334104,1520

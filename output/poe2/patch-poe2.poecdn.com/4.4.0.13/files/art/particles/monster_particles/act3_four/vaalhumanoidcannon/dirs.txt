@@ -1,3 +1,0 @@
-mb
-mb/napalm_impact
-mb/rifle_beam

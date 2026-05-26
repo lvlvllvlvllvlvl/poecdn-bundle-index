@@ -1,4 +1,0 @@
-fire_wave_01
-phase2_double_firebolt_01
-phase2_firebolt_left_01
-phase2_start_01

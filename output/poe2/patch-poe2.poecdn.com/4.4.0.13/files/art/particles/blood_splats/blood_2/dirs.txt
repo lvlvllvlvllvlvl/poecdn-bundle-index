@@ -1,4 +1,0 @@
-ooze
-ooze/blood_drops
-zombie
-zombie/blood_drops

@@ -1,0 +1,10 @@
+architecture
+architecture/bronze
+architecture/chests
+architecture/entrance
+architecture/gold
+architecture/stalagmites
+architecture/statues
+cliffs
+doodads
+ground

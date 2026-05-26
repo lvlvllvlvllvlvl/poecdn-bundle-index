@@ -1,8 +1,0 @@
-automaton
-automaton/models
-automaton/models/beam
-automaton/models/beam_impact
-automaton/models/channeling
-automaton/models/zap
-automaton/textures
-automaton/textures/fx

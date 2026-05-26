@@ -1,0 +1,8 @@
+chaotic
+chaotic/trl
+egraged
+egraged/trl
+savage
+savage/trl
+tranquil
+tranquil/trl

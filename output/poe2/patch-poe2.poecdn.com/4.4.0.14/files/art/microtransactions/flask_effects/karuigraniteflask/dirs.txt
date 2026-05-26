@@ -1,0 +1,6 @@
+fx
+l_shoulder
+l_thigh
+r_shoulder
+r_thigh
+textures

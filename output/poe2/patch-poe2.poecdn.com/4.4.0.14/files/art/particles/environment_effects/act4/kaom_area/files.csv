@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+5a1a974792528fc6,smoke_02.mat,Tiny.V8,32152733,2288
+5247d6b0bfca493a,smoke_02.dds,Streaming/Content/metadata/particles/enviro_effects/act4/5ABC9F9EE0E4A130.flying_embers.pet,0,43876
+2e2dccc137aa83cb,smoke_02.dds.header,Tiny.V5,35170448,840
+9402598450c0f73c,poison_shimmer.mat,Tiny.V1,32239912,2086
+20e7981a05f9d16d,poison_shimmer.dds,Streaming/Shared/Super/Shared,2866447,349700
+569f7190cb946baf,poison_shimmer.dds.header,Tiny.V9,32581936,1520
+a851cec5eb1b5023,ember_dark.mat,Tiny.V6,32182228,1178
+25da53e98a589289,ember_dark.dds,Streaming/Content/data/worldareas/8C/mapinferno_noboss.vworld,699212,5636
+1b9cd67381f8fcf3,ember_dark.dds.header,Tiny.V1,32235850,1520
+e02dc3b214bc4c09,ember.mat,Tiny.V4,32767545,2784
+b8fc05b924e80d57,ember.dds,Streaming/Content/data/worldareas/6E/mapinferno_noboss.vworld,2796364,22020
+87720761e5818094,ember.dds.header,Tiny.VD,32545469,1520

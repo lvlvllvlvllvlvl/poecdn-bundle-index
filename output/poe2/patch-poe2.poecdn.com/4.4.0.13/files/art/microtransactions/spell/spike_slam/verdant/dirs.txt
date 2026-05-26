@@ -1,7 +1,0 @@
-mb
-mb/crack
-mb/decal
-mb/ground_vine
-mb/vine_02
-mb/vine_03
-texture

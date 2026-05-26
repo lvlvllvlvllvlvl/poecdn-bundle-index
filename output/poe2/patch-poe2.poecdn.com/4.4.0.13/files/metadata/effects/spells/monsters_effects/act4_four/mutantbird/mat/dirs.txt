@@ -1,9 +1,0 @@
-baby_bird_pop
-carrion_drop
-death
-peck
-vomit_cones
-vomit_cones/onact
-vomit_mortar
-vomit_mortar/impact
-vomit_slam
