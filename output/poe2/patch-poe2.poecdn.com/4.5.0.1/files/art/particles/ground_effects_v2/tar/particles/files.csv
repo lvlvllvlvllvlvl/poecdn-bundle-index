@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+4da4140b22cb0140,meshexportc.mat,Tiny.VB,35495955,1054
+fa040a32933f0c42,meshexport.dds,Tiny.VD,34918601,332
+79de5690ec755c79,meshexport.dds.header,Tiny.V7,37834975,1520
+fab83be8191c95eb,wisp_sub.mat,Tiny.V4,35584259,1978
+28e6e7827d1bcbe5,wisp_sub.dds,Streaming/Content/metadata/particles/ground_effects_v2/tar/tar_bubbles.pet,444916,22020
+4ddc7fab2660b423,wisp_sub.dds.header,Tiny.VD,35519440,1520
+d53cc3720255d21c,bubblens.dds,Streaming/Content/metadata/particles/ground_effects_v2/tar/tar_bubbles.pet,95216,349700
+b46d4929cd11e9ad,bubblens.dds.header,Tiny.VE,34932281,1520
+d06085967e814a13,bubble_colour.mat,Tiny.V5,34979123,3386
+95e536d6d8a9df70,bubble_colour.dds,Streaming/Content/metadata/particles/ground_effects_v2/tar/tar_bubbles.pet,7660,87556
+dc8eb0b2c3515995,bubble_colour.dds.header,Tiny.VE,34930761,1520

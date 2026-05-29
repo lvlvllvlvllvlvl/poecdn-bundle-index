@@ -1,0 +1,6 @@
+cloth
+loincloth
+robe
+rope
+sleevel
+sleever

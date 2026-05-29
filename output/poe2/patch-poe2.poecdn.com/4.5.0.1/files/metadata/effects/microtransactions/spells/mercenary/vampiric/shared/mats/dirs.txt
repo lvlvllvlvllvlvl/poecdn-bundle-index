@@ -1,0 +1,8 @@
+burst_shot_01
+muzzle_burst
+muzzle_power
+power_shot_01
+rapid_01
+reload_bloodbeam
+reload_blooddrips
+siege_01

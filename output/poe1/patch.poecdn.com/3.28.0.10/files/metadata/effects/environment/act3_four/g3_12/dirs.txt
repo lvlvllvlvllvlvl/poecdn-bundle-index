@@ -1,7 +1,0 @@
-graphs
-graphs/sun
-pet
-pet/sun
-pet/sun/idle
-pet/sun2
-pet/sun2/idle

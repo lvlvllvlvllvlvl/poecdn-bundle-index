@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+2a3510abdfdd2bd8,pntemit_u.mat,Tiny_11,150820658,310
+7c6065ac2d486abb,fe_blur_oomph_01_r.mat,Tiny_D,316599140,9792
+10109857ce4dc8a6,fe_pntemit_u.mat,Tiny_D,316683418,2112
+77d2ccc21a8478ed,fe_glowring_01_r.mat,Tiny_D,316608932,31514
+0a476730be111c01,fe_glowring_02_r.mat,Tiny_D,316640446,42972
+9df6ccf1af27e796,b_caustics_01_r.mat,Tiny_D,314418890,10796
+6479eec721490aff,b_meshblood_01_r.mat,Tiny_D,314509110,43576
+f9b627d4d72718c8,b_shimmer_ring_01_r.mat,Tiny_D,314552686,24224
+2361a325395f1699,b_zoom_distort_01_r.mat,Tiny_D,314576910,11134
+790bc0e915a38d19,b_blood_ribbon_01_r.mat,Tiny_D,314272480,19216
+f5e30350f72d7706,b_blood_ribbon_01_u.mat,Tiny_D,314291696,17586
+122cbc25f684a6de,b_bloodspray_01_r.mat,Tiny_D,314354556,40078
+e53b9b27eba23d7a,b_bloodspray_01_u.mat,Tiny_D,314394634,14460

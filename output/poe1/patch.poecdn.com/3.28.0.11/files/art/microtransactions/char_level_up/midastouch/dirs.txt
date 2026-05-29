@@ -1,0 +1,8 @@
+blood
+blood/texture
+crystal
+crystal/texture
+gold
+gold/mb
+gold/mb/snake
+gold/texture

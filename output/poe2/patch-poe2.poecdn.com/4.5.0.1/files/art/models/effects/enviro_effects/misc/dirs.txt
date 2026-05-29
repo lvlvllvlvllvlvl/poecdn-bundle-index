@@ -1,0 +1,9 @@
+blood_orb
+ctf_flag
+ctf_flag/blue
+ctf_flag/red
+essence_coin_drop
+item_filter_drop
+leaguestone_drop
+prophecy_coin_drop
+unique_drop

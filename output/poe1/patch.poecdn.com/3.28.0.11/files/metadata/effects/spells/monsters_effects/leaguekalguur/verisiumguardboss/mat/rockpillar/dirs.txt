@@ -1,0 +1,3 @@
+indicator
+shatter
+shatter/damage_state01

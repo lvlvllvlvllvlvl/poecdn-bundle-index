@@ -1,6 +1,0 @@
-channelindicator
-eruption
-idle
-mortar
-mortaraoe
-volcanoobject

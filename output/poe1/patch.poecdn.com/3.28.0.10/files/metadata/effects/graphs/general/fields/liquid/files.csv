@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-a0c13614dea8eff8,field_liquid_init.fxgraph,Folders/metadata/effects,28093082,126740
-241834413eaa2af3,field_objectaxismask.fxgraph,Folders/metadata/effects,28219822,83646
-f14b5a6729bbf125,field_spheremask.fxgraph,Folders/metadata/effects,28303468,91692
-dd0fbaaea2558a45,field_texturemask.fxgraph,Folders/metadata/effects,28395160,113870
-aba80ccc124eb7e7,field_uvsmask.fxgraph,Folders/metadata/effects,28509030,87840
-591a96de2b216e25,field_groundsplat_directional.fxgraph,Folders/metadata/effects,27538716,290210
-49532c7fe8556459,field_groundsplat_radial.fxgraph,Folders/metadata/effects,27828926,264156

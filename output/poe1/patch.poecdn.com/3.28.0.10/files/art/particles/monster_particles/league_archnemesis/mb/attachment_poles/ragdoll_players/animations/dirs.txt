@@ -1,4 +1,0 @@
-pose_01
-pose_02
-pose_03
-pose_04

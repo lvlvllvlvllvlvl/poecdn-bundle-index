@@ -1,0 +1,6 @@
+plaincrypt
+plaindesert
+plainjungle
+plainsnow
+plainurban
+plainvolcanic

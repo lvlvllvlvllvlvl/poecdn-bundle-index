@@ -1,3 +1,0 @@
-ball_lightning
-lightning_rod
-shrine_activate

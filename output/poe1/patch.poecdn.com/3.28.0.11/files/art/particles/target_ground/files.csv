@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+ed1c478759c9b4e7,wispy_smoke_tilec.mat,Tiny_7,54110457,2878
+2346200f6f6d85c4,wispy_smoke_tile.dds,Art/particles/monster_particles/league_avatar,443324,349700
+d7c63b35ccc395ef,wispy_smoke_tile.dds.header,Tiny_7,54108937,1520
+5bb104e8c8c7f664,tornado_outerc.mat,Tiny_7,54106137,2800
+0eb92c75899285e9,tornado_outer.dds,Art/particles/target_ground,0,43868
+15564bdf4cccbfae,tornado_outer.dds.header,Tiny_7,54105633,504
+deeb857f1e8bc95c,ice_trailc.mat,Tiny_7,54103803,1830
+ee13d8a9f9681fac,ice_trail.dds,Art/particles/target_ground,43868,87556
+7b1bca736ea2ab44,ice_trail.dds.header,Tiny_7,54102283,1520
+e837f7a4be800b5f,gradflashc.mat,Tiny_7,54100537,1746
+e6ba241ddc365fa4,gradflash.dds,Art/particles/target_ground,131424,11084
+7863d68d8cfc96b6,gradflash.dds.header,Tiny_7,54099017,1520

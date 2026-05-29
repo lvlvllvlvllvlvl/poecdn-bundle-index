@@ -1,6 +1,0 @@
-beam
-beam_chargeup
-shield
-super_shield
-super_shield/surge
-teleport

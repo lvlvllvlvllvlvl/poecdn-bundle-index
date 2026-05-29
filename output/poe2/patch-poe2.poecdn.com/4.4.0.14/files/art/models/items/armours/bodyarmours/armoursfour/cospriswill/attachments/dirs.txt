@@ -1,7 +1,0 @@
-f
-f/cape
-f/skirt
-m
-m/cape
-m/skirt
-m/skirtstr

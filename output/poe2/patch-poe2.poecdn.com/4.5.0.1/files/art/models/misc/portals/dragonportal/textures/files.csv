@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+ee4e1cc2c3f1dba0,dragonportalc.mat,Tiny.V4,11840969,7218
+ebea4be2921bf8db,dragonportal_glow_dxt1.dds,Streaming/Content/metadata/pet/dragonserpent/dragonserpent.ao,2130592,699212
+9ba70c75c39da331,dragonportal_glow_dxt1.dds.header,Tiny.V1,11676797,1520
+1ff7b47792f708f8,dragonportal_normal_dxt5.dds,Streaming/Content/metadata/pet/dragonserpent/dragonserpent.ao.1,699212,1398276
+2c846e18fabdcb96,dragonportal_normal_dxt5.dds.header,Tiny.V8,11624230,1520
+ee981d692f4c49f5,dragonportal_metal_dxt1.dds,Streaming/Content/metadata/pet/dragonserpent/dragonserpent.ao.1,0,699212
+93134ba268bb0ee7,dragonportal_metal_dxt1.dds.header,Tiny.V6,11834606,1520
+eec58e204ff67eb1,dragonportal_colour_bc7.dds,Streaming/Content/metadata/pet/dragonserpent/dragonserpent.ao,33104,1398276
+fe60cc20c1261b94,dragonportal_colour_bc7.dds.header,Tiny.VB,11860413,1520
+3e7de3fea6879d97,dragonportal_colour_dxt1.dds,Streaming/Content/metadata/pet/dragonserpent/dragonserpent.ao,1431380,699212
+967b8fe7bf63d6c1,dragonportal_colour_dxt1.dds.header,Tiny.VA,11780735,1520

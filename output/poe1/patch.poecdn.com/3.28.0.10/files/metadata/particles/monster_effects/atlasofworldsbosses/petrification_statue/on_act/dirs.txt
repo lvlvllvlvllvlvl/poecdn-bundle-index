@@ -1,5 +1,0 @@
-death_01
-emerge_01
-stonegaze
-stonegaze/loop
-stonegaze/start

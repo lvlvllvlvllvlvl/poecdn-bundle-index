@@ -1,0 +1,8 @@
+chilledground
+half_pipe
+icespike
+on_act_spikelaunch
+on_act_throwspear
+on_act_underarm_spearthrow
+spear_impact
+spear_proj

@@ -1,0 +1,2 @@
+champ_hound
+champ_spiker

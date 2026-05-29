@@ -1,4 +1,0 @@
-cold
-cold/textures
-fire
-fire/textures

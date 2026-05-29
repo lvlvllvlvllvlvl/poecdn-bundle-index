@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+e59ce694087e0618,impact_debris_01_r.mat,Tiny.V5.1,110250444,41222
+71a3600df992967f,lightnova_debris_01_u.mat,Tiny.VE.1,111246198,27326
+408c5cb6d2626b1e,vn_shimmerwave_01_r.mat,Tiny.VD.1,110012062,24688
+b254a0331e76512b,pntemit_forcegrd_u.mat,Tiny.VC.1,133005253,2172
+942cdc70786c2368,mblur_up_r.mat,Tiny.VF.1,107230718,43488
+dedabce91d7d8ad2,windpushwave_u.mat,Tiny.VF.1,107274206,3184
+1ffa0ddce8a0ee9b,windpushwave_r1.mat,Tiny.V9.1,112727564,46058
+94b7d0d88b87921d,windpushwave_r2.mat,Tiny.V2.1,113258564,32098
+b49df909579b2510,grd_pnt_u.mat,Tiny.VD.1,5332868,346
+63895eefe2fc18bd,ground_debris_r2.mat,Tiny.VD.1,110334256,12964
+df193cb5def63502,ground_debris_u2.mat,Tiny.V5.1,110223746,26698
+b44eb89796e3c221,rock_mesh_shattered_r.mat,Tiny.V7.1,107324808,25782
+8001acda6a3b399e,rock_mesh_shattered_u.mat,Tiny.V1.1,109561248,47268

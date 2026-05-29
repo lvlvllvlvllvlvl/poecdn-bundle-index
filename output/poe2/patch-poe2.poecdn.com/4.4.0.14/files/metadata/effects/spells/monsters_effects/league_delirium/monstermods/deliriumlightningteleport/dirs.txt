@@ -1,6 +1,0 @@
-mat
-mat/teleport_aura
-mat/teleport_explosion
-mat/teleport_in
-mat/teleport_out
-mat/teleport_telegraph

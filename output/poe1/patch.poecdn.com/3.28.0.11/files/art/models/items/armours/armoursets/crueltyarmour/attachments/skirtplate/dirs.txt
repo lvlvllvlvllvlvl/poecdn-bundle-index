@@ -1,0 +1,7 @@
+skirtplatedex
+skirtplatedexint
+skirtplateint
+skirtplatestr
+skirtplatestrdex
+skirtplatestrdexint
+skirtplatestrint

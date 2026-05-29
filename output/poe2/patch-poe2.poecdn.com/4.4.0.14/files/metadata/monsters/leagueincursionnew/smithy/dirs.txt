@@ -1,6 +1,0 @@
-monsters
-vaalforgeman
-vaalforgeman/attachments
-vaalforgemaster
-vaalforgemaster/attachments
-vaalforgemaster/tier3

@@ -1,0 +1,8 @@
+blue
+blue/big
+blue/biggest
+blue/blue_adastuff
+blue/mid
+blue/power_up
+blue/small
+direblade

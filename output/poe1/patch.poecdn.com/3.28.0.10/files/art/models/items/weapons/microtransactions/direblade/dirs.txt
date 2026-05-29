@@ -1,4 +1,0 @@
-direbladebow
-direbladeclaw
-direbladequiver
-texture

@@ -1,0 +1,16 @@
+arena_erupt
+dash
+obsidian_barrage
+obsidian_barrage/on_act
+obsidian_barrage/slam
+obsidian_elemental
+obsidian_elemental/attack_01
+obsidian_elemental/cyclone_01
+obsidian_elemental/run_01
+obsidian_elemental/spellcast_projectile_multi_01
+obsidian_projectile
+obsidian_vortex
+shard_explosion
+shard_projectile
+spellcast_01
+spellcast_02

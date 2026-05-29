@@ -1,0 +1,6 @@
+gpuparticles
+gpuparticles/conversion
+gpuparticles/conversion/emitter
+gputrails
+gputrails/conversion
+volumetricfx

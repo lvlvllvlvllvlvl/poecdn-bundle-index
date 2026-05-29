@@ -1,6 +1,0 @@
-demolition
-demolition/door
-magik_seal_door
-magik_seal_door/robot
-magik_seal_door/science
-magik_seal_door/templar

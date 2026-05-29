@@ -1,3 +1,0 @@
-azurite_energy
-crystal_shards
-crystal_shards/build_up

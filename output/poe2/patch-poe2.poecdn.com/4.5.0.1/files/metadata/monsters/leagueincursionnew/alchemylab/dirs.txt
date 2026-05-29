@@ -1,0 +1,7 @@
+chaosgodjaguar
+chaosgodrangedfodder
+chaosgodtriheadbat
+statueboss
+statueboss/objects
+vaalflayedknifestick
+vaalgoliathsoulcore

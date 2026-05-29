@@ -1,2 +1,0 @@
-temple_misc
-temple_misc/atziriroom_warp_wall

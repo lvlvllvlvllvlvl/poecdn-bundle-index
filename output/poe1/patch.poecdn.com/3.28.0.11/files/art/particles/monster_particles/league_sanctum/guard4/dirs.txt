@@ -1,0 +1,6 @@
+textures
+textures/on_act
+textures/on_act/lightning_bolts_01
+textures/on_act/spell_aoe_01
+textures/staff
+textures/volatile_proj_01

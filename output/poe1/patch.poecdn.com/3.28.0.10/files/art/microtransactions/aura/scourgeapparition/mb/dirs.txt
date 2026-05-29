@@ -1,8 +1,0 @@
-emerge
-leap_slam
-soul_absorb
-soul_absorb/mb
-soul_absorb/mb/animations
-soul_drain
-wind_tunnel
-wind_tunnel/animations

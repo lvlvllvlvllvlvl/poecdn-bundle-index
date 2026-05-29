@@ -1,0 +1,9 @@
+fishery
+spice
+stalls
+stalls/marketstallsbare
+stalls/marketstallscloth
+stalls/marketstallsthatch
+stalls/stalldividers
+stalls/stalldividers/stalldividerscloth
+weavers

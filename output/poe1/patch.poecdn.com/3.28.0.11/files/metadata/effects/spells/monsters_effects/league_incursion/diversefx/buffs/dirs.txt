@@ -1,0 +1,7 @@
+generic
+monsterfx
+monsterfx/caster
+monsterfx/caster/chaos
+monsterfx/caster/fire
+monsterfx/caster/lightning
+monsterfx/caster/physical

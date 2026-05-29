@@ -1,5 +1,0 @@
-apparitionboss
-deathknight
-npc
-olroth
-reaperboss

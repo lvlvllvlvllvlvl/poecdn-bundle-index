@@ -1,4 +1,0 @@
-gold
-new
-new/explode
-new2

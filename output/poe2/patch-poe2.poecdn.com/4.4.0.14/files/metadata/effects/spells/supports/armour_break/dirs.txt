@@ -1,4 +1,0 @@
-fx
-fx/fire_explosion_01
-mat
-mat/fire_explosion_01

@@ -1,0 +1,9 @@
+attack_01
+attack_02
+circle_waves_idle_01
+dash_slam_01
+death_bwd_01
+delayed_blast_01
+move_weapon_vortex_zone_01
+special_01
+spellcast_01

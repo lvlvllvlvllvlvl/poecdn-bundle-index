@@ -1,6 +1,0 @@
-attachments
-attachments/backvines
-attachments/nosevines
-attachments/petalmane
-attachments/twistyvines
-textures

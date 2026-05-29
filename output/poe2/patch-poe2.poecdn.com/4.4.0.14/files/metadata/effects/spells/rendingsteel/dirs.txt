@@ -1,3 +1,0 @@
-metalburst
-metalburst/graphs
-slasheffect

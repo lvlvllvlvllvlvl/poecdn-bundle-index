@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+afb8b2cf009e38a7,abyss_straight.fmt,Art/Models/Terrain/Leagues/Hellscape,1482394,137458
+da14e287657c3fd8,abyss_straight.fmt.header,Tiny_5,62348605,657
+827a152530b23037,abyss_start02.fmt,Art/Models/Terrain/Leagues/Hellscape,1286334,196060
+6debd069b4de26b9,abyss_start02.fmt.header,Tiny_5,62348017,588
+5eafddb113e039d5,abyss_start01.fmt,Art/Models/Terrain/Leagues/Hellscape,1093162,193172
+e87be4fe9da4a6bf,abyss_start01.fmt.header,Tiny_5,62347430,587
+ab5da303d466de7c,abyss_diagonal.fmt,Art/Models/Terrain/Leagues/Hellscape,846794,246368
+c48a2967bf51480d,abyss_diagonal.fmt.header,Tiny_5,62346771,659
+2f50411869c2adaf,abyss_corner_diagonal.fmt,Art/Models/Terrain/Leagues/Hellscape,392044,454750
+8878a9b06429e7b0,abyss_corner_diagonal.fmt.header,Tiny_5,62346193,578
+5df418600e48d853,abyss_corner_90.fmt,Art/Models/Terrain/Leagues/Hellscape,231298,160746
+1141b9b5a1a55058,abyss_corner_90.fmt.header,Tiny_5,62345646,547
+f6cbb33416b10319,abyss_corner_135.fmt,Art/Models/Terrain/Leagues/Hellscape,0,231298
+63f9563cc636f41b,abyss_corner_135.fmt.header,Tiny_5,62345082,564

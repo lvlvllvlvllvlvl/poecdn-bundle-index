@@ -1,0 +1,7 @@
+emotes
+fountainhallway
+honourguarddodgeroll
+townportal
+townportal/mektul
+townportal/oracledruid
+townportal/personsplit

@@ -1,0 +1,4 @@
+grounddust
+idle
+oncast
+onhit

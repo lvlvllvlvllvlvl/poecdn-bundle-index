@@ -1,0 +1,4 @@
+deathknight
+deathknight/cape
+deathknight/maul
+deathknight/skirt

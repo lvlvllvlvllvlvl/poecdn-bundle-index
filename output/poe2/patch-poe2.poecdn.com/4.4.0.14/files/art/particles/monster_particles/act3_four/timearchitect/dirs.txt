@@ -1,3 +1,0 @@
-mb
-mb/time_proj
-tex

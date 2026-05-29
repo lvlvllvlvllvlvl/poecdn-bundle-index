@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+36d0ee8163b8685b,lightning_pillarbolt_r.mat,Tiny.V7.1,209387730,26244
+969c9dcc3839dbed,lightning_pillarbolt_u.mat,Tiny.VA.1,212290688,4286
+74ea4084d8b48a27,lightning_ribbonbolt_r.mat,Tiny.V2.1,214990224,25602
+00d25c844ed192bf,lightning_ribbonbolt_u.mat,Tiny.V3.1,212673247,6114
+db4311f2f1a2d3cc,core_beam_01_r.mat,Tiny.V4.1,211831494,35402
+b13098ee147439c4,core_beam_01_u.mat,Tiny.VC.1,215001205,2152
+f4f233a397199bc7,embers_r.mat,Tiny.V0.1,212806128,36740
+fa1288790850e587,embers_u.mat,Tiny.V1.1,209166189,20982
+42d2c3db54281100,embers_up_u.mat,Tiny.VB.1,211117474,21386
+887f2fa1e74d0424,shockwaveblur_r.mat,Tiny.VC.1,215003357,14106
+7e10196af96b6a6a,shockwaveblur_u.mat,Tiny.VD.1,5332868,346
+1564c6977ac46eab,glowring_r.mat,Tiny.VE.1,210058195,34110
+ee67f0db722ecfd2,glowring_u.mat,Tiny.VD.1,211164730,1318
+6e1c818547aacb66,upbeam_r.mat,Tiny.V5.1,208240488,55170
+7b8795a7dfb92ae1,upbeam_u.mat,Tiny.VE.1,126849714,774

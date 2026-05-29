@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+43d97f684fb0833e,projectile_font.mat,Tiny.V3,38219858,1540
+e5cc920deff6183b,projectile_font.dds,Streaming/Content/metadata/particles/monster_effects/labyrinth/3AD7F34F3C479C4F.322A6E4D5559AA80.mid_glow.pet,372800,43876
+162e89b1a28a1e6f,projectile_font.dds.header,Tiny.VC,39049623,840
+6f136583038d4458,beam_multic.mat,Tiny.V8,38465597,3078
+922bbaf3e8f63940,beam_multi.dds,Streaming/Content/metadata/effects/spells/monsters_effects/F50EB9A78F6C03E1.25966E8123E81A19.gargoyle_beam_backwards.ao,360732,174948
+985b69ce71fbb623,beam_multi.dds.header,Tiny.V6,38898361,840
+66c0ba0efce8e873,beam_atc.mat,Tiny.V4,38971698,4934
+86f6f0070a7b15a9,beam_at.dds,Streaming/Content/metadata/effects/spells/monsters_effects/F50EB9A78F6C03E1.25966E8123E81A19.gargoyle_beam_backwards.ao,185784,174948
+3fde40b4f0bbe50c,beam_at.dds.header,Tiny.VF,38804434,840
+10f60bb4214d6613,beam_addc.mat,Tiny.V4,38967836,3862
+ce481d2c9882e9d2,beam_add.dds,Streaming/Content/metadata/effects/spells/monsters_effects/F50EB9A78F6C03E1.25966E8123E81A19.gargoyle_beam_backwards.ao,10836,174948
+96b159e9699eb257,beam_add.dds.header,Tiny.V0,39081986,840

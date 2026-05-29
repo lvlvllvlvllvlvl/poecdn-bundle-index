@@ -1,0 +1,7 @@
+attachments
+attachments/faithswornlshoulderpadmale
+attachments/faithswornpanache
+attachments/faithswornrobefemale
+attachments/faithswornrobemale
+attachments/faithswornrshoulderpadmale
+textures

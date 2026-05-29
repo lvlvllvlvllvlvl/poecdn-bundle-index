@@ -1,0 +1,11 @@
+bones
+bones/mb
+bones/tex
+bones/tex/1024
+bones/tex/512
+crystals
+crystals/tex
+debris
+debris/mb
+gore
+gore/mb

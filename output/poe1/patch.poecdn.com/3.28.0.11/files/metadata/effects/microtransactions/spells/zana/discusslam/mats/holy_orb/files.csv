@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+af456aeb0e2acfe6,rose.mat,Tiny_9,372963688,36454
+75dc6b63ee7bbc20,rose_energy_cone_u.mat,Tiny_9,373000142,1370
+ea02094751dae19c,rose_threads_01_r.mat,Tiny_9,373001512,71086
+a9465c05e3102626,rose_threads_01_u.mat,Tiny_11,127344428,346
+5d2483b50ab2e4d2,explode_glowoomph_01_r.mat,Tiny_9,372919960,43728
+f95325b0c84b968e,explode_glowoomph_01_u.mat,Tiny_D,490541162,2148
+cd6b3194cb013e44,explode_coreglow_01_r.mat,Tiny_9,372876092,43868
+27afb28022a89830,explode_coreglow_01_u.mat,Tiny_D,490503734,2204
+9fbc2fb11c231248,explode_bluroomph_01_r.mat,Tiny_D,490446580,10176
+63288e04fa1b0bc6,explode_bluroomph_01_u.mat,Tiny_D,490456756,2204
+35aa361b3d34eba5,db_roseoomphblur_u.mat,Tiny_11,127344428,346
+ffdc2b3b39c34d4c,db_rosepetals_absorb_u.mat,Tiny_9,372806266,10326
+141bd2bb20491c39,db_rosepetals_r.mat,Tiny_9,372816592,34292
+111f36843da60165,db_rosepetals_u.mat,Tiny_9,372850884,25208
+d173cb9533a39993,db_roseenergy_r1.mat,Tiny_9,372725060,61104
+2dde1653959c0906,db_roseenergy_r2.mat,Tiny_9,372786164,20102

@@ -1,7 +1,0 @@
-beam
-beam_impact
-cyclone
-on_hit
-onact
-onact/soul_triple
-soul_bolt

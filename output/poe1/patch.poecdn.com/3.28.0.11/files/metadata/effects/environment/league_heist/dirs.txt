@@ -1,0 +1,9 @@
+magik_seal_door
+magik_seal_door/vfx
+magik_seal_door/vfx/graphs
+magik_seal_door/vfx/pet
+magik_seal_door/vfx/pet/robot
+magik_seal_door/vfx/pet/science
+magik_seal_door/vfx/pet/templar
+rewarddisplaychests
+rewarddisplaychests/pet

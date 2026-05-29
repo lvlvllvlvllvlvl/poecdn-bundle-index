@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+a8e1057bcb75c364,fire_bits_2x2.mat,Tiny.VC,34559212,3498
+d36cbdf8fa565b38,shockwave_charge.mat,Tiny.V6,34198858,6046
+66b4f2631d8d83c9,shockwave_charge_dxt5.dds,Streaming/Content/metadata/particles/fireball_explosion_smoke.pet,131432,87556
+3b7002cc17e8b449,shockwave_charge_dxt5.dds.header,Tiny.VD,35537592,1520
+7bf923045278c71c,blink_flash.mat,Tiny.V1,34134551,1586
+8b006dacd5722954,blink_flash_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/0EB7D72D609B77CB.8AAC9DBFA1AF8C81.explosionsuck.pet,517710,22020
+34b9ec162036fa37,blink_flash_dxt5.dds.header,Tiny.V6,5344529,1520
+ae03add15d7d86b2,beam_trail.mat,Tiny.V9,34543823,992
+ed970120db880133,beam_trail_dxt5.dds,Streaming/Content/metadata/particles/fireball_explosion_smoke.pet,87556,43876
+3757634532caf172,beam_trail_dxt5.dds.header,Tiny.VE,33830414,840
+dd09e858c64ec07c,example03.mat,Tiny.V5,33778609,1574
+6ca01bf21125ce05,example03_dxt5.dds,Streaming/Content/metadata/effects/spells/frenzy_02/arrow_flying.ao,1022210,5592580
+bfd2008be5fcf521,example03_dxt5.dds.header,Tiny.V9,34544815,1520

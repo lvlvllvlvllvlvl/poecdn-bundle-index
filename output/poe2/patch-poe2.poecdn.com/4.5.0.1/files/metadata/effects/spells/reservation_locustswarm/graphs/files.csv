@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+3c6aec16a44b4e92,custom_updatespeedscale.fxgraph,Content/metadata/effects/spells/storm_barrier/storm_barrier.ao,1510818,49898
+0b815e3138ce812e,custom_cullingnormalfix.fxgraph,Content/metadata/effects/spells/storm_barrier/storm_barrier.ao,1444892,25154
+f2780d11675c8f9d,custom_initialspawnpositionoverride.fxgraph,Content/metadata/effects/spells/storm_barrier/storm_barrier.ao,1470046,6598
+5f72406d25efbd92,custom_attractbugs.fxgraph,Content/metadata/effects/spells/storm_barrier/storm_barrier.ao,1301224,143668
+7ba61695e8849ad8,custom_scale_overlife.fxgraph,Content/metadata/effects/spells/storm_barrier/storm_barrier.ao,1476644,34174

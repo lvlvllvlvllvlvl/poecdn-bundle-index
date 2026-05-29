@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+24d1a8acfb66e6f5,explosiondesaturate.mat,Tiny.V8,34017940,944
+16b621a232a04a17,explosiondesaturate.dds,Streaming/Content/metadata/particles/elemental_damages/default_chaos_damage3.pet,0,22020
+8578e971b901c30d,explosiondesaturate.dds.header,Tiny.V2,34283822,1520
+3372d031a5a2f8fb,poison_purp.mat,Tiny.VE,33910521,1150
+f42babe4c19653bc,poison_purp.dds,Streaming/Content/metadata/particles/elemental_damages/default_chaos_damage3.pet,66060,349700
+ebc36c370a526444,poison_purp.dds.header,Tiny.VB,40585490,1520
+e916f54ed75d91f4,choassmoke_sub.mat,Tiny.V1,34246537,1052
+f221a440c085d33d,choassmoke_sub.dds,Streaming/Content/metadata/particles/elemental_damages/default_chaos_damage3.pet,44040,22020
+24be02de1bb3fc37,choassmoke_sub.dds.header,Tiny.V7,34285432,1520
+5008a55fdb81547d,choassmoke.mat,Tiny.VC,34657836,1156
+63054689b46bea15,choassmoke.dds,Streaming/Content/metadata/particles/elemental_damages/default_chaos_damage3.pet,22020,22020
+9f6da7947029f9ff,choassmoke.dds.header,Tiny.V7,34283912,1520

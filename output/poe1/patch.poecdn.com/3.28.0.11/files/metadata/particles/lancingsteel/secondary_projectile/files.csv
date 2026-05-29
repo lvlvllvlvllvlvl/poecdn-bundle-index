@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+0c01bd3b0084f017,circle_start.pet,Tiny_11,32953125,2718
+e63e0aa997d49f79,proj_trail.trl,Tiny_E,268583145,5058
+2c7bded6bad42c6e,midline_firing.pet,Tiny_E,268444167,12740
+c4e506ecae685bc5,midline_start.pet,Tiny_E,268552649,7624
+565879fd8adfbb6c,midline_start2.pet,Tiny_E,268560273,7624
+7df3d464a5debbe9,midline_start3.pet,Tiny_E,268567897,7624
+ec76f76311fdf349,midline_start4.pet,Tiny_E,268575521,7624
+763d509b01fe719f,midline_projectile.pet,Tiny_E,268498585,13516
+4564f4bfb07c8c74,midline_projectile2.pet,Tiny_E,268512101,13516
+d65f28efef171949,midline_projectile3.pet,Tiny_E,268525617,13516
+40b8d5f48c099161,midline_projectile4.pet,Tiny_E,268539133,13516
+668d457d9b79652d,midline_impact.pet,Tiny_E,268488347,10238
+f86b366e0c6c744f,midline_idle.pet,Tiny_E,268456907,7860
+2ab34649fa00a9c9,midline_idle2.pet,Tiny_E,268464767,7860
+9e800627ce89860a,midline_idle3.pet,Tiny_E,268472627,7860
+ae635ed748677bbf,midline_idle4.pet,Tiny_E,268480487,7860

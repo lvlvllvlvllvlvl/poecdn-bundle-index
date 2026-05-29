@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+4baf6e85fc99e11a,wave_embers_r.mat,Tiny.V8.1,10613306,26686
+b63cb4699b3683a9,init_embers_u.mat,Tiny.VD.1,11416478,11380
+ce3ec7a333cdcfe4,blur_pushy_r.mat,Tiny.V5.1,10913082,14680
+63f1ec919facb570,coreglow_01_r.mat,Tiny.V8.1,11753032,63012
+dfac1d358d616c4a,coreglow_01_u.mat,Tiny.V8.1,11816044,2606
+25a6eb46d6d26016,sphere_glow_oomphy_r.mat,Tiny.V4.1,8860986,37344
+4842fbfaf51c6f13,spheredistort_01_r.mat,Tiny.V1.1,8225988,8550
+41bea5a014efa3fa,spheredistort_01_u.mat,Tiny.VD.1,11427858,2606
+de4b3ea33f3120cc,explode_dustcloud_r.mat,Tiny.VF.1,11078040,41660
+f76f0d67e237d474,explode_dustcloud_radial_u.mat,Tiny.VF.1,11204320,12492

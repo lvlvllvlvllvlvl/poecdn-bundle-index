@@ -1,9 +1,0 @@
-mat
-pet
-pet/second_explode
-pet/volatiledead_aoe
-pet/volatiledead_fireorb
-pet/volatiledead_fireorb/death
-pet/volatiledead_fireorb/emerge
-pet/volatiledead_fireorb/idle
-pet/volatiledead_fireorb/spellcast_aoe

@@ -1,3 +1,0 @@
-divergence
-divergence/divergencecurios_model
-divergence/divergencecurios_model/fx

@@ -1,3 +1,0 @@
-astralchain_bases
-astralchain_large
-astralchain_small

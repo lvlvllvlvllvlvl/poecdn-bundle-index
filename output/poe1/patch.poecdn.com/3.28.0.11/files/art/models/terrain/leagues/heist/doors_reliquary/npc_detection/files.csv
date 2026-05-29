@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+d96a3d1eb7362564,heistdetectiondoor_01_npcdetectiondoor.fmt,Tiny_7,19668252,43
+e8e9771241cb336b,heistdetectiondoor_01_npcdetectiondoor.fmt.header,Tiny_7,56868231,128
+c1dc9efd7733a4b2,heistdetectiondoor_01_eventdrivenblocker.fmt,Tiny_5,61449127,269
+ebe485dbcd012eae,heistdetectiondoor_01_eventdrivenblocker.fmt.header,Tiny_5,61449396,152
+d50db6158683506c,heistdetectiondoor_01.sm,Tiny_5,61139141,912
+5381e5ae6c93dd4d,heistdetectiondoor_01.tgt,Tiny_5,61140053,1362
+49d3d09e34ecba40,heistdetectiondoor_01.tmd,Tiny_5,61141415,1065
+24555b92a98bfd49,detection_rig_604b8078.smd,Art/Models/Terrain/Leagues/Heist/Doors_Reliquary,2552532,266690
+a8ca48c95a165a81,detection_rig_604b8078.smd.header,Tiny_5,61138717,424
+53fbd6498ab8398c,detection_rig.amd,Tiny_5,61138567,150
+b86a92bda5fb91f7,detection_rig.ast,Art/Models/Terrain/Leagues/Heist/Doors_Reliquary,2548367,4165

@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+cc9a7e5400ee15a9,update_windvelocitymulti.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,500888,50010
+f0f081ad09f2f2cd,alpha_objectscale_mask.fxgraph,Content/metadata/effects/spells/holy_consecrate/consecrate_nova.ao,2406831,18800
+ae81021b231e1a22,flashreflected.fxgraph,Content/metadata/effects/spells/holy_consecrate/consecrate_nova.ao,2324863,81968
+f91771e2333fb51d,flashbeep.fxgraph,Tiny.V4.1,73907068,3824

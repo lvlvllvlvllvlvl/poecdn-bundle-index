@@ -1,0 +1,8 @@
+loftysummit
+loftysummit/textures
+loftysummit/textures/ground
+loftysummit/textures/rocks
+stronghold
+stronghold/textures
+stronghold/textures/architecture
+stronghold/tgms

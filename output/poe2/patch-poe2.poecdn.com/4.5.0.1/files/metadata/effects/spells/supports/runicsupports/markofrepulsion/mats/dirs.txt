@@ -1,0 +1,9 @@
+aoe
+aoedoom
+aoedoom/end
+aoedoom/ground
+aoedoom/loop
+aoedoom/pulse
+aoedoom/startburst
+mark
+onact

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+54a14306dbf2d1e9,rust_nethermancercloakc.mat,Tiny_2,56214635,2920
+f20a36a6cc310f3d,rust_nethermancercloak_normal.dds,Folders/art/models/items/backattachments/nethermancercloak/textures,1398424,1398276
+409ca95993a51c61,rust_nethermancercloak_normal.dds.header,Tiny_2,56213115,1520
+8dcc6571df85e095,rust_nethermancercloak_metal.dds,Folders/art/models/items/backattachments/nethermancercloak/textures,699212,699212
+2eddad1ba425d915,rust_nethermancercloak_metal.dds.header,Tiny_2,56211595,1520
+f4f64876aa1726bb,rust_nethermancercloak_colour.dds,Folders/art/models/items/backattachments/nethermancercloak/textures,0,699212
+31b798a1fae6853c,rust_nethermancercloak_colour.dds.header,Tiny_2,56210075,1520
+5ae93560a92fc164,nethermancercloakc.mat,Tiny_2,56207061,3014
+cd6fc2f235042fb3,nethermancercloak_normal_dxt5.dds,Art/Models/Items/BackAttachments/NethermancerCloak/Textures_1,0,1398276
+13b09dda7c84bc53,nethermancercloak_normal_dxt5.dds.header,Tiny_2,56205541,1520
+41cc0a83882ca1d2,nethermancercloak_metal_dxt1.dds,Art/Models/Items/BackAttachments/NethermancerCloak/Textures_2,0,699212
+02c00f7b473c9686,nethermancercloak_metal_dxt1.dds.header,Tiny_2,56204021,1520
+2481b41988a00927,nethermancercloak_colour_dxt1.dds,Art/Models/Items/BackAttachments/NethermancerCloak/Textures,0,699212
+2daea05073481115,nethermancercloak_colour_dxt1.dds.header,Tiny_2,56202501,1520

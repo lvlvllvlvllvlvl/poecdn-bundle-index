@@ -1,0 +1,8 @@
+chains_orb
+consume
+frenzy_charge
+frenzy_charge/chains_orb
+frenzy_charge/consume
+power_charge
+power_charge/chains_orb
+power_charge/consume

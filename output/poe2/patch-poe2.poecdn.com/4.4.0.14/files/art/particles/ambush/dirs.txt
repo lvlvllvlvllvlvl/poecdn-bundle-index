@@ -1,6 +1,0 @@
-mb
-mb/phase_in
-textures
-textures/buff
-textures/phase_in
-textures/teleport

@@ -1,3 +1,0 @@
-attack_01
-attack_01/stab
-spit_01

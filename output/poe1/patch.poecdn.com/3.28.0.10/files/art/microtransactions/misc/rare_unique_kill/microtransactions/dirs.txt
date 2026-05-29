@@ -1,5 +1,0 @@
-misc
-misc/rare_unique_kill
-misc/rare_unique_kill/vaaljudgementpalm
-misc/rare_unique_kill/vaaljudgementpalm/textures
-misc/rare_unique_kill/vaaljudgementpalm/textures/textures

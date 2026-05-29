@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+1eaf89baefe07610,expeditiondeathknight.mat,Art/Models/MONSTERS/DeathKnight/Textures,0,4258
+b83b8a1fa0d79612,expeditiondeathknight_normal_dxt5.dds,Art/Models/MONSTERS/DeathKnight/Textures_1,0,1398276
+d9e7a14431225920,expeditiondeathknight_normal_dxt5.dds.header,Tiny_3,2288269,1520
+254bb547e331ea9f,expeditiondeathknight_metal_dxt1.dds,Art/Models/MONSTERS/DeathKnight/Textures,4258,174924
+6e7338deaf7b2417,expeditiondeathknight_metal_dxt1.dds.header,Tiny_3,2286749,1520
+fd6818763aacdce7,expeditiondeathknight_glowgray_dxt1.dds,Art/Models/MONSTERS/DeathKnight/Textures,179182,43852
+d4f473dd8de994e8,expeditiondeathknight_glowgray_dxt1.dds.header,Tiny_3,2285229,1520
+80fb10a0b2773d3e,expeditiondeathknight_colour_dxt1.dds,Art/Models/MONSTERS/DeathKnight/Textures,223034,699212
+dbfaf0fb13f972ca,expeditiondeathknight_colour_dxt1.dds.header,Tiny_3,2283709,1520
+e4d7c861817567dc,deathknightmaulc.mat,Tiny_3,2279639,4070
+794eb95d4d5a0b6d,deathknightmaul_normal_dxt5.dds,Folders/art/particles/monster_particles/league_sanctum_3,1541815,87556
+5cef11c12508c11f,deathknightmaul_normal_dxt5.dds.header,Tiny_7,22363084,1520
+013323c471643684,deathknightmaul_glowgray_dxt5.dds,Art/Models/MONSTERS/DeathKnight/Textures,922246,22020
+245cb31cf36fd135,deathknightmaul_glowgray_dxt5.dds.header,Tiny_7,22361564,1520
+ad6b6677b9cc6c3a,deathknightmaul_colour_dxt5.dds,Folders/art/models/monsters/valakotribe,219424,87556
+3328430f904ee67c,deathknightmaul_colour_dxt5.dds.header,Tiny_7,22360044,1520

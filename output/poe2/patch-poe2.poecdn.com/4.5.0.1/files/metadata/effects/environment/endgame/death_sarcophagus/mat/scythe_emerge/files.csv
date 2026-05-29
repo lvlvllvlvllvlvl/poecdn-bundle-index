@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+3b0ed0c0133ef52c,ghost_flames_r.mat,Tiny.VC.1,7845975,36620
+d6c684d0743db75e,ghost_flames_u.mat,Tiny.VA.1,7069930,8556
+9598df9b23846d7e,explode_coreshimmer_01_r.mat,Tiny.V2.1,6359166,41216
+33c9a1f3ed3cd198,explode_core_01_u.mat,Tiny.V3.1,6965379,3572
+05a04539e89c0f49,blur_oomph_01_r.mat,Tiny.V5.1,5924646,9614
+4ce3eab76509c16d,blur_oomph_01_u.mat,Tiny.V1.1,5149436,3572
+7a2caa4f131fa9a4,shimmer_wave_01_r.mat,Tiny.V9.1,6657584,22986
+c06dcb91c5d39103,shimmer_wave_01_u.mat,Tiny.V1.1,5149436,3572
+e8e167700b333fb1,slam_windwave_r.mat,Tiny.V2.1,6400382,51414
+728bd40f6591e298,slam_windwave_u.mat,Tiny.V6.1,5897339,3760
+1d93c9818a5c29f4,sarc_smoke_01_u.mat,Tiny.V1.1,5153008,19408
+dcc7e8db333514be,sarc_smoke_01side_u.mat,Tiny.VC.1,7882595,20936
+fe60408d267dd9d8,rise_smoke_02_r.mat,Tiny.V9.1,6608890,48694
+9f94f97fe71c9dd6,rise_smoke_01_r.mat,Tiny.V9.1,6608890,48694
+2931fb064c690c4c,deathwisp_blurtrail_01_r.mat,Tiny.V8.1,6065138,29852
+93ecf79ead396c80,deathwisp_smoketrail_01_r.mat,Tiny.V8.1,6094990,40198

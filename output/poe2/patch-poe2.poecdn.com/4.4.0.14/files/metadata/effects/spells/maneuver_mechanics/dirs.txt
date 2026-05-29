@@ -1,6 +1,0 @@
-afterimage
-fx
-fx/iron_skin
-graphs
-mat
-mat/iron_skin

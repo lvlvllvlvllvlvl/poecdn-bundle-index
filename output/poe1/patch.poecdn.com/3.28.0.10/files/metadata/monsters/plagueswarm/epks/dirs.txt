@@ -1,2 +1,0 @@
-blooddrone
-blooddrone/attach_idle_fade

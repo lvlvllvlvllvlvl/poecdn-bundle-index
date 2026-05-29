@@ -1,5 +1,0 @@
-cliffs
-coins
-ground
-marine
-wood

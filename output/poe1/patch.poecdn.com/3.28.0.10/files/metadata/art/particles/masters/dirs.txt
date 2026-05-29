@@ -1,6 +1,0 @@
-einhar
-einhar/blood_aura
-einhar/blood_aura/fx
-einhar/mine_bomb
-einhar/mine_bomb/fx2
-kheema

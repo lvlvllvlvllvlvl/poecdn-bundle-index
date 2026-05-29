@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+ece2623bf8d5faa3,cone.fmt,Tiny.V1,41126918,3429
+30be6742600ccff7,cone.fmt.header,Tiny.V0,41267504,176
+543141171975e86c,rig_2c1238e3.smd,Tiny.V6,41278660,76
+773b29ed9918e617,rig_2c1238e3.smd.header,Tiny.V7,41179829,448
+7a0da8ff3b1a5f0a,beam.sm,Tiny.V1,41126598,320
+7272f80bd47e1951,beam.amd,Tiny.VF,34283570,86
+5ef4b89afd3f3cec,beam.ast,Tiny.V6,34137141,302

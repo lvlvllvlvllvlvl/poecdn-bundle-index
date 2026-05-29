@@ -1,0 +1,15 @@
+attachments
+attachments/twilightorderassassin
+attachments/twilightorderassassin/dagger
+attachments/twilightorderofficer
+attachments/twilightorderofficer/shoulderpads
+attachments/twilightorderofficer/skirt
+attachments/twilightorderofficer/skirt_front_cloth
+attachments/twilightorderofficer/skirt_metal
+attachments/twilightorderofficer/sword
+attachments/twilightorderzealotssoldiers
+attachments/twilightorderzealotssoldiers/helmet
+attachments/twilightorderzealotssoldiers/shield
+attachments/twilightorderzealotssoldiers/skirt
+attachments/twilightorderzealotssoldiers/skirt_front_cloth
+attachments/twilightorderzealotssoldiers/sword

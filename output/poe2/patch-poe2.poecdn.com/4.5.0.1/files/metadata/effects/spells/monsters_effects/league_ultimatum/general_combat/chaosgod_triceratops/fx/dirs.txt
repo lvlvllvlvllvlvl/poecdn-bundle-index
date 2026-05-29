@@ -1,0 +1,5 @@
+180_slam
+basic_attack
+lightning_beam
+lightning_charge
+tail_slam

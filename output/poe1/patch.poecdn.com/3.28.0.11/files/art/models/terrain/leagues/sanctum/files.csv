@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+91268345e6240668,sanctum_templarcourts_airlocktransition_area_transition.fmt,Tiny_6,1702405,394
+8b71714993a9270b,sanctum_templarcourts_airlocktransition_area_transition.fmt.header,Tiny_6,1702799,152
+5f89529eec363ab0,sanctum_templarcourts_airlocktransition.tgt,Tiny_6,1701038,930
+04b0aae8aed340f4,sanctum_templarcourts_airlocktransition.tmd,Tiny_6,1701968,437
+917a93e6df10af9c,sanctum_relic_bench.fmt,Art/Models/Terrain/Leagues/Sanctum,0,66506
+0e104b21a28cb4fd,sanctum_relic_bench.fmt.header,Tiny_6,1700547,491
+531af69f77078be1,sanctum_relic_altar.fmt,Art/Models/Terrain/Leagues/Sanctum,71856,38792
+5b8530746a6b96d9,sanctum_relic_altar.fmt.header,Tiny_6,1700133,414
+80d5ab4b1cd649b3,sanctum_entrance_area_transition.fmt,Tiny_6,1699668,304
+e52af0c70783af30,sanctum_entrance_area_transition.fmt.header,Tiny_6,1699972,161
+781f35eb820900f7,sanctum_entrance.tgt,Tiny_6,1698113,1210
+3010ce940d979108,sanctum_entrance.tmd,Tiny_6,1699323,345
+05727099fac811a7,lycia_arena_fill.tgt,Tiny_6,1697887,226
+ac3b8cf529a19090,lycia_arena_platform.tgt,Art/Models/Terrain/Leagues/Sanctum,66506,5350

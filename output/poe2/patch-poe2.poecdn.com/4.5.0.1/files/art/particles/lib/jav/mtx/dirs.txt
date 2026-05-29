@@ -1,0 +1,12 @@
+armour
+armour/headattachment
+aura
+aura/aura_basic
+aura/aura_spinner
+chafx
+chafx/orb_phys
+chafx/trail_ao
+footprints
+hideout
+weapon
+weapon/spirals

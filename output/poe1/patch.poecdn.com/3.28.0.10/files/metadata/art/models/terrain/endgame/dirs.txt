@@ -1,9 +1,0 @@
-primordialarenas
-primordialarenas/blackstararena
-primordialarenas/blackstararena/textures
-primordialarenas/cleansingfirearena
-primordialarenas/cleansingfirearena/influencedoodads
-primordialarenas/cleansingfirearena/influencedoodads/textures
-primordialarenas/primordialaltars
-primordialarenas/primordialaltars/vfx
-primordialarenas/primordialaltars/vfx/textures

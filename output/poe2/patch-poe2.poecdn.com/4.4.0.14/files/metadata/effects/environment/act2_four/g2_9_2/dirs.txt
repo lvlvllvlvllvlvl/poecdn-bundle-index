@@ -1,6 +1,0 @@
-epk
-fx
-fx/activation_pulse
-mat
-mat/activate_monster
-mat/activation_pulse

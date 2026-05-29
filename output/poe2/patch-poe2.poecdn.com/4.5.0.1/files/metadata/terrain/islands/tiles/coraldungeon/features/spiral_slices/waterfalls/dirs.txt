@@ -1,0 +1,10 @@
+fx
+graph
+mat
+mat/curved_high
+mat/ledge_mid
+mat/ledge_short
+mat/ledge_splash
+mat/straight_high
+mat/straight_mid
+mat/walkable

@@ -1,2 +1,0 @@
-interior_1x1
-interior_2x2

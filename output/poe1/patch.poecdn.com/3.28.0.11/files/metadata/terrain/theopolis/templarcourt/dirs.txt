@@ -1,0 +1,11 @@
+feature
+feature/burned
+floor
+floor/burned
+ledge
+outerwall
+stairs
+thickwall
+thickwall/burned
+thinwall
+thinwall/burned

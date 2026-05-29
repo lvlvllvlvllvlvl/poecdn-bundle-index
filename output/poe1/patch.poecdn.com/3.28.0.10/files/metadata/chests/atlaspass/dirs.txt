@@ -1,9 +1,0 @@
-attachment
-attachment/graph
-attachment/pet
-epks
-pet
-pet/atlaspasschest_01
-pet/atlaspasschest_01/idle
-pet/atlaspasschest_01/open
-premium

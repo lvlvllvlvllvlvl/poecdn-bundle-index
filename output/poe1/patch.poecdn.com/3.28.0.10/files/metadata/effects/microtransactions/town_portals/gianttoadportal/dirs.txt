@@ -1,8 +1,0 @@
-epk
-fx
-fx/albino
-fx/green
-graph
-mat
-mat/albino
-mat/green

@@ -1,7 +1,0 @@
-bow
-caster
-maul
-sceptrebook
-staff
-swordshield
-swordsword

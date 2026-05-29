@@ -1,7 +1,0 @@
-graphs
-rooms
-rooms/connections
-rooms/hall
-rooms/unique
-rooms/unique/injectors
-rooms/yard

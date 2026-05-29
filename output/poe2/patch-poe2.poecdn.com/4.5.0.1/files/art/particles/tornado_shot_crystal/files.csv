@@ -1,0 +1,31 @@
+hash,file,bundle,offset,size
+2d6239c9693610f7,firey_flare.mat,Tiny.V7,41563886,1364
+c91fde183a56a33b,firey_flare.dds,Streaming/Content/metadata/particles/glacial_cascade/wind_blast.pet,1486664,349700
+5604c97615186f52,firey_flare.dds.header,Tiny.V0,41767565,1520
+328b825fbe2c46d3,circle_cracklight.mat,Tiny.V5,41163921,1400
+490176ecb7c8d370,circle_cracklight.dds,Streaming/Content/metadata/particles/glacial_cascade/wind_blast.pet,1136964,349700
+c04bceb9ccf31280,circle_cracklight.dds.header,Tiny.V4,41839295,1520
+24393a08d0f33a4a,maxres.mat,Tiny.VB,41860974,1360
+0b5e858547228dc3,maxres.dds,Streaming/Content/metadata/particles/glacial_cascade/wind_blast.pet,1836364,87588
+02d7271083f4a9b6,maxres.dds.header,Tiny.V2,41392828,504
+28dd6466c0c12b5a,pulse.mat,Tiny.VF,41543352,2260
+bcb57802cac613c4,pulse.dds,Streaming/Content/metadata/particles/glacial_cascade/wind_blast.pet,1923952,87556
+d387b0f7fdf36edf,pulse.dds.header,Tiny.V6,41735776,1520
+035c9544ac8d6a8a,beam_trailc.mat,Tiny.VB,41857938,1516
+c144bf3cd38c2ae1,beam_trail.dds,Streaming/Content/metadata/effects/spells/tornado_shot_crystal/96D4E8C29C6675DC.tornadoarrow.ao,380229,43876
+6bfa75b912a852ec,beam_trail.dds.header,Tiny.VC,41886659,840
+b73bf10dd2351ac9,blink_spiral_bigger.mat,Tiny.V0,41766129,1436
+d16da88c643b8554,blink_spiral_bigger.dds,Streaming/Content/metadata/particles/glacial_cascade/wind_blast.pet,962040,174924
+c031a5e2edc96fa1,blink_spiral_bigger.dds.header,Tiny.V9,42050684,1520
+6f19c8817075e037,blink_spiral_bigger _accent.mat,Tiny.V3,40908415,1486
+080021070fefd82f,blink_spiral_bigger _accent.dds,Streaming/Content/metadata/particles/glacial_cascade/wind_blast.pet,612340,349700
+b7193ae8e0344cdc,blink_spiral_bigger _accent.dds.header,Tiny.VB,41859454,1520
+c76ffa97fcb0deb7,skeletonsoldier01crystallisedcsskeletonsoldier01n.mat,Tiny.VE,41206510,3810
+8a5a527c3d1c6c68,skeletonsoldier01crystallised_colour.dds,Streaming/Content/metadata/effects/spells/tornado_shot_crystal/96D4E8C29C6675DC.tornadoarrow.ao,424105,349700
+cc16fc4da89ab033,skeletonsoldier01crystallised_colour.dds.header,Tiny.V7,41565250,1520
+54324d7bea616d89,skelcrystal_arrowcskeletonsoldier01nskeletonsoldier01crystalliseds.mat,Tiny.VC,41887499,3172
+33204082c22e6cfc,skelcrystal_arrow_colour.dds,Streaming/Content/metadata/effects/spells/tornado_shot_crystal/arrow_stuck.ao,4229,349700
+f9b6812895a5b6c3,skelcrystal_arrow_colour.dds.header,Tiny.V9,42052204,1520
+2c9bce710e194987,spark3_blue.mat,Tiny.VC,41892191,1382
+6335fa9cccb1c395,spark3_blue.dds,Streaming/Content/metadata/particles/glacial_cascade/wind_blast.pet,2011508,87556
+6e96835702349a40,spark3_blue.dds.header,Tiny.VC,41890671,1520

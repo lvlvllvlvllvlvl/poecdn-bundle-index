@@ -1,0 +1,9 @@
+caster_to_spear_01
+death
+fire_chaos_rain
+lance_hell
+lance_hell/audio
+serpent_strike
+spear_combo
+spear_throw
+spinning_slam

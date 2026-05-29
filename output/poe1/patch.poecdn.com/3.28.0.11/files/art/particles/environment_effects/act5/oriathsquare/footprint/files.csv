@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+dad1d7a9e6331c80,torch_windy.mat,Tiny_6,26828087,3026
+bdc36d36c7dc63c6,torch_windy.dds,Art/particles/environment_effects/interface,0,43876
+8505cb22b6d2da95,torch_windy.dds.header,Tiny_6,29914149,840
+cb73993d5a26f851,smoke_main.mat,Tiny_6,26825377,2710
+8cc7881fd3be7a73,smoke_main.dds,Art/particles/environment_effects/act5_10,568476,87556
+fed95ddc06d63d53,smoke_main.dds.header,Tiny_6,104124582,1520
+76673bf5b1ac7f21,smoke_dxt5.dds,Art/Microtransactions/Town_Portal/DaressoPortal,238585,43876
+badc45f56aacd632,smoke_dxt5.dds.header,Tiny_6,89284721,840
+617c07ff9fd30870,smoke.mat,Tiny_6,26822711,2666
+087ecc5b24c4e60b,smoke.dds,Art/Microtransactions/Town_Portal/DaressoPortal,238585,43876
+b5e4551d47546278,smoke.dds.header,Tiny_6,89284721,840
+3c6f8bb8cc98be33,lava_dots.mat,Tiny_6,26820041,2670
+7381a64f93ad02d4,lava_dots.dds,Art/particles/environment_effects/act5_10,524624,43852
+190c8191e40b07ee,lava_dots.dds.header,Tiny_6,26818521,1520

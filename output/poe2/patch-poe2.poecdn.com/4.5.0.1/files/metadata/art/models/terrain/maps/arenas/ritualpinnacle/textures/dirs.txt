@@ -1,0 +1,7 @@
+foliage
+foliage/trees
+grounds
+moss
+rocks
+statues
+tanemahuta

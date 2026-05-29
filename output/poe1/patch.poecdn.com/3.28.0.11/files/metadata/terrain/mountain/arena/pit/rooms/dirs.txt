@@ -1,0 +1,6 @@
+arenas
+arenas/2x2
+endgame2x2
+fill
+hallway
+unique

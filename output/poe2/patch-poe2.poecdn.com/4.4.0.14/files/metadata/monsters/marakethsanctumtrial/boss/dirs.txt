@@ -1,6 +1,0 @@
-apparitionboss
-apparitionboss/portals
-objects
-sentinels
-shakari
-shakari/objects

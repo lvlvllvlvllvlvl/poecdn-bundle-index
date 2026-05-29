@@ -1,8 +1,0 @@
-attachments
-attachments/bodycloth
-attachments/cowl
-attachments/feathers
-attachments/skirt
-attachments/skirt/female
-attachments/skirt/male
-textures

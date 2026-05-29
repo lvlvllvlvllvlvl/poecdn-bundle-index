@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+1bdc3df585f64e3c,sparks_linger.mat,Tiny_6,46387829,2354
+ca6560a47953336b,runes_glowupc.mat,Art/particles/mana_void/Textures,87556,5024
+8cef3a1dedb05a30,runes_glowup.dds,Art/particles/mana_void/Textures,0,87556
+d46aa4f5f077c9f4,runes_glowup.dds.header,Tiny_6,46386309,1520
+d424c31935c2150e,bloom_glowc.mat,Tiny_6,46188089,3898
+eebb0cd55c90921b,bloom_glowc_impact.mat,Tiny_6,46191987,3804
+706a671457bd81aa,bloom_glowc_impact_runeextend.mat,Tiny_6,46195791,3998
+f0eda237e90dafd6,bloom_glow.dds,Art/particles/mana_void/Textures,92580,174924
+755b252f6490e38b,bloom_glow.dds.header,Tiny_6,46186569,1520

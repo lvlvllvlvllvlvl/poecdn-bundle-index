@@ -1,0 +1,6 @@
+bile
+bile/fog
+blood_fog
+groundhole
+heart
+heart/new

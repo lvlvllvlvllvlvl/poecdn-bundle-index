@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+3f8b1b23c100a9be,exploded_skull.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.53943745FE743E3A.death_explosion.pet,0,88518
+89150bb9c79f1719,exploded_skull.fmt.header,Tiny.VF,12149994,222
+43fef0c6f21423c9,chimerabossremake.sm,Tiny.VF,12145766,4228
+2f6a8a44c0351a29,chimerabossremakeexploded.sm,Tiny.V9,12378659,878
+b5a47cb489fe2093,chimerabossremakeexploded_armour_024eab18.smd,Streaming/Content/metadata/monsters/chimerawetlandsboss/chimerawetlandsboss.act,0,3427939
+8f8259c9262527c3,chimerabossremakeexploded_armour_024eab18.smd.header,Tiny.VD,12004426,770
+0696f0f0a744735f,chaosgodchimeramonster.sm,Tiny.VA,12068270,544
+56b86e3dbb871016,chaosgodchimeramonster_armour_5565394e.smd,Streaming/Content/metadata/monsters/chaosgodchimera/chaosgodchimera.ao,0,724101
+bb55cc4eaa19e90b,chaosgodchimeramonster_armour_5565394e.smd.header,Tiny.VE,12052884,448
+8af3ba9ea0bb6bd6,rig_048e1038.smd,Streaming/Content/metadata/monsters/chimerawetlandsboss/chimerawetlandsboss.act.1,0,5155731
+ca9d458f44634e34,rig_048e1038.smd.header,Tiny.VC,11942364,448
+dcb07ab7477abd99,rig.amd,Content/metadata/monsters/chimerawetlandsboss/chimerawetlandsboss.act,0,68668
+a71b88b1a3bacf5a,rig.ast,Content/metadata/monsters/chimerawetlandsboss/chimerawetlandsboss.act,68668,5241923

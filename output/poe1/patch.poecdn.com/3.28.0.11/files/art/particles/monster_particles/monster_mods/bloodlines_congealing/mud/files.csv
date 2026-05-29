@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+abc804689389f2a6,water_volume2_mud.mat,Tiny_7,37272842,1926
+6addbada3ba1bc36,water_volume2_mud.dds,Art/particles/monster_particles/monster_mods_1,349700,87556
+62228a9e20a548c7,water_volume2_mud.dds.header,Tiny_7,37271322,1520
+8fd7fcf2213f82f5,water_nova_at.mat,Tiny_7,37268520,2802
+ab011d3c499c2588,water_nova_at.dds,Art/particles/monster_particles/monster_mods_1,0,349700
+6788dbb699dd088f,water_nova_at.dds.header,Tiny_7,37267000,1520
+6c7f8f33547a52d1,water_nova.mat,Tiny_7,37265120,1880
+f88eed04ec3b7e9d,water_nova.dds,Art/particles/monster_particles/monster_mods,1398472,349700
+c75e71a2ef5f715b,water_nova.dds.header,Tiny_7,37263600,1520
+4cf48e2efb30cc7e,wall_water_at.mat,Tiny_7,37261728,1872
+b3bd85fa629c337b,wall_water_at.dds,Art/particles/monster_particles/monster_mods,699236,699236
+12fe1fab75aee2bb,wall_water_at.dds.header,Tiny_7,37260888,840
+4b5b1dd283b08e2c,wall_water.mat,Tiny_7,37259008,1880
+d67c1ee6e772d209,wall_water.dds,Art/particles/monster_particles/monster_mods,0,699236
+f2f9aeaf16243a0c,wall_water.dds.header,Tiny_7,37258168,840

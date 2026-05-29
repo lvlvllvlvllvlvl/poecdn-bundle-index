@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+d82443e133fd90e7,pointattraction_lifetime.fxgraph,Content/metadata/effects/spells/monsters_effects/act2_four/68759B5A5C1DA5D3.attack_02.epk,63808,255722
+9798ff35d9b99eb4,innermaterial_local.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/F1B52535E3154293.onact_attack_01.trl,2340162,126626
+ad71f4ce6dc0791b,field_groundsplat_radial.fxgraph,Content/metadata/particles/monster_effects/3DC681C2C41541AC.eye_charge.pet,49348,300368
+f159edddce4d1dc2,fadeinout.fxgraph,Content/metadata/effects/spells/monsters_effects/F657259687128816.vaalsoul.ao,65713,22312

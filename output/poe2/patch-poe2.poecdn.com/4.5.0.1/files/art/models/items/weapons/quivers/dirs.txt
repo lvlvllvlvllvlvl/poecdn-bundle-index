@@ -1,0 +1,8 @@
+basetypes
+basetypes/textures
+defaultarrowquiver
+microtransactions
+microtransactions/blightedrangerquiver
+microtransactions/eldritchemperorquiver
+microtransactions/eldritchemperorquiver/attachments
+microtransactions/zodiacdragonquiver

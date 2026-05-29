@@ -1,4 +1,0 @@
-cannons
-cannons/textures
-swords
-swords/textures

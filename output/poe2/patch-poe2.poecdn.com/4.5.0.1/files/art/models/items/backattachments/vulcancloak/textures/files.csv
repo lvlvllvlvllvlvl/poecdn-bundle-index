@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+909bde475e215042,vulcancloakc.mat,Tiny.V0,10888645,2504
+5b7dc47194eb0724,vulcancloakfxc.mat,Tiny.V3,10646855,6108
+b379ebff2b5d4eed,vulcancloak_glow_dxt5.dds,Streaming/Content/metadata/items/armours/capes/D17A78D4D1547C48.vulkancloakheld.ao,1536769,1398276
+07969e4b7b3a7962,vulcancloak_glow_dxt5.dds.header,Tiny.VF,10780714,1520
+4090d7278b5723ff,vulcancloak_metal_dxt5.dds,Streaming/Content/metadata/items/armours/capes/D17A78D4D1547C48.vulkancloakheld.ao,2935045,1398276
+2d092e35508bffee,vulcancloak_metal_dxt5.dds.header,Tiny.VA,10745688,1520
+ec5f15702223f25c,vulcancloak_colour_dxt5.dds,Streaming/Content/metadata/items/armours/capes/D17A78D4D1547C48.vulkancloakheld.ao,138493,1398276
+a7e53fcc3ab5ab71,vulcancloak_colour_dxt5.dds.header,Tiny.VA,10744168,1520
+7e9d562c25481b1b,vulcancloak_normalc.mat,Tiny.VB,10738014,6484
+4a4e708b23458f71,vulcancloak_normal_dxt5.dds,Streaming/Content/metadata/items/armours/capes/D17A78D4D1547C48.vulkancloakheld.ao,4333321,1398276
+fb4c47b575d30c9a,vulcancloak_normal_dxt5.dds.header,Tiny.V2,10902088,1520

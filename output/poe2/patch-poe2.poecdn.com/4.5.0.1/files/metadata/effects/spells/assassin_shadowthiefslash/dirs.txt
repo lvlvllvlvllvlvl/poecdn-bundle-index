@@ -1,0 +1,5 @@
+epk
+fx
+fx/main_slash
+fx/shadow_beam
+fx/shadow_slash

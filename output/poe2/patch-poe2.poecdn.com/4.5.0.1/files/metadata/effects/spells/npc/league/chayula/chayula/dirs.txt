@@ -1,0 +1,9 @@
+ao
+epks
+fx
+mats
+mats/armflames
+mats/chayula_blood
+mats/goopystrings
+mats/handflames
+mats/headflames

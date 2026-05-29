@@ -1,5 +1,0 @@
-cloak
-head
-head/attachments
-skirt
-skirt/attachments

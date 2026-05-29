@@ -1,0 +1,5 @@
+legchain
+lfeather
+ljewels
+rfeather
+rjewels

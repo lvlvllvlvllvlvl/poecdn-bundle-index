@@ -1,0 +1,12 @@
+cape
+cape/dex
+cape/dexint
+cape/int
+cape/str
+cape/strdex
+cape/strdexint
+cape/strint
+hip_plates
+shoulderpad
+shoulderpad/strint
+skirt

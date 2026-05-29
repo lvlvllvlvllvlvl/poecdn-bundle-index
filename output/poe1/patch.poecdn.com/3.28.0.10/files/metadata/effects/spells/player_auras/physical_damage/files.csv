@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-2940beaf89acf0ed,phys_aura.ao,Tiny_D,382326726,1592
-664ff4c05b4864a9,player_aura.epk,Tiny_D,382328318,188
-e2491a8877d9ba2d,enemy_maxlimit.epk,Tiny_D,382317244,458
-4f704f4b693d4e82,enemy_maxlimit_epk_pass0.mat,Tiny_D,382317702,9024
-ccdb37b2bc19e50c,enemy_affected.epk,Tiny_D,382306464,432
-c76ebaa196f9734b,enemy_affected_fadeout.epk,Tiny_D,382306896,474
-e392977013a9f12f,enemy_affected_fadeout_epk_pass0.mat,Tiny_D,382307370,9874

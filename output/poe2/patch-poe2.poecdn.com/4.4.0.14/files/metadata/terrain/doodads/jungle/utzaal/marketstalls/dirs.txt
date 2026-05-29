@@ -1,7 +1,0 @@
-fishery
-spice
-stalls
-stalls/marketstallsbare
-stalls/marketstallscloth
-stalls/stalldividers
-stalls/stalldividers/stalldividerscloth

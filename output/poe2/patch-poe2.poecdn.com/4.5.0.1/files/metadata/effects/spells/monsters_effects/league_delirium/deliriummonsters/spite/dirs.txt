@@ -1,0 +1,15 @@
+epk
+fx
+fx/basic_attack
+fx/self_proj
+fx/volatile
+mat
+mat/basic_attack
+mat/decellightningball
+mat/decellightningballexplode
+mat/lightningattack
+mat/lightninghit
+mat/meleetrail
+mat/onact_lightning_ball
+mat/self_proj
+mat/volatile

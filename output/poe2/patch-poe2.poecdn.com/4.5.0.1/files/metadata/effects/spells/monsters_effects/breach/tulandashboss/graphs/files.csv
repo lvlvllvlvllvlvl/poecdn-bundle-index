@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+c99a20e2e9bb8f85,uvmultbyobjscale.fxgraph,Content/metadata/monsters/breachbosshandmage/spidermines.ot,310902,28090
+25ad233a5cd26c68,mask_animated_tlp.fxgraph,Content/metadata/monsters/breachbosshandmage/spidermines.ot,73036,237866
+ebc9f745beb86c74,vtx_terrainmask_softalpha.fxgraph,Content/metadata/monsters/breachbosshandmage/spidermines.ot,338992,28472
+fa0f28841e2e25f8,directional_mesh_ctrls.fxgraph,Content/metadata/effects/spells/monsters_effects/breach/AE7A5FD0544429CE.bellboy_wbb.ao,230160,48198
+3e69e98be0051057,groundbreak_direction_animated.fxgraph,Content/metadata/effects/spells/monsters_effects/breach/AE7A5FD0544429CE.bellboy_wbb.ao,278358,349298
+d249af3fd866c09f,geometryanglemesh.fxgraph,Content/metadata/effects/spells/monsters_effects/act8/1B96EA2C2C16B883.fire_beam.ao,888484,36286
+56797954e4b6c46c,custom_epk_position_world.fxgraph,Content/metadata/monsters/breachbosshandmage/spidermines.ot,24364,48672
+a294d5835409d261,custom_directional_mesh_ctrls.fxgraph,Content/metadata/effects/spells/monsters_effects/act8/1B96EA2C2C16B883.fire_beam.ao,561399,48198
+a5577040fd29404d,custom_fade_bytimelinefloat.fxgraph,Content/metadata/effects/spells/monsters_effects/act8/1B96EA2C2C16B883.fire_beam.ao,769308,12576
+32023fafe7f1edc4,custom_gameplayemitter.fxgraph,Content/metadata/effects/spells/monsters_effects/act8/1B96EA2C2C16B883.fire_beam.ao,781884,106600

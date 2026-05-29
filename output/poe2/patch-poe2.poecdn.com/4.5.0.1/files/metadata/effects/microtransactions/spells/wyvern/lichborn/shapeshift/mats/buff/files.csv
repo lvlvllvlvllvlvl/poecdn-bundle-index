@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+8de32fda4d318042,buffshock_start_u.mat,Tiny.V1.1,50606436,4014
+782eb33c221418ea,buffshock_start_r1.mat,Tiny.VC.1,53778097,36144
+1a15b4b6952093b3,buffshock_start_r2.mat,Tiny.V1.1,50804872,21488
+b9b72ff24a05e6ce,wingtrail_lightning.mat,Tiny.VF.1,50921254,32862
+bb2b0cd55381fe7a,wingtrail_blur.mat,Tiny.V7.1,48973282,25360
+ce8d1008ff3f5c33,wingtendrils_r.mat,Tiny.VB.1,52535127,68978
+52bf80f130b532bb,wingtendrils_u.mat,Tiny.VC.1,76572505,6730
+a50950a9c1c165fa,winglightning_r.mat,Tiny.V6.1,52011775,55802
+820bddd8563b9d9b,winglightning_u.mat,Tiny.V8.1,76629164,2768
+6b8c1c58b61bc0cb,eyelightning_r.mat,Tiny.V5.1,53346846,34512
+b94907fd229e615c,eyelightning_u.mat,Tiny.V9.1,56079162,2770
+c572d0914489fbdd,eyeglow_trail.mat,Tiny.VC.1,53814241,28628
+310fb8625da9de6b,eyeglow_light_r.mat,Tiny.VF.1,50897956,23298
+b4418cad00238fd2,eyeglow_u.mat,Tiny.V7.1,5387450,576

@@ -1,2 +1,0 @@
-fire_harpoon_gun
-fire_harpoon_gun/portal

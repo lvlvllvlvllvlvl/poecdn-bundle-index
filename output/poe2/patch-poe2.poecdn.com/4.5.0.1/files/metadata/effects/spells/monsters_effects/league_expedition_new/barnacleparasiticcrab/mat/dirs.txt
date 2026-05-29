@@ -1,0 +1,10 @@
+beam_large
+beam_small
+claw_slam
+emerge
+on_act
+on_act/attack_claw_01
+on_act/beam_small
+on_act/claw_combo_01
+on_act/claw_slam
+on_act/tail_stab_01

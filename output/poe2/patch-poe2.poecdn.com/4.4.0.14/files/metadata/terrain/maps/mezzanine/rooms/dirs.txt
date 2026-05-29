@@ -1,7 +1,0 @@
-1x1
-1x1/high
-1x1/low
-border
-fills
-overlays
-unique

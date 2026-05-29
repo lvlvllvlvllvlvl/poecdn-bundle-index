@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+ef372791acedc76f,firebolt_main2.trl,Tiny.VF.1,46023262,5008
+10c1617fe50464e3,firebolt_main1.trl,Tiny.V3.1,45636029,5004
+c0a141fbf4b7765b,firebolt_projectile1.pet,Tiny.VE.1,46843802,13750
+3a08a9fd6fdd1b11,firebolt_projectile2.pet,Tiny.V3.1,45641033,13760
+37b9a1b4d5e484ae,firebolt_impact.pet,Tiny.V8.1,48552448,12710
+93c17fe67b34d15b,firebolt_impact2.pet,Tiny.VE.1,46831054,12748
+23115f184c405198,firebolt_aoe2.pet,Tiny.VB.1,46443071,78632
+2028da2baa7819ac,firebolt_aoe.pet,Tiny.V7.1,44243752,26526
+d54d39b34549b7cd,icebolt_projectilesparks.pet,Tiny.V2.1,47911128,27608
+3e5f5eb378341929,icebolt_impact.pet,Tiny.VF.1,46028270,12778
+ca833e975ba157d6,icebolt_aoe.pet,Tiny.V2.1,47821264,84876
+9e5a0a0f160da3b7,icebolt_maintrl.trl,Tiny.V2.1,47906140,4988
+66bbff66e7e65ed3,lightning_impact.pet,Tiny.V4.1,46873892,70860
+d4ec87e9ed044027,lightbolt_maintrl.trl,Tiny.V0.1,76233340,7364
+13dc6879e3b4cc9b,lightbolt_projectilesparks.pet,Tiny.V3.1,45654793,20248

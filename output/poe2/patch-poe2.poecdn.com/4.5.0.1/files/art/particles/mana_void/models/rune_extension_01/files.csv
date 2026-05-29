@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+ef1e02af23906669,4sided_rune.fmt,Streaming/Content/metadata/effects/spells/mana_void/82394F3C2C5238D2.D1B1AF9F4DEF4654.grd_midline.pet,555737,9171
+d7e907abb8316401,4sided_rune.fmt.header,Tiny.V9,36098209,209
+31d5946d88165488,glowup_01.fmt,Streaming/Content/metadata/effects/spells/mana_void/82394F3C2C5238D2.7AE66A4B6F5C69BB.grd_midline.pet,0,10817
+efc7dad50a0ad232,glowup_01.fmt.header,Tiny.VB,35845644,174
+47b1ae7dd79bdbdb,rig_0b243609.smd,Tiny.VF,35749427,76
+ca65b8241a6566cf,rig_0b243609.smd.header,Tiny.VB,35845818,368
+d215a9fe1433aa41,manavoid_runeextension_01.sm,Tiny.V9,36098418,308
+2d37d70207fde381,manavoid_runeextension_01.amd,Tiny.VC,36006163,92
+938129902318d3ce,manavoid_runeextension_01.ast,Tiny.V5,35331771,1400

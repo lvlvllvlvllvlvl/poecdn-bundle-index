@@ -1,4 +1,0 @@
-chestcloth
-skirt
-skirt/female
-skirt/male

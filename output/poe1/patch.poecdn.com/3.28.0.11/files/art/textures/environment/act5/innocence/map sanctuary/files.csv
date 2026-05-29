@@ -1,0 +1,131 @@
+hash,file,bundle,offset,size
+c2142919069ddfa7,sin_ornate_pillarc.mat,Tiny_7,70592253,3966
+919f2aac24136099,sin_ornate_pillar_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_9,0,1398276
+af690896d6468acd,sin_ornate_pillar_colour_dxt5.dds.header,Tiny_7,70590733,1520
+9141e52be03feb05,sin_ornate_pillar_colour_bc7.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_9,0,1398276
+a7697f01f6a229d7,sin_ornate_pillar_colour_bc7.dds.header,Tiny_7,70590733,1520
+5f6f907394a03868,sin_ornate_pillar_colour.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_8,0,699212
+52ade0bfecffa053,sin_ornate_pillar_colour.dds.header,Tiny_7,70589213,1520
+3d573e617aedfab5,sin_entrance_archc.mat,Tiny_7,70585247,3966
+39d46f579ebb7bfc,sin_entrance_arch_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_7,0,1398276
+68ab81f2843eaf1a,sin_entrance_arch_colour_dxt5.dds.header,Tiny_7,70583727,1520
+60fb251369a8d333,sin_entrance_arch_colour_bc7.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_7,0,1398276
+bb60d5f2bcd5252c,sin_entrance_arch_colour_bc7.dds.header,Tiny_7,70583727,1520
+b4287a1329c0b99e,sin_entrance_arch_colour.dds,Folders/art/textures/environment/act5/innocence/map sanctuary_1,524624,699212
+b1fdbd919316caa0,sin_entrance_arch_colour.dds.header,Tiny_7,70582207,1520
+7eeb078e113588be,santctuary_burner02_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_15,0,349700
+632df281a1a2b7c2,santctuary_burner02_colour_dxt5.dds.header,Tiny_7,70573321,1520
+ae85cb888a8c00bb,santctuary_burner02_colour_bc7.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_15,0,349700
+e85e6d37d77e2259,santctuary_burner02_colour_bc7.dds.header,Tiny_7,70573321,1520
+ff24902f98d8a014,santctuary_burner02_colour.dds,Folders/art/textures/environment/act5/innocence/map sanctuary_1,0,174924
+2c20c7e915c96a89,santctuary_burner02_colour.dds.header,Tiny_7,70571801,1520
+76d8cbfcd190140b,santctuary_burner02nsantctuary_burner02_specalurs.dds,Folders/art/textures/environment/act5/innocence/map sanctuary_1,174924,349700
+ebd233c3bbf5431e,santctuary_burner02nsantctuary_burner02_specalurs.dds.header,Tiny_7,70580687,1520
+6a3f16251ddbab23,santctuary_burner02c.mat,Tiny_7,70574841,3160
+5b377c528959f728,santctuary_burner02cnsantctuary_burner02_specalurs.mat,Tiny_7,70578001,2686
+a6a9db7ad4d018bb,sanctuary_wall_02_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_1,699548,349700
+936204b5feca4813,sanctuary_wall_02_colour_dxt5.dds.header,Tiny_7,70558967,1520
+8a54fe3719e973ca,sanctuary_wall_02_colour_bc1.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_1,1049248,174924
+74f44b53dec743b4,sanctuary_wall_02_colour_bc1.dds.header,Tiny_7,70557447,1520
+8ebc8c123a24c769,sanctuary_wall_02_colour.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_1,1049248,174924
+3bc3de59b167305b,sanctuary_wall_02_colour.dds.header,Tiny_7,70557447,1520
+c3a3c33a5140ec50,sanctuary_wall_02ns.dds,Art/Microtransactions/Town_Portal/Sinnocence_portal_10,0,349700
+9499dca227b3d488,sanctuary_wall_02ns.dds.header,Tiny_7,70570281,1520
+dbd1d96935562af6,sanctuary_wall_02c.mat,Tiny_7,70565371,2736
+70c92e80f25cceec,sanctuary_wall_02cns.mat,Tiny_7,70568107,2174
+75ba49f818177a14,sanctuary_wall_02alphatestc.mat,Tiny_7,70562339,3032
+21a2da050bf50151,sanctuary_wall_02alphatest_colour.dds,Tiny_7,70560487,332
+b57302df9a97474b,sanctuary_wall_02alphatest_colour.dds.header,Tiny_7,70560819,1520
+c3047d21611a1d41,sanctuary_wall_01_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_14,0,1398276
+436b84f38dc20dd2,sanctuary_wall_01_colour_dxt5.dds.header,Tiny_7,70549405,1520
+568cdba443068e03,sanctuary_wall_01_colour_bc7.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_14,0,1398276
+5393bea512b2e798,sanctuary_wall_01_colour_bc7.dds.header,Tiny_7,70549405,1520
+7cc08f6624840b29,sanctuary_wall_01_colour.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_5,0,699212
+c4ebdd776610cc0a,sanctuary_wall_01_colour.dds.header,Tiny_7,70547885,1520
+42a0c5219ef6a237,sanctuary_wall_01ns.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_4,0,1398276
+917cde3e8b7717fd,sanctuary_wall_01ns.dds.header,Tiny_7,70555927,1520
+0a092e84563225d7,sanctuary_wall_01c.mat,Tiny_7,70550925,2716
+79cff0f29ed46b29,sanctuary_wall_01cns.mat,Tiny_7,70553641,2286
+50cb0f6bfe43e698,sanctuary_thinwall_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_13,524624,349700
+e99070f8c65662a1,sanctuary_thinwall_colour_dxt5.dds.header,Tiny_7,70536515,1520
+f6136bd01db525e0,sanctuary_thinwall_colour_bc7.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_13,524624,349700
+216c2f9793b88e01,sanctuary_thinwall_colour_bc7.dds.header,Tiny_7,70536515,1520
+4f3c89b1718129e0,sanctuary_thinwall_colour.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_1,174924,174924
+5b1c3764edb4dfcb,sanctuary_thinwall_colour.dds.header,Tiny_7,70534995,1520
+351f8ddd1e59f737,sanctuary_thinwallns.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_1,349848,349700
+3f3813e06367ed46,sanctuary_thinwallns.dds.header,Tiny_7,70546365,1520
+86f93e06318b0df7,sanctuary_thinwallc.mat,Tiny_7,70539887,3918
+83a058fef0901f50,sanctuary_thinwallcns.mat,Tiny_7,70543805,2560
+92dbdc35c86400bf,sanctuary_thinwallalphatestc.mat,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_1,1224172,4372
+6acd1b4131c6919f,sanctuary_thinwallalphatest_colour.dds,Tiny_7,70538035,332
+438827af6b74d5c7,sanctuary_thinwallalphatest_colour.dds.header,Tiny_7,70538367,1520
+6a5c5f75b5be20cb,sanctuary_thickwall2_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_2,0,1398276
+7428a70628913d93,sanctuary_thickwall2_colour_dxt5.dds.header,Tiny_7,70519387,1520
+72dfebf1927905aa,sanctuary_thickwall2_colour_bc1.dds,Art/Microtransactions/Town_Portal/Sinnocence_portal,1061558,699212
+c2b55754481c11e0,sanctuary_thickwall2_colour_bc1.dds.header,Tiny_7,70517867,1520
+8e12eb3b0473e228,sanctuary_thickwall2_colour.dds,Art/Microtransactions/Town_Portal/Sinnocence_portal,1061558,699212
+4f8b484634d6f4be,sanctuary_thickwall2_colour.dds.header,Tiny_7,70517867,1520
+c0e2d49ebf1bb717,sanctuary_thickwall2ns.dds,Art/Microtransactions/Town_Portal/Sinnocence_portal_4,0,1398276
+b3e23eaea9791b50,sanctuary_thickwall2ns.dds.header,Tiny_7,70533475,1520
+1b1d2bdb1ca1bef3,sanctuary_thickwall2c.mat,Tiny_7,70525845,2790
+d799276998754ec4,sanctuary_thickwall2cinnocence_thickwall2ns.mat,Tiny_7,70528635,2364
+9c50039f0115cee2,sanctuary_thickwall2cns.mat,Tiny_7,70530999,2476
+317319fb13f752f4,sanctuary_thickwall2alphatestc.mat,Tiny_7,70522759,3086
+adbc1a2f1af4e16c,sanctuary_thickwall2alphatest_colour.dds,Tiny_7,70520907,332
+508dd0f25496feb3,sanctuary_thickwall2alphatest_colour.dds.header,Tiny_7,70521239,1520
+1539058035068fa7,sanctuary_plaskorzezbac.mat,Tiny_7,70513601,2746
+ac16c5532a14b3ac,sanctuary_plaskorzezba_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_13,174924,349700
+810e95420a6b2113,sanctuary_plaskorzezba_colour_dxt5.dds.header,Tiny_7,70512081,1520
+daa063d534d3b40b,sanctuary_plaskorzezba_colour_bc7.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_13,174924,349700
+560071095844a3b1,sanctuary_plaskorzezba_colour_bc7.dds.header,Tiny_7,70512081,1520
+a9debccab4154c2e,sanctuary_plaskorzezba_colour.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_13,0,174924
+78db5bda333aad8c,sanctuary_plaskorzezba_colour.dds.header,Tiny_7,70510561,1520
+ae82ee01c3cd3c98,sanctuary_plaskorzezbans.dds,Folders/art/textures/environment/act5/innocence/map sanctuary,1049248,349700
+497a800e8ccfb96c,sanctuary_plaskorzezbans.dds.header,Tiny_7,70516347,1520
+a939a087112a3bca,sanctuary_pillar_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_12,0,1398276
+2089bc16f52e22f7,sanctuary_pillar_colour_dxt5.dds.header,Tiny_7,70504071,1520
+f3220d83df7d0434,sanctuary_pillar_colour_bc7.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_12,0,1398276
+d7e29334530609bc,sanctuary_pillar_colour_bc7.dds.header,Tiny_7,70504071,1520
+a5ec5a50c18f2601,sanctuary_pillar_colour.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_3,0,699212
+a79eea4744877826,sanctuary_pillar_colour.dds.header,Tiny_7,70502551,1520
+0b421f0d54c2aa7c,sanctuary_pillarns.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_3,1048912,349700
+a99e725a512c637a,sanctuary_pillarns.dds.header,Tiny_7,70274515,1520
+94c99ef714cf1750,sanctuary_pillarc.mat,Tiny_7,70505591,2698
+b0aa2348bf947637,sanctuary_pillarcns.mat,Tiny_7,70508289,2272
+586ca91b4c4289b2,sanctuary_gold_candles_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_11,349700,349700
+ff6a3cedc64b024f,sanctuary_gold_candles_colour_dxt5.dds.header,Tiny_7,70492881,1520
+8d5cbe8bc9fcbc3f,sanctuary_gold_candles_colour_bc7.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_11,349700,349700
+632942c6d7b44ead,sanctuary_gold_candles_colour_bc7.dds.header,Tiny_7,70492881,1520
+612647bcede7e636,sanctuary_gold_candles_colour.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_1,0,174924
+c81ecf8b7aed38f1,sanctuary_gold_candles_colour.dds.header,Tiny_7,70491361,1520
+9e3af9aa7fd58613,sanctuary_gold_candlesns.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_3,699212,349700
+546c9a66ca278f2c,sanctuary_gold_candlesns.dds.header,Tiny_7,70501031,1520
+0843891ecd6a2863,sanctuary_gold_candlesc.mat,Tiny_7,70494401,4014
+b7a6b20618ef09da,sanctuary_gold_candlescns.mat,Tiny_7,70498415,2616
+1a0dff1035935a2e,sanctuary_burner03_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_11,0,349700
+6e72d42d3c6802ec,sanctuary_burner03_colour_dxt5.dds.header,Tiny_7,70482613,1520
+e927b67fb4edc1dd,sanctuary_burner03_colour_bc7.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_11,0,349700
+ca948829d325e754,sanctuary_burner03_colour_bc7.dds.header,Tiny_7,70482613,1520
+d56d3cf9cdd48300,sanctuary_burner03_colour.dds,Folders/art/textures/environment/act5/innocence/map sanctuary,524624,174924
+c6b6cd59e134d286,sanctuary_burner03_colour.dds.header,Tiny_7,70481093,1520
+793ce60811721f90,sanctuary_burner03ns.dds,Folders/art/textures/environment/act5/innocence/map sanctuary,699548,349700
+b425e24c875ad588,sanctuary_burner03ns.dds.header,Tiny_7,70489841,1520
+98c33db157d6ef18,sanctuary_burner03c.mat,Tiny_7,70484133,3148
+d776069fafb69518,sanctuary_burner03cns.mat,Tiny_7,70487281,2560
+93882004aa5ca03b,sanctuary_burner01_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_10,524624,349700
+218b3e7aef5e33dc,sanctuary_burner01_colour_dxt5.dds.header,Tiny_7,70472345,1520
+c62a7116903e7f32,sanctuary_burner01_colour_bc7.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_10,524624,349700
+636cdcedc553a905,sanctuary_burner01_colour_bc7.dds.header,Tiny_7,70472345,1520
+00bf970b2be3d0dd,sanctuary_burner01_colour.dds,Folders/art/textures/environment/act5/innocence/map sanctuary,0,174924
+ef00982a6290ac55,sanctuary_burner01_colour.dds.header,Tiny_7,70470825,1520
+2987fe45cbff203f,sanctuary_burner01ns.dds,Folders/art/textures/environment/act5/innocence/map sanctuary,174924,349700
+6c1b59b5dc570739,sanctuary_burner01ns.dds.header,Tiny_7,70479573,1520
+24943080bcdeb05c,sanctuary_burner01c.mat,Tiny_7,70473865,3148
+1ab0b49734adb2f2,sanctuary_burner01cns.mat,Tiny_7,70477013,2560
+eeaa4ea57643b089,sanctuary_benchc.mat,Tiny_7,70468205,2620
+e5298ffe5439e451,sanctuary_bench_colour_dxt5.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_10,174924,349700
+2fc8b5b95dbfb7c4,sanctuary_bench_colour_dxt5.dds.header,Tiny_7,70466685,1520
+5cf9698145a793d9,sanctuary_bench_colour_bc7.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_10,174924,349700
+d8afeea45ad31f79,sanctuary_bench_colour_bc7.dds.header,Tiny_7,70466685,1520
+e7cfda574793ed57,sanctuary_bench_colour.dds,Art/Textures/Environment/Act5/Innocence/Map Sanctuary_10,0,174924
+eb03ae05da8f8124,sanctuary_bench_colour.dds.header,Tiny_7,70465165,1520

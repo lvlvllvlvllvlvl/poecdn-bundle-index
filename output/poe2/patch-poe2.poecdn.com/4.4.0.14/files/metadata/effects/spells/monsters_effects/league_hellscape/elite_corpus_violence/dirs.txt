@@ -1,6 +1,0 @@
-fx
-graphs
-mat
-mat/circular_slam
-mat/line_slam
-mat/meleetrail

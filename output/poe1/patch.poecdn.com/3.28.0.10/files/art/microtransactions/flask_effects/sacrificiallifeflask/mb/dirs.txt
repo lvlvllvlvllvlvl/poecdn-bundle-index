@@ -1,3 +1,0 @@
-blood_ball
-char_drawin
-knife_drop

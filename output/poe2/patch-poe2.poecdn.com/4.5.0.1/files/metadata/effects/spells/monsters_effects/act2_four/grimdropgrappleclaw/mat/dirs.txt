@@ -1,0 +1,8 @@
+cold
+cold/ground_effect
+cold/impact
+cold/trl
+lightning
+lightning/ground_effect
+lightning/impact
+lightning/trl

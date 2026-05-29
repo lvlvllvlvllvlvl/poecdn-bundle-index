@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+4377f4b625d63e43,smoke.mat,Tiny_6,15128548,878
+1391d9c6261d9f39,smoke.dds,Art/particles/blazing_coil,0,87556
+97363c53f5dc57d5,smoke.dds.header,Tiny_6,15127028,1520
+ac4bbf7c8ada0aa0,firec.mat,Tiny_6,15125350,1678
+5b7739368bf306e3,fireball_smoke_explosion.mat,Tiny_6,15124096,1254
+91333d52f8b5939b,fireball_smoke_explosion.dds,Folders/art/particles/runic_mortar,503152,87556
+e1443536fa380aa0,fireball_smoke_explosion.dds.header,Tiny_6,36066416,1520
+31f55f5d84c0f220,fire.dds,Art/particles/molten_sheild,0,87556
+e4c5370be8a1d44a,fire.dds.header,Tiny_8,9797782,1520

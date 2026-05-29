@@ -1,0 +1,7 @@
+candles
+crazedcannibalpict_male
+crazedcannibalpict_male/textures
+dagger
+haresacrifice
+plinth
+runes

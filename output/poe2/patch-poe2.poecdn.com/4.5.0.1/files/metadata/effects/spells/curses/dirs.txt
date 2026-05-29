@@ -1,0 +1,5 @@
+area
+area/mark
+ele_weakness
+tormented
+tormented/on_hit

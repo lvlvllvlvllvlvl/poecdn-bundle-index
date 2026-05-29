@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+8b696ef977277e51,projectile_add.mat,Tiny_1,49129877,2286
+00506ed9dd6f0913,projectile_add.dds,Art/particles/monster_particles/act8_17,2308528,22020
+194bb3170f10d400,projectile_add.dds.header,Tiny_7,38975520,1520
+64cded159b5a6428,light_grad.mat,Tiny_1,48954983,1760
+ff06bc9968cb142a,light_grad.dds,Art/particles/Incinerate/cone_02_1,0,11084
+c15f27ee3bfc5081,light_grad.dds.header,Tiny_7,38998930,1520
+fa3f10fa017eaea9,lava_dots.mat,Tiny_1,48953549,1434
+a671d4ba3c5d19e2,lava_dots.dds,Art/Microtransactions/Aura/fireresist_aura,5636,22020
+a4e38879f8a104bf,lava_dots.dds.header,Tiny_7,38780802,1520
+d1f2b15bca7b82fc,fire_bits2_at.mat,Tiny_1,48950753,2796
+2ad9defebea8e8d1,fire_bits2_at.dds,Folders/art/particles/monster_particles/league_blight_5,4632632,11108
+4fe0480dd818e0c9,fire_bits2_at.dds.header,Tiny_7,55774979,840

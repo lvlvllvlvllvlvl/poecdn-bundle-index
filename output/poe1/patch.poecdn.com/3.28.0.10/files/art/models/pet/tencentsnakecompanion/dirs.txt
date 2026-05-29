@@ -1,6 +1,0 @@
-attachments
-attachments/hair
-attachments/skirta
-attachments/skirtb
-snake
-textures

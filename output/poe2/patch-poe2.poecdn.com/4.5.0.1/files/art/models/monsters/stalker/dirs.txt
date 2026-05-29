@@ -1,0 +1,9 @@
+attachments
+attachments/secretpoliceremake
+attachments/secretpoliceremake/l_arm_sleeve
+attachments/secretpoliceremake/r_arm_sleeve
+attachments/secretpoliceremake/skirt
+attachments/stalker
+attachments/stalker/hood
+attachments/stalker/robe
+textures

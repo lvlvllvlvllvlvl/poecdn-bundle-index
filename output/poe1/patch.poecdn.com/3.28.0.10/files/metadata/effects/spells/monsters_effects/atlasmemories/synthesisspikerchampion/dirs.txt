@@ -1,8 +1,0 @@
-epk
-fx
-mat
-mat/claw_swipes
-mat/death_spike_charge
-mat/idle
-mat/spike_down_impact
-mat/spike_up

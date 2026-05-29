@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+f6dd9a80b2be5f6d,trail.mat,Tiny_7,41584887,1648
+a7b0459372429c6d,trail.dds,Art/particles/static_whip/fire,262504,43876
+641a29037aaebda9,trail.dds.header,Tiny_7,51397549,840
+532c4cf537b5a752,smoke.mat,Tiny_7,41583751,1136
+18e2e38c1e4428b7,smoke.dds,Art/particles/monster_particles/vaalspiderboss_p,0,43876
+8cf7143fa6d9cc1b,smoke.dds.header,Tiny_7,47307165,840
+1417f3bc7d636c7f,mushy_flow.mat,Tiny_7,41580407,3344
+6b5152d5eec1fb47,mushy_flow.dds,Art/particles/monster_particles/talisman_9,2406504,87556
+4f466490d55d53c5,mushy_flow.dds.header,Tiny_7,41578887,1520
+a391f17b0b921386,fire_test_tile_bottom.mat,Tiny_7,41575337,3550
+7ab32c5ebbb9c13d,fire_test_tile_bottom.dds,Art/particles/monster_particles/talisman_9,1771888,87588
+948b59e6118ceb46,fire_test_tile_bottom.dds.header,Tiny_7,41571075,504

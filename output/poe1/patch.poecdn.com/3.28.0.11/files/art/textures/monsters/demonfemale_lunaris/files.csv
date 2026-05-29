@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+6dd3bec5a275bc7b,fx_glowmask_dxt1.dds,Art/Textures/Monsters/DemonFemale_lunaris,0,174924
+4c0c3252ee7be663,fx_glowmask_dxt1.dds.header,Tiny_8,35405428,1520
+5c19b7b8bf68339e,fx_glowmask_bc7.dds,Art/Textures/Monsters/DemonFemale_lunaris_1,0,349700
+dfc6c5469cf0781b,fx_glowmask_bc7.dds.header,Tiny_8,35402868,1520
+c9ac91c1cbf1c475,fx_glowmask.mat,Tiny_8,35404388,1040
+043605548c5be468,fx_glowmask.dds,Art/Textures/Monsters/DemonFemale_lunaris_1,0,349700
+e4536cbf1e9024b3,fx_glowmask.dds.header,Tiny_8,35402868,1520
+45772cd2fb6732be,demonfemalelunacns.mat,Tiny_8,35398862,4006
+f7c711a5584fa6d6,demonfemaleluna_colour.dds,Art/Textures/Monsters/DemonFemale_lunaris,524624,349700
+fc2d663ea888cb16,demonfemaleluna_colour.dds.header,Tiny_8,35397342,1520
+d15131e786701039,demonfemalelunans.dds,Art/Textures/Monsters/DemonFemale_lunaris,174924,349700
+beba3ee2b97d8ea7,demonfemalelunans.dds.header,Tiny_8,35415758,1520

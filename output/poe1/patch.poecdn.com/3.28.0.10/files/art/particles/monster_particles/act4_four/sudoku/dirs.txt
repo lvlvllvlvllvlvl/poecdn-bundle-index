@@ -1,2 +1,0 @@
-textures
-textures/expanding_shock_nova

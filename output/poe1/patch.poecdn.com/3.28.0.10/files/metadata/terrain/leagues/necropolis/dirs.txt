@@ -1,6 +1,0 @@
-necropolisarea
-necropolisarea/graphs
-necropolisarea/rooms
-necropolisarea/rooms/necropolisinsideaudio
-objects
-tiles

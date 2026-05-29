@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+13896053d8d411d7,kalgr_waypointstone01c.mat,Tiny_6,11162145,2190
+95286c218524db75,kalgr_waypointstone01_normal_dxt5.dds,Folders/art/models/terrain/waypoints/islands/textures_4,0,5592580
+9bc1442695c2074b,kalgr_waypointstone01_normal_dxt5.dds.header,Tiny_6,11160625,1520
+fd463941bf829faf,kalgr_waypointstone01_colour_dxt1.dds,Folders/art/models/terrain/waypoints/islands/textures_3,0,2796364
+2d5a7d1f86bcdce1,kalgr_waypointstone01_colour_dxt1.dds.header,Tiny_6,11159105,1520
+4749f6c6236da9c4,kalgr_waypoint01c.mat,Tiny_6,11156141,2964
+ba466839a4abd7ec,kalgr_waypoint01_normal_bc7.dds,Folders/art/models/terrain/waypoints/islands/textures_2,0,5592580
+8db2ab06f623ec39,kalgr_waypoint01_normal_bc7.dds.header,Tiny_6,11154621,1520
+55eddfaeed1eadf4,kalgr_waypoint01_metal_bc1.dds,Folders/art/models/terrain/waypoints/islands/textures_1,0,2796364
+5f729e02b138af5f,kalgr_waypoint01_metal_bc1.dds.header,Tiny_6,11153101,1520
+819b66ddb880e391,kalgr_waypoint01_colour_bc1.dds,Folders/art/models/terrain/waypoints/islands/textures,0,2796364
+c24aff1ecbcd703d,kalgr_waypoint01_colour_bc1.dds.header,Tiny_6,11151581,1520

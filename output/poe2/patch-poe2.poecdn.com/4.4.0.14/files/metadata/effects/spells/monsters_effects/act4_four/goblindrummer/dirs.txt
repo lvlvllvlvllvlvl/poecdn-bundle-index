@@ -1,6 +1,0 @@
-epk
-graph
-mat
-mat/buff_epk
-mat/drum_shockwave
-pet

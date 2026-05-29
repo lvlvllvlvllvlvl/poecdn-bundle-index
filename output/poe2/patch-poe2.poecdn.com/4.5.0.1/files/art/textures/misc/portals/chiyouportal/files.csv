@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+bf0d0db1412535ce,chiyouportalspecularc.mat,Tiny.V8.1,395146,3448
+077794533b98bbdb,chiyouportal_glow_dxt1.dds,Streaming/Content/art/models/misc/portals/CF3FEFFCC9764065.chiyouportal.fmt,1048928,174924
+9d241143ce50536b,chiyouportal_glow_dxt1.dds.header,Tiny.V9.1,950238,1520
+ce49797564d75c16,chiyouportal_normal_dxt5.dds,Streaming/Content/art/models/misc/portals/CF3FEFFCC9764065.chiyouportal.fmt,1223852,349700
+e13e8e5f080fe4c8,chiyouportal_normal_dxt5.dds.header,Tiny.V7.1,1116948,1520
+7baba6fcde996168,chiyouportal_colourspecular_bc7.dds,Streaming/Content/art/models/misc/portals/CF3FEFFCC9764065.chiyouportal.fmt,349692,699236
+222dd8e299a252bf,chiyouportal_colourspecular_bc7.dds.header,Tiny.VD.1,645719,840
+1472f927bdbbd97a,chiyouportal_colourspecular.dds,Streaming/Content/art/models/misc/portals/CF3FEFFCC9764065.chiyouportal.fmt,0,349692
+94c076fdb0b3c366,chiyouportal_colourspecular.dds.header,Tiny.VE.1,707308,840

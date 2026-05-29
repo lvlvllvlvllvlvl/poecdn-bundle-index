@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+1b09000c5b5d0958,sparks.mat,Tiny.VD,36088391,1622
+eb42fc08f19630b8,dust.mat,Tiny.V9,36419131,1860
+107a44081caee9a9,impact.mat,Tiny.V9,36420991,1628
+582525d0d36ab4ab,azure_impact_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1/3E872F4BA096377D.72B42C6FC714740C.cyl.pet,503312,43876
+785e41824645bb03,azure_impact_dxt5.dds.header,Tiny.VD,38284107,840
+e6cc5ecf2de951b8,beam_sparks_dxt5.dds,Tiny.VE,4430892,1572
+416987fc7dcea962,beam_sparks_dxt5.dds.header,Tiny.VD,4345787,504
+f021ff3897e371d7,blur_dust_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/4B65F28733215CAC.explode_cyl.pet,1078688,22020
+f75ce41fa88f85e5,blur_dust_dxt5.dds.header,Tiny.V9,41311149,1520

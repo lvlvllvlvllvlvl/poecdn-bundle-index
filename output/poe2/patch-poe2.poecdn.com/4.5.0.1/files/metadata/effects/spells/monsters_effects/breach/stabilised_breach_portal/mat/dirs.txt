@@ -1,0 +1,4 @@
+activate
+close
+idle
+stable

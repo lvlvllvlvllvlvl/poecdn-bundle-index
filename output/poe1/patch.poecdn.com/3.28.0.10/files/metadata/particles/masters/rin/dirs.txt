@@ -1,4 +1,0 @@
-decelerating_projectile
-on_act
-rain_or_arrows
-snipe

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+2b824b4738026d77,wispy_smoke_tilec.mat,Tiny_6,29037860,3370
+02a6e144319dddfb,wispy_smoke_tile.dds,Art/particles/monster_particles/act4_6,1053742,349700
+d5e165ff2f88fa8b,wispy_smoke_tile.dds.header,Tiny_6,59117222,1520
+cba285829ad5a12c,upward_particles_atc.mat,Tiny_6,29034294,3566
+5bbfaf7b96cad8d3,upward_particles_at.dds,Art/particles/environment_effects/dark_shrines,349700,349700
+a4f7085f500b73cc,upward_particles_at.dds.header,Tiny_6,29032774,1520
+15f2390b4bb72905,sphere_tile_multic.mat,Tiny_6,29029336,3438
+6b2b2359283d1c23,sphere_tile_multi.dds,Art/particles/environment_effects/dark_shrines,0,349700
+0d3af1097ef9b3ba,sphere_tile_multi.dds.header,Tiny_6,29027816,1520

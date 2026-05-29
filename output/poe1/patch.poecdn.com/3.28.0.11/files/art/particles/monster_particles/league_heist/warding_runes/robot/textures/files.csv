@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+ea7fad092f1d44b2,base_runec.mat,Tiny_7,8132982,3174
+8de1578cde2a137c,outter_ringc.mat,Tiny_7,8143926,2980
+24316fba3c5ef811,pulse.mat,Tiny_7,8146906,1094
+b7483f697bc9fe04,mid_ringc.mat,Tiny_7,8140672,3254
+dbbfa340d93dc4f7,masktex_dxt5.dds,Art/particles/monster_particles/League_Heist_56,1408380,1398276
+a1f94b1c19a5fc24,masktex_dxt5.dds.header,Tiny_7,8139152,1520
+b333fea26e8b76bb,lut_dxt5.dds,Tiny_7,8136660,2212
+452af226ba547742,lut_dxt5.dds.header,Tiny_7,8138872,280
+a416b9626726576b,dash_rune_01_dxt1.dds,Folders/art/particles/monster_particles/leagueharvest,699212,174940
+a293527bf4eb6827,dash_rune_01_dxt1.dds.header,Tiny_7,8136156,504

@@ -1,2 +1,0 @@
-gemcuttergyroscope
-gemcuttergyroscope/fx

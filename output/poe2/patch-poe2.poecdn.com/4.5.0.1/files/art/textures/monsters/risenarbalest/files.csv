@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+70424ad52b47a127,weaponc.mat,Tiny.V3.1,937751,2558
+2026d99dc049571a,weapon_metal_dxt1.dds,Streaming/Content/data/worldareas/86/c_g1_5.vworld,3724932,349692
+38acd739884bab4f,weapon_metal_dxt1.dds.header,Tiny.V8.1,741024,840
+37c14211f573fe8f,weapon_normal_dxt5.dds,Streaming/Content/data/worldareas/52/c_g1_5.vworld,3242256,699236
+f01ccdcc84eab97e,weapon_normal_dxt5.dds.header,Tiny.V0.1,1550282,840
+59591fd5e63f17b7,weapon_colour_dxt1.dds,Streaming/Content/metadata/monsters/mercenary/infected/D2E894C084CC0FB4.infectedmercenarycrossbowrunemarked.ao,315629,349692
+0b6666f7d3ed7de3,weapon_colour_dxt1.dds.header,Tiny.V9.1,1301562,840
+3323e4d799bb255e,risenarbalestc.mat,Tiny.VD.1,1009367,4076
+c1410f8b46904447,risenarbalest_sss_dxt5.dds,Streaming/Content/data/worldareas/D1/c_g1_5.vworld,2011620,5592580
+bdbed2bdedf73708,risenarbalest_sss_dxt5.dds.header,Tiny.VD.1,1007847,1520
+0a98d823b5295ddb,risenarbalest_metal_dxt5.dds,Streaming/Content/data/worldareas/73/c_g1_5.vworld,2825167,5592580
+8295addc6d533c6d,risenarbalest_metal_dxt5.dds.header,Tiny.V9.1,1300042,1520
+797bea30d6cb02f8,risenarbalest_normal_dxt5.dds,Streaming/Content/data/balance/worldareas/3F/null.vworld,5592580,5592580
+a79310c65b6a37f5,risenarbalest_normal_dxt5.dds.header,Tiny.V0.1,1548762,1520
+afa40fb6ab20f18a,risenarbalest_colour_dxt1.dds,Streaming/Content/data/worldareas/42/c_g1_5.vworld,3292829,2796364
+da6f11502b9d3e97,risenarbalest_colour_dxt1.dds.header,Tiny.V5.1,1010896,1520

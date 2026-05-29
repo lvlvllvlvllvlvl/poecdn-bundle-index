@@ -1,0 +1,4 @@
+attachments
+attachments/outfit_01
+attachments/outfit_02
+attachments/outfit_03

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+d01e83c321bde459,chests.cht,Tiny_11,120081107,334
+283ec99ce11026a4,random_fill_tiles.gft,Tiny_11,120129321,302
+2f506c80a0f68fc3,spidergrove.ecf,Tiny_11,120129623,280
+f5102b872277781e,tiles.tst,Tiny_11,120129903,8804
+b6b0f51cb9f5bce5,materials.mtd,Tiny_11,120128931,390
+5256867efb30f37e,master_arachnidnest.tsi,Tiny_11,120127659,638
+16cbcf4902c79409,master_spiderlair.tsi,Tiny_11,120128297,634
+41d86077cd96b69c,generate_arachnidnest.rs,Tiny_11,120084861,7724
+adcc6ad8df0e603f,generate_spiderlair.rs,Tiny_11,120092585,6568
+392785f94a7d0739,decals.dct,Tiny_11,120081441,1192
+5beb2c7b3004e72a,doodads.ddt,Tiny_11,120082633,2228

@@ -1,4 +1,0 @@
-attachments
-attachments/femalerobe
-attachments/malerobe
-textures

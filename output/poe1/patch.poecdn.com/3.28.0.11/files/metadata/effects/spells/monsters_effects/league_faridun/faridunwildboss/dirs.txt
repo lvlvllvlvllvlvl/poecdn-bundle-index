@@ -1,0 +1,8 @@
+epk
+fx
+mat
+mat/cast_trail
+mat/corrupted_ground
+mat/leap_slam
+mat/meaty_ball_proj
+mat/weapon_trail

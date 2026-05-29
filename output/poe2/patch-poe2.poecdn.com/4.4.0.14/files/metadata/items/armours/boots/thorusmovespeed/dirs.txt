@@ -1,5 +1,0 @@
-astral
-automaton
-default
-radiant
-vulcan

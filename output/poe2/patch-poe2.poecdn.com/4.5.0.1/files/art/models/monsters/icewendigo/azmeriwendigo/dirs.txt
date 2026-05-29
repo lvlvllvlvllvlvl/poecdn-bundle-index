@@ -1,0 +1,13 @@
+attachments
+attachments/arm
+attachments/face
+attachments/fur
+attachments/furrarm
+attachments/jewellery
+attachments/jewelleryforearm
+attachments/jewellerylarm1
+attachments/jewellerylarm2
+attachments/jewelleryr
+attachments/jewelleryrforearm
+attachments/jewellerytail1
+attachments/jewellerytail2

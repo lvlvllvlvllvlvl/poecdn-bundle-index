@@ -1,0 +1,17 @@
+arcane
+arcane/arcane_idle
+arcane/arcane_impact
+arcane/arcane_impact/vaal
+arcane/arcane_pulse
+divine
+divine/divine_idle
+divine/divine_impact
+divine/divine_impact/vaal
+divine/divine_pulse
+harbinger
+harbinger/pet
+kitava
+tribal
+xenozak
+xenozak/pets
+xenozak/pets/vaal

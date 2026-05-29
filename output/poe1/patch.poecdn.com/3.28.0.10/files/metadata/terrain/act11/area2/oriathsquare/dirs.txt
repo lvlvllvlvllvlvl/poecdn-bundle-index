@@ -1,6 +1,0 @@
-graphs
-rooms
-rooms/fill
-rooms/road
-rooms/rubble
-rooms/unique

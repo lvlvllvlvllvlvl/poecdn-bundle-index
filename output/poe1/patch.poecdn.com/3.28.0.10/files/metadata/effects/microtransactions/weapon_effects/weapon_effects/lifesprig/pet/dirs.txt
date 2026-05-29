@@ -1,4 +1,0 @@
-grounddust
-idle
-oncast
-onhit

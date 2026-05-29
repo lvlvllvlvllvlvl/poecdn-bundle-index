@@ -1,0 +1,7 @@
+big
+fire
+fortify
+gold
+ice
+life
+lightning

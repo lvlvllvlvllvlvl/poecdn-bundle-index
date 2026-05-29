@@ -1,0 +1,293 @@
+hash,file,bundle,offset,size
+d4eda5c492fc7142,templar_pillar_v01_01.tgt,Tiny_4,5792947,588
+0563956720822427,templar_to_innocents_v01_01_area_transition.fmt,Tiny_4,5869371,428
+52225cf6aa1cd90a,templar_to_innocents_v01_01_area_transition.fmt.header,Tiny_4,5869799,221
+60d6ee1d669250ad,templar_to_innocents_v01_01.tgt,Tiny_4,5866909,1976
+5f26d511133a99fd,templar_to_innocents_v01_01.tmd,Tiny_4,5868885,486
+577ba1b451a846ae,templar_tileset_end_v01_01.tgt,Tiny_4,5865183,938
+67d61cee845569a3,templar_tileset_end_v01_02.tgt,Tiny_4,5866121,788
+47842fe03941b082,templar_thinwall_fireplace_v01_01.tgt,Tiny_4,5859205,1148
+2f5fe04bff6c2ca7,templar_thinwall_straight_v01_01.tgt,Tiny_4,5860353,950
+abb77a408a4c4153,templar_thinwall_straight_v01_02.tgt,Tiny_4,5861303,1140
+52bcad7435bd5349,templar_thinwall_straight_v01_03.tgt,Tiny_4,5862443,1140
+8db3ca83d1c48aeb,templar_thinwall_straight_v01_04.tgt,Tiny_4,5863583,800
+fba9883f427c3df6,templar_thinwall_straight_v01_05.tgt,Tiny_4,5864383,800
+a76f85d2143b7686,templar_thinwall_door_v01_01.tgt,Tiny_4,5857675,712
+1f4bfc34a4ed86a0,templar_thinwall_door_v02_01.tgt,Tiny_4,5858387,818
+652d12c6fa02a288,templar_thinwall_corner_v03_01.tgt,Tiny_4,5855743,1136
+afe96fac91acc78a,templar_thinwall_corner_v03_02.tgt,Tiny_4,5856879,796
+d99439a6ddf9a478,templar_thinwall_corner_v02_01.tgt,Tiny_4,5853811,1136
+c4ef7abb662f06c1,templar_thinwall_corner_v02_02.tgt,Tiny_4,5854947,796
+9ed50ada618a59e4,templar_thinwall_corner_v01_01.tgt,Tiny_4,5851879,1136
+b7fa8c32b40b0f69,templar_thinwall_corner_v01_02.tgt,Tiny_4,5853015,796
+d8475bb1613de0b0,templar_thickwall_window_single_off_v01_01.tgt,Tiny_4,5849091,740
+c6eea45e57454da6,templar_thickwall_window_single_v01_01.tgt,Tiny_4,5849831,1024
+46a0f2fc8918df4f,templar_thickwall_window_single_v01_02.tgt,Tiny_4,5850855,1024
+f3c0ccee5f1b26f7,templar_thickwall_window_dual_off_v01_01.tgt,Tiny_4,5846315,736
+1d9c0f98151391f5,templar_thickwall_window_dual_v01_01.tgt,Tiny_4,5847051,1020
+a1d3969130eadf8f,templar_thickwall_window_dual_v01_02.tgt,Tiny_4,5848071,1020
+bca36f4c5d6cc5e1,templar_thickwall_to_thinwall_v03_01.tgt,Tiny_4,5845143,1172
+4adf7cc1f9036d1e,templar_thickwall_to_thinwall_v02_01.tgt,Tiny_4,5842799,1172
+0ea6217f545c90d7,templar_thickwall_to_thinwall_v02_02.tgt,Tiny_4,5843971,1172
+e92583cdeb5913cc,templar_thickwall_to_thinwall_v01_01.tgt,Tiny_4,5840605,1022
+df303bff9c5f8f58,templar_thickwall_to_thinwall_v01_02.tgt,Tiny_4,5841627,1172
+bd0eb50a76604144,templar_thickwall_to_thinwall_corner_v07_01.tgt,Tiny_4,5838233,1186
+6d00f39023f123c7,templar_thickwall_to_thinwall_corner_v07_02.tgt,Tiny_4,5839419,1186
+830277fe37931bad,templar_thickwall_to_thinwall_corner_v06_01.tgt,Tiny_4,5834295,1186
+9712c33071c47c0d,templar_thickwall_to_thinwall_corner_v06_02.tgt,Tiny_4,5835481,1376
+a9d6385b4211ac70,templar_thickwall_to_thinwall_corner_v06_03.tgt,Tiny_4,5836857,1376
+cc6254cab08f0cc4,templar_thickwall_to_thinwall_corner_v05_01.tgt,Tiny_4,5831923,1186
+8e9ac5c0cf966509,templar_thickwall_to_thinwall_corner_v05_02.tgt,Tiny_4,5833109,1186
+5d4a6ceb93c77c72,templar_thickwall_to_thinwall_corner_v04_01.tgt,Tiny_4,5829361,1376
+7554b894e200d210,templar_thickwall_to_thinwall_corner_v04_02.tgt,Tiny_4,5830737,1186
+6802474242244ca0,templar_thickwall_to_thinwall_corner_v03_01.tgt,Tiny_4,5826989,1186
+2d61bb27185a818b,templar_thickwall_to_thinwall_corner_v03_02.tgt,Tiny_4,5828175,1186
+405cf65e50ba55ec,templar_thickwall_to_thinwall_corner_v02_01.tgt,Tiny_4,5824727,1036
+dcf332322337ccec,templar_thickwall_to_thinwall_corner_v02_02.tgt,Tiny_4,5825763,1226
+09d0e6ea5537c951,templar_thickwall_to_thinwall_corner_v01_01.tgt,Tiny_4,5822505,1186
+58d3f47050969986,templar_thickwall_to_thinwall_corner_v01_02.tgt,Tiny_4,5823691,1036
+6a1bdcb61e7f0f83,templar_thickwall_to_ledge_corner_v01_01.tgt,Tiny_4,5820445,1030
+9ac2b59ed510f54d,templar_thickwall_to_ledge_corner_v02_01.tgt,Tiny_4,5821475,1030
+14bf9c196266d57c,templar_thickwall_straight_ledge_v01_01.tgt,Tiny_4,5808875,1028
+de41a5965b257289,templar_thickwall_straight_stairs_v01_01.tgt,Tiny_4,5809903,1288
+56bae3a4dcacd936,templar_thickwall_straight_v03_01.tgt,Tiny_4,5819279,1166
+14dd538346dc2538,templar_thickwall_straight_v02_01.tgt,Tiny_4,5816947,1166
+621b3e0e76657a3b,templar_thickwall_straight_v02_02.tgt,Tiny_4,5818113,1166
+cfb007ad070146d8,templar_thickwall_straight_v01_01.tgt,Tiny_4,5811191,722
+dfe315f08ec4634a,templar_thickwall_straight_v01_02.tgt,Tiny_4,5811913,1002
+a1b9a11b25b4c493,templar_thickwall_straight_v01_03.tgt,Tiny_4,5812915,1008
+100edc1f769d98d6,templar_thickwall_straight_v01_04.tgt,Tiny_4,5813923,1008
+77a32059fea2f757,templar_thickwall_straight_v01_05.tgt,Tiny_4,5814931,1008
+9d27924ffe57f89c,templar_thickwall_straight_v01_06.tgt,Tiny_4,5815939,1008
+fc38ed3d5c8d64d3,templar_thickwall_straight_door_v01_01.tgt,Tiny_4,5806219,1358
+d4adf36c59fbe9a4,templar_thickwall_straight_door_v01_02.tgt,Tiny_4,5807577,1298
+723163b734f03417,templar_thickwall_corner_stairs_v01_01.tgt,Tiny_4,5803651,1284
+5e9ed08041eefa1d,templar_thickwall_corner_stairs_v02_01.tgt,Tiny_4,5804935,1284
+89b034578340f1ec,templar_thickwall_convex_v01_01.tgt,Tiny_4,5800609,718
+38c2a7b1a5346b92,templar_thickwall_convex_v02_01.tgt,Tiny_4,5801327,1162
+9c0ea40117bd8da5,templar_thickwall_convex_v02_02.tgt,Tiny_4,5802489,1162
+57497c7651ffb9dd,templar_thickwall_concave_v01_01.tgt,Tiny_4,5797561,720
+cc3a7957b9259a15,templar_thickwall_concave_v02_01.tgt,Tiny_4,5798281,1164
+e961edffa9556538,templar_thickwall_concave_v02_02.tgt,Tiny_4,5799445,1164
+763fed3c53ecc9b1,templar_stairs_straight_v01_01.tgt,Tiny_4,5795897,904
+eb1b2bd4d3e32923,templar_stairs_straight_v01_02.tgt,Tiny_4,5796801,760
+8f0e1ff9604f5807,templar_stairs_concave_v01_01.tgt,Tiny_4,5794239,758
+c0cb63adf0b09a2c,templar_stairs_convex_v01_01.tgt,Tiny_4,5794997,900
+f5bff489c8577e41,templar_reading_table_v01_02.fmt,Folders/art/models/terrain/endgame/D/theatre,829364,131036
+650ec63c70215b17,templar_reading_table_v01_02.fmt.header,Tiny_4,5793835,404
+8b6e69a5f12e06b2,templar_reading_table_v01_01.fmt,Folders/art/models/terrain/endgame/D/theatre,680120,149244
+5d9be7d34cc7b5b5,templar_reading_table_v01_01.fmt.header,Tiny_4,5793535,300
+2dc8c9074a2b4b0a,templar_outer_thickwall_straight_v01_01.tgt,Tiny_4,5772363,1126
+6768ce0f86dd0828,templar_outer_thickwall_hedge_v01_01.tgt,Tiny_4,5769711,1374
+e107800c37a272b6,templar_outer_thickwall_hedge_v02_01.tgt,Tiny_4,5771085,1278
+1a0e52073c12bf60,templar_outer_thickwall_concave_v01_01.tgt,Tiny_4,5767783,902
+3b8a31b9207c0275,templar_outer_thickwall_convex_v01_01.tgt,Tiny_4,5768685,1026
+b7993f2f508ac7df,templar_outer_hedge_v01_01.tgt,Tiny_4,5764475,1654
+ad10c196c48feaa3,templar_outer_hedge_v02_01.tgt,Tiny_4,5766129,1654
+efe5c6c3bf6f85dc,templar_outerwall_door_v01_01.tgt,Tiny_4,5779849,2424
+3a595cb24216b4f9,templar_outerwall_thickwall_quad_v01_01.tgt,Tiny_4,5786489,1044
+7ca87ebed7dff33b,templar_outerwall_thickwall_v01_01.tgt,Tiny_4,5787533,1248
+f94faa08d5ef8c09,templar_outerwall_thickwall_v03_01.tgt,Tiny_4,5791591,1356
+594adaf09abde5e9,templar_outerwall_thickwall_v02_01.tgt,Tiny_4,5788781,1454
+6e47e943435c9b53,templar_outerwall_thickwall_v02_02.tgt,Tiny_4,5790235,1356
+161a8cb9f4bd3a1c,templar_outerwall_straight_v01_01.tgt,Tiny_4,5782273,1408
+a7a96079fdc2c7b3,templar_outerwall_straight_v01_02.tgt,Tiny_4,5783681,1404
+ebbc47dad4c363e0,templar_outerwall_straight_v01_03.tgt,Tiny_4,5785085,1404
+50658bbdfd379cbb,templar_outerwall_corner_v01_01.tgt,Tiny_4,5778445,1404
+92975ed1c98c36bd,templar_outerwall_convex_v01_01.tgt,Tiny_4,5777041,1404
+c766338c65c70377,templar_outerwall_concave_v01_01.tgt,Tiny_4,5773489,1184
+4eaca507daa11896,templar_outerwall_concave_v02_01.tgt,Tiny_4,5774673,1184
+6ea86fa096a83a99,templar_outerwall_concave_v02_02.tgt,Tiny_4,5775857,1184
+95ccdcc8f6646ca9,templar_oriath_transition_v01_01_area_transition.fmt,Tiny_4,5761476,546
+18669f031016e7d2,templar_oriath_transition_v01_01_area_transition.fmt.header,Tiny_4,5762022,226
+3164b31069f02e38,templar_oriath_transition_v01_01.tgt,Tiny_4,5759188,1782
+b39e3986ca0badf8,templar_oriath_transition_v01_01.tmd,Tiny_4,5760970,506
+8f52a66ff9b00d5f,templar_oriathsquare_transition_v01_01_area_transition.fmt,Tiny_4,5763712,540
+1c56a7b58304f4b1,templar_oriathsquare_transition_v01_01_area_transition.fmt.header,Tiny_4,5764252,223
+b2e2eed348ffc05f,templar_oriathsquare_transition_v01_01.tgt,Tiny_4,5762248,934
+7bc1d3e0a4d24bfc,templar_oriathsquare_transition_v01_01.tmd,Tiny_4,5763182,530
+941fcc6465bfed6c,templar_ledge_to_stairs_v01_01.tgt,Tiny_4,5756026,1054
+3da8016674020488,templar_ledge_to_stairs_v02_01.tgt,Tiny_4,5757080,1054
+7a0520b00c7cbff1,templar_ledge_to_stairs_v03_01.tgt,Tiny_4,5758134,1054
+25e803f362a9ee6a,templar_ledge_stairs_v01_01.tgt,Tiny_4,5754184,1048
+a8df74053afd559b,templar_ledge_straight_v01_01.tgt,Tiny_4,5755232,794
+45b1b7bef59ebbd6,templar_ledge_concave_v01_01.tgt,Tiny_4,5752602,792
+417e779d07e468ba,templar_ledge_convex_v01_01.tgt,Tiny_4,5753394,790
+68c648e98cdfe1fb,templar_jurystand_straight_v07_03.fmt,Folders/art/models/terrain/endgame/D/theatre,585272,94848
+aa019cc22e4c6e04,templar_jurystand_straight_v07_03.fmt.header,Tiny_4,5752035,567
+6b81c0de5ca8612f,templar_jurystand_straight_v07_02.fmt,Folders/art/models/terrain/act5/templar court,3525891,179866
+039f552103da9eaf,templar_jurystand_straight_v07_02.fmt.header,Tiny_4,5751258,777
+06f54eaf22daeb37,templar_jurystand_straight_v07_01.fmt,Folders/art/models/terrain/act5/templar court,3256757,269134
+5dae4cd5699f4449,templar_jurystand_straight_v07_01.fmt.header,Tiny_4,5750487,771
+65144ab2aa22976d,templar_jurystand_straight_v06_03.fmt,Folders/art/models/terrain/act5/templar court,3055795,200962
+3f39bb9df45a7d36,templar_jurystand_straight_v06_03.fmt.header,Tiny_4,5749707,780
+d793924c6f668331,templar_jurystand_straight_v06_02.fmt,Folders/art/models/terrain/act5/templar court,2861787,194008
+72d7f8c440c83bcc,templar_jurystand_straight_v06_02.fmt.header,Tiny_4,5748930,777
+ef6e9f964dc0278b,templar_jurystand_straight_v05_03.fmt,Folders/art/models/terrain/act5/templar court,2747837,113950
+5cbb6b539b12479f,templar_jurystand_straight_v05_03.fmt.header,Tiny_4,5748043,887
+03ca307b6c094756,templar_jurystand_straight_v05_02.fmt,Folders/art/models/terrain/act5/templar court,2626763,121074
+10de8e5f71e359b2,templar_jurystand_straight_v05_02.fmt.header,Tiny_4,5747107,936
+544748e3cd7ce6ed,templar_jurystand_straight_v04_03.fmt,Folders/art/models/terrain/act5/templar court,2567169,59594
+2dfbd4ea0525f6f4,templar_jurystand_straight_v04_03.fmt.header,Tiny_4,5746530,577
+2430f0df6a9c7496,templar_jurystand_straight_v04_02.fmt,Folders/art/models/terrain/act5/templar court,2506883,60286
+6214d0b41c9c989b,templar_jurystand_straight_v04_02.fmt.header,Tiny_4,5745955,575
+6828338bbf52a25b,templar_jurystand_straight_v03_03.fmt,Folders/art/models/terrain/act5/templar court,2379445,127438
+50e0ebeb7baa0f62,templar_jurystand_straight_v03_03.fmt.header,Tiny_4,5745395,560
+f901b7d7ce8f57b9,templar_jurystand_straight_v03_02.fmt,Folders/art/models/terrain/act5/templar court,2266935,112510
+ea5b45834dad69ae,templar_jurystand_straight_v03_02.fmt.header,Tiny_4,5744725,670
+18acd5ce6ad89b75,templar_jurystand_straight_v02_03.fmt,Folders/art/models/terrain/act5/templar court,2193773,73162
+7f4cb9ca5d010081,templar_jurystand_straight_v02_03.fmt.header,Tiny_4,5743894,831
+f9a805fcdb8dbebd,templar_jurystand_straight_v02_02.fmt,Folders/art/models/terrain/act5/templar court,2118989,74784
+852d8578f0a14c2c,templar_jurystand_straight_v02_02.fmt.header,Tiny_4,5743062,832
+b032188f94df9523,templar_jurystand_straight_v01_03.fmt,Folders/art/models/terrain/act5/templar court,2084615,34374
+cfbfd5e5508f9afd,templar_jurystand_straight_v01_03.fmt.header,Tiny_4,5742706,356
+95805732b950e1c1,templar_jurystand_straight_v01_02.fmt,Folders/art/models/terrain/act5/templar court,2051099,33516
+61ddfbabe2e077f3,templar_jurystand_straight_v01_02.fmt.header,Tiny_4,5742305,401
+acdf601c0f574414,templar_floor_v01_01.tgt,Tiny_4,5741823,482
+c90f354f6fb7ab0f,templar_floor_burned_v02_01.tgt,Tiny_4,5739911,952
+fb4204088e7c7c4b,templar_floor_burned_v02_02.tgt,Tiny_4,5740863,960
+2410ccddf5515cbb,templar_floor_burned_v01_01.tgt,Tiny_4,5736625,820
+134d7b87886e4a1f,templar_floor_burned_v01_02.tgt,Tiny_4,5737445,818
+fb22cf7cdcf0e543,templar_floor_burned_v01_03.tgt,Tiny_4,5738263,822
+ea367fabaa9d548f,templar_floor_burned_v01_04.tgt,Tiny_4,5739085,826
+7c54f289f54ce343,templar_desk_v01_01.fmt,Folders/art/models/terrain/act5/templar court,1910581,140518
+2dc51988cc9f9185,templar_desk_v01_01.fmt.header,Tiny_4,5736451,174
+26629f3d8a13bac8,templar_courtroom_v02_01.tgt,Tiny_4,5726155,1848
+f5f0f9f512f74aec,templar_courtroom_v03_01.tgt,Tiny_4,5728003,2134
+7b6249d761b1655a,templar_courtroom_v04_01.tgt,Tiny_4,5730137,2092
+9cd22051e2e0bac3,templar_courtroom_v05_01.tgt,Tiny_4,5732229,1586
+19b7548d1f3ac6fa,templar_courtroom_v06_01_defendant_chair_v01_011.fmt,Folders/art/models/terrain/act5/templar court,1863111,47470
+85ef7de7fe411666,templar_courtroom_v06_01_defendant_chair_v01_011.fmt.header,Tiny_4,5736027,424
+c10d4357417a76e1,templar_courtroom_v06_01.tgt,Tiny_4,5733815,1710
+3a3ece6b578470af,templar_courtroom_v06_01.tmd,Tiny_4,5735525,502
+4d1033e3163723b5,templar_courtroom_v01_01_banner3.fmt,Tiny_5,59875441,48
+ff78a3dbf76c7489,templar_courtroom_v01_01_banner3.fmt.header,Tiny_7,56868231,128
+f3a46b51d2ea59f6,templar_courtroom_v01_01_banner2.fmt,Tiny_5,59875441,48
+274c1e911a769d6e,templar_courtroom_v01_01_banner2.fmt.header,Tiny_7,56868231,128
+5a499951b9794d07,templar_courtroom_v01_01_banner1.fmt,Tiny_5,59875441,48
+1029314a8fb71884,templar_courtroom_v01_01_banner1.fmt.header,Tiny_7,56868231,128
+9eaec5f726202018,templar_courtroom_v01_01_banner.fmt,Tiny_5,59875441,48
+3719feee65445a08,templar_courtroom_v01_01_banner.fmt.header,Tiny_7,56868231,128
+61cc1c2c73d9a9ed,templar_courtroom_v01_01.tgt,Tiny_4,5720819,2994
+627fd4976364c3e7,templar_courtroom_v01_01.tmd,Tiny_4,5723813,2342
+c4774bf602213f62,templar_burned_tileset_end_v01_01.tgt,Tiny_4,5718103,1610
+44d7fbddba1389f5,templar_burned_tileset_end_v01_02.tgt,Tiny_4,5719713,1106
+d85eba256923135d,templar_burned_thinwall_fireplace_v01_01.tgt,Tiny_4,5709263,1702
+56f35b8b84cb71aa,templar_burned_thinwall_straight_v01_01.tgt,Tiny_4,5710965,1472
+9d50e61c08388845,templar_burned_thinwall_straight_v01_02.tgt,Tiny_4,5712437,1624
+f3afad9ae813e3cc,templar_burned_thinwall_straight_v01_03.tgt,Tiny_4,5714061,1816
+220baab059edd12e,templar_burned_thinwall_straight_v01_04.tgt,Tiny_4,5715877,1036
+fd5de9d661b9dcb5,templar_burned_thinwall_straight_v01_05.tgt,Tiny_4,5716913,1190
+3a94d0c11d1f7e39,templar_burned_thinwall_corner_v01_02.tgt,Tiny_4,5701767,1312
+16948735bad21bb3,templar_burned_thinwall_corner_v03_01.tgt,Tiny_4,5706129,1818
+546e97b935fc0c2a,templar_burned_thinwall_corner_v03_02.tgt,Tiny_4,5707947,1316
+2c56c9bc563dc45a,templar_burned_thinwall_corner_v02_01.tgt,Tiny_4,5703079,1738
+72ecf648ab775dd8,templar_burned_thinwall_corner_v02_02.tgt,Tiny_4,5704817,1312
+4a52642cb9e788be,templar_burned_thickwall_to_thinwall_v01_02.tgt,Tiny_4,5700069,1698
+0a106d29692a30e5,templar_burned_thickwall_straight_ledge_v01_01.tgt,Tiny_4,5691109,1840
+73082b1e8305915f,templar_burned_thickwall_straight_v01_01.tgt,Tiny_4,5692949,960
+d25c22c2244b1ace,templar_burned_thickwall_straight_v01_02.tgt,Tiny_4,5693909,960
+c180043c5e6401d4,templar_burned_thickwall_straight_v01_03.tgt,Tiny_4,5694869,1336
+90a5efea7b2636c3,templar_burned_thickwall_straight_v01_04.tgt,Tiny_4,5696205,1336
+2b49f262c974ab86,templar_burned_thickwall_straight_v01_05.tgt,Tiny_4,5697541,1264
+4e6217ed5d905a38,templar_burned_thickwall_straight_v01_06.tgt,Tiny_4,5698805,1264
+9a1cf1f4fdfcb821,templar_burned_thickwall_straight_door_v01_01.tgt,Tiny_4,5687823,1500
+ba90362830f2afdf,templar_burned_thickwall_straight_door_v01_02.tgt,Tiny_4,5689323,1786
+3b4e7f7c2bad9094,templar_burned_thickwall_concave_v01_01.tgt,Tiny_4,5685631,958
+39ab43db81219a62,templar_burned_thickwall_convex_v01_01.tgt,Tiny_4,5686589,1234
+64822ba31ed9be68,templar_burned_pillar_v01_01.tgt,Tiny_4,5683683,848
+d5facd75fdd54232,templar_burned_pillar_v01_02.tgt,Tiny_4,5684531,1100
+b7dc9575019c68cf,templar_burned_courtroom_v01_01.tgt,Folders/art/models/terrain/act5/templar court,1858349,4762
+475986631999a59d,templar_burned_courtroom_v02_01.tgt,Tiny_4,5666501,3688
+05336547f2668175,templar_burned_courtroom_v03_01.tgt,Tiny_4,5670189,3276
+233e68e2059ea865,templar_burned_courtroom_v04_01.tgt,Tiny_4,5673465,4006
+b56dcda84fd23afb,templar_burned_courtroom_v05_01.tgt,Tiny_4,5677471,2142
+7083e50d8c97d0ac,templar_burned_courtroom_v06_01.tgt,Tiny_4,5679613,4070
+4f619bad6c9dc1d8,templar_burned_bookshelf_v01_04.fmt,Folders/art/models/terrain/act5/templar court,1725170,133179
+8d5f7edac879199a,templar_burned_bookshelf_v01_04.fmt.header,Tiny_4,5665592,909
+beb151a07b9ee09a,templar_burned_bookshelf_v01_03.fmt,Folders/art/models/terrain/act5/templar court,1614467,110703
+9e67064949da85a8,templar_burned_bookshelf_v01_03.fmt.header,Tiny_4,5664673,919
+e89aa3a0e2e5e9be,templar_burned_bookshelf_v01_02.fmt,Folders/art/models/terrain/act5/templar court,1501416,113051
+c8049bec021745f0,templar_burned_bookshelf_v01_02.fmt.header,Tiny_4,5663771,902
+f5f31ba472a10990,templar_burned_bookshelf_v01_01.fmt,Folders/art/models/terrain/act5/templar court,1365975,135441
+7a9d26a7d62206fd,templar_burned_bookshelf_v01_01.fmt.header,Tiny_4,5662775,996
+c2a5bc6c2e3114ab,templar_bookshelf_v01_04.fmt,Folders/art/models/terrain/act5/templar court,1253195,112780
+33baef84687a8b5a,templar_bookshelf_v01_04.fmt.header,Tiny_4,5662387,388
+ac6f4cdb2dc8d3f7,templar_bookshelf_v01_03.fmt,Folders/art/models/terrain/act5/templar court,1082713,170482
+73820c69c8e431eb,templar_bookshelf_v01_03.fmt.header,Tiny_4,5661999,388
+b930416de85c476f,templar_bookshelf_v01_02.fmt,Folders/art/models/terrain/act5/templar court,944103,138610
+32b4e6b46d963e93,templar_bookshelf_v01_02.fmt.header,Tiny_4,5661611,388
+1a5aca04b3886c25,templar_bookshelf_v01_01.fmt,Folders/art/models/terrain/act5/templar court,736963,207140
+912ed1210ac3e245,templar_bookshelf_v01_01.fmt.header,Tiny_4,5661054,557
+a15ff233b6347617,reading_desk_v01_03.fmt,Folders/art/models/terrain/act5/templar court,671815,65148
+a531e1524708a215,reading_desk_v01_03.fmt.header,Tiny_4,5660567,487
+f62ce16b74922cbd,reading_desk_v01_02.fmt,Folders/art/models/terrain/act5/templar court,601857,69958
+45722ae453c03e6b,reading_desk_v01_02.fmt.header,Tiny_4,5660081,486
+074495cf3cdc9efc,reading_desk_v01_01.fmt,Folders/art/models/terrain/act5/templar court,534211,67646
+79209813aa2e6bc8,reading_desk_v01_01.fmt.header,Tiny_4,5659521,560
+bddea59dbba17a66,heistdiagonal_01.tgt,Tiny_4,5658135,1386
+8368a934b8c3ae0f,haunt_thickwall_straight_v02_01.tgt,Tiny_4,5656139,998
+dae39d7da692348c,haunt_thickwall_straight_v02_02.tgt,Tiny_4,5657137,998
+4102fa4c74a44154,haunt_thickwall_straight_v01_01.tgt,Tiny_4,5651515,1156
+00a5897d4336ffb0,haunt_thickwall_straight_v01_02.tgt,Tiny_4,5652671,1156
+4f7ed956ba3d4d03,haunt_thickwall_straight_v01_03.tgt,Tiny_4,5653827,1156
+f753c772023e1c42,haunt_thickwall_straight_v01_04.tgt,Tiny_4,5654983,1156
+50492cd0bcff5e1d,gothicpillar.fmt,Folders/art/models/terrain/act5/templar court,477767,56444
+913814c9639b8829,gothicpillar.fmt.header,Tiny_4,5651360,155
+3781fd3fe3938751,domonus_portrait_v01_01.fmt,Tiny_4,5646479,1608
+2addcd0e269da75e,domonus_portrait_v01_01.fmt.header,Tiny_4,5648087,309
+ad78400aaa70bd06,defendant_chair_v01_02.fmt,Folders/art/models/terrain/act5/templar court,457179,20588
+aac89ffcc4ec8949,defendant_chair_v01_02.fmt.header,Tiny_4,5646318,161
+9bb415611aa3e397,defendant_chair_v01_01.fmt,Folders/art/models/terrain/act5/templar court,409181,47998
+26e07135bc1f0a2b,defendant_chair_v01_01.fmt.header,Tiny_4,5645894,424
+fd5c46f5bc9bc4e6,defendant_chair_burned_v01_02.fmt,Folders/art/models/terrain/act5/templar court,388600,20581
+340002da1f487022,defendant_chair_burned_v01_02.fmt.header,Tiny_4,5645726,168
+9fd222c2bdf83f96,defendant_chair_burned_v01_01.fmt,Folders/art/models/terrain/act5/templar court,341839,46761
+dc4ce38cfc01e32d,defendant_chair_burned_v01_01.fmt.header,Tiny_4,5645252,474
+6e025cdb5ba1d75f,courts_waypoint_broken_v01_01.tgt,Tiny_4,5639341,608
+c66f182e4f4c672d,courts_waypoint_v02_01_waypoint_effect.fmt,Tiny_5,59875441,48
+0cff88f86fb5db34,courts_waypoint_v02_01_waypoint_effect.fmt.header,Tiny_7,56868231,128
+ac027f1a1e344584,courts_waypoint_v02_01_waypoint.fmt,Tiny_4,5641549,3548
+5a2a07d437208d44,courts_waypoint_v02_01_waypoint.fmt.header,Tiny_4,5645097,155
+86ab77878f75a550,courts_waypoint_v02_01.tgt,Tiny_4,5639949,594
+66dc58adc78a098f,courts_waypoint_v02_01.tmd,Tiny_4,5640543,1006
+13206b2de5434575,confession_tools_v01_01.fmt,Folders/art/models/terrain/act5/templar court,270441,71398
+7d9802f60dfa7e31,confession_tools_v01_01.fmt.header,Tiny_4,5638792,549
+ecce10e532b780e9,bookpile_v01_06.fmt,Folders/art/models/terrain/act5/templar court,266341,4100
+a74a84ef8d7666c9,bookpile_v01_06.fmt.header,Tiny_4,5638607,185
+49a66a497e092dc0,bookpile_v01_05.fmt,Tiny_4,5635018,3404
+0f448695d0e37a8b,bookpile_v01_05.fmt.header,Tiny_4,5638422,185
+7c489b59cd026dc1,bookpile_v01_04.fmt,Folders/art/models/terrain/act5/templar court,252209,14132
+385b4b83d72764e8,bookpile_v01_04.fmt.header,Tiny_4,5634833,185
+b385bcc91e891aee,bookpile_v01_03.fmt,Folders/art/models/terrain/act5/templar court,237113,15096
+58b197492ecd6206,bookpile_v01_03.fmt.header,Tiny_4,5634628,205
+90e3ceca383e52b7,bookpile_v01_02.fmt,Folders/art/models/terrain/act5/templar court,228277,8836
+c71ec31f76cd18e5,bookpile_v01_02.fmt.header,Tiny_4,5634448,180
+1f6cdfe9ef9c4e77,bookpile_v01_01.fmt,Folders/art/models/terrain/act5/templar court,204671,23606
+064351ff36f6ebcc,bookpile_v01_01.fmt.header,Tiny_4,5634263,185
+a0c1ef6a4d3481d7,bookpile_burned_v01_10.fmt,Tiny_4,5631082,2995
+6b912499e30af2ac,bookpile_burned_v01_10.fmt.header,Tiny_4,5634077,186
+909806cdc1d1ef6b,bookpile_burned_v01_09.fmt,Folders/art/models/terrain/act5/templar court,200304,4367
+d82a46e0c541f03c,bookpile_burned_v01_09.fmt.header,Tiny_4,5630745,337
+eb66b9c26b8716b4,bookpile_burned_v01_08.fmt,Tiny_4,5628002,2555
+e8f71bcbda25d9be,bookpile_burned_v01_08.fmt.header,Tiny_4,5630557,188
+376b27c16c3395d9,bookpile_burned_v01_07.fmt,Tiny_4,5624266,3507
+8e0ce9c48a6549b0,bookpile_burned_v01_07.fmt.header,Tiny_4,5627773,229
+71ae3c849bc1755d,bookpile_burned_v01_06.fmt,Folders/art/models/terrain/act5/templar court,195423,4881
+44f16e93edf2afd7,bookpile_burned_v01_06.fmt.header,Tiny_4,5623980,286
+46e75f1564726b00,bookpile_burned_v01_05.fmt,Folders/art/models/terrain/act5/templar court,189068,6355
+0842dbbbc0f7d10c,bookpile_burned_v01_05.fmt.header,Tiny_4,5623737,243
+ba09a1a946cf0bab,bookpile_burned_v01_04.fmt,Folders/art/models/terrain/act5/templar court,165927,23141
+ca0fffeef384dc14,bookpile_burned_v01_04.fmt.header,Tiny_4,5623386,351
+5546987edb0c34c3,bookpile_burned_v01_03.fmt,Folders/art/models/terrain/act5/templar court,141906,24021
+58145195c54aae80,bookpile_burned_v01_03.fmt.header,Tiny_4,5622963,423
+32d053cc85a9fd7a,bookpile_burned_v01_02.fmt,Folders/art/models/terrain/act5/templar court,123317,18589
+fbbcd7390654347a,bookpile_burned_v01_02.fmt.header,Tiny_4,5622563,400
+36d1913a3435bd1f,bookpile_burned_v01_01.fmt,Folders/art/models/terrain/act5/templar court,77864,45453
+a5471da772d269a8,bookpile_burned_v01_01.fmt.header,Tiny_4,5622212,351
+fa9b4cbd46c0ce8c,bench_v03_01.fmt,Folders/art/models/terrain/act5/templar court,47292,30572
+b7cb093c97c54d6d,bench_v03_01.fmt.header,Tiny_4,5621923,289
+53b336194a9f6e09,bench_v02_01.fmt,Folders/art/models/terrain/act5/templar court,21380,25912
+9dafa80052e9259e,bench_v02_01.fmt.header,Tiny_4,5621660,263
+f5debfc538963671,bench_v01_01.fmt,Folders/art/models/terrain/act5/templar court,0,21380
+45770b2cbec743ec,bench_v01_01.fmt.header,Tiny_4,5621371,289

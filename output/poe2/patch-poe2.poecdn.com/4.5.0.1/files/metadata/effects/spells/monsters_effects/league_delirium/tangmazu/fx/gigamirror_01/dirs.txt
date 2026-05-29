@@ -1,0 +1,6 @@
+eat_fruit_01
+mirror_monster_summon
+shatter_close
+shatter_close_idle
+shatter_open
+spread_fog_01

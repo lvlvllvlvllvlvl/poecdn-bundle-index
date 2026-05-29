@@ -1,0 +1,8 @@
+explosions
+explosions/blood
+explosions/cold
+explosions/fire
+explosions/lightning
+explosions/poison
+flasks
+trails

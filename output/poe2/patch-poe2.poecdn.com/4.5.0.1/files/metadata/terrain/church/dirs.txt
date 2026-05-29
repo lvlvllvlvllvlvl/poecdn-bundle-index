@@ -1,0 +1,8 @@
+abyss
+features
+ledge
+rooms_act3
+rooms_act3/1x1
+stairs
+walkway
+walls

@@ -1,9 +1,0 @@
-ao
-epk
-fx
-graph
-mat
-mat/onact_swing
-mat/slam_rect
-mat/slam_sunder
-mat/slam_sunder/initial

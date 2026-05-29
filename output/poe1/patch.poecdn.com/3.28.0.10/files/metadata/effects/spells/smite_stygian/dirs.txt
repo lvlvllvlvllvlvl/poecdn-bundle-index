@@ -1,2 +1,0 @@
-weaponfx
-weaponfx/pet

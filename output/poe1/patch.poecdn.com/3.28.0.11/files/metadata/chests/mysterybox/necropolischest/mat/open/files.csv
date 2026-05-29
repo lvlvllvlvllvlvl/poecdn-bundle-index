@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+61676049717aaf6f,smokey_r.mat,Tiny_8,77008406,23054
+039fd5f450176ae3,smokey_u.mat,Tiny_8,77031460,3210
+b4bcb541fb2c196f,open_embers_r.mat,Tiny_8,76963740,29660
+ef70127e9039efd6,open_embers_u.mat,Tiny_8,76993400,15006
+ecccb690c23f3c19,mblur_sphere_r.mat,Tiny_8,76953242,10498
+5231cbda4cf32795,mblur_sphere_u.mat,Tiny_11,150820658,310
+850523bdf62e3303,lanternlight_01_r.mat,Tiny_8,76933830,19412
+1ccdc1fee1c63513,lanternlight_01_u.mat,Tiny_11,150820658,310
+87c598e9b4cfee16,lanterndarknessbg_r.mat,Tiny_D,426256956,46404
+469b3aec29b2c0ba,lanterndarknessbg_u.mat,Tiny_D,426303360,1104
+212615ee5c4f447c,darkpossessed_ribbons_u.mat,Tiny_8,76915136,18694
+7fed9b5ef730c008,darkpossessed_ribbons_r1.mat,Tiny_8,76829364,39490
+47b41f6ff786efb2,darkpossessed_ribbons_r2.mat,Tiny_8,76868854,46282

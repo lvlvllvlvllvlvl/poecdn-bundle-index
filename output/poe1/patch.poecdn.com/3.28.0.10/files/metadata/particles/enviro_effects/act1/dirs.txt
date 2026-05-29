@@ -1,7 +1,0 @@
-bonfirelights
-groundsmoke
-merv_arena
-merv_arena/gold_glow
-snow
-twilight_strand
-twilight_strand/force_wall

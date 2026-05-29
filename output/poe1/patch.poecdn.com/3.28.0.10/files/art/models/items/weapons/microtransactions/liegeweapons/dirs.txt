@@ -1,5 +1,0 @@
-liegebow
-liegeclaw
-liegequiver
-liegeshield
-textures

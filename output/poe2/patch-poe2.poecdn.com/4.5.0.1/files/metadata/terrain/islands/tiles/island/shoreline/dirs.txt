@@ -1,0 +1,9 @@
+deepwateredge
+isleofkin
+kedgebay
+kedgebay/shipwrecks
+rockylagoon
+shipwrecks
+shipwrecks/attachments
+shipwrecks/attachments/shipwrecks
+tropical

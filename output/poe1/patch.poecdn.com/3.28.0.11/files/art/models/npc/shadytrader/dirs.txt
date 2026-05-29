@@ -1,0 +1,4 @@
+attachments
+attachments/cloak
+attachments/lantern
+textures

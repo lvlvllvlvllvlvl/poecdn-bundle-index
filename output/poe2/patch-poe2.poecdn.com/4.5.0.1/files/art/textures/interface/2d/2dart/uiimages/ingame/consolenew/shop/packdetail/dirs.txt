@@ -1,0 +1,10 @@
+4k
+french
+german
+japanese
+korean
+portuguese
+russian
+spanish
+thai
+traditional chinese

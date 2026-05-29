@@ -1,0 +1,4 @@
+death_sparks
+deathflame_zone
+staff_beam
+staff_totem

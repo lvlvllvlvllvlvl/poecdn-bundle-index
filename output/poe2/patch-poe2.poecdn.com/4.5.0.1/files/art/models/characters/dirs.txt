@@ -1,0 +1,14 @@
+adventurer
+adventurerloginscenefalloforiath
+hunter
+hunterloginscenefalloforiath
+swordsman
+swordsmanloginscenefalloforiath
+templar
+templarloginscenefalloforiath
+trickster
+tricksterloginscenefalloforiath
+warrior
+warriorloginscenefalloforiath
+witch
+witchloginscenefalloforiath

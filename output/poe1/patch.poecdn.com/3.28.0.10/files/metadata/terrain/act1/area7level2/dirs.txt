@@ -1,5 +1,0 @@
-graphs
-groundtypes
-warden
-warden/graphs
-warden/groundtypes

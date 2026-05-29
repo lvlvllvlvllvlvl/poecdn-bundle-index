@@ -1,4 +1,0 @@
-tracks
-tracks/effects
-tracks/effects/badlands
-tracks/effects/gates

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+d728756a0da925bb,warlorddespaircloakc.mat,Art/Models/Items/BackAttachments/WarlordDespairCloak/Textures,0,5276
+3c6f55a6df787937,warlorddespaircloak_proxyc.mat,Tiny_2,57023039,3216
+f1bcbecba5d9ee0a,warlorddespaircloak_normal_dxt5.dds,Art/Models/Items/BackAttachments/WarlordDespairCloak/Textures_3,0,1398276
+ea142b02895b7dde,warlorddespaircloak_normal_dxt5.dds.header,Tiny_2,57021519,1520
+b6ef58cae72edddb,warlorddespaircloak_metal_dxt5.dds,Art/Models/Items/BackAttachments/WarlordDespairCloak/Textures_2,699212,1398276
+e6c7b6f5dff2ce73,warlorddespaircloak_metal_dxt5.dds.header,Tiny_2,57019999,1520
+91cf3a2a9a7716bb,warlorddespaircloak_glow_dxt1.dds,Art/Models/Items/BackAttachments/WarlordDespairCloak/Textures_2,0,699212
+8b77e90150eb8b62,warlorddespaircloak_glow_dxt1.dds.header,Tiny_2,57018479,1520
+826a52917aab7e5e,warlorddespaircloak_colour_dxt5.dds,Art/Models/Items/BackAttachments/WarlordDespairCloak/Textures_1,0,1398276
+8d9ec68491fc796f,warlorddespaircloak_colour_dxt5.dds.header,Tiny_2,57016959,1520

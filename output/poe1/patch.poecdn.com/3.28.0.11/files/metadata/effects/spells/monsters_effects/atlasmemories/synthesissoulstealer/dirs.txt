@@ -1,0 +1,17 @@
+epk
+fx
+fx/beam_blast
+graph
+mat
+mat/beam
+mat/beam_blast_charge
+mat/delayed_blast
+mat/delayed_blast/charge
+mat/onact
+mat/onact/projectile
+mat/onact/soul_beam
+mat/onact/wing_beams
+mat/soul_beam
+mat/spell_projectile
+mat/spell_projectile/end
+mat/wing_fx

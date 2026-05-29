@@ -1,3 +1,0 @@
-shieldcrush
-shieldwave
-shieldwave/charge

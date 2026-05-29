@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+be7d020af7cbe344,aoe_ring.mat,Tiny_6,68810315,1744
+ecee054a10ada713,glow_hotspot.mat,Tiny_6,69040089,1988
+dcd74bcdd69ec4a9,thorn_dxt1.dds,Art/particles/monster_particles/AtlasExiles_39,2102046,22044
+578a44bc9bc82bd4,thorn_dxt1.dds.header,Tiny_6,68816963,344
+da281d8918fc60b6,rune_gold.mat,Tiny_6,68812059,1864
+2354c87c8bfa06f6,rune_normalaogloss_dxt5.dds,Art/particles/monster_particles/AtlasExiles_39,1402646,349700
+95023dda1d0ea73a,rune_normalaogloss_dxt5.dds.header,Tiny_6,68815443,1520
+a4761b625c6c3db8,rune_mask_dxt5.dds,Art/particles/monster_particles/AtlasExiles_39,1752346,349700
+5807de3666c5fa3d,rune_mask_dxt5.dds.header,Tiny_6,68813923,1520

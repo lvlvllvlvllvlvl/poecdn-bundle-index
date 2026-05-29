@@ -1,8 +1,0 @@
-armoursets
-bodyarmours
-boots
-capes
-gloves
-helmets
-robes
-shields

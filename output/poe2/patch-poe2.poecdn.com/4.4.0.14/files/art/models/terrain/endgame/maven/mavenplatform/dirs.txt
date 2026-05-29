@@ -1,5 +1,0 @@
-mavenplatform_split_01
-mavenplatform_split_01/effects
-mavenplatform_split_01/effects/textures
-mavenplatform_split_02
-mavenplatform_split_03

@@ -1,4 +1,0 @@
-pistondoor
-pressureplate
-staircase
-tgms

@@ -1,6 +1,0 @@
-graphs
-groundtypes
-objects
-rooms
-rooms/encounters
-rooms/fills

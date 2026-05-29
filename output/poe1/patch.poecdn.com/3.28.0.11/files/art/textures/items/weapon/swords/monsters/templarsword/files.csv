@@ -1,0 +1,45 @@
+hash,file,bundle,offset,size
+ff1142d0a2022f0f,xtemplarswordcns.mat,Tiny_8,26705684,2244
+6ee77ed9460065fd,xtemplarsword_colour.dds,Art/Textures/Items/weapon/swords/Monsters_1,875076,43868
+05eb080ac76c070c,xtemplarsword_colour.dds.header,Tiny_8,26705180,504
+8948093116d17804,xtemplarswordns.dds,Art/Textures/Items/weapon/swords/Monsters_1,787488,87588
+b5ea0885edf6ee00,xtemplarswordns.dds.header,Tiny_8,26707928,504
+76d2ecbd4f0d493f,xtemplarsword02cns.mat,Tiny_8,26702068,2272
+d83293c344448d05,xtemplarsword02_colour.dds,Art/Textures/Items/weapon/swords/Monsters_1,699940,87548
+0f17587dd177d61e,xtemplarsword02_colour.dds.header,Tiny_8,26701228,840
+84b0c13b6eb8072e,xtemplarsword02ns.dds,Art/Textures/Items/weapon/swords/Monsters_1,524992,174948
+8bb5ff0efce8aad6,xtemplarsword02ns.dds.header,Tiny_8,26704340,840
+7fddbe54b7010895,xtemplarsword01csxtemplarsword01_ normaln.mat,Tiny_8,26698862,2366
+2e0617a4ee982b5b,xtemplarsword01_colour.dds,Art/Textures/Items/weapon/swords/Monsters_1,437444,87548
+0aa9d534136fef3d,xtemplarsword01_colour.dds.header,Tiny_8,26698022,840
+da235d5abc98d135,xtemplarsword01_ normalnxtemplarsword01s.dds,Art/Textures/Items/weapon/swords/Monsters_1,262496,174948
+c615cf095a96f038,xtemplarsword01_ normalnxtemplarsword01s.dds.header,Tiny_8,26697182,840
+c8739e57d8f274b3,templarsword_normal_dxt5.dds,Art/Textures/Items/weapon/swords/Monsters_2,43868,87588
+f10354a888f303d2,templarsword_normal_dxt5.dds.header,Tiny_8,26694334,504
+bcc02c677bdf4724,templarsword_colour_dxt1.dds,Art/Textures/Items/weapon/swords/Monsters_2,0,43868
+71732534ef7af8b5,templarsword_colour_dxt1.dds.header,Tiny_8,26693830,504
+38fab70977a1fa96,templarswordc.mat,Tiny_8,26694838,2344
+9a85f230c7e23391,templarswordcns.mat,Tiny_8,26694838,2344
+ac7f101e6e91a161,templarsword02_normal_dxt5.dds,Art/Textures/Items/weapon/swords/Monsters_1,87548,174948
+ba934cf2ae533e38,templarsword02_normal_dxt5.dds.header,Tiny_8,26687602,840
+cb22857867441537,templarsword02_colour_dxt1.dds,Art/Textures/Items/weapon/swords/Monsters_1,0,87548
+292e0582a812846e,templarsword02_colour_dxt1.dds.header,Tiny_8,26686762,840
+7421d80f29eba0ee,templarsword02_colour.dds,Art/Textures/Items/weapon/swords/Monsters_1,0,87548
+6bf6ebd23b9f4ada,templarsword02_colour.dds.header,Tiny_8,26686762,840
+eab36e35720bd283,templarsword02ns.dds,Art/Textures/Items/weapon/swords/Monsters,962444,174948
+8cc7e48ceffe6173,templarsword02ns.dds.header,Tiny_8,26692990,840
+bec9ca1f6a4ce5b5,templarsword02c.mat,Tiny_8,26688442,2290
+71b65a628dfc747e,templarsword02cns.mat,Tiny_8,26690732,2258
+2f5cb72eeb49f148,templarsword01_ normalntemplarsword01s.dds,Art/Textures/Items/weapon/swords/Monsters_3,0,174948
+ab17c45306aabb90,templarsword01_ normalntemplarsword01s.dds.header,Tiny_8,26685922,840
+4a891b8373c26fea,silvertemplarswordc.mat,Tiny_8,26682296,3626
+1abc5e77f03aad16,silvertemplarsword_specular_dxt5.dds,Art/Textures/Items/weapon/swords/Monsters,612548,174948
+9e5ddc1fcb1dcbba,silvertemplarsword_specular_dxt5.dds.header,Tiny_8,26681456,840
+6adce1e5f8dd650b,silvertemplarsword_normal_dxt5.dds,Art/Textures/Items/weapon/swords/Monsters,437600,174948
+b90fb0cd1667e1d5,silvertemplarsword_normal_dxt5.dds.header,Tiny_8,26680616,840
+d06ac50df7644dbb,silvertemplarsword_colour_dxt5.dds,Art/Textures/Items/weapon/swords/Monsters,787496,174948
+5471504c80f99ed7,silvertemplarsword_colour_dxt5.dds.header,Tiny_8,26679776,840
+88c3e7887d878e58,silvertemplarsword_colour_bc7.dds,Art/Textures/Items/weapon/swords/Monsters,787496,174948
+26a84955d2bc8d1a,silvertemplarsword_colour_bc7.dds.header,Tiny_8,26679776,840
+83c6916fe04846e3,silvertemplarsword_colour.dds,Art/Textures/Items/weapon/swords/Monsters,350052,87548
+7f043d7a4fbc0f0b,silvertemplarsword_colour.dds.header,Tiny_8,26678936,840

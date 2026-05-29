@@ -1,0 +1,8 @@
+cleave
+coverinash
+empowering_howl
+flame_breath
+flame_breath/lava_pool
+flame_breath/projectile
+flame_geyser
+upheaval

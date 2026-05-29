@@ -1,9 +1,0 @@
-death
-ground_ink
-portal_out
-projectile
-projectile/animationfx
-projectile_epic
-projectile_epic/build_up
-spawn
-spawn/animationfx

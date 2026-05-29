@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+5f88c38653f7e524,smoke_01.mat,Tiny_6,89625059,1016
+a06b5ed2f92e4427,smoke_01.dds,Art/particles/monster_particles/curse_transfer,87588,22020
+6f71891dcf82f7b5,smoke_01.dds.header,Tiny_6,89623539,1520
+f2627de7b4435e27,smoke.mat,Tiny_6,89621447,2092
+8e26d15ff0d62107,smoke.dds,Art/particles/environment_effects/act4_9,354934,43876
+f0368f4e011f9a30,smoke.dds.header,Tiny_6,89620607,840
+d8665eeb7834b9bf,runes.mat,Tiny_6,89618549,2058
+01b2877d51337d1a,runes.dds,Art/particles/monster_particles/curse_transfer,0,87588
+5a9fa031d6c5a659,runes.dds.header,Tiny_6,89618045,504
+318d0285051aaadc,multi_scrolling_cosmos.mat,Tiny_6,89616623,1422
+de0e7739bb6dc105,multi_scrolling_cosmos.dds,Art/particles/ascendancy_classes/berserker,218988,22020
+0090947da64e2b4b,multi_scrolling_cosmos.dds.header,Tiny_6,89615103,1520

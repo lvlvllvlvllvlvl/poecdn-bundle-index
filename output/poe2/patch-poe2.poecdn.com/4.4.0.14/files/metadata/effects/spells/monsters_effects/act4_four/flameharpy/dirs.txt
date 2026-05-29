@@ -1,9 +1,0 @@
-ao
-epk
-epk/vulturewingsheld
-graph
-mat
-mat/mortar_impact_aoe
-mat/wings
-pet
-trl

@@ -1,4 +1,0 @@
-textures
-textures/on_act
-textures/on_act/attack_01
-textures/statueslam

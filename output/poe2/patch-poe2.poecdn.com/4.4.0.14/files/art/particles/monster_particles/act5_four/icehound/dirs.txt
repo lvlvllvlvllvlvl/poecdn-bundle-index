@@ -1,4 +1,0 @@
-mb
-textures
-textures/head_slam
-textures/ice_breath

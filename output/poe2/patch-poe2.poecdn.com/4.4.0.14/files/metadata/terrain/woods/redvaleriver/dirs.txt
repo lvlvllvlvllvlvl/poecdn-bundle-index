@@ -1,3 +1,0 @@
-nonwalkable
-rockpile_redvaleriver
-tmo_dupe

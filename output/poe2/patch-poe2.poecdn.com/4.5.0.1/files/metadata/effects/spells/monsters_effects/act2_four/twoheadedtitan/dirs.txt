@@ -1,0 +1,15 @@
+ao
+fx
+fx/onacts
+fx/slam
+fx/stomp
+mat
+mat/onacts
+mat/onacts/death
+mat/onacts/footsteps
+mat/onacts/meleetrails
+mat/slam
+mat/slam/cone
+mat/slam/impact
+mat/slam/lines
+mat/stomp

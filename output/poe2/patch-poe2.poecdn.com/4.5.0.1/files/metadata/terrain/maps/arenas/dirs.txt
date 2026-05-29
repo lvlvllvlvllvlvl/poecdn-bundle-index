@@ -1,0 +1,12 @@
+holodeck
+holodeck/fx
+holodeck/fxgraph
+holodeck/materials
+ritualpinnacle
+ritualpinnacle/audio
+sacredflame
+sacredflame/praystatues
+sacredflame/sacredflamekey01
+sacredflame/sacredflamekey01/epk
+sacredflame/sacredflamekey01/fx
+sacredflame/sacredflamekey01/mat

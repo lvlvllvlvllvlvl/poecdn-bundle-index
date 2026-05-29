@@ -1,0 +1,10 @@
+armour
+chaos_degen
+clarity
+elemental_damage
+elemental_damage/fire
+elemental_damage/ice
+elemental_damage/light
+evasion_aura
+faster_attack
+life_regen

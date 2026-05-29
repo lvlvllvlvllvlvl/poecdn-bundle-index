@@ -1,0 +1,5 @@
+attachments
+attachments/animations
+attachments/animations/skeleton_01
+attachments/animations/skeleton_02
+textures

@@ -1,0 +1,17 @@
+attachments
+attachments/helmet
+attachments/hip_plates
+attachments/shoulderpads
+attachments/shoulderpads/animation
+attachments/shoulderpads/animation/l_side
+attachments/shoulderpads/animation/r_side
+attachments/skirt
+attachments/skirt/dex
+attachments/skirt/dexint
+attachments/skirt/int
+attachments/skirt/str
+attachments/skirt/strdex
+attachments/skirt/strdexint
+attachments/skirt/strint
+fx
+textures

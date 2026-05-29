@@ -1,5 +1,0 @@
-cloak
-cloakdex
-cloakstr
-skirt
-skirtstr

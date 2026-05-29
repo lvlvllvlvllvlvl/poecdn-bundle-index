@@ -1,5 +1,0 @@
-epk
-fx
-mat
-mat/madness_debuff
-mat/madness_start

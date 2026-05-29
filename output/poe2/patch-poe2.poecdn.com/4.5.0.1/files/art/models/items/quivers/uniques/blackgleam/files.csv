@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+3abf36872b7221f4,arrowflying.fmt,Streaming/Content/metadata/items/quivers/serratedarrowquiverdrop.ao,459366,10652
+0e0ad59580c35297,arrowflying.fmt.header,Tiny.VE,10933349,306
+a606f6e6ba693fcb,blackgleam.sm,Tiny.VE,10933655,516
+0bfa8669d348ac21,blackgleamdrop_326041a4.smd,Streaming/Content/metadata/items/quivers/blackgleam/blackgleamheld.ao,588661,594993
+d8265b1622afdcc0,blackgleamdrop_326041a4.smd.header,Tiny.V0,11121807,648
+e4c0311dea5f0ece,blackgleamdrop.sm,Tiny.VA,10967525,524
+c61b766f89ba9329,blackgleamdrop.amd,Tiny.V9,11314665,202
+e9c5e8de53e2691f,blackgleamdrop.ast,Content/metadata/items/banners/demoniceyebanner/demoniceyebannerheld.ao,319133,12522
+4e4dc73d3c84dc7a,rig_b3883755.smd,Streaming/Content/metadata/items/quivers/blackgleam/blackgleamheld.ao,0,588661
+ba46dd14b787737c,rig_b3883755.smd.header,Tiny.VA,10968049,2190
+9cf39058ebbf346b,rig.amd,Tiny.V6,11028316,184
+b42822a53b7ffe5f,rig.ast,Tiny.V1,10857070,1353

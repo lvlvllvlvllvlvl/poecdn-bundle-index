@@ -1,5 +1,0 @@
-fire
-fire/shockwave
-ice
-ice/shockwave
-lightning

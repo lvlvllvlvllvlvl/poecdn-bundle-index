@@ -1,4 +1,0 @@
-emerge
-premium_emerge
-premium_idle_relaxed_01
-run

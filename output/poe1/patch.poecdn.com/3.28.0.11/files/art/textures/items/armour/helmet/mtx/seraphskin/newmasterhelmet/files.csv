@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+3006d7ac379ecb0b,seraphskinc.mat,Tiny_8,18584705,4642
+5e2d368a2332429a,seraphskin_specular_dxt5.dds,Art/Textures/Items/armour/helmet/Mtx_3,699400,349700
+cf8e8220e9aed471,seraphskin_specular_dxt5.dds.header,Tiny_8,18583185,1520
+d1885a221d3ca50a,seraphskin_normal_dxt5.dds,Art/Textures/Items/armour/helmet/Mtx_3,0,349700
+70feecc3ac03e563,seraphskin_normal_dxt5.dds.header,Tiny_8,18581665,1520
+8da5ab413d635aad,seraphskin_glow_dxt5.dds,Art/Textures/Items/armour/helmet/Mtx_3,349700,349700
+b9cf526c6cc90b47,seraphskin_glow_dxt5.dds.header,Tiny_8,18580145,1520
+757fd6684f22c7f1,seraphskin_colour_dxt5.dds,Art/Textures/Items/armour/helmet/Mtx_3,1049100,349700
+67784ce6562db58b,seraphskin_colour_dxt5.dds.header,Tiny_8,18578625,1520
+944b8a528b4aebf0,seraphskin_colour.dds,Folders/art/textures/items/armour/helmet/mtx_A,1137672,349700
+248c10c0f76eeed3,seraphskin_colour.dds.header,Tiny_8,18577105,1520

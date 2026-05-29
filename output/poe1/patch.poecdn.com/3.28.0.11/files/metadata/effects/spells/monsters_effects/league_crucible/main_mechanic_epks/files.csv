@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+03f9321c4a591e3c,unique_fx_large.epk,Tiny_D,376981596,1214
+8ce68bbdfd747647,unique_fx_medium.epk,Tiny_D,376982810,1216
+1d94727ddf2e2c15,unique_fx_small.epk,Tiny_D,376984026,1214
+3edd94264cb6a4e0,unique_fx_tiny.epk,Tiny_D,376985240,1212
+76c65719af851ee5,crucible_object_cooloff.epk,Tiny_D,376974572,830
+c5fec81e65ae5e20,crucible_object_cooloff_epk_pass0.mat,Tiny_D,376975402,6194
+43c4f4aec79d22a3,crucible_object_cooledoff.epk,Tiny_D,376968714,834
+e92eb636d31cac3d,crucible_object_cooledoff_epk_pass0.mat,Tiny_D,376969548,5024
+e6512b1c99054b68,crucible_mechanic_melt.epk,Tiny_D,376965582,774
+9c51dac7b218f5ec,crucible_mechanic_melt_magic.epk,Tiny_D,376966356,786
+387ada10efce0a31,crucible_mechanic_melt_rare.epk,Tiny_D,376967142,784
+69083be55b3d347c,crucible_mechanic_melt_unique.epk,Tiny_D,376967926,788
+88ab54d5554d5b30,crucible_line_cooloff.epk,Tiny_D,376956796,788
+8f9d514290bcd805,crucible_line_cooloff_epk_pass0.mat,Tiny_D,376957584,7998

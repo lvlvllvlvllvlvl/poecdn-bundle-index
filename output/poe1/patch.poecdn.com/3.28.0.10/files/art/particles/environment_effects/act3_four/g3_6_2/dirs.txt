@@ -1,3 +1,0 @@
-textures
-textures/generator
-textures/wall_light

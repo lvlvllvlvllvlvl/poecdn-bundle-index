@@ -1,0 +1,5 @@
+vampire
+vampire/eye
+vampire/mat
+wendigoskin
+wendigoskin/mat

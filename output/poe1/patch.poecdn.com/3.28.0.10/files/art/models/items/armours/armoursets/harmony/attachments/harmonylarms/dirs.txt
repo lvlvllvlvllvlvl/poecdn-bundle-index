@@ -1,7 +1,0 @@
-harmonylarmsdex
-harmonylarmsdexint
-harmonylarmsint
-harmonylarmsstr
-harmonylarmsstrdex
-harmonylarmsstrdexint
-harmonylarmsstrint

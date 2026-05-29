@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+5a35a72a0ac03894,sand_grain_tile.mat,Tiny.VC,35230131,1176
+71bcdb37654c759f,splash_up.mat,Tiny.VC,35231307,3470
+3ea3e92a7cfa132a,splash_up_bc1.dds,Streaming/Content/data/worldareas/E1/c_g1_5.vworld,3167189,43852
+d05bf9208267db07,splash_up_bc1.dds.header,Tiny.VD,35121816,1520
+0583031321b47ec3,splash_up_dxt5.dds,Streaming/Content/data/balance/worldareas/BE/mapdeforestation.vworld,2793817,87556
+0d2941cfc83a0b29,splash_up_dxt5.dds.header,Tiny.VD,35123336,1520
+867715f2fddadad2,water_splash_2x2.mat,Tiny.VA,35155802,2988
+eac41ae1ea57a288,water_splash_2x2_bc1.dds,Streaming/Content/data/worldareas/42/c_g1_5.vworld,233993,174924
+eb3947e9926b63c6,water_splash_2x2_bc1.dds.header,Tiny.V2,34907868,1520
+95ab66a04ebcf353,water_splash_2x2_dxt5.dds,Streaming/Content/data/worldareas/AA/c_g1_1.vworld,184782,349700
+d24c26d164f0db5f,water_splash_2x2_dxt5.dds.header,Tiny.VE,34556442,1520
+56c8e0e8cb4bdbc8,water_circular_splash.mat,Tiny.V5,34527779,2442
+f6e3d1e030d98167,water_circular_splash_bc1.dds,Streaming/Content/metadata/terrain/woods/grimtangle/D8DBC30FC68A4A3F.6DFCDFF7DF48EC1C.root_pulse.epk,428289,174924
+cc4a4fd4f7020e71,water_circular_splash_bc1.dds.header,Tiny.VE,34554922,1520
+4190a2c62137bec3,water_circular_splash_dxt5.dds,Streaming/Content/data/worldareas/DE/c_g1_1.vworld,850171,349700
+da19b0c4eda75af0,water_circular_splash_dxt5.dds.header,Tiny.V2,34906348,1520

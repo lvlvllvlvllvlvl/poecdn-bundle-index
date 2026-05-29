@@ -1,0 +1,7 @@
+attachments
+attachments/bracelet
+attachments/cloak
+attachments/helmetdecor
+attachments/shawl
+attachments/weapon
+textures

@@ -1,4 +1,0 @@
-attachments
-attachments/bloodyskull
-attachments/feathers
-attachments/r_deadbody_head

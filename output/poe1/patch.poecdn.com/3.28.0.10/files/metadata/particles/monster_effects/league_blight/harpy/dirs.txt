@@ -1,3 +1,0 @@
-fire
-fire/on_act
-fire/on_act/spellcast_01

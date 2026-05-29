@@ -1,0 +1,4 @@
+cloak
+corpse
+hair
+skirt

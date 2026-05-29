@@ -1,0 +1,6 @@
+animations
+animations/tumourstatue_03
+attachments
+attachments/scroll
+attachments/spikedangle
+textures

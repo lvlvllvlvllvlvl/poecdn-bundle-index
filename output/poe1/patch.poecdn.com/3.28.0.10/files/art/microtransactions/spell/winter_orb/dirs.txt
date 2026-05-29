@@ -1,7 +1,0 @@
-celestial
-celestial/models
-celestial/models/channeling
-celestial/models/orb
-celestial/models/projectile
-celestial/textures
-celestial/textures/fx

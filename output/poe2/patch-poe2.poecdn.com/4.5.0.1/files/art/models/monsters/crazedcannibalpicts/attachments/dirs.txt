@@ -1,0 +1,3 @@
+hair
+staff
+weapon

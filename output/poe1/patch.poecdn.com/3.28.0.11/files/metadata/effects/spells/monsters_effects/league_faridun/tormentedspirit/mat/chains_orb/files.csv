@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+9d9b9b19bea3836c,mblur_sphere_r.mat,Tiny_D,407739018,14128
+74c7ac814b38e029,mblur_sphere_u.mat,Tiny_D,496679904,1140
+be5c2194cad8f96e,core_flare_r.mat,Tiny_D,407720540,18478
+4823c998e78341b2,core_flare_u.mat,Tiny_D,496679904,1140
+e0eed4b31a19088d,core_ball_r.mat,Tiny_D,407678764,41776
+64f5d89eff14bafd,core_ball_u.mat,Tiny_D,496659224,1976
+88989576d7ec2e99,chrono_time_r.mat,Tiny_D,496593618,21844
+29946c78da76424a,chrono_time_u.mat,Tiny_D,496615462,1596

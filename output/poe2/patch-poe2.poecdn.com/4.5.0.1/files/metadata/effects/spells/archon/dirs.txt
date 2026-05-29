@@ -1,0 +1,15 @@
+attachments
+attachments/chayula
+epks
+epks/audio
+fx
+fx/chayula
+graphs
+mats
+mats/chayula
+mats/chayula/buff
+mats/chayula/buffapply
+mats/chayula/buffapply/attachment
+mats/chayula/buffapply/pulse
+mats/chayula/tornado
+mats/chayula/warcry

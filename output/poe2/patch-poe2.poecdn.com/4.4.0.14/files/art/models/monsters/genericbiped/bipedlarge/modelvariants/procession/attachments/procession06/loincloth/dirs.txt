@@ -1,3 +1,0 @@
-attachments
-attachments/axes01
-attachments/axes02

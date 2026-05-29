@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+9bad4582bf004c69,order_prayerplatform02c.mat,Tiny.VD,32018846,1230
+146fc2307c6a72ea,order_prayerplatform02_normal.dds,Streaming/Content/data/balance/worldareas/07/mapmezzanine.vworld,23679463,5592580
+508ca027b6eafdd5,order_prayerplatform02_normal.dds.header,Tiny.VD,32017326,1520
+30e3fb926e88b51d,order_prayerplatform02_colour.dds,Streaming/Content/data/balance/worldareas/F4/mapmezzanine.vworld,11814504,5592580
+8388c1cbe0c83347,order_prayerplatform02_colour.dds.header,Tiny.V8,31737844,1520
+9fe3e2af1bcffce9,order_prayerplatform01c.mat,Tiny.VF,32009066,1230
+6a4592d6c83dbe1a,order_prayerplatform01_normal.dds,Streaming/Content/data/balance/worldareas/3A/mapmezzanine.vworld,5822586,5592580
+bbb7911d808bb7d8,order_prayerplatform01_normal.dds.header,Tiny.VA,32108286,1520
+1eff330ebd90d6bb,order_prayerplatform01_colour.dds,Streaming/Content/data/balance/worldareas/9C/mapmezzanine.vworld,0,5592580
+d3a14d28627075a3,order_prayerplatform01_colour.dds.header,Tiny.VE,31606999,1520
+c064f1ae33beae3f,order_prayerplatform03c.mat,Tiny.V9,32291007,1230
+864e429d475e9ace,order_prayerplatform03_normal.dds,Streaming/Content/data/balance/worldareas/5A/mapmezzanine.vworld,1454453,5592580
+90ca7416d11cc2dd,order_prayerplatform03_normal.dds.header,Tiny.V4,32176095,1520
+d28039948b93b5a1,order_prayerplatform03_colour.dds,Streaming/Content/data/balance/worldareas/F3/mapmezzanine.vworld,7001708,5592580
+1f92eb93efce237b,order_prayerplatform03_colour.dds.header,Tiny.V4,32174575,1520

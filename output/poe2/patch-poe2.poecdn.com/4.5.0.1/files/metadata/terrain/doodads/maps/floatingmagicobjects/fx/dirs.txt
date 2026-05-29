@@ -1,0 +1,4 @@
+precursorfloatingmagic_01
+precursorfloatingmagic_01/activate
+precursorfloatingmagic_01/collapse
+precursorfloatingmagic_01/idle_floating

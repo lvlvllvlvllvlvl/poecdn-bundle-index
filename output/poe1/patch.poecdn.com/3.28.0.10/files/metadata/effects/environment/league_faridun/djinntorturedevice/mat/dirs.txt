@@ -1,6 +1,0 @@
-cast_trail
-chain_block
-djinn_burning
-djinn_head
-sand_streaks
-sand_streaks_djinn

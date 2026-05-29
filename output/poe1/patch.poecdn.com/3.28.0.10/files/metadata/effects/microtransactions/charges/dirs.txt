@@ -1,5 +1,0 @@
-vampiric
-vampiric/epk
-vampiric/fx
-vampiric/graph
-vampiric/mat

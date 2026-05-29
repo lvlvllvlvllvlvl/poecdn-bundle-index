@@ -1,0 +1,14 @@
+clone
+clone/charge
+clone/ice
+clone/ice/appear
+clone/ice/shatter
+daresso
+ice_sword
+ice_sword/suck_in
+kneel
+kneel/buff
+reave
+reave/wave
+sword_ground
+sword_ground/sword_tornado_2

@@ -1,4 +1,0 @@
-vaal_ape
-vaal_golem
-vaal_guards
-vaal_wraith

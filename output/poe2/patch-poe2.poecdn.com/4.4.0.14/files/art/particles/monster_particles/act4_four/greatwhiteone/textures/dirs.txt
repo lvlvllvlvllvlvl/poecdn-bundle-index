@@ -1,3 +1,0 @@
-on_act
-on_act/attack_01
-on_act/tail_whip_01

@@ -1,6 +1,0 @@
-bow
-hair
-headfeathers
-neckfeathers
-quiver
-skirt

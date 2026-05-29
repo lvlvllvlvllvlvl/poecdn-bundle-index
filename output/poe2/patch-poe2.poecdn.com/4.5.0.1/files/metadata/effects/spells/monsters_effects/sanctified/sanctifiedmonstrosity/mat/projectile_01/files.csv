@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+d6601e09a99a0e2e,proj_trail_01.mat,Tiny.V9.1,165239606,33918
+0ba131ddb7f882d7,trail_bright.mat,Tiny.V9.1,165273524,35316
+f4d852449803f20c,cone_edge_r.mat,Tiny.VA.1,162430488,28002
+bffa29c39d10f786,cone_edge_u.mat,Tiny.V6.1,163128003,2462
+56bc668cc1477b3a,bone_projectile_r.mat,Tiny.VB.1,163164103,28410
+c81d6cb1017afc17,bone_projectile_u.mat,Tiny.V1.1,162372988,2464
+723084890ef36599,bone_projectile_glow_r.mat,Tiny.VA.1,162380132,50356
+e351500218def87c,bone_projectile_glow_u.mat,Tiny.V1.1,162372988,2464
+3f441ba5ecc3200c,mblur_trail_core.mat,Tiny.VA.1,162477074,14026
+7b0a311c1974243e,mblur_cone_r.mat,Tiny.V9.1,165214690,24916
+3c1c48da1d247609,mblur_cone_u.mat,Tiny.VB.1,163192513,2460

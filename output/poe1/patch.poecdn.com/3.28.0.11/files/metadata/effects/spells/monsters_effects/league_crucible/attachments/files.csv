@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+105d6a244de1fb33,breakout_wave.ao,Tiny_D,376327506,4020
+30c60107b21b832e,weapon_channel.ao,Tiny_D,376887188,7342
+c8c98a725fd3faf4,weapon_explode.ao,Tiny_D,376894530,2668
+cf5a08b465268b3c,molten_trail.ao,Tiny_D,376886560,628
+02e1dd6e8f15f125,molten_pool.ao,Tiny_D,376864824,20462
+6a73a17f2f147184,molten_pool_2.ao,Tiny_D,376885286,1274
+90fab2d1a0c46c11,molten_line.ao,Tiny_D,376843476,15830
+91d669d0cad9a461,molten_line_end.ao,Tiny_D,376859306,5518
+05d71ffa2979b579,encounter_end_wave.ao,Tiny_D,376331526,3086
+f05c7625f1717d49,endgame_spawnpool.ao,Tiny_D,376334612,3678
+2de0ff4d34fc52ef,env_scorch_01.ao,Tiny_D,376338290,584

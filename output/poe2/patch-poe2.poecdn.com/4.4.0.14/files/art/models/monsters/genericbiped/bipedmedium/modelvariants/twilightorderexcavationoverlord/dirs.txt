@@ -1,7 +1,0 @@
-attachments
-attachments/cape
-attachments/shoulder_danglers
-attachments/skirt
-attachments/skirt_attach
-attachments/weapon_01
-attachments/weapon_02

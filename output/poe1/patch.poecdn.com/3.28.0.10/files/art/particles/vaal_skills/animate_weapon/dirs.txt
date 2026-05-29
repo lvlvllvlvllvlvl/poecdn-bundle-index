@@ -1,3 +1,0 @@
-materials
-materials/spawn
-materials/weapon_trail

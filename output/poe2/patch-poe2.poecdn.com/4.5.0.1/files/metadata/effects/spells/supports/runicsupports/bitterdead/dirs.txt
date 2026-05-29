@@ -1,0 +1,12 @@
+attached
+epks
+fx
+graphs
+mats
+mats/corpseconsume
+mats/death
+mats/emerge
+mats/explosion
+mats/marker
+mats/onact
+mats/orb

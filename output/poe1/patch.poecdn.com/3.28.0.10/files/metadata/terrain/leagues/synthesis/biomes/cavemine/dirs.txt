@@ -1,4 +1,0 @@
-graphs
-rooms
-rooms/2x2
-rooms/3x3

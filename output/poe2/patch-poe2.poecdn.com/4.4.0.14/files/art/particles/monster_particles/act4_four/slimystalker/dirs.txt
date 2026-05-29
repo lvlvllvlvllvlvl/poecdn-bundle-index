@@ -1,8 +1,0 @@
-mb
-mb/onact
-mb/onact/attack_01
-mb/onact/attack_02
-textures
-textures/onact
-textures/onact/attack_01
-textures/onact/attack_02

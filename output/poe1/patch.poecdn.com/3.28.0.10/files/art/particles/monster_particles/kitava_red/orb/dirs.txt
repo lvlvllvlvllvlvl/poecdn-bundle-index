@@ -1,3 +1,0 @@
-ball_fx
-bolt
-bolt_fx

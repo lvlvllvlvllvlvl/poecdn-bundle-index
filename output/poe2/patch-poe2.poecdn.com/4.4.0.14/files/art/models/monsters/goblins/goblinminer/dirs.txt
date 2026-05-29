@@ -1,5 +1,0 @@
-animations
-animations/goblintorch
-attachments
-attachments/onehanded
-attachments/rockbasket

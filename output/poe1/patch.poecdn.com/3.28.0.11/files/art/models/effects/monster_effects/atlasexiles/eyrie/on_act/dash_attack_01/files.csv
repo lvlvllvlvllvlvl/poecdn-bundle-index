@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+437a073967b433b3,sphere_half_td.fmt,Art/Models/Effects/monster_effects/AtlasExiles/Eyrie,2168420,14889
+e5dca5a8de39eab8,sphere_half_td.fmt.header,Tiny_1,92064433,172
+b7f59a079e97ee45,rig_bb3e2f9b.smd,Tiny_1,92063993,72
+96fb491efff2fcf6,rig_bb3e2f9b.smd.header,Tiny_1,92064065,368
+e13da1c8a8ea1c22,onact.sm,Tiny_1,92063609,384
+b1a21427a620561d,onact.amd,Tiny_1,92062398,88
+07501d032a8866a7,onact.ast,Tiny_1,92062486,1123
+4d90a4bfe2e6df7f,cone.fmt,Art/Models/Effects/monster_effects/AtlasExiles/Eyrie,2162615,5805
+95d1fd380d035756,cone.fmt.header,Tiny_1,92062232,166

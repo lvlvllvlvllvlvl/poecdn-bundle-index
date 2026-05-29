@@ -1,0 +1,9 @@
+conductivity
+enfeeble
+frostbite
+sml_anger
+sml_haste
+sml_hatred
+sml_wrath
+temporal_chains
+vulnerability

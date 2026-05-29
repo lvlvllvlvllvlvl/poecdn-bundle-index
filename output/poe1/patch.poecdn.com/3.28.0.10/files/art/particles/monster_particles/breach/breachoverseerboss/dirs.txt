@@ -1,5 +1,0 @@
-palm
-palm/l
-palm/r
-palm/stabilised_portal
-palm/stabilised_portal/animations

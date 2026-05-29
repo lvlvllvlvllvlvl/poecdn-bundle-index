@@ -1,0 +1,8 @@
+chimeral
+cliffs
+desert
+features
+junglevoid
+submergedlake
+valley
+void

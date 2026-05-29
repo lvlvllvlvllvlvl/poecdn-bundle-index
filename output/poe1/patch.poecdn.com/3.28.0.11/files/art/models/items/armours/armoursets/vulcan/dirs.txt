@@ -1,0 +1,6 @@
+attachments
+attachments/robedex
+attachments/robeint
+attachments/robemale
+attachments/robestrdexint
+textures

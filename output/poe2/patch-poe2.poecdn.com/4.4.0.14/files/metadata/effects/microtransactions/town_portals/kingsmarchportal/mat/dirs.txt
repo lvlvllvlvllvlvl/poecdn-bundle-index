@@ -1,6 +1,0 @@
-close
-coinflip
-coinglow
-dissolve_coin
-open
-open_burst

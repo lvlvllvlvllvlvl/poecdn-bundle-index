@@ -1,5 +1,0 @@
-attachments
-attachments/lfeathers
-attachments/rfeathers
-attachments/robe
-textures

@@ -1,0 +1,4 @@
+idle_on
+monster_affected
+shrine_clicked
+turn_off

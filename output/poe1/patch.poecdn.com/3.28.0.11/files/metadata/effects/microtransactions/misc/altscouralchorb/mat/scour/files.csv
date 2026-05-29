@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+6596ab835b74dca6,glow_render.mat,Tiny_9,77554468,18110
+b5310165a7371a43,orb_render.mat,Tiny_9,77572578,25120
+ec5a1fad5d3b0a74,zoom_distortion_render.mat,Tiny_9,77597698,15842
+4f389d17a5cde9f5,flare_02_render.mat,Tiny_9,77516406,20038
+7848f8ff1322036a,flare_render.mat,Tiny_9,77536444,18024
+3bf2437c652601e8,distortion_sphere_grd_render.mat,Tiny_9,77473182,16704
+e52fe3b923481a3c,distortion_sphere_render.mat,Tiny_9,77489886,26520
+10012be1aa2cdc71,decay_aura_render.mat,Tiny_9,77404484,51846
+16338d5b1b689a25,desaturation_sphere_render.mat,Tiny_9,77456330,16852

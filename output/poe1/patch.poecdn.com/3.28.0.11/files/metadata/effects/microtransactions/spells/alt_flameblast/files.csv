@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+feb274f46a66590a,cyl.pet,Tiny_9,241737504,19602
+6db29976137de1c0,idle_circle.pet,Tiny_9,241767126,19602
+a614489b5366124b,mid.pet,Tiny_9,241786728,27198
+8dbcff35579597b7,explode_mid.pet,Tiny_E,328930277,19410
+f30881a723767243,explode_outer_circle.pet,Tiny_9,241763298,2002
+4c8aa202138086cd,explode_point.pet,Tiny_9,241765300,1826
+8e9d889826238f98,explode_circle.pet,Tiny_9,241757106,6192
+ff60e8030390f458,explode_cyl.pet,Tiny_E,328913215,17062
+09e8bff4b57a8e50,alt_flameblast_target.ao,Tiny_11,79860506,3222
+5c5488f3a2bbc849,alt_flameblast_explode.ao,Tiny_9,241714970,5964
+9b547dd3a2fd8d8b,alt_flameblast_explode_large.ao,Tiny_9,241720934,5996
+1a4681566ab59d4a,alt_flameblast_explode_medium.ao,Tiny_9,241726930,5078
+fd6b94bf7b2a39de,alt_flameblast_explode_small.ao,Tiny_9,241732008,5496

@@ -1,0 +1,6 @@
+arm_cloth
+arm_cloth/l_side
+arm_cloth/r_side
+ribbon
+skirt
+tail

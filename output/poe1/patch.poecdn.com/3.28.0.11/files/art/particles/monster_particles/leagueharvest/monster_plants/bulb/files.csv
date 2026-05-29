@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+fc9a9d810e3d2c98,stageready.mat,Tiny_7,35835826,9036
+e7e5e808b2c4b630,stage_01.mat,Tiny_7,35817606,9006
+ac9b804be3b234bb,stage_02.mat,Tiny_7,35826612,9214
+621bbf7968b37ba8,boss_stageready.mat,Tiny_7,35807374,10232
+353823f432acd486,boss_stage_01.mat,Tiny_7,35786594,10144
+b8adbae32dac9194,boss_stage_02.mat,Tiny_7,35796738,10636
+65590dad3d644e02,boss_glow_01_dxt5.dds,Folders/art/particles/monster_particles/leagueharvest_32,984284,1398276
+7105082877152257,boss_glow_01_dxt5.dds.header,Tiny_7,35785074,1520

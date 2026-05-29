@@ -1,6 +1,0 @@
-cagedcritters
-cagedcritters/iguanacritter
-cagedcritters/lemur
-cagedcritters/scarletmacawparrot
-cagedcritters/snake
-cagedcritters/vulture

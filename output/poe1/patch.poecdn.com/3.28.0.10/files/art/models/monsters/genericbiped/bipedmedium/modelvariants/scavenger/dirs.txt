@@ -1,4 +1,0 @@
-attachments
-attachments/poncho
-attachments/robe
-attachments/weapon

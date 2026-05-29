@@ -1,0 +1,6 @@
+minion_sacrifice_aoe
+minion_sacrifice_aoe/fx
+minion_sacrifice_aoe/mat
+pacify_aoe
+pacify_aoe/fx
+pacify_aoe/mat

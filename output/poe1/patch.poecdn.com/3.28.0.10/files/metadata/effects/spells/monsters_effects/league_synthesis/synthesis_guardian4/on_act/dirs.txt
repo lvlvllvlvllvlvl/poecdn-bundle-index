@@ -1,5 +1,0 @@
-absorb_projectiles
-death_01
-death_02
-glow_hands
-rotating_projectiles_01

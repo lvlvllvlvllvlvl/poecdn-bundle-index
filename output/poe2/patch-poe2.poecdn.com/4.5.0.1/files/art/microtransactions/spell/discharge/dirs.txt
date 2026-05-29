@@ -1,0 +1,15 @@
+celestial2
+celestial2/mb
+celestial2/textures
+celestial2/textures/cold
+celestial2/textures/fire
+celestial2/textures/lightning
+solar_flare
+solar_flare/flame
+solar_flare/flame/shockwave
+solar_flare/ice
+solar_flare/ice/particles
+solar_flare/ice/shockwave
+solar_flare/lightning
+solar_flare/lightning/particles
+solar_flare/lightning/shockwave

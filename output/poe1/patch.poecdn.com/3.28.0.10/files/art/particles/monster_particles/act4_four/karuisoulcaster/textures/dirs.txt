@@ -1,4 +1,0 @@
-death
-on_act
-on_act/spirit_cast_01
-spawndeath

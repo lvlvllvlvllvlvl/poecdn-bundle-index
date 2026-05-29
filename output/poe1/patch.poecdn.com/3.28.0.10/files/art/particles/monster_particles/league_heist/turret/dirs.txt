@@ -1,9 +1,0 @@
-mb
-mb/mortar
-net
-net/mb
-net/textures
-on_act
-on_act/thug
-on_act/thug_net
-textures

@@ -1,4 +1,0 @@
-akoya
-akoya_field
-akoya_greeting
-akoya_wild

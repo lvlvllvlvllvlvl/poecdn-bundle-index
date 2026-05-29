@@ -1,0 +1,6 @@
+1x1
+2x2
+archives_1x1
+archives_2x2
+unique
+unique/injectors

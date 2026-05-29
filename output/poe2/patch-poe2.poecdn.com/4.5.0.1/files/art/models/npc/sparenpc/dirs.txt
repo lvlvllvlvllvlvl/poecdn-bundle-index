@@ -1,0 +1,8 @@
+animations
+animations/ranger
+attachments
+attachments/a5ranger
+attachments/a5ranger/hair
+attachments/a5ranger/shawl
+attachments/a5ranger/skirt
+textures

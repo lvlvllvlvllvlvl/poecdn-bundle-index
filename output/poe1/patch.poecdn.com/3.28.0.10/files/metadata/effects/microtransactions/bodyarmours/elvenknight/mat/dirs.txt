@@ -1,3 +1,0 @@
-body
-body_moving
-head_moving

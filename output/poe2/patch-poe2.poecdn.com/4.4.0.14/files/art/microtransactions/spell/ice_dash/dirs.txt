@@ -1,2 +1,0 @@
-frontier_wrangler
-frontier_wrangler/mb

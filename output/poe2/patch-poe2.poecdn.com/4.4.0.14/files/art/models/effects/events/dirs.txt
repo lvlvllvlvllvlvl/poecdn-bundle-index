@@ -1,3 +1,0 @@
-royale
-royale/danger
-royale/safe

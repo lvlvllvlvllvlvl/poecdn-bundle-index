@@ -1,0 +1,16 @@
+abyssalfleshwarden
+abyssalfleshwarden/attachments
+abyssalfleshwarden/vfx
+abyssalfleshwarden/vfx/epks
+abyssalfleshwarden/vfx/fx
+abyssalfleshwarden/vfx/mats
+abyssalfleshwarden/vfx/mats/bodyarmour
+attachments
+fleshwarden
+fleshwarden/attachments
+fleshwarden/vfx
+fleshwarden/vfx/epk
+fleshwarden/vfx/fx
+fleshwarden/vfx/graphs
+fleshwarden/vfx/mat
+fx

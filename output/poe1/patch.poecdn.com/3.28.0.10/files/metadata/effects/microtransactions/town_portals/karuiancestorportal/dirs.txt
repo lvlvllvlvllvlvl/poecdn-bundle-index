@@ -1,7 +1,0 @@
-attachments
-attachments/on_ground
-epk
-fx
-graph
-mat
-mat/on_ground

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+8cbf6b1a8969f758,boss_01.arm,Content/data/balance/worldareas/g1_12.vworld,6353749,53444
+6ec65f98641ef66f,no_boss_01.arm,Content/data/balance/worldareas/g1_12.vworld,6437561,44516
+8c7595b31acd1cd4,forced_rare_01.arm,Content/data/balance/worldareas/g1_12.vworld,6416989,20572
+17a85e97d94b5c5a,wall_straight_dune_mission.arm,Tiny.VC.1,211963463,3044
+8f98a12e50eba741,wall_cliff_entrance1.arm,Content/data/balance/worldareas/g1_12.vworld,6482077,15732
+d9702a7ab56fec2d,wall_concave_dune_mission.arm,Tiny.VC.1,211961191,2272
+1b566b8d379eebc2,side_cc_mission_01.arm,Tiny.V9.1,210318840,2360
+31407cbdf346c511,side_end_mission_01.arm,Tiny.VC.1,211958735,2456
+9ff5a4c82b5b3689,checkpoint_01.arm,Content/data/balance/worldareas/g1_12.vworld,6407193,5338
+e6fa3210b958dbd9,checkpoint_02.arm,Content/data/balance/worldareas/g1_12.vworld,6412531,4458
+7be334fa40ebc18d,checkpoint_03.arm,Tiny.VA.1,209437648,2858

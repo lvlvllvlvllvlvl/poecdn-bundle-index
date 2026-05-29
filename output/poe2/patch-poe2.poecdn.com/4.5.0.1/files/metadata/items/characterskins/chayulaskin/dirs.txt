@@ -1,0 +1,3 @@
+attachments
+attachments/undergarments
+attachments/undergarments/attachments

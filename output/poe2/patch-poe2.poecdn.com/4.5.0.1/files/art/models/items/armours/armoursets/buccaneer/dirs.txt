@@ -1,0 +1,9 @@
+attachments
+attachments/bowtie
+attachments/dangler
+attachments/feather
+attachments/hair
+attachments/mantle
+attachments/satchel
+attachments/skirt
+textures

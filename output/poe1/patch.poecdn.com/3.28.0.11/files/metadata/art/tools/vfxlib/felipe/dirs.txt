@@ -1,0 +1,3 @@
+fx_library
+fx_library/materials
+fx_library/materials/debug

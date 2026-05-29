@@ -1,0 +1,8 @@
+attachments
+epk
+epk/portal_summon
+fx
+fx/portal_summon
+mat
+mat/open
+mat/portal_summon

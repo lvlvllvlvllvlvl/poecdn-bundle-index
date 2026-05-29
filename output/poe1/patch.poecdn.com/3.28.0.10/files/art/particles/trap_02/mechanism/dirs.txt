@@ -1,5 +1,0 @@
-cold
-fire
-lightning
-lightning/automaton
-physical

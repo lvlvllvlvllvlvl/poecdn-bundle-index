@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+8bf59366516deb30,beamray_blur_r.mat,Tiny.VA.1,160223478,30646
+d4c063a675dd55dd,beamray_blur_u.mat,Tiny.VD.1,5332868,346
+928321f66b336324,beamray_shimmer_r.mat,Tiny.V4.1,161072580,23316
+975d56ae3c75a21c,beamray_shimmer_u.mat,Tiny.VD.1,5332868,346
+48aadb8adee7170d,beamray_outer2_u.mat,Tiny.VD.1,5332868,346
+f16a8cba1f192d93,beamray_outer2_r.mat,Tiny.V4.1,161016698,55882
+04e2a7b0cf579d23,beamray_outer2_r2.mat,Tiny.VA.1,160254124,56926
+643abd8c5165eb23,decal_01_r.mat,Tiny.VA.1,160311050,59558
+f881e88eca2c10dd,decal_01_u.mat,Tiny.V7.1,158408618,7522
+064df17c41886093,embers_01_r.mat,Tiny.VA.1,160370608,32426
+83eac31b82d81a88,embers_01_u.mat,Tiny.VF.1,159135596,24200
+99a40c54ea9e01e8,glowplane_01_r.mat,Tiny.V7.1,158416140,43470
+dc4480455aa902d8,glowplane_01_u.mat,Tiny.V7.1,158488678,10462

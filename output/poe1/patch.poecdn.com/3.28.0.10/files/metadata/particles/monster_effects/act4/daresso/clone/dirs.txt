@@ -1,4 +1,0 @@
-charge
-ice
-ice/appear
-ice/shatter

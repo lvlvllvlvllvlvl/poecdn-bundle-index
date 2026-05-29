@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-fe6bbf3afb34cf37,radiance_r.mat,Tiny.V5.1,102976656,24082
-d7056c3b491e358a,radiance_u.mat,Tiny.VB.1,103632742,2206
-264759c0536976e3,swirly_thin_r.mat,Tiny.V2.1,106084172,58148
-c831e318bf907b65,swirly_thin_u.mat,Tiny.V0.1,106763422,12158
-85e6f632fca530ed,spark_r.mat,Tiny.V1.1,103035564,25002
-1ace500459a58165,spark_u.mat,Tiny.V1.1,103060566,15078
-4c7262d7ca656931,spike_grd_u.mat,Tiny.VB.1,103634948,2180
-8e8acbbf89202d3a,spike_grd_r.mat,Tiny.V2.1,106046568,37604

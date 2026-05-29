@@ -1,0 +1,12 @@
+death
+demon_fire
+demon_lightning
+horn_glow
+idle
+meteor
+shrine
+shrine/fire
+shrine/lightning
+shrine_active
+shrine_active_fire
+shrine_active_lightning

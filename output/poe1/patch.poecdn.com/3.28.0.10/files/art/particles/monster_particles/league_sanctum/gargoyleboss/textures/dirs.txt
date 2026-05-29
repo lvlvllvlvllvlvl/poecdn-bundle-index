@@ -1,9 +1,0 @@
-basic_sword
-candle_flame
-candle_flareup
-candle_mortar_impact
-candle_mortar_proj
-fire_infused_sword
-flame_breath
-leap_slam_circular
-leap_slam_recslam

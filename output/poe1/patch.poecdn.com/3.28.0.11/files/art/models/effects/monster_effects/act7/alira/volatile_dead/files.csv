@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+098fbcc7f6783a78,volatilefiresplode.sm,Tiny_1,91111080,830
+826ebcfd1221adba,volatilefiresplode.amd,Tiny_4,38328023,86
+b82308353453c971,volatilefiresplode.ast,Tiny_1,91108989,1033
+1f3d83bc43497836,volatiledeadfiresplode.sm,Tiny_1,91110022,1058
+1b851fa6c8bc03d3,volatiledeadfiresplode.amd,Tiny_4,38328023,86
+a5dc1973078c2e28,volatiledeadfiresplode.ast,Tiny_1,91108989,1033
+56f827ecd088ae9b,second_explosion_rig_c5abbb1f.smd,Art/Microtransactions/spell/volatile_dead_1,349700,22308
+1c01e723402ffdd9,second_explosion_rig_c5abbb1f.smd.header,Tiny_1,91108621,368
+85a1a1d6e005ec12,corpse_explosion_rig_08485cc6.smd,Art/Models/Effects/monster_effects/act7/Alira,53491,32132
+a1335139818f8064,corpse_explosion_rig_08485cc6.smd.header,Tiny_1,91104351,368
+5b66ffaa06beb39b,aoe_rig_c12a8eb6.smd,Art/Models/Effects/monster_effects/act7/Alira,32613,20878
+732f61a06cde2f71,aoe_rig_c12a8eb6.smd.header,Tiny_1,91103783,568
+f824fdfc0cb8fc23,aliravolatiledead.sm,Tiny_1,91101545,2238
+26f498f8804337b6,aliravolatiledead.amd,Tiny_1,91979272,88
+e253f84960a3b427,aliravolatiledead.ast,Tiny_1,91099434,2111

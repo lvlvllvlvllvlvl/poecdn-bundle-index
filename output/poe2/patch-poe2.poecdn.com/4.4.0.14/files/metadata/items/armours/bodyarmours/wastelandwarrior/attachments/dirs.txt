@@ -1,6 +1,0 @@
-scraps
-scraps/lforearm
-scraps/lshoulder
-scraps/rforearm
-scraps/rshoulder
-skirt

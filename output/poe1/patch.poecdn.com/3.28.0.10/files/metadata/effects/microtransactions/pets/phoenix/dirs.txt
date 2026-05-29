@@ -1,5 +1,0 @@
-attachment
-epk
-fx
-mat
-mat/revive

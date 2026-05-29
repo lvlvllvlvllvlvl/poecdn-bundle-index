@@ -1,0 +1,8 @@
+pw01_tentacles
+pw02_tentacles
+pw02_tentacles/pw02_head
+pw02_tentacles/pw02_l_clavicle
+pw02_tentacles/pw02_r_elbow
+pw03_tentacles
+pw03_tentacles/pw03_tentacle01
+pw03_tentacles/pw03_tentacle02

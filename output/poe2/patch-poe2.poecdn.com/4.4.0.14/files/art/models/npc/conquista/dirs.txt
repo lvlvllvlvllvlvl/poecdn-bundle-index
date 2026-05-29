@@ -1,7 +1,0 @@
-attachments
-attachments/bloodmagictome
-attachments/bloodmagictome/textures
-attachments/cravat
-attachments/feathers
-faceanims
-textures

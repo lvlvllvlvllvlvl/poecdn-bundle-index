@@ -1,0 +1,5 @@
+spider_small_death
+spider_spawn_death
+spider_spike_spit
+spider_web_dropdown
+spider_web_dropdown_large

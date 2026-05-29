@@ -1,0 +1,10 @@
+celestial
+celestial/models
+celestial/models/impact
+celestial/models/projectile
+celestial/textures
+celestial/textures/impact
+celestial/textures/impact/fx
+celestial/textures/projectile
+celestial/textures/projectile/fx
+oblivion

@@ -1,0 +1,4 @@
+spawn_volatile
+wave_pulse
+wave_pulse_bear
+wave_pulse_raven

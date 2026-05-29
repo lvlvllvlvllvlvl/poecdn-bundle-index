@@ -1,7 +1,0 @@
-base
-explosion
-high
-low
-mid
-pulse
-trail

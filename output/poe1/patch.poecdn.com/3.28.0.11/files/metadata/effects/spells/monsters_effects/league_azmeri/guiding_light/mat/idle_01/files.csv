@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+5e4d06202cc0d5da,suckin_sphere_r.mat,Tiny_D,506567182,25300
+fb398272bb951366,suckin_sphere_u.mat,Tiny_D,506354520,524
+5503b0ff26e67467,sparks_r.mat,Tiny_D,307098904,22954
+ba2c89beff93b8a4,spark_u.mat,Tiny_D,307085114,13790
+f7ba23ac9edb42d3,pixiedust_circle_u.mat,Tiny_D,307044806,18774
+1f8c92ca1468f839,pixiedust_r.mat,Tiny_D,506527308,18496
+223750036eab873d,pixiedust_u.mat,Tiny_D,307063580,21534
+e0afbe78647b9a04,mblur_sphere_r.mat,Tiny_D,506495914,11480
+b26df1526c1b5f87,mblur_sphere_u.mat,Tiny_11,150820658,310
+60c4d3ca961f90c1,flare_glow_r.mat,Tiny_D,506476278,16818
+8a4b103e827f6d06,flare_glow_u.mat,Tiny_D,506301396,2022
+824a5e9b25f23c15,core_wisp_render.mat,Tiny_D,506252746,29660
+a77d95f6de647d83,core_wisp_update.mat,Tiny_11,150820658,310
+e5e4627dd3e19d71,core_pt_r.mat,Tiny_D,307030502,14304
+848ca881a26baac4,core_pt_u.mat,Tiny_D,478327200,1104

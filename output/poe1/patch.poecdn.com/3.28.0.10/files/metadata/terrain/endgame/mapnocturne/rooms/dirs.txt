@@ -1,4 +1,0 @@
-canals
-randomfill
-road
-walls

@@ -1,0 +1,12 @@
+doors
+doors/clicktoopen
+doors/npccatburglardoor
+doors/npccounterthaumaturgedoor
+doors/npcdemolitiondoor
+doors/npcdetectiondoor
+doors/npcengineer
+doors/npcinfiltrationdoor
+doors/npcstrengthdoor
+doors/vault
+doors/vault/epk
+doors/vault/pet

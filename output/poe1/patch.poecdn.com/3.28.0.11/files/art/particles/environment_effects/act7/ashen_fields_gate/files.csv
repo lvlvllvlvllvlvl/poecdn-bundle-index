@@ -1,0 +1,46 @@
+hash,file,bundle,offset,size
+42190f720b3c2d5e,spark.mat,Tiny_6,27024603,1764
+0f3bba3bdbf692ba,spark.dds,Tiny_8,30195436,1540
+51ab84519af50780,spark.dds.header,Tiny_8,30196976,1520
+08e56c7c816d56ee,smoketest.mat,Tiny_6,27023521,1082
+dc3f2d33b2c94d25,smoketest.dds,Art/particles/environment_effects/League_Incursion_10,1891008,5636
+fa830c9e9256b5bf,smoketest.dds.header,Tiny_8,30191272,1520
+ea97881272ac2d6a,smoke6frey.mat,Tiny_6,27022029,1492
+9ba0991f213b281b,smoke6frey.dds,Folders/art/particles/monster_particles/league_abyss_2,0,87556
+82885f4c8789d852,smoke6frey.dds.header,Tiny_7,56059775,1520
+f342d60ef19ed270,light_immortal_call.mat,Tiny_6,27019547,2482
+9e78b98d8a6cbd38,light_immortal_call.dds,Folders/art/particles/environment_effects/act7,1398612,87556
+a0841da434a65cc8,light_immortal_call.dds.header,Tiny_6,27018027,1520
+c02f27117ed6664b,light_gradientmeshc.mat,Tiny_6,27015823,2204
+564b4bc1dc631eca,light_gradientmesh_colour.dds,Art/particles/monster_particles/act6_6,3143342,11084
+036b76d6ee0cd834,light_gradientmesh_colour.dds.header,Tiny_8,36825996,1520
+6be0dcba8eec312e,light_gradient.mat,Tiny_6,27013995,1828
+ef82891a1447f47c,light_gradient.dds,Art/particles/monster_particles/league_avatar,0,22020
+8987a909e805426d,light_gradient.dds.header,Tiny_7,40698253,1520
+a004fb00b5a517c4,frenzytrail_red.mat,Tiny_6,27011785,2210
+0787a61991de01b6,frenzytrail_red.dds,Art/Microtransactions/head/red_covenant_mark_1,0,22020
+e7f421e56dcee568,frenzytrail_red.dds.header,Tiny_6,37440062,1520
+f1a791c8a5173566,fire_bits_2x2.mat,Tiny_6,27001991,1572
+9ed1ae7f82ec7911,fire_bits_2x2_dxt1.dds,Art/particles/environment_effects/act7_1,349700,174924
+abcab046858f7ddd,fire_bits_2x2_dxt1.dds.header,Tiny_6,27003563,1520
+3a36ca47ad0ecfd2,fireball_flame3.mat,Tiny_6,27008851,2934
+a44ac0eaa2feeba5,fireball_flame3.dds,Folders/art/particles/monster_particles/skele_hands,218824,349700
+45e422ba120b3521,fireball_flame3.dds.header,Tiny_7,17174455,1520
+004ab12c73054c01,fireball_flame2.mat,Tiny_6,27006677,2174
+e67b0e2536f76b65,fireball_flame2.dds,Folders/art/particles/monster_particles/act3_3,673348,349700
+ff0dac79ef595510,fireball_flame2.dds.header,Tiny_7,25543861,1520
+c4ef89576a44f0aa,fireball_flame.mat,Tiny_6,27005083,1594
+a4e43d517c39732f,fireball_flame.dds,Folders/art/particles/monster_particles/act2_1,2120284,349700
+2ee6af7381691cb1,fireball_flame.dds.header,Tiny_7,56034791,1520
+c7d8f077bdc894ca,coldsmoke_11x11.mat,Tiny_6,26999801,670
+2c4f23ec12f75f61,coldsmoke_11x11_dxt1.dds,Folders/art/particles/environment_effects/act7,699400,699212
+6bbdfd62e8a9c956,coldsmoke_11x11_dxt1.dds.header,Tiny_6,27000471,1520
+18b40dba3f0f79e8,burn mark 4c.mat,Tiny_6,26998581,1220
+6b55052801f2534a,burn mark 4.dds,Folders/art/particles/environment_effects/act7,349700,349700
+e0ab6f5d124c6cda,burn mark 4.dds.header,Tiny_6,26997061,1520
+c743236dc758d015,burn mark 14c.mat,Tiny_6,26995835,1226
+9bf26f6953dfc115,burn mark 14.dds,Folders/art/particles/environment_effects/act7,0,349700
+116351f53cb8840b,burn mark 14.dds.header,Tiny_6,26994315,1520
+d6ab59f1fd33a2f0,burn mark 11c.mat,Tiny_6,26993089,1226
+75a9f158c2ad8a1a,burn mark 11.dds,Art/particles/environment_effects/act7_1,0,349700
+3bd26cf74f03e8ca,burn mark 11.dds.header,Tiny_6,26991569,1520

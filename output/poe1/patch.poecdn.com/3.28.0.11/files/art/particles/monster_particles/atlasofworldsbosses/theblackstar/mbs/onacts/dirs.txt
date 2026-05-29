@@ -1,0 +1,6 @@
+beam_spear_left_start_01
+intro_01
+leap_slam_spear_01
+meteor_shower_01
+spear_stab
+whirlpool_glaive

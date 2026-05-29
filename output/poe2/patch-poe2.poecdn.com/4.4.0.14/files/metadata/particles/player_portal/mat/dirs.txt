@@ -1,2 +1,0 @@
-townportal_inactive
-townportal_open

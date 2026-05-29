@@ -1,3 +1,0 @@
-textures
-textures/bodyfx_alive
-textures/on_death

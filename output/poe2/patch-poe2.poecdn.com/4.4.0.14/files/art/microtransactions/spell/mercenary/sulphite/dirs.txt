@@ -1,9 +1,0 @@
-mb
-mb/fmts
-mb/galvanic_shards
-mb/galvanic_shards/textures
-mb/plasma_blast
-mb/plasma_blast/animations
-mb/shockburst_rounds
-mb/shockburst_rounds/animations
-mb/sulphite_shatter

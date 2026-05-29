@@ -1,7 +1,0 @@
-heads
-rings
-shackles
-skirt
-staff
-staff/attachments
-veins

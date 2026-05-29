@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+94b5723f6ada5184,wheellrg.sm,Tiny.V9,14407376,632
+5695294606bf4c6e,wheellrg_lod1.sm,Tiny.V4,14377448,664
+55e96df6d371a533,wheellrg_lod1_armour_2accb5ab.smd,Streaming/Content/metadata/terrain/desert/arduracaravan/A5585FC89B84DAC8.D9C7C7673D6E4B8D.wheellrg_r_lod.ao,299465,28448
+0ff0450a2c52312d,wheellrg_lod1_armour_2accb5ab.smd.header,Tiny.VF,14282324,448
+4f00e3283b3eb921,wheellrg_lod1_armour_56de23bc.smd,Streaming/Content/metadata/terrain/desert/arduracaravan/A5585FC89B84DAC8.D9C7C7673D6E4B8D.wheellrg_r_lod.ao,0,28448
+e7390b94645b373a,wheellrg_lod1_armour_56de23bc.smd.header,Tiny.V4,14378112,448
+f4a229bac508c2f4,wheellrgflip_lod1.sm,Tiny.VD,14022243,664
+bf4cb613a1501c77,wheellrgflip.sm,Tiny.V0,14298795,632
+df63d91068b5f5f2,rig_1bae4be5.smd,Streaming/Content/metadata/terrain/desert/arduracaravan/A5585FC89B84DAC8.D9C7C7673D6E4B8D.wheellrg_r_lod.ao,587656,238872
+478875e629bcb033,rig_1bae4be5.smd.header,Tiny.VE,14057418,448
+00588a45674e18ed,rig_1d414acd.smd,Streaming/Content/metadata/terrain/desert/arduracaravan/A5585FC89B84DAC8.D9C7C7673D6E4B8D.wheellrg_r_lod.ao,28448,238872
+ad3367cd8ecd75d7,rig_1d414acd.smd.header,Tiny.V8,14194950,448
+c2a6eb8295c7e2a8,rig.amd,Tiny.V4,14377142,306
+3fd189cd203ad28c,rig.ast,Tiny.V0,14298326,469

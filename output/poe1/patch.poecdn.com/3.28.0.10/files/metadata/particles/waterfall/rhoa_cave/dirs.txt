@@ -1,3 +1,0 @@
-bottom
-lefthand_side
-righthand_side

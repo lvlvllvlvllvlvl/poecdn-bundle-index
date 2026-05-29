@@ -1,0 +1,41 @@
+hash,file,bundle,offset,size
+69186b3293660463,paleforesthag01c.mat,Tiny_8,37271524,3868
+8c19cb246aca2216,paleforesthag01_normal_dxt5.dds,Art/Textures/Monsters/Hags/Forest hags_3,0,1398276
+f053d90ee58a4adc,paleforesthag01_normal_dxt5.dds.header,Tiny_8,37270004,1520
+1369319b58df7a39,paleforesthag01_colour_dxt1.dds,Art/Textures/Monsters/Hags/Forest hags_7,0,699212
+40bcd8bdd050a33a,paleforesthag01_colour_dxt1.dds.header,Tiny_8,37239918,1520
+2703097ad41d2bcb,paleforesthag01_colour.dds,Art/Textures/Monsters/Hags/Forest hags_7,0,699212
+b2035723f4137ed2,paleforesthag01_colour.dds.header,Tiny_8,37239918,1520
+561471ce4481f33a,paleforesthag01hairc.mat,Tiny_8,37277072,3008
+29a2ae2c9250cc51,paleforesthag01hair_normal_dxt5.dds,Art/Textures/Monsters/Hags/Forest hags_5,0,174948
+4f1368aef7f33a33,paleforesthag01hair_normal_dxt5.dds.header,Tiny_8,37276232,840
+e7ecc039abca8403,paleforesthag01hair_colour_dxt1.dds,Art/Textures/Monsters/Hags/Forest hags_8,874160,87548
+9817c14963d27d36,paleforesthag01hair_colour_dxt1.dds.header,Tiny_8,37275392,840
+5d4606e2dcdd0a8b,paleforesthag01hair_colour.dds,Art/Textures/Monsters/Hags/Forest hags_8,874160,87548
+bd6c33611fd65cab,paleforesthag01hair_colour.dds.header,Tiny_8,37275392,840
+3670a59a90b5a4be,foresthag02c.mat,Tiny_8,37259808,2950
+47559ccaad4a266c,foresthag02_sss_dxt5.dds,Art/Textures/Monsters/Hags/Forest hags_6,0,1398276
+51e9fee43078d6b6,foresthag02_sss_dxt5.dds.header,Tiny_8,37258288,1520
+7d1d6f27a33d3927,foresthag02_normal_dxt5.dds,Art/Textures/Monsters/Hags/Forest hags,0,1398276
+b3b97aecaf3f1eec,foresthag02_normal_dxt5.dds.header,Tiny_8,37256768,1520
+7e6567990ae3a75a,foresthag02_colour_dxt1.dds,Art/Textures/Monsters/Hags/Forest hags_8,0,699212
+5f612a73ac4d641f,foresthag02_colour_dxt1.dds.header,Tiny_8,37255248,1520
+f45aab43a7bd0de4,foresthag02hairc.mat,Tiny_8,37267620,2384
+dfe165578ee83ee8,foresthag02hair_furc.mat,Tiny_8,37263598,3182
+8ed915e909dc2404,foresthag02hair_normal_dxt5.dds,Art/Textures/Monsters/Hags/Forest hags_5,174948,174948
+4b644e5014f666aa,foresthag02hair_normal_dxt5.dds.header,Tiny_8,37266780,840
+732f9a1dd01b047e,foresthag02hair_colour_dxt1.dds,Art/Textures/Monsters/Hags/Forest hags_5,349896,87548
+5a557c25fb36fb47,foresthag02hair_colour_dxt1.dds.header,Tiny_8,37262758,840
+c34d1d89f844831f,foresthag01c.mat,Tiny_8,37244478,2950
+976dc02bb0e59f39,foresthag01_sss_dxt5.dds,Art/Textures/Monsters/Hags/Forest hags_1,0,1398276
+cd2e25582d2c5a33,foresthag01_sss_dxt5.dds.header,Tiny_8,37242958,1520
+401ca9c2d4d898bf,foresthag01_normal_dxt5.dds,Art/Textures/Monsters/Hags/Forest hags_4,0,1398276
+b2128e789f64c0a4,foresthag01_normal_dxt5.dds.header,Tiny_8,37241438,1520
+9d8f6a1698666888,foresthag01_colour_dxt1.dds,Art/Textures/Monsters/Hags/Forest hags_2,0,699212
+7e694ac742d67eca,foresthag01_colour_dxt1.dds.header,Tiny_8,37239918,1520
+fe51ab61558ba64d,foresthag01hairc.mat,Tiny_8,37252592,2656
+92609c257eddae7d,foresthag01hair_furc.mat,Tiny_8,37248268,3484
+9355a817f71b9686,foresthag01hair_normal_dxt5.dds,Art/Textures/Monsters/Hags/Forest hags_8,699212,174948
+358738641cc1e550,foresthag01hair_normal_dxt5.dds.header,Tiny_8,37251752,840
+c47d11ac41440cc7,foresthag01hair_colour_dxt1.dds,Art/Textures/Monsters/Hags/Forest hags_5,437444,87548
+3ca5dc965e1409f9,foresthag01hair_colour_dxt1.dds.header,Tiny_8,37247428,840

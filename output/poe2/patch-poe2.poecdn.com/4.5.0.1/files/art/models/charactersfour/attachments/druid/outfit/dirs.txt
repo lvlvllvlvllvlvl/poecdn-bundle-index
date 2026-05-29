@@ -1,0 +1,6 @@
+attachments
+attachments/l_shoulderpad
+attachments/necklace
+attachments/r_shoulderpad
+attachments/robe
+attachments/robefront

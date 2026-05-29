@@ -1,0 +1,2 @@
+traps
+traps/burning_floor

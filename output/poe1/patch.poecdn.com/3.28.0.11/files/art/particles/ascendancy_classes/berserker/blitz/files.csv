@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+34c6ecae42298420,shockwave.mat,Tiny_6,14067427,4350
+295cc9e519a4e0fb,shockwave_shimmer.mat,Tiny_6,14071777,3104
+fe1d201de6f2c8fe,shockwave_shimmer_dxt5.dds,Art/particles/ascendancy_classes/berserker,87556,43876
+147022bfa30816f2,shockwave_shimmer_dxt5.dds.header,Tiny_7,46878789,840
+f28c2a28608c2721,shockwave_dxt5.dds,Folders/art/particles/monster_particles/atlasexiles_01,0,43876
+ab3a0f03078f511b,shockwave_dxt5.dds.header,Tiny_7,46874969,840
+c3fe18e14bad9d11,sharp.mat,Tiny_6,14065413,2014
+dc04c6542f63925f,sharp_dxt5.dds,Folders/art/particles/flame_wall,524812,87588
+424e0145e592ca53,sharp_dxt5.dds.header,Tiny_8,2418116,504
+48929801af3a2cfc,sand_charge.mat,Tiny_6,14062249,3164
+a5669c08b32331a8,sand_charge_dxt5.dds,Art/particles/ascendancy_classes/berserker,0,87556
+8bbb4f7492fb6cc6,sand_charge_dxt5.dds.header,Tiny_7,17582573,1520
+180c6d85e04180dc,blink.mat,Tiny_6,14060765,1484
+7e098f85200a5db9,blink_dxt5.dds,Folders/art/particles/lancing_steel_02,634380,22020
+dcee638be8e13404,blink_dxt5.dds.header,Tiny_7,51560853,1520

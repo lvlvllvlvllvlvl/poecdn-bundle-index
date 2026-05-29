@@ -1,0 +1,5 @@
+boss_door
+death_shockwave
+seal_needle
+seal_paper
+tgms

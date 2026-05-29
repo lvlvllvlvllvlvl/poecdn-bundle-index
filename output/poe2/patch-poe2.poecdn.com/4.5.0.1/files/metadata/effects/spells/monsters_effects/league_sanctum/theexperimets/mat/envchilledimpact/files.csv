@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+f05d710fcdd2f5f0,icepepperoni_impalesnow_01_r.mat,Tiny.V5.1,136165552,25440
+fc3ede52952be347,detonate_smoke_01_r.mat,Tiny.VA.1,77838908,41362
+b4e0c2770d098bf5,moonbeam_impact_smoke_01_u.mat,Tiny.V5.1,78601168,16548
+945bd08e62375359,moonbeam_impact_ptemit_01_u.mat,Tiny.V7.1,43655768,2116
+d9c1961f9f61fc5e,plunge_mblur_01_r.mat,Tiny.V3.1,7125755,11984
+c96cc27796bfa17b,plunge_zoomdistort_01_r.mat,Tiny.VC.1,96315767,9890
+49fbd0e0443b7b2e,plunge_glowring_03_r.mat,Tiny.V3.1,78889139,31318
+eecc2c192b60162d,plunge_debris_01_r.mat,Tiny.VD.1,148679662,21520
+208f8562bd87e5c3,plunge_debris_01_u.mat,Tiny.V1.1,157247310,16942
+4414a4bd01afa20c,plunge_snow_01_u.mat,Tiny.V4.1,78456768,23212
+73aa45e6dd242ee0,plunge_shimmerwave_01_r.mat,Tiny.VD.1,148612134,24020
+bea834c25befcb40,plunge_shockwaveblur_01_r.mat,Tiny.V0.1,148451600,15040

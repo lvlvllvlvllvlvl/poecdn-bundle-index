@@ -1,0 +1,8 @@
+precursorpinnacle
+precursorpinnacle/bossarenas
+precursorpinnacle/bossarenas/arbiterofash
+precursorpinnacle/bossarenas/arbiterofdivinity
+precursorpinnacle/holodeck
+precursorpinnacle/mothersoul
+precursorpinnacle/reactors
+precursorpinnacle/towers

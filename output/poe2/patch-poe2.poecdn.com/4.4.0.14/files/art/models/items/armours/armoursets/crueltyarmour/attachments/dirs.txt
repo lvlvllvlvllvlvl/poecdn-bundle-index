@@ -1,7 +1,0 @@
-armcloth
-belt
-chestcloth
-shoulderchaindangle
-shoulderpads
-skirt
-skirtplate

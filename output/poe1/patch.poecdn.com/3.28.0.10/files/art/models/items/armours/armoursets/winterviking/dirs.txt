@@ -1,6 +1,0 @@
-attachments
-attachments/eye_fx
-attachments/eye_fx/textures
-attachments/horn
-attachments/robe
-textures

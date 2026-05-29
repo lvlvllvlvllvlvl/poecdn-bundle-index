@@ -1,4 +1,0 @@
-epk
-epk/bolted
-impact
-lightning_bolt_aoe

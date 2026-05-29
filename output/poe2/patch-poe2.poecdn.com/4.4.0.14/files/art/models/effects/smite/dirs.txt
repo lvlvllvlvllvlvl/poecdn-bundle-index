@@ -1,3 +1,0 @@
-aura
-impact
-monster_hit

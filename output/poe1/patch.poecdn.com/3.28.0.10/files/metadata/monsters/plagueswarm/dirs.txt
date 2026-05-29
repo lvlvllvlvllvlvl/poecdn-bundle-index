@@ -1,4 +1,0 @@
-attachments
-epks
-epks/blooddrone
-epks/blooddrone/attach_idle_fade

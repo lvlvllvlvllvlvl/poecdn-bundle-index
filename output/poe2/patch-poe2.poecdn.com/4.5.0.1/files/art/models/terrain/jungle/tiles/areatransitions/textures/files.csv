@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+dfda5431336878fb,monkeygateplaceholderc.mat,Tiny.V3,23794344,1002
+55f44cf046f1dc0d,monkeygateplaceholder_normal.dds,Streaming/Content/data/balance/worldareas/7B/g3_8.vworld,0,1398276
+b2362425a0edc102,monkeygateplaceholder_normal.dds.header,Tiny.VB,24027942,1520
+412ccda541183081,monkeygateplaceholder_colour_dxt1.dds,Streaming/Content/data/balance/worldareas/ED/g3_8.vworld,0,699212
+83308b326f3c0be6,monkeygateplaceholder_colour_dxt1.dds.header,Tiny.VF,24133861,1520
+82588eb5c9a9830a,chimeraljunglec.mat,Tiny.V8,24077227,1816
+b73c1165580354ce,chimeraljungle_normal_dxt5.dds,Streaming/Content/data/balance/worldareas/3E/bossrush_area2.vworld,0,5592580
+e5b776c0c2875045,chimeraljungle_normal_dxt5.dds.header,Tiny.VF,24132341,1520
+e9e010393072996b,chimeraljungle_colour_dxt1.dds,Streaming/Content/data/balance/worldareas/90/bossrush_area2.vworld,0,2796364
+0fc993453675f83c,chimeraljungle_colour_dxt1.dds.header,Tiny.VE,23742094,1520

@@ -1,0 +1,16 @@
+basic_teleport
+blood_teleport
+curses
+curses/enfeeble
+curses/temporal_chains
+curses/vulnerability
+kinetic_blast
+kinetic_blast/bubble
+kinetic_blast/projectile
+moving_smog
+room_red
+room_red/bubble
+wand_projectile
+zombie_green
+zombie_green/death_nova
+zombie_green/disperse

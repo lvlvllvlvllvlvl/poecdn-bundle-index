@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+07c04b90ef287ea5,warp_cirlce_3d_linec.mat,Tiny_6,22442122,1398
+59e1ad5068813d2c,warp_cirlce_3d_line.dds,Art/particles/double_slash/slash,0,22020
+3f6e506b65a7497c,warp_cirlce_3d_line.dds.header,Tiny_6,22440602,1520
+3e87bbc493127412,slash_multic.mat,Tiny_6,22439114,1488
+6e248e1a5ce141e8,slash_multi.dds,Art/particles/monster_particles/BoneStalker,2046620,43876
+b3a277d6912a50c0,slash_multi.dds.header,Tiny_6,87600935,840
+9b4a5801420b3c7b,slash_atc.mat,Tiny_6,22436380,2734
+4f7dffe03de686d3,slash_at.dds,Art/particles/double_slash/slash,22020,43876
+28b5926814795556,slash_at.dds.header,Tiny_6,22435540,840
+7390da8aac86b755,slash_addc.mat,Tiny_6,22433486,2054
+19ba7e4de7226704,slash_add.dds,Art/particles/double_slash/slash,65896,22012
+cbb0f3c855a2c80e,slash_add.dds.header,Tiny_6,22432646,840
+18b859fe1916981a,light_slash_addc.mat,Tiny_6,22430844,1802
+fd0cf2e26865bcbe,light_slash_add.dds,Art/particles/double_slash/slash,87908,22012
+c88cc59e33386329,light_slash_add.dds.header,Tiny_6,22430004,840

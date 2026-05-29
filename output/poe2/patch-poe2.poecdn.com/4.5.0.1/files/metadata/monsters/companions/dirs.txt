@@ -1,0 +1,6 @@
+demonfirecaster
+demonfirecaster/attachments
+hydra
+spiritvessel
+str
+str/attachments

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+2a5ff7c88ba57459,ex_shockwave_ring_r.mat,Tiny.VD.1,207552373,29894
+c7e05ed1e0383be6,ex_shockwave_ring_u.mat,Tiny.VD.1,5332868,346
+4ff7575cb0b1e972,ping_distort_r.mat,Tiny.VB.1,207353835,8020
+77db294e0c9821c9,ping_distort_u.mat,Tiny.VC.1,6195405,338
+add219531d5237e5,ping_mblur_sphere_u.mat,Tiny.V2.1,211332196,2204
+1b0f60de661c4166,ping_mblur_sphere_r.mat,Tiny.V8.1,208090665,10062
+a1856b938a94b58e,ping_mblur_sphere_r2.mat,Tiny.V6.1,206391474,26364
+d6c352d68e32661f,beam_u.mat,Tiny.VD.1,5332868,346
+d5e78e9a68b445ca,beam_r.mat,Tiny.V2.1,211294674,37522
+674df5b6ddad4754,beam_r2.mat,Tiny.VA.1,208524306,30216

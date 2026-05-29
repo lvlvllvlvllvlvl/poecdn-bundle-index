@@ -1,0 +1,2 @@
+spore_impact
+spore_projectile

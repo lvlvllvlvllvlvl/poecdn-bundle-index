@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+7ad40ede3588aa1b,wisp_smoke_base.mat,Tiny_6,27802838,2378
+854dcbe645cad757,wisp_smoke_base.dds,Folders/art/microtransactions/flask_effects/karuigraniteflask,363901,11108
+a691dfd28f3b8c9d,wisp_smoke_base.dds.header,Tiny_6,93343074,840
+c56f552392be67c2,smoke_dxt5.dds,Art/particles/environment_effects/AoW_2,830620,11108
+941cf3076f0ac21e,smoke_dxt5.dds.header,Tiny_6,27799422,840
+33714744b9b4657c,smoke.mat,Tiny_6,27800262,2576
+081d9c9cdf8e01b1,smoke.dds,Art/particles/environment_effects/AoW_2,830620,11108
+b6a618154fa76923,smoke.dds.header,Tiny_6,27799422,840
+c220964e6f1f5ed3,projectile_font.mat,Tiny_6,27796808,2614
+240fdbe03602b9e4,projectile_font.dds,Tiny_6,27794436,1532
+5139bb55fd66807b,projectile_font.dds.header,Tiny_6,27795968,840

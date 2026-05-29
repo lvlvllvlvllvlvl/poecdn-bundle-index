@@ -1,4 +1,0 @@
-outer
-outerground
-outerupper
-unique

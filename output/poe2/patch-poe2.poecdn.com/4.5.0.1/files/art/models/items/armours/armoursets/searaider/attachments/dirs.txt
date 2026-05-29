@@ -1,0 +1,12 @@
+body
+body/cloak
+body/skirt
+body/skirt/female
+body/skirt/male
+boots
+boots/pegwrap
+boots/ribbon
+boots/ribbon/left
+boots/ribbon/right
+helmet
+helmet/feathers

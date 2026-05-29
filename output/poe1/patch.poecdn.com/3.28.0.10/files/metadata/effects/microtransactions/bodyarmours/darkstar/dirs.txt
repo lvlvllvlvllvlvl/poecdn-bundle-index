@@ -1,3 +1,0 @@
-pet
-pet/gloves
-pet/helmet_attachment

@@ -1,5 +1,0 @@
-blackstararena
-blackstararena/textures
-primordialaltars
-primordialaltars/vfx
-primordialaltars/vfx/textures

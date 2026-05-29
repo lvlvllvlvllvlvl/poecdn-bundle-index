@@ -1,5 +1,0 @@
-mb
-mb/ice_explode
-mb/water_armour
-mb/waver_wave_projectile
-textures

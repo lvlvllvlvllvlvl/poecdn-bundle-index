@@ -1,6 +1,0 @@
-epk
-fx
-graph
-mat
-mat/flame_lines
-mat/godrays

@@ -1,6 +1,0 @@
-b_chain
-break_out
-hand_chain
-horn
-monster_spawn
-spawning_wave

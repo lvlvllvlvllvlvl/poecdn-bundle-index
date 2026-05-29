@@ -1,5 +1,0 @@
-build_up
-fire_wave
-fireball
-ring
-teleport

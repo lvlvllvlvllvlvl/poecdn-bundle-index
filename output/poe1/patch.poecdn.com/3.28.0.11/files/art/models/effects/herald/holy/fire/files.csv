@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+ad2e2939fd60e5aa,rig_f306e6f4.smd,Art/Models/Effects/herald/holy,0,39078
+3390eec59075c2a9,rig_f306e6f4.smd.header,Tiny_1,88923080,368
+bc4a076d348e043c,flame_herald.sm,Tiny_1,88891742,728
+8264ce36fc3d4565,flame_herald.amd,Tiny_6,8406105,102
+9c595dd138c65843,flame_herald.ast,Tiny_1,88913513,662
+ec0de947aba709d8,explode_01f0c78d.smd,Art/Models/Effects/herald/fire,0,18796
+90cda649bcde2fb2,explode_01f0c78d.smd.header,Tiny_1,88913145,368
+a276b6d5477a97fe,ashherald_explode_holy.sm,Tiny_1,88891126,616
+7d1a05ba697b4b78,ashherald_explode_holy.amd,Tiny_6,46749495,92
+8131e3a233d94f28,ashherald_explode_holy.ast,Tiny_1,88888758,2368

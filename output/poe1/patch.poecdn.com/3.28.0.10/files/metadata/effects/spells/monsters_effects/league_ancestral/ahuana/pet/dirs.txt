@@ -1,6 +1,0 @@
-arrow_impact
-attack_01
-ice_snipe
-ice_snipe_impact
-rain_of_hurt_01
-snipe_01

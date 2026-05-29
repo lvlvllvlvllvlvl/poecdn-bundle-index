@@ -1,3 +1,0 @@
-yellow
-yellow/tail_strike
-yellow/tail_strike/sting

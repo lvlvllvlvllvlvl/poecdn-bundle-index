@@ -1,5 +1,0 @@
-misery
-misery/textures
-misery/texturesfx
-suffering
-suffering/textures

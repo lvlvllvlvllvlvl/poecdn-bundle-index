@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-7a3fb435b2c331cb,windup_epk_pass.mat,Tiny.VB.1,93780672,14716
-000d594b93c3079f,bloat_lightrays_r.mat,Tiny.VA.1,92678692,31134
-1ce54b374f668ac4,bloat_lightrays_u.mat,Tiny.VB.1,51874384,4260
-9e2dc8ddf7e28c69,mblur_sphere_r.mat,Tiny.V3.1,92235138,21194
-51ac1ae15ba8ff90,mblur_sphere_u.mat,Tiny.V1.1,50502586,1144
-82f6ce8c8c2dd700,heat_shimmer_r.mat,Tiny.VD.1,48263500,15268
-7c93612054b8ed3c,heat_shimmer_u.mat,Tiny.VD.1,48278768,2952

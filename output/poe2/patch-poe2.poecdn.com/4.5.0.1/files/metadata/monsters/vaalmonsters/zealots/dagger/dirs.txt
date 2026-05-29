@@ -1,0 +1,6 @@
+blood
+chaos
+cold
+fire
+lightning
+phys

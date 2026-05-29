@@ -1,3 +1,0 @@
-bitterguy
-bitterguy/portal
-bitterguy/portal/textures

@@ -1,0 +1,5 @@
+attachments
+attachments/cloth
+attachments/cloth/f
+attachments/cloth/m
+textures

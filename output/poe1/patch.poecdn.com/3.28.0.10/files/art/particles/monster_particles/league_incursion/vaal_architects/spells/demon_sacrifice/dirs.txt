@@ -1,3 +1,0 @@
-heal_effect
-sacrifice_state
-sacrifice_state/fx

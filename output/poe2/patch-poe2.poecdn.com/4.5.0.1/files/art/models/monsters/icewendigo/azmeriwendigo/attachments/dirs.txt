@@ -1,0 +1,12 @@
+arm
+face
+fur
+furrarm
+jewellery
+jewelleryforearm
+jewellerylarm1
+jewellerylarm2
+jewelleryr
+jewelleryrforearm
+jewellerytail1
+jewellerytail2

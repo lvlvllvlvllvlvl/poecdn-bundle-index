@@ -1,6 +1,0 @@
-feathers
-feathersdex
-feathersstr
-poncho
-ponchodex
-ponchostr

@@ -1,7 +1,0 @@
-bone
-bone/pet
-flesh
-flesh/pet
-pet
-soul
-soul/trl

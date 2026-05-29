@@ -1,0 +1,8 @@
+glovedangle
+glovedangle/l_glove
+glovedangle/l_glove/animations
+glovedangle/r_glove
+glovedangle/r_glove/animations
+l_locks
+r_locks
+skirt

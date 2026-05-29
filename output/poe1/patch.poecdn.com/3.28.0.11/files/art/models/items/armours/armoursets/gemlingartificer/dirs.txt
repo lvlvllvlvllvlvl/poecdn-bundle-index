@@ -1,0 +1,12 @@
+attachments
+attachments/shoulderpads
+attachments/shoulderpads/animation
+attachments/shoulderpads/animation/l_side
+attachments/shoulderpads/animation/r_side
+fx
+fx/levelup
+fx/levelup/blue
+fx/levelup/green
+fx/levelup/red
+fx/mb
+textures

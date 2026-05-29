@@ -1,0 +1,9 @@
+ao
+epk
+mat
+mat/onact
+mat/onact/attack_01
+mat/onact/death_01
+mat/onact/flinch
+pet
+trl

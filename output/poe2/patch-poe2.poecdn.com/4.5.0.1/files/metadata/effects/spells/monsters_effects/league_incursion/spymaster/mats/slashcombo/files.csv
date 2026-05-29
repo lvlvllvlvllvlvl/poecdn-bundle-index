@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+fa3a6f59d64dd4ec,debris_01_r.mat,Tiny.V0.1,155825000,50448
+c26c821fefc1899e,debris_01_u.mat,Tiny.V2.1,118422956,20096
+934b613e965fccc3,sparks_02_r.mat,Tiny.V5.1,156087502,33312
+9a7c61f18542c73b,sparks_02_u.mat,Tiny.V8.1,115237632,16926
+2b85dd279d5acfb9,wave_splashes_r.mat,Tiny.VB.1,156272221,49044
+f003ee81a9d4ce80,wave_splashes_u.mat,Tiny.V5.1,156120814,20200
+8c642cc00ff0bee1,bnpnt_emit_u.mat,Tiny.VD.1,5332868,346
+b445045eb282e45e,bsc_main_trail.mat,Tiny.V6.1,90639367,21868
+e4c5b82387f2c496,bsc_blur_trail.mat,Tiny.V2.1,120192370,18522
+ffe46e5702dc16fb,bsc_grd_trail.mat,Tiny.V0.1,155779516,45484
+42b5cc79dd59d169,bsc_decal_rect_r.mat,Tiny.VB.1,90311205,34344
+4d3450e1c11f0c22,bsc_lacerate_r.mat,Tiny.VB.1,156218117,54104
+37e40c38909ca70e,bsc_lacerate_u.mat,Tiny.VD.1,5332868,346
+11471cc8f226bb5c,bsc_lacerate_tail_r.mat,Tiny.VA.1,155201140,41306

@@ -1,8 +1,0 @@
-emerge
-fire_nova
-firespray
-meteor
-meteor/explosion
-meteor/marker
-mortar
-spawn_vertical

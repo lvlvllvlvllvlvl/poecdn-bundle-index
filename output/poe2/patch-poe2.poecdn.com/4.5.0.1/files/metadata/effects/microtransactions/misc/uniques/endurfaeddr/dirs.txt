@@ -1,0 +1,12 @@
+attached
+epks
+epks/audio
+fx
+graphs
+mats
+mats/armour
+mats/bear
+mats/demon
+mats/shared
+mats/wolf
+mats/wyvern

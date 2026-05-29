@@ -1,8 +1,0 @@
-attachments
-attachments/leftarmfluids
-attachments/lforearmfluids
-attachments/rforearmfluids
-attachments/rightarmfluids
-attachments/weapon
-snakeliquidelemental
-textures

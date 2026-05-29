@@ -1,0 +1,10 @@
+textures
+textures/new
+tier2
+tier2/attachments
+tier2/attachments/hair
+tier2/attachments/skirt
+tier3
+tier3/attachments
+tier3/attachments/hair
+tier3/attachments/skirt

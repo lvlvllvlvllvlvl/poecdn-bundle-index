@@ -1,5 +1,0 @@
-shaman_deer_ritual
-shaman_deer_ritual/epk
-shaman_deer_ritual/fx
-shaman_deer_ritual/graphs
-shaman_deer_ritual/mat

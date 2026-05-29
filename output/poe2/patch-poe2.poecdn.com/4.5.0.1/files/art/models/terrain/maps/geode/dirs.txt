@@ -1,0 +1,6 @@
+textures
+textures/cliffs
+textures/crystals
+textures/doodads
+textures/ground
+tgms

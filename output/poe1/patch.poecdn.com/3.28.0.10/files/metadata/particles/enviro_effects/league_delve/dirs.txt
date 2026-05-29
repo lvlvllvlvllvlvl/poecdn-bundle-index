@@ -1,6 +1,0 @@
-darknessdoodad
-delvehub
-explodingwall
-torch
-waypoint
-waypoint_02

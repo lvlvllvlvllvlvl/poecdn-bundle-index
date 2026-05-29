@@ -1,0 +1,4 @@
+lootablecorpse_01
+lootablecorpse_02
+lootablecorpse_03
+piratelootablechest

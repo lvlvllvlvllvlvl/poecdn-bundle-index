@@ -1,0 +1,9 @@
+models
+models/burst
+models/burst/ice_blade
+models/hit
+models/projectile
+textures
+textures/ice_burst
+textures/ice_pierce
+textures/projectile

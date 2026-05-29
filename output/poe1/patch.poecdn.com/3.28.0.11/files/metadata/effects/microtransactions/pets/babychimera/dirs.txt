@@ -1,0 +1,10 @@
+epk
+fx
+graph
+mat
+mat/idle_relaxed_03
+mat/idle_relaxed_03/firebreath
+mat/idle_relaxed_03/icebreath
+mat/idle_relaxed_03/kickup
+mat/idle_relaxed_03/lightningbreath
+mat/idle_relaxed_03/poisonspit

@@ -1,4 +1,0 @@
-animations
-animations/fist_bump
-fx
-fx/mb

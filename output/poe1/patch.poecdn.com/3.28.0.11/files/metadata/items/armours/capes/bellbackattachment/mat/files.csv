@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+43cdd60192c2e395,glow_flash.mat,Tiny_E,12829671,4554
+51f7ab410184cbea,pnt_u.mat,Tiny_11,127344428,346
+36a7e391f7de7973,bellsoundwave_aoering_r.mat,Tiny_E,12665667,44456
+01c40a219b959507,bellsoundwave_main_r.mat,Tiny_E,12746549,43332
+d1d48f61737e7a13,bellsoundwave_windblast_r.mat,Tiny_E,12789881,39790
+42463984986f6770,bellsoundwave_blurblast_r.mat,Tiny_E,12710123,34258
+0f202ce6e2611e20,bellsoundwave_blurblast_u.mat,Tiny_E,12744381,2168
+ff1abf4be93de853,bellhit_blur.mat,Tiny_E,12638855,2182
+134ae6059b2d136d,bellhit_shake.mat,Tiny_E,12660997,4670
+1a1f99f28a2e3d67,bellhit_echo.mat,Tiny_E,12641037,2384
+1902b2b8ad3b0a60,bellhit_echo_u.mat,Tiny_E,12660413,584
+f4acb17edb0d9f67,bellhit_echo_r.mat,Tiny_E,12643421,8912
+c92f4d831652d9c9,bellhit_echo_r2.mat,Tiny_E,12652333,8080

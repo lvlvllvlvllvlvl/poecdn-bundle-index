@@ -1,8 +1,0 @@
-activate
-idle_off
-idle_on
-unique
-unique/activate
-unique/idle_on
-unique_blue
-unique_blue/activate

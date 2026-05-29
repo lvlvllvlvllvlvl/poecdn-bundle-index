@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+be95670dcc8d4358,target_be5b7ba5.smd,Tiny_7,26916353,72
+5224fd5a7004e9c9,target_be5b7ba5.smd.header,Tiny_7,59368247,368
+3e47d9c64e12f715,target.sm,Tiny_2,5389378,376
+4779c3b08dbcaa0d,target.amd,Tiny_2,5388221,214
+5d56da57b574cb3a,target.ast,Tiny_2,5388435,943
+b9f2c5416380737d,ring.fmt,Art/Models/Effects/monster_effects/League_Legion/Vaal,18557,7985
+510647a7de3c9def,ring.fmt.header,Tiny_2,5388045,176

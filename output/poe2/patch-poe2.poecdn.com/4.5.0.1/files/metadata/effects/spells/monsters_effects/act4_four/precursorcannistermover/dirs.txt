@@ -1,0 +1,8 @@
+fx
+fx/single_shock
+fx/single_shock_onact
+fx/single_shock_onact_loop
+mat
+mat/single_shock
+mat/sinlge_shock_onact
+mat/sinlge_shock_onact_loop

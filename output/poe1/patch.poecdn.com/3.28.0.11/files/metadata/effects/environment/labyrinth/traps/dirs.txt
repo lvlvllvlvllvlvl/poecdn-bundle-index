@@ -1,0 +1,7 @@
+fire
+goblin_darts
+poison
+roomba
+sawblade
+smokes
+spinner

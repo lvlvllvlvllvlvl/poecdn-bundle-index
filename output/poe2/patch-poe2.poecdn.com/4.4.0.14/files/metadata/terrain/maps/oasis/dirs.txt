@@ -1,8 +1,0 @@
-graphs
-rooms
-rooms/borderopen
-rooms/dreadnoughtroad
-rooms/fills
-rooms/lakeside
-rooms/lakeside_2x2
-rooms/unique

@@ -1,4 +1,0 @@
-tiger_boss
-tiger_boss/blood_ritual
-tiger_boss/player_transition
-tiger_boss/spirit_world

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+47e547588d7067b6,spoolchest02.sm,Tiny_1,83594768,552
+977871300334862b,spoolchest02.amd,Tiny_6,9895362,86
+8ef4f90d3ea367c0,spoolchest02.ast,Tiny_1,83594155,613
+b016213b4e32e133,spoolchest01.sm,Tiny_1,83593721,434
+2cb62e357f55cb74,spoolchest01.amd,Tiny_6,9895362,86
+c0e21452225507ca,spoolchest01.ast,Tiny_1,83593108,613
+1d9bbf2c17f8f47a,ribbon_spool_v01_01.fmt,Art/Models/Chests/RibbonSpool,177767,10667
+79c0c501496caa2a,ribbon_spool_v01_01.fmt.header,Tiny_1,83592210,162
+ea0f232b49510c50,ribbon_spool_chest_v01_01.fmt,Art/Models/Chests/RibbonSpool,122922,54845
+4876011f8db99415,ribbon_spool_chest_v01_01.fmt.header,Tiny_1,83592042,168
+c1bbcaf78d5f2d14,ribbonspool_chest_95c58c13.smd,Art/Models/Chests/RibbonSpool,57544,65378
+127371c4a37d0e50,ribbonspool_chest_95c58c13.smd.header,Tiny_1,83592740,368
+f780ac46b359920c,ribbonspool_chest02_6e6a21bf.smd,Art/Models/Chests/RibbonSpool,0,57544
+aaf3258297a24401,ribbonspool_chest02_6e6a21bf.smd.header,Tiny_1,83592372,368

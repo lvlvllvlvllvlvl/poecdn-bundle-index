@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+305e214dc850571c,trail_shield.mat,Tiny_7,50952345,2456
+7f31ce802a0e9f28,trail_shield.dds,Art/particles/spectral_spinning_weapon,0,43876
+d3d42f83556efca3,trail_shield.dds.header,Tiny_7,50967941,840
+e8ccc3577afd1c37,trail_shards.mat,Tiny_7,50950187,2158
+41b185f00115942d,trail_shards.dds,Art/particles/spectral_shield_throw,49512,43876
+724f7262b61a13ce,trail_shards.dds.header,Tiny_7,50959603,840
+41217330d70216fd,sparkbits.mat,Tiny_7,50949033,1154
+9e21cfce829ccccf,sparkbits.dds,Tiny_7,50954801,1540
+d6b6e16aa3befae6,sparkbits.dds.header,Tiny_7,50956341,1520
+355e3306549fc3ed,metalc.mat,Tiny_7,50946727,2306
+322644b792a78884,metal.dds,Art/particles/spectral_shield_throw/secondary,0,87556
+f2e32fb97c1f15bf,metal.dds.header,Tiny_7,50945207,1520

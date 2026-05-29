@@ -1,9 +1,0 @@
-channelling
-charge_up
-charges
-maxed_out
-pulse
-release
-release_max
-spirit_slash
-surge

@@ -1,0 +1,5 @@
+weapons
+weapons/axe
+weapons/mace
+weapons/staff
+weapons/sword

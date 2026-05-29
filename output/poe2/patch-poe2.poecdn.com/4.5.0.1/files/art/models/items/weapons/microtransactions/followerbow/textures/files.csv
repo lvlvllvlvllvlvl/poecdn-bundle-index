@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+76f67516bb1e539e,or_followerbow_automaton.mat,Tiny.V3,10967516,5276
+88a6794515db6314,or_followerbow_shadow.mat,Tiny.V1,11017121,3390
+fa80ec18f655fec5,or_followerbow_spectral.mat,Tiny.V7,11019467,3400
+4abdf19928b883d0,followerbowc.mat,Tiny.V9,11470903,3430
+b1391a0ee07696ab,followerbowarrowc.mat,Tiny.V4,11151305,3526
+44ae429859f7cc9c,followerbow_glow_bc1.dds,Streaming/Content/metadata/items/weapons/twohandweapons/07089B26829AE0EE.E0A707D86F38A3C9.arrowhead_automaton.ao,349700,174924
+9e763d765179b254,followerbow_glow_bc1.dds.header,Tiny.VB,11085991,1520
+6052578d56ab78f8,followerbow_glow_dxt5.dds,Streaming/Content/metadata/items/weapons/twohandweapons/07089B26829AE0EE.E0A707D86F38A3C9.arrowhead_automaton.ao,524624,349700
+bf75d7da24b26111,followerbow_glow_dxt5.dds.header,Tiny.V3,10963770,1520
+794ce9f01797327e,followerbow_normal_dxt5.dds,Streaming/Content/metadata/items/weapons/twohandweapons/07089B26829AE0EE.E0A707D86F38A3C9.arrowhead_automaton.ao,874324,349700
+119ec66120a3ece3,followerbow_normal_dxt5.dds.header,Tiny.VE,11100586,1520
+00d4cd3e83dab408,followerbow_colour_dxt5.dds,Streaming/Content/metadata/items/weapons/twohandweapons/07089B26829AE0EE.E0A707D86F38A3C9.arrowhead_automaton.ao,0,349700
+98e5224c40b4f805,followerbow_colour_dxt5.dds.header,Tiny.VB,11084471,1520

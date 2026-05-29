@@ -1,6 +1,0 @@
-cold_super_nova_projectile
-cold_super_nova_projectile/end
-cold_super_nova_projectile/once
-icebreath
-on_act
-on_act/pillar_leap_01

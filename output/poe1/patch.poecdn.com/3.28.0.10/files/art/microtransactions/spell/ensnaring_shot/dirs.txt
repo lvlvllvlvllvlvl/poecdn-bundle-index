@@ -1,5 +1,0 @@
-demonic
-demonic/mb
-demonic/mb/chain
-demonic/mb/hand
-demonic/texture

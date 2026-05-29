@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+4fffc2c30aa66c81,spawn_midline.pet,Tiny_E,341283231,28454
+ecf8ed875c153d9f,spawn_copter.pet,Tiny_E,341258085,14564
+f0f35de0f5970e95,spawn_cyl.pet,Tiny_E,341272649,10582
+b91244db0d5e8a7d,mannequin_death_frameupper.pet,Tiny_E,341247965,5424
+d29abca515b2b495,mannequin_idle_frameupper.pet,Tiny_E,341253389,4696
+4eb8ea3f0d906331,golem_death_frameupper.pet,Tiny_E,341184867,10222
+77984eb4ab02df2a,golem_midline.pet,Tiny_E,341195089,47988
+b9c1d2f8a60b6269,golem_slam_circ.pet,Tiny_E,341243077,4888
+94dd83680fe3caea,copter_deathspiral.pet,Tiny_E,341141311,16762
+2cbcb92fbbf849de,copter_flinch.pet,Tiny_E,341158073,5144
+9ef57fbf35a11a0d,copter_idle.pet,Tiny_E,341163217,12038
+c16c8bd9b98b182f,copter_surge.pet,Tiny_E,341175255,9612
+9cef7bd9bc034dfa,copter_beam.trl,Tiny_E,341113281,4570
+a8ca2f8152881b1c,copter_beampoint.pet,Tiny_E,341117851,23460

@@ -1,0 +1,16 @@
+vaalhumanoidbladehands
+vaalhumanoidbladehands/attachments
+vaalhumanoidbow
+vaalhumanoidbow/objects
+vaalhumanoidcannon
+vaalhumanoidcannon/attachments
+vaalhumanoidgoliathfist
+vaalhumanoidgoliathfist/attachments
+vaalhumanoidpyramidhands
+vaalhumanoidpyramidhands/runemarked
+vaalhumanoidshieldlegs
+vaalhumanoidshieldlegs/attachments
+vaalhumanoidstalker
+vaalhumanoidstalker/attachments
+vaalhumanoidswordshield
+vaalhumanoidswordshield/attachments

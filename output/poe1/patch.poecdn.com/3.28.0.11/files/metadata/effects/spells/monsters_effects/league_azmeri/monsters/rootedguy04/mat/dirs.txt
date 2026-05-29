@@ -1,0 +1,7 @@
+attack_01
+branch_projectile_01
+branch_projectile_01/thorn_main_impact
+branch_projectile_01/thorn_main_proj
+branch_projectile_01/thorn_proj
+branch_projectile_01/thorn_ultimate_proj_charge
+death_bwd_01

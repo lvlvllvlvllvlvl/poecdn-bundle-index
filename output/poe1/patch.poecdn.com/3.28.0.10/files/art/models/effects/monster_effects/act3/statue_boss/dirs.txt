@@ -1,4 +1,0 @@
-divine_strike
-divine_strike/chunk
-divine_strike/impact
-leap_slam

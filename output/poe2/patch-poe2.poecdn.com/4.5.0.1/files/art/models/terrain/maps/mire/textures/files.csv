@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+5e87805cdd7a1cf7,g_mmre_canopy_mud01.mat,Tiny.VD,29555721,1450
+21763bd8ec80a345,mmre_snow03c.mat,Tiny.VD,29557171,2354
+87ee0a98fc25b2ba,mmre_snow03_normal.dds,Streaming/Content/data/worldareas/2A/mapmire_noboss.vworld,0,5592580
+48e9161952c7cf34,mmre_snow03_normal.dds.header,Tiny.V5,31303911,1520
+7256e64cdce41c7b,mmre_snow03_colour.dds,Streaming/Content/data/worldareas/D1/mapmire_noboss.vworld,0,5592580
+3c4a6473b28b4b3c,mmre_snow03_colour.dds.header,Tiny.V3,31389478,1520
+37f982e5f6268a35,mmre_muddysnow03c.mat,Tiny.VA,29668858,3744
+266438817ec4dce9,mmre_muddysnow03_height.dds,Streaming/Content/data/balance/worldareas/mapmire.vworld,2905585,5592580
+30f88191c6571892,mmre_muddysnow03_height.dds.header,Tiny.V7,32149822,1520
+9ab4c546c52576fe,mmre_muddysnow03_normal.dds,Streaming/Content/data/worldareas/C5/mapmire_noboss.vworld,0,5592580
+81e5e85171744dd4,mmre_muddysnow03_normal.dds.header,Tiny.V4,32427301,1520
+a03779e9b8ff0ce3,mmre_muddysnow03_colour.dds,Streaming/Content/data/worldareas/AF/mapmire_noboss.vworld,0,5592580
+113ba3c4acd0950a,mmre_muddysnow03_colour.dds.header,Tiny.V2,32263537,1520

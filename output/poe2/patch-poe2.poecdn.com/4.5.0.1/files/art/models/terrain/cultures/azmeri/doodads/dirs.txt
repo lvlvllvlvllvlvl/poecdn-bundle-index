@@ -1,0 +1,4 @@
+textures
+textures/macrame
+textures/prayerboards
+textures/stakes

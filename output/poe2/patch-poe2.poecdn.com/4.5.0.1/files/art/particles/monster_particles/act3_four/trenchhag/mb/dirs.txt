@@ -1,0 +1,6 @@
+on_act
+on_act/spellcast_long_01
+revive
+water_orb
+water_orb_explosion
+water_vortex

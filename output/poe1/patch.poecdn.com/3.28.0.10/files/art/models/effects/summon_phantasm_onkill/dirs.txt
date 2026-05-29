@@ -1,4 +1,0 @@
-death
-emerge
-projectiles
-projectiles/spellcast

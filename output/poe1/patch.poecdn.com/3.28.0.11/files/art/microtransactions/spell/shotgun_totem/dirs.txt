@@ -1,0 +1,4 @@
+mb
+mb/animations
+textures
+textures/totemfx

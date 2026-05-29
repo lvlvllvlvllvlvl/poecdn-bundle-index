@@ -1,0 +1,3 @@
+physlightning_slam
+spell_attacks_essie
+spell_attacks_essie/spell_sheild

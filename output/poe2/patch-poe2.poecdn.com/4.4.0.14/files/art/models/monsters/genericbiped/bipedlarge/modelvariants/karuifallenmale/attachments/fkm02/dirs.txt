@@ -1,8 +1,0 @@
-attachments
-attachments/fkm0201
-attachments/fkm0201/fkm0201_feathers
-attachments/fkm0201/fkm0201_necklace
-attachments/fkm0201/fkm0201_robe
-attachments/fkm0205
-attachments/fkm0205/fkm0205_hair
-attachments/fkm0205/fkm0205_robe

@@ -1,5 +1,0 @@
-shakari
-shakari/emerge_half_burrow_01
-shakari/half_burrow_cascade_01
-shakari/half_burrow_full_submerge_01
-shakari/half_burrow_idle_01

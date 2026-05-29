@@ -1,2 +1,0 @@
-frozenspear_idle
-frozenspear_impact

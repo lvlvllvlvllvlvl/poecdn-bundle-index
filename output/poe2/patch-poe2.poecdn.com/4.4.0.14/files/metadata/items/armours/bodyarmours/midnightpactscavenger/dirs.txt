@@ -1,4 +1,0 @@
-attachments
-attachments/grenades
-attachments/poncho
-attachments/skirt

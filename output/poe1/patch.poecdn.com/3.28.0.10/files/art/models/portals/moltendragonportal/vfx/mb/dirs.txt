@@ -1,5 +1,0 @@
-breath_rigs
-breath_rigs/forward
-crumble_debris
-lava_pool
-rock_crumble

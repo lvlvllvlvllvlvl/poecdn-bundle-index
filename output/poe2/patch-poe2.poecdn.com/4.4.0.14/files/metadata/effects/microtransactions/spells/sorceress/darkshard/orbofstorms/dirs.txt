@@ -1,4 +1,0 @@
-epk
-graph
-mat
-pet

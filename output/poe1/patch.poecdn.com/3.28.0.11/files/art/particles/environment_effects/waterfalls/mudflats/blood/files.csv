@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+f739be7e018aa604,foam_streamlinecns.mat,Tiny_6,35110037,5172
+de1c8cded06d48f8,stream_bloodc.mat,Tiny_6,35115209,4442
+efa0a718c14c8dbd,waterc.mat,Tiny_6,35128803,3692
+b48f22df37c1ac7f,waterfallmainc.mat,Tiny_6,35132495,4468
+24d9585e8a3bbf3f,water_base_addc.mat,Tiny_6,35119651,3730
+986648bcb6d79387,water_streamc.mat,Tiny_6,35123381,5422
+8a34f422448c39b8,black_solidc.mat,Tiny_6,35096199,2118
+831b3c6555dddf62,bloodmist.mat,Tiny_6,35107401,2636
+62ede3d4499c50d2,blood_ripple.mat,Tiny_6,35098317,4600
+5a420e96f1eb9395,blood_splash.mat,Tiny_6,35102917,4484
+8f5e6555c5dbd1d1,bloodtile_normal_dxt5.dds,Folders/art/particles/environment_effects/waterfalls,0,349700
+a6ece8e1cf26c06a,bloodtile_normal_dxt5.dds.header,Tiny_7,10053067,1520
+1bcb787376151fc1,bloodtile_colour_dxt1.dds,Folders/art/particles/monster_particles/league_hellscape_11,3870433,174924
+11ce19fbbbc54625,bloodtile_colour_dxt1.dds.header,Tiny_8,31611146,1520

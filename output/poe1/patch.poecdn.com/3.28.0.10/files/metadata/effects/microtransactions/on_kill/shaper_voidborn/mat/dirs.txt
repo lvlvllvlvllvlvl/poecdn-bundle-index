@@ -1,7 +1,0 @@
-attached
-rune_slam
-teleport_appear
-teleport_appear/teleport_crack
-teleport_appear/weapontrail
-teleport_disappear
-teleport_disappear/teleport_crack

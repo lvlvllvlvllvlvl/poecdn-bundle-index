@@ -1,5 +1,0 @@
-textures
-textures/femalebody
-textures/malebody
-textures/quiltedvest
-textures/rawhideboots

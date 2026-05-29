@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+9cf3b9517cd01bdf,red.mat,Tiny_7,45688421,980
+3819132475938dce,red.dds,Art/particles/poe_logo,33292,5636
+9b831cf189690007,red.dds.header,Tiny_7,45686901,1520
+0241431751aa21e8,green.mat,Tiny_7,45685909,992
+cffe4e457edb37fd,green.dds,Art/particles/poe_logo,27656,5636
+3e8c50b32e80ad14,green.dds.header,Tiny_7,45684389,1520
+0ff864999d24abb1,blue.mat,Tiny_7,45683541,848
+fd08dff5f20067d3,blue.dds,Art/particles/poe_logo,0,5636
+d70b84da7e14e029,blue.dds.header,Tiny_7,45682021,1520
+df2effb370eb99e0,blood_drops2.mat,Tiny_7,45681101,920
+3dc250a1dbc17fb6,blood_drops2.dds,Art/particles/poe_logo,5636,22020
+a065cd71fee30c77,blood_drops2.dds.header,Tiny_7,48187349,1520
+764349f5301d2e42,blood_drops.mat,Tiny_7,45680073,1028
+5e1ddd42d0a970d0,blood_drops.dds,Art/particles/monster_particles/Justicar_Casticus,87556,22020
+6482b994392d6bdb,blood_drops.dds.header,Tiny_7,48184637,1520

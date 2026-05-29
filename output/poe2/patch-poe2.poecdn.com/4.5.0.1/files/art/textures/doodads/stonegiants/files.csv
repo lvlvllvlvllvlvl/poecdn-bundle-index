@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+23032c162f48b103,petrifiedpeoplec.mat,Tiny.V3,41214001,1680
+35520f21bd54f74c,petrifiedpeople_normal_dxt5.dds,Streaming/Content/data/worldareas/hideoutarenaelder.vworld,16151959,5592580
+4073d903e3a26fc4,petrifiedpeople_normal_dxt5.dds.header,Tiny.V3,41212481,1520
+f42bf033e647937f,petrifiedpeople_colour.dds,Streaming/Content/data/worldareas/hideoutarenaelder.vworld,13355595,2796364
+598dc91a31c99fc0,petrifiedpeople_colour.dds.header,Tiny.VA,42077047,1520
+53f0ffe1ed457383,petrifiedfemalec.mat,Tiny.VB,42152718,1680
+0a347aa5c90599b2,petrifiedfemale_normal_dxt5.dds,Streaming/Content/data/worldareas/hideoutarenaelder.vworld,9859831,1398276
+f8dafaf666702d40,petrifiedfemale_normal_dxt5.dds.header,Tiny.V0,42085781,1520
+b542c1d97ca44d69,petrifiedfemale_colour.dds,Streaming/Content/data/worldareas/hideoutarenaelder.vworld,9160619,699212
+bbe1641ab96ae035,petrifiedfemale_colour.dds.header,Tiny.V0,42084261,1520
+5edf6107b9d2bc7c,petrifiedguyc.mat,Tiny.V8,41443397,1644
+54a1df4ad26d0153,petrifiedguy_normal_dxt5.dds,Streaming/Content/data/worldareas/hideoutarenaelder.vworld,11957319,1398276
+42d66b0407b61aaf,petrifiedguy_normal_dxt5.dds.header,Tiny.V0,42087301,1520
+1fba96e38dd0d1dc,petrifiedguy_colour.dds,Streaming/Content/data/worldareas/hideoutarenaelder.vworld,11258107,699212
+7918251462d7f9bf,petrifiedguy_colour.dds.header,Tiny.V9,42452724,1520

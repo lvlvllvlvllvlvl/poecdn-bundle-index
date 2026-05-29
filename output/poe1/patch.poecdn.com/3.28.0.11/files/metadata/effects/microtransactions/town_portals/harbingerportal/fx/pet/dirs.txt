@@ -1,0 +1,9 @@
+burn_writting_avatar
+burn_writting_avatar/starfall
+burn_writting_avatar/sunprism
+burn_writting_avatar/voidemperor
+inspect
+inspect/starfall
+inspect/sunprism
+inspect/voidemperor
+totem_death

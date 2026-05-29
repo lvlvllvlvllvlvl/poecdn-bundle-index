@@ -1,5 +1,0 @@
-idle
-idle/candle
-idle_pulse
-impact
-impact/particles

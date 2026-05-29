@@ -1,4 +1,0 @@
-targetpractice_crossbows
-targetpractice_crossbows/pet
-targetpractice_fireball
-targetpractice_fireball/pet

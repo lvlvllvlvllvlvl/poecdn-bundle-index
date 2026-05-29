@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+4f0f13813f18c162,melee_hand_swipe_smudge.mat,Tiny_D,329731123,18072
+cb0a5979298f1c73,melee_hand_swipe_smudge_special.mat,Tiny_D,330814279,18072
+32d3bbd4bb9c36c1,melee_hand_swipe_mblur.mat,Tiny_D,330763797,15766
+b0c91b405b3cdaad,melee_hand_swipe_mblur_special.mat,Tiny_D,330779563,15766
+5020e6f410e9602e,melee_hand_swipe_edge.mat,Tiny_D,329713655,17468
+95a2bcb0cc76f092,melee_hand_swipe_edge_special.mat,Tiny_D,330716203,17878
+de6ee0c45ff62842,hand_glow_l.mat,Tiny_D,329265803,19078
+9c25b196e5c9148e,hand_glow_r.mat,Tiny_D,329284881,19244
+0d5cc1897387d511,darkness_trail.mat,Tiny_D,326619489,39646
+f057cd75048051f7,darkness_hand_highlights.mat,Tiny_D,326522851,29924
+c3366e153c0e7f90,darkness_hand_mblur.mat,Tiny_D,326552775,21870
+14ded0f2807cbd2f,darkness_hand_trail.mat,Tiny_D,326574645,44844

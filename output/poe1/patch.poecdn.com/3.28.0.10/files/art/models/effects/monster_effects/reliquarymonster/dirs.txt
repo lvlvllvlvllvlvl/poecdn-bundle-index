@@ -1,2 +1,0 @@
-relics_skill
-spellcast_proj

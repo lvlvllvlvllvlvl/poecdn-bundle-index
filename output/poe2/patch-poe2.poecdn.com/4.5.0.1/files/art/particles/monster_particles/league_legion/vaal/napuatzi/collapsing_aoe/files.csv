@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+e5a5dfe86b86eb38,grd_mask_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D80EDF62996D803B.79F34B7C02D3069F.impact.pet,0,349700
+5a51eb2522b3bc5a,grd_mask_dxt5.dds.header,Tiny.VB,40571168,1520
+a275f369c8b3acb2,mult_mask.mat,Tiny.VA,40475891,1892
+9a0a83a7600e9fe1,mult_mask_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D80EDF62996D803B.79F34B7C02D3069F.impact.pet,349700,349700
+7a90f069536756e5,mult_mask_dxt5.dds.header,Tiny.VB,40571168,1520
+abbef20e51050832,poison_001_add.mat,Tiny.VF,40129769,6152
+89de901112aa47a7,poison_001_add_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D80EDF62996D803B.79F34B7C02D3069F.impact.pet,699400,1398276
+897b2de57ae9ef00,poison_001_add_dxt5.dds.header,Tiny.V5,37474009,1520
+54b73a874d51b522,sharp_test.mat,Tiny.V8,39784185,2388
+1cbbc09f02908945,sharp_test_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/866460BF574E2737.93FB2B9747AD5524.crkemit.pet.1,0,22020
+131adbbd37a4a2fa,sharp_test_dxt5.dds.header,Tiny.V3,39813511,1520

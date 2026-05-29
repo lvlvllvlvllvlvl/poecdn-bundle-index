@@ -1,9 +1,0 @@
-decal
-graphs
-pet
-pet/beam
-pet/bloodscythe_slash
-pet/bloodscythe_slash_hitfx
-pet/charges
-pet/debuff
-pet/surge

@@ -1,0 +1,4 @@
+crystalexplosion
+impact
+projectile
+surge

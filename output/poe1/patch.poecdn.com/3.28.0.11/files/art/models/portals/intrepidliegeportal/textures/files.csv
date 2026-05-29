@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+23435cbd940295b3,intrepidliegeportalc.mat,Tiny_3,23231179,2788
+3eefa57565385cd9,intrepidliegeportal_normal_dxt5.dds,Art/Models/Portals/IntrepidLiegePortal/Textures_1,0,1398276
+e2b24b577b349b58,intrepidliegeportal_normal_dxt5.dds.header,Tiny_3,23229659,1520
+cca4c5f44430ef75,intrepidliegeportal_metal_dxt1.dds,Art/Models/Portals/IntrepidLiegePortal/Textures,1748312,699212
+e095811f1d2c0a9e,intrepidliegeportal_metal_dxt1.dds.header,Tiny_3,23228139,1520
+9cf9e1a2e7b08846,intrepidliegeportal_colour_dxt1.dds,Art/Models/Portals/IntrepidLiegePortal/Textures,1049100,699212
+e31dc2edf9533d52,intrepidliegeportal_colour_dxt1.dds.header,Tiny_3,23226619,1520
+ce740043c219be20,intrepidliegeportal02c.mat,Tiny_3,23222989,3630
+68cf4ce2ce2fcb03,intrepidliegeportal02_normal_dxt5.dds,Art/Models/Portals/IntrepidLiegePortal/Textures,699400,349700
+7c22e23ed7083aa7,intrepidliegeportal02_normal_dxt5.dds.header,Tiny_3,23221469,1520
+9bd6f38f520673d6,intrepidliegeportal02_metal_dxt1.dds,Art/Models/Items/Armours/ArmourSets/WyrmCall_8,0,174924
+6067971854b8a54d,intrepidliegeportal02_metal_dxt1.dds.header,Tiny_8,25787925,1520
+adb6912ba5f82828,intrepidliegeportal02_glow_dxt5.dds,Art/Models/Portals/IntrepidLiegePortal/Textures,349700,349700
+2ca0881588719fae,intrepidliegeportal02_glow_dxt5.dds.header,Tiny_3,23219949,1520
+91c4d4c2d3581a76,intrepidliegeportal02_colour_dxt5.dds,Art/Models/Portals/IntrepidLiegePortal/Textures,0,349700
+3f4a3e9637709d80,intrepidliegeportal02_colour_dxt5.dds.header,Tiny_3,23218429,1520

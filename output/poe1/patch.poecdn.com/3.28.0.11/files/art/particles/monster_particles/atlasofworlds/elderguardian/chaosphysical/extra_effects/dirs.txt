@@ -1,0 +1,3 @@
+bow_string
+kickup
+shooting

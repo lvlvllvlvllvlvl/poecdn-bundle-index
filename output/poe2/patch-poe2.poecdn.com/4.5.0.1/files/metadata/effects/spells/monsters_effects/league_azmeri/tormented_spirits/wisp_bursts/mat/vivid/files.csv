@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+491d596e652054ba,pixiedust_r.mat,Tiny.V4.1,136794794,17510
+5d3e65e6f1a55acd,ground_aura_r.mat,Tiny.V1.1,137612610,28062
+cc1f54c9b8952f00,ground_aura_blur_r.mat,Tiny.V8.1,137096616,18958
+572b68c4609b9b01,ground_aura_u.mat,Tiny.VD.1,5332868,346
+9c357e7298653af3,mblur_sphere_r.mat,Tiny.V8.1,137115574,11916
+f58bd90b4860e779,mblur_sphere_u.mat,Tiny.VE.1,12556962,310
+42a34f8444503bbc,shimmerwave_r.mat,Tiny.V2.1,138947464,24680
+0b86c5e23a542c86,shimmerwave_u.mat,Tiny.VE.1,12556962,310
+8bc4f4d9e37eb311,sparks_u.mat,Tiny.V8.1,137127490,23524
+3404e50bee945dc9,sphere_shockwave_r.mat,Tiny.V3.1,137109257,23628
+677c141086c9ebea,sphere_shockwave_u.mat,Tiny.V4.1,136824440,2160
+e11bca0eaa053d02,sphere_distort_r.mat,Tiny.V4.1,136812304,12136
+6cc2d6a49dbddb76,sphere_distort_u.mat,Tiny.V0.1,12983294,302
+aaf5cf8546470ba3,zoom_distort_2_r.mat,Tiny.V7.1,134047456,9866
+541625c0f9b385bf,zoom_distort_2_u.mat,Tiny.V0.1,12983294,302

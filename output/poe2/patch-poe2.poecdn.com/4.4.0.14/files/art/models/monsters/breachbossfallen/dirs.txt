@@ -1,8 +1,0 @@
-attachments
-attachments/bbfkcape
-attachments/bbfklbicepfingers
-attachments/bbfklforearmfingers
-attachments/bbfklshinfingers
-attachments/bbfklthighfingers
-attachments/bbfkskirt
-textures

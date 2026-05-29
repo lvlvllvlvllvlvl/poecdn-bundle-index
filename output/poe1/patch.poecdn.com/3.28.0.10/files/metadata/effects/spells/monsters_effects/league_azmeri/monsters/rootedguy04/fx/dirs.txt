@@ -1,3 +1,0 @@
-attack_01
-branch_projectile_01
-death_bwd_01

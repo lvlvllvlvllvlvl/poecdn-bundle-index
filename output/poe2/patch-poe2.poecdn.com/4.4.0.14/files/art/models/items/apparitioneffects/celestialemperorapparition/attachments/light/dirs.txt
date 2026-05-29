@@ -1,4 +1,0 @@
-animations
-animations/demonic
-animations/lunar
-animations/sun

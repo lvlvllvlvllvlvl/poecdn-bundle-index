@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+2531bcf5614a20b4,pieces.fmt,Streaming/Content/metadata/effects/microtransactions/town_portals/EDCF7E09DF974732.A2423F3D01E7A113.grd_mid_close2.pet.1,0,218450
+944af570c42cde96,pieces.fmt.header,Tiny.V4,13968441,980
+8a96508554a76a87,grd_web.fmt,Streaming/Content/metadata/effects/microtransactions/town_portals/EDCF7E09DF974732.A2423F3D01E7A113.grd_mid_open.pet,0,17058
+d8f66fd2f44340da,grd_web.fmt.header,Tiny.V5,13650514,128
+2f8afbd1719dd5f6,splinter.fmt,Tiny.V4,13969421,1932
+7aa981bfa750194c,splinter.fmt.header,Tiny.VB,13774804,128
+158d473523619773,witchdoctorportal.sm,Tiny.V8,13818713,666
+2e0e11f2e14b33e1,witchdoctorportalegg.sm,Tiny.V0,13898445,828
+34cf3257fc21c892,rig_e4c89825.smd,Streaming/Content/metadata/effects/microtransactions/town_portals/EDCF7E09DF974732.witchdoctorportal _map.ao,3578913,141879
+09953ef254d995d0,rig_e4c89825.smd.header,Tiny.V1,13793897,343
+d0e05fdbca8846df,rig_2e06b908.smd,Streaming/Content/metadata/effects/microtransactions/town_portals/EDCF7E09DF974732.witchdoctorportal _map.ao,3495984,82929
+f777c39767afde5e,rig_2e06b908.smd.header,Tiny.V5,13650642,2599
+c403a17c8acc8347,rig.amd,Tiny.V1,13793571,326
+d8301d5cd8971a48,rig.ast,Content/metadata/effects/microtransactions/town_portals/witchdoctorportal/A2423F3D01E7A113.grd_cir_idle.pet,64632,5679

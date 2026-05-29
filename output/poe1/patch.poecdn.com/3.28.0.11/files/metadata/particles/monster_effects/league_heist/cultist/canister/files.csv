@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+ae189aa537e80e8f,arm_yellow_ptemit.pet,Tiny_E,352035151,2966
+cdc73b8935cee08b,yellowtrail.trl,Tiny_E,352141385,8314
+60ec8c9bd01411ce,yellow_arm_blink.pet,Tiny_E,352081759,15608
+1090e786ace07f25,yellow_detonate_ptemit.pet,Tiny_E,352097367,30110
+38b949405cefa7ee,yellow_grd_idle.pet,Tiny_E,352127477,8668
+1c2e2e56023de53b,yellow_mortar.pet,Tiny_E,352136145,5240
+821c18ea7e1e01ce,greem_armed_ptemit.pet,Tiny_E,352038117,8850
+044e45486adca29e,green_arm_blink.pet,Tiny_E,352046967,11106
+1f235ec636b2b879,green_grdemit.pet,Tiny_E,352078833,2926
+d20ce9af02156a23,green_gas_line.pet,Tiny_E,352058073,10380
+bfcefa62597d8dc6,green_gas_line_loop.pet,Tiny_E,352068453,10380

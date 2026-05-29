@@ -1,4 +1,0 @@
-hand_buff
-hand_buff/graphs
-minion
-minion/graphs

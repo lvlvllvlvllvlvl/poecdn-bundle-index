@@ -1,5 +1,0 @@
-arrow_up
-arrowdown
-clone_fade
-clonespawn
-vines

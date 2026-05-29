@@ -1,9 +1,0 @@
-celestial
-celestial/pets
-demonic
-demonic/pet
-oblivionraisezombie
-oblivionraisezombie/pet
-onyxoblivionraisezombie
-onyxoblivionraisezombie/pet
-project

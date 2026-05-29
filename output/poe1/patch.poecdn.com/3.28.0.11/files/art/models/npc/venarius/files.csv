@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+bf008212846ff910,venariusrags.fmt,Art/Models/NPC/Venarius_1,169378,148279
+f9c9212c6c193f50,venariusrags.fmt.header,Tiny_3,14820781,162
+ed9ac85332230154,venariusbook.fmt,Art/Models/NPC/Venarius_1,148261,21117
+333fba8b5df68076,venariusbook.fmt.header,Tiny_3,14820606,175
+6cc1ec9ec7eb3cdf,venarius.sm,Tiny_3,14820016,590
+3c80a43c1da391fe,venarius.fmt,Art/Models/NPC/Venarius_1,0,148261
+5dfed12bf46a8454,venarius.fmt.header,Tiny_3,14819863,153
+81d54279a6d07afe,rig_4182e167.smd,Art/Models/NPC/Venarius_3,0,603866
+7ec9a11a77007654,rig_4182e167.smd.header,Folders/art/models/npc/venarius,8339,8644
+1681b3e09d5117a2,rig.amd,Art/Models/NPC/Venarius,495132,4678
+38bb9e672a99e2a3,rig.ast,Art/Models/NPC/Venarius_2,0,1769214
+7c67dd81844659e9,bloodpriest.sm,Tiny_3,14800215,670
+819c8c501edc3a7c,bloodpriest_armour_f0641ecc.smd,Art/Models/NPC/Venarius,0,495132
+7c842539f55b13d7,bloodpriest_armour_f0641ecc.smd.header,Folders/art/models/npc/venarius,0,8339

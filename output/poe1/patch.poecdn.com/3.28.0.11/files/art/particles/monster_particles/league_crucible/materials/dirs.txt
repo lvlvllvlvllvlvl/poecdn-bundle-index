@@ -1,0 +1,16 @@
+attachment_materials
+general_materials
+level
+monsters
+monsters/basilisksnake
+monsters/demonwhip
+monsters/driftingeye
+monsters/furydemon
+monsters/monkeychieftain
+monsters/ragedemon
+monsters/rangeddemon
+monsters/razorleg
+monsters/saplingboss
+monsters/vendigo
+monsters/whipleg
+type_materials

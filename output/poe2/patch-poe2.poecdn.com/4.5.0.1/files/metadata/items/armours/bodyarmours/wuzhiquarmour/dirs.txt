@@ -1,0 +1,7 @@
+attachments
+attachments/ribbon
+attachments/skirt
+attachments/sleeves
+attachments/sleeves/lsleeve
+attachments/sleeves/rsleeve
+attachments/tail

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+c8b461bfe0e73220,tweak_normals.fxgraph,Content/metadata/monsters/ritualwendigo/goddesstrio/viridiascend.ao,391520,27130
+de6b1f1b00df0322,tweak_transparency.fxgraph,Content/metadata/effects/environment/act4_four/g4_4_1/6543A974D7697D21.release_fx.pet,3694910,17670
+0e7bbf87fa71ee82,tweak_occlusion.fxgraph,Content/metadata/terrain/gallows/act4_interlude/part3/90CEA666E2130F52.arenadoor.ot,9262,47060
+602b64b6fa99c7fc,tweak_glossiness.fxgraph,Content/metadata/effects/environment/act4_four/g4_4_1/6543A974D7697D21.release_fx.pet,3712580,40232
+63fbff9af8c2232e,tweak_glow.fxgraph,Content/metadata/terrain/worldmaps/maps/doodads/71567D77BA2264E1.precursorwall_low_high_stcv_02.ao,408427,30072
+37940f032a146a4a,tweak_specularcolour.fxgraph,Content/data/balance/worldareas/p2_5.vworld,2850322,54044
+cbd7c6209565d50f,tweak_subsurfacecolour.fxgraph,Content/metadata/effects/environment/act4_four/g4_4_1/6543A974D7697D21.release_fx.pet,2344380,54390
+a8780dfbfa39ab04,tweak_albedo.fxgraph,Content/metadata/monsters/ritualwendigo/goddesstrio/viridiascend.ao,360276,31244
+c63d25812389e156,tweak_albedotint.fxgraph,Content/metadata/chests/vaalweaponracks/armouryweaponrack01_02.ao,52902,53632
+8b18108bcb644876,tweak_albedo_vertexmask.fxgraph,Content/data/balance/worldareas/maphideoutshoreline_claimable.vworld,5616689,56052

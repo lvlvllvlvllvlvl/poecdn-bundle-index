@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+15e404affc89e000,vaal_proj_fire.pet,Tiny_D,439799494,10794
+5264660d5f91b585,vaal_proj_lightning.pet,Tiny_D,439879014,10814
+6ccb63bcc71fd1a2,vaal_proj_trail_fire.trl,Tiny_D,439892982,1582
+5876de0a17394ed4,vaal_proj_trail_lightning.trl,Tiny_D,439894564,1592
+a432cb3c2ebff452,vaal_proj_trail_chaos.trl,Tiny_D,439889828,1584
+2649329bc4acb72a,vaal_proj_trail_cold.trl,Tiny_D,439891412,1570
+c7e8f7be738155f0,vaal_proj_impact_fire.pet,Tiny_D,439842978,17768
+63cf1bb758ad1ca6,vaal_proj_impact_lightning.pet,Tiny_D,439860746,18268
+4e1b8539b99c8e19,vaal_proj_impact_chaos.pet,Tiny_D,439810288,14920
+a0474def46e063b8,vaal_proj_impact_cold.pet,Tiny_D,439825208,17770
+b50ec53b4b796564,vaal_proj_chaos.pet,Tiny_D,439777902,10798
+61390cab5a513fe3,vaal_proj_cold.pet,Tiny_D,439788700,10794
+84ddb10d07719371,projectile_impact_ruin.pet,Tiny_D,437974330,21408
+23a216c98290d40c,projectile_ruin.pet,Tiny_D,437995738,11108
+aef9f85aac5238e5,projectile_ruin_trail.trl,Tiny_D,438006846,1648

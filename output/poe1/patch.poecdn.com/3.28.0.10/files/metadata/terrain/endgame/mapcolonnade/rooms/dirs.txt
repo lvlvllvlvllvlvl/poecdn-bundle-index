@@ -1,6 +1,0 @@
-connections
-fills
-ledge
-temple
-unique
-wall

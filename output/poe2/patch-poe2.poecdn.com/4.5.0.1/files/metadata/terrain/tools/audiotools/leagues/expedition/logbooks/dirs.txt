@@ -1,0 +1,14 @@
+atoll
+basin
+digsite
+gully
+peninsula
+prairie
+reef
+subareas
+subareas/cavern
+subareas/siren
+subareas/volcano
+tropical
+tundra
+wastes

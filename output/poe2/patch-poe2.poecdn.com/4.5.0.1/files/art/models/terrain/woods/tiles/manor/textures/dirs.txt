@@ -1,0 +1,8 @@
+arena
+arena/beastcage
+arena/countessthrone
+arena/excavation
+arena/ground
+arena/medallion
+arena/stonewall
+ground

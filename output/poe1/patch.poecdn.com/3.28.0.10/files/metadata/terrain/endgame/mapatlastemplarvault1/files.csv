@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-1f11edbcbd674c2e,generate.rs,Tiny_11,43047235,140
-7e5b72d16bca4d04,isla_vault_mapdevice.tdt,Tiny_11,43047375,282
-bb35f74b2eeb45a6,random_fill_tiles.gft,Tiny_11,79740101,236
-62e60cd70b7b2384,tiles.tst,Tiny_11,43048289,1698
-fee444d7a712d252,vault.arm,Folders/metadata/7/terrain,5216320,33872
-fd13ee86c579c6c2,vault.dgr,Tiny_11,43049987,386
-029bb8bdb63d2d85,master.tsi,Tiny_11,43047657,498
-c72166345a213999,materials.mtd,Tiny_11,43048155,134

@@ -1,3 +1,0 @@
-hideout
-hideout/tgms
-tgms

@@ -1,6 +1,0 @@
-basic_vaal_blood_slam
-soulrend
-soulrend/soulrend_buff
-soulrend/soulrend_proj
-soulrend/soulrendbeam
-vaal_geyser_barrage

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+30be411f70b17138,spawn_spores.pet,Tiny.VD.1,130397558,6114
+be5c0227f2fa30f1,pustule_explode.pet,Tiny.VE.1,131064694,63116
+a94888cfcaa904db,grd_trail.trl,Tiny.VB.1,133176871,2504
+0af5a500d1b9b686,dropbolt_ground.pet,Tiny.V2.1,133427068,6402
+8f57f678583c0f14,abyss_lightning_ground.pet,Tiny.VB.1,133170761,6110
+1fa8da7646475099,onact_lightning_dropbolts.pet,Tiny.VE.1,131052200,12494
+ba99be37d11cce4f,onact_lightning_tendrils.pet,Tiny.V8.1,131279240,6416
+5c0d9c159b3221cf,zap_hit.pet,Tiny.V6.1,130418825,62004
+11890e55fdbdce84,zap_connector.pet,Tiny.V5.1,130238262,19712
+76fd409de1f527f8,zap_midline.pet,Tiny.V4.1,130738392,25150

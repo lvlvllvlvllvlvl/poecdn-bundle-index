@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-c9f6fd488aceea95,monster_hit.ao,Tiny.VA.1,47839606,340
-259e8aa3548aaa24,monster_hit.aoc,Tiny.VE.1,51213574,2938
-483cffd367a0a1e3,primary_projectile.ao,Tiny.V0.1,52712928,720
-3fd0a9bcd6654052,primary_projectile.aoc,Tiny.VE.1,51216512,3886
-b35bf7de49bd99e9,onact.ao,Tiny.V1.1,47227120,318
-426678ca92a3b0b9,onact.aoc,Tiny.V4.1,53601152,4990
-0ffe3a4c8ea23f36,secondary_projectile.ao,Tiny.V8.1,48023432,344
-e7bf24970bb86454,secondary_projectile.aoc,Tiny.VE.1,51220398,14266

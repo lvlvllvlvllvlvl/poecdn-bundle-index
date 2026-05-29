@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-ec0fa9984b58edbc,wildpetc.mat,Tiny.V9,46723369,2668
-1b8a04f5b715dc51,wildpet_normal_dxt5.dds,Streaming/Content/metadata/pet/wildpanther/wildpanther.act,524624,349700
-595ef5428d3b3c33,wildpet_normal_dxt5.dds.header,Tiny.V9,46721849,1520
-29bbf79e8ebefd30,wildpet_colour_bc7.dds,Streaming/Content/metadata/pet/wildpanther/wildpanther.act,174924,349700
-eb94bd1d02afc151,wildpet_colour_bc7.dds.header,Tiny.VC,46403187,1520
-4cebb449680c1289,wildpet_colour.dds,Streaming/Content/metadata/pet/wildpanther/wildpanther.act,0,174924
-5ec3b004a8ec8a76,wildpet_colour.dds.header,Tiny.V8,45597546,1520

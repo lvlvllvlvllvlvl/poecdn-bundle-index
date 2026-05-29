@@ -1,0 +1,34 @@
+hash,file,bundle,offset,size
+2d3c16cd90b6edfe,twistaurac.mat,Tiny_6,37144536,1766
+7e2d34e8bf3c9b3c,twistaura.dds,Art/particles/flicker_strike_new,109576,349700
+ad19b76753f77ba0,twistaura.dds.header,Tiny_6,37143016,1520
+84cf7318b340270c,star_twinkle.mat,Tiny_6,37141420,1596
+677c0f091829179a,star_twinkle.dds,Art/particles/flicker_strike_new,1072232,22020
+d8de307074e748e7,star_twinkle.dds.header,Tiny_6,37139900,1520
+7557199530d880e6,spark3.mat,Tiny_6,37138278,1622
+1391e17bec174a77,spark3.dds,Art/particles/flicker_strike_new,503348,87556
+7b610d040f00402a,spark3.dds.header,Tiny_6,37136758,1520
+b5200f226e44104f,particle_rough_shapes.mat,Tiny_6,37135336,1422
+77ff5c58557cb253,particle_rough_shapes.dds,Art/particles/flicker_strike_new,481296,22052
+b196ff0a4c512530,particle_rough_shapes.dds.header,Tiny_6,37134832,504
+8067b4e2b06492cb,lensflare.mat,Tiny_6,37133482,1350
+ccc997f9ebde842d,lensflare.dds,Art/particles/flicker_strike_new,612924,349700
+f38fd0b4a3250bc2,lensflare.dds.header,Tiny_6,37131962,1520
+b17406bb4b6c6e45,glowsmoke.mat,Tiny_6,37130356,1606
+2762526a7a24e55a,glowsmoke.dds,Art/particles/flicker_strike_new,962624,87588
+c92b5374b31f2814,glowsmoke.dds.header,Tiny_6,37129852,504
+174f5f89c0f24cab,flash up2.mat,Tiny_6,37128502,1350
+e18389a53ce5a3f0,flash up2.dds,Art/particles/flicker_strike_new,0,22020
+6ba61925edc12450,flash up2.dds.header,Tiny_6,37126982,1520
+65bc580131357fb0,flash up.mat,Tiny_6,37125638,1344
+1bb59f1398b485b0,flash up.dds,Art/particles/flicker_strike_new,1050212,22020
+0cb3dc11cf72c7bb,flash up.dds.header,Tiny_6,37124118,1520
+b3c06d21e531bbaa,fine_prtcl_explode.mat,Tiny_6,37122450,1668
+8e80185d44fef07a,fine_prtcl_explode.dds,Art/particles/flicker_strike_new,590904,22020
+ea908a04606a3603,fine_prtcl_explode.dds.header,Tiny_6,37120930,1520
+242823d62e6908ae,fat_flash.mat,Tiny_6,37119580,1350
+a22cf988ec475a9a,fat_flash.dds,Art/particles/flicker_strike_new,459276,22020
+4512d0ab66971f53,fat_flash.dds.header,Tiny_6,37118060,1520
+8f53b8f202d9497c,blink_spiral.mat,Tiny_6,37116428,1632
+729c3fc194dff827,blink_spiral.dds,Art/particles/flicker_strike_new,22020,87556
+1f0d5f4ae46c62ab,blink_spiral.dds.header,Tiny_6,59266178,1520

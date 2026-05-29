@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+fc2ca62c61352bf5,slime.mat,Tiny_6,53147972,6348
+62e2e787a9866f5a,web_splatc.mat,Tiny_6,53154320,3460
+67e00f515e4d3fb8,webthick3c.mat,Tiny_6,53161608,5216
+ccaa30123043d189,webthick3_colour.mat,Tiny_6,53157780,3828
+f6b58b4f6a96dc3f,mask_dxt5.dds,Folders/art/particles/monster_particles/act2_four_3,1068508,87556
+5eb8523116ad5b38,mask_dxt5.dds.header,Tiny_6,53146452,1520
+5b89cb6e36cb42b4,blood_permanentc.mat,Tiny_6,53137490,8962
+3667583b075870be,blood_permanent_dxt5.dds,Folders/art/particles/monster_particles/act2_four_3,718808,349700
+cd696a1c38fc947b,blood_permanent_dxt5.dds.header,Tiny_6,53134450,1520
+7582094c7328fb45,blood_01_normal_dxt5.dds,Folders/art/particles/monster_particles/act2_four_4,0,349700
+17739410084085c1,blood_01_normal_dxt5.dds.header,Tiny_6,53135970,1520
+3b08e96e96f57ec0,blood_01_colour_dxt5.dds,Folders/art/particles/monster_particles/act2_four_3,718808,349700
+27baa38fb6e0acb2,blood_01_colour_dxt5.dds.header,Tiny_6,53134450,1520

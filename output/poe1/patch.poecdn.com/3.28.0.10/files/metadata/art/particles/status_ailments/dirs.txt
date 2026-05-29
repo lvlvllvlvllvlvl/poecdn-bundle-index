@@ -1,5 +1,0 @@
-bleeding
-bleeding/tex
-freeze
-overrides
-tri_exposure

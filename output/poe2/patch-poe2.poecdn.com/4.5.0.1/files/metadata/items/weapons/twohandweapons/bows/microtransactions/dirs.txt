@@ -1,0 +1,17 @@
+balefire_fx
+eldritchemperorbow
+eldritchemperorbow/attachments
+followerbow
+followerbow/attachments
+followerbow/bows
+followerbow/epk
+followerbow/epk/general_arrow
+followerbow/fx
+followerbow/graph
+fx_angelicbow
+goblinshamanbow
+illusionist_fx
+nightlotusrangerbow
+perennialkingbow
+stonegreatbow
+watergoblinbow

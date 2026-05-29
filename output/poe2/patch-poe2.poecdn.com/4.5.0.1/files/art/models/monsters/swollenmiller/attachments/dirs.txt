@@ -1,0 +1,5 @@
+largedualaxeboss
+largedualaxeboss/cloak
+largedualaxeboss/loincloth
+largedualaxeboss/necklace
+largedualaxeboss/weapon

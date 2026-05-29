@@ -1,0 +1,4 @@
+attachments
+attachments/strdex
+attachments/strdexint
+attachments/strint

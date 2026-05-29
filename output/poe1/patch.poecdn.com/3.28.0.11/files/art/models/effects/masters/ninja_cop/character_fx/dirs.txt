@@ -1,0 +1,8 @@
+attack_once
+emerge_portal
+emerge_portal/swirl_transition
+ground_slam
+spell_buff
+summon
+teleport_stab
+teleport_stab_appear

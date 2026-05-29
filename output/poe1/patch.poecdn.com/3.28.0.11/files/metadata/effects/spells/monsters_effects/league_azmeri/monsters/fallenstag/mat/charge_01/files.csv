@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+681a1fba03726af5,warp_cirlce_3d_r.mat,Tiny_D,324973329,13410
+fcc0d833007ad6ca,warp_cirlce_3d_u.mat,Tiny_11,150820658,310
+5bd79916961f586a,shadowstep_r.mat,Tiny_D,324904031,67668
+d63ef27a36b953c4,shadowstep_u.mat,Tiny_D,324971699,1630
+64b6a3eb90dded23,kickup_smoke_r.mat,Tiny_D,324852265,37676
+03b7b7a8864dbb44,kickup_smoke_u.mat,Tiny_D,324889941,14090
+8cb738d4637af578,ground_debris_r.mat,Tiny_D,324823979,9588
+5933f82095791c0e,ground_debris_u.mat,Tiny_D,324833567,18698
+8997b0c1cf0a0444,charge_shimmer_wave_render.mat,Tiny_D,324757307,24038
+217961d9deddde26,charge_wave_03_render.mat,Tiny_D,324781345,38244
+5ae2bf813a06020c,charge_wave_03_update.mat,Tiny_D,324819589,4390
+3701a95590bb9c36,antler_edge.mat,Tiny_D,324693561,24420
+2ebcd5b94c093c00,antler_glow.mat,Tiny_D,324717981,10746
+eec2b72fb7b01a52,antler_mblur.mat,Tiny_D,324728727,11820
+f58d0825231c9484,antler_smudge.mat,Tiny_D,324740547,16760

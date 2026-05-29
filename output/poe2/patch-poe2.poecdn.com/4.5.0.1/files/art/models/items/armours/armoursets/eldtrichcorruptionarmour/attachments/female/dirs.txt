@@ -1,0 +1,4 @@
+helmetattachment
+robe
+shoulderpad
+tentaclesshoulderpad

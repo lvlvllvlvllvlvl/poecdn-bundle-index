@@ -1,0 +1,8 @@
+epk
+fx
+mats
+mats/beam
+mats/explosion
+mats/projectile
+mats/trail
+trails

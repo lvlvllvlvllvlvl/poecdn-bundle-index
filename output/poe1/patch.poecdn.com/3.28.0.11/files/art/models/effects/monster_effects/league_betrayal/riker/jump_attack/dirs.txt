@@ -1,0 +1,3 @@
+bomb_arrow
+on_act
+secondary_bomb_explosion

@@ -1,8 +1,0 @@
-fx
-fx/dust_weather_primal
-fx/dust_weather_voodoo
-fx/dust_weather_warden
-mat
-mat/dust_weather_primal
-mat/dust_weather_voodoo
-mat/dust_weather_warden

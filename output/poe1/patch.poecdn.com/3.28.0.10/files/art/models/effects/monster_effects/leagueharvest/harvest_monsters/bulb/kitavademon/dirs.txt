@@ -1,3 +1,0 @@
-groundslam_small
-on_act_chargeexplode
-pulse_charge

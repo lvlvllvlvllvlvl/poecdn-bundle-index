@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+d3b3d0553bca913c,shield.sm,Tiny_6,77077402,320
+6ba32ee344e82c7d,rig_shield_be5b7ba5.smd,Tiny_7,26916353,72
+8551b153289b705f,rig_shield_be5b7ba5.smd.header,Tiny_7,59368247,368
+5fe4f15b3ede17de,rig_shield.amd,Tiny_6,77076471,206
+bca7c7cf0c2f280e,rig_shield.ast,Tiny_6,77076677,725
+e0b62cc97a774ab8,act_teleport_out.amd,Tiny_8,50671887,94
+9bc69d6caf7c295f,act_teleport_out.ast,Folders/art/particles/monster_particles/atlasofworlds.1,4709121,4114
+a82258474c7971d4,act_teleport_in.amd,Tiny_7,9981908,92
+4582750c25ca99a8,act_teleport_in.ast,Tiny_6,77075832,639

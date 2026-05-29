@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+62c4d0be5e5b001d,lava_dots.mat,Tiny.VD,39432455,2482
+9ba80a343953afa7,lava_dots.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/22D6086925C65E4B.1E7927EAD778BD94.multi_impact.pet,612720,349700
+0a9dbeb98bf66d94,lava_dots.dds.header,Tiny.V8,39348237,1520
+c21a53df71a03c76,marker_aim.mat,Tiny.V3,38615645,1716
+b216cb83d84bf880,marker_aim.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/22D6086925C65E4B.1E7927EAD778BD94.multi_impact.pet,962420,43852
+994f6d4a7d40ca19,marker_aim.dds.header,Tiny.V4,39418646,1520
+e1d74b4d1e311bee,marker_aim_sub.mat,Tiny.V4,39402264,1770
+d87ff8e7bc80e56c,marker_aim_sub.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.A08FDB4D0364B02F.fadein_midline.pet,0,43852
+3a1dad4f45988491,marker_aim_sub.dds.header,Tiny.V4,39418646,1520
+8251f090e9750c37,bubble.mat,Tiny.V5,38800818,1690
+81c972f020fd5830,bubble.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.54D938F4BCABF20C.loop_midline.pet,492528,5636
+c42248ed571676b4,bubble.dds.header,Tiny.VC,39452459,1520

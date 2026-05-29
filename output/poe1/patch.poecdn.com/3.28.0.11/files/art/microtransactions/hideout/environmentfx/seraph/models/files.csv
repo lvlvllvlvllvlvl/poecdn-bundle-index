@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+bc7efc44905181a2,sunspire.fmt,Art/Microtransactions/Hideout/EnvironmentFX,825662,8609
+1d48100af238c7a6,sunspire.fmt.header,Tiny_1,28175127,152
+97545b0808635caa,rig_267ffd8d.smd,Tiny_1,28174813,314
+44a0b96cfa16b532,rig_267ffd8d.smd.header,Tiny_1,28174445,368
+d95b604469d1e5eb,lightrig_4822fde1.smd,Tiny_1,28174131,314
+ee3af537b3644947,lightrig_4822fde1.smd.header,Tiny_1,28174445,368
+cb44715d803e97a5,light.sm,Tiny_1,28173693,438
+d8b082fd2162890d,light.amd,Tiny_2,74175812,88
+36fce305b264726d,light.ast,Tiny_1,28173251,442
+6938c09f4e416ec6,hideout_env_box.sm,Tiny_1,28172823,428
+dd9533001f0cd256,hideout_env_box.amd,Tiny_2,74175812,88
+a88c3cbc18bae095,hideout_env_box.ast,Tiny_1,28171639,1184

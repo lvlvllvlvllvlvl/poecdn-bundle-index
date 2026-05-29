@@ -1,7 +1,0 @@
-RagdollFemale
-RagdollMale
-TheBasilisk
-TheCrusader
-TheEagle
-TheJudge
-TheOrion

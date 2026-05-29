@@ -1,4 +1,0 @@
-fx
-graphs
-mats
-mats/open

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+5a5aef8698af2139,caustic.mat,Tiny.V2,39607103,612
+e36a464d0855cfa1,black_solidc.mat,Tiny.VA,39815014,3650
+4d56115f44fc0806,ice_grdc.mat,Tiny.VD,39822419,7494
+1aa1af70cc2e0411,smoke_flipbook_ipct.mat,Tiny.VA,39818664,8860
+7ddcb2a782427f44,shockwave_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.605AE59E3AC7E730.main_proj.trl,262536,87556
+65d2bf3447fba480,shockwave_dxt5.dds.header,Tiny.VD,35537592,1520
+ef712e4d65cfe167,aoe_ring.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.C842586D0E8ABAAF.nova_ptemit.pet,0,87556
+3421ee45a6cda318,aoe_ring.dds.header,Tiny.V2,40477335,1520
+71cfc9d7298675ab,air_shockwave.dds,Streaming/Shared/Normal/Shared.11,3070264,87556
+c32f8d1cc2efc4c6,air_shockwave.dds.header,Tiny.VD,38140498,1520

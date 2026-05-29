@@ -1,0 +1,5 @@
+necklace
+shawl_optimised
+skirt_optimised
+sleeve_optimised
+weapon

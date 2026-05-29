@@ -1,0 +1,7 @@
+global
+life
+life/mb
+life/textures
+mana
+mana/mb
+mana/textures

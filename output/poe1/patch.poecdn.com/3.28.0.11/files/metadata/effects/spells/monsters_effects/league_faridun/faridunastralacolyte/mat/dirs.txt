@@ -1,0 +1,5 @@
+donut_slam
+impact_small
+sand_line_slam
+weapon_glow
+weapon_trail

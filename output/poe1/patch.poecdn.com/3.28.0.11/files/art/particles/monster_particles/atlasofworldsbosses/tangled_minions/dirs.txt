@@ -1,0 +1,9 @@
+mbs
+mbs/beam
+mbs/beam_impact
+mbs/death_explode
+mbs/fodder_4_projectile
+mbs/mini_death_explode
+mbs/mini_emerge
+mbs/small_beam_impact
+tex

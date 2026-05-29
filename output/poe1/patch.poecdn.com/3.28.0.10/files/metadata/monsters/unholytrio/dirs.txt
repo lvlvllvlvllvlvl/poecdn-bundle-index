@@ -1,5 +1,0 @@
-uberarena
-uberarena/fx
-uberarena/fx/mat
-uberarena/fx/mat/idle_closed_01
-uberarena/fx/pet

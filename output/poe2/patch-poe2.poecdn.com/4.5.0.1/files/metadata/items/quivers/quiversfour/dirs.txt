@@ -1,0 +1,12 @@
+bluntquiver
+broadheadquiver
+defaultquiver
+firequiver
+penetratingquiver
+primedquiver
+sacralquiver
+serratedquiver
+toxicquiver
+twopointquiver
+visceralquiver
+volantquiver

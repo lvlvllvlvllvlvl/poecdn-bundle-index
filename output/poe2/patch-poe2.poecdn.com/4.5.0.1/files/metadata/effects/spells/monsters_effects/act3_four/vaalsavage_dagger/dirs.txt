@@ -1,0 +1,5 @@
+epk
+fx
+mat
+mat/melee_trail
+pet

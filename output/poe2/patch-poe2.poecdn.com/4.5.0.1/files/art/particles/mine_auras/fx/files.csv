@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+6f8d6367d227af6a,ice_target_11x11.mat,Tiny.VB,36007123,2712
+c0a82df80ae66bbf,ice_target_11x11_dxt5.dds,Streaming/Content/metadata/particles/mine_auras/target_ice.pet,0,5592580
+a64fd822430f5946,ice_target_11x11_dxt5.dds.header,Tiny.V4,36053405,1520
+c530c69489cfcfe6,fire_target_11x11.mat,Tiny.V4,36050685,2720
+2555d53793ae5e5e,fire_target_11x11_dxt5.dds,Streaming/Content/metadata/particles/mine_auras/target_fire.pet,0,5592580
+ec6765b22006c329,fire_target_11x11_dxt5.dds.header,Tiny.V4,36053405,1520
+eceff55a8bf73d33,mine_target_11x11.mat,Tiny.V3,35340927,2804
+6d3bb5b296049a9d,mine_target_11x11_dxt5.dds,Streaming/Content/metadata/particles/mine_auras/target_remote.pet,0,5592580
+aff9ca885b94f27f,mine_target_11x11_dxt5.dds.header,Tiny.V4,36053405,1520
+fb7d3385a2a2642c,light_target_11x11.mat,Tiny.VF,35874628,2780
+f62ea8fa6c27879b,light_target_11x11_dxt5.dds,Streaming/Content/metadata/particles/mine_auras/target_light.pet,0,5592580
+6c8c2ae19a03c3e9,light_target_11x11_dxt5.dds.header,Tiny.V4,36053405,1520

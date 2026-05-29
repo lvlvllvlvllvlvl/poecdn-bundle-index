@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+f10414b2fa1c5a9e,wispy_r.mat,Tiny_D,478443778,33164
+993d211a1a7b5524,wispy_u.mat,Tiny_D,478476942,3016
+c8920e9c61bf3316,skin_glow.mat,Tiny_D,478402314,12510
+623e49050158cf34,suckin_sphere_r.mat,Tiny_D,478414824,28954
+7dc88deb0c3a10cb,suckin_sphere_u.mat,Tiny_D,506354520,524
+3e86f4ce478dd3b0,pixiedust_r.mat,Tiny_D,478578406,17252
+a4af3238b3542ae6,pixiedust_u.mat,Tiny_D,478383162,19152
+9cc5131b858d8ebc,mblur_sphere_r.mat,Tiny_D,478371680,11482
+4e6d50b7e888614a,mblur_sphere_u.mat,Tiny_11,150820658,310
+9c877dfc9e136350,flare_glow_r.mat,Tiny_D,478354854,16826
+8194a84e8549eb1a,flare_glow_u.mat,Tiny_D,478327200,1104
+b818e5ce4bf0878b,core_wisp_render.mat,Tiny_D,478328304,26550
+98867812a9cbc655,core_wisp_update.mat,Tiny_11,150820658,310
+cbd886fe6fc2610f,core_pt_r.mat,Tiny_D,478312640,14560
+2cc36359a3bfe718,core_pt_u.mat,Tiny_D,478327200,1104

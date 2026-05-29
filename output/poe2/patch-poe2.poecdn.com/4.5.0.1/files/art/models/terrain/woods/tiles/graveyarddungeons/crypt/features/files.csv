@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+7c97f6723cd65a24,thickwall_font_01.tgt,Tiny.V4,32771956,1844
+b7e547fd3c53a824,thick_hidden_door_01.tgt,Tiny.VB,32671664,1174
+7573edc692189663,thick_hidden_door_01.tmd,Tiny.V7,32461728,834
+4624db614461c367,thick_hidden_door_01_door.sm,Tiny.VC,32880809,826
+a1dec2183880037b,thick_hidden_door_01_door.smd,Streaming/Content/data/worldareas/mapcrypt_noboss.vworld,5359951,281299
+07197c09757b45d4,thick_hidden_door_01_door.smd.header,Tiny.VB,32672934,1804
+eb9b9030552bfb0b,thick_hidden_door_01_door.amd,Tiny.VB,32672838,96
+b96a2ed612055d82,thick_hidden_door_01_door.ast,Content/data/balance/worldareas/mapfortress.vworld,1530335,5279
+e2e9b55c66a31b6c,pillarswitch_01.tgt,Tiny.V5,32036689,922
+5f67324eee692154,pillarswitch_01.tmd,Tiny.VD,32602826,840
+7446284427139192,pillarswitch_01_switch.sm,Tiny.VF,32653045,734
+666194a5e4f680e2,pillarswitch_01_switch.smd,Streaming/Content/data/worldareas/mapcrypt_noboss.vworld,3562854,12773
+3e6d41adbd3a6bb9,pillarswitch_01_switch.smd.header,Tiny.V4,32768582,448
+231803642ef15587,pillarswitch_01_switch.amd,Tiny.V4,32768486,96
+afd49d2a647fb8b1,pillarswitch_01_switch.ast,Tiny.V3,32041410,686

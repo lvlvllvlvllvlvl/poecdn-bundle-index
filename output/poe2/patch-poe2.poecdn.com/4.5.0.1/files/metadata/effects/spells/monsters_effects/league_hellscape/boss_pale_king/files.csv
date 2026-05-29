@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+ec1a07a3e7915235,cleave_slash.ao,Tiny.V7.1,150666998,2834
+646adf75665466de,axeslam_groundslam.ao,Tiny.VC.1,155629541,3584
+e16bbf0ca40a6eb1,attack02_slam.ao,Tiny.VC.1,155626901,2640
+0c3d0f73cbcb22ce,doublethrow_impact.ao,Tiny.VB.1,152916733,2062
+45f3c869631ea77e,doublethrow_grd_impact.ao,Tiny.V8.1,153158462,3462
+72656e92aa5242f2,doublethrow_shocked_grd.ao,Tiny.V9.1,154576990,5222
+7cbea3cb1f6c2915,doublethrow_projectile_01.ao,Tiny.VB.1,152918795,6810
+ff4fe96a2dd4b4c8,doublethrow_projectile_02.ao,Tiny.VD.1,152986146,6724
+4dc156f504e28cf8,leapslam_impact.ao,Tiny.V6.1,151843881,5082
+bf5025f4eeb5e9ea,leapslam_impact_extra.ao,Tiny.V0.1,152108306,3942
+aae1fd875799aa79,leapslam_impact_wave.ao,Tiny.VE.1,151248102,4952
+b68a9e21b1a3016e,snipe_projectile.ao,Tiny.V1.1,152293958,5794
+1d34d036ce03549b,snipe_projectile_impact_pierce.ao,Tiny.V1.1,152299752,2050
+efc6994e2fb4d81a,snipe_projectile_impact.ao,Tiny.VD.1,153207088,3424

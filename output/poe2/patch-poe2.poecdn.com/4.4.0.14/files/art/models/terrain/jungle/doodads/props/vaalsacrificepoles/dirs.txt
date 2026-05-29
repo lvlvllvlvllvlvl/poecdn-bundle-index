@@ -1,4 +1,0 @@
-attachments
-attachments/ribbon
-ritualpole_01
-ritualtotem_01

@@ -1,0 +1,8 @@
+beam
+ground
+ragdoll_players
+ragdoll_players/animations
+ragdoll_players/animations/pose_01
+ragdoll_players/animations/pose_02
+ragdoll_players/animations/pose_03
+ragdoll_players/animations/pose_04

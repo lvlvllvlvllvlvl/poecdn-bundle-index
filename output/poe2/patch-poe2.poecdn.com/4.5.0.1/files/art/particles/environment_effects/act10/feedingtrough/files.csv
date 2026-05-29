@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+417bda0c8b334896,bloodcns.mat,Tiny.V2,34728079,5468
+b49abddcd36f957b,bloodns.dds,Streaming/Content/metadata/terrain/doodads/act10/sideflow.ao,349700,87556
+06f7d5b2642947e8,bloodns.dds.header,Tiny.VF,5228427,1520
+44d3939c04254bd0,blood_colour.dds,Streaming/Content/metadata/terrain/doodads/act10/sideflow.ao,0,349700
+d499f6f4d15a58c6,blood_colour.dds.header,Tiny.VF,34963981,1520
+a680de174d74f74c,edge_flowc.mat,Tiny.VB,34867584,2042
+2bf80f8cb6d5829a,edge_flow.dds,Streaming/Content/metadata/terrain/doodads/act10/sideflow.ao,437256,699236
+bc0a94ea6a66b8a3,edge_flow.dds.header,Tiny.V4,35145444,840

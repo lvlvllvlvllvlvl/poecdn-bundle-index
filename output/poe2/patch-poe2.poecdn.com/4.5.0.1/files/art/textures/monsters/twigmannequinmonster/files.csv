@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+ca52270cd8087d14,bosstwig01c.mat,Tiny.VA.1,1260783,2052
+fc58b600855022b9,bosstwig01_sss_dxt5.dds,Streaming/Content/art/models/monsters/twigmannequinmonster/test.fmt.1,0,349700
+1bd320924969bbb9,bosstwig01_sss_dxt5.dds.header,Tiny.VD.1,1085133,1520
+3db35c2fac5a467f,bosstwig01_normal_dxt5.dds,Streaming/Content/art/models/monsters/twigmannequinmonster/test.fmt,1748320,1398276
+4c5621b1d3ecbd05,bosstwig01_normal_dxt5.dds.header,Tiny.VD.1,1083613,1520
+84ed6d9bff7e502b,bosstwig01_colour.dds,Streaming/Content/art/models/monsters/twigmannequinmonster/test.fmt,1398620,349700
+d4d64a187551a1a2,bosstwig01_colour.dds.header,Tiny.V0.1,1616470,1520
+11c51c6d7fe24e63,bosstwig01_colour_bc7.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5EED6728FD1DE2E0.2246972FD6DE22FA.buff.ao,734115,349700
+c96fda6e53703502,bosstwig01_colour_bc7.dds.header,Tiny.V0.1,1616470,1520
+d54d2d00bfcb4817,bosstwig02c.mat,Tiny.V7.1,1606222,1606
+f4fcd9d1afc6a1c6,bosstwig02_sss_dxt5.dds,Streaming/Content/art/models/monsters/twigmannequinmonster/test.fmt.1,2097676,349700
+310e00c1afe29a3c,bosstwig02_sss_dxt5.dds.header,Tiny.V4.1,1621398,1520
+27dfa3f342be77d5,bosstwig02_normal_dxt5.dds,Streaming/Content/art/models/monsters/twigmannequinmonster/test.fmt.1,699400,1398276
+25a5ba680f6f44f9,bosstwig02_normal_dxt5.dds.header,Tiny.V7.1,1604702,1520
+97a1ccce3d354c62,bosstwig02_colour.dds,Streaming/Content/art/models/monsters/twigmannequinmonster/test.fmt.1,349700,349700
+ea7dcfce567f547b,bosstwig02_colour.dds.header,Tiny.V9.1,1370840,1520

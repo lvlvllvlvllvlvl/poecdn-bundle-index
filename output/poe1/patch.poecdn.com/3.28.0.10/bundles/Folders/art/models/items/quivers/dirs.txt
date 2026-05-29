@@ -1,4 +1,0 @@
-ahuanaquiver
-basetypes
-prismaticgleam
-spinehail

@@ -1,4 +1,0 @@
-textures
-textures/chimeral
-textures/jungle
-textures/outskirts

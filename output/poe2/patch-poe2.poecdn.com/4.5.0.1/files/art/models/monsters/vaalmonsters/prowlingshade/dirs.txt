@@ -1,0 +1,4 @@
+attachments
+attachments/decorrope
+attachments/headbrush
+attachments/necklace

@@ -1,0 +1,3 @@
+revive_01
+spellcast_long_01
+spellcast_short

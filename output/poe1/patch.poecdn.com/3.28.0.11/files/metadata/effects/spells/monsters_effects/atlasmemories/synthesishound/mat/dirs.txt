@@ -1,0 +1,9 @@
+charge_end_cone
+ground_fissure
+ground_fissure/start
+ground_slam_cone
+idle
+onact
+onact/charge
+onact/slam
+onact/step

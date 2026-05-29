@@ -1,4 +1,0 @@
-effects
-tgms
-towntiles
-towntiles/tgms

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+a9564e85b05dbd54,particles.mat,Tiny.V3,4360897,1584
+db222b98750de197,particles.dds,Streaming/Content/metadata/items/weapons/onehandweapons/3CC4977ED5F4A143.AF7CEA24241B741E.brightbeak_blue.ao,109576,22020
+73221752134761f0,particles.dds.header,Tiny.VC,4273705,1520
+99e7198106025c42,hole_glare.mat,Tiny.V3,4359307,1590
+3eb96b9a163da5c1,hole_glare.dds,Streaming/Content/metadata/items/weapons/onehandweapons/3CC4977ED5F4A143.AF7CEA24241B741E.brightbeak_blue.ao,87556,22020
+b55acec4f92af7dc,hole_glare.dds.header,Tiny.VC,4272185,1520
+b7a4f5ba25a564fb,glow.mat,Tiny.V7,4447890,1554
+3ddc0c86413e0d59,glow.dds,Streaming/Content/metadata/items/weapons/onehandweapons/3CC4977ED5F4A143.AF7CEA24241B741E.brightbeak_blue.ao,0,87556
+49b8595257cb276e,glow.dds.header,Tiny.VD,4363517,1520

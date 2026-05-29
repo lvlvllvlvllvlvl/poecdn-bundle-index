@@ -1,6 +1,0 @@
-attack_01
-death_pulse
-death_pulse_debuff
-idle_01
-screech_01
-teleport

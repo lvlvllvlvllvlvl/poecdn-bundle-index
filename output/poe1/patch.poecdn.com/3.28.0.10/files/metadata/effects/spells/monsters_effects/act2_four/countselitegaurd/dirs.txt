@@ -1,4 +1,0 @@
-teeth
-teeth/fx
-teeth/mat
-teeth/mat/scream

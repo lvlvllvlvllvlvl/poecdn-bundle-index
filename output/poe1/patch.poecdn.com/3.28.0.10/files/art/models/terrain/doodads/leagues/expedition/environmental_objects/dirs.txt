@@ -1,4 +1,0 @@
-textures
-texturesexpedition_
-tgms
-trees

@@ -1,5 +1,0 @@
-fx
-mat
-mat/fire_cone
-mat/trail
-pets

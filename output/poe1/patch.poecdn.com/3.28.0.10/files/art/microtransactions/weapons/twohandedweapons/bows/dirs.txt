@@ -1,9 +1,0 @@
-cordyceps
-cordyceps/mb
-cordyceps/mb/cordyceps
-cordyceps/mb/on_hit
-cordyceps/textures
-cordyceps/textures/bow
-cordyceps/textures/death
-cordyceps/textures/on_hit
-hyrribow

@@ -1,0 +1,4 @@
+attachments
+attachments/skirts
+fx
+fx/pet

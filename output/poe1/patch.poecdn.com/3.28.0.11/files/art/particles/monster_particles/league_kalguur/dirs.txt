@@ -1,0 +1,9 @@
+banditarcherboss
+banditarcherboss/mb
+banditarcherboss/mb/quarterpipeflames
+banditarcherboss/tex
+banditarcherboss/tex/circleflame_deathlyarrows
+monsters
+monsters/primordialmonster1
+monsters/primordialmonster1/mb
+verisiumguardboss

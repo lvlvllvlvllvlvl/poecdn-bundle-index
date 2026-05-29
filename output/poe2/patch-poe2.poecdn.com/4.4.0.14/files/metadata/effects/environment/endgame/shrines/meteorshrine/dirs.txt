@@ -1,4 +1,0 @@
-mat
-mat/meteor_impact
-mat/meteor_marker
-mat/meteor_trail

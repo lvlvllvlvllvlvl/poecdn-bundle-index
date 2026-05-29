@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+f1e7a0c31dd9cba2,blast.mat,Tiny.V5.1,1030948,3434
+be43a7102304fe7a,dirt_impact.mat,Tiny.V7.1,1522494,2170
+f1b256fbce03e636,ground_mask_02_dxt5.dds,Streaming/Content/metadata/monsters/chaoselemental/chaoselementalspawner.ot,627765,349700
+1fea55c5c1c8223a,ground_mask_02_dxt5.dds.header,Tiny.V2,36491925,1520
+9b76eddc21607f3c,shockwave_pulse.mat,Tiny.V3.1,970097,2140
+e88a7294253b0d52,smoke_grain.mat,Tiny.V9.1,1318346,3268
+883259e93bd44164,sandhole_height_uncompressed.dds,Streaming/Content/metadata/effects/spells/monsters_effects/B589B0D0925987C1.2677A7D4CB54C626.epk.epk,561417,349672
+b9b1c1ce2c094f66,sandhole_height_uncompressed.dds.header,Tiny.VB.1,1089574,1520
+b36585e920b7ae03,sand_hole_height.mat,Tiny.V8.1,752836,4316
+dd0fe12826737079,sand_hole_normal_a_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.70D301D233DA1323.emerge.pet,1427450,1398276
+e241a4843fde95e8,sand_hole_normal_a_dxt5.dds.header,Tiny.VE.1,1148576,1520

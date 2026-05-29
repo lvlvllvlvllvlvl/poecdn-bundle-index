@@ -1,7 +1,0 @@
-hash,file,bundle,offset,size
-f4a11274dd309d71,seafoam_normal_uncompressed.dds,Art/Textures/Environment/Global/BreakingWaves_2,0,5592552
-df296bcdee25a415,seafoam_normal_uncompressed.dds.header,Tiny_7,68989318,1520
-f23bdde1b3a8b4df,seafoam_colour_uncompressed.dds,Art/Textures/Environment/Global/BreakingWaves_1,0,1398248
-f8e8b032c8a1e19c,seafoam_colour_uncompressed.dds.header,Tiny_7,68987798,1520
-2f5504fda1212045,flowmap_dxt5.dds,Art/Textures/Environment/Global/BreakingWaves,0,87556
-1d780e966ca450e0,flowmap_dxt5.dds.header,Tiny_7,68986278,1520

@@ -1,7 +1,0 @@
-charge_orbs
-epk
-fx
-graph
-tier01
-tier01/gold
-tier01/silver

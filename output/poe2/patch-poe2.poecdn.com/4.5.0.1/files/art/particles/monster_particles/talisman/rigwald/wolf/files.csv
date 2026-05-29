@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+5f33fdf80bb6f87b,smoke_tile.mat,Tiny.V2,40919683,2120
+0d7816e35002a84b,smoke_tile.dds,Streaming/Content/metadata/particles/monster_effects/league_abyss/F98EF072AFCA807C.orb_trail.trl,1083636,43876
+1536cad968591a98,smoke_tile.dds.header,Tiny.VB,41263908,840
+0cff9100dfb6b9b5,shockwave.mat,Tiny.V7,40999985,2428
+b5c4a97b408bc01d,shockwave.dds,Streaming/Content/metadata/particles/monster_effects/league_abyss/F98EF072AFCA807C.orb_trail.trl,1127512,87556
+5b7fcd183e47d420,shockwave.dds.header,Tiny.V5,35003677,1520
+b4d79425f35523ac,wolfcns.mat,Tiny.V4,41204189,3720
+16acf9b25d6271d4,wolf_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/ADA130A68CBC8D87.D12A270BAE4A85F9.swamp_warp_flash.pet,591346,349700
+df16dd5ca7879a5c,wolf_colour.dds.header,Tiny.V4,41202669,1520

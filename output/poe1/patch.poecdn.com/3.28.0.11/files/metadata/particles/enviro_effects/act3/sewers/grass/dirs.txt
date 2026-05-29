@@ -1,0 +1,5 @@
+doodads
+doorways
+floor
+walls
+waterflow

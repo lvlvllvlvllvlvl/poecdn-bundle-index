@@ -1,0 +1,11 @@
+eldermadox
+eldermadox_greeting
+eldermadox_wild
+tangmazu
+tangmazu_bighead
+tangmazu_boss
+tangmazu_boss_bighead
+tangmazu_death
+tangmazu_gv
+theraven
+theraven_wild

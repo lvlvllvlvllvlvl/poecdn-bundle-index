@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-1967c28d411f2719,mp_fulltorus_lod0_ff.fmt,Streaming/Content/metadata/effects/environment/corrupted_obelisk/CAE58C92B230AD8B.radiant_grd_central.pet.2,2796364,45394
-356608bc515d7ba3,mp_fulltorus_lod0_ff.fmt.header,Tiny.V0,32630672,186
-bb3617624b16a7d3,obe_ground_01.fmt,Streaming/Content/metadata/tempests/radiant/tempeststorm.ot.9,0,5483764
-43fa393f5897e720,obe_ground_01.fmt.header,Tiny.VC,32582603,1382
-3ae59d18ddcad0f0,obe_ground_02.fmt,Streaming/Content/metadata/tempests/radiant/tempeststorm.ot.A,0,5419918
-d1108a9b91770c7c,obe_ground_02.fmt.header,Tiny.V2,32376874,1433
-48a73e1b98f4d40b,obe_ground_03.fmt,Streaming/Content/metadata/tempests/radiant/tempeststorm.ot.B,0,5063334
-488dc0c1b8ed9316,obe_ground_03.fmt.header,Tiny.V5,32040246,1389

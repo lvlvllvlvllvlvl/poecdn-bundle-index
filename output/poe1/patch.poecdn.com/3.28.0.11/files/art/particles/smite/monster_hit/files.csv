@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+08408ed57a07c947,yellow_fw.mat,Tiny_7,50007356,2808
+ebd77bdb4baf73dc,yellow_fw.dds,Art/particles/smite/monster_hit,0,87556
+af7c014f1107855b,yellow_fw.dds.header,Tiny_7,50005836,1520
+36b7388f909754f5,tile_01.mat,Tiny_7,50004916,920
+5a35c7cf0ce38d2d,tile_01.dds,Art/particles/monster_particles/act9_27,2166320,22020
+9fe7ee86dc7237ee,tile_01.dds.header,Tiny_7,50003396,1520
+93bc46ffa1c1e751,light_gradient.mat,Tiny_7,50000176,1678
+02f7ee918b4c542e,light_gradient.dds,Art/particles/monster_particles/act5,1130246,11084
+17cfe899b9525788,light_gradient.dds.header,Tiny_8,47505318,1520
+d525baa0aea8feb7,lightning_bolts_vert.mat,Tiny_7,50001854,1542
+e36d29dc8bfde53c,lightning_bolts_vert.dds,Folders/art/particles/blood_tendrils/surge,199867,349732
+a9609e853f1e4ef1,lightning_bolts_vert.dds.header,Tiny_7,51319179,504
+ce2450668f982b1b,grad_g2.mat,Tiny_7,49998808,1368
+f49d374ad80b1e4e,grad_g2.dds,Tiny_7,51285853,2892
+7dd606fc6ad5987d,grad_g2.dds.header,Tiny_7,51288745,1520

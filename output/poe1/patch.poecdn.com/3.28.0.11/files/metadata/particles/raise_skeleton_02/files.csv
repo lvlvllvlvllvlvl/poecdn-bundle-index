@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+484b557182dc3ca1,deathcyl.pet,Tiny_11,25171063,7558
+e53b7e46cbae1256,fire_proj.trl,Tiny_11,25178621,1780
+d5628422a745aa20,ice_proj.trl,Tiny_11,25180401,1836
+9bc86f51679cdc39,lightning_proj.trl,Tiny_11,25182237,1780
+47142bdc7e03fdc2,raise.trl,Tiny_11,25262669,3250
+d0d28deb9df34771,proj_loop_fire.pet,Tiny_11,25236787,10606
+8d75f9feeaaf8901,proj_loop_ice.pet,Tiny_11,25247393,9154
+ef1f563d89e7cd52,proj_loop_lightning.pet,Tiny_11,25256547,6122
+63bae6a3d7e8f21b,proj_end_fire.pet,Tiny_11,25198133,13198
+97a087598305d21d,proj_end_ice.pet,Tiny_11,25211331,11108
+e17ca2710aa070cb,proj_end_lightning.pet,Tiny_11,25222439,14348
+35c725821efb22ba,melee.trl,Tiny_11,25184017,4292
+c5fe84ebac27152f,mid.pet,Tiny_11,25188309,9824

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+74b3ecd157769df7,random_fill_tiles.gft,Tiny.V5.1,200851642,148
+a52ac52ccb8d45d6,generate.rs,Tiny.VD.1,202691600,24
+02c8fb4a092b23e8,filegroups.fgp,Tiny.VB.1,202134947,622
+486b8c93ab34ec22,tiles.tst,Tiny.V5.1,200872830,104
+52dfb36058dece29,chests.cht,Tiny.VE.1,201239584,56
+56a2dcd60223608e,critters.clt,Tiny.VB.1,202146077,54
+816b640c0fbe3fa9,combination.ecf,Tiny.VE.1,210011899,24
+c2858a6eafa8b81b,decals.dct,Tiny.VC.1,211871264,52
+db818cb835766229,doodads.ddt,Tiny.V3.1,203926737,54
+d62a0a46661d5431,master.tsi,Tiny.V3.1,203926791,996
+21a9fa871c5ed0b2,materials.mtd,Tiny.V8.1,203779859,1854
+ca4af25ebe316746,material_overrides.tmo,Tiny.VE.1,210011899,24

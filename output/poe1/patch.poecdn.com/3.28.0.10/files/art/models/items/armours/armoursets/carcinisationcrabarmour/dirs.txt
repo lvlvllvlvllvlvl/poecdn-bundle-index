@@ -1,8 +1,0 @@
-attachments
-attachments/accessory
-attachments/antennaa
-attachments/antennab
-attachments/eyemandiblea
-attachments/eyemandibleb
-attachments/loincloth
-textures

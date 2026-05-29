@@ -1,8 +1,0 @@
-attachments
-attachments/coredelvehat
-attachments/coredelvehelmetchains
-attachments/coredelvelantern
-attachments/coredelverobe
-attachments/coredelvesatchel
-textures
-textures/fx

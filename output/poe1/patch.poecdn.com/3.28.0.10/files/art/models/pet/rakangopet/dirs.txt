@@ -1,2 +1,0 @@
-rakango_head
-rakango_tail

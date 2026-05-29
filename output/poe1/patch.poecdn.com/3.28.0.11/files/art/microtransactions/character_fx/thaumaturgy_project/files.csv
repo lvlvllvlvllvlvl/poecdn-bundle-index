@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+e22f8e9595e8ca1b,dust.mat,Tiny_1,23581224,2468
+e592b2539093a6ae,grad.mat,Tiny_1,23583692,1446
+7fc157f493b98943,neuron_fb.mat,Tiny_1,23591058,1922
+df27a1d2f7cba911,neuron_fb_dxt1.dds,Art/Microtransactions/Character_FX/thaumaturgy_project,0,699212
+f85fbf5ad0a8f313,neuron_fb_dxt1.dds.header,Tiny_1,23592980,1520
+6245a2194d0f6a44,lightning_bolts.mat,Tiny_1,23585138,1876
+a2aa7d2e5e2ef935,lightning_fb.mat,Tiny_1,66491496,2808
+262ad03b6e95582f,lightning_trail2.mat,Tiny_1,23589560,1404
+5d50729571efeb80,lightning_random_at.mat,Tiny_1,23587014,2042
+d68f9676ec45ad99,lightning_random_at_dxt5.dds,Art/Microtransactions/Character_FX/thaumaturgy_project,699212,349732
+bc619544e8cf9706,lightning_random_at_dxt5.dds.header,Tiny_1,23589056,504
+fc4ea4642e0f34b9,lightning_random_at_dxt4.dds,Art/Microtransactions/footprints/thaumaturgy_1,0,349732
+559a9f28e2f66f1f,lightning_random_at_dxt4.dds.header,Tiny_1,25797173,504
+ae6b81491e9485d3,lightning_random_at_bc7premult.dds,Art/Microtransactions/footprints/thaumaturgy_1,0,349732
+15ae65d7a5e3ddd1,lightning_random_at_bc7premult.dds.header,Tiny_1,25797173,504

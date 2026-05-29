@@ -1,4 +1,0 @@
-border
-fill
-shoreline
-unique

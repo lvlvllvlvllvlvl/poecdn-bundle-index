@@ -1,4 +1,0 @@
-cats
-fx
-graph
-wandcolours

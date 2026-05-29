@@ -1,3 +1,0 @@
-fadein
-idle
-loop

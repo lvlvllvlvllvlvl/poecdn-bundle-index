@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-cf20ab113225aa31,test.arm,Tiny_11,103379236,838
-66178de3b88243ef,test1.arm,Metadata/Terrain.1_1,2359898,5286
-6f1b00a81445b873,ledge_2.arm,Folders/metadata/2/terrain_1,3194679,5352
-7888d700db6288dc,ledge_3.arm,Folders/metadata/mapdevices,5585968,4670
-5b77a56fd60074ab,ledge_4.arm,Folders/metadata/3/terrain_1,3547375,5282
-d171f02ee204bfc8,ledge_1_1.arm,Folders/metadata/monsters,4845466,5294
-e9bce6b17fd1f578,ledge_1_2.arm,Folders/metadata/monsters,2021422,5438
-12acc7cd6f5b9d6a,ledge_1_3.arm,Folders/metadata/environmentsettings_1,3867891,5438

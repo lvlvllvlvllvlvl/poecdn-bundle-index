@@ -1,2 +1,0 @@
-flapping_wings
-flapping_wings/textures

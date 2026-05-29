@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+24bfe369661236e8,ice_normalaorough_dxt5.dds,Art/particles/lib/ice,1573172,349700
+62d0146cc37077ad,ice_normalaorough_dxt5.dds.header,Tiny_6,91732565,1520
+50f78d99465f780e,ice_normalaorough_bc7.dds,Art/particles/lib/ice,1573172,349700
+fa4e6b6c2c1ec411,ice_normalaorough_bc7.dds.header,Tiny_6,91732565,1520
+8718ccea060e20c3,ice_normalaogloss_uncompressed.dds,Art/particles/lib/ice,174924,1398248
+6182123eb15efa37,ice_normalaogloss_uncompressed.dds.header,Tiny_6,43500410,1520
+b7cddb835ed24835,ice_height_dxt1.dds,Art/particles/lib/ice,0,174924
+aafc62f395cd3476,ice_height_dxt1.dds.header,Tiny_6,91709421,1520
+de686a93f611b326,ice_colour_dxt1.dds,Art/particles/lib/ice,0,174924
+37c169cf38b47d62,ice_colour_dxt1.dds.header,Tiny_6,91709421,1520
+192ac196970610d7,ice_colour_bc1.dds,Art/particles/lib/ice,0,174924
+6c7e202ca6902729,ice_colour_bc1.dds.header,Tiny_6,91709421,1520

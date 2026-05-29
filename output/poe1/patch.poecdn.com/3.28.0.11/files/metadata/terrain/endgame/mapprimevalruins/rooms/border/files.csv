@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+85cdc4b2c2b0c675,border_straight.arm,Folders/metadata/0/terrain,9616718,4584
+67322d90c8a50bf6,border_straight_rooms.arm,Folders/metadata/F/terrain,9023342,4754
+e40009793777d19d,border_straight_street.arm,Folders/metadata/1/terrain,9767312,4722
+e3b27bca62eca713,border_concave.arm,Tiny_11,117920761,3816
+9fc155fdf4e79a01,border_convex.arm,Folders/metadata/9/terrain,9975830,5352
+aec62695fa0f45ae,border_convex_street_1.arm,Folders/metadata/9/terrain,9981182,5490
+a63599c0ac9b205a,border_convex_street_2.arm,Folders/metadata/F/terrain,9017852,5490
+8ee65c2093ccdb03,border_convex_rooms_1.arm,Folders/metadata/A/terrain,9702342,5540
+8d2046b5d3c5d145,border_convex_rooms_2.arm,Folders/metadata/1/terrain,9756112,5522
+c6fd30dcc64309d2,border_convex_rooms_street.arm,Folders/metadata/1/terrain,9761634,5678

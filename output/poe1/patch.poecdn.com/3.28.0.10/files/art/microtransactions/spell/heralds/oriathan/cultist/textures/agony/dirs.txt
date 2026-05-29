@@ -1,7 +1,0 @@
-handfx
-minion
-minion/burrow
-minion/emerge
-minion/fx
-projectiles
-projectiles/fx

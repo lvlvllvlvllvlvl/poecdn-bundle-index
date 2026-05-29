@@ -1,2 +1,0 @@
-box_open
-item_highlight

@@ -1,5 +1,0 @@
-shieldingtotem
-shieldingtotem/beam
-totemslam
-totemslam/marker
-totemsunder

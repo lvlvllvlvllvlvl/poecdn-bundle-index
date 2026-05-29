@@ -1,5 +1,0 @@
-attack_fast_01
-combo_01
-double_thrust_01
-throw_01
-warp_01

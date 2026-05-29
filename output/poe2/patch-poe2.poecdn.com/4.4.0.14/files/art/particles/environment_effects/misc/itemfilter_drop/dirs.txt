@@ -1,8 +1,0 @@
-blueitem
-brownitem
-darkgreyitem
-greenitem
-newitem
-reditem
-whiteitem
-yellowitem

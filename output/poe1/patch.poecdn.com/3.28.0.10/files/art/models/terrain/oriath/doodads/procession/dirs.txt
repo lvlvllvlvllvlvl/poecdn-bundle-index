@@ -1,4 +1,0 @@
-animated
-animated/chandelier_01
-textures
-textures/statues

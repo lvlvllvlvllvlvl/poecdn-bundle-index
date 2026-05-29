@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+d8c4ff3402498895,mffl_frozenwaterfall01c.mat,Tiny.V9,29358782,4370
+2d4ae0531eb05773,mffl_frozenwaterfall01_mcfc.mat,Tiny.VB,29150643,5318
+cb20549d00d2861f,mffl_frozenwaterfall01_thickness.dds,Streaming/Content/data/worldareas/69/p3_3.vworld,743976,5592580
+331b3885a6eed5f6,mffl_frozenwaterfall01_thickness.dds.header,Tiny.V1,28901605,1520
+ad8d22002d276217,mffl_frozenwaterfall01_sss.dds,Streaming/Content/data/balance/worldareas/7D/mapfrozenfalls.vworld,3683397,5592580
+3c2454067a553e90,mffl_frozenwaterfall01_sss.dds.header,Tiny.V7,28883551,1520
+eb239e70b72b16d0,mffl_frozenwaterfall01_normal.dds,Streaming/Content/data/worldareas/7C/p3_3.vworld,456858,5592580
+ebc7dd74fda8b0af,mffl_frozenwaterfall01_normal.dds.header,Tiny.V3,28634851,1520
+ba38b30d957fcf7f,mffl_frozenwaterfall01_colour.dds,Streaming/Content/data/worldareas/66/p3_3.vworld,23144,2796364
+9609de1ad41a86b8,mffl_frozenwaterfall01_colour.dds.header,Tiny.V1,28900085,1520
+6b3ea651d3bc12e0,mffl_frozenwaterfall02c.mat,Tiny.VC,29141718,4370
+eee8aef7f83f77be,mffl_frozenwaterfall02_normal.dds,Streaming/Content/data/worldareas/mapfrozenfalls_noboss.vworld.2,2796388,2796388
+c5aef5571a800ca8,mffl_frozenwaterfall02_normal.dds.header,Tiny.V8,28920412,840
+f8a41d7e4a1839ba,mffl_frozenwaterfall02_colour.dds,Streaming/Content/data/worldareas/mapfrozenfalls_noboss.vworld.2,0,2796388
+a53bfe610e295284,mffl_frozenwaterfall02_colour.dds.header,Tiny.VF,29210434,840

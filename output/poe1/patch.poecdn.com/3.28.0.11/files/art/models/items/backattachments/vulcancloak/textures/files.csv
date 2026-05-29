@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+909bde475e215042,vulcancloakc.mat,Tiny_2,56999462,4416
+5b7dc47194eb0724,vulcancloakfxc.mat,Tiny_2,57003878,8704
+7e9d562c25481b1b,vulcancloak_normalc.mat,Tiny_2,56992978,6484
+4a4e708b23458f71,vulcancloak_normal_dxt5.dds,Art/Models/Items/BackAttachments/VulcanCloak/textures_2,0,1398276
+fb4c47b575d30c9a,vulcancloak_normal_dxt5.dds.header,Tiny_2,56991458,1520
+4090d7278b5723ff,vulcancloak_metal_dxt5.dds,Folders/art/models/items/backattachments/corephoenixwings/vfx,1005568,1398276
+2d092e35508bffee,vulcancloak_metal_dxt5.dds.header,Tiny_2,56989938,1520
+b379ebff2b5d4eed,vulcancloak_glow_dxt5.dds,Folders/art/models/items/backattachments/vulcancloak/textures,1398276,1398276
+07969e4b7b3a7962,vulcancloak_glow_dxt5.dds.header,Tiny_2,56988418,1520
+ec5f15702223f25c,vulcancloak_colour_dxt5.dds,Folders/art/models/items/backattachments/vulcancloak/textures,0,1398276
+a7e53fcc3ab5ab71,vulcancloak_colour_dxt5.dds.header,Tiny_2,56986898,1520

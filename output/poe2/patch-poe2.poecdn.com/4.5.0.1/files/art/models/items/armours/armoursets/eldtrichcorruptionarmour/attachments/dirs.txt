@@ -1,0 +1,9 @@
+female
+female/helmetattachment
+female/robe
+female/shoulderpad
+female/tentaclesshoulderpad
+male
+male/robe
+male/shoulderpad
+male/tentaclesshoulderpad

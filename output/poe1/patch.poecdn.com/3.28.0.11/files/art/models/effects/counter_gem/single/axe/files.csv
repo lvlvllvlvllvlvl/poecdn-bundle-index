@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+9fbdc53e1dd1c7c5,single_a5a0cd95.smd,Art/Models/Effects/counter_gem/single/axe,99696,49910
+b4ded1882c886453,single_a5a0cd95.smd.header,Tiny_1,85507327,368
+f8fa7295b7e7f91f,rig_0a31c591.smd,Art/Models/Effects/counter_gem/single/axe,0,99696
+83ff301663f307f2,rig_0a31c591.smd.header,Tiny_1,85506836,491
+e0f2fe58872cc9bd,axecountersingle.sm,Tiny_1,85506262,574
+f5213df0677b5385,axecountersingle.amd,Tiny_2,7857234,194
+f80221db816ac6a9,axecountersingle.ast,Tiny_1,85505262,1000
+0df0139a876d9977,axecounter.sm,Tiny_1,85504694,568
+a6e679bf0228be36,axecounter.amd,Tiny_2,7857234,194
+5dd0390e10ef496b,axecounter.ast,Tiny_1,85511736,945

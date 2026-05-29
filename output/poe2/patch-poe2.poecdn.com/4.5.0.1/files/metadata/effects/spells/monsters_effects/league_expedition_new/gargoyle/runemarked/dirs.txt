@@ -1,0 +1,8 @@
+epk
+fx
+mat
+mat/270_trail
+mat/candle_flareup_epk
+mat/mouth_inhale
+mat/sweep
+mat/sword_flame_infusion

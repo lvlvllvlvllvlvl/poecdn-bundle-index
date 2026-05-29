@@ -1,4 +1,0 @@
-ikiaho
-ikiaho_field
-ikiaho_greeting
-ikiaho_wild

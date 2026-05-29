@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+10f7f60bf0b91e66,cloud_01c.mat,Tiny.V9,38442454,1584
+d9a5261bd2d520fa,flares.mat,Tiny.V5,37494055,4472
+901f388321ebf7c7,flares_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.27C835AD31D0D769.ping.pet,601964,174924
+e2a5ba0d44df4c23,flares_dxt1.dds.header,Tiny.V4,38086546,1520
+a436c3308c256461,wisp.mat,Tiny.V1,37764726,3910
+1f23262b1f8657b7,wisp_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.27C835AD31D0D769.ping.pet,776888,87548
+8f75c1b3652e0554,wisp_dxt1.dds.header,Tiny.VC.1,790690,840
+d02faeac7c3ecc9a,snow_prtcls_2x2.mat,Tiny.V7,37872153,1604
+b0bf97bd56a1199b,snow_prtcls_2x2_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/FFFCD097787CC4E2.D5FC89690D82FDFD.cold_storm.pet,11084,87556
+32e522bc0129f55e,snow_prtcls_2x2_dxt5.dds.header,Tiny.V4,35171388,1520
+8ab91bedb44e261f,black_shadowonlyc.mat,Tiny.V6,37939682,1622
+7d36786843759d27,bloom_glow.mat,Tiny.VA,38188642,2112
+317890ed53a94bdc,bloom_glow_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/FFFCD097787CC4E2.D5FC89690D82FDFD.cold_storm.pet,0,11084
+6cc4bfc2b9e58047,bloom_glow_dxt1.dds.header,Tiny.V9,36003436,1520

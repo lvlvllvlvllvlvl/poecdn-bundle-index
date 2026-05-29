@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+3f25e233e3df510b,splash_tile_01_r16.dds,Folders/art/particles/fxlib/splash,0,2796350
+07caef3278f4f167,splash_tile_01_r16.dds.header,Tiny_6,38887696,838
+50798036bf1f80b8,splash_tile_01_dxt5.dds,Art/particles/FXLib/splash_2,0,1398276
+0c32085f0b6fc11c,splash_tile_01_dxt5.dds.header,Tiny_6,38886176,1520
+46221edc9861d14e,splash_tile_01_bc7.dds,Art/particles/FXLib/splash_2,0,1398276
+30c161ce5894357a,splash_tile_01_bc7.dds.header,Tiny_6,38886176,1520
+17bee193f76b25d1,splash_inka_1_2_2x2_dxt5.dds,Art/particles/FXLib/splash_1,0,349700
+16216312a57d06b9,splash_inka_1_2_2x2_dxt5.dds.header,Tiny_6,38884656,1520
+39f6afc269416db7,splash_inka_1_1_2x2_dxt5.dds,Art/particles/FXLib/splash,0,349700
+9b000df4203ca1e8,splash_inka_1_1_2x2_dxt5.dds.header,Tiny_6,38883136,1520
+1ad5755ea0d42c3f,splash_goo_01_bc7.dds,Folders/art/particles/fxlib/splash_1,0,699212
+dd1232d22e1c1413,splash_goo_01_bc7.dds.header,Tiny_6,38881616,1520
+3ab2c319b2b5cdbb,splash_goo_01_bc1.dds,Folders/art/particles/fxlib/splash_1,0,699212
+a4488c1e6d9db9df,splash_goo_01_bc1.dds.header,Tiny_6,38881616,1520

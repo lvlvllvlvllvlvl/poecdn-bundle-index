@@ -1,9 +1,0 @@
-crystal
-crystal/marker
-crystal/tex_fx
-crystal/textures
-crystal/upgraded
-crystal_red
-crystal_red/marker
-crystal_red/tex_fx
-crystal_red/tex_mb

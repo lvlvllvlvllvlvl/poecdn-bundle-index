@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+72443d7067ce35b0,rubble_01_rgba_dxt5.dds,Art/particles/pom_cracks/rubble_01_2,0,1398276
+6e4b0665bd4674aa,rubble_01_rgba_dxt5.dds.header,Tiny_7,45906045,1520
+ec77af5cfb6e05e2,rubble_01_naog_dxt5.dds,Art/particles/pom_cracks/rubble_01_3,0,1398276
+8463b2077c12bc51,rubble_01_naog_dxt5.dds.header,Tiny_7,45904525,1520
+060ae54e1a65d677,rubble_01_hgt_uncompressed.dds,Art/particles/pom_cracks/rubble_01,174924,1398248
+51c8c1e2b489e965,rubble_01_hgt_uncompressed.dds.header,Tiny_7,45903005,1520
+f3208f1bef7cbc3c,rubble_01_hgt_dxt5.dds,Art/particles/pom_cracks/rubble_01_1,0,349700
+975540b871b63c6f,rubble_01_hgt_dxt5.dds.header,Tiny_7,45899965,1520
+e324d1e3b2a9f0d1,rubble_01_hgt_dxt1.dds,Art/particles/pom_cracks/rubble_01,0,174924
+db76f6ec7027a2e5,rubble_01_hgt_dxt1.dds.header,Tiny_7,45901485,1520
+3656183152ae2355,rubble_01_hgt_bc7.dds,Art/particles/pom_cracks/rubble_01_1,0,349700
+1eb84b79934aa41f,rubble_01_hgt_bc7.dds.header,Tiny_7,45899965,1520

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+21c8cbbe86188fe8,debuffctrls_totranslatelocal.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,3747860,58648
+657ea3e2eb7cc102,debuffctrls_tochannel.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,3573820,174040
+e6c70b4264f956e1,debuff_poisoned_mask.fxgraph,Content/metadata/effects/spells/monsters_effects/league_ultimatum/EBAF1B1A694F57C5.katar_crk_circle_ruin.pet,1354133,128152
+eebdcc9f5722ff9e,debuff_exposure.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,2783488,59662
+77b2289031e00cd1,debuff_armorbreak.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,3042262,136922
+846af6042023c7a0,debuff_armorbreak_sundered.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,3179184,136926
+8daa25fbf90885da,debuff_freezeparameters.fxgraph,Content/metadata/effects/microtransactions/spells/warbanner/FC60EA39982D2D13.start_midline.pet,2609068,26228
+bb3623e573cc66fc,debuff_freezecore.fxgraph,Content/metadata/effects/microtransactions/spells/warbanner/FC60EA39982D2D13.start_midline.pet,2497978,111090
+1f919f51f8597a64,debuff_freeze.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,2550334,190568
+117e5d4762af7ae1,debuff_shocked.fxgraph,Content/metadata/effects/microtransactions/spells/elemental_hit/08E5D14A74A66FA3.elehit_arrow_light.ao,2630035,128788
+5b153e158902f4d9,debuff_shocked_bronze.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,3445032,128788
+adfbe5f016538e22,debuff_shocked_purple.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,3316110,128922
+541db412c5bfec1d,debuff_chaosdot.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,2399216,151118
+8ccfb3d4db5bf166,debuff_chilled.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,2843150,98232

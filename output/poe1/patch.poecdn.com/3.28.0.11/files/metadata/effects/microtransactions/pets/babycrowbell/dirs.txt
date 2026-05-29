@@ -1,0 +1,9 @@
+epk
+fx
+mat
+mat/bellgroundtrail
+mat/debris_run
+mat/enrage_shout
+mat/feathers_drop
+mat/slam_round
+mat/soundwave

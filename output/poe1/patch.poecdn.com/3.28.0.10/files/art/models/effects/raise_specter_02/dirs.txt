@@ -1,4 +1,0 @@
-fireball
-specter
-specter/attached_trail
-summon

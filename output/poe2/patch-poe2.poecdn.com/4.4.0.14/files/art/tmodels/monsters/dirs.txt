@@ -1,2 +1,0 @@
-ghoulcommander
-ghoulcommander/textures

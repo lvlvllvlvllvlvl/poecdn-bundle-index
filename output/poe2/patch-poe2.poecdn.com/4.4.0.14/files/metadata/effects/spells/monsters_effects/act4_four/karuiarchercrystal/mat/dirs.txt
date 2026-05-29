@@ -1,8 +1,0 @@
-arrow_rain
-arrow_rain/burst
-charge_attack
-charge_attack/impact
-charge_attack/impact/aoe
-onact
-onact/arrow_rain
-onact/charge_attack

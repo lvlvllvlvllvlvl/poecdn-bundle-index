@@ -1,4 +1,0 @@
-attachments
-attachments/bracelet
-attachments/hair
-attachments/robe

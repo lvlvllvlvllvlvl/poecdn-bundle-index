@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+eb2b83fb2b6f4f61,lava_sparks.mat,Tiny.VF,10542857,2328
+9de78ccdeb482d21,cloud_black.mat,Tiny.VD,10362674,6314
+4b12cdd685b210f3,mask_dxt1.dds,Streaming/Content/metadata/items/armours/shields/7EE8C19C8B5584A7.pandemoniumshield.ao,135459,699212
+1267cdc48db9b988,mask_dxt1.dds.header,Tiny.VE,10462634,1520
+58f316e338615d21,drip_01_normal_dxt5.dds,Streaming/Content/metadata/items/armours/helmets/706386AE166B11F6.pandemoniumhooddexint.ao,546270,87556
+8913be8e0344329c,drip_01_normal_dxt5.dds.header,Tiny.V7,10405578,1520
+e2d0fe3a7c981bbd,drip_01_colour.mat,Tiny.V1,10322472,4302
+2fb7410e20b3bbfe,drip_01_colour_dxt5.dds,Streaming/Content/metadata/items/armours/helmets/706386AE166B11F6.pandemoniumhooddexint.ao,458714,87556
+7d7ebdb5abff0f5d,drip_01_colour_dxt5.dds.header,Tiny.VD,10368988,1520
+cfcdf11b03b9c157,spark2.mat,Tiny.V8,10317604,1634
+e43838ee9ecc3bf2,smoke_trail.mat,Tiny.V8,10315172,2432
+f206d7203013b700,smoke_01_bc1.dds,Streaming/Content/metadata/items/armours/shields/7EE8C19C8B5584A7.pandemoniumshield.ao,856691,11084
+e97f2f88b259334a,smoke_01_bc1.dds.header,Tiny.V9,10837136,1520
+b5ae53b9fdb349af,smoke_01.mat,Tiny.VC,10339075,3184
+37f6d7e18c34ad8d,smoke_01.dds,Streaming/Content/metadata/items/armours/shields/7EE8C19C8B5584A7.pandemoniumshield.ao,834671,22020
+02d09b81b1db4a78,smoke_01.dds.header,Tiny.V9,10835616,1520

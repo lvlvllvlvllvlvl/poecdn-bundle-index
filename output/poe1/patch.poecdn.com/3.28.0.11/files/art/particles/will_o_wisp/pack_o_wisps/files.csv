@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+dfc2a0109871cb5d,wisp_glow.mat,Tiny_7,59829271,1228
+35bbc45cce305e4f,wisp_glow.dds,Art/particles/will_o_wisp/pack_o_wisps,27656,22020
+3eac7e9045b85ce8,wisp_glow.dds.header,Tiny_7,59827751,1520
+dd6b724a3ee09a3a,wisp_dust.mat,Tiny_7,59826345,1406
+a8893ec2945a6797,wisp_dust.dds,Art/particles/will_o_wisp/pack_o_wisps,22020,5636
+3f7ec4077ba497d0,wisp_dust.dds.header,Tiny_7,59824825,1520
+2415eb78ed60d7d8,base.mat,Tiny_7,59823881,944
+7f08885d6a6a484b,base.dds,Art/particles/will_o_wisp/pack_o_wisps,0,22020
+118eabf3c2aedc4f,base.dds.header,Tiny_7,59822361,1520

@@ -1,0 +1,6 @@
+agility
+demolition
+gapcross
+perception
+strength
+trapdisarm

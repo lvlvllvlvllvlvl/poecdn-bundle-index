@@ -1,7 +1,0 @@
-charge
-charge/fire
-charge/physical
-explosion
-explosion/fire
-explosion/fire/explode2
-explosion/physical

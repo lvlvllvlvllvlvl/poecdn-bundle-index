@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+1e6d1fa75946824e,rig_2c951e1b.smd,Art/Models/Effects/enviro_effects/League_Bestiary/Tiger_Boss,1125160,64368
+519a35bdb1636f8f,rig_2c951e1b.smd.header,Tiny_1,87310700,368
+598254d4c0c2dacd,pulse_geo.fmt,Tiny_1,87305655,4029
+e2b5faf57a01191e,pulse_geo.fmt.header,Tiny_1,87309684,166
+0aa7f10b8f426732,player_transition.sm,Tiny_1,87304813,842
+9f9c648566aebcfd,player_transition.amd,Tiny_2,2297185,88
+bfc94064aa81c1aa,player_transition.ast,Art/Models/Effects/enviro_effects/League_Bestiary/Tiger_Boss,1074656,50504
+ffbd2ce0a4109dd9,lens_flare_geo.fmt,Tiny_1,87304341,303
+46ce13c0c54b08c3,lens_flare_geo.fmt.header,Tiny_1,87304644,169

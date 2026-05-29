@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+0bb2dcaeb353ff24,spark_tiledc.mat,Tiny_6,54810883,2912
+137bce7dda561069,spark_tiled.dds,Art/particles/monster_particles/act3,2601380,87556
+0bf9b678ff0c2f7a,spark_tiled.dds.header,Tiny_6,54809363,1520
+81cb5af59cfff822,runes.mat,Tiny_6,54807305,2058
+e6d73da71a9be7ab,runes.dds,Art/particles/monster_particles/act3,2688936,87556
+998145407c40cbe6,runes.dds.header,Tiny_6,54805785,1520
+0b2a6e462b0f66a6,light_middle_upc.mat,Tiny_6,54801187,2486
+99b5b5ef72ca5f08,light_middle_up.dds,Art/particles/monster_particles/act3,2251680,349700
+7b9d85136097fce8,light_middle_up.dds.header,Tiny_6,54799667,1520
+d76781312a742a15,lightning_shoot_flipbook.mat,Tiny_6,54803673,2112
+7ab4b5e47cbc8739,lightning_shoot_flipbook.dds,Art/particles/monster_particles/act3,853372,1398308
+720db4e4b9ee9329,lightning_shoot_flipbook.dds.header,Tiny_6,99503683,504

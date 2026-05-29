@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+3e6746a7dff6b295,impact_mblur_01_r.mat,Tiny.VD.1,5766430,10566
+6a2b3db6e249ca37,impact_ptemit_01_u.mat,Tiny.V5.1,5270036,2208
+ebfc5f7904f91ef6,impact_aoering_01_r1.mat,Tiny.V6.1,5230631,26552
+2dc17afd45cb6053,impact_aoering_01_u.mat,Tiny.V5.1,4576716,576
+ebec80e61d1d4855,impact_flash_01_r.mat,Tiny.VB.1,4766475,24102
+da36b2d5dc7b810e,impact_flash_01_u.mat,Tiny.V9.1,6284226,1456
+60acff00056abf40,impact_grainsburst_01_r.mat,Tiny.V9.1,6285682,28384
+8cfbaf6bc49ad0c8,impact_grainsburst_01_u.mat,Tiny.VA.1,6339888,9746
+23889a1856dd5195,impact_smokering_01_r.mat,Tiny.V0.1,5248854,20964
+23bdbccc56d03a57,impact_smokering_01_u.mat,Tiny.V5.1,5272244,12074
+d7d0c8c40609c772,impact_decal_01_r.mat,Tiny.VA.1,6312318,27570
+93eb12102d8dfd5d,impact_decal_02_r.mat,Tiny.VD.1,5738292,28138
+ac74bf02ceed458a,impact_decal_02_u.mat,Tiny.V1.1,4806360,2378
+c542c09d3e3a2e3f,impact_debris_01_r.mat,Tiny.V3.1,6063921,40648
+8294ff75e11cf1f5,impact_debris_01_u.mat,Tiny.V3.1,6104569,26740

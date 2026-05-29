@@ -1,7 +1,0 @@
-tents
-tents/tent01
-tents/tent02
-tents/tent03
-tents/tent04
-tents/tent05
-tgms

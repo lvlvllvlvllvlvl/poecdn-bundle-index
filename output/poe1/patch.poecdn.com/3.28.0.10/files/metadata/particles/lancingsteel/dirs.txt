@@ -1,3 +1,0 @@
-onact
-primary_projectile
-secondary_projectile

@@ -1,4 +1,0 @@
-onact
-onact/attack_spear
-onact/combo_spear_01
-onact/energy_spear_throw

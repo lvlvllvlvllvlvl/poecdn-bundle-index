@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+234d6a4a83d1eb50,crk.mat,Tiny_7,10612724,5312
+17e5b49ff5101b90,lightup.mat,Tiny_7,10621076,2432
+23e6dc4d62354e3a,melee_cleave_01.mat,Tiny_7,10623508,8200
+2500b863e266664f,rocks.mat,Tiny_7,10631708,3894
+5a6c6652e7c2083a,sparks.mat,Tiny_7,10635602,1502
+22026ef6a27f5445,debris_nmlao_dxt5.dds,Folders/art/particles/monster_particles/atlasexiles_11,109836,349700
+932331bd895b2217,debris_nmlao_dxt5.dds.header,Tiny_7,10619556,1520
+211a817ec87006bf,debris_clr_dxt5.dds,Art/particles/monster_particles/AtlasExiles_76,0,1398276
+1a1b5bb2ba6c4816,debris_clr_dxt5.dds.header,Tiny_7,10618036,1520
+399d52080e856114,blur_dust.mat,Tiny_7,10609124,3600
+c9c80f082fc93406,blur_dust_uncompressed.dds,Art/particles/steel_shard/shattered_weapons,0,87528
+f8130fcc0df7859f,blur_dust_uncompressed.dds.header,Tiny_7,59098470,1520
+b38eeaef5b357830,beyond_melee_demon_override.mat,Tiny_7,10601442,6162
+b9162cac857ed183,beyondmeleedemonb_glow_dxt5.dds,Folders/art/particles/monster_particles/league_hellscape_21,360859,87556
+c2c13803b180ddb0,beyondmeleedemonb_glow_dxt5.dds.header,Tiny_7,10607604,1520

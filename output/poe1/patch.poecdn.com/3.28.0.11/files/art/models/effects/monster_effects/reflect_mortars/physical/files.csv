@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+cbb33413f4733dd4,rig_4bf0f92b.smd,Art/Models/Effects/fire_mortar,0,20310
+f9abd9bad58c823e,rig_4bf0f92b.smd.header,Tiny_2,7738518,368
+d35423c5bc093086,rig.amd,Tiny_2,7735866,162
+67805e3c89f6c0e4,rig.ast,Tiny_2,7736028,2490
+c1a98e13f438b915,physmortar.sm,Tiny_2,6586493,1040
+e2249409010e0c7d,physmortarimpact.sm,Tiny_2,6588329,456
+544f51112fe46874,physmortarimpact.amd,Tiny_7,52703456,94
+e706d5d594ca4cf6,physmortarimpact.ast,Tiny_2,6587533,796
+018a963ed5ba0b32,impact_d96bbde1.smd,Art/Models/Effects/monster_effects/talisman/gore_mortar_1,0,10998
+b23cf4d5678f9b8b,impact_d96bbde1.smd.header,Tiny_2,7734328,368

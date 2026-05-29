@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+66416b3504a52c2e,glimmerwooddaggerc.mat,Tiny.V7.1,932470,8376
+f16fb31269f72678,glimmerwooddagger_metal_dxt5.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.A9DC977F365B5560.glimmerwooddagger.fmt,612368,174948
+499bdd916fbd8532,glimmerwooddagger_metal_dxt5.dds.header,Tiny.V4.1,934776,840
+884401d72d42af62,glimmerwooddagger_normal_dxt5.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.A9DC977F365B5560.glimmerwooddagger.fmt,787316,174948
+4912702804b3e8ba,glimmerwooddagger_normal_dxt5.dds.header,Tiny.V8.1,242476,840
+f6fe2f0df6e4b313,glimmerwooddagger_glow_dxt5.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.A9DC977F365B5560.glimmerwooddagger.fmt,437420,174948
+36631a7c6a07af83,glimmerwooddagger_glow_dxt5.dds.header,Tiny.V5.1,441310,840
+eba8442721b73ed2,glimmerwooddagger_colour_bc7.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.A9DC977F365B5560.glimmerwooddagger.fmt,262472,174948
+df7c1e8905ee5165,glimmerwooddagger_colour_bc7.dds.header,Tiny.V5.1,440470,840
+024757bd7cc4f37f,glimmerwooddagger_colour.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.A9DC977F365B5560.glimmerwooddagger.fmt,174924,87548
+bb61d363dc37ab77,glimmerwooddagger_colour.dds.header,Tiny.V8.1,241636,840

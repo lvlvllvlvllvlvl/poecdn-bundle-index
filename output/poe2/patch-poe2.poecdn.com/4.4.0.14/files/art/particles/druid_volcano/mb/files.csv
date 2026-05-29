@@ -1,7 +1,0 @@
-hash,file,bundle,offset,size
-e550ad0d0fcba91f,geovolcano_lod0.fmt,Streaming/Content/metadata/effects/spells/druid_volcano/volcanoobject.ao.2,0,114692
-578f779db797ac83,geovolcano_lod0.fmt.header,Tiny.VE,31875529,208
-f126723ff9c55ae2,volcanomeshes.amd,Tiny.VF,32413191,126
-4d2234925abebad2,volcanomeshes.ast,Tiny.V1,32082205,435
-c0dca0d0a82d6d3e,volcanodestructable.fmt,Streaming/Content/metadata/effects/spells/ascendancy_classes/577CCD3A3D357793.ABBF7EAF2F043B75.unamed_heartwood.epk,132952,306866
-8a5f78319b22f5e2,volcanodestructable.fmt.header,Tiny.V1,32081997,208

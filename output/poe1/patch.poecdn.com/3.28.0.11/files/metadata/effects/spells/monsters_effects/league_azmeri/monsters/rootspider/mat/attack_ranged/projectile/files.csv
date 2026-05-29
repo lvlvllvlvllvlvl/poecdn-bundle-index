@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+a78cc4ef396cf2a7,grenadeoil_r.mat,Tiny_D,335461285,12060
+5668f27db00572fe,grenadeoil_u.mat,Tiny_D,335473345,18840
+18000d556b8a1a62,dust_r.mat,Tiny_D,335446493,10482
+0a1a0eee3ef7a7ca,dust_u.mat,Tiny_D,335456975,4310
+6473c6844dfa430c,core_r.mat,Tiny_D,335436187,10306
+d7a92b4db0b2fa65,core_u.mat,Tiny_11,150820658,310
+6b73299a513624f4,bone_chunk_r.mat,Tiny_D,335427719,4486
+0b61322b08638828,bone_chunk_u.mat,Tiny_D,335432205,3982
+ff04d580ab5d6e04,blood_drops_r.mat,Tiny_D,335387155,13546
+2e8893f5655fbc3a,blood_drops_u.mat,Tiny_D,335400701,4340
+a8e34b5c1ec9ac4f,blood_directional2_r.mat,Tiny_D,335374805,10154
+df58b530b4678c58,blood_directional2_u.mat,Tiny_D,335384959,2196
+aaa5798ce82db2f1,bloodmist_r.mat,Tiny_D,335416759,8764
+5f39733cfe6f864d,bloodmist_u.mat,Tiny_D,335425523,2196
+ee01a6bef07f5d1a,bloodmist_02_r.mat,Tiny_D,335405041,9578
+bcba5e37358a6ec8,bloodmist_02_u.mat,Tiny_D,335414619,2140

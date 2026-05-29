@@ -1,5 +1,0 @@
-hair
-l_knee_attachment
-r_knee_attachment
-robe
-top

@@ -1,0 +1,6 @@
+attachments
+attachments/blueeyes
+attachments/blueeyes/hair
+attachments/blueeyes/skirt
+attachments/blueeyes/skirt/baubles
+textures

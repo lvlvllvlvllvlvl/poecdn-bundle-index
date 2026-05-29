@@ -1,5 +1,0 @@
-terrain
-terrain/maps
-terrain/templedungeon
-terrain/woods
-terrain/woods/tiles

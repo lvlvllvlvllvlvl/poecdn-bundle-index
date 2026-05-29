@@ -1,5 +1,0 @@
-belt
-belt/attachments
-cape
-hat
-lute

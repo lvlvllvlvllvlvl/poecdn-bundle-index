@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+e2ff81f26aca63d9,lightningbodycns.mat,Art/Textures/Monsters/watermonster/lightning,0,4590
+905685676730587a,lightningbody_colour.dds,Art/Textures/Monsters/watermonster/lightning,92146,349700
+f9151eefeb7d3306,lightningbody_colour.dds.header,Tiny_8,44794378,1520
+cb9f2f84c6856338,lightningbodyns.dds,Art/Textures/Monsters/watermonster/blood,349700,349700
+35b1d9ec7b9ae9a5,lightningbodyns.dds.header,Tiny_8,44801498,1520
+ec466e00c587d6da,lightningbodylimbscns.mat,Tiny_8,44797418,2560
+fcb8de575fb5e018,lightningbodylimbs_colour.dds,Art/Textures/Monsters/watermonster/lightning,4590,87556
+0d9215186b7b2409,lightningbodylimbs_colour.dds.header,Tiny_8,44795898,1520
+47ee86f74f7e4a47,lightningbodylimbsns.dds,Art/Textures/Monsters/watermonster/blood,786956,87556
+51b53a70a3d3c3eb,lightningbodylimbsns.dds.header,Tiny_8,44799978,1520

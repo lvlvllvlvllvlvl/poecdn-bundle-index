@@ -1,3 +1,0 @@
-attack_01
-flinch_01
-howl_01

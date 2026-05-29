@@ -1,6 +1,0 @@
-intrepidliegeapparition
-intrepidliegeapparition/animations
-intrepidliegeapparition/animations/smallapparition
-intrepidliegeapparition/animations/smallapparition/animations
-textures
-textures/fx

@@ -1,6 +1,0 @@
-boss_door
-death_shockwave
-seal_needle
-seal_needle/attachments
-seal_paper
-tgms

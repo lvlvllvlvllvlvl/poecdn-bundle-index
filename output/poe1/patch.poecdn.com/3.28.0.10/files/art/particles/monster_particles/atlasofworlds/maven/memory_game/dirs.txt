@@ -1,7 +1,0 @@
-mb
-mb/arena_platform
-mb/dmg_circle
-textures
-textures/arena_platform
-textures/debuff
-textures/dmg_circle

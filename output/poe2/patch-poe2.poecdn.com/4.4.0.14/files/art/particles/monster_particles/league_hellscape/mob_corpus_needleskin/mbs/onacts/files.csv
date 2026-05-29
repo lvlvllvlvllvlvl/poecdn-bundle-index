@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-8c3d5fcdc46bf94d,death_explode.amd,Tiny.V1,3444420,94
-668b4533badc8016,death_explode.ast,Tiny.V5,33943582,862
-69242df4ac332289,on_act_death.amd,Tiny.V4,36861535,94
-993b662652245cbe,on_act_death.ast,Tiny.V1,37388465,862
-97de4918f858227d,spline_03.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/B589B0D0925987C1.63C643ADED9B65E6.life_regen_buff.epk,293241,12004
-b1548e3979523395,spline_03.fmt.header,Tiny.V2,37434234,208
-18252357b7121cbd,spline_02.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/B589B0D0925987C1.63C643ADED9B65E6.life_regen_buff.epk,280687,12554
-a9a7bf45ffd96667,spline_02.fmt.header,Tiny.VE,37097471,208

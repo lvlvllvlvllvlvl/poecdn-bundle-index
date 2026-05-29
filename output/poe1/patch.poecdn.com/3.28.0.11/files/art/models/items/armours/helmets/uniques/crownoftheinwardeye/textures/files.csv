@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+163b3d0fd283a373,cotiec.mat,Tiny_2,48643749,4880
+b77e9161b03fa8c2,cotie_specular_dxt5.dds,Art/Models/Items/Armours/Helmets/Uniques_21,0,349700
+ab6d1f485ebdc9bc,cotie_specular_dxt5.dds.header,Tiny_2,48642229,1520
+fc9983ac7ed91a95,cotie_normal_dxt5.dds,Art/Models/Items/Armours/Helmets/Uniques_21,349700,349700
+11b38ec576b8365c,cotie_normal_dxt5.dds.header,Tiny_2,48640709,1520
+d8855351af42bd0d,cotie_glow_dxt5.dds,Folders/art/models/items/armours/helmets/uniques_6,0,349700
+62e1c6affdeaa9f4,cotie_glow_dxt5.dds.header,Tiny_2,48639189,1520
+2a2fb0cdc492e4fd,cotie_colour_dxt5.dds,Folders/art/models/items/armours/helmets/uniques_5,1181146,349700
+1ca583a3eab43a23,cotie_colour_dxt5.dds.header,Tiny_2,48637669,1520
+68446900df647543,cotie_colour_bc7.dds,Folders/art/models/items/armours/helmets/uniques_5,831446,349700
+74db4a41be6bdb02,cotie_colour_bc7.dds.header,Tiny_2,48637669,1520
+e023ecd66ccad55a,cotie_colour.dds,Folders/art/models/items/armours/helmets/uniques_5,656522,174924
+7b949bf8fc4617dd,cotie_colour.dds.header,Tiny_2,48636149,1520

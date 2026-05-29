@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+db260995df861ecb,vampiriccloakspecularc.mat,Tiny_8,16590251,2658
+8f48dde31a3de5ba,vampiriccloak_normal_dxt5.dds,Art/Textures/Items/armour/Capes/VampiricCloak,1048928,349700
+b2de58d34d58ef14,vampiriccloak_normal_dxt5.dds.header,Tiny_8,16588731,1520
+fe17b02c5556b08e,vampiriccloak_colourspecular_dxt5.dds,Art/Textures/Items/armour/Capes/VampiricCloak,349692,699236
+e66a447308a3ff88,vampiriccloak_colourspecular_dxt5.dds.header,Tiny_8,16587891,840
+398d953ec3ff0c50,vampiriccloak_colourspecular_bc7.dds,Art/Textures/Items/armour/Capes/VampiricCloak,349692,699236
+3541e83f141251eb,vampiriccloak_colourspecular_bc7.dds.header,Tiny_8,16587891,840
+afc566b0283bcf16,vampiriccloak_colourspecular.dds,Art/Textures/Items/armour/Capes/VampiricCloak,0,349692
+884fb5dc0564c01d,vampiriccloak_colourspecular.dds.header,Tiny_8,16587051,840

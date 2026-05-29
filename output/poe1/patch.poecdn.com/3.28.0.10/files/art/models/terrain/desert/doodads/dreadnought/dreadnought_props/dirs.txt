@@ -1,8 +1,0 @@
-animatedlever
-bodies
-bodies/chest_impaled
-bodies/core_impaled
-dreadropestand01
-fadudinropes02
-farudindecoprops05
-hangcoils

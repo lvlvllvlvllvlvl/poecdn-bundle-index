@@ -1,4 +1,0 @@
-vfx
-vfx/wheel_dust
-vfx/wheel_dust/ao
-vfx/wheel_dust/fx

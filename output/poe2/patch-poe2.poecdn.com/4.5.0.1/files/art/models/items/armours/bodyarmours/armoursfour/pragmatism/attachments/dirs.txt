@@ -1,0 +1,6 @@
+cape
+lelbowpadstrap
+robe
+robe/f
+robe/m
+robe/str

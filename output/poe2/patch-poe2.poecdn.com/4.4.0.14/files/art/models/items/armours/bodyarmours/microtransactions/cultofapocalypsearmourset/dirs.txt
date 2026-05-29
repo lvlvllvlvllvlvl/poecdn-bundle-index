@@ -1,7 +1,0 @@
-attachments
-attachments/cloth
-attachments/cloth/female
-attachments/cloth/male
-attachments/skirt
-attachments/skirt/female
-attachments/skirt/male

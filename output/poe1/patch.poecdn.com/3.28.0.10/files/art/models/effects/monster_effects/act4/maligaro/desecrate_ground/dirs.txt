@@ -1,5 +1,0 @@
-corpse
-ground
-ground/ground_01
-ground/ground_02
-ground/ground_03

@@ -1,0 +1,3 @@
+hit_lightning
+ignite
+shock

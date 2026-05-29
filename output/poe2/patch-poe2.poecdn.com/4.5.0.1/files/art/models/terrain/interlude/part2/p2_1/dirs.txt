@@ -1,0 +1,16 @@
+crucibleanvil
+crucibleanvil/textures
+textures
+textures/architecture
+textures/checkpoint
+textures/doodads
+textures/doodads/pots
+textures/doodads/statues
+textures/dunes
+textures/edge
+textures/ground
+textures/hives
+textures/hives/bee
+textures/rocks
+textures/titanvalley
+tgms

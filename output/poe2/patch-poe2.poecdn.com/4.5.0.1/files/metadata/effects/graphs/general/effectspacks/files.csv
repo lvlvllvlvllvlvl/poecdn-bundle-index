@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+f6ba193c3039a63d,epkscalarchannel.fxgraph,Content/metadata/effects/spells/monsters_effects/62FC26811D4AC82B.vineattach.ao,2385909,165028
+5b225a7d9d37da9c,data_inheritnormals.fxgraph,Shared,2692651,17804
+9832c613a0580c5c,data_inheritoriginalalpha.fxgraph,Shared,2710455,5532
+3c6f35f0533ea7f8,data_inheritoriginalmaterial.fxgraph,Content/metadata/effects/environment/gallows/act2/5AD57943B7A7D28F.sand_ground_mesh_small.ao,5926099,34456
+93fb7bcc0d4bddad,animation_epktime.fxgraph,Content/metadata/effects/spells/bow_spiralvolley/epks/arrowvisibility.epk,910261,10908
+40b2254bc731bf51,animation_starttime.fxgraph,Shared,2460439,33090
+7058a8d08e9e9556,animation_animationdata.fxgraph,Content/metadata/effects/microtransactions/gloves/archnemesishightemplarhands/ABBF7EAF2F043B75.tier_corruption.epk,5015334,17544
+1192508f81ae1a0d,animation_dynamictime.fxgraph,Content/metadata/monsters/karuichieftain/karuicaptainbossmap.ot.1,1172636,10876
+6b936f3d9410303a,animation_resources.fxgraph,Content/metadata/effects/spells/cold_frostbomb/frostbomb.ao,3108196,22710
+6ae508df8a6ccf54,animation_timeline.fxgraph,Shared,2493529,22194
+b5af98e6d2e9e0a5,animation_tochannel.fxgraph,Shared,2515723,176928
+6721746c3c352a2f,animation_tovtxmask.fxgraph,Content/metadata/effects/microtransactions/town_portals/justiceportal/A2423F3D01E7A113.portal_idle_tmline.pet,519903,25838

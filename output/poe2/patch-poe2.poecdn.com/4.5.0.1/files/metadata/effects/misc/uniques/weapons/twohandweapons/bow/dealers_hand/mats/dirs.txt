@@ -1,0 +1,7 @@
+blast
+bowfx
+ignite
+projectile
+projectile_blast
+projectile_charge
+projectile_surge

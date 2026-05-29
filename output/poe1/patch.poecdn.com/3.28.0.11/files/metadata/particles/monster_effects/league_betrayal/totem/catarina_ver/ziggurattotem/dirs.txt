@@ -1,0 +1,6 @@
+cast
+death
+emerge
+flinch
+idle
+submerge

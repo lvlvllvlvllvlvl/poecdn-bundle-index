@@ -1,4 +1,0 @@
-elbowcloth_l
-elbowcloth_r
-robe
-skirt

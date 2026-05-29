@@ -1,3 +1,0 @@
-cascade
-explosion
-physical

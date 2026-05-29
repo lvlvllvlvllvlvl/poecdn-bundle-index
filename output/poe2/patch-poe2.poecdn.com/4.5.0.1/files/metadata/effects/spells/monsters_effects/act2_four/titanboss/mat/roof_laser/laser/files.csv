@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+789bcf01ab0c1189,smoke_wave_r.mat,Tiny.V3.1,88676619,31182
+55af3b46d8188083,smoke_wave_u.mat,Tiny.V0.1,89518938,3448
+c2090444cf47b1a1,rock_debris_r.mat,Tiny.V2.1,90852610,15188
+e324e4e28fa16b2e,rock_debris_u.mat,Tiny.V0.1,89496262,22676
+81e5c4f3a944c810,zoom_distort_r.mat,Tiny.V0.1,89522386,8720
+57d3f30b8e486969,zoom_distort_u.mat,Tiny.VE.1,19928816,3748
+34b060fc283c36a6,glow_r.mat,Tiny.V5.1,89518266,21692
+079386b5669d1292,glow_u.mat,Tiny.VC.1,137461103,1104
+a91239799ec332d4,glow_energy_r.mat,Tiny.V4.1,89105508,21690
+279ffb9877a1b45d,dirt_r.mat,Tiny.VA.1,88710426,34864
+caea5bd9dec26501,dirt_u.mat,Tiny.V7.1,87554038,5654
+78869875bbafebc3,dirsparks_r.mat,Tiny.VE.1,89431968,18526
+42984c781c1260b7,dirsparks_u.mat,Tiny.V2.1,90604164,7586
+c40661d6efbee72e,onact_flames_u.mat,Tiny.V3.1,88672097,4522
+079f922bb0dfc733,onact_flames_r.mat,Tiny.V1.1,88223200,30534

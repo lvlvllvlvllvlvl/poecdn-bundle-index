@@ -1,0 +1,4 @@
+spidermonkeyred
+spidermonkeyred/fur
+spidermonkeyyellow
+spidermonkeyyellow/fur

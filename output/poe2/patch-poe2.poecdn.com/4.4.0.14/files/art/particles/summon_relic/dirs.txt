@@ -1,3 +1,0 @@
-holy_relic
-holy_relic/healing_buff
-holy_relic/nova

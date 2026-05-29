@@ -1,5 +1,0 @@
-animations
-attachments
-attachments/hair
-attachments/waistclothtassels
-textures

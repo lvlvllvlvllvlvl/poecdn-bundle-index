@@ -1,6 +1,0 @@
-ancestraleffects
-ancestraleffects/pet
-baseeffects
-baseeffects/pet
-liteeffects
-liteeffects/pet

@@ -1,0 +1,4 @@
+textures
+textures/pillar
+textures/quadrillablackhairremake
+textures/quadrillawhairremake

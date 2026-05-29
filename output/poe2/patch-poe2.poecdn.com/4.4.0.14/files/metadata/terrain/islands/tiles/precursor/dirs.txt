@@ -1,9 +1,0 @@
-abyss
-entranceisland
-features
-features/forge
-ledge
-lowwall
-thickwall
-thickwall/animatedblockage
-thickwall/traintunneldoor

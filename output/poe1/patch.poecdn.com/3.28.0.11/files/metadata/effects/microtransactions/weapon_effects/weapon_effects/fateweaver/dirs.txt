@@ -1,0 +1,9 @@
+fxgraph
+pet
+pet/axemace
+pet/bow
+pet/dwc
+pet/shield
+pet/staff
+pet/sword
+trl

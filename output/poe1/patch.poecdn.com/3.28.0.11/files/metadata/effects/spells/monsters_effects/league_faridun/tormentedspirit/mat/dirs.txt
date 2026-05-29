@@ -1,0 +1,8 @@
+chains_orb
+ondeath
+possessed
+sand_streaks
+sml_smothering
+smothering
+tormented
+tormented_hit

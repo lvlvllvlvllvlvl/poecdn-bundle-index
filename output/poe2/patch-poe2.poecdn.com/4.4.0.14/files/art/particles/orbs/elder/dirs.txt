@@ -1,4 +1,0 @@
-dex
-int
-sipho
-str

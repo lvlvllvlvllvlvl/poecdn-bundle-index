@@ -1,0 +1,4 @@
+bipedlarge
+bipedmedium
+bipedsmall
+onerig

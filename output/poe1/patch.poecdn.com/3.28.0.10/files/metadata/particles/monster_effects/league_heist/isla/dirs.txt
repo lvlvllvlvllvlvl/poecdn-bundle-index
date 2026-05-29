@@ -1,3 +1,0 @@
-bridge_bomb
-mortar
-mortar_impact

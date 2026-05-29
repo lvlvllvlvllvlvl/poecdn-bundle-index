@@ -1,6 +1,0 @@
-staff
-staff/spirit_possessed_01
-staff/spirit_possessed_02
-thaumaturgyscientistaxe
-unarmed
-wand_unarmed

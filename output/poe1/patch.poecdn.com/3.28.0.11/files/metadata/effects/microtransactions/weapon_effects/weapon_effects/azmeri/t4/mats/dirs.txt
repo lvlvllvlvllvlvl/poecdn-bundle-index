@@ -1,0 +1,15 @@
+axe1h
+axe2h
+bow
+hit
+mace1h
+mace2h
+sceptre
+shared
+shield
+stave
+sword1h
+sword2h
+talisman
+trail
+wand

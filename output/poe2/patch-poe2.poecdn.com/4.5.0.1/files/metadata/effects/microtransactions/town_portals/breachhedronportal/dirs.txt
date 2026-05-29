@@ -1,0 +1,15 @@
+epk
+epk/portal_summon
+fx
+fx/portal_summon
+graph
+mat
+mat/close
+mat/core
+mat/disintegrate
+mat/idle
+mat/line_flamespew
+mat/open_burst
+mat/open_core
+mat/open_root
+mat/portal_summon

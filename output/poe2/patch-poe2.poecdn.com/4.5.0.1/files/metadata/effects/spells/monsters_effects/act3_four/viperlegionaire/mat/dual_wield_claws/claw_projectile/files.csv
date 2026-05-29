@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+5a813b08ad29eae1,claw_trl_main.mat,Tiny.V1.1,99146066,19732
+e47c8a219debbe61,claw_trl_blur.mat,Tiny.V3.1,98759603,14746
+290c50c98e1e4fb2,claw_trl_add.mat,Tiny.VC.1,101839537,20046
+932f436e98c2568c,blur_sphere_r.mat,Tiny.V0.1,99772878,10690
+a086a6655f7ed9ea,burst_embers_r.mat,Tiny.V8.1,99830360,31544
+75fa4108dc2b46f0,burst_embers_u.mat,Tiny.VF.1,96012982,20580
+9f7072ecc808abdd,pt_u.mat,Tiny.VE.1,12556962,310
+0803e4183d7df63f,power_impact_splash_r.mat,Tiny.V9.1,102794156,47860
+a99097bd0f1e39e5,power_impact_splash_u.mat,Tiny.VE.1,12556962,310
+555fcbf6f5d251f8,power_impact_shimmer_r.mat,Tiny.V2.1,101490262,29630
+7a4c1bb088225320,power_impact_shimmer_u.mat,Tiny.VE.1,12556962,310
+f872f9c7165b6bb1,mf_burststeam_r.mat,Tiny.V1.1,99165798,30768
+27791dd129159993,mf_burststeam_u.mat,Tiny.VE.1,99432056,12920

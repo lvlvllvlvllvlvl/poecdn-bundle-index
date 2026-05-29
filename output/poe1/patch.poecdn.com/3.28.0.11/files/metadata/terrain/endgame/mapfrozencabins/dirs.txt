@@ -1,0 +1,8 @@
+graphs
+objects
+rooms
+rooms/cabins
+rooms/crossing
+rooms/ice
+rooms/river
+rooms/unique

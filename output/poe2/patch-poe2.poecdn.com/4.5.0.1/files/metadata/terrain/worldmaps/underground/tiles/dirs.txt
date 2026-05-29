@@ -1,0 +1,10 @@
+feature
+foundry
+graveyard
+grimgraveyard
+grimtangle
+manor
+mudburrow
+passage
+vaaldungeon
+void

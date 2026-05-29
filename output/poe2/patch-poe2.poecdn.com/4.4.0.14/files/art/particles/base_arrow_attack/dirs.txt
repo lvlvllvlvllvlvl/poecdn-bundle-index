@@ -1,2 +1,0 @@
-fx
-fx/arrow_shatter

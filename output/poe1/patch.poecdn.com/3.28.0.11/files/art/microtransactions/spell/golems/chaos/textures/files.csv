@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+ac1cb3288e2ebc1a,spark2_clean.mat,Tiny_1,48937266,1058
+a6383f79f8b503a5,spark2_clean.dds,Tiny_6,21530436,516
+b5dec8d63556db16,spark2_clean.dds.header,Tiny_6,21530952,1520
+b5cabd311de43ce0,smoke_02.mat,Tiny_1,49090921,2306
+45da41a352b3a729,smoke_02.dds,Folders/art/particles/monster_particles/act9_1,1149268,43876
+b2e5c51cd7063f6f,smoke_02.dds.header,Tiny_6,68411893,840
+1af7b8cd05479a9c,light_gradient.mat,Tiny_1,48935478,1788
+888c300ed00ab185,light_gradient.dds,Art/Microtransactions/spell/golems,350280,22020
+efad107b6f68fb7d,light_gradient.dds.header,Tiny_7,49437291,1520
+6f85bb685a5246b1,circle.mat,Tiny_1,49086247,2734
+ef79a1636129f5e7,circle.dds,Art/Microtransactions/spell/golems,262724,87556
+dc80865388f04ab8,circle.dds.header,Tiny_1,48933958,1520
+93076ceb05bf7334,bloodmist.mat,Tiny_1,48931116,2842
+c638257e7aa51742,bloodmist.dds,Art/Microtransactions/spell/golems,175168,87556
+e3dbeb63c27f46cb,bloodmist.dds.header,Tiny_1,48929596,1520

@@ -1,0 +1,11 @@
+textures
+textures/architecture
+textures/cliffs
+textures/edges
+textures/ground
+textures/shrines
+textures/stalagmites
+textures/titanerosionassets
+textures/titangrotto
+textures/titanvalleyworshippers
+tgms

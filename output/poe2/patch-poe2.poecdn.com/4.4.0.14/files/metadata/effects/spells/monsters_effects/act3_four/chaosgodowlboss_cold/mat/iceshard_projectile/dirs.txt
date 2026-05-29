@@ -1,2 +1,0 @@
-grd_impact
-midair_impact

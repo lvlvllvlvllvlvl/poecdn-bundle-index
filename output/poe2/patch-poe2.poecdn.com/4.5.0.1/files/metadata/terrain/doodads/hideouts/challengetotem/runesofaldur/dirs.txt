@@ -1,0 +1,8 @@
+banner
+banner/attachments
+challengeplinth
+challengeplinth/fx
+challengeplinth/mat
+flagpole
+statue
+totems

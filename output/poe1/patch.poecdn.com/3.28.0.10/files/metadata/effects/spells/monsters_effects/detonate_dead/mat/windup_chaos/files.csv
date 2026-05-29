@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-7a3fb435b2c331cb,windup_epk_pass.mat,Tiny_D,174801902,14676
-9e2dc8ddf7e28c69,mblur_sphere_r.mat,Tiny_D,175057120,11560
-51ac1ae15ba8ff90,mblur_sphere_u.mat,Tiny_11,86642861,310
-bc19c34b2e0199e9,lightbeams_r.mat,Tiny_D,174819530,36928
-94321701771a97b1,lightbeams_u.mat,Tiny_D,175050558,6562
-82f6ce8c8c2dd700,heat_shimmer_r.mat,Tiny_D,174996236,15268
-7c93612054b8ed3c,heat_shimmer_u.mat,Tiny_D,174816578,2952

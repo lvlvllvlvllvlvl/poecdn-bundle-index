@@ -1,0 +1,8 @@
+textures
+textures/architecture
+textures/foliage
+textures/ground
+textures/pirateship
+textures/wallvertexpaint
+textures/woodkit
+tgms

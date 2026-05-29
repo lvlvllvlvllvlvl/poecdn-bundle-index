@@ -1,4 +1,0 @@
-fx
-graphs
-mat
-mat/bone_shrapnel

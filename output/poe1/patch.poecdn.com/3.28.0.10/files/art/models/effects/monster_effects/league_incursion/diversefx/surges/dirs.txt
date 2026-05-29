@@ -1,6 +1,0 @@
-general
-special
-special/chaos
-special/fire
-special/lightning
-special/physical

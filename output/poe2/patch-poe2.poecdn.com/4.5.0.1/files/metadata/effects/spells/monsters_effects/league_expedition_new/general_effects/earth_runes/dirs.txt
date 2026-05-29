@@ -1,0 +1,7 @@
+fx
+mat
+mat/chargeup
+mat/impact
+mat/rock_emerge
+mat/rock_emerge_idle
+mat/rock_idle

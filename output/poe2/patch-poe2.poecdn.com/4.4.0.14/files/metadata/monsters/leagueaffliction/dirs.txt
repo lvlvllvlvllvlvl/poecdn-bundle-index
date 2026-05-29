@@ -1,6 +1,0 @@
-demons
-demons/finalbossdeathzones
-doodaddaemons
-minions
-minions/journeysend
-tangmazu

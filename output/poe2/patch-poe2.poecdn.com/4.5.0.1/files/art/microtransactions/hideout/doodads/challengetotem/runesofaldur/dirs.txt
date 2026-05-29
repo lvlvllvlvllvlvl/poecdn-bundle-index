@@ -1,0 +1,7 @@
+banner
+banner/attachments
+banner/attachments/chains
+flagpole
+plinth
+textures
+tri

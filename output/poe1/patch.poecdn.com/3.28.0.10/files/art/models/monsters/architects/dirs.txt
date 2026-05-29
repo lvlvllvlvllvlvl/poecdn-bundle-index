@@ -1,6 +1,0 @@
-headdress01
-headdress02
-headdress03
-headdress04
-headdress05
-headdress06

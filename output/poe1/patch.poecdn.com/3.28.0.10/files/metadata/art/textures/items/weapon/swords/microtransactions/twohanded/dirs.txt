@@ -1,6 +1,0 @@
-illusionistsword
-sentinelsword
-thaumaturgyscientistsword
-thaumaturgyscientistsword/fx
-twilightnightfallsword
-twilightnightfallsword/fx

@@ -1,5 +1,0 @@
-fx
-mat
-mat/donut
-mat/nova
-mat/surge

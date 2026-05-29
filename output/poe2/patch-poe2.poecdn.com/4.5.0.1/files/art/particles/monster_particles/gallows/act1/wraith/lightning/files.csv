@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+26af77369ecc0f07,grad.mat,Tiny.VB,39049678,1070
+395914130234a485,edge_lightning.mat,Tiny.V7,38626060,2334
+7d1e0b2f8a10cce5,lightning_trail_at.mat,Tiny.VB,39050748,7084
+ce00bd644ed51347,light_grad.mat,Tiny.V5,38230410,1480
+0bf4149c326a4c0a,thin_lightning.mat,Tiny.VF,38707122,9954
+921dbe6a5ccae239,trail_mult.mat,Tiny.V7,38628394,1508
+87220491942dbcac,trail_add.mat,Tiny.V0,38948876,1484

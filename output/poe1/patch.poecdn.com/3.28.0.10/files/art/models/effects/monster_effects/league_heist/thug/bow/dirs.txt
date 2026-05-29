@@ -1,7 +1,0 @@
-arrow
-burning_arrow
-burning_arrow_impact
-exploding_arrow_impact
-onact
-onact/barrage_01
-shotgun

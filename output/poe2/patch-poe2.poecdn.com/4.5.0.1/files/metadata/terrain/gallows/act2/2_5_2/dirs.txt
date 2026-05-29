@@ -1,0 +1,8 @@
+graphs
+objects
+rooms
+rooms/bonepassage
+rooms/bossleadup
+rooms/fills
+rooms/overlays
+rooms/unique

@@ -1,0 +1,5 @@
+emerge_01
+idle_01
+portal_idle_01
+portal_open_01
+shatter_01

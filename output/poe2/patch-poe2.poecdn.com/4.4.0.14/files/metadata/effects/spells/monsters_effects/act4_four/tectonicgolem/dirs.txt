@@ -1,3 +1,0 @@
-mat
-mat/impact_big_fire
-mat/impact_melee_fire

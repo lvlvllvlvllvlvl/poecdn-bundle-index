@@ -1,9 +1,0 @@
-basematerial
-coreobject
-debuff
-meteor
-minions
-miscdoodads
-phys_demon
-physboss
-split

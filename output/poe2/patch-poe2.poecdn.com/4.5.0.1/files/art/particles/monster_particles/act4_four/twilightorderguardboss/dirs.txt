@@ -1,0 +1,10 @@
+mb
+mb/axechannel
+mb/axechannelidle
+mb/axethrow
+mb/debuffwall
+mb/debuffwall/wall_01
+mb/debuffwall/wall_02
+mb/rockthrow
+mb/sigil
+tex

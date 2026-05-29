@@ -1,0 +1,4 @@
+animations
+animations/sanctumboss
+gargoylegolem01_wings
+gargoylegolem02_wings

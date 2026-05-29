@@ -1,0 +1,6 @@
+attachments
+attachments/elbowcloth
+attachments/robe
+attachments/robe/female
+attachments/robe/male
+textures

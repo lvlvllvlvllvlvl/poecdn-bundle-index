@@ -1,0 +1,4 @@
+dark_hideout
+frontier_wild
+frontier_wrangler
+hideout_map_device

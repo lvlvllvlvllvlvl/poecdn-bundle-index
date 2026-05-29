@@ -1,0 +1,5 @@
+celestial
+celestial/pet
+celestial/pet/extra_impacts
+celestial/pet/main_impact
+celestial/pet/projectile

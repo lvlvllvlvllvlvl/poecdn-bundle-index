@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+356aaa61f1db5723,orb_01_curvaturec.mat,Tiny_D,244270912,35286
+2b17d326e74e7ca8,core_glow_r.mat,Tiny_D,244236884,34028
+947c9cb29d65f805,core_glow_u.mat,Tiny_D,487161220,774
+2e7d5bef8d5dd5f6,core_energy_01_u.mat,Tiny_D,244233840,3044
+203269123751bffc,core_energy_01_r.mat,Tiny_D,244115346,45376
+73236a3f8114d7b6,core_energy_01_r1.mat,Tiny_D,244160722,27010
+d9ce53ef42f96823,core_energy_01_r2.mat,Tiny_D,244187732,46108
+6f6337fa510a39d8,abyssorb_gatherribbon_01_r.mat,Tiny_D,244007738,82464
+08409fad2d255e61,abyssorb_gatherribbon_01_u.mat,Tiny_D,244090202,25144
+a66a7a70a480332b,abyssorb_baseorb_01_r.mat,Tiny_D,243957984,46728
+6d735d4d866b30c3,abyssorb_baseorb_01_u.mat,Tiny_D,244004712,3026
+257b95eec8a5a4c5,abyssorb_baseblur_01_r.mat,Tiny_D,243946086,11898
+ebc1ab09e83f67a2,abyssorb_baseblur_01_u.mat,Tiny_11,96737702,576

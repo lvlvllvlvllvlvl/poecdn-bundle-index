@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+8b342fccd5df8747,whitemask_dxt5.dds,Folders/art/textures/misc/F/nodegraph,1398276,349700
+02d7fc743be4132a,whitemask_dxt5.dds.header,Tiny_8,28195046,1520
+5bc331a119a8bafa,dust_fill_dxt5.dds,Art/Textures/Misc/DustShader,699400,349700
+da2c1022a53509a9,dust_fill_dxt5.dds.header,Tiny_8,28193526,1520
+f706b063bff09c69,dust_cloudy_normal_dxt5.dds,Art/Textures/Misc/DustShader,349700,349700
+8fb2ffc161b06f1d,dust_cloudy_normal_dxt5.dds.header,Tiny_8,28192006,1520
+6f90414f140ec552,dust_cloudy_dxt5.dds,Art/Textures/Misc/DustShader,0,349700
+5cfafeebf57665a5,dust_cloudy_dxt5.dds.header,Tiny_8,28190486,1520
+956f1ffd2c581019,blackmask_dxt5.dds,Art/Textures/Misc/DustShader_1,0,349700
+f24d5d037d88bacc,blackmask_dxt5.dds.header,Tiny_8,28188966,1520

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+31d92a570519a694,zoom_distort_2_r.mat,Tiny_D,460866984,11364
+92fcf74019cc0f15,zoom_distort_2_u.mat,Tiny_D,490226482,902
+c1b8c9ed662538cc,muzzle_ember_r.mat,Tiny_D,460837620,29364
+cf31d424a0b2813b,muzzle_cone_charge_r2.mat,Tiny_D,460809062,25262
+d2826cbe5acbc1e4,muzzle_cone_u.mat,Tiny_D,460834324,3296
+5c8f5a01e31ba774,mblur_sphere_r.mat,Tiny_D,460795398,13664
+d07c141f9fd460a0,mblur_sphere_u.mat,Tiny_D,462314330,866
+bd97a224dc74a3af,kickup_smoke_r.mat,Tiny_D,463980306,35298
+593efb36e41502d4,kickup_smoke_u.mat,Tiny_D,460775366,20032
+b7bda0906830853b,fireballlaoe_embers_u.mat,Tiny_D,460728722,25798
+fd0a373cd1cc8877,flare_glow_r.mat,Tiny_D,460754520,15058
+035fdc856f85a4b6,flare_glow_u.mat,Tiny_D,460769578,5788
+7b92a1a28966c231,burst_debris_r.mat,Tiny_D,462142218,31066
+52df4f5d55cb5e07,burst_debris_u.mat,Tiny_D,460706830,21892
+871052fcf7da9014,blur_shockwave_sphere_r.mat,Tiny_D,462128950,10540
+ace3cd469a789832,blur_shockwave_sphere_u.mat,Tiny_D,460704106,2724

@@ -1,0 +1,7 @@
+animation
+animation/archnemesis
+silkhead
+vaalspidergodbubbles
+vaalspidergodlegs
+vaalspidergodlegs/animation
+vaalspidergodlegs/animation/archnemesis

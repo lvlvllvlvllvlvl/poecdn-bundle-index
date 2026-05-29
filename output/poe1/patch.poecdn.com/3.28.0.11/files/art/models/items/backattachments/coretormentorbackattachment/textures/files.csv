@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+f1e38b5e1d72ede9,coretormentorbackattachc.mat,Tiny_2,54001556,6028
+221f55159f59f1b7,coretormentorbackattach_normal_dxt5.dds,Art/Models/Items/BackAttachments/CoreTormentorBackattachment/textures_1,0,1398276
+57a6210f90b27184,coretormentorbackattach_normal_dxt5.dds.header,Tiny_2,54000036,1520
+dd09a7e37670eef2,coretormentorbackattach_mask_dxt5.dds,Art/Models/Items/BackAttachments/CoreTormentorBackattachment/textures,0,1398276
+72e4ac100c674160,coretormentorbackattach_mask_dxt5.dds.header,Tiny_2,53998516,1520
+a8cc385027a2671a,coretormentorbackattach_colour_dxt5.dds,Art/Models/Items/BackAttachments/CoreTormentorBackattachment/textures_2,0,1398276
+0b31a41db514b6d1,coretormentorbackattach_colour_dxt5.dds.header,Tiny_2,53996996,1520

@@ -1,7 +1,0 @@
-area1
-area1/tgms
-kitava_caldera
-kitava_caldera/tgms
-ravenous_hideout
-ravenous_hideout/tgms
-tgms

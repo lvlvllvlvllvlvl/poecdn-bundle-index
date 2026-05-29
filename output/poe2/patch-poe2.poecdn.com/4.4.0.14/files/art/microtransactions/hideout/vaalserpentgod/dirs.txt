@@ -1,5 +1,0 @@
-mb
-mb/blood_grd
-mb/disc
-mb/release
-tex

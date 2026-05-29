@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+f1a880c9e0252d91,grd_decal_r.mat,Tiny.VF.1,139034646,42310
+b22f679a2c028d3b,grd_decal_u.mat,Tiny.V5.1,140526800,1478
+5c940e8bbf1b3419,ground_ice_r.mat,Tiny.V8.1,142005578,75700
+99ff68ea14480d20,ground_ice_u.mat,Tiny.V7.1,5387450,576
+67a891d40343b2e6,ground_debris_r.mat,Tiny.V8.1,141839494,20022
+b1d71f0221e06007,ground_debris_u.mat,Tiny.V2.1,143355128,17206
+f9eb423185a5af17,center_flash_r.mat,Tiny.V9.1,142941946,7888
+4d4f8dbcbf48c502,center_flash_u.mat,Tiny.VD.1,5332868,346
+f93d4d34d0466dad,shadowwave_r.mat,Tiny.V1.1,141953396,66878
+94767bd92a3b6efb,shadowwave_u.mat,Tiny.VB.1,142966291,2172
+d646ee692ba61ebf,shadowwave_blur_r.mat,Tiny.VA.1,142347498,52300
+ea7f9bb58fda12c9,energy_sparkles_r.mat,Tiny.VE.1,140068050,27112
+fff548e6f0810fff,energy_sparkles_u.mat,Tiny.V7.1,139162762,26114

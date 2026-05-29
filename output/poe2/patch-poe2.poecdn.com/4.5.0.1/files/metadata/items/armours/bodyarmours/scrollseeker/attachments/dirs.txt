@@ -1,0 +1,5 @@
+shawls
+shawls/t2
+skirts
+skirts/t2
+sleeves

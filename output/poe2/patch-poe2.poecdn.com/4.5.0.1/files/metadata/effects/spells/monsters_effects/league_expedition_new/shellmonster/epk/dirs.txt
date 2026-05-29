@@ -1,0 +1,4 @@
+onact
+onact/death_glow
+onact/sanctum_slam
+onact/sanctum_spellcast

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+1aafabcaa97825ad,cutoutc.mat,Tiny_6,119842577,1592
+4be34b9b58817da3,cutout.dds,Tiny_8,36372866,332
+dd89cde080e8b62d,cutout.dds.header,Tiny_8,36373198,1520
+02880f3b89e333cb,craterc.mat,Tiny_6,119831761,2974
+22bca9013dad1949,crateropaquec.mat,Tiny_6,119834735,2542
+e8baba4185075d41,crater_normalaorough_dxt5.dds,Art/particles/monster_particles/League_Expedition_22,0,1398276
+f0d590b625dfd94d,crater_normalaorough_dxt5.dds.header,Tiny_6,119830241,1520
+d7fe9dd5c44e0197,crater_colour_dxt1.dds,Art/particles/monster_particles/League_Expedition_21,0,699212
+6e62eff57afa776d,crater_colour_dxt1.dds.header,Tiny_6,119828721,1520
+da41b388904cacc5,craterrubblec.mat,Tiny_6,119840317,2260
+cc41cd75acb70134,craterrubble_normal_dxt5.dds,Art/particles/monster_particles/League_Expedition_20,0,1398276
+e7b8a6cfa24f2212,craterrubble_normal_dxt5.dds.header,Tiny_6,119838797,1520
+dd3083d25541bf6c,craterrubble_colour_dxt1.dds,Art/particles/monster_particles/League_Expedition_19,35825,699212
+9cdebb42054a74e8,craterrubble_colour_dxt1.dds.header,Tiny_6,119837277,1520

@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+7868a60d34b1b907,tile_dxt5.dds,Art/Textures/Items/armour/body/Microtransactions/Havenwood_12,0,22020
+e65abe8f331d4d04,tile_dxt5.dds.header,Tiny_8,7655658,1520
+138e3bae66583632,leaves.mat,Art/Microtransactions/BodyArmours/Wings,415596,5516
+d029b4e7cbc5d89d,leaves_dxt5.dds,Art/Microtransactions/BodyArmours/Wings,65896,349700
+d7f6359df81e3e87,leaves_dxt5.dds.header,Tiny_1,19094139,1520
+325f42c4d6c67b97,lava_dots.mat,Tiny_1,19092359,1780
+d3180bffc53f9f7a,lava_dots_dxt4.dds,Art/Microtransactions/pet/HavenwoodDeer,0,349700
+33b341225b07e040,lava_dots_dxt4.dds.header,Tiny_1,69077570,1520

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+c02062b7d2f23478,heartcns.mat,Tiny.VC,42430314,3482
+a4fcee80bbb2ac15,heartns.dds,Streaming/Content/metadata/terrain/doodads/act4/BA5456FD1AEC008E.belly_veins.ao.1,0,1398276
+1f0c8df4165c14b0,heartns.dds.header,Tiny.VC,42433796,1520
+03b61ed7a3b93f73,heart_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act4/BA5456FD1AEC008E.belly_veins.ao,2097488,1398276
+8f3a898c46331afa,heart_normal_dxt5.dds.header,Tiny.V7,42035652,1520
+9fa88593dcf5408c,heart_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/act4/BA5456FD1AEC008E.belly_veins.ao,699212,1398276
+8924cee27d54a4cd,heart_colour_bc7.dds.header,Tiny.VD,42236946,1520
+4a6cba0c7b5ae313,heart_colour.dds,Streaming/Content/metadata/terrain/doodads/act4/BA5456FD1AEC008E.belly_veins.ao,0,699212
+fcc772c82afbc24a,heart_colour.dds.header,Tiny.V5,41578439,1520

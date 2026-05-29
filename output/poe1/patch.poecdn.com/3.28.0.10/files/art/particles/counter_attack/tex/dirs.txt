@@ -1,4 +1,0 @@
-dual_swords
-shield
-spell
-warcry

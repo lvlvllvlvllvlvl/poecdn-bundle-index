@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+c6e8f89d0950a220,demonphysicalc.mat,Tiny.V9,39527430,10052
+4db2acb9a400647b,demonphysical_refr_dxt1.dds,Streaming/Content/metadata/monsters/leaguedelirium/demons/deliriumdemonphysical.ao.2,0,2796364
+4f61ce7058016fb6,demonphysical_refr_dxt1.dds.header,Tiny.V1,38786981,1520
+52d9993910bcd41c,demonphysical_eyemask_bc7.dds,Streaming/Content/metadata/monsters/leaguedelirium/demons/deliriumdemonphysical.ao.1,0,5592580
+e48dec2846db0cb3,demonphysical_eyemask_bc7.dds.header,Tiny.V7,38899307,1520
+17101f15ed7c47ea,demonphysical_eyemask_dxt1.dds,Streaming/Content/metadata/monsters/leaguedelirium/demons/deliriumdemonphysical.ao.1,5592580,2796364
+3e2d1362dcc1893c,demonphysical_eyemask_dxt1.dds.header,Tiny.V6,39005662,1520
+35c48af1cb10f0c4,demonphysical_sss_dxt5.dds,Streaming/Content/metadata/monsters/leaguedelirium/demons/deliriumdemonphysical.ao.3,0,5592580
+3d47eaa64f2f5389,demonphysical_sss_dxt5.dds.header,Tiny.V4,39106486,1520
+1531632d147ed3ab,demonphysical_normal_dxt5.dds,Streaming/Content/metadata/monsters/leaguedelirium/demons/deliriumdemonphysical.ao.1,8388944,5592580
+468688b453783191,demonphysical_normal_dxt5.dds.header,Tiny.V0,39208965,1520
+44c5eb2c5c2f3a7a,demonphysical_colour_dxt1.dds,Streaming/Content/metadata/monsters/leaguedelirium/demons/deliriumdemonphysical.ao,294761,2796364
+bdf2dc8957c0ece5,demonphysical_colour_dxt1.dds.header,Tiny.VC,39172462,1520

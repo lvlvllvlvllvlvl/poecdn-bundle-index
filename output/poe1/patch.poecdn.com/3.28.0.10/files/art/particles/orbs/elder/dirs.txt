@@ -1,5 +1,0 @@
-dex
-instability
-int
-sipho
-str

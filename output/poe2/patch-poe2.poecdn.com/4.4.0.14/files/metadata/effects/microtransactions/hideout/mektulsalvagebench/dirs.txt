@@ -1,6 +1,0 @@
-epk
-fx
-graphs
-mats
-mats/anvil
-mats/anvil_sml

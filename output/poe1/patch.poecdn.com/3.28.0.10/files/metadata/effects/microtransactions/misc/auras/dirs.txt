@@ -1,3 +1,0 @@
-damageaura
-hpdegen_aura
-paleconcilunique_aura

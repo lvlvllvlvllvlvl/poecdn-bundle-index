@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+5fd51d8e70af7012,tenc.mat,Art/Textures/Monsters/PlagueMorphs,918512,4740
+b1aa5bc9d71a164b,ten2_sss_dxt1.dds,Art/Textures/Monsters/PlagueMorphs,874660,43852
+e86581033cfb000a,ten2_sss_dxt1.dds.header,Tiny_8,41495032,1520
+bf3d420a6ae55b6d,ten2_normal_dxt5.dds,Art/Textures/Monsters/PlagueMorphs,524960,349700
+67aa80b2dc9ded8f,ten2_normal_dxt5.dds.header,Tiny_8,41493512,1520
+7b37acef72b5260d,ten2_colour_dxt1.dds,Art/Textures/Monsters/PlagueMorphs,481108,43852
+2cc79e449032cfeb,ten2_colour_dxt1.dds.header,Tiny_8,41491992,1520
+ed7812d362582e6f,plaguemorphs04c.mat,Tiny_8,41488334,3658
+5846219a142c5bac,plaguemorphs04_sss_dxt1.dds,Art/Textures/Monsters/PlagueMorphs,437256,43852
+765f091adb06e1aa,plaguemorphs04_sss_dxt1.dds.header,Tiny_8,41486814,1520
+84f23eec834bb66b,plaguemorphs04_normal_dxt5.dds,Art/Textures/Monsters/PlagueMorphs,87556,349700
+05f35c0b287ee116,plaguemorphs04_normal_dxt5.dds.header,Tiny_8,41485294,1520
+f328e481e0a6d880,plaguemorphs04_colour_dxt5.dds,Art/Textures/Monsters/PlagueMorphs,0,87556
+d1533049292ff962,plaguemorphs04_colour_dxt5.dds.header,Tiny_8,41483774,1520

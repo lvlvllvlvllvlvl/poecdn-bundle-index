@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+1820c1a685eda7ef,stalker_dxt1.dds,Art/Textures/Items/armour/body/Microtransactions/wings_64,0,699212
+4d00607c3a8173ce,stalker_dxt1.dds.header,Tiny_8,13273334,1520
+59273f2bcaa73def,specular_add_dxt1.dds,Art/Textures/Items/armour/body/Microtransactions/wings_64,699212,174924
+6f080bd37bf9a553,specular_add_dxt1.dds.header,Tiny_8,13271814,1520
+b0d5d044b5c790e5,glow_mask_dxt1.dds,Art/Textures/Items/armour/body/Microtransactions/wings_64,874136,174924
+9ca87b19c2f4a1f6,glow_mask_dxt1.dds.header,Tiny_8,13270294,1520
+2570a2f0e8cc4b6b,glow_mask2_dxt1.dds,Art/Textures/Items/armour/body/Microtransactions/wings_54,1398268,174924
+67798407c390eb17,glow_mask2_dxt1.dds.header,Tiny_8,13268774,1520

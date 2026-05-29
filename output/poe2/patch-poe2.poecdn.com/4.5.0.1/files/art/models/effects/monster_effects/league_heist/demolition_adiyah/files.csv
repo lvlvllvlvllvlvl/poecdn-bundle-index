@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+f1dbabd4275ebc45,mortar_0bfe94ee.smd,Streaming/Content/metadata/projectiles/undyingmortarimpact.ot,1275712,91490
+ef15b11b9f83cf29,mortar_0bfe94ee.smd.header,Tiny.V0,7788355,368
+1f07221e07936df5,bomb.sm,Tiny.VA,7705065,558
+fb3814c2573949b0,bomb.amd,Tiny.V1,3663036,94
+efd6c7ac1a8b63a2,bomb.ast,Tiny.V2,7845115,1218
+0dddbb76ae4491e1,explode.amd,Tiny.V1,3663036,94
+f3b135456b306012,explode.ast,Tiny.VA,7705623,2706
+879037e871305caa,flamewall.sm,Tiny.V8,7523330,544
+c916b774b257ed64,firewall.fmt,Streaming/Content/metadata/particles/monster_effects/league_heist/C0F3AB82217886BF.1AD66E846AC937ED.cleave_lightning_hit.pet,454580,12065
+9dfce56d0cc481ef,firewall.fmt.header,Tiny.VB,7615910,208
+9c51552a131aa494,rig_d16f1328.smd,Streaming/Content/metadata/effects/spells/monsters_effects/ADA130A68CBC8D87.4B1DEEDD8D867711.loop_trail.trl,361326,11352
+d28adccdf8a28e73,rig_d16f1328.smd.header,Tiny.V0,7788723,368
+41b7284e46465391,rig.amd,Tiny.V4,40094731,212
+c7785c99f6508723,rig.ast,Tiny.VF,7645668,1286

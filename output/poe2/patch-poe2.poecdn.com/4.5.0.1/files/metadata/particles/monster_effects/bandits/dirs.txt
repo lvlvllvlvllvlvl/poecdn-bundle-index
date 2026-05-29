@@ -1,0 +1,3 @@
+bandit
+bandit/powershot_verdant
+banditlord

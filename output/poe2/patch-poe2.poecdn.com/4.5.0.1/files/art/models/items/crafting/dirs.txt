@@ -1,0 +1,7 @@
+verisium
+verisium/1x1
+verisium/2x2
+verisium/2x3
+verisium/2x4armour
+verisium/2x4weapon
+verisium/textures

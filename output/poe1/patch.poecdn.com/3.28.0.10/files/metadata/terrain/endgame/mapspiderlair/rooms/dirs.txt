@@ -1,8 +1,0 @@
-ruinedtemple
-ruinedtemple/1x1
-ruinedtemple/2x2
-spidergrove
-spidergrove/1x1
-spidergrove/1x2
-spidergrove/2x2
-unique

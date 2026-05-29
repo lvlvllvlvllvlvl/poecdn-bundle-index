@@ -1,0 +1,8 @@
+attachments
+attachments/female
+attachments/female/shawl
+attachments/female/skirt
+attachments/male
+attachments/male/shawl
+attachments/male/skirt
+textures

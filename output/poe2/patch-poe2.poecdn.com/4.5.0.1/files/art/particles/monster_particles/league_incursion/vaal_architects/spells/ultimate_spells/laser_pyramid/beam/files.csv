@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+93819ab3271c9e02,beam.dds,Streaming/Content/metadata/effects/spells/monsters_effects/542F56B5A086A78E.60DD77FDA617813E.bu_fwdline.pet,378833,5668
+43ffe38d0a77bb02,beam.dds.header,Tiny.V7,40034261,504
+b71d3f4e0ec9ce34,droplet_norm.dds,Streaming/Content/metadata/particles/monster_effects/4B65F28733215CAC.explode_decal.pet,1400228,87556
+aaeabe4a66d5f714,droplet_norm.dds.header,Tiny.VA,40276931,1520
+6ba830f663518fd9,droplet_col.dds,Streaming/Content/metadata/particles/monster_effects/4B65F28733215CAC.explode_decal.pet,1312672,87556
+e53ff01700624728,droplet_col.dds.header,Tiny.V3,39409997,1520

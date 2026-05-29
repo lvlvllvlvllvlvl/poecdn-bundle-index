@@ -1,3 +1,0 @@
-mb
-mb/projectile_01
-mb/projectile_01/animations

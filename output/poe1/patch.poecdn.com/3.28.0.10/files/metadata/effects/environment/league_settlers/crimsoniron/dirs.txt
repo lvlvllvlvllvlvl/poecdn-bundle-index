@@ -1,7 +1,0 @@
-epk
-fx
-graph
-mat
-mat/idle
-mat/node_alive
-mat/small_growth

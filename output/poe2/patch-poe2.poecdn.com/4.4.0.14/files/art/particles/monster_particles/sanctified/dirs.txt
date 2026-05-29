@@ -1,9 +1,0 @@
-sanctifiedmonstrosity
-sanctifiedmonstrosity/mb
-sanctifiedmonstrosity/mb/projectile_01
-sanctifiedmonstrosity/mb/projectile_01/animations
-sanctifiedspider
-sanctifiedtentacle
-sanctifiedtentacle/mb
-sanctifiedtentacle/mb/projectile
-sanctifiedtentacle/mb/projectile/animations

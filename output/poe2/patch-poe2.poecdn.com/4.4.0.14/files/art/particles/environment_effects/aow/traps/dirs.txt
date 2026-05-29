@@ -1,3 +1,0 @@
-arc_trap
-arc_trap/beam
-hotplate_steam

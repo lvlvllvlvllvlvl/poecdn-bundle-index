@@ -1,0 +1,8 @@
+decorrope
+headbrush
+lsleeve
+necklace
+rsleeve
+skull
+skull/attachment
+skull/attachment/jaw

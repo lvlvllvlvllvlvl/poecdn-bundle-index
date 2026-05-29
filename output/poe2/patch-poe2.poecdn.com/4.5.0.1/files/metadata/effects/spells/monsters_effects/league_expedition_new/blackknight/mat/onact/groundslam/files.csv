@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+bb2fb87e79cec33a,vn_shimmerwave_01_r2.mat,Tiny.VD.1,143152458,24104
+6c79a29196b37f4e,sword_energy_r.mat,Tiny.V1.1,145004472,49196
+a85b15fb37fed826,sword_energy_u.mat,Tiny.VB.1,80988275,1104
+abf62f9489f8c0ae,sword_mblur_r.mat,Tiny.V6.1,144152445,36776
+25312bdec9304325,sword_mesh_r.mat,Tiny.V9.1,145614348,68080
+2e66ff4995d66e48,sword_mesh_u.mat,Tiny.VD.1,5332868,346
+4719d94cf0f31c08,flare_shockwave_r.mat,Tiny.V1.1,144943460,61012
+849b04eebc128393,flare_shockwave_blur_r.mat,Tiny.VF.1,141524170,43614
+5439fb70c9a2551a,pixiedust_r.mat,Tiny.VE.1,142838620,20934
+26da3104b802d530,pixiedust_u.mat,Tiny.VF.1,141567784,32530
+4b1a45819ee6d847,pntemit_u.mat,Tiny.VF.1,204139134,2402
+f72ef1b2eae20d44,pntemit_forcegrd_u2.mat,Tiny.V6.1,144150043,2402

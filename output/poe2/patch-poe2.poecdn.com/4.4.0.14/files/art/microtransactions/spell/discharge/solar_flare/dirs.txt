@@ -1,8 +1,0 @@
-flame
-flame/shockwave
-ice
-ice/particles
-ice/shockwave
-lightning
-lightning/particles
-lightning/shockwave

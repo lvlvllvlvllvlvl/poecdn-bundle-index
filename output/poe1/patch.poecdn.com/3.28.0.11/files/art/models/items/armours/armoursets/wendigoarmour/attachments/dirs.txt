@@ -1,0 +1,13 @@
+bootsrope
+braidsgreen
+glovesdangles
+hairgreen
+hairred
+skirts
+skirts/dex
+skirts/dexint
+skirts/int
+skirts/str
+skirts/strdex
+skirts/strdexint
+skirts/strint

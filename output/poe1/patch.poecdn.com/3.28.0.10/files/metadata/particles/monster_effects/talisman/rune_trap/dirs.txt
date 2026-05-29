@@ -1,4 +1,0 @@
-blue
-blue/explode
-explode
-red

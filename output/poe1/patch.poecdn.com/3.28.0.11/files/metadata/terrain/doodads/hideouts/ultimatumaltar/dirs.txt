@@ -1,0 +1,9 @@
+fx
+fx/ao
+fx/epk
+fx/graph
+fx/mat
+fx/mat/chaos_orb
+fx/mat/idle
+fx/mat/vaal_orb
+fx/pet

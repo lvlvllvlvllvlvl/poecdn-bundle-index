@@ -1,8 +1,0 @@
-hud
-hud/consolenew
-hud/coop
-hud/flasks
-hud/gamepad
-hud/kbm
-hud/kbm/tencent
-hud/new

@@ -1,0 +1,4 @@
+impact
+lightningrod
+onact
+salvo

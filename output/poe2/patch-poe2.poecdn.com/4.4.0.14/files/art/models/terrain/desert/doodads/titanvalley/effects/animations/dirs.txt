@@ -1,3 +1,0 @@
-switch01
-switch02
-switch03

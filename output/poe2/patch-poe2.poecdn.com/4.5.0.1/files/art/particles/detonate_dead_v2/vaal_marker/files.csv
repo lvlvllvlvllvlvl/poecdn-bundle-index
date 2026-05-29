@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+d1bf783e92c03342,alpha_basec.mat,Tiny.VB,34673232,2734
+717f6a808ccd958b,alpha_base.dds,Streaming/Content/metadata/effects/spells/detonate_dead_v2/EFA7965F7E2C7E68.vaal_marker.ao,50919,87556
+79edad1cff22dcad,alpha_base.dds.header,Tiny.V7,34534694,1520
+bc899dce25642ca7,meshexportc.mat,Tiny.V6,34551376,1036
+0e803c5b74cdeef1,meshexport.dds.header,Tiny.V7,37834975,1520
+8ddb7fb19616c283,soulcns.mat,Tiny.VC,34897053,5878
+f7321bc48a4366af,soulns.dds,Streaming/Content/metadata/effects/spells/detonate_dead_v2/EFA7965F7E2C7E68.vaal_marker.ao,226031,349700
+989fb0f1119ec064,soulns.dds.header,Tiny.VE,34932281,1520
+04625f85454558e9,soul_colour.dds,Streaming/Content/metadata/effects/spells/detonate_dead_v2/EFA7965F7E2C7E68.vaal_marker.ao,138475,87556
+74c4299e68a9aad6,soul_colour.dds.header,Tiny.VB,35748817,1520
+6d4759153f13d882,skullns.dds,Streaming/Content/metadata/particles/detonate_dead_v2/blastfire.pet,1054226,87556
+af015adb432b4be1,skullns.dds.header,Tiny.VC,40361517,1520
+59a3421915a82688,skull_colour.mat,Tiny.V9,35023483,3290
+e81100c149ed36d5,skull_colour.dds,Streaming/Content/metadata/particles/detonate_dead_v2/blastfire.pet,966670,87556
+c04ed30dc6ac700c,skull_colour.dds.header,Tiny.VD,40270834,1520

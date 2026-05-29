@@ -1,4 +1,0 @@
-cage
-slam
-slam/impact
-spike

@@ -1,3 +1,0 @@
-onact
-onact/attack_01_02
-onact/tentacle_pull_start_01

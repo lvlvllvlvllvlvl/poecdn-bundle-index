@@ -1,8 +1,0 @@
-animations
-attachments
-attachments/cape
-attachments/hair
-attachments/metalrobe
-attachments/robe
-attachments/weapons
-textures

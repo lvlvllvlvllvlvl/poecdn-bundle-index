@@ -1,8 +1,0 @@
-axechannel
-axechannelidle
-axethrow
-debuffwall
-debuffwall/wall_01
-debuffwall/wall_02
-rockthrow
-sigil

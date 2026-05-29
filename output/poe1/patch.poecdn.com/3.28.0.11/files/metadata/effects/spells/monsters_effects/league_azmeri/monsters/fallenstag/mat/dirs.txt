@@ -1,0 +1,5 @@
+charge_01
+detonate
+detonate/explode_01
+detonate/runes
+tentacle_vomit_01

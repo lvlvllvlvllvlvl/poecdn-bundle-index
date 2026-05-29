@@ -1,6 +1,0 @@
-fx
-graph
-mat
-mat/leap_slam
-mat/slam
-mat/slam/demonic

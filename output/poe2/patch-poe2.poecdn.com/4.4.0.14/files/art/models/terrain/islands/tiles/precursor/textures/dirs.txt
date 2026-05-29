@@ -1,6 +1,0 @@
-architecture
-decals
-ground
-monsterparts
-murals
-rubble

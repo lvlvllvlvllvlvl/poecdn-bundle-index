@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8db5beccc9c314ce,spark.mat,Tiny_1,35105101,968
+cc21956d8b342eb2,spark_dxt5.dds,Tiny_8,30195436,1540
+46a13ea8568b6bfb,spark_dxt5.dds.header,Tiny_8,30196976,1520
+5a8138ef754ec35a,leaves.mat,Tiny_1,35101301,3800
+a5f68905a7efcad9,leaves_dxt5.dds,Folders/art/microtransactions/town_portal/havenwood,568664,349700
+ec50d5971710ab11,leaves_dxt5.dds.header,Tiny_1,69084086,1520
+bc004f83d86428e9,lava_dots.mat,Tiny_1,35099605,1696
+02254ca974d96372,lava_dots_dxt4.dds,Art/Microtransactions/pet/HavenwoodDeer,0,349700
+e9eac832b6a96aff,lava_dots_dxt4.dds.header,Tiny_1,69077570,1520
+be316b69144ed1e6,gold_wisp.mat,Tiny_1,35097803,1802
+18334d006905f1f4,gold_wisp_dxt5.dds,Folders/art/particles/environment_effects/chest_2,1789956,22020
+029540f995906fc7,gold_wisp_dxt5.dds.header,Tiny_6,28884716,1520
+4c4141242d187562,energy_trail_at.mat,Tiny_1,35095083,2720
+b6232a37343616f8,energy_trail_at_dxt5.dds,Art/Microtransactions/Character_FX/Soulbonded,564636,349700
+bdd62e134c963264,energy_trail_at_dxt5.dds.header,Tiny_1,69072254,1520

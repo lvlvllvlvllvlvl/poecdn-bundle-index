@@ -1,5 +1,0 @@
-aoe_impact
-flames
-monster_hit
-rectangle_impact
-wave

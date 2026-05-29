@@ -1,6 +1,0 @@
-pool
-pool/purple
-pool/red
-projectile
-projectile/purple
-projectile/red

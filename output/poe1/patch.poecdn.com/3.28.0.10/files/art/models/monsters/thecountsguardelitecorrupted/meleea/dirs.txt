@@ -1,6 +1,0 @@
-attachments
-attachments/armtentacles
-attachments/bodyfabric
-attachments/bootdanglers
-attachments/headtentacles
-attachments/skirt

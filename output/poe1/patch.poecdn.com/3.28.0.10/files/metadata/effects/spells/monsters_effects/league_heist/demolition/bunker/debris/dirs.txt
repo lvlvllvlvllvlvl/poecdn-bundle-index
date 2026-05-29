@@ -1,5 +1,0 @@
-graphs
-pet
-pet/l
-pet/m
-pet/s

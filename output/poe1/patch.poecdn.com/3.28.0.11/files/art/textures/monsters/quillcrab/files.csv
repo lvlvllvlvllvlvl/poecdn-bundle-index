@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+98c03d9ffc356b64,quillcrabc.mat,Tiny_8,41583644,3118
+ee89863fb6b0a207,quillcrab_sss_dxt5.dds,Art/Textures/Monsters/QuillCrab_1,699212,1398276
+8cd6896f45b1c750,quillcrab_sss_dxt5.dds.header,Tiny_8,41582124,1520
+90a45ad16eeadb35,quillcrab_normal_dxt5.dds,Art/Textures/Monsters/QuillCrab,0,1398276
+2b41c047488c2c21,quillcrab_normal_dxt5.dds.header,Tiny_8,41580604,1520
+48ba5dad2702388d,quillcrab_colourspecular_dxt5.dds,Art/Textures/Monsters/QuillCrab_2,0,2796388
+66dd4cec4adf761a,quillcrab_colourspecular_dxt5.dds.header,Tiny_8,41579764,840
+0c7b300446d035e5,quillcrab_colour.dds,Art/Textures/Monsters/QuillCrab_1,0,699212
+1eefc33581136b39,quillcrab_colour.dds.header,Tiny_8,41578244,1520

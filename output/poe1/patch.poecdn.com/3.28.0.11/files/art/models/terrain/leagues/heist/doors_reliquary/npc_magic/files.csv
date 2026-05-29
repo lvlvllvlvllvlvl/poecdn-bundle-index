@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+db5a6f1b91c856d2,magicdoor_rig_c7e17fea.smd,Art/Models/Terrain/Leagues/Heist/Doors_Reliquary,0,228020
+178bf56392f55c57,magicdoor_rig_c7e17fea.smd.header,Tiny_5,61192012,405
+0fd013b4f0e51828,magicdoor_rig.amd,Tiny_5,61188636,150
+f403b28036a599c5,magicdoor_rig.ast,Tiny_5,61188786,3226
+8177886a08d7280f,heistmagicdoor_01_npcmagicdoor.fmt,Tiny_7,19668252,43
+abae23f533d3bd37,heistmagicdoor_01_npcmagicdoor.fmt.header,Tiny_7,56868231,128
+17ebb66574002163,heistmagicdoor_01_eventdrivenblocker.fmt,Art/Models/Terrain/Leagues/Heist/Doors_Reliquary_2,993327,848239
+ce628eeaad0e9321,heistmagicdoor_01_eventdrivenblocker.fmt.header,Tiny_5,61187230,1406
+1345ff81e28c4695,heistmagicdoor_01.sm,Tiny_5,61184853,472
+ddc52ccab628f753,heistmagicdoor_01.tgt,Tiny_5,61185325,920
+39cce1a90e404329,heistmagicdoor_01.tmd,Tiny_5,61186245,985

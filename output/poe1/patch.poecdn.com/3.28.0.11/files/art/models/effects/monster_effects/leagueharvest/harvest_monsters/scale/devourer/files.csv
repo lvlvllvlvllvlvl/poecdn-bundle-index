@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+507bd0f369ed734e,seedvolatiles.sm,Tiny_2,6063454,622
+d3d24c2d76d3c1b4,root.fmt,Folders/art/models/effects/monster_effects/leagueharvest/harvest_monsters,1213920,30249
+594416b65dca7ed3,root.fmt.header,Tiny_2,6063282,172
+9eca85c46c27fdac,ring2_nds.fmt,Art/Models/Effects/conduit_sigil/fire/projectile_meteor,14773,204589
+9f705c5efd6cd28b,ring2_nds.fmt.header,Tiny_2,6063108,174
+2694ae1bf2bb11ad,rig_8fe2d7ce.smd,Folders/art/models/effects/monster_effects/leagueharvest/harvest_monsters,1193644,20276
+65ba2efc9eaa12c9,rig_8fe2d7ce.smd.header,Tiny_2,6062740,368
+3c5e9e386e683c5b,rig.amd,Tiny_2,6062446,294
+e5e122e98f33c568,rig.ast,Folders/art/models/effects/monster_effects/leagueharvest/harvest_monsters,1187843,5801
+27256bb4430c5e19,impact.amd,Tiny_7,52703456,94
+225d5629c98237c2,impact.ast,Tiny_2,7975537,854
+1d44664679a24547,emerge.amd,Tiny_2,6061498,94
+6c92ba4b4a60f475,emerge.ast,Tiny_2,6061592,854
+3e7876a55346308e,dig.amd,Tiny_6,46749495,92
+5009ea76338f383b,dig.ast,Tiny_2,6060644,854

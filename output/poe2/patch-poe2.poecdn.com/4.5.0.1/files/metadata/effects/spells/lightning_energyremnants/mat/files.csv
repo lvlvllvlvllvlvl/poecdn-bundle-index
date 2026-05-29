@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+b428bd7fe21ed656,collect_flash.mat,Tiny.V0.1,77121576,15080
+8dfeca0de3905800,collect_trail.mat,Tiny.V6.1,77267931,25482
+8f7f86c2f204eaee,end_flash_r.mat,Tiny.V2.1,78332100,14010
+a7c844cd02403825,end_flash_u.mat,Tiny.VE.1,12556962,310
+31aec206e3fd53c9,remnant_core_r.mat,Tiny.V2.1,78346110,29422
+365cfadab5b1691e,remnant_core_u.mat,Tiny.VF.1,13350220,540
+eb98d3be566d5520,remnant_shimmer_end_r.mat,Tiny.V5.1,76390000,28168
+268a352eef3d9768,remnant_shimmer_r.mat,Tiny.V3.1,76661101,27664
+b84ee705df270a16,remnant_pulse_end_r.mat,Tiny.VF.1,74403562,29322
+864a90e999353dac,remnant_pulse_u.mat,Tiny.VE.1,12556962,310
+1b478f251773a4d9,remnant_pulse_r.mat,Tiny.V1.1,75682078,28818

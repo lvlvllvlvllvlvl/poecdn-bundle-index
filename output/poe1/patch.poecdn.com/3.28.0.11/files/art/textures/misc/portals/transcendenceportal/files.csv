@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+51a60a510fa6a176,transcendenceportalc.mat,Tiny_8,31217382,3616
+c2a565f2c037eecf,transcendenceportal_normal_dxt5.dds,Art/Textures/Misc/portals/TranscendencePortal_1,0,1398276
+ce5447c729d3f416,transcendenceportal_normal_dxt5.dds.header,Tiny_8,31215862,1520
+9fa4bf7bfbfeb052,transcendenceportal_colour_dxt5.dds,Art/Textures/Misc/portals/TranscendencePortal,0,1398276
+bd53a8d00705ecd3,transcendenceportal_colour_dxt5.dds.header,Tiny_8,31214342,1520
+429389011cebcf0a,transcendenceportal_colour_bc7.dds,Art/Textures/Misc/portals/TranscendencePortal,0,1398276
+1af3621f5fef1a8e,transcendenceportal_colour_bc7.dds.header,Tiny_8,31214342,1520
+c0b0e887cc7a17b8,transcendenceportal_colour.dds,Art/Textures/Misc/portals/TranscendencePortal/fx_1,0,699212
+784310bce8babacc,transcendenceportal_colour.dds.header,Tiny_8,31212822,1520

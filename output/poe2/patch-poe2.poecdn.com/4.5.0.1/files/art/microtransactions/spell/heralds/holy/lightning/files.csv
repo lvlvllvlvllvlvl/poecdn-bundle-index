@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+604fd27b4e77a823,notbright_runec.mat,Tiny.V7,5228732,3022
+60326a484c40a50f,notbright_rune.dds,Streaming/Content/metadata/effects/microtransactions/spells/0EB7D72D609B77CB.81A8F18428AC8E8A.lightning_herald_active.epk,437256,349700
+50b29e635f0abb13,notbright_rune.dds.header,Tiny.VC,5190127,1520
+586af22c8bd975e8,bright_runec.mat,Tiny.V1,5270856,2560
+5e29bdbafbcc9fbc,bright_rune.dds,Streaming/Content/metadata/effects/microtransactions/spells/0EB7D72D609B77CB.81A8F18428AC8E8A.lightning_herald_active.epk,0,349700
+3d9b6c5987874b7d,bright_rune.dds.header,Tiny.VF,5233357,1520
+0d750d069ed6b2f6,player_idle_98d8323c.smd,Streaming/Content/metadata/effects/microtransactions/spells/0EB7D72D609B77CB.81A8F18428AC8E8A.lightning_herald_active.epk,786956,10330
+c9aad141120553bb,player_idle_98d8323c.smd.header,Tiny.VC,5191647,368
+2deee8036a2cc0a0,light_beam_04c.mat,Tiny.VE,5285022,2840
+de5055dcc0f8e658,light_beam_04.dds,Streaming/Content/metadata/effects/microtransactions/spells/0EB7D72D609B77CB.81A8F18428AC8E8A.lightning_herald_active.epk,349700,87556
+c3e36474da5dea3f,light_beam_04.dds.header,Tiny.V4,5409191,1520
+4d195676df644ee4,lightholy_herald_idle.sm,Tiny.V3,5226062,692
+49ecb190e2325ed3,lightholy_herald_idle.amd,Tiny.VB,4349787,96
+6fe5e3cf13b9b238,lightholy_herald_idle.ast,Tiny.V3,7256762,3029

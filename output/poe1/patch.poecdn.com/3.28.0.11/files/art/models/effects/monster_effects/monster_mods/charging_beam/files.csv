@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+aaf94ebc7391e045,lightning_3f3f44b5.smd,Art/Models/Effects/monster_effects/act4/PuiTotem,0,14400
+58aec50ea20cf665,lightning_3f3f44b5.smd.header,Tiny_7,21126213,368
+439aaf72800348ca,ice_3f3f44b5.smd,Art/Models/Effects/monster_effects/act4/PuiTotem,0,14400
+07ba27a9bb06d214,ice_3f3f44b5.smd.header,Tiny_7,21126213,368
+bd1ae197751bc3c0,fire_3f3f44b5.smd,Art/Models/Effects/monster_effects/act4/PuiTotem,0,14400
+12c3e40c377be663,fire_3f3f44b5.smd.header,Tiny_7,21126213,368
+df2bf09514b99ede,chargingbeam_lightning.sm,Tiny_2,6371423,1076
+5ad879f5116d4516,chargingbeam_lightning.amd,Tiny_2,6368005,198
+a030f6d09b4079a9,chargingbeam_lightning.ast,Tiny_2,6368203,1178
+ee1cdde427a55434,chargingbeam_ice.sm,Tiny_2,6370407,1016
+66e9958cec309c5e,chargingbeam_ice.amd,Tiny_2,6368005,198
+8b915f191d48a2f8,chargingbeam_ice.ast,Tiny_2,6368203,1178
+583fb170caf87031,chargingbeam.sm,Tiny_2,6369381,1026
+9552ff1f4c11d8f9,chargingbeam.amd,Tiny_2,6368005,198
+0bd95f02f1a2d848,chargingbeam.ast,Tiny_2,6368203,1178

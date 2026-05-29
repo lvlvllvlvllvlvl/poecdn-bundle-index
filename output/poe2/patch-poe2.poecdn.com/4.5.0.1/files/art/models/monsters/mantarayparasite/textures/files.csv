@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+77653fa42a1c3cec,mantarayparasitec.mat,Tiny.V9,12869452,2160
+8037e9fc786b613d,mantarayparasite_normal_dxt5.dds,Streaming/Content/metadata/monsters/parasitemonsters/mantarayparasite/mantarayparasite.ao.1,0,5592580
+be9c56243366083f,mantarayparasite_normal_dxt5.dds.header,Tiny.V1,12502275,1520
+fb7f668321589015,mantarayparasite_colour_dxt1.dds,Streaming/Content/metadata/monsters/parasitemonsters/mantarayparasite/mantarayparasite.ao,464541,2796364
+5bbab51d4080363d,mantarayparasite_colour_dxt1.dds.header,Tiny.VA,12588318,1520
+c5c4cf54f72462a8,expeditionmantarayparasitec.mat,Tiny.VB,12594576,11768
+8ee872cd25ef36f8,expeditionmantarayparasite_glow.dds,Streaming/Content/data/balance/worldareas/DD/mapgeode.vworld,416772,5592580
+e26284257f517ddc,expeditionmantarayparasite_glow.dds.header,Tiny.V4,12758346,1520
+b5e3d9f991a7f10e,expeditionmantarayparasite_mask.dds,Streaming/Content/data/balance/worldareas/BF/null.vworld.2,0,5592580
+259c84c991149f68,expeditionmantarayparasite_mask.dds.header,Tiny.VE,12546261,1520
+bd978974ae92fd24,expeditionmantarayparasite_metal.dds,Streaming/Content/data/balance/worldareas/32/null.vworld.1,0,5592580
+58122d9a75efc35d,expeditionmantarayparasite_metal.dds.header,Tiny.V6,12661834,1520
+406298ec11b5423e,expeditionmantarayparasite_normal.dds,Streaming/Content/data/balance/worldareas/8E/null.vworld,0,5592580
+2591445a1dfc6156,expeditionmantarayparasite_normal.dds.header,Tiny.VB,12593056,1520
+4fdea7e37950fe40,expeditionmantarayparasite_colour.dds,Streaming/Content/data/balance/worldareas/42/null.vworld.1,0,5592580
+8ce165d1ab23339e,expeditionmantarayparasite_colour.dds.header,Tiny.V3,12549225,1520

@@ -1,2 +1,0 @@
-ghost_flame
-skele_mat_override

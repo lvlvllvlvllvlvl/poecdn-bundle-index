@@ -1,0 +1,17 @@
+epk
+fx
+fx/cascade_slam
+fx/fadein
+fx/idle_damage
+fx/melee_trail
+fx/orb_proj
+fx/rolling
+fx/storm_orb
+mat
+mat/cascade_slam
+mat/fadein
+mat/idle_damage
+mat/melee_trail
+mat/orb_proj
+mat/rolling
+mat/storm_orb

@@ -1,0 +1,7 @@
+attachments
+attachments/chainsbelt
+attachments/chainsleftarm
+attachments/chainstorso
+attachments/chestorb
+attachments/shoulderringsleft
+attachments/shoulderringsright

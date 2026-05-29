@@ -1,0 +1,12 @@
+attachments
+epk
+epk/portal_summon
+fx
+fx/portal_summon
+graphs
+mat
+mat/crumble_kickup
+mat/dissolve
+mat/portal_idle
+mat/portal_summon
+mat/start_nova

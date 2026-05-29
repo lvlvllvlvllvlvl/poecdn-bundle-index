@@ -1,0 +1,6 @@
+attachments
+attachments/bandage
+attachments/drape
+attachments/hair
+attachments/skirt
+attachments/weapon

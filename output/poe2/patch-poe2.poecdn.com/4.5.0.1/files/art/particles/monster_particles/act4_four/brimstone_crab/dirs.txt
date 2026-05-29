@@ -1,0 +1,13 @@
+mb
+mb/flamethrower
+mb/mortar
+textures
+textures/flamethrower
+textures/hole
+textures/mortar
+textures/mortar_impact
+textures/on_act
+textures/on_act/attack_01
+textures/on_act/death_firehose_01
+textures/on_act/hermit_into_idle
+textures/on_act/spellcast_01

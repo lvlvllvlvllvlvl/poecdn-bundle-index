@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-a1fc7ed9ab4f26e5,random_fill_tiles.gft,Tiny.V0.1,152788848,448
-9287c7aefcb2b196,generate.rs,Tiny.V4.1,149582438,220
-252731faa560ff32,decals.dct,Tiny.V1.1,151966859,50
-073032d6b53cf183,tiles.tst,Tiny.VA.1,147578355,5286
-874fba1d1ab6fa78,master.tsi,Tiny.V9.1,145019400,598
-82fbc63052b31ed2,materials.mtd,Tiny.V9.1,145019998,1138
-df2e9c405f6d0fa2,material_overrides.tmo,Content/data/balance/worldareas/expeditionsubarea_uhtredboss.vworld,0,28594

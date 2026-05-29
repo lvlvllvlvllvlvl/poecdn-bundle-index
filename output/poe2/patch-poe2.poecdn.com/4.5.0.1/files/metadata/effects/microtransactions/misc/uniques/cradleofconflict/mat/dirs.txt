@@ -1,0 +1,5 @@
+arrow_corrupted
+arrow_divine
+corruption
+divine
+equilibrium

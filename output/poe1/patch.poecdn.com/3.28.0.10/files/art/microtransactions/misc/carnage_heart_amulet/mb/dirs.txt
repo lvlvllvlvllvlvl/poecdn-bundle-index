@@ -1,3 +1,0 @@
-es_rig
-mana_rig
-swarm_rig

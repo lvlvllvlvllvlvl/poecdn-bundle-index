@@ -1,7 +1,0 @@
-dmg_beam
-impacts
-sigil
-tether_anchor
-tether_beam
-tether_ring
-travel_beam

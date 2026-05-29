@@ -1,8 +1,0 @@
-beast
-foliage
-level01
-level01/ground
-level02
-level02/ground
-level03
-level03/ground

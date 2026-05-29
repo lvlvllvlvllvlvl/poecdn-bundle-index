@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+2e7a1769a7025039,default_projectile.ao,Tiny_D,124898894,4122
+a4aa12e0dab4df14,onact_flameblast.ao,Tiny_D,124922824,3378
+91dff5b8843c23e5,onact_icespear.ao,Tiny_D,124926202,4708
+79dc64c826dfd5df,icespear.ao,Tiny_D,124911016,9406
+b46e601e75a38394,icespear_pierce.ao,Tiny_D,124920422,2402
+fe3b1d1d5c6007e6,iceblast_cast.ao,Tiny_D,124903016,3938
+dcdfe604b8cdb9d3,iceblast_explode.ao,Tiny_D,124906954,4062

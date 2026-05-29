@@ -1,0 +1,10 @@
+blood_orb
+blood_orb_explode
+blood_spike_projectile
+blood_spike_projectile/animations
+onacts
+onacts/attack_01
+onacts/attack_02
+onacts/blood_orb
+onacts/death_01
+spam_projectile

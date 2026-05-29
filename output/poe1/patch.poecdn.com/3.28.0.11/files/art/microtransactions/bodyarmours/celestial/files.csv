@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+7fbfedabb0c550ac,transp_meshc.mat,Tiny_1,17092507,1168
+5fcc09b7622ee969,transp_mesh.dds,Tiny_8,27365304,196
+7ad90b554fd9af0e,transp_mesh.dds.header,Tiny_8,27365500,240
+4935aafcf10327c1,space_bg_atc.mat,Tiny_1,17089843,2664
+08e11ebf8a33cdde,space_bg_at_dxt1.dds,Art/Textures/Monsters/ClockworkGolem_2,349848,174924
+e17c65ef5dab5c31,space_bg_at_dxt1.dds.header,Tiny_8,34994908,1520
+d717d929c814a44f,space_bg_at_bc7.dds,Art/Microtransactions/BodyArmours/Celestial,0,349700
+45fe1a9fd1a21bd7,space_bg_at_bc7.dds.header,Tiny_8,17717569,1520
+ffb807a5cac83141,space_bg_at.mat,Tiny_1,17088935,908
+b6d0834a74053f9f,space_bg_at.dds,Art/Microtransactions/BodyArmours/Celestial,0,349700
+e3b08d2f18b9e69a,space_bg_at.dds.header,Tiny_8,17717569,1520

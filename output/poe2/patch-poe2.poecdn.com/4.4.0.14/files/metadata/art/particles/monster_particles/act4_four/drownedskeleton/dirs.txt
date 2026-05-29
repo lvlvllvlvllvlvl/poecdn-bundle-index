@@ -1,3 +1,0 @@
-textures
-textures/onact
-textures/onact/attack_01

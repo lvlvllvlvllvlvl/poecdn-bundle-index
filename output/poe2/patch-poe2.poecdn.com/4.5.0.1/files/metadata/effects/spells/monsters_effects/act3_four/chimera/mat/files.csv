@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+ece138d7450e20c6,chimera_headswitch.mat,Tiny.VB.1,92059369,7636
+1b247ae2b069fdec,chimera_furmask_switch.mat,Tiny.V9.1,96523952,10410
+54fd66a691314b81,chimera_furswitch.mat,Tiny.V3.1,92014177,5984
+f3a1c90eb1cfdce4,sparks_02_r.mat,Tiny.VE.1,93580242,30238
+76d84f35f4ced807,sparks_02_u.mat,Tiny.V2.1,94983212,17616
+9f22bceef039d570,dropbolt_01_r.mat,Tiny.VB.1,92067005,30150
+4ebbeb5505dfd08d,dropbolt_01_u.mat,Tiny.V0.1,93104360,7158
+278dbe2eccc0abbe,ambient_poison_drops_u.mat,Tiny.V1.1,91925170,7824
+290853f83b23e5ec,ambient_snow_u.mat,Tiny.V2.1,94641888,19190
+738d79547adbc6f3,ambient_embers_01_r.mat,Tiny.V3.1,91978341,35836
+a55c79583be755f7,ambient_embers_01_u.mat,Tiny.VC.1,94584843,22036
+bd728ee2674f730e,groundzone_cold_01.mat,Tiny.V9.1,96775554,65128
+724c401edae946a1,goop_drops_r.mat,Tiny.VF.1,90017182,17030
+cc7f0673d2949997,goop_drops_grd_r.mat,Tiny.V6.1,92432235,24286

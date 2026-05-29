@@ -1,0 +1,4 @@
+abyssal_shield
+abyssal_shield/fx
+stone_tomb
+stone_tomb/fx

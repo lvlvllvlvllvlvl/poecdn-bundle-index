@@ -1,3 +1,0 @@
-ascendancy
-elementalist_aura
-player

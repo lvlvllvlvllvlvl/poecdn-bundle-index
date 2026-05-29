@@ -1,0 +1,3 @@
+place_cover_01
+place_cover_01/mb
+place_cover_01/textures

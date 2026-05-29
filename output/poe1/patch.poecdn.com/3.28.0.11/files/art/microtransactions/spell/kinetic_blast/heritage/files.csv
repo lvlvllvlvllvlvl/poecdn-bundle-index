@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8b319d1fdcc642db,rune_spikes_dxt5.dds,Art/particles/frost_bomb,0,22020
+7f06ac339ebc1980,rune_spikes_dxt5.dds.header,Tiny_6,37656626,1520
+ad07701c1430f190,rune_mask2_dxt5.dds,Art/Microtransactions/spell/kinetic_blast,349700,5592580
+137e186a5ae18e94,rune_mask2_dxt5.dds.header,Tiny_1,54223550,1520
+b46b5b2480243879,kb_starglow_z.mat,Tiny_1,54221876,1674
+cee402270d9c5b80,kb_rune.mat,Tiny_1,54215366,2954
+49203a255226bc31,kb_rune_f.mat,Tiny_1,54218320,3556
+6667990fe5caf3e8,kb_beams.mat,Tiny_1,54211272,1708
+9244cba2871d8b89,kb_bokehs.mat,Tiny_1,54212980,2386
+85026699547bddb9,drone_debuff_rune_dxt5.dds,Art/Microtransactions/spell/kinetic_blast,5942280,87556
+55d53ceb6d00e0da,drone_debuff_rune_dxt5.dds.header,Tiny_7,25744987,1520
+52ee52d0c854624c,centerrune_dxt5.dds,Art/Microtransactions/spell/kinetic_blast,0,349700
+61109c7607c37123,centerrune_dxt5.dds.header,Tiny_1,54209752,1520
+c7f4327ca4d02b9c,beam_rune_msk_dxt5.dds,Art/Microtransactions/spell/kinetic_blast,6029836,1398276
+3bdf102c3ec39b09,beam_rune_msk_dxt5.dds.header,Tiny_1,54208232,1520

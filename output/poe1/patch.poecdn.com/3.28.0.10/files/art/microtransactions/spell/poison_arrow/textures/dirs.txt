@@ -1,2 +1,0 @@
-acidic_groundtrl
-large_projectile

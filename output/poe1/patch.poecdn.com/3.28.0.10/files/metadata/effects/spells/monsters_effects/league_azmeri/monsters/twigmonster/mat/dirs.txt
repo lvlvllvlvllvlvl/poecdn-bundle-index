@@ -1,3 +1,0 @@
-attack_01
-poison_pod
-spellcast_02

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+6737e9206d1e7376,grd_burn.trl,Tiny_D,421625672,1418
+f4ab27805f76a5f1,trail.trl,Tiny_D,421642384,4552
+7d0f1d9ae96823a3,projectile_impact.pet,Tiny_D,421627090,11880
+d228bdaad14457b8,projectile_loop.pet,Tiny_D,421638970,3414
+dbbcd6ab93af1bd2,death_tendrils.pet,Tiny_D,421622440,3232
+07f7ae2c695ae370,death_spurt.pet,Tiny_D,421610242,6110
+37c9a01e21a4d550,death_spurt_01.pet,Tiny_D,421616352,6088
+3b1d3db5c6dd26af,blood_death.trl,Tiny_D,421608600,1642
+4a4598becf8aa93d,beam_start.pet,Tiny_D,421587824,18008
+371f2f5cad6649ce,beam_trail.trl,Tiny_D,421605832,2768
+df5355a28253af00,beam_idle_mid.pet,Tiny_D,421538628,31204
+ba98a4f228e2148e,beam_impact_ptemit.pet,Tiny_D,421569832,17992
+704f1b2728573b21,act_laser.pet,Tiny_D,421516250,6560
+34c20f92e4d46380,act_proj.pet,Tiny_D,421522810,6322
+f4bc2e2dcfd0a84c,act_trail.trl,Tiny_D,421529132,4760
+4202790ebca61b86,act_trail_burn.trl,Tiny_D,421533892,4736

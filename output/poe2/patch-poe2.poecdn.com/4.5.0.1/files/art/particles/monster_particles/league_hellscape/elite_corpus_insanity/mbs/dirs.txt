@@ -1,0 +1,8 @@
+blood_orb
+blood_orb_explode
+blood_orb_revised
+blood_spike_projectile
+onacts
+onacts/attack_01
+onacts/attack_02
+spam_projectile

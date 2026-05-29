@@ -1,7 +1,0 @@
-attachments
-attachments/head
-attachments/l_chain
-attachments/r_chain
-attachments/robe
-attachments/skirt_rigid
-textures

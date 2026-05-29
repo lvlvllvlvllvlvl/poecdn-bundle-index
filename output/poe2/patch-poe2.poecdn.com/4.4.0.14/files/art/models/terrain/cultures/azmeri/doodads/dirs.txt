@@ -1,4 +1,0 @@
-textures
-textures/prayerboards
-textures/stakes
-textures/wendigosigils

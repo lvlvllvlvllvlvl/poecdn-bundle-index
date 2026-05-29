@@ -1,6 +1,0 @@
-body
-heads
-heads/head03
-monstertotem_02
-monstertotem_02/textures
-textures

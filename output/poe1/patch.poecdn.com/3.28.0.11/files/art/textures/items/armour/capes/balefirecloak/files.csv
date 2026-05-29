@@ -1,0 +1,39 @@
+hash,file,bundle,offset,size
+dc0fb30f4a1d5ba8,held_mask_dxt5.dds,Folders/art/textures/items/armour/capes/balefirecloak,777060,87556
+97937905fbc56dc3,held_mask_dxt5.dds.header,Tiny_8,15759075,1520
+46021096563bb98f,held_mask2_dxt5.dds,Folders/art/textures/items/armour/capes/balefirecloak,689504,87556
+a5ffb7d0e84ff63a,held_mask2_dxt5.dds.header,Tiny_8,15757555,1520
+6407450abd0547e8,fire_trailc.mat,Tiny_8,15751121,6434
+d6a5bf9ca706801c,fire_trail_dxt3.dds,Folders/art/textures/items/armour/capes/balefirecloak,601948,87556
+2be5e9ad5110d8b9,fire_trail_dxt3.dds.header,Tiny_8,15747079,1520
+0cc2b080a4663499,fire_trail.mat,Tiny_8,15748599,2522
+9945ff7be846f75e,fire_trail.dds,Folders/art/textures/items/armour/capes/balefirecloak,601948,87556
+4670359204324983,fire_trail.dds.header,Tiny_8,15747079,1520
+3e16aa2b11b54c89,fire_scrollc.mat,Tiny_8,15739089,7990
+b2c0127feee48061,fire_scroll_dxt1.dds,Folders/art/particles/fxlib/tileables_41,917988,43852
+b8fc65d1431356cc,fire_scroll_dxt1.dds.header,Tiny_8,28993792,1520
+c30dd7823046777a,fire_scroll.dds,Folders/art/particles/fxlib/tileables_41,917988,43852
+ec16957e7ca22304,fire_scroll.dds.header,Tiny_8,28993792,1520
+99ff44306b4dc5f4,fire_mask_dxt5.dds,Folders/art/textures/items/armour/capes/balefirecloak,514392,87556
+b618d6f63322dda6,fire_mask_dxt5.dds.header,Tiny_8,15737569,1520
+25563f8b20edbe5a,beam_trailc.mat,Tiny_8,15732683,4886
+2281464201987569,beam_trail3c.mat,Tiny_8,15727731,4952
+87dc8897792cd683,beam_trail3.dds,Folders/art/textures/items/armour/capes/balefirecloak,503292,11100
+7fc3b4b8036d85b3,beam_trail3.dds.header,Tiny_8,15722279,504
+840e6a94025fd1a4,beam_trail2c.mat,Tiny_8,15722783,4948
+35b4d2710ae32b17,beam_trail2.dds,Folders/art/textures/items/armour/capes/balefirecloak,503292,11100
+b6660b36dd0b4a58,beam_trail2.dds.header,Tiny_8,15722279,504
+778b1171cabcd7ee,beam_trail.dds,Folders/art/textures/items/armour/capes/balefirecloak,492192,11100
+66f3d9da3673021b,beam_trail.dds.header,Tiny_8,15721775,504
+4dabbaa19f2ad50a,balefirecloak01c.mat,Tiny_8,15719155,2620
+d5279939443509b7,balefirecloak01_normal_dxt5.dds,Folders/art/textures/items/armour/capes/balefirecloak,142492,349700
+58ce6431811326f2,balefirecloak01_normal_dxt5.dds.header,Tiny_8,15717635,1520
+01d183c62d4ab003,balefirecloak01_colour_dxt5.dds,Folders/art/textures/items/armour/capes/balefirecloak,54936,87556
+83527b19e1fbd8e0,balefirecloak01_colour_dxt5.dds.header,Tiny_8,15716115,1520
+3928f0110a643370,balefirecloak01_colour_bc7.dds,Folders/art/textures/items/armour/capes/balefirecloak,54936,87556
+abb9a1b1e904cb86,balefirecloak01_colour_bc7.dds.header,Tiny_8,15716115,1520
+7099199fc5639845,balefirecloak01_colour.dds,Folders/art/textures/items/armour/capes/balefirecloak,11084,43852
+9afabcd3256eee04,balefirecloak01_colour.dds.header,Tiny_8,15714595,1520
+0a39551908991277,balefirecloak fxc.mat,Tiny_8,15713505,1090
+377476df4d741911,balefirecloak fx.dds,Folders/art/textures/items/armour/capes/balefirecloak,0,11084
+382c2b57fdd38d66,balefirecloak fx.dds.header,Tiny_8,15711985,1520

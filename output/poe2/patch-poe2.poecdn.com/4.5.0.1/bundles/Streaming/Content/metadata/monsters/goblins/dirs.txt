@@ -1,0 +1,8 @@
+beast
+goblindrummer
+goblingiant
+goblingiantboss
+goblinspearman
+goblinstiltsfighter
+goblintusker
+objects

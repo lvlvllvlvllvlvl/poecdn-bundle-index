@@ -1,7 +1,0 @@
-str4_savagehits
-warrior
-warrior/warrior_apparition
-warrior/warrior_convo
-warrior/warrior_gameplay
-warrior/warrior_skills
-warrior/warrior_wild

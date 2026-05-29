@@ -1,8 +1,0 @@
-textures
-textures/bodyfx
-textures/on_act
-textures/on_act/spell_aoe_01
-textures/on_act/spell_projectile_01
-textures/staff
-textures/staff/on_act
-textures/staff/on_act/spell_projectile_01

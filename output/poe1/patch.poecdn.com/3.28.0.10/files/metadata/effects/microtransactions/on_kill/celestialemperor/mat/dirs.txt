@@ -1,3 +1,0 @@
-disintegrate
-fadein
-fadeout

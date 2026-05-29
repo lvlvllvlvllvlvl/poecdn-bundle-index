@@ -1,4 +1,0 @@
-beambridge
-beambridge/bridge_long
-thaumaturgyspawner
-thaumaturgyspawner/dronespawner

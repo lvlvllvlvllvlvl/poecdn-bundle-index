@@ -1,0 +1,8 @@
+vaalhumanoidbladehands
+vaalhumanoidbow
+vaalhumanoidcannon
+vaalhumanoidgoliathfist
+vaalhumanoidpyramidhands
+vaalhumanoidshieldlegs
+vaalhumanoidstalker
+vaalhumanoidswordshield

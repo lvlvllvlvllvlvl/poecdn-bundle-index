@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8b0c28b8c75cedf3,marker_fc53ff3b.smd,Tiny_2,6959125,996
+6a3d75b632952b50,marker_fc53ff3b.smd.header,Tiny_2,6960121,368
+68bf72e651d9d8d7,lightning_coldsnapmarker.sm,Tiny_2,6951384,884
+97da17189605e796,lightning_coldsnapmarker.amd,Tiny_2,6950119,94
+c541de3db9b88949,lightning_coldsnapmarker.ast,Tiny_2,6950213,1171
+2199a34e6eca9b78,lightningsnap.sm,Tiny_2,6955514,734
+04e087a2f6fe9b69,lightningsnap.amd,Tiny_7,52690230,92
+f85b79e9c16a8439,lightningsnap.ast,Art/Models/Effects/monster_effects/talisman/lightning_coldsnap,149380,8062
+40bedab9068bf4cc,lightningcoldsnap.sm,Tiny_2,6952362,3152
+e9680195eafe438c,lightningcoldsnap.amd,Tiny_2,6952268,94
+adc87397ea72de98,lightningcoldsnap.ast,Art/Models/Effects/monster_effects/talisman/lightning_coldsnap,145270,4110
+1adb89627b2f0c7f,explosion_c2812009.smd,Art/Models/Effects/monster_effects/talisman/lightning_coldsnap,0,145270
+0b701973a3a12d94,explosion_c2812009.smd.header,Tiny_2,6948933,1186
+9707481cb4f96f2e,coldsnap_6f2dfea9.smd,Art/Models/Effects/monster_effects/act3/dominus,590010,52426
+a9d312cc4b06507b,coldsnap_6f2dfea9.smd.header,Tiny_2,6948565,368

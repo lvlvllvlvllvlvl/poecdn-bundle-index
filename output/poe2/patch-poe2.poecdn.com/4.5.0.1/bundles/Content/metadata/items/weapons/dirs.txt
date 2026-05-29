@@ -1,0 +1,8 @@
+microtransactions
+microtransactions/harmoniousweapons
+onehandweapons
+onehandweapons/flails
+twohandweapons
+twohandweapons/bows
+twohandweapons/crossbows
+twohandweapons/twohandswords

@@ -1,9 +1,0 @@
-harvestblackstrider
-harvestblackstrider/animations
-harvestblackstrider/animations/pet
-harvestblackstrider/attachments
-harvestblackstrider/attachments/vaalbonestriderdanglers
-harvestmeleespider
-harvestmeleespider/textures
-harvestspidersabre
-harvestspidersabre/textures

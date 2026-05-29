@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+6448f4841cb7fcec,thin_lightning.mat,Tiny_6,68699781,2024
+0a243684e488abeb,thin_lightning.dds,Art/particles/monster_particles/act9_30,0,174948
+b464a2bafcdef0a5,thin_lightning.dds.header,Tiny_6,68698941,840
+d73bece21f2d038d,lightning_spark.mat,Tiny_6,68697201,1740
+a255ce076ee444f6,lightning_spark.dds,Art/particles/emp_mine,22020,5636
+eae68ab6d797ac87,lightning_spark.dds.header,Tiny_7,36831860,1520
+d7f7fba36446af58,lightning_shoot_flipbook.mat,Tiny_6,68695145,2056
+a8cca8d8b585a902,lightning_shoot_flipbook.dds,Art/particles/monster_particles/act9_42,0,1398308
+f31bba518857de7b,lightning_shoot_flipbook.dds.header,Tiny_6,68694641,504
+b3ffdb946897ac74,lightning_bolts_vert.mat,Tiny_6,68692871,1770
+98420fb8343426c1,lightning_bolts_vert.dds,Folders/art/particles/monster_particles/act9_4,1479880,87588
+242b3c8d4cbf5537,lightning_bolts_vert.dds.header,Tiny_6,68692367,504
+e450e0cd2540a1bd,explosion_spherec.mat,Tiny_6,68688577,3790
+0824e6938016e09c,explosion_sphere.dds,Folders/art/particles/monster_particles/act9_4,1457860,22020
+b82991608b14df6e,explosion_sphere.dds.header,Tiny_6,68687057,1520

@@ -1,4 +1,0 @@
-military
-robot
-science
-thug

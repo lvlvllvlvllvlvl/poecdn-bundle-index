@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+096855480b14c6cc,entrance.arm,Folders/metadata/F/terrain,5479478,15246
+907b27f624af95c4,st_injector_5x5.arm,Folders/metadata/E/terrain,5455562,22060
+4980799cf5e7cac3,st_injector_7x7.arm,Folders/metadata/4/terrain,5253052,18910
+3a5786b9fdc2b9cb,st_injector_9x9.arm,Folders/metadata/E/terrain,5477622,48956
+7d4b4ccbb316d2a4,shrine_straight_1.arm,Folders/metadata/4/terrain,5241978,11074
+487c26702fdab8c7,shrine_straight_2.arm,Folders/metadata/6/terrain,6610336,8220
+ee377ef83bddecc2,shrine_concave_1.arm,Folders/metadata/E/terrain,5442576,12986
+e5b23d3bcc4c84cf,shrine_convex_1.arm,Folders/metadata/3/terrain,5599590,11760
+453b578ed6c8efb2,mission_concave_1.arm,Folders/metadata/A/terrain,5918338,11292
+b27c71c045510116,mission_straight_1.arm,Folders/metadata/B/terrain,5977024,6706
+174cb40907a6a9e1,boss.arm,Folders/metadata/F/terrain,5440482,38996
+ffd386ae1fee2f8f,boss_entrance.arm,Folders/metadata/0/terrain,6331824,18922

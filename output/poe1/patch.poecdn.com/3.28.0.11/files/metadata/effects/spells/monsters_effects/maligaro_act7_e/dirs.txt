@@ -1,0 +1,14 @@
+blackdeath
+blackdeath/poison_spit
+blackdeath/purple_lightning_mortar
+blackdeath/purple_poison
+combo_attack
+fourleggeddemon
+fourleggeddemon/ground_slam
+fourleggeddemon/lightning_shield
+fourleggeddemon/purple_lightning_strike
+spectral_death_hover
+spectral_skin
+telekinetic_blade
+vanish
+whirling_blades

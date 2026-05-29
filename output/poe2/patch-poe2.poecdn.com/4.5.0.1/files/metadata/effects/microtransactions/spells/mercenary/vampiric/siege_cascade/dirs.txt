@@ -1,0 +1,7 @@
+aos
+fx
+mats
+mats/siege_aftershock
+mats/siege_impact
+mats/siege_indicator
+mats/siege_projectile

@@ -1,9 +1,0 @@
-attack_01
-cyclone_01
-death_01
-death_01_submerge
-emerge_01
-flinch_01
-idle_01
-run
-spellcast_projectile_multi_01

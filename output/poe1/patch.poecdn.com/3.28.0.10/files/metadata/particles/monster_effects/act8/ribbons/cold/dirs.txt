@@ -1,2 +1,0 @@
-ice_bomb
-ice_bomb/beam_trail

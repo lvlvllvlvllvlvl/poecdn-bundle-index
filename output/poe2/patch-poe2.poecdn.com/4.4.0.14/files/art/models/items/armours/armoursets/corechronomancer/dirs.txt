@@ -1,5 +1,0 @@
-attachments
-attachments/lchain
-attachments/rchain
-attachments/skirt
-textures

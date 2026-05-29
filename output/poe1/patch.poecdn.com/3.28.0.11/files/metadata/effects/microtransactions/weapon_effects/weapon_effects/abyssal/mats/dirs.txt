@@ -1,0 +1,14 @@
+axedh
+axesh
+bow
+hit
+macedh
+macesh
+sceptre
+shield
+stave
+sword1h
+sword2h
+talisman
+trails
+wand

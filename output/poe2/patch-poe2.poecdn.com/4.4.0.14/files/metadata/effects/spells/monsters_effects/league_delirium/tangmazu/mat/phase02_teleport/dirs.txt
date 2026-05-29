@@ -1,3 +1,0 @@
-cube
-in
-out

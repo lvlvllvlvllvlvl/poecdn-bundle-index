@@ -1,0 +1,14 @@
+canister
+coil
+detonate_proj
+detonate_wave
+dogs
+lightning_beam
+lightning_dash
+sawblade_bounce
+skeleton
+staff_proj
+teleport_up
+unarmedelite
+undead
+wand_proj

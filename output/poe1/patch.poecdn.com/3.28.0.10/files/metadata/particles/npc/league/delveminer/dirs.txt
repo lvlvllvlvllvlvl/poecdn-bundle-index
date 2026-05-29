@@ -1,2 +1,0 @@
-idle_mining_01
-idle_rummaging_01

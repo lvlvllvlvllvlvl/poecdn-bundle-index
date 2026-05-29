@@ -1,8 +1,0 @@
-celestial
-celestial/pet
-celestial/pet/character
-celestial/pet/weapon
-stygian
-stygian/pet
-stygian/pet/character
-stygian/pet/weapon

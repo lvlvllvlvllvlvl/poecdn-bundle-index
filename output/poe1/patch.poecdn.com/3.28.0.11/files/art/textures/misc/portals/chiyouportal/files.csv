@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+e0d772d392abbbdb,gold_chiyouportalspecularc.mat,Folders/art/textures/misc/portals/9/chiyouportal,1409712,4336
+aec08e54bfffe7d6,gold_chiyouportal_glow_bc1.dds,Folders/art/textures/misc/portals/9/chiyouportal,0,699212
+7394169edf4922e7,gold_chiyouportal_glow_bc1.dds.header,Tiny_8,29134504,1520
+fa92fe792b17f62d,gold_chiyouportal_colourspecular_bc7.dds,Folders/art/textures/misc/portals/8/chiyouportal,0,2796388
+3a63d856eebbca2b,gold_chiyouportal_colourspecular_bc7.dds.header,Tiny_8,29133664,840
+bf0d0db1412535ce,chiyouportalspecularc.mat,Tiny_8,29130216,3448
+ce49797564d75c16,chiyouportal_normal_dxt5.dds,Folders/art/textures/misc/portals/5/chiyouportal,0,1398276
+e13e8e5f080fe4c8,chiyouportal_normal_dxt5.dds.header,Tiny_8,29128696,1520
+077794533b98bbdb,chiyouportal_glow_dxt1.dds,Folders/art/textures/misc/portals/9/chiyouportal,710500,699212
+9d241143ce50536b,chiyouportal_glow_dxt1.dds.header,Tiny_8,29127176,1520
+1734e452612972e4,chiyouportal_colourspecular_dxt5.dds,Folders/art/textures/misc/portals/F/chiyouportal,0,2796388
+5eea9ff68a8ae417,chiyouportal_colourspecular_dxt5.dds.header,Tiny_8,29126336,840
+7baba6fcde996168,chiyouportal_colourspecular_bc7.dds,Folders/art/textures/misc/portals/F/chiyouportal,0,2796388
+222dd8e299a252bf,chiyouportal_colourspecular_bc7.dds.header,Tiny_8,29126336,840
+1472f927bdbbd97a,chiyouportal_colourspecular.dds,Folders/art/textures/misc/portals/C/chiyouportal,0,1398268
+94c076fdb0b3c366,chiyouportal_colourspecular.dds.header,Tiny_8,29125496,840

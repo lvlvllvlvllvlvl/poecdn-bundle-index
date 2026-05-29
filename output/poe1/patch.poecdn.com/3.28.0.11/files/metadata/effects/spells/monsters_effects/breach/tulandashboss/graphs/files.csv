@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+d249af3fd866c09f,geometryanglemesh.fxgraph,Folders/metadata/effects_A,16599296,36286
+25ad233a5cd26c68,mask_animated_tlp.fxgraph,Folders/metadata/effects_A,16635582,237866
+c99a20e2e9bb8f85,uvmultbyobjscale.fxgraph,Folders/metadata/effects.4,18768644,28090
+ebc9f745beb86c74,vtx_terrainmask_softalpha.fxgraph,Folders/metadata/effects_A,16873448,28472
+a294d5835409d261,custom_directional_mesh_ctrls.fxgraph,Folders/metadata/effects_A,16383250,48198
+56797954e4b6c46c,custom_epk_position_world.fxgraph,Folders/metadata/effects_A,16431448,48672
+a5577040fd29404d,custom_fade_bytimelinefloat.fxgraph,Folders/metadata/effects_A,16480120,12576
+32023fafe7f1edc4,custom_gameplayemitter.fxgraph,Folders/metadata/effects_A,16492696,106600
+86d1b6340d40ec1f,custom_insideuvs.fxgraph,Folders/metadata/effects.4,22734666,31748

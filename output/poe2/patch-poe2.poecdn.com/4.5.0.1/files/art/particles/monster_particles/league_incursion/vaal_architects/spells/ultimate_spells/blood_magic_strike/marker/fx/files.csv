@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+4df5d4ed04441b88,dust.mat,Tiny.V7,40026151,3010
+dc56b7e839a61785,dust.dds,Streaming/Content/metadata/particles/monster_effects/F657259687128816.dirt_spread.pet,0,11108
+a7bbc946daa7bc96,dust.dds.header,Tiny.V2,40079937,840
+89edf27902043123,falling_dust.mat,Tiny.V4,40243510,2422
+7e2b4dd5fb2a6e4c,falling_dust.dds,Streaming/Content/metadata/particles/monster_effects/F657259687128816.dirt_spread.pet,11108,22020
+54ad1b02958bc9fc,falling_dust.dds.header,Tiny.VD,40254980,1520
+31f33341284db160,light_ring.mat,Tiny.V4,40245932,2460
+b400ac170065ca2e,light_ring.dds,Streaming/Content/metadata/particles/monster_effects/FCB4CD7DE32BEC6B.midline_pulse.pet,384728,5636
+40383173ac16c6fc,light_ring.dds.header,Tiny.V1,40029904,1520
+b071ce3630c88b9c,circle.mat,Tiny.VB,40374256,2950
+c45f120a05193df2,circle.dds,Streaming/Content/metadata/particles/monster_effects/FCB4CD7DE32BEC6B.midline_pulse.pet,450992,22020
+c2707d490624ec71,circle.dds.header,Tiny.VA,40267603,1520
+7dcbdc2fa99cd695,sparks.mat,Tiny.V0,40259451,2236
+c42251e711f82ca9,sparks.dds,Tiny.VF,39946067,516
+9982ab8786b4eeb6,sparks.dds.header,Tiny.V8,39630931,1520

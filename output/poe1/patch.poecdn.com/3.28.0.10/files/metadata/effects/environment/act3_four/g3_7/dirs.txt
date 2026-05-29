@@ -1,4 +1,0 @@
-brazier_fire
-brazier_fire/ao
-brazier_fire/epks
-brazier_fire/pet

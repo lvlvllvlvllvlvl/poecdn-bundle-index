@@ -1,6 +1,0 @@
-cleansingfirealtar
-cleansingfirealtar/altar_fadeout
-cleansingfirealtar/altar_spawn
-tangledaltar
-tangledaltar/altar_fadeout
-tangledaltar/altar_spawn

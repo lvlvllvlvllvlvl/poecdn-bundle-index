@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+bd9c64a85edb725f,csi_frozenlake03c.mat,Tiny_6,4762175,2286
+e1e58edd481b2463,csi_frozenlake03_thickness_bc7premult.dds,Folders/art/models/terrain/oriath/tiles/icecistern_4,0,1398276
+7f7a8963dfd39339,csi_frozenlake03_thickness_bc7premult.dds.header,Tiny_6,4760655,1520
+ce511a8d3a6c9d4c,csi_frozenlake03_normal_bc7.dds,Folders/art/models/terrain/oriath/tiles/icecistern_3,0,5592580
+2589d0972f361e27,csi_frozenlake03_normal_bc7.dds.header,Tiny_6,4759135,1520
+ffc01f33cab8127c,csi_frozenlake03_colour_bc7.dds,Folders/art/models/terrain/oriath/tiles/icecistern_2,699212,5592580
+ca3320a473eecb77,csi_frozenlake03_colour_bc7.dds.header,Tiny_6,4757615,1520
+98f9868d4671d036,csi_frozenlake01c.mat,Tiny_6,4754485,3130
+f2d1aaaa80a48d76,csi_frozenlake01_thickness_bc4.dds,Folders/art/models/terrain/oriath/tiles/icecistern_2,0,699212
+2c5aac500c9dde2e,csi_frozenlake01_thickness_bc4.dds.header,Tiny_6,4752965,1520
+80d9669cd45384f4,csi_frozenlake01_normal_bc7.dds,Folders/art/models/terrain/oriath/tiles/icecistern_1,0,5592580
+02ea649a6ff97384,csi_frozenlake01_normal_bc7.dds.header,Tiny_6,4751445,1520
+57b2e34c9322d14d,csi_frozenlake01_colour_bc7.dds,Folders/art/models/terrain/oriath/tiles/icecistern,0,5592580
+24a4520f2c7ad1f2,csi_frozenlake01_colour_bc7.dds.header,Tiny_6,4749925,1520

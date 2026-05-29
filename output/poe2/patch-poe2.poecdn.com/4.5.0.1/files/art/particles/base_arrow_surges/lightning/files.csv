@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+66c2cc0d1794fd01,black_hole_glow.mat,Tiny.VB,34321883,1066
+99229c6d7d784f5b,lightning_smooth_subuv.mat,Tiny.VE,33828296,2118
+51f23ce63c9c07bf,lightning_smooth_subuv_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/spells/A38DAF3E8CC0C25C.sunprism_contagion_main.ao,637116,699212
+ab5c3f4bd19a35a5,lightning_smooth_subuv_dxt1.dds.header,Tiny.VD,34325541,1520
+50d13ff754a3d6b4,example01.mat,Tiny.V1,34129981,1764
+18c00e03368c8de6,example01_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/A38DAF3E8CC0C25C.sunprism_contagion_main.ao,549560,87556
+ef859912ca56290f,example01_dxt5.dds.header,Tiny.V6,34182946,1520
+d537bc8d83f512c5,straight_lightning_subuv.mat,Tiny.V5,33774263,2888
+c71918befb0e4848,straight_lightning_subuv_bc1.dds,Streaming/Content/metadata/effects/microtransactions/spells/A38DAF3E8CC0C25C.sunprism_contagion_main.ao,1336328,699212
+fc39807fd0a858c3,straight_lightning_subuv_bc1.dds.header,Tiny.V4,34506746,1520
+804db4449236ac3d,straight_lightning_subuv_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/A38DAF3E8CC0C25C.sunprism_contagion_main.ao,2035540,1398276
+72b55156953a9434,straight_lightning_subuv_dxt5.dds.header,Tiny.V3,33724683,1520
+29aa2136744660f6,sparkling.mat,Tiny.V3,33723035,1648
+650b70bf831ff49c,sparkling_dxt5.dds,Tiny.VE,4430892,1572
+d8176801a9789b60,sparkling_dxt5.dds.header,Tiny.VD,4345787,504

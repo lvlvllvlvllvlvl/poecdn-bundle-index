@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+63d6644d9cd441b0,emitteroffsetgameplay.fxgraph,Folders/metadata/effects_4,13547410,56056
+00d8e9e6df076511,revealparticles_perobjectscale.fxgraph,Folders/metadata/effects_4,13662482,48364
+5632b252d38c320d,revealparticles_grounddistance.fxgraph,Folders/metadata/effects_4,13603466,29452
+d8b53718d512c9c3,revealparticles_grounddistance_emitcalc.fxgraph,Folders/metadata/effects_4,13632918,29564
+a3d39a12e78fc57e,cullbyscenecolliders.fxgraph,Folders/metadata/effects_4,13512546,17376
+ad674c5c63ae8fd6,cullbyscenecolliders_emitcalc.fxgraph,Folders/metadata/effects_4,13529922,17488

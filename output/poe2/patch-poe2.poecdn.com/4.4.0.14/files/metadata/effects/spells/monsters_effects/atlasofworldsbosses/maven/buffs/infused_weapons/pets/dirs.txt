@@ -1,2 +1,0 @@
-player_debuff
-power_up_beam

@@ -1,0 +1,3 @@
+l_strint_shoulder_pad
+r_strint_shoulder_pad
+skirt

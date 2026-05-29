@@ -1,4 +1,0 @@
-graphs
-rooms
-rooms/unique
-rooms/unique/gauntlet

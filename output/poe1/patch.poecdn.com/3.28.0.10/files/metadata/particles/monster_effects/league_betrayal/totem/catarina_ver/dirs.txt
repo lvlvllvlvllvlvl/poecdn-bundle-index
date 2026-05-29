@@ -1,7 +1,0 @@
-ziggurattotem
-ziggurattotem/cast
-ziggurattotem/death
-ziggurattotem/emerge
-ziggurattotem/flinch
-ziggurattotem/idle
-ziggurattotem/submerge

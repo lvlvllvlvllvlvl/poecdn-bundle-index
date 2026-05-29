@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-0bf3752f4cadffbb,on_act_spellcast_despair.ao,Tiny.V7.1,64203912,406
-78b31fe4188a920d,on_act_spellcast_despair.aoc,Tiny.VE.1,64751470,7358
-0ea1e04f582729b7,on_act_spellcast_enfeeble.ao,Tiny.VF.1,63948600,406
-c6e83945d9f6f650,on_act_spellcast_enfeeble.aoc,Tiny.V6.1,65278926,6614
-edc8911769dfe51e,on_act_spellcast_vulnerability.ao,Tiny.V0.1,67627942,406
-19b66cfb10986b03,on_act_spellcast_vulnerability.aoc,Tiny.V5.1,64428564,6724
-4cc6cf012974c761,on_act_spellcast_tempchains.ao,Tiny.V4.1,68128106,406
-b6ffeb56e15d0851,on_act_spellcast_tempchains.aoc,Tiny.V0.1,67621284,6658

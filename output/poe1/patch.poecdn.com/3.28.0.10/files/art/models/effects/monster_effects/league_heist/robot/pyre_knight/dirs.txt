@@ -1,6 +1,0 @@
-chokepoint
-nuke_beam
-onact_beamblast_01
-onact_beamblast_long_01
-spam_beam
-sweep_beam

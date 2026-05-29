@@ -1,5 +1,0 @@
-architecture
-cliff
-ground
-statue
-waypoints

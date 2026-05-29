@@ -1,0 +1,6 @@
+textures
+textures/bread
+textures/cheese
+textures/curedmeat
+textures/fish
+textures/mushrooms

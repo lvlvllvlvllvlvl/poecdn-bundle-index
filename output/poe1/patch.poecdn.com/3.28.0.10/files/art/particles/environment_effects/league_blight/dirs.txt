@@ -1,3 +1,0 @@
-infection
-weather
-weather/spores

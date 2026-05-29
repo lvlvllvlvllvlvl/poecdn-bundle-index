@@ -1,0 +1,17 @@
+attached
+epk
+graphs
+mat
+mat/aoe_ring
+mat/aoe_ring/chargebeam
+mat/aoe_ring/chrono_edge
+mat/aoe_ring/doom_cyl
+mat/aoe_ring/doom_end
+mat/clock
+mat/dejavu
+mat/explode_large
+mat/explode_small
+mat/onact
+mat/orb
+pet
+trail

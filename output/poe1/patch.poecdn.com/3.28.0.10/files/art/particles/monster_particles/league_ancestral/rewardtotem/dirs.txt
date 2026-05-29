@@ -1,3 +1,0 @@
-mb
-mb/idle_01
-mb/raise

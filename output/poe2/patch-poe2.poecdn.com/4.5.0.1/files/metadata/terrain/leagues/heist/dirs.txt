@@ -1,0 +1,15 @@
+controlblocks
+controlblocks/tiles
+controlblocks/tiles/doors
+controlblocks/tiles/doors/npcexplosivedoor
+controlblocks/tiles/doors/npcexplosivedoor/graphs
+objects
+objects/level
+objects/level/hazards
+objects/spawners
+reliquary
+reliquary/objects
+reliquary/objects/beambridge_long
+reliquary/tiles
+reliquary/tiles/doors
+reliquary/tiles/doors/vault

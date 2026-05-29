@@ -1,0 +1,7 @@
+epks
+fx
+fx/charged
+fx/charged/buildup
+fx/charged/idle
+fx/lightning_trail
+fx/passive_lightning

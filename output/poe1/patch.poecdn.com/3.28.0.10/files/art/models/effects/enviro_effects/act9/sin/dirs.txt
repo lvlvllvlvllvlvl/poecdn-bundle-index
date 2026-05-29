@@ -1,3 +1,0 @@
-unholy_trio_encounter
-unholy_trio_encounter/seed_of_corruption
-unholy_trio_encounter/seed_of_corruption/on_act

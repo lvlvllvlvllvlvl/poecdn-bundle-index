@@ -1,5 +1,0 @@
-epk
-fx
-mat
-mat/smoke
-mat/smoke_general

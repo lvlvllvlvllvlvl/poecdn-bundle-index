@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+5afbc9f03ebe50d6,perandusbox_specular_dxt5.dds,Art/Textures/Environment/interactables/PerandusBox_1,699400,349700
+2ee2ecab8605e108,perandusbox_specular_dxt5.dds.header,Tiny_7,85392223,1520
+8c513b02d8eaf803,perandusbox_normal_dxt5.dds,Art/Textures/Environment/interactables/PerandusBox_1,349700,349700
+235bf02e35e7a78e,perandusbox_normal_dxt5.dds.header,Tiny_7,85390703,1520
+d1363977f09712bc,perandusbox_colour_dxt5.dds,Art/Textures/Environment/interactables/PerandusBox_1,0,349700
+7119ee69bc0b58b8,perandusbox_colour_dxt5.dds.header,Tiny_7,85389183,1520
+836111a8c2bf2e25,perandusbox_colour_bc7.dds,Art/Textures/Environment/interactables/PerandusBox_1,0,349700
+039a2ae8df02e4dc,perandusbox_colour_bc7.dds.header,Tiny_7,85389183,1520
+13bf522e7c8fbe48,perandusbox_colour.dds,Art/Textures/Environment/interactables/PerandusBox,349700,174924
+e62dc46643992868,perandusbox_colour.dds.header,Tiny_7,85387663,1520
+d5ccc3ac3eaa8a9f,perandusboxns.dds,Art/Textures/Environment/interactables/PerandusBox,0,349700
+b0f071961be2961a,perandusboxns.dds.header,Tiny_7,85400073,1520
+89ae0d3957459845,perandusboxc.mat,Tiny_7,85393743,3764
+dd1db61d142f3446,perandusboxcns.mat,Tiny_7,85397507,2566

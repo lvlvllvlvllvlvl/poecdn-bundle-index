@@ -1,0 +1,11 @@
+effigey_large
+effigey_large/epk
+effigey_large/fx
+effigey_large/fx/activate_01
+effigey_large/fx/activated_01
+effigey_large/mat
+effigey_large/mat/activate_01
+effigey_large/mat/activated_01
+omanshrine
+omanshrine/mat
+omanshrine/pet

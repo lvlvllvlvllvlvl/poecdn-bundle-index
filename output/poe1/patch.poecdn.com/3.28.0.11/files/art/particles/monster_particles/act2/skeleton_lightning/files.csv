@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+0ee4ee4b286042f3,static_3x3.mat,Tiny_6,52441559,4944
+ca76c43b2a01a67d,static_3x3_dxt5.dds,Folders/art/particles/monster_particles/act2_1,722008,1398276
+06c6763cd77fbd29,static_3x3_dxt5.dds.header,Tiny_6,52446503,1520
+0e099abe0c16b2bd,sparkling.mat,Tiny_6,52439619,1940
+22aabb2c201014bc,sparkling_dxt5.dds,Tiny_8,49908616,1572
+10dffe30a9fb9871,sparkling_dxt5.dds.header,Tiny_8,49910188,504
+12f81e0b6ee9a019,black_wisps.mat,Tiny_6,52437483,2136
+8a8279d546c6bac5,black_wisps_dxt5.dds,Folders/art/particles/monster_particles/act2,0,87556
+5b15a7d968880bbb,black_wisps_dxt5.dds.header,Tiny_6,92055227,1520
+948c8c3e21e5abb2,arc_beam.mat,Tiny_6,52431545,5938
+78c6fea7ab50fb89,arc_beam_dxt5.dds,Tiny_7,59092832,260
+0e5a5386e25fdbb1,arc_beam_dxt5.dds.header,Tiny_7,59093092,496

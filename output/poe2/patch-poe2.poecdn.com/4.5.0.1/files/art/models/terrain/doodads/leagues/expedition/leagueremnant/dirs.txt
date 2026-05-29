@@ -1,0 +1,8 @@
+attachments
+attachments/bases
+attachments/bases/act2
+attachments/bases/act3
+attachments/bases/act4
+fx
+fx/runewords
+textures

@@ -1,3 +1,0 @@
-laser
-laser_head
-laser_hit

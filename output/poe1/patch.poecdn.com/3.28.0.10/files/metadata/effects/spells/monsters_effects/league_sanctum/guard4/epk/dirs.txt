@@ -1,3 +1,0 @@
-on_act
-on_act/lightning_bolts_01
-on_act/teleport_01

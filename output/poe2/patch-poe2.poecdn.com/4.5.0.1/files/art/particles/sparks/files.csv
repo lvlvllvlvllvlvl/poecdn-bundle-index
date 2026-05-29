@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+caa6ffbaba2b6d8b,spark1.mat,Tiny.VB,41622681,854
+50b492bf6f967c83,spark1_bc1.dds.header,Tiny.VD,35435960,1520
+fb83d82d77e12288,spark1_dxt5.dds,Tiny.VA,41494948,516
+bd3d24b320ac554d,spark1_dxt5.dds.header,Tiny.VA,40479303,1520
+53aea499cf1d4608,lens_flare.mat,Tiny.V9,41878557,1284
+bb0f6c5bc932d102,lens_flare_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/6BFE022A5E838E27.loop_midup.pet,262668,174924
+bccba51bffdfc5e6,lens_flare_dxt1.dds.header,Tiny.VE,4226882,1520
+a0ae980f5fddd052,lightning_ring.mat,Tiny.V0,41497213,1322
+80b458fbb91a478a,lightning_2x2.mat,Tiny.V0,5952515,1502
+564be9311441610d,lightning_2x2_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/spells/C25C428F91B010B1.CE1A4FB1B07C40F6.aoe_light.pet,175448,699212
+35060f9104b520ac,lightning_2x2_dxt1.dds.header,Tiny.VF,35350241,1520
+15bd0aaa49eb40d2,lightning_2x2_bc7.dds,Streaming/Content/metadata/effects/microtransactions/spells/D10CCD4DB5A4BFE1.9F924F40BF93C133.vaal_swipes.pet,577171,1398276
+53849b46cbba781b,lightning_2x2_bc7.dds.header,Tiny.V9,41879841,1520

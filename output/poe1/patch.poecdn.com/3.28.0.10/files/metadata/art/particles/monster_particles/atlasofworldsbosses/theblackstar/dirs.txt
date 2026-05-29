@@ -1,5 +1,0 @@
-tex
-tex/arena_zones
-tex/beam_spear_left_start_01
-tex/intro_01
-tex/meteor_shower_01

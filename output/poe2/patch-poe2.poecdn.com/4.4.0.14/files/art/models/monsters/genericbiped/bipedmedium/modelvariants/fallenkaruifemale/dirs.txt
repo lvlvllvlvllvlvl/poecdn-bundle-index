@@ -1,9 +1,0 @@
-attachments
-attachments/feathers
-attachments/feathers/feather01
-attachments/feathers/feather03
-attachments/hair
-attachments/hair_02
-attachments/robes
-attachments/robes/robe01
-attachments/robes/robe02

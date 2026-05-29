@@ -1,9 +1,0 @@
-abyss
-bouldertrack
-features
-floor
-floorgrate
-ledge
-stairs
-walkway
-walls

@@ -1,0 +1,5 @@
+animations
+animations/arms
+animations/head
+animations/hips
+animations/legs

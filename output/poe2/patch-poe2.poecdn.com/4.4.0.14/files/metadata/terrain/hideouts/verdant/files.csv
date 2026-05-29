@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-e9271dc5c1a2db9a,decoration.hideout,Folders/metadata/terrain,9558309,25846
-f667cacf56011613,random_fill_tiles.gft,Tiny.V2.1,150300139,538
-4f7b35f735f4ceda,generate.rs,Tiny.V1.1,149299582,490
-a92f62cb319906a6,tiles.tst,Tiny.V5.1,148421834,2398
-31383cb4dd23a1d4,master.tsi,Tiny.V6.1,147672774,742
-c5b6a0d7524c7ecb,materials.mtd,Tiny.V5.1,148419074,2760
-2ae5ab9bc7f7cd60,material_overrides.tmo,Content/data/balance/worldareas/mapburialbog.vworld,1441521,44218

@@ -1,4 +1,0 @@
-beam
-lightning_bolt
-lightning_bolt/buildup
-onact

@@ -1,5 +1,0 @@
-attachments
-attachments/bloodpriestfemalehair
-attachments/bloodpriestfemaleheadpiece
-attachments/bloodpriestfemalenecklace
-attachments/bloodpriestfemalerobe

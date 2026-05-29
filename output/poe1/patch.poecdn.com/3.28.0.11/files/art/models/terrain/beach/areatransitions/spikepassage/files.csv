@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+dc31ad4fc88ca498,spike_mesh.sm,Tiny_4,11710930,464
+846bf19563d8d518,rig_a5075af4.smd,Art/Models/Terrain/Beach/areatransitions/spikepassage,22094,57510
+d8c5cb617214ff8b,rig_a5075af4.smd.header,Tiny_4,11710562,368
+47224247d9ce3492,rig.amd,Tiny_4,11710334,228
+976b30721a151afc,rig.ast,Art/Models/Terrain/Beach/areatransitions/spikepassage,9818,12276
+fad8ff806ebb7635,beach_passageblock_v01_01_spikepassagebutton.sm,Tiny_4,11709338,628
+79e2ff980e58395e,beach_passageblock_v01_01_spikepassagebutton.smd,Art/Models/Terrain/Beach/areatransitions/spikepassage,0,9818
+f857a80509ee2616,beach_passageblock_v01_01_spikepassagebutton.smd.header,Tiny_4,11709966,368
+380ae3efded454c0,beach_passageblock_v01_01_spikepassagebutton.amd,Tiny_4,60737005,96
+23faf8201c177a0e,beach_passageblock_v01_01_spikepassagebutton.ast,Tiny_4,11709002,336
+5ed4aa9351c544a0,beach_passageblock_v01_01_area_transition.fmt,Tiny_4,11707657,1177
+b8566095e84306a6,beach_passageblock_v01_01_area_transition.fmt.header,Tiny_4,11708834,168
+6a7ffaa8660119d9,beach_passageblock_v01_01.tgt,Tiny_4,11704550,1830
+ffad373f7ae7e6d1,beach_passageblock_v01_01.tmd,Tiny_4,11706380,1277

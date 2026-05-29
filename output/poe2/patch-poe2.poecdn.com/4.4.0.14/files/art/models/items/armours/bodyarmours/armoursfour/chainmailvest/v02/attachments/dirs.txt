@@ -1,9 +1,0 @@
-female
-female/belt
-female/skirt
-male
-male/belt
-male/skirt
-male/strings
-male/strskirt
-male/strskirt/animation

@@ -1,0 +1,11 @@
+atziri_arena_lanes01
+atziri_arena_mirror01
+atziri_arena_mirror01/textures
+atziri_arena_mirror03
+atzirimirrorwall
+bloodgems
+textures
+textures/monsters
+textures/statues
+textures/statues/past
+textures/thaumaturge

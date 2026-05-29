@@ -1,9 +1,0 @@
-attachments
-attachments/ropeendurance
-attachments/ropefrenzy
-attachments/ropepower
-attachments/roperainbow
-mavenchargebackattachmentendurance
-mavenchargebackattachmentfrenzy
-mavenchargebackattachmentpower
-mavenchargebackattachmentrainbow

@@ -1,2 +1,0 @@
-liquid_scene_test
-liquid_scene_test/materials

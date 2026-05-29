@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+4124bcc448cee528,sulphite_flask.sm,Tiny_3,44879873,460
+96a21810c9f5cc21,sulphite_flask_quest_v01_01.sm,Tiny_3,44880429,480
+b3cd2361e1054141,sulphite_flask_quest_v01_01.amd,Tiny_3,44880333,96
+433338b828f6e7df,sulphite_flask_quest_v01_01.ast,Art/Models/Terrain/Act3/QuestLocations,0,7530
+184caa14f08768b4,sulphite_flask_d18cc8e6.smd,Art/Models/Terrain/Act3/QuestLocations,7530,173623
+5e72acc9a95865cf,sulphite_flask_d18cc8e6.smd.header,Tiny_3,44879505,368
+a06722dd404a8216,sulphite_flask rig_e8c657f9.smd,Art/Models/Terrain/Act3/QuestLocations,181153,280959
+3d186cac37d9a730,sulphite_flask rig_e8c657f9.smd.header,Tiny_3,44879505,368
+73e85db4267679f2,sulphite_flask rig.amd,Tiny_3,44879361,144
+46f4198807875582,sulphite_flask rig.ast,Art/Models/Terrain/Act3/QuestLocations,462112,7536
+927f19c00bd357e3,sulphiteflaskdrop_b06664a9.smd,Folders/art/models/terrain/act3/sceptreofgod,427593,29271
+24381ff95900c5d5,sulphiteflaskdrop_b06664a9.smd.header,Tiny_3,44884962,368
+5dce4e2ec8d4ffbf,sulphiteflaskdrop.sm,Tiny_3,44884518,444
+6b5ab93084258d16,sulphiteflaskdrop.amd,Tiny_3,44880909,190
+0e068e5fb6441be9,sulphiteflaskdrop.ast,Tiny_3,44881099,3419

@@ -1,7 +1,0 @@
-second_explode
-volatiledead_aoe
-volatiledead_fireorb
-volatiledead_fireorb/death
-volatiledead_fireorb/emerge
-volatiledead_fireorb/idle
-volatiledead_fireorb/spellcast_aoe

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+356aaa61f1db5723,orb_01_curvaturec.mat,Tiny.V6.1,123720677,35286
+257b95eec8a5a4c5,abyssorb_baseblur_01_r.mat,Tiny.VB.1,126593203,14190
+ebc1ab09e83f67a2,abyssorb_baseblur_01_u.mat,Tiny.V7.1,5387450,576
+a66a7a70a480332b,abyssorb_baseorb_01_r.mat,Tiny.V5.1,124113572,52218
+6d735d4d866b30c3,abyssorb_baseorb_01_u.mat,Tiny.VA.1,35376988,3026
+6f6337fa510a39d8,abyssorb_gatherribbon_01_r.mat,Tiny.VC.1,126087079,63746
+08409fad2d255e61,abyssorb_gatherribbon_01_u.mat,Tiny.V9.1,127247286,25144
+604ff0e913070a4d,chaosvibes_r.mat,Tiny.V3.1,124055241,36816
+203269123751bffc,core_energy_01_r.mat,Tiny.V8.1,125626364,52326
+2e7d5bef8d5dd5f6,core_energy_01_u.mat,Tiny.V5.1,124165790,3044
+2b17d326e74e7ca8,core_glow_r.mat,Tiny.VF.1,121653000,52828
+947c9cb29d65f805,core_glow_u.mat,Tiny.V9.1,8512594,1004

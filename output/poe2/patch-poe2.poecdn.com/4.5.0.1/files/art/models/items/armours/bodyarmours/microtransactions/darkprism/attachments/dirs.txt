@@ -1,0 +1,6 @@
+chainsbelt
+chainsleftarm
+chainstorso
+chestorb
+shoulderringsleft
+shoulderringsright

@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-d88881a32994b159,pixiedust_r.mat,Tiny.V0.1,103313684,19368
-325a7ffe746b0b47,pixiedust_u.mat,Tiny.VA.1,100183118,23074
-32ef2b8782cf47d8,sphere_distortion_render.mat,Tiny.VF.1,100693872,11246
-8d6accc052c589d0,sphere_distortion_update.mat,Tiny.VD.1,57175354,308
-5bfd186fe3cd09d0,blanketting_fadeout.mat,Tiny.V4.1,103728892,13508
-ee7d2aee0cca6d12,burst_sparks_r.mat,Tiny.V0.1,103313684,19368
-f497a973d472a7c1,burst_sparks_u.mat,Tiny.V9.1,99409694,30690

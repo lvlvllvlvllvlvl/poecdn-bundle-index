@@ -1,3 +1,0 @@
-explosion
-marker
-on_act

@@ -1,7 +1,0 @@
-dash_endslam
-death
-divineblast_delayed
-holyspark
-spellcast
-ss_projectile
-ss_projectile/channeling

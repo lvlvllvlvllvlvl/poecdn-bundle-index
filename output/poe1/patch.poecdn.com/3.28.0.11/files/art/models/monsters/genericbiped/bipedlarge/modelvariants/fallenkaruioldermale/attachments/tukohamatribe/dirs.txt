@@ -1,0 +1,5 @@
+cape
+feather
+hair
+skirt
+weapon

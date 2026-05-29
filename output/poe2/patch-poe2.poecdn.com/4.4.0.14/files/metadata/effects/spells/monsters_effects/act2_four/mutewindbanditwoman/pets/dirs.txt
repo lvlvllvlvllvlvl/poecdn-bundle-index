@@ -1,3 +1,0 @@
-spear_stab
-sword_stab
-sword_sword_meleefx

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+32d8811cfc7328f9,rig_3723133d.smd,Art/Models/Effects/monster_effects/kitava_demon/mortar,0,49336
+59a11c7a2fe0e4dc,rig_3723133d.smd.header,Tiny_2,1933572,368
+e4a4b4c7b332f489,rig.amd,Tiny_2,7735866,162
+37653e27daa1dfc3,rig.ast,Tiny_2,1932905,667
+b13662508aa5d60f,kitavademonmortar.sm,Tiny_2,1930881,752
+07f598563ec769ca,kitavademonmortarimpact.sm,Tiny_2,1932459,446
+7f1c21339981a208,kitavademonmortarimpact.amd,Tiny_2,8273799,94
+369ee5cf87848b8d,kitavademonmortarimpact.ast,Tiny_2,1931633,826
+a2d9e4696cda563f,impact_f8b92d11.smd,Art/Models/Effects/monster_effects/talisman/gore_mortar_1,0,10998
+4fe0935e6ce819b4,impact_f8b92d11.smd.header,Tiny_2,7734328,368

@@ -1,0 +1,2 @@
+sand_storm_arena
+summon_skeleton_boss_01

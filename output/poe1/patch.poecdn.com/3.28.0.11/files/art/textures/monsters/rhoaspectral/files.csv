@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+abaa9a6e960847d4,rhoaspectralc.mat,Tiny_8,41735592,1834
+1b34f03336bc991c,rhoaspectral_colour_dxt5.dds,Art/Textures/Monsters/RhoaSpectral_2,0,349700
+04114a439ddc7913,rhoaspectral_colour_dxt5.dds.header,Tiny_8,41734072,1520
+ecc123113a3f12e5,rhoaspectral_colour_bc7.dds,Art/Textures/Monsters/RhoaSpectral_2,0,349700
+b9766b8f68e6e5eb,rhoaspectral_colour_bc7.dds.header,Tiny_8,41734072,1520
+fa3ddd3571813c53,rhoaspectral_colour.dds,Art/Textures/Monsters/RhoaSpectral,0,174924
+05893b6b48c10e65,rhoaspectral_colour.dds.header,Tiny_8,41732552,1520
+dd75471583507afd,rhoaspectral_alphac.mat,Tiny_8,41729428,3124
+8ba433fbb251bd0c,rhoaspectral_alpha.dds,Art/Textures/Monsters/RhoaSpectral,174924,349700
+aca7e4afaffb192f,rhoaspectral_alpha.dds.header,Tiny_8,41727908,1520
+34b11eb374d46046,lightning_tile.mat,Tiny_8,41726928,980
+50dcca6d77bf7838,lightning_tile.dds,Art/Textures/Monsters/RhoaSpectral,524624,87556
+82ffe88c260baa0d,lightning_tile.dds.header,Tiny_8,41725408,1520
+a7d5aff60c12117d,black_solidc.mat,Tiny_8,41723832,1576
+acd04cb3ddd14765,black_solid.dds,Tiny_8,50662373,332
+4568c48768de82fe,black_solid.dds.header,Tiny_8,50662705,1520

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+f070e676a5b982c4,tri_1a.arm,Folders/metadata/items_1,4236468,5002
+9cb64c4f9a219f20,tri_blocked_1a.arm,Folders/metadata/8/terrain_1,6638547,5478
+8e328c484b638492,straight_blocked_1a.arm,Folders/metadata/2/terrain_1,2655351,5066
+2d73e94af992d0c5,straight_1a.arm,Folders/metadata/2/terrain_1,4716815,4888
+9e9c65e72143001a,straight_1b.arm,Metadata/Terrain.B_8,85018,4610
+abd3245ead038a26,open_1a.arm,Tiny_51,1605433,3834
+aef6e2142d5659b2,open_blocked_1a.arm,Folders/metadata/pet_2,6031946,5168
+f7c2969a7b368060,hallway_open_1a.arm,Metadata/Terrain.4_2,56918,6366
+032519ed7974359c,hallway_straight_1a.arm,Folders/metadata/monsters,4591998,6810
+5879b918ce90c49f,hallway_straight_1b.arm,Folders/metadata/pet_2,6025488,6458
+933dfa468956cb84,hallway_corner_1a.arm,Folders/metadata/alternateskillgraphs,3868536,5800
+524aac89e3df9dea,hallway_corner_1b.arm,Folders/metadata/monsters,4586392,5606
+b5304d56697be88f,corner_1a.arm,Folders/metadata/5/terrain_1,2846916,6016
+0bd6fb6ab58230ef,corner_1b.arm,Folders/metadata/items_1,4231538,4930

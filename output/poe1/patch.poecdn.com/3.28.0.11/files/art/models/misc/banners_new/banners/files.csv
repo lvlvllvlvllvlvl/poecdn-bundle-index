@@ -1,0 +1,33 @@
+hash,file,bundle,offset,size
+66fcd4b98e73e9bb,warbanner_armour _10743cbf.smd,Art/Models/Misc/Banners_new/Banners,317611,28988
+705876024e6f8ae9,warbanner_armour _10743cbf.smd.header,Tiny_2,73330228,1221
+ff438339d738b30a,warbanner.sm,Tiny_2,73334482,514
+6c2708db31eea44e,warbanner.amd,Tiny_3,22365406,88
+d4b08d385b175da4,warbanner.ast,Tiny_2,73333311,1171
+b33ee17e7f3f3fe6,puresteelbanner_armour_da3066d0.smd,Art/Models/Misc/Banners_new/Banners,235709,81902
+0da2d72edcb3ed06,puresteelbanner_armour_da3066d0.smd.header,Tiny_2,73332113,1198
+4607ea32d6e66682,puresteelbanner.sm,Tiny_2,73331619,494
+c6e9f1dda3a1593d,puresteelbanner.amd,Tiny_3,22365406,88
+151e62816baa50c5,puresteelbanner.ast,Tiny_2,73325120,1171
+72b5f6fae3ed879a,helm.fmt,Art/Models/Misc/Banners_new/Banners,203504,32205
+e307b8c0f141b3f6,helm.fmt.header,Tiny_2,73331449,170
+346f60c7b4050cff,catarinabanner_armour_184ecfe0.smd,Art/Models/Misc/Banners_new/Banners,174520,28984
+c092d2d3edde35fd,catarinabanner_armour_184ecfe0.smd.header,Tiny_2,73330228,1221
+cc6b74a947bec9e4,catarinabannerfresh_armour_184ecfe0.smd,Art/Models/Misc/Banners_new/Banners,174520,28984
+87457b07201cc3f4,catarinabannerfresh_armour_184ecfe0.smd.header,Tiny_2,73330228,1221
+a0e9f2f6c34ed660,catarinabannerfresh.sm,Tiny_2,73329618,610
+b6f1a61b1ca41138,catarinabannerfresh.amd,Tiny_3,22365406,88
+e34b5affdf748e04,catarinabannerfresh.ast,Tiny_2,73327981,1165
+0b176c5c6c1e741f,catarinabanner.sm,Tiny_2,73329146,472
+6de6ffd3d213fa3d,catarinabanner.amd,Tiny_3,22365406,88
+666a7002da069a86,catarinabanner.ast,Tiny_2,73327981,1165
+dd384dd1bc4fccec,bloodstainedbanner_armour_d1105031.smd,Art/Models/Misc/Banners_new/Banners,78050,96470
+8debbfaef5114205,bloodstainedbanner_armour_d1105031.smd.header,Tiny_2,73326783,1198
+739cd6e1c9782836,bloodstainedbanner.sm,Tiny_2,73326291,492
+f81d56740ad978b5,bloodstainedbanner.amd,Tiny_3,22365406,88
+29b943768c9deb70,bloodstainedbanner.ast,Tiny_2,73325120,1171
+10534b7a6662a806,armourevasionbanner_armour_83088213.smd,Art/Models/Misc/Banners_new/Banners,0,78050
+a629aa90c475b84e,armourevasionbanner_armour_83088213.smd.header,Tiny_2,73323922,1198
+cfb5c76acddf50f0,armourevasionbanner.sm,Tiny_2,73323412,510
+2e70b5413a321ec7,armourevasionbanner.amd,Tiny_3,17004175,88
+f9f5cf0854317039,armourevasionbanner.ast,Tiny_2,73322241,1171

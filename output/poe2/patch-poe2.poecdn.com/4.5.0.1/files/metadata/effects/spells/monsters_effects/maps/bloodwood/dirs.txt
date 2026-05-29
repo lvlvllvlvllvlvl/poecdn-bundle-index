@@ -1,0 +1,8 @@
+epk
+fx
+fx/ondeath
+fx/pustule_explode
+graphs
+mat
+mat/ondeath
+mat/pustule_explode

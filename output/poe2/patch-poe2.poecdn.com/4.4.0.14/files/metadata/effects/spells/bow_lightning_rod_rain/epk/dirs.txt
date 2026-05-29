@@ -1,2 +1,0 @@
-projectile_01
-projectile_01/proj_grd_stuck_01

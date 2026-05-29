@@ -1,6 +1,0 @@
-bonerabble
-defaultskeleton
-fleshpicked
-playersummonedskeleton
-shrikeskeleton
-zomboskeleton

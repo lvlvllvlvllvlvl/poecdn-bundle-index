@@ -1,9 +1,0 @@
-ascendancy
-ascendancy/sorceress
-ascendancy/sorceress/discipleofthedjinn
-ascendancy/sorceress/discipleofthedjinn/firedjinn
-ascendancy/sorceress/discipleofthedjinn/firedjinn2d
-ascendancy/sorceress/discipleofthedjinn/sanddjinn
-ascendancy/sorceress/discipleofthedjinn/sanddjinn2d
-ascendancy/sorceress/discipleofthedjinn/waterdjinn
-ascendancy/sorceress/discipleofthedjinn/waterdjinn2d

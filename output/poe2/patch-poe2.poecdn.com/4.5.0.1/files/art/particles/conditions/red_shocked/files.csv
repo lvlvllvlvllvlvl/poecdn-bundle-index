@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+a981fcadb684f3c7,flipbook.dds,Streaming/Content/metadata/effects/spells/supports/C6E09EBB5B84DDF3.shocked_red_large.epk,0,349732
+6e6a158cc7db9ff1,flipbook.dds.header,Tiny.V1,34358515,504
+808826b9322c2853,flipbook_bc1.dds,Streaming/Content/metadata/effects/spells/raisezombie_02/zombieblood.epk,445054,174940
+ecba89abfcce2907,flipbook_bc1.dds.header,Tiny.VE,34038365,504
+e97c7513fa8ba670,grad_lightning.mat,Tiny.V1,34359019,1710
+8457a23a955060fd,grad_lightning.dds,Streaming/Content/metadata/effects/spells/supports/C6E09EBB5B84DDF3.shocked_red_large.epk,349732,5636
+b47b26b1cece2617,grad_lightning.dds.header,Tiny.VF,34540158,1520
+bb134b4241bdb54f,lightning_bolts.mat,Tiny.VD,34569900,1736
+4e7c854a1177347f,lightning_bolts_dxt5.dds,Streaming/Content/metadata/effects/spells/supports/C6E09EBB5B84DDF3.shocked_red_large.epk,355368,1398308
+3921aaf940b464a8,lightning_bolts_dxt5.dds.header,Tiny.V4,34677794,504

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+24cf8e03992bed21,pickaxecns.mat,Art/Textures/Items/weapon/axes/Pickaxe,0,5524
+ec42d71afe873720,pickaxe_specular.mat,Tiny_8,23350391,1016
+664e36611be7bb08,pickaxe_specular.dds,Art/Textures/Items/weapon/axes/Pickaxe_1,699236,699236
+f04bb3297b05a9c8,pickaxe_specular.dds.header,Tiny_8,23349551,840
+cf61d996667ebdf0,pickaxe_gloss.mat,Tiny_8,23348553,998
+b1c5851222c7806c,pickaxe_gloss.dds,Art/Textures/Items/weapon/axes/Pickaxe_1,0,699236
+7872d0d3d19cd846,pickaxe_gloss.dds.header,Tiny_8,23347713,840
+c7f28bfdd560af90,pickaxe_colour.dds,Art/Textures/Items/weapon/axes/Pickaxe,1403996,349692
+37a5752b26da2519,pickaxe_colour.dds.header,Tiny_8,23346873,840
+fb364ed704f1a002,pickaxe_ao.mat,Tiny_8,23345893,980
+2074ddea0155b795,pickaxe_ao.dds,Art/Textures/Items/weapon/axes/Pickaxe,704760,699236
+bdd8700bddb82973,pickaxe_ao.dds.header,Tiny_8,23345053,840
+d70ecf04731d6680,pickaxens.dds,Art/Textures/Items/weapon/axes/Pickaxe,5524,699236
+91b321dd75b3c6e5,pickaxens.dds.header,Tiny_8,23351407,840

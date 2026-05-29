@@ -1,3 +1,0 @@
-garden
-textures
-textures/interior

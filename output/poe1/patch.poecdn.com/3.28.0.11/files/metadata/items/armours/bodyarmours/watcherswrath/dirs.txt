@@ -1,0 +1,4 @@
+attachments
+attachments/shoulderpads
+attachments/skirt
+attachments/skirtplates

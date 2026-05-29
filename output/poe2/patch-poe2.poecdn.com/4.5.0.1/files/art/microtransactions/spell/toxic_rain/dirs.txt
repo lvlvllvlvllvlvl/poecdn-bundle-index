@@ -1,0 +1,4 @@
+auspicious
+auspicious/mb
+auspicious/mb/rope
+auspicious/texture

@@ -1,0 +1,11 @@
+attachments
+attachments/chaosgodowliceskin
+attachments/chaosgodowliceskin/eyebrows
+attachments/chaosgodowliceskin/feathers
+attachments/chaosgodowliceskin/feathers/chest
+attachments/chaosgodowliceskin/feathers/l_arm
+attachments/chaosgodowliceskin/feathers/legs
+attachments/chaosgodowliceskin/feathers/r_arm
+attachments/feathers
+fx
+textures

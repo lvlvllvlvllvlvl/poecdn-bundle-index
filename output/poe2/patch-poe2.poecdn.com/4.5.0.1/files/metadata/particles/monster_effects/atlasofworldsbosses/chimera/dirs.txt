@@ -1,0 +1,5 @@
+charged_attack
+charged_attack/charge_up
+charged_attack/release_max
+charged_attack/shadow01
+ninja_smoke

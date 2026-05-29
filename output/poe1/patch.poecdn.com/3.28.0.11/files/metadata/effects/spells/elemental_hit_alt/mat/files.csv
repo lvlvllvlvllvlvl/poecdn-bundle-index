@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+b87f5e2761429126,frost_r.mat,Tiny_D,86906310,22420
+ac61831539874738,frost_u.mat,Tiny_D,86928730,3744
+a8e1aa184c3b478f,flames_r.mat,Tiny_D,86877646,17518
+4ba4a2cc2ff3d1ef,flames_u.mat,Tiny_D,86895164,11146
+81a844a09659fc7f,elehit_alt_cold_r.mat,Tiny_D,86857608,20038
+6d59ba612f87e541,elehit_alt_explosion_r.mat,Tiny_D,86857608,20038
+28e51552003f0554,elehit_alt_explosion_u.mat,Tiny_D,86831460,2594
+e5d656deaa2905e0,electric_r.mat,Tiny_D,86834054,23554
+128eb1a98a037303,electric_u.mat,Tiny_E,50586712,302
+376a816e8c1c807e,core_r.mat,Tiny_D,86820216,11244
+aa5029c57dfdf07e,core_u.mat,Tiny_D,86831460,2594

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+bcb7d7294ccab5a4,rig_39aa9901.smd,Art/Models/MapDevices/BloodlordMapDevice_1,0,1186909
+2325108d7ee19735,rig_39aa9901.smd.header,Tiny_2,70316085,476
+3098339331851abe,rig.amd,Tiny_2,70315825,260
+b645b10c4fb32a22,rig.ast,Art/Models/MapDevices/BloodlordMapDevice_1,1186909,15982
+92dbab0b20f39d03,bloodlordurn.fmt,Art/Models/MapDevices/BloodlordMapDevice,0,323866
+713be7a9219137f9,bloodlordurn.fmt.header,Tiny_2,70308793,416
+e5ae33294c3c8054,bloodlordmapdevice.sm,Tiny_2,70304517,4276
+e06bd2ef04dac4e4,bloodlordmapdevice.fmt,Art/Models/MapDevices/BloodlordMapDevice,323866,1772046
+767dcfa85eca592a,bloodlordmapdevice.fmt.header,Tiny_2,70303696,821

@@ -1,6 +1,0 @@
-qof_revive
-qof_revive/chest
-qof_revive/limbs
-revive
-scientist_surge
-scientist_surge/burst

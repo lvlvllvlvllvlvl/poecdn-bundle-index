@@ -1,4 +1,0 @@
-barrel
-debris
-debris/mb
-debris/textures

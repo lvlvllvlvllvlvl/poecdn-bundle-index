@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+5f7a3c96b90a228c,smokegreenhighlight.mat,Tiny.VB,35009752,1412
+ff00e7357012b357,smokegreenhighlight.dds,Streaming/Content/metadata/terrain/doodads/act9/EF3ED85F7958D91D.stalagmite04.ao,958195,87556
+939b77da0f0e1f2d,smokegreenhighlight.dds.header,Tiny.VF,34980821,1520
+9b69ff9ebc7a05af,lightinggrad.mat,Tiny.V0,34998574,1058
+66c4bcd99710a663,lightinggrad.dds,Streaming/Content/metadata/terrain/doodads/act9/EF3ED85F7958D91D.stalagmite04.ao,936175,22020
+66eef7b136c7d4c4,lightinggrad.dds.header,Tiny.VD,35041491,1520
+0f4f5a635296bbb4,blood_multi.mat,Tiny.V9,35282334,1960
+79d20d464df47511,blood_multi.dds,Streaming/Content/metadata/terrain/doodads/act9/EF3ED85F7958D91D.stalagmite04.ao,61827,174948
+dc015ea1e935311e,blood_multi.dds.header,Tiny.VC,35166600,840
+6f13cdaaa73b8805,cold_smoketest_microshimmer.mat,Tiny.VA,35059273,1272
+b1ad095da2e9a25b,cold_smoketest_microshimmer.dds,Streaming/Content/metadata/terrain/doodads/act9/EF3ED85F7958D91D.stalagmite04.ao,586475,349700
+bba611e8ad2ce04a,cold_smoketest_microshimmer.dds.header,Tiny.V4,41096631,1520
+028e184418ea1aa9,cold_smoketest_micro.mat,Tiny.V8,34559838,2300
+f41a406f9b984a4b,cold_smoketest_micro.dds,Streaming/Content/metadata/terrain/doodads/act9/EF3ED85F7958D91D.stalagmite04.ao,236775,349700
+c78d74bda6770a14,cold_smoketest_micro.dds.header,Tiny.V8,34558318,1520

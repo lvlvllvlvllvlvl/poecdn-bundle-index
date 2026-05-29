@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+7c79d190366dda8b,thin_lightning.mat,Tiny_7,51430423,2486
+9bb3646b8fc3d93e,thin_lightning.dds,Art/particles/static_whip,174948,174948
+7f7998609d4c5972,thin_lightning.dds.header,Tiny_7,51429583,840
+b5d589ef07167109,test_lightning.mat,Tiny_7,51427975,1608
+a32ca9c46759761f,test_lightning.dds,Art/particles/static_whip/Ice,262700,174948
+655f3af1c0dfd006,test_lightning.dds.header,Tiny_7,51427135,840
+5da32dcb045103d4,glow.mat,Tiny_7,51400899,1372
+0bd00610ab8aac0e,glow.dds,Art/particles/static_whip,0,174948
+d4960dcab2d0d0b5,glow.dds.header,Tiny_7,51400059,840

@@ -1,0 +1,6 @@
+armour
+bear
+demon
+shared
+wolf
+wyvern

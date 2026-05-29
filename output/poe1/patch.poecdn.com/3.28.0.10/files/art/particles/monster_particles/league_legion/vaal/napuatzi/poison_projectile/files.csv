@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-f2f19b7cb6b8ddda,ground_bits.mat,Tiny_7,4105008,3854
-3c70bd364b30e225,ground_bits_dxt5.dds,Folders/art/particles/bladeburst/ninjashotgun,0,43876
-7ab17bbee2669891,ground_bits_dxt5.dds.header,Tiny_7,43215961,840
-dfccad79933aed68,fire_lookup_dxt5.dds,Tiny_7,4101296,2212
-c85c1b585ec5e462,fire_lookup_dxt5.dds.header,Tiny_7,4103508,280
-baffc2654c0052ff,fire_lookup.mat,Tiny_7,4103788,1220
-fdad90f24a8cbfa4,fire_lookup.dds,Tiny_7,4101296,2212
-4c6e54f6441aa3be,fire_lookup.dds.header,Tiny_7,4103508,280

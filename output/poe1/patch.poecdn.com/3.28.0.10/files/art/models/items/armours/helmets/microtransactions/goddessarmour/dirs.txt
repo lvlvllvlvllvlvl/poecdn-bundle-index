@@ -1,4 +1,0 @@
-helmetf
-helmetf/attachments
-helmetm
-helmetm/attachments

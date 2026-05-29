@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+cf2ee31527afe6e8,broodguardsmalletchedbeetlec.mat,Tiny.V8,12078693,2616
+70a08afa6b179987,broodguardsmalletchedbeetle_normal_dxt5.dds,Streaming/Content/metadata/monsters/etchedbeetles/smallbroodguardbeetle.ao.1,0,5592580
+9962852c3b3d0da9,broodguardsmalletchedbeetle_normal_dxt5.dds.header,Tiny.VF,12233744,1520
+c9d3da4d6b677ad4,broodguardsmalletchedbeetle_colour_dxt5.dds,Streaming/Content/metadata/monsters/etchedbeetles/smallbroodguardbeetle.ao,0,5592580
+7c08ef601f838baf,broodguardsmalletchedbeetle_colour_dxt5.dds.header,Tiny.V7,12149278,1520
+e6c04f1fc66077cb,broodguardreplicatorc.mat,Tiny.VA,12142148,5396
+179f93634c779ca9,broodguardreplicator_glow_dxt1.dds,Streaming/Content/data/worldareas/76/null.vworld,0,2796364
+3017cdc5c93bd8c4,broodguardreplicator_glow_dxt1.dds.header,Tiny.VD,12121070,1520
+80d493f9920be948,broodguardreplicator_mask_dxt1.dds,Streaming/Content/data/balance/worldareas/06/null.vworld,11185160,2796364
+cc965ee3815c40f9,broodguardreplicator_mask_dxt1.dds.header,Tiny.VB,12215822,1520
+7d2befc560fa3db5,broodguardreplicator_bentnormal_dxt5.dds,Streaming/Content/data/worldareas/6E/null.vworld,0,5592580
+1895646ccec9728a,broodguardreplicator_bentnormal_dxt5.dds.header,Tiny.VD,12119550,1520
+6bd431b4cc6729ed,broodguardreplicator_normal_dxt5.dds,Streaming/Content/data/balance/worldareas/55/null.vworld,0,5592580
+840ebc27e873cbe7,broodguardreplicator_normal_dxt5.dds.header,Tiny.VC,12026524,1520
+b3dff95d84ca2589,broodguardreplicator_colour_dxt5.dds,Streaming/Content/data/worldareas/2A/null.vworld,0,5592580
+9c067eb8e3159090,broodguardreplicator_colour_dxt5.dds.header,Tiny.V0,12334077,1520

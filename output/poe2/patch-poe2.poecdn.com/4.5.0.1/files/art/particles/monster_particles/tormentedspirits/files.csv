@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+1fdd9eda44a63868,energy_bloodc.mat,Tiny.V7,41011499,3060
+661da1d55b7648e4,energy_blood.dds,Streaming/Content/metadata/effects/spells/monsters_effects/2BC74FC430E2EC26.FC8119653DE046C8.lightning_strike_midline.pet,491302,22020
+e0d622b123880e2a,energy_blood.dds.header,Tiny.V8,40536101,1520
+39c09a98b557fff5,wisp_smoke_base.mat,Tiny.V2,40939333,2618
+701991521e193d31,wisp_smoke_base_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.98C3EF3960F9A627.end_midline.pet.1,1853541,87556
+220911bce7a4d63e,wisp_smoke_base_dxt5.dds.header,Tiny.V4,40805021,1520
+7b5b1c6b140c5151,green_wisps.mat,Tiny.VB,41278512,2950
+7d53791fac860bc8,green_wisps_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.98C3EF3960F9A627.end_midline.pet.1,1765985,87556
+a8d89347a647e821,green_wisps_dxt5.dds.header,Tiny.V3,6494591,1520
+cb4b8722cc58dab1,trail_soul.mat,Tiny.V7,41014559,3830
+a8dfba933ed97aa5,trail_soulc.mat,Tiny.V0,41108000,962
+26266e549781f43b,trail_soul_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.98C3EF3960F9A627.end_midline.pet.1,1743965,22020
+edfd3717e0402e1a,trail_soul_dxt5.dds.header,Tiny.VE,40657905,1520
+768b519679d045c9,trail_soul_bc1.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.98C3EF3960F9A627.end_midline.pet.1,1732881,11084
+cf51a89e9378bd2a,trail_soul_bc1.dds.header,Tiny.V9,41522353,1520

@@ -1,8 +1,0 @@
-mb
-mb/screech
-mb/spear_barrage_cascade
-mb/spear_barrage_cascade/cascade
-mb/spear_barrage_cascade/projectile
-textures
-textures/sbc_projectile
-textures/spear_barrage_cascade

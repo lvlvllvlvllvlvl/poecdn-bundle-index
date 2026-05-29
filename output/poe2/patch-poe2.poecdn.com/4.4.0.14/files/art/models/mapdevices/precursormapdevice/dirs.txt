@@ -1,7 +1,0 @@
-attachments
-attachments/orb
-attachments/portals
-precursormapdevicelarge
-precursormapdevicepodium
-precursormapdevicesmall
-textures

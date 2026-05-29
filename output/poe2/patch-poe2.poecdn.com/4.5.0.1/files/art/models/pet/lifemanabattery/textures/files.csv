@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+4f9b8fd4cafb3dd5,batterypetc.mat,Tiny.V3,13241480,1986
+eedd9978a0c3686b,batterypet_normal_dxt5.dds,Streaming/Content/art/models/pet/lifemanabattery/dronev2.fmt,1398276,1398276
+35b8c3c6999ef483,batterypet_normal_dxt5.dds.header,Tiny.V7,13375712,1520
+f59fc273ec11bd08,batterypet_colour_dxt5.dds,Streaming/Content/art/models/pet/lifemanabattery/dronev2.fmt,0,1398276
+b4ef152aea2a6d33,batterypet_colour_dxt5.dds.header,Tiny.V5,13187623,1520

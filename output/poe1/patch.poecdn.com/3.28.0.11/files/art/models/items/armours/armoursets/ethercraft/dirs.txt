@@ -1,0 +1,5 @@
+attachment
+textures
+textures/chaotic
+textures/enraged
+textures/tranquil

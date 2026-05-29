@@ -1,6 +1,0 @@
-banshee
-epic_screech
-stone_pillar
-stone_pillar/curse_aura
-stone_pillar/emerge
-stone_pillar/spellcast

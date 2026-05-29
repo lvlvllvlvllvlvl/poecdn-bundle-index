@@ -1,4 +1,0 @@
-attack_01
-cyclone_01
-run_01
-spellcast_projectile_multi_01

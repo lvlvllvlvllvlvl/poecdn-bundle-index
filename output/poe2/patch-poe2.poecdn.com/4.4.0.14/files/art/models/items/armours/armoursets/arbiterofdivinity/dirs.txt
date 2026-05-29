@@ -1,5 +1,0 @@
-attachments
-attachments/aodfeathersl
-attachments/aodshawl
-attachments/aodskirt
-textures

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+8e542710c0feaa3f,yugulglyph01_sss_dxt1.dds,Art/Textures/Doodads/YugulGlyph01_3,1398276,699212
+c3bb0feca4eb6770,yugulglyph01_sss_dxt1.dds.header,Tiny_7,63359927,1520
+5c224ff2d51f49e0,yugulglyph01_sss_bc7.dds,Art/Textures/Doodads/YugulGlyph01_3,0,1398276
+6f23ed682042be74,yugulglyph01_sss_bc7.dds.header,Tiny_7,63357529,1520
+c59355d4ec309e47,yugulglyph01_sss.mat,Tiny_7,63359049,878
+8eee18df81ecd337,yugulglyph01_sss.dds,Art/Textures/Doodads/YugulGlyph01_3,0,1398276
+cbf64260bf9a79be,yugulglyph01_sss.dds.header,Tiny_7,63357529,1520
+61d620e2cd7106e6,yugulglyph01_normal_dxt5.dds,Art/Textures/Doodads/YugulGlyph01_1,0,1398276
+dcabdcfeae55cd8b,yugulglyph01_normal_dxt5.dds.header,Tiny_7,63356009,1520
+98ea95d08f7422fb,yugulglyph01_gloss.mat,Tiny_7,63355011,998
+c16c4497335c571a,yugulglyph01_gloss.dds,Art/Textures/Doodads/YugulGlyph01_2,0,1398276
+61a9bd10c1e70c61,yugulglyph01_gloss.dds.header,Tiny_7,63353491,1520
+487aed9e4e765e55,yugulglyph01_colour_dxt1.dds,Art/Textures/Doodads/YugulGlyph01,0,699212
+005c3722d9293bfa,yugulglyph01_colour_dxt1.dds.header,Tiny_7,63351971,1520
+c8f2bbd77dac2d67,yugulglyph01c.mat,Tiny_7,63361447,2736
+54bec2796ff2460b,yugulglyph01cns.mat,Tiny_7,63361447,2736

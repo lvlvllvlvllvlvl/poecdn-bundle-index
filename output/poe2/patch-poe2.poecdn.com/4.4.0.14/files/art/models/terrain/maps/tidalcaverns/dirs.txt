@@ -1,9 +1,0 @@
-tiles
-tiles/corridor
-tiles/corridor/tgms
-tiles/ledge
-tiles/ledge/tgms
-tiles/thickwall
-tiles/thickwall/tgms
-tiles/thinwall
-tiles/thinwall/tgms

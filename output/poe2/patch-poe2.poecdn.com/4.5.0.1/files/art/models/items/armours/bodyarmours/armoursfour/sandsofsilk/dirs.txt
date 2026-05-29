@@ -1,0 +1,6 @@
+attachments
+attachments/belt
+attachments/cloak
+attachments/skirt
+attachments/skirtdex
+textures

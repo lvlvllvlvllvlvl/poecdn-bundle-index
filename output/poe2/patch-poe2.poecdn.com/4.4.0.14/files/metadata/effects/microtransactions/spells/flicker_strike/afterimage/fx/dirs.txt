@@ -1,2 +1,0 @@
-on_hit
-vaal_on_hit

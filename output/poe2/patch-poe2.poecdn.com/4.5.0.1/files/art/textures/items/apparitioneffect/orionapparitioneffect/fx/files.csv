@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+1f4db3ab37a34032,flash_ring.mat,Tiny.V6,47449804,2316
+c9edd9e158a8c5a8,flash_ring_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/aura/CEC340428371ADA8.A2423F3D01E7A113.orb.pet,0,349700
+cbaae61d1b975f17,flash_ring_dxt5.dds.header,Tiny.VB,47502270,1520
+61697736aa4a9767,shim_ring.mat,Tiny.VC,47754996,1044
+600f3ceb5041a7d7,space_bg.mat,Tiny.V4.1,25436,3036
+1ea6800bf82f7ec3,spiral_space.mat,Tiny.VC,47756040,1566
+d01b6d7a8808fe4d,spiral_space_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/aura/CEC340428371ADA8.A2423F3D01E7A113.orb.pet,349700,349700
+6c73b4b3f517fa7c,spiral_space_dxt5.dds.header,Tiny.VB,47503790,1520
+f8afdb73c81ac44a,grad_purple.mat,Tiny.V9,47913568,1146
+4d126bfc751f955f,grad_space_dark.mat,Tiny.VE,47063812,1524
+c64fd0823f2adf14,grad_orb_dark.mat,Tiny.V5,46865417,1160
+5821c63315a6475a,grad_blink.mat,Tiny.V0.1,24954,1190

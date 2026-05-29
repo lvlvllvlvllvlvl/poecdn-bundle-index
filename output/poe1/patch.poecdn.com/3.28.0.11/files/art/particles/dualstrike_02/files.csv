@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+548431666423d9b3,sparkling.mat,Tiny_6,22579886,1478
+c3881c3f216e70f3,sparkling_dxt5.dds,Tiny_8,49908616,1572
+5a14808acf8b4ab0,sparkling_dxt5.dds.header,Tiny_8,49910188,504
+59acba1cdf1d3fea,slash01_8x8.mat,Tiny_6,22577600,2286
+d7f1fc2b6bd7e0d0,slash01_8x8_dxt5.dds,Art/particles/weapon_hit_fx/fx,0,5592580
+ce896c5c256e6cac,slash01_8x8_dxt5.dds.header,Tiny_7,59725097,1520
+e82c29e589147455,hit.mat,Tiny_6,22575260,2340
+4610e9869e48e3da,hit_dxt5.dds,Folders/art/particles/weapon_hit_fx/fx,0,87556
+93aa34131d1febdd,hit_dxt5.dds.header,Tiny_7,59713161,1520
+ffbd7d65b5d14fca,blade_base.mat,Tiny_6,22572038,1702
+7f7555ee983bedb5,blade_base_dxt5.dds,Art/particles/dualstrike_02,0,87556
+4277e9deff933639,blade_base_dxt5.dds.header,Tiny_6,22573740,1520

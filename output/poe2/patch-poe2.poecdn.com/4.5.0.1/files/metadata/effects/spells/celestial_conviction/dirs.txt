@@ -1,0 +1,4 @@
+debuff
+debuff/pet
+ignite
+ignite/pet

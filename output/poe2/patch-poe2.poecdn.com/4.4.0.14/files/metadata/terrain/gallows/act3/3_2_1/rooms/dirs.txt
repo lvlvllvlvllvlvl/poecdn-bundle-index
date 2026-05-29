@@ -1,4 +1,0 @@
-ants
-border
-fills
-fills/ant_tree_fill

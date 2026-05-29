@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+365e840a35dd644e,side_2.arm,Folders/metadata/items_1,3788722,8770
+52e30059265ec542,side_2_2.arm,Folders/metadata/monsters,1552510,8924
+5a3f236fcf44d90e,side_1.arm,Folders/metadata/2/terrain_1,2244997,8390
+7b864041c59f9225,side_1_2.arm,Folders/metadata/items_2,2091651,8576
+ff9105505b0cedd6,map_gap_1.arm,Folders/metadata/mapdevices,4833004,16594
+c62537483116d929,map_gap_2.arm,Folders/metadata/3/terrain_1,3400223,16596
+d4a6308d041ce6d8,corner_2_1_1.arm,Folders/metadata/enginegraphs_1,794838,16588
+b200ef515a14bf4f,corner_2_1_2.arm,Folders/metadata/mapdevices,4816262,16742
+01e4f8eb0dac8012,corner_1_2_1.arm,Folders/metadata/itemfilters,3303482,18104
+b6ca59a0cdc2b26e,corner_1_2_2.arm,Folders/metadata/monsters,1423004,17974
+befa94c4e7338d28,corner_1_1_1.arm,Folders/metadata/monsters,1405066,17938
+279fb2ae80037bed,corner_1_1_2.arm,Folders/metadata/alternateskillgraphs,3209082,17468

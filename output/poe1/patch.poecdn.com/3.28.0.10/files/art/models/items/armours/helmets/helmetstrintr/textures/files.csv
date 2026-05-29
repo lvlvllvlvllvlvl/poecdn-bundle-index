@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-f59d4e5b38f707e7,crownmask_specularc.mat,Tiny_2,41474486,2980
-186bb150d844d4af,crownmask_specular_colour_dxt1.dds,Art/Models/Items/Armours/Helmets/HelmetStrIntR_1,175112,87548
-7eb02f8c9c5a3e5a,crownmask_specular_colour_dxt1.dds.header,Tiny_2,41473646,840
-3a810acefc912ed4,crownmask_normal_dxt5.dds,Art/Models/Items/Armours/Helmets/HelmetStrIntR_1,87556,87556
-9d10e598131a7dea,crownmask_normal_dxt5.dds.header,Tiny_2,41472126,1520
-2ce0b37b45f742a0,crownmask_glow_dxt5.dds,Art/Models/Items/Armours/Helmets/HelmetStrIntR_1,0,87556
-fff3975679442592,crownmask_glow_dxt5.dds.header,Tiny_2,41470606,1520

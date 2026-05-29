@@ -1,4 +1,0 @@
-aura
-banner_emerge
-epk
-large_aura

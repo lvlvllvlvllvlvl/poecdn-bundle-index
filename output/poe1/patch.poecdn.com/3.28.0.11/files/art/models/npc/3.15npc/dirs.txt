@@ -1,0 +1,10 @@
+animations
+attachments
+attachments/bow
+attachments/hatfeathers
+attachments/neckfeathers
+attachments/sextant
+attachments/sword
+attachments/swordholder
+attachments/swordholder/attachment
+textures

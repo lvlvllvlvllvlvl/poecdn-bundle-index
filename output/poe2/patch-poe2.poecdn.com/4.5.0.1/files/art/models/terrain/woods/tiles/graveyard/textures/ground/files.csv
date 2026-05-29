@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+83cfd4747024d327,g_ggy_cobblestonepath03.mat,Tiny.V8,32170569,1482
+e1b1b9af0fa2b793,g_ggy_cobblestonepath03_normal.dds,Streaming/Content/data/worldareas/CF/c_g1_7.vworld,320449,1398276
+98cf6b8de19b408e,g_ggy_cobblestonepath03_normal.dds.header,Tiny.V5,31894787,1520
+ed1af25be4421f99,g_ggy_cobblestonepath03_colour.dds,Streaming/Content/data/worldareas/7E/c_g1_7.vworld,698769,1398276
+ea0fe3a8da4dcfa2,g_ggy_cobblestonepath03_colour.dds.header,Tiny.V1,32300610,1520
+48dfd66de080beec,g_ggy_cobblestonepath02.mat,Tiny.VF,32503776,1482
+167030f8901b86ee,g_ggy_cobblestonepath02_normal.dds,Streaming/Content/data/worldareas/4D/c_g1_7.vworld,28211,1398276
+ff7a51727532c4a9,g_ggy_cobblestonepath02_normal.dds.header,Tiny.V4,32618770,1520
+c32d716a72a3660c,g_ggy_cobblestonepath02_colour.dds,Streaming/Content/data/worldareas/4E/c_g1_7.vworld,899955,1398276
+bd31a0205829bba6,g_ggy_cobblestonepath02_colour.dds.header,Tiny.V6,32305525,1520
+e8300ec51d756131,g_ggy_cobblestonepath01.mat,Tiny.V9,32730762,1482
+70c97dff52799ba3,g_ggy_cobblestonepath01_normal.dds,Streaming/Content/data/worldareas/28/c_g1_7.vworld,177373,1398276
+7bc5048393067d8b,g_ggy_cobblestonepath01_normal.dds.header,Tiny.VF,32502256,1520
+ab28e815bc7b56d5,g_ggy_cobblestonepath01_colour.dds,Streaming/Content/data/worldareas/3A/c_g1_7.vworld,0,1398276
+f258c76b1e99c697,g_ggy_cobblestonepath01_colour.dds.header,Tiny.VD,32471920,1520

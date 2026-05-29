@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+ca484c4bbefe1bfe,trail_bloom.mat,Tiny_6,48886662,1562
+7942da381c8d8da8,trail_bloom.dds,Tiny_6,107696224,2892
+871a8bc5bd701fe1,trail_bloom.dds.header,Tiny_6,107699116,1520
+42950510f65c9a4f,light_ring_add.mat,Tiny_6,48885194,1468
+f87e138fe53948a4,light_ring_add.dds,Art/particles/Masters/Tora,0,43852
+cc74acc31cb27987,light_ring_add.dds.header,Tiny_6,48883674,1520
+1aa327dfc8f07cb2,arrowcns.mat,Tiny_6,48879776,3898
+edf2aee16352a1fc,arrow_glow_mask_dxt1.dds,Art/particles/Masters/Tora,43852,43852
+6efa68d43ed031f5,arrow_glow_mask_dxt1.dds.header,Tiny_6,48878256,1520
+96aa8d46ce7cdc74,arrow_colour.dds,Art/particles/Masters/Tora,87704,87556
+ffc60d30caf8fe41,arrow_colour.dds.header,Tiny_6,48876736,1520
+30762f9f00914223,arrowns.dds,Folders/art/particles/monster_particles/league_betrayal_11,1156308,87556
+c1a4078042b93aee,arrowns.dds.header,Tiny_7,57966756,1520

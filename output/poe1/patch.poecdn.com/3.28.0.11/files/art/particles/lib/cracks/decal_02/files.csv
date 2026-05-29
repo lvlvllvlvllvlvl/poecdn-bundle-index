@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+eed6bffc45058361,decal_02_normal_dxt5.dds,Folders/art/particles/lib/cracks,524772,349700
+2e7555ea909bd785,decal_02_normal_dxt5.dds.header,Tiny_6,43473050,1520
+cb8e0e15ba1d314d,decal_02_mask_dxt1.dds,Folders/art/particles/lib/cracks,349848,174924
+633a6b4e8acc21b7,decal_02_mask_dxt1.dds.header,Tiny_6,43471530,1520
+505315fc539a5cd9,decal_02_height_dxt5.dds,Folders/art/particles/lib/cracks,174924,174924
+c187635d1fd3ecc8,decal_02_height_dxt5.dds.header,Tiny_6,43470010,1520
+84b455be9ccfcfaa,decal_02_curvature_dxt1.dds,Folders/art/particles/lib/cracks,0,174924
+bce5902e3a23adad,decal_02_curvature_dxt1.dds.header,Tiny_6,43468490,1520

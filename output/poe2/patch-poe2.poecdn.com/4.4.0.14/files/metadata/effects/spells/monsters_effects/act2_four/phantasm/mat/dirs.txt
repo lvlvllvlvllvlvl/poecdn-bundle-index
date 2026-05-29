@@ -1,5 +1,0 @@
-projectile_sanctum
-projectile_sanctum_impact
-projectile_sanctum_onact
-teleport
-teleport_emerge

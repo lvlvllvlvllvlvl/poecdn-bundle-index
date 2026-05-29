@@ -1,0 +1,15 @@
+attachments
+epk
+epk/portal_summon
+fx
+fx/portal_summon
+graph
+mat
+mat/body_idle
+mat/centerpoint_idle
+mat/enter_along
+mat/enter_body_along
+mat/exit_body_along
+mat/portal_open_burst
+mat/portal_summon
+mat/surge_core

@@ -1,0 +1,4 @@
+bolt
+chargeup
+outer_orb
+projectile

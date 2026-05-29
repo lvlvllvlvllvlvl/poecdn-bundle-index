@@ -1,0 +1,17 @@
+cold
+cold/graphs
+condecon_fx
+drone_projectiles
+drone_target
+fire
+general_proj
+guardian_deathfx
+guardian_deathfx/graphs
+lightning
+phys
+phys/graphs
+pre_synthesise
+pre_synthesise/ao
+ribbons
+wings
+wings/graphs

@@ -1,8 +1,0 @@
-doodads
-doodads/textures
-doodads/textures/furnitures
-doodads/textures/plants
-textures
-textures/background
-textures/rocks
-tgms

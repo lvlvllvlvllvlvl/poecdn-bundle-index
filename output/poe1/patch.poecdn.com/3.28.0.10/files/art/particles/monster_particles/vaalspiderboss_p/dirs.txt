@@ -1,9 +1,0 @@
-basicmortar
-cleave
-death_acid
-egghatch
-eggmortarimpact
-riptideprojectile
-webbed_epk
-webmortar
-webmortar/impact

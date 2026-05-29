@@ -1,6 +1,0 @@
-cape
-cape_collar
-l_shoulderpad
-r_shoulderpad
-sword
-waist_cape

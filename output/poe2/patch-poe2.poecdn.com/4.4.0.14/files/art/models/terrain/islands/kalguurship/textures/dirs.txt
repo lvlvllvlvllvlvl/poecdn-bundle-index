@@ -1,7 +1,0 @@
-carving
-doodads
-door
-metal
-rigging
-shipparts
-wood

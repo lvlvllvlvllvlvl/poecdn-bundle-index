@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+b2a5a56a287d781e,actboss.ot,Tiny_E,57746649,290
+50bd3e1ce2616121,extrafunctions.ot,Tiny_E,90377979,1074
+df390c71dfa238aa,standaloneboss.ot,Tiny_E,212718881,138
+0076f5f52229ea76,standalonemapboss.ot,Tiny_E,212719019,386
+753c03544ca1a263,standalonemonster.ot,Tiny_E,212719405,82
+c255839379fb72c1,monster.ot,Tiny_E,167259627,6406
+2ace8af9dc004e72,monsterdeleteshortlyafterdeath.ot,Tiny_E,167266033,118
+e3501313f20fb916,monsterignoremeleepatternrange.ot,Tiny_E,167266151,212
+9fe479dc44f8b65d,bossbase.ot,Tiny_E,76238515,12490
+ab672b49a6d196e7,bosslifebar.ot,Tiny_E,76251005,3672
+21db96e0b977346a,bosslight.ot,Tiny_E,76254677,3470

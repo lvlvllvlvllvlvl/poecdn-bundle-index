@@ -1,2 +1,0 @@
-character_selection
-character_selection/character_splash

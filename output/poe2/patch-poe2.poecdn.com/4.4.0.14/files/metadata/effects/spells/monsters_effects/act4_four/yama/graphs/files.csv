@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-71e0143aa3b31547,timefreeze.fxgraph,Content/metadata/monsters/yamaboss/yamaboss.ao,714336,74238
-b2371898362186aa,timestrings_revealbytimeline.fxgraph,Content/metadata/effects/spells/monsters_effects/league_delirium/80983161B53C610D.floating_explosion_idle_ring.pet,5413126,23862
-15e1feb9823c1921,customfadebytimelinefloat.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/F1B52535E3154293.onact_attack_01.trl,422074,10972
-75e8716e173b81a9,custom_eyeglowfade_tlf.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/F1B52535E3154293.onact_attack_01.trl,441446,10986
-34c04ec58f168f53,custom_scale_bytimelinefloat.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/ED93B2C1966D7550.vomit_decal_01.pet,470982,9782
-1e4da4eada59a3b4,custom_screenspaceblur.fxgraph,Content/metadata/monsters/yamaboss/yamaboss.ao,546070,57466
-cf828f92ef7b1421,playerclones_alphactrl.fxgraph,Content/metadata/monsters/yamaboss/yamaboss.ao,603536,14722
-5941fa526b367c2e,playerclones_lookupcolour.fxgraph,Content/metadata/monsters/yamaboss/yamaboss.ao,618258,96078

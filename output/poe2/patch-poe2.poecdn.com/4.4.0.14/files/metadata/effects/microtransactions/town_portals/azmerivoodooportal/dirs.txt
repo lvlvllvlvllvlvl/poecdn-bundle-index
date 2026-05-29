@@ -1,6 +1,0 @@
-fx
-fx/townportal
-fx/townportalopen
-mat
-mat/townportal
-mat/townportalopen

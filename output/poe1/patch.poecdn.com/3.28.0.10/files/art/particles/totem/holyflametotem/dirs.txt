@@ -1,3 +1,0 @@
-projectile
-totem
-totem/emerge

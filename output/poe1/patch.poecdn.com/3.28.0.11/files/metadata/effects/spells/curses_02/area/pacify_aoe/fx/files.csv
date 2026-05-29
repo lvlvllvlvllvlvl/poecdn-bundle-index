@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e365876c52f8a8ad,pacify_base.pet,Tiny_D,80764100,19518
+d06d3a7aa088dd0a,pacify_cyl.pet,Tiny_D,80783618,4822
+8dd69414fdf91d13,pacify_doom.pet,Tiny_D,80788440,20468
+7a239e9fae88485a,pacify_doom_cyl.pet,Tiny_D,80808908,14294
+d8ee1788a4fdbd38,pacify_doom_end.pet,Tiny_E,245507053,19262
+8acd7310e4f6f459,pacify_doom_idle.pet,Tiny_E,245526315,9220
+cf114c02d930932a,pacify_doom_idle_cyl.pet,Tiny_E,245535535,5540
+86e63f72bea6480d,base_cast_effect.pet,Tiny_D,80744626,14640
+27f9e2c848e33f66,base_cast_effect_cyl.pet,Tiny_D,80759266,4834

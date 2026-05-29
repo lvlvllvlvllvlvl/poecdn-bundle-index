@@ -1,3 +1,0 @@
-large_explosion
-marker
-upgraded

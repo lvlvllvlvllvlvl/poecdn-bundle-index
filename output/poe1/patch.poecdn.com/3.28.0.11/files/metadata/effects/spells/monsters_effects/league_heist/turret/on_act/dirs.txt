@@ -1,0 +1,6 @@
+military
+robot
+science
+science_net
+thug
+thug_net

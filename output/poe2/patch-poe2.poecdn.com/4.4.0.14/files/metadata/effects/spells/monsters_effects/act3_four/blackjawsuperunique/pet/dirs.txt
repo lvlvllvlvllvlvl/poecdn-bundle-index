@@ -1,6 +1,0 @@
-emerge_statue_01
-fire_breath_lacerate_01
-fire_breath_lacerate_01/fireball
-fire_breath_lacerate_01/grd_burn
-footsteps
-melee_trail_attack_phase01_01

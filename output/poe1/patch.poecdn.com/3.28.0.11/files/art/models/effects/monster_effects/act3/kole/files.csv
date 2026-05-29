@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+3a1fef091bbf35ab,basicattacks.sm,Tiny_1,90184101,280
+e8dbd74b651e2b0c,rig_be5b7ba5.smd,Tiny_7,26916353,72
+7ddabb0c14909fe7,rig_be5b7ba5.smd.header,Tiny_7,59368247,368
+0ed8a4cfe886b335,rig.amd,Tiny_1,90185001,156
+5dae956ac60fa8fc,rig.ast,Tiny_1,90185157,1360
+5cc06767080a48bb,kolesmash.amd,Tiny_7,26942013,94
+7d08f067d759998e,kolesmash.ast,Tiny_1,90184381,620

@@ -1,0 +1,5 @@
+fx
+fx/mat
+fx/mat/burst_incense
+fx/mat/projectile
+fx/mat/slam

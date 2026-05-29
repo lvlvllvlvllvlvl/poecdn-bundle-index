@@ -1,0 +1,7 @@
+attachments
+attachments/crown
+attachments/l_shoulder_cloth
+attachments/r_elbow_cloth
+attachments/r_shoulder_cloth
+attachments/robe
+texture

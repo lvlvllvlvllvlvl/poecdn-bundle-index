@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+812cd442fec8f201,wisp_es.mat,Tiny_7,46031431,2734
+0f4214695470d3c7,wisp_es_spin.mat,Tiny_7,46034165,2112
+f23268ec4c23fd57,wisp_es_spin_dxt1.dds,Tiny_7,46057159,2892
+00adea235b74bb1c,wisp_es_spin_dxt1.dds.header,Tiny_7,46060051,1520
+57c3196eeaddfc48,wisp_es_dxt1.dds,Folders/art/particles/volatile_dead_chaos,566736,5628
+e2a77ea41fb4d404,wisp_es_dxt1.dds.header,Tiny_7,46053963,840
+181e416d5a4e437d,trail_multi.mat,Tiny_7,46027909,3522
+b413802ef961aac6,trail_multi_dxt3.dds,Folders/art/particles/volatile_dead_chaos,378952,11108
+f9aec53da14edcb7,trail_multi_dxt3.dds.header,Tiny_7,46143987,840
+f9022957fa32a644,soul_trail_add.mat,Tiny_7,46025185,2724
+254cb0d90da882c6,soul_trail_add_dxt1.dds,Folders/art/particles/volatile_dead_chaos,572364,5628
+f517763944237d3e,soul_trail_add_dxt1.dds.header,Tiny_7,46043757,840
+e7039119422706a5,dark_light.mat,Tiny_7,46023105,2080
+a7668dc93b4b6cb3,dark_light_dxt1.dds,Tiny_7,46122731,2892
+e34d7bb3f61adfff,dark_light_dxt1.dds.header,Tiny_7,46125623,1520

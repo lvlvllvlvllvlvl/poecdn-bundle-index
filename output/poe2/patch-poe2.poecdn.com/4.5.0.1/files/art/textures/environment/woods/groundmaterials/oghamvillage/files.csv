@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+3e8891b3168c9681,g_ogv_mud01_normal.dds,Streaming/Content/data/balance/worldareas/mapplantation.vworld.3,20303662,1398276
+1f3e2acdaac692c2,g_ogv_mud01_normal.dds.header,Tiny.V9,34148794,1520
+e04f4e2a551939db,g_ogv_mud01_colour.dds,Streaming/Content/data/balance/worldareas/mapplantation.vworld.3,18905386,1398276
+4f3b343f9fbca485,g_ogv_mud01_colour.dds.header,Tiny.V6,33788630,1520
+6cb913e322e5075f,g_ogv_puddles02.mat,Tiny.V1,43211608,1252
+770689419222decb,g_ogv_puddles02_normal.dds,Streaming/Content/data/balance/worldareas/1C/hideoutfarmlands.vworld,1398276,1398276
+fe236baf746071ad,g_ogv_puddles02_normal.dds.header,Tiny.VC,43572008,1520
+522fcfd69b408c2f,g_ogv_puddles02_colour.dds,Streaming/Content/data/balance/worldareas/1C/hideoutfarmlands.vworld,0,1398276
+b689976cdbddcc51,g_ogv_puddles02_colour.dds.header,Tiny.VA,43437929,1520
+7404d1e90deaac59,g_ogv_puddles01.mat,Tiny.VF,43220543,1252
+a085433ff92cea82,g_ogv_puddles01_normal.dds,Streaming/Content/data/balance/worldareas/E4/hideoutfarmlands.vworld,0,1398276
+f8bc404e9133ac19,g_ogv_puddles01_normal.dds.header,Tiny.V8,42717817,1520
+e0417bc534d184eb,g_ogv_puddles01_colour.dds,Streaming/Content/data/balance/worldareas/95/hideoutfarmlands.vworld,0,1398276
+6cb003bc581f068c,g_ogv_puddles01_colour.dds.header,Tiny.V4,43493353,1520

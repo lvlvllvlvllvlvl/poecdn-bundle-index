@@ -1,4 +1,0 @@
-particles
-particles/close
-particles/idle
-particles/open

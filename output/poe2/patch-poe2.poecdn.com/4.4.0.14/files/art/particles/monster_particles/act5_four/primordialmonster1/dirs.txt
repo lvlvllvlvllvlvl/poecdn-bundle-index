@@ -1,9 +1,0 @@
-mb
-mb/discharge_explosion
-mb/modbeam
-mb/volatile_fireflies
-textures
-textures/discharge_explosion
-textures/modbeam
-textures/volatile_fireflies
-textures/volatile_fireflies/detonate

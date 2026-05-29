@@ -1,3 +1,0 @@
-epk
-pet
-town_idle

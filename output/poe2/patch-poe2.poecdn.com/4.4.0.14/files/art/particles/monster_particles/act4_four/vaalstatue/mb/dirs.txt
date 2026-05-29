@@ -1,7 +1,0 @@
-ball_lightning
-balllightning_connectlaser
-beam_aoe
-charged_shock_nova
-combo_laser_blast
-laser
-triangle_slam

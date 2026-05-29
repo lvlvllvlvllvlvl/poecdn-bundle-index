@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+b0f75b750ac4f01e,deathskullc.mat,Tiny.VD.1,1080663,1928
+64b085a5f47d4520,deathskull_normal_dxt5.dds,Streaming/Content/data/balance/worldareas/sanctum_4.vworld.2,13673110,87556
+d821eceef9b80394,deathskull_normal_dxt5.dds.header,Tiny.VF.1,1527926,1520
+ffae1423a5e4f6fd,deathskull_colour_dxt5.dds,Streaming/Content/data/balance/worldareas/sanctum_4.vworld.2,13585554,87556
+40f90acc7a846189,deathskull_colour_dxt5.dds.header,Tiny.VF.1,1526406,1520
+8be63e21062027db,kamikazestone_spc.mat,Tiny.V2.1,1267086,2522
+4b89fb1600e662e3,kamikazestone_glow_sp_dxt1.dds,Streaming/Content/metadata/monsters/terracottakamikaze/terracottakamikaze.ot,2989329,699212
+d1102d7824c7f634,kamikazestone_glow_sp_dxt1.dds.header,Tiny.VE.1,1200980,1520
+48ef3117f94ce25c,kamikazestone_normal_sp_dxt5.dds,Streaming/Content/metadata/monsters/terracottakamikaze/terracottakamikaze.ot,3688541,1398276
+ac10a2024a020d2f,kamikazestone_normal_sp_dxt5.dds.header,Tiny.V1.1,752550,1520
+88ba6ea17582bd5e,kamikazestone_colour_sp_dxt5.dds,Streaming/Content/metadata/monsters/terracottakamikaze/terracottakamikaze.ot,1591053,1398276
+c4cee91fcdb126f4,kamikazestone_colour_sp_dxt5.dds.header,Tiny.V7.1,1591020,1520

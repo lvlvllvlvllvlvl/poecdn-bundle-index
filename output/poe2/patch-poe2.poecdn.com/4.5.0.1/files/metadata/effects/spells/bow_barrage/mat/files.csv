@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+586cf2a6a75391fa,muzzle_ribbon_r.mat,Tiny.V0.1,71712424,47458
+b30130975efbd936,muzzle_ribbon_u.mat,Tiny.VA.1,71568986,3834
+08a07bfd1c298497,muzzle_sparks_r.mat,Tiny.V8.1,73252546,18840
+77960030ae479e36,muzzle_sparks_u.mat,Tiny.V9.1,75211522,7754
+a5522f2904912b86,buff_ring_r.mat,Tiny.V5.1,71130610,24898
+a206653abf280a88,buff_ring_u.mat,Tiny.VE.1,12556962,310
+7e0d470fe0eff4ba,buff_glow_r.mat,Tiny.VD.1,71061088,14044
+9af180262ea7cdff,buff_glow_u.mat,Tiny.V0.1,71686418,1106
+fca405e766d9c80e,buff_glow_charges_r.mat,Tiny.VF.1,69047914,14048
+d2529c3feaea3c64,buff_core_r.mat,Tiny.VC.1,72916061,29938
+5e62cb4007feadd0,buff_core_u.mat,Tiny.V0.1,71686418,1106
+e2aee1a02c163551,buff_core_charges_r.mat,Tiny.V6.1,71910463,32192
+e728658957ec5aa3,buff_flash_pass_spear.mat,Tiny.V7.1,68957894,29522
+f88c71e0d9a4f875,buff_flash_pass.mat,Tiny.V4.1,71113782,29520

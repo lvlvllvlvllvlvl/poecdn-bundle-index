@@ -1,4 +1,0 @@
-fx
-fx/loreobject
-mat
-mat/loreobject

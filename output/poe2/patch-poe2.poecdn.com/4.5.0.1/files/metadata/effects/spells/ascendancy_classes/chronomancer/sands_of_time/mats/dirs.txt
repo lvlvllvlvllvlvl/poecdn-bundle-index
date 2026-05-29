@@ -1,0 +1,2 @@
+leftarm_speed
+rightarm_aoe

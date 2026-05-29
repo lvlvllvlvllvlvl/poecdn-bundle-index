@@ -1,0 +1,12 @@
+ao
+graph
+mat
+mat/fireworks
+mat/magic
+mat/rare
+mat/unique
+pet
+pet/fireworks
+pet/magic
+pet/rare
+pet/unique

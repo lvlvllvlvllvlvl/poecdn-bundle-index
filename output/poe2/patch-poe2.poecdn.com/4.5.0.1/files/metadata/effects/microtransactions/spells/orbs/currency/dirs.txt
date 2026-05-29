@@ -1,0 +1,15 @@
+fx
+fx/ao
+fx/epk
+fx/graph
+fx/mat
+fx/mat/chaosorb
+fx/mat/chaosorb/nova
+fx/mat/exaltedorb
+fx/mat/exaltedorb/nova
+fx/mat/vaalorb
+fx/mat/vaalorb/nova
+fx/pet
+fx/pet/chaos
+fx/pet/exalted
+fx/pet/vaal

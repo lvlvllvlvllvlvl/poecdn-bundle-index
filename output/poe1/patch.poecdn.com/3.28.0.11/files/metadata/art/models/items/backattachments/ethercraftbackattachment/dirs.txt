@@ -1,0 +1,5 @@
+textures
+textures/fx
+textures/fx/chaotic
+textures/fx/enraged
+textures/fx/tranquil

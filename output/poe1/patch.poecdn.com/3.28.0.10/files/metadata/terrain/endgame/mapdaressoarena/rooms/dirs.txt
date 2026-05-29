@@ -1,5 +1,0 @@
-colosseum
-fill
-hallway
-hallway/1x1
-unique

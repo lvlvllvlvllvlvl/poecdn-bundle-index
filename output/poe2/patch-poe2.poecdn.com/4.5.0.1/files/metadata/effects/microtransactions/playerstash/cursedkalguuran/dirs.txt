@@ -1,0 +1,14 @@
+epk
+fx
+graphs
+mat
+mat/mouth_gold
+mat/mouth_open_glow
+mat/mouth_rays_idle
+mat/renderpasses
+mat/tentacle_submerge
+mat/tentacles_dust
+mat/tentacles_emerge_pt
+mat/water_splashes
+mat/waterdrips
+mat/waterpuddle

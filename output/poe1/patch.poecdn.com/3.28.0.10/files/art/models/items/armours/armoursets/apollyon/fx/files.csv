@@ -1,6 +1,0 @@
-hash,file,bundle,offset,size
-2fb7251a3f5cb178,neurons.mat,Tiny_2,12133293,1940
-cfcfd98077721c68,torchfires.mat,Tiny_2,12135233,2492
-34c11ed67bdef49f,torchfires_masked.mat,Tiny_2,12137725,2352
-80ffa1d1ec6c7f96,flames.mat,Tiny_2,12126217,3466
-83a8870734b8bb08,flames_masked.mat,Tiny_2,12129683,3312

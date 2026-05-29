@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+37eea770c3b48e16,ball_coreglow_01_r1.mat,Tiny.V3.1,67563865,36854
+d8f1cadb218fb25c,laser_beam_r.mat,Tiny.VF.1,2465808,21032
+717a4ed07a5e938f,laser_beam_u.mat,Tiny.V7.1,3151368,3008
+7d1ebaec538dfac9,mblur_sphere_r.mat,Tiny.V5.1,2566768,9412
+60fcd9a64b99a930,mblur_sphere_u.mat,Tiny.V8.1,3529614,2204
+38e5249dc4d2910a,coreglow_01_r.mat,Tiny.V7.1,3088930,62438
+833b6b000003b862,coreglow_01_u.mat,Tiny.VA.1,3897032,2200
+10d46dfbe01c4d1d,zoom_distort_r.mat,Tiny.V1.1,2767644,8966
+b8c67bfe1e135bed,zoom_distort_u.mat,Tiny.VB.1,166449219,1568

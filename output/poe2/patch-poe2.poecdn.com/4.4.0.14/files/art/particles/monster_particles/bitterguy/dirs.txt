@@ -1,3 +1,0 @@
-body_fx
-portal
-spawn_effect

@@ -1,0 +1,6 @@
+mb
+mb/fire_beam
+mb/object
+textures
+textures/fire_beam
+textures/object

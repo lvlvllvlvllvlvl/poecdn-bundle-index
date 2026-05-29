@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+e8ecced19b9ffac6,seal_rune_glow_body.fxgraph,Content/metadata/items/armours/bodyarmours/bodyint1a.ao,657268,73204
+5cc4bec668dc8005,seal_rune_glow.fxgraph,Content/metadata/effects/microtransactions/bodyarmours/wings/6998AE4B5687F4B6.scrollseekerbackattachment_t02_held.ao,191893,23748
+354e99fbdf96dea7,custom_bonelineemitter.fxgraph,Content/metadata/items/armours/bodyarmours/bodyint1a.ao,89034,205414
+7c51311de5c071cc,custom_cullparticle.fxgraph,Content/metadata/items/armours/bodyarmours/bodyint1a.ao,294448,10664
+db7d8b3d7128841e,custom_emissive_mult.fxgraph,Content/metadata/items/armours/bodyarmours/bodyint1a.ao,305112,6458
+7aa90f466b3bed70,custom_mask_uvs_static.fxgraph,Content/metadata/items/armours/bodyarmours/bodyint1a.ao,311570,38352
+493f05a4aa7f7c7b,custom_mask_uvs_static_02.fxgraph,Content/metadata/items/armours/bodyarmours/bodyint1a.ao,765072,42004
+76515055ff1ed57b,custom_mask_uvs_static_03.fxgraph,Content/metadata/items/armours/bodyarmours/bodyint1a.ao,349922,307346

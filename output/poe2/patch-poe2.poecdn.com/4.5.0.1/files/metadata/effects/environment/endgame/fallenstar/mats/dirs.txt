@@ -1,0 +1,5 @@
+arenabarrier_radiant
+playerbarrier
+triskellion_buildup
+triskellion_burst
+triskellion_idle

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+026bf2cb26121b16,custom_vtx_sandshape.fxgraph,Folders/metadata/effects_6,13877196,173118
+c9baded44b4ff9c9,field_sand_init.fxgraph,Folders/metadata/effects_6,14050314,429086
+81c3cbc7f9fe3f8b,lockingfix.fxgraph,Folders/metadata/effects_6,14479400,50898
+a25fa5d11799b63d,uv_twist.fxgraph,Folders/metadata/effects_6,15039894,14664
+700304d22986ab86,sandbasinctrl.fxgraph,Folders/metadata/effects_6,14643652,53804
+f2d79b83a2d7eefc,sandflow.fxgraph,Folders/audio/dialogue/npc/villagershideoutdoodad_4,1513678,80672
+f6f9ea2f1f461fca,sandnormalfix.fxgraph,Folders/metadata/effects_6,14697456,60552
+3571c6095451e156,sandparticlectrl.fxgraph,Folders/metadata/effects_6,14758008,160782
+7bae9ba700aa9aec,sandtimer.fxgraph,Folders/metadata/effects_6,14918790,121104
+b25f35d1954b2764,refractioncustom.fxgraph,Folders/metadata/effects_6,14530298,69748
+43a9d17afff709b2,reversalctrl.fxgraph,Folders/metadata/effects_6,14600046,43606

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+b8b546d829c78439,eternalempirec.mat,Tiny_7,60341717,3090
+c4af5f6b95ba3f30,eternalempire_normal_dxt5.dds,Art/Textures/Chests/LegionLeagueChestAssets/EternalEmpire_2,349692,349700
+9692b25e7855eaa9,eternalempire_normal_dxt5.dds.header,Tiny_7,60340197,1520
+fb822acc212d4956,eternalempire_colour_spec_dxt5.dds,Art/Textures/Chests/LegionLeagueChestAssets/EternalEmpire_1,0,1398308
+ec31af21d0dfb76c,eternalempire_colour_spec_dxt5.dds.header,Tiny_7,60339693,504
+80faf684e29e38a4,eternalempire_colour.dds,Art/Textures/Chests/LegionLeagueChestAssets/EternalEmpire_2,0,349692
+cf9de302317c38df,eternalempire_colour.dds.header,Tiny_7,60338853,840
+02770127b1c32ab0,eternalempirelargec.mat,Tiny_7,60347167,3180
+98104cf7a2b94918,eternalempirelarge_normal_dxt5.dds,Art/Textures/Environment/interactables/Strongboxes_1,524772,349700
+ebf609c53d467d7a,eternalempirelarge_normal_dxt5.dds.header,Tiny_7,85473951,1520
+eb2663b7126a8c09,eternalempirelarge_colour_spec_dxt5.dds,Art/Textures/Chests/LegionLeagueChestAssets/EternalEmpire_3,0,699236
+258e774c6b72bfd3,eternalempirelarge_colour_spec_dxt5.dds.header,Tiny_7,60346327,840
+ecd88309e3d95724,eternalempirelarge_colour.dds,Art/Textures/Chests/LegionLeagueChestAssets/EternalEmpire,0,174924
+9148aac375ccefe1,eternalempirelarge_colour.dds.header,Tiny_7,60344807,1520

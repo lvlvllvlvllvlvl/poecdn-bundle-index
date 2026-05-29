@@ -1,9 +1,0 @@
-architectlightning
-architectlightning/firestorm
-cultistsergeantmelee
-cultistsergeantmelee/weapon_throw
-napuatzi
-vaal_sergeant
-vaal_sergeant/basic_vaal_blood_slam
-vaal_sergeant/soulrend
-vaal_sergeant/vaal_geyser_barrage

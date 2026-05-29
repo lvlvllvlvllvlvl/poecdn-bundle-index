@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+d9ef1bd5ccbe723e,shards.mat,Tiny_1,24495351,3030
+e7b6c033b94df571,shards_dxt1.dds,Tiny_1,75550142,844
+b80a30acf22f43ab,shards_dxt1.dds.header,Tiny_1,75550986,1520
+3b902b3ca51a1bcf,shards2.mat,Tiny_1,24498381,2992
+718d62f2b8f3d7ff,shards2_dxt1.dds,Tiny_1,75546890,2972
+100ae9e3a64bd866,shards2_dxt1.dds.header,Tiny_1,75549862,280
+90fb22769cfc1e89,grad_fl.mat,Tiny_1,24489214,3300
+d4824f94f826b91f,grad_fl_dxt5.dds,Folders/art/microtransactions/character_fx/ringsofsaturn,440075,22020
+8d9c2a64d0797d94,grad_fl_dxt5.dds.header,Tiny_8,29892528,1520
+88adc1bd41b700ca,grad_blk_fl.mat,Tiny_1,24487052,2162
+2b8f8289f341ea9a,grad_blk_fl_dxt1.dds,Tiny_8,49165318,2892
+9d391821b689e0ed,grad_blk_fl_dxt1.dds.header,Tiny_8,49168210,1520

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+721d4d606dd15d70,midnightpactportalc.mat,Tiny_3,24056857,6876
+d465a61707cae80c,midnightpactportal_shatterc.mat,Tiny_3,24053371,3486
+316d89f8bcd07f4c,midnightpactportal_shatter_normal_dxt5.dds,Art/Models/Portals/MidnightPactPortal/Textures_3,0,1398276
+c9cb0ad32c957f84,midnightpactportal_shatter_normal_dxt5.dds.header,Tiny_3,24051851,1520
+342a61cda4e5c6d4,midnightpactportal_shatter_dxt5.dds,Art/Models/Portals/MidnightPactPortal/Textures_2,0,1398276
+716a41249f6abfab,midnightpactportal_shatter_dxt5.dds.header,Tiny_3,24050331,1520
+682cc960611ae051,midnightpactportal_normal_dxt5.dds,Art/Models/Portals/MidnightPactPortal/Textures_6,0,5592580
+ec41b883249367f3,midnightpactportal_normal_dxt5.dds.header,Tiny_3,24048811,1520
+f12dd2cd7eebdd04,midnightpactportal_metalc.mat,Tiny_3,24044915,3896
+00f854b9c8f7f3e4,midnightpactportal_metal_dxt1.dds,Art/Models/Portals/MidnightPactPortal/Textures_5,1398276,2796364
+a5948a167f66a454,midnightpactportal_metal_dxt1.dds.header,Tiny_3,24043395,1520
+b008980a24c0e90c,midnightpactportal_glow_dxt5.dds,Art/Models/Portals/MidnightPactPortal/Textures_5,0,1398276
+ae5e1ed5c7ecff4a,midnightpactportal_glow_dxt5.dds.header,Tiny_3,24041875,1520
+f4de6965b714af26,midnightpactportal_colour_dxt1.dds,Art/Models/Portals/MidnightPactPortal/Textures_1,0,2796364
+87358c6ba708be21,midnightpactportal_colour_dxt1.dds.header,Tiny_3,24040355,1520

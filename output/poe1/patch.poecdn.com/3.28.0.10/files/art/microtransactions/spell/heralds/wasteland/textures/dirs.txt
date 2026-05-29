@@ -1,8 +1,0 @@
-fire
-handeffect
-ice
-ice/handeffect
-lightning
-lightning/activebuff
-lightning/handeffect
-sand

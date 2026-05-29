@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8a058dced9ba34df,lightupc.mat,Tiny_5,62359988,1416
+eca09cf7161995ee,hellscapewallc.mat,Art/Models/Terrain/Leagues/Hellscape/Textures_2,0,4864
+afab9f8bac8ce558,hellscapewall_normal_dxt5.dds,Art/Models/Terrain/Leagues/Hellscape/Textures_5,0,1398276
+119d918cde25e93d,hellscapewall_normal_dxt5.dds.header,Tiny_5,62358468,1520
+4fc6d9d3ac1a6559,hellscapewall_height_dxt1.dds,Art/Models/Terrain/Leagues/Hellscape/Textures_4,0,174924
+f8d5300490c7a3cb,hellscapewall_height_dxt1.dds.header,Tiny_5,62356948,1520
+3eb53cd9c38dad46,hellscapewall_colour_dxt5.dds,Art/Models/Terrain/Leagues/Hellscape/Textures_3,0,1398276
+bc8c6ab341ef5111,hellscapewall_colour_dxt5.dds.header,Tiny_5,62355428,1520
+82db831e3fd34137,hellscapebonesironc.mat,Tiny_5,62351782,3646
+c77f9cb2d7ab8f40,hellscapebonesiron_normal_dxt5.dds,Art/Models/Terrain/Leagues/Hellscape/Textures_1,0,2796388
+0e53f45c389f88ed,hellscapebonesiron_normal_dxt5.dds.header,Tiny_5,62350942,840
+0c99fbbede67d367,hellscapebonesiron_metal_dxt1.dds,Art/Models/Terrain/Leagues/Hellscape/Textures,1398268,1398268
+71c23aa7fe7b4e15,hellscapebonesiron_metal_dxt1.dds.header,Tiny_5,62350102,840
+8571d08c720ad9a6,hellscapebonesiron_colour_dxt1.dds,Art/Models/Terrain/Leagues/Hellscape/Textures,0,1398268
+8dd359eb8e68da05,hellscapebonesiron_colour_dxt1.dds.header,Tiny_5,62349262,840

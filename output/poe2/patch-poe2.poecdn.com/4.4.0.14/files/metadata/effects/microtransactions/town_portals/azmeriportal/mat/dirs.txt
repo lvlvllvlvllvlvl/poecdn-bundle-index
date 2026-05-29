@@ -1,5 +1,0 @@
-big_nova
-townportal
-townportalopen
-townportalopen/bu
-townportalopen/burst

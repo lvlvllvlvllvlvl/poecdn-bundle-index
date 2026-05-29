@@ -1,0 +1,6 @@
+textures
+textures/dash_slam
+textures/degen_area
+textures/delayed_blast
+textures/delayed_blast_2
+textures/lightning_circle_waves

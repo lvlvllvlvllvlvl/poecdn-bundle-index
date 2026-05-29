@@ -1,7 +1,0 @@
-balcony
-balcony/tgms
-textures
-textures/architecture
-textures/architecture/char
-textures/architecture/ivory
-textures/ground

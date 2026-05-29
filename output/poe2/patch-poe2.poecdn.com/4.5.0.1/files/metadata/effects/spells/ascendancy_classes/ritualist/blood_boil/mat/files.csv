@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+fb98aa553b4e7e25,explode_smoke_r.mat,Tiny.V9.1,73689228,46714
+22e70ed3bafd4d57,explode_smoke_u.mat,Tiny.V1.1,68291266,9024
+1afdb9ff6aa181aa,explode_smoke_ground_r.mat,Tiny.V5.1,68950284,39184
+8dfcd9446a1590a6,explode_smoke_ground_u.mat,Tiny.VD.1,5332868,346
+70f642556685d856,explode_blur_r.mat,Tiny.V3.1,70150495,21784
+b7d16ac0c209c156,explode_blur_u.mat,Tiny.V7.1,39657168,1292
+4820a44595e416a5,explosion_flash_r.mat,Tiny.VF.1,67436814,30552
+f70a42ec95f45522,explosion_flash_u.mat,Tiny.VE.1,12556962,310
+b05bf607deef98ca,blood_mist_r.mat,Tiny.VE.1,70942492,41122
+1527bb92b07c510c,blood_mist_u.mat,Tiny.V2.1,71172976,20542
+1c00e5eecc159267,blistered_skin_pass.mat,Tiny.V8.1,71358150,48716
+f69b0997a089e196,blistered_skin_pass_large.mat,Tiny.V7.1,66878622,50656

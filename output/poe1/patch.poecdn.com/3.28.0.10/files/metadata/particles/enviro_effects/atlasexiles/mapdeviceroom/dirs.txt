@@ -1,6 +1,0 @@
-apocalypse
-apocalypse/2x4
-apocalypse/5x5
-apocalypse/5x7
-apocalypse/6x2
-apocalypse/poof_papers

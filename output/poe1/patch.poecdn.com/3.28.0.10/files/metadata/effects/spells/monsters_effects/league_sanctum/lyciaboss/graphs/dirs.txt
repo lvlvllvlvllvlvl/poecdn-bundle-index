@@ -1,2 +1,0 @@
-weapon_zone
-wind_tunnel

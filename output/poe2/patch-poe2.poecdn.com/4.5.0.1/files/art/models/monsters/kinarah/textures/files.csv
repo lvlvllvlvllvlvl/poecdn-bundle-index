@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+ff527ccca8a70b3b,kinarahc.mat,Tiny.V0,12661127,928
+85847a421017eb19,kinarah_weaponc.mat,Tiny.V0,12659185,1942
+2179590e3a532df6,kinarah_weapon_normal_dxt5.dds,Streaming/Content/art/models/monsters/daresso/daressoshield.fmt,437256,87556
+faecedde2a925c0e,kinarah_weapon_normal_dxt5.dds.header,Tiny.V3,12480372,1520
+c2b878d7bf933ccc,kinarah_weapon_colour_dxt5.dds,Streaming/Content/art/models/monsters/daresso/daressoshield.fmt,349700,87556
+2895c8a25ef4ffef,kinarah_weapon_colour_dxt5.dds.header,Tiny.VB,12549557,1520
+4987f8c5807a9d43,kinarah_normal_dxt5.dds,Streaming/Content/metadata/monsters/kinarha/kinarhaspawner.ot,1808892,1398276
+122b483836fa893f,kinarah_normal_dxt5.dds.header,Tiny.V0,12657665,1520
+1a58690df432c089,kinarah_normal_dxt5.japan.dds,Streaming/Folders/art/models/monsters/kinarah/textures.1,0,5592580
+8f9272951014d077,kinarah_normal_dxt5.japan.dds.header,Tiny.VC,12351550,1520
+738f1de12f588371,kinarah_colour_dxt5.dds,Streaming/Content/metadata/monsters/kinarha/kinarhaspawner.ot,410616,1398276
+7471fc37572c57e8,kinarah_colour_dxt5.dds.header,Tiny.VA,12509643,1520
+d9aeb7c1a3c3c0b0,kinarah_colour_dxt5.japan.dds,Streaming/Folders/art/models/monsters/kinarah/textures,0,5592580
+6ca065c73a264571,kinarah_colour_dxt5.japan.dds.header,Tiny.V2,12710637,1520

@@ -1,6 +1,0 @@
-endgamepen_bossdoor
-endgamepen_bossdoor/tgms
-heist
-heist/tgms
-slavepen_bossdoor
-tgms

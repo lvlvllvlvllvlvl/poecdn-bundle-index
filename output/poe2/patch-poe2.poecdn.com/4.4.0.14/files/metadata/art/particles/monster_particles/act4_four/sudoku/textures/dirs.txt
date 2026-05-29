@@ -1,6 +1,0 @@
-cas_spike
-cas_spike_end
-expanding_shock_nova
-lightning_strike
-tiki_arc
-volcano_slam

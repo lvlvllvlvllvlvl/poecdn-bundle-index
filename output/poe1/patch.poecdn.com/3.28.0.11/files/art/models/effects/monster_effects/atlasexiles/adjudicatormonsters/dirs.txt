@@ -1,0 +1,14 @@
+cock
+cock/projectile
+gladiator
+gladiator/weaponthrow
+grandmaster
+lion
+master
+master/act_melee
+master/projectile
+master/spears
+pitbull
+spawn
+statuefemale
+statuemale

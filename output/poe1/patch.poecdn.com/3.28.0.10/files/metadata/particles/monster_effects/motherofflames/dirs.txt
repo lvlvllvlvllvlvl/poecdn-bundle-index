@@ -1,4 +1,0 @@
-boss
-taunt
-zombie
-zombieboss

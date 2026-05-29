@@ -1,4 +1,0 @@
-attachments
-attachments/hatrope
-attachments/octopus
-textures

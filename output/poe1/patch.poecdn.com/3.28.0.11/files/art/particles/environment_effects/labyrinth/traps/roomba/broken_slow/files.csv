@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+b0f6d58298ca37cb,wisp_smoke_base.mat,Tiny_6,30275865,2808
+f7b99a0801f7a6df,wisp_smoke_base.dds,Folders/art/particles/monster_particles/earth_nova,0,43876
+f54107016eee7df9,wisp_smoke_base.dds.header,Tiny_7,55055301,840
+b66d2b79ecdb1ca9,smoke_thick.mat,Tiny_6,30273365,2500
+dd3fe665965caca6,smoke_thick.dds,Art/particles/environment_effects/labyrinth_3,701168,174948
+b4e5aa0fdfa6f9ec,smoke_thick.dds.header,Tiny_6,30272525,840
+9d042392cb89df71,golden_spark.mat,Tiny_6,30270651,1874
+ab7a8baf3bfff5ef,golden_spark.dds,Art/particles/environment_effects/labyrinth_3,876116,87556
+76e568ccd1fc66f0,golden_spark.dds.header,Tiny_6,30269131,1520
+21c2de2b65a47076,dust_particles.mat,Tiny_6,30266899,2232
+32bfdafbe3c21167,dust_particles.dds,Art/Microtransactions/Character_FX/Apocalypse,2281244,22020
+392b5f8799ffcaa2,dust_particles.dds.header,Tiny_7,59766981,1520

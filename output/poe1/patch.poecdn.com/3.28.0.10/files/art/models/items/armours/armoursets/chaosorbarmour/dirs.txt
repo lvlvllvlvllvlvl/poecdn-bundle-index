@@ -1,4 +1,0 @@
-attachment
-attachment/pauldron
-attachment/skirt
-textures

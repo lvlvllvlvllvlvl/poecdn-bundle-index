@@ -1,0 +1,11 @@
+hair
+hair/animations
+hair/animations/gullshrines
+physics_hair
+rune
+waist_feather_skirt
+waist_feather_skirt/animations
+waist_feather_skirt/animations/gullshrines
+wings
+wings/animations
+wings/animations/gullshrines

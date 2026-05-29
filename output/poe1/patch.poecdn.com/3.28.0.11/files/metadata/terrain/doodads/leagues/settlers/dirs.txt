@@ -1,0 +1,13 @@
+attachments
+kalguuranmapdevice
+kingsmarch
+kingsmarch/animals
+kingsmarch/marketshops
+kingsmarch/rogshop
+kingsmarch/vfx
+kingsmarch/vfx/blacksmith01_01
+kingsmarch/vfx/blacksmith01_01/fx
+kingsmarch/vfx/blacksmith01_01/mat
+kingsmarch/vfx/blacksmith01_01/mat/fire_idle_01
+meteorites
+settlersencounters

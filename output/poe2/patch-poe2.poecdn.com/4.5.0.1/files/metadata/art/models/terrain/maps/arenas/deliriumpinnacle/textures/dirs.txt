@@ -1,0 +1,5 @@
+doodads
+entrance
+foliage
+ground
+rocks

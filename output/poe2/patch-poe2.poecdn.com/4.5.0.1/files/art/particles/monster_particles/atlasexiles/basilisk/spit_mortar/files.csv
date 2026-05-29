@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+1d7bb2cedaa36a77,mist_poison.mat,Tiny.V9,38412800,1440
+632acd15fbee3dd0,mist_poison_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/C9EB0B9306ADB971.82FACB58EE94A23A.loop_midup.pet,716961,87556
+8ee6f55d0eda5bc6,mist_poison_dxt5.dds.header,Tiny.V2,40230965,1520
+2d799a31b0d16ab0,gooey_splat_colour.mat,Tiny.V0,38138689,2034
+8dbe83c274bf5575,gooey_splat_colour_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/866460BF574E2737.A457036B9303D0B0.impact.pet,175112,349700
+9277646d4224ef49,gooey_splat_colour_dxt5.dds.header,Tiny.VC,35674857,1520
+31bb7e4d801a3fab,blur_dust_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/2BE255BA3EFE034E.shooty_01.pet,142492,87556
+56aaaad4c9d6fa7a,blur_dust_dxt5.dds.header,Tiny.V1,40304716,1520
+36dfdcadebc617b2,blood_trl.mat,Tiny.V1,37711814,2486
+e355422f8f6bf245,blood_trl_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/866460BF574E2737.2140A8211763412A.circle_02.pet,859661,43876
+2c769ef337706e5c,blood_trl_dxt5.dds.header,Tiny.V5,39065999,840
+bc2739bc1c1926ea,blood2_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.98C3EF3960F9A627.end_midline.pet,625544,174948
+857c556f22843ff0,blood2_dxt5.dds.header,Tiny.V1,36005065,840

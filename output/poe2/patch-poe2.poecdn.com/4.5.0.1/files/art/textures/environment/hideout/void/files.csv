@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+fbf9abd04e13bdb6,base_bg_dxt5.dds,Streaming/Content/data/worldareas/hideoutspace.vworld,2105960,349700
+a4b6d79813486ee4,base_bg_dxt5.dds.header,Tiny.V4,43180429,1520
+990105cee5359819,multi_02_dxt5.dds,Streaming/Content/data/worldareas/hideoutspace.vworld,2805360,87556
+75688f2ac9996fea,multi_02_dxt5.dds.header,Tiny.V4,35538679,1520
+38c916344ef406a3,multi_01_dxt5.dds,Streaming/Content/data/worldareas/hideoutspace.vworld,2455660,349700
+7dcb07afa0bc439e,multi_01_dxt5.dds.header,Tiny.V2,42651383,1520
+9eb43db3601c8d9c,space_pack01_dxt5.dds,Streaming/Content/data/worldareas/hideoutspace.vworld,2892916,1398276
+efedba54d6909e1f,space_pack01_dxt5.dds.header,Tiny.V9,43529786,1520
+e34ebc2c24642ba9,void_hideoutc.mat,Tiny.V0,43095765,15854
+2d1f33a1835f80b5,void_hideout.dds,Tiny.V1,3683958,204
+ca4176e42c9aebdd,void_hideout.dds.header,Tiny.V1,3684162,496

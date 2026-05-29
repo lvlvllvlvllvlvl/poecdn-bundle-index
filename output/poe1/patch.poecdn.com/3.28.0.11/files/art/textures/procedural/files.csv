@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+92af35bf40329696,water_heightfield2.dds,Folders/art/textures/procedural,0,22020
+4acd1752dbe862c0,water_heightfield2.dds.header,Tiny_8,50582106,1520
+34a256bcb3f1edb0,snakes_normal_uncompressed.dds,Art/Textures/Procedural_1,0,1398248
+3b34500acbaf780a,snakes_normal_uncompressed.dds.header,Tiny_8,50580586,1520
+28d2aa53fb8974f9,snakes_color_alpha_uncompressed.dds,Art/Textures/Procedural,699212,1398248
+1fad5e84d8425708,snakes_color_alpha_uncompressed.dds.header,Tiny_8,50579066,1520
+c37ce14372f17d0b,abstract01_mask_dxt1.dds,Art/Textures/Procedural,0,699212
+40999e94b51e9071,abstract01_mask_dxt1.dds.header,Tiny_8,50577546,1520

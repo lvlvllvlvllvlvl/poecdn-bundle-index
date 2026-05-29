@@ -1,3 +1,0 @@
-handpuppetstick
-pin
-tri

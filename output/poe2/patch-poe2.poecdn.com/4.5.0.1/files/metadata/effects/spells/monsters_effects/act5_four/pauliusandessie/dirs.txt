@@ -1,0 +1,11 @@
+epk
+fx
+fx/physlightning_slam
+fx/spell_attacks_essie
+fx/spell_attacks_essie/spell_sheild
+graph
+mat
+mat/basic_attacks
+mat/physlightning_slam_01
+mat/spell_attacks
+mat/spell_attacks/spell_sheild

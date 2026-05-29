@@ -1,0 +1,10 @@
+animations
+attachments
+attachments/clothattachment
+attachments/coat
+attachments/frontfeather
+attachments/plants
+attachments/plants/frontclav_rig
+attachments/plants/lowerback_rig
+attachments/plants/upperback_rig
+attachments/sword

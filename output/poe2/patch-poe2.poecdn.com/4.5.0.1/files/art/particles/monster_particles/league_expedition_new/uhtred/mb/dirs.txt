@@ -1,0 +1,8 @@
+beam
+bomb_flurry
+death
+mirror_bulge
+pillar
+pool
+stormcall
+volatile

@@ -1,0 +1,6 @@
+ball
+bolt
+debuff
+debuff/ground_contact
+explode
+projectile

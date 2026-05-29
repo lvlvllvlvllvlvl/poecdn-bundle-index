@@ -1,2 +1,0 @@
-proj_buildup
-projectile2

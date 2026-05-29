@@ -1,0 +1,4 @@
+goddess_attachments
+goddess_attachments/lunaris
+goddess_attachments/solaris
+goddess_attachments/viridi

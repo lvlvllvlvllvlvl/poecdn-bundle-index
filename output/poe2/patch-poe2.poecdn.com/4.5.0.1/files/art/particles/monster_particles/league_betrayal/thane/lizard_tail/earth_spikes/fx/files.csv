@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+842bd6bcc03c5e3f,grd_trl_spc_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/67429B87162C193E.3714B296C8845262.coneexplode_trail.trl.1,1398276,1398276
+5fa14c3387b7f192,grd_trl_spc_dxt5.dds.header,Tiny.VC,40711613,1520
+24e8bc2106a65e34,grd_trl_msk.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/67429B87162C193E.3714B296C8845262.coneexplode_trail.trl,1398276,1398276
+a46c5d47b6a78734,grd_trl_msk.dds.header,Tiny.V7,40440176,1520
+d4eb013f6804fff8,grd_trl_nmlao_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/67429B87162C193E.3714B296C8845262.coneexplode_trail.trl,2796552,1398276
+cdcf8b296fdd31df,grd_trl_nmlao_dxt5.dds.header,Tiny.V3,38726371,1520
+a19b8c36235eb521,grd_trl_nmlaongrd_trl_spcs.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/67429B87162C193E.3714B296C8845262.coneexplode_trail.trl.1,0,1398276
+9334bf69c7a059ed,grd_trl_nmlaongrd_trl_spcs.dds.header,Tiny.V8,38947265,1520
+672bddd0f2f24aab,grd_trl_clr.mat,Tiny.VA,39578327,7526
+154fc31f5b47f079,grd_trl_clr.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/67429B87162C193E.3714B296C8845262.coneexplode_trail.trl,0,1398276
+b0b4c508a7241e53,grd_trl_clr.dds.header,Tiny.V9,40984143,1520

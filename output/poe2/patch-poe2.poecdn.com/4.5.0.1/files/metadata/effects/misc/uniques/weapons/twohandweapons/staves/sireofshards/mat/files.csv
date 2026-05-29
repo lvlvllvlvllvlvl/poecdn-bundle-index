@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+8322e711677c118a,vortex_r.mat,Tiny.VA.1,66831012,52840
+40f4e5558ba8d2e1,vortex_u.mat,Tiny.V5.1,66226154,2346
+779fbafcaa58326c,vortex_blur_r.mat,Tiny.V2.1,68272804,47626
+058b59c1c68dd1e8,particles_r.mat,Tiny.V2.1,68216326,35518
+67cd0238152fae17,particles_u.mat,Tiny.V2.1,68251844,20960
+12cc00d5bdd59857,wispy_glow_r.mat,Tiny.V6.1,66718457,50994
+c85822dc1bc2efc3,wispy_glow_u.mat,Tiny.V2.1,68320430,1134
+a0f0d22f5bcd35d4,core_glow_r.mat,Tiny.V7.1,63562596,22550
+bc3cf3734fbe11a8,core_glow_u.mat,Tiny.VC.1,68609643,1134
+f6d86d76eb06a325,disp_sphere_r.mat,Tiny.VB.1,66654523,34210
+93bfadd0fafa0966,disp_sphere_shimmer_r.mat,Tiny.VD.1,66562900,39524
+e3e9a94d4c5c71c4,disp_sphere_u.mat,Tiny.VF.1,64639794,3044

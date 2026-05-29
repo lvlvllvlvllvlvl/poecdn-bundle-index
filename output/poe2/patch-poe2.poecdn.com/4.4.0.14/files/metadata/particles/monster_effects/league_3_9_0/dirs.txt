@@ -1,6 +1,0 @@
-npc
-npc/portal
-orsen_tiller
-orsen_tiller/teleport
-skills
-skills/cleave

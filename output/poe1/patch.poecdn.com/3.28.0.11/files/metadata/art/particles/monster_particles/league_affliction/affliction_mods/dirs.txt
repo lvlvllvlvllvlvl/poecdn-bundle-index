@@ -1,0 +1,8 @@
+cold_cortexorb
+firebeam
+flameblast
+on_act_lightning
+slammaslam
+soul_mortar_geyser
+telegraphs
+volatile

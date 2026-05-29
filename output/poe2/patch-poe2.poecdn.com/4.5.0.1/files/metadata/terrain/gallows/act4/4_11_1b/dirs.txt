@@ -1,0 +1,10 @@
+graphs
+objects
+rooms
+rooms/cliff
+rooms/deepwater
+rooms/fills
+rooms/palisade
+rooms/shoreline
+rooms/slope
+rooms/unique

@@ -1,0 +1,11 @@
+justiceoracleidentifier
+justiceoracleidentifier/ao
+justiceoracleidentifier/attachments
+justiceoracleidentifier/epk
+justiceoracleidentifier/fx
+justiceoracleidentifier/graph
+justiceoracleidentifier/mat
+justiceoracleidentifier/mat/abyss_effects
+justiceoracleidentifier/mat/magic_identify
+justiceoracleidentifier/mat/rare_identify
+justiceoracleidentifier/mat/unique_identify

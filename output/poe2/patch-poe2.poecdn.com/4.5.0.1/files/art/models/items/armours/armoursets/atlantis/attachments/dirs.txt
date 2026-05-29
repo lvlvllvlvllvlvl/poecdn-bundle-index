@@ -1,0 +1,6 @@
+bodycloth
+cowl
+feathers
+skirt
+skirt/female
+skirt/male

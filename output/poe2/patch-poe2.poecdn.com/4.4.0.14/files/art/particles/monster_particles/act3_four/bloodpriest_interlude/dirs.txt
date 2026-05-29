@@ -1,4 +1,0 @@
-mb
-mb/blood_projectile
-mb/blood_projectile/animations
-mb/blood_sewerchannels

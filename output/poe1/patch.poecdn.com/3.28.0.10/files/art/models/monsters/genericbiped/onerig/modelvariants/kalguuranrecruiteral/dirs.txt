@@ -1,7 +1,0 @@
-attachments
-attachments/hair
-attachments/handscroll
-attachments/scrollbag
-attachments/skirt
-attachments/skirtdangle
-attachments/skirtmetal

@@ -1,0 +1,9 @@
+effects
+effects/dirt
+effects/pet_textures
+effects/pet_textures/disappear
+effects/pet_textures/emerge
+effects/pet_textures/idle
+effects/rocks
+effects/rune
+effects/trltextures

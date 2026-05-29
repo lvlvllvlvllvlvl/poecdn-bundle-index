@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+63c9d4b07027c860,rune02.mat,Tiny_6,46225731,1370
+2e7e36746d4f1476,rune_02_testc.mat,Tiny_6,46239583,1224
+0fb53fdb236a0ecc,rune_02_test.dds,Folders/art/particles/mana_void/textures,2099256,174948
+eca9e85636daeb56,rune_02_test.dds.header,Tiny_6,46238743,840
+5211eacbc60c372d,rune_02_pack_dxt5.dds,Folders/art/particles/mana_void/textures,1924308,174948
+ad626badb5217fda,rune_02_pack_dxt5.dds.header,Tiny_6,46237903,840
+03227237a19d36b8,rune_02_burndecalc.mat,Tiny_6,46236657,1246
+f9baecf1bcadf354,rune_02_burndecal.dds,Folders/art/particles/mana_void/textures,1749360,174948
+29ea28e06a73d887,rune_02_burndecal.dds.header,Tiny_6,46235817,840
+0c431bbb9f36e7b3,rune_02_blur_addac.mat,Tiny_6,46232559,3258
+3ef1eae4bc15d785,rune_02_blur_adda.dds,Folders/art/particles/mana_void/textures,1661812,87548
+d2292dde688752de,rune_02_blur_adda.dds.header,Tiny_6,46231719,840
+7ab01696a81c8127,rune_02_addac.mat,Tiny_6,46227941,3778
+0290a47d547a1665,rune_02_adda.dds,Folders/art/particles/mana_void/textures,1574264,87548
+4df9eecc3809babc,rune_02_adda.dds.header,Tiny_6,46227101,840

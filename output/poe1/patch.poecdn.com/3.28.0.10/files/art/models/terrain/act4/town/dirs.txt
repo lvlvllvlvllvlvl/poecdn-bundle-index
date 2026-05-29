@@ -1,4 +1,0 @@
-aqueductconnection
-aqueductconnection/tgms
-speargate
-tgms

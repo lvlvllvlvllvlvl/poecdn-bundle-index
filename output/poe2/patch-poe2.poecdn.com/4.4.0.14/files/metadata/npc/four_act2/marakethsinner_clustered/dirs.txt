@@ -1,6 +1,0 @@
-attachments
-attachments/sin_01
-attachments/sin_02
-attachments/sin_03
-attachments/sin_04
-attachments/sin_05

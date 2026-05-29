@@ -1,9 +1,0 @@
-bonecultist_zealots
-bonecultist_zealots/farudinwarlock
-bonecultists_beast
-bonecultists_necromancer
-bonecultists_necromancer/arenaobjects
-bonecultists_necromancer/lights
-bonecultists_savage
-bonecultists_shield
-bonecultists_shield/attachments

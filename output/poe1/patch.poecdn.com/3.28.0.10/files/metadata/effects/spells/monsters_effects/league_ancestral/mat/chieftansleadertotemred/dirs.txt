@@ -1,3 +1,0 @@
-cracking
-gem
-gem/idle

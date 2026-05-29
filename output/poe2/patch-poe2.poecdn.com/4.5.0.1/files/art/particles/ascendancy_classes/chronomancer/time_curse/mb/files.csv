@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+7e42abee7822c536,needle.fmt,Tiny.VD,34264462,1024
+92c3bdae2597a164,needle.fmt.header,Tiny.V6,34158357,128
+1bfc660b12ac3edb,decal_disc.fmt,Tiny.VC,34504484,3384
+9aff3f4f3aca4b1f,decal_disc.fmt.header,Tiny.VA,34322943,128
+a22da0ee02071d69,inner_disc.fmt,Streaming/Content/metadata/effects/spells/ascendancy_classes/47396DCF75004758.A2423F3D01E7A113.leapcone.pet,282794,8856
+efb1d895924cd625,inner_disc.fmt.header,Tiny.VD,34264334,128
+18713d2e22f13da7,outer_disc.fmt,Streaming/Content/metadata/effects/spells/ascendancy_classes/47396DCF75004758.A2423F3D01E7A113.leapcone.pet,1176608,5444
+4d14a27b48868162,outer_disc.fmt.header,Tiny.V7,34138120,159

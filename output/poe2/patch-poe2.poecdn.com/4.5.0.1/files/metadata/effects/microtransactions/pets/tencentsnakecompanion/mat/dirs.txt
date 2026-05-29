@@ -1,0 +1,7 @@
+basic
+basic/basic_relax
+basic/emerge_portal
+premium
+premium/emerge
+premium/idle_01
+premium/idle_02

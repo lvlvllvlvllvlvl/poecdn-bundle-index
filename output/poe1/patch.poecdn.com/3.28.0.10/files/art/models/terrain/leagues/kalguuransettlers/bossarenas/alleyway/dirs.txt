@@ -1,7 +1,0 @@
-rubbishstack_01
-rubbishstack_02
-rubbishstack_03
-rubbishstack_04
-rubbishstack_05
-textures
-tgms

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+2b313cc7a479176d,test.sm,Tiny_2,579220,1222
+a5e9bd7bb07a1741,test.amd,Tiny_2,577883,98
+273d13c393ed5129,test.ast,Tiny_2,577981,1239
+a8c114737328f4cd,guardiantpcircle.sm,Tiny_2,564791,4080
+5c8c901a4cdcf28a,guardiantpcircle.amd,Tiny_7,26918443,88
+a944161fa57d2851,guardiantpcircle.ast,Art/Models/Effects/monster_effects/AtlasofWorldsBoss/ElderGuardian_1,911254,10126
+fdf71540338aafc3,castfx_rig_f55c721b.smd,Art/Models/Effects/monster_effects/AtlasofWorldsBoss/ElderGuardian_1,843762,67492
+6fae97fbe6bd1cbc,castfx_rig_f55c721b.smd.header,Tiny_2,562759,769
+18f7c8fd501922d6,castfx_rig_32ea2c77.smd,Art/Models/Effects/monster_effects/AtlasofWorldsBoss/ElderGuardian_1,729414,114348
+c07fc43f0080239b,castfx_rig_32ea2c77.smd.header,Tiny_2,562198,561

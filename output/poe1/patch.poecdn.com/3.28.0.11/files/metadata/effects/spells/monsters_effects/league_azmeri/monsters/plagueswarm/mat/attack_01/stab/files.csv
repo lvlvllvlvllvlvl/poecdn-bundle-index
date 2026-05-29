@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+48a4102558b807b4,sparks_r.mat,Tiny_D,334336227,20938
+82de8ea13cd6473a,sparks_u.mat,Tiny_D,334357165,6492
+2df9769aa6aedb9b,shockwave_r.mat,Tiny_D,334294833,41394
+3e8a2b8cc273e676,shockwave_u.mat,Tiny_E,50586712,302
+9eb9631b8da57e0e,pierce_add_r.mat,Tiny_D,334256565,32664
+b6aa01f085ee2e3f,pierce_add_u.mat,Tiny_D,334289229,5604
+107a5d645f688d35,impact_dir_r.mat,Tiny_D,334224323,27060
+18e74bf507c95794,impact_dir_u.mat,Tiny_D,334251383,5182
+8812de8fe4e850d0,impact_dir_highlight_r.mat,Tiny_D,334189785,29340
+a21075431b6fc54e,impact_dir_highlight_u.mat,Tiny_D,334219125,5198
+3e82cee2f2582b2a,distortion_cone_r.mat,Tiny_D,334177355,10298
+a706b614ad52a296,distortion_cone_u.mat,Tiny_D,334187653,2132

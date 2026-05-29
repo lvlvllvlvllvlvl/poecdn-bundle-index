@@ -1,3 +1,0 @@
-mbs
-mbs/death_grd
-tex

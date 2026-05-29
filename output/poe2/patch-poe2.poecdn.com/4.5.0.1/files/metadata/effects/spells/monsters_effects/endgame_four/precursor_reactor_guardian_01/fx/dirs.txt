@@ -1,0 +1,8 @@
+basic_melee
+combo_aoe
+delayed_blast
+hover
+idle_damage
+orb_proj
+rolling
+wave_blast

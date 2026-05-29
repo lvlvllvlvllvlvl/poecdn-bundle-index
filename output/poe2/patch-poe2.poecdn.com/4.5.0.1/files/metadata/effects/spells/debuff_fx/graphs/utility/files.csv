@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+77c247d29cebab33,shatterwindexplosion.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,4182954,34082
+269a9a5496788094,shatterexplosiondirection.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,4114372,68582
+fe45dd3e3fb37395,shatterchunks_visual.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,4038252,76120
+97c49bb26e9cb6cf,shatterchunks_emitter.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,3964242,74010
+ccb80ab33e77a039,custom_mainuv_actorscale.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/B01E7F4E9BC2BA15.fwdline.pet,5025263,14166
+384db839a932353d,custom_chaintotrail.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/8518145A41654681.lightray.ao,729352,256328
+46fb3002c5d2ecd0,custom_zbias.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/8518145A41654681.lightray.ao,1221390,17138
+8dda60d42edbaf46,custom_directionovertime.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,2740902,42586
+56ebc86fc7b934b3,custom_scale.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,3806508,21112
+f7992d00b97f0b78,custom_scalebycollisionsize.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,3958242,6000
+235f84fd8e7f5031,custom_bonetubeemitter.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/B01E7F4E9BC2BA15.fwdline.pet,4779783,245480
+b90fd4709d4cb095,custom_bonelinesegmentemitter.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,3827620,130622
+8ea152f374542633,custom_flagconstraint.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/8518145A41654681.lightray.ao,985680,235710
+f89e8818c69850c5,custom_fadeparameter.fxgraph,Content/metadata/effects/spells/482160499FC3A8AD.lightninghurricane.ot,623061,16170

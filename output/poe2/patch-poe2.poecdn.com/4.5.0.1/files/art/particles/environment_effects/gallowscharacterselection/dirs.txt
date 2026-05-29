@@ -1,0 +1,14 @@
+character_select_vfxs
+character_select_vfxs/dexint
+character_select_vfxs/dexint/mb
+character_select_vfxs/dexint/tex
+character_select_vfxs/int
+character_select_vfxs/int/tex
+character_select_vfxs/mb
+character_select_vfxs/mb/grounddust
+character_select_vfxs/str
+character_select_vfxs/strint
+character_select_vfxs/strint/mb
+character_select_vfxs/strint/tex
+character_select_vfxs/tex
+rain_impact

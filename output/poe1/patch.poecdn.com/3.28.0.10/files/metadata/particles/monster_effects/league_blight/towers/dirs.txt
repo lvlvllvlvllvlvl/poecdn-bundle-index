@@ -1,9 +1,0 @@
-buff
-build
-fire
-ice
-ice/on_act
-lightning
-lightning/on_act
-minion
-phys

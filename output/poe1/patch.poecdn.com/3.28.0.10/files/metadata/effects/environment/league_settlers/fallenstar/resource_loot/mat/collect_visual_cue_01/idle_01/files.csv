@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-5502244e984a8026,pixiedust_r.mat,Tiny_8,99209863,17254
-1aa4ff85af782c88,pixiedust_u.mat,Tiny_8,99227117,11482
-6276e82aef405cf2,mblur_r.mat,Tiny_8,99195017,14846
-e7de6f0252784335,mblur_u.mat,Tiny_D,473631259,344
-1e81532966e8d9ab,glow_surface.mat,Tiny_8,99165885,29132
-ea748f717b1de963,glow_streaks_r.mat,Tiny_8,99116313,49572
-87021793379f46ca,glow_streaks_u.mat,Tiny_D,473631259,344

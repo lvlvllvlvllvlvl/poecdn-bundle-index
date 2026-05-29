@@ -1,5 +1,0 @@
-base
-chaos
-cold
-fire
-lightning

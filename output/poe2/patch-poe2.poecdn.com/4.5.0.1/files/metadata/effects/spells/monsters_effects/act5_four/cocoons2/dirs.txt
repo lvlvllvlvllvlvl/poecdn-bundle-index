@@ -1,0 +1,5 @@
+fx
+fx/degen_cloud_emit
+fx/degen_cloud_emit/loop
+fx/lightning_beam
+fx/lightning_beam_impact

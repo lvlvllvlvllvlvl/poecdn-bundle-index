@@ -1,3 +1,0 @@
-cold_trap
-fire_trap_new
-lightning_trap

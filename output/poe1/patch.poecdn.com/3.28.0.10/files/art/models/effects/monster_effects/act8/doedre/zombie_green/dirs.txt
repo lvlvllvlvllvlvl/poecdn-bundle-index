@@ -1,4 +1,0 @@
-death_nova
-death_nova_spell
-disperse
-emerge

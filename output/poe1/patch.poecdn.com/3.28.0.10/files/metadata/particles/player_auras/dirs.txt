@@ -1,3 +1,0 @@
-clarity
-physical_damage
-precision

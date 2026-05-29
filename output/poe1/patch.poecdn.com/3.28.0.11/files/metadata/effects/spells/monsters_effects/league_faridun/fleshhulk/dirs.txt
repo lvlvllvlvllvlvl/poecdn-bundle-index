@@ -1,0 +1,6 @@
+epk
+fx
+mat
+mat/fleshboulder_explode
+mat/fleshboulder_trail
+mat/meteor_marker

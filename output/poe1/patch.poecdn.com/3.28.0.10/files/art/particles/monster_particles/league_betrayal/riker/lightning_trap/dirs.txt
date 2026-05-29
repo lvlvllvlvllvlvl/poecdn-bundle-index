@@ -1,2 +1,0 @@
-charge_up
-lightning_bolt

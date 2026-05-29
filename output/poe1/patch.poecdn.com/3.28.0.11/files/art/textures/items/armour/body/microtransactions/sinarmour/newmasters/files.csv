@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+8fb05ecd26375a30,sinarmourcapecns.mat,Tiny_8,10804842,6136
+c374a05c961d6f3b,sinarmourcape_specular_dxt5.dds,Art/Textures/Items/armour/body/Microtransactions/SinArmour_3,174948,174948
+122e770fa473daa6,sinarmourcape_specular_dxt5.dds.header,Tiny_8,10804002,840
+e11ae59ebb20a30d,sinarmourcape_normal_dxt5.dds,Art/Textures/Items/armour/body/Microtransactions/SinArmour_3,349896,174948
+459ee569fbc81831,sinarmourcape_normal_dxt5.dds.header,Tiny_8,10803162,840
+7166d9593d79eb2c,sinarmourcape_gloss.mat,Tiny_8,10801942,1220
+b1363388ed305f62,sinarmourcape_gloss.dds,Folders/art/textures/items/armour/body/microtransactions/sinarmour,874348,174948
+346632c74264e929,sinarmourcape_gloss.dds.header,Tiny_8,10840232,840
+a528bafd5818d982,sinarmourcape_colour_dxt5.dds,Folders/art/textures/items/armour/body/microtransactions/sinarmour,0,174948
+c51259c2dfa53d65,sinarmourcape_colour_dxt5.dds.header,Tiny_8,10801102,840
+d0609c16e6b1a26b,sinarmourcape_colour.dds,Art/Textures/Items/armour/body/Microtransactions/SinArmour_3,0,174948
+60930b09ccba8b2d,sinarmourcape_colour.dds.header,Tiny_8,10800262,840

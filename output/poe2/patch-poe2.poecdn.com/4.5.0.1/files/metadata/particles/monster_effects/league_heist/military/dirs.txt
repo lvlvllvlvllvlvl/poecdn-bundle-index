@@ -1,0 +1,6 @@
+caster
+general
+halberd
+melee
+melee_elite
+miniboss

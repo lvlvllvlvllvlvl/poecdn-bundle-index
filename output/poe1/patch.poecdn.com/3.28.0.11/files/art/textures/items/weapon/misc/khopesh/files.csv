@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+2538bd78f11bcc6e,khopeshspecularc.mat,Tiny_8,25185885,2424
+d9fa2e4213beda19,khopesh_normal_dxt5.dds,Art/Textures/Items/weapon/misc/Khopesh,174924,174948
+b5a58a8bb804e808,khopesh_normal_dxt5.dds.header,Tiny_8,25185045,840
+ec475b42f93c6b1e,khopesh_colourspecular_dxt5.dds,Art/Textures/Items/weapon/misc/Khopesh,349872,349700
+52afa8c788cb9766,khopesh_colourspecular_dxt5.dds.header,Tiny_8,25183525,1520
+947116fcfcb6b01d,khopesh_colourspecular_bc7.dds,Art/Textures/Items/weapon/misc/Khopesh,349872,349700
+202a696909726918,khopesh_colourspecular_bc7.dds.header,Tiny_8,25183525,1520
+230b33ad7555f919,khopesh_colourspecular.dds,Art/Textures/Items/weapon/misc/Khopesh,0,174924
+c7ed64b3c323a5b7,khopesh_colourspecular.dds.header,Tiny_8,25182005,1520

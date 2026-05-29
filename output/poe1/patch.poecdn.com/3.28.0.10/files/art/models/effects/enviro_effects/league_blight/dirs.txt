@@ -1,3 +1,0 @@
-infection_doodad_01
-weather
-weather/spores

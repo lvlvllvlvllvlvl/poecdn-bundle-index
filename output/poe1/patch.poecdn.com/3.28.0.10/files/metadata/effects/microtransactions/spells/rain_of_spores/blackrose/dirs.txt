@@ -1,5 +1,0 @@
-pet
-pet/pod_aoe
-pet/pods
-pet/projectile
-pet/shooting_up

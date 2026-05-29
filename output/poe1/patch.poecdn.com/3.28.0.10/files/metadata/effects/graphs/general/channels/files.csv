@@ -1,6 +1,0 @@
-hash,file,bundle,offset,size
-c74c9d0a779f5175,objectscale_tochannel.fxgraph,Folders/metadata/effects,15272884,185144
-37ce5dffe14dec9e,channeltochannel.fxgraph,Folders/metadata/effects,15112034,160850
-1e4b43375e54e690,channel_hueshift.fxgraph,Folders/metadata/effects,14872248,80888
-fcb7dcfa6b328b6c,channel_lookupcolor.fxgraph,Folders/metadata/effects,14953136,81596
-00a603852346086e,channel_rgbmultiplier.fxgraph,Folders/metadata/effects,15034732,77302

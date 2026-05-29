@@ -1,5 +1,0 @@
-mb
-mb/trap
-mb/trap_base
-mb/trigger
-mb/trigger/animations

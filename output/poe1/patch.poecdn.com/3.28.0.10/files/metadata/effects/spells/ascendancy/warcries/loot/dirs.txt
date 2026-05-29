@@ -1,6 +1,0 @@
-ao
-epk
-graph
-mat
-mat/gold
-pet

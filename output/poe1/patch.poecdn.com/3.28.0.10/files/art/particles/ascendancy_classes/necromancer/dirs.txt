@@ -1,4 +1,0 @@
-allies_buff
-char_mana_regen
-corpse_visual
-monster_damage_reduction

@@ -1,4 +1,0 @@
-chaos_slam
-chaos_slam/build_up
-chaos_slam/impact
-chaos_slam/slash

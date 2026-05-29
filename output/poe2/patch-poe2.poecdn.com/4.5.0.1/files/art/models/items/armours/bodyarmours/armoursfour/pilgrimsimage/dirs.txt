@@ -1,0 +1,8 @@
+attachments
+attachments/arms
+attachments/armsdex
+attachments/armsstr
+attachments/chest
+attachments/cheststr
+attachments/skirt
+textures

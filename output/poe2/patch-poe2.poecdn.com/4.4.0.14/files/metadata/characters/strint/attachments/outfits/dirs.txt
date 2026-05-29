@@ -1,3 +1,0 @@
-druid
-druid/attachments
-templar

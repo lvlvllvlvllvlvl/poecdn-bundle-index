@@ -1,0 +1,5 @@
+cape
+hair
+metalrobe
+robe
+weapons

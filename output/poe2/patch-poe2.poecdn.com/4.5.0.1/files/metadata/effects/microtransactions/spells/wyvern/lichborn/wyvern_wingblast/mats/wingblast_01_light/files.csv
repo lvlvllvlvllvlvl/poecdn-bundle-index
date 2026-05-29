@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+d3a4ed4fcbbd294e,windblur_r.mat,Tiny.V3.1,178219597,38152
+27c4b26b5b391cbc,windblast_light_r.mat,Tiny.V7.1,50252938,78264
+40e9b7afeba4be6c,windblast_r.mat,Tiny.V7.1,50185108,67830
+cef0b8e1d5ab29e4,windblast_u.mat,Tiny.V9.1,57243510,4462
+605fa72bc104aeaf,druidsparks_light_r.mat,Tiny.V0.1,53384892,46234
+d9c1b5abfff0a934,druidsparks_u.mat,Tiny.V6.1,173367415,22396
+c662570fe977124c,coneimpact_lightning_r.mat,Tiny.VF.1,51418666,70314
+621eddfd03ee15fe,coneimpact_lightning_u.mat,Tiny.V4.1,176908594,2882
+36ceb5d9f0748b57,coneimpact_lightning_2_r.mat,Tiny.V0.1,53318184,66708
+421213cc02551bdc,cone_dust_r.mat,Tiny.V9.1,18108462,41712
+536e27e1ad879627,cone_dust_u.mat,Tiny.VB.1,15057025,16372

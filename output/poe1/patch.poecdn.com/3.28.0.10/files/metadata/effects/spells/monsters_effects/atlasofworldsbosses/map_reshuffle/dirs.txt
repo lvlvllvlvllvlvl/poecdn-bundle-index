@@ -1,8 +1,0 @@
-primeval_boss
-primeval_boss/abyss_shield
-primeval_boss/abyss_volatile
-primeval_boss/arena_mechanics
-primeval_boss/arena_mechanics/graphs
-primeval_boss/stone_geyser
-primeval_boss/stone_projectile
-primeval_boss/stone_tomb

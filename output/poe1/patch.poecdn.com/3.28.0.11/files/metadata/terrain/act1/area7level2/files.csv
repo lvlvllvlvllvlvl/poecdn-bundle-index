@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+3520d2ad9fcde2e0,filegroups.fgp,Tiny_11,62532879,710
+dcf31ca2791500f1,prison.ecf,Tiny_51,2974604,650
+a6689da375dcb0e8,random_fill_tiles.gft,Tiny_11,118211579,392
+41119fcc01dcd118,tiles.tst,Tiny_11,62580593,17250
+c2fad242f42d2b69,materials.mtd,Tiny_11,118211303,276
+09bf7bd58e27e234,master.tsi,Tiny_11,62579097,744
+f8606909d285e5be,master_dummy.tsi,Tiny_11,62579841,752
+301f784032fe7c6c,generate.rs,Tiny_11,62533589,11418
+c4d48e81197dc672,generate_dummy.rs,Tiny_11,148068154,20
+7c66e5fd4c2557a2,decals.dct,Tiny_11,118196119,1042
+fabcb7f72ea76016,doodads.ddt,Tiny_11,118197161,198
+c127106b928452c0,chests.cht,Tiny_11,62532535,344
+adf95a59b734f163,critters.clt,Tiny_51,2969444,236

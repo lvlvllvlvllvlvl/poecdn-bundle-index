@@ -1,5 +1,0 @@
-foliage
-ground
-ground/corrupted
-ground/sanctified
-uniquemaps

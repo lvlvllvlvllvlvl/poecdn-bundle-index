@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+524da216fc942c57,rock_normal_dxt5.dds,Art/particles/meteor_shower,1398276,349700
+914258385df6d599,rock_normal_dxt5.dds.header,Tiny_7,49103015,1520
+0414cc3c0dfce4e9,rock_colour_dxt1.dds,Art/Microtransactions/spell/orbs,1273015,43852
+9063d4238f0bca78,rock_colour_dxt1.dds.header,Tiny_7,49099975,1520
+a693ce51df549deb,cracks_normal_dxt5.dds,Folders/art/microtransactions/spell/orbs_4,2272600,1398276
+a17dda720fd589c7,cracks_normal_dxt5.dds.header,Tiny_1,57705803,1520
+2438552e7c55782c,cracks_emissive_dxt5.dds,Folders/art/microtransactions/spell/orbs_4,874324,1398276
+114890de02a1504e,cracks_emissive_dxt5.dds.header,Tiny_1,57704283,1520
+a235b4c8fdfa2905,cloud_normal_dxt5.dds,Art/Microtransactions/spell/orbs,923315,349700
+6939988397a25dc2,cloud_normal_dxt5.dds.header,Tiny_1,57702763,1520
+65f13d7c1c99716f,cloud_height_dxt1.dds,Art/Microtransactions/spell/orbs,748391,174924
+087ff8c3e0da233e,cloud_height_dxt1.dds.header,Tiny_1,57701243,1520
+8e4b34508a8687b8,cloud_emissive_dxt5.dds,Art/Microtransactions/spell/orbs,398691,349700
+d08a19253e994a46,cloud_emissive_dxt5.dds.header,Tiny_1,57699723,1520
+abef3eff817dbf3c,cloud_albedo_dxt1.dds,Art/Microtransactions/spell/orbs,223767,174924
+fa032610e1653e40,cloud_albedo_dxt1.dds.header,Tiny_1,57698203,1520

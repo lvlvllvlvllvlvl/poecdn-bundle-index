@@ -1,0 +1,7 @@
+critical
+critical/impact
+low
+max
+max/impact
+medium
+medium/impact

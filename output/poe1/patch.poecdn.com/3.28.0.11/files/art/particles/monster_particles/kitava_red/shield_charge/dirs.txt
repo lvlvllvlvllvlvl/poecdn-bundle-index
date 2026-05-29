@@ -1,0 +1,8 @@
+impact
+impact/fx
+impact/shieldimpact
+impact_aoe
+shield
+shield_charge
+shield_charge/fx
+shockwave_charge

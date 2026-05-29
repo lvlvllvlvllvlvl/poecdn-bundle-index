@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+972a21d167ec4f38,rig_fb183bc2.smd,Art/Models/Effects/monster_effects/act4/malachai,2328370,142576
+c0834b1eda37a89d,rig_fb183bc2.smd.header,Tiny_1,90519884,1027
+aa354c0b2c3dd078,rig_a1ae0cc4.smd,Art/Models/Effects/monster_effects/act4/malachai,2093972,234398
+22a1733aff1ba244,rig_a1ae0cc4.smd.header,Tiny_1,90518892,992
+807cd45566baaf69,malachaigibexplosion.sm,Tiny_1,90517790,1102
+f8f53c0bebaa0461,malachaigibexplosion.amd,Tiny_1,90515277,196
+b6f6c353862f7066,malachaigibexplosion.ast,Tiny_1,90515473,2317
+0589e989988e7cab,goresplosion_52557c42.smd,Art/Models/Effects/monster_effects/act4/malachai,2016772,77200
+29e28a9014f9be74,goresplosion_52557c42.smd.header,Tiny_1,90514909,368
+5312401998332a67,deathexplosion_down.sm,Tiny_1,90514183,726
+8b8ef0e2cb08cf8b,deathexplosion_down.amd,Tiny_1,90513361,96
+a8e585f98b957c78,deathexplosion_down.ast,Art/Models/Effects/monster_effects/act4/malachai,1936287,80485
+e69049757978ef74,deathexplosion.sm,Tiny_1,90513457,726
+12af3af492214ae9,deathexplosion.amd,Tiny_1,90513361,96
+b0918c9c5dafbbd8,deathexplosion.ast,Art/Models/Effects/monster_effects/act4/malachai,1813898,122389

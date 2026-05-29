@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+066fba8a7869d557,transcendencecloakspecularc.mat,Art/Textures/Items/armour/Capes/TranscendenceCape,699236,5522
+2c4ab7974a3bc683,transcendencecloak_normal_dxt5.dds,Art/Textures/Items/armour/Capes/TranscendenceCape,704758,349700
+51784578d011e25e,transcendencecloak_normal_dxt5.dds.header,Tiny_8,16535699,1520
+18c13bf84a4fd305,transcendencecloak_meshmask_dxt5.dds,Art/Textures/Items/armour/Capes/TranscendenceCape_1,0,1398276
+4f1b167183ea6933,transcendencecloak_meshmask_dxt5.dds.header,Tiny_8,16534179,1520
+3edd41bf7909c915,transcendencecloak_glow_dxt1.dds,Art/Textures/Items/armour/Capes/TranscendenceCape_1,1398276,174924
+733543ae8f0003f6,transcendencecloak_glow_dxt1.dds.header,Tiny_8,16532659,1520
+9e4866c5e71d7ba9,transcendencecloak_colourspecular_dxt5.dds,Art/Textures/Items/armour/Capes/TranscendenceCape,0,699236
+48c3f3d926acfd8b,transcendencecloak_colourspecular_dxt5.dds.header,Tiny_8,16531819,840

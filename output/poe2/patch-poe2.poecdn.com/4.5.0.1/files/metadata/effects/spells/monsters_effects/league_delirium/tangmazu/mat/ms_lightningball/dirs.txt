@@ -1,0 +1,3 @@
+cast
+idle
+impact

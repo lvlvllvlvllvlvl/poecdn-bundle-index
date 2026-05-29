@@ -1,0 +1,14 @@
+buff
+build
+epk
+fire
+ice
+ice/on_act
+lightning
+lightning/arcing
+lightning/on_act
+lightning/storm
+minion
+phys
+phys/petrification
+phys/temporal

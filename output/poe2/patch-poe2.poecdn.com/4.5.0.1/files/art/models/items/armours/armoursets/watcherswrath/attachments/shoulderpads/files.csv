@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+494214dfb9596b91,l_shoulderpad.sm,Tiny.V7,8757476,796
+e7cb68d1ac41829b,l_shoulderpadstr.sm,Tiny.V7,8758272,794
+bd3b9d78c767b26a,r_shoulderpad.sm,Tiny.VA,8861059,796
+51f3940f3601794d,r_shoulderpadstr.sm,Tiny.V9,9147288,794
+c78b9075999acbc1,rig_03bdea73.smd,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.21235BF1289A3133.ironcladvestmentsdex.ao,327358,59023
+0d95188a078befc7,rig_03bdea73.smd.header,Tiny.V4,8971395,368
+75009225ddcc9a77,rig_2143ded3.smd,Streaming/Content/metadata/items/armours/bodyarmours/5106663AD24B47D4.machinemalebodystrint.ao,581144,59023
+ee9e015f4b01d6b4,rig_2143ded3.smd.header,Tiny.V6,8827476,368
+e231a92ed10d71ea,rig_18b919fb.smd,Streaming/Content/metadata/items/armours/bodyarmours/3A0842537CFAE4FD.watcherswrathbodyint.ao,0,59011
+b13bfe256f37ce21,rig_18b919fb.smd.header,Tiny.V8,8659989,368
+a34693872e623f5f,rig_c3172368.smd,Streaming/Content/metadata/items/armours/bodyarmours/3A0842537CFAE4FD.watcherswrathbodyint.ao,59011,59011
+6a6007a8e4ac4274,rig_c3172368.smd.header,Tiny.V6,8827844,368
+96d2d749e2e47c97,rig.amd,Tiny.V4,8971187,208
+a17b6ab9f112713d,rig.ast,Tiny.VC,8718873,413

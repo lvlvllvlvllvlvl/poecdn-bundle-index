@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+b587a70f670e2779,expeditionmetalmaskc.mat,Tiny.V7,12655198,2482
+8916c61288cf8d49,expeditionmetalmask_normal_dxt5.dds,Streaming/Content/data/worldareas/C8/null.vworld,5845785,87556
+04bceaf4df261232,expeditionmetalmask_normal_dxt5.dds.header,Tiny.V8,12663924,1520
+41513e13e8987bbc,expeditionmetalmask_colour_dxt5.dds,Streaming/Content/data/worldareas/8A/null.vworld,1398276,87556
+8d094bc97ea8a304,expeditionmetalmask_colour_dxt5.dds.header,Tiny.V0,12779858,1520
+30851e2dbf2fdf95,expeditionplaguemorphc.mat,Tiny.V9,12955103,5596
+f51824dd3c9b5217,expeditionplaguemorph_glowgray_dxt1.dds,Streaming/Content/data/worldareas/F6/g4_9_.vworld,399319,174924
+ba4db7835733f2b3,expeditionplaguemorph_glowgray_dxt1.dds.header,Tiny.V8,12665444,1520
+dcfe7c9175990cd7,expeditionplaguemorph_sss_dxt1.dds,Streaming/Content/data/balance/worldareas/F8/null.vworld,6160381,174924
+e414a6af7c12fdb6,expeditionplaguemorph_sss_dxt1.dds.header,Tiny.V1,12596313,1520
+a75e362cab39ccf2,expeditionplaguemorph_normal_dxt5.dds,Streaming/Content/data/worldareas/4F/null.vworld,2796364,5592580
+92c8aeb649ffc523,expeditionplaguemorph_normal_dxt5.dds.header,Tiny.V3,12642098,1520
+dd7b214d1ef475d3,expeditionplaguemorph_metal_dxt1.dds,Streaming/Content/data/balance/worldareas/86/null.vworld,330991,2796364
+86aa6332824046ce,expeditionplaguemorph_metal_dxt1.dds.header,Tiny.V4,12851808,1520
+f4d64dcdb27cb29b,expeditionplaguemorph_colour_dxt1.dds,Streaming/Content/data/balance/worldareas/45/null.vworld.1,0,2796364
+7eccba748b40fc6b,expeditionplaguemorph_colour_dxt1.dds.header,Tiny.V2,12905247,1520

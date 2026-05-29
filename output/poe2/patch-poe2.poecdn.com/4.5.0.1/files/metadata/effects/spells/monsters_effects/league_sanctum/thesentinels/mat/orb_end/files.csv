@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+0e762ecb309b4dcc,shimmer_wave_01_r.mat,Tiny.VC.1,162564631,23558
+ece7739a2650b74d,shimmer_wave_01_u.mat,Tiny.V6.1,117026461,2152
+7ea6f30474ac81a1,blur_oomph_01_r.mat,Tiny.V5.1,155778316,10434
+2f7a9f31a8aa3e6d,blur_oomph_01_u.mat,Tiny.V6.1,117026461,2152
+ca8f368bc87320e1,explode_decal_01_r.mat,Tiny.VA.1,157915180,46152
+a461dc90fa290e74,explode_coreshimmer_01_r.mat,Tiny.V2.1,160788308,41980
+cb4e5dfe1cb12f51,explode_core_03_r.mat,Tiny.V0.1,101327296,71986
+2e03b54cf856ed80,explode_core_02_r.mat,Tiny.V6.1,158715281,54014
+0d42b70540c51a7b,explode_core_01_r.mat,Tiny.V8.1,159717142,64398
+2603f9f2bb788390,explode_core_01_u.mat,Tiny.VE.1,118228422,2148
+7709d88610f62118,explode_spray_01_r.mat,Tiny.V0.1,158689362,19810
+ba3a295053826a78,explode_spray_01_u.mat,Tiny.V9.1,160791090,10736
+abe549dc19a3fee9,explode_splash_01_r.mat,Tiny.V1.1,157543792,54478
+322199cd099b41d6,explode_splash_01_u.mat,Tiny.V6.1,158769295,26320
+c2bdb2fbae8b17d8,explode_sphere_01_r.mat,Tiny.V1.1,157485552,58240
+6db8291d94a2a23f,explode_sphere_01_u.mat,Tiny.V6.1,117026461,2152

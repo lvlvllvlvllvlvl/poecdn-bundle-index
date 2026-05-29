@@ -1,6 +1,0 @@
-1x1
-2x2
-2x3
-towerabyss
-towerwalkway
-unique

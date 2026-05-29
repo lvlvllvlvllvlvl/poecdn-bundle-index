@@ -1,8 +1,0 @@
-f
-f/cape
-f/robe
-f/shawl
-m
-m/cape
-m/robe
-m/shawl

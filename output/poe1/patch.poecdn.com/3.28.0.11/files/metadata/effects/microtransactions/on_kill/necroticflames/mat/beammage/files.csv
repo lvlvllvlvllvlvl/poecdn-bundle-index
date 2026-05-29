@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+18424643f30983b9,pinch_cone_r.mat,Tiny_9,161772942,19888
+d1215d9f5043806c,pinch_cone_u.mat,Tiny_11,150820658,310
+21141041c2eec15a,microwave_mblur_r.mat,Tiny_9,161740468,15706
+5ffb68f7cb2de328,microwave_r.mat,Tiny_9,161756174,14626
+507d6f6a0089eda0,microwave_u.mat,Tiny_9,161770800,2142
+b9fa698bd657fe49,fire1_render.mat,Tiny_9,161704166,33470
+2ad82e505736aaf5,fire1_update.mat,Tiny_9,161737636,2832
+58db4ceb1358f369,blast_sphere_r.mat,Tiny_9,161676328,25672
+b0a4273e8417f451,blast_sphere_u.mat,Tiny_9,161702000,2166

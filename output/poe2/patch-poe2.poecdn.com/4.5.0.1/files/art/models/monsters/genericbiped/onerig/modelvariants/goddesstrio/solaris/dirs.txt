@@ -1,0 +1,6 @@
+attachments
+attachments/hair
+attachments/shoulderpads
+attachments/skirt
+attachments/weapon
+attachments/weapon/spear

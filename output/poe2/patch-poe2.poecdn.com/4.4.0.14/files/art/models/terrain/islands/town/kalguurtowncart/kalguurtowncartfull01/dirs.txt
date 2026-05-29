@@ -1,3 +1,0 @@
-animations
-animations/bull01
-animations/bull02

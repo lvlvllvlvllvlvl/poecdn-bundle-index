@@ -1,4 +1,0 @@
-ballistastorm
-meteor_shower
-meteor_shower/mb
-meteor_shower/texture

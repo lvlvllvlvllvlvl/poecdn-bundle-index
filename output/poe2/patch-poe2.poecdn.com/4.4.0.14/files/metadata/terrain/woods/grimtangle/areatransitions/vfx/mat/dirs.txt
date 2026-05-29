@@ -1,3 +1,0 @@
-root1
-tree_activation
-tree_activation/dispersion

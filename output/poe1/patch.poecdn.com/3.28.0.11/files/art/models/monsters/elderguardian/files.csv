@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+bdd510d8e3007665,rig.amd,Art/Models/MONSTERS/ElderGuardian,776192,9174
+e667d18cf6b86c72,rig.ast,Art/Models/MONSTERS/ElderGuardian,785366,1983568
+bec85b9561bc5fd0,lightningguardian.sm,Tiny_3,2474369,890
+8ae62945b846d391,lightningguardian_armour_28725ef4.smd,Art/Models/MONSTERS/ElderGuardian,505358,270834
+f084e9a5ac22c8b2,lightningguardian_armour_28725ef4.smd.header,Tiny_3,2475259,3056
+f9dd26a45dafaeaf,holyguardian.sm,Tiny_3,2470066,750
+c0225a877ba1c55a,holyguardian_armour_b94d3874.smd,Art/Models/MONSTERS/ElderGuardian,350830,154528
+ab8db37eb40a81e2,holyguardian_armour_b94d3874.smd.header,Tiny_3,2470816,3553
+5d16cb6b9c517a62,guardianarmour.fmt,Tiny_6,10437478,43
+a3cb03cffef5a0df,guardianarmour.fmt.header,Tiny_7,56868231,128
+936fa3a7abab4f25,fireguardian.sm,Tiny_3,2466016,536
+3df2236a3ef9fc67,fireguardian_armour_02d151ab.smd,Art/Models/MONSTERS/ElderGuardian,183696,167134
+1966c1d849b2e893,fireguardian_armour_02d151ab.smd.header,Tiny_3,2466552,3514
+7b2c1387a7e847e6,chaosguardian.sm,Tiny_3,2462125,510
+7b387e2e91174382,chaosguardian_armour_f93b7363.smd,Art/Models/MONSTERS/ElderGuardian,0,183696
+5113bdfdd3b24c5e,chaosguardian_armour_f93b7363.smd.header,Tiny_3,2462635,3381

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+d60a7cb60db380e6,spark.mat,Tiny_8,11894354,2364
+9b40b9ff59563b5f,spark_dxt3.dds,Tiny_8,11896718,1540
+c45178d0ad6aa864,spark_dxt3.dds.header,Tiny_8,11898258,1520
+2fa0f29c22092d89,mir3_dxt1.dds,Art/Textures/Items/armour/body/Microtransactions/Transcendence_4,0,699212
+0f8e3646a6ef8733,mir3_dxt1.dds.header,Tiny_8,11892834,1520
+b2da1cda3981f77d,mir2_dxt1.dds,Art/Textures/Items/armour/body/Microtransactions/Transcendence_2,0,1398268
+9cb6f44a64601d88,mir2_dxt1.dds.header,Tiny_8,11891994,840
+24cb92df92633c97,mir1_dxt1.dds,Art/Textures/Items/armour/body/Microtransactions/Transcendence_1,0,1398268
+3e5f13f735ea9561,mir1_dxt1.dds.header,Tiny_8,11891154,840
+b48ec0b981088036,diffuse_add_dxt1.dds,Art/Textures/Items/armour/body/Microtransactions/Transcendence_4,699212,174924
+f152a7b5d14773a6,diffuse_add_dxt1.dds.header,Tiny_8,11889634,1520

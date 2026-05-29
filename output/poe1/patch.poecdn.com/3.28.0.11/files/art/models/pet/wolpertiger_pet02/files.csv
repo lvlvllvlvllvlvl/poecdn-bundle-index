@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+46fea6e4a911e864,wolpertiger_pet02.sm,Tiny_3,20713924,554
+503ffb0c21f36046,wolpertiger_pet02.fmt,Art/Models/Pet/Wolpertiger_Pet02,463881,138917
+aab5fa0058fca7a5,wolpertiger_pet02.fmt.header,Tiny_3,20713742,182
+535c2a6da84e7738,rig_f69e2b26.smd,Art/Models/Pet/Wolpertiger_Pet02,370955,92926
+eaa0d202f5ad1585,rig_f69e2b26.smd.header,Tiny_3,20711916,1826
+10173f73a7fab475,rig.amd,Tiny_3,20711632,284
+9c00271c44f4707d,rig.ast,Art/Models/Pet/Wolpertiger_Pet02,0,370955
+9985048bbff12fcc,carrot.fmt,Tiny_3,20708673,2793
+d25b651382051237,carrot.fmt.header,Tiny_3,20711466,166

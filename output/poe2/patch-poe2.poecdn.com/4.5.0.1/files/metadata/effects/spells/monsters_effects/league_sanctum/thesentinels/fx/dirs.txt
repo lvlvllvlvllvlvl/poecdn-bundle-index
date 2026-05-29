@@ -1,0 +1,16 @@
+cascade_ground_slam
+ground_slam_02
+multislam_01
+multislam_02
+onact
+orb_impact
+soulrend
+soulrend/projectile01
+spikes
+volatile_dead
+volatile_dead/volatiledead_fireorb
+volatile_dead/volatiledead_fireorb/death
+volatile_dead/volatiledead_fireorb/emerge
+volatile_dead/volatiledead_fireorb/end
+volatile_dead/volatiledead_fireorb/idle
+volatile_dead/volatiledead_fireorb/spellcast_aoe

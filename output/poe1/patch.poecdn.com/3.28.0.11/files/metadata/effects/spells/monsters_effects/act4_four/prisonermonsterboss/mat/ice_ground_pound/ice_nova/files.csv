@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+0d589e3d595db415,sphere_distortion_render.mat,Tiny_D,114919816,10032
+dc5c0248b5a1c428,sphere_distortion_update.mat,Tiny_11,150820658,310
+3389f4f0a0feddbc,sparks_render.mat,Tiny_D,114892962,11266
+689ee35d46250e63,sparks_update.mat,Tiny_D,114904228,15588
+7bcbccf18174c514,snow_debris_01_render.mat,Tiny_D,277414916,26326
+e617eecfcd3e0c29,snow_debris_01_update.mat,Tiny_D,114861736,31226
+5bca52c687af5094,shockwave_halfsphere_render.mat,Tiny_D,114816076,45660
+92a5995facd610e3,shockwave_halfsphere_update.mat,Tiny_11,150820658,310
+ae9546d71fe56b47,shimmerwave_render.mat,Tiny_D,321924580,25078
+6f7409d9f211007c,shimmerwave_update.mat,Tiny_11,150820658,310
+513e5370ec7373a6,ring_shockwave_render.mat,Tiny_D,114786036,30040
+d14d5cebd4c5701d,ring_shockwave_update.mat,Tiny_11,150820658,310

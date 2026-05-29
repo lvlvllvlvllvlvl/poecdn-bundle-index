@@ -1,8 +1,0 @@
-corrupted
-endgame
-gallows
-gallows/act4_intermission
-gallows/endgame
-gallows/leagues
-hideouts
-maps

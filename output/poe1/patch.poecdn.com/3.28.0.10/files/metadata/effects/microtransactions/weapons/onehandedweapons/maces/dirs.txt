@@ -1,3 +1,0 @@
-epk
-medusa
-medusa/fx

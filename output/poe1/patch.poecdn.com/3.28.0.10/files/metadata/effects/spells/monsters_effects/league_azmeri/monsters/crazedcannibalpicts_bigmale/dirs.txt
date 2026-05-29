@@ -1,9 +1,0 @@
-epk
-epk/special_attack_02
-fx
-fx/attack_01
-fx/attack_special_02
-mat
-mat/attack_01
-mat/flinch_01
-mat/special_attack_02

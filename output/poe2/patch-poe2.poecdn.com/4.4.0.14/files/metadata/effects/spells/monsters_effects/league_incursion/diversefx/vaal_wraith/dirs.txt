@@ -1,6 +1,0 @@
-ghastly_dash
-ghastly_dash/aoe
-ghastly_dash/cleave
-ghastly_dash/clone_aoe
-ghost_projectile
-teleport

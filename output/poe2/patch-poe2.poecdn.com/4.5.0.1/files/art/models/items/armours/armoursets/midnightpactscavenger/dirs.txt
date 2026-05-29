@@ -1,0 +1,6 @@
+attachments
+attachments/grenades
+attachments/poncho
+attachments/skirt
+attachments/tail
+textures

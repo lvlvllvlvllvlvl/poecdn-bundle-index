@@ -1,0 +1,14 @@
+beam
+beam/pet
+beam_ruin
+beam_ruin/pet
+cascade_grdslam
+cascade_grdslam/pet
+orb_explosion
+orb_explosion/pet
+orb_explosion_ruin
+orb_explosion_ruin/pet
+tendrils_cone
+tendrils_cone/pet
+tendrils_cone_ruin
+tendrils_cone_ruin/pet

@@ -1,0 +1,10 @@
+ao
+epk
+fx
+mat
+mat/enrage
+mat/idle
+mat/lightning_proj
+mat/lightning_proj_impact
+mat/onact
+mat/onact/attack

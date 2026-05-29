@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-47e2fc1bb7503837,pixiedust_r.mat,Tiny_D,381551368,17252
-f5e53a971ea68a58,pixiedust_u.mat,Tiny_D,381568620,20450
-c08f50f4732b9c22,mblur_sphere_r.mat,Tiny_D,381539860,11508
-258e3568e1ca9009,mblur_sphere_u.mat,Tiny_11,86642861,310
-9d16b0525f485827,body_disintegrate_r.mat,Tiny_D,381496270,22918
-c327e6d966dc1867,body_disintegrate_u.mat,Tiny_D,381519188,20672
-73ccbd28bebc4a48,base_disintegrate_r.mat,Tiny_D,381452920,22448
-b76fa7237bfc76a5,base_disintegrate_u.mat,Tiny_D,381475368,20902

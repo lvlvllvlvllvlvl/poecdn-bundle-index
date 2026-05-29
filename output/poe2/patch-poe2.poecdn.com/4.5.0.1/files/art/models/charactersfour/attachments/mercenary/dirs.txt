@@ -1,0 +1,8 @@
+hairstyles
+hairstyles/beard
+hairstyles/default
+hairstyles/default/hair
+hairstyles/tight
+outfit
+outfit/attachments
+outfit/attachments/belt

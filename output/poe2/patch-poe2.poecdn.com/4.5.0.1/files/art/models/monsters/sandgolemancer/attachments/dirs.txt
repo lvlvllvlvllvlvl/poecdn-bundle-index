@@ -1,0 +1,6 @@
+skeletongolemancer
+skeletongolemancer/cape
+skeletongolemancer/chestropes
+skeletongolemancer/larmmisc
+skeletongolemancer/rarmmisc
+skeletongolemancer/shards

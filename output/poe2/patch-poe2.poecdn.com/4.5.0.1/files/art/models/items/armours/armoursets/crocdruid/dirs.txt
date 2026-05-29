@@ -1,0 +1,10 @@
+attachments
+attachments/female
+attachments/female/hair
+attachments/female/necklace
+attachments/female/skirt
+attachments/male
+attachments/male/hair
+attachments/male/necklace
+attachments/male/skirt
+textures

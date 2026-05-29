@@ -1,0 +1,10 @@
+stygian
+stygian/models
+stygian/models/burst
+stygian/models/burst/ice_blade
+stygian/models/hit
+stygian/models/projectile
+stygian/textures
+stygian/textures/ice_burst
+stygian/textures/ice_pierce
+stygian/textures/projectile

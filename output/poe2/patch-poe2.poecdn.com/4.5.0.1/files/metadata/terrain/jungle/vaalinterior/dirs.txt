@@ -1,0 +1,4 @@
+breakablearchways
+doors
+vaalcorruptionaltar
+vaalgenerator

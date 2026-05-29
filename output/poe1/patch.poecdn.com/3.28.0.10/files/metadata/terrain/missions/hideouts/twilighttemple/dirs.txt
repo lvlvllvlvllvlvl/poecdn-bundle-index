@@ -1,4 +1,0 @@
-graphs
-rooms
-rooms/lunaris
-rooms/solaris

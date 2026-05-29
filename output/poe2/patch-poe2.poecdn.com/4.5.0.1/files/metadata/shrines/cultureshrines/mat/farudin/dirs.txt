@@ -1,0 +1,4 @@
+ball_lightning
+lightning_rod
+monster_affected
+shrine_activate

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+0acb527a8ec91934,clothandchainsc.mat,Tiny.VB,12380835,2232
+e6bf3d2d54b5d100,clothandchains_glow.dds,Streaming/Content/metadata/monsters/companions/demonfirecaster/demonfirecaster.ot.1,0,5592580
+c262137835fe4160,clothandchains_glow.dds.header,Tiny.V3,12330491,1520
+3d07c386b9beb5a6,clothandchains_normal.dds,Streaming/Content/metadata/monsters/companions/demonfirecaster/demonfirecaster.ot.2,5592580,5592580
+adb88a9181ec4ef8,clothandchains_normal.dds.header,Tiny.V8,12333399,1520
+4618097d26320977,clothandchains_metal.dds,Streaming/Content/metadata/monsters/companions/demonfirecaster/demonfirecaster.ot.2,0,5592580
+2a5a30bc48135067,clothandchains_metal.dds.header,Tiny.V9,12674034,1520
+09a3d53a17485103,clothandchains_colour.dds,Streaming/Content/metadata/monsters/companions/demonfirecaster/demonfirecaster.ot,587922,2796364
+f3133b2710177ee8,clothandchains_colour.dds.header,Tiny.VB,12379315,1520
+1f56cea7ff9e24d6,demonminionsummonc.mat,Tiny.V8,12334919,3712
+3a1b7870e39a9313,demonminionsummon_glow_bc7.dds,Streaming/Content/metadata/monsters/companions/demonfirecaster/demonfirecaster.ot.3,699212,1398276
+31969d0538d62132,demonminionsummon_glow_bc7.dds.header,Tiny.VE,12329972,1520
+0e6239fc7302d98c,demonminionsummon_normal_bc7.dds,Streaming/Content/metadata/monsters/companions/demonfirecaster/demonfirecaster.ot.3,2097488,1398276
+21b5da617027b2dc,demonminionsummon_normal_bc7.dds.header,Tiny.V7,12355724,1520
+418d878cc183d5ed,demonminionsummon_colour_bc1.dds,Streaming/Content/metadata/monsters/companions/demonfirecaster/demonfirecaster.ot.3,0,699212
+a0b33656d3a725ff,demonminionsummon_colour_bc1.dds.header,Tiny.V0,12523529,1520

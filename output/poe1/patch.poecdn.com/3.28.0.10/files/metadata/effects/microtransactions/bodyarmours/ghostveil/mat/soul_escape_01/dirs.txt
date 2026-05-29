@@ -1,2 +1,0 @@
-appear_soul
-disappear_poof

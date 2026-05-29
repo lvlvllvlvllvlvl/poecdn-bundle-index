@@ -1,0 +1,10 @@
+graphs
+rooms
+rooms/1x1
+rooms/2x2
+rooms/archives
+rooms/archives/1x1
+rooms/archives/2x2
+rooms/unique
+rooms/unique/injectors
+rooms/windows

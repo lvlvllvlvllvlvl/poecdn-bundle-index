@@ -1,0 +1,14 @@
+on_act
+on_act/cast_long_01
+on_act/cast_long_01_ruin
+pet
+pet/alive
+pet/death_01
+pet/ice_nova
+pet/ice_nova_ruin
+pet/impact_beam
+pet/lightning_beam
+pet/lightning_beam/on_act
+pet/lightning_ground
+pet/projectile
+pet/projectile/on_act

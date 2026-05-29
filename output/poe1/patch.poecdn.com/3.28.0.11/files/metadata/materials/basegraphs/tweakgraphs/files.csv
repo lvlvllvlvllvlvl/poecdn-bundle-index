@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+602b64b6fa99c7fc,tweak_glossiness.fxgraph,Folders/metadata/materials,682440,38880
+c8b461bfe0e73220,tweak_normals.fxgraph,Folders/metadata/materials,721320,26300
+0e7bbf87fa71ee82,tweak_occlusion.fxgraph,Folders/metadata/materials,747620,39900
+de6b1f1b00df0322,tweak_transparency.fxgraph,Folders/metadata/materials,892248,16908
+37940f032a146a4a,tweak_specularcolour.fxgraph,Folders/metadata/materials,787520,52270
+cbd7c6209565d50f,tweak_subsurfacecolour.fxgraph,Folders/metadata/materials,839790,52458
+a8780dfbfa39ab04,tweak_albedo.fxgraph,Folders/metadata/materials,544888,30164
+c63d25812389e156,tweak_albedotint.fxgraph,Folders/metadata/materials,630054,52386
+8b18108bcb644876,tweak_albedo_vertexmask.fxgraph,Folders/metadata/materials,575052,55002

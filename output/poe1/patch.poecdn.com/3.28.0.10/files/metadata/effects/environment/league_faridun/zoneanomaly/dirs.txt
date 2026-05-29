@@ -1,6 +1,0 @@
-epk
-fx
-graphs
-mat
-mat/spawn_area
-mat/zone_anomaly

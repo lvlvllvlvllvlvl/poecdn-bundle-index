@@ -1,6 +1,0 @@
-wind_mesh
-wind_mesh/sandwind_ground_med
-wind_mesh/sandwind_ground_small
-wind_mesh/sandwind_med
-wind_mesh/sandwind_med/textures
-wind_mesh/sandwind_small

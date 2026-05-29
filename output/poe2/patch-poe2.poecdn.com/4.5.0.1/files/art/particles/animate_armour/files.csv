@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+25c40a27ba4e90e4,innerc.mat,Tiny.V8,33865859,1718
+bfabd0c62fe5cc0e,inner.dds,Streaming/Content/metadata/effects/spells/summon_arbalists/A2423F3D01E7A113.cyl_spawn.pet,82670,349700
+48eb989e2ff5947b,inner.dds.header,Tiny.V9,34478028,1520
+55b1ca10e3986f6b,inner_multic.mat,Tiny.V5,33713711,1222
+e4d5b255d5c7ab6e,inner_multi.dds,Streaming/Content/metadata/effects/spells/summon_arbalists/A2423F3D01E7A113.cyl_spawn.pet,432370,349700
+3a3bf16fa7790eca,inner_multi.dds.header,Tiny.VD,34244016,1520
+dbd913cc5e902ecf,summon_cloud2.mat,Tiny.VD,34245536,1108
+18515f1c790282c4,summon_cloud2.dds,Streaming/Content/metadata/particles/dominating_blow/monster_hit/midline.pet,918348,87556
+8ffccaf08999b277,summon_cloud2.dds.header,Tiny.V5,33714933,1520

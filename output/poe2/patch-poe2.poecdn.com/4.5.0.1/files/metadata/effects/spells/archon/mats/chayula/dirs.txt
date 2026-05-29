@@ -1,0 +1,6 @@
+buff
+buffapply
+buffapply/attachment
+buffapply/pulse
+tornado
+warcry

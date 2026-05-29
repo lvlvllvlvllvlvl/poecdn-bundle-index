@@ -1,6 +1,0 @@
-faustus
-faustus/attachments
-nenet
-nenet/attachments
-whakano
-whakano/attachments

@@ -1,0 +1,10 @@
+heritage1haxe
+heritage1hmace
+heritage1hsword
+heritage2haxe
+heritage2hmace
+heritage2hsword
+heritagedagger
+heritagestaff
+heritagewand
+textures

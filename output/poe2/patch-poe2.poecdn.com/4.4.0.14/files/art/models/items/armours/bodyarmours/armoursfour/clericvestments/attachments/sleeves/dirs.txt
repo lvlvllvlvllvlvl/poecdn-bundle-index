@@ -1,6 +1,0 @@
-f
-f/l
-f/r
-m
-m/l
-m/r

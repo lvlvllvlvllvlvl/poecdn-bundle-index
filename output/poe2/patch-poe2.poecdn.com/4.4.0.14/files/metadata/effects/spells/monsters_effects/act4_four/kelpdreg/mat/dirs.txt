@@ -1,3 +1,0 @@
-ice_snipe_proj
-ice_snipe_proj/idle
-ice_snipe_proj/onact

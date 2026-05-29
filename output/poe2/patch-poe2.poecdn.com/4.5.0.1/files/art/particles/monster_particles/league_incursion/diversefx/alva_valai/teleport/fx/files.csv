@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+d115e4905dd8a3dd,multiwave_at.mat,Tiny.VF,39864666,1388
+7dac20c26a41c15d,multiwave_at.dds,Streaming/Content/metadata/particles/monster_effects/league_incursion/AFCD27F524481235.mortar_midline.pet,896596,349700
+24bdb6332137527d,multiwave_at.dds.header,Tiny.VF,39855358,1520
+7ce3088693cb6efc,multiwave_multi.mat,Tiny.V6,40013096,1406
+5afc6355864929e0,multiwave_multi.dds,Streaming/Content/metadata/particles/monster_effects/league_incursion/AFCD27F524481235.mortar_midline.pet,1246296,349700
+5757bd47d800d281,multiwave_multi.dds.header,Tiny.V6,40011576,1520
+d6ace0b145732d10,fire_spark.mat,Tiny.V2,39987729,1638
+22ec5bbe6bf7e092,fire_spark.dds,Tiny.V2,39829612,516
+417bb69cba82c7fc,fire_spark.dds.header,Tiny.V5,39632731,1520
+83c9adfd111c8b92,shockwave-sample.mat,Tiny.VE,39518508,1706
+8f35d569809ec6a0,shockwave-sample.dds,Streaming/Content/metadata/particles/monster_effects/league_incursion/AFCD27F524481235.mortar_midline.pet,1595996,87556
+5b6ee5d4d75d4c0b,shockwave-sample.dds.header,Tiny.V3,39280683,1520
+21e59a8bbc0df6b1,shockwave.mat,Tiny.V1,39935106,1664
+10d850fbdf178598,shockwave.dds,Streaming/Content/metadata/particles/monster_effects/league_incursion/449855495CFCAAF5.A8E4413BC062F511.sphere_glow.pet,0,174948
+43a00e02c4b089fb,shockwave.dds.header,Tiny.V7,39964331,840

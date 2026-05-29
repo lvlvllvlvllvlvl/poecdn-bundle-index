@@ -1,0 +1,8 @@
+narrative_emerge_sequence
+narrative_emerge_sequence/mb
+narrative_emerge_sequence/mb/deliriumtangmazumirror01_fog
+narrative_emerge_sequence/mb/tangmazuchild
+narrative_emerge_sequence/mb/tangmazuchild/tangamazu_narrative_emerge_01
+narrative_emerge_sequence/mb/tangmazumindentrance
+narrative_emerge_sequence/tex
+narrative_emerge_sequence/tex/tangmazumindentrance

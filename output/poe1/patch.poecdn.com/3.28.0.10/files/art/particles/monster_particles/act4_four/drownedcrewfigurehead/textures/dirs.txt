@@ -1,4 +1,0 @@
-ghostflame_lantern
-on_act
-on_act/attack_01
-statueslam

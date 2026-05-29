@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-80722d37c994f6e1,projectile_aoe.ao,Tiny.V8.1,103916180,430
-e6d3a15bcf529702,projectile_aoe.aoc,Tiny.VB.1,106945772,2218
-a41831035a37840f,projectile_aoe_ground.ao,Tiny.V8.1,103916180,430
-2ce81b07387a7f58,projectile_aoe_ground.aoc,Tiny.V6.1,108281756,2238
-c48556397c2b7899,projectile_pierce.ao,Tiny.V1.1,106748344,416
-e68657e2f6a1cdb6,projectile_pierce.aoc,Tiny.V6.1,108283994,4142
-9abb256e8850e670,projectile_decelerate.ao,Tiny.V1.1,106748344,416
-2f171360e8412de0,projectile_decelerate.aoc,Tiny.VD.1,104378152,3118

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+2973953188631d8f,explosivewall.sm,Tiny_5,60741675,938
+bdbb8c825e931545,npcdoorexplosivewall_rig_1001c1df.smd,Folders/art/models/terrain/leagues/heist/doors,895812,443450
+6b24b7d3eb0387eb,npcdoorexplosivewall_rig_1001c1df.smd.header,Folders/art/models/terrain/leagues/wager/tgms,1032080,5673
+941c76eb7d734bd4,npcdoorexplosivewall_rig.amd,Tiny_5,60744328,100
+bb379becb6e5aab6,npcdoorexplosivewall_rig.ast,Folders/art/models/terrain/leagues/heist/doors,751056,144756
+22e1cb71d27928d6,heistnpcexplosivewall_01_heistnpcdoorexplosivewall.fmt,Tiny_7,19668252,43
+36714853cb7510ec,heistnpcexplosivewall_01_heistnpcdoorexplosivewall.fmt.header,Tiny_7,56868231,128
+a741516af9827ab4,heistnpcexplosivewall_01_eventdrivenblocker.fmt,Tiny_5,61449127,269
+045cef5854c3126c,heistnpcexplosivewall_01_eventdrivenblocker.fmt.header,Tiny_5,61449396,152
+2d98a4fe9e8b683b,heistnpcexplosivewall_01.tgt,Tiny_5,60742613,572
+bfd4a756be06b749,heistnpcexplosivewall_01.tmd,Tiny_5,60743185,1143

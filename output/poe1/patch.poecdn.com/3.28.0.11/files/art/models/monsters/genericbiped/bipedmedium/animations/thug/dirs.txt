@@ -1,0 +1,8 @@
+bombthrower
+bow
+maul
+spear_shield
+sword_shield
+sword_unarmed
+trapper
+trapper/spirit_possessed

@@ -1,4 +1,0 @@
-anchor
-cannon
-shield
-wave

@@ -1,0 +1,2 @@
+footprint
+footprint/town_idle

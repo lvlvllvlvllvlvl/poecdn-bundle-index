@@ -1,7 +1,0 @@
-hammer
-hammer/textures
-lantern
-pickaxe
-pickaxe/animations
-pickaxe/animations/tgms
-pickaxe/textures

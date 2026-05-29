@@ -1,2 +1,0 @@
-mudbones_burrows
-mudbones_burrows/chesttextures

@@ -1,0 +1,4 @@
+spider_mini_death
+spider_spine_spit
+spider_splat
+spider_webdown

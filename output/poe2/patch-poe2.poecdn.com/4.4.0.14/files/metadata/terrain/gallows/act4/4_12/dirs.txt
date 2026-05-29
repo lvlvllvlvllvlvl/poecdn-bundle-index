@@ -1,8 +1,0 @@
-combinationmetatiles
-graphs
-objects
-rooms
-rooms/auxiliarycorridor
-rooms/maincorridor
-rooms/overlays
-rooms/unique

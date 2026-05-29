@@ -1,0 +1,4 @@
+booncurseicons
+devilsdealicons
+merchantwindows
+relicwindows

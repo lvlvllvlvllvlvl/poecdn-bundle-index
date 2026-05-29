@@ -1,7 +1,0 @@
-attachments
-effects
-effects/knockback
-effects/release
-effects/spell
-effects/spit
-textures

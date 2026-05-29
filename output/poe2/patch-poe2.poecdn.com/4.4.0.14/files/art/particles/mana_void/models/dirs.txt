@@ -1,6 +1,0 @@
-mainrune
-rune_extension_01
-rune_extension_02
-rune_extension_03
-rune_extension_04
-surge

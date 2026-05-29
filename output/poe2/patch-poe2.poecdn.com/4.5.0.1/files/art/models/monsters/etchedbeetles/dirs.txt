@@ -1,0 +1,9 @@
+effects
+largeetchedbeetle
+largeetchedbeetle/animations
+largeetchedbeetle/animations/pet
+mediumetchedbeetle
+smalletchedbeetle
+smalletchedbeetle/animations
+smalletchedbeetle/animations/pet
+textures

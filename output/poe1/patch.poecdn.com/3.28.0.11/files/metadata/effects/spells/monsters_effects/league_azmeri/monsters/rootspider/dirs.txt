@@ -1,0 +1,16 @@
+attachments
+epk
+fx
+fx/attack1
+fx/attack_ranged
+fx/emerge
+graphs
+mat
+mat/attack1
+mat/attack_ranged
+mat/attack_ranged/projectile
+mat/attack_ranged/projectile/impact
+mat/attack_ranged/trail
+mat/emerge
+mat/fadein
+mat/fadeout

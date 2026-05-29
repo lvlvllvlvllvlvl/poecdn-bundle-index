@@ -1,7 +1,0 @@
-attachments
-attachments/prisonhallwaycirclefloor
-attachments/prisonhallwaylargebridge
-attachments/prisonhallwaylargefloor
-attachments/prisonhallwaysmallbridge
-attachments/prisonhallwaysmallfloor
-skeletons

@@ -1,0 +1,3 @@
+1h_sword
+maul
+shield

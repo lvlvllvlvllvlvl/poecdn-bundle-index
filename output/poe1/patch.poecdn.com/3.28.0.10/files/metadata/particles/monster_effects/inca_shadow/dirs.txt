@@ -1,4 +1,0 @@
-payloads
-payloads/aoe
-payloads/chargeup
-payloads/spawn_death

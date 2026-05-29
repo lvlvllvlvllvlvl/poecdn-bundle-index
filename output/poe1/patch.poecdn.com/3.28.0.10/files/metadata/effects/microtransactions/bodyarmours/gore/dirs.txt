@@ -1,2 +1,0 @@
-gore_aura
-particles

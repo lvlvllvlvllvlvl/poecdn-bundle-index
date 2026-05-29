@@ -1,0 +1,4 @@
+helmetfur
+helmettail
+robe
+robe/male

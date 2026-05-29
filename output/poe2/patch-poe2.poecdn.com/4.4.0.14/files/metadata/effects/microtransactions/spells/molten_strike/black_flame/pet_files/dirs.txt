@@ -1,3 +1,0 @@
-chunk_impact
-chunk_trail
-heavy_molten

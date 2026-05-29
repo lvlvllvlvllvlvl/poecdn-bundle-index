@@ -1,5 +1,0 @@
-models
-models/arc_beam
-models/arc_impact
-textures
-textures/impact

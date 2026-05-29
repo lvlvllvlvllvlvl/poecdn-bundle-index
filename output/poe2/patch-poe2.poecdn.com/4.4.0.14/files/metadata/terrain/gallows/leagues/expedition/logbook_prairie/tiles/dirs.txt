@@ -1,6 +1,0 @@
-cliffunwalkable
-fieldedge
-fieldedge/unwalkable
-moundsandknolls
-wideriver
-wideriver/unwalkable

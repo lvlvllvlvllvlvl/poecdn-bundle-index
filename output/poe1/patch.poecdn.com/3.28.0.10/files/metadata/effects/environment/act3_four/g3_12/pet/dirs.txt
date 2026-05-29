@@ -1,4 +1,0 @@
-sun
-sun/idle
-sun2
-sun2/idle

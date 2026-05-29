@@ -1,0 +1,13 @@
+blackstrider
+devourer
+grub
+meleespider
+parasite
+plaguespider
+plated_scorpion
+scorpion
+spider
+squid
+thornspider
+vulture
+weta

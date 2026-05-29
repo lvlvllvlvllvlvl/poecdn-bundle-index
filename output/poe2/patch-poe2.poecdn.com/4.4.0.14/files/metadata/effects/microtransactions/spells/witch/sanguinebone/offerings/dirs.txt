@@ -1,9 +1,0 @@
-ao
-attachments
-audio
-epks
-fx
-graphs
-mats
-mats/bone
-mats/power

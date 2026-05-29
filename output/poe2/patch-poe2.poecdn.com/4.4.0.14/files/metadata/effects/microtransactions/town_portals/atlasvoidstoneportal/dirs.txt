@@ -1,5 +1,0 @@
-epk
-fx
-fx/stage03
-fx/stage04
-graph

@@ -1,5 +1,0 @@
-attachments
-fx
-fx/mb
-fx/textures
-textures

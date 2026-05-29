@@ -1,6 +1,0 @@
-knightlordfmantle
-knightlordfmantle/dex
-knightlordfmantle/int
-knightlordfponytail
-knightlordfrobe
-knightlordmrobe

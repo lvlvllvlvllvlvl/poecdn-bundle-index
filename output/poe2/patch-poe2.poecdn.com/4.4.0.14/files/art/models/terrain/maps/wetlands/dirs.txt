@@ -1,5 +1,0 @@
-textures
-textures/edges
-textures/foliage
-textures/ground
-tgms

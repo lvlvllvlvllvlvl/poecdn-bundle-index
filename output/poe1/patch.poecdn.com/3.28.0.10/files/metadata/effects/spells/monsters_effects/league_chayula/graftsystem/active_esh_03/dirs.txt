@@ -1,8 +1,0 @@
-fx
-fx/breach_arm_01
-fx/breach_arm_01/idle_01
-fx/orb_explosion_01
-mat
-mat/breach_arm_01
-mat/breach_arm_01/idle_01
-mat/orb_explosion_01

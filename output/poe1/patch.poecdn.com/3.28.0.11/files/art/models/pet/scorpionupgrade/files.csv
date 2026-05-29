@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+cd987c49e453839c,scorpionupgrade.sm,Tiny_3,19450716,656
+a7ecd4e2214ee931,scorpionupgradeacid.sm,Tiny_3,19451740,712
+844692202def3528,scorpionupgradelightning.sm,Tiny_3,19452452,752
+399b1ac95ccb3b45,scorpionupgrade_lightning_f4c16db6.smd,Art/Models/Pet/ScorpionUpgrade,208289,156576
+a6d4e4b1a2d6ff19,scorpionupgrade_lightning_f4c16db6.smd.header,Tiny_3,19451372,368
+e83b2f02163cb237,scorpionupgrade_f4c16db6.smd,Art/Models/Pet/ScorpionUpgrade,208289,156576
+67fb468eb0791730,scorpionupgrade_f4c16db6.smd.header,Tiny_3,19451372,368
+b56752537ba434d2,scorpionupgrade_acid_f4c16db6.smd,Art/Models/Pet/ScorpionUpgrade,208289,156576
+ad6228ee0bc77a21,scorpionupgrade_acid_f4c16db6.smd.header,Tiny_3,19451372,368
+a76a441632f07ee7,rig.amd,Tiny_3,19450434,282
+b6336dae47d9f455,rig.ast,Art/Models/Pet/ScorpionUpgrade,0,208289

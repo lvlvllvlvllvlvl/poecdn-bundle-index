@@ -1,9 +1,0 @@
-fx
-graph
-mat
-mat/close
-mat/coinflip
-mat/coinglow
-mat/dissolve_coin
-mat/open
-mat/open_burst

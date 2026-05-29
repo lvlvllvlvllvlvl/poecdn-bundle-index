@@ -1,8 +1,0 @@
-architecture
-cavestalagmites
-edge
-foliage
-ground
-rockdamagekit
-stalagmites
-stromatolites

@@ -1,2 +1,0 @@
-weapon_zones
-weapon_zones/dash

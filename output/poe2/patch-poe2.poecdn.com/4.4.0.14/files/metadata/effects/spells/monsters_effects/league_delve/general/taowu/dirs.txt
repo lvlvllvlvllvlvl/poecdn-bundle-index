@@ -1,5 +1,0 @@
-delve_cleave
-fireball_proj
-light_absorb
-super_fireball_proj
-super_fireball_proj/aoe

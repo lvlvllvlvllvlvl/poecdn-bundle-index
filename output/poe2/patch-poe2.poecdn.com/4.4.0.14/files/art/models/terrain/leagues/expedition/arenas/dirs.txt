@@ -1,3 +1,0 @@
-craterarena
-craterarena/textures
-craterarena/tgms

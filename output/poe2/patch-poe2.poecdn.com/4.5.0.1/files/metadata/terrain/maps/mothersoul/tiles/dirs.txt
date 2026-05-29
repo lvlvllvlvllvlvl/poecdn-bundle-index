@@ -1,0 +1,15 @@
+female
+female/abyss
+female/features
+female/features/forge
+female/ledge
+female/lowwall
+female/thickwall
+male
+male/abyss
+male/combinationmetatiles
+male/features
+male/features/forge
+male/ledge
+male/lowwall
+male/thickwall

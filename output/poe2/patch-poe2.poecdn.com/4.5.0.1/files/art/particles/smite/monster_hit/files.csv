@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+5a35c7cf0ce38d2d,tile_01.dds,Streaming/Content/metadata/particles/smite/monster_hit/smite_monster_hit.pet,360816,22020
+9fe7ee86dc7237ee,tile_01.dds.header,Tiny.V8,37363587,1520
+d525baa0aea8feb7,lightning_bolts_vert.mat,Tiny.VF,41288516,1542
+e36d29dc8bfde53c,lightning_bolts_vert.dds,Streaming/Content/metadata/particles/smite/monster_hit/smite_monster_hit.pet,11084,349732
+a9609e853f1e4ef1,lightning_bolts_vert.dds.header,Tiny.V0,6434302,504
+93bc46ffa1c1e751,light_gradient.mat,Tiny.V4,41579528,1678
+02f7ee918b4c542e,light_gradient.dds,Streaming/Content/metadata/particles/smite/monster_hit/smite_monster_hit.pet,0,11084
+17cfe899b9525788,light_gradient.dds.header,Tiny.VF,6330856,1520
+08408ed57a07c947,yellow_fw.mat,Tiny.VE,40962294,2808
+ebd77bdb4baf73dc,yellow_fw.dds,Streaming/Content/metadata/particles/smite/monster_hit/smite_monster_hit.pet,382836,87556
+af7c014f1107855b,yellow_fw.dds.header,Tiny.V0,41489833,1520
+ce2450668f982b1b,grad_g2.mat,Tiny.V4,41578160,1368
+f49d374ad80b1e4e,grad_g2.dds,Tiny.VB,41697508,2892
+7dd606fc6ad5987d,grad_g2.dds.header,Tiny.V5,41020578,1520

@@ -1,6 +1,0 @@
-head
-textures
-textures/babybasic
-textures/babyburned
-textures/babygreen
-textures/babytortured

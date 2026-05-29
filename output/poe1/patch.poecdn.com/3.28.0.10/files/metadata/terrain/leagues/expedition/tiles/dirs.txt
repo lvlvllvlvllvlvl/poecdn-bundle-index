@@ -1,5 +1,0 @@
-kalguurruins
-kalguurruins/features
-kalguurruins/ledge
-kalguurruins/stairs
-kalguurruins/thickwall

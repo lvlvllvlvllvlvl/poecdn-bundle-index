@@ -1,8 +1,0 @@
-harmonyheritagecloak_dex
-harmonyheritagecloak_dexint
-harmonyheritagecloak_int
-harmonyheritagecloak_str
-harmonyheritagecloak_strdex
-harmonyheritagecloak_strdexint
-harmonyheritagecloak_strint
-textures

@@ -1,9 +1,0 @@
-1x1
-2x2
-bosspath
-cavern
-fills
-intro
-intro2x2
-overlays
-unique

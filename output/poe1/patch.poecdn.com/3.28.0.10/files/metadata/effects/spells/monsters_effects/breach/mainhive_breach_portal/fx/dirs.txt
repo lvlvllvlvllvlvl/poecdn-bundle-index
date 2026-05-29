@@ -1,3 +1,0 @@
-close_01
-idle_01
-pulse_01

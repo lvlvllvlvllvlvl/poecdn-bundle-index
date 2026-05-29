@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+73c7bc0310b73ed2,npcdoordisarm_rig_dc36992d.smd,Art/Models/Terrain/Leagues/Heist/Doors,2501936,125678
+061a93c30b7d0157,npcdoordisarm_rig_dc36992d.smd.header,Tiny_5,60811525,368
+4a172ac4c84e5cc6,npcdoordisarm_rig.amd,Tiny_5,61428278,150
+98cbaa80b92784b3,npcdoordisarm_rig.ast,Art/Models/Terrain/Leagues/Heist/Doors,2497569,4367
+f45f389539db05a7,heistnpcdoordisarm_01_heistnpcdoordisarm.fmt,Tiny_7,19668252,43
+90a9ed4e86c394b5,heistnpcdoordisarm_01_heistnpcdoordisarm.fmt.header,Tiny_7,56868231,128
+63e53a89d9bdb063,heistnpcdoordisarm_01_eventdrivenblocker.fmt,Tiny_5,61449127,269
+00182a399d13f340,heistnpcdoordisarm_01_eventdrivenblocker.fmt.header,Tiny_5,61449396,152
+92ce036e78c04f4e,heistnpcdoordisarm_01.sm,Tiny_5,60693871,736
+f5934cce2b539c5e,heistnpcdoordisarm_01.tgt,Tiny_5,60694607,1568
+4301cc8ff01043ee,heistnpcdoordisarm_01.tmd,Tiny_5,60696175,1057

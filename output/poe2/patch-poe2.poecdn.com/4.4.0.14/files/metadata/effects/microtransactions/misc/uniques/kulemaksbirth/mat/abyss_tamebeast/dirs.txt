@@ -1,2 +1,0 @@
-capturebeam
-captured_orb_get

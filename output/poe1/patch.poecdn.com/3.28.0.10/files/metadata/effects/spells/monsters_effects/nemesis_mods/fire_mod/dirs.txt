@@ -1,5 +1,0 @@
-chargeup
-explosion
-fire_epk
-fire_projectile
-rune_epk

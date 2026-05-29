@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+0f156ed65c022442,trail_blood.mat,Tiny.V3.1,163132811,18134
+92a5c0760752c378,trail_blur_01.mat,Tiny.V9.1,162750418,6014
+0972a71576ac5e1b,lacerate_r.mat,Tiny.V3.1,163074377,58434
+119c49b6aec79483,lacerate_u.mat,Tiny.V9.1,155510024,1140
+e79886fc7b386895,lacerate_emissive_r.mat,Tiny.V0.1,160439926,65252
+3ab133c74169909c,wave_debris_small_r.mat,Tiny.VE.1,158759260,21252
+28d4f01754a77f73,wave_debris_small_u.mat,Tiny.VA.1,159772628,21178
+fe457644e4d75a41,wave_debris_small_forward_u.mat,Tiny.VB.1,160427003,15558
+02cbcb70c51f01dd,wave_splashes_r.mat,Tiny.V3.1,163183221,40936
+ce429272893b208c,wave_splashes_u.mat,Tiny.V5.1,160033268,22354
+8cee31c3237d7dd6,wave_ground_r.mat,Tiny.V3.1,163150945,32276
+f39bce1eb6a96c6b,wave_ground_u.mat,Tiny.V5.1,4576716,576
+ee06d3804cdefe4f,smoke01_r.mat,Tiny.V1.1,159851004,39504
+cd568344f34fba2b,smoke_left_u.mat,Tiny.V6.1,160666925,12564
+72a69623da706760,smoke_right_u.mat,Tiny.V0.1,160505178,12246

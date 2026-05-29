@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+5aa64be1d3d069c7,movementskillmarker.ot,Tiny_51,2886208,184
+63f621932006a70c,popupdamageonmovementskill.ot,Tiny_E,169595243,1002
+68b13dff0e882cfa,popup.ot,Tiny_E,169593129,2114
+f37002aac2d1b0af,popup.act,Tiny_E,169585439,854
+c85eebeb5b37f586,popup.ao,Tiny_E,169586293,6836
+6feec37ced64f565,inca_popup.act,Tiny_E,169581139,862
+707ac39ee11d5462,inca_popup.ao,Tiny_E,169582001,3438
+df8b320f843251f4,bosspylon.act,Tiny_E,169549209,486
+d0c6f33fb5c6be3c,bosspylontempchains.ot,Tiny_E,169570735,5196
+102608e4f7a5be65,bosspylontempchainscruel.ot,Tiny_E,169575931,5208
+7c117ef94a780fa5,bosspylonreduceresistance.ot,Tiny_E,169560151,5286
+3bfcef1fe01b7b6d,bosspylonreduceresistancecruel.ot,Tiny_E,169565437,5298
+bfffc3a31bfddbd8,bosspylonreducearmour.ot,Tiny_E,169549695,5222
+46a7afd773fa73fb,bosspylonreducearmourcruel.ot,Tiny_E,169554917,5234

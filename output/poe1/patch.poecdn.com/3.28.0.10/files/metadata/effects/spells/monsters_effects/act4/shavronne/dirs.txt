@@ -1,3 +1,0 @@
-lightning_touch
-spectral_death_hover
-teleport

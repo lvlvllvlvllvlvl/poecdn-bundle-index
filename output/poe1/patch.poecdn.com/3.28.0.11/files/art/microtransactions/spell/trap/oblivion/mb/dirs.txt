@@ -1,0 +1,2 @@
+explosion
+trap_base

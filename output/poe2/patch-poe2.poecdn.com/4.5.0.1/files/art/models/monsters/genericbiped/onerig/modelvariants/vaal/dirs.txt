@@ -1,0 +1,11 @@
+vaalarchitect
+vaalarchitect/attachments
+vaalarchitect/attachments/crest
+vaalarchitect/attachments/robe
+vaalarchitect/attachments/shawl
+vaaltimescientist
+vaaltimescientist/attachments
+vaaltimescientist/attachments/headfeathers
+vaaltimescientist/attachments/headfeathers/animations
+vaaltimescientist/attachments/robe
+vaaltimescientist/attachments/robe/animations

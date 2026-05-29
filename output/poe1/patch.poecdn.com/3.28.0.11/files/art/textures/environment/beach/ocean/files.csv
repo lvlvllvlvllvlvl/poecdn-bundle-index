@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+9c80660108a73fde,wavefront_colour_dxt1.dds,Art/Textures/Environment/beach/Ocean,0,174924
+c5af19b5f999ef9e,wavefront_colour_dxt1.dds.header,Tiny_7,73994251,1520
+df9e15315767a033,wavefrontcn_ocean.mat,Tiny_7,73995771,1218
+c0e3731d26158b8b,wavefrontc_ocean.mat,Tiny_7,73995771,1218
+ce65507f54aeeab5,nullnormal_dxt5.dds,Tiny_7,73993495,260
+ffab1d2448fbc06d,nullnormal_dxt5.dds.header,Tiny_7,73993755,496
+1977467052aa9e5a,deep_black.mat,Tiny_7,73991177,1562
+8262fe4ac3e73326,deep_black_dxt5.dds,Tiny_7,73992739,260
+1e3536e8e32afa22,deep_black_dxt5.dds.header,Tiny_7,73992999,496

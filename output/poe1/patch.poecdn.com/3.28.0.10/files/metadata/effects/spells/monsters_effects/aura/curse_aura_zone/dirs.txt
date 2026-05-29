@@ -1,5 +1,0 @@
-fx
-mat
-mat/assassins_mark
-mat/poachers_mark
-mat/warlords_mark

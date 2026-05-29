@@ -1,0 +1,11 @@
+chaos
+chaos/chaos_slam
+chaos/chaos_slam/build_up
+chaos/chaos_slam/impact
+chaos/chaos_slam/slash
+fire
+fire/fire_stab
+lightning
+physical
+physical/blood_stab
+physical/empowering_dash

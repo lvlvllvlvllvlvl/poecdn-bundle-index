@@ -1,0 +1,4 @@
+sanctifiedweapon
+weapon
+weapon/spear
+weapon/sword

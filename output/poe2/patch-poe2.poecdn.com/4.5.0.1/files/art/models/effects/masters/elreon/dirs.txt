@@ -1,0 +1,10 @@
+unholy_consecrated
+unholy_dash_slam
+unholy_path
+unholy_path/unholy_range
+unholy_path/unholy_slam
+unholy_path/unholy_travel
+unholy_relic_explode
+unholy_sentinels
+unholy_sentinels/slam
+unholy_smite

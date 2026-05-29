@@ -1,8 +1,0 @@
-alira_cauldron
-alira_volatile_dead
-alira_volatile_dead/corpse_explo
-alira_volatile_dead/corpse_explo/fire_volatileorbs
-bandit
-bandit/death_submerge
-ralabuff
-small_inca_circle

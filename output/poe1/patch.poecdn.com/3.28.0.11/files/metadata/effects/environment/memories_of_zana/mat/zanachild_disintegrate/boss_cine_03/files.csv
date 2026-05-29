@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+570003cc4013a78b,zanachild_disint_r.mat,Tiny_8,124071734,13898
+0e3f5e906bdc3bb3,zanachild_disint_u.mat,Tiny_8,124085632,14524
+974aab5dcdd5c9dd,mblur_sphere_r.mat,Tiny_8,124060670,8822
+5d721bc963df4f4c,mblur_sphere_u.mat,Tiny_8,124069492,2242
+24cf8756e13a5ac8,disint_petals_r.mat,Tiny_8,124023902,20722
+8ce61ed5dfb22789,disint_petals_u.mat,Tiny_8,124044624,16046

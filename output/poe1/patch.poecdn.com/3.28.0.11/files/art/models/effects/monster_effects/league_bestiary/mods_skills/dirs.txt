@@ -1,0 +1,14 @@
+auras
+auras/affected
+auras/buff_swap
+auras/main
+crabambush
+crabpincers
+infestedground_cleave
+ravenstorm
+ravenstorm/impact
+tiger_slash
+tiger_slash/skin
+tiger_slash/slash
+tiger_slash/slash_decal
+vulturebombing

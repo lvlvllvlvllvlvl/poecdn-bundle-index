@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+3048de928dbc3f72,tetherchain_ctrls.fxgraph,Folders/metadata/effects_1,26872443,87756
+39cec9a36942786e,weaponhide.fxgraph,Folders/metadata/effects_1,26960199,33132
+56343d2292dcf37c,bosscastermode.fxgraph,Folders/metadata/effects_1,26442719,56002
+9418f29d38099f9b,bosstransform.fxgraph,Folders/metadata/effects_1,26646209,135530
+259098bb67c73d11,bosstransition.fxgraph,Folders/metadata/effects_1,26781739,90704
+1db7bff2667d3990,bossteleport.fxgraph,Folders/metadata/effects_1,26498721,81938
+158872df8bed311f,bossteleport_timestop.fxgraph,Folders/metadata/effects_1,26580659,65550

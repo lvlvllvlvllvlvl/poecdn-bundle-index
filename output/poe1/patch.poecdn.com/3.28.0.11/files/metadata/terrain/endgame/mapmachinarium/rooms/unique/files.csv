@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+0e1ec60856b65eea,mission_01.arm,Tiny_11,115704704,2298
+33dc40242f68f756,shrine_01.arm,Folders/metadata/B/terrain,8743382,8126
+3c75bb5de6644036,portal.arm,Folders/metadata/E/terrain,8193962,6842
+d0d87b8a6ab071e2,payload_end_1.arm,Folders/metadata/B/terrain,8611470,131912
+b8916ea7c7d956e1,payload_end_2.arm,Folders/metadata/D/terrain,8515082,136540
+3dc53de114a915c2,payload_end_3.arm,Folders/metadata/A/terrain,8951956,144228
+c52780cd63ca6b1d,boss.arm,Folders/metadata/7/terrain,7361258,27776
+652c0ebf506e4e0f,bossentry.arm,Tiny_11,115702296,2408

@@ -1,0 +1,5 @@
+attachments
+attachments/halo
+attachments/robe
+attachments/shawl
+attachments/weapon

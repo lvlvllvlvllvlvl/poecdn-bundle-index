@@ -1,0 +1,6 @@
+agility
+bruteforce
+counterthaumaturge
+demolition
+engineering
+trapdisarmament

@@ -1,0 +1,4 @@
+epk
+fx
+fx/weapon_fx
+fx/weapon_fx_valk

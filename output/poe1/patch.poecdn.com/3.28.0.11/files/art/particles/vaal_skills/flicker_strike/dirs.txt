@@ -1,0 +1,5 @@
+textures
+textures/afterimage
+textures/demonic
+textures/necro
+textures/vapor

@@ -1,0 +1,8 @@
+attachments
+attachments/cloth
+attachments/loincloth
+attachments/robe
+attachments/rope
+attachments/sleevel
+attachments/sleever
+textures

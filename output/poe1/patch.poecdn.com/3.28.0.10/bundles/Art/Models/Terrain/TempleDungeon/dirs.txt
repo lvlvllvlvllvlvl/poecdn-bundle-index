@@ -1,5 +1,0 @@
-alttiles
-lunariswater
-temple_piety_fight
-temple_piety_prefight
-templesplash

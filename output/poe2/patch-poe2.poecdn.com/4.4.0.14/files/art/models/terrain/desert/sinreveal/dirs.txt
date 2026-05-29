@@ -1,4 +1,0 @@
-textures
-textures/architecture
-textures/ground
-tgms

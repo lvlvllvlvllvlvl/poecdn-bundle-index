@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+672b8d09fffba7e0,wall_impact.ao,Tiny_D,98376076,2368
+bd7a8653b2ac2533,wall_impact_ao_pass0.mat,Tiny_D,98334420,3622
+66641ff827f026d2,target_impact.ao,Tiny_D,98374238,1838
+a9a18e265483d2d2,target_impact_ao_pass0.mat,Tiny_D,98334420,3622
+d0ef073aace71c66,swordtest.epk,Tiny_D,98373372,866
+a5648584cdd96dd5,shatterweapon.epk,Tiny_D,98365486,432
+35a96ac9b489aa77,shatterweapon_epk_pass0.mat,Tiny_D,98365918,3258
+7eff2e7de79afe0b,shatterweapon_idle.epk,Tiny_D,98369176,442
+d15bc26a5b6543b2,shatterweapon_idle_epk_pass0.mat,Tiny_D,98369618,3754
+bca43622ffe8414c,muzzle_flash.ao,Tiny_D,98338042,2362
+0c4b1303002e3daf,muzzle_flash_ao_pass0.mat,Tiny_D,98334420,3622
+914fce617a64291d,lancing_steel.ao,Tiny_D,98329766,4654
+846174f8b13340cb,lancing_steel_ao_pass0.mat,Tiny_D,98334420,3622

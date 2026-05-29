@@ -1,6 +1,0 @@
-fallenkarui
-fallenkarui/weapons
-fallenkarui/weapons/bow
-fallenkarui/weapons/bow/animations
-fallenkarui/weapons/bow/animations/female
-staves

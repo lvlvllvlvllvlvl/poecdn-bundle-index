@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+944e12afe6f8384b,round_normal_cloud_01_dxt5.dds,Streaming/Content/data/balance/worldareas/mapdecay.vworld.7,14135571,349700
+25052d75665fd64a,round_normal_cloud_01_dxt5.dds.header,Tiny.V0,34885724,1520
+e550eb1ffc5db144,fog.mat,Tiny.V4,35040948,2382
+5e814235e0206097,fog_town.mat,Tiny.V6,34738527,2884
+aec8b04016b22937,fogcards_01_dxt5.dds,Streaming/Content/metadata/effects/environment/gallows/1A9DC157848BAAE7.5AD57943B7A7D28F.sand_ground_mesh_med.ao,0,349700
+6ef2626f2cfae9dd,fogcards_01_dxt5.dds.header,Tiny.V4,35043330,1520

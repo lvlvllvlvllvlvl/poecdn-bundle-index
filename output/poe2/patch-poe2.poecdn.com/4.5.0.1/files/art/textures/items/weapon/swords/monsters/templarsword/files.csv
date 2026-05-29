@@ -1,0 +1,22 @@
+hash,file,bundle,offset,size
+4a891b8373c26fea,silvertemplarswordc.mat,Tiny.V9.1,861704,3626
+1abc5e77f03aad16,silvertemplarsword_specular_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/594C3712E4D52229.AAE3D4C948699428.white_pawn_marble.ao.2,1136844,174948
+9e5ddc1fcb1dcbba,silvertemplarsword_specular_dxt5.dds.header,Tiny.VD.1,557755,840
+6adce1e5f8dd650b,silvertemplarsword_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/594C3712E4D52229.AAE3D4C948699428.white_pawn_marble.ao.2,961896,174948
+b90fb0cd1667e1d5,silvertemplarsword_normal_dxt5.dds.header,Tiny.V6.1,976282,840
+88c3e7887d878e58,silvertemplarsword_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/hideouts/594C3712E4D52229.AAE3D4C948699428.white_pawn_marble.ao.2,786948,174948
+26a84955d2bc8d1a,silvertemplarsword_colour_bc7.dds.header,Tiny.VD.1,556915,840
+83c6916fe04846e3,silvertemplarsword_colour.dds,Streaming/Content/metadata/terrain/doodads/hideouts/594C3712E4D52229.AAE3D4C948699428.white_pawn_marble.ao.2,699400,87548
+7f043d7a4fbc0f0b,silvertemplarsword_colour.dds.header,Tiny.V7.1,1017172,840
+38fab70977a1fa96,templarswordc.mat,Tiny.VA.1,756617,2344
+c8739e57d8f274b3,templarsword_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/itemracks/antlertable_02.ao,688309,87588
+f10354a888f303d2,templarsword_normal_dxt5.dds.header,Tiny.VE.1,617516,504
+bcc02c677bdf4724,templarsword_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/itemracks/antlertable_02.ao,644441,43868
+71732534ef7af8b5,templarsword_colour_dxt1.dds.header,Tiny.V7.1,1018012,504
+2f5cb72eeb49f148,templarsword01_ normalntemplarsword01s.dds,Streaming/Content/metadata/effects/spells/monsters_effects/2A2133860641D363.BCF9E19DAD3CFCC4.bsgolem_upheaval_impact.ao.1,1752864,174948
+ab17c45306aabb90,templarsword01_ normalntemplarsword01s.dds.header,Tiny.V6.1,977122,840
+bec9ca1f6a4ce5b5,templarsword02c.mat,Tiny.V9.1,866170,2290
+ac7f101e6e91a161,templarsword02_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/itemracks/antlertable_01.ao,104765,174948
+ba934cf2ae533e38,templarsword02_normal_dxt5.dds.header,Tiny.VA.1,755777,840
+7421d80f29eba0ee,templarsword02_colour.dds,Streaming/Content/art/models/items/weapons/DE484C488CD36301.A10726EB920A84A6.crossscythemaul.fmt,286051,87548
+6bf6ebd23b9f4ada,templarsword02_colour.dds.header,Tiny.V9.1,865330,840

@@ -1,4 +1,0 @@
-fills
-tops
-tops/lower
-tops/tall

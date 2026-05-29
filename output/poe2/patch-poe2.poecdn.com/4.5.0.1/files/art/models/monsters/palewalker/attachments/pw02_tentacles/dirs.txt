@@ -1,0 +1,3 @@
+pw02_head
+pw02_l_clavicle
+pw02_r_elbow

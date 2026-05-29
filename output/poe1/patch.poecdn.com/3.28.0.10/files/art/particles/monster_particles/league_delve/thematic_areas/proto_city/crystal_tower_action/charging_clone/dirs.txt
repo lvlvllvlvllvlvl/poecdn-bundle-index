@@ -1,4 +1,0 @@
-crystal_stomp
-crystal_stomp/fx
-crystal_wall
-crystal_wall/fx

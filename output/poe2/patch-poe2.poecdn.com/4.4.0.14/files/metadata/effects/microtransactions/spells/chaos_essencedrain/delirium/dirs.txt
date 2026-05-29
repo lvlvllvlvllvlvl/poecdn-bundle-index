@@ -1,6 +1,0 @@
-epks
-fx
-graphs
-mat
-mat/impact
-mat/muzzle

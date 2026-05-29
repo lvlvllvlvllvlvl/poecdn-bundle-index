@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-b19bf255d47210a8,grass_green_top_color.dds,Art/2DArt/Lookup/raycast_meshes_1,1048704,1048704
-29b05e4d8572ce8d,grass_green_top_geom.dds,Art/2DArt/Lookup/grass_4,0,1048704
-67a1bc6682e2c2ad,grass_green_top_low_contrast_color.dds,Art/2DArt/Lookup/raycast_meshes_2,0,1048704
-e748410ca7669dd4,grass_green_top_low_contrast_geom.dds,Art/2DArt/Lookup/grass_4,0,1048704
-ab5a1f0ccd17d8c7,grass_dry_top_color.dds,Art/2DArt/Lookup/raycast_meshes,0,1048704
-361b85bb68cc9859,grass_dry_top_geom.dds,Art/2DArt/Lookup/grass_4,0,1048704
-89220df3d8dd2990,grass_dry_top_low_contrast_color.dds,Art/2DArt/Lookup/raycast_meshes,1048704,1048704
-480309185f727edf,grass_dry_top_low_contrast_geom.dds,Art/2DArt/Lookup/raycast_meshes_1,0,1048704

@@ -1,0 +1,4 @@
+arena
+outer
+outer/dunes
+outer/tallwalls

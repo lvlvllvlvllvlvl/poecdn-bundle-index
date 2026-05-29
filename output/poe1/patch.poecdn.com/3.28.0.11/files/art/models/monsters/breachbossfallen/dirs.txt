@@ -1,0 +1,10 @@
+attachments
+attachments/bbfkcape
+attachments/bbfklbicepfingers
+attachments/bbfklforearmfingers
+attachments/bbfklshinfingers
+attachments/bbfklthighfingers
+attachments/bbfkshield
+attachments/bbfkskirt
+attachments/bbfkweapon
+textures

@@ -1,0 +1,10 @@
+mb
+mb/beam
+mb/bomb_flurry
+mb/death
+mb/mirror_bulge
+mb/pillar
+mb/pool
+mb/stormcall
+mb/volatile
+tex

@@ -1,0 +1,7 @@
+attachments
+attachments/helmet
+attachments/orbs
+attachments/skirt
+attachments/skirt/female
+attachments/skirt/male
+textures

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+ed8e41f4c26a30f6,snowflakes.mat,Tiny_6,31858536,2098
+ae2835b7b74af05f,snowflakes.dds,Art/particles/environment_effects/maps,87556,699300
+903c07f98cc4cb21,snowflakes.dds.header,Tiny_6,31858192,344
+fabac1b734ddbe44,smoke.mat,Tiny_6,31855332,2860
+f3bee42f8aa19f87,smoke.dds,Art/particles/monster_particles/talisman,438172,43876
+5f61be6a612b383e,smoke.dds.header,Tiny_7,41645373,840
+2a854e814743676d,icetrapcns.mat,Art/particles/environment_effects/maps,1224112,4836
+f0a8914f5b63591f,icetrap_sss.mat,Tiny_6,31852736,1076
+b2af5885f467132e,icetrap_sss.dds,Art/particles/environment_effects/maps,0,87556
+736531c74716863b,icetrap_sss.dds.header,Tiny_6,31851216,1520
+524ba5186d5d2917,icetrap_colour.mat,Tiny_6,31850122,1094
+350a61094980210a,icetrap_colour.dds,Art/particles/environment_effects/maps,874412,349700
+87a5d6ce084c3d9d,icetrap_colour.dds.header,Tiny_6,31848602,1520
+f360d028f5774580,icetrapns.dds,Art/particles/environment_effects/maps,786856,87556
+4848984b42da9d7b,icetrapns.dds.header,Tiny_6,31853812,1520

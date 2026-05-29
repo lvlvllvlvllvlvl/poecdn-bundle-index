@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+0d228ade2daf6adf,spark.mat,Tiny_7,26845025,1958
+6095e55f4a85f18f,spark_dxt1.dds,Tiny_7,26823341,844
+eb4227c413bb44d4,spark_dxt1.dds.header,Tiny_7,26824185,1520
+3ab0f4ef89aec9e0,neuron_03_8x8.mat,Tiny_7,26819807,2014
+c229e8f057dd929e,neuron_03_8x8_dxt1.dds,Art/particles/monster_particles/League_Synthesis_77,7330488,2796364
+63e953e2397a77b2,neuron_03_8x8_dxt1.dds.header,Tiny_7,26821821,1520
+5ac7e2012bbf10b8,flash.mat,Tiny_7,26837841,2108
+3d64c8a8fad4cb6e,flash_dxt1.dds,Tiny_7,54868005,2892
+be04d1a664cdefee,flash_dxt1.dds.header,Tiny_7,54870897,1520
+aa2dcddfa0de92f4,fire_01.mat,Tiny_7,26832817,2068
+8b4f65abfc808fe6,fire_01.dds,Art/particles/raise_specter_02/fireball,109608,22020
+d35541ac1be960af,fire_01.dds.header,Tiny_7,47447325,1520

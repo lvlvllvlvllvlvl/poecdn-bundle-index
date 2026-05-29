@@ -1,0 +1,7 @@
+attachments
+attachments/cape
+attachments/cape_collar
+attachments/l_shoulderpad
+attachments/r_shoulderpad
+attachments/sword
+attachments/waist_cape

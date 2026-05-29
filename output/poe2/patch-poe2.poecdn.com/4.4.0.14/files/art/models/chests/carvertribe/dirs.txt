@@ -1,4 +1,0 @@
-textures
-tiedupcow01
-tiedupcow02
-tiedupcow03

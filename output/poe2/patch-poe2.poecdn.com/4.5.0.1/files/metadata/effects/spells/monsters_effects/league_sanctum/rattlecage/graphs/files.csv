@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+5ecd51fddf421049,render_lavaamount.fxgraph,Content/metadata/effects/spells/monsters_effects/league_sanctum/6630542F0506F608.candle_b_on.epk,994620,10554
+66910b3ee0e27a02,render_emberssize.fxgraph,Content/metadata/effects/spells/monsters_effects/league_sanctum/6630542F0506F608.candle_b_on.epk,986242,8378
+e9b6892352f64f8d,emitter_crumblepositionfade.fxgraph,Content/metadata/effects/spells/monsters_effects/league_sanctum/6630542F0506F608.candle_b_on.epk,4860,8512
+a98c5d94ec966290,emitter_volcanomouthoffset.fxgraph,Content/metadata/effects/spells/monsters_effects/league_sanctum/6630542F0506F608.candle_b_on.epk,379728,20346
+2c05bcc4034ab068,custom_heightterrainproject_retainmesh.fxgraph,Content/metadata/monsters/marakethsanctumtrial/boss/objects/sentineltrackingeffect.ot,1578168,26920
+d707050926dca398,custom_fissuredisplacement.fxgraph,Content/metadata/monsters/marakethsanctumtrial/boss/objects/sentineltrackingeffect.ot,1520800,30682
+029f1effd812fb38,custom_fissurerevealbytimeline.fxgraph,Content/metadata/monsters/marakethsanctumtrial/boss/objects/sentineltrackingeffect.ot,1551482,26686
+025e82d94c85decb,volcanoparameters.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,2260405,14390
+611a49418a423c76,volcanocrumbleparameters.fxgraph,Content/metadata/effects/spells/monsters_effects/league_sanctum/6630542F0506F608.candle_b_on.epk,13372,9272
+3e78a6dfcf8595fe,volcanomaterial.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,1938981,321424
+810f2c477d0f0f8d,volcanomaterial_crumble.fxgraph,Content/metadata/effects/spells/monsters_effects/league_sanctum/6630542F0506F608.candle_b_on.epk,22644,154158
+6ca9ef4fc756c300,volcanoshape.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,2274795,247014
+ddce3190e67de6f1,volcanoshape_crumble.fxgraph,Content/metadata/effects/spells/monsters_effects/league_sanctum/6630542F0506F608.candle_b_on.epk,176802,144172

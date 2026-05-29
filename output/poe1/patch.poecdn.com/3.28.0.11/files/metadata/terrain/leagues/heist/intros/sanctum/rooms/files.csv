@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+735697b3442b053a,entrance_1.arm,Folders/metadata/4/terrain,13833436,17420
+2a63ee9b752cb264,exit_bunker_any_1.arm,Folders/metadata/8/terrain,14849892,13968
+3e2bc8881e8f8f90,exit_courts_any_1.arm,Folders/metadata/6/terrain,17484494,5758
+2e9bc6dfafaedf96,exit_dungeon_any_1.arm,Folders/metadata/A/terrain,15778824,13974
+b0fefb3de2f8be4a,exit_library_any_1.arm,Folders/metadata/0/terrain,15660995,5762
+575072c023654a13,exit_sewers_any_1.arm,Folders/metadata/0/terrain,15666757,9470
+38a98fc1fa74e5ea,exit_reliquary_any_1.arm,Folders/metadata/B/terrain,14862725,5766
+543f3e54f8020c9c,exit_robottunnels_any_1.arm,Folders/metadata/D/terrain,16166892,9482
+c22182369cd84820,courts_demolition.arm,Folders/metadata/C/terrain,16747883,6414
+3482faf51e6339a9,courts_lockpick.arm,Folders/metadata/1/terrain,16102034,6416
+c2e079884ca05625,contextexit_1.arm,Folders/metadata/8/terrain,14842540,7352
+079bf7a65480b00b,context_1.arm,Folders/metadata/8/terrain,14835800,6740

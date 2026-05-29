@@ -1,3 +1,0 @@
-cleave
-double_spin
-slash

@@ -1,4 +1,0 @@
-fx
-mat
-mat/pustule_explode
-mat/pustule_start

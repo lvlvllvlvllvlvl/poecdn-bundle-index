@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+7f75dfff3841eb5e,summon_effect_4d2db7b5.smd,Streaming/Content/metadata/effects/environment/chests/FB22C869B6DD680E.636BE031B991DC54.chain_aura_epk.epk,358806,9690
+d44f56f49fce687c,summon_effect_4d2db7b5.smd.header,Tiny.VD,7074465,448
+69dce930927dd209,monster_aura_28cdced3.smd,Streaming/Content/metadata/effects/environment/chests/FB22C869B6DD680E.636BE031B991DC54.chain_aura_epk.epk,0,5414
+2dabed9c72ea932b,monster_aura_28cdced3.smd.header,Tiny.VA,7392563,448
+11e095a311ab97bd,chestsummon.sm,Tiny.V2,7519868,400
+8ab19ddc1bbe6c70,chestsummon.amd,Tiny.VF,7222181,86
+5922b1d517dfa609,chestsummon.ast,Tiny.VC,7162405,1105
+3875279134c1d20a,chainlock.sm,Tiny.VB,7277846,564
+df9a01c3c57d8c0c,chainlock.amd,Tiny.V3,7791200,94
+400d48683f35ded4,chainlock.ast,Tiny.VF,7859086,224

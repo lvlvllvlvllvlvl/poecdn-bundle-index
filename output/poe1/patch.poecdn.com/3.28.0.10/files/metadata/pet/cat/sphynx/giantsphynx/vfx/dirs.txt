@@ -1,7 +1,0 @@
-fx
-graphs
-mats
-mats/collapse
-mats/footstep
-mats/pustule
-mats/stretch

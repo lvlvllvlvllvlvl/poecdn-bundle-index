@@ -1,3 +1,0 @@
-arrow
-marker
-special_marker

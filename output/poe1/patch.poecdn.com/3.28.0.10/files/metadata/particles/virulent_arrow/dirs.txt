@@ -1,7 +1,0 @@
-buildup
-buildup/fully_charged
-buildup/fully_charged/weapon_fx
-pods
-pods_proj
-projectile
-projectile/release

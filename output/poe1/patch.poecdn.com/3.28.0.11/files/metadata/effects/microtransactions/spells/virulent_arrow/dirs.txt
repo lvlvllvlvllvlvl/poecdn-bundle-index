@@ -1,0 +1,10 @@
+celestial
+celestial/fx
+celestial/graph
+nightlotus
+nightlotus/pet
+nightlotus/pet/buildup
+nightlotus/pet/buildup/weapon_fx
+nightlotus/pet/main_proj
+nightlotus/pet/pods
+nightlotus/pet/pods_proj

@@ -1,6 +1,0 @@
-activated
-fire
-ice
-lightning
-projectiles
-weapons

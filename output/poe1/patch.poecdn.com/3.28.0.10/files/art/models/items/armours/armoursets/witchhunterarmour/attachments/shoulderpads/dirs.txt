@@ -1,5 +1,0 @@
-animation
-animation/l_side
-animation/l_side/white
-animation/r_side
-animation/r_side/white

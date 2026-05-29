@@ -1,9 +1,0 @@
-graphs
-objects
-rooms
-rooms/bonepassage
-rooms/bonepassage_1x2
-rooms/bonesouter
-rooms/fills
-rooms/overlays
-rooms/unique

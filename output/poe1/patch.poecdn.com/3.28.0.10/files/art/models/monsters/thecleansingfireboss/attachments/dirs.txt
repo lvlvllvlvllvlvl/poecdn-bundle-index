@@ -1,6 +1,0 @@
-belts
-hanger
-robe
-sigils
-sigils/light_attachment
-weapon

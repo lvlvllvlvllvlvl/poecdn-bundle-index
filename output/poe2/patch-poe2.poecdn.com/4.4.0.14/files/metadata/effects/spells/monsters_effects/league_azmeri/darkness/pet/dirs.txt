@@ -1,3 +1,0 @@
-az_darkness_blocker
-az_darkness_blocker/burn_away_01
-light_aura

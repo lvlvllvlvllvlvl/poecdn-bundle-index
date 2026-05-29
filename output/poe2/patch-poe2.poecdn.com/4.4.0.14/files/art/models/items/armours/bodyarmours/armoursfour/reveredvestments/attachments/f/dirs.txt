@@ -1,5 +1,0 @@
-necklace
-necklace/dex
-necklace/int
-shawl
-skirt

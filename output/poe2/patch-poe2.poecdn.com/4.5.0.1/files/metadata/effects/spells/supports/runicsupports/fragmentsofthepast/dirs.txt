@@ -1,0 +1,13 @@
+attached
+epks
+fx
+graphs
+mats
+mats/mortar
+mats/mortar_explode
+mats/onact
+mats/volcano_aoe
+mats/volcano_base
+mats/volcano_burst
+mats/volcano_idle
+mats/volcano_melt

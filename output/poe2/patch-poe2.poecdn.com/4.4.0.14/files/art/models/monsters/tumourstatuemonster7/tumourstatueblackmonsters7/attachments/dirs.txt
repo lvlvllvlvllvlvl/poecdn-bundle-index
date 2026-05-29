@@ -1,4 +1,0 @@
-bones
-bones_moss
-loopspines
-loopspines_moss

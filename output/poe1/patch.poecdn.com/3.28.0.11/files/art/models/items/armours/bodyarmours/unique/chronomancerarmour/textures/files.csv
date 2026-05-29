@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+6d6954c6e6f41dd3,chronomancer_normal_dxt5.dds,Art/Models/Items/Armours/BodyArmours/Unique_47,0,1398276
+61f9a6367a1c765f,chronomancer_normal_dxt5.dds.header,Tiny_2,34420154,1520
+324bfa3587ec959b,chronomancer_metal_dxt1.dds,Art/Models/Items/Armours/BodyArmours/Unique_46,1398276,699212
+fb58e3e1622a2746,chronomancer_metal_dxt1.dds.header,Tiny_2,34418634,1520
+855ce536338e4dbc,chronomancer_glow_dxt5.dds,Art/Models/Items/Armours/BodyArmours/Unique_46,0,1398276
+efa6ba0fc3aa3fcb,chronomancer_glow_dxt5.dds.header,Tiny_2,34417114,1520
+c475360c29416276,chronomancer_glow_dxt1.dds,Art/Models/Items/Armours/BodyArmours/Unique_45,699212,699212
+6de5008e502e8816,chronomancer_glow_dxt1.dds.header,Tiny_2,34415594,1520
+85f2c0e54ac929cf,chronomancer_glow_bc1.dds,Art/Models/Items/Armours/BodyArmours/Unique_45,699212,699212
+da72020c6c19517c,chronomancer_glow_bc1.dds.header,Tiny_2,34415594,1520
+00cbaeb32a3322c1,chronomancer_colour_dxt1.dds,Art/Models/Items/Armours/BodyArmours/Unique_45,0,699212
+bc122d3ddd5416af,chronomancer_colour_dxt1.dds.header,Tiny_2,34414074,1520
+df585128d7f21662,chronomancerc.mat,Tiny_2,34421674,5810
+b944f1d112fbf25f,chronomancercrystalsc.mat,Tiny_2,34427484,6516

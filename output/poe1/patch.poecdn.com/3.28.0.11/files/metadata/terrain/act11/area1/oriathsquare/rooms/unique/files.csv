@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+2a676204d5aa4f81,entrance_02.arm,Metadata/Terrain.D_8,0,19576
+e5be9d0c40a447b0,road_entrance.arm,Folders/metadata/4/terrain,516688,16066
+c4b54abfa200f55c,mission_branch_01.arm,Tiny_41,6771749,4010
+1fb1f563391ea982,mission_end_01.arm,Tiny_41,6782815,1982
+449ec3291ceca59f,mission_straight_01.arm,Tiny_41,6784797,3010
+9bc42ac6021739e6,mission_corner_01.arm,Tiny_41,6775759,3292
+0e6329cd9bbe8a2e,mission_cross_01.arm,Tiny_41,6779051,3764
+c7f7ebdf5714b728,mastery_statue.arm,Metadata/Terrain.E_5,0,23506
+a18c1cc0cee8e2f6,matka_boska.arm,Metadata/Terrain.F_8,387454,7898

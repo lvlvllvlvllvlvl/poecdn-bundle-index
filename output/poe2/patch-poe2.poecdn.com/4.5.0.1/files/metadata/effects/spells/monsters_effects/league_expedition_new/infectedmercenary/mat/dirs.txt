@@ -1,0 +1,6 @@
+act_siegeshot
+idle
+siege_explosion
+siege_indicator
+siege_projectile
+siege_shotup

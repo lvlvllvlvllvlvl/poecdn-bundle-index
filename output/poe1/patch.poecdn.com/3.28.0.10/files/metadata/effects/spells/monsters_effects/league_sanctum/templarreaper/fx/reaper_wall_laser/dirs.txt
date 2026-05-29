@@ -1,2 +1,0 @@
-barrier_beam_01
-barrier_beam_telegraph_01

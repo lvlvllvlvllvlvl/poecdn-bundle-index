@@ -1,7 +1,0 @@
-attachments
-attachments/chest_chain
-attachments/skirt
-attachments/skirt/attachments
-attachments/skirt/attachments/left_hip_plate
-attachments/skirt/attachments/right_hip_plate
-textures

@@ -1,5 +1,0 @@
-blood_boil
-blood_boil/epk
-blood_boil/fxgraph
-blood_boil/mat
-blood_boil/pet

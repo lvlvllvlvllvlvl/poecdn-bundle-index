@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+5c7bc0c0183eee3f,pumpkinpatch_normal_dxt5.dds,Art/Textures/Environment/Mtx,87548,174948
+47b2a79e504ee0c2,pumpkinpatch_normal_dxt5.dds.header,Tiny_7,88785193,840
+8a6f675be94b4cfd,pumpkinpatch_colour_dxt1.dds,Art/Textures/Environment/Mtx,0,87548
+8042b3776a019776,pumpkinpatch_colour_dxt1.dds.header,Tiny_7,88784353,840
+f709d1773609ffaf,pumpkinpatchc.mat,Tiny_7,88786033,1780
+bd700c79dc4ab410,pumpkinpatchcns.mat,Tiny_7,88786033,1780

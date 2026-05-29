@@ -1,9 +1,0 @@
-blood_beam
-blood_doubleslash
-blood_projectile
-blood_slash
-blood_spike_impact
-blood_spikes
-modular_blood_wall
-wall_mortar
-wall_projectile

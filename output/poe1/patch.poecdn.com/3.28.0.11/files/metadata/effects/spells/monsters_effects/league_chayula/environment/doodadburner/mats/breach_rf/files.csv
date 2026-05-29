@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+4b59bcac080daf2d,start_flamehalfsphere_r.mat,Tiny_D,359048429,99028
+d703397327b39c80,surge_flamehalfsphere_r.mat,Tiny_D,359162711,82486
+ab3b0004ab9ecf87,surge_flamehalfsphere_u.mat,Tiny_11,127344428,346
+981a8892a76de634,surge_blur_r.mat,Tiny_D,359147457,15254
+cdc1a58f74597b40,surge_blur_u.mat,Tiny_11,96896332,576
+4c1f22c65c4fccef,brf_surge_ribbonflames_02_u.mat,Tiny_D,358879035,40172
+f9b287cd99dae20f,brf_surge_ribbonflames_r.mat,Tiny_D,358919207,89052
+cd1aca816f0526be,brf_surge_ribbonflames_u.mat,Tiny_D,359008259,40170
+c81e9487110b4ce4,brf_mainblurcyl_r.mat,Tiny_D,358718215,29390
+6ac17c64a1635920,brf_mainflamecyl_r.mat,Tiny_D,358747605,40390
+4c1a412035dcdf92,brf_mainflamering_u.mat,Tiny_D,358877883,1152
+d2c94ba10cc75db7,brf_mainflamering_r1.mat,Tiny_D,358787995,68284
+4587538a4409bbb5,brf_mainflamering_r2.mat,Tiny_D,358856279,21604

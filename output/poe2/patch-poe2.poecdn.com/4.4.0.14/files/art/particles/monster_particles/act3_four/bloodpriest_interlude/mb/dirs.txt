@@ -1,3 +1,0 @@
-blood_projectile
-blood_projectile/animations
-blood_sewerchannels

@@ -1,3 +1,0 @@
-stormcult
-stormcult/mb
-stormcult/texture

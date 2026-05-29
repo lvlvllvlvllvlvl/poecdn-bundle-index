@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+bfb93e95f9e3bb57,blur_dust.mat,Tiny.VA,6868921,2606
+058bbfc5334eac0a,light_gradient.mat,Tiny.VD,4490638,1864
+494de03e20f23ac4,lut_colshift_dxt1.dds,Tiny.V9,4547022,2204
+00d50ebe27fc58b2,lut_colshift_dxt1.dds.header,Tiny.V1,4572006,280
+11c359103e4d39ec,lut_colshift_idle_dxt1.dds,Tiny.VE,4536050,2204
+4fa027013883d0d8,lut_colshift_idle_dxt1.dds.header,Tiny.VD,4492502,280
+19beccec4779b7bc,wisp_trail_dxt1.dds,Streaming/Shared/Super/Shared.3,87556,43852
+f9206df2d3692f5f,wisp_trail_dxt1.dds.header,Tiny.V5,34913669,1520
+bf4d6300c360e9d9,scream_wisp_j_dxt5.dds,Streaming/Content/metadata/pet/goddesspet/goddesspetpremium.ot,448632,43876
+5d56468710af57bc,scream_wisp_j_dxt5.dds.header,Tiny.VE,6426167,840
+5130f85540f75d33,pulse.mat,Tiny.V4,4676131,2190
+7eff3a25ccd2d175,pulse.dds,Streaming/Content/metadata/effects/microtransactions/pets/7898BC11483BF008.BDF004CB4DCD0D1E.downwardswipe.pet,365120,22020
+b897f954cded3bcd,pulse.dds.header,Tiny.V1,4572286,1520
+3b680e9659a523d9,fire_bits_2x2.mat,Tiny.V1,4568174,2312
+6035fc538abad4bc,fire_bits_2x2_dxt5.dds,Streaming/Shared/Normal/Shared,175112,349700
+8726809c151c0c9a,fire_bits_2x2_dxt5.dds.header,Tiny.V0,4643376,1520

@@ -1,3 +1,0 @@
-mb
-texture
-texture/fx

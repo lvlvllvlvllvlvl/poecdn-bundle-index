@@ -1,8 +1,0 @@
-attachments
-effects
-effects/ao
-effects/ao/graph
-effects/graph
-effects/mat
-effects/pet
-objects

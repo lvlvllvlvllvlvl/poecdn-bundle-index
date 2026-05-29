@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+a1f4f19cfc591103,trail_galaxy_01_multi.mat,Tiny_6,87492853,2974
+71caf1af8f03e092,trail_galaxy_01_multi.dds,Art/particles/monster_particles/prophecy_league,1794512,11108
+9c44c1b05fc6cd2c,trail_galaxy_01_multi.dds.header,Tiny_7,39291448,840
+7a38e16a711e79df,dark_center.mat,Tiny_6,87477605,1454
+adc17334317a3269,dark_center.dds,Art/particles/monster_particles/blood_elemental,65896,5636
+9e4d3d85354b31fe,dark_center.dds.header,Tiny_6,87476085,1520
+aa28bff0096648e7,blood_splatter.mat,Tiny_6,87469953,1886
+bc5949113979c4e3,blood_splatter.dds,Art/particles/monster_particles/blood_elemental,22020,43876
+08a9b0b72693e560,blood_splatter.dds.header,Tiny_6,87469113,840
+5b2a3bc399af3011,blood_splatround_02.mat,Tiny_6,87466301,2812
+e2eccec27a2cc4c0,blood_splatround_02.dds,Art/particles/blood_arrow,87556,22020
+3c11b2f9ba1da022,blood_splatround_02.dds.header,Tiny_6,87464781,1520
+19b2c548a3a62fd6,bloodmist.mat,Tiny_6,87473359,2726
+4ac71af936b6fac2,bloodmist.dds,Art/particles/monster_particles/blood_elemental,0,22020
+179ca2fc874ee616,bloodmist.dds.header,Tiny_6,87471839,1520

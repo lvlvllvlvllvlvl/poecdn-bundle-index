@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+7fb8244c2f85c202,scrolly_lightning_dxt5.dds,Art/Textures/Monsters/MeleeTemplarSergeant,0,22020
+bb0892e95c408654,scrolly_lightning_dxt5.dds.header,Tiny_8,40247756,1520
+a9c50eedfcb2e5d8,meleetemplarsergeantc.mat,Tiny_8,40242166,5590
+e8bc0e814c95de48,meleetemplarsergeant_specular_dxt5.dds,Art/Textures/Monsters/MeleeTemplarSergeant,22020,349700
+959bd2c6c6a544f9,meleetemplarsergeant_specular_dxt5.dds.header,Tiny_8,40240646,1520
+19fc5c8262305b50,meleetemplarsergeant_normal_dxt5.dds,Folders/art/textures/monsters/4/meleetemplarsergeant,0,349700
+36b5b5ed52be8726,meleetemplarsergeant_normal_dxt5.dds.header,Tiny_8,40239126,1520
+4f42c214ae41269e,meleetemplarsergeant_mask_dxt5.dds,Art/Textures/Monsters/MeleeTemplarSergeant,896344,349700
+bd7f1fd9484c8df9,meleetemplarsergeant_mask_dxt5.dds.header,Tiny_8,40237606,1520
+1ad97acd95338c5b,meleetemplarsergeant_colour_dxt5.dds,Art/Textures/Monsters/MeleeTemplarSergeant,371720,349700
+3fe0802d495a2d82,meleetemplarsergeant_colour_dxt5.dds.header,Tiny_8,40236086,1520
+415137940105d346,meleetemplarsergeant_colour_bc7.dds,Art/Textures/Monsters/MeleeTemplarSergeant,371720,349700
+69581a7c77e526d7,meleetemplarsergeant_colour_bc7.dds.header,Tiny_8,40236086,1520
+86ccb071ae81472b,meleetemplarsergeant_colour.dds,Art/Textures/Monsters/MeleeTemplarSergeant,721420,174924
+6a7666d0d4734c24,meleetemplarsergeant_colour.dds.header,Tiny_8,40234566,1520

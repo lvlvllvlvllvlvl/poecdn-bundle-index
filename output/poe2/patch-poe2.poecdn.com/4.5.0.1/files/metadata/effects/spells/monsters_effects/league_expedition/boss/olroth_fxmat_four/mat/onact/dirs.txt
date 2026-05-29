@@ -1,0 +1,10 @@
+blood_spray
+dash_02
+death_fake
+groundslam_01
+idle
+intro
+revive
+sword_throw
+triple_lacerate_01
+trl

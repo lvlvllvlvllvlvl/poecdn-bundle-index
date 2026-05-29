@@ -1,6 +1,0 @@
-mb
-mb/book
-mb/book_floatanchor
-mb/shield
-mb/shield_floatanchor
-tex

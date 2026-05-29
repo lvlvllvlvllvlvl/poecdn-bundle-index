@@ -1,0 +1,10 @@
+epk
+epk/portal_summon
+fx
+fx/portal_summon
+graphs
+mat
+mat/portal_end
+mat/portal_idle
+mat/portal_start
+mat/portal_summon

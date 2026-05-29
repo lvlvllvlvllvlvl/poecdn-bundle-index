@@ -1,8 +1,0 @@
-arrow_armour_piercing
-arrow_cold
-arrow_incendiary
-arrow_permafrost
-flaming_grd
-surge_coldarrow
-surge_firearrow
-surge_physarrow

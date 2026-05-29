@@ -1,8 +1,0 @@
-fx
-fx/attack_01
-fx/dash_to_slash_01
-fx/footsteps
-mat
-mat/attack_01
-mat/dash_to_slash_01
-mat/footsteps

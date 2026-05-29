@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+7b58827da14b466e,uncorrupt.epk,Tiny.VF.1,117286898,510
+54ea272c32757cc2,uncorrupt_epk_pass0.mat,Tiny.V8.1,120797158,5802
+e4f641c324c40706,corrupt.epk,Tiny.V6.1,119349965,506
+bd2e45eaf6312845,corrupt_epk_pass0.mat,Tiny.VF.1,117282126,4772

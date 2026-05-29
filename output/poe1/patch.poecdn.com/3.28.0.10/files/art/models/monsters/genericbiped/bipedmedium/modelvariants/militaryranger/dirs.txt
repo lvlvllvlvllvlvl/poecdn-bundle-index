@@ -1,4 +1,0 @@
-attachments
-attachments/militaryrangerbow
-attachments/militaryrangermetalrobe
-attachments/militaryrangerquiver

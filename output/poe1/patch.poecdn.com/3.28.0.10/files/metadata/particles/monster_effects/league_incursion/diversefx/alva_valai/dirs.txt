@@ -1,9 +1,0 @@
-projectiles
-projectiles/aoe
-projectiles/cast
-projectiles/decelerate
-projectiles/pierce
-teleport
-warcry
-warcry/buff
-warcry/build_up

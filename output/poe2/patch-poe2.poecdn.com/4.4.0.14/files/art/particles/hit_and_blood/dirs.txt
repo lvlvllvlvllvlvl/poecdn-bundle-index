@@ -1,8 +1,0 @@
-materials
-materials/blood
-materials/blood/ondeath
-materials/blunt
-materials/pierce
-materials/slash
-materials/xtraaddons
-mb

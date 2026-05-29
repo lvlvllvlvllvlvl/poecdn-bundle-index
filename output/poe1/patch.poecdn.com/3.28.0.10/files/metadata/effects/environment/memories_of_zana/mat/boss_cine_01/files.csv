@@ -1,7 +1,0 @@
-hash,file,bundle,offset,size
-f329d74ecc444f7a,heat_distortion_r.mat,Tiny_11,11567207,11128
-3040f60642c118c5,heat_distortion_u.mat,Tiny_8,106765893,4712
-af48b03eb197f81b,flames_small_r.mat,Tiny_8,106686073,71130
-037a2ca3fc9e320b,flames_small_u.mat,Tiny_8,106757203,8690
-948a20a5965c0412,burnt_vol_r.mat,Tiny_8,106634031,39874
-08938aa31b03cfb3,burnt_vol_u.mat,Tiny_8,106673905,6252

@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+002316a3e14a7a11,valuedcolournoise_dxt1.dds,Art/Models/Portals/HarmonyHeritagePortal/Textures_4,0,174924
+13aaa1dc362d4e26,valuedcolournoise_dxt1.dds.header,Tiny_3,22859630,1520
+22990e2836785f01,intrepidliegedeerc.mat,Tiny_3,17843199,10900
+60a70c6aca45bd32,intrepidliegedeer_normal_dxt5.dds,Art/Models/Pet/IntrepidDeer/Textures_4,0,5592580
+3dd6964433cc7ea1,intrepidliegedeer_normal_dxt5.dds.header,Tiny_3,17841679,1520
+aaaeeb2d37e869a7,intrepidliegedeer_metal_dxt5.dds,Art/Models/Pet/IntrepidDeer/Textures_3,2796364,5592580
+a79df04ad0fdbd22,intrepidliegedeer_metal_dxt5.dds.header,Tiny_3,17840159,1520
+7fa1b26046061eab,intrepidliegedeer_mask_dxt1.dds,Art/Models/Pet/IntrepidDeer/Textures_3,0,2796364
+51e1fac1eae68170,intrepidliegedeer_mask_dxt1.dds.header,Tiny_3,17838639,1520
+722d39a83a7e2a10,intrepidliegedeer_glow_dxt5.dds,Art/Models/Pet/IntrepidDeer/Textures_2,0,5592580
+7e5cb49e914472ff,intrepidliegedeer_glow_dxt5.dds.header,Tiny_3,17837119,1520
+2a36b380b7f4cae8,intrepidliegedeer_colour_dxt5.dds,Art/Models/Pet/IntrepidDeer/Textures_1,0,5592580
+3a7a62dd1f0ee699,intrepidliegedeer_colour_dxt5.dds.header,Tiny_3,17835599,1520

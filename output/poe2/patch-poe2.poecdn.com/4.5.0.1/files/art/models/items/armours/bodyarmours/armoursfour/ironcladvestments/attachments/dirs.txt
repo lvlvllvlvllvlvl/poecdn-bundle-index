@@ -1,0 +1,17 @@
+female
+female/cheststraps
+female/clavstraps_l
+female/robe
+female/shoulderplate_l
+female/shoulderplate_r
+female/shoulderstrap_l
+female/shoulderstrap_r
+female/skirt
+male
+male/cheststraps
+male/clavstraps_l
+male/clavstraps_r
+male/robe
+male/shoulderplate_l
+male/shoulderplate_r
+male/skirt

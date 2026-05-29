@@ -1,8 +1,0 @@
-buildingmarket
-buildingslum
-buildingwarehouse
-feature
-fill
-ledgelow
-thinwall
-water

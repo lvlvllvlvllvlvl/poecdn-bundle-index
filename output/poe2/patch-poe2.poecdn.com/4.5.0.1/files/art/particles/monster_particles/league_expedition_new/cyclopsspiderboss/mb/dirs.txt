@@ -1,0 +1,6 @@
+under_body_attack_01
+verisium_fusillade
+verisium_shards_variant
+verisium_shotgun
+verisium_spinningblades
+verisiumorbiter_ball

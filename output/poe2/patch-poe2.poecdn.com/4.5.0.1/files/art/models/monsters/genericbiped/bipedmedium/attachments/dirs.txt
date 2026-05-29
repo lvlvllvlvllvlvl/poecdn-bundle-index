@@ -1,0 +1,16 @@
+fallenkarui
+fallenkarui/weapons
+fallenkarui/weapons/bow
+fallenkarui/weapons/bow/animations
+fallenkarui/weapons/bow/animations/female
+piratesattachments
+piratesattachments/barrel
+piratesattachments/cannon
+piratesattachments/treasurechest
+piratesattachments/treasurechest/treasurechest
+piratesattachments/treasurechest/treasurechest/attachments
+piratesattachments/treasurechest/treasurechestnophys
+piratesattachments/treasurechest/treasurechestsmaller
+piratesattachments/treasurechest/treasurechestsmaller/attachments
+piratesattachments/wheeltri
+staves

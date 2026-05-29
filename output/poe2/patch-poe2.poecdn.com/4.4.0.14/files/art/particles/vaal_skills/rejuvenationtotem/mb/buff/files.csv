@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-1f872c3549b3a34e,ground_aura.fmt,Streaming/Content/metadata/particles/vaal_skills/ri_fire/loop_ringline.pet,317808,28412
-fe035b5f0f2a1d78,ground_aura.fmt.header,Tiny.V2,38974112,208
-e169ab75b5f83cca,affected_bb0353e4.smd,Tiny.V2,33731155,77
-03d3593852caebe4,affected_bb0353e4.smd.header,Tiny.V2,33731232,448
-ff8cdfb930ff2a88,affected.sm,Tiny.VF,39272471,340
-3af248e13d3daa3e,affected.amd,Tiny.VD,3415425,112
-d4406612ae119dc2,affected.ast,Tiny.VC,22682889,312

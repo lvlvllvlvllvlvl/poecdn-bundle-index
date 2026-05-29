@@ -1,5 +1,0 @@
-fx
-graph
-mat
-mat/pedestal
-mat/portal_start

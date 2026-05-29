@@ -1,0 +1,10 @@
+onehanded
+onehanded/blackpolaris1hsword
+onehanded/blackpolaris1hsword/fx
+twohanded
+twohanded/illusionistsword
+twohanded/sentinelsword
+twohanded/thaumaturgyscientistsword
+twohanded/thaumaturgyscientistsword/fx
+twohanded/twilightnightfallsword
+twohanded/twilightnightfallsword/fx

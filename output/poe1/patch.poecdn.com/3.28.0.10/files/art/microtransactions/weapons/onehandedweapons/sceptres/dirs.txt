@@ -1,3 +1,0 @@
-illusionist
-illusionist/mb
-illusionist/tex

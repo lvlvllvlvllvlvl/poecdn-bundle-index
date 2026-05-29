@@ -1,0 +1,2 @@
+area18level3
+area18level3/groundtypes

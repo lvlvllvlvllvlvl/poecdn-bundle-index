@@ -1,4 +1,0 @@
-maata
-maata_field
-maata_greeting
-maata_wild

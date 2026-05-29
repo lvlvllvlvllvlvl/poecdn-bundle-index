@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+c4957a11ff3db19e,tier1_corruption.epk,Tiny_9,41413760,248
+b9dcb362f9333f38,tier2_corruption.epk,Tiny_9,41414008,248
+fab5d643aa4d6bd7,tier3_corruption.epk,Tiny_9,41414256,248
+ffb54d81a004b616,tier4_corruption.epk,Tiny_9,41414504,248
+43132ccd8c5d71cd,tier5_corruption.epk,Tiny_9,41414752,248
+f0f0a4b62ed98bb5,tier_corruption.epk,Tiny_9,41415000,472
+9b1595c20b9b6d5b,05_corrupted_hand.epk,Tiny_9,41411714,890
+0ec1619b9ea2b446,05_corrupted_hand_epk_pass0.mat,Tiny_9,41412604,1156
+4062ef0771088d8a,04_corrupted_hand.epk,Tiny_9,41409668,890
+83dc76672f520783,04_corrupted_hand_epk_pass0.mat,Tiny_9,41410558,1156
+6f2b62f5530078b0,03_corrupted_hand.epk,Tiny_9,41407622,890
+f7a12cad6668af78,03_corrupted_hand_epk_pass0.mat,Tiny_9,41408512,1156
+70b037dd9dc4a2d3,02_corrupted_hand.epk,Tiny_9,41405576,890
+6ccdff7b3a18c3a4,02_corrupted_hand_epk_pass0.mat,Tiny_9,41406466,1156
+d80f8eed0f21bcca,01_corrupted_hand.epk,Tiny_9,41403530,890
+07f9011150d9866c,01_corrupted_hand_epk_pass0.mat,Tiny_9,41404420,1156

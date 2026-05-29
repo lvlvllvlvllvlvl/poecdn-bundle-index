@@ -1,7 +1,0 @@
-kethfort
-kethfort/abyss
-maelstrom
-maelstrom/abyss
-maelstrom/abysswall
-maelstrom/ledge
-maelstrom/thickwall

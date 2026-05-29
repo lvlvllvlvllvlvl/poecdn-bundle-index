@@ -1,5 +1,0 @@
-bossarenaelevator
-carts
-excavation
-scaffolding
-tents

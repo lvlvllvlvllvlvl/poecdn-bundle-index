@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+1f2ceda5e647f3a2,glowtipc.mat,Tiny.V3,34510644,1906
+e942698630f3cb0e,glowtip.dds,Streaming/Content/metadata/effects/environment/breach/DE6D419AA49732EC.soulcoaster_06.ao,1103389,11108
+7dc04447a3e367e0,glowtip.dds.header,Tiny.V9,41548555,840
+1f6e3dcbc604e079,trailc.mat,Tiny.V1,34884063,2422
+439e90beb61a183b,trail.dds,Streaming/Content/metadata/effects/environment/breach/DE6D419AA49732EC.soulcoaster_06.ao,1136517,11108
+2bb10385c4018d8a,trail.dds.header,Tiny.V3,34512550,840
+313e473245eeeb07,trail_fatc.mat,Tiny.VE,34592808,2748
+97a9622e392f759b,trail_fat.dds,Streaming/Content/metadata/effects/environment/breach/DE6D419AA49732EC.soulcoaster_06.ao,639637,174948
+8f239e1519931769,trail_fat.dds.header,Tiny.VE,34591968,840
+3c6f461b38a2919d,spinecnspecs.mat,Tiny.V1,34881175,2888
+5a0d47678c545b71,spine_colour.dds,Streaming/Content/metadata/effects/environment/breach/DE6D419AA49732EC.soulcoaster_06.ao,1114497,22020
+b983585e830397e5,spine_colour.dds.header,Tiny.V2,34945639,1520

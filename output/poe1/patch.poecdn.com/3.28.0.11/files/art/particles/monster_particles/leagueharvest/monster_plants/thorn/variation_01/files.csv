@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+c9729eab3a87086a,b_vtx_mask_dxt5.dds,Art/particles/monster_particles/LeagueHarvest_58,0,1398276
+554c5d5897f59e40,b_vtx_mask_dxt5.dds.header,Tiny_7,36346046,1520
+30a5cf952ca9c2a8,b_stageready.mat,Tiny_7,36332926,13120
+8edbaf6c2afce105,b_stage_01.mat,Tiny_7,36307868,11510
+d12f7a27cb927a3d,b_stage_02.mat,Tiny_7,36319378,13548
+60259059ddea532a,b_glw_dxt5.dds,Folders/art/particles/monster_particles/leagueharvest_A,87548,1398276
+931d97e8535ed110,b_glw_dxt5.dds.header,Tiny_7,36306348,1520
+390fc0bfb831123f,a_vtx_mask_dxt5.dds,Folders/art/particles/monster_particles/leagueharvest_42,17041292,1398276
+526625df0ef7db54,a_vtx_mask_dxt5.dds.header,Tiny_7,36304828,1520
+09cfd94acf36efe3,a_stageready.mat,Tiny_7,36292156,12672
+7c4c86ec9f020a2a,a_stage_01.mat,Tiny_7,36266328,12744
+232035157d56ccc4,a_stage_02.mat,Tiny_7,36279072,13084
+f63d98a7d5873bc9,a_glw_dxt5.dds,Folders/art/particles/monster_particles/leagueharvest_42,15643016,1398276
+ae4be7e528c17659,a_glw_dxt5.dds.header,Tiny_7,36264808,1520

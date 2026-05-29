@@ -1,0 +1,6 @@
+green
+pointer
+red
+revive_circle
+soul_eater
+soul_eater/totem

@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-3f0627c7a8aa0d7c,donttriggeronspawn.fxgraph,Folders/metadata/effects_4,4501236,6604
-fd1845cdea5bb53a,onlycullsome.fxgraph,Folders/metadata/effects_4,4507840,17288
-b7f4ea110e6471a5,updatespeedonculling.fxgraph,Folders/metadata/effects_4,4660416,12136
-fa7e684e65dbaac1,updatespeedonglobalaggression.fxgraph,Folders/metadata/effects_4,4672552,12176
-95ff8fee23613c30,updatespeedonlocalaggression.fxgraph,Folders/metadata/effects_4,4684728,13896
-3e7cd785df28d5ea,triggereveryframe.fxgraph,Folders/metadata/effects_4,4525128,47876
-d34fc250fdede8f4,triggeronaggression.fxgraph,Folders/metadata/effects_4,4573004,44088
-7ba16c1b24ab19ef,triggeroncondition.fxgraph,Folders/metadata/effects_4,4617092,43324

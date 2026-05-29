@@ -1,4 +1,0 @@
-deliriumglassshards
-deliriumglassshards/textures
-deliriumtangmazumirror
-deliriumtangmazumirror/textures

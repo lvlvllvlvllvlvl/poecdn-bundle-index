@@ -1,0 +1,6 @@
+machinariumgemsocketdevice
+machinariumgemsocketdevice/epk
+machinariumgemsocketdevice/epk/frostcore
+machinariumgemsocketdevice/mat
+machinariumgemsocketdevice/mat/frostcore
+machinariumgemsocketdevice/mat/frostcore/activate_glow

@@ -1,0 +1,2 @@
+lightning_projectile
+lightning_projectile/animations

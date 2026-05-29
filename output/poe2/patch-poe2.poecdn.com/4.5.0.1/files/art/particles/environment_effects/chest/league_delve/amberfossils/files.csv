@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+60a2c3895fe87b36,grad.mat,Tiny.V5,34489202,1530
+996982b46a7cb441,grad.dds,Streaming/Content/metadata/particles/enviro_effects/chests/5AC03A6B1642F110.amber.pet,87556,87556
+df83215dc7022e49,grad.dds.header,Tiny.VF,40849653,1520
+2bc9b87b7e2b64cd,light_gradient.mat,Tiny.V0,35061588,1166
+0a93242ae55c7d7f,light_gradient.dds,Streaming/Content/metadata/particles/enviro_effects/chests/5AC03A6B1642F110.amber.pet,175112,5636
+10cbf19d75d0a75e,light_gradient.dds.header,Tiny.V1,37846164,1520
+b8cdca20f573a380,blink_holy_shine.mat,Tiny.V9,35305665,1602
+8534cdb445dcab5b,blink_holy_shine.dds,Streaming/Content/metadata/particles/enviro_effects/chests/5AC03A6B1642F110.amber.pet,0,87556
+a906a14ce8a95cd5,blink_holy_shine.dds.header,Tiny.V5,3824263,1520

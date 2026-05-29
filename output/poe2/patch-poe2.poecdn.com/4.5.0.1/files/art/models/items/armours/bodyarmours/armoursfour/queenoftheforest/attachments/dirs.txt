@@ -1,0 +1,9 @@
+f
+f/queenoftheforestshawlbottom
+f/queenoftheforestshawltop
+f/queenoftheforestskirt
+m
+m/queenoftheforestshawlbottom
+m/queenoftheforestshawltop
+m/queenoftheforestskirt
+queenoftheforestnecklace

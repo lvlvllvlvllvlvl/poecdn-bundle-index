@@ -1,6 +1,0 @@
-ground_hit
-shockwave_slam
-shockwave_slam/main
-shockwave_slam/shockwave_start
-slam_explosion
-weapon_fx

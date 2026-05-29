@@ -1,7 +1,0 @@
-ao
-epk
-fx
-graphs
-mat
-mat/idle
-mat/teethslam

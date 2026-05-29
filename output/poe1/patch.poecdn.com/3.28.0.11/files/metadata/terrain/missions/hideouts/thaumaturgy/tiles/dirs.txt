@@ -1,0 +1,6 @@
+abyss
+feature
+floor
+ledge
+thickwall
+thinwall

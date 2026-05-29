@@ -1,3 +1,0 @@
-attack1
-attack_ranged
-emerge

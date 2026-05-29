@@ -1,6 +1,0 @@
-fx
-mat
-mat/idle_cyl
-mat/lighting_surge
-mat/lightning_strike_hearld
-mat/mid

@@ -1,0 +1,3 @@
+area13
+area13/water_block
+beacon_light

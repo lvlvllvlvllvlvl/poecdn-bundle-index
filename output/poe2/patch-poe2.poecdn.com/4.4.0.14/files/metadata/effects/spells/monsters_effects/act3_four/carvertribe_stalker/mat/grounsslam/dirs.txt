@@ -1,5 +1,0 @@
-cone_90_fire
-cone_line_bone
-cone_line_fire
-slam_round
-slam_round_fire

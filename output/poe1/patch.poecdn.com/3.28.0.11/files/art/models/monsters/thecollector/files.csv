@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+04769c82ab6b76bc,thecollector.sm,Tiny_3,10647629,882
+223abba56b928127,thecollector.fmt,Folders/art/models/monsters/thecollector.1,814106,928041
+b9c829ecea196cfc,thecollector.fmt.header,Tiny_3,10647143,486
+6af4946a939ead30,rig_02250d6f.smd,Folders/art/models/monsters/thecollector.1,0,792665
+a3991786b37567d4,rig_02250d6f.smd.header,Folders/art/models/monsters/thecollector.1,792665,21441
+fb0a79468b237308,rig.amd,Tiny_3,10545777,3252
+a1a8b76273df596e,rig.ast,Folders/art/models/monsters/thecollector,0,3396136
+e57330a3c07f5215,eye.fmt,Art/Models/MONSTERS/TheCollector_3,0,6965
+2c9d4e8c5e889fa1,eye.fmt.header,Tiny_3,10545609,168
+10df1e8a997d5014,brain2.fmt,Art/Models/MONSTERS/TheCollector,0,260251
+7d47cf65427b775a,brain2.fmt.header,Tiny_3,10545135,474

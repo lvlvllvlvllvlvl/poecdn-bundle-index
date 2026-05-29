@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+fa6aaa30ef465bb5,testc.mat,Tiny_7,55232299,2924
+ae362cdb49044502,test.dds,Art/particles/totem/searing_bond,786792,699236
+29ea0a8a6247aecb,test.dds.header,Tiny_7,55231459,840
+e2866c9270cab100,smokec.mat,Tiny_7,55228417,3042
+9d2d7afef7ff85fd,smoke_whisp.mat,Tiny_7,55226673,1744
+cde9bc9e203bda38,smoke_whisp.dds,Art/particles/totem/searing_bond,699236,87556
+b7076e7dbfeb1c8f,smoke_whisp.dds.header,Tiny_7,55225153,1520
+279dc31fe9285b7f,smoke.dds,Art/particles/totem/searing_bond,0,699236
+aa77c6829c225613,smoke.dds.header,Tiny_7,55224313,840
+0fcdf040875c7578,light_gradient.mat,Tiny_7,55222291,2022
+2ec5563ea401a703,light_gradient.dds,Art/Microtransactions/weapon_effects/supporter_1,1423044,22020
+7592505395fd2e5b,light_gradient.dds.header,Tiny_7,55220771,1520
+42fb11ae9403f2cc,basec.mat,Tiny_7,55217847,2924
+da7c5437d9dc4406,base.dds,Art/particles/monster_particles/act4_28,771456,699236
+56a53e7e4f95ccb4,base.dds.header,Tiny_7,55217007,840

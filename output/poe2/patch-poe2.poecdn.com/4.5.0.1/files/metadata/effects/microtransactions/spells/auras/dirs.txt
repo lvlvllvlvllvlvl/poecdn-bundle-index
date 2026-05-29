@@ -1,0 +1,15 @@
+celestial
+celestial/graphs
+celestial/pet
+discipline
+discipline/barrier
+dragon
+dragon/blue
+dragon/combined
+dragon/red
+elemental
+elemental/skull
+elemental/skull/cold
+elemental/skull/fire
+stygian
+stygian/pet

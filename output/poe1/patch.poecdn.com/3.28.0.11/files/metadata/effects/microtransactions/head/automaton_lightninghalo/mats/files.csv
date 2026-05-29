@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+a158d2dbdb1e6101,confluxpreparesign_light_r.mat,Tiny_9,42314400,42326
+cfd016da18fb99e0,confluxpreparesign_light_u.mat,Tiny_9,42126088,4882
+3b07f5e15b35a936,confluxhalo_light_u.mat,Tiny_9,42126088,4882
+677175707ac63471,confluxhalo_light_r.mat,Tiny_9,42217276,51094
+cb0e2b9f86e2088a,confluxhalo_light_r2.mat,Tiny_9,42268370,46030
+7ee23102bc5d595f,confluxburst_start_light_r.mat,Tiny_9,42173994,43282
+6744e6ce248b4d47,confluxburst_start_light_u.mat,Tiny_9,42126088,4882
+88cb7fc9b684c181,confluxburst_sparks_light_r.mat,Tiny_9,42130970,25224
+2b97924797aff66f,confluxburst_sparks_light_u.mat,Tiny_9,42156194,17800
+3f38efb025bf552e,confluxburst_lightning_r.mat,Tiny_9,42079316,46772
+ee6880016b1a9f51,confluxburst_lightning_u.mat,Tiny_9,42126088,4882

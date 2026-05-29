@@ -1,5 +1,0 @@
-goatman_chimera
-scav_driftwoodthrow
-totems
-totems/ancestor_totem
-totems/kaom_totem

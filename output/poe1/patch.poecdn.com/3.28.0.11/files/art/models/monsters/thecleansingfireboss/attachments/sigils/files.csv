@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+8050b768475a3274,tcfbfrontsigil.sm,Tiny_3,10538105,566
+f1b75180e4b347dc,tcfbfrontsigil.fmt,Art/Models/MONSTERS/TheCleansingFireBoss/attachments/sigils,72094,7526
+23d8d1e6a66cdf8a,tcfbfrontsigil.fmt.header,Tiny_3,10537890,215
+119d9b8957cc9a40,tcfbbacksigil.sm,Tiny_3,10537320,570
+4ee69b7309b9e02a,tcfbbacksigil.fmt,Art/Models/MONSTERS/TheCleansingFireBoss/attachments/sigils,43822,28272
+70f126357cfb3619,tcfbbacksigil.fmt.header,Tiny_3,10537106,214
+8c95bc17d4c27e76,rig_b2d80269.smd,Art/Models/MONSTERS/TheCleansingFireBoss/attachments/sigils,34457,9365
+a039ae3d777051cc,rig_b2d80269.smd.header,Tiny_3,10536738,368
+7f2b2344b972a6d4,rig_2083786a.smd,Art/Models/MONSTERS/TheCleansingFireBoss/attachments/sigils,4258,30199
+173c2066497fcd80,rig_2083786a.smd.header,Tiny_3,10536370,368
+b9716a6416d6c9e9,rig.amd,Tiny_5,61566776,94
+25e95e7926b01ff5,rig.ast,Art/Models/MONSTERS/TheCleansingFireBoss/attachments/sigils,0,4258

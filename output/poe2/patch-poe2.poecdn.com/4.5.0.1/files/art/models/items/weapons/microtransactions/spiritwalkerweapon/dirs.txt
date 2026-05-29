@@ -1,0 +1,3 @@
+quarterstaff
+spear
+textures

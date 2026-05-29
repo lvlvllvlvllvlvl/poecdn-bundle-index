@@ -1,0 +1,4 @@
+fodder monsters textures
+fodder monsters textures/vfx
+fodder monsters textures/vfx/tauntingcontraption
+fodder monsters textures/vfx/tauntingcontraption/textures

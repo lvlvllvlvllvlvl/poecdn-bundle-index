@@ -1,5 +1,0 @@
-ao
-mat
-mat/bloodgem
-pet
-pet/bloodgem_mine

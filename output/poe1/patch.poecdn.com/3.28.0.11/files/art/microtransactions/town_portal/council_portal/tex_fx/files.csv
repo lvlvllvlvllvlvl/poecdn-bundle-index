@@ -1,0 +1,36 @@
+hash,file,bundle,offset,size
+8a9a1f33a3d1606c,tile_add.mat,Tiny_1,67620272,1070
+adffc595d508a312,tile_add.dds,Art/Microtransactions/Town_Portal/Council_portal,575448,87556
+3f7e2c51d0c13747,tile_add.dds.header,Tiny_1,67618752,1520
+33dac9d0ba94becf,red_bits.mat,Tiny_1,67616174,2578
+acceb6c2f878d271,red_bits.dds,Art/Microtransactions/Town_Portal/Council_portal,1449960,11108
+bff972df57a6db6b,red_bits.dds.header,Tiny_1,67615334,840
+64f5968cab1a5630,projectile.mat,Tiny_1,67612650,2684
+5e37fdadc0b985ef,projectile.dds,Art/particles/monster_particles/act10_15,87556,87556
+e724259870fc6b9c,projectile.dds.header,Tiny_6,110012546,1520
+e3ff891e5479ff1d,portal_sss.mat,Tiny_1,67611568,1082
+e98ad5a134573ee1,portal_sss.dds,Art/Microtransactions/Town_Portal/Council_portal,663004,349700
+e75b7cc41eb8032b,portal_sss.dds.header,Tiny_1,67610048,1520
+5f0304854da3469a,portal_mask.mat,Tiny_1,67608960,1088
+42ceb2ef7981c17d,portal_mask.dds,Art/Microtransactions/Town_Portal/Council_portal,1012704,349700
+23cc27f1f5def29d,portal_mask.dds.header,Tiny_1,67607440,1520
+d49d6e9fab1e1400,fire_test.mat,Tiny_1,67604768,2672
+72e34efe5524cba2,fire_test.dds,Art/particles/monster_particles/AtlasofWorlds_64,634224,43876
+4e3fec81729296d9,fire_test.dds.header,Tiny_7,18518153,840
+d0ec91e62e6519a5,drip smk.mat,Tiny_1,67602764,2004
+22e9fbe96c1ca37b,drip smk.dds,Art/Microtransactions/Town_Portal/Council_portal,531572,43876
+a48c1e4e583b5880,drip smk.dds.header,Tiny_1,67601924,840
+1870dcc9b62aefb6,decal.mat,Tiny_1,67599888,2036
+8574ef79ede9c724,decal.dds,Art/Microtransactions/Town_Portal/Council_portal,1362404,87556
+b19d03d4324be6c9,decal.dds.header,Tiny_1,67598368,1520
+e9c125c12599f287,blood_trail2_dxt5.dds,Art/Microtransactions/Character_FX/Maraketh_5,1371342,174948
+f3bc80287c783f6a,blood_trail2_dxt5.dds.header,Tiny_8,11390180,840
+ce060045e38cf378,blood_trail2.mat,Tiny_1,67595522,2846
+53805950b3f07fb1,blood_trail2.dds,Art/Microtransactions/Character_FX/Maraketh_5,1371342,174948
+02cc0082980c7118,blood_trail2.dds.header,Tiny_8,11390180,840
+2e0544c16d5da756,blood_trail.mat,Tiny_1,67592682,2840
+a6074b7a50b18db5,blood_trail.dds,Art/particles/orbs/blooddance,0,174948
+3a55d35b0f48c8ef,blood_trail.dds.header,Tiny_7,45087397,840
+56e47f7cfc75c9c3,blood.mat,Tiny_1,67588670,4012
+0f75e6b4b947f902,blood.dds,Folders/art/particles/monster_particles/league_betrayal_1,0,22020
+a876f5a37cb21184,blood.dds.header,Tiny_7,52722542,1520

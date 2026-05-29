@@ -1,0 +1,12 @@
+cradle
+domes
+domes/buildingmaterials
+domes/rooftopgarden
+estates
+estates/estatesinterior
+harbour
+oriathsquare
+oriathsquare/oriathharbour
+plaza
+plaza/market
+temples

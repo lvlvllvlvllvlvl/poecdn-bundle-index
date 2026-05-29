@@ -1,0 +1,53 @@
+hash,file,bundle,offset,size
+9ba266fadb0f432f,water_base_colour.dds,Art/Textures/Doodads/Act 4/RaptureDevice_7,262504,174948
+91f3eedcb3a427e0,water_base_colour.dds.header,Tiny_7,61108259,840
+dccfa576fa34a7eb,water_basenwater_base_specs.dds,Art/Textures/Doodads/Act 4/RaptureDevice_7,87556,174948
+e93c5792221cde2e,water_basenwater_base_specs.dds.header,Tiny_7,61109099,840
+ac12ea6e8d5a885c,water_basec.mat,Art/Textures/Doodads/Act 4/RaptureDevice_2,87556,4548
+bc233eaf05d8c4a0,water_basecnwater_base_specs.mat,Art/Textures/Doodads/Act 4/RaptureDevice_2,87556,4548
+75662926bf34ee5a,trailsc.mat,Tiny_7,61105899,2360
+5c7bb10422bd80d1,trails.dds,Art/Textures/Doodads/Act 4/RaptureDevice_5,1491468,174948
+fac49f542989e6b0,trails.dds.header,Tiny_7,61105059,840
+ba6767299c27fd07,scrolly_midc.mat,Tiny_7,61101221,3838
+622ff10aa74c69e5,scrolly_mid.dds,Art/Textures/Doodads/Act 4/RaptureDevice_7,0,87556
+b14714c60309c37e,scrolly_mid.dds.header,Tiny_7,61099701,1520
+ed4261f43cd66e4e,rapturedevice_normal_dxt5.dds,Art/Textures/Doodads/Act 4/RaptureDevice_3,0,1398276
+f416633a6e2ccbaf,rapturedevice_normal_dxt5.dds.header,Tiny_7,61079075,1520
+6de30d222d52db7c,rapturedevice_glowc.mat,Tiny_7,61076547,2528
+a7cc22ba9543831b,rapturedevice_glow_colour.dds,Art/Textures/Doodads/Act 4/RaptureDevice_5,93192,1398276
+1ba206a7ac2c632c,rapturedevice_glow_colour.dds.header,Tiny_7,61075027,1520
+47cc7dfef048b14e,rapturedevice_colour_dxt1.dds,Art/Textures/Doodads/Act 4/RaptureDevice_9,0,699212
+191e9939a65afa6c,rapturedevice_colour_dxt1.dds.header,Tiny_7,61073507,1520
+0c9431242f1ee9f1,rapturedevice_colour_bc7premult.dds,Art/Textures/Doodads/Act 4/RaptureDevice_8,0,1398276
+55b443ddd85ea8b7,rapturedevice_colour_bc7premult.dds.header,Tiny_7,61071987,1520
+5deeb8cb539d314d,rapturedevice_colour.dds,Art/Textures/Doodads/Act 4/RaptureDevice_8,0,1398276
+787cf0da472208ee,rapturedevice_colour.dds.header,Tiny_7,61071987,1520
+ceee3d8b010ece2a,rapturedevicens.dds,Art/Textures/Doodads/Act 4/RaptureDevice_1,0,1398276
+3d7738f18c006123,rapturedevicens.dds.header,Tiny_7,61098181,1520
+3dd8142132a52892,rapturedevicec.mat,Tiny_7,61080595,2586
+05cdb09e49ef986f,rapturedevicecns.mat,Tiny_7,61095505,2676
+25780ec9fc618d63,rapturedevicecart_normal_dxt5.dds,Art/Textures/Doodads/Act 4/RaptureDevice,349700,349700
+e159cfe9e2bb94b3,rapturedevicecart_normal_dxt5.dds.header,Tiny_7,61089527,1520
+e43d3e1c62317073,rapturedevicecart_glowc.mat,Tiny_7,61087741,1786
+bbce8ed04be53877,rapturedevicecart_glow_colour.dds,Art/Textures/Doodads/Act 4/RaptureDevice_5,87556,5636
+8f256975b1931ab0,rapturedevicecart_glow_colour.dds.header,Tiny_7,61086221,1520
+91af4b1401ca7589,rapturedevicecart_colour_dxt5.dds,Art/Textures/Doodads/Act 4/RaptureDevice,0,349700
+87dfcfbe11f47e7c,rapturedevicecart_colour_dxt5.dds.header,Tiny_7,61083181,1520
+bb2ff313df0efe39,rapturedevicecart_colour_dxt1.dds,Art/Textures/Doodads/Act 4/RaptureDevice_6,0,174924
+70d5922c3b57b78f,rapturedevicecart_colour_dxt1.dds.header,Tiny_7,61084701,1520
+2409e0f6f3d064a3,rapturedevicecart_colour_bc7.dds,Art/Textures/Doodads/Act 4/RaptureDevice,0,349700
+b4923108b4bf969d,rapturedevicecart_colour_bc7.dds.header,Tiny_7,61083181,1520
+55e33fa152310fd9,rapturedevicecartc.mat,Tiny_7,61091047,2682
+b3b7d295d0129f00,rapturedevicecartcns.mat,Tiny_7,61093729,1776
+3a828b5f5564204c,light_middle_upc.mat,Tiny_7,61069631,2356
+34eb70757b06ebac,light_middle_up.dds,Art/Textures/Doodads/Act 4/RaptureDevice_2,0,87556
+edc700ca4300b28f,light_middle_up.dds.header,Tiny_7,61039015,1520
+cabc185a9c0ec98f,insidec.mat,Tiny_7,61068107,1524
+d27511ecd43bd7ab,inside.dds,Art/particles/monster_particles/elemental_beacon_v2,3062328,5636
+d95ff45165b297a0,inside.dds.header,Tiny_8,9096830,1520
+f2157d9a794c65e2,flow_outc.mat,Tiny_7,61065251,2856
+52b20ae04c455edb,flow_out.dds,Art/Textures/Doodads/Act 4/RaptureDevice_5,0,87556
+7ea07f16779352c4,flow_out.dds.header,Tiny_7,61063731,1520
+5153775d7f583853,backnfront_end_lightupc.mat,Tiny_7,61040535,2460
+6e3b99b29691af83,backnfront_end_lightup.dds,Art/Textures/Doodads/Act 4/RaptureDevice_2,0,87556
+3a26aa7e0c7136b6,backnfront_end_lightup.dds.header,Tiny_7,61039015,1520

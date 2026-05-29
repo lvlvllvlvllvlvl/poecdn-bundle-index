@@ -1,0 +1,6 @@
+attachments
+attachments/bowl
+attachments/floorshards
+fx
+fx/texture
+textures

@@ -1,7 +1,0 @@
-bow
-hatfeathers
-neckfeathers
-sextant
-sword
-swordholder
-swordholder/attachment

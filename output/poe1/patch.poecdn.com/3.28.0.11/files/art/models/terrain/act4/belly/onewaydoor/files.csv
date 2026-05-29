@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e3552cdef4e29968,mapmarkeronly_bellyspikes_v01_01_spike_areatransition.fmt,Tiny_3,62656325,355
+a8e8ceb48edefd72,mapmarkeronly_bellyspikes_v01_01_spike_areatransition.fmt.header,Tiny_3,62656680,165
+1038d0af710847f6,mapmarkeronly_bellyspikes_v01_01_onewaydoor.sm,Tiny_3,62652186,636
+b21062892f36e028,mapmarkeronly_bellyspikes_v01_01_onewaydoor.smd,Art/Models/Terrain/Act4/Belly/oneWayDoor,14004,654252
+1d096ef7deee11b7,mapmarkeronly_bellyspikes_v01_01_onewaydoor.smd.header,Tiny_3,62652822,3503
+dea5f0f215f61681,mapmarkeronly_bellyspikes_v01_01_onewaydoor.amd,Tiny_4,31338997,88
+ecf0f45b0bab9866,mapmarkeronly_bellyspikes_v01_01_onewaydoor.ast,Art/Models/Terrain/Act4/Belly/oneWayDoor,0,14004
+ae7715b4848d89f5,mapmarkeronly_bellyspikes_v01_01.tgt,Tiny_3,62650461,486
+37e2b79f4b2c54f3,mapmarkeronly_bellyspikes_v01_01.tmd,Tiny_3,62650947,1239

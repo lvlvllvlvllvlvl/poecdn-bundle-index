@@ -1,7 +1,0 @@
-ao
-pet
-pet/homing_back_swords
-pet/lancing_steel
-trl
-trl/homing_back_swords
-trl/lancing_steel

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+f35c847326e74bd7,smoke_line_thinc.mat,Tiny_7,37143478,2948
+e59f1a236adadf4b,smoke_line_thin.dds,Art/particles/monster_particles/map,174948,22020
+9a90249dd00768fc,smoke_line_thin.dds.header,Tiny_7,37141958,1520
+304a203c5952ac3f,smoke_line_thickc.mat,Tiny_7,37139278,2680
+18261c07a1bab254,smoke_line_thick.dds,Art/particles/monster_particles/map,0,174948
+690c4ab77a249d34,smoke_line_thick.dds.header,Tiny_7,51979800,840
+ac5f0cef15ae6892,lightningc.mat,Tiny_7,37136426,2852
+9eeb16a21f2b00fa,lightning.dds,Art/particles/monster_particles/map,196968,349732
+5a3ccda0146b1f10,lightning.dds.header,Tiny_7,37135922,504

@@ -1,7 +1,0 @@
-animations
-animations/sinner_01
-animations/sinner_02
-animations/sinner_03
-animations/sinner_04
-animations/sinner_05
-animations/sinner_06

@@ -1,0 +1,8 @@
+cheststraps
+clavstraps_l
+robe
+shoulderplate_l
+shoulderplate_r
+shoulderstrap_l
+shoulderstrap_r
+skirt

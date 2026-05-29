@@ -1,0 +1,16 @@
+epk
+fx
+graph
+mat
+mat/attachedfx
+mat/emerge_burst
+mat/emerge_chomp
+mat/emerge_hole
+mat/goblin_blood
+mat/goblin_emerge
+mat/idle_chompgoblin
+mat/idle_justate
+mat/liquid
+mat/onact_trails
+mat/submerge_hole
+mat/submerge_idle

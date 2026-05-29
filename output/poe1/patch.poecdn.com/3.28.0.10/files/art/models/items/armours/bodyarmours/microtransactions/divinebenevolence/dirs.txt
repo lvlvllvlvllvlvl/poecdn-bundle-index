@@ -1,8 +1,0 @@
-attachments
-attachments/maleskirt_dexint
-attachments/maleskirt_str
-attachments/maleskirt_strdex
-attachments/maleskirt_strint
-attachments/maleskirtdisks
-attachments/maleskirtfront
-attachments/skirtplates

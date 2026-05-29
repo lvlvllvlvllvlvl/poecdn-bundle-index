@@ -1,7 +1,0 @@
-precursor_entrance_door
-precursor_entrance_door/attachments
-precursor_entrance_door/attachments/rooffade
-precursor_entrance_door_cogs
-precursor_kalguurship
-precursor_kalguurship/shiprigging
-tgms

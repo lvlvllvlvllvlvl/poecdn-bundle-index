@@ -1,0 +1,4 @@
+attachments
+attachments/hip_plates
+attachments/skirt
+textures

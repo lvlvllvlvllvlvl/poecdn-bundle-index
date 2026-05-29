@@ -1,4 +1,0 @@
-graph
-new
-poofs
-static

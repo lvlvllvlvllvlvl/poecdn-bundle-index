@@ -1,8 +1,0 @@
-bloodarakaalisfang
-bloodarakaalisfang/fx
-coldironpointliquid
-coldironpointliquid/fx
-eldritchvoidbattery
-eldritchvoidbattery/fx
-nebulismtx
-nebulismtx/fx

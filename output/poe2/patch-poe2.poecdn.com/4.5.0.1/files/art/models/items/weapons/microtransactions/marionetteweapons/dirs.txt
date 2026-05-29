@@ -1,0 +1,9 @@
+1hsword
+2hsword
+dagger
+foci
+scepter
+staff
+textures
+textures/porcelain
+wands

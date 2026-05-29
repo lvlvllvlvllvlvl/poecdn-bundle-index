@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+d86753547ec9fd35,arm_upper_r.mat,Tiny.VB.1,33572101,52054
+239ca3920a6d774f,arm_r_lower_u.mat,Tiny.VC.1,35872347,4060
+ff915fe59f871552,arm_r_upper_u.mat,Tiny.V3.1,33809777,5406
+6f635a6044e12791,arm_lower_r.mat,Tiny.V7.1,32627932,51728
+31c0049c8753152b,arm_l_lower_u.mat,Tiny.VB.1,33567647,4454
+e6dac8c809381e4a,arm_l_upper_u.mat,Tiny.VC.1,35866555,5792
+ab186cb42856420b,hand_l_u.mat,Tiny.V9.1,36879648,4722
+770a82f3da42012b,hand_r.mat,Tiny.V5.1,36495588,51892
+dc3ab0e56532e208,hand_r_u.mat,Tiny.VE.1,34279928,5462
+3dcd48e506287121,gold_ribbons_r.mat,Tiny.V1.1,34210784,59030
+376b46b97b4eb81b,gold_ribbons_u.mat,Tiny.V6.1,34340753,18544
+06bed5bbf578ac81,bearpaw_r_pass_01.mat,Tiny.V1.1,34156312,54472
+5bdd144f02f989ca,bearpaw_l_pass_01.mat,Tiny.V3.1,33815183,54596

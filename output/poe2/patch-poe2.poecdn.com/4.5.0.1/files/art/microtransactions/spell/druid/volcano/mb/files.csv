@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+0c1687fa878f3ce7,buildskull01.fmt,Streaming/Content/metadata/effects/microtransactions/spells/0EB7D72D609B77CB.ABAF23FFD062E14B.icesmoke.pet,524646,33080
+a41029adb9cb636c,buildskull01.fmt.header,Tiny.VB,5100342,153
+f79f8500c16468f0,taper01.fmt,Streaming/Content/metadata/effects/microtransactions/spells/35AF692771BC351E.1F35E63A751D6E18.drain.epk,409815,4578
+c490f3e9de144e04,taper01.fmt.header,Tiny.V1,5007018,128
+33139c152a7f08e6,pillar_decal.fmt,Streaming/Content/metadata/effects/microtransactions/spells/94DA1C531E3C96E0.5E345454B155E967.volcanodecal.pet,26220,8188
+e04964f576fff8ba,pillar_decal.fmt.header,Tiny.VC,4900258,128
+40ea683a1f8ff8b4,decal_02.fmt,Streaming/Content/metadata/effects/microtransactions/spells/94DA1C531E3C96E0.5E345454B155E967.volcanodecal.pet,0,26220
+b831237d2fd30e73,decal_02.fmt.header,Tiny.V3,4966430,188
+294cbe2c64b958a1,abyss_volcano_chunks.fmt,Streaming/Content/metadata/effects/microtransactions/spells/94DA1C531E3C96E0.AB0FFBA8B5352040.staticcrystal_01.pet,235082,288260
+13f3fb2295b7d44a,abyss_volcano_chunks.fmt.header,Tiny.VD,5035999,2398
+0ab915196020c146,spiralup_lod2.fmt,Tiny.VC,38533900,3492
+2d13f9d62d2483e1,spiralup_lod2.fmt.header,Tiny.VD,38442556,199
+4609cb921384c465,spinegroup.fmt,Streaming/Content/metadata/effects/microtransactions/spells/94DA1C531E3C96E0.5E345454B155E967.volcanoreposition.pet,0,112754
+2ef9b31547500595,spinegroup.fmt.header,Tiny.V9,5070235,788

@@ -1,0 +1,7 @@
+attachments
+attachments/scraps
+attachments/scraps/lforearm
+attachments/scraps/lshoulder
+attachments/scraps/rforearm
+attachments/scraps/rshoulder
+attachments/skirt

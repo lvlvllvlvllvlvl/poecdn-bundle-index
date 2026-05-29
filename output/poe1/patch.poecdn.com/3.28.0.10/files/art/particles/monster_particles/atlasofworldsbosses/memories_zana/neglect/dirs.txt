@@ -1,3 +1,0 @@
-mb
-mb/beam_surge
-mb/meteor_drop

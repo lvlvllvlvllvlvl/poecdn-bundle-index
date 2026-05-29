@@ -1,0 +1,11 @@
+attachments
+attachments/armtassle
+attachments/robe
+attachments/robe/f
+attachments/robe/m
+attachments/sash
+attachments/sash/f
+attachments/sash/m
+attachments/shawl
+attachments/shawl/f
+attachments/shawl/m

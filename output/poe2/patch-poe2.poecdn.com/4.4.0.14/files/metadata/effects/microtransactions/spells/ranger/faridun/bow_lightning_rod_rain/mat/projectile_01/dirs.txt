@@ -1,3 +1,0 @@
-proj_destroy
-proj_grd_stuck_01
-proj_rod

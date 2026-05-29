@@ -1,8 +1,0 @@
-chain_ball_impact
-chain_ball_projectile
-hand_trail
-impact_small
-onact_attract
-onact_attract_hands
-proj_trail
-spellcast_muzzle

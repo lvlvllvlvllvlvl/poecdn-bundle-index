@@ -1,6 +1,0 @@
-fx
-fx/chaos
-fx/cold
-fx/fire
-fx/lightning
-fx/stone

@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-d2af92ba9959c5c0,death_burst.pet,Tiny_D,32566470,49814
-f162db9805225d5b,melee_swipe.trl,Tiny_D,32616284,7820
-7d12e83bb46fd5c3,projectile_base.pet,Tiny_D,32624104,14702
-1012e0bde4877629,projectile_onact.pet,Tiny_D,32793134,13768
-845a98b5b073de75,projectile_trailing.trl,Tiny_D,32806902,10400
-01c5fc3fd0458aa8,projectile_impact.pet,Tiny_D,32638806,64992
-bcb01f75c68ef8e7,projectile_impact_grd.pet,Tiny_D,32703798,89336

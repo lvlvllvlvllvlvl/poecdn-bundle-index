@@ -1,3 +1,0 @@
-anvil
-anvil_activated
-arena

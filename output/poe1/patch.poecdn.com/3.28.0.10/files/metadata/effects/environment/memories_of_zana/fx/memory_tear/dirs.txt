@@ -1,3 +1,0 @@
-idle_01
-inert_01
-open_rift_01

@@ -1,0 +1,8 @@
+arrows
+onacts
+poisongas
+rope_detach
+smoke_invi
+smokecloud
+smokecloud/fadein
+smokecloud/loop

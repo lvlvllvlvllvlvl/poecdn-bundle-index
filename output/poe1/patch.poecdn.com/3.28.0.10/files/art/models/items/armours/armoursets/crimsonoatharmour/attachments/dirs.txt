@@ -1,5 +1,0 @@
-shoulderpads
-shoulderpads/animation
-shoulderpads/animation/l_side
-shoulderpads/animation/r_side
-skirt

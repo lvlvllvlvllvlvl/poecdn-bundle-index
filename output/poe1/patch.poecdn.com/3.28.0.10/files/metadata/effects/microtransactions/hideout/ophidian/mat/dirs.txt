@@ -1,4 +1,0 @@
-black
-gold
-steel
-steel/open

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+e3cce4752e36c86c,grad_linear_256.mat,Tiny.V2,7432337,1538
+6f705693d66ede2f,core_flash.mat,Tiny.VA,7262379,1004
+8dba4d0b466eebd6,lens_flare.mat,Tiny.V2,7433875,1812
+0015a66437a6aca2,lens_flare_uncompressed.dds,Streaming/Content/metadata/particles/channelled_run_explosion/02/explode_ott_midline.pet,0,1398248
+80539e1468685223,lens_flare_uncompressed.dds.header,Tiny.VA,7263383,1520
+cde3be03aead8036,lightning01_6x6.mat,Tiny.V4,7253332,708
+4511ffa840d7e0fe,lightning01_6x6_uncompressed.dds,Streaming/Content/metadata/effects/microtransactions/spells/7E442A4223297DCE.explode_topdown.pet,0,22369768
+d0bf8f992efaa789,lightning01_6x6_uncompressed.dds.header,Tiny.VB,7181422,1520
+ef5f447dc8151035,lightning_vert2_2x2.mat,Tiny.V6,7166525,398
+9546382014815221,lightning_vert2_2x2_uncompressed.dds,Streaming/Content/metadata/effects/microtransactions/spells/207F1E913366095D.021177095B5DD352.surge.pet,830956,1398248
+6507c821503af75f,lightning_vert2_2x2_uncompressed.dds.header,Tiny.VD,7048258,1520
+2b59abb7ba2efae7,sphere_flash.mat,Tiny.V9,7474425,1806
+30215822d834fab2,spark_charge.mat,Tiny.V3,7088284,2444
+4f65afa08e3bf46f,spark_charge_dxt5.dds,Tiny.VE,4430892,1572
+599de69ab98db083,spark_charge_dxt5.dds.header,Tiny.VD,4345787,504

@@ -1,0 +1,9 @@
+ao
+attachments
+epk
+fx
+graph
+mat
+mat/magic_identify
+mat/rare_identify
+mat/unique_identify

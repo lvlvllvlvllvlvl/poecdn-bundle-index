@@ -1,4 +1,0 @@
-buildup
-proj_buildup
-projectile2
-spellcast_projectile03

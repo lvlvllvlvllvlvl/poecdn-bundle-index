@@ -1,4 +1,0 @@
-fx
-fx/white
-mat
-mat/white

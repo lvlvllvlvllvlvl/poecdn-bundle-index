@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+00db2007ca823895,stormsgiftspecularc.mat,Tiny_8,17223121,2676
+bb91e707c1a9f8aa,stormsgift_normal_dxt5.dds,Art/Textures/Items/armour/glove/unique_19,349700,174948
+bf699a35f81bd090,stormsgift_normal_dxt5.dds.header,Tiny_8,17222281,840
+bb19ed284db1ef99,stormsgift_colourspecular_dxt5.dds,Art/Textures/Items/armour/glove/unique_19,0,349700
+413e5372dc7de92a,stormsgift_colourspecular_dxt5.dds.header,Tiny_8,17220761,1520
+d00eb2d5dc420457,stormsgift_colourspecular_bc7.dds,Art/Textures/Items/armour/glove/unique_19,0,349700
+b595f433e287499e,stormsgift_colourspecular_bc7.dds.header,Tiny_8,17220761,1520
+53270d6bdda8af4a,stormsgift_colourspecular.dds,Art/Textures/Items/armour/glove/unique_19,524648,174924
+b1b8f8bf5680ab0b,stormsgift_colourspecular.dds.header,Tiny_8,17219241,1520

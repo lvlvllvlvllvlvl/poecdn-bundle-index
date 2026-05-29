@@ -1,0 +1,6 @@
+textures
+textures/architecture
+textures/architecture/oceanspray
+textures/architecture/oceanspray/walls
+textures/architecture/roof
+textures/architecture/walls

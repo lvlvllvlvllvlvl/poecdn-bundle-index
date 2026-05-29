@@ -1,3 +1,0 @@
-cistern
-cistern/fx
-cistern/fx/sewerglowflys_light_large

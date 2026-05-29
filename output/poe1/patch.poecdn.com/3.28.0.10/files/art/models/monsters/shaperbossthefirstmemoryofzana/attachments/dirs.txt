@@ -1,8 +1,0 @@
-sbtfmozcape
-sbtfmozcoin01
-sbtfmozcoin02
-sbtfmozcoin03
-sbtfmozcoin04
-sbtfmozcube
-sbtfmozskirt
-sbtfmozstaff

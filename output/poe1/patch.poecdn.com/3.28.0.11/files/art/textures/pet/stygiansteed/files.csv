@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+a22c79d91e9d3743,stygiansteedc.mat,Tiny_8,50105190,9162
+01212076d82ee29e,stygiansteed_specular_dxt5.dds,Art/Textures/Pet/StygianSteed_2,0,1398276
+bc7bde37cadceac8,stygiansteed_specular_dxt5.dds.header,Tiny_8,50103670,1520
+a54ff76c99e32ec1,stygiansteed_normal_dxt5.dds,Art/Textures/Pet/StygianSteed_1,0,1398276
+55bac061aaeb436c,stygiansteed_normal_dxt5.dds.header,Tiny_8,50102150,1520
+caa970b63840abc2,stygiansteed_glow_dxt1.dds,Folders/art/textures/pet/stygiansteed,0,699212
+39a58fb09edc63fb,stygiansteed_glow_dxt1.dds.header,Tiny_8,50100630,1520
+0952ebf81a6372ea,stygiansteed_fxc.mat,Tiny_8,50096564,4066
+7da7c1185f72eefe,stygiansteed_fx_tailc.mat,Tiny_8,50091448,5116
+6eceb22d83d7691a,stygiansteed_colour_dxt5.dds,Art/Textures/Pet/StygianSteed_3,0,1398276
+ed2e844fe4d827db,stygiansteed_colour_dxt5.dds.header,Tiny_8,50089928,1520

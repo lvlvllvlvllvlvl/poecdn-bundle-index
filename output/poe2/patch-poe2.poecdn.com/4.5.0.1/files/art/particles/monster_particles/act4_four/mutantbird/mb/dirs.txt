@@ -1,0 +1,17 @@
+baby_bird_pop
+beak_cascade_single_particles
+beak_drag
+carrion_drop
+carrion_hit
+dog_body_tendrils
+dog_emerge_guts
+dog_submerge
+mortar
+nest_break
+on_act
+on_act/bird_storm
+regurg_slam
+regurg_slam_degen
+single_peck
+vomit_spray_01
+vomit_spray_02

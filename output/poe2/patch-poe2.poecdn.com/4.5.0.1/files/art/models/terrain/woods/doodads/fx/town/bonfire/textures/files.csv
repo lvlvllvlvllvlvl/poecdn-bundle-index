@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+05dd53d2a568f783,noise_cell_2_dxt5.dds,Streaming/Content/metadata/particles/enviro_effects/act1/20BB7376856FB89F.fire_cyl.pet,349700,87556
+1668d3796bcc08d4,noise_cell_2_dxt5.dds.header,Tiny.V5,31547466,1520
+6a744657ce86becf,gritty_fire_dxt5.dds,Streaming/Content/metadata/particles/enviro_effects/act1/20BB7376856FB89F.fire_cyl.pet,0,349700
+ad35961fa5341ee3,gritty_fire_dxt5.dds.header,Tiny.VA,32204725,1520
+60efe7bc0c1f8b2d,roundy_dxt5.dds,Streaming/Content/metadata/particles/enviro_effects/act1/20BB7376856FB89F.fire_cyl.pet,437256,349700
+f96a5ef72196a8fb,roundy_dxt5.dds.header,Tiny.V3,31577599,1520
+9ed4905d02c4e451,core_fire_shapes.mat,Tiny.VB,32182652,5656
+642b1109ad43308a,core_fire_shapes_gritty.mat,Tiny.V3,31571913,5686

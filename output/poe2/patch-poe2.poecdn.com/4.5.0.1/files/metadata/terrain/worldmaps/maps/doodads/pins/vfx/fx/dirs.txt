@@ -1,0 +1,11 @@
+egm_deliriumfogplacement
+egm_deliriumfogplacement/mat
+egm_deliriumfogplacement/mat/idle
+egm_deliriumfogplacement/pet
+egm_deliriumgigamirror01
+egm_deliriumgigamirror01/fadeout_01
+hubwaypoint_01
+mothersoulpins
+pathripple
+revealping
+riteofthenameless

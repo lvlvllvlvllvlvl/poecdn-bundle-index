@@ -1,5 +1,0 @@
-crazedcannibalpicts_female
-crazedcannibalpicts_female/dagger_dagger
-crazedcannibalpicts_male
-crazedcannibalpicts_male/axe
-crazedcannibalpicts_male/axe_axe

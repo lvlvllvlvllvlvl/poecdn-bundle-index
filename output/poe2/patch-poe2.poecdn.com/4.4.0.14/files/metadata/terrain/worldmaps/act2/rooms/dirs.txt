@@ -1,6 +1,0 @@
-border
-chasm
-fills
-ledge
-ledgenooverlays
-sand

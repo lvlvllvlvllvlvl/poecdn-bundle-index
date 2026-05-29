@@ -1,0 +1,5 @@
+impact_aoe
+onact_impact
+onact_triggered
+trap_arm
+trap_idle

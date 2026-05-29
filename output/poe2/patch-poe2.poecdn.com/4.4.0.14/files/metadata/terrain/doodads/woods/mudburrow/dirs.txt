@@ -1,3 +1,0 @@
-pet
-pet/large_pile
-pet/medium_pile

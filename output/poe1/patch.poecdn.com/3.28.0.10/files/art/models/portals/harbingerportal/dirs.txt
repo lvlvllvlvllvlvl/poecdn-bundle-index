@@ -1,4 +1,0 @@
-fx
-fx/portal
-fx/textures
-textures

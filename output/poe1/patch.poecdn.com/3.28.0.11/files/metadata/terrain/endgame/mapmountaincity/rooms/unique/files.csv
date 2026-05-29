@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+a26552f7e55f0a00,entrance.arm,Folders/metadata/F/terrain,8639444,13004
+f31b27718a185491,terrace_corner_injector_5x5.arm,Folders/metadata/7/terrain,7811060,29174
+82f46124af0053fa,terrace_corner_injector_9x9.arm,Folders/metadata/6/terrain,10031640,26102
+0960fb4f135f1a3e,sidearea_cityfill.arm,Tiny_11,116760875,2730
+c4c19fc339f9a4f3,shrine_cityfill.arm,Folders/metadata/2/terrain,8892506,6104
+e115d43b95075428,shrine_terrace_straight.arm,Metadata/Terrain.E_4,33004,6014
+d0933cc4f9482db7,shrine_terrace_concave.arm,Folders/metadata/9/terrain,9420720,4212
+4b08e4fcc573c46b,shrine_terrace_convex.arm,Folders/metadata/6/terrain,10026938,4702
+28b51d62d7b33d42,mission_cityfill.arm,Tiny_11,116755673,1818
+c0d98be8b665fffb,mission_terrace_straight.arm,Tiny_11,116757491,3384
+7f9dff28c32e58fb,cliff_corner_injector_5x5.arm,Folders/metadata/C/terrain,10002842,27656
+d472ee225fbf8f08,cliff_corner_injector_9x9.arm,Folders/metadata/D/terrain,9080008,24578

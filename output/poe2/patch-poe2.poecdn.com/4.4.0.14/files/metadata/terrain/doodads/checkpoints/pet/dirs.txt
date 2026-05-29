@@ -1,3 +1,0 @@
-activate
-idle_on
-unique_flame

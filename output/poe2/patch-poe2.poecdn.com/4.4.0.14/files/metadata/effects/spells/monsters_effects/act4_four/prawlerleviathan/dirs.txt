@@ -1,4 +1,0 @@
-fx
-mat
-mat/footsteps
-mat/melee_swipe

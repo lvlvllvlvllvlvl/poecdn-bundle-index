@@ -1,0 +1,9 @@
+fx
+fx/basic_projectile
+fx/basic_projectile/snipe_proj_01
+fx/basic_projectile/snipe_proj_01_impact
+fx/basic_projectile/snipe_proj_01_pierce
+fx/snipe_projectile
+fx/snipe_projectile/snipe_proj_01
+fx/snipe_projectile/snipe_proj_01_impact
+fx/snipe_projectile/snipe_proj_01_pierce

@@ -1,0 +1,7 @@
+burning_floor
+fire
+goblin_dart_trap
+saw
+saw/blood
+smokes
+smokes/smoke_01

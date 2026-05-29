@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+5915527e4953115e,snow.mat,Tiny_6,23002218,1554
+a52babb89bf58e18,snow.dds,Tiny_8,5754646,516
+3467c4c7429d755d,snow.dds.header,Tiny_8,5755162,1520
+34c0a271ea9a3d2c,icicle_bits.mat,Tiny_6,22978790,2390
+ed1d2b1983622a7b,icicle_bits.dds,Art/particles/elemental_hit_new/ice,11108,43876
+a864a10207dfb502,icicle_bits.dds.header,Tiny_6,50295701,840
+7cdbcb0347771231,ice_spin.mat,Tiny_6,22976862,1928
+2fc9c94635fa7f69,ice_spin.dds,Folders/art/particles/elemental_hit_new/fire,93192,22020
+e23ece0e6abde7af,ice_spin.dds.header,Tiny_6,22975342,1520

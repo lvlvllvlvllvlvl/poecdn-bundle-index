@@ -1,5 +1,0 @@
-textures
-vaalurns01
-vaalurns02
-vaalurns03
-vaalurns04

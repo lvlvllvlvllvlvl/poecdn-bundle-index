@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+54ad662a6de5ef06,groundrune_r.mat,Tiny_9,244499692,20292
+d4f99095b16b62ac,groundrune_u.mat,Tiny_9,244748454,4030
+368933f101705b6d,groundrune_inner_r.mat,Tiny_9,244487892,11800
+31d162bc9a0d383b,groundrune_inner_u.mat,Tiny_9,244748454,4030
+0e718b8737d85bfa,groundfire_r.mat,Tiny_9,244444350,43542
+a5bcc1c550fd567f,groundfire_u.mat,Tiny_9,244726122,2966
+78ab83b9a6548851,floatrune_r.mat,Tiny_9,244430734,13616
+7947ddedb669dfef,floating_particles_r.mat,Tiny_9,244399756,20062
+ac14a88b4c5255d0,floating_particles_u.mat,Tiny_9,244419818,10916

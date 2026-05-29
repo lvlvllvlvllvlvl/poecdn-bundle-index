@@ -1,6 +1,0 @@
-attachments
-attachments/heart
-attachments/skirt
-fx
-fx/mb
-textures

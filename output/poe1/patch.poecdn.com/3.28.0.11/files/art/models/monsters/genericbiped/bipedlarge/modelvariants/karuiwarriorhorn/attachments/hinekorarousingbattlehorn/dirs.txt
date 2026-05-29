@@ -1,0 +1,4 @@
+hair
+horn
+skirt
+skirt/skirt_side

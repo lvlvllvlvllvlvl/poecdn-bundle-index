@@ -1,7 +1,0 @@
-epk
-fx
-fx/wharf_01_01
-graphs
-mat
-mat/raise_building_01
-mat/wharf_01_01

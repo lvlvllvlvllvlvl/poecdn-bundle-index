@@ -1,3 +1,0 @@
-divine
-divine/graphs
-divine/pet

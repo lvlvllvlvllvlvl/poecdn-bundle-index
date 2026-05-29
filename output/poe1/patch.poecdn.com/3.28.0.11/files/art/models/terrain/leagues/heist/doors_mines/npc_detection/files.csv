@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+93efde40a6504634,heistdetectiondoor_01_eventdrivenblocker.fmt,Tiny_5,61449127,269
+c7eef7c19708ebef,heistdetectiondoor_01_eventdrivenblocker.fmt.header,Tiny_5,61449396,152
+098e71751d9f8662,heistdetectiondoor_01_doordetect.fmt,Tiny_7,19668252,43
+9c39c06ee3f20c68,heistdetectiondoor_01_doordetect.fmt.header,Tiny_7,56868231,128
+2837f558550c3b53,heistdetectiondoor_01.sm,Tiny_5,61039173,610
+89808a91f0ae13a7,heistdetectiondoor_01.tgt,Tiny_5,61039783,842
+a388474715fe7ac8,heistdetectiondoor_01.tmd,Tiny_5,61040625,1027
+6894274b97bbcf7a,detectiondoor_rig_10379c6e.smd,Art/Models/Terrain/Leagues/Heist/Doors_Mines_1,943460,85886
+e2f7bd4ba794634a,detectiondoor_rig_10379c6e.smd.header,Tiny_5,61038805,368
+d1b61c615f030abf,detectiondoor_rig.amd,Tiny_5,61036352,150
+f75ba90efe8424ee,detectiondoor_rig.ast,Tiny_5,61036502,2303

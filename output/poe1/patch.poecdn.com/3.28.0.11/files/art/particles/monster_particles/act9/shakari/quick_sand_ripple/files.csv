@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+0a24e12f2630e9b0,smoketest.mat,Tiny_6,67424077,2972
+7614cd36e2a0fbb9,smoketest.dds,Art/particles/environment_effects/League_Incursion_5,1409384,87556
+0c00b6cc5d0d7110,smoketest.dds.header,Tiny_6,97503379,1520
+4508ac6ad3a96fcf,sand_ripple_at.mat,Tiny_6,67422929,1148
+75603819ba60553f,sand_ripple_at.dds,Art/particles/monster_particles/act9_19,1161932,87556
+37f08cbd28645870,sand_ripple_at.dds.header,Tiny_7,13459481,1520
+996b13aa1c80b4dc,sand_ripple.mat,Tiny_6,67419141,3788
+70870520dee1349e,sand_ripple.dds,Art/particles/monster_particles/act9_35,350224,87556
+6c65e51f284c1610,sand_ripple.dds.header,Tiny_6,67417621,1520
+5d58611c7e8d0e50,dunewang_colour.mat,Tiny_6,67413977,3644
+9285b6d4d78ad0d4,dunewang_colour.dds,Folders/art/particles/masters/ninjacop,4346,22020
+dfc7a2279fb9431a,dunewang_colour.dds.header,Tiny_6,67412457,1520
+493a2312c0ac5154,dunewang_alpha.mat,Tiny_6,67411309,1148
+b341c57621997312,dunewang_alpha.dds,Art/particles/monster_particles/act9_35,437780,22020
+b9112ba974290414,dunewang_alpha.dds.header,Tiny_7,13452055,1520

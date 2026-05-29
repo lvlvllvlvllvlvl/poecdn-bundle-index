@@ -1,6 +1,0 @@
-bronze
-chests
-entrance
-gold
-stalagmites
-statues

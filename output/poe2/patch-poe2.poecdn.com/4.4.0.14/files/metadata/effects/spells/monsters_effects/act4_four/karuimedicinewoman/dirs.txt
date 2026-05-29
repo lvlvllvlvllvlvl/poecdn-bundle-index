@@ -1,8 +1,0 @@
-epk
-fx
-fx/explode
-mat
-mat/healing_aura
-mat/life_regen
-mat/projectile
-mat/projectile_explode

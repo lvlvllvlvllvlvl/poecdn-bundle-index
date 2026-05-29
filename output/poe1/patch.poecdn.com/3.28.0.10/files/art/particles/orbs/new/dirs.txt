@@ -1,6 +1,0 @@
-dex
-inspiration
-int
-purple
-spine_charge
-str

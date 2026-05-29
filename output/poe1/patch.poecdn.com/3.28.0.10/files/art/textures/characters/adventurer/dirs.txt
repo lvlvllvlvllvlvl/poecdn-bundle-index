@@ -1,3 +1,0 @@
-piety
-piety/fire
-piety/ice

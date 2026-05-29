@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-fd1845cdea5bb53a,onlycullsome.fxgraph,Shared,17476627,17288
-3f0627c7a8aa0d7c,donttriggeronspawn.fxgraph,Content/metadata/effects/microtransactions/spells/warbanner/FC60EA39982D2D13.start_midline.pet,4992844,6604
-fa7e684e65dbaac1,updatespeedonglobalaggression.fxgraph,Content/metadata/effects/microtransactions/spells/witch/28501A42750AA941.boneblast_zone.ao,235764,12176
-95ff8fee23613c30,updatespeedonlocalaggression.fxgraph,Content/metadata/effects/microtransactions/misc/tencent/E213CB5C6FC3293D.g11.ao,3243821,13896
-3e7cd785df28d5ea,triggereveryframe.fxgraph,Content/metadata/effects/microtransactions/spells/warbanner/FC60EA39982D2D13.start_midline.pet,4999448,51712
-7ba16c1b24ab19ef,triggeroncondition.fxgraph,Content/metadata/effects/spells/482160499FC3A8AD.lightninghurricane.ot,1983093,43324
-d34fc250fdede8f4,triggeronaggression.fxgraph,Content/metadata/effects/spells/holy_consecrate/consecrate_nova.ao,741651,44088

@@ -1,5 +1,0 @@
-fx
-knightlordpodium
-knightlordring
-textures
-textures/fx

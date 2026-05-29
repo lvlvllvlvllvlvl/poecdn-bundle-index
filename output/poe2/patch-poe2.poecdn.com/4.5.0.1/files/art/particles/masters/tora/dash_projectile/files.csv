@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+ca484c4bbefe1bfe,trail_bloom.mat,Tiny.V2,35759449,1562
+7942da381c8d8da8,trail_bloom.dds,Tiny.VB,35966571,2892
+871a8bc5bd701fe1,trail_bloom.dds.header,Tiny.VE,35419931,1520
+1aa327dfc8f07cb2,arrowcns.mat,Tiny.VC,36084916,3898
+30762f9f00914223,arrowns.dds,Streaming/Content/metadata/effects/spells/masters/9228107041723178.10DDA8A0FAEBEEE1.sand_surge.ao,864818,87556
+c1a4078042b93aee,arrowns.dds.header,Tiny.VF,5631670,1520
+edf2aee16352a1fc,arrow_glow_mask_dxt1.dds,Streaming/Content/metadata/effects/spells/masters/9228107041723178.10DDA8A0FAEBEEE1.sand_surge.ao,820966,43852
+6efa68d43ed031f5,arrow_glow_mask_dxt1.dds.header,Tiny.V2,35757929,1520
+96aa8d46ce7cdc74,arrow_colour.dds,Streaming/Content/metadata/effects/spells/masters/9228107041723178.10DDA8A0FAEBEEE1.sand_surge.ao,733410,87556
+ffc60d30caf8fe41,arrow_colour.dds.header,Tiny.V1,35807049,1520
+42950510f65c9a4f,light_ring_add.mat,Tiny.V6,35793229,1468
+f87e138fe53948a4,light_ring_add.dds,Streaming/Content/metadata/particles/masters/tora/F285FD493E1C7345.E950CDD28071339E.impact_midup.pet,262504,43852
+cc74acc31cb27987,light_ring_add.dds.header,Tiny.VF,35846802,1520

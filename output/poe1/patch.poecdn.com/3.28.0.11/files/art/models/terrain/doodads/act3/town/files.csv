@@ -1,0 +1,122 @@
+hash,file,bundle,offset,size
+fe7ad9a963403d5f,act3town_table01.fmt,Art/Models/Terrain/Doodads/Act3/Town,1198168,23969
+ab0e647f72b579ff,act3town_table01.fmt.header,Tiny_4,31232682,417
+6d2663aa7f288d3f,act3town_stand05.fmt,Art/Models/Terrain/Doodads/Act3/Town,1187369,10799
+2aafa09e5ba99e35,act3town_stand05.fmt.header,Tiny_4,31231883,799
+0c0e77c92ad95489,act3town_stand04.fmt,Art/Models/Terrain/Doodads/Act3/Town,1180544,6825
+e31fb0e07d236965,act3town_stand04.fmt.header,Tiny_4,31231675,208
+c7ddb42875f98239,act3town_stand03.fmt,Art/Models/Terrain/Doodads/Act3/Town,1172669,7875
+c4b70efc203ae53f,act3town_stand03.fmt.header,Tiny_4,31231467,208
+ed6cebbcd9897826,act3town_stand02.fmt,Art/Models/Terrain/Doodads/Act3/Town,1162890,9779
+1265ab15eae5e873,act3town_stand02.fmt.header,Tiny_4,31230960,507
+0bde585ddc117053,act3town_stand01.fmt,Art/Models/Terrain/Doodads/Act3/Town,1140537,22353
+184e4ffde5bb2f75,act3town_stand01.fmt.header,Tiny_4,31230238,722
+6dc2d24ae5bea205,act3town_stallmain3.sm,Tiny_4,31229448,790
+4335c3cc9c8ed33c,act3town_stallmain3.amd,Tiny_4,31415713,104
+ddf1df44f0460746,act3town_stallmain3.ast,Tiny_4,31227653,1795
+603149f68c8ded0d,act3town_stallmain2.sm,Tiny_4,31226867,786
+3cd40908e8dfe0e9,act3town_stallmain2.amd,Tiny_4,31415713,104
+7069fd849f63957d,act3town_stallmain2.ast,Tiny_4,31225131,1736
+58c3e30b19032d86,act3town_stallmain1.sm,Tiny_4,31224337,794
+517c5e19c120388f,act3town_stallmain1.amd,Tiny_4,31415713,104
+fc359bbb13ee7ea5,act3town_stallmain1.ast,Art/Models/Terrain/Doodads/Act3/Town,1134418,6119
+0733a531896082be,act3town_stall08.fmt,Art/Models/Terrain/Doodads/Act3/Town,1112951,21467
+3ba9b79ff2134ae2,act3town_stall08.fmt.header,Tiny_4,31223843,494
+874c007f375c28f8,act3town_stall07.fmt,Art/Models/Terrain/Doodads/Act3/Town,1091406,21545
+93f52345da8064d1,act3town_stall07.fmt.header,Tiny_4,31223454,389
+5f6917b4ab9d1123,act3town_stall06.fmt,Art/Models/Terrain/Doodads/Act3/Town,1078115,13291
+c85bb23edbb3f6b1,act3town_stall06.fmt.header,Tiny_4,31223124,330
+c4e9fcfad1e60ab9,act3town_stall05.fmt,Art/Models/Terrain/Doodads/Act3/Town,1053162,24953
+ec48ed55d167ae12,act3town_stall05.fmt.header,Tiny_4,31222703,421
+d1ca6f2f8522a1c4,act3town_stall04.fmt,Art/Models/Terrain/Doodads/Act3/Town,988113,65049
+7a6a2f9b63ce19ca,act3town_stall04.fmt.header,Tiny_4,31222047,656
+f70249d906880d45,act3town_stall03.fmt,Art/Models/Terrain/Doodads/Act3/Town,972596,15517
+a075fc0dd6d7f3cd,act3town_stall03.fmt.header,Tiny_4,31221637,410
+63d7bf613415bc22,act3town_stall02.fmt,Art/Models/Terrain/Doodads/Act3/Town,938093,34503
+0a12bea10733e811,act3town_stall02.fmt.header,Tiny_4,31221213,424
+8ddfe6449750dcb8,act3town_stall01.fmt,Art/Models/Terrain/Doodads/Act3/Town,907472,30621
+f09cc49e9079d227,act3town_stall01.fmt.header,Tiny_4,31220719,494
+002a0dda89a04f18,act3town_rug05.fmt,Tiny_4,31220004,555
+fa4bf3b368e89301,act3town_rug05.fmt.header,Tiny_4,31220559,160
+04ebf143fd3de60e,act3town_rug04.fmt,Art/Models/Terrain/Doodads/Act3/Town,896813,10659
+b0c4f89f5034ef10,act3town_rug04.fmt.header,Tiny_4,31219672,332
+cea5f085b407eeb6,act3town_rug03.fmt,Art/Models/Terrain/Doodads/Act3/Town,888924,7889
+43694bfa87835742,act3town_rug03.fmt.header,Tiny_4,31219516,156
+d8e11b08d65063dd,act3town_rug02.fmt,Tiny_4,31219083,277
+75263921454795dd,act3town_rug02.fmt.header,Tiny_4,31219360,156
+a872ab36bc707ca6,act3town_rug01.fmt,Tiny_4,31218569,331
+e0d90cca55d7016c,act3town_rug01.fmt.header,Tiny_4,31218900,183
+5ee0b0561b6a746a,act3town_plate01.fmt,Art/Models/Terrain/Doodads/Act3/Town,882053,6871
+319814b1e74b4745,act3town_plate01.fmt.header,Tiny_4,31218404,165
+a3f9af3bf0f7bc54,act3town_meattable02.fmt,Art/Models/Terrain/Doodads/Act3/Town,853366,28687
+5a9b17eb29ffa987,act3town_meattable02.fmt.header,Tiny_4,31217978,426
+de92525bbe16d93c,act3town_meattable01.fmt,Art/Models/Terrain/Doodads/Act3/Town,814049,39317
+9cba470736f75313,act3town_meattable01.fmt.header,Tiny_4,31217730,248
+51f90c2cbfc59b07,act3town_meatstall02.fmt,Art/Models/Terrain/Doodads/Act3/Town,737210,76839
+f8859ede68b12fee,act3town_meatstall02.fmt.header,Tiny_4,31217317,413
+4bf20c09e82efb8e,act3town_meatstall01.fmt,Art/Models/Terrain/Doodads/Act3/Town,699183,38027
+122d93e16256c8a0,act3town_meatstall01.fmt.header,Tiny_4,31216817,500
+3755dd5216377a00,act3town_mast01.fmt,Art/Models/Terrain/Doodads/Act3/Town,657390,41793
+c981ea0bd3d2258e,act3town_mast01.fmt.header,Tiny_4,31216401,416
+3f8a8180561ed08a,act3town_firepit09.sm,Tiny_4,31215723,678
+68d60b7e9dca6685,act3town_firepit09.amd,Tiny_4,31415713,104
+1dae8f7d6077014c,act3town_firepit09.ast,Tiny_4,31212758,2965
+54711d86f80a903d,act3town_firepit07.sm,Tiny_4,31212100,658
+acff955c0bed87e3,act3town_firepit07.amd,Tiny_4,31415713,104
+d4b49e1efecd3594,act3town_firepit07.ast,Tiny_4,31209134,2966
+a4ddbb264e903c4a,act3town_firepit010.sm,Tiny_4,31208456,678
+d10be2659803bee2,act3town_firepit010.amd,Tiny_4,31415713,104
+ba3da44e640fe1db,act3town_firepit010.ast,Tiny_4,31205487,2969
+935cddea2b97b589,act3town_firepit01.sm,Tiny_4,31205027,460
+452b60a690f29c77,act3town_firepit01.amd,Tiny_4,31204611,88
+c4940017bd874638,act3town_firepit01.ast,Tiny_4,31204699,328
+cba1d6267728e700,act3town_fence03.fmt,Art/Models/Terrain/Doodads/Act3/Town,649421,7969
+b8d17626622ca257,act3town_fence03.fmt.header,Tiny_4,31204404,207
+ae93b5a7e492ff7e,act3town_fence02.fmt,Art/Models/Terrain/Doodads/Act3/Town,641946,7475
+c20800ab145f61a2,act3town_fence02.fmt.header,Tiny_4,31204197,207
+c3846eb06bd92d9d,act3town_fence01.fmt,Art/Models/Terrain/Doodads/Act3/Town,634471,7475
+e85cdf07969ad069,act3town_fence01.fmt.header,Tiny_4,31203990,207
+e594df75a852a360,act3town_cornerwall01.fmt,Art/Models/Terrain/Doodads/Act3/Town,628516,5955
+723d4d8d1c246029,act3town_cornerwall01.fmt.header,Tiny_4,31203733,257
+30d4e5eab1308f5c,act3town_brickpath05.fmt,Tiny_4,31202841,727
+c235d113fdfff614,act3town_brickpath05.fmt.header,Tiny_4,31203568,165
+6336852731586b23,act3town_brickpath04.fmt,Tiny_4,31201949,727
+7f45668c77e49465,act3town_brickpath04.fmt.header,Tiny_4,31202676,165
+b8933e31b28c189b,act3town_brickpath03.fmt,Tiny_4,31201057,727
+6cee44633b40daf7,act3town_brickpath03.fmt.header,Tiny_4,31201784,165
+33dbef14fdc9ea78,act3town_brickpath02.fmt,Tiny_4,31200165,727
+60f5dc158ea7212e,act3town_brickpath02.fmt.header,Tiny_4,31200892,165
+f434287c1e157038,act3town_brickpath01.fmt,Tiny_4,31199273,727
+65f67558a9d27d90,act3town_brickpath01.fmt.header,Tiny_4,31200000,165
+8f0e331e0e7f2275,act3town_barrel02.fmt,Art/Models/Terrain/Doodads/Act3/Town,612989,15527
+f44955c44b6853fb,act3town_barrel02.fmt.header,Tiny_4,31199035,238
+3591c3e31fab3617,act3town_barrel01.fmt,Art/Models/Terrain/Doodads/Act3/Town,595374,17615
+32e021b7fa4ff80a,act3town_barrel01.fmt.header,Tiny_4,31198792,243
+6ba7947f1abab58c,act3town_anvil01.fmt,Tiny_4,31194446,4095
+e9ce625a37bb6b3e,act3town_anvil01.fmt.header,Tiny_4,31198541,251
+bfec8253fff5bdf0,act3town_ancient_table02.fmt,Art/Models/Terrain/Doodads/Act3/Town,584927,10447
+b06466dd2dcc500a,act3town_ancient_table02.fmt.header,Tiny_4,31194020,426
+9b1c235684382bf3,act3town_ancient_table01.fmt,Art/Models/Terrain/Doodads/Act3/Town,573694,11233
+981ae086e76f8264,act3town_ancient_table01.fmt.header,Tiny_4,31193773,247
+e490cbcc08d8d04a,act3town_ancient_stall08.fmt,Art/Models/Terrain/Doodads/Act3/Town,555189,18505
+d75cb6d357ddd498,act3town_ancient_stall08.fmt.header,Tiny_4,31193277,496
+28f0c174df5a41b9,act3town_ancient_stall07.fmt,Art/Models/Terrain/Doodads/Act3/Town,548896,6293
+0c5efd4fcb86430e,act3town_ancient_stall07.fmt.header,Tiny_4,31192939,338
+2cad6b633d9490bd,act3town_ancient_stall02.fmt,Art/Models/Terrain/Doodads/Act3/Town,512817,36079
+1116dee3a6ef5cbd,act3town_ancient_stall02.fmt.header,Tiny_4,31192517,422
+526ca497d31d7bc0,act3town_ancient_stall01.fmt,Art/Models/Terrain/Doodads/Act3/Town,482362,30455
+8aca3e453d436029,act3town_ancient_stall01.fmt.header,Tiny_4,31192011,506
+0adc092b09fd55a2,act3 townhideoutdoodads_bea255de.smd,Art/Models/Terrain/Doodads/Act3/Town,459986,22376
+82272ec38e6f8656,act3 townhideoutdoodads_bea255de.smd.header,Tiny_4,31191598,413
+2ac26a672b356f55,act3 townhideoutdoodads_9770ca33.smd,Art/Models/Terrain/Doodads/Act3/Town,420172,39814
+265881f6fdd6626c,act3 townhideoutdoodads_9770ca33.smd.header,Tiny_4,31190804,794
+625b0d8290707dbf,act3 townhideoutdoodads_76849524.smd,Art/Models/Terrain/Doodads/Act3/Town,380358,39814
+3b09e232bdd553a1,act3 townhideoutdoodads_76849524.smd.header,Tiny_4,31190010,794
+a3774f42f7046d96,act3 townhideoutdoodads_52e5fc87.smd,Art/Models/Terrain/Doodads/Act3/Town,268712,111646
+675869af570224b6,act3 townhideoutdoodads_52e5fc87.smd.header,Tiny_4,31188456,1554
+1ee86b78d23085ca,act3 townhideoutdoodads_16aa5bdd.smd,Art/Models/Terrain/Doodads/Act3/Town,228884,39828
+c43db8a9dcafd8b9,act3 townhideoutdoodads_16aa5bdd.smd.header,Tiny_4,31187655,801
+d7ec358883a2b5db,act3 townhideoutdoodads_0e2b9674.smd,Art/Models/Terrain/Doodads/Act3/Town,100048,128836
+417992d1dc29764b,act3 townhideoutdoodads_0e2b9674.smd.header,Tiny_4,31186358,1297
+878e842d1322fab4,act3 townhideoutdoodads_0a3ec9c9.smd,Art/Models/Terrain/Doodads/Act3/Town,0,100048
+eaead45887f1fcd6,act3 townhideoutdoodads_0a3ec9c9.smd.header,Tiny_4,31185274,1084

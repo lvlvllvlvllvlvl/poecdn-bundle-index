@@ -1,0 +1,6 @@
+area_barrage_01
+blink_arrow
+blink_arrow/grd
+death_audio
+snipe
+snipe/shot

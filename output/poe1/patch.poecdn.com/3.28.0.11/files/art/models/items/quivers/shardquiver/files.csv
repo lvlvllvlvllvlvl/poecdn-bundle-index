@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+827dc3b577895347,shardquiverdrop_513b40b2.smd,Art/Models/Items/Quivers/ShardQuiver,113438,60215
+092fab0b203795a8,shardquiverdrop_513b40b2.smd.header,Tiny_2,58638351,368
+b35f9763be6f6762,shardquiverdrop.sm,Tiny_2,58637855,496
+890481482869b1b8,shardquiverdrop.amd,Tiny_2,58635964,206
+6689cecfaa605fbd,shardquiverdrop.ast,Tiny_2,58636170,1685
+b9b2e015623ca3fc,shardquiver.sm,Tiny_2,58635504,460
+0ad8999c016c00da,shardquiver.fmt,Art/Models/Items/Quivers/ShardQuiver,0,47699
+9633ef3efd84e02e,shardquiver.fmt.header,Tiny_2,58635218,286
+717a4e1ce19e3571,rig_ea55d2b3.smd,Art/Models/Items/Quivers/ShardQuiver,52936,60502
+153b137f805b8f3b,rig_ea55d2b3.smd.header,Tiny_2,58634614,604
+ee5cf66e0fd93fc1,rig.amd,Tiny_5,61566776,94
+e12cf74a829dc49c,rig.ast,Tiny_2,58634232,382
+b622e0c0cfb4ea5c,arrow_shard.fmt,Art/Models/Items/Quivers/ShardQuiver,47699,5237
+a877013605add0c5,arrow_shard.fmt.header,Tiny_2,58633956,276

@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+f4933bbcaffe7402,ground_mask_01.mat,Tiny.VB,35058701,3348
+b0c2a79f98c3a0cf,dust.mat,Tiny.V9,35319923,3346
+36ab0db9a4f112f0,dust2_bc1.dds,Streaming/Content/data/balance/worldareas/mapspring_.vworld,3452563,11084
+12775ca609333ce6,dust2_bc1.dds.header,Tiny.V8,34599914,1520
+fcc8e6cc0520fba5,dust2.dds,Streaming/Content/data/balance/worldareas/mapspring_.vworld,3430543,22020
+372a9b9b72929735,dust2.dds.header,Tiny.VA,35111435,1520

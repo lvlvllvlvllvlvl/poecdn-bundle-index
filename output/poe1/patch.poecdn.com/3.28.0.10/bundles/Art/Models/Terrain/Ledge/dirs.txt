@@ -1,6 +1,0 @@
-AreaTransition_Scan
-LargeCliffsToDunes_Scan
-LargeCliffsToWater_Scan
-LargeCliffs_Scan
-Rocks
-WalkableEdgeToWater_Scan

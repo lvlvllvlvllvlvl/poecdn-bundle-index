@@ -1,6 +1,0 @@
-mb
-mb/beam
-mb/death_explode
-mb/mini_death_explode
-mb/zap
-textures

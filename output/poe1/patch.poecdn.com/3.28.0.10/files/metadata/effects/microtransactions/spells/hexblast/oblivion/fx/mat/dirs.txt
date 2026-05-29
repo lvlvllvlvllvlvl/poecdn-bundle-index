@@ -1,4 +1,0 @@
-beam
-beam_cursed
-shockwave
-surge

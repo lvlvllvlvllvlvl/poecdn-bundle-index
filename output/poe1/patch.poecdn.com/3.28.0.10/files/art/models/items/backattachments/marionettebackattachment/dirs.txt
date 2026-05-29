@@ -1,7 +1,0 @@
-attachments
-attachments/handpuppetstick
-attachments/pin
-attachments/tri
-textures
-textures/metal
-textures/porcelain

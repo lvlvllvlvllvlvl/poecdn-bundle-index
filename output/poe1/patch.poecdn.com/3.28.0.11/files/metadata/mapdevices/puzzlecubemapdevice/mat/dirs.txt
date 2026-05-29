@@ -1,0 +1,15 @@
+celestial
+celestial/active_01
+celestial/active_idle_01
+celestial/idle_01
+cube_idle
+lava
+lava/active_01
+lava/active_idle_01
+space_start_explosion
+water
+water/active_01
+water/active_idle_01
+water/idle_01
+water/water_cube_submerge
+water_start_explosion

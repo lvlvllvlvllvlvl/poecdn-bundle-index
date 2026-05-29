@@ -1,0 +1,10 @@
+attachments
+attachments/detonator
+attachments/pillars
+fx
+fx/mb
+fx/mb/cutout
+fx/texture
+large
+small
+textures

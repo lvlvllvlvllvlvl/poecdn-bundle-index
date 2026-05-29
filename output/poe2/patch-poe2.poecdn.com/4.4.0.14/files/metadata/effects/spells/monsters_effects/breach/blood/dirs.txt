@@ -1,6 +1,0 @@
-ao
-epk
-fx
-mat
-mat/idle
-mat/teethslam

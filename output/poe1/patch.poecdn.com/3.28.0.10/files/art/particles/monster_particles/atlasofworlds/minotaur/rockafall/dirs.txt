@@ -1,2 +1,0 @@
-ground_slam
-instability_zone

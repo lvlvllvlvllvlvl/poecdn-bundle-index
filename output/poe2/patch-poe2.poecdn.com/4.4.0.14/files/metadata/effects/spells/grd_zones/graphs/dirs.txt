@@ -1,5 +1,0 @@
-masks
-particles
-particles/render
-particles/update
-utility

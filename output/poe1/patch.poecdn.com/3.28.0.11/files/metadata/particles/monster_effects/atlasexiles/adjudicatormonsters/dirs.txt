@@ -1,0 +1,9 @@
+cock
+gladiator
+gladiator/weaponthrow
+grandmaster
+lion
+master
+pitbull
+spawn
+statue

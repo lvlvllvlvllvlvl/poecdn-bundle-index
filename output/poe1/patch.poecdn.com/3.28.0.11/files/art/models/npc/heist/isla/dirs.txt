@@ -1,0 +1,10 @@
+attachments
+attachments/back_scrolls
+attachments/front_cloth
+attachments/head_cloth
+attachments/l_elbow_cloth
+attachments/mallet
+attachments/monocle_chain
+attachments/page_tray
+attachments/pencil
+attachments/r_elbow_cloth

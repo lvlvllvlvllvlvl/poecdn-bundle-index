@@ -1,0 +1,6 @@
+base
+chaos
+cold
+fire
+lightning
+phys

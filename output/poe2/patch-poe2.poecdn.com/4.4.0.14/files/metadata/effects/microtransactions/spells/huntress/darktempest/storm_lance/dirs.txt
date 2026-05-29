@@ -1,9 +1,0 @@
-audio
-epks
-fx
-mats
-mats/arc
-mats/impact
-mats/projectile
-mats/surge
-onacts

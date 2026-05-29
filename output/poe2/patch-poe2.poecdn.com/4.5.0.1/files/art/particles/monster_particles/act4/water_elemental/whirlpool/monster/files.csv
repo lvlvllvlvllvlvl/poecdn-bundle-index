@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+ea07a364a1935bd9,base_01_red.mat,Tiny.V3,36422854,2246
+79c0370400e80460,base_01_red.dds,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.FEE5E8ABF777CC12.whirlpoolmonster_red_attach.ao,0,349700
+cbc1467809749e2a,base_01_red.dds.header,Tiny.V7,38455872,1520
+309b633b77e30623,base_test_red.mat,Tiny.V6,36901311,2304
+709aa22f93a88289,base_test_red.dds,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.FEE5E8ABF777CC12.whirlpoolmonster_red_attach.ao,349700,349700
+4469555c1459a042,base_test_red.dds.header,Tiny.V3,36425100,1520
+91df9d14892766db,blink_spiral_bigger_2_red.mat,Tiny.V9,37410772,2866
+12011fb904b2448c,blink_spiral_bigger_2_red.dds,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.FEE5E8ABF777CC12.whirlpoolmonster_red_attach.ao,699400,87556
+0d32735a5260ef6d,blink_spiral_bigger_2_red.dds.header,Tiny.VC,37263410,1520
+d3fe764ceee95027,blink_spiral_bigger_2.mat,Tiny.V1,36869187,2842
+9b84774037fba9cc,blink_spiral_bigger_2.dds,Streaming/Content/metadata/particles/monster_effects/act8/6C201F6FE52A60BC.thrust.trl,218824,87556
+b775305fe836750a,blink_spiral_bigger_2.dds.header,Tiny.VC,37261890,1520

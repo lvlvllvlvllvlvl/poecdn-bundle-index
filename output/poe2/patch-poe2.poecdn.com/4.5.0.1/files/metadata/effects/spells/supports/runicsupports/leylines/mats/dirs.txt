@@ -1,0 +1,7 @@
+endward
+epk
+epk/bear
+epk/wolf
+epk/wyvern
+ground
+groundsmall

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+651bd5af23d25c19,mblur_sphere_r.mat,Tiny.VB.1,105050687,10026
+23fc677094e5a994,mblur_sphere_u.mat,Tiny.VD.1,5332868,346
+58bba3e2ba96ef01,foam_spray_r.mat,Tiny.V6.1,106578849,26890
+d39584498547ef1a,foam_spray_u.mat,Tiny.V7.1,103041892,7078
+a78bbc3d981d14c0,tailsplash_02_render.mat,Tiny.V3.1,105389665,29988
+95ffdaf4841a2d75,tailsplash_02_update.mat,Tiny.VA.1,105813070,9836
+c30e8575707672d0,water_droplets_r.mat,Tiny.V0.1,105553166,19200
+9be2ec5f1b424fd6,water_droplets_u.mat,Tiny.VA.1,105822906,16160
+70ca566c83198e8c,water_impact_u.mat,Tiny.VD.1,104573764,2206
+2f4d24aab65f6e00,water_impact_r.mat,Tiny.VD.1,104750096,32530
+4001e4183d4b3182,water_impact_r2.mat,Tiny.V9.1,108905158,31092
+963f896cf77be097,water_grd_r.mat,Tiny.VC.1,107766087,13716
+343fa5d54ea74c35,water_grd_u.mat,Tiny.VD.1,5332868,346
+add41233408d7f8a,grd_caustics_render.mat,Tiny.V6.1,106605739,22350
+c4b81556c86a4078,grd_caustics_update.mat,Tiny.VE.1,12556962,310

@@ -1,0 +1,6 @@
+attachments
+attachments/sanctifiedweapon
+attachments/weapon
+attachments/weapon/spear
+attachments/weapon/sword
+textures

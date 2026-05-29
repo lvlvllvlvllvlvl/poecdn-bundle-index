@@ -1,0 +1,10 @@
+effects
+effects/animations
+effects/animations/switch01
+effects/animations/switch02
+effects/animations/switch03
+effects/crownheads
+effects/crownheads/animations
+effects/crownheads/animations/06
+effects/crownheads/animations/07
+effects/crownheads/animations/08

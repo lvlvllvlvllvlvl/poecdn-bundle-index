@@ -1,4 +1,0 @@
-kalgforgeguardmace
-kalgforgeguardmace/textures
-thebellringer
-thebellringer/textures

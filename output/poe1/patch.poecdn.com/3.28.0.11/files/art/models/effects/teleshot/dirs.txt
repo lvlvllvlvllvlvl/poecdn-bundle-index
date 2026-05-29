@@ -1,0 +1,8 @@
+arrow_up
+arrowdown
+clone_fade
+impact
+normal
+normal/arrow_up
+normal/arrowdown
+normal/impact

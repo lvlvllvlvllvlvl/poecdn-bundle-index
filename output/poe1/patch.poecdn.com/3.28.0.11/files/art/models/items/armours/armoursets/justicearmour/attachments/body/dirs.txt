@@ -1,0 +1,16 @@
+cape
+cape/dex
+cape/dexint
+cape/int
+cape/str
+cape/strdex
+cape/strdexint
+cape/strint
+skirt
+skirt/dex
+skirt/dexint
+skirt/int
+skirt/str
+skirt/strdex
+skirt/strdexint
+skirt/strint

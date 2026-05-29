@@ -1,6 +1,0 @@
-epks
-fx
-fx/bow
-fx/death
-fx/death_big
-fx/on_hit

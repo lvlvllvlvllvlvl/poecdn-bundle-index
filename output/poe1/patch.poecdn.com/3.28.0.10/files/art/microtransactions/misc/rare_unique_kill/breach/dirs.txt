@@ -1,7 +1,0 @@
-mb
-mb/hand
-mb/hand/animations
-mb/hand_plight
-mb/tombstone
-mb/tombstone/grd_dirt
-textures

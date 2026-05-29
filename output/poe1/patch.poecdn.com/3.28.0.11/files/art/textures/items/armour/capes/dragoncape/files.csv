@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+cf0fa0760a81fd87,dragoncapec.mat,Tiny_8,15877993,3146
+10696d795102ab5e,dragoncape_specular_dxt5.dds,Art/Textures/Items/armour/Capes/DragonCape,218964,87556
+8b2f577786e11913,dragoncape_specular_dxt5.dds.header,Tiny_8,15876473,1520
+84f7a4d70ab31d2c,dragoncape_normal_dxt5.dds,Art/Textures/Items/armour/Capes/DragonCape,131408,87556
+097cf3c39cd064ff,dragoncape_normal_dxt5.dds.header,Tiny_8,15874953,1520
+933ed356660140a0,dragoncape_colour_dxt5.dds,Art/Textures/Items/armour/Capes/DragonCape,43852,87556
+598eb49f927e803f,dragoncape_colour_dxt5.dds.header,Tiny_8,15873433,1520
+7d85643fa8f41cb9,dragoncape_colour_bc7.dds,Art/Textures/Items/armour/Capes/DragonCape,43852,87556
+b479f77064a6a659,dragoncape_colour_bc7.dds.header,Tiny_8,15873433,1520
+a882db8bc0b27b7e,dragoncape_colour.dds,Art/Textures/Items/armour/Capes/DragonCape,0,43852
+f19b29143aef0dee,dragoncape_colour.dds.header,Tiny_8,15871913,1520

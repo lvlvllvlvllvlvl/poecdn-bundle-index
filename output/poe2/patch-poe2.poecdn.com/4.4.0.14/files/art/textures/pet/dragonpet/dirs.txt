@@ -1,2 +1,0 @@
-fx_polaris_black
-fx_twilight_nightfall

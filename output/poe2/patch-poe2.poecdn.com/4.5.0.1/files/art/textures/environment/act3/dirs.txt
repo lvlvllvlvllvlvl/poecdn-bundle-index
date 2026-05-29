@@ -1,0 +1,12 @@
+beacon
+drygarden
+eleganthouse
+encampment
+fade
+furniture
+garden
+gemling_throne
+harborbridge
+scepterofgod
+sewer_doedrebossarena
+tent_circus

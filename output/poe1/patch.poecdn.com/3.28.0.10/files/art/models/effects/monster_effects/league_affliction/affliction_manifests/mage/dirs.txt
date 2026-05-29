@@ -1,2 +1,0 @@
-ball_lightning
-on_act

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+b720d224c5804eb7,portal_idle_frame.pet,Tiny.V0.1,195849028,2800
+10bf644041c0a488,portal_frame_idle_core.pet,Tiny.V4.1,194517358,21320
+f1d96e49672e8295,portal_frame_circle_inactive.pet,Tiny.V4.1,194492052,25306
+2f1bf643000346a8,portal_frame_circle.pet,Tiny.VA.1,195735064,10106
+5f654f33048a65f6,portal_open_buildup.pet,Tiny.VE.1,193328818,2482
+5a2e55086dab8bfe,portal_open_flash.pet,Tiny.V3.1,196745959,9622
+3508d58cf74c388f,portal_open_frame.pet,Tiny.VE.1,193331300,15212
+1c5364ee88d0a045,portal_core_cyl_axis.pet,Tiny.VF.1,192170696,5042
+b5ed9a42aefc715f,portal_close_flash_end.pet,Tiny.V3.1,196738823,7136
+c6b8002189f4e9da,portal_close_flash.pet,Tiny.V0.1,195846692,2336
+b47a642a5356c9f7,portal_close_buildup_circle.pet,Tiny.V0.1,195841716,4976
+ff31e3601a7e80d8,portal_close_buildup.pet,Tiny.V6.1,194562471,2458

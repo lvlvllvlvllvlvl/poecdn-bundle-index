@@ -1,0 +1,5 @@
+doodads
+doodads/textures
+doodads/textures/macrame
+doodads/textures/prayerboards
+doodads/textures/stakes

@@ -1,6 +1,0 @@
-1x1
-2x2
-trap
-trap/dart1
-trap/dart2
-unique

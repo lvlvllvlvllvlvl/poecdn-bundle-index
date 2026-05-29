@@ -1,9 +1,0 @@
-bow
-bow/models
-bow/models/projectile
-bow/models/rift
-bow/models/rift/portal
-bow/textures
-bow/textures/fx
-bow/textures/projectile
-bow/textures/projectile/impact

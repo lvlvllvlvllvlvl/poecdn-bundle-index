@@ -1,5 +1,0 @@
-graphs
-rooms
-rooms/overlays
-tiles
-tiles/cave

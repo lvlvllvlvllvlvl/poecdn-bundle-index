@@ -1,0 +1,10 @@
+helmet
+shoulderpads
+shoulderpads/animation
+shoulderpads/animation/l_side
+shoulderpads/animation/r_side
+skirt
+skirt/attachments
+skirt/attachments/lantern
+skirt/attachments/statue
+skirt/attachments/thigh_plates

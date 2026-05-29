@@ -1,0 +1,4 @@
+azmeristag
+azmeristag/antlerornaments
+azmeristag/weaponsheath
+azmeristag/weaponsheath/attachments

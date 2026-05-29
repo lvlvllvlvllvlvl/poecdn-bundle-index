@@ -1,0 +1,4 @@
+features
+ledge
+stairs
+thickwall

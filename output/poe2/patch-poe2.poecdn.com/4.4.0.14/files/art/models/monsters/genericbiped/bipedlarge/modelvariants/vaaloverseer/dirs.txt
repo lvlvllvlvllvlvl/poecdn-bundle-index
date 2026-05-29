@@ -1,5 +1,0 @@
-attachments
-attachments/vaaloverseerbeltskulls
-attachments/vaaloverseerfeatherheaddress
-attachments/vaaloverseerlivinguniquemask
-attachments/vaaloverseershield

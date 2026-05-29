@@ -1,0 +1,4 @@
+bodyfx
+staff
+staff/on_act
+staff/on_act/spell_projectile_01

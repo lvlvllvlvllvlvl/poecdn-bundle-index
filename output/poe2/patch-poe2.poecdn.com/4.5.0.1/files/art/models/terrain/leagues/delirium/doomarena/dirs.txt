@@ -1,0 +1,8 @@
+textures
+textures/bloodslurry
+textures/bodies
+textures/bone
+textures/cliff
+textures/foliage
+textures/ground
+tgms

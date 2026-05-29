@@ -1,0 +1,5 @@
+praystatues
+sacredflamekey01
+sacredflamekey01/epk
+sacredflamekey01/fx
+sacredflamekey01/mat

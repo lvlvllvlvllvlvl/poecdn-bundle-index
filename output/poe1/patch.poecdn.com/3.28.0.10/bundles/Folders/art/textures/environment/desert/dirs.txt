@@ -1,8 +1,0 @@
-caravan
-dreadnought
-dryruins
-gates
-oasis
-pillars
-shore
-waypoints

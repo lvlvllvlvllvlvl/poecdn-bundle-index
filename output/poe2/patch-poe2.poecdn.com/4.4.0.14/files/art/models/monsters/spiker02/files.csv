@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-edc5965ed8c2e6f3,spiker.sm,Tiny.V1,12178793,2692
-00bd51f94a3df716,spikervariant.sm,Tiny.VB,12227450,2756
-295061d0e1e31a23,spikervariant_armour_8082b155.smd,Streaming/Content/data/worldareas/sanctum_3.vworld,0,233711
-fcefdb9855916fa3,spikervariant_armour_8082b155.smd.header,Tiny.VD,12127689,1092
-dc7bd410c42a0719,rig_ade880aa.smd,Streaming/Content/metadata/monsters/leagueexpeditionnew/skeletons/D9C7C7673D6E4B8D.expeditionskeletonshieldheld.ao,154549,118697
-b55dc9663521a05c,rig_ade880aa.smd.header,Tiny.V5,12067806,1093
-46dc77f46569e3e7,rig.amd,Content/metadata/monsters/spiker/spiker.act,0,16210
-e312f42758139a1e,rig.ast,Content/metadata/monsters/spiker/spiker.act,16210,1121884

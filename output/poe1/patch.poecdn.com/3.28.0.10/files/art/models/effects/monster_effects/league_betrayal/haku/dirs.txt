@@ -1,5 +1,0 @@
-act
-infernal_fury
-infernal_fury/cleaves
-infernal_fury/pierce
-infernal_slam

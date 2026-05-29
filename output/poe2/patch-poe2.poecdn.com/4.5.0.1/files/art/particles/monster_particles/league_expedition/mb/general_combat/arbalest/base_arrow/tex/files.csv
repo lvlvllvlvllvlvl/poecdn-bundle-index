@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+1b38a672170cd679,shrapnel_angle.mat,Tiny.V7,39611132,2684
+c7adb9ecb4033f50,wood_shrapnel_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.2ECE7F724AA7A4BB.spectral_axe_explode.pet,349700,349700
+c007e368d08b6b99,wood_shrapnel_normal_dxt5.dds.header,Tiny.VB,39941454,1520
+d5826a8f8e3401cd,wood_shrapnel_colour_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.2ECE7F724AA7A4BB.spectral_axe_explode.pet,0,349700
+a1c97571c19dd2ca,wood_shrapnel_colour_dxt5.dds.header,Tiny.VA,39803410,1520
+0fa57bc94444df00,nenetsquiverc.mat,Tiny.VB,39933578,7876
+5f78f8651cda14b5,nenetsquiver_glow_01_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.7D41F1DF1A087336.rain_of_arrows_marker.ao,699236,699236
+4698e2292a7bc28d,nenetsquiver_glow_01_dxt5.dds.header,Tiny.VB,39932738,840
+869d9a2be3ddbffb,nenetsquiver_metal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.7D41F1DF1A087336.rain_of_arrows_marker.ao,1398472,699236
+10e0cd685f629939,nenetsquiver_metal_dxt5.dds.header,Tiny.V4,39791852,840
+7656791258ce8bd0,nenetsquiver_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.7D41F1DF1A087336.rain_of_arrows_marker.ao,2097708,699236
+34cf3ec03a3250d1,nenetsquiver_normal_dxt5.dds.header,Tiny.V4,39792692,840
+6dda57c3c47f9e1a,nenetsquiver_colour_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.7D41F1DF1A087336.rain_of_arrows_marker.ao,0,699236
+a1f19cfbd5169132,nenetsquiver_colour_dxt5.dds.header,Tiny.V2,39602308,840

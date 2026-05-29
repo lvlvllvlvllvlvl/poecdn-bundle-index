@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+0df485a0c6b1d390,shield_trail.mat,Tiny_D,299149864,26560
+458cdc25f363653a,totem_channel_render.mat,Tiny_D,299176424,24762
+78ab5ff5cc5ad9b1,totem_channel_update.mat,Tiny_D,299201186,1582
+0939613b09bd6480,rotating_shield_render.mat,Tiny_D,299114434,35430
+5a28c87ca5f38f8d,rotating_shield_update.mat,Tiny_E,39272416,540
+7354ad93463decc5,bite_splash_render.mat,Tiny_D,299089954,24480
+af9beec57e041f03,bite_splash_update.mat,Tiny_11,150820658,310
+eb3332466454edf6,bite_smoke_render.mat,Tiny_D,299045778,35312
+8be4058beb23df16,bite_smoke_update.mat,Tiny_D,299081090,8864

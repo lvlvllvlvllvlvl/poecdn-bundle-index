@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+a3f7286602bd51b3,tile.mat,Tiny_6,80271773,1130
+b84fcb88d5af2786,tile.dds,Art/particles/monster_particles/act4_11,349700,87556
+68333630476b8cc2,tile.dds.header,Tiny_6,80395079,1520
+671172002d75ba10,shieldc.mat,Art/particles/monster_particles/AtlasofWorlds_151,546644,4340
+bca9b804f123c1cd,shield_maskc.mat,Tiny_6,80267821,3952
+cb6fcf66d43188ef,shield_mask.dds,Art/particles/monster_particles/AtlasofWorlds_87,1136688,87556
+a77907cd7749b308,shield_mask.dds.header,Tiny_6,80266301,1520
+053ba59fceb6b188,shield_colour.dds,Art/particles/monster_particles/AtlasofWorlds_151,900684,174924
+4901c99e694042db,shield_colour.dds.header,Tiny_6,80264781,1520
+12b2d33ed78d7e5d,shield_at.mat,Tiny_6,80263621,1160
+559f30978b617cdd,shield_at.dds,Art/particles/monster_particles/AtlasofWorlds_151,550984,349700
+5b2cd811f5b36ad9,shield_at.dds.header,Tiny_6,80262101,1520

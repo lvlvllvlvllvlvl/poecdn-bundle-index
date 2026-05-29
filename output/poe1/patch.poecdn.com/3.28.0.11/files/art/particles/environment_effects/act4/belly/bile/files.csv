@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+32ecc463c4ce937a,smoke_02.mat,Tiny_6,25866519,2694
+2e82b5230172997d,smoke_02.dds,Art/particles/environment_effects/act4_7,1054234,43876
+b937b01779aa9a0b,smoke_02.dds.header,Tiny_7,39084576,840
+e3901d8a0e2abbeb,rot_bile_mainc.mat,Tiny_6,25865423,1096
+7f7ed3c9bccbb198,rot_bile_main.dds,Art/particles/environment_effects/act4_7,699400,174924
+e459ddada1cd8886,rot_bile_main.dds.header,Tiny_6,25863903,1520
+5e66a76e34fac93f,bile_normal_dxt5.dds,Art/particles/environment_effects/act4_42,0,349700
+c7e1ab07fc4de1fe,bile_normal_dxt5.dds.header,Tiny_6,25860863,1520
+057a071cda8bed8f,bile_mainc.mat,Tiny_6,25859791,1072
+5b99033a04e60bab,bile_maincsbilen.mat,Art/particles/environment_effects/act4_7,874324,4986
+2ea1b0d9bef4ec3f,bile_main.dds,Art/particles/environment_effects/act4_7,879310,174924
+c6c1b7291b049df2,bile_main.dds.header,Tiny_6,25858271,1520
+94f8f18ad6d59523,bilenbile_mains.dds,Art/particles/environment_effects/act4_7,349700,349700
+ea99e193507be961,bilenbile_mains.dds.header,Tiny_6,25862383,1520

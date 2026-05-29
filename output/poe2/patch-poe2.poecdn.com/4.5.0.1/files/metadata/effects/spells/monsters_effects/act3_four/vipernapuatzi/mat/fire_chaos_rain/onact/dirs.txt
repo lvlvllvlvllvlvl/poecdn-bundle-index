@@ -1,0 +1,7 @@
+chaoshands
+chaostrails
+charge
+endburst
+firehands
+midburst
+shieldscorch

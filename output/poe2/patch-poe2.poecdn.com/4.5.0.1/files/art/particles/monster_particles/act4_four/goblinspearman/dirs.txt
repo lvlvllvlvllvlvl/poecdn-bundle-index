@@ -1,0 +1,7 @@
+mb
+mb/projectile
+mb/projectile/animations
+textures
+textures/on_act
+textures/on_act/attack_01
+textures/on_act/spearthrow

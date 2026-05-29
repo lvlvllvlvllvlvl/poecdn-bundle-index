@@ -1,0 +1,10 @@
+ascendancy_shrine
+ascendancy_shrine/epk
+ascendancy_shrine/mat
+ascendancy_shrine/pet
+ascendancy_shrine/trl
+bugs
+flies
+leaves
+lightbeams
+shadow

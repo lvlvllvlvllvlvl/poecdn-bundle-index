@@ -1,4 +1,0 @@
-female
-female/attachments
-male
-male/attachments

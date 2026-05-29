@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-fd805b130b3c0e2f,ring_distortion_r.mat,Tiny_D,338868232,13250
-a23405dc6c9fb0ed,shield_r.mat,Tiny_D,338881482,26370
-98cf4157d411ad2e,wave_grd_r.mat,Tiny_D,338932486,30132
-d08c07465b77b3cc,water_ripple_r.mat,Tiny_D,338907852,24094
-83cd7deaf081ba05,water_ripple_u.mat,Tiny_D,338931946,540
-21fc28cf98b4247c,grd_caustics_r.mat,Tiny_D,338848268,19964
-b1a09be0b9e2eed4,grd_caustics_u.mat,Tiny_D,469398981,540

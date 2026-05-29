@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+7d4ffe547e65987d,material_ssrefraction_toground.fxgraph,Folders/metadata/effects_3,1654624,109790
+7e72e416b9e1483b,field_liquid_particlesinit.fxgraph,Folders/metadata/effects.3,22052982,744796
+0512ea4853369194,field_liquid_particlesinit_nodrop.fxgraph,Folders/metadata/effects_3,1033566,621058
+6a9fa68b93b29433,field_groundsplat_directional.fxgraph,Folders/metadata/effects_3,478700,290462
+570658d1407ee6f4,field_groundsplat_radial.fxgraph,Folders/metadata/effects_3,769162,264404

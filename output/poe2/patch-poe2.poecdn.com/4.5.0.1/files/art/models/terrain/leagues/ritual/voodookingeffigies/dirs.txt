@@ -1,0 +1,3 @@
+effigy_large
+effigy_medium
+effigy_small

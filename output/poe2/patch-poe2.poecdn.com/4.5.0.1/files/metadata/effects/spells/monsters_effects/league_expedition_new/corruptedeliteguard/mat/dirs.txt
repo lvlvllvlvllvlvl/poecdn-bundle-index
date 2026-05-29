@@ -1,0 +1,5 @@
+attack_trail
+corpse_explosion_01_ground
+energy_merge
+hand_glow_cast
+liquid_metal_arm

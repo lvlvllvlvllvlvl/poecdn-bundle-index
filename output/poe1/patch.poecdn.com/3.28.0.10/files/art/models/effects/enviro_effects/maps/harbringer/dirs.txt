@@ -1,4 +1,0 @@
-portals
-portals/portal
-portals/portal_glow
-portals/tgms

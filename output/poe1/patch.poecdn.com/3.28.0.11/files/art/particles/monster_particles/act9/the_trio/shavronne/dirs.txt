@@ -1,0 +1,8 @@
+brutus_slam
+brutus_slam/disappear
+brutus_slam/poof
+lightning_mortar
+living_storms
+living_storms/lightningcyclone_textures
+ultimate_ball_lightning
+ultimate_ball_lightning/outer_orb

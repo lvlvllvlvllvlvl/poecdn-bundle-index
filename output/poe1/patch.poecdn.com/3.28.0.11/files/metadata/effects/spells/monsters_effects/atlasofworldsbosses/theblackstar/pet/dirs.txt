@@ -1,0 +1,10 @@
+annihilating_light
+beam_spear_left_start_01
+clone_death
+death
+intro_01
+leap_slam_spear_01
+melee_clone
+melee_clone/on_act
+melee_rebind
+meteor_shower_01

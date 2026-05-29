@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+47b1ae7dd79bdbdb,rig_0b243609.smd,Tiny_6,46177266,76
+ca65b8241a6566cf,rig_0b243609.smd.header,Tiny_6,46177342,368
+d215a9fe1433aa41,manavoid_runeextension_01.sm,Tiny_6,46176958,308
+2d37d70207fde381,manavoid_runeextension_01.amd,Tiny_6,46182837,92
+938129902318d3ce,manavoid_runeextension_01.ast,Tiny_6,46175558,1400
+91cbe21737e05e99,glowup_center_01.fmt,Art/particles/mana_void/Models,39370,10377
+d3ab2cd86817b8cc,glowup_center_01.fmt.header,Tiny_6,46175379,179
+31d5946d88165488,glowup_01.fmt,Art/particles/mana_void/Models,28553,10817
+efc7dad50a0ad232,glowup_01.fmt.header,Tiny_6,46175205,174
+ef1e02af23906669,4sided_rune.fmt,Art/particles/mana_void/Models,19382,9171
+d7e907abb8316401,4sided_rune.fmt.header,Tiny_6,46174996,209
+4f993c2da3d5916e,4sided_blur_rune.fmt,Art/particles/mana_void/Models,10201,9181
+23add8095e45b8c4,4sided_blur_rune.fmt.header,Tiny_6,46174782,214

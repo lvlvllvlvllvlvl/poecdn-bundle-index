@@ -1,0 +1,16 @@
+desert
+desert/textures
+desert/textures/rocks
+desert/tgms
+doodads
+doodads/precursoaltlaspointsconsole03
+grass
+grass/tgms
+mountain
+mountain/tgms
+swamp
+swamp/tgms
+textures
+textures/architecture
+textures/architecture/arenafloor
+tgms

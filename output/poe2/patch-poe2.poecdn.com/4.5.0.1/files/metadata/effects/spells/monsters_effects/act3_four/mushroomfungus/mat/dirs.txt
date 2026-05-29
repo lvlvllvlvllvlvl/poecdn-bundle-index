@@ -1,0 +1,10 @@
+attack_01_02
+attack_01_02/beam
+vacuum_breath
+vacuum_breath/grd_idle
+vacuum_breath/grd_impact
+volatile_orb
+volatile_orb/charge
+volatile_orb/explode
+volatile_orb/idle
+volatile_orb/open

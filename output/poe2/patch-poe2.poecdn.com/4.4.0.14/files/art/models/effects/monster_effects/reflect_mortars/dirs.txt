@@ -1,5 +1,0 @@
-elemental
-physical
-spell_thorn_shield
-spell_thorn_shield/elemental
-spell_thorn_shield/physical

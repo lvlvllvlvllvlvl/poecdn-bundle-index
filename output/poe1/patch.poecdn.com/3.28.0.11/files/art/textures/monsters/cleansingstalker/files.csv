@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+41925c92697cd663,cleansingstalker.mat,Tiny_8,34838734,4544
+8625a2f5f4d8fc51,cleansingstalker_normal_dxt5.dds,Art/Textures/Monsters/CleansingStalker_1,0,1398276
+79094575cef3b461,cleansingstalker_normal_dxt5.dds.header,Tiny_8,34846318,1520
+b9165cd434f03fe8,cleansingstalker_glow_dxt1.dds,Art/Textures/Monsters/CleansingStalker,699212,699212
+6c9fa7a2a66bc79a,cleansingstalker_glow_dxt1.dds.header,Tiny_8,34844798,1520
+3a1953e2aa98c653,cleansingstalker_colour_dxt1.dds,Art/Textures/Monsters/CleansingStalker,0,699212
+baa1e812b55ac677,cleansingstalker_colour_dxt1.dds.header,Tiny_8,34843278,1520

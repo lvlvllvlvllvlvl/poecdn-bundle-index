@@ -1,5 +1,0 @@
-attack
-devourblood
-groundgoo
-onact_flight
-onact_land

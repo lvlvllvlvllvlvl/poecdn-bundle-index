@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+b530e3650f92e677,mlok_basaltcolumn01c.mat,Tiny.VF,29424782,2570
+bdc36936d897d224,mlok_basaltcolumn01_normal.dds,Streaming/Content/metadata/terrain/doodads/maps/58856095FC8FFCAC.sirenpillar04.ao.1,0,5592580
+bdffcbc272f7b918,mlok_basaltcolumn01_normal.dds.header,Tiny.V9,29606300,1520
+c47e45e8dcd87970,mlok_basaltcolumn01_colour.dds,Streaming/Content/metadata/terrain/doodads/maps/58856095FC8FFCAC.sirenpillar04.ao,7340,2796364
+c0625948237db484,mlok_basaltcolumn01_colour.dds.header,Tiny.V0,29384643,1520
+07f0a585a804e84a,mlok_basaltcolumn02c.mat,Tiny.V4,29489368,2570
+b9591a73eeb0668f,mlok_basaltcolumn02_normal.dds,Streaming/Content/metadata/terrain/doodads/maps/58856095FC8FFCAC.sirenwall05.ao.1,0,5592580
+7a34e6152fd06acc,mlok_basaltcolumn02_normal.dds.header,Tiny.VA,29421603,1520
+cd50dfa0dd0ed179,mlok_basaltcolumn02_colour.dds,Streaming/Content/metadata/terrain/doodads/maps/58856095FC8FFCAC.sirenwall05.ao,81898,2796364
+35ea2402c07aab5a,mlok_basaltcolumn02_colour.dds.header,Tiny.V9,29607820,1520
+8c152fb7ba983549,mlok_basaltcolumn03c.mat,Tiny.VA,29423123,2570
+6de0f7cda2c56ef5,mlok_basaltcolumn03_normal.dds,Streaming/Content/metadata/terrain/doodads/maps/58856095FC8FFCAC.sirenwall05.ao.3,0,5592580
+ed25df1889873940,mlok_basaltcolumn03_normal.dds.header,Tiny.VF,29427352,1520
+5b94c7ee4086ee4a,mlok_basaltcolumn03_colour.dds,Streaming/Content/metadata/terrain/doodads/maps/58856095FC8FFCAC.sirenwall05.ao.2,0,2796364
+6e09cb65ff05d697,mlok_basaltcolumn03_colour.dds.header,Tiny.V5,28673785,1520

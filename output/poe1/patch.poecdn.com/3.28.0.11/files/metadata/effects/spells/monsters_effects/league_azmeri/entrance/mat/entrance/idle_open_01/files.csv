@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+7945c22d3d0ab22e,sphere_distortion_r.mat,Tiny_D,306824776,10232
+b6411d050cdd82dd,sphere_distortion_u.mat,Tiny_11,150820658,310
+0c010a47bb396e6e,mblur_plane_r.mat,Tiny_D,306707304,12794
+00948fcb58fdc4fa,mblur_plane_u.mat,Tiny_D,306720098,18688
+de14a62d3490e0b4,linger_smoke_r.mat,Tiny_D,306671796,19220
+6c6657ae18c71d08,linger_smoke_u.mat,Tiny_D,306691016,16288
+346f99ef8b8e754c,linger_pixies_r.mat,Tiny_D,306629826,21732
+5b826752f3abfd7d,linger_pixies_u.mat,Tiny_D,306651558,20238

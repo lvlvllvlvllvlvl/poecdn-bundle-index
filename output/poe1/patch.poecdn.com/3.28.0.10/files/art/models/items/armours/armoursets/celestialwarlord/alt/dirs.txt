@@ -1,5 +1,0 @@
-attachments
-attachments/chestplate
-attachments/chestplate/attachments
-attachments/headcloth
-attachments/robe

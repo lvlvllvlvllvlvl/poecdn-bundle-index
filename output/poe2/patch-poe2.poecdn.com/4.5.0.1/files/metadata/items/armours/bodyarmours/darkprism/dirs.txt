@@ -1,0 +1,6 @@
+attachments
+attachments/beltchains
+attachments/chestorb
+attachments/larmchains
+attachments/shoulderrings
+attachments/torsochains

@@ -1,3 +1,0 @@
-portal_destruction
-portal_formation
-portal_rig

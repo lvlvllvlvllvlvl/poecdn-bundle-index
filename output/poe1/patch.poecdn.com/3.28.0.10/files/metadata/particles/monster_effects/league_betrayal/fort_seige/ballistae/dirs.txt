@@ -1,4 +1,0 @@
-buildup
-projectile
-projectile_aoe
-projectile_marker

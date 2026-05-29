@@ -1,6 +1,0 @@
-arena_darkness
-darkness_sucker
-flame_thrower
-large_darkness_slam
-large_darkness_slam/darkness_patch
-shadow_step

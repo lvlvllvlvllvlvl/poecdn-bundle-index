@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+5a943c5e5c05105d,border_fill.arm,Folders/metadata/3/terrain,13471576,5238
+59e175defa64bd7e,border_straight.arm,Folders/metadata/A/terrain,13382618,5580
+2613a875ea2a6cb7,border_water_fill.arm,Folders/metadata/C/terrain,14831381,5368
+b7bef4832cf6a85f,border_water_sink.arm,Folders/metadata/6/terrain,14743770,6316
+3df3ed7eb1c9e3e4,border_water_source.arm,Folders/metadata/0/terrain,13406957,6332
+7cd5a62b3e7c56c0,border_water_straight.arm,Folders/metadata/F/terrain,13364480,5712
+393e48e882ea9ed9,border_water_concave.arm,Folders/metadata/0/terrain,13401245,5712
+141d9d2c013fcd15,border_water_connection.arm,Folders/metadata/B/terrain,13252253,5986
+8421a050dba246bb,border_water_convex.arm,Folders/metadata/C/terrain,14825669,5712
+01189b80bd5d9066,border_concave.arm,Folders/metadata/5/terrain,13791408,5580
+932fae5b2d259ef3,border_convex.arm,Folders/metadata/E/terrain,13742074,5580

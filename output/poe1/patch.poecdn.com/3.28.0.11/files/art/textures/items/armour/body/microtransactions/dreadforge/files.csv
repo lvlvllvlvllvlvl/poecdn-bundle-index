@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+600ff6b6198f82f5,dreadforgebodycns.mat,Tiny_8,5955118,5842
+993e3d758e9e0d7e,dreadforgebody_specular.mat,Tiny_8,5953934,1184
+6f32bccca5bcbf24,dreadforgebody_specular.dds,Folders/art/textures/items/armour/body/microtransactions/dreadforge,524624,349700
+a0fdf0f26fd6d84c,dreadforgebody_specular.dds.header,Tiny_8,5952414,1520
+5b6bc71b1cdd5719,dreadforgebody_glow_dxt5.dds,Art/Textures/Items/armour/body/Microtransactions/DreadForge_1,0,349700
+04d4ecabfd17ebce,dreadforgebody_glow_dxt5.dds.header,Tiny_8,5949734,1520
+cd56649c943333c3,dreadforgebody_glow.mat,Tiny_8,5951254,1160
+ba3a3ed0ace0077b,dreadforgebody_glow.dds,Art/Textures/Items/armour/body/Microtransactions/DreadForge_1,0,349700
+144ca2a027359923,dreadforgebody_glow.dds.header,Tiny_8,5949734,1520
+562d85dddafa15f4,dreadforgebody_gloss.mat,Tiny_8,5948568,1166
+949acaf76ec01909,dreadforgebody_gloss.dds,Folders/art/textures/items/armour/body/microtransactions/dreadforge,174924,349700
+83b1fb7a51f3923a,dreadforgebody_gloss.dds.header,Tiny_8,5947048,1520
+f30a667f9c4e573e,dreadforgebody_colour.dds,Folders/art/textures/items/armour/body/microtransactions/dreadforge,0,174924
+ca36377b74b75b31,dreadforgebody_colour.dds.header,Tiny_8,5945528,1520
+98ddf92c4d134c9a,dreadforgebodyns.dds,Folders/art/textures/items/armour/body/microtransactions/dreadforge,874324,349700
+96c1cfa1995a9dac,dreadforgebodyns.dds.header,Tiny_8,5960960,1520

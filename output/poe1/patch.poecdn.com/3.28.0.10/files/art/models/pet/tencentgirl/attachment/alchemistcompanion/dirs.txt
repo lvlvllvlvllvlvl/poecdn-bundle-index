@@ -1,4 +1,0 @@
-flasks
-hair
-sack
-test_tube

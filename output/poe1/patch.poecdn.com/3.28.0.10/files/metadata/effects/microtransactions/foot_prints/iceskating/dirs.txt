@@ -1,8 +1,0 @@
-epk
-fx
-fx_lich
-fx_monolith
-graph
-mat
-mat_lich
-mat_monolith

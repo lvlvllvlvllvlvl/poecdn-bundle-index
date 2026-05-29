@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+c186588f09bb908e,celestialshieldcns.mat,Tiny.VF.1,781690,5464
+4e2609e37af14462,celestialshieldns.dds,Streaming/Content/metadata/items/armours/shields/celestial_arcaneshieldheld.ao.2,174924,1398276
+11802b6b602c272f,celestialshieldns.dds.header,Tiny.V6.1,760322,1520
+697c1f146223a8cc,celestialshield_add.dds,Streaming/Content/metadata/items/armours/shields/celestialshieldheld.ao,43744,1398276
+90f6846052d1e28c,celestialshield_add.dds.header,Tiny.V9.1,664708,1520
+a76e907e62877949,celestialshield_gloss.dds,Streaming/Content/metadata/items/armours/shields/celestialshieldheld.ao,2141232,1398276
+1adf9cb4e5914760,celestialshield_gloss.dds.header,Tiny.VA.1,558241,1520
+c4228a0e5e0b52b6,celestialshield_colour.dds,Streaming/Content/metadata/items/armours/shields/celestialshieldheld.ao,1442020,699212
+09cb4feec07089ae,celestialshield_colour.dds.header,Tiny.VB.1,498370,1520

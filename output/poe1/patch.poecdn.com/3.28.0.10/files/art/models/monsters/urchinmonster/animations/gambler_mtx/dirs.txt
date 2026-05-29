@@ -1,4 +1,0 @@
-dice
-zombie_1
-zombie_2
-zombie_3

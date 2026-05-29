@@ -1,0 +1,7 @@
+architecture
+doodads
+ground
+paintings
+roof
+wallvertexpaint
+woodkit

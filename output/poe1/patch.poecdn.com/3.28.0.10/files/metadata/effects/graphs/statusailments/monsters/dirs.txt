@@ -1,2 +1,0 @@
-champions
-champions/gold_affected

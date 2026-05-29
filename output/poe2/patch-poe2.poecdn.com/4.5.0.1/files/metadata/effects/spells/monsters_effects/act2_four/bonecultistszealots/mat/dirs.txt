@@ -1,0 +1,6 @@
+fire_projectile
+fire_projectile/impact
+fire_projectile/proj
+meteor
+onact
+onact/spellcast_projectile_01_02

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+ea0116f9e02f9863,smokeblack01.mat,Tiny.V3,34283735,2512
+f3a2267b997225e1,smokeblack01.dds,Streaming/Content/metadata/particles/enviro_effects/abyss_league/darksmoke.pet,175308,87556
+f662f679ef7f226b,smokeblack01.dds.header,Tiny.VE,34330408,1520
+32382a70dc2f97e4,smoke_03.mat,Tiny.VD,34918933,1248
+9753d1e54cb819db,smoke_03.dds,Streaming/Content/metadata/particles/enviro_effects/abyss_league/darksmoke.pet,131432,43876
+3183a811811d5dce,smoke_03.dds.header,Tiny.V8,37688691,840
+c14a7105b066422e,smoke_02_green.mat,Tiny.V1,34667618,3746
+f0f8db2fd7ac1b4b,smoke_02_green.dds,Streaming/Content/metadata/particles/enviro_effects/abyss_league/darksmoke.pet,87556,43876
+e0bb3eac305df444,smoke_02_green.dds.header,Tiny.V5,34320931,840
+b81ffd4126d44555,light_dust_prtcl.mat,Tiny.V6,34734459,1150
+ef984bf5c2368823,light_dust_prtcl.dds,Streaming/Content/metadata/particles/enviro_effects/abyss_league/darksmoke.pet,0,87556
+a4f91ca55ec76ee5,light_dust_prtcl.dds.header,Tiny.V9,35183567,1520

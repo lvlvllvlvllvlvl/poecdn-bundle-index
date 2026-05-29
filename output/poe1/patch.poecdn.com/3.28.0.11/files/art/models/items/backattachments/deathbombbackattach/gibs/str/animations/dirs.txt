@@ -1,0 +1,4 @@
+arms
+head
+hips
+legs

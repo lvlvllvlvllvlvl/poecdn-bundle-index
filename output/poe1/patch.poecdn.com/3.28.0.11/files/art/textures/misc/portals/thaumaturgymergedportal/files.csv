@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+8d17810785280a29,thaumaturgymergedportalc.mat,Tiny_8,31091968,5038
+54936e97463d6391,thaumaturgymergedportal_normal_dxt5.dds,Art/Textures/Misc/portals/ThaumaturgyMergedPortal,0,1398276
+bd89f94c7a0961b6,thaumaturgymergedportal_normal_dxt5.dds.header,Tiny_8,31090448,1520
+044eeb3beda68b77,thaumaturgymergedportal_glow_eye_dxt1.dds,Art/Textures/Misc/portals/ThaumaturgyMergedPortal_4,0,699212
+abffc34a7be51cfd,thaumaturgymergedportal_glow_eye_dxt1.dds.header,Tiny_8,31088928,1520
+f21cdd937856c2fb,thaumaturgymergedportal_glow_dxt1.dds,Art/Textures/Misc/portals/ThaumaturgyMergedPortal_1,0,699212
+c48dc145cc980ffd,thaumaturgymergedportal_glow_dxt1.dds.header,Tiny_8,31087408,1520
+8319a59cc66a3dbe,thaumaturgymergedportal_colour_dxt5.dds,Art/Textures/Misc/portals/ThaumaturgyMergedPortal_2,0,1398276
+97ef75ebd259ec4d,thaumaturgymergedportal_colour_dxt5.dds.header,Tiny_8,31085888,1520
+c7ad76a626e6b8d7,glassc.mat,Tiny_8,31084732,1156
+c51bec626c5a36b3,glass_redc.mat,Tiny_8,31082004,2728
+2f7a69cfed2528ee,glass_glow_dxt1.dds,Art/Textures/Misc/portals/ThaumaturgyMergedPortal_3,0,43852
+2de3d79ecfb19366,glass_glow_dxt1.dds.header,Tiny_8,31080484,1520

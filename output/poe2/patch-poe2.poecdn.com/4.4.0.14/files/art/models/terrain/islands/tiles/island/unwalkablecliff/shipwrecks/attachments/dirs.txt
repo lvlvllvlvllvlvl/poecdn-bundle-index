@@ -1,7 +1,0 @@
-bendoverlay_02_ropes
-bendoverlay_03_ropes
-ccoverlay_01_ropes
-cvoverlay_01_ropes
-shoreline_bypass_cc_01_ropes
-shoreline_bypass_st_01_ropes
-stoverlay_01_ropes

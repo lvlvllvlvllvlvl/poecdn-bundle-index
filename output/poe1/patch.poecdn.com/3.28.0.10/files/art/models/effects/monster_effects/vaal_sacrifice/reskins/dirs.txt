@@ -1,7 +1,0 @@
-mega_stormcall
-mega_stormcall/beam
-mega_stormcall/idle
-mega_stormcall/idle_pulse
-mega_stormcall/impact
-stormcall_normal
-stormcall_normal/idle

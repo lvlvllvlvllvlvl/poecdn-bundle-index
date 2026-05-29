@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+0e9406d554003485,core_glow_r.mat,Tiny_9,233021046,23748
+87416dcf71cabbce,core_glow_u.mat,Tiny_D,487161220,774
+eafdc5509f8aa9d3,abyssorb_gatherribbon_01_r.mat,Tiny_9,232927034,68952
+07329b987eddae23,abyssorb_gatherribbon_01_u.mat,Tiny_9,232995986,25060
+50683ae9db92f7bd,abyssorb_baseorb_01_r.mat,Tiny_9,232888500,38534
+5c82cbeac35394b7,abyssorb_baseorb_01_u.mat,Tiny_D,244004712,3026
+ea1da4df0b158e6e,abyssorb_baseblur_01_r.mat,Tiny_9,233044794,11680
+463edfdf20bef7e8,abyssorb_baseblur_01_u.mat,Tiny_11,96737702,576

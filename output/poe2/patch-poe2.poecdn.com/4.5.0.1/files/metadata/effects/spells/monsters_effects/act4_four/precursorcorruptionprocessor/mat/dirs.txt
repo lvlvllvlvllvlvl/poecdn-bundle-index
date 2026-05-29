@@ -1,0 +1,4 @@
+corruption_fumigate
+corruption_fumigate_onact
+corruption_rock_throw
+corruption_rock_throw_onact

@@ -1,0 +1,8 @@
+textures
+textures/curtains
+textures/decorations
+textures/fountains
+textures/furniture
+textures/pots
+textures/rugs
+textures/statues

@@ -1,3 +1,0 @@
-explosion
-explosion/blood_splat
-explosion/shockwave

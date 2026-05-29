@@ -1,0 +1,5 @@
+explosive_lightning
+explosive_lightning_cleave
+fire_double_slam
+melee_clone_summon
+melee_clone_summon/rec

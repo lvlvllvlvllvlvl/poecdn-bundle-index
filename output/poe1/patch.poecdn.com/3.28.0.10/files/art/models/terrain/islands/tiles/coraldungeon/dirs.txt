@@ -1,4 +1,0 @@
-textures
-textures/cavestalagmites
-thickwall
-thickwall/tgms

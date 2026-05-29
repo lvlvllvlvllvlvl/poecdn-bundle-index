@@ -1,7 +1,0 @@
-ballistaspearprojectile
-ballistaspearprojectile/impact
-bloody_body
-ice_groundpound_01
-ice_punch_01
-lever
-spear_ice_organ_01

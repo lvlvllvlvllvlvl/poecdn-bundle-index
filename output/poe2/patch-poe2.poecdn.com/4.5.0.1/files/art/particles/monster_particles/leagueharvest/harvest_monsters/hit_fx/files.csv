@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+6131330a34a1fcb1,hitwisp_scale.mat,Tiny.VA,40899802,2744
+14bf5391167dffe2,hitwisp_bulb.mat,Tiny.VE,40382345,2742
+5289198b7c36c584,hitwisp_thorn.mat,Tiny.V6,40819295,2744
+87e7822128d6dbca,hit_scale.mat,Tiny.VE,40379449,2896
+9a3bfd2101c0d29c,hit_bulb.mat,Tiny.VD,40985456,2928
+a95953eb6c45e859,hit_thorn.mat,Tiny.VD,40988384,2958
+b5cc29f5364c6233,hit_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.4A84B55D95894A38.spark_beam_flash.pet,393740,87556
+02b0b2b24b73b093,hit_dxt5.dds.header,Tiny.VC,40811631,1520
+2e25af20eee7cdfa,neural_wisp_phys_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.5A8D29F218799C9B.edgecrack_moveline.pet,328728,87556
+fea2c04ba9d92ce0,neural_wisp_phys_dxt5.dds.header,Tiny.VD,40991342,1520

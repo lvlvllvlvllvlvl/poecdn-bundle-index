@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+485217b5e6a95ef4,clonedestroyaudio.ao,Tiny_9,293851136,1820
+47919606930e9abb,mask_mono.fxgraph,Folders/metadata/effects_2,9200470,44600
+69bf624828b194f3,player.epk,Tiny_9,293874760,462
+3fce52a92fa28773,whooshaudio.ao,Tiny_9,294025006,1774
+da7187e2090e2371,spec_auto.fxgraph,Folders/metadata/effects_2,9245070,24424
+6cd52e40a156cda3,shadow.epk,Tiny_9,294023152,1854
+470990594102087c,shadow_epk_pass0.mat,Tiny_9,293876182,8124
+181b04f185e80022,nonplayer.epk,Tiny_9,293874760,462
+1b64f0122595493e,nonplayershadow.epk,Tiny_9,293875222,960
+7e7ffc23e4f18f01,nonplayershadow_epk_pass0.mat,Tiny_9,293876182,8124
+3d61c7e73f73c32e,ice_decal.ao,Tiny_9,293852956,16340
+31531f8191644744,ice_decal_outside.ao,Tiny_9,293869296,5464

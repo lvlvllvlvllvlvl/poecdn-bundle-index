@@ -1,3 +1,0 @@
-textures
-textures/surge
-textures/weapon_rage

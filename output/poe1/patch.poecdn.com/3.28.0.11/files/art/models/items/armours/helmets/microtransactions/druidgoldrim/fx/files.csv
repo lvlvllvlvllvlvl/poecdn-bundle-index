@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+42385d2166f709b3,orb_fire.mat,Tiny_2,44207181,7862
+58077245334fda1a,orb_ice.mat,Tiny_2,44215043,8222
+4a26595f895e33e3,orb_lit.mat,Tiny_2,44223265,7944
+6b69b72dc7849455,dg_lit.mat,Tiny_7,3545289,4486
+ef56e34a250ed91d,dg_lit_beams.mat,Tiny_2,44194884,1816
+38d22ef0e01962a0,dg_lit_orb.mat,Tiny_2,44196700,5288
+05b9505fda5f6c1c,dg_lit_surge.mat,Tiny_2,44201988,3958
+14dac92a07c99131,dg_ice_sparks.mat,Tiny_2,44187998,1800
+6bba66d8e8b78357,dg_ice_surge.mat,Tiny_2,44189798,5086
+11a426db4588af16,dg_fire_ring.mat,Tiny_2,44176968,5946
+b0bd57d03b403960,dg_fire_surge.mat,Tiny_2,44182914,5084

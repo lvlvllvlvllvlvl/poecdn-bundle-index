@@ -1,0 +1,11 @@
+microtransactions
+microtransactions/onehanded
+microtransactions/onehanded/blackpolaris1hsword
+microtransactions/onehanded/blackpolaris1hsword/fx
+microtransactions/twohanded
+microtransactions/twohanded/illusionistsword
+microtransactions/twohanded/sentinelsword
+microtransactions/twohanded/thaumaturgyscientistsword
+microtransactions/twohanded/thaumaturgyscientistsword/fx
+microtransactions/twohanded/twilightnightfallsword
+microtransactions/twohanded/twilightnightfallsword/fx

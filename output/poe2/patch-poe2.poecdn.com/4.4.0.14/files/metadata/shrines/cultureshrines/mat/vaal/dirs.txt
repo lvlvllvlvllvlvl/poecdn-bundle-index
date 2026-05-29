@@ -1,2 +1,0 @@
-blood_orb_explode
-shrine_orb

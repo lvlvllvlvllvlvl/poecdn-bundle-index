@@ -1,0 +1,6 @@
+hair
+skirt
+weapon
+wings
+wings/animations
+wings/animations/playeranimations

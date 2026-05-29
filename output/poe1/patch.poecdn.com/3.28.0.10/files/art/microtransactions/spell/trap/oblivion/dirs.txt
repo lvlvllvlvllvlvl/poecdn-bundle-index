@@ -1,3 +1,0 @@
-mb
-mb/explosion
-mb/trap_base

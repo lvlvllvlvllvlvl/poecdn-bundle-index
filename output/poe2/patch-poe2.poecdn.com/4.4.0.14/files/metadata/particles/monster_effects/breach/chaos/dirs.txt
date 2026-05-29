@@ -1,5 +1,0 @@
-chaos_mortar
-chaos_projectile
-cyclone
-halfskeleton
-spectral_throw

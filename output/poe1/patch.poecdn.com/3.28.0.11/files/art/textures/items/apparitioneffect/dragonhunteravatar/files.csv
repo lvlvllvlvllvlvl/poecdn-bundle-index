@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+6318e314b4359632,dragonhunteravatarspecularc.mat,Tiny_8,2550046,4070
+0656016c2fd59e81,dragonhunteravatar_normal_dxt5.dds,Art/Textures/Items/ApparitionEffect/DragonHunterAvatar_2,0,1398276
+a73fd285505f055c,dragonhunteravatar_normal_dxt5.dds.header,Tiny_8,2548526,1520
+4fa508bb4825d451,dragonhunteravatar_glow_dxt5.dds,Art/Textures/Items/ApparitionEffect/DragonHunterAvatar_3,0,1398276
+64970c83d9d7e2af,dragonhunteravatar_glow_dxt5.dds.header,Tiny_8,2547006,1520
+8e9318e5b3e10c12,dragonhunteravatar_colourspecular_dxt5.dds,Art/Textures/Items/ApparitionEffect/DragonHunterAvatar,0,2796388
+8640a225969e6e98,dragonhunteravatar_colourspecular_dxt5.dds.header,Tiny_8,2546166,840
+b999cff1bb21de34,dragonhunteravatar_colourspecular_bc7.dds,Art/Textures/Items/ApparitionEffect/DragonHunterAvatar,0,2796388
+5e8f6ec563af379e,dragonhunteravatar_colourspecular_bc7.dds.header,Tiny_8,2546166,840
+1d198fca2b1825c8,dragonhunteravatar_colourspecular.dds,Folders/art/textures/items/apparitioneffect/dragonhunteravatar,174924,1398268
+1795936275563dac,dragonhunteravatar_colourspecular.dds.header,Tiny_8,2545326,840
+37b858afec8ff17c,bodyc.mat,Tiny_8,2543796,1530
+91bd3e8ed80a7a18,body_colour.dds,Folders/art/textures/items/apparitioneffect/dragonhunteravatar,0,174924
+dc9684fdeb8c337b,body_colour.dds.header,Tiny_8,2542276,1520

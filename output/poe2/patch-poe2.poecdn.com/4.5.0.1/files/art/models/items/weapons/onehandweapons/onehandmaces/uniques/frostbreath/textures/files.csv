@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+62e7e12728c4471f,frostbreathicec.mat,Tiny.V8,11216683,3434
+46e9cead3021df98,frostbreathicelayerc.mat,Tiny.V3,11252452,5906
+295c6636c09e22c2,frostbreathice_glow.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.1075B7427ACE61D7.frostbreath.fmt,1398276,1398276
+24721e1493735a85,frostbreathice_glow.dds.header,Tiny.V5,11064698,1520
+dbe85fe6153bbf0f,frostbreathice_thickness.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.1075B7427ACE61D7.frostbreath.fmt.1,1398276,1398276
+e8e4c430fb88aeb8,frostbreathice_thickness.dds.header,Tiny.V4,11405089,1520
+1d37ca59992fce36,frostbreathice_normal.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.1075B7427ACE61D7.frostbreath.fmt.1,0,1398276
+b4526f4754dc4bc7,frostbreathice_normal.dds.header,Tiny.V6,11386257,1520
+b0e7790549625e64,frostbreathice_colour.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.1075B7427ACE61D7.frostbreath.fmt,0,1398276
+0f82d27fa21ae858,frostbreathice_colour.dds.header,Tiny.VA,11310458,1520
+2df1987f53158ad8,frostbreathmacec.mat,Tiny.VD,11238092,1120
+64a20b7a65dd31c1,frostbreathmace_normal.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.1075B7427ACE61D7.frostbreath.fmt.2,699212,1398276
+82c86992177ea0da,frostbreathmace_normal.dds.header,Tiny.V8,11220117,1520
+8da748f2e12ebc38,frostbreathmace_colour.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.1075B7427ACE61D7.frostbreath.fmt.2,0,699212
+3dfcbafc355aea34,frostbreathmace_colour.dds.header,Tiny.V5,11066218,1520

@@ -1,6 +1,0 @@
-attachments
-attachments/chestdecorb
-attachments/chestdecorf
-attachments/skirt
-attachments/skirtmetal
-textures

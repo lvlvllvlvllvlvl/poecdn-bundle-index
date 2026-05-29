@@ -1,9 +1,0 @@
-chaos
-fire
-lady_effect
-new
-new_chaos
-newest
-newest/chaos
-newest/fire
-projectile

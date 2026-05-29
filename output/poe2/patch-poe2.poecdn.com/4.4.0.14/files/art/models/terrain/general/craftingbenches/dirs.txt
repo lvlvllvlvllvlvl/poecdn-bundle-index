@@ -1,4 +1,0 @@
-craftingvaalhammer
-recombinatingbench
-textures
-textures/recombinatingbench

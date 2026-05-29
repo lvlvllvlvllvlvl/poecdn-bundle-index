@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+2690269c8bc664f1,smokecyl1.mat,Tiny_6,93692008,1824
+a3973e4589c3e005,smokecyl1.dds,Art/particles/monster_particles/insect_minion_explode,87556,349700
+0cc3f8407827a2a7,smokecyl1.dds.header,Tiny_6,93690488,1520
+36e568a08bd37ff9,shockwavec.mat,Tiny_6,93688788,1700
+c96c89bc9cdb1e76,shockwave.dds,Art/particles/monster_particles/insect_minion_explode,786956,349700
+ad025cd525522a75,shockwave.dds.header,Tiny_6,93687268,1520
+3785e4d197837fcf,pulse.mat,Tiny_6,93685800,1468
+b95094726e425f18,pulse.dds,Art/particles/monster_particles/insect_minion_explode,0,87556
+c17c3101b0ac8bc6,pulse.dds.header,Tiny_6,93684280,1520
+70d88e3c0e9ac944,explosiondesaturate.mat,Tiny_6,93683018,1262
+5d13f416ee338c06,explosiondesaturate.dds,Art/particles/monster_particles/insect_minion_explode,1136656,87556
+5245cc337199dc52,explosiondesaturate.dds.header,Tiny_6,93681498,1520
+db3b9b9497eb6b7d,directional_splat.mat,Tiny_6,93679570,1928
+f7cd293e4c7b7a28,directional_splat.dds,Art/particles/monster_particles/insect_minion_explode,437256,349700
+f039028a2cd611a4,directional_splat.dds.header,Tiny_6,93678050,1520

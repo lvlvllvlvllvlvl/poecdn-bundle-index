@@ -1,0 +1,10 @@
+automatonfaction
+heistsafe
+mainpathchests
+mercenaryfaction
+militaryfaction
+regularchest
+sciencefaction
+sideroomchests
+smugglerscoincache
+smugglerscoincache_rusty

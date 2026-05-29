@@ -1,4 +1,0 @@
-weapons
-weapons/1h_sword
-weapons/maul
-weapons/shield

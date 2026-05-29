@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+61697736aa4a9767,shim_ring.mat,Tiny_8,2746116,1044
+2fb7a5eb35bac0ed,star_flare.mat,Tiny_8,2755990,1606
+1ea6800bf82f7ec3,spiral_space.mat,Tiny_8,2752122,2348
+d01b6d7a8808fe4d,spiral_space_dxt5.dds,Art/Textures/Items/ApparitionEffect/OrionApparitionEffect/fx,0,349700
+6c73b4b3f517fa7c,spiral_space_dxt5.dds.header,Tiny_8,2754470,1520
+600f3ceb5041a7d7,space_bg.mat,Tiny_8,2747160,3036
+38e952913020eb0d,spark.mat,Tiny_8,2750196,1926
+6ba5159ac47df56d,grad.mat,Tiny_8,2739424,1672
+5821c63315a6475a,grad_blink.mat,Tiny_8,2741096,1190
+c64fd0823f2adf14,grad_orb_dark.mat,Tiny_8,2742286,1160
+f8afdb73c81ac44a,grad_purple.mat,Tiny_8,2743446,1146
+4d126bfc751f955f,grad_space_dark.mat,Tiny_8,2744592,1524
+afd4a902a2e43868,flare_streak_buildup.mat,Tiny_8,2732776,2812
+1f4db3ab37a34032,flash_ring.mat,Tiny_8,2735588,2316
+c9edd9e158a8c5a8,flash_ring_dxt5.dds,Art/Textures/Items/ApparitionEffect/OrionApparitionEffect/fx,349700,349700
+cbaae61d1b975f17,flash_ring_dxt5.dds.header,Tiny_8,2737904,1520

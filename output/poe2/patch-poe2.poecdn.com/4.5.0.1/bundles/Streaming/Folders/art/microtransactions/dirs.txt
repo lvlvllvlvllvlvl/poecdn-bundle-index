@@ -1,0 +1,6 @@
+aura
+head
+misc
+on_kill
+spell
+town_portal

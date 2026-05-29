@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+5df5a4950d637d1b,curse_flare_bc1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5A93FCB72819A04B.2D8ABACAE25394F3.curse_aoe_impact_midline.pet,0,699212
+254b3016c3c42dfd,curse_flare_bc1.dds.header,Tiny.V6,37602465,1520
+f6ddc72c796a3a6b,curse_mult_bc7premult.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5A93FCB72819A04B.2D8ABACAE25394F3.curse_aoe_midline.pet,699212,1398276
+c7e339026545cc63,curse_mult_bc7premult.dds.header,Tiny.V9,38128875,1520
+1afb9437ed43c2b2,caoe_decal_update.mat,Tiny.V5,37199852,688
+ea30bf955bdbc175,caoe_border_rune_update.mat,Tiny.V8,37217919,744
+0ea8f4441acd599d,caoe_border_rune_shadow_render.mat,Tiny.V5,37192956,6896
+29cf24e3ac5928f0,caoe_border_rune_shadow_update.mat,Tiny.VC,37843172,748
+4695b0457fa0ce5d,lut_hag_flicker_02_bc1.dds,Streaming/Content/metadata/monsters/bitterguy/bitterguyboss.ot,436173,43868
+29e725ca5f672f05,lut_hag_flicker_02_bc1.dds.header,Tiny.V0,37826211,504

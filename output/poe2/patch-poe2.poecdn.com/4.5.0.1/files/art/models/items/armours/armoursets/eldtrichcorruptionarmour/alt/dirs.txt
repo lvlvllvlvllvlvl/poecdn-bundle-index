@@ -1,0 +1,7 @@
+attachments
+attachments/female
+attachments/female/robe
+attachments/female/shoulderpad
+attachments/male
+attachments/male/robe
+attachments/male/shoulderpad

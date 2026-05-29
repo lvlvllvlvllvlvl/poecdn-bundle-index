@@ -1,0 +1,5 @@
+axisshield
+basicsheild
+blackguardinquisitor_generalshield
+eliteshield
+generalshield

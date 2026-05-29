@@ -1,4 +1,0 @@
-summon
-summon/epk
-summon/summon
-summon/summon/explosion

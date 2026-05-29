@@ -1,0 +1,3 @@
+fire
+lightning
+physical

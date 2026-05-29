@@ -1,0 +1,3 @@
+chimney_smoke
+chimney_smoke/fx
+chimney_smoke/mat

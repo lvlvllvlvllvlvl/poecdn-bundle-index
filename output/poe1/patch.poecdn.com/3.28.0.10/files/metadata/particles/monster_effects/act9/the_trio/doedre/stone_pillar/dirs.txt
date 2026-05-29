@@ -1,6 +1,0 @@
-emerge
-spellcast
-spellcast/enfeeble
-spellcast/temporal_chains
-spellcast/vulnerability
-submerge

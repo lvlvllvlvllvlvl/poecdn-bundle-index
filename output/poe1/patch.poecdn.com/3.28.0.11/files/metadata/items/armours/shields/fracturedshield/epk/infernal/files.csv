@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+904acc18274fd8ab,stage04_idle.epk,Tiny_E,27546920,650
+a06b7c81995bbaa5,stage04_idle_epk_pass0.mat,Tiny_E,27564960,3224
+fb385f7abecd8709,stage04_fadeout.epk,Tiny_E,27546264,656
+c8427818c0d20e39,stage04_fadeout_epk_pass0.mat,Tiny_E,27561458,2860
+ae3aca5c51b10ded,stage03_idle.epk,Tiny_E,27545608,656
+cd0ac9048d368fc5,stage03_idle_epk_pass0.mat,Tiny_E,27556736,4074
+04b0e737db632729,stage03_fadeout.epk,Tiny_E,27544952,656
+e3c45db119d123b1,stage03_fadeout_epk_pass0.mat,Tiny_E,27552850,3238
+c20611e773e1d73b,stage02_idle.epk,Tiny_E,27544484,468
+b088c65cdd2e1800,stage02_idle_epk_pass0.mat,Tiny_E,27550196,2006
+86dd357736a4393c,stage02_fadeout.epk,Tiny_E,27543828,656
+9bfecfc3490f0853,stage02_fadeout_epk_pass0.mat,Tiny_E,27548218,1514

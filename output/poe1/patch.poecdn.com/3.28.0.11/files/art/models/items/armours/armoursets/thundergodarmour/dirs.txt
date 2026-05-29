@@ -1,0 +1,5 @@
+attachments
+attachments/helmethair
+attachments/robe
+textures
+textures_blue

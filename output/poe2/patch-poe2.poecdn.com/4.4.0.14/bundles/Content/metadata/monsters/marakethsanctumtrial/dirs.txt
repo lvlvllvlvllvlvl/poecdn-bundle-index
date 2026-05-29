@@ -1,4 +1,0 @@
-boss
-boss/apparitionboss
-boss/sentinels
-boss/shakari

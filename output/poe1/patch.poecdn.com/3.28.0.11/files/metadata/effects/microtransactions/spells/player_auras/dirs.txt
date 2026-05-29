@@ -1,0 +1,11 @@
+clarity
+clarity/fx
+clarity/mat
+precision
+precision/fx
+precision/graph
+precision/mat
+vitality
+vitality/fx
+vitality/graph
+vitality/mat

@@ -1,0 +1,6 @@
+areatransitions
+chaostemple
+jungleexterior
+sanctum
+treasurevault
+vaalinterior

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+2d94365c531781a8,4way1.arm,Tiny_51,1717571,3806
+34309ba8047d59fc,4way2.arm,Folders/metadata/5/terrain_1,2903546,5326
+f15b690f2487f99a,3way1.arm,Folders/metadata/npc,2847241,8630
+9815c57986aa36ac,3way2.arm,Folders/metadata/8/terrain_1,6692777,8628
+df3a61f21694a45d,3way3.arm,Tiny_51,1714825,2746
+cf85a7e28cb65491,3way4.arm,Metadata/Terrain.7_3,81422,6082
+bbcaa203413fa05a,2waystraight.arm,Metadata/Terrain.7_3,75122,6300
+d51101c5601217e2,2waystraight3.arm,Folders/metadata/8/terrain_1,6686103,6674
+af40054e67566052,2waystraight2.arm,Folders/metadata/pet_2,6110242,8190
+7535087b51be3de0,2waystraight2b.arm,Folders/metadata/monsters,4727700,8116
+58dc269e9cb193e4,2waycorner.arm,Folders/metadata/items_2,2469281,4714
+ec39e71717074d8b,2waycornerb.arm,Folders/metadata/npc,2839555,7686

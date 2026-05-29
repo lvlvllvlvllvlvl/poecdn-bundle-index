@@ -1,3 +1,0 @@
-flying
-grd_impact
-wall_impact

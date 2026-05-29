@@ -1,0 +1,17 @@
+arms
+arms/left
+arms/left/dex
+arms/left/int
+arms/left/strdexint
+arms/right
+arms/right/dex
+arms/right/int
+arms/right/strdexint
+back
+chest
+head
+shoulderpad
+shoulderpad/animation
+shoulderpad/animation/lshoulder
+shoulderpad/animation/rshoulder
+skirt

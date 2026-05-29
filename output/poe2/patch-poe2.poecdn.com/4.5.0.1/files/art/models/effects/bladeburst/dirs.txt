@@ -1,0 +1,4 @@
+bladefall
+ninjashotgun
+ninjashotgun/decal
+ninjashotgun_black

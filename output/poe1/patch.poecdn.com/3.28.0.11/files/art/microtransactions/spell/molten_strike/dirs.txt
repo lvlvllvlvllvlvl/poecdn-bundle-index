@@ -1,0 +1,14 @@
+black_flame
+black_flame/models
+black_flame/models/chunk
+black_flame/models/chunk_02
+black_flame/models/impact
+black_flame/textures
+black_flame/textures/chunks
+black_flame/textures/heavy_molten
+black_flame/textures/impact
+celestial
+celestial/mb
+celestial/mb/chunk
+celestial/mb/chunk_impact
+celestial/texture

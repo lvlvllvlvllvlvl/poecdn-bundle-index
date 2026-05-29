@@ -1,3 +1,0 @@
-laboratory
-laboratory/tgms
-tgms

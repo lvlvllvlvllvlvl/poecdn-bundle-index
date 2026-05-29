@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+957f87cbb9cbcb52,rig.amd,Tiny_2,6407536,108
+e672123d5d28c927,rig.ast,Tiny_2,6401263,646
+70eeb9f79e75c1e8,elemental_reflec.sm,Tiny_2,6392385,2334
+f3c0ece50ee60dae,elemental_reflec_big.sm,Tiny_2,6394719,2342
+04404d4acf58fec0,armour_elemental_reflec_62062e20.smd,Folders/art/models/effects/monster_effects/monster_mods/reflect_damage,40544,40544
+8e3fa597fb6d9c08,armour_elemental_reflec_62062e20.smd.header,Tiny_2,6391842,543
+bd83fce6d6108c04,armour_big_elemental_reflec_4c6f895a.smd,Folders/art/models/effects/monster_effects/monster_mods/reflect_damage,0,40544
+6ad632e8e9a5e9f1,armour_big_elemental_reflec_4c6f895a.smd.header,Tiny_2,6391299,543

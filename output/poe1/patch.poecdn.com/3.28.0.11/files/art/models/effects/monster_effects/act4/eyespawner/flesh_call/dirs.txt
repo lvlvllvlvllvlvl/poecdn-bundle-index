@@ -1,0 +1,3 @@
+idle
+idle_pulse
+impact

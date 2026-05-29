@@ -1,5 +1,0 @@
-cat
-cat/pets
-celestial
-celestial/graph
-celestial/pets

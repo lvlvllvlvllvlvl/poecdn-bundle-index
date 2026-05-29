@@ -1,3 +1,0 @@
-Character
-NPC
-PVP_Announcer

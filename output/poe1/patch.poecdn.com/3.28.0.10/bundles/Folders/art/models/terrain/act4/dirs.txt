@@ -1,6 +1,0 @@
-aqueduct
-arena
-belly
-driedlake
-mine
-town

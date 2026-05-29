@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+72dadcb5fed0de6d,drag.fxgraph,Shared,27547671,104792
+769b16d8b5378188,inertia.fxgraph,Shared,27652463,61226
+6c18189131a0aa77,emitscenecolliderslineofsight.fxgraph,Content/metadata/effects/microtransactions/spells/witch/28501A42750AA941.boneblast_zone.ao,1200616,44488
+e6f9dbb87425f6d7,scenecolliderslos_fade.fxgraph,Content/metadata/effects/spells/monk_bell/mtx_belldjinn.ot,3312778,29902
+9b965e32b1d1f05b,cullbyscenecolliders.fxgraph,Content/metadata/effects/environment/hideout/frontier_wrangler/6A599F66072C5280.coins.pet,2193692,22584
+5f315261a91ed5d5,curlnoise_emitpos.fxgraph,Content/metadata/effects/spells/holy_consecrate/consecrate_nova.ao,3565294,69968
+81a66fe90dc1d93f,airresistancemultiplier.fxgraph,Shared,27518561,29110
+de49568877533bac,alpha_fadebyscenecolliders.fxgraph,Content/metadata/effects/microtransactions/gloves/archnemesishightemplarhands/ABBF7EAF2F043B75.tier_corruption.epk,2726218,29362

@@ -1,4 +1,0 @@
-graphs
-objects
-rooms
-rooms/fills

@@ -1,0 +1,7 @@
+idle_main
+idle_primal
+idle_vivid
+idle_wild
+portal_close
+portal_open
+transition

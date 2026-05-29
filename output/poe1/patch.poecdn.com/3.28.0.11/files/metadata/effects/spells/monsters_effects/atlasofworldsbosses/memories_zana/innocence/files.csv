@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+75d804dde757aca3,core_beam.ao,Tiny_D,187564096,5924
+60c3ddcb99d498d3,main_projectile.ao,Tiny_D,189831370,5110
+26e99716bab6f4e7,sml_projectile.ao,Tiny_D,199754366,4872
+e4f5bcdf27fbfea7,wave.ao,Tiny_D,200078342,22416
+b09718b461397733,piety_orb.ao,Tiny_D,199727008,11114
+e61e6c29c0acd70c,projectile1.ao,Tiny_D,199738122,5416
+273909e4830d4d9a,projectile2.ao,Tiny_D,199743538,5414
+fc2364e4cf4b6ddf,projectile3.ao,Tiny_D,199748952,5414
+3fa2a1e2cd05aef3,holy_projectile.ao,Tiny_D,189817336,7070
+0b38d3217391e216,holy_projectile_impact.ao,Tiny_D,189824406,6964
+a1198cae7b427d81,dash.ao,Tiny_D,187570020,4790
+dda3402e5340c1a4,delayed_blast.ao,Tiny_D,187574810,6540
+5e83c27926b59e92,divinebeam.ot,Tiny_D,187581350,478
+5bdea68780f6e390,beam_hit.ao,Tiny_D,187558612,2474
+2b80025a25dc40e5,bolt.ao,Tiny_D,187561086,3010

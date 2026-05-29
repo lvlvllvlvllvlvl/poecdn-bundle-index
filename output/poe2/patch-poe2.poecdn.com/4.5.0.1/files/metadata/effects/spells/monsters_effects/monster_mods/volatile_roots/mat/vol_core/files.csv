@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+f615b9c6c4a1c2cb,sparks_r.mat,Tiny.VF.1,161403964,28686
+6ced0a956f66527c,sparks_u.mat,Tiny.VC.1,149607331,29584
+0c3f0e9fa6a66ea4,caustics_r.mat,Tiny.VD.1,146532138,14454
+eae696bdc00a827b,caustics_u.mat,Tiny.V6.1,196132775,3360
+aae3f78c9e6ad3ef,pro_flare_r.mat,Tiny.V5.1,162916626,51838
+c23e3fe5cda89534,pro_flare_u.mat,Tiny.V6.1,196132775,3360
+e17828953d054832,lens_flare_r.mat,Tiny.V0.1,163451060,53802
+e3d4eaf13dedb504,lens_flare_u.mat,Tiny.V6.1,196132775,3360

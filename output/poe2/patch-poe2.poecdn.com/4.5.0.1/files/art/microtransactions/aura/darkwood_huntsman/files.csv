@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+3d347d9d47a3adea,kaleido.mat,Tiny.VE,3607387,6004
+af2fa24457ea459b,kaleido.dds,Streaming/Content/metadata/effects/microtransactions/aura/7FCE1DB8EE2A8E15.aura_wild.epk,549408,87556
+c2561f3f1182f62c,kaleido.dds.header,Tiny.V2,3671818,1520
+2e3f4f61285a8f5b,trail.mat,Tiny.V0,3584693,5594
+de8f97febe687dc6,trail_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/aura/7FCE1DB8EE2A8E15.aura_wild.epk,771585,174940
+5974303c52b1c8aa,trail_dxt1.dds.header,Tiny.VA,3568177,504
+524e4129ca861772,grad_blk_fl.mat,Tiny.V8,3490019,2136
+629d32d23f79af9d,grad_blk_fl_dxt1.dds,Tiny.VD,3526473,2892
+1e9005eafe83f229,grad_blk_fl_dxt1.dds.header,Tiny.VB,3574333,1520
+d072fe59e48cb57e,grow3_fl.mat,Tiny.VC,3455441,4300
+285d7d93546c9f0c,grow3_fl_dxt1.dds,Streaming/Content/metadata/monsters/maracolyte/maracolyte.ao,0,43852
+5360c35e27aff661,grow3_fl_dxt1.dds.header,Tiny.VA,3566657,1520
+f7b5119c4f0a7af8,scroll_dxt1.dds,Streaming/Shared/Super/Shared,65664,43852
+c186e3d749afd6d5,scroll_dxt1.dds.header,Tiny.V7,3522393,1520

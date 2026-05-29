@@ -1,0 +1,9 @@
+hair_dex
+hair_dexint
+hair_int
+hair_int/ponytail_battle
+hair_int/ponytail_town
+hair_str
+hair_strdex
+hair_strdexint
+hair_strint

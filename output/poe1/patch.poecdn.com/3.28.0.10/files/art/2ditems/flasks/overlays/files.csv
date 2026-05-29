@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-e9b142a945c50947,flaskplateoverlayfront.dds,Art/2DItems/Flasks/Overlays,199956,66652
-b63537e9b55025f8,flaskplateoverlayfront.dds.header,Tiny_1,1004496,1140
-96b8e6c850e3dfbc,flaskplateoverlayback.dds,Art/2DItems/Flasks/Overlays,66652,66652
-f3216755ee022620,flaskplateoverlayback.dds.header,Tiny_1,1003356,1140
-57478afa5291cc61,flaskinjectoroverlayfront.dds,Art/2DItems/Flasks/Overlays,0,66652
-4361f4b70fc7d3f4,flaskinjectoroverlayfront.dds.header,Tiny_1,1002216,1140
-5298ffe96ecba4f2,flaskinjectoroverlayback.dds,Art/2DItems/Flasks/Overlays,133304,66652
-ddf2971c3bb682d2,flaskinjectoroverlayback.dds.header,Tiny_1,1001076,1140

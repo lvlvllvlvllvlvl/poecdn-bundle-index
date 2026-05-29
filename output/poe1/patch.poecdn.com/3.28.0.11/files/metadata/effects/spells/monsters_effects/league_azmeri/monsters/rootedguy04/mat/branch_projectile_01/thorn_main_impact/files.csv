@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+acd50fe05cc03fbf,thornwave_r.mat,Tiny_D,334703953,23268
+e5768db3e0be68dd,thornwave_u.mat,Tiny_11,150820658,310
+b2ff9fdc9480658a,thornsparks_r.mat,Tiny_D,334682899,10728
+c134583c0fae672d,thornsparks_u.mat,Tiny_D,334693627,10326
+c19c85e5ae8ac1fa,pro_flare_multi_r.mat,Tiny_D,334668229,14670
+eb8390d4c17abe2f,pro_flare_multi_u.mat,Tiny_11,150820658,310
+a4477d0bed3e84bd,light_r.mat,Tiny_D,334658707,9522
+f79eef66e8889aa5,light_u.mat,Tiny_D,335414619,2140
+0c2ee7e4ac269783,caustics_r.mat,Tiny_D,334651165,7542
+aaf733461f70cb4a,caustics_u.mat,Tiny_D,424866088,2166

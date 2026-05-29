@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+9ce0b8b9b6321fbf,firemuddle.mat,Tiny_8,34414022,944
+b4e532e86fa62e21,firemuddle.dds,Art/Microtransactions/spell/alt_flameblast_1,0,349700
+d11071394210ccf7,firemuddle.dds.header,Tiny_8,36808112,1520
+0ed2ea1444df407d,brazenbull_specular.mat,Tiny_8,34413024,998
+e5c9dd8a12998295,brazenbull_specular.dds,Art/Textures/Monsters/BrazenBull,349700,349700
+9b34068d07c521c1,brazenbull_specular.dds.header,Tiny_8,34411504,1520
+69ad8578e9465fb8,brazenbull_fire.mat,Tiny_8,34410530,974
+30927ebca2d55bf7,brazenbull_fire.dds,Art/Textures/Monsters/BrazenBull,0,349700
+00ffc94dcf8c8fc4,brazenbull_fire.dds.header,Tiny_8,34408012,1520
+0beb6c2091852024,brazenbull_emissive.mat,Tiny_8,34409532,998
+2ae699b22beb059b,brazenbull_emissive.dds,Art/Textures/Monsters/BrazenBull,0,349700
+547c5725759c1657,brazenbull_emissive.dds.header,Tiny_8,34408012,1520

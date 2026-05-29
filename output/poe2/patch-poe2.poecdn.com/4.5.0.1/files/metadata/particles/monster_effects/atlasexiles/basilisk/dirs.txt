@@ -1,0 +1,6 @@
+large_projectile
+on_act_boss
+small_snake_spit
+spin_aoe
+viper_projectile
+wyvern_projectile

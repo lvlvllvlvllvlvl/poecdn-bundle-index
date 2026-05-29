@@ -1,0 +1,8 @@
+cleave
+detonate_dead
+frost_spike
+frost_spike/mb
+ice_spear
+on_act
+revive
+summonwolves

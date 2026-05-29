@@ -1,0 +1,4 @@
+attachments
+attachments/lwcape
+attachments/lwhands
+attachments/lwskirt

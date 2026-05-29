@@ -1,4 +1,0 @@
-mb
-mb/epk
-mb/melee
-tex

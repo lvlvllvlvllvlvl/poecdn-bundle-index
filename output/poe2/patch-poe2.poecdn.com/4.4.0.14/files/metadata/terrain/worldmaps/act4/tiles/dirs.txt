@@ -1,4 +1,0 @@
-coastline
-islands
-locations
-mountains

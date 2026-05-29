@@ -1,0 +1,6 @@
+lights
+lights/lantern_01
+lights/lantern_01/animations
+lights/lantern_02
+lights/lantern_02/animations
+textures

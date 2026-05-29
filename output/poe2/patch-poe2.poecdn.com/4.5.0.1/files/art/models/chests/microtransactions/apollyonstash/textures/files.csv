@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+0df54fab0ef8b030,apollyonstashc.mat,Tiny.VC,7048019,8664
+807d302679bd61f5,apollyonstash_refraction_dxt1.dds,Streaming/Content/metadata/miscellaneousobjects/stashskins/apollyonstash.ot.1,1398276,699212
+10b03b6cf36c523d,apollyonstash_refraction_dxt1.dds.header,Tiny.V7,7031956,1520
+5a3ea23d470dcc84,apollyonstash_refraction_bc7.dds,Streaming/Content/metadata/miscellaneousobjects/stashskins/apollyonstash.ot.1,0,1398276
+5664c56fb7705d60,apollyonstash_refraction_bc7.dds.header,Tiny.V4,7159428,1520
+1e7f88d91c9c599d,apollyonstash_glow_dxt1.dds,Streaming/Content/metadata/miscellaneousobjects/stashskins/apollyonstash.ot,862848,699212
+741a4b8e0bb78f71,apollyonstash_glow_dxt1.dds.header,Tiny.V7,7030436,1520
+aa292b3fcae5b653,apollyonstash_normal_dxt5.dds,Streaming/Content/metadata/miscellaneousobjects/stashskins/apollyonstash.ot,1736984,1398276
+0e2f206beb10d386,apollyonstash_normal_dxt5.dds.header,Tiny.V8,6932870,1520
+cf97cbe83c719d7b,apollyonstash_colour_dxt1.dds,Streaming/Content/metadata/miscellaneousobjects/stashskins/apollyonstash.ot,163636,699212
+a09bd108af679194,apollyonstash_colour_dxt1.dds.header,Tiny.VD,6976371,1520
+ba51c50a8cc433a2,apollyonstash_metalc.mat,Tiny.V2,7335848,5608
+82293f12b2b79275,apollyonstash_metal_dxt1.dds,Streaming/Content/metadata/miscellaneousobjects/stashskins/apollyonstash.ot,1562060,174924
+0f5031e7a2388164,apollyonstash_metal_dxt1.dds.header,Tiny.V9,7365175,1520

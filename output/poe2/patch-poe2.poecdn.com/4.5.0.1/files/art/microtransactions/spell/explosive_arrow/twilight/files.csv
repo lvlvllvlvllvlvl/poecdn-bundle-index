@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+e509dfa45c2e21b6,core_flare.mat,Tiny.VF,4926660,898
+01f0e06ffb65a510,space.mat,Tiny.V0,5205367,9246
+6b96f365792d8c32,basearrow_02.mat,Tiny.V9,5110300,5724
+f00d457c101eceeb,re_arrow_02.mat,Tiny.V1,5035315,5972
+dd821465ab9b623e,re_arr_glow_mask_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/5D7D3875D4E3639A.D1AC74E5AECBBE16.mid_vaal.pet,407458,22020
+2bbe25e6d84239a9,re_arr_glow_mask_dxt5.dds.header,Tiny.V9,5116024,1520
+512b55aae5d184e0,emissive_tex_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/C5719CBE750C0FDC.C92A6F6E4543800D.impact_weak.pet,423501,1398276
+2aadc1f49f24017f,emissive_tex_dxt5.dds.header,Tiny.V0,5203847,1520
+555c11eeb8237063,flare_final.mat,Tiny.VE,4773971,2116
+7e26115924c16481,flare_arr.mat,Tiny.V1,5033099,2216

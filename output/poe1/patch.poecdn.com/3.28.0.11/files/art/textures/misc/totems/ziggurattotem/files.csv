@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+c255cdb2624d7943,ziggurattotem_normal_dxt5.dds,Art/Textures/Misc/Totems/ZigguratTotem_1,0,349700
+64fad31beb714b35,ziggurattotem_normal_dxt5.dds.header,Tiny_8,32199412,1520
+58a1df496deb6bba,ziggurattotem_glow.mat,Tiny_8,32198384,1028
+b246f051d286e607,ziggurattotem_glow.dds,Folders/art/textures/misc/totems/E/ziggurattotem,0,349700
+91d79d2c7a81f84e,ziggurattotem_glow.dds.header,Tiny_8,32196864,1520
+8f684fe19cda3252,ziggurattotem_colour_dxt5.dds,Folders/art/textures/misc/totems/9/ziggurattotem,0,349700
+2994c9def329c68b,ziggurattotem_colour_dxt5.dds.header,Tiny_8,32195344,1520
+87831065715b44ce,ziggurattotem_colour_bc7.dds,Folders/art/textures/misc/totems/9/ziggurattotem,0,349700
+210531d9f353b567,ziggurattotem_colour_bc7.dds.header,Tiny_8,32195344,1520
+b238df030ff6eb27,ziggurattotem_colour.dds,Folders/art/particles/monster_particles/vaalspiderboss_p,241008,174924
+baefad88c0ff60bd,ziggurattotem_colour.dds.header,Tiny_8,32193824,1520
+deb59ab190810ad1,ziggurattotemns.dds,Folders/art/textures/misc/totems/ziggurattotem/1/catarina_ver,0,349700
+b9bbf93d018120ae,ziggurattotemns.dds.header,Tiny_8,32205554,1520
+29998cfd46dd8327,ziggurattotemc.mat,Tiny_8,32200932,2458
+a0a7ec55feee4423,ziggurattotemcns.mat,Tiny_8,32203390,2164

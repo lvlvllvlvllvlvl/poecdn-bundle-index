@@ -1,0 +1,10 @@
+attachments
+attachments/helmet
+attachments/hood
+attachments/hoodmetalpriest
+attachments/necklace
+attachments/skirt
+attachments/skirtmetalpriest
+attachments/sleeves
+attachments/sleevesmetalpriest
+attachments/weapon

@@ -1,5 +1,0 @@
-mortar
-unstable_mine
-unstable_mine/aoe
-unstable_mine/aoe/big
-unstable_mine/aoe/mini

@@ -1,0 +1,2 @@
+skin
+slash_decal

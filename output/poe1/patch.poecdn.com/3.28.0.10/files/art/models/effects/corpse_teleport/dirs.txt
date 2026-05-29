@@ -1,2 +1,0 @@
-corpse_explo
-out_mark

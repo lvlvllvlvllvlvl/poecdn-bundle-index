@@ -1,0 +1,9 @@
+attachments
+attachments/gate
+attachments/l_oar
+attachments/r_oar
+fx
+fx/mb
+fx/mb/boat
+fx/texture
+textures

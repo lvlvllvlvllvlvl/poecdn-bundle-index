@@ -1,4 +1,0 @@
-aoe
-aoe/fx
-ghost
-ghost/fx

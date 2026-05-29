@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+7529a703ca4bcb9d,static03_7x7.mat,Tiny_7,22838427,1740
+d6276d31cdea02e2,static03_7x7_dxt5.dds,Art/particles/monster_particles/League_Synthesis_53,7221444,1398276
+84617fa6a4dfa410,static03_7x7_dxt5.dds.header,Tiny_7,22840167,1520
+b118b4728d901aa1,lt_loop02_6x6.mat,Tiny_7,22835161,1746
+cb4478e49ce459c3,lt_loop02_6x6_dxt5.dds,Folders/art/particles/monster_particles/league_synthesis_1,33136,5592580
+3011e57c5560f905,lt_loop02_6x6_dxt5.dds.header,Tiny_7,22836907,1520
+ad7da72e226eddd2,light_flow.mat,Tiny_7,22830335,3306
+11fc457296d39baa,light_flow_dxt5.dds,Art/particles/monster_particles/League_Synthesis_55,86618,22020
+ee3e0f93f5826336,light_flow_dxt5.dds.header,Tiny_7,22833641,1520
+85197a921345195c,inner_sub.mat,Tiny_7,22827931,2404
+3e3b153104bd2d65,inner_sub_dxt5.dds,Folders/art/particles/monster_particles/league_synthesis_1,5625716,87556
+87ff2b4fdd1fb9d3,inner_sub_dxt5.dds.header,Tiny_7,22826411,1520
+e728457e88f14955,inner_light_imortal.mat,Tiny_7,22823177,3234
+90ff7721c4c54d83,inner_light_imortal_dxt5.dds,Folders/art/particles/monster_particles/league_synthesis_1,5625716,87556
+bb226268243dfbee,inner_light_imortal_dxt5.dds.header,Tiny_7,22826411,1520

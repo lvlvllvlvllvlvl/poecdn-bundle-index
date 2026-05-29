@@ -1,3 +1,0 @@
-aoe_impact
-fx
-rectangle_impact

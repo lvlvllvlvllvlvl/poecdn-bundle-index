@@ -1,0 +1,8 @@
+aura
+nova
+onact
+onact/dash_cast
+onact/nova_cast
+onact/proj_muzzleflash
+proj_impact
+projectile

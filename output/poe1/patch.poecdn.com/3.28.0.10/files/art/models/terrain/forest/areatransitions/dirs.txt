@@ -1,3 +1,0 @@
-city
-city/tgms
-tgms

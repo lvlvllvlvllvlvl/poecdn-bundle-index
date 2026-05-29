@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+9fa84071460b45bf,rift_portal_u.mat,Tiny_D,367009641,2200
+1c1dd00656b1e626,rift_portal_r.mat,Tiny_D,366864941,45004
+3e1b8d32d7be69ee,rift_portal_r2.mat,Tiny_D,366909945,38098
+bc08c0c2a0b0753e,rift_portal_r3.mat,Tiny_D,366948043,34722
+d795b5150a9be5e8,rift_portal_r4.mat,Tiny_D,366982765,26876
+df1d5d3f838fe56e,portal_u.mat,Tiny_11,127344428,346
+fb14b7708d20d09b,portal_contactfade_r.mat,Tiny_D,366854761,6726
+23ee81f99af2113e,portal_cutout_r.mat,Tiny_D,366861487,3454
+24fbe5058fe4bc69,portal_breachedge_r.mat,Tiny_D,366710729,53058
+37445160f337193b,portal_breachflames_r.mat,Tiny_D,366763787,90974
+453f0b87d9ffbd1b,portal_backfill_alphablend_r.mat,Tiny_D,366681501,15348
+2807b76df5fff5ed,portal_backfill_r.mat,Tiny_D,366696849,13880
+37702385a5407883,emerge_coreglow_r.mat,Tiny_D,366596201,36358
+86286f3fc40dc800,emerge_spherefill_r.mat,Tiny_D,366632559,48942
+eec4558843ade581,emerge_bluroomph_r.mat,Tiny_D,367084987,14628
+962b3202ea7101f5,emerge_breachflames_up_r.mat,Tiny_D,366518077,78124

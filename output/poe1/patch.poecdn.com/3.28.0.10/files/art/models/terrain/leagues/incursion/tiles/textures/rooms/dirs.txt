@@ -1,3 +1,0 @@
-beastarena
-beastarena/architecture
-beastarena/beastflesh

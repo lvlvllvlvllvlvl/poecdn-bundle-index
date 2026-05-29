@@ -1,9 +1,0 @@
-beard
-bloodfeverattachment
-cloak
-earrings
-horn
-skirt
-tukohamabuffingbattlehorn
-tukohamabuffingbattlehorn/horn
-tukohamabuffingbattlehorn/skirt

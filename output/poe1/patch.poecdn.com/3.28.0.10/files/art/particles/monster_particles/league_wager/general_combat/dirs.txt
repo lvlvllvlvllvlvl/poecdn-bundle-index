@@ -1,6 +1,0 @@
-models
-models/vaal_ape
-models/vaal_golem
-models/vaal_guards
-models/vaal_wraith
-textures

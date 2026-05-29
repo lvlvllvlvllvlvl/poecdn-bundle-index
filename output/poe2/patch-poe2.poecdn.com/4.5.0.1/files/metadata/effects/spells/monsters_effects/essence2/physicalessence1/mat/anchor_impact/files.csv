@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+6c2a3deb37df8768,pt_u.mat,Tiny.VD.1,5332868,346
+82eac1fefc1f0752,core_glow_r.mat,Tiny.VF.1,127610766,25470
+bed3489ed05b75e8,blood_wisp_r.mat,Tiny.V7.1,126803946,26396
+145287673f37b6bd,debris_r.mat,Tiny.VF.1,127636236,25768
+b6c5787c38fb9b6f,ringwave_r.mat,Tiny.V4.1,130056832,33802
+088fffd80607216f,influence_ringwave_r.mat,Tiny.V1.1,130517012,22300
+0ce381e391eb93d0,impactoomph_r.mat,Tiny.VF.1,127662004,17532
+d0c8635c19daca88,impactwave_r.mat,Tiny.VC.1,131526405,45236
+cb30b22d6ebcd285,scorch_decal_r.mat,Tiny.VF.1,127679536,36210
+aaf9fa6850806251,smoke_shockwave_r.mat,Tiny.V0.1,129343928,23970
+a189ca27460eff4b,smokering_r.mat,Tiny.VA.1,130449130,38826
+59997bacc6e1f509,marker_init_u.mat,Tiny.V0.1,12983294,302
+56e5e127ac43391e,marker_loop_r.mat,Tiny.V6.1,129910649,56478
+8c9c8948aba09d66,marker_loop_center_r.mat,Tiny.V8.1,82391418,39110
+413b951fc399ed63,marker_loop_center_u.mat,Tiny.V6.1,74665675,532

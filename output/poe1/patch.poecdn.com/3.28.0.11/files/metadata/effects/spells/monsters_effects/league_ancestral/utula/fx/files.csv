@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+77db6d5f9a84c991,oa_flamegather.pet,Tiny_D,301785128,12860
+e0665ccd94bd998d,xs_ptemit_01.pet,Tiny_D,301797988,4902
+1638c3920d59dcef,xs_ptemit_impact_01.pet,Tiny_D,301802890,34022
+acc654a35a66da20,xs_ptemit_impact_02.pet,Tiny_D,301836912,38584
+7ab7ca9cc4645fec,xsl_main_slash.trl,Tiny_D,301875496,20878
+b699fa84d2f213e0,xsl_secondary_slash.trl,Tiny_D,301896374,9162
+4a23b7e5d7630faa,xsl_slash_decal.pet,Tiny_D,301905536,4884
+0589f428124a28e4,xsl_slash_trailing.pet,Tiny_D,301910420,9666
+54fef5840f897e30,mt_slash_trail.trl,Tiny_D,301766316,12770
+084521fe6ec3f879,mt_trailing.pet,Tiny_D,301779086,6042
+dc36543f33c69b85,ft_impact_01.pet,Tiny_D,301711034,33836
+94b65b5009b3e69b,ft_proj_trail.trl,Tiny_D,301744870,9496
+ad3b4b6ea44ca41f,ft_slash_trail_02.trl,Tiny_D,301754366,6260
+6eb38871c83ad688,ft_trailing.pet,Tiny_D,301760626,5690
+5ec00b62e4c8254b,ccs_ptemit.pet,Tiny_D,301632322,44654
+9f0f80a9eac86ca0,ccs_ptemit_loop.pet,Tiny_D,301676976,34058

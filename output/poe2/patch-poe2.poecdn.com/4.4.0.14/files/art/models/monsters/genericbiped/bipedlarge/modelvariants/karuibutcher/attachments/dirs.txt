@@ -1,6 +1,0 @@
-bones
-hair
-sausages
-skirt
-skirt_attach
-skirt_attach_2

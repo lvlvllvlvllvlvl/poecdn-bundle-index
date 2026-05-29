@@ -1,3 +1,0 @@
-blood_impacts
-red_lightning
-revenant

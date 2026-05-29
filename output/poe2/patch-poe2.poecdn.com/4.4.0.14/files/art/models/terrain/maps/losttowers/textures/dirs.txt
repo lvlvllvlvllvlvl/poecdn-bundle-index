@@ -1,9 +1,0 @@
-arches
-general
-pillars
-roofs
-spiretop
-stairs
-tileable
-turrets
-walls

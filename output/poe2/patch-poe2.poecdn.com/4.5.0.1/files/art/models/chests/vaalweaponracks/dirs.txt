@@ -1,0 +1,6 @@
+vaalweaponrack01_01
+vaalweaponrack01_02
+vaalweaponrack02_01
+vaalweaponrack02_02
+vaalweaponrack03_01
+vaalweaponrack03_02

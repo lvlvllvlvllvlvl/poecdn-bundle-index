@@ -1,0 +1,7 @@
+attachments
+petfabrications
+petfabrications/attachments
+petfabrications/attachments/petfabrication1
+petfabrications/attachments/petfabrication2
+potfabrications
+potfabrications/attachments

@@ -1,3 +1,0 @@
-sirenegg_02
-sirenegg_03
-textures

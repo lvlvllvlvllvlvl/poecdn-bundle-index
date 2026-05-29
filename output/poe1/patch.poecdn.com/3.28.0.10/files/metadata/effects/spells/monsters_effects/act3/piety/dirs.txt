@@ -1,9 +1,0 @@
-arc
-death
-firehead
-icearrow
-icecrown
-lightning_ball
-lightning_strike
-owned_state
-portal

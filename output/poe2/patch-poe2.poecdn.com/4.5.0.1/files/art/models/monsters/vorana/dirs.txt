@@ -1,0 +1,6 @@
+attachments
+attachments/chains_l
+attachments/chains_r
+attachments/hangingcloth
+attachments/robe
+textures

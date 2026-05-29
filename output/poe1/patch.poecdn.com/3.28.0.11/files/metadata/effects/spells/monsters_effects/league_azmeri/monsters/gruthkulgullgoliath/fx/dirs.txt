@@ -1,0 +1,8 @@
+calm_01
+enrage_01
+enrage_groundslam_01
+enrage_groundslam_02
+enrage_groundslam_large_01
+enrage_leapslam_01
+groundslam_01
+leapslam_01

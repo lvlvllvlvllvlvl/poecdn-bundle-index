@@ -1,3 +1,0 @@
-orb
-spellcast
-stormcall

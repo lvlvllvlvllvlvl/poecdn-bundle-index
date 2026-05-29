@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+eb446205e4d9f9d2,soulcoaster_glowc.mat,Tiny_6,28312476,2188
+2e2532fa1bf8c120,soulcoaster_glow_dxt1.dds,Art/particles/environment_effects/breach_2,11108,5628
+da5dbc2954c1e918,soulcoaster_glow_dxt1.dds.header,Tiny_6,28311636,840
+b5049f25bc53003f,razor_wind_alpha_newc.mat,Art/particles/environment_effects/breach_2,16736,5808
+aa8717bafafec0d8,razor_wind_alpha_new_dxt5.dds,Art/particles/environment_effects/breach_2,0,11108
+d191b24373c4125d,razor_wind_alpha_new_dxt5.dds.header,Tiny_6,28310796,840
+d0eab731f46c11bc,distortc.mat,Tiny_6,28308676,2120
+4c981c1c1499119b,distort_dxt5.dds,Art/particles/environment_effects/breach,819420,11108
+c7bf1e22a735342a,distort_dxt5.dds.header,Tiny_7,17304911,840

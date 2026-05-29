@@ -1,0 +1,16 @@
+apepssupremacy
+apepssupremacy/textures
+carrioncall
+carrioncall/textures
+deathrattle
+deathrattle/textures
+effigyofcruelty
+effigyofcruelty/textures
+eternalspark
+eternalspark/textures
+rathpithglobe
+rathpithglobe/attachments
+rathpithglobe/attachments/orb
+rathpithglobe/textures
+threadedlight
+threadedlight/textures

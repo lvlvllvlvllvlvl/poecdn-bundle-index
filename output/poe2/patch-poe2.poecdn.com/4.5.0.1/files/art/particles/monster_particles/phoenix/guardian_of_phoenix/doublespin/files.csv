@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+ec9f3f0d3de52ec3,tornado_outerc.mat,Tiny.V3,40216388,3344
+b89cf69e6f80342d,tornado_outer.dds,Streaming/Content/metadata/effects/spells/monsters_effects/DF7ECFB8E15300FF.59C1724A2841C30E.rig.ao,129461,43868
+3cfc7363f99bc3a3,tornado_outer.dds.header,Tiny.VF,40814765,504
+911488b00144d4bb,light_immortal_callc.mat,Tiny.VE,40532598,2766
+090aa0a67d8e023d,light_immortal_call.dds,Streaming/Content/metadata/effects/spells/monsters_effects/DF7ECFB8E15300FF.59C1724A2841C30E.rig.ao,41905,87556
+a4f69c322c87a8e8,light_immortal_call.dds.header,Tiny.V6,40991412,1520
+34d9d7536551faa7,pulse.mat,Tiny.V0,40957992,2738
+9f570cdd7ad74622,pulse.dds,Streaming/Content/metadata/particles/monster_effects/phoenix/E950CDD28071339E.fire_spirals.trl,5628,43852
+b9c788bb5992e2d7,pulse.dds.header,Tiny.V8,40412092,1520
+c3b00d9ecf178f63,pulse_at.mat,Tiny.V9,41394399,2860
+e7e7f27290fa08de,pulse_at.dds,Streaming/Content/metadata/particles/monster_effects/phoenix/E950CDD28071339E.fire_spirals.trl,224404,349700
+fed50d737c3b755c,pulse_at.dds.header,Tiny.V8,40413612,1520
+60213f120dcab6fc,pulse_add.mat,Tiny.VF,40812481,2284
+d23b26817b94e964,pulse_add.dds,Streaming/Content/metadata/particles/monster_effects/phoenix/E950CDD28071339E.fire_spirals.trl,49480,174924
+b2d9c4a3a61c9c8c,pulse_add.dds.header,Tiny.V6,37921984,1520

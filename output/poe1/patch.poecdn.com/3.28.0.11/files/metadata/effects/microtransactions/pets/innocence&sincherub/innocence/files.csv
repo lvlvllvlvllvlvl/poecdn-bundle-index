@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+d5d19ec2db0d8d5f,symbol.pet,Tiny_9,203141456,9576
+e95fabc134e43bed,symbol_cntr.pet,Tiny_9,203151032,2446
+5fe0a5cf8f50c1ce,symbol_cntr_pose.pet,Tiny_9,203153478,2430
+6c7631970b83861d,shine_trail.trl,Tiny_9,203135812,2864
+ca4c2c1cac386862,shine_trail_hand.trl,Tiny_9,203138676,2780
+75ccb56b481c88a0,particles_feet.pet,Tiny_9,203130692,2548
+b50f7932186220e0,particles_feet_free.pet,Tiny_9,203133240,2572
+f2eaea64c47ee652,glow.pet,Tiny_9,203123240,2516
+41ab58ab56391c90,glow_pose.pet,Tiny_9,203125756,4936

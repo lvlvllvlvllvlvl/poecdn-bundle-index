@@ -1,4 +1,0 @@
-descry
-descry/boss_channel_01
-descry/boss_full_power_01
-descry/boss_stumble_01

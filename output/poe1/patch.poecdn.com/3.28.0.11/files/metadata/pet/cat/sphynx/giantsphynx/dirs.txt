@@ -1,0 +1,15 @@
+attachments
+attachments/giantsphynxbellyshadow
+attachments/giantsphynxclothes01
+attachments/giantsphynxcollar
+attachments/giantsphynxorgans
+attachments/sarcophagus
+heads
+vfx
+vfx/fx
+vfx/graphs
+vfx/mats
+vfx/mats/collapse
+vfx/mats/footstep
+vfx/mats/pustule
+vfx/mats/stretch

@@ -1,4 +1,0 @@
-fx
-fx/large_projectile
-fx/large_projectile/idle
-graphs

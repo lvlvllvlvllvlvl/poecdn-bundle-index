@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+105d903333eb19be,lockpickdoor_rig_c7e17fea.smd,Art/Models/Terrain/Leagues/Heist/Doors_Reliquary,0,228020
+0ca68ef27f3df05c,lockpickdoor_rig_c7e17fea.smd.header,Tiny_5,61192012,405
+87bca522bf00beca,lockpickdoor_rig.amd,Tiny_5,61188636,150
+da1ee7e7ed49cd61,lockpickdoor_rig.ast,Tiny_5,61176389,3190
+734734bfa26ebf7b,heistlockpickdoor_01_npclockpickdoor.fmt,Tiny_7,19668252,43
+4eb51926361f2109,heistlockpickdoor_01_npclockpickdoor.fmt.header,Tiny_7,56868231,128
+696f76bab3c56375,heistlockpickdoor_01_eventdrivenblocker.fmt,Tiny_5,61175968,269
+0e42d41cf051e3e6,heistlockpickdoor_01_eventdrivenblocker.fmt.header,Tiny_5,61176237,152
+0bf9b387d303ceb8,heistlockpickdoor_01.sm,Tiny_5,61172251,484
+ac21ac9b4109f8c1,heistlockpickdoor_01.tgt,Tiny_5,61172735,2178
+143f23a41a39cd10,heistlockpickdoor_01.tmd,Tiny_5,61174913,1055

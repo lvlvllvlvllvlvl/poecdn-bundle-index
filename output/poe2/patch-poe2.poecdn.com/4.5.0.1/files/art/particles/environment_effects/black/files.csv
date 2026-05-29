@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+88ee7cf6ab3d5a07,cloud_black.mat,Tiny.V5,34453494,1130
+e0c8c8a08b538377,cloud_black.dds,Streaming/Content/metadata/particles/enviro_effects/water_splash/knee_cyl.pet,241156,22020
+7e99ebc404668d76,cloud_black.dds.header,Tiny.V3,41012017,1520
+e592486dd887b5a8,explosiondesaturate.mat,Tiny.V1,34792350,1040
+605cc0873d954cc7,explosiondesaturate.dds,Streaming/Content/metadata/particles/frozen_barrier/out.pet,87556,349700
+279bfff516257c94,explosiondesaturate.dds.header,Tiny.VB,35017700,1520
+554d9a8e9de29f77,black_wisps.mat,Tiny.V2,34878161,1488
+de324c657dccb150,black_wisps.dds,Streaming/Shared/Normal/Shared,0,87556
+4c539ca79bf9da58,black_wisps.dds.header,Tiny.V0,4082692,1520
+b11638fe1c25a0bb,smoke_bit2.mat,Tiny.V7,34806205,1960
+054755c8a04693ba,smoke_bit2.dds,Streaming/Content/metadata/particles/enviro_effects/water_splash/knee_cyl.pet,350732,87556
+1aafbb1925d95394,smoke_bit2.dds.header,Tiny.V9,34651530,1520
+8b6969b33240d835,smoke_bit1.mat,Tiny.VD,35067999,1550
+a75db01410b78194,smoke_bit1.dds,Streaming/Content/metadata/particles/enviro_effects/water_splash/knee_cyl.pet,263176,87556
+9e2056f766642e20,smoke_bit1.dds.header,Tiny.V2,34879649,1520

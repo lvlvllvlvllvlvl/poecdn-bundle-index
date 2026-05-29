@@ -1,0 +1,4 @@
+activate_trail
+karui_fire
+karui_grd
+monster_affected

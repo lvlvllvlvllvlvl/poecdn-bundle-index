@@ -1,0 +1,14 @@
+arenaentrance
+coldfissure
+darkness_arena
+darkness_blast
+darkness_blast/beam
+darknesslacerate
+meteor
+meteor/comet
+mothbeam
+mothflamethrower
+solarisspear
+solarisspear/animations
+viridisanctuary
+viridisanctuary/animations

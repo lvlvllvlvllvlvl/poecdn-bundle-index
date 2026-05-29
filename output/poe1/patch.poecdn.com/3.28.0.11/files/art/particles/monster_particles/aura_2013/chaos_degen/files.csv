@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+92b354f592156ed9,testc.mat,Tiny_6,86446499,1718
+1539817e3e0aaf38,test.dds,Art/particles/monster_particles/aura_2013,87556,349700
+9ca87f7f28528c1f,test.dds.header,Tiny_6,86444979,1520
+ad56ae4e0dfc6911,runes_out.mat,Tiny_6,86443113,1866
+cda47b555bbe16a9,runes_out.dds,Art/particles/monster_particles/aura_2013,437256,87556
+d2fdbf07ebefed1e,runes_out.dds.header,Tiny_6,86441593,1520
+0bdf854f1796b6a9,multic.mat,Tiny_6,86439931,1662
+72cba097efafbe1a,multi.dds,Art/particles/monster_particles/aura_2013,874512,349700
+4a20ff753d33d709,multi.dds.header,Tiny_6,86438411,1520
+c291ec0d2a3d1eda,addac.mat,Tiny_6,86436225,2186
+7c0a3183b89fe9b7,adda_glowc.mat,Tiny_6,86433979,2246
+4d9af67445407b37,adda_glow.dds,Art/particles/monster_particles/aura_2013,0,87556
+ef8d3cfac5e3445e,adda_glow.dds.header,Tiny_6,86432459,1520
+be6e75e72a191030,adda.dds,Art/particles/monster_particles/aura_2013,524812,349700
+fa085a0618f242ff,adda.dds.header,Tiny_6,86430939,1520

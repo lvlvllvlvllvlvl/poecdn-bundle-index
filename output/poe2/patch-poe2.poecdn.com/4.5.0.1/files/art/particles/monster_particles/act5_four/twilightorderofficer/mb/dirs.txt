@@ -1,0 +1,4 @@
+frozen_legion
+smite_aura
+warcry
+warcry/animations

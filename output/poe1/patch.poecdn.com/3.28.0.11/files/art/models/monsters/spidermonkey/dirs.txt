@@ -1,0 +1,6 @@
+attachment
+attachment/spidermonkeyred
+attachment/spidermonkeyred/fur
+attachment/spidermonkeyyellow
+attachment/spidermonkeyyellow/fur
+textures

@@ -1,0 +1,4 @@
+weapon_trap
+weapon_trap/textures
+weapon_trap/textures/particles
+weapon_trap/textures/particles/weapon_trail

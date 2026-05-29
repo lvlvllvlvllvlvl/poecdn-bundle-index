@@ -1,5 +1,0 @@
-attraction
-close
-hole
-open
-portal

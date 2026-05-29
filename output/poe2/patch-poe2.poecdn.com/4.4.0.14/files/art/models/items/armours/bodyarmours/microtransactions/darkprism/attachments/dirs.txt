@@ -1,6 +1,0 @@
-backchains
-chestorb
-leftchains
-leftdisks
-rightchains
-rightdisks

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+4fadf5badbd04491,fire_bits.mat,Tiny.V4,34963366,3040
+d5bf495adc97968e,flame_impact.mat,Tiny.V8,34367900,3092
+383abb7dc0d33455,flash_mid.mat,Tiny.VD,34851685,3244
+658431b2268a307d,flash_mid.dds,Streaming/Content/metadata/particles/elemental_hit_new/fire/3DB8FD20F260224E.impact.pet,0,5636
+487c6f3800cad68a,flash_mid.dds.header,Tiny.V4,34959934,1520
+535419a2664f3aac,sparks.mat,Tiny.V3,34223359,1930
+b2aa6edf1b540bca,sparks.dds,Tiny.V6,5412631,516
+e634cae3760691d0,sparks.dds.header,Tiny.VD,5490100,1520
+c96038b12d7ed5cf,shockwave_add.mat,Tiny.VF,34830144,4182
+5fb116ab16d6dd6e,shockwave_add.dds,Streaming/Content/metadata/particles/elemental_hit_new/fire/3DB8FD20F260224E.impact.pet,5636,349700
+b0cc420a1ff0821e,shockwave_add.dds.header,Tiny.V2,5349579,1520

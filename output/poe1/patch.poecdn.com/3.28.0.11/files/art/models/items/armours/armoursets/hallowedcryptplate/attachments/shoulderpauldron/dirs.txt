@@ -1,0 +1,4 @@
+lshoulderpauldron
+lshoulderpauldron/animations
+rshoulderpauldron
+rshoulderpauldron/animations

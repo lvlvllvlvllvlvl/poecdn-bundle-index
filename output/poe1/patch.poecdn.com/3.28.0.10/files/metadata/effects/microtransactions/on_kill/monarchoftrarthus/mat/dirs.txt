@@ -1,4 +1,0 @@
-assemble
-bite
-blood_explosion
-emerge

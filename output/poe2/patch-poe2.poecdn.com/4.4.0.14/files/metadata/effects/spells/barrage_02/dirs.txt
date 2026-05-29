@@ -1,5 +1,0 @@
-barrage_wand
-chaos
-cold
-fire
-lightning

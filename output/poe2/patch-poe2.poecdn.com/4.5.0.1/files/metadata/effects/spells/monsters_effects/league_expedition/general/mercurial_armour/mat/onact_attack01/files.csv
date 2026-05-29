@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+af035b1d53cfe56f,caustics_weak_r.mat,Tiny.V3.1,143289937,8004
+e7d63cf50b1ecc4a,pnt_u.mat,Tiny.VD.1,5332868,346
+d7e8954a5ee2ef57,light_up_r.mat,Tiny.VA.1,143294956,20584
+51a520f117612349,light_up_u.mat,Tiny.V3.1,142426703,3986
+aa7043beb2653979,spark_r.mat,Tiny.VB.1,143290909,22272
+d841f53f5708c617,spark_u.mat,Tiny.V7.1,139458606,13624
+03a405cfb6a53f51,smoke_flipbook_ipct_r.mat,Tiny.V1.1,143113568,39050
+5bd95de6550901ea,smoke_flipbook_ipct_u.mat,Tiny.V6.1,141953433,3690
+99415c3d194133d9,smoke_flipbook_ipct_dark_r.mat,Tiny.VB.1,143972009,48312
+cd90be5939ef1a12,smoke_flipbook_ipct_dark_u.mat,Tiny.VA.1,142657992,3692

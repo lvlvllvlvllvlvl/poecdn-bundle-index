@@ -1,3 +1,0 @@
-arena_orb
-arena_orb/idle_01
-zone

@@ -1,9 +1,0 @@
-avenging_shade
-avenging_shade/cross
-retaliation
-retaliation/epk
-retaliation/vines
-static_discharge
-static_discharge/discharge
-static_discharge/mod_aura
-static_discharge/summon

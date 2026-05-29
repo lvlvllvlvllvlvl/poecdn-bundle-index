@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-c2492f9b4b99e512,smoke_r.mat,Tiny_11,35890183,14360
-5ad48c5b381034dd,smoke_u.mat,Tiny_11,35904543,2750
-2d5da87fd86fc9c1,poison_shimmer_r.mat,Tiny_11,35874155,8502
-250779f7d20045a8,poison_shimmer_u.mat,Tiny_11,35882657,7526
-58c2a975cbb79167,flame_01b_r.mat,Tiny_11,35846363,25574
-382ea7a307c3789e,flame_01b_u.mat,Tiny_11,35871937,2218
-d1fff165eff3bcb2,ember_01_r.mat,Tiny_11,35824841,14776
-3051914f99f6dc6c,ember_01_u.mat,Tiny_11,35839617,6746

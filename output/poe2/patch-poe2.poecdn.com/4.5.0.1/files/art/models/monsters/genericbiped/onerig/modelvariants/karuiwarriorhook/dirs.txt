@@ -1,0 +1,5 @@
+attachments
+attachments/earrings
+attachments/hairfeathers
+attachments/robe
+attachments/topfeathers

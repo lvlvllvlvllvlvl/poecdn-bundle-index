@@ -1,7 +1,0 @@
-death_boss
-latern_spit
-latern_spit/poof
-mace_throw
-rock_upheaval
-rock_upheaval/aoe_beacon
-spawnthrow

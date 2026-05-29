@@ -1,8 +1,0 @@
-attachments
-attachments/female
-attachments/female/robe
-attachments/female/robe/attachments
-attachments/male
-attachments/male/robe
-attachments/male/robe/attachments
-textures

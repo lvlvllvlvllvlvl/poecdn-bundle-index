@@ -1,0 +1,12 @@
+new
+skeletalknight
+skeletalknight/beltaccessories
+skeletalknight/halberd
+skeletalknight/lshoulderpads
+skeletalknight/rshoulderpads
+skeletalknight/shield
+skeletalknight/skirt
+skeletalknight/thighguards
+swordskeletonupdate
+swordskeletonupdate/cloak
+swordskeletonupdate/clothloin

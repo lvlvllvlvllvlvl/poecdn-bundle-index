@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-c12f509fc5c687e0,end_basecyl.pet,Tiny_E,226281590,2784
-4c8320ac7c505145,start_basecyl.pet,Tiny_E,226315102,8100
-70bf9b14cf829346,start_midline.pet,Tiny_E,226323202,7410
-b9ca1efd28115388,start_twist.pet,Tiny_E,226330612,10460
-fda2ec4a6d06c379,loop_midline.pet,Tiny_E,344626953,8
-e6a123e132bb92ff,loop_twist.pet,Tiny_E,226295122,19980
-51c3e0b56fbe3c3f,loop_circle.pet,Tiny_E,344626953,8
-404942f1479dc486,loop_cyl.pet,Tiny_E,226284374,10748

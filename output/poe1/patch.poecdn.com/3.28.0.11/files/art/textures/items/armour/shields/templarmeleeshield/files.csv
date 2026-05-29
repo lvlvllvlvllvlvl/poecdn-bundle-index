@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+8ebd6d4edd56f5b9,templarmeleeshieldc.mat,Tiny_8,21236383,3578
+6c5149dc9d727a4f,templarmeleeshield_specular_dxt5.dds,Art/Textures/Items/armour/shields/TemplarMeleeShield,0,349700
+90f2e3ee612b5b64,templarmeleeshield_specular_dxt5.dds.header,Tiny_8,21234863,1520
+8e9654272fafe70c,templarmeleeshield_normal_dxt5.dds,Art/Textures/Items/armour/shields/TemplarMeleeShield,874324,349700
+0fdf6e2f22e8a9cc,templarmeleeshield_normal_dxt5.dds.header,Tiny_8,21233343,1520
+ddf5a34305d8b80b,templarmeleeshield_colour_dxt5.dds,Art/Textures/Items/armour/shields/TemplarMeleeShield,349700,349700
+29654d1371bfce8b,templarmeleeshield_colour_dxt5.dds.header,Tiny_8,21231823,1520
+743adffed2dd3363,templarmeleeshield_colour_bc7.dds,Art/Textures/Items/armour/shields/TemplarMeleeShield,349700,349700
+b3f5a839155b08bb,templarmeleeshield_colour_bc7.dds.header,Tiny_8,21231823,1520
+8f5ddb7f606ff7e1,templarmeleeshield_colour.dds,Art/Textures/Items/armour/shields/TemplarMeleeShield,699400,174924
+57d30f2041ed4643,templarmeleeshield_colour.dds.header,Tiny_8,21230303,1520

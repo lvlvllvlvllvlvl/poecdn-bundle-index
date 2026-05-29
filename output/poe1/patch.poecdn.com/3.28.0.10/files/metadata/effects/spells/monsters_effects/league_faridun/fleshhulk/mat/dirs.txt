@@ -1,3 +1,0 @@
-fleshboulder_explode
-fleshboulder_trail
-meteor_marker

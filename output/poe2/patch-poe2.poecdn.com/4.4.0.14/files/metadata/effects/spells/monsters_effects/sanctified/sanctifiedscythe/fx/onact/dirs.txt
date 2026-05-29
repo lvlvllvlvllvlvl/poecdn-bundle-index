@@ -1,3 +1,0 @@
-attack_01
-attack_02
-death_bwd_01

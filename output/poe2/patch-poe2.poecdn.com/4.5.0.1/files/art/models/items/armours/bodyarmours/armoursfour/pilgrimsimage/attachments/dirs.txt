@@ -1,0 +1,6 @@
+arms
+armsdex
+armsstr
+chest
+cheststr
+skirt

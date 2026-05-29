@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+41af6fb8825cbc3f,static02_7x7.mat,Tiny_7,26254737,1786
+323d8762c353a526,static02_7x7_dxt1.dds,Art/particles/monster_particles/League_Synthesis_77,1704656,2796364
+44bb2b2c8512475e,static02_7x7_dxt1.dds.header,Tiny_7,26466667,1520
+e83b6afac796df1d,neuroveins_radial_7x7.mat,Tiny_7,26251103,3634
+2cf67228ecdba9a6,neuroveins_radial_7x7_dxt1.dds,Art/particles/monster_particles/League_Synthesis_109,0,11184972
+bbcf5de8b5e6c5ee,neuroveins_radial_7x7_dxt1.dds.header,Tiny_7,26401325,1520
+6580a6141356f2aa,core_solid.mat,Tiny_7,26248883,2220
+5d56af9a8b26ba61,core_solid_dxt1.dds,Tiny_8,36372866,332
+9ad96ac5ba3e2c3a,core_solid_dxt1.dds.header,Tiny_8,36373198,1520
+296af75a11e79517,circle_flare_add.mat,Tiny_7,26245581,1782
+9922e4cb14b0dc8e,circle_flare_add_dxt1.dds,Art/particles/monster_particles/League_Synthesis_64,0,43852
+d60d6dfa05633346,circle_flare_add_dxt1.dds.header,Tiny_7,26247363,1520

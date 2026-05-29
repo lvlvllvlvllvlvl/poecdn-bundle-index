@@ -1,5 +1,0 @@
-on_act
-on_act/lightning_bolts_01
-on_act/spell_aoe_01
-staff
-volatile_proj_01

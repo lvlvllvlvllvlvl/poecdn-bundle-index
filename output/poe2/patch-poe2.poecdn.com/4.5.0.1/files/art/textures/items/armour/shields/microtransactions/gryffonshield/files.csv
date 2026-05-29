@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+05854c2fe29532ba,gryffon_shieldcns.mat,Tiny.VD.1,373063,4964
+b19f626ed39a641a,gryffon_shieldns.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.gryffon_shield.fmt,650936,174948
+b0514286e63cd5e3,gryffon_shieldns.dds.header,Tiny.V5.1,347996,840
+64305801bc2bd41d,gryffon_shield_specular_dxt5.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.gryffon_shield.fmt,475988,174948
+84974ffbac425697,gryffon_shield_specular_dxt5.dds.header,Tiny.V0.1,849250,840
+57d9cbca07e11646,gryffon_shield_normal_dxt5.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.gryffon_shield.fmt,301040,174948
+a3f814c99619513b,gryffon_shield_normal_dxt5.dds.header,Tiny.V5.1,347156,840
+364caf0cc02d1060,gryffon_shield_colour_bc7.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.gryffon_shield.fmt,126092,174948
+e7eee2f9b0d7d5a4,gryffon_shield_colour_bc7.dds.header,Tiny.V4.1,860016,840
+ada2847514607bb8,gryffon_shield_colour.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.gryffon_shield.fmt,38544,87548
+92a4b1cb29e1cc35,gryffon_shield_colour.dds.header,Tiny.VA.1,562121,840

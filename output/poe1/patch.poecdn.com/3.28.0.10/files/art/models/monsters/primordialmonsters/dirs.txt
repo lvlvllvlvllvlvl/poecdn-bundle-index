@@ -1,5 +1,0 @@
-primordialmonster1
-primordialmonster1/attachments
-primordialmonster1/attachments/yellowfungus
-primordialmonster1/textures
-primordialmonster2

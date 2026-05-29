@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8c2344c760adc9fb,streak_add.mat,Tiny.VE,33865308,2538
+639877a0bb9426c2,streak_add.dds,Streaming/Content/metadata/particles/blight/channelling/loop_line.pet,98672,43852
+a00a60b436646eb6,streak_add.dds.header,Tiny.VB,34366375,1520
+9ab20bbbf7f00ea1,light_gradient.mat,Tiny.V3,33765734,2596
+1929305fba57bb9b,light_gradient.dds,Streaming/Content/metadata/particles/blight/channelling/loop_line.pet,87588,11084
+9b4c8714eb3a8bb4,light_gradient.dds.header,Tiny.V4,6192153,1520
+8365a2b14bdf6974,half_pulse_at.mat,Tiny.VB,34363709,2666
+90e11b0b0d52049a,half_pulse_at.dds,Streaming/Content/metadata/particles/blight/channelling/loop_line.pet,0,87588
+daa06bd74a941dfe,half_pulse_at.dds.header,Tiny.V0,41861275,504
+1423156ff18b0258,trail_streak_multi.mat,Tiny.VB,34367895,1924
+f7d1cce00ceae0e4,trail_streak_multi.dds,Streaming/Content/metadata/effects/spells/spear_wall/A2423F3D01E7A113.spear_stab.pet,650298,174948
+71d3c9cc997d3ba0,trail_streak_multi.dds.header,Tiny.VF,39479701,840
+e109e4514f3d1ef9,trail_streak_add.mat,Tiny.V4,34522330,2200
+0e0c45e3d65b2ce0,trail_streak_add.dds,Streaming/Content/metadata/effects/spells/spear_wall/A2423F3D01E7A113.spear_stab.pet,562750,87548
+a89965670ac4e1cf,trail_streak_add.dds.header,Tiny.V6,41806050,840

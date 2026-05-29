@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+1ceaf46b275b4e16,flash_core_r.mat,Tiny.V9.1,9671018,21856
+84f42f49691c27f7,smoke_wave_r.mat,Tiny.V8.1,9896950,31008
+dfd07e4ff2f3662e,bnpnt_emit_u.mat,Tiny.V2.1,200117627,1486
+1ca0202a55903f5e,verisium_sprites_r.mat,Tiny.V3.1,10184221,45314
+dc629293e7979c9e,verisium_sprites_u.mat,Tiny.V1.1,7643264,11834
+f06f7b51ca695d96,groundrune_r.mat,Tiny.V0.1,9105020,48384
+2580e4b710143f56,groundrune_u.mat,Tiny.V2.1,8895562,1550
+27f7b92431134f2c,explode_stunoomph_01_r.mat,Tiny.VD.1,146424224,36480
+6a7c8b87e2602ea0,energy_buildup_r.mat,Tiny.V7.1,9644366,58432
+2caa251513965e15,energy_buildup_u.mat,Tiny.VF.1,8941072,2598
+8703d48d7aa825ea,aoe_afterglow_01_r.mat,Tiny.V5.1,6398866,28348
+7bb48f6f0babb87c,aoe_sparks_01_r.mat,Tiny.VF.1,8909144,31928
+5d160cc0ef5157c5,aoe_sparks_01_u.mat,Tiny.V1.1,7610598,32666
+9309051e96e3a4f6,aoe_bluroomph_u.mat,Tiny.VC.1,11416675,2442
+6e821581ccde23ef,aoe_bluroomph_r.mat,Tiny.VF.1,144366594,11508

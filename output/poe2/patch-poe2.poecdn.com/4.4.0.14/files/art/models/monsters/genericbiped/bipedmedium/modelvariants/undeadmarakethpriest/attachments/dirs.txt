@@ -1,9 +1,0 @@
-helmet
-hood
-hoodmetalpriest
-necklace
-skirt
-skirtmetalpriest
-sleeves
-sleevesmetalpriest
-weapon

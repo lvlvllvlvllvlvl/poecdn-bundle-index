@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+0b477ac829e5ff6d,adative.mat,Tiny.VA,38960753,1584
+c8295d320479343a,adative_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/impale_spike_explode/midline_impact.pet,1836056,87556
+986a264cbe856ff2,adative_dxt5.dds.header,Tiny.VD,38894798,1520
+5a0bdeeec7062eb8,charge_24.mat,Tiny.V5,38274316,2082
+7d11b418bc7ef13f,charge_24_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/impale_spike_explode/midline_impact.pet,2011168,699300
+76b417e0da523848,charge_24_dxt5.dds.header,Tiny.V4,5609043,344
+aca5f54041217b4e,bloodmist.mat,Tiny.V7,38671124,1482
+bf25b774c8b72654,bloodmist_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/impale_spike_explode/midline_impact.pet,1923612,87556
+f0a7526a939130ec,bloodmist_dxt5.dds.header,Tiny.VB,6410579,1520
+02b05554888edd50,blood_droplets_spark.mat,Tiny.VB,39107614,1400
+27e5f809a9dd07a7,blood_droplets_spark_dxt5.dds,Tiny.V8,34162220,1540
+a0ca6705f51d0ba2,blood_droplets_spark_dxt5.dds.header,Tiny.V3,33983687,1520
+b4140c6fc24aa453,spark2_clean.mat,Tiny.V7,38672606,1622
+a2ef2a99a778d23f,spark2_clean_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/FCB4CD7DE32BEC6B.midline_pulse.pet,407140,43852
+93e318f81e24999b,spark2_clean_dxt1.dds.header,Tiny.V2,38685056,1520

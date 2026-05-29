@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+c2fb944fec4db441,smoke_r.mat,Tiny_D,191288396,33838
+89d39d04fa1c0469,smoke_u.mat,Tiny_D,191322234,10398
+264171f048177689,shockwave_blur_r.mat,Tiny_D,191253606,34790
+88c104606d6085da,shock_u.mat,Tiny_D,191251394,2212
+d1a2c698bb037cbd,rune_r.mat,Tiny_D,191237890,10306
+2f5ae74b7f4951ea,rune_u.mat,Tiny_D,191248196,3198
+0e7affaf1e2469e8,dash_glow_r.mat,Tiny_D,191139932,29558
+c63e096f5040d233,dash_glow_u.mat,Tiny_D,191169490,5828
+13c6c27b3397c804,dash_corrupted_r.mat,Tiny_D,191079122,60810
+27ff8548a126a2b9,dash_corrupted_u.mat,Tiny_D,194590206,1954
+73b9708965b10179,dashwavefront_r.mat,Tiny_D,191175318,56954
+b955060a82210c1a,dashwavefront_u.mat,Tiny_D,191232272,5618

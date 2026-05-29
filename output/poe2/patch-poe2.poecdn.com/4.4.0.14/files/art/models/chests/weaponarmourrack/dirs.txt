@@ -1,3 +1,0 @@
-karui
-karui/textures
-karui/textures/pristine

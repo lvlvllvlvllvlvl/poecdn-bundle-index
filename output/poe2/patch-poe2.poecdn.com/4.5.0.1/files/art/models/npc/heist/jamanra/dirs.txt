@@ -1,0 +1,13 @@
+attachments
+attachments/faridunblackprince
+attachments/faridunblackprince/backattachment
+attachments/faridunblackprince/backattachment_attach
+attachments/faridunblackprince/clothback
+attachments/faridunblackprince/shawl
+attachments/faridunblackprince/skirt
+attachments/faridunblackprince/weapon
+attachments/l_sleeve
+attachments/r_sleeve
+attachments/skirt
+attachments/sword
+textures

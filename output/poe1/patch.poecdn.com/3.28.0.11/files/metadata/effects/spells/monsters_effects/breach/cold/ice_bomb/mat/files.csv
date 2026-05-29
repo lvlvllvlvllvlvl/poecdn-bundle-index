@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+28f1f77e50148182,explode_blur_r.mat,Tiny_D,224868888,10532
+d9b131c443849615,ice_static_floor_r.mat,Tiny_D,224956930,47536
+69a88df94e6bb1f0,ice_static_surface_r.mat,Tiny_D,225004466,19758
+2910e2f48923e5f3,ice_static_u.mat,Tiny_D,225024224,4444
+a4f2d56cca33bf9d,ice_static_corebreach_r.mat,Tiny_D,224933738,23192
+d55b091c4c68c798,ice_static_core_r.mat,Tiny_D,224909364,24374
+c784287dd2d63497,ice_smoke_r.mat,Tiny_D,224879420,27966
+c37bdd12af06134b,ice_smoke_u.mat,Tiny_D,224907386,1978
+9043f54b22ca6931,blur_windup_u.mat,Tiny_D,224536130,3218
+15d48bd1885663dc,bnpnt_emit_u.mat,Tiny_11,127344428,346
+6acbc4ff990943be,breach_portal_r.mat,Tiny_D,224539348,38588
+7479c6143be129c0,breach_shockwave_r.mat,Tiny_D,224577936,32460

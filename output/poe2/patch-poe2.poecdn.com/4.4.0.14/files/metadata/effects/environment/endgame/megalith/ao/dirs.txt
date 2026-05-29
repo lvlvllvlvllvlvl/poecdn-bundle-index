@@ -1,2 +1,0 @@
-arena
-boss_deaths

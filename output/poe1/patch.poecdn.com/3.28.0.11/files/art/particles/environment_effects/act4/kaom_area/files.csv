@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+5a1a974792528fc6,smoke_02.mat,Tiny_6,26182497,2288
+5247d6b0bfca493a,smoke_02.dds,Folders/art/particles/environment_effects/breach,0,43876
+2e2dccc137aa83cb,smoke_02.dds.header,Tiny_6,116490130,840
+9402598450c0f73c,poison_shimmer.mat,Tiny_6,26180411,2086
+20e7981a05f9d16d,poison_shimmer.dds,Folders/art/particles/environment_effects/act4_1,0,349700
+569f7190cb946baf,poison_shimmer.dds.header,Tiny_7,39696362,1520
+a851cec5eb1b5023,ember_dark.mat,Tiny_6,26169071,1178
+25da53e98a589289,ember_dark.dds,Art/particles/environment_effects/act4_6,2796872,5636
+1b9cd67381f8fcf3,ember_dark.dds.header,Tiny_7,54693941,1520
+e02dc3b214bc4c09,ember.mat,Tiny_6,26166287,2784
+b8fc05b924e80d57,ember.dds,Art/particles/environment_effects/act4_6,2802508,22020
+87720761e5818094,ember.dds.header,Tiny_6,26164767,1520

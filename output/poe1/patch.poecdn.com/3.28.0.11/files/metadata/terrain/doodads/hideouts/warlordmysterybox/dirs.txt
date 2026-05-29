@@ -1,0 +1,4 @@
+misery
+miserybuildingsupplies
+sufferingbuildingsupplies
+sufferingobjects

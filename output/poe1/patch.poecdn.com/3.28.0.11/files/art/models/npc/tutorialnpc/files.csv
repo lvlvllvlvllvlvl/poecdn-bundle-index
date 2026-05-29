@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+f962d12fa2f7c12d,tutorialnpc.sm,Tiny_3,14770462,410
+da6d24c9e0f5abf4,tutorialnpc.fmt,Art/Models/NPC/TutorialNPC,337889,137721
+5cd7503248a02036,tutorialnpc.fmt.header,Tiny_3,14770308,154
+01e58adaa6e3f5a4,rig_9dff2062.smd,Art/Models/NPC/TutorialNPC,167021,170868
+982336b46484c8d7,rig_9dff2062.smd.header,Tiny_3,14769940,368
+fc8da8ce1256447d,rig.amd,Tiny_3,14769696,244
+60ded3e77e9e2584,rig.ast,Art/Models/NPC/TutorialNPC,82515,84506
+0b5821cf6b90a2d8,femaletutorialnpc.fmt,Art/Models/NPC/TutorialNPC,0,82515
+9b8ae01fe3c0824f,femaletutorialnpc.fmt.header,Tiny_3,14769535,161

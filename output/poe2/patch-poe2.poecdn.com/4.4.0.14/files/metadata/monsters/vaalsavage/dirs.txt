@@ -1,6 +1,0 @@
-attachments
-attachments/vaalsavagegiant
-attachments/weapon
-bonewall
-boss_objects
-effigy

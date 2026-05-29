@@ -1,7 +1,0 @@
-attachments
-attachments/cape
-attachments/skirt
-fx
-fx/mb
-fx/texture
-textures

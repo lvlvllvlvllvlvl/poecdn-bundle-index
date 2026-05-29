@@ -1,4 +1,0 @@
-isla
-isla_glyph
-isla_greeting
-isla_wild

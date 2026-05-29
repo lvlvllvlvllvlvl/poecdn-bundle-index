@@ -1,4 +1,0 @@
-abyss
-floor
-ledge
-walls

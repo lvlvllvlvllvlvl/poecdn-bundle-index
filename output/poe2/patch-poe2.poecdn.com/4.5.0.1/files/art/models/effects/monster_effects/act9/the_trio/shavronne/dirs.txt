@@ -1,0 +1,11 @@
+brutus_slam
+brutus_slam/brute_lightningslam
+brutus_slam/poof
+lightning_cyclone
+lightning_mortar
+lightning_mortar/impact
+lightning_mortar/projectile
+storm_burst
+ultimate_ball_lightning
+ultimate_ball_lightning/outer_orb
+ultimate_ball_lightning/projectile

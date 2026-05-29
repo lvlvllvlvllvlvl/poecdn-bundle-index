@@ -1,6 +1,0 @@
-mat
-mat/wall
-mat/wall/submerge
-pet
-pet/wall
-pet/wall/submerge

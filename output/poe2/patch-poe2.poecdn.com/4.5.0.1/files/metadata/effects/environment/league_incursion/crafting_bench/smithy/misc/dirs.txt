@@ -1,0 +1,7 @@
+fx
+mat
+mat/ambient_room
+mat/forge_01
+mat/forge_02
+mat/forge_03
+mat/smithylevel_03

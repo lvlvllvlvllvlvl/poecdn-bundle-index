@@ -1,3 +1,0 @@
-hit
-onhit
-surge

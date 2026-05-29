@@ -1,4 +1,0 @@
-attachments
-attachments/head
-attachments/noose
-textures

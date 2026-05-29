@@ -1,9 +1,0 @@
-attachments
-audio
-epks
-fx
-fx/ancestral_boost
-graphs
-mats
-mats/ancestral_boost
-onacts

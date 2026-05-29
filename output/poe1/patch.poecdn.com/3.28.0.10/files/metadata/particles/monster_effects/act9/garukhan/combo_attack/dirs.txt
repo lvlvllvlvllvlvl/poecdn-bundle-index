@@ -1,4 +1,0 @@
-claw_stab
-on_act
-shield_nova
-sword_slash

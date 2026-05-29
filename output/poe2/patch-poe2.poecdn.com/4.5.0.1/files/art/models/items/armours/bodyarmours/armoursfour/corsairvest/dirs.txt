@@ -1,0 +1,11 @@
+attachments
+attachments/belt
+attachments/belt/female
+attachments/belt/male
+attachments/chest_string
+attachments/chest_string/female
+attachments/chest_string/male
+attachments/skirt
+attachments/skirt/female
+attachments/skirt/male
+textures

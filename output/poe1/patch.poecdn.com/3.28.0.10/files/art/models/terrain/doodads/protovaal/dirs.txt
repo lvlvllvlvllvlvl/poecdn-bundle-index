@@ -1,3 +1,0 @@
-lights
-lights/hideoutgroundlight
-lights/hideoutpowersource

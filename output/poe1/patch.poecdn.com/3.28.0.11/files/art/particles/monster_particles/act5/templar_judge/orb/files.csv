@@ -1,0 +1,37 @@
+hash,file,bundle,offset,size
+e2d57a8a1c4d689d,strike_01c.mat,Tiny_6,62820977,2576
+c91aca3c139565f0,strike_01.dds,Art/particles/monster_particles/act5_19,1243004,87548
+87b72e86332f8589,strike_01.dds.header,Tiny_6,62820137,840
+08bcc38de1c13cee,rainbow.mat,Tiny_6,62818627,1510
+372945e0c92b1724,rainbow.dds,Art/particles/monster_particles/act5_19,1680284,22020
+fc361ddfb9088f4d,rainbow.dds.header,Tiny_6,62817107,1520
+d7038e6385347ce1,pulse.mat,Tiny_6,62815165,1942
+85a59e58d9675477,pulse.dds,Art/particles/monster_particles/act5_19,2751304,22020
+97078aa658f35296,pulse.dds.header,Tiny_6,62813645,1520
+54696773f83ce0cb,light_gradient.mat,Tiny_6,62801705,1552
+1ccb0be4577d7c50,light_gradient.dds,Art/particles/monster_particles/act5_19,2773324,22020
+0710ed840d61e422,light_gradient.dds.header,Tiny_6,87315849,1520
+ccaa189cca21e1e0,light_gradient 2.mat,Tiny_6,62800139,1566
+5466dfaa0df25563,light_gradient 2.dds,Art/particles/monster_particles/act5_19,1231920,11084
+dc579ffc5e2fb9b3,light_gradient 2.dds.header,Tiny_7,51260461,1520
+1d236fd2bf050947,lightningc.mat,Tiny_6,62811089,2556
+2749d463e75a765e,lightning_random_glowy.mat,Tiny_6,62809107,1982
+c48845f87d52c39e,lightning_random_glowy.dds,Art/particles/monster_particles/act5_19,2882900,349732
+4a2850c34e2ac4cf,lightning_random_glowy.dds.header,Tiny_6,62808603,504
+35f72ea8e681972e,lightning_random.mat,Tiny_6,62806887,1716
+555732e3f48473de,lightning_random.dds,Art/particles/monster_particles/act5_19,1330552,349732
+452c27fe845dd80c,lightning_random.dds.header,Tiny_6,62806383,504
+a1b8c5538e8bd93e,lightning_bolts.mat,Tiny_6,62804105,2278
+ab757048ecb7ba8d,lightning_bolts.dds,Art/particles/monster_particles/act5_19,3254652,349732
+1ae0d603c2beadcd,lightning_bolts.dds.header,Tiny_6,62803601,504
+81fb31d3fc90f5cf,lightning.dds,Art/particles/monster_particles/act5_19,1702304,699300
+ba5e588c3465f255,lightning.dds.header,Tiny_6,62803257,344
+26d598bc8a148531,impact_swirl 2.mat,Tiny_6,62798457,1682
+1ff0307139b2999e,impact_swirl 2.dds,Art/particles/monster_particles/act5_19,3232632,22020
+0751b86548e11336,impact_swirl 2.dds.header,Tiny_6,62796937,1520
+e7a55c7cb1ae52f3,core_01.mat,Tiny_6,62795047,1890
+d6b76a05e58dab7a,core_01.dds,Art/particles/monster_particles/act5_19,2401604,349700
+1b8f0a28378ff8a7,core_01.dds.header,Tiny_6,62793527,1520
+1f682959b866fbe1,blink_spiral_bigger.mat,Tiny_6,62791607,1920
+9f17c2d64b200ce0,blink_spiral_bigger.dds,Art/particles/monster_particles/act5_19,2795344,87556
+e14c50a967d07033,blink_spiral_bigger.dds.header,Tiny_6,62790087,1520

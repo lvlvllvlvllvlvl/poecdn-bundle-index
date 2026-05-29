@@ -1,9 +1,0 @@
-default
-default/ao
-default/pet
-magma
-magma/ao
-magma/pet
-purple
-purple/ao
-purple/pet

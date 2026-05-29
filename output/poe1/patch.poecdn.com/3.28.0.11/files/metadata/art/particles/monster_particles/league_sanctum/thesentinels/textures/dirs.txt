@@ -1,0 +1,9 @@
+cascade_ground_slam
+ground_slam_02
+leap_slam_circular
+multislam_01
+multislam_02
+onact
+soulrend
+soulrend_impact
+volatile_dead

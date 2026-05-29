@@ -1,7 +1,0 @@
-g3_12
-g3_12/sun
-g3_12/sun/textures
-g3_12/sun/textures/sun2
-g3_6_2
-g3_6_2/textures
-g3_6_2/textures/generator

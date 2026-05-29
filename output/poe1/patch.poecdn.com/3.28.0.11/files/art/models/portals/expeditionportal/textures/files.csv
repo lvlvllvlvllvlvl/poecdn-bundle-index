@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+fbb9e72a8192c149,expeditionportalc.mat,Tiny_6,118723444,2578
+e2a699cdef6bd40a,expeditionportal_normal_dxt5.dds,Art/Models/Portals/ExpeditionPortal/Textures_2,0,1398276
+9aa98b0d822e36e6,expeditionportal_normal_dxt5.dds.header,Tiny_3,22516920,1520
+2dff6135e317a8c9,expeditionportal_glowrunes_dxt1.dds,Art/Models/Portals/ExpeditionPortal/Textures_1,174924,174924
+3a5260905e37614c,expeditionportal_glowrunes_dxt1.dds.header,Tiny_3,22515400,1520
+eec1ed44e0f0d3c2,expeditionportal_glowgray_dxt1.dds,Art/Models/Portals/ExpeditionPortal/Textures_1,0,174924
+9e62e303abd1fd49,expeditionportal_glowgray_dxt1.dds.header,Tiny_3,22513880,1520
+e1d67b8e31801ce9,expeditionportal_colour_dxt5.dds,Art/Models/Portals/ExpeditionPortal/Textures,0,1398276
+4d5073725f7a5a16,expeditionportal_colour_dxt5.dds.header,Tiny_3,22512360,1520

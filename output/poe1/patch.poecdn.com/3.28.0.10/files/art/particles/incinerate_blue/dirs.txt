@@ -1,4 +1,0 @@
-cone_02
-handfx
-pulse
-stages_signalling

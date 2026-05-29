@@ -1,4 +1,0 @@
-astrolabe_fx
-fx_ao
-graphs
-pet

@@ -1,0 +1,6 @@
+fx
+fx/core_explosion_01
+fx/explosion_01
+mat
+mat/core_explosion_01
+mat/explosion_01

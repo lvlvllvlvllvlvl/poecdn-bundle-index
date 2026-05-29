@@ -1,0 +1,4 @@
+fx
+on_act
+on_act/hover_tail_posion_missile_01
+on_act/hover_tail_posion_missile_01/pet

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+f755b13a9def4880,edge_glow.mat,Tiny.VA,34500020,2228
+9f349d74e3f67579,edge_glow.dds,Streaming/Content/metadata/particles/human_heart/top.pet,285212,43876
+e2eb83f085079231,edge_glow.dds.header,Tiny.VE,33953575,840
+ca4fbf3ca9882d4f,nonormal_dxt5.dds,Tiny.V0,4340884,516
+1acd7c6595fd1fad,nonormal_dxt5.dds.header,Tiny.VD,4173578,1520
+ffb844db9e72e35a,multi_base.mat,Tiny.V5,33915878,1892
+fd5fcb351884a0c1,multi_base.dds,Streaming/Content/metadata/particles/monster_effects/league_heist/286BDD53F5B39DDD.76004993FA558ADA.ball_lightning_zap.pet,3040463,43876
+01c3f2f780b81603,multi_base.dds.header,Tiny.V4,34602184,840
+ba06fab49a397129,slash_base.mat,Tiny.V9,34703354,3748
+7c069b916dab8b0c,slash_base.dds,Streaming/Content/metadata/effects/spells/monsters_effects/3DE837864F1D2D66.hourglass_vortex_01.pet,61266,87556
+078e10b4a345ed5c,slash_base.dds.header,Tiny.VD,34479076,1520

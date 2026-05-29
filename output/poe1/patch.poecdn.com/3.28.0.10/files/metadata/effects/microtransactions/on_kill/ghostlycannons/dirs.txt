@@ -1,6 +1,0 @@
-fx
-fx/cannon
-mat
-mat/cannon
-mat/explosion
-mat/sml_explosion

@@ -1,5 +1,0 @@
-mb
-mb/act
-mb/lights
-mb/mirror
-tex

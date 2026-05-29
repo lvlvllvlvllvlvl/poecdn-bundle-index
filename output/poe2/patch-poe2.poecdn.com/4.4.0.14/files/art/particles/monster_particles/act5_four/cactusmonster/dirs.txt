@@ -1,5 +1,0 @@
-mb
-mb/basic_projectile
-mb/basic_projectile/animations
-textures
-textures/basic_projectile

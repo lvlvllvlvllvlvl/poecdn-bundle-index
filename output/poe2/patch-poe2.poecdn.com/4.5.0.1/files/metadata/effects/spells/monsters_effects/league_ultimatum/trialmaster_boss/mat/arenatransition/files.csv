@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+0c59124932f5a315,oomph_blur_r.mat,Tiny.VA.1,122985224,14068
+a7e585fdb3e5f51e,oomph_blurshockwave_r.mat,Tiny.V7.1,119832444,16654
+3e358cd2117fcfb8,bnpnt_emit_u.mat,Tiny.VD.1,5332868,346
+daa2d6cf68045b15,blur_shake_r.mat,Tiny.V7.1,157704148,18894
+f971e727be455240,arenatransition_darken_r.mat,Tiny.VB.1,160118541,4030
+964012a42ae125f0,arenatransition_wall_r.mat,Tiny.V9.1,162280276,68602
+480b8ff6e9c10714,arenatransition_grd_r.mat,Tiny.V1.1,159259646,84904
+6a7a1530b440a778,arenatransition_grd_coverupblackwave_r.mat,Tiny.VF.1,158232408,36904
+8fd6818969aaab8c,arena_oldin_pass0.mat,Tiny.VE.1,158412922,4640
+543c16ceb8f3d4e2,arena_oldout_pass0.mat,Tiny.V1.1,159255598,4048
+93b7cf30acdbf139,arena_newout_pass0.mat,Tiny.V2.1,162307980,9602
+aaff1b951f7d659c,arena_newout_pass1.mat,Tiny.V4.1,160144546,39188
+b3077559bb1b400f,arena_newin_pass0.mat,Tiny.V0.1,160082988,5734
+9a6ee506ade816b4,arena_newin_pass1.mat,Tiny.VF.1,158193192,39216

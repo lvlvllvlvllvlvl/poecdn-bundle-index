@@ -1,8 +1,0 @@
-abyss
-abyss/fills
-dungeon
-dungeon/1x1
-dungeon/1x2
-dungeon/2x2
-dungeon/3x3
-unique

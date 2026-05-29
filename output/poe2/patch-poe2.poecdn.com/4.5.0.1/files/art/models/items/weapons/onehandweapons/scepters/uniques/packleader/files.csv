@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+f10481ae802701ad,rig.amd,Tiny.V0,9197093,134
+89dfd53ca4c1d538,rig.ast,Tiny.V4,11472021,3037
+ff8ad6d24eea5721,rig_9f2d7b07.smd,Streaming/Content/metadata/items/weapons/onehandweapons/52DC2BB67EEBEC75.605D4EEF3B202877.packleaderheld.ao,0,626585
+d6d52437767d7a17,rig_9f2d7b07.smd.header,Tiny.V1,11306626,1846
+2273c88660b346e3,rig_21a18082.smd,Streaming/Content/metadata/items/weapons/onehandweapons/52DC2BB67EEBEC75.605D4EEF3B202877.packleaderdrop.ao,0,626585
+f27e529987c1276c,rig_21a18082.smd.header,Tiny.VE,11383456,1846
+fd95e7496eb8b3e4,packleader.sm,Tiny.V3,11337738,810
+e679eeea31a7361b,packleaderdrop.sm,Tiny.V2,11577151,788
+cd034073f1391fae,packleaderdrop.amd,Tiny.VA,9303815,226
+4b57b633565e150f,packleaderdrop.ast,Content/metadata/items/weapons/twohandweapons/twohandswords/6A4975C9B021D8A4.voidforge_atlaspassfour_2hsword.ao,825668,4266

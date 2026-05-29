@@ -1,6 +1,0 @@
-attachments
-attachments/neck_feathers
-attachments/neck_feathers_01
-attachments/neck_feathers_02
-attachments/neck_feathers_03
-attachments/neck_feathers_04

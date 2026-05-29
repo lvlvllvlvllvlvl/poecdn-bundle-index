@@ -1,6 +1,0 @@
-attachments
-fx
-fx/graph
-fx/mat
-fx/mat/gold
-fx/pet

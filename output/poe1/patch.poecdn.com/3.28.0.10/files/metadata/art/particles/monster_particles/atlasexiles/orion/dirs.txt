@@ -1,4 +1,0 @@
-death_projectile
-fusion_beam
-on_act
-on_act/death

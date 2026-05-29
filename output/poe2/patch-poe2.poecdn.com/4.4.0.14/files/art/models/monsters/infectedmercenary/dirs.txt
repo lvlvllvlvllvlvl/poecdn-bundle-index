@@ -1,5 +1,0 @@
-animations
-animations/crossbow
-armours
-attachments
-attachments/shovel

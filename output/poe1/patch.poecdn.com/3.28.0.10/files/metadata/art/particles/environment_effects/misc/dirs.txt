@@ -1,3 +1,0 @@
-itemfilter_drop
-itemfilter_drop/darkgreyitem
-itemfilter_drop/reditem

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+53ea5b3449d76efe,rig_d0db5d14.smd,Art/Models/Misc/portals/MadcapPortal,432641,261808
+a6b09074b3e2dd11,rig_d0db5d14.smd.header,Folders/art/models/terrain/islands/tiles/twilightisland_C4,2588739,5049
+dc3cc7288db8c0ca,rig.amd,Tiny_2,74252935,272
+d1814faeae29b635,rig.ast,Art/Models/Misc/portals/MadcapPortal,364849,67792
+65c40ed34add2f59,madcapportal.sm,Tiny_2,74251947,710
+84db8e8e10aba78b,madcapportal_model.fmt,Art/Models/Misc/portals/MadcapPortal,0,364849
+012e5dcfaf288b11,madcapportal_model.fmt.header,Tiny_2,74252657,278
+6dc7398f473dab22,light_madcapportal.amd,Tiny_7,11409807,94
+e9fc04e5175adb04,light_madcapportal.ast,Tiny_2,74251132,815

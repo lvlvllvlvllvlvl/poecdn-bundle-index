@@ -1,4 +1,0 @@
-helmet
-helmet/attachments
-hood
-hood/attachment

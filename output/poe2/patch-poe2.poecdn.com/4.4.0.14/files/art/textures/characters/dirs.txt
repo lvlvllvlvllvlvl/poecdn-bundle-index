@@ -1,9 +1,0 @@
-adventurer
-hunter
-ranger
-scion
-swordsman
-templar
-trickster
-warrior
-witch

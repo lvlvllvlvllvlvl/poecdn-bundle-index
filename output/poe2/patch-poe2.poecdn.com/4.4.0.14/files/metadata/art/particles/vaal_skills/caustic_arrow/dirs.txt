@@ -1,3 +1,0 @@
-celestial
-celestial/textures
-celestial/textures/large_projectile

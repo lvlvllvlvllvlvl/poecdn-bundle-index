@@ -1,4 +1,0 @@
-attachments
-attachments/intb
-attachments/strdex
-attachments/strint

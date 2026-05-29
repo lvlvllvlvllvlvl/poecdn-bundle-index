@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+72ce3780442a4b82,firefox_normal_dxt5.dds,Art/Textures/Pet/RedFox/firefox,87556,87556
+43880570efa225bd,firefox_normal_dxt5.dds.header,Tiny_8,49697542,1520
+98b3b9c1548f03c2,firefox_fxc.mat,Tiny_8,49695322,2220
+f9ea52d4801a55d1,firefox_fx_colour_dxt5.dds,Art/Textures/Pet/RedFox/firefox,0,87556
+202c617c2370da5f,firefox_fx_colour_dxt5.dds.header,Tiny_8,49693802,1520
+ce4bbba118c87d5e,firefox_fx_colour.dds,Art/Textures/Pet/RedFox/firefox,0,87556
+ea92a4d475d0f418,firefox_fx_colour.dds.header,Tiny_8,49693802,1520
+a022ce6340b100cb,firefox_colour_dxt5.dds,Art/Textures/Pet/RedFox/firefox,175112,87556
+bc2a3cc840dd15eb,firefox_colour_dxt5.dds.header,Tiny_8,49692282,1520
+8ce47c5f26a6aa8c,firefox_colour.dds,Art/Textures/Pet/RedFox/firefox,175112,87556
+fcd4404423e3ee3c,firefox_colour.dds.header,Tiny_8,49692282,1520
+a126b37267b22bb4,firefoxns.dds,Art/Textures/Pet/RedFox/firefox,262668,87556
+df628d67bc84aec2,firefoxns.dds.header,Tiny_8,49703174,1520
+a26cc72c4374c628,firefoxc.mat,Tiny_8,49699062,1542
+f9768e8d3266a39d,firefoxcns.mat,Tiny_8,49700604,2570

@@ -1,0 +1,34 @@
+french
+german
+japanese
+korean
+portuguese
+russian
+screenshots
+screenshots/panel2
+screenshots/panel3
+screenshots/panel4
+screenshots/panel8
+screenshots/panel8/french
+screenshots/panel8/german
+screenshots/panel8/japanese
+screenshots/panel8/korean
+screenshots/panel8/portuguese
+screenshots/panel8/russian
+screenshots/panel8/spanish
+screenshots/panel8/thai
+screenshots/panel8/traditional chinese
+screenshots/panel9
+screenshots/panel9/french
+screenshots/panel9/german
+screenshots/panel9/japanese
+screenshots/panel9/korean
+screenshots/panel9/portuguese
+screenshots/panel9/russian
+screenshots/panel9/spanish
+screenshots/panel9/thai
+screenshots/panel9/traditional chinese
+simplified chinese
+spanish
+thai
+traditional chinese

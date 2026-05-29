@@ -1,0 +1,6 @@
+attachments
+attachments/necklace
+attachments/shawl_optimised
+attachments/skirt_optimised
+attachments/sleeve_optimised
+attachments/weapon

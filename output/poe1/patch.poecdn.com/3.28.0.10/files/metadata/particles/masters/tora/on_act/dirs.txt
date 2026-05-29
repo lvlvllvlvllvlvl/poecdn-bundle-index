@@ -1,4 +1,0 @@
-butterfly_fire
-charge_rain_bow_01
-dash_spray_bow_01
-snipe_bow_01

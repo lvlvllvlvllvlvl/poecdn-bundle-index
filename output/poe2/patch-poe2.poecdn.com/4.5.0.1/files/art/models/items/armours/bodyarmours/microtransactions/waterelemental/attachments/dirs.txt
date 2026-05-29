@@ -1,0 +1,7 @@
+droplets
+droplets/female
+droplets/male
+helmetspout
+helmetspout/female
+helmetspout/male
+skirt

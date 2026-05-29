@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+af19c2f89b0a83f8,groundslam.ao,Tiny_D,415323852,6408
+ab4bd39b755045ac,impact_aoe.ao,Tiny_D,415330260,3816
+18b889403e5f1486,melee_thrust.ao,Tiny_D,415334076,2680
+d0a3e2adfcbba7c5,shield_charge.ao,Tiny_D,415343526,3442
+d80ca39d585d35fb,slash.ao,Tiny_D,415346968,3722
+8199d3478ba75ab2,onact_attack_02.ao,Tiny_D,415336756,2582
+7d1347d63e20ecd3,onact_dash_stab.ao,Tiny_D,415339338,4188
+508acf280061a2b0,doublespin.ao,Tiny_D,415319008,4844
+6b50042c1ca24fcb,dash_stab.ao,Tiny_D,415315396,3612
+fffd842eb0d0b9d7,dash_beam_impact.ao,Tiny_D,415313328,2068
+c50a7209ff652962,dash_beam_01.ao,Tiny_D,415306410,2306
+25da03a1ea54c04e,dash_beam_02.ao,Tiny_D,415308716,2306
+02240a7a064ef940,dash_beam_03.ao,Tiny_D,415311022,2306
+e04345cd51d6aafa,alert.epk,Tiny_D,415299784,908
+1115cc57301e066e,alert_epk_pass0.mat,Tiny_D,415300692,5718

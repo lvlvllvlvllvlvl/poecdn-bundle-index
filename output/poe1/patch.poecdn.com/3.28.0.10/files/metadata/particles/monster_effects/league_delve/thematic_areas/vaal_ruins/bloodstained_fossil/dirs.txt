@@ -1,4 +1,0 @@
-blood_pulse
-bubble
-rot_pyramid
-vaal_spawner

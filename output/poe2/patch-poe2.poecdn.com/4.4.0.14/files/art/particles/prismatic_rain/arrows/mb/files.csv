@@ -1,7 +1,0 @@
-hash,file,bundle,offset,size
-a87cb9dcff33366d,shard_sleek_01.fmt,Tiny.V4,39035732,921
-5fdebb9aaa8be588,shard_sleek_01.fmt.header,Tiny.V2,38536973,176
-b21bfe6d0244991d,lightningarrow_shadonly.fmt,Tiny.V7,38596019,3157
-bb11cb83394f78d1,lightningarrow_shadonly.fmt.header,Tiny.VE,38393527,208
-f1913e6f488beb19,arrow.fmt,Streaming/Content/metadata/effects/spells/summon_relic/62AB8E6B58529D9D.healing_buff.epk,443747,14503
-321854e0e2c6319a,arrow.fmt.header,Tiny.V0,38749278,310

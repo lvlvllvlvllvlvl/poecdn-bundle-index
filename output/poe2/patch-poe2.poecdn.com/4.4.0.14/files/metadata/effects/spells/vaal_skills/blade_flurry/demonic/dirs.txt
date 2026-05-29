@@ -1,3 +1,0 @@
-fx
-fx/circular_rad
-fx/circular_rad/loop

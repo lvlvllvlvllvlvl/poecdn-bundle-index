@@ -1,2 +1,0 @@
-unstable_red
-unstable_red/map_device_discharge

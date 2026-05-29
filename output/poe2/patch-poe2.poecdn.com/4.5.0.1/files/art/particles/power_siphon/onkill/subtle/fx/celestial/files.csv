@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+181e416d5a4e437d,trail_multi.mat,Tiny.V0,41252916,3522
+b413802ef961aac6,trail_multi_dxt3.dds,Streaming/Content/metadata/particles/generic_projectiles/genericfire.pet,1309576,11108
+f9aec53da14edcb7,trail_multi_dxt3.dds.header,Tiny.V9,41678719,840
+812cd442fec8f201,wisp_es.mat,Tiny.V1,41112934,2734
+57c3196eeaddfc48,wisp_es_dxt1.dds,Streaming/Content/metadata/particles/generic_projectiles/genericfire.pet,1320684,5628
+e2a77ea41fb4d404,wisp_es_dxt1.dds.header,Tiny.VF,41096621,840
+0f4214695470d3c7,wisp_es_spin.mat,Tiny.V0,41256438,2112
+f23268ec4c23fd57,wisp_es_spin_dxt1.dds,Tiny.V9,41679559,2892
+00adea235b74bb1c,wisp_es_spin_dxt1.dds.header,Tiny.V2,41066695,1520

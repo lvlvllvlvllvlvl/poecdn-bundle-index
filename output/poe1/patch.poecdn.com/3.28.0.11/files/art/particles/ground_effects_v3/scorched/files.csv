@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+5e9b942d969a6499,gold_shatter_at.mat,Tiny_6,40697942,4540
+2486d03ff69be55a,scorched_hgt_dxt1.dds,Art/particles/ground_effects_v3/scorched_2,349700,699212
+1cb598c98d2be613,scorched_hgt_dxt1.dds.header,Tiny_6,40717550,1520
+741913f467ae025d,scorched_glo_dxt5.dds,Art/particles/ground_effects_v3/scorched_2,0,349700
+836b2e4c7e2f8d6a,scorched_glo_dxt5.dds.header,Tiny_6,40716030,1520
+84fb4ff6aec38ddd,scorched_clrc.mat,Tiny_6,40704002,12028
+04586fa01b307665,scorched_clr_dxt5.dds,Art/particles/ground_effects_v3/scorched_1,0,1398276
+34b44861acc0a404,scorched_clr_dxt5.dds.header,Tiny_6,40702482,1520
+532ba95363e91c46,flares.mat,Tiny_6,40694934,1398
+db15e19355dee1ed,flow_sparks.mat,Tiny_6,40696332,1610

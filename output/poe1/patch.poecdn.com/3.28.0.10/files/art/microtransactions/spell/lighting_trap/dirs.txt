@@ -1,5 +1,0 @@
-celestial
-celestial/explode
-celestial/groundeffects
-celestial/projectile
-celestial/projectile_noorb

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+695da27db57e9ec2,glassballc.mat,Tiny_8,31118458,6264
+fb507e12b309e1ed,waterpipec.mat,Tiny_8,31139816,2870
+b0e9936129390a0f,waterpipe_normal_dxt1.dds,Folders/art/textures/misc/portals/5/thaumaturgyscientistportal,0,43852
+b7271e6575cb0f23,waterpipe_normal_dxt1.dds.header,Tiny_8,31138296,1520
+24385bde9dea355f,thaumaturgyscientistportalc.mat,Tiny_8,31130802,7494
+c84b53a76d5260cf,thaumaturgyscientistportal_normal_dxt5.dds,Folders/art/textures/misc/portals/9/thaumaturgyscientistportal,0,349700
+85416e5eb42d10ab,thaumaturgyscientistportal_normal_dxt5.dds.header,Tiny_8,31129282,1520
+b462665249dadd77,thaumaturgyscientistportal_glow_dxt1.dds,Folders/art/textures/misc/portals/gorgon/0/fx,568852,174924
+ffaeab1319790864,thaumaturgyscientistportal_glow_dxt1.dds.header,Tiny_8,31127762,1520
+698759aa9f8d7dab,thaumaturgyscientistportal_glow2_dxt1.dds,Folders/art/textures/misc/portals/4/thaumaturgyscientistportal,0,2796364
+07d20689a527eb6a,thaumaturgyscientistportal_glow2_dxt1.dds.header,Tiny_8,31126242,1520
+fa9b1b5ec0395047,thaumaturgyscientistportal_colour_dxt5.dds,Art/Textures/Environment/Hideout/Thaumaturgy/Science_8,0,1398276
+0b20f798d4079293,thaumaturgyscientistportal_colour_dxt5.dds.header,Tiny_8,31124722,1520
+b960df75d93b320f,fx_liquidc.mat,Tiny_8,31104584,4804
+cefba648eaf770de,fx_poolc.mat,Tiny_8,31109388,9070

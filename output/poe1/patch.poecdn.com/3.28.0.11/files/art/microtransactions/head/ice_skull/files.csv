@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+229e552b34669079,spin_particles.mat,Tiny_1,26865332,1404
+8b6a0616ad626328,spin_particles.dds,Art/Microtransactions/head/ice_skull,131660,5636
+e51db197c97e9a3a,spin_particles.dds.header,Tiny_7,40253335,1520
+4ebd07c92f84a5ed,skullicemtx.amd,Tiny_6,8406105,102
+6ec8e50965cdf4d9,skullicemtx.ast,Tiny_1,27003681,430
+2146e15b590740ca,particle_rough_shapes.mat,Tiny_1,26863624,1708
+80533f8f4769d14b,particle_rough_shapes.dds,Art/Microtransactions/head/ice_skull,44072,87588
+2a97f5225d128bb2,particle_rough_shapes.dds.header,Tiny_7,40247716,504
+4e39457ccfd6c41e,ice_light_gradient.mat,Tiny_1,26862196,1428
+85fb135d285776b8,ice_light_gradient.dds,Art/Microtransactions/head/ice_skull,22052,22020
+c448bc086efcfc1e,ice_light_gradient.dds.header,Tiny_7,40244666,1520
+f08df83c7418481b,cold_smoke_tile.mat,Tiny_1,26860786,1410
+e373f059f2bb0b26,cold_smoke_tile.dds,Art/Microtransactions/head/ice_skull,0,22052
+7e15b0cf6c52cb33,cold_smoke_tile.dds.header,Tiny_7,40242290,504

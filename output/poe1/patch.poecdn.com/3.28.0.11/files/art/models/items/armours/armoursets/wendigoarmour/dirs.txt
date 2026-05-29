@@ -1,0 +1,15 @@
+attachments
+attachments/bootsrope
+attachments/braidsgreen
+attachments/glovesdangles
+attachments/hairgreen
+attachments/hairred
+attachments/skirts
+attachments/skirts/dex
+attachments/skirts/dexint
+attachments/skirts/int
+attachments/skirts/str
+attachments/skirts/strdex
+attachments/skirts/strdexint
+attachments/skirts/strint
+textures

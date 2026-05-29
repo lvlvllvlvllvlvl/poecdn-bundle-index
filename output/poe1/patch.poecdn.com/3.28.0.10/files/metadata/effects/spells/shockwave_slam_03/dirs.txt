@@ -1,5 +1,0 @@
-fx
-mat
-mat/pulse
-mat/spikes
-mat/start

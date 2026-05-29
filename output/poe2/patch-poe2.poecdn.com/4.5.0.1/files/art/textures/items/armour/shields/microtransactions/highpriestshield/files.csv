@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+e20ffe93c6ded040,fx_dxt5.dds,Streaming/Content/metadata/items/armours/shields/highpriestshielddrop.ao,0,87556
+99af9959c8d48540,fx_dxt5.dds.header,Tiny.VD.1,378027,1520
+210477c4398dabf1,highpriestshieldc.mat,Tiny.VF.1,793234,8100
+36adf3e2cc497b7b,highpriestshield_specular_dxt5.dds,Streaming/Content/metadata/items/armours/shields/highpriestshielddrop.ao,961880,349700
+bcdda0a59701f386,highpriestshield_specular_dxt5.dds.header,Tiny.VF.1,791714,1520
+65bb666f81091aa6,highpriestshield_normal_dxt5.dds,Streaming/Content/metadata/items/armours/shields/highpriestshielddrop.ao,612180,349700
+95b407f37c88062b,highpriestshield_normal_dxt5.dds.header,Tiny.VC.1,832740,1520
+ad567bed7094048a,highpriestshield_colour_bc7.dds,Streaming/Content/metadata/items/armours/shields/highpriestshielddrop.ao,262480,349700
+dd224880fd0847d7,highpriestshield_colour_bc7.dds.header,Tiny.V7.1,829042,1520
+9502f9d141730399,highpriestshield_colour.dds,Streaming/Content/metadata/items/armours/shields/highpriestshielddrop.ao,87556,174924
+daa939b41982418f,highpriestshield_colour.dds.header,Tiny.V1.1,98034,1520

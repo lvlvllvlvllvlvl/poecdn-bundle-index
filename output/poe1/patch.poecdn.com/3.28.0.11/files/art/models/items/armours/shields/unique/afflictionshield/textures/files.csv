@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+ec39b0bb9abd3d26,afflictionshieldsecondaryc.mat,Tiny_2,51878574,3052
+5724d2a25b043edd,afflictionshieldsecondary_normal.dds,Folders/art/models/items/armours/shields/unique_5,0,1398276
+a0e73addc41edbab,afflictionshieldsecondary_normal.dds.header,Tiny_2,51877054,1520
+d4d1148b071d4154,afflictionshieldsecondary_metal.dds,Folders/art/models/items/armours/shields/unique_4,699212,1398276
+117a0988ec7a3b70,afflictionshieldsecondary_metal.dds.header,Tiny_2,51875534,1520
+078afb4e24a2b247,afflictionshieldsecondary_colour.dds,Folders/art/models/items/armours/shields/unique_4,0,699212
+97931973306f4771,afflictionshieldsecondary_colour.dds.header,Tiny_2,51874014,1520
+1889ee1b6f2fe21e,afflictionshieldprimaryc.mat,Tiny_2,51871154,2860
+65b6704a2e16af05,afflictionshieldprimary_normal.dds,Folders/art/models/items/armours/shields/unique_3,0,1398276
+5bc0045d5b10c98e,afflictionshieldprimary_normal.dds.header,Tiny_2,51869634,1520
+01a3cd95b873d779,afflictionshieldprimary_metal.dds,Folders/art/models/items/armours/shields/unique_2,1051532,1398276
+89a1d0cc7bc25e5b,afflictionshieldprimary_metal.dds.header,Tiny_2,51868114,1520
+6748001e3cdef8d2,afflictionshieldprimary_colour.dds,Folders/art/models/items/armours/shields/unique_2,352320,699212
+71e16a84e8bc9dd6,afflictionshieldprimary_colour.dds.header,Tiny_2,51866594,1520

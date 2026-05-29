@@ -1,6 +1,0 @@
-minion_sacrifice_orb
-minion_sacrifice_orb/fx
-minion_sacrifice_orb/mat
-pacify_orb
-pacify_orb/fx
-pacify_orb/mat

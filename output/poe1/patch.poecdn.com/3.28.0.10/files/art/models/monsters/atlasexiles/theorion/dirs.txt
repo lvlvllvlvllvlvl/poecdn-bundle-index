@@ -1,4 +1,0 @@
-apparition
-apparition/orionthrone
-character
-character/attachments

@@ -1,5 +1,0 @@
-attachments
-attachments/lpauldron
-attachments/robe
-attachments/rpauldron
-textures

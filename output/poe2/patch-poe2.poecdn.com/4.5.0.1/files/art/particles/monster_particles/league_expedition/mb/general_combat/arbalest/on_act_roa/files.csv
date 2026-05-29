@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+962dcd082e6a947e,spiral.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.2ECE7F724AA7A4BB.projectile_idle.pet,0,407329
+d5f3d3e2d9e77ac5,spiral.fmt.header,Tiny.VF,39525756,166
+2bfd0cd52d721412,rig_47528df4.smd,Streaming/Content/data/balance/worldareas/g2_1.vworld,447479,38546
+addd4d6e0f287e70,rig_47528df4.smd.header,Tiny.VD,39804658,448
+ec5882c9053495c5,onact_rain.sm,Tiny.V7,39613816,660
+d54ae285c28555da,onact_rain.amd,Tiny.V7,4026870,94
+4707cab38bd00dfc,onact_rain.ast,Tiny.VA,39804930,3000

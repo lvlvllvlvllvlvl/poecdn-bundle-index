@@ -1,3 +1,0 @@
-ground_01
-ground_02
-ground_03

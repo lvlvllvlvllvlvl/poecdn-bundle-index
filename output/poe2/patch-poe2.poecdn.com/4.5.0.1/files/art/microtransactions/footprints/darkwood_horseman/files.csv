@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+d9ef1bd5ccbe723e,shards.mat,Tiny.VA,4056876,3030
+3b902b3ca51a1bcf,shards2.mat,Tiny.VA,4059906,2992
+718d62f2b8f3d7ff,shards2_dxt1.dds,Tiny.V2,6764807,2972
+100ae9e3a64bd866,shards2_dxt1.dds.header,Tiny.VD,6449719,280
+e7b6c033b94df571,shards_dxt1.dds,Tiny.V6,6531502,844
+b80a30acf22f43ab,shards_dxt1.dds.header,Tiny.VD,6449999,1520
+90fb22769cfc1e89,grad_fl.mat,Tiny.V4,4237503,3300
+d4824f94f826b91f,grad_fl_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/CB9F83F06BF2EEC5.D1AC74E5AECBBE16.bolt.pet,530382,22020
+8d9c2a64d0797d94,grad_fl_dxt5.dds.header,Tiny.VF,5606278,1520

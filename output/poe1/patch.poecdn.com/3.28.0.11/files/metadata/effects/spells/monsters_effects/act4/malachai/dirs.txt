@@ -1,0 +1,16 @@
+bloodworm_poof
+death_portal
+ground_slam
+heart_area_damage
+heart_vulnerable
+mace
+mace_glow
+minion_disintegrate
+minireave
+portal
+projectile
+rune_circle
+shield
+spore
+teleport
+tribomb

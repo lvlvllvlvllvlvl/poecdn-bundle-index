@@ -1,5 +1,0 @@
-darknessdoodad
-delve_light
-delvehub
-explodingwall
-torch

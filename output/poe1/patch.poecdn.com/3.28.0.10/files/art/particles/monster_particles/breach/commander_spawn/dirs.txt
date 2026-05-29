@@ -1,4 +1,0 @@
-base
-cold
-fire
-lightning

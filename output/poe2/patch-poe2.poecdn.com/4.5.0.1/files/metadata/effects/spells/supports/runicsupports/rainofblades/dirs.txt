@@ -1,0 +1,8 @@
+epk
+fx
+mats
+mats/epk_buff
+mats/epk_debuff
+mats/impact
+mats/projectile
+mats/spearchain

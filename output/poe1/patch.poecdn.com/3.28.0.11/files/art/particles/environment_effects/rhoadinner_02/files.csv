@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+6d3127905640112b,fire_bits_2x2.mat,Tiny_6,32899259,3714
+48b3de400dd8ce83,oil_drip_colour.mat,Tiny_6,32907779,1918
+fe53bf2c5819cd59,spark2_clean.mat,Tiny_6,32911217,1686
+871358ec9b5ce7cd,t1_babyrhoac.mat,Tiny_6,32912903,3540
+5a153ded909b84e0,t2_rhoa2flayedc.mat,Tiny_6,32916443,3214
+88b4ab70c7f4dc7a,t3_rhoa2flayedc.mat,Tiny_6,32919657,3280
+df809ae6b3bac51f,rhoa_add_bw_dxt1.dds,Art/particles/environment_effects/RhoaDinner_02,0,174924
+607fa6085bf8fbc6,rhoa_add_bw_dxt1.dds.header,Tiny_6,32909697,1520
+b3847818a4fb919e,mrhoac.mat,Tiny_6,32904493,3286
+c89307e2bbb3022a,mrhoa_colour_dxt1.dds,Art/particles/environment_effects/RhoaDinner_02,218776,174924
+a3e414399fa8f9e8,mrhoa_colour_dxt1.dds.header,Tiny_6,32902973,1520
+5a698aea479e5c33,crhoac.mat,Tiny_6,32895973,3286
+ae88d6d4d2d88afc,crhoa_colour_dxt1.dds,Art/particles/environment_effects/RhoaDinner_02,393700,174924
+0bbfd52bce89588b,crhoa_colour_dxt1.dds.header,Tiny_6,32894453,1520
+b399fe49700b0e39,babyrhoa_glow_bw_dxt1.dds,Art/particles/environment_effects/RhoaDinner_02,174924,43852
+adfef93034c34bee,babyrhoa_glow_bw_dxt1.dds.header,Tiny_6,32892933,1520

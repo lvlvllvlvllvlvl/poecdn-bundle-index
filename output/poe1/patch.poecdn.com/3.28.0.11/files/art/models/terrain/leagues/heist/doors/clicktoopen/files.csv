@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+5fc2863c878d3dac,heistdoor_01_eventdrivenblocker.fmt,Tiny_5,61449127,269
+cc4feaa087c1f866,heistdoor_01_eventdrivenblocker.fmt.header,Tiny_5,61449396,152
+5cefb7b384058c07,heistdoor_01_clicktoopendoor.fmt,Tiny_7,19668252,43
+2d12dcfe5767f60a,heistdoor_01_clicktoopendoor.fmt.header,Tiny_7,56868231,128
+dacaf12d50699ed1,heistdoor_01.sm,Tiny_5,60631375,686
+dbe98e2bf7948ce9,heistdoor_01.tgt,Tiny_5,60632061,1124
+f9e6bb3ac6720feb,heistdoor_01.tmd,Tiny_5,60633185,923
+a00e519e3ee393fa,door_rig_adeac4c8.smd,Art/Models/Terrain/Leagues/Heist/Doors,0,144136
+766324ba9ba69f1e,door_rig_adeac4c8.smd.header,Tiny_5,60631007,368
+c2414015f59a6a18,door_rig.amd,Tiny_5,60629079,294
+964e4634cfe90aa2,door_rig.ast,Tiny_5,60629373,1634

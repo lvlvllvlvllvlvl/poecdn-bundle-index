@@ -1,6 +1,0 @@
-fx
-graph
-mat
-mat/fire
-mat/frenzy
-mat/lightning

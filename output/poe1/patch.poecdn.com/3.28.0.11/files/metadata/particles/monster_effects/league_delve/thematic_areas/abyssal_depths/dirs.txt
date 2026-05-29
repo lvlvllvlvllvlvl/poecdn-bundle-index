@@ -1,0 +1,13 @@
+bosses
+bosses/lich3
+bosses/lich3/arenalasers
+bosses/lich3/beamstorm
+bosses/lich3/crystalmines
+bosses/lich3/epicbeam
+bosses/lich3/epicbeam/obeliskaoe
+bosses/lich3/epictposeofdoom
+bosses/lich3/grdlaser
+bosses/lich3/projectilegreen
+bosses/lich3/projectilepurple
+bosses/lich3/purplestance
+bosses/lich3/reflectbeam

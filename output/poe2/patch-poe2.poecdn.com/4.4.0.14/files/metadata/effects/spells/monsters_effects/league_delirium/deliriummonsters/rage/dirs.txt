@@ -1,5 +1,0 @@
-fx
-mat
-mat/hitground
-mat/leaveground
-mat/meleetrail

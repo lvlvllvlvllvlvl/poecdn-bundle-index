@@ -1,0 +1,6 @@
+foliage
+ground
+ground/corrupted
+ground/sanctified
+precursorcity
+uniquemaps

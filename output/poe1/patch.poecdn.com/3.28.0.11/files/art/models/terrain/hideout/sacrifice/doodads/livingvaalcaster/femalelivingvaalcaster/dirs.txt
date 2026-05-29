@@ -1,0 +1,7 @@
+attachments
+attachments/dagger
+attachments/femalelivingvaalcastercape
+attachments/femalelivingvaalcasterfeathers
+attachments/femalelivingvaalcasterhair
+attachments/femalelivingvaalcasterrobe
+textures

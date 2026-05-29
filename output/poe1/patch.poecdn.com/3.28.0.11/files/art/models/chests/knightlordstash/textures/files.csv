@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+a00d7aa9f65e066e,knightlordstashc.mat,Tiny_1,82817180,3210
+89a378f9643a62c5,knightlordstash_normal_dxt5.dds,Art/Models/Chests/KnightLordStash/textures_1,0,1398276
+9dba4052ff762b3d,knightlordstash_normal_dxt5.dds.header,Tiny_1,82815660,1520
+4cfb661e12ea6fd8,knightlordstash_glow_dxt5.dds,Art/Models/Chests/KnightLordStash/textures_2,0,1398276
+9516859ff7e0125f,knightlordstash_glow_dxt5.dds.header,Tiny_1,82814140,1520
+edb40f1f626746b8,knightlordstash_colour_dxt5.dds,Art/Models/Chests/KnightLordStash/textures,0,1398276
+388c916c8469f0c7,knightlordstash_colour_dxt5.dds.header,Tiny_1,82812620,1520

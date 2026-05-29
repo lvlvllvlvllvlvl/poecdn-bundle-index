@@ -1,0 +1,11 @@
+attachments
+attachments/beltsm
+attachments/cheststrapm
+attachments/robef
+attachments/robem
+attachments/shoulderpadsf
+attachments/shoulderpadsf/lshoulderpad
+attachments/shoulderpadsf/rshoulderpad
+attachments/shoulderpadsm
+attachments/shoulderpadsm/lshoulderpad
+attachments/shoulderpadsm/rshoulderpad

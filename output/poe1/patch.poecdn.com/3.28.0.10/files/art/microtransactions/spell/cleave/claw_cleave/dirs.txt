@@ -1,3 +1,0 @@
-deshretspirit_skin
-deshretspirit_skin/particles
-noclip

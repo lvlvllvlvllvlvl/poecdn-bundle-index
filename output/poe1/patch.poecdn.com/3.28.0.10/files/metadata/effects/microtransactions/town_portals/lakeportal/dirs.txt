@@ -1,3 +1,0 @@
-craftingobjects
-craftingobjects/fx
-fx

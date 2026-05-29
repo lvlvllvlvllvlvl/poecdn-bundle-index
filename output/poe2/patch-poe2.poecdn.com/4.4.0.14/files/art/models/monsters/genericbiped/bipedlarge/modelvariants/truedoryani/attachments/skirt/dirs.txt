@@ -1,6 +1,0 @@
-attachments
-attachments/belt
-attachments/dagger
-attachments/dangler_1
-attachments/dangler_2
-attachments/ropes

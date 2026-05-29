@@ -1,3 +1,0 @@
-generic_projectile
-snipe
-snipe/projectile

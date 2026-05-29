@@ -1,8 +1,0 @@
-attachments
-attachments/shoulderpad
-attachments/shoulderpad/animation
-attachments/shoulderpad/animation/l_side_animation
-attachments/shoulderpad/animation/r_side_animation
-attachments/skirt
-fx
-textures

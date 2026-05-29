@@ -1,9 +1,0 @@
-epks
-fx
-graphs
-mats
-mats/beetleexplosion_windup
-mats/dagger_burst
-mats/dagger_grd_hit
-mats/dagger_trail
-mats/teleport_explosion

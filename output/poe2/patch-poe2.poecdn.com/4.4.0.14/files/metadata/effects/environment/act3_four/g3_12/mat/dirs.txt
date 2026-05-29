@@ -1,5 +1,0 @@
-sunscorchss
-timeportal
-timeportal/townportal
-zigguratsun2
-zigguratsun2/idle

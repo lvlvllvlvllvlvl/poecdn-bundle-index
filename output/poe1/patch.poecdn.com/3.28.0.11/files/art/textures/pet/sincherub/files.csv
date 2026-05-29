@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+f46f0535e1763213,sincherubcns.mat,Art/Textures/Pet/SinCherub_3,0,5042
+830c7c10f6525a3e,sincherub_glossiness.mat,Tiny_8,49930682,968
+928e74c21dcc42f9,sincherub_glossiness.dds,Art/Textures/Pet/SinCherub_1,0,1398276
+3f744754bc3843fc,sincherub_glossiness.dds.header,Tiny_8,49929162,1520
+37669164f13920af,sincherub_emissive.mat,Tiny_8,49928206,956
+a23725dbbfcc57a6,sincherub_emissive.dds,Art/Textures/Pet/SinCherub_3,5042,1398276
+9a0fbbf09e9be3b7,sincherub_emissive.dds.header,Tiny_8,49926686,1520
+b9144f94f66a50bb,sincherub_colour.dds,Art/Textures/Pet/SinCherub,0,699212
+35857a0a5e377669,sincherub_colour.dds.header,Tiny_8,49925166,1520
+280a38ba8c0fbcc2,sincherubns.dds,Art/Textures/Pet/SinCherub_2,0,1398276
+04e443042288a1ee,sincherubns.dds.header,Tiny_8,49931650,1520

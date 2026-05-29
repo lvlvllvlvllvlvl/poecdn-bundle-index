@@ -1,0 +1,10 @@
+epk
+epk/portal_summon
+fx
+fx/portal_summon
+fx/townportal
+fx/townportalopen
+mat
+mat/portal_summon
+mat/townportal
+mat/townportalopen

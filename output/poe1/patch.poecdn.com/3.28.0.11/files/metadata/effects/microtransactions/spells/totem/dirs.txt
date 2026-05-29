@@ -1,0 +1,15 @@
+demonic_arctic
+shipswheel
+spell
+spell/flame_totem
+spell/flame_totem/ghost_flame
+spell/searing_bond
+spell/searing_bond/green
+tiki_totem
+ziggurattotem
+ziggurattotem/cast
+ziggurattotem/death
+ziggurattotem/emerge
+ziggurattotem/flinch
+ziggurattotem/idle
+ziggurattotem/submerge

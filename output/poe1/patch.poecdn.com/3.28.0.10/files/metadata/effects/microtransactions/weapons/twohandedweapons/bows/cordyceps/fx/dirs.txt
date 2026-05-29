@@ -1,4 +1,0 @@
-bow
-death
-death_big
-on_hit

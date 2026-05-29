@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+e54be8cf219ce4b6,warlordmiseryportalc.mat,Tiny.V0,13885891,3186
+47e66e8192060532,warlordmiseryportal_proxyc.mat,Tiny.V3,13581325,2944
+618e65319f14df13,warlordmiseryportal_fxc.mat,Tiny.V3,13579773,1552
+601c5faa4aa3ac99,warlordmiseryportal_glow_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/FDEEE9E29C8E7C7B.warlordmiseryportal_map.ao.1,0,699212
+28345022bb70efb2,warlordmiseryportal_glow_dxt1.dds.header,Tiny.V7,13742377,1520
+9703057623769535,warlordmiseryportal_metal_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/FDEEE9E29C8E7C7B.warlordmiseryportal_map.ao.1,699212,349700
+60a6acad2b53aaf2,warlordmiseryportal_metal_dxt5.dds.header,Tiny.V9,13966540,1520
+4175e68e43ff0684,warlordmiseryportal_normal_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/FDEEE9E29C8E7C7B.warlordmiseryportal_map.ao.1,1048912,1398276
+2c3c4b1f820f2aee,warlordmiseryportal_normal_dxt5.dds.header,Tiny.VD,13630380,1520
+d0191174fddca607,warlordmiseryportal_colour_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/FDEEE9E29C8E7C7B.warlordmiseryportal_map.ao,1586538,1398276
+ca575ade92d80e30,warlordmiseryportal_colour_dxt5.dds.header,Tiny.VB,13760776,1520

@@ -1,0 +1,3 @@
+charge_up
+explosion
+submerge

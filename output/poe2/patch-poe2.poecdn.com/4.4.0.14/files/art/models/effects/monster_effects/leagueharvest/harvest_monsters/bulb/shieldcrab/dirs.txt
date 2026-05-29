@@ -1,3 +1,0 @@
-spellcast_explode
-water_bubble
-water_mortar

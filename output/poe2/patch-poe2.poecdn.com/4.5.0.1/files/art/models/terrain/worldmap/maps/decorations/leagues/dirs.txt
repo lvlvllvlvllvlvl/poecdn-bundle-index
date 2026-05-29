@@ -1,0 +1,16 @@
+abyss
+abyss/cracks
+abyss/cracks/crack01
+abyss/cracks/crack02
+abyss/cracks/crack03
+breach
+breach/egm_breachbosstower01
+breach/egm_breachtower01
+delirium
+delirium/delirium_01
+delirium/egm_deliriumgigamirror01
+delirium/maps_deliriumhub
+expedition
+incursion
+ritual
+ritual/textures

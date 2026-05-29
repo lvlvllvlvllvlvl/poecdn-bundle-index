@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+7755cb0eb1291ab5,sunrisewallc.mat,Tiny_7,84821037,2180
+d611d6e3c5a57f8f,sunrisewallfadec.mat,Tiny_7,84823217,2356
+8da13d029d24088d,sunrisewall_normal_dxt5.dds,Art/Textures/Environment/Hideout/TwilightMysteryBox/Sunrise_1,0,1398276
+6a27fb6e601b90e7,sunrisewall_normal_dxt5.dds.header,Tiny_7,84819517,1520
+5277f189373a3ad2,sunrisewall_colour_dxt5.dds,Art/Textures/Environment/Hideout/TwilightMysteryBox/Sunrise,524624,349700
+9be643e33b15b344,sunrisewall_colour_dxt5.dds.header,Tiny_7,84817997,1520
+eb263e3dfa9cd2e1,sunrisestone_matc.mat,Tiny_7,84815757,2240
+d48ab28261f7575d,sunrisestone_mat_normal_dxt5.dds,Art/Textures/Environment/Hideout/TwilightMysteryBox/Sunrise_2,0,1398276
+d40332d6d5d86ba6,sunrisestone_mat_normal_dxt5.dds.header,Tiny_7,84814237,1520
+3b62d7de6c433674,sunrisestone_mat_colour_dxt5.dds,Art/Textures/Environment/Hideout/TwilightMysteryBox/Sunrise,174924,349700
+75c8ecff1116f91d,sunrisestone_mat_colour_dxt5.dds.header,Tiny_7,84812717,1520
+dd4e716c634727b6,sunrisebricksc.mat,Tiny_7,84811519,1198
+1a0ec90b149d99f9,sunrisebricks_colour.dds,Art/Textures/Environment/Hideout/TwilightMysteryBox/Sunrise,0,174924
+ee014546cab94e88,sunrisebricks_colour.dds.header,Tiny_7,84809999,1520

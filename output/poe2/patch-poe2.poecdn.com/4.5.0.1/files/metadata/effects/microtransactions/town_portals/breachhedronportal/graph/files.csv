@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+1d368bf72a948a43,death_disintegratemask_tlp.fxgraph,Content/art/models/items/armours/bodyarmours/1D597AFD27AA78EC.stygianwings.fmt,3218609,52336
+520c2a08cb3f494f,updatescaleondeath.fxgraph,Content/metadata/effects/spells/npc/league/FB09E2903437BC7B.unlock_wave.ao,6806,47770
+8c2f77a6bf1be54c,custom_scale_bytimelinefloat.fxgraph,Content/metadata/effects/microtransactions/town_portals/breachhedronportal/A2423F3D01E7A113.open_root.pet,90569,9484
+f3902a84f2c286ce,custom_scale_bytimelinefloat_ground.fxgraph,Content/metadata/effects/microtransactions/town_portals/breachhedronportal/A2423F3D01E7A113.open_root.pet,0,9486

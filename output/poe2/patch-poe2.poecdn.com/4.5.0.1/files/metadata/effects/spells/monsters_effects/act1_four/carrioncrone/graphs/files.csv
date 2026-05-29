@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+6ec19230022dcb62,heightterrainproject.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/2CD38DEC3C64DEA6.wolfraise.pet,90526,22356
+ed41d586b0a93185,frozen_sub.fxgraph,Content/metadata/monsters/hags/hag.ot,48579,52724
+8b1c43b23f618738,carrionhair.fxgraph,Folders/metadata/shrines,3889700,57186
+46a9edbae073260c,custom_forceemitonground.fxgraph,Content/metadata/monsters/hags/hag.ot,812416,45508
+f780c7fdbffde8cc,custom_rotationlocal.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/2CD38DEC3C64DEA6.wolfraise.pet,34708,55818
+28839b4bee1dac6e,custom_movesnowdown.fxgraph,Content/metadata/effects/spells/monsters_effects/act1_four/2CD38DEC3C64DEA6.wolfraise.pet,0,34708
+807cd0a88fddba3d,custom_velocitymult.fxgraph,Content/metadata/particles/monster_effects/3DC681C2C41541AC.eye_charge.pet,3177032,39704
+b86288db4418e3f1,custom_customwindattraction.fxgraph,Content/metadata/effects/spells/monsters_effects/A69744A9A37FC9E1.disintegrate_away.epk,3000233,212324

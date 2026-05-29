@@ -1,0 +1,10 @@
+attachments
+attachments/loincloth
+attachments/skirt
+attachments/skirt/dex
+attachments/skirt/dexint
+attachments/skirt/int
+attachments/skirt/str
+attachments/skirt/strdex
+attachments/skirt/strint
+textures

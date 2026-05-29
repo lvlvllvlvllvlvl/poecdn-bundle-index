@@ -1,0 +1,12 @@
+epk
+goliath
+graph
+mat
+mat/ground_emerge
+mat/hunker_explosion
+mat/hunker_explosion/buildup
+mat/hunker_explosion/impact
+mat/lightning_buildup
+mat/lightning_buildup_mandibles
+mat/lightning_explode
+pets

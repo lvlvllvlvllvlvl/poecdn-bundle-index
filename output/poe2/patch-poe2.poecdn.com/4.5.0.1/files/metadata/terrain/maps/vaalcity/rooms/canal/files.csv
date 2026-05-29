@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+6de7b1fb19134d88,end_01.arm,Tiny.V6.1,200828510,2772
+dc245fde12a077a2,water_sink.arm,Tiny.VF.1,199468124,3030
+af3c56b809042f07,water_source.arm,Tiny.V5.1,200082542,3038
+d083cae3e530f143,water_source_st.arm,Tiny.VE.1,200328477,3044
+92d330e54bbb573e,x_01.arm,Tiny.V5.1,200085580,2754
+4d757b4a300a86de,x_feature_01.arm,Tiny.V3.1,203101643,2778
+151345c21ec13541,tri_01.arm,Tiny.V8.1,203003709,2754
+67d6574a9ff6859f,tri_feature_01.arm,Tiny.V3.1,203098859,2784
+d80b7d1fc044866a,tri_feature_02.arm,Tiny.VB.1,201182821,2784
+ecb00e8dccbc8290,st_01.arm,Tiny.VE.1,200519879,2754
+834fd7fc198d1c23,st_feature_01.arm,Tiny.V4.1,201528858,2780
+b545c52204fe31a3,cc_01.arm,Tiny.VB.1,201347471,2754
+b7525c447a0436ae,crossing_st_01.arm,Content/data/balance/worldareas/mapvoidreliquary.vworld,724400,49718
+22d95b56781610f0,crossing_st_02.arm,Content/data/balance/worldareas/mapvoidreliquary.vworld,774118,49414
+06d2fd3fc39d52d3,crossing_st_03.arm,Content/data/balance/worldareas/mapvoidreliquary.vworld,823532,33320
+30c52534b50915e1,crossing_st_04.arm,Content/data/balance/worldareas/mapvoidreliquary.vworld,856852,70542

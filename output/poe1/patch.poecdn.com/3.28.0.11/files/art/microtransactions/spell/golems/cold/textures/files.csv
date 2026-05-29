@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+9108d6809e8e3cc5,spark_ice.mat,Tiny_1,48947529,1578
+b54b8ac689d513ab,spark_ice.dds,Tiny_8,5754646,516
+0a74eb6611421730,spark_ice.dds.header,Tiny_8,5755162,1520
+2132352af7e2ca61,snow_smoke.mat,Tiny_1,48945051,2478
+5e87835526e878f5,snow_smoke.dds,Art/Microtransactions/spell/golems,394320,22020
+3ae825988055189b,snow_smoke.dds.header,Tiny_1,48943531,1520
+9d9f0ded60e83fbf,light_gradient.mat,Tiny_1,48941749,1782
+a1729b1cebb1ec66,light_gradient.dds,Art/Microtransactions/spell/golems,372300,22020
+4447a8d378db3d72,light_gradient.dds.header,Tiny_6,90435335,1520
+741e88e02dbfc9c0,cold_smoke.mat,Tiny_1,48939503,2246
+b0da828101437c31,cold_smoke.dds,Art/particles/monster_particles/beyonddemons_1,0,43876
+53b55be322aa0093,cold_smoke.dds.header,Tiny_6,86842341,840

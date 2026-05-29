@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-0258b93f1049df7d,scorchmarkbig.fmt,Art/Models/Effects/monster_effects/League_Heist/demolition,4347,4353
-143a01d743d58f24,scorchmarkbig.fmt.header,Tiny_2,3750997,196
-bf9637cd8e9fa939,scorchmark.fmt,Art/Models/Effects/monster_effects/League_Heist/demolition,0,4347
-3b8c6bcfc2739c20,scorchmark.fmt.header,Tiny_2,3750804,193
-471d73c0a50e70c3,explode_door.amd,Tiny_7,37927089,94
-d497e3b60137e495,explode_door.ast,Tiny_2,3746828,3976
-797e207867daca5e,explode.amd,Tiny_7,37927089,94
-78c06d8070325c4f,explode.ast,Tiny_2,3744657,2171

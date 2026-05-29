@@ -1,0 +1,4 @@
+goblincage
+goblineffigies
+goblinshrine
+lava

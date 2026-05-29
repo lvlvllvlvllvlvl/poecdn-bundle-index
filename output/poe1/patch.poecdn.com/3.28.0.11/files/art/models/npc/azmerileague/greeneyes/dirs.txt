@@ -1,0 +1,8 @@
+animations
+attachments
+attachments/cape
+attachments/elbowpadbelt
+attachments/hood
+attachments/robe
+attachments/weaponwraps
+textures

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+d09b690b9f75b143,crowdblurc.mat,Tiny.V2,34799867,5096
+0360e0964b7cc655,crowdblur.dds,Streaming/Content/metadata/terrain/doodads/act4/9B5BE3E4DE16DA98.daresso_arena_edge.ao,562218,349700
+be8049d6dfb61c02,crowdblur.dds.header,Tiny.VB,34932614,1520
+e55974d2eecd462b,tile_topc.mat,Tiny.V1,34725756,3620
+3b36330658dccbdd,tile_top.dds,Streaming/Content/metadata/terrain/doodads/act4/9B5BE3E4DE16DA98.daresso_arena_edge.ao.1,0,1398276
+218b5cf41f90d3a6,tile_top.dds.header,Tiny.V7,34742731,1520
+5b9fd473100d4fda,tile_middlec.mat,Tiny.V5,34384437,3614
+25da0aff69ccbb30,tile_middle.dds,Streaming/Content/metadata/terrain/doodads/act4/9B5BE3E4DE16DA98.daresso_arena_edge.ao,1261618,1398276
+9c0e6cad474e2a3b,tile_middle.dds.header,Tiny.VF,34933416,1520
+63d348a3e5095862,tile_bottomc.mat,Tiny.V5,34380689,3748
+ac393abea98293ad,tile_bottom.dds,Streaming/Content/metadata/terrain/doodads/act4/9B5BE3E4DE16DA98.daresso_arena_edge.ao,911918,349700
+12f588f917274d86,tile_bottom.dds.header,Tiny.VB,34934134,1520

@@ -1,4 +1,0 @@
-pet
-pet/fire
-pet/ice
-pet/light

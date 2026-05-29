@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+31503753efabf6cf,light_gradient_explosion.mat,Tiny_1,46474691,1924
+44c0012a6d473d3e,light_gradient_explosion.dds,Art/Microtransactions/spell/molten_strike_2,87556,22020
+5b1e8cd897c5abcb,light_gradient_explosion.dds.header,Tiny_6,17775465,1520
+f3b676350b591f80,flame_multi.mat,Tiny_1,46472563,2128
+cc3fcc4ed7998d97,flame_multi.dds,Art/Microtransactions/spell/fire_beam_1,437780,22020
+b7df4ee36e1a46e2,flame_multi.dds.header,Tiny_6,18018795,1520
+86fc72bcba23073e,fireball_flame3.mat,Tiny_1,46469961,2602
+ee66a193aafae8a7,fireball_flame3.dds,Art/particles/conditions/black_flame_1,0,349700
+8518e9095a002c44,fireball_flame3.dds.header,Tiny_6,102732471,1520
+c5dd6a3525907603,fireball_flame1.mat,Tiny_1,46467399,2562
+472b6bfedb3b274f,fireball_flame1.dds,Art/Microtransactions/spell/fire_beam_1,459800,87556
+dc527181e70612eb,fireball_flame1.dds.header,Tiny_6,17767121,1520
+ec8b9521b6e86b47,black_flame.mat,Tiny_1,46465029,2370
+bc5d35a9b6069ecd,black_flame.dds,Art/particles/conditions/ignited_sin_1,0,87556
+91ca11c7fabe5436,black_flame.dds.header,Tiny_6,18007367,1520

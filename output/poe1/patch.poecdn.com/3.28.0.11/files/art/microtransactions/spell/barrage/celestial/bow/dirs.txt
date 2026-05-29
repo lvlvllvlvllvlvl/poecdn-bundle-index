@@ -1,0 +1,8 @@
+models
+models/projectile
+models/rift
+models/rift/portal
+textures
+textures/fx
+textures/projectile
+textures/projectile/impact

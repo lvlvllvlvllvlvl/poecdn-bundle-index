@@ -1,5 +1,0 @@
-audio
-epk
-fx
-mat
-mat/player_heal

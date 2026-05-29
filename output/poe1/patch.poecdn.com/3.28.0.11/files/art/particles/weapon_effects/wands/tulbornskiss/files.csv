@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+083d26efaf3048aa,scrolly_mid2.mat,Tiny_7,59655617,1046
+5879e2c67addb777,scrolly_mid2.dds,Art/particles/weapon_effects/Wands,5636,87556
+ff304d18ccaa6be1,scrolly_mid2.dds.header,Tiny_7,59654097,1520
+544514df3c5386e5,projectile_add.mat,Tiny_7,59651749,2348
+3458c1e554a7bf8b,projectile_add.dds,Art/particles/weapon_effects/Wands,0,5636
+27a3a3dba15ffe6c,projectile_add.dds.header,Tiny_7,59650229,1520
+a77e979dbd43d17f,light_grad.mat,Tiny_7,59648763,1466
+46c7eb68e80f2260,light_grad.dds,Art/particles/weapon_effects/Wands,93192,22020
+f97c7ba85e2f4add,light_grad.dds.header,Tiny_7,59647243,1520
+2d848dcbd735f69e,blink_spiral_bigger.mat,Tiny_7,59644565,2678
+e07bc3c6b879c639,blink_spiral_bigger.dds,Folders/art/particles/wind_whip_cast,0,87556
+adb88ff0c9566f30,blink_spiral_bigger.dds.header,Tiny_7,59848757,1520

@@ -1,0 +1,8 @@
+necklace01
+necklace01/f
+necklace01/m
+necklace02
+necklace02/f
+necklace02/m
+necklace03
+necklace04

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+b84d114abdcdbf87,g_trv_channelslag01.mat,Tiny.V8,25590297,1270
+c64d2ffd06d7fca5,g_trv_channelslag01_normal.dds,Streaming/Content/data/worldareas/D1/g3_9.vworld,80774,5592580
+57a5dd0185b68528,g_trv_channelslag01_normal.dds.header,Tiny.V0,25782199,1520
+b2e612dd9f940e11,g_trv_channelslag01_colour.dds,Streaming/Content/data/worldareas/8F/c_g3_9.vworld,15750,5592580
+8c3247201c823a1b,g_trv_channelslag01_colour.dds.header,Tiny.V0,25776751,1520
+cbf20e53d0b370a5,g_trv_floorslabs01.mat,Tiny.VF,25618943,1170
+f0a0fe0c6861bf9b,g_trv_floorslabs01_normal.dds,Streaming/Content/data/worldareas/8F/mapopulence.vworld,5592580,5592580
+dd1ce696893bb406,g_trv_floorslabs01_normal.dds.header,Tiny.VA,25616024,1520
+82d7569baee46229,g_trv_floorslabs01_colour.dds,Streaming/Content/data/worldareas/99/mapopulence.vworld,0,5592580
+7ead6b354720c5ce,g_trv_floorslabs01_colour.dds.header,Tiny.VF,25620113,1520

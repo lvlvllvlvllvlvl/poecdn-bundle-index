@@ -1,6 +1,0 @@
-abyss
-abyss/tgms
-shallowledge
-shallowledge/tgms
-thickwall
-thickwall/tgms

@@ -1,8 +1,0 @@
-model
-model/large_slam
-model/mini_slam_01
-model/mini_slam_02
-model/on_act
-model/slam
-model/vaal_slam
-particles

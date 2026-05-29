@@ -1,9 +1,0 @@
-belt
-belt/female
-belt/male
-chest_string
-chest_string/female
-chest_string/male
-skirt
-skirt/female
-skirt/male

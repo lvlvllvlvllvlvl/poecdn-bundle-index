@@ -1,0 +1,10 @@
+burning_ground
+explosion_01
+hit_fx
+ignite_epk
+projectile_01
+projectile_01/proj_grd_fadeout_01
+projectile_01/proj_grd_stuck_01
+projectile_01/projectileraindown_01
+projectile_01/projectilerainup_01
+surge

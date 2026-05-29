@@ -1,6 +1,0 @@
-kelpdreg01
-kelpdreg01/kelpdreghair
-kelpdreg02
-kelpdreg02/kelpdreg02_skirt01
-kelpdreg02/kelpdreg02_skirt02
-kelpdreg03

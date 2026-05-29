@@ -1,6 +1,0 @@
-graphs
-objects
-rooms
-rooms/fills
-tiles
-tiles/statues

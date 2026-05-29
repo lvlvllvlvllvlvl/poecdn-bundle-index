@@ -1,5 +1,0 @@
-attachments
-attachments/corsairbanner
-attachments/corsairbanner/hooks
-attachments/corsaircloak
-attachments/piraterobe

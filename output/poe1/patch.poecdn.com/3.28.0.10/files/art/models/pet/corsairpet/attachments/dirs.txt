@@ -1,4 +1,0 @@
-buccaneerpet
-buccaneerpet/bandanna
-buccaneerpet/lamp
-buccaneerpet/sash

@@ -1,2 +1,0 @@
-harvest_assets
-harvest_assets/overrides

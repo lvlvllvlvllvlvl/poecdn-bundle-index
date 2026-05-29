@@ -1,0 +1,8 @@
+crafting
+crafting/4k
+map
+remnant
+remnant/4k
+tome
+tome/4k
+vendorwindows

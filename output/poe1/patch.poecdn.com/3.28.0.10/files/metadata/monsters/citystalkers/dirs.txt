@@ -1,3 +1,0 @@
-female
-male
-male/weapons

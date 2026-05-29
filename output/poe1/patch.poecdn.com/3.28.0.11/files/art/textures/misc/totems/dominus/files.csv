@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+e82a0f18051ee548,glassc.mat,Tiny_8,31845544,1708
+5e4d66855a287e66,glass.dds,Art/Textures/Misc/Totems/Dominus,524624,22020
+8a5a6f17f8d2673a,glass.dds.header,Tiny_8,31844024,1520
+af0e6e3cb9a56094,dominustotem_normal_dxt5.dds,Art/Textures/Misc/Totems/Dominus_2,0,349700
+e8b6d5c59c7be333,dominustotem_normal_dxt5.dds.header,Tiny_8,31836530,1520
+c58d77bd94ca3a27,dominustotem_colour_uncompressed.dds,Art/Textures/Misc/Totems/Dominus_1,0,1398248
+c7926cebae3e0ac3,dominustotem_colour_uncompressed.dds.header,Tiny_8,31833490,1520
+458abd48e60a77eb,dominustotem_colour_dxt1.dds,Art/Textures/Misc/Totems/Dominus,0,174924
+c05442865a03f95f,dominustotem_colour_dxt1.dds.header,Tiny_8,31835010,1520
+d48fee5d9eeca1f8,dominustotem_colour.dds,Art/Textures/Misc/Totems/Dominus_1,0,1398248
+b8df18aba4d6a601,dominustotem_colour.dds.header,Tiny_8,31833490,1520
+7b5eff4b4dbf4a4a,dominustotemns.dds,Art/Textures/Misc/Totems/Dominus,174924,349700
+2f5cff74026c6aa1,dominustotemns.dds.header,Tiny_8,31842504,1520
+aead2db173693efe,dominustotemc.mat,Tiny_8,31838050,1940
+266945ff6ee14e6d,dominustotemcns.mat,Tiny_8,31839990,2514

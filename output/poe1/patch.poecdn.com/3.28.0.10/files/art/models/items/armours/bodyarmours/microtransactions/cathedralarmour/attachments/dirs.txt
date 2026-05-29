@@ -1,8 +1,0 @@
-shoulderpads
-shoulderpads/animation
-shoulderpads/animation/l_side
-shoulderpads/animation/r_side
-skirt
-skirt/second_layer
-strint_shoulders
-strint_shoulders/l_shoulder

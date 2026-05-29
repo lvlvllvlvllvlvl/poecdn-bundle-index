@@ -1,0 +1,7 @@
+textures
+textures/arena
+textures/doodads
+textures/foliage
+textures/ground
+textures/rocks
+tgms

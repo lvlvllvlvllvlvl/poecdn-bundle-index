@@ -1,0 +1,6 @@
+attachments
+attachments/deathknight
+attachments/deathknight/cape
+attachments/deathknight/maul
+attachments/deathknight/skirt
+textures

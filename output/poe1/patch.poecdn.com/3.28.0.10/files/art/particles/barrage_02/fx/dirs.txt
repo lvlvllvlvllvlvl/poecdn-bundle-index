@@ -1,6 +1,0 @@
-chaos
-cold
-fire
-lightning
-phys
-purp

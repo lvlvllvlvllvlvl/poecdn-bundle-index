@@ -1,0 +1,6 @@
+staticstrike
+staticstrike_cast
+staticstrike_charge_up
+staticstrike_charge_up/meshtex
+staticstrike_shockwave
+staticstrike_shockwave/meshtex

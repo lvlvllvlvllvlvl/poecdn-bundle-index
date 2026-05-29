@@ -1,4 +1,0 @@
-aura
-aura/textures
-projectile
-projectile/textures

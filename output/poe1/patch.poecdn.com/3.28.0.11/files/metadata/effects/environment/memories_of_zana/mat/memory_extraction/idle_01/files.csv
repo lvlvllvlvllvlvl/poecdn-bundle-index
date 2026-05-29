@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+662146c0ed8eec84,zoom_distort_r.mat,Tiny_8,117119410,5078
+54e193c286046581,zoom_distort_u.mat,Tiny_11,127344428,346
+4e998bd0d969c84e,petals_r.mat,Tiny_9,508613122,14224
+a28e454d76f6e27f,petals_u.mat,Tiny_8,117097216,22194
+e2d694be5e0057fc,neuron_sphere_r.mat,Tiny_8,116949880,53638
+18635ab0a1ae2c7d,neuron_sphere_u.mat,Tiny_11,127344428,346
+fec875888aea22c9,mblur_sphere_r.mat,Tiny_8,120517584,9476
+18b758be09ad0bee,mblur_sphere_u.mat,Tiny_11,127344428,346
+1580a0bfadbfb883,materialise_orb_r.mat,Tiny_8,116910886,38994
+a34fbf0c70bb302e,materialise_orb_u.mat,Tiny_11,127344428,346
+08c7e4fa8898328e,big_weaving_threads_r.mat,Tiny_8,121889828,73212
+e0317bbeaaefffea,big_weaving_threads_u.mat,Tiny_11,127344428,346

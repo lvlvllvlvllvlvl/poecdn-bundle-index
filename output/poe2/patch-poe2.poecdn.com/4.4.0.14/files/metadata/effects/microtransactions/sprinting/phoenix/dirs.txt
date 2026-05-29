@@ -1,4 +1,0 @@
-attachment
-epk
-fx
-mat

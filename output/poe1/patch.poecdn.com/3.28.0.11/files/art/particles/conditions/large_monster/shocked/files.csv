@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e6245808f838992d,light_gradient.mat,Tiny_6,18029945,1814
+3d57e68b266e3062,light_gradient_dxt1.dds,Art/particles/conditions/large_monster,1224088,43852
+b9a7c9402e612fa3,light_gradient_dxt1.dds.header,Tiny_6,18031759,1520
+62308e8b4e780fc6,lightning_random_glowy.mat,Tiny_6,18035177,2156
+812d2c4ed8c2554a,lightning_random_glowy.dds,Art/particles/conditions/large_monster,874356,349732
+87fef6c6f4dd79c1,lightning_random_glowy.dds.header,Tiny_7,52235054,504
+81aa92de55bbe72e,lightning_bolts_vert.mat,Tiny_6,18033279,1898
+de4a5b6972051f90,lightning_bolts_vert.dds,Art/particles/conditions/large_monster,524624,349732
+53e96a3d4a9ce125,lightning_bolts_vert.dds.header,Tiny_7,55592133,504

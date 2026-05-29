@@ -1,0 +1,12 @@
+epk
+epk/portal_summon
+fx
+fx/portal_summon
+graphs
+mats
+mats/close_pet
+mats/ground
+mats/idle_pet
+mats/open_buildup_pet
+mats/open_pet
+mats/portal_summon

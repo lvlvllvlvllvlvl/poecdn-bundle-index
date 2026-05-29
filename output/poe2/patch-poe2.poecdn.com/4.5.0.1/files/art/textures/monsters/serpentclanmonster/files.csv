@@ -1,0 +1,28 @@
+hash,file,bundle,offset,size
+6ac484d03ff924bb,serpentclanspellcasterc.mat,Tiny.V9.1,1329536,4790
+61a0f99e14551d45,serpentclanspellcaster_sss _dxt1.dds,Streaming/Content/data/balance/worldareas/abyss_intro.vworld.7,0,2796364
+b736ed2f9a6033ae,serpentclanspellcaster_sss _dxt1.dds.header,Tiny.V6.1,1510848,1520
+796fc6b8f9fa6d86,serpentclanspellcaster_glow_dxt5.dds,Streaming/Content/data/worldareas/sanctum_1.vworld.6,2622472,5592580
+4c18d5ea63213ea8,serpentclanspellcaster_glow_dxt5.dds.header,Tiny.V4.1,1541074,1520
+13e4bf169659f069,serpentclanspellcaster_metal_dxt5.dds,Streaming/Content/data/balance/worldareas/abyss_intro.vworld.6,22923102,5592580
+3b2189a185ae9650,serpentclanspellcaster_metal_dxt5.dds.header,Tiny.VA.1,975565,1520
+7a06a4a43f2cad04,serpentclanspellcaster_normal_dxt5.dds,Streaming/Content/data/balance/worldareas/abyss_intro.vworld.6,28515682,5592580
+da69e523819bb857,serpentclanspellcaster_normal_dxt5.dds.header,Tiny.V8.1,767772,1520
+1170fdc22671687f,serpentclanspellcaster_colour_dxt1.dds,Streaming/Content/data/worldareas/1E/sanctum_1.vworld,23407,2796364
+5d8b95d0748cdb01,serpentclanspellcaster_colour_dxt1.dds.header,Tiny.VA.1,1209423,1520
+f9fc9dbfbcae0e4f,serpentclanmonsterc.mat,Tiny.V3.1,995183,2390
+ec31e437bea2a743,serpentclanmonster_sss_dxt1.dds,Streaming/Content/data/worldareas/sanctum_1.vworld.7,21561496,2796364
+e6622485ea81ed5f,serpentclanmonster_sss_dxt1.dds.header,Tiny.V3.1,993663,1520
+91e6baddbbba13dc,serpentclanmonster_glow_dxt5.dds,Streaming/Content/data/worldareas/sanctum_1.vworld.7,15968916,5592580
+39ef9a08522a7db7,serpentclanmonster_glow_dxt5.dds.header,Tiny.V9.1,1328016,1520
+51f75a41cb825e8b,serpentclanmonster_metal_dxt5.dds,Streaming/Content/data/worldareas/21/sanctum_1.vworld,3495576,5592580
+4a5d578977c78855,serpentclanmonster_metal_dxt5.dds.header,Tiny.VA.1,975565,1520
+356ebbda6a91a763,serpentclanmonster_normal_dxt5.dds,Streaming/Content/data/balance/worldareas/abyss_intro.vworld.6,17330522,5592580
+a0eba84af8220369,serpentclanmonster_normal_dxt5.dds.header,Tiny.V8.1,767772,1520
+25e577260f84cf1f,serpentclanmonster_colour_dxt1.dds,Streaming/Content/data/worldareas/CA/sanctum_1.vworld,86908,2796364
+346c55b9f7a1c2b3,serpentclanmonster_colour_dxt1.dds.header,Tiny.VA.1,1207903,1520
+f5414076937166d5,serpentclanmonsterweaponc.mat,Tiny.VE.1,1163538,1998
+1d8018ec6abb542c,serpentclanmonsterweapon_normal_dxt5.dds,Streaming/Content/data/worldareas/C0/sanctum_1.vworld,918066,1398276
+b186477d4df74e9b,serpentclanmonsterweapon_normal_dxt5.dds.header,Tiny.V4.1,1539554,1520
+331aac655573735c,serpentclanmonsterweapon_colour_dxt5.dds,Streaming/Content/data/worldareas/sanctum_1.vworld.7,24357860,1398276
+0165253dfc363239,serpentclanmonsterweapon_colour_dxt5.dds.header,Tiny.V6.1,1509328,1520

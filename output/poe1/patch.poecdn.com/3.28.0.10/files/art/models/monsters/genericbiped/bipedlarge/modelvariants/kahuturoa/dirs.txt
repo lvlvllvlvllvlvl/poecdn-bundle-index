@@ -1,4 +1,0 @@
-attachments
-attachments/helmet
-attachments/skirt
-attachments/weapon

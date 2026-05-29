@@ -1,0 +1,4 @@
+bloodaltarencounter
+soulcoreencounter
+statueencounter
+survivalencounter

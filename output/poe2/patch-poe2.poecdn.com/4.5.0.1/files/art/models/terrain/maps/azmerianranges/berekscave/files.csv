@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+2549d39ca280e75a,berekscave_01_rooffade_inner.fmt,Streaming/Content/data/balance/worldareas/mapazmerianranges.vworld.1,16777888,850432
+1a1f5a370ba0d267,berekscave_01_rooffade_inner.fmt.header,Tiny.V1,28379170,749
+afcebbd36672befe,berekscave_01_rooffade_outer.fmt,Streaming/Content/data/balance/worldareas/mapazmerianranges.vworld.1,17628320,370910
+586a3fc4fcdb2c0b,berekscave_01_rooffade_outer.fmt.header,Tiny.V5,27963648,661
+55253d455c9aa98a,berekscave_01.tgt,Content/data/balance/worldareas/hideoutmonolith.vworld,666004,8370
+41f358d78dccc176,berekscave_01.tmd,Tiny.V7,28393706,2194
+b56e7353d061438c,berekscave_02_rooffade_inner.fmt,Streaming/Content/data/balance/worldareas/mapazmerianranges.vworld.1,17999230,663064
+12086963ce3fcb5f,berekscave_02_rooffade_inner.fmt.header,Tiny.V2,28519916,748
+fc5637786d4d9561,berekscave_02_rooffade_outer.fmt,Streaming/Content/data/balance/worldareas/mapazmerianranges.vworld.1,18662294,320844
+9ffc991a5644bf52,berekscave_02_rooffade_outer.fmt.header,Tiny.VE,28216066,661
+c77ad33a5964d953,berekscave_02.tgt,Content/data/balance/worldareas/hideoutmonolith.vworld,674374,8314
+7cdf13a8352bc0fa,berekscave_02.tmd,Tiny.VF,28655688,2196

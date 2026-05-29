@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+15e1feb9823c1921,customfadebytimelinefloat.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/F1B52535E3154293.onact_attack_01.trl,420346,10972
+75e8716e173b81a9,custom_eyeglowfade_tlf.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/F1B52535E3154293.onact_attack_01.trl,431318,10986
+1e4da4eada59a3b4,custom_screenspaceblur.fxgraph,Content/metadata/effects/spells/monsters_effects/act8/1B96EA2C2C16B883.fire_beam.ao,2359088,57466
+34c04ec58f168f53,custom_scale_bytimelinefloat.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/ED93B2C1966D7550.vomit_decal_01.pet,470982,9782
+71e0143aa3b31547,timefreeze.fxgraph,Content/metadata/monsters/karuichieftain/karuicaptainboss2map.ot.1,349633,74238
+b2371898362186aa,timestrings_revealbytimeline.fxgraph,Content/metadata/effects/spells/monsters_effects/league_delirium/59369566DB17C627.splitemerge.ao,4636947,23862
+cf828f92ef7b1421,playerclones_alphactrl.fxgraph,Content/metadata/monsters/karuichieftain/karuicaptainboss2map.ot.1,423871,14722
+5941fa526b367c2e,playerclones_lookupcolour.fxgraph,Content/metadata/monsters/karuichieftain/karuicaptainboss2map.ot.1,438593,96078

@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+03013c8771c26407,projectile_impact.pet,Tiny.VF.1,143773606,58214
+38f095672309fd42,acidspray_charge.pet,Tiny.V5.1,145359682,34026
+480ffd2d9fd3c70f,acid_ground.pet,Tiny.V2.1,148273634,7000
+2d00296341431811,acid_groundfx.pet,Tiny.VA.1,146316058,25762
+8c4b550aa89b7bcb,bitevomit_charge.pet,Tiny.VA.1,146341820,35670
+26ce9ce8a14ad81d,bitevomit_impact.pet,Tiny.V9.1,147454896,71104
+b7f78d6543657d8f,bitevomit_impact_secondary.pet,Tiny.VB.1,147058337,25660
+c03f25f84f25d8fa,vomit_projectile.pet,Tiny.VC.1,148419823,6408
+7ef1bcf5c7669bcb,vomit_projectile_impact.pet,Tiny.V4.1,145822074,32134
+ea26731665e5a3ca,vomit_projectile_trail.trl,Tiny.V4.1,145854208,5194
+f948a163a3a1fe97,mouth_fwd.pet,Tiny.V9.1,147526000,23506
+9c02bd40114b97d6,mortar_projectile_trail.trl,Tiny.VF.1,143768408,5198
+a87af6f8ca7d4b02,mortar_projectile.pet,Tiny.V0.1,145274270,19330

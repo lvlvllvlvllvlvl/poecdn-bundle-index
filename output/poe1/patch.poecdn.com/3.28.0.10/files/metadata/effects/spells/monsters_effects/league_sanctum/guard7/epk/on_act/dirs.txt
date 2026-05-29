@@ -1,2 +1,0 @@
-spell_projectile_01
-teleport_01

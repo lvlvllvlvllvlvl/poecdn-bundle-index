@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+40e824fc3255cd15,spark.mat,Tiny_1,23566176,1434
+96e0fc4fc63ea856,spark_dxt5.dds,Tiny_8,3223846,516
+09d81a6600771dbf,spark_dxt5.dds.header,Tiny_8,3224362,1520
+dfd50322ceafd2e5,light_gradient.mat,Tiny_1,23564192,1984
+4a8df67401d1d9d2,light_gradient_dxt5.dds,Folders/art/particles/emp_mine,880697,22020
+259b21bc4013f625,light_gradient_dxt5.dds.header,Tiny_7,52349902,1520
+1ecdb082856b73ac,fire_bits_at.mat,Tiny_1,23561346,2846
+9c331425a9a6e952,fire_bits_at_dxt5.dds,Folders/art/microtransactions/footprints/stygian,0,87556
+2796eee12f9d8717,fire_bits_at_dxt5.dds.header,Tiny_8,3202376,1520
+3c4320ba0ce5faf2,black_wisps.mat,Tiny_1,23555710,2790
+6a6c007eeac5c773,black_wisps_dxt5.dds,Folders/art/particles/monster_particles/kitava_red,2405616,87556
+60ee6e8908da138a,black_wisps_dxt5.dds.header,Tiny_8,49155484,1520
+8bffe7c8bbaa580e,black_wisps2.mat,Tiny_1,23558500,2846
+d0bb4f647df0d66a,black_wisps2_dxt5.dds,Folders/art/particles/monster_particles/kitava_red,2405616,87556
+a9074e39c216409d,black_wisps2_dxt5.dds.header,Tiny_8,49155484,1520

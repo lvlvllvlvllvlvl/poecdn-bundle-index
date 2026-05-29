@@ -1,0 +1,5 @@
+animations
+attachments
+attachments/cthair
+attachments/ctshawl
+textures

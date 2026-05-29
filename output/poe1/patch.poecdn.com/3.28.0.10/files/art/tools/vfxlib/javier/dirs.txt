@@ -1,3 +1,0 @@
-assets
-tex_masters
-vfxlib

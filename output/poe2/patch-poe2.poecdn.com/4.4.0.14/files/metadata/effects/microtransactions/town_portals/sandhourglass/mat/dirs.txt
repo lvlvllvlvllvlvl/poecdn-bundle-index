@@ -1,8 +1,0 @@
-close
-open
-var_black
-var_black/close
-var_black/open
-var_red
-var_red/close
-var_red/open

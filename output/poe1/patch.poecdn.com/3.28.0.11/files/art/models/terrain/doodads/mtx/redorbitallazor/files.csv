@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+a938e4d3aa457ad3,small_rig_be2ad9fc.smd,Art/Models/Terrain/Doodads/Mtx/RedOrbitalLazor,109136,109136
+0743267e415e9fac,small_rig_be2ad9fc.smd.header,Tiny_4,40747027,519
+09f78f9247d6c7f6,smallhideoutorbitallazor.sm,Tiny_4,40750603,2044
+63e0c336e92bbadd,smallhideoutorbitallazor.amd,Tiny_4,40744346,98
+a7e177677a9d2cf7,smallhideoutorbitallazor.ast,Tiny_4,40750029,574
+14fa307932f8175f,med_rig_6b0f62bf.smd,Art/Models/Terrain/Doodads/Mtx/RedOrbitalLazor,109136,109136
+69d43b626b1d3b34,med_rig_6b0f62bf.smd.header,Tiny_4,40747027,519
+14fd3bc290e5bae4,mediumhideoutorbitallazor.sm,Tiny_4,40748109,1920
+5be21760637ab0a4,mediumhideoutorbitallazor.amd,Tiny_4,40744346,98
+ea9639a6fa1a0f75,mediumhideoutorbitallazor.ast,Tiny_4,40747546,563
+2cca9842a3cb51ba,fat_rig_0d425b77.smd,Art/Models/Terrain/Doodads/Mtx/RedOrbitalLazor,0,109136
+24ce2cfdc739a5f3,fat_rig_0d425b77.smd.header,Tiny_4,40743827,519
+d96fa52f92254475,fathideoutorbitallazor.sm,Tiny_4,40745007,2020
+87837bfe43d58249,fathideoutorbitallazor.amd,Tiny_4,40744346,98
+e7af6fcb586d64b6,fathideoutorbitallazor.ast,Tiny_4,40744444,563

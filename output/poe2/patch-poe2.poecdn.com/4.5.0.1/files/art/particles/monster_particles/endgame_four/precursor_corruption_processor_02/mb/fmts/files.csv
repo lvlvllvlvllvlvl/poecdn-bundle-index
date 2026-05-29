@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+edb7ee425258e70c,mp_rectring04_lod00.fmt,Tiny.V6,38671920,2024
+18d22de77cec010e,mp_rectring04_lod00.fmt.header,Tiny.V6,38673944,185
+8d6457ceb25c9a25,mp_rectring03_lod00.fmt,Tiny.V3,38042249,3800
+4b2a621ff01082e1,mp_rectring03_lod00.fmt.header,Tiny.V6,38671735,185
+29fe438dbb9bfaab,spirespike01a.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/FAD2B4308B7A5474.2295463C765B64CE.halo_pit_01.pet,471168,4628
+88e3ccfcbf5d7bfc,spirespike01a.fmt.header,Tiny.VD,39874072,183
+c224a1a9a5176f1d,spiralup_lod2.fmt,Tiny.VC,38860976,3434
+f91d31d9fd048735,spiralup_lod2.fmt.header,Tiny.V3,38046049,170
+4fbc5f3f37db05ac,beam_taper02.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/422C93F3E11BA0CC.5119442D1AADF30D.ice_beam.pet,0,48834
+fd7001477633e812,beam_taper02.fmt.header,Tiny.V3,38042071,178
+019760fb6ee2f523,volatileorb01.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/422C93F3E11BA0CC.5119442D1AADF30D.iceorb_projectile_delayed_blast.pet,0,15330
+57a9bc37fbac8d4a,volatileorb01.fmt.header,Tiny.VB,38936108,178

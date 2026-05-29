@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+0fe1affcf990b1dd,quillkiwic.mat,Tiny_8,41592162,3124
+234109c21c637d3e,quillkiwi_sss_dxt5.dds,Art/Textures/Monsters/QuillKiwi,0,349700
+f6e3a8bec8874885,quillkiwi_sss_dxt5.dds.header,Tiny_8,41590642,1520
+095181e86744c571,quillkiwi_normal_dxt5.dds,Art/Textures/Monsters/QuillKiwi_1,0,1398276
+579af5e27d8304e5,quillkiwi_normal_dxt5.dds.header,Tiny_8,41589122,1520
+163b419705fef91f,quillkiwi_colour_specular_dxt5.dds,Art/Textures/Monsters/QuillKiwi_2,0,699236
+b4cfb952b7ffef27,quillkiwi_colour_specular_dxt5.dds.header,Tiny_8,41588282,840
+0c462fce25d73015,quillkiwi_colour.dds,Art/Textures/Monsters/QuillKiwi_2,699236,174924
+2259364d035ee140,quillkiwi_colour.dds.header,Tiny_8,41586762,1520

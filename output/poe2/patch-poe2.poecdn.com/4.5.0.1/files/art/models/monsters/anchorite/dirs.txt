@@ -1,0 +1,11 @@
+anchoriteflathead
+anchoriteflathead/attachments
+anchoriteflathead/attachments/anchoriteflatheadweapon
+anchoritemother
+anchoritemother/attachments
+anchoritemother/attachments/anchoritemotherhair
+anchoritemother/attachments/anchoritemotherweapon
+anchoritespawn
+anchoritespawn/attachments
+anchoritespawn/attachments/anchoritespawnweapon
+textures

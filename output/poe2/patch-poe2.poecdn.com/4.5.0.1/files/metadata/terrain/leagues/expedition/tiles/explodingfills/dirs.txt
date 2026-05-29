@@ -1,0 +1,5 @@
+digsite
+peninsula
+tropical
+tundra
+wastes

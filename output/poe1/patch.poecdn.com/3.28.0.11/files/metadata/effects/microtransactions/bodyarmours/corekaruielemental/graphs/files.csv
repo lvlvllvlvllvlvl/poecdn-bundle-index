@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+d86dd0f96f8ed694,attract.fxgraph,Folders/metadata/effects.3,7587958,86816
+d188883c1a1bc157,glowadd_element_vibrancectrl.fxgraph,Folders/metadata/effects.3,8364360,281014
+bfb2c40685936e5a,laser_decay.fxgraph,Folders/metadata/effects.3,8645374,51280
+63d32b21af5cfbc6,magnetism_speedscale.fxgraph,Folders/metadata/effects.3,8696654,109068
+b0ff32424eb4f27b,particle_connectionpoint_flip.fxgraph,Folders/metadata/effects.3,8805722,44218
+e75e02e03f52e68c,sphere_mask.fxgraph,Folders/metadata/effects.3,8849940,58020
+5cf5aaffa44578fd,vtx_curlnoise.fxgraph,Folders/metadata/effects.3,8907960,110778
+923b74959f452429,customwindvortex_speedscale.fxgraph,Folders/metadata/effects.3,8163844,200516
+c641516f53656c31,custom_chaintotrail.fxgraph,Folders/metadata/effects.3,7674774,256328
+b9a60d9091d364c0,custom_flagconstraint.fxgraph,Folders/metadata/effects.3,7931102,218576
+ffa509f7725bb13d,custom_mainuv_actorscale.fxgraph,Folders/metadata/effects.3,8149678,14166
+b90b17715ae3aa22,custom_ribbonsblur.fxgraph,Folders/metadata/effects_8,10091844,20432

@@ -1,0 +1,15 @@
+broadsword
+charredshortsword
+commandersword
+cutlass
+darkblade
+falchion
+messer
+runicshortsword
+scimitar
+shortsword
+shortsword/shortswordsheathe
+sicklesword
+textures
+treasuredblade
+vampiricsword

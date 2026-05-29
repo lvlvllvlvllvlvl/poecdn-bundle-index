@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+58e1fe3d924b5142,fogmild03_lutc.mat,Tiny_8,28262498,2100
+d8998a9c0627a4b7,fogmild03_lut_dxt1.dds,Art/Textures/Misc/Fog_1,699212,699212
+de2c219ae1a2d98f,fogmild03_lut_dxt1.dds.header,Tiny_8,28260978,1520
+dfbd08ef6dadba63,fogmild02_lutc.mat,Tiny_8,28258876,2102
+49a8add8816eaf04,fogmild02_lut_dxt1.dds,Art/Textures/Misc/Fog_1,0,699212
+052b64dbc4751f30,fogmild02_lut_dxt1.dds.header,Tiny_8,28257356,1520
+dd12cd5ccd48eb2b,fogmild01_lutc.mat,Tiny_8,28254914,2442
+f37cade38c6e2c6f,fogmild01_lut_dxt1.dds,Art/Textures/Misc/Fog,0,699212
+c7e0e335f3f2675f,fogmild01_lut_dxt1.dds.header,Tiny_8,28253394,1520

@@ -1,0 +1,7 @@
+absorb_projectiles
+beam_01
+death_01
+death_02
+glow_hands
+rotating_projectiles_01
+v_slam

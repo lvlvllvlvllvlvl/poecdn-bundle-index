@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+6097f7e23f0f72b4,shard_small.fmt,Tiny_1,70265728,521
+7556965ec91261fe,shard_small.fmt.header,Tiny_1,70266249,174
+014db65a13c746bd,shard.fmt,Tiny_1,70264697,857
+26b4157fc57c743d,shard.fmt.header,Tiny_1,70265554,174
+f5581ceabb27b175,mirror_557d0fea.smd,Folders/art/microtransactions/town_portal/oriathwhiteportal_1,93736,74982
+04c09f4b06bbb955,mirror_557d0fea.smd.header,Tiny_1,70264329,368
+fe664c3630b2fa20,mirror.sm,Tiny_1,70263809,520
+371a9f4226a3a838,mirror.amd,Tiny_1,70263515,294
+cc7f10ade098148b,mirror.ast,Folders/art/microtransactions/town_portal/oriathwhiteportal_1,87556,6180

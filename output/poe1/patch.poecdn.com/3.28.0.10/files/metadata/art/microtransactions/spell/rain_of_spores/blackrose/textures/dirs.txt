@@ -1,6 +1,0 @@
-pods
-pods/fx
-projectile
-projectile/fx
-shooting_up
-shooting_up/fx

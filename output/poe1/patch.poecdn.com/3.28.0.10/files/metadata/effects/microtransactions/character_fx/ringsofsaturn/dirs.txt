@@ -1,5 +1,0 @@
-ao
-epk
-pet
-pet/close
-pet/open

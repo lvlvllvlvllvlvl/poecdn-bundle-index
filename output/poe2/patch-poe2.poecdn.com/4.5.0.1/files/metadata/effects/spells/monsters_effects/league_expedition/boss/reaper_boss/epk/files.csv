@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+2dd21742451f511f,emissive_mult.epk,Tiny.V5.1,140737156,510
+88c1e8da81c242d2,emissive_mult_epk_pass0.mat,Tiny.V6.1,135106385,970
+e366f53ae2194e7a,idle_fx.epk,Tiny.VD.1,140918478,2914
+ab6429d502c1363a,idle_fx_epk_pass0.mat,Tiny.V3.1,142356669,3544
+2404a758a7e10c01,fade_in.epk,Tiny.VD.1,140917716,762
+85736393e204759a,fade_in_epk_pass0.mat,Tiny.VF.1,139105362,1980
+924a62c6877c63ac,fade_out.epk,Tiny.VC.1,143848733,500
+32f896599aab16fa,fade_out_epk_pass0.mat,Tiny.V5.1,140737666,604
+54321c6567e8a769,fade_out_slow.epk,Tiny.VB.1,143245279,510
+6fd25fdfcf741fde,fade_out_slow_epk_pass0.mat,Tiny.V3.1,142355049,1620

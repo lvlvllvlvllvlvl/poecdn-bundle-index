@@ -1,6 +1,0 @@
-frostwall
-on_act
-on_act/snipe_01
-snipe_projectile
-snipe_projectile/animations
-wall_explode

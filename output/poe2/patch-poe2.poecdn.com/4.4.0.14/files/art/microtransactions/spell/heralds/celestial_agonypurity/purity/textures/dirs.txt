@@ -1,3 +1,0 @@
-minion
-minion/slam
-minion/spawn

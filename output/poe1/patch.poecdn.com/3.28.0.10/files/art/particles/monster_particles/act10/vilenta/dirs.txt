@@ -1,2 +1,0 @@
-grd_slam
-mortar_gas

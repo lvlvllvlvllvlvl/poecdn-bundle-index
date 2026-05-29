@@ -1,0 +1,7 @@
+coat
+hatfeather
+plants
+plants/back_rig
+plants/chest_rig
+plants/r_clav_rig
+sword

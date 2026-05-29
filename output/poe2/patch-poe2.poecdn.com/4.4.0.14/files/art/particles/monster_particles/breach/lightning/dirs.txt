@@ -1,6 +1,0 @@
-ball
-demonicspikethrower
-hellscapepaleelite2
-hellscapepaleelite2/tex
-new
-team_vaal_lw

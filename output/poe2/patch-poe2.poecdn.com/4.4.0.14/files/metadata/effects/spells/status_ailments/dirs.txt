@@ -1,4 +1,0 @@
-bleeding
-bleeding/epks
-bleeding/fx
-bleeding/graphs

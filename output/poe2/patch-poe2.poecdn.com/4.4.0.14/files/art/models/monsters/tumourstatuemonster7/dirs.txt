@@ -1,7 +1,0 @@
-textures
-tumourstatueblackmonsters7
-tumourstatueblackmonsters7/attachments
-tumourstatueblackmonsters7/attachments/bones
-tumourstatueblackmonsters7/attachments/bones_moss
-tumourstatueblackmonsters7/attachments/loopspines
-tumourstatueblackmonsters7/attachments/loopspines_moss

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+b9c8aebbc435cef2,groundplatecns.mat,Tiny_8,27509930,2012
+02514fbbb3664a69,groundplate_colour.dds,Art/Textures/Misc/BlessingStone,612180,43852
+d2a57e9d6a3b0e38,groundplate_colour.dds.header,Tiny_8,27508410,1520
+d171bae480827f14,groundplatens.dds,Art/Textures/Misc/BlessingStone,524624,87556
+c80a3eb0dd258654,groundplatens.dds.header,Tiny_8,27511942,1520
+3818242121151529,blessingpropcns.mat,Tiny_8,27504704,2186
+6325ccb490d77b21,blessingprop_colour.dds,Art/Textures/Misc/BlessingStone,349700,174924
+b2a7625a238b245c,blessingprop_colour.dds.header,Tiny_8,27503184,1520
+ec0be1ead2027cbb,blessingpropns.dds,Art/Textures/Misc/BlessingStone,0,349700
+f27dde01ae1724a8,blessingpropns.dds.header,Tiny_8,27506890,1520

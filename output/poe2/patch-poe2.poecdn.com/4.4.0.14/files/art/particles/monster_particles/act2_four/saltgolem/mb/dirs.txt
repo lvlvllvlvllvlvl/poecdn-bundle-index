@@ -1,3 +1,0 @@
-on_act
-on_act/death_boss_01
-on_act/death_boss_01/explosion

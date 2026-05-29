@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+c169f67328629f91,zoom_distort_r.mat,Tiny_8,120654476,11442
+0664bd0219080d02,zoom_distort_u.mat,Tiny_11,127344428,346
+70dd72a8a67786c9,strand_r.mat,Tiny_8,120615630,38846
+ebad727277a96f07,strand_u.mat,Tiny_11,96737702,576
+a5f2e83323478ca4,neuron_sphere_r.mat,Tiny_8,120527060,50004
+28aa135b7850fe3b,neuron_sphere_u.mat,Tiny_8,120577064,4344
+8e7a2384fd1b392d,neurons_01_r.mat,Tiny_8,120581408,34222
+69c6e2d807e68670,neurons_01_u.mat,Tiny_D,409483402,1140
+f754f1b62ec3b353,mblur_sphere_r.mat,Tiny_8,120517584,9476
+161b8aa7cfcc3905,mblur_sphere_u.mat,Tiny_11,127344428,346
+a4030f07d13c0306,materialise_orb_r.mat,Tiny_8,120481300,36284
+70aaaf4eb86b60e1,materialise_orb_u.mat,Tiny_D,360530799,3254
+36b3aa54d2e28ab4,blackhole_core_r.mat,Tiny_8,120475770,5530
+66a261b71520bbe4,blackhole_core_u.mat,Tiny_11,127344428,346
+9d517c7841190fa2,big_weaving_threads_r.mat,Tiny_8,121889828,73212
+38e8691144ec4031,big_weaving_threads_u.mat,Tiny_D,396819948,1160

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+788a512b4f2f75c6,black_solidc.mat,Tiny_8,34634346,1612
+bb5c68f05c0ca47c,black_solid.dds,Tiny_8,50662373,332
+2a65413b2f6299f8,black_solid.dds.header,Tiny_8,50662705,1520
+37e9c2869f688fd3,beast3cns.mat,Tiny_8,34631238,3108
+590129f97add51cb,beast3_colour.dds,Art/Textures/Monsters/CaveBeast/spectral,349700,174924
+870f9cabfd0a6f0e,beast3_colour.dds.header,Tiny_8,34629718,1520
+7c7f8636f737b461,beast3_alpha_hlc.mat,Tiny_8,34626570,3148
+87ebe1a4ecafb2d4,beast3_alpha_hl.dds,Art/Textures/Monsters/CaveBeast/spectral,0,349700
+b740ca345b39f32d,beast3_alpha_hl.dds.header,Tiny_8,34625050,1520
+df577ad9c13056ac,beast3ns.dds,Art/Textures/Monsters/CaveBeast/spectral,524624,349700
+40631d6d186f1d9b,beast3ns.dds.header,Tiny_8,33537958,1520

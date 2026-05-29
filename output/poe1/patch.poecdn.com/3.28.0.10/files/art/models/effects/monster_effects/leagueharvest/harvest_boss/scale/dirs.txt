@@ -1,9 +1,0 @@
-on_act_circle_of_doom
-on_act_stealth_attack_01
-on_act_stealth_attack_02
-perforate
-perforate_pulse
-stealth_hit
-vine_entrap
-vine_entrap_beam
-vine_entrap_blocking

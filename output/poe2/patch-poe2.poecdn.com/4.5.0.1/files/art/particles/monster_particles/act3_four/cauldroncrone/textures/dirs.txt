@@ -1,0 +1,6 @@
+despair
+enfeeble
+on_act
+temporal_chains
+vomit_mortar
+vulnerability

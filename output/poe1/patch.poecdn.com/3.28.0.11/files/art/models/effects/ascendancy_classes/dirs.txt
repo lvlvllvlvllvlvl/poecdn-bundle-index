@@ -1,0 +1,14 @@
+berserker
+berserker/blitz
+berserker/blitz/charges
+berserker/mighty_hit
+chieftain
+chieftain/karui_vulnerability_aura
+chieftain/karui_vulnerability_aura/totem
+chieftain/karui_vulnerability_aura/totem_affected_aura
+elementalist
+elementalist/pendulum_of_destruction
+necromancer
+necromancer/alies_buff
+necromancer/damage_reduction
+necromancer/damage_reduction/rig_new

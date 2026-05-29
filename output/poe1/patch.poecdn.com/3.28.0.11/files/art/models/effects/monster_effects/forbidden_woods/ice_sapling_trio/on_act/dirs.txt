@@ -1,0 +1,5 @@
+attack_01
+ice_orb
+ice_rune
+ice_spear
+teleport

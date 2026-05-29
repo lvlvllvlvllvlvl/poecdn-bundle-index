@@ -1,0 +1,11 @@
+axes
+bows
+claws
+daggers
+maces
+mauls
+misc
+scepters
+staves
+swords
+wands

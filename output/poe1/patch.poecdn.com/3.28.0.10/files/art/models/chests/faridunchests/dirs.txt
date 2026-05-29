@@ -1,7 +1,0 @@
-chestbronze
-chestbronzesmall
-chestgold
-chestgoldsmall
-chestsilver
-chestsilversmall
-textures

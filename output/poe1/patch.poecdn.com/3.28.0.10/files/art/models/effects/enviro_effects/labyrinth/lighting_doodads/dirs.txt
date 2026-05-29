@@ -1,4 +1,0 @@
-pointlight
-pointlight_fake
-spotlight
-spotlight_fake

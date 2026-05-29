@@ -1,3 +1,0 @@
-deserttrees
-groundmaterials
-ruins

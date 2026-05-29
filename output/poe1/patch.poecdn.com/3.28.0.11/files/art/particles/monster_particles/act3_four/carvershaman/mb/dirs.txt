@@ -1,0 +1,6 @@
+buff_01
+buff_01_small
+fire_proj
+on_act
+on_act/buff_01
+staff_light

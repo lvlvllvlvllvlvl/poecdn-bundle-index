@@ -1,9 +1,0 @@
-catarina_ver
-catarina_ver/ziggurattotem
-catarina_ver/ziggurattotem/cast
-catarina_ver/ziggurattotem/death
-catarina_ver/ziggurattotem/emerge
-catarina_ver/ziggurattotem/flinch
-catarina_ver/ziggurattotem/idle
-catarina_ver/ziggurattotem/submerge
-desecrated_ground_splashes

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+83e293eb1861aaba,glow_pass.mat,Tiny.V7.1,120511278,42534
+aabb7de2d4e7af35,explode_blur_r.mat,Tiny.VD.1,124132444,11794
+7f40784c0b762e09,mortar_sparks_01_r.mat,Tiny.V4.1,122810250,40058
+77de6c80f7f46c97,mortar_sparks_01_u.mat,Tiny.V7.1,120633662,26638
+e2058aedb4d0704d,bnpnt_emit_u.mat,Tiny.VD.1,5332868,346
+2d59c40e54735981,blur_windup_u.mat,Tiny.V5.1,123570766,3188
+833198a0f1192e73,fireball_barrier_r.mat,Tiny.VC.1,124909175,54224
+12904a9ff0529eb4,fire_arm_r.mat,Tiny.V2.1,126437642,61994
+2545118c764f2d86,fire_arm_u.mat,Tiny.V9.1,126509792,16668
+27f0ce9be942fe5f,fire_arm_sparks_r.mat,Tiny.V0.1,123429224,40028
+d3190714f52e099c,fire_arm_sparks_u.mat,Tiny.VB.1,125347611,22086

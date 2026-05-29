@@ -1,0 +1,9 @@
+attached
+fx
+graphs
+mats
+mats/attacheddummywells
+mats/blastwave
+mats/explosion
+mats/ground
+mats/oilwell_01

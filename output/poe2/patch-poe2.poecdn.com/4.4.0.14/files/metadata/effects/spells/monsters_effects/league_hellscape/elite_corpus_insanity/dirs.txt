@@ -1,9 +1,0 @@
-fx
-graphs
-mat
-mat/attack_01
-mat/bloodorb
-mat/bloodorb_burst
-mat/proj
-mat/spike
-onacts

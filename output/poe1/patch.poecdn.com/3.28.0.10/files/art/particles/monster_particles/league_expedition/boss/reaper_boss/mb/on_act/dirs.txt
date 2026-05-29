@@ -1,3 +1,0 @@
-crown_smoke
-emerge_boss
-teleport

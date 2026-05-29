@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+d5191430ecd6a220,smoke.mat,Tiny_6,40460490,7850
+65a4e434d065ec3f,smoke_shockwave_broken.mat,Tiny_6,40468340,4972
+996860e419102099,flash.mat,Tiny_6,40458784,1706
+0beecb7d951df567,flash.dds,Tiny_7,52607622,2892
+0ee2c31acaf6e738,flash.dds.header,Tiny_7,52610514,1520
+26fe02b510b00ba9,cloud_blackns.dds,Art/particles/ground_effects_v2/smoke_blind,22020,22020
+114d1b763561e59d,cloud_blackns.dds.header,Tiny_6,40457264,1520
+df3fb3f712e0d0a7,cloud_black.mat,Tiny_6,40453300,3964
+58b1892fbc7b1cb1,cloud_black.dds,Art/particles/ground_effects_v2/smoke_blind,0,22020
+0284ae3ab4a7f132,cloud_black.dds.header,Tiny_6,40451780,1520
+f36dc4dcdf3a6f75,black_spark.mat,Tiny_6,40450764,1016
+38b9d6602af02ce9,black_spark.dds,Tiny_7,12534549,1540
+82879a8084b81af0,black_spark.dds.header,Tiny_7,12536089,1520

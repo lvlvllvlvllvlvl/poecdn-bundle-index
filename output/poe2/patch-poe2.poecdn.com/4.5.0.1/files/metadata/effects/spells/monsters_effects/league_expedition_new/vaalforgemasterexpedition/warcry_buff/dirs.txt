@@ -1,0 +1,9 @@
+epk
+fx
+fx/buff_ondeath_explosion_01
+fx/warcry_aoe_01
+fx/warcry_buff
+mat
+mat/buff_ondeath_explosion_01
+mat/warcry_aoe_01
+mat/warcry_buff

@@ -1,0 +1,5 @@
+attachments
+attachments/helmetattachment
+attachments/robe
+fx
+textures

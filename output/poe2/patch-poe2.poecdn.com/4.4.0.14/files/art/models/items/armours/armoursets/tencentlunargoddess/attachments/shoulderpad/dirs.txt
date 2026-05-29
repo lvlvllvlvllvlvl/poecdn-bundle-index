@@ -1,3 +1,0 @@
-animation
-animation/lshoulder
-animation/rshoulder

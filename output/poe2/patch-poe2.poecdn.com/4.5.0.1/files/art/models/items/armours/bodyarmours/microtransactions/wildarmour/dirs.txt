@@ -1,0 +1,7 @@
+attachments
+attachments/helmet
+attachments/hood
+attachments/necklace
+attachments/necklace/female
+attachments/necklace/male
+attachments/skirt

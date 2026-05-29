@@ -1,5 +1,0 @@
-graphs
-rooms
-rooms/fills
-rooms/pipe_water
-rooms/unique

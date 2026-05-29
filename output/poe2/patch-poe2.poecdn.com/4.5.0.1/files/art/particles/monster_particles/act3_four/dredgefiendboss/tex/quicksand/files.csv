@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+f3a78de1572591c2,dust_render.mat,Tiny.V8,36181759,10082
+79ea1d10bfbc23c9,wind_render.mat,Tiny.V0,36864187,9280
+1fe2c404d09ffe54,wind_update.mat,Tiny.V6,34347620,208
+1208cb73bb727e81,ground_mask_02_bc7.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5A93FCB72819A04B.49204B5793A284E2.explode_fwdline.pet,714076,349700
+1cebe296ed61d202,ground_mask_02_bc7.dds.header,Tiny.V2,36491925,1520
+a41c0e7b4ee240b4,sandmainc.mat,Tiny.VC,36893513,7658
+0365dba9e2d3d024,sandhole_height_bc1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5A93FCB72819A04B.49204B5793A284E2.explode_fwdline.pet,1151332,43852
+89cd49ed77980380,sandhole_height_bc1.dds.header,Tiny.V4,36796200,1520
+a4b147caed82e27b,sand_hole_normal_b_bc7.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5A93FCB72819A04B.49204B5793A284E2.explode_fwdline.pet,1063776,87556
+929c10d8848acb8f,sand_hole_normal_b_bc7.dds.header,Tiny.V4,36794680,1520
+5bf63b68b66d4eec,smoke_render.mat,Tiny.VF,36583435,14606
+09a199464fc1a9b1,smoke_update.mat,Tiny.VF,36598041,894

@@ -1,8 +1,0 @@
-primordialaltars
-primordialaltars/pet
-primordialaltars/pet/cleansingfirealtar
-primordialaltars/pet/cleansingfirealtar/altar_fadeout
-primordialaltars/pet/cleansingfirealtar/altar_spawn
-primordialaltars/pet/tangledaltar
-primordialaltars/pet/tangledaltar/altar_fadeout
-primordialaltars/pet/tangledaltar/altar_spawn

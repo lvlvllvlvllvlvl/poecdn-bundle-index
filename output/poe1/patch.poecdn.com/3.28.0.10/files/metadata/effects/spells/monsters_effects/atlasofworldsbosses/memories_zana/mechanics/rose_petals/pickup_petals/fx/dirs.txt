@@ -1,3 +1,0 @@
-idle_01
-idle_01_l
-idle_01_s

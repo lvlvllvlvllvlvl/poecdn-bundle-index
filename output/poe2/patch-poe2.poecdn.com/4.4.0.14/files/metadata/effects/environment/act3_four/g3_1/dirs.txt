@@ -1,7 +1,0 @@
-pet
-pet/bubbleripple1
-pet/bubbleripple2
-pet/bubbleripple3
-pet/genericfog1
-pet/genericfog2
-pet/genericfog3

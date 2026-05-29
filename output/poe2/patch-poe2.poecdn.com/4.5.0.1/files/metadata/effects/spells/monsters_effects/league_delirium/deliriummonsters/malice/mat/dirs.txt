@@ -1,0 +1,7 @@
+air_aoe
+delayed_proj
+meleetrail
+ondeath_buildup
+ondeath_explode
+spikes
+spiketrail

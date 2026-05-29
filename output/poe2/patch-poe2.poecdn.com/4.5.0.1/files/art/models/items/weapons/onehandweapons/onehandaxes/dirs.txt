@@ -1,0 +1,13 @@
+basetypes
+basetypes/bandithatchet
+basetypes/beardedaxe
+basetypes/carvinghatchet
+basetypes/crescentaxe
+basetypes/furycleaver
+basetypes/hookaxe
+basetypes/textures
+microtransactions
+microtransactions/mtxforthailandaxe
+microtransactions/zodiacdragonaxe
+monsters
+uniques

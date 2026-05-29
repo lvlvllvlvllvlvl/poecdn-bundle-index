@@ -1,4 +1,0 @@
-champ_hound
-corpse_wheel
-synthesis_guardian4
-walker

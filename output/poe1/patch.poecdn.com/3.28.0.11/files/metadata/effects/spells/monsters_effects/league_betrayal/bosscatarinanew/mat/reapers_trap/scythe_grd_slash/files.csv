@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+f5c4be39d8b3f57d,sweep_core_u.mat,Tiny_D,350898361,6248
+bb04f3dde4485f67,sweep_core_r.mat,Tiny_D,350782951,57706
+a84405d628d1bc03,sweep_core_r2.mat,Tiny_D,350840657,57704
+c65e35797e6fc3f4,slam01_slashdecal_01_r.mat,Tiny_D,350745547,37404
+660d145ba1d2e2c6,slam01_slashdecal_01_u.mat,Tiny_11,127344428,346
+6d38657130061882,slam01_debris_01_r.mat,Tiny_D,350697765,23750
+c532c98f17419c9b,slam01_debris_02_u.mat,Tiny_D,350721515,24032
+6a07cd38122bd4a3,grd_scorch_r.mat,Tiny_D,350621637,76128
+e47e591c44e459e7,grd_fire_r.mat,Tiny_D,350584183,31422
+9b5159eec7bf28bf,grd_fire_u.mat,Tiny_D,350615605,6032
+8d9fd6343d353f9a,fire_shimmer_r.mat,Tiny_D,350504747,19520
+4b1251ccf74b5c60,fire_shimmer_u.mat,Tiny_D,350524267,2200
+3badca0182e8b65e,fireembers_r.mat,Tiny_D,350526467,32096
+200142ce3832abe0,fireembers_u.mat,Tiny_D,350558563,25620

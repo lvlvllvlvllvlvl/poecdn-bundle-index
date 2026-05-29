@@ -1,5 +1,0 @@
-beam
-beam/contact
-beam/fx
-pyramid
-pyramid/fx

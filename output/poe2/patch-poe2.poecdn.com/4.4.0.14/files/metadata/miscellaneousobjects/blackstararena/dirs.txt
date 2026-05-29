@@ -1,6 +1,0 @@
-attachment
-attachment/graph
-attachment/pet
-attachment/pet/arena_orb
-attachment/pet/arena_orb/idle_01
-attachment/pet/zone

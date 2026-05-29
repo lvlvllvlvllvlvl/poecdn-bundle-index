@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+bebbc769d8e3c8a6,folliage_02_r.mat,Tiny.V1.1,55208116,35628
+98e9c31fe1e0a03b,folliage_02_u.mat,Tiny.V4.1,57467544,5410
+587da9c5e4d2f882,manaflow_r.mat,Tiny.V5.1,57043398,71802
+b8f6e3eacb3d2e79,manaflow_u.mat,Tiny.V8.1,59567052,824
+c3269f49e9c19f8b,glitter_quads_r.mat,Tiny.VF.1,55104566,25740
+1203e194eefd759a,glitter_quads_u.mat,Tiny.V1.1,55243744,11606
+a31b3a7e8b100df4,ground_decal_r.mat,Tiny.V7.1,53331876,67952
+76cb1ff65a8e47e1,ground_decal_u.mat,Tiny.VE.1,57776158,4250
+4593019e441de6df,portal_drawin_ribbons_r.mat,Tiny.VB.1,57005151,69910
+000bced14786ac48,portal_drawin_ribbons_u.mat,Tiny.V2.1,58745464,41646
+245a7846bda1ec83,portal_edge_ribbons_r.mat,Tiny.V0.1,56963836,61392
+18a9fe29f21b71be,portal_edge_ribbons_u.mat,Tiny.V4.1,57472954,11606
+089d302acfb787fb,portal_core_r.mat,Tiny.V3.1,56779711,81904
+1baa1dbcf4d69796,portal_core_u.mat,Tiny.V3.1,56599069,2430
+6c8b300fb94b054b,portal_core_blur_r.mat,Tiny.V2.1,58711988,33476
+ec8e6b345731ab5a,portal_core_blocker_r.mat,Tiny.V0.1,56933944,29892

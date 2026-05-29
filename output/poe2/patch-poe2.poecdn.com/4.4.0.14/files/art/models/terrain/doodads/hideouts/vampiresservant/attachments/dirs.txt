@@ -1,4 +1,0 @@
-banana
-banana/textures
-currency
-currency/textures

@@ -1,7 +1,0 @@
-fx
-fx/ao
-fx/graph
-fx/mat
-fx/mat/blood_grd
-fx/mat/brazier
-fx/pet

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+78f64f235c6c450d,sawbone_weaponc.mat,Tiny_8,42207032,2930
+2d8abd25e649961a,sawbone_weapon_specular_dxt5.dds,Art/Textures/Monsters/SawBone_1,0,5592580
+210d6cad6b86275f,sawbone_weapon_specular_dxt5.dds.header,Tiny_8,42205512,1520
+fc5ccdb47638d093,sawbone_weapon_normal_dxt5.dds,Art/Microtransactions/spell/lightning_strike_02_2,0,5592580
+cfa8756fcf7222e9,sawbone_weapon_normal_dxt5.dds.header,Tiny_8,42203992,1520
+d7178cb46b54af92,sawbone_weapon_colour_dxt5.dds,Art/Textures/Monsters/SawBone,0,5592580
+ffebc132d58836a3,sawbone_weapon_colour_dxt5.dds.header,Tiny_8,42202472,1520
+8ddc0a925010361a,sawbone_weapon_colour_bc7.dds,Art/Textures/Monsters/SawBone,0,5592580
+a202c7f516197dc3,sawbone_weapon_colour_bc7.dds.header,Tiny_8,42202472,1520
+4cf165fc11813f69,sawbone_weapon_colour.dds,Art/Microtransactions/spell/lightning_strike_02,0,2796364
+5de175c1ebb46ebc,sawbone_weapon_colour.dds.header,Tiny_8,42200952,1520

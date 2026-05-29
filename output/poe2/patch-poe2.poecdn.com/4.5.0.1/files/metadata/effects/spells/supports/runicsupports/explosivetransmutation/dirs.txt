@@ -1,0 +1,11 @@
+attached
+epks
+fx
+mats
+mats/chaos
+mats/cold
+mats/fire
+mats/kalguuran
+mats/lightning
+mats/onact
+mats/physical

@@ -1,0 +1,6 @@
+ice_bomb
+ice_bomb/tex
+lightning_scatter
+lightning_scatter/tex
+projectile
+projectile/tex

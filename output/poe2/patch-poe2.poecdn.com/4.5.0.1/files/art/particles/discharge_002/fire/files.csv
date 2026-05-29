@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+1cbcb1ea0e818b47,explosion_colour.mat,Tiny.V3,34135206,1766
+d30e84b7947824a9,explosion_colour.dds,Streaming/Content/metadata/particles/molten_armour/surge_cyl.pet,22020,87556
+bebbb73f3946f2ae,explosion_colour.dds.header,Tiny.V4,34868688,1520
+ed57fd5dcdd09e31,lava_dots.mat,Tiny.V2,34585674,2530
+b3a15182167f72dc,lava_dots.dds,Streaming/Content/metadata/particles/molten_armour/surge_cyl.pet,109576,11084
+7fa38f4346342413,lava_dots.dds.header,Tiny.V0,34763847,1520
+a6ad2ea534325e67,light_ring_add.mat,Tiny.V4,34870208,1642
+efb356be2f09711d,light_ring_add.dds,Streaming/Content/metadata/particles/monster_effects/7B18F275108C0283.line.pet,498428,11084
+f4ad734903a91f72,light_ring_add.dds.header,Tiny.VE,34196759,1520
+119f2d9765e124de,lightup_addc.mat,Tiny.VE,34198279,2656
+23bbd00b144cecbd,lightup_add.dds,Streaming/Content/metadata/effects/spells/summon_arbalists/A2423F3D01E7A113.cyl_spawn.pet,1131770,87556
+92696e4243abaa94,lightup_add.dds.header,Tiny.VE,3738578,1520

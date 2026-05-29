@@ -1,0 +1,8 @@
+action
+backalleytrader
+dead
+leaning
+rowing
+sitting
+standing
+standing/corpsepile

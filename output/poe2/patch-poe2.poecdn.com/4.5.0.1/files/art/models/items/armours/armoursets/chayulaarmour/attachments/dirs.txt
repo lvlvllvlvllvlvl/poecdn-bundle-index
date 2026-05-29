@@ -1,0 +1,6 @@
+helmet
+helmet/helmeta
+helmet/helmetb
+loincloth
+shawl
+skirt

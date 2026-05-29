@@ -1,7 +1,0 @@
-act
-final_combo
-general_teleport
-general_teleport/graphs
-kagebushin
-kagebushin/graph
-spinning_slash

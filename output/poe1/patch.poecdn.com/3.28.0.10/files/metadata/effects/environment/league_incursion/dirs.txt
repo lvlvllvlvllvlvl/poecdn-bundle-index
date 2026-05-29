@@ -1,8 +1,0 @@
-alva_cazar_altar
-incursion_doorexplosion
-incursion_doors
-incursion_doors/doorway_past_01
-incursion_doors/incursionatziridoor
-temple_entrance
-temple_entrance/portal
-temple_misc

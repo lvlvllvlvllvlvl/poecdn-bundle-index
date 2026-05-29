@@ -1,0 +1,7 @@
+textures
+textures/pods
+textures/pods/fx
+textures/projectile
+textures/projectile/fx
+textures/shooting_up
+textures/shooting_up/fx

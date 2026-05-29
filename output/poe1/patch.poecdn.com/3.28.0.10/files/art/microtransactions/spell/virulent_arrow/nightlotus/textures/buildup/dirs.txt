@@ -1,2 +1,0 @@
-fx
-fx/weapon_fx

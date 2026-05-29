@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+a45af0e30bb52df9,lowwallc.mat,Tiny_7,91041819,2418
+62b1c3232a47b89d,lowwall_normal_dxt5.dds,Art/Textures/Environment/Woods/Lumbermill_4,0,2796388
+c6d5ccd997e4e54c,lowwall_normal_dxt5.dds.header,Tiny_7,91040979,840
+cdccb172c00cfc96,lowwall_colour_dxt1.dds,Art/Textures/Environment/Woods/Lumbermill_3,0,1398268
+a323091bf5b181bb,lowwall_colour_dxt1.dds.header,Tiny_7,91040139,840
+7326afaa0475406c,lowwall_colour.dds,Art/Textures/Environment/Woods/Lumbermill_3,0,1398268
+41df3318e49fb8ae,lowwall_colour.dds.header,Tiny_7,91040139,840
+46879666b0a188f7,highwallc.mat,Tiny_7,91037703,2436
+9787871c47397ea8,highwall_normal_dxt5.dds,Art/Textures/Environment/Woods/Lumbermill_2,0,2796388
+c5cec8db64c2f7ff,highwall_normal_dxt5.dds.header,Tiny_7,91036863,840
+a2bab4e53c90e9ea,highwall_colour_dxt1.dds,Art/Textures/Environment/Woods/Lumbermill_1,0,1398268
+b0bd89dd05cefe8d,highwall_colour_dxt1.dds.header,Tiny_7,91036023,840
+0161facafeb1f1ea,highwall_colour.dds,Art/Textures/Environment/Woods/Lumbermill_1,0,1398268
+9fe01e79e7982949,highwall_colour.dds.header,Tiny_7,91036023,840

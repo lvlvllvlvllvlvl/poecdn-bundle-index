@@ -1,0 +1,10 @@
+basic_attack
+boss_emerge
+boss_emerge_01
+cascade_blast
+chaos_stormcall
+chaos_stormcall_marker
+chaosdisco_beam_01
+expanding_nova
+idle_fx
+particle_death

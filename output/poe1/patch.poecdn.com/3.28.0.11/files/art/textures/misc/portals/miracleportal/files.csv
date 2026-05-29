@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+a7b8b4cd9a8b9b1e,miracleportalarmsc.mat,Tiny_8,30613244,3680
+09d5d8e62c1dae86,miracleportalarms_normal_dxt5.dds,Art/Textures/Misc/portals/MiraclePortal,0,349700
+a92370cfa7a6ab4b,miracleportalarms_normal_dxt5.dds.header,Tiny_8,30611724,1520
+323e0f33a71396e3,miracleportalarms_colour_mask_dxt5.dds,Art/Textures/Misc/portals/MiraclePortal,699400,87556
+c5c325f31f47c6a6,miracleportalarms_colour_mask_dxt5.dds.header,Tiny_8,30610204,1520
+ec55a658f3a03f89,miracleportalarms_colour_dxt5.dds,Art/Textures/Misc/portals/MiraclePortal,349700,349700
+1bd34c4507a4a47c,miracleportalarms_colour_dxt5.dds.header,Tiny_8,30608684,1520
+e9455895d8505d3f,miracleportalarms_colour_bc7.dds,Art/Textures/Misc/portals/MiraclePortal,349700,349700
+a4e2f1938c857ff9,miracleportalarms_colour_bc7.dds.header,Tiny_8,30608684,1520
+6e6875462eac804c,miracleportalarms_colour.dds,Art/Textures/Misc/portals/MiraclePortal,786956,174924
+5c78b846ea74e819,miracleportalarms_colour.dds.header,Tiny_8,30607164,1520

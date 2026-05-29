@@ -1,0 +1,20 @@
+hash,file,bundle,offset,size
+073552386165c538,layer_1c.mat,Tiny_7,60043671,2502
+be7d091a3411819a,layer_1.dds,Art/Textures/Characters/Adventurer/piety/ice,0,349700
+1da27d31ae9e2d58,layer_1.dds.header,Tiny_7,60024249,1520
+86cf79ed97b66ed9,dexintunique01 normalndexintunique01 speculars.dds,Art/Textures/Characters/Adventurer/piety/ice_1,0,1398276
+50212df03c266433,dexintunique01 normalndexintunique01 speculars.dds.header,Tiny_7,60042151,1520
+c274b3fee77b6cd2,dexintunique colourcdexintunique01 normalndexintunique01 speculars.mat,Tiny_7,60039459,2692
+322ecaf8a50473d7,dexintunique colour.dds,Art/Textures/Characters/Adventurer/piety/ice_2,0,1398276
+4e601afbaa9aa07b,dexintunique colour.dds.header,Tiny_7,60037939,1520
+74f130234d5b7617,basecbase_normnbase_specs.mat,Tiny_7,60034823,3116
+af56c624af3cc145,base_normnbase_specs.dds,Art/Textures/Characters/Adventurer/piety/ice,699400,349700
+a805854f73440239,base_normnbase_specs.dds.header,Tiny_7,60033303,1520
+e57175afb4510529,base_colour.dds,Art/Textures/Characters/Adventurer/piety/ice,349700,349700
+7183a32bd53be8c1,base_colour.dds.header,Tiny_7,60031783,1520
+15c010c30c818ce2,armour_layer_1c.mat,Tiny_7,60028851,2932
+1421105df1c291a9,armour_layer_1.dds,Art/Textures/Items/weapon/bows,656432,349700
+ad16e768876e73dc,armour_layer_1.dds.header,Tiny_8,23946809,1520
+bc1d346fbb53a9c8,armour_layer2c.mat,Tiny_7,60025769,3082
+42b1257c7becc6ac,armour_layer2.dds,Art/Textures/Characters/Adventurer/piety/ice,0,349700
+5f4539002c7c3573,armour_layer2.dds.header,Tiny_7,60024249,1520

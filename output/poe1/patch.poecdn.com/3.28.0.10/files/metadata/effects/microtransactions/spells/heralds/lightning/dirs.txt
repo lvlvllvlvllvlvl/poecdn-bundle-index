@@ -1,4 +1,0 @@
-sirus
-sirus/epk
-sirus/fx
-sirus/mat

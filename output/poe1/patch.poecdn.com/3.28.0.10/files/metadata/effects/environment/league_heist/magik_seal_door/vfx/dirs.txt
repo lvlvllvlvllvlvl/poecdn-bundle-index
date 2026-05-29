@@ -1,5 +1,0 @@
-graphs
-pet
-pet/robot
-pet/science
-pet/templar

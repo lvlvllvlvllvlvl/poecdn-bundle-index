@@ -1,4 +1,0 @@
-mb
-mb/lightning_strike
-textures
-textures/lightning_strike

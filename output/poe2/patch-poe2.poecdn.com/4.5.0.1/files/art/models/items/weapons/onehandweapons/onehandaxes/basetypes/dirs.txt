@@ -1,0 +1,7 @@
+bandithatchet
+beardedaxe
+carvinghatchet
+crescentaxe
+furycleaver
+hookaxe
+textures

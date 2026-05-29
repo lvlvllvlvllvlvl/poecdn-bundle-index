@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+f0c1628bab3e1fa8,scarecrow_sss_dxt5.dds,Streaming/Content/metadata/chests/village/scarecrows/scarecrow_01.ao,919019,5592580
+29fd6a419ab2c9a6,scarecrow_sss_dxt5.dds.header,Tiny.V3.1,979595,1520
+1dc195c90722a857,scarecrow_specular_dxt5.dds,Streaming/Content/metadata/chests/village/scarecrows/scarecrow_01.ao,569319,349700
+ff5bff7f81858599,scarecrow_specular_dxt5.dds.header,Tiny.VF.1,1479452,1520
+54abc7ebe9f01d9a,scarecrow_normal_dxt5.dds,Streaming/Content/metadata/chests/village/scarecrows/scarecrow_01.ao,219619,349700
+4bc579f5fd248e8c,scarecrow_normal_dxt5.dds.header,Tiny.V4.1,1528342,1520
+5bbea16b95505af1,scarecrowblackc.mat,Tiny.V5.1,1041982,4194
+7017e4892a4ad593,scarecrowblack_colour_bc7.dds,Streaming/Content/metadata/chests/village/scarecrows/scarecrow_01.ao.1,174924,349700
+eaa7941c4a9ba192,scarecrowblack_colour_bc7.dds.header,Tiny.V5.1,1040462,1520
+533854059272731a,scarecrowblack_colour.dds,Streaming/Content/metadata/chests/village/scarecrows/scarecrow_01.ao.1,0,174924
+5c4d415e4f0f4dc9,scarecrowblack_colour.dds.header,Tiny.V6.1,1500954,1520

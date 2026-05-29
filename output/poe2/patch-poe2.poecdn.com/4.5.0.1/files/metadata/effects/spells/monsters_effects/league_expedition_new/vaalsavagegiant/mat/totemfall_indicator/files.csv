@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+07c69632ee074124,embers_01_r.mat,Tiny.V7.1,149848196,31628
+3c61f2576fe7f999,charge_embers_01_u.mat,Tiny.V1.1,151408164,44588
+2b50fa41edeceda3,charge_coneglow_01_r1.mat,Tiny.V7.1,149776920,71276
+ee16a05d06d7e858,charge_coneblur_01_r.mat,Tiny.V2.1,154265036,38006
+015340311bfd90e7,charge_coneblur_01_u.mat,Tiny.V9.1,153605174,4750
+69fa927602e8c2d5,markerring_border_r1.mat,Tiny.V2.1,154303042,48924
+d8b2aba793c5c21d,markerring_border_u.mat,Tiny.V5.1,4576716,576
+f8e7336d9cc1e866,marker_sphereblur_01_r.mat,Tiny.VB.1,152270909,6800
+4402c364e7500c46,marker_sphereblur_01_u.mat,Tiny.VA.1,150852068,2210
+51c2a092fd3d204d,markercore_r.mat,Tiny.VC.1,154679615,53196
+3d1031c9844ee3fe,markercore_u.mat,Tiny.V5.1,4576716,576

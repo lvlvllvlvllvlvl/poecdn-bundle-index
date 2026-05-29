@@ -1,0 +1,8 @@
+epk
+fx
+mat
+mat/attack_trail
+mat/corpse_explosion_01_ground
+mat/energy_merge
+mat/hand_glow_cast
+mat/liquid_metal_arm

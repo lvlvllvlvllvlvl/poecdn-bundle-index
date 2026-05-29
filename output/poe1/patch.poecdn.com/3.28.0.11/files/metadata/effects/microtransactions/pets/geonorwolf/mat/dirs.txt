@@ -1,0 +1,3 @@
+footprint
+idle_relaxed_01
+transition

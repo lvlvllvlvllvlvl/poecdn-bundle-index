@@ -1,3 +1,0 @@
-mat
-mat/spike_emerge
-mat/spikes

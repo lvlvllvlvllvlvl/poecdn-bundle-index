@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+1700f065f4b8700f,demon2cns.mat,Tiny_8,22238279,3330
+0a3976dbde48b207,demon2_glowc.mat,Tiny_8,22235547,2732
+aa3ac8d2af73df72,demon2_glow.dds,Art/Textures/Items/CharacterEffects/Demon2,787292,349700
+e32a863cd35d464a,demon2_glow.dds.header,Tiny_8,22234027,1520
+1960496bf88f8a50,demon2_colour.dds,Art/Textures/Items/CharacterEffects/Demon2,349700,174924
+b4af6c09279a2e18,demon2_colour.dds.header,Tiny_8,22232507,1520
+954927c30efbbf52,demon2_auracns.mat,Tiny_8,22228353,2634
+db2191eed530febe,demon2_aura_glowc.mat,Tiny_8,22226031,2322
+329ff31cdd409afe,demon2_aura_glow.dds,Art/Textures/Items/CharacterEffects/Demon2,699736,87556
+4e13cbdff3e4f556,demon2_aura_glow.dds.header,Tiny_8,22224511,1520
+12816cea645d5c86,demon2_aura_colour.dds,Art/Textures/Items/CharacterEffects/Demon2,612180,87556
+910164a67b4cf8ab,demon2_aura_colour.dds.header,Tiny_8,22222991,1520
+697b70c6831569dc,demon2_aurans.dds,Art/Textures/Items/CharacterEffects/Demon2,524624,87556
+8a85375a8d9adbe7,demon2_aurans.dds.header,Tiny_8,22230987,1520
+6e7b262a2e1a43cd,demon2ns.dds,Art/Textures/Items/CharacterEffects/Demon2,0,349700
+82c48760ca93f954,demon2ns.dds.header,Tiny_8,22241609,1520

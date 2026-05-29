@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+54af2366234e7cfd,flare_01_r.mat,Tiny_D,83747156,50408
+032043aedb62e227,ptemit_u.mat,Tiny_D,396819948,1160
+556b7a07050b78c2,windup_blast_r1.mat,Tiny_D,83896320,50816
+06a0331ddc0ca924,windup_blast_u.mat,Tiny_11,127344428,346
+423384587291d471,spheredistort_01_r.mat,Tiny_D,83879646,16674
+12107b57dbd575e9,sparks_r.mat,Tiny_D,83840188,27964
+a5ae72611b0ec414,sparks_u.mat,Tiny_D,83868152,11494
+56ff250e29b3100b,sparks_02_r.mat,Tiny_D,83797564,31832
+9bd0a9380e4f62f6,sparks_02_u.mat,Tiny_D,83829396,10792
+f564431a659a5ce3,beam_blur_01_r.mat,Tiny_D,83704054,43102
+ee47206cdf4e1c8b,beam_01_r.mat,Tiny_D,83618956,78388
+f76a6990c2488993,beam_01_u.mat,Tiny_D,83697344,6710

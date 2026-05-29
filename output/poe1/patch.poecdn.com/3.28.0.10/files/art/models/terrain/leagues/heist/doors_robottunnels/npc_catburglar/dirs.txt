@@ -1,9 +1,0 @@
-catburglarcv_in
-catburglarcv_in/animations
-catburglarcv_out
-catburglarcv_out/animations
-catburglarst_in
-catburglarst_in/animations
-catburglarst_out
-catburglarst_out/animations
-tgms

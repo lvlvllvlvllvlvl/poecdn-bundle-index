@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+db22053aaf1fd7bb,brch_blackc.mat,Tiny_5,58478404,638
+302e7d18e1614229,brch_black_nobreachc.mat,Tiny_5,58478404,638
+7431b2dd1a0e2d3c,brch_black_shadowonlyc.mat,Tiny_5,58477806,598
+e7aa2804a5dc64b9,brch_black_shadowonly_nobreachc.mat,Tiny_5,58477806,598
+03516a1a2298221b,brch_black_shadowonly.dds,Tiny_8,27825152,172
+04f71482529bb91b,brch_black_shadowonly.dds.header,Tiny_8,27482320,240
+fa11782e2eeb9746,brch_blacknofognoshadowc.mat,Tiny_5,58479042,918
+4eacfcc332f991f7,brch_blacknofognoshadow_nobreachc.mat,Tiny_5,58479042,918
+1fb08fe2f20726a2,brch_blacknofognoshadow.dds,Tiny_8,27825152,172
+945ff3d84e2a6027,brch_blacknofognoshadow.dds.header,Tiny_8,27482320,240
+3ad716273f113fa6,brch_black.dds,Tiny_8,27825152,172
+ea67ebf5732104db,brch_black.dds.header,Tiny_8,27482320,240
+6eba73fb6051e1fb,brch_abyss_fade_decalc.mat,Tiny_5,58477018,788
+2e9adb84a9a5ee30,brch_abyss_fade_decal_nobreachc.mat,Tiny_5,58476358,660
+604cda69e10776b9,brch_abyss_fade_decal.dds,Folders/art/models/terrain/leagues/breach/handportal,308920,87556
+258e4095e0678173,brch_abyss_fade_decal.dds.header,Tiny_5,58474838,1520

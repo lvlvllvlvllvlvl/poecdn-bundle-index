@@ -1,0 +1,7 @@
+ao
+epk
+mat
+mat/common
+mat/magical
+mat/rare
+pet

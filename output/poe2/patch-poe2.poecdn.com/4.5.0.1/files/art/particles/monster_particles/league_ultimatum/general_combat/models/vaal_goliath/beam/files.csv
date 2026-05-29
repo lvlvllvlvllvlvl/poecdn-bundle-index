@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+eca4a162e8b491c6,beam.sm,Tiny.V8,40028887,380
+815fe82fd0dd2e74,rig_bab1795e.smd,Tiny.V4,34529030,72
+0d441f84b0506e7d,rig_bab1795e.smd.header,Tiny.V3,39874584,368
+5c4c2952af4a263e,rig.amd,Tiny.VF,40409288,226
+07f3e5e59a17295a,rig.ast,Tiny.VA,40727413,3216

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+ab013b96929f5bfe,axehead_mainblade_01_r.mat,Tiny.V5.1,107052432,64420
+cc83d9205706ddf5,axehead_mainblade_01_u.mat,Tiny.VD.1,5332868,346
+1ba00f1c5ca7f28c,cleavetrail_jade_01_r.mat,Tiny.VF.1,104126866,64746
+b136a58230e9932e,cleavetrail_mblur_01_r.mat,Tiny.VF.1,114893950,16462
+1e5e81c95f3e9d41,cleavetrail_debris_02_r.mat,Tiny.V6.1,110322695,36188
+90a3509dfd1f32ce,cleavetrail_debris_02_u.mat,Tiny.VC.1,109384031,15036
+69cb87b7187fd6f6,cleavetrail_embers_01_r.mat,Tiny.V6.1,108392473,35278
+18317d1acd33db93,cleavetrail_embers_01_u.mat,Tiny.VE.1,114938502,14260
+fa881f72d358d4f9,cleavetrail_glow_01_r.mat,Tiny.V2.1,109406208,33288
+83f4f8c1f13e3e25,cleavetrail_glow_02_r.mat,Tiny.V3.1,106577915,37430
+b16a83fc0f5fdd2a,cleavetrail_smudge_01_r.mat,Tiny.V3.1,106615345,34720
+cb35e4b58c4b8698,cleavetrail_shimmer_01_r.mat,Tiny.V1.1,118034360,17438
+7a7864f4f860cad8,gather_skin_01_r1.mat,Tiny.V9.1,110140286,38446
+0efc176b0da38d31,gather_buildglow_01_r1.mat,Tiny.V5.1,107116852,34408
+05703da79dd879b5,gather_buildblur_01_r.mat,Tiny.V5.1,107001586,23672
+7b2d72394540c586,gather_buildblur_01_u.mat,Tiny.V7.1,104479956,1164

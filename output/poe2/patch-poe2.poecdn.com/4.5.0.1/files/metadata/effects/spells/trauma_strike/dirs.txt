@@ -1,0 +1,3 @@
+pet
+pet/hit_fx
+pet/weapon_buildup

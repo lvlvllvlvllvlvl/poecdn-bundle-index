@@ -1,0 +1,4 @@
+cavestalagmites
+cavestromatolites
+ground
+stalagmites

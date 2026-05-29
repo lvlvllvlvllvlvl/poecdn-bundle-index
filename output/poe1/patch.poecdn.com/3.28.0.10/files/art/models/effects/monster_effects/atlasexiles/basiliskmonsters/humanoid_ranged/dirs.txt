@@ -1,9 +1,0 @@
-default_projectile
-on_act_snipe
-rain_of_arrows_arrow
-rain_of_arrows_impact
-snipe_pierce
-toxic_rain
-toxic_rain/pods
-toxic_rain/projectile
-virulentsnipe_projectile

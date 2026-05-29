@@ -1,5 +1,0 @@
-onact
-onact/groundslam
-smite
-smite/impact
-smite_weapon_buff

@@ -1,8 +1,0 @@
-skirtfemale
-skirtfemale/attachments
-skirtfemale/attachments/beltdecorf
-skirtfemale/attachments/clothf
-skirtmale
-skirtmale/attachments
-skirtmale/attachments/beltdecorm
-skirtmale/attachments/clothm

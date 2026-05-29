@@ -1,0 +1,10 @@
+mb
+mb/shield_crush
+mb/shield_throw
+mb/shield_wave
+mb/sunder
+textures
+textures/shield_crush
+textures/shield_throw
+textures/shield_wave
+textures/sunder

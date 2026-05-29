@@ -1,0 +1,6 @@
+attachments
+attachments/greatsnakeskeletonboss
+attachments/greatsnakeskeletonboss/textures
+fire_skull_beam
+multi_slam
+texture

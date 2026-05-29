@@ -1,0 +1,7 @@
+attachments
+attachments/capelet
+attachments/skirt
+attachments/skirt/f
+attachments/skirt/m
+attachments/sleeves
+textures

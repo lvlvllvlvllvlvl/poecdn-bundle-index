@@ -1,0 +1,10 @@
+blue
+blue/objects
+green
+green/objects
+oshabi
+oshabi/attachments
+oshabi/combatvines
+oshabi/objects
+red
+red/objects

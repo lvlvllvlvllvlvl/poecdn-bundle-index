@@ -1,8 +1,0 @@
-doodads
-doodads/graves
-doodads/morguelocker
-doodads/shardlight
-tiles
-tiles/textures
-tiles/textures/ground
-tiles/tgms

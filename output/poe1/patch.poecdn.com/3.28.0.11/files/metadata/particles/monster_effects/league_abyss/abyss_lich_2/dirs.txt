@@ -1,0 +1,5 @@
+shard_spear
+shard_spear_projectile
+shard_weapon
+spearstab
+totem

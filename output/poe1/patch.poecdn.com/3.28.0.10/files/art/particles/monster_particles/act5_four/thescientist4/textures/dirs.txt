@@ -1,9 +1,0 @@
-basic_arrow
-frostwall
-frostwall/idle
-on_act
-on_act/attack_01
-on_act/snipe_01
-rainofarrows
-snipe_projectile
-wall_explode

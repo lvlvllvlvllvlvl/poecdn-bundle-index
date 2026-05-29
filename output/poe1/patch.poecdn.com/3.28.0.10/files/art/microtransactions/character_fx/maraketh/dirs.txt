@@ -1,8 +1,0 @@
-fx
-mb
-tier_1
-tier_2
-tier_3
-tier_4
-tier_5
-tier_6

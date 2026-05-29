@@ -1,0 +1,6 @@
+explosive_buildup
+explosive_round
+hover
+idle
+railgun
+rapid_round

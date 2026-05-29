@@ -1,0 +1,4 @@
+animate_guardian_beam
+bloodlines_vigour_charge
+bloodlines_zeal_charge
+phylacteral_link

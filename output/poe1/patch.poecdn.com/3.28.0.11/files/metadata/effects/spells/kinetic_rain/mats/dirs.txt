@@ -1,0 +1,4 @@
+explosion
+impact
+orb
+trail

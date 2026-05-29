@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+b6287cf2dd43eddd,rootsc.mat,Tiny_8,15988237,3562
+72685cb8ce8785a4,roots.dds,Art/Textures/Items/armour/Capes/HavenwoodCloak_2,349700,349700
+d188305f3f38eefc,roots.dds.header,Tiny_8,15986717,1520
+8897fefc381343cf,havenwoodcloakc.mat,Tiny_8,15980903,5814
+4d817b19a9c7cdc7,havenwoodcloak_normal_dxt5.dds,Art/Textures/Items/armour/Capes/HavenwoodCloak_2,0,349700
+4840b4831b4cb27c,havenwoodcloak_normal_dxt5.dds.header,Tiny_8,15979383,1520
+48388d785d7df22b,havenwoodcloak_mask_dxt5.dds,Folders/art/textures/items/armour/capes/havenwoodcloak,874324,349700
+3ceb3699c453276c,havenwoodcloak_mask_dxt5.dds.header,Tiny_8,15977863,1520
+e07efc1ca0bb646f,havenwoodcloak_glow_dxt5.dds,Folders/art/textures/items/armour/capes/havenwoodcloak,524624,349700
+f13bb0a1017a5c9b,havenwoodcloak_glow_dxt5.dds.header,Tiny_8,15976343,1520
+ec2b74588bd12e7a,havenwoodcloak_colour_dxt5.dds,Folders/art/textures/items/armour/capes/havenwoodcloak,174924,349700
+958af05eb1d2a026,havenwoodcloak_colour_dxt5.dds.header,Tiny_8,15974823,1520
+46cd47636e37a7d6,havenwoodcloak_colour_bc7.dds,Folders/art/textures/items/armour/capes/havenwoodcloak,174924,349700
+213c56567a86905f,havenwoodcloak_colour_bc7.dds.header,Tiny_8,15974823,1520
+2e921e0496472ff3,havenwoodcloak_colour.dds,Folders/art/textures/items/armour/capes/havenwoodcloak,0,174924
+b82c112c5800cc8d,havenwoodcloak_colour.dds.header,Tiny_8,15973303,1520

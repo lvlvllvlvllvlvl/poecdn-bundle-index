@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+c1f4cff24e75023b,verdantcloakpointtrails.sm,Tiny_2,39298572,434
+cd9df015c1c33215,verdantcloakpointtrails.amd,Tiny_6,101771970,94
+b79d4ea3c02ca799,verdantcloakpointtrails.ast,Art/Models/Items/Armours/Capes/VerdantCloak,127742,21260
+2576f3cbc3e17127,verdantcloakpointlight.amd,Tiny_2,54497741,98
+7dd462c17c3f4448,verdantcloakpointlight.ast,Tiny_2,39297757,815
+e6944cade989c140,verdantcloak.sm,Tiny_2,39291613,514
+5f4191a879418383,verdantcloak.fmt,Art/Models/Items/Armours/Capes/VerdantCloak,77565,50177
+6d514a231e5ea8f2,verdantcloak.fmt.header,Tiny_2,39291415,198
+7a016fef08d7d2e6,rig_ca8bd91f.smd,Art/Models/Items/Armours/Capes/VerdantCloak,7993,69572
+92b914c87fce6f5c,rig_ca8bd91f.smd.header,Folders/art/models/items/armours/shields/shielddex,578271,4867
+2dd56f95c2c2bcd7,rig.amd,Tiny_2,56612053,1070
+bf56c527f8ed3e4c,rig.ast,Art/Models/Items/Armours/Capes/VerdantCloak,0,7993
+22c9c331d07d383d,pointtrails_8f1787aa.smd,Tiny_2,39290375,672
+c66eb045c3ad1d91,pointtrails_8f1787aa.smd.header,Tiny_2,39291047,368

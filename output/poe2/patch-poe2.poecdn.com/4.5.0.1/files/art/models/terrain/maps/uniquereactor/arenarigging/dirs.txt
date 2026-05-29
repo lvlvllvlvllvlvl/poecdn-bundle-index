@@ -1,0 +1,4 @@
+attachments
+attachments/arenasides
+attachments/elevator
+attachments/sarcophagus_01

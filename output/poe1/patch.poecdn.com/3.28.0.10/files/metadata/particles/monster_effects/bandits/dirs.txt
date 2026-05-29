@@ -1,6 +1,0 @@
-bandit
-bandit/powershot_verdant
-banditdemon
-banditlord
-banditlord/bandit_lord_emerge_01
-dockghost_champ

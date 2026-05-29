@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+68a77b86a1164774,large_pillar_1.arm,Metadata/Terrain.6_4,267340,5494
+a45d5689d2687b02,medium_pillar_1.arm,Folders/metadata/2/terrain_1,5006419,5494
+10713d951e2e36bd,small_pillar_1.arm,Folders/metadata/5/terrain_1,3054154,5494
+a9ec36aa01f0ba6c,torture_1.arm,Tiny_51,2579135,610
+396febed47a8df9a,black.arm,Folders/metadata/5/terrain_1,3048912,5242
+5940a351e3901d96,blood_fill.arm,Folders/metadata/2/terrain_1,3159917,5274
+f47a195e32a8b6f0,blood_people_1.arm,Tiny_51,2576631,776
+1d7bcd9002c5eedd,blood_people_2.arm,Tiny_51,2577407,730
+eff615fcff973a57,blood_people_3.arm,Tiny_51,2578137,998

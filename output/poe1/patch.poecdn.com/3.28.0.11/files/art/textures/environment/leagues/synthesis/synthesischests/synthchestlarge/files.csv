@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+3720a8152db818bb,synthchestlargespecularc.mat,Tiny_7,88258297,8010
+e6ab6654da734c36,synthchestlarge_normal_dxt5.dds,Folders/art/textures/environment/leagues/synthesis/synthesischests,306520,349700
+fcf3d050b92f5a24,synthchestlarge_normal_dxt5.dds.header,Tiny_7,88256777,1520
+d377aa294d853370,synthchestlarge_mask_dxt5.dds,Folders/art/textures/environment/leagues/synthesis/synthesischests,218964,87556
+082486b92a152faf,synthchestlarge_mask_dxt5.dds.header,Tiny_7,88255257,1520
+a7b8d6f1cd7e5800,synthchestlarge_emissive_dxt5.dds,Folders/art/textures/environment/leagues/synthesis/synthesischests,131408,87556
+70e8c50273474acd,synthchestlarge_emissive_dxt5.dds.header,Tiny_7,88253737,1520
+4ec211c73332b6b7,synthchestlarge_colourspecular_dxt5.dds,Folders/art/textures/environment/leagues/synthesis/synthesischests,43852,87556
+f3605748e0f1241a,synthchestlarge_colourspecular_dxt5.dds.header,Tiny_7,88252217,1520
+97e38c136615529b,synthchestlarge_colourspecular_bc7.dds,Folders/art/textures/environment/leagues/synthesis/synthesischests,43852,87556
+b532f64bdf7a9aa7,synthchestlarge_colourspecular_bc7.dds.header,Tiny_7,88252217,1520
+9883a5d3e0c9af63,synthchestlarge_colourspecular.dds,Folders/art/textures/environment/leagues/synthesis/synthesischests,0,43852
+92bc4dfd073f53d3,synthchestlarge_colourspecular.dds.header,Tiny_7,88250697,1520

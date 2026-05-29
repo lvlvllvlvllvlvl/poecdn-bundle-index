@@ -1,8 +1,0 @@
-graphs
-objects
-rooms
-rooms/fills
-rooms/roominjectors
-rooms/rooms_abyss
-rooms/rooms_border
-rooms/unique

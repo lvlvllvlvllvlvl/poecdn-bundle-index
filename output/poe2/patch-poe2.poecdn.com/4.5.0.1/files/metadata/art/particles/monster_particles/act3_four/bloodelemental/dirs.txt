@@ -1,0 +1,3 @@
+textures
+textures/b_projectile
+textures/dash

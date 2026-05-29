@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-3124f4b9b5c96553,light_trl.mat,Tiny.V3,38209120,2572
-f2fcfa980679b370,light_trl_dxt5.dds,Streaming/Content/metadata/particles/static_strike_02/beam_01/end.pet,360808,87588
-5ae2d4781a1574b2,light_trl_dxt5.dds.header,Tiny.V0,38935208,504
-47e0ee0a9b94bd22,cold_wisp_dxt5.dds,Streaming/Content/metadata/particles/skitterbots_fx/body_fx_cold.pet,0,5592580
-780fa8ea167ceee5,cold_wisp_dxt5.dds.header,Tiny.VC,4819954,1520
-453cd79ae04c9b55,flare_flash_5x5_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_heist/C0F3AB82217886BF.1AD66E846AC937ED.cleave_lightning_impact.pet,87556,5592580
-06d22fba4d4fcc90,flare_flash_5x5_dxt5.dds.header,Tiny.VF,35473616,1520

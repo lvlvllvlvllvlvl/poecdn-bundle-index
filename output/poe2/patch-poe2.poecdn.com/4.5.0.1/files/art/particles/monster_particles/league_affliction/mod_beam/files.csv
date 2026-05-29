@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+1ac52580a1628e55,death_zone_core.mat,Tiny.V4,39158128,5734
+d5149dcbd15f009a,blue_lens_flarecold.mat,Tiny.VB,39350152,1636
+fa33be82c50ba893,blue_lens_flare_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/2BE255BA3EFE034E.coresucky.pet,1792212,349700
+02367c806cd8f7d5,blue_lens_flare_dxt5.dds.header,Tiny.VB,39348632,1520
+6de1f0ed99bc28d9,slime.mat,Tiny.V1,38840535,5278
+c66611f87cd205cf,suck_wave.mat,Tiny.VF,38972981,2210
+dd1ae3c5370af750,trail_blk.mat,Tiny.VC,39213864,2344
+9434d9bc5a0980ff,trail_mul.mat,Tiny.V7,38946893,1988
+b190ddf627d71bf8,trail_mul_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/B91E7DD825C0365A.parenttrail_01cold.trl,0,22052
+07e681d5544f677d,trail_mul_dxt5.dds.header,Tiny.V8,6412934,504

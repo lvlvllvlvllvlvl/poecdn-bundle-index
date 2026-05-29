@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+0645d9970204491f,vaalcrawlerc.mat,Art/Models/MONSTERS/VaalMonsters/VaalCrawler/Textures,0,5124
+137bd40b088b18ce,vaalcrawler_sss_dxt1.dds,Art/Models/MONSTERS/VaalMonsters/VaalCrawler/Textures_1,524812,43852
+b43b202b657cb20e,vaalcrawler_sss_dxt1.dds.header,Tiny_3,11308792,1520
+66eb26a8e64cb522,vaalcrawler_normal_dxt5.dds,Art/Models/MONSTERS/VaalMonsters/VaalCrawler/Textures_1,175112,349700
+177ba06e0ba5370a,vaalcrawler_normal_dxt5.dds.header,Tiny_3,11307272,1520
+7c2bf08cf1b91f3d,vaalcrawler_colour_dxt5.dds,Art/Models/MONSTERS/VaalMonsters/VaalCrawler/Textures_1,87556,87556
+2c732df7c9761d4c,vaalcrawler_colour_dxt5.dds.header,Tiny_3,11305752,1520
+83d83aa87b99c2ee,vaalcrawler_bentnormal_dxt5.dds,Art/Models/MONSTERS/VaalMonsters/VaalCrawler/Textures_1,0,87556
+e544b39886767a25,vaalcrawler_bentnormal_dxt5.dds.header,Tiny_3,11304232,1520

@@ -1,4 +1,0 @@
-belt
-sash
-skirt
-str_sash

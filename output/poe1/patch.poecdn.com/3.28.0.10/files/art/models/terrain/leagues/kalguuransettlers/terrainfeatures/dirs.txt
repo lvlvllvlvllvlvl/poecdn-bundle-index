@@ -1,4 +1,0 @@
-mining
-mining/copernode
-mining/petrifiedambertree
-mining/textures

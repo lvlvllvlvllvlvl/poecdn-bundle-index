@@ -1,6 +1,0 @@
-textures
-textures/architecture
-textures/architecture/past
-textures/architecture/past/interior
-textures/statues
-textures/statues/past

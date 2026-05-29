@@ -1,3 +1,0 @@
-charge_up
-special_beam_cannon
-special_beam_cannon/on_act

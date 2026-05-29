@@ -1,6 +1,0 @@
-models
-models/channeling
-models/orb
-models/projectile
-textures
-textures/fx

@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+f7533c6f832314e1,dark_phys_lut_dxt5.dds,Tiny.V8,40017884,2212
+8aca7b7c8f067860,dark_phys_lut_dxt5.dds.header,Tiny.VB,40822686,280
+9389d437864c6fd4,spark.mat,Tiny.V0,40588376,2524
+4f8d728ef41f6f6e,spark.dds,Tiny.V3,5134334,516
+b12a189163ef542b,spark.dds.header,Tiny.VF,5104058,1520
+1ef41da9823ee044,neuron_01_8x8.mat,Tiny.V2,40466109,2078
+2fc622d84cf661da,neuron_03_8x8.mat,Tiny.V3,39850005,3612

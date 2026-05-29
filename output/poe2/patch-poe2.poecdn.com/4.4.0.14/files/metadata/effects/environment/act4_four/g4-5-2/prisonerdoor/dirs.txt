@@ -1,8 +1,0 @@
-epk
-fx
-fx/open_flood
-graphs
-mat
-mat/door
-mat/open_flood
-mat/open_flood/flood_splashes_01

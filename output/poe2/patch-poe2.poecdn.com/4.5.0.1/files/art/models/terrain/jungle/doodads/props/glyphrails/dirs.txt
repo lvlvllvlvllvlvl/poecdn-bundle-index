@@ -1,0 +1,4 @@
+blood_reveal
+blood_reveal/animations
+blood_reveal/animations/long
+blood_reveal/animations/short

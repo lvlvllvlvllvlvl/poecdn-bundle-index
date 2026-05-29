@@ -1,0 +1,7 @@
+lantern_01
+lantern_02
+lantern_03
+rocks_big_cluster
+rocks_mid_cluster
+rocks_sml_cluster
+wells

@@ -1,6 +1,0 @@
-chayula_skillspawner
-chayula_skillspawner/mb
-chayula_skillspawner/mb/beam
-spawnedskill_meteor
-spawnedskill_meteor/mb
-spawnedskill_meteor/mb/250_meteor_drop

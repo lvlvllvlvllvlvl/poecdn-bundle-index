@@ -1,0 +1,11 @@
+animations
+animations/playeranimations
+attachments
+attachments/backvines
+attachments/detatchedviner
+attachments/nosevines
+attachments/petalmane
+attachments/tentaclearm
+attachments/tentaclearm/animations
+attachments/twistyvines
+textures

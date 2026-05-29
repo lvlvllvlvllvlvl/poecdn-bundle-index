@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+f25955e34c96aa66,light_grad.mat,Tiny_6,22193630,1416
+528afb15b399b5fb,light_grad.dds,Tiny_7,52626352,2892
+679734d44a373334,light_grad.dds.header,Tiny_7,52629244,1520
+b2f4c4d590297528,lens_flare.mat,Tiny_6,22191758,1872
+4d430b6f76cdd34c,lens_flare.dds,Art/particles/dominating_blow/appear_epk,0,22012
+99fc2ea96f11daf6,lens_flare.dds.header,Tiny_6,22190918,840
+bb78831f13b10197,glow_ring.mat,Tiny_6,22189472,1446
+efef7624a7fdfe41,glow_ring.dds,Art/particles/static_strike_02/weapon_buff,0,43852
+69f07f8a0b7071bb,glow_ring.dds.header,Tiny_7,51314489,1520
+518f3ea56bdb4052,at_alpha.mat,Tiny_6,22188492,980
+218a00c0c7f5d7a3,at_alpha.dds,Art/particles/dominating_blow/appear_epk_1,0,87556
+f18e12dfe47a87d6,at_alpha.dds.header,Tiny_6,104182406,1520

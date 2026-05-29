@@ -1,0 +1,7 @@
+animations
+animations/map_device_large
+animations/map_device_small
+animations/rare_finisher_effect
+attachments
+attachments/helmetwings
+attachments/pauldronchains

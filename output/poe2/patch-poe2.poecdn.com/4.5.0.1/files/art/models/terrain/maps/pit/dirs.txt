@@ -1,0 +1,8 @@
+doodads
+doodads/scaffolding
+doodads/scaffolding/scaffolding_01
+doodads/scaffolding/scaffolding_02
+textures
+textures/grounds
+textures/rocks
+tgms

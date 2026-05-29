@@ -1,3 +1,0 @@
-activate_beam
-ground_fire
-ground_skulls

@@ -1,2 +1,0 @@
-death_boss_01
-death_boss_01/explosion

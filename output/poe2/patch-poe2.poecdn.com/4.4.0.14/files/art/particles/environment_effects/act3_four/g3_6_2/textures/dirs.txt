@@ -1,3 +1,0 @@
-gemsocketdevice
-generator
-wall_light

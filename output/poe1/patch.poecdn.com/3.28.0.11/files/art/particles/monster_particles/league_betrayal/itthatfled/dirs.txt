@@ -1,0 +1,8 @@
+act
+act/fx
+breach_combo
+breach_combo/fx
+breach_fulmination
+breach_fulmination/fx
+breach_proj
+breach_proj/fx

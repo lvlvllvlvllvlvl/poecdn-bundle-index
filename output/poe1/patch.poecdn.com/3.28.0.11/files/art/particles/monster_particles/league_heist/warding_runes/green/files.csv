@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+9fb0b0520b984910,base_runec.mat,Tiny_7,8095108,2370
+a508356234b08f55,mid_ringc.mat,Tiny_7,8117338,3202
+8612c070c944636b,outter_ringc.mat,Tiny_7,8120540,2926
+eadebeb57df51b0e,pulse.mat,Tiny_7,8146906,1094
+f69f6cb7b0c1ebfc,rune_mask_dxt5.dds,Art/particles/monster_particles/League_Heist_56,0,1398276
+e91dbb96696ca791,rune_mask_dxt5.dds.header,Tiny_7,8123466,1520
+bd21e3233524a823,lut_dxt5.dds,Tiny_7,8113962,2212
+57a73c89bf246914,lut_dxt5.dds.header,Tiny_7,8116174,280

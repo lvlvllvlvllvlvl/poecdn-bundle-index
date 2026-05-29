@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+23438d8919af8a26,zoom_distort_r.mat,Tiny_8,120025244,5940
+b36f9a15e32a7b8f,zoom_distort_u.mat,Tiny_11,127344428,346
+17dfb30b7926e543,shockwave_ring_r.mat,Tiny_8,119779274,14938
+0ba650125aaf94bb,shockwave_ring_u.mat,Tiny_11,127344428,346
+5aa146e8f41a7826,rim_r.mat,Tiny_8,115062616,35882
+942a91a6abd39d89,rim_u.mat,Tiny_11,127344428,346
+1aa9b4ceb4b63cfa,rift_sphere_r.mat,Tiny_8,115014828,47788
+84dde57edfa0684e,rift_sphere_u.mat,Tiny_11,127344428,346
+89b2a94780bd7e72,mblur_sphere_r.mat,Tiny_8,115005386,9442
+f9f73be7045febc9,mblur_sphere_u.mat,Tiny_11,127344428,346
+d15a8b3fded4cab6,impactstreaks_r.mat,Tiny_8,114964238,35288
+3171cf0d9effb312,impactstreaks_u.mat,Tiny_8,114999526,5860
+1d02d45fb455cd21,flashspikes_r.mat,Tiny_8,114929872,34366
+2b7bc4f64c02b8db,flashspikes_u.mat,Tiny_11,127344428,346
+4335de4b8d206ae5,disint_energy_prtcls_r.mat,Tiny_8,114888986,22072
+46683c1b7fe9355e,disint_energy_prtcls_u.mat,Tiny_8,114911058,18814

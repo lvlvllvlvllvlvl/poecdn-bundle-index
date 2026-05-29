@@ -1,0 +1,9 @@
+attachments
+attachments/bonechain
+attachments/cloak
+attachments/hair
+attachments/headfeathers
+attachments/robe
+attachments/shoulderfeathers
+attachments/waistbones
+attachments/waistropes

@@ -1,2 +1,0 @@
-sin_symbol
-sin_symbol/effects

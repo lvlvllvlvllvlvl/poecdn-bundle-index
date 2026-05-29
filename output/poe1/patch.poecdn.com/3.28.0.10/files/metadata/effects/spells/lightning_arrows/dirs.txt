@@ -1,3 +1,0 @@
-decal
-pet
-pet/02

@@ -1,0 +1,10 @@
+abyss
+feature
+floor
+grass
+hidden
+lava
+ledge
+stairs
+wall
+water

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+3823e2023520c7c4,rays.mat,Tiny_8,30654092,4890
+5331233d1a2f3862,sparks.mat,Tiny_8,30658982,1682
+03b918f48764b300,sparks2.mat,Tiny_8,30660664,1854
+842c98b9d27dc30c,sparks_i.mat,Tiny_8,30662518,2700
+44adad4419ff5df4,pulse.mat,Tiny_8,30648264,2788
+07814ceeaec23525,pulse_dxt5.dds,Folders/art/particles/monster_particles/act8_3,0,349700
+b4ed2a9af8fb74fa,pulse_dxt5.dds.header,Tiny_8,30652572,1520
+bf1ba2c86b65cc95,pulse_dxt4.dds,Art/Textures/Misc/portals/PandemoniumAngelicPortal/fx_1,0,349700
+370b7ac4c6a1442d,pulse_dxt4.dds.header,Tiny_8,30651052,1520
+f61d2df2cfbb6ba3,pulse_bc7premult.dds,Art/Textures/Misc/portals/PandemoniumAngelicPortal/fx_1,0,349700
+09decf248b2ecc6b,pulse_bc7premult.dds.header,Tiny_8,30651052,1520
+0aec987fa92833ea,glow.mat,Tiny_8,30645544,1434
+2b070db029a4bfd7,grad.mat,Tiny_8,30646978,1286
+61b612342670bde3,flare_final.mat,Tiny_8,30639476,2032
+1f0c4c905740e238,flare_t.mat,Tiny_8,30641508,4036

@@ -1,0 +1,10 @@
+epk
+fx
+fx/explosion_aoe_01
+mat
+mat/explosion_aoe_01
+mat/impact
+mat/projectile_01
+mat/pustule
+mat/shoot_01
+trl

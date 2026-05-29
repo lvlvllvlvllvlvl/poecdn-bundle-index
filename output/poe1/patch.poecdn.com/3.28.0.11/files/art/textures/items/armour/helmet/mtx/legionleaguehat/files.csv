@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+b60bdd5a5c2f5fae,legionleaguehatspecularc.mat,Tiny_8,18264817,5136
+b3d9d566fc962e0b,legionleaguehat_normal_dxt5.dds,Folders/art/textures/items/armour/helmet/mtx_6,1705312,349700
+31d9bf948acc90cc,legionleaguehat_normal_dxt5.dds.header,Tiny_8,18263297,1520
+16c401ffc0fd01fd,legionleaguehat_mask_dxt5.dds,Folders/art/textures/items/armour/helmet/mtx_6,1355612,349700
+bbc009e8018e0d31,legionleaguehat_mask_dxt5.dds.header,Tiny_8,18261777,1520
+03d04d226eac7b55,legionleaguehat_colourspecular_dxt5.dds,Art/Textures/Items/armour/helmet/Mtx_15,1378828,699236
+8d432c47ae790239,legionleaguehat_colourspecular_dxt5.dds.header,Tiny_8,18260937,840
+5cecfd63b11fa597,legionleaguehat_colourspecular_bc7.dds,Art/Textures/Items/armour/helmet/Mtx_15,1378828,699236
+17d4475e653d9faf,legionleaguehat_colourspecular_bc7.dds.header,Tiny_8,18260937,840
+bbfb68de0d74f8a9,legionleaguehat_colourspecular.dds,Folders/art/textures/items/armour/helmet/mtx_6,1005920,349692
+426f11a0ad21ffa0,legionleaguehat_colourspecular.dds.header,Tiny_8,18260097,840
+ab05994febbf5114,caustics_dxt5.dds,Folders/art/textures/items/armour/helmet/mtx_6,918364,87556
+f1c2f1eb633b2c2d,caustics_dxt5.dds.header,Tiny_8,18258577,1520

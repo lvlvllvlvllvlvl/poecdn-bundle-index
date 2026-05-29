@@ -1,3 +1,0 @@
-delirium
-delirium/mb
-delirium/tex

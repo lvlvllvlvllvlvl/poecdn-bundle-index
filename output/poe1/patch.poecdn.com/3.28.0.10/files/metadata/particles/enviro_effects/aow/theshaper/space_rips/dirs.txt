@@ -1,9 +1,0 @@
-1x1_cubetile
-1x1_cubetile/01
-1x1_cubetile/02
-1x1_cubetile/03
-1x3_cubetile
-1x3_cubetile/01
-1x3_cubetile/02
-rectagular_shapea
-sphere

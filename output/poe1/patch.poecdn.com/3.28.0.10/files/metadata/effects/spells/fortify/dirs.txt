@@ -1,4 +1,0 @@
-buff
-hit
-onhit
-surge

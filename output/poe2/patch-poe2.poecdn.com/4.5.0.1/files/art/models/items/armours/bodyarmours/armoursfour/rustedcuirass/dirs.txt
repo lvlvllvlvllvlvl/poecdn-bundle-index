@@ -1,0 +1,6 @@
+attachments
+attachments/rcfemale
+attachments/rclshoulderpad
+attachments/rcmale
+attachments/rcrshoulderpad
+textures

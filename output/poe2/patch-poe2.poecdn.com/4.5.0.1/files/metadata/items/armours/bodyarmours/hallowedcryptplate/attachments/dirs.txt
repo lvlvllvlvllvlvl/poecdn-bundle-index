@@ -1,0 +1,6 @@
+shoulderpauldron
+shoulderpauldronribbon
+skirt
+skirtfront
+skirtplates
+skirtrear

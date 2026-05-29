@@ -1,7 +1,0 @@
-animations
-animations/small_map_device
-bladevortexapparition
-textures
-vfx
-vfx/mb
-vfx/textures

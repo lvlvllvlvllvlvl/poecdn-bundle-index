@@ -1,3 +1,0 @@
-onact
-onact/cleave_sword_sword_01
-weapon_throw

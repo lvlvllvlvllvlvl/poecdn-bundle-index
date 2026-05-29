@@ -1,0 +1,5 @@
+aos
+fx
+mats
+mats/eg01_lightningbolt
+mats/eg01_lightningground

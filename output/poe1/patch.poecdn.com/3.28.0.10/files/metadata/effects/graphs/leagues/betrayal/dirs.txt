@@ -1,7 +1,0 @@
-elreon
-graviciusweapon
-ninjacop
-ninjacop/capture
-ninjacop/ink_ripple
-ninjacop/player_buff
-scientistbeamtarget

@@ -1,3 +1,0 @@
-ls_beam
-pizza_slice_barrage
-rune_teleport

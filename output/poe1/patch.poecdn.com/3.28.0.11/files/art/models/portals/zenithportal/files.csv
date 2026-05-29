@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+02f55cf19a171fa3,zenithportal.sm,Tiny_3,26440796,582
+e2ba53829812f298,zenithportal.fmt,Art/Models/Portals/ZenithPortal,193163,95863
+44da8786a5ad7f2c,zenithportal.fmt.header,Tiny_3,26440532,264
+02f4c2b2dd618907,rig_299b5279.smd,Art/Models/Portals/ZenithPortal,4102,189061
+e3e9b4730131b6d5,rig_299b5279.smd.header,Tiny_3,26332018,368
+4ba9ff5072be833d,rig.amd,Tiny_3,26331756,262
+a86ae3c4b9d611f9,rig.ast,Art/Models/Portals/ZenithPortal,0,4102

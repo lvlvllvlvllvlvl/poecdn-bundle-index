@@ -1,3 +1,0 @@
-firepit
-incursionwalllightning
-torch

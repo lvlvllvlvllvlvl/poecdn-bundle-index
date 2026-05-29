@@ -1,5 +1,0 @@
-animations
-animations/female_1
-animations/female_2
-animations/female_3
-strap

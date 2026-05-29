@@ -1,6 +1,0 @@
-attachments
-attachments/hair
-attachments/l_knee_attachment
-attachments/r_knee_attachment
-attachments/robe
-attachments/top

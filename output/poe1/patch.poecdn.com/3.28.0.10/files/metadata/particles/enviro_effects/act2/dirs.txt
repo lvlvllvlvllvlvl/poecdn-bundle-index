@@ -1,9 +1,0 @@
-bossroom
-inca_doors
-mud
-shadow_enviroment
-tidal_passage
-waterfalls
-waterfalls/poolsandstreams_slope
-waterfalls/poolsandstreams_slope/big
-waterfalls/poolsandstreams_slope/big/blood

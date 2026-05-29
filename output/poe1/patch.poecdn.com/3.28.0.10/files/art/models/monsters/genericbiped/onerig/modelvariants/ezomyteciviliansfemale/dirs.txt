@@ -1,5 +1,0 @@
-attachments
-attachments/female01
-attachments/female01/robe
-attachments/female02
-attachments/female02/robe

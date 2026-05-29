@@ -1,2 +1,0 @@
-doodads
-doodads/textures

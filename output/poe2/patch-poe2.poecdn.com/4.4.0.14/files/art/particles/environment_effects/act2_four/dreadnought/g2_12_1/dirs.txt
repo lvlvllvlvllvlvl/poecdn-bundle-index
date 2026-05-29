@@ -1,4 +1,0 @@
-mb
-mb/bodypile_fire
-mb/brazier_fire
-textures

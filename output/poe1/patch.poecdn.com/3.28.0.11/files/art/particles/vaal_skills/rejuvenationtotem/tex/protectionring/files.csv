@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+7fb177baf3bd2579,caustics.mat,Tiny_7,57567698,1320
+3e8af2f020c509c0,pulse.mat,Tiny_7,57569018,10464
+c4b17c5139499fac,ringc.mat,Tiny_7,57579482,8484
+a7e90675f237b142,static.mat,Tiny_7,57587966,6012
+730988e0164a0dbc,staticfield.mat,Tiny_7,57593978,6132
+258eab912ef22c79,aztec_runesc.mat,Tiny_7,57555548,12150
+85b67d542dcef432,aztec_highlight_dxt5.dds,Folders/art/particles/vaal_skills/rejuvenationtotem,731893,349700
+ba3e597a94c23c45,aztec_highlight_dxt5.dds.header,Tiny_7,57554028,1520
+d11acec7eb4648c1,aztec_glow_dxt5.dds,Folders/art/particles/vaal_skills/rejuvenationtotem,382193,349700
+3395bd9b29c847c6,aztec_glow_dxt5.dds.header,Tiny_7,57552508,1520
+0d71ca8179a4a5df,aztec_bg_dxt5.dds,Folders/art/particles/vaal_skills/rejuvenationtotem,32493,349700
+18061e1d14cfe543,aztec_bg_dxt5.dds.header,Tiny_7,57550988,1520

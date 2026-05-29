@@ -1,0 +1,21 @@
+hash,file,bundle,offset,size
+60501fab7149774c,rig_e84edcd6.smd,Tiny_2,73340539,750
+5331aa630caa1f8e,rig_e84edcd6.smd.header,Tiny_2,73341289,368
+ef097bc118ed6321,rig_d83d8b10.smd,Tiny_2,73339421,750
+0553981853a6d512,rig_d83d8b10.smd.header,Tiny_2,73340171,368
+87ceaf17e9485488,rig.amd,Tiny_2,73335980,1014
+8ef502bc56ccda56,rig.ast,Tiny_2,73338194,1227
+e5109e3423a82be0,rig .amd,Tiny_2,73335980,1014
+8b646b9ce76f433d,rig .ast,Tiny_2,73336994,1200
+170cf575bd7b92c9,puresteelbanner.fmt,Art/Models/Misc/Banners_new,77361,64665
+ff764c160b01a34b,puresteelbanner.fmt.header,Tiny_2,73335488,492
+74f5a8ca5f5b758e,bloodstainedbanner.fmt,Art/Models/Misc/Banners_new,0,77361
+e2bc339d97ad41c9,bloodstainedbanner.fmt.header,Tiny_2,73334996,492
+384b1b45a2f9caf4,bannerpoletall.sm,Tiny_2,73320179,426
+c610082343486ca2,bannerpoletallnc.sm,Tiny_2,73321851,390
+1d3a6bfd40541eb2,bannerpoletall_armour_03e4be48.smd,Tiny_2,73320605,878
+5e7f82c7de0f4c9c,bannerpoletall_armour_03e4be48.smd.header,Tiny_2,73321483,368
+2216ef40cb87d666,bannerpoledefault.sm,Tiny_2,73318111,432
+9846e6ebe469eb27,bannerpoledefaultnc.sm,Tiny_2,73319789,390
+097218b7ed3f253c,bannerpoledefault_armour_38402478.smd,Tiny_2,73318543,878
+b4c8b1679932f68a,bannerpoledefault_armour_38402478.smd.header,Tiny_2,73319421,368

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+94d87ba65b4193b2,jellyfishpetc.mat,Tiny_3,17856869,2650
+6f6799fecc639bd4,jellyfishpet_normal_dxt5.dds,Art/Models/Pet/Jellyfish/Textures,0,2796388
+f8b21f1866b9075a,jellyfishpet_normal_dxt5.dds.header,Tiny_3,17856029,840
+8ea0c3b10aeef422,jellyfishpet_glow_dxt1.dds,Art/Models/Pet/Jellyfish/Textures_1,0,1398268
+a4618ebb2f7e0cee,jellyfishpet_glow_dxt1.dds.header,Tiny_3,17855189,840
+53044a652d05d073,jellyfishpet_colour_dxt5.dds,Art/Models/Pet/Jellyfish/Textures_2,0,2796388
+1797d65cc81eddc2,jellyfishpet_colour_dxt5.dds.header,Tiny_3,17854349,840
+e43ffe95c141ffc2,jellyfishpetdomec.mat,Tiny_3,17860359,2870
+85076b1197d2f302,jellyfishpetdome_colour_dxt5.dds,Art/Models/Pet/Jellyfish/Textures_3,0,2796388
+14205e7d92ffd163,jellyfishpetdome_colour_dxt5.dds.header,Tiny_3,17859519,840

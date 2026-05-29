@@ -1,0 +1,5 @@
+black_flame_01
+large_monster
+large_monster/fire
+poison
+red_shocked

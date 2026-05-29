@@ -1,7 +1,0 @@
-arrow
-explosion
-hit
-muzzle_flash
-nova
-shock
-small_beam

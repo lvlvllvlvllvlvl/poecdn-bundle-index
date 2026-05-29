@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+27b5a06e51f0cd06,glowarms.mat,Tiny.V5.1,986684,2316
+0c5b3471a6cc10a6,glowbody.mat,Tiny.V2.1,1195836,4044
+7bfc50493be3a8db,tendrilsentinelc.mat,Tiny.V6.1,1445530,2090
+b868151012063b70,tendrilsentinel_emissive.dds,Streaming/Content/metadata/effects/spells/monsters_effects/542F56B5A086A78E.C695661219E9683B.tentacle_beam2.ao,661979,699212
+3fd96d759e5fd438,tendrilsentinel_emissive.dds.header,Tiny.VE.1,1117950,1520
+00701f31ed429c4c,tendrilsentinel_specular_dxt5.dds,Streaming/Content/data/balance/worldareas/21/g1_15.vworld,205597,1398276
+9bcd360ccdabbb3b,tendrilsentinel_specular_dxt5.dds.header,Tiny.V6,38794497,1520
+bde8ff2bf907711b,tendrilsentinel_normal_bc7.dds,Streaming/Content/data/balance/worldareas/15/g1_15.vworld,256695,1398276
+32ca4c57f6563400,tendrilsentinel_normal_bc7.dds.header,Tiny.V1,38531489,1520
+bd3291985b4cffee,tendrilsentinel_colour_bc7.dds,Streaming/Content/metadata/effects/spells/monsters_effects/58D861BE4D2E83D7.F2C0A53C651D811E.upheaval2.ao.1,1398276,1398276
+92f9ca847c0be936,tendrilsentinel_colour_bc7.dds.header,Tiny.V5.1,989000,1520

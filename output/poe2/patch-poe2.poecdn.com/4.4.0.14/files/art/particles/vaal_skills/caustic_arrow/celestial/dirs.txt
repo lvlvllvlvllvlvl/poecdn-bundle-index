@@ -1,5 +1,0 @@
-mb
-mb/large_projectile
-mb/large_projectile/animations
-textures
-textures/large_projectile

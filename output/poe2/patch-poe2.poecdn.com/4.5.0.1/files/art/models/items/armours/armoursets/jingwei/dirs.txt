@@ -1,0 +1,5 @@
+attachments
+attachments/hair
+attachments/skirt
+fx
+textures

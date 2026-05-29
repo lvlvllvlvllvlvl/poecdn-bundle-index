@@ -1,3 +1,0 @@
-epk
-the_saviour
-the_saviour/graph

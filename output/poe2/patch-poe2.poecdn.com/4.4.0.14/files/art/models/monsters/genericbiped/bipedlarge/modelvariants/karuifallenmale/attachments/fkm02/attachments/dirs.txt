@@ -1,7 +1,0 @@
-fkm0201
-fkm0201/fkm0201_feathers
-fkm0201/fkm0201_necklace
-fkm0201/fkm0201_robe
-fkm0205
-fkm0205/fkm0205_hair
-fkm0205/fkm0205_robe

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+ebb1a48f02e47491,crk_03_hgt_uncompressed.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.980DB2C100013E1C.molten_midline.pet,0,1398248
+60ec84d796d10536,crk_03_hgt_uncompressed.dds.header,Tiny.V1,41103124,1520
+92adbf86d738392f,crk_03_hgt_bc7.dds,Streaming/Content/metadata/effects/microtransactions/spells/F9CE3BCCC027C6D6.324DA6B14E24DEA8.epk_line.pet,784407,349700
+b8fb66dfa235297c,crk_03_hgt_bc7.dds.header,Tiny.VB,41418134,1520
+df21ee65593ddb03,crk_03_hgt_dxt1.dds,Streaming/Content/metadata/particles/ice_crash_02/circ_out.pet,704081,174924
+5a3700b238edeebc,crk_03_hgt_dxt1.dds.header,Tiny.VD,41373847,1520
+0444ebd7bf6e7ffe,crk_03_rgba_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.980DB2C100013E1C.molten_midline.pet,1747948,349700
+f4fe35c204e0f6f1,crk_03_rgba_dxt5.dds.header,Tiny.VD,35429880,1520
+0243fa9591e1fa84,crk_03_naog_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_heist/286BDD53F5B39DDD.7E7AC79111C1BD47.stomp_ptemit.pet,87556,349700
+3b0a258aa90334c6,crk_03_naog_dxt5.dds.header,Tiny.VA,41293271,1520
+fb1465c228d88e0d,crk_03_inv_rgba_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.980DB2C100013E1C.molten_midline.pet,1398248,349700
+bbd2d428bfe98916,crk_03_inv_rgba_dxt5.dds.header,Tiny.VE,34849947,1520

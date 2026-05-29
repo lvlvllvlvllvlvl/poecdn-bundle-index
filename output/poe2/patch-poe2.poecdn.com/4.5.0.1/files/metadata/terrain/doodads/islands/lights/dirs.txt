@@ -1,0 +1,4 @@
+lantern
+vfx
+vfx/pet
+vfx/pet/lantern01

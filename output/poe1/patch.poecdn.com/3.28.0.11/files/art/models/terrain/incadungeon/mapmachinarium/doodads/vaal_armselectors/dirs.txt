@@ -1,0 +1,15 @@
+armselect_01
+armselect_02
+armselect_03
+cold
+cold/armselect_01
+cold/armselect_02
+cold/armselect_03
+fire
+fire/armselect_01
+fire/armselect_02
+fire/armselect_03
+lightning
+lightning/armselect_01
+lightning/armselect_02
+lightning/armselect_03

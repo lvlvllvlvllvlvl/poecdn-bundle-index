@@ -1,3 +1,0 @@
-bomb
-bomb_explosion
-volatiles

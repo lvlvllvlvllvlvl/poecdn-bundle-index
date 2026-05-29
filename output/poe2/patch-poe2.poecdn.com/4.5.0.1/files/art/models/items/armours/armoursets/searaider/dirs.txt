@@ -1,0 +1,14 @@
+attachments
+attachments/body
+attachments/body/cloak
+attachments/body/skirt
+attachments/body/skirt/female
+attachments/body/skirt/male
+attachments/boots
+attachments/boots/pegwrap
+attachments/boots/ribbon
+attachments/boots/ribbon/left
+attachments/boots/ribbon/right
+attachments/helmet
+attachments/helmet/feathers
+textures

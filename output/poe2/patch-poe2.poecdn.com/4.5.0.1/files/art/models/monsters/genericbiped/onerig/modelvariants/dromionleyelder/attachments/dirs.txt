@@ -1,0 +1,4 @@
+beard
+cape
+robe
+straps

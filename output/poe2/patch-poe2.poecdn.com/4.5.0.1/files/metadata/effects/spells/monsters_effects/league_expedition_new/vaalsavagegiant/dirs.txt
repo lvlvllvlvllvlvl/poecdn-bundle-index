@@ -1,0 +1,6 @@
+fx
+mat
+mat/onact
+mat/totem
+mat/totemfall_impact
+mat/totemfall_indicator

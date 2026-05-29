@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+0d4d2ee593fcbaf4,runerings.sm,Tiny.V0,36273592,762
+c42d0fbdc63c662d,rig_df753b51.smd,Streaming/Content/metadata/monsters/baron/baronhumanform.ot,689539,231229
+2166fbe54dd330c7,rig_df753b51.smd.header,Tiny.V3,35558524,727
+1f07cce619914f29,rig.amd,Tiny.V1,36047261,1078
+296b2eca2e39655a,rig.ast,Content/metadata/monsters/leagueexpeditionnew/vorana/shadowstormcentre.ot,371379,8259
+fa3467bcd612a983,frostring_stage04.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/5F33D1A52C561F8B.5F958045619C0FCB.rare_reflect_dmg.epk,383461,11114
+063de1b6d87ee1b9,frostring_stage04.fmt.header,Tiny.VB,36257383,208
+d79d74ef86ea909d,frostring_stage03.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/5F33D1A52C561F8B.5F958045619C0FCB.rare_reflect_dmg.epk,394575,11114
+f8e2de72dca0ab27,frostring_stage03.fmt.header,Tiny.V2,36000257,208
+ca49d82488de8e16,frostring_stage02.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.C9763FF391A49C51.bodyfx_alive.epk,538818,5738
+c936fb06de10ea44,frostring_stage02.fmt.header,Tiny.V4,36262924,208

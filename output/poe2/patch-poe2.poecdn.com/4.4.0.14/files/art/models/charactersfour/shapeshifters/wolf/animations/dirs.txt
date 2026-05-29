@@ -1,9 +1,0 @@
-blink
-cleave
-crossslash
-frozenclaws
-groundstomp
-howl
-pounce
-shapeshifting
-warcry

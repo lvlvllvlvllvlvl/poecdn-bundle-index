@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+86e8488e594cdce9,glowrageshift.fxgraph,Content/metadata/effects/spells/crossbow_ripwire_ballista/pet/rain_of_death.pet,1978713,32202
+3006eceaa80c5764,reviveglow.fxgraph,Content/metadata/effects/spells/crossbow_ripwire_ballista/pet/rain_of_death.pet,1258905,99318
+592abb7a90b24d65,hideeffects.fxgraph,Content/metadata/monsters/skeletons/playersummoned/stormmage/skeletonstormmageplayersummoned.act,1312098,10708
+d1d24ee6a2cdb1f8,custom_reviveopacity.fxgraph,Content/metadata/effects/spells/crossbow_ripwire_ballista/pet/rain_of_death.pet,1245787,13118
+b748b9f6930508df,custom_healpulse_sphere.fxgraph,Content/metadata/effects/spells/crossbow_ripwire_ballista/pet/rain_of_death.pet,1694657,284056
+06de7aefede3188e,custom_mask_uvs_static.fxgraph,Content/metadata/effects/spells/crossbow_ripwire_ballista/pet/rain_of_death.pet,1373321,304208
+40374734009b5aaa,summonfade.fxgraph,Content/metadata/monsters/skeletons/playersummoned/brute/skeletonbruteplayersummoned.ao,1318723,46824
+a92eb43d74c8837d,skeletonglow.fxgraph,Content/metadata/monsters/skeletons/playersummoned/brute/skeletonbruteplayersummoned.ao,1156875,161848
+15aefadd29a496dd,skeletonshieldglow.fxgraph,Content/metadata/effects/spells/crossbow_ripwire_ballista/pet/rain_of_death.pet,1677529,17128

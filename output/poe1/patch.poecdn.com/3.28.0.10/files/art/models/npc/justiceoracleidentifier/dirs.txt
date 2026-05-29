@@ -1,6 +1,0 @@
-attachments
-attachments/cape
-attachments/rugscene
-fx
-fx/texture
-textures

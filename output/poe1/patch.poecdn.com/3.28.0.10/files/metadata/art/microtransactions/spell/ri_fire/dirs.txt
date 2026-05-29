@@ -1,3 +1,0 @@
-lightbringer
-lightbringer/textures
-transcendence

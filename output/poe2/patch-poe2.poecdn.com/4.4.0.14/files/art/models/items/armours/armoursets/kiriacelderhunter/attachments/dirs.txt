@@ -1,8 +1,0 @@
-female
-female/hangingarm
-female/hipattachment
-male
-male/hangingarm
-male/hipattachment
-str
-str/hangingarm

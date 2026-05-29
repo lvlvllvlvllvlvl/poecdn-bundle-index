@@ -1,9 +1,0 @@
-beams
-beams/abyss_burning_ground
-beams/abyss_oversoul_laser
-beams/abyss_oversoul_laser/build_up
-beams/abyss_scorching_ray
-beams/abyss_scorching_ray/player_burn
-small_novas
-teleport
-wurmcall

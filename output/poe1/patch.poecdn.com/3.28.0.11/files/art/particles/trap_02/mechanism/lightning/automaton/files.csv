@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+e2e4359057fe0c95,red_gradc.mat,Tiny_7,55667087,1634
+05d5c75afd396f50,red_grad.dds,Tiny_7,55664723,844
+50364274a61bff58,red_grad.dds.header,Tiny_7,55665567,1520
+b8b1838687eeac33,lightning_dxt1.dds,Folders/art/particles/trap_02/mechanism,874620,11084
+cd40d121047f54d0,lightning_dxt1.dds.header,Tiny_7,55663203,1520
+65cc0169dd201276,crane_partscns.mat,Tiny_7,55659417,3786
+b3dcd7cd169078be,crane_parts_colour.dds,Folders/art/particles/trap_02/mechanism,349848,174924
+948ae97baca082c5,crane_parts_colour.dds.header,Tiny_7,55634265,1520
+af548e1ac01441b8,clone_machine_podcns.mat,Tiny_7,55655535,3882
+265498ab29012907,clone_machine_pod_glow_dxt1.dds,Folders/art/particles/trap_02/mechanism,699696,174924
+684f9a1b56bc119f,clone_machine_pod_glow_dxt1.dds.header,Tiny_7,55654015,1520
+0a39f023bedfe0a2,clone_machine_pod_colour.dds,Folders/art/particles/trap_02/mechanism,524772,174924
+e1bcd427fe84cd86,clone_machine_pod_colour.dds.header,Tiny_7,55617357,1520

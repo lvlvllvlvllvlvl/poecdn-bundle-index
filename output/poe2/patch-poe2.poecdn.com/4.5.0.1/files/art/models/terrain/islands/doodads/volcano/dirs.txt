@@ -1,0 +1,8 @@
+explorer
+goblincage
+goblintorch
+goblintorch/vfx
+goblintorch/vfx/textures
+textures
+textures/isleofkin
+textures/isleofkin/goblintorch

@@ -1,3 +1,0 @@
-fx
-mat
-mat/holy_flame_orb

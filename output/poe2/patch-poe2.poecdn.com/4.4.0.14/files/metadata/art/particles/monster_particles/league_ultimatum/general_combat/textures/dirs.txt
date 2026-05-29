@@ -1,3 +1,0 @@
-vaal_crystal_totem
-vaal_goliath
-vaal_goliath/blood_orbs

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+baf75f60ea6e6770,blood_splatter_01.mat,Tiny_6,30974595,1934
+07b113104602733d,blood_splatter_01.dds,Art/particles/environment_effects/League_Incursion_4,403086,22020
+ee2a354632fbbe3c,blood_splatter_01.dds.header,Tiny_6,30973075,1520
+2fcfaeb78ece7d88,blood_dripns.dds,Tiny_6,30971039,516
+4a5dd637894898a4,blood_dripns.dds.header,Tiny_6,30971555,1520
+26fb1bf761beb198,blood_drip.mat,Art/particles/environment_effects/League_Incursion_4,425106,5396
+0384cc2c208332d5,blood_drip.dds,Tiny_6,30969187,332
+fc3e49fa735d0593,blood_drip.dds.header,Tiny_6,30969519,1520
+ffdd79e084624e9b,alpha_mask.mat,Tiny_6,30967943,1244
+e4dc254b0d348c82,alpha_mask.dds,Folders/art/particles/environment_effects/misc,360784,22020
+6ec019bbafc4204e,alpha_mask.dds.header,Tiny_7,6383004,1520

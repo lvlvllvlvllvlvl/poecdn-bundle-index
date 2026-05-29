@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+2ca6b464336edb56,entrance01.arm,Content/data/balance/worldareas/maprugosa.vworld,5510735,8056
+adac5397dee3aff3,mission_01.arm,Tiny.VE.1,208368916,1712
+e5f70ab8e6273f48,no_boss_01.arm,Content/data/balance/worldareas/maprugosa.vworld,5547193,19616
+f3f5cd803885cc64,checkpoint_cnr_01.arm,Content/data/balance/worldareas/maprugosa.vworld,5496049,4878
+d025af4e34c68422,checkpoint_cnr_02.arm,Content/data/balance/worldareas/maprugosa.vworld,5500927,4960
+1734378d8b735eb2,checkpoint_cnr_03.arm,Content/data/balance/worldareas/maprugosa.vworld,5505887,4848
+5b205923f347cc50,forced_rare_03.arm,Content/data/balance/worldareas/maprugosa.vworld,5537887,4652
+81940926c5b5aca7,forced_rare_03_2.arm,Content/data/balance/worldareas/maprugosa.vworld,5542539,4654
+359a997838ae0511,forced_rare_02.arm,Content/data/balance/worldareas/maprugosa.vworld,5528449,4718
+1bcfc05252f6cfbd,forced_rare_02_2.arm,Content/data/balance/worldareas/maprugosa.vworld,5533167,4720
+04be8f1135b8fa8e,forced_rare_01.arm,Content/data/balance/worldareas/maprugosa.vworld,5518791,4828
+3e23e765d0693420,forced_rare_01_2.arm,Content/data/balance/worldareas/maprugosa.vworld,5523619,4830
+b112b8fe1062cb7f,boss_01.arm,Content/data/balance/worldareas/maprugosa.vworld,5382885,56460
+72d13d65b09c4bf9,boss_02.arm,Content/data/balance/worldareas/maprugosa.vworld,5439345,56704

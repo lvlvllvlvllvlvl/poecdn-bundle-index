@@ -1,3 +1,0 @@
-debuff
-debuff/on_monster
-debuff/on_monster/graphs

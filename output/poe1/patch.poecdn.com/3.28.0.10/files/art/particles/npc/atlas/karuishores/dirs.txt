@@ -1,6 +1,0 @@
-targetpractice_crossbows
-targetpractice_crossbows/mb
-targetpractice_crossbows/textures
-targetpractice_fireball
-targetpractice_fireball/mb
-targetpractice_fireball/textures

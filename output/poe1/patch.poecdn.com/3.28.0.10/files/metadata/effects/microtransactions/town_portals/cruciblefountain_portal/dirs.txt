@@ -1,7 +1,0 @@
-attachments
-epk
-fx
-graphs
-mat
-mat/townportal
-mat/townportalopen

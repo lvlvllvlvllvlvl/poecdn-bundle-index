@@ -1,0 +1,9 @@
+melee_humanoid
+onact_dagger
+ranged_humanoid
+scorpion
+snake
+spawn
+spider
+taster
+wyvern

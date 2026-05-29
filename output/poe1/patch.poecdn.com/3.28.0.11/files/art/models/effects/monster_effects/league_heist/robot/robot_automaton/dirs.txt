@@ -1,0 +1,4 @@
+doom_explosion
+doom_projectile
+onact_spiritbomb
+projectile

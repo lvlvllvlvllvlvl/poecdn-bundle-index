@@ -1,0 +1,4 @@
+boss
+boss/apparitionboss
+boss/objects
+boss/sentinels

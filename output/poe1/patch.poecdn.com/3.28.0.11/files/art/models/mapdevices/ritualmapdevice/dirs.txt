@@ -1,0 +1,9 @@
+attachments
+attachments/candles
+attachments/crazedcannibalpict_male
+attachments/crazedcannibalpict_male/textures
+attachments/dagger
+attachments/haresacrifice
+attachments/plinth
+attachments/runes
+textures

@@ -1,8 +1,0 @@
-cavetrap
-sirennests
-sirennests/sirennest_01
-sirennests/sirennest_02
-sirennests/sirennest_03
-sirennests/sirennest_04
-textures
-textures/sireneggs

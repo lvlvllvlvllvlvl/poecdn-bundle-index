@@ -1,4 +1,0 @@
-pet
-pet/buff_wave
-pet/clone_strike
-pet/clone_strike_ruin

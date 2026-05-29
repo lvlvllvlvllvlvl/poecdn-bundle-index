@@ -1,4 +1,0 @@
-timelessjewels
-timelessjewels/apparitions
-timelessjewels/apparitions/attachments
-timelessjewels/apparitions/fx

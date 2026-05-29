@@ -1,0 +1,4 @@
+beach
+city
+forest
+generic

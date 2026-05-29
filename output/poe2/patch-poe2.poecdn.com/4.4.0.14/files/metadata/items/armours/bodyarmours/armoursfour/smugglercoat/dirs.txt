@@ -1,3 +1,0 @@
-attachments
-attachments/scfemale
-attachments/scmale

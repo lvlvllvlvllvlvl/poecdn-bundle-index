@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+55775900da7bbb9f,wisp_smoke_base.mat,Tiny_7,39162880,2542
+ec5de691686d20c5,wisp_smoke_base.dds,Folders/art/particles/monster_particles/act7,5636,43876
+8b84cd6460df32c5,wisp_smoke_base.dds.header,Tiny_7,56366603,840
+c657b50849730611,trail_galaxy_01_multi.mat,Tiny_7,39160164,2716
+d84c6a478273a920,trail_galaxy_01_multi.dds,Art/particles/charged_attack/release_max,0,43876
+a5fbaa5318f4063d,trail_galaxy_01_multi.dds.header,Tiny_7,39159324,840
+029f8aab4d0132cb,trail_dark.mat,Tiny_7,39156900,2424
+b9ba0804aaa1eb34,trail_dark.dds,Art/particles/environment_effects/chest_2,1875064,87588
+be569ea0e56382ff,trail_dark.dds.header,Tiny_7,39156396,504
+27d51447dfd9ec0d,light_gradient_black.mat,Tiny_7,39154762,1634
+165fd21342880540,light_gradient_black.dds,Art/particles/monster_particles/AtlasofWorlds_50,536380,22020
+cd64fee10a2499aa,light_gradient_black.dds.header,Tiny_8,4298058,1520
+52f574363c0e715a,deep_wisp.mat,Tiny_7,39152554,2208
+5204d82110092d77,deep_wisp.dds,Art/particles/monster_particles/prophecy_league,2172374,43876
+9c718c70d39950d2,deep_wisp.dds.header,Tiny_7,39360844,840

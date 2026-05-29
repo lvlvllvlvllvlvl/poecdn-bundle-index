@@ -1,0 +1,5 @@
+cyclonic
+prismatic
+stone
+tidal
+toxic

@@ -1,3 +1,0 @@
-textures
-textures/cold_super_nova_projectile
-textures/cold_super_nova_projectile/impact

@@ -1,0 +1,16 @@
+attachments
+attachments/ringgloves
+attachments/ringhelmet
+attachments/skirtdex
+attachments/skirtdexint
+attachments/skirtint
+attachments/skirtstr
+attachments/skirtstrdex
+attachments/skirtstrdexint
+attachments/skirtstrint
+fx
+textures
+textures/mistbody
+textures/mistboots
+textures/mistgloves
+textures/misthelmet

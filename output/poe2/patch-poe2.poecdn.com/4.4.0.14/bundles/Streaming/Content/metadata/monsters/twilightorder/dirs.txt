@@ -1,7 +1,0 @@
-town
-twilightordercleric
-twilightorderexcavationoverlord
-twilightorderhighpriest
-twilightordersoldiers
-twilightordersorceror
-twilightordertenderizertwin

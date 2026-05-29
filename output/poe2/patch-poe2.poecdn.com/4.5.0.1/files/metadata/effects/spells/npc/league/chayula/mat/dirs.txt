@@ -1,0 +1,5 @@
+pulse
+shield
+xesht_dying_cine_01_blastingoff
+xesht_dying_cine_01_pressure
+xesht_dying_cine_01_start

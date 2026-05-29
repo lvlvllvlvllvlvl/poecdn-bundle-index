@@ -1,8 +1,0 @@
-attachments
-attachments/outfit_01
-attachments/outfit_01/helmet
-attachments/outfit_01/skirt
-attachments/outfit_02
-attachments/outfit_03
-attachments/skull
-attachments/weapon

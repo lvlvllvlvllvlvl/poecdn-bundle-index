@@ -1,3 +1,0 @@
-blood_fog
-doomcircle
-volatile_orb

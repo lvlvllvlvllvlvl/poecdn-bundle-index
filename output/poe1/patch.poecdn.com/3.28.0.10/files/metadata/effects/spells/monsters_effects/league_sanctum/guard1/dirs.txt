@@ -1,4 +1,0 @@
-epk
-fx
-fx/on_act
-fx/on_act/command_turrets_01

@@ -1,6 +1,0 @@
-vfx
-vfx/graphs
-vfx/pet
-vfx/pet/robot
-vfx/pet/science
-vfx/pet/templar

@@ -1,4 +1,0 @@
-architecture
-architecture/char
-architecture/ivory
-ground

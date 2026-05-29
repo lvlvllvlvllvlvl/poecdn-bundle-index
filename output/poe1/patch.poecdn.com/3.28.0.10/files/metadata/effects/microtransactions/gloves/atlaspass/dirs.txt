@@ -1,3 +1,0 @@
-gravebind
-gravebind/pet
-rotshaman
