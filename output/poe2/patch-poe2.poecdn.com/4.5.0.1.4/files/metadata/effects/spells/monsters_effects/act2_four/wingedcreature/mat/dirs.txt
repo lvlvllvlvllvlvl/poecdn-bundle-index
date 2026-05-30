@@ -1,5 +1,0 @@
-ball_lightning
-ball_lightning/ball_idle
-ball_lightning/ball_start
-ball_lightning/buildup
-ball_lightning/muzzle

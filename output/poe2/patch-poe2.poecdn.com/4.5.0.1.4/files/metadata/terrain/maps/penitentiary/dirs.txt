@@ -1,7 +1,0 @@
-graphs
-rooms
-rooms/fills
-rooms/unique
-tiles
-tiles/manorwall
-tiles/outerwall

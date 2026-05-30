@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+99e47eba8183f7b5,proj_fire.pet,Tiny.V6.1,191761355,10730
+457370964622ce89,onhit_ptemit.pet,Tiny.VC.1,196431655,19532
+f9ed31cd745fcc51,soul_projectile.trl,Tiny.VB.1,191541759,4412
+c6f7f110753024de,soul_bolt_end.pet,Tiny.V9.1,193419510,16130
+82dd8c64c837b930,cyclone.trl,Tiny.VD.1,191940865,3068
+b8fc264569c79040,cyclone_loop.pet,Tiny.VC.1,196413653,18002
+20fbe98b34522d41,cyclone_line_start.pet,Tiny.V8.1,192263104,13020
+7f95ebefc0bb058f,cyclone_line_loop.pet,Tiny.VE.1,189564246,23426
+28b7e50c487cfeed,beam_start.pet,Tiny.V4.1,191317380,7558
+3faddd75124cae63,beam_impact.pet,Tiny.V3.1,193927865,26288
+2327339c1d990abc,beam_idle.pet,Tiny.V0.1,192426266,29062

@@ -1,0 +1,12 @@
+attached
+fx
+graphs
+mats
+mats/abyss_tornado
+mats/abyss_tornado/abyss
+mats/abyss_tornado/aoe_pull
+mats/abyss_tornado/base
+mats/abyss_tornado/cold
+mats/abyss_tornado/fadein
+mats/abyss_tornado/fire
+mats/abyss_tornado/lightning

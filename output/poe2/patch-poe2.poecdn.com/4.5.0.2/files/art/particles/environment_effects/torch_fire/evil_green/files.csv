@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+4ee26f67197c1eac,smoketestgreen.mat,Tiny.V4,35345871,2278
+34f4d6c7fc425fcf,smoketestgreen.dds,Streaming/Content/metadata/mapdevices/demonicmapdevice/pet/34DF97C720671E4C.horn6_midline.pet,818078,87556
+b394b9aaa80e2c8a,smoketestgreen.dds.header,Tiny.V7,35035747,1520
+e8e9bd822493bd28,torch_windy.mat,Tiny.VD,35268799,2888
+a669618e239ff4ec,torch_windy.dds,Streaming/Content/metadata/mapdevices/demonicmapdevice/pet/34DF97C720671E4C.horn6_midline.pet,905634,43876
+1327541cf1146d52,torch_windy.dds.header,Tiny.VC,35386559,840
+528e8c27868415b3,ember_dark.mat,Tiny.VE,34710874,1818
+7a3a509e539236e1,ember_dark.dds,Tiny.V1,35010379,516
+cf46453783c5d616,ember_dark.dds.header,Tiny.VA,35309292,1520
+cd8a0e7f791db667,fire_spark.mat,Tiny.VB,35235409,1790
+501da41f7523fc93,fire_spark.dds,Tiny.VD,37824756,1540
+4d031d02fca0d3a3,fire_spark.dds.header,Tiny.V0,37985273,1520
+71cc0dedd4473ed0,light_gradient.mat,Tiny.V2,35048191,1848
+200527a832bf882f,light_gradient.dds,Streaming/Content/metadata/mapdevices/demonicmapdevice/pet/34DF97C720671E4C.horn6_midline.pet,806994,11084
+102aa139ac4e81a9,light_gradient.dds.header,Tiny.VE,34712692,1520

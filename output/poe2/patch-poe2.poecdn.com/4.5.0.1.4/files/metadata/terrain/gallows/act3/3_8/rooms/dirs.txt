@@ -1,8 +1,0 @@
-backstreets
-canal
-canal_sidestreet
-fills
-overlays
-sidestreets
-street
-unique

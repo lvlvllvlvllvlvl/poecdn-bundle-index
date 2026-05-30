@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+b1b40033ba9e8ceb,madcapportalc.mat,Tiny.V2.1,831852,5818
+d1313c47a418f547,madcapportal_glow_dxt1.dds,Streaming/Content/art/models/misc/portals/FB6221EE047E6B6F.madcapportal_model.fmt.1,0,699212
+e50605c957b7eacc,madcapportal_glow_dxt1.dds.header,Tiny.V7.1,1170748,1520
+bd97f9180f73146a,madcapportal_normal_dxt5.dds,Streaming/Content/art/models/misc/portals/FB6221EE047E6B6F.madcapportal_model.fmt.1,699212,1398276
+69cfb47e1f421411,madcapportal_normal_dxt5.dds.header,Tiny.V7.1,1172268,1520
+c5aecbf43364ced8,madcapportal_colour_bc7.dds,Streaming/Content/art/models/misc/portals/FB6221EE047E6B6F.madcapportal_model.fmt,1529676,2796388
+0c8ba66918e9baef,madcapportal_colour_bc7.dds.header,Tiny.V2.1,831012,840
+3734f37c075b91fc,madcapportal_colour.dds,Streaming/Content/art/models/misc/portals/FB6221EE047E6B6F.madcapportal_model.fmt,131408,1398268
+da9fc2b50bf25e00,madcapportal_colour.dds.header,Tiny.VC.1,1194052,840
+4a7bbf26aa928fb6,madcapportalfxc.mat,Tiny.V3.1,659091,6692
+40ae18e5aaeb9f79,madcapportalfx_glow_dxt1.dds,Streaming/Content/art/models/misc/portals/FB6221EE047E6B6F.madcapportal_model.fmt.2,0,87548
+2eb8a8d1e95ee796,madcapportalfx_glow_dxt1.dds.header,Tiny.VB.1,796800,840
+d67db287c40c73af,madcapportalfx_normal_dxt5.dds,Streaming/Content/art/models/misc/portals/FB6221EE047E6B6F.madcapportal_model.fmt.2,87548,174948
+c72defb58e042611,madcapportalfx_normal_dxt5.dds.header,Tiny.VD.1,721655,840
+ddb0d2a7368ce508,madcapportalfx_colour_dxt5.dds,Streaming/Content/art/models/misc/portals/FB6221EE047E6B6F.madcapportal_model.fmt.1,2097488,699236
+456dda2e17192586,madcapportalfx_colour_dxt5.dds.header,Tiny.V6.1,1135132,840

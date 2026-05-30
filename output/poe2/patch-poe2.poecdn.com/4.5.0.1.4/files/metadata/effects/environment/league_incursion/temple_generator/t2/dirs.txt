@@ -1,3 +1,0 @@
-rings
-rings/fx
-rings/mat

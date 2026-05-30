@@ -1,5 +1,0 @@
-fx
-fx/agro_chop
-mat
-mat/leap_slam
-mat/slam

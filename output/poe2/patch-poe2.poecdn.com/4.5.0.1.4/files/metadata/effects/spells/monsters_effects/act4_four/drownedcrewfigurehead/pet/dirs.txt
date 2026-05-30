@@ -1,3 +1,0 @@
-ghostflame_lantern
-statueslam
-statueslam_noglow

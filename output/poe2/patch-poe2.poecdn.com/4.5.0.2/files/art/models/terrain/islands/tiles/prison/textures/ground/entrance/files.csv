@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+00e39431f41dabf5,g_pri_limestoneflagsandy01_normal.dds,Streaming/Content/data/worldareas/F1/g4_5_1.vworld,226001,1398276
+6cfc329b179b5f05,g_pri_limestoneflagsandy01_normal.dds.header,Tiny.V1,21912563,1520
+9d52926006c04f25,g_pri_limestoneflagsandy01_colour.dds,Streaming/Content/data/worldareas/91/g4_5_1.vworld,2069591,1398276
+f711ec551f57549d,g_pri_limestoneflagsandy01_colour.dds.header,Tiny.V3,21880209,1520
+370dfdea0786db4d,g_pri_limestoneflagwet01_normal.dds,Streaming/Content/data/worldareas/3A/g4_5_1.vworld,1398276,1398276
+abafeec52bf15e62,g_pri_limestoneflagwet01_normal.dds.header,Tiny.V5,21586431,1520
+cf3d4d2d73f4d827,g_pri_limestoneflagwet01_colour.dds,Streaming/Content/data/worldareas/EA/g4_5_1.vworld,1377245,1398276
+4b1d61dd9d4e4ce2,g_pri_limestoneflagwet01_colour.dds.header,Tiny.VE,21838334,1520
+8ff1ddee9ff582ee,pri_sandslopewet01c.mat,Tiny.VF,22103842,1952
+42cab8e8dc793769,pri_sandslopewet01_normal.dds,Streaming/Content/data/worldareas/23/g4_5_1.vworld,0,5592580
+7c8e25b8bb8fc437,pri_sandslopewet01_normal.dds.header,Tiny.V2,22185366,1520
+199e23ca01d0d14b,pri_sandslopewet01_colour.dds,Streaming/Content/data/worldareas/25/g4_5_1.vworld,158239,5592580
+7bd8406501187e25,pri_sandslopewet01_colour.dds.header,Tiny.V8,22117836,1520
+b13099921d76f2ca,pri_limestoneflagwet01c.mat,Tiny.V4,22330516,1536
+6af82d08ada5e169,pri_limestoneflagsandy01c.mat,Tiny.V4,22328972,1544

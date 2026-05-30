@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+9240c2be996eb262,static.mat,Tiny.V1,39812710,1588
+d59979568becfdb7,blood_colour.mat,Tiny.VA,40069286,5684
+90ee2da1b8cfadcc,plasma_wave.mat,Tiny.VA,40074970,1354
+2a3822f14faa20cc,fishnet_specular_dxt1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/B525297545B3A382.8871DFC19FB242A2.net_robot.ao,1425088,174924
+da9e452b4b3cae63,fishnet_specular_dxt1.dds.header,Tiny.V9,40428013,1520
+8124f8e993b6848d,fishnet_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/B525297545B3A382.8871DFC19FB242A2.net_robot.ao,1075388,349700
+50c5cf2c8d76a8a6,fishnet_normal_dxt5.dds.header,Tiny.VB,40162920,1520
+0a6553e2ab605c9a,fishnet_colour_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/B525297545B3A382.8871DFC19FB242A2.net_robot.ao,725688,349700
+339441ccd009f036,fishnet_colour_dxt5.dds.header,Tiny.V6,39865959,1520
+850787de44bd28f9,metal_netc.mat,Tiny.VC,40153270,4822
+1d2b52bfc1a3bdce,metal_net_robotc.mat,Tiny.V6,39867479,5862
+035a3c54d2a8f4a1,cyst_militaryc.mat,Tiny.VF,39767082,646
+c4e9d9bdb92c2dfd,cyst_robotc.mat,Tiny.VC,40152398,872

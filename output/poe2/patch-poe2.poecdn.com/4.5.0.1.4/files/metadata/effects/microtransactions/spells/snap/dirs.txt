@@ -1,8 +1,0 @@
-abyssal
-abyssal/epk
-abyssal/fx
-abyssal/mat
-abyssal/mat/cold
-abyssal/mat/fire
-abyssal/mat/lightning
-abyssal/mat/surge

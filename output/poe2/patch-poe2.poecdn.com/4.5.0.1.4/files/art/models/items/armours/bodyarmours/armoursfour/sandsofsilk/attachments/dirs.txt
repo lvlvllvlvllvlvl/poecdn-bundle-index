@@ -1,4 +1,0 @@
-belt
-cloak
-skirt
-skirtdex

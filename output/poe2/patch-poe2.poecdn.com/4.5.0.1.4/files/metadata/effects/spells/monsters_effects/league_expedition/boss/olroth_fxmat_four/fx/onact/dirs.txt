@@ -1,6 +1,0 @@
-dash_02
-death_fake
-groundslam_01
-intro
-sword_throw
-triple_lacerate_01

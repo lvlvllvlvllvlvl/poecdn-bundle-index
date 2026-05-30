@@ -1,9 +1,0 @@
-epk
-fx
-mat
-mat/qof_revive
-mat/qof_revive/chest
-mat/qof_revive/limbs
-mat/revive
-mat/scientist_surge
-mat/scientist_surge/burst

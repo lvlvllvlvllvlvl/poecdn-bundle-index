@@ -1,3 +1,0 @@
-fx
-fx/burning_grd
-fx/burning_grd/masks

@@ -1,0 +1,4 @@
+doodads
+doodads/marakethruin
+doodads/marakethruin/hanging_light
+doodads/marakethruin/hanging_light/texture

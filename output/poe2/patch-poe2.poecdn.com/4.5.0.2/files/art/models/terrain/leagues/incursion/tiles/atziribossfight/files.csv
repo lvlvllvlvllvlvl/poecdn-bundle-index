@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+71d9e0ed5a4859df,tendril_01.fmt,Streaming/Content/data/balance/worldareas/abyss_boss2.vworld.1,259356,140064
+9827f1c306fa866d,tendril_01.fmt.header,Tiny.V3,27306448,227
+5160a274e38847d3,leaduptopwall.fmt,Streaming/Content/data/balance/worldareas/18/incursiontemple.vworld,1975653,477006
+c519447f4285a9c8,leaduptopwall.fmt.header,Tiny.V5,27128044,1865
+bcbd4e673e7ebb78,atziri_leadup_01.tgt,Content/data/balance/worldareas/p2_5.vworld,1619976,13456
+8521300deb22b4da,atziri_arena_01.tgt,Content/data/balance/worldareas/p2_5.vworld,1591438,14714
+24843cbc04bd2e0f,atziri_arena_02.tmd,Tiny.V3,27298837,584
+2040760944676813,atziri_arena_02.tgt,Content/data/balance/worldareas/p2_5.vworld,1606152,13824

@@ -1,0 +1,7 @@
+chargeup
+chargeup_explosion
+emerge
+emerge_weapon
+ion_cannon
+lightning_bomb
+quake_slam

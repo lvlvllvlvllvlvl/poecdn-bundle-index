@@ -1,0 +1,8 @@
+attachments
+attachments/mane
+attachments/necklace
+attachments/robe
+attachments/roberigid
+attachments/sceptre
+attachments/tail
+textures

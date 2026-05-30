@@ -1,4 +1,0 @@
-chestdecorb
-chestdecorf
-skirt
-skirtmetal

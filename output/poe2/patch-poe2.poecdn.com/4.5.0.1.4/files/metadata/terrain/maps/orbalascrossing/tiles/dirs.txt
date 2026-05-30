@@ -1,8 +1,0 @@
-cliffs
-cliffsunwalkable
-dunes_wideriver
-dunesunwalkable_wideriver
-features
-huts
-hutsslope
-lowerledge

@@ -1,0 +1,6 @@
+beam
+piety_rage
+sheild
+sticky_orb
+sticky_orb/bolt
+sticky_orb/travel

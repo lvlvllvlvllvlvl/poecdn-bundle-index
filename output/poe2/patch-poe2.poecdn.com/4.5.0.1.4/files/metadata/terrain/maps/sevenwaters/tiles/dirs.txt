@@ -1,5 +1,0 @@
-buildingwall
-feature
-river
-riverbank
-riverbuildingwall

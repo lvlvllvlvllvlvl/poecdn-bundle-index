@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+a0c13614dea8eff8,field_liquid_init.fxgraph,Shared,5514493,127096
+aba80ccc124eb7e7,field_uvsmask.fxgraph,Content/metadata/effects/spells/cold_frostbomb/frostbomb.ao,1843261,87840
+dd0fbaaea2558a45,field_texturemask.fxgraph,Shared,5641589,113870
+f14b5a6729bbf125,field_spheremask.fxgraph,Content/metadata/effects/microtransactions/misc/uniques/1D25D170BA23EBBB.harvest_pipe.ao,44020,91692
+241834413eaa2af3,field_objectaxismask.fxgraph,Content/metadata/effects/spells/monsters_effects/league_incursion/236521620F4696CE.mortar.ao,2668008,83646
+49532c7fe8556459,field_groundsplat_radial.fxgraph,Content/metadata/monsters/chimerawetlandsboss/chimerapillar.ot.1,8041,264156
+591a96de2b216e25,field_groundsplat_directional.fxgraph,Content/metadata/effects/microtransactions/spells/witch/28501A42750AA941.boneblast_zone.ao,6040526,290210

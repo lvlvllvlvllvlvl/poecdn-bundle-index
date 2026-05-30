@@ -1,0 +1,13 @@
+attachments
+attachments/book_white
+attachments/chainmask_white
+attachments/cloak
+attachments/cloak_white
+attachments/loincloth_white
+attachments/shoulderpads
+attachments/spine_01
+attachments/spine_02
+attachments/waist
+attachments/waist_white
+textures
+textures/white

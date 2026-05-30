@@ -1,0 +1,17 @@
+blackrose
+blackrose/models
+blackrose/models/pod_aoe
+blackrose/models/pods
+blackrose/models/projectile
+blackrose/models/shooting_up
+blackrose/models/vines
+blackrose/textures
+blackrose/textures/pod_aoe
+blackrose/textures/pod_aoe/fx
+blackrose/textures/pods
+blackrose/textures/pods/fx
+blackrose/textures/pods/fx/roots
+blackrose/textures/projectile
+blackrose/textures/shooting_up
+blackrose/textures/shooting_up/fx
+blackrose/textures/vines

@@ -1,0 +1,6 @@
+ammo
+galvanic_shards
+grenade
+plasma_blast
+shockburst_rounds
+stormblast_bolts

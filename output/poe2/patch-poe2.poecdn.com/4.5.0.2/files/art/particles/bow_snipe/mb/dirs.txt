@@ -1,0 +1,3 @@
+onact
+projectile_01
+projectile_01/animations

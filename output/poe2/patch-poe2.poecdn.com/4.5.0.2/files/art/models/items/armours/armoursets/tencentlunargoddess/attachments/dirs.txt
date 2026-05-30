@@ -1,0 +1,12 @@
+arms
+arms/left
+arms/right
+back
+chest
+head
+head/female
+head/male
+shoulderfeathers
+shoulderfeathers/left
+shoulderfeathers/right
+skirt

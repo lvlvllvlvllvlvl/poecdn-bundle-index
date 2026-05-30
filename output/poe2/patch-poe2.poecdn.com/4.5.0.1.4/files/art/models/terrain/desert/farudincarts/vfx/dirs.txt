@@ -1,6 +1,0 @@
-cartploughs
-cartploughs/textures
-dreadnaught_trailer
-dreadnaught_trailer/textures
-dreadnaught_trailer/textures/grd_smokes
-dreadnaught_trailer/textures/sandstorm

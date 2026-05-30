@@ -1,3 +1,0 @@
-attachments
-attachments/r_collar
-textures

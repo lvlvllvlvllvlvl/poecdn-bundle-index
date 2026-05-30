@@ -1,5 +1,0 @@
-pre_open_01
-townportal
-townportalclose
-townportalopen
-townportalopen/open_cue

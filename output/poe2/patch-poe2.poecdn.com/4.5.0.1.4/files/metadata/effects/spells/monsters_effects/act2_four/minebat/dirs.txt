@@ -1,9 +1,0 @@
-epk
-fx
-mat
-mat/attack_01
-mat/beam_explode
-mat/lightning_buildup
-mat/lightning_expolode
-mat/screech_buildup
-pets

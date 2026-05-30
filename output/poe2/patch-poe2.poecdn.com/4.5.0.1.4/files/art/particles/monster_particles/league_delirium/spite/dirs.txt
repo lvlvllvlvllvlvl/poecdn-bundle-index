@@ -1,3 +1,0 @@
-mb
-mb/spawned_proj
-mb/spawned_proj/animations

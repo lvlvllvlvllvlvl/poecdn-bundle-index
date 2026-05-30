@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+56fbf2235ab26981,reflect_beam.ao,Tiny.VB.1,123850779,3040
+aa694291e0da3b94,fire_cone.ao,Tiny.VD.1,122811408,3584
+f97aaf7003bc1d4c,oil_splat.ao,Tiny.V9.1,124993300,2080
+f98b7916108b27f7,oil_explode.ao,Tiny.V3.1,121566589,2050
+f68046d37fb129c1,oil_mortar.ao,Tiny.V9.1,124990512,2788
+e2f80dd4f5542503,oil_mortar_impact.ao,Tiny.V0.1,122422656,2062
+6cf552d63b340b82,shockwave2.ao,Tiny.V2.1,125464396,1600
+9dbd05648e5776ab,shockwave1_pulse.ao,Tiny.V1.1,123195026,1458
+07b7326b9e6e3c4a,shockwave4_xplod.ao,Tiny.V9.1,124995380,2048
+ef6642450f9da42e,shockwave3_march.ao,Tiny.VF.1,119965688,2576
+4545e445ce1f7323,barrage_mortar.ao,Tiny.V2.1,125407406,3266
+31660e292c9b80b9,barrage_impact.ao,Tiny.V1.1,123173548,2056
+b768769a93495a07,bombing_proj.ao,Tiny.VF.1,119941240,1704
+f5d09dbec33352a3,bombing_aoe.ao,Tiny.V7.1,119304856,2936

@@ -1,2 +1,0 @@
-grd_fire_1x1
-grd_fire_1x1/idle_01

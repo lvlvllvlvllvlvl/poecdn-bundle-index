@@ -1,0 +1,5 @@
+anchoriteflathead
+anchoritemother
+anchoritemother/attachments
+anchoritemother/runemarked
+anchoritespawn

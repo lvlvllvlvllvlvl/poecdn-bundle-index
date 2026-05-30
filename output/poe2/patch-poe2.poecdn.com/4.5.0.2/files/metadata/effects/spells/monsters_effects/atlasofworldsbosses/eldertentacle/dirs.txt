@@ -1,0 +1,5 @@
+large
+large/projectile
+large/projectile_epic
+small
+small/projectile

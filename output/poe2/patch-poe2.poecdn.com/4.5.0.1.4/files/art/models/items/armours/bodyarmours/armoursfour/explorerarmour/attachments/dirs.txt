@@ -1,6 +1,0 @@
-female
-female/eascarff
-female/easkirtf
-male
-male/eascarfm
-male/easkirtm

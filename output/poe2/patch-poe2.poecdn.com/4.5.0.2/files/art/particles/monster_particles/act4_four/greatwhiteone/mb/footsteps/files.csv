@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+2efe5be0ed0c42ac,rig_ce6e4fb3.smd,Tiny.V2,36902300,77
+f74a01d3808d1e25,rig_ce6e4fb3.smd.header,Tiny.VA,36338315,368
+8177e2c32fe64331,slam.sm,Tiny.VA,37258743,376
+ad22b38e7a3390c4,slam.amd,Tiny.VB,35280989,96
+50086330c162ef1f,slam.ast,Tiny.VF,35240981,309

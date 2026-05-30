@@ -1,0 +1,17 @@
+epk
+epk/mirror_idle_01
+fx
+fx/buildup_01
+fx/buildup_01/break_01
+fx/mirror_idle_01
+fx/mirror_shatter_01
+graphs
+graphs/buildup_01
+graphs/mirror_01
+graphs/mirror_shatter_01
+mat
+mat/buildup_01
+mat/buildup_01/break_01
+mat/mirrior_idle_01
+mat/mirror_idle_01
+mat/mirror_shatter_01

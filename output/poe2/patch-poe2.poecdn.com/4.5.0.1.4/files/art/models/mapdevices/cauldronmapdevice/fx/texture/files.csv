@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-72247e1e1ab8545d,smoke_normal.dds,Streaming/Content/metadata/mapdevices/cauldronmapdevice/fx/cauldron_active_idle.pet.1,0,2796388
-49d7eca5203d8c4b,smoke_normal.dds.header,Tiny.VD,11523109,840
-e11c4314129a7d4b,smoke_8x8_normal.dds,Streaming/Content/metadata/mapdevices/cauldronmapdevice/fx/cauldron_active_idle.pet,57226,5592580
-16eb0cd862b5bfb8,smoke_8x8_normal.dds.header,Tiny.V6,11680816,1520
-723e4c12d12644b8,drop_splash_normal.dds,Streaming/Content/metadata/mapdevices/cauldronmapdevice/fx/cauldron_active.pet,1398276,1398276
-463ff6beab5b214c,drop_splash_normal.dds.header,Tiny.V6,11679296,1520
-14abb0dffb89c9b6,drop_splash_color.dds,Streaming/Content/metadata/mapdevices/cauldronmapdevice/fx/cauldron_active.pet,0,1398276
-88fdcf3c8e7edd61,drop_splash_color.dds.header,Tiny.V6,11677776,1520

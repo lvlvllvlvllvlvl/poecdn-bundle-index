@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+0b54d35bcc061fb9,dust_11x11.mat,Tiny.V0,6510561,1138
+26562bddf2f7cb67,light_beam.mat,Tiny.VD,6348292,3992
+47c1551689c58e3d,noisex2_dxt1.dds,Streaming/Shared/Super/Shared.3,87556,43852
+40e6247ab956d100,noisex2_dxt1.dds.header,Tiny.V5,34896098,1520
+6e2231b046f3f510,sparks.mat,Tiny.V4,6518091,1488
+483ae4bafde457bc,sparks_spiral_demon.mat,Tiny.V3,6343394,2208
+e41130b6df378747,scream_wisp.mat,Tiny.VE,6422631,3536
+9b4ad1887223e4fc,scream_wisp_j_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/foot_prints/FC1832ADF5AD1F9E.box.pet,810236,43876
+fe82bd4bfcdb5826,scream_wisp_j_dxt5.dds.header,Tiny.VE,6426167,840
+b1fc2c64e64492d2,trail_pattern.mat,Tiny.V9,6550686,4222
+4ef9bcad273e9469,trail_flame.mat,Tiny.V6,6423144,3274
+b23b0807b5cb588a,trail_fl.mat,Tiny.V8,6298848,3334
+e9f9a965d9c8241e,trail_fl_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.56A82F3296EC471A.axe_mace.epk,0,87548
+f241734051d222c4,trail_fl_dxt1.dds.header,Tiny.VB,6393389,840

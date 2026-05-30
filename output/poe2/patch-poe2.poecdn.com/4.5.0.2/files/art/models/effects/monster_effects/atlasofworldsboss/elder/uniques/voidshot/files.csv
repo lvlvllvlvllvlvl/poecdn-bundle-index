@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+bf1ad2d2018f226b,arrow_b2950d82.smd,Streaming/Content/metadata/effects/spells/monsters_effects/5A93FCB72819A04B.56CBAFF2A32DE304.fwdline.pet,469655,14778
+651db47a9fde0b3b,arrow_b2950d82.smd.header,Tiny.VB,7482762,368
+0819cf062f7eadce,arrow.amd,Tiny.V4,7586456,228
+e76ccf9a60c3aa76,arrow.ast,Content/metadata/effects/spells/monsters_effects/atlasofworldsbosses/1B0FF3B74D1171FA.fwdline.pet,478706,5453
+3812afb285492a7c,explode_scale_d0ab6475.smd,Tiny.V7,7407814,672
+335932ee98a2ac57,explode_scale_d0ab6475.smd.header,Tiny.V0,7656813,368
+ee2574ed5b6151ca,voidarrow.sm,Tiny.VC,7463733,832
+be1e7559469fd5d9,voidblastscale.sm,Tiny.VC,7464565,390
+cb77817a9b60492c,voidblastscale.amd,Tiny.V0,5443014,86
+40d858d0ef694265,voidblastscale.ast,Tiny.VA,7581287,1257

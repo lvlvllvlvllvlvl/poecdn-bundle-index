@@ -1,7 +1,0 @@
-attachments
-epk
-epk/es
-epk/hp
-epk/mana
-pet
-trl

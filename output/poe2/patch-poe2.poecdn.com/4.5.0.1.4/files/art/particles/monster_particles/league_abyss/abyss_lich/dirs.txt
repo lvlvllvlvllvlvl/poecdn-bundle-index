@@ -1,4 +1,0 @@
-death
-shadowform
-teleport_strike
-teleport_strike/target

@@ -1,2 +1,0 @@
-onact
-onact/throw_01

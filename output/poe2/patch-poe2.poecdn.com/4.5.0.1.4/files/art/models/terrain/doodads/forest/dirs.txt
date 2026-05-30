@@ -1,8 +1,0 @@
-banditbarricades
-flowers
-fx
-fx/shadow
-gravestones
-plants
-stones
-trees

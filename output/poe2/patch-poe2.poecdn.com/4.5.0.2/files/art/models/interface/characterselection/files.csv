@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+e2efab99d51151d7,statuelogin_fx.sm,Tiny.VA,7946369,744
+9c5d98f3ac1d4007,statuelogin_fx.smd,Streaming/Content/metadata/terrain/characterselection/characterselection2/statuelogin_fx.ao,0,7799
+05a49e74b26a3a0e,statuelogin_fx.smd.header,Tiny.VD,7714758,448
+1eefe5dd22d1a600,statuelogin_fx.ast,Content/metadata/terrain/ruinedcity/features/trees/ruinedcity_tree_pandanus_v01_07_animated_sway.ao,374472,4206
+bf0a8409e7d81422,statuelogin_fx.amd,Tiny.V2,8078588,112
+38a98dbca17775f0,statuelogin_lighting.amd,Tiny.VC,7809015,142
+713809d6fbc06d2e,statuelogin_lighting.ast,Tiny.V0,8009490,4078
+d3ac273605593a12,statuelogin_characterlight.sm,Tiny.VB,7868676,480
+79f4c9fff2cfb3f3,statuelogin_characterlight.smd,Tiny.VA,7945964,405
+6eb2cca3648165cd,statuelogin_characterlight.smd.header,Tiny.V1,7783501,448
+7f2ee4a82d742ddc,statuelogin_characterlight.amd,Tiny.V2,8078588,112
+c50a0ffcee7deedb,statuelogin_characterlight.ast,Tiny.V3,7807091,549
+7ff7ead5318184ae,statuelogin.tgt,Folders/art/models/terrain/leagues/incursion/tiles,462704,7190
+fdfd07cc9e3589c0,statuelogin.tmd,Tiny.VB,7817546,51130

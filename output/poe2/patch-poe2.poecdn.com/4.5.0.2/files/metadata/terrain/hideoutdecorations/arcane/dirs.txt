@@ -1,0 +1,14 @@
+arcaneastronomytool
+arcanebrokenplantpot
+arcanecabinet
+arcanechair
+arcaneovergrownpost
+arcaneplanter
+arcaneplantpot
+arcaneresearchboard
+arcaneresearchmaterial
+arcaneresearchtable
+arcaneruinstairs
+arcaneruinstructures
+arcaneruinwalls
+arcaneshelf

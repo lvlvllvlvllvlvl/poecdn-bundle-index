@@ -1,5 +1,0 @@
-attachments
-attachments/bommy_knocker
-attachments/nipple_rings
-attachments/robe
-textures

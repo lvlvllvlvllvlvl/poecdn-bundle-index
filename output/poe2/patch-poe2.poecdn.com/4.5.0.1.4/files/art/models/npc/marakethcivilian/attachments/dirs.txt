@@ -1,7 +1,0 @@
-blankets
-blankets/marakethcivilian1woundedblanket1
-blankets/marakethcivilian1woundedblanket2
-blankets/marakethcivilian2woundedblanket1
-blankets/marakethcivilian2woundedblanket2
-blankets/marakethcivilian3woundedblanket1
-blankets/marakethcivilian3woundedblanket2

@@ -1,6 +1,0 @@
-delay_blast
-delay_blast_01
-holly_shell_mini
-holy_shell
-holy_shell/scaled
-slowtrap_bubble

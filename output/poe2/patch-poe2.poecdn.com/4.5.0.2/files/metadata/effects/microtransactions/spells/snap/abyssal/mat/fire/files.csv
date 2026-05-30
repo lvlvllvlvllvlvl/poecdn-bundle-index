@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+4b5453cc034e9e09,fire_blur_r.mat,Tiny.V0.1,44788744,13424
+c3270cc380bb69d2,fire_blur_u.mat,Tiny.V3.1,39291503,568
+2814cd70e4ea994a,fire_sparks_r.mat,Tiny.VD.1,167368128,40870
+2d9425ef042e243c,fire_sparks_u.mat,Tiny.V5.1,46090654,16640
+fd5bb8cd6aaf5a41,fire_flash_r.mat,Tiny.V4.1,171988244,26748
+62ada19d63ff28d6,fire_flash_u.mat,Tiny.V5.1,4569764,576
+4adcf59c46ab14a1,fire_caustics_r.mat,Tiny.V0.1,44802168,7776
+5a701dc65923fc7d,fire_caustics_u.mat,Tiny.V5.1,4569764,576
+02afd71c24b3e6db,fire_wave_r.mat,Tiny.V1.1,74230830,48240
+802cda61d4742caa,fire_wave_u.mat,Tiny.V5.1,4569764,576
+e012c155dfcfc475,fire_ring_fire_r.mat,Tiny.V1.1,170922350,46470
+9c697556ba7c6a94,fire_ring_shimmer_r.mat,Tiny.VA.1,45159496,25724
+01a9d90180f58b64,fire_ring_u.mat,Tiny.V3.1,43405015,2438

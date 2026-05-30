@@ -1,3 +1,0 @@
-cloud_ground
-fall_craters
-poisoned

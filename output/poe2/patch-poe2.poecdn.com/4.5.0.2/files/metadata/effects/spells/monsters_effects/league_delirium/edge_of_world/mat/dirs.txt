@@ -1,0 +1,2 @@
+eow_ring_01
+eow_ring_01/idle_01

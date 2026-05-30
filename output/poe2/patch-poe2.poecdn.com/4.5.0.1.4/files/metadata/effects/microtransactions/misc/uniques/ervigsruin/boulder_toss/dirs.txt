@@ -1,5 +1,0 @@
-fx
-graphs
-mats
-mats/impact
-mats/projectile

@@ -1,0 +1,3 @@
+impact
+pierce
+projectile

@@ -1,6 +1,0 @@
-graphs
-rooms
-rooms/borderopen
-rooms/fills
-rooms/unique
-tiles

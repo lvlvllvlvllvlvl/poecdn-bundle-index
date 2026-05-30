@@ -1,4 +1,0 @@
-mb
-mb/proj
-mb/sulphite_shatter
-textures

@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-0f60797e420a9eb8,expeditionapparitionboss.sm,Tiny.V6,12110050,590
-c4d4b38be2a895df,expeditionapparitionboss_armour_0ee6fa5b.smd,Streaming/Content/metadata/monsters/leagueexpedition/apparitionboss/apparitionboss.act,0,822563
-89c2270177d10e20,expeditionapparitionboss_armour_0ee6fa5b.smd.header,Content/metadata/monsters/leagueexpedition/apparitionboss/apparitionboss.act,0,8469
-6fb3d88121122a38,breachapparitionboss.sm,Tiny.VE,11967854,748
-6b2aedd5ddd5eabc,breachapparitionboss_armour_491b021c.smd,Streaming/Content/data/worldareas/27/c_g3_12.vworld,0,909525
-2bc7f44651ac2690,breachapparitionboss_armour_491b021c.smd.header,Content/metadata/monsters/palewalker/palewalker.ot,387170,8534
-96585a79ff48977f,rig.amd,Content/metadata/monsters/leagueexpedition/apparitionboss/apparitionboss.act,8469,7608
-f98cd09ccfa0f73d,rig.ast,Content/metadata/monsters/leagueexpedition/apparitionboss/apparitionboss.act,16077,3078712

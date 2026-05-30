@@ -1,4 +1,0 @@
-beam_cannon
-beam_impact
-channeling
-zapping

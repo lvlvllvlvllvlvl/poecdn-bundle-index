@@ -1,0 +1,3 @@
+candle
+fog
+lantern01

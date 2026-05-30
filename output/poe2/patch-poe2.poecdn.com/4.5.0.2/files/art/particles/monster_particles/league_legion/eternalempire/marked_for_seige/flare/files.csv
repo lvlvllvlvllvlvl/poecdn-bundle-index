@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+0a8c9a8bf83ea6e1,smoke_16x16.mat,Tiny.V7,40107595,2338
+d993e0fffae8672d,smoke_16x16_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.620513CAA23D0454.shootup.pet,22020,5592580
+5d98feaa33a91c07,smoke_16x16_dxt5.dds.header,Tiny.V1,40084863,1520
+a83b4f485e57e488,bloom_glow.mat,Tiny.VE,39694019,2030
+0e3d5e8409d72e76,bloom_glow_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.620513CAA23D0454.shootup.pet,0,22020
+86d6a6287a94ac98,bloom_glow_dxt5.dds.header,Tiny.VA,35341804,1520

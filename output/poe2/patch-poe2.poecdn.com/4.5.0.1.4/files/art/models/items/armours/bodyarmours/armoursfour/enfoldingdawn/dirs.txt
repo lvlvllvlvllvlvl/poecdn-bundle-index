@@ -1,5 +1,0 @@
-attachments
-attachments/edchestdecor
-attachments/edrobe
-attachments/edtop
-textures

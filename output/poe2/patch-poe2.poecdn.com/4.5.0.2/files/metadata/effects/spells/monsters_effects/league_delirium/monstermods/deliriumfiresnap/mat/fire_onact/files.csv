@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+c5222a1d1a59a791,fireball_barrier_r.mat,Tiny.VF.1,135969414,55720
+9b29df31d7b454fb,bnpnt_emit_u.mat,Tiny.V9.1,139805014,2208
+43b3e4aa5f294d46,oa_blur_r.mat,Tiny.VF.1,136025134,10500
+93487d8e7103d678,oa_blur_stack_u.mat,Tiny.VE.1,113456040,2704
+6244602b5845daf2,shimmer_wave_r.mat,Tiny.V9.1,126529898,18044
+77094391c0cd7f5d,shimmer_wave_u.mat,Tiny.VE.1,12548232,310
+2dee22e44b221172,explode_blur_r.mat,Tiny.VD.1,124176086,11794
+3d3b474a7a93531a,explode_sparks_u.mat,Tiny.VA.1,122739834,33016
+50c5d4efa077e6d5,explode_flames_r.mat,Tiny.VE.1,137562636,50622
+656c6a8380e5ad8d,explode_flames_u.mat,Tiny.V3.1,123091397,16678
+d0c2cd9f616c084b,miniball_r.mat,Tiny.VE.1,137613258,51658
+9166ceaa2335556a,miniball_u.mat,Tiny.V1.1,139459900,2766
+ddad30bb1773ff97,mortar_sparks_01_r.mat,Tiny.V8.1,139165420,38322
+10fc5f3a0cc82f50,mortar_sparks_01_u.mat,Tiny.V9.1,126620986,26640

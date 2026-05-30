@@ -1,6 +1,0 @@
-broadleafstumptombs
-feature
-ledge
-rockpile
-streambank
-tombfallentrees

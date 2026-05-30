@@ -1,5 +1,0 @@
-boat_areatransition
-generic_cylinder
-generic_cylinder_red
-generic_cylinder_vert
-titangrottoexit_01_areatransition

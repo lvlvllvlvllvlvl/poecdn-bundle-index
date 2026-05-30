@@ -1,3 +1,0 @@
-holyfire_mortar
-holyfire_mortar/explosion
-holyfire_mortar/impact

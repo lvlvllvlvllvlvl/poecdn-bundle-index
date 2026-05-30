@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+c35aedaeb174d4c4,sparkling.mat,Tiny.VF,36126741,1612
+5df91480fafa3bb4,sparkling_dxt5.dds,Tiny.VE,4430892,1572
+aa4c6ae089ca1466,sparkling_dxt5.dds.header,Tiny.VD,4345787,504
+862fac11fbae1100,revive_rune.mat,Tiny.V5,35687110,10868
+649b1bfd2c89bb71,revive_rune_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/7909C1987C0463D2.94C98C379A059F73.shockwave.pet,0,1398276
+7a2c00eaaee67790,revive_rune_dxt5.dds.header,Tiny.V2,36007598,1520
+dcc66c47a4553f63,revive_rune_multi_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/7909C1987C0463D2.94C98C379A059F73.shockwave.pet,2796552,1398276
+ab69a24b15715930,revive_rune_multi_dxt5.dds.header,Tiny.V4,36276584,1520
+cb64e2d8c0f6b826,revive_rune_msk_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/7909C1987C0463D2.94C98C379A059F73.shockwave.pet,1398276,1398276
+64d53ff2475a1344,revive_rune_msk_dxt5.dds.header,Tiny.V5,35697978,1520
+9caf113a377df54c,air_shockwave.mat,Tiny.V5,35684748,2362
+86c26bc7fc98b24a,air_shockwave_dxt5.dds,Streaming/Shared/Normal/Shared.11,3070264,87556
+c75576b2171f172d,air_shockwave_dxt5.dds.header,Tiny.VD,38126628,1520

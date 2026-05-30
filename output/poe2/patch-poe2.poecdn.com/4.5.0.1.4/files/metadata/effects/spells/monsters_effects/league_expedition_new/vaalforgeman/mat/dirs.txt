@@ -1,5 +1,0 @@
-onact
-projectile
-rock
-rock_impact
-verisiumgroundslam

@@ -1,0 +1,6 @@
+chaos
+fire
+ice
+lightning
+physical
+physical_blood

@@ -1,0 +1,10 @@
+aqueduct
+belly
+colosseum
+colosseum/pits
+crumbledencampment
+mine
+plateau
+sideareadriedlake
+town
+vegetation

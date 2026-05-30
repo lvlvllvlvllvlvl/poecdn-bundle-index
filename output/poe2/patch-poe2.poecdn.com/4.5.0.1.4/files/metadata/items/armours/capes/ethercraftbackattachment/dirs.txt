@@ -1,8 +1,0 @@
-chaotic
-chaotic/pet
-enraged
-enraged/pet
-savage
-savage/pet
-tranquil
-tranquil/pet

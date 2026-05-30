@@ -1,0 +1,8 @@
+battle_root
+battle_root/animations
+mb
+textures
+volatile_tree_summon
+volatile_tree_summon/fruit
+volatile_tree_summon/fruit/textures
+volatile_tree_summon/volatile

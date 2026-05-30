@@ -1,0 +1,5 @@
+1h_axe
+2h_axe
+2h_sword
+bow
+claw

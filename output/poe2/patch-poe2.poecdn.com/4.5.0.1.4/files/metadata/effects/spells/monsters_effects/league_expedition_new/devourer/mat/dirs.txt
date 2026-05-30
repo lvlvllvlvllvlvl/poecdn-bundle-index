@@ -1,9 +1,0 @@
-acid_ground
-bitevomit_impact
-mortar_projectile
-onact
-onact/acid_spray
-onact/bite_vomit
-projectile_impact
-vomit_projectile
-vomit_projectile_impact

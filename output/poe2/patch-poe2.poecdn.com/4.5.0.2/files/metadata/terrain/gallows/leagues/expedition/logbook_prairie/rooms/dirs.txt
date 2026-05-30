@@ -1,0 +1,8 @@
+fill
+ledge
+outeredge
+outeredge/cliff
+outeredge/cows
+outeredge/river
+outeredge/road
+outeredge/unwalkable

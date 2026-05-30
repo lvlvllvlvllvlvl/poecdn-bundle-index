@@ -1,8 +1,0 @@
-ao
-mat
-mat/attack_01
-mat/attack_02_03
-mat/charge_01
-mat/slamcascade
-pet
-trl

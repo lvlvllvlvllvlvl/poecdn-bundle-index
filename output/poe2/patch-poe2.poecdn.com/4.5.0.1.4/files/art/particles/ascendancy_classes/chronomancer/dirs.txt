@@ -1,3 +1,0 @@
-time_curse
-time_curse/mb
-time_curse/tex

@@ -1,5 +1,0 @@
-beam_impact
-onacts
-onacts/attack_01
-onacts/attack_02
-projectile

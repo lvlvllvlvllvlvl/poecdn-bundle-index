@@ -1,0 +1,6 @@
+close_pet
+ground
+idle_pet
+open_buildup_pet
+open_pet
+portal_summon

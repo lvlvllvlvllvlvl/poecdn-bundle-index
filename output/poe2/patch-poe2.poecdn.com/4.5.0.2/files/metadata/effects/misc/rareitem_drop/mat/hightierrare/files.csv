@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+3ecf98864a3574d9,vaalpulse_glowring_01_r.mat,Tiny.VE.1,66744416,45440
+608e8d23f9f22c73,mblur_up_r.mat,Tiny.V1.1,2445342,27438
+4b67e43e6021395d,embers_r.mat,Tiny.VE.1,66716554,25812
+7b4caf5f301acfe3,embers_u.mat,Tiny.VD.1,65795826,17432
+d7b79b665c22b387,smokespiral_01_r.mat,Tiny.VA.1,65752686,66396
+19b7c1b4d2dba60d,smokespiral_01_u.mat,Tiny.VE.1,66742366,2050
+78e75b8feb0d062e,light_ray_central2_r.mat,Tiny.VD.1,65813258,67178
+f4fe50629c21b897,light_ray_central2_u.mat,Tiny.VD.1,5313278,346
+a941d52a30fbd35e,gold_ray_r.mat,Tiny.V4.1,65342688,30632
+ae16c60174df23ce,gold_ray_02_r.mat,Tiny.VA.1,65722048,30638
+0957d11ebbd8f7e7,gold_ray_u.mat,Tiny.VD.1,5313278,346
+033ace346753125c,center_flare_r.mat,Tiny.V2.1,67285876,12440
+cf137a1db5a02674,center_flare_u.mat,Tiny.VD.1,5313278,346
+46e79dd403d7f47b,ptemit_u.mat,Tiny.VD.1,5313278,346
+668de7fa4e5b5c57,pntemit_forcegrd_u.mat,Tiny.V5.1,4569764,576

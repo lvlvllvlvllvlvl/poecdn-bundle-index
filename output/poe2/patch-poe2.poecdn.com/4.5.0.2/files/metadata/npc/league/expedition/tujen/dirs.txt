@@ -1,0 +1,4 @@
+attachments
+attachments/coat
+attachments/flap
+attachments/hair

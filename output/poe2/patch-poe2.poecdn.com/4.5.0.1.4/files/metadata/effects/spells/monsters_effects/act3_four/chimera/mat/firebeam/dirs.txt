@@ -1,4 +1,0 @@
-cone
-flying
-grd
-grd_pt

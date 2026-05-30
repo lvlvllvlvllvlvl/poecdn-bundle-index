@@ -1,7 +1,0 @@
-bloodfeverattachment
-kwp_hair
-kwp_skirt
-kwp_top
-kwp_weapon
-kwp_weapon/animations
-kwp_weapon/animations/r_weapon

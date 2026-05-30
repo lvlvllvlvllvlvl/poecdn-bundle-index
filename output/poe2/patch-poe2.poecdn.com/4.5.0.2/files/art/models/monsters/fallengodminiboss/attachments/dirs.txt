@@ -1,0 +1,12 @@
+heads
+headssanctified
+rings
+shackles
+shacklessanctified
+skirt
+skirtsanctified
+staff
+staff/attachments
+staffsanctified
+staffsanctified/attachments
+veins

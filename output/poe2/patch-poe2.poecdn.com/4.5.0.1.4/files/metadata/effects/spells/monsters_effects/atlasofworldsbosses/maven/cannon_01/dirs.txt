@@ -1,4 +1,0 @@
-cold_projectiles
-cold_projectiles/pet
-fire_projectiles
-fire_projectiles/pet

@@ -1,2 +1,0 @@
-brazier_fire
-door_opening_dust

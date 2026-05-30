@@ -1,0 +1,4 @@
+attachments
+attachments/danglers
+attachments/hair
+textures

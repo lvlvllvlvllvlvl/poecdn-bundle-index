@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+b937ec3708f6cdbf,rig_8f9b7d1e.smd,Streaming/Content/data/worldareas/D9/null.vworld,0,17818
+b585675baa00cbf0,rig_8f9b7d1e.smd.header,Tiny.V4,12345005,448
+3a4b60575ac5de14,rig_ad9f9c9a.smd,Streaming/Content/data/worldareas/c_g1_4.vworld,2892382,19214
+13d02f70c43d6f58,rig_ad9f9c9a.smd.header,Tiny.V7,12238963,1680
+b19b0ea1680b3d1f,fzheadlessrshouldernophys.sm,Tiny.V8,12170220,510
+3739c60ae9bd43dd,fzheadlessrshouldernophys.amd,Tiny.VE,26639866,78
+a53567c5f8d787fc,fzheadlessrshouldernophys.ast,Tiny.V0,12383537,267
+c315e1cee64d9b0a,fzheadlessrshoulder.sm,Tiny.VF,12276950,510
+52f30f64cd6c701e,fzheadlessrshoulder.amd,Tiny.VE,26639866,78
+ae01e37d05833ce9,fzheadlessrshoulder.ast,Tiny.V4,12342936,2069

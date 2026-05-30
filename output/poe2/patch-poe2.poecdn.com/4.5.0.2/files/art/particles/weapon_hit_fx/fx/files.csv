@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+325f986800c3e5cd,blur_dust.mat,Tiny.V1,41716295,2966
+c77e3e7d90e5d184,blur_dust_dxt5.dds,Streaming/Content/metadata/particles/ri_fire/buff_fire.pet,355336,22020
+df2a75275e8e1e48,blur_dust_dxt5.dds.header,Tiny.VD,5373262,1520
+a742e3a59741e468,impact_spike.mat,Tiny.V6,41886829,2006
+456de97ee1a163ea,impact_spike_dxt5.dds,Streaming/Content/metadata/particles/ri_fire/buff_fire.pet,477449,87556
+328daf480c0423f3,impact_spike_dxt5.dds.header,Tiny.VD,38068720,1520
+6f4317c12d711b87,sparkling.mat,Tiny.V9,42286799,1554
+8ff2ce239a75cf2e,sparkling_dxt5.dds,Tiny.VE,4430892,1572
+4f7b434855b80886,sparkling_dxt5.dds.header,Tiny.VD,4345787,504
+fd7728bbc7ec2699,hit.mat,Tiny.V5,41330540,3148
+0ff83687e6ecf64b,hit_dxt5.dds,Streaming/Content/metadata/particles/ri_fire/buff_fire.pet,377356,87556
+058c5151832a998f,hit_dxt5.dds.header,Tiny.VC,40796609,1520

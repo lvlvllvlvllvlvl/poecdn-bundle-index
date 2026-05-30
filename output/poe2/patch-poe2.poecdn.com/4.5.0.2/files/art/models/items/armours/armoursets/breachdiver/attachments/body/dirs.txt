@@ -1,0 +1,16 @@
+shawla
+shawla/dex
+shawla/int
+shawla/str
+shawlb
+shawlb/dex
+shawlb/int
+shawlb/str
+skirta
+skirta/f
+skirta/m
+skirta/m/str
+skirtb
+skirtb/f
+skirtb/m
+skirtb/m/str

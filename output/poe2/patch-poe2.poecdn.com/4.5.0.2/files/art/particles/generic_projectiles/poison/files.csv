@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+43e52c5cfbcf2889,poison_drip.mat,Tiny.V7,35245406,1448
+8c904a535be42d7c,poison_drip.dds,Streaming/Content/metadata/particles/generic_projectiles/genericpoison.pet,174948,22020
+aa9793885f94d54b,poison_drip.dds.header,Tiny.VF,38707359,1520
+d795f21833d8d320,abyss_sparkling.mat,Tiny.VB,35445771,1432
+620a27ce135ae490,abyss_sparkling.dds,Tiny.V3,37263435,1572
+28a3bb7742004bd4,abyss_sparkling.dds.header,Tiny.VE,37361828,504
+16a4ba3102fd395b,blood_shockwave.mat,Tiny.VE,34901910,1430
+4a6c81941e529881,blood_shockwave.dds,Streaming/Content/metadata/particles/generic_projectiles/impacts/impactpoison.pet,0,87556
+d33a2d7a1e0d0abf,blood_shockwave.dds.header,Tiny.VC,38911935,1520
+eff8445d77c8bbd1,blood_2.mat,Tiny.V6,35302308,1474
+f5e0e4a7a7d168ca,blood_2.dds,Streaming/Content/metadata/particles/generic_projectiles/genericpoison.pet,0,174948
+df09b862392f61e3,blood_2.dds.header,Tiny.V1,35243913,840

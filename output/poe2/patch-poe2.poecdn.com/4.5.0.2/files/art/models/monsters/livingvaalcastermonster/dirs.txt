@@ -1,0 +1,11 @@
+attachments
+attachments/ball_string
+attachments/doctor
+attachments/doctor/lsleeve
+attachments/doctor/pipe
+attachments/doctor/robe
+attachments/doctor/rsleeve
+attachments/headfeathers
+attachments/robe
+attachments/skirt
+textures

@@ -1,6 +1,0 @@
-mb
-mb/basic_arrow
-mb/projectile
-mb/projectile/animations
-mb/snipe_onact
-textures

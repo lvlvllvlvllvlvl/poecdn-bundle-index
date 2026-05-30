@@ -1,4 +1,0 @@
-animations
-attachments
-attachments/robe
-attachments/robe_2

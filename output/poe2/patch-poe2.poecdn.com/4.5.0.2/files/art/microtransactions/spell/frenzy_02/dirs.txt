@@ -1,0 +1,6 @@
+arcane
+arcane/bow_fx
+arcane/frenzy_gain
+arcane/melee
+arcane/projectile
+arcane/projectile/fx

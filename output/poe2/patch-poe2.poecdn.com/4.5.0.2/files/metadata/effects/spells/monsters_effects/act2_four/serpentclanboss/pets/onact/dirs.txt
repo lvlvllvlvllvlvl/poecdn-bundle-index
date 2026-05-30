@@ -1,0 +1,3 @@
+bonearmour
+spin_detonate
+summon

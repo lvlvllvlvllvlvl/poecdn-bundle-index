@@ -1,5 +1,0 @@
-channelling
-charge_up
-release
-spirit_slash
-surge

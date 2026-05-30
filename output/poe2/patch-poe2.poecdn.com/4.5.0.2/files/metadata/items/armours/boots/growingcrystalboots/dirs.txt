@@ -1,0 +1,5 @@
+orange
+pink
+purple
+red
+teal

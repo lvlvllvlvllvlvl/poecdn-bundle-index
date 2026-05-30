@@ -1,0 +1,15 @@
+crucifixes
+crucifixes/crucifix_01
+crucifixes/crucifix_02
+crucifixes/crucifix_03
+crucifixes/crucifix_04
+crucifixes/crucifix_05
+crucifixes/crucifix_06
+crucifixes/crucifix_07
+hangman
+hangman/attachments
+hangman/attachments/arm_l
+hangman/attachments/arm_r
+hangman/attachments/leg_l
+hangman/attachments/leg_r
+tgms

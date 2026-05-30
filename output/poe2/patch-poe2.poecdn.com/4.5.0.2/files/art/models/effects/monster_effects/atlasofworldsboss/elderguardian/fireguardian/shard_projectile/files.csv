@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+92441bce1898bf04,armour_shard_projectile_2_f890e29d.smd,Streaming/Content/metadata/effects/spells/monsters_effects/9F3F25555185181D.67A1EB08DA3F7DBB.venom_beam.ao,445177,4910
+35e7352c7f9801e0,armour_shard_projectile_2_f890e29d.smd.header,Tiny.V1,7347084,368
+2b8f12de72204059,armour_shard_projectile_3_dbc79bea.smd,Tiny.V1,7347452,3938
+a5144ead3773e1ef,armour_shard_projectile_3_dbc79bea.smd.header,Tiny.V9,7777458,368
+88b522f345eb5c21,shard_projectile.sm,Tiny.VC,7468180,550
+64d469c1c29fd11f,shard_projectile_3.sm,Tiny.V3,7418388,830
+d6857f03fd3b8d00,shard_projectile_2.sm,Tiny.V2,7707987,830
+a3ae11f4fd0bc405,rig_2356f439.smd,Streaming/Content/metadata/projectiles/delveabysscrystalminesmall.ot,340374,4954
+bbd3a40454113402,rig_2356f439.smd.header,Tiny.V0,7657181,368
+a74ef9dad3ce7f72,rig.amd,Tiny.V7,7415578,162
+c15b719a31ed1d21,rig.ast,Tiny.V8,7358719,3528

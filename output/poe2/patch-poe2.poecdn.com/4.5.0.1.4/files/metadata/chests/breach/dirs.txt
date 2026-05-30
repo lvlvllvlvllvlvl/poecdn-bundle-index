@@ -1,4 +1,0 @@
-gallows
-ritual
-ritual/ao
-ritual/pet

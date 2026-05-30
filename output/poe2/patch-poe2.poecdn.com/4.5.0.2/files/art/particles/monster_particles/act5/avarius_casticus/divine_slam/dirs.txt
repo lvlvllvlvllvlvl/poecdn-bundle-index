@@ -1,0 +1,5 @@
+shockwave_slam
+shockwave_start
+slam_explosion
+slam_explosion/runes
+weapon_fx

@@ -1,3 +1,0 @@
-attachments
-attachments/droplets
-attachments/waterspout

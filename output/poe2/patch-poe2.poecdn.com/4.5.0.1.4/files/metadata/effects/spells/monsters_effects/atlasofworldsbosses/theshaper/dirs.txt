@@ -1,9 +1,0 @@
-acceleratingprojectile
-bullet_hell
-bullet_hell/projectile
-bullet_hell/release_projectile
-bullet_hell/release_projectile_player
-celestialbeam
-instant_teleport
-portal_explode
-teleport_slam

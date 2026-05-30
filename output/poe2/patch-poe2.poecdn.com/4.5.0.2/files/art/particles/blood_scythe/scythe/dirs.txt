@@ -1,0 +1,3 @@
+mb
+textures
+textures/bloodscythe_slash

@@ -1,0 +1,4 @@
+blood_channel_01
+brazier
+falling_blood
+floor_chest

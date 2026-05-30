@@ -1,6 +1,0 @@
-cull_crush
-culling_impact
-culling_soul
-hands
-hit_impact
-whiff

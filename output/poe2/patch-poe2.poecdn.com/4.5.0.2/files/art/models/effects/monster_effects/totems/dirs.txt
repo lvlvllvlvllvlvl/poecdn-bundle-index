@@ -1,0 +1,15 @@
+bleednova
+crossbow
+crossbow/projectile
+crossbow/snipe
+crossbow/snipe_launch
+crystaltotem
+crystaltotem/abyss
+damagetakenonmovement
+icecrystaltotem
+icecrystaltotem/projectile
+novachargeflask
+templarmissionrelic
+templarmissionrelic/monster_spawn
+templarmissionrelic/nova
+templarmissionrelic/unholy_nova

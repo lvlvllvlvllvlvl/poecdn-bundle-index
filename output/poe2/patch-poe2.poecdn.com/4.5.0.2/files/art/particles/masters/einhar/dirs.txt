@@ -1,0 +1,5 @@
+mine_bomb
+mine_bomb/fx
+mine_bomb/fx2
+projectile
+projectile/fx

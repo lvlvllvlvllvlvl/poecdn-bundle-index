@@ -1,3 +1,0 @@
-cannonball
-ground_impact
-wall_impact

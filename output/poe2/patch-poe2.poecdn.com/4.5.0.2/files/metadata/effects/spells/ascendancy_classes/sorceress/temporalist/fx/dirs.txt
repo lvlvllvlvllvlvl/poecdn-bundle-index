@@ -1,0 +1,2 @@
+cast_speed_buff_01
+time_freeze_nova_01

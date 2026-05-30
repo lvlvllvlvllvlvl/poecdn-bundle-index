@@ -1,9 +1,0 @@
-close
-core
-disintegrate
-idle
-line_flamespew
-open_burst
-open_core
-open_root
-portal_summon

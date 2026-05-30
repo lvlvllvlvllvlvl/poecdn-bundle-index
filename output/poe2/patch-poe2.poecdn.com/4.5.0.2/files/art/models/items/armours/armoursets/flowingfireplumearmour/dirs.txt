@@ -1,0 +1,13 @@
+attachments
+attachments/female
+attachments/female/backfeathers
+attachments/female/glovessleeve
+attachments/female/hair
+attachments/female/skirtbeltribbon
+attachments/female/skirtbottom
+attachments/male
+attachments/male/cloak
+attachments/male/hair
+attachments/male/pantsribbon
+attachments/male/robe
+textures

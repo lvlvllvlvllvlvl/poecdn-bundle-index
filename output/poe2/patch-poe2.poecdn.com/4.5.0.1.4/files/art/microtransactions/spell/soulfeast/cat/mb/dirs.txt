@@ -1,3 +1,0 @@
-explosion
-homing_mortar
-primary_mortar

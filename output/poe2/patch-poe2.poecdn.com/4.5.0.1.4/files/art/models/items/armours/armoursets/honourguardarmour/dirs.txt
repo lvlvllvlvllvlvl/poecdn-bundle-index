@@ -1,8 +1,0 @@
-attachments
-attachments/helmetcloth
-attachments/helmetdangles
-attachments/helmetearring
-attachments/lbootdangle
-attachments/rbootdangle
-attachments/sash
-textures

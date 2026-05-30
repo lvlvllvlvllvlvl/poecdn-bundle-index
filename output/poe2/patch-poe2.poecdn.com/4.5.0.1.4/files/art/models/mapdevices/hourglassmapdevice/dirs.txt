@@ -1,8 +1,0 @@
-attachments
-attachments/hourglass
-attachments/outerring
-attachments/podium
-attachments/portal
-attachments/statues
-fx
-textures

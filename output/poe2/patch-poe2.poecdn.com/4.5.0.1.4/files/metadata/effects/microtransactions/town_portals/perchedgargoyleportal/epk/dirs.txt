@@ -1,7 +1,0 @@
-gold
-gold/portal_summon
-marble
-marble/portal_summon
-overgrown
-overgrown/portal_summon
-portal_summon

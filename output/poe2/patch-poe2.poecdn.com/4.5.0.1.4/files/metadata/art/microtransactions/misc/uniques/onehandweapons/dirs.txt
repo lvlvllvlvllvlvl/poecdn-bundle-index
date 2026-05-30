@@ -1,3 +1,0 @@
-maces
-maces/mjolner_archnemesis_alt
-maces/mjolner_archnemesis_alt/textures

@@ -1,6 +1,0 @@
-on_act
-on_act/attack_2hsword_01
-on_act/attack_mace
-on_act/attack_spear_01
-on_act/attack_sword_03
-on_act/death

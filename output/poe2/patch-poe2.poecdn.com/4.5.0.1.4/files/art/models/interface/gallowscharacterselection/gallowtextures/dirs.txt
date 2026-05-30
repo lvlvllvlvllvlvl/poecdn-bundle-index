@@ -1,4 +1,0 @@
-cisternwall
-countessthrone
-ground
-woodkit

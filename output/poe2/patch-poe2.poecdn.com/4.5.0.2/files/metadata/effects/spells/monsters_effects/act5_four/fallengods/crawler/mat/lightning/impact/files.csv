@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+4509556d22a3bd21,sparks_impact_r.mat,Tiny.VF.1,110560582,14152
+32800329c9874711,sparks_impact_u.mat,Tiny.V8.1,113463826,16964
+ee0547d05e481a71,shimmer_impact_r.mat,Tiny.V1.1,112973558,12552
+ac8d3af75a2a58ea,shimmer_impact_u.mat,Tiny.VE.1,12548232,310
+47ff157781b4ba92,ground_blast_impact_r.mat,Tiny.VB.1,113680783,42676
+89957651394b3ccb,ground_blast_impact_u.mat,Tiny.V6.1,84221669,1302
+a05cbda3ec22f37d,ground_blast_impact_02_r.mat,Tiny.V8.1,113421704,42122
+66039dfe48343f2e,ground_blast_impact_02_u.mat,Tiny.V6.1,84221669,1302
+4c66d8a69e62822a,flare_impact_r.mat,Tiny.V0.1,112902112,17932
+1fc3fadf7e73a969,flare_impact_u.mat,Tiny.V4.1,83257116,2136
+fc81301f007f8b6f,flare_impact_02_r.mat,Tiny.V5.1,113259600,28710
+27f6c641c324043e,flare_impact_02_u.mat,Tiny.VE.1,12548232,310
+ef6d0ac9af1dae0f,distortion_impact_r.mat,Tiny.V7.1,110406524,10938
+6acae156787faaa3,distortion_impact_u.mat,Tiny.VE.1,12548232,310
+7146bc532da2b0eb,lightnings_impact_r.mat,Tiny.VC.1,115655473,24016
+e2f678c554e40880,lightnings_impact_u.mat,Tiny.VE.1,12548232,310

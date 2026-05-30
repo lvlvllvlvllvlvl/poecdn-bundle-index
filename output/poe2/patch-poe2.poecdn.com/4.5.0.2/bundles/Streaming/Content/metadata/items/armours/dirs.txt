@@ -1,0 +1,8 @@
+bodyarmours
+boots
+capes
+focus
+gloves
+helmetattachments
+helmets
+shields

@@ -1,0 +1,6 @@
+attachments
+attachments/boneplates
+attachments/frontrobe
+attachments/helmet
+attachments/robe
+textures

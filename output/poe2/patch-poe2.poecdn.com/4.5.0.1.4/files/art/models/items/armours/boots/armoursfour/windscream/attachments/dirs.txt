@@ -1,5 +1,0 @@
-boots
-bootsdex
-sash
-sashdex
-sashstr

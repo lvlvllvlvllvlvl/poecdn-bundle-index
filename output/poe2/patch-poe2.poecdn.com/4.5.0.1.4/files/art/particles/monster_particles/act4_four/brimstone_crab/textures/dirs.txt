@@ -1,9 +1,0 @@
-flamethrower
-hole
-mortar
-mortar_impact
-on_act
-on_act/attack_01
-on_act/death_firehose_01
-on_act/hermit_into_idle
-on_act/spellcast_01

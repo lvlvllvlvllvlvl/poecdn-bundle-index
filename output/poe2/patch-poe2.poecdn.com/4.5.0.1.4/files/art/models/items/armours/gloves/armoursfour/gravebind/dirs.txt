@@ -1,4 +1,0 @@
-attachments
-attachments/gblcuff
-attachments/gbrcuff
-textures

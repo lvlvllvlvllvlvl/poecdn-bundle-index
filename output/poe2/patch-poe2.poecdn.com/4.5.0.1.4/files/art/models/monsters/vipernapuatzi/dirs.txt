@@ -1,3 +1,0 @@
-animation
-animation/apparition_01
-textures

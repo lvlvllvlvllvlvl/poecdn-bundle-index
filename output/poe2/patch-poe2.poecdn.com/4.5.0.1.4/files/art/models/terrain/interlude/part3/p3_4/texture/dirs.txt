@@ -1,5 +1,0 @@
-boulder
-cliffs
-doodads
-ground
-ice

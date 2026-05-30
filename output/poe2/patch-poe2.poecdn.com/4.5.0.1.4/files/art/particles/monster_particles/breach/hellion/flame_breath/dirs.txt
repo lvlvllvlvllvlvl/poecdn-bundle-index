@@ -1,4 +1,0 @@
-lava_pool
-lava_pool/new
-projectile
-projectile/new

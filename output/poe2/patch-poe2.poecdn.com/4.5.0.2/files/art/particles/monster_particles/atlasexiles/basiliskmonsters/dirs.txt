@@ -1,0 +1,5 @@
+human_ranged
+humanoid_melee
+spider
+taster
+wyvern

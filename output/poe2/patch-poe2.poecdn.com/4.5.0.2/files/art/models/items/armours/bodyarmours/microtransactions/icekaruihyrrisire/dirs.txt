@@ -1,0 +1,11 @@
+attachments
+attachments/robemale
+attachments/scarf
+attachments/scarf/scarfdex
+attachments/scarf/scarfdexint
+attachments/scarf/scarfint
+attachments/scarf/scarfstr
+attachments/scarf/scarfstrdex
+attachments/scarf/scarfstrint
+attachments/strdexshoulderpad
+textures

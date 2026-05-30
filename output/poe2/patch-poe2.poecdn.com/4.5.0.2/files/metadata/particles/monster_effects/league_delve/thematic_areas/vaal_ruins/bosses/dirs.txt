@@ -1,0 +1,10 @@
+architect
+architect/blood_expanding_pulse
+architect/blood_spirit_bomb
+architect/blood_spirit_bomb/impact_aoe
+architect/blood_spirit_bomb/projectile
+architect/delayed_blood_meteor
+architect/delayed_blood_meteor/impact_aoe
+architect/delayed_blood_meteor/projectile
+architect/delayed_blood_meteor/surge_up
+architect/vaal_corruption_beam

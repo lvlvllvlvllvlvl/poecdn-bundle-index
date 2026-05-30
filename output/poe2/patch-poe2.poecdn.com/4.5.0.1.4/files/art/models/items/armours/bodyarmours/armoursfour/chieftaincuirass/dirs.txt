@@ -1,4 +1,0 @@
-attachments
-attachments/skirtbot
-attachments/skirtplates
-textures

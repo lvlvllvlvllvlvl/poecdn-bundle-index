@@ -1,0 +1,3 @@
+pickup_flare
+sacred_water_absorb
+sacred_water_drop

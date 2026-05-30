@@ -1,8 +1,0 @@
-vaalstatue
-vaalstatue/fx
-vaalstatue/fx/death_bwd_01
-vaalstatue/fx/footsteps
-vaalstatue/graphs
-vaalstatue/mat
-vaalstatue/mat/death_bwd_01
-vaalstatue/mat/footsteps

@@ -1,0 +1,7 @@
+blood_vessel_filled
+ritual_vaal
+rune
+rune/lights
+rune/lights/animations
+rune/lights/animations/ritual_aoe
+rune/lights/animations/shrine

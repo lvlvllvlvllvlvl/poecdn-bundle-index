@@ -1,0 +1,10 @@
+aos
+epks
+fx
+graphs
+mats
+mats/arenabarrier_radiant
+mats/playerbarrier
+mats/triskellion_buildup
+mats/triskellion_burst
+mats/triskellion_idle

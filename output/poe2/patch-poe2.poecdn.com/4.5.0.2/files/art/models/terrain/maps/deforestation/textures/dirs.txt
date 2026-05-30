@@ -1,0 +1,5 @@
+arena
+doodads
+foliage
+ground
+rocks

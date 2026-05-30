@@ -1,0 +1,11 @@
+attachments
+attachments/earrings
+attachments/earringsstr
+attachments/hairdexb
+attachments/hairdexinta
+attachments/hairinta
+attachments/hairintb
+attachments/hairstrdexa
+attachments/hairstrdexb
+attachments/hairstrintb
+textures

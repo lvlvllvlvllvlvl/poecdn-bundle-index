@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+8eb972673bbb5814,mt_mblur_trail_01.mat,Tiny.V0.1,100385106,14962
+791795a0b9e54a8b,lightning_arcs_r.mat,Tiny.VA.1,99403484,23002
+932347090fe92265,lightning_arcs_u.mat,Tiny.VA.1,99426486,2946
+9314a5031182b42f,spear.mat,Tiny.VB.1,99900297,9034
+7ce534dcdcabff54,spear_equippass.mat,Tiny.V7.1,97230502,7090
+ea11c564f66b9a93,spear_pass.mat,Tiny.V2.1,102102822,6602
+3814da977f8d905b,sparks_r.mat,Tiny.VD.1,98187434,18560
+1de3acbfae6407a2,sparks_dir_u.mat,Tiny.VA.1,99429432,6798
+62e874526acf931e,sparks_u.mat,Tiny.VC.1,102273529,7258

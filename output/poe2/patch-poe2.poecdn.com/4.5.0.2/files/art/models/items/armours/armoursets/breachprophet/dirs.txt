@@ -1,0 +1,5 @@
+attachments
+attachments/head_attachment
+attachments/rarmcloth
+attachments/skirt
+textures

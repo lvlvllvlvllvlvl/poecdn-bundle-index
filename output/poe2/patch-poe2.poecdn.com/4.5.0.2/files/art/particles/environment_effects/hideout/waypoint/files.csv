@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+512c0ea76425e587,waypointgrad_colour_dxt1.dds,Streaming/Content/metadata/effects/environment/hideout/C9AE916DA10AFDDB.harlequinenvironment.ao.1,535633,11084
+861355a794b58c42,waypointgrad_colour_dxt1.dds.header,Tiny.V0,35122656,1520
+35403112a9385dcd,waypointglowc.mat,Tiny.V2,34925232,2552
+8e817ddb5471be28,waypointglow_colour.dds,Streaming/Content/metadata/effects/environment/hideout/91A8C3BAC3E65FB4.treasure_pile_18.ao,635045,349700
+78516c4756fdd244,waypointglow_colour.dds.header,Tiny.VA,35329568,1520
+63e6c66c0c541d25,light_middle_upc.mat,Tiny.VB,35098125,2384
+9bc8f472c9d3c79e,light_middle_up.dds,Streaming/Content/metadata/terrain/doodads/waypoints/waypointcore_g2_9.ao,36429,87556
+2f266eb69d08bd65,light_middle_up.dds.header,Tiny.V5,34535754,1520

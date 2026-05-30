@@ -1,7 +1,0 @@
-demonic
-demonic/fx
-ghostflame
-ghostflame/fx
-graph
-stygian
-stygian/fx

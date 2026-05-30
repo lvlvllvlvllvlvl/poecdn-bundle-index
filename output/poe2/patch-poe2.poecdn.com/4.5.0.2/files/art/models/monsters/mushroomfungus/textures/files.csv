@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+060cfbb5c7622bcf,mushroomfungusc.mat,Tiny.V5,12387225,2500
+f55e90c52928a262,mushroomfunguspurple.mat,Tiny.VC,12447257,9318
+6addc6be094d71fd,mushroomfunguspurple_glow.dds,Streaming/Content/metadata/monsters/mushroomfungus/mushroomfunguspurple.ao.1,0,5592580
+8da51517076975f6,mushroomfunguspurple_glow.dds.header,Tiny.VB,12622689,1520
+683f76aa39f7c870,mushroomfunguspurple_sss.dds,Streaming/Content/metadata/monsters/mushroomfungus/mushroomfunguspurple.ao.2,0,5592580
+12089513ca1f0ba1,mushroomfunguspurple_sss.dds.header,Tiny.VD,12514485,1520
+08f6005ea0552f67,mushroomfunguspurple_normal.dds,Streaming/Content/metadata/monsters/mushroomfungus/mushroomfunguspurple.ao.1,5592580,5592580
+0b04d987840b3dec,mushroomfunguspurple_normal.dds.header,Tiny.VF,12630176,1520
+ee01dd735ee1df05,mushroomfunguspurple_colour.dds,Streaming/Content/metadata/monsters/mushroomfungus/mushroomfunguspurple.ao,654057,2796364
+4e81341bd1392967,mushroomfunguspurple_colour.dds.header,Tiny.V2,12808994,1520
+1902cf3d23ff83d2,mushroomfungus_sss_dxt5.dds,Streaming/Content/art/models/monsters/vaalmonsters/thaumaturgevaal02.fmt.4,9787220,5592580
+09e836d3b33418bd,mushroomfungus_sss_dxt5.dds.header,Tiny.V4,12782982,1520
+11640269b92b5782,mushroomfungus_normal_dxt5.dds,Streaming/Content/art/models/monsters/mushroomfungus/mushroomfungus.fmt.1,0,5592580
+7a2d2fe20d330b5a,mushroomfungus_normal_dxt5.dds.header,Tiny.VA,12615957,1520
+44033f39c218cc13,mushroomfungus_colour_dxt1.dds,Streaming/Content/art/models/monsters/mushroomfungus/mushroomfungus.fmt,0,2796364
+18e6a0cd6f6fa14a,mushroomfungus_colour_dxt1.dds.header,Tiny.VF,12628656,1520

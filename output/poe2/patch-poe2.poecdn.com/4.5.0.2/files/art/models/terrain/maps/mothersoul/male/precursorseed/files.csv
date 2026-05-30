@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+1705a015660506ea,precursorseed.fmt,Streaming/Content/metadata/items/questitems/precursor/precursorseeddrop.ao,0,92012
+a3a5a5ea25f26ee2,precursorseed.fmt.header,Tiny.V3,29281185,208
+68ee855bdf79c3cf,precursorseeddrop_09fd4c17.smd,Streaming/Content/metadata/items/questitems/precursor/precursorseeddrop.ao,92012,129289
+df71c0cc2eefea8c,precursorseeddrop_09fd4c17.smd.header,Tiny.V5,29129397,280
+106d274b1e89ae08,precursorseeddrop.sm,Tiny.V2,29800222,578
+a5944eaecb8ea2e5,precursorseeddrop.amd,Tiny.VE,29418683,226
+66baab4a9dd17b7f,precursorseeddrop.ast,Tiny.V2,29798218,2004

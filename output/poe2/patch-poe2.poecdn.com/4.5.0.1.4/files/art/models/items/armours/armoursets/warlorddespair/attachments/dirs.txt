@@ -1,4 +1,0 @@
-boneplates
-frontrobe
-helmet
-robe

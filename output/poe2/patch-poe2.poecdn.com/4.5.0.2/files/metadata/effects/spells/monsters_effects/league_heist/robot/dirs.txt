@@ -1,0 +1,13 @@
+argus
+clockwork_golem
+crucible
+drone
+hound
+hound_miniboss
+pyre_knight
+robot_automaton
+skitterbot
+spider
+stormcaller_golem
+totem
+totem/muzzle

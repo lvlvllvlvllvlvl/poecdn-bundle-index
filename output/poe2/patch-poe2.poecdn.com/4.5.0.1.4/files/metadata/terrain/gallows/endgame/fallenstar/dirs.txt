@@ -1,6 +1,0 @@
-graphs
-objects
-rooms
-tiles
-tiles/kingsmarchdestroyed
-tiles/wateredge

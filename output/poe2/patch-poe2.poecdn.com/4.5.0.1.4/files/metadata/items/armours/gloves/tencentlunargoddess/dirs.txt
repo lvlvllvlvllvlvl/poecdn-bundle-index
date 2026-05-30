@@ -1,4 +1,0 @@
-attachments
-attachments/arms
-attachments/arms/left
-attachments/arms/right

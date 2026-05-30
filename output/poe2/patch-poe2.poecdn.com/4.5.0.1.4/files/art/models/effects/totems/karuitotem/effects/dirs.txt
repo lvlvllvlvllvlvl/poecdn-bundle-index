@@ -1,5 +1,0 @@
-ground_slam_essence
-ground_slam_essence/spines
-ground_slam_fire
-ground_slam_fire/spines
-mini_slam

@@ -1,8 +1,0 @@
-epks
-fx
-graphs
-mats
-mats/lightning_epk
-mats/lightning_frenzy
-mats/lightning_hit_fx
-onacts

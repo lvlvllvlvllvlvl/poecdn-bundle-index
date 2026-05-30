@@ -1,6 +1,0 @@
-delve
-delve/doodads
-mushroomcavemap
-mushroomcavemap/doodads
-mushroomcavemap/tgms
-tgms

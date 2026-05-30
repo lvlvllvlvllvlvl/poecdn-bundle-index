@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+79a1a87e69b9d96e,crater_rig_05ed6c5e.smd,Streaming/Content/metadata/effects/spells/monsters_effects/ADA130A68CBC8D87.51C50CB8EF441A88.fireslam_impact.ao,0,358887
+2a2ef93371360f78,crater_rig_05ed6c5e.smd.header,Content/metadata/effects/spells/monsters_effects/E10AE6A6BDB9809C.main_ice_flower.ao,852595,4328
+f7b6c2205860445e,fireslam.sm,Tiny.V9,7788301,2314
+a10fe29703e137c9,fireslam.amd,Tiny.VD,4512860,102
+f2b2cbb4790fa284,fireslam.ast,Content/metadata/effects/spells/monsters_effects/E10AE6A6BDB9809C.main_ice_flower.ao,856923,4644
+5515c62dfe1f4ac3,rock3.fmt,Tiny.VF,7497492,2908
+0a6b552176c0d856,rock3.fmt.header,Tiny.VF,7500400,233
+76887198df8105db,rock2.fmt,Tiny.VE,7432171,2476
+136ade45a8e54c59,rock2.fmt.header,Tiny.V1,7362387,233
+0c301ed82d1b77c4,rock1.fmt,Streaming/Content/metadata/particles/monster_effects/atlasofworldsbosses/A8E25478ADD3BB4C.sword1_trail.trl,11084,4204
+06508b7e44159d3c,rock1.fmt.header,Tiny.V6,7493278,233

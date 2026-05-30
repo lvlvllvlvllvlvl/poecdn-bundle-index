@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+24cd1605113efc6d,rig_1fa35f77.smd,Tiny.V0,41388190,76
+4e7be5fdeb3e17d6,rig_1fa35f77.smd.header,Tiny.V4,37672560,368
+760afc15f8dea389,wave.sm,Tiny.V0,41388266,272
+33c899c4a4e4385f,wave.amd,Tiny.VF,34272459,86
+ab12b9d37ff6898c,wave.ast,Tiny.VA,41387412,1112
+0ebe4eba9a7d239f,60_cone.fmt,Streaming/Content/metadata/effects/spells/leapslam/A51070A8BE5275C4.rig.ao,920287,4167
+ecaba2e62b907205,60_cone.fmt.header,Tiny.V3,40595676,173
+6a22d8a109292ba8,impact_shield.fmt,Streaming/Content/metadata/effects/spells/leapslam/A51070A8BE5275C4.rig.ao,565760,4827
+a99ef4612441e108,impact_shield.fmt.header,Tiny.VC,41531630,179

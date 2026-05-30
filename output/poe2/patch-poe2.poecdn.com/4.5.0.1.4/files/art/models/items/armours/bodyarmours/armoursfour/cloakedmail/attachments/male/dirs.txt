@@ -1,6 +1,0 @@
-l_lace
-r_lace
-shawl
-shawl_str
-skirt_chains
-skirt_cloth

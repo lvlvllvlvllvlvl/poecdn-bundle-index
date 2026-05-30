@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+df687dc03ab0df0b,frostbomb_core.fmt,Streaming/Content/metadata/effects/spells/cold_frostbomb/frostbomb.ao,39042,6990
+9c145b4647a8fcf1,frostbomb_core.fmt.header,Tiny.V0,34570516,210
+e12c222cb211ace9,frostbomb_base.fmt,Streaming/Content/metadata/effects/spells/cold_frostbomb/frostbomb.ao,0,39042
+9607c1472a9654fb,frostbomb_base.fmt.header,Tiny.V4,34630314,208

@@ -1,0 +1,11 @@
+glovesfeathers
+glovesfeathers/l
+glovesfeathers/r
+helmetfeathers
+helmettassles
+robe
+robe/f
+robe/m
+shawl
+shawl/f
+shawl/m

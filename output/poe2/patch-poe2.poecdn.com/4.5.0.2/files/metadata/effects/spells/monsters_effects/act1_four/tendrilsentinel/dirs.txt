@@ -1,0 +1,11 @@
+epk
+fx
+fx/attack_01
+fx/eye_glow
+fx/spiral_lance
+mat
+mat/attack_01
+mat/eye_glow
+mat/spiral_lance
+mat/upheaval
+mat/upheaval_travel

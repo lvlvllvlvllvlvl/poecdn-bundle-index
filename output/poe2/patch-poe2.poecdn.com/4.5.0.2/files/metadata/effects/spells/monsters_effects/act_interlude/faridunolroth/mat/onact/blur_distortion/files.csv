@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+c07c1b2702ce3bd4,energy_distortion_cyl_gold_r.mat,Tiny.V9.1,117670634,37120
+c6b37e78e269e266,blur_distortion_u.mat,Tiny.V0.1,6191636,344
+80b1ab1a3624e1ee,blur_distortion_big_r.mat,Tiny.V3.1,114188851,16632
+95b004c50acd04e0,blur_distortion_scaleup_u.mat,Tiny.VB.1,115678363,2146
+cb0c837fa8fa86fd,blur_distortion_small_r.mat,Tiny.V3.1,114188851,16632
+7d95f659d08f765d,blur_distortion_smallnooffset_r.mat,Tiny.V0.1,115011914,16936

@@ -1,3 +1,0 @@
-mb
-mb/spirit_spawn_beam
-textures

@@ -1,5 +1,0 @@
-mercenary_apparition
-mercenary_convo
-mercenary_gameplay
-mercenary_skills
-mercenary_wild

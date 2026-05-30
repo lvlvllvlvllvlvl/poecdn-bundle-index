@@ -1,0 +1,12 @@
+beigedesert
+blackdesert
+default
+dirt
+jungle
+muddy
+pinkdesert
+reddesert
+rust
+wet
+whitedesert
+yellowdust

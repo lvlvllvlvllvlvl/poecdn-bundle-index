@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+fdf2f3ea83530ebe,slm_ledgestonewall01c.mat,Tiny.V1,31831598,3218
+a29957080920106f,slm_ledgestonewall01_height.dds,Streaming/Content/data/balance/worldareas/32/g_login.vworld,0,2796364
+4796367a179355a8,slm_ledgestonewall01_height.dds.header,Tiny.V3,31469928,1520
+630df7135ce1b149,slm_ledgestonewall01_normal.dds,Streaming/Content/data/balance/worldareas/CF/g_login.vworld,0,5592580
+26ba1d0467e12f82,slm_ledgestonewall01_normal.dds.header,Tiny.V9,32255144,1520
+81d8056b89d312f5,slm_ledgestonewall01_colour.dds,Streaming/Content/data/balance/worldareas/8A/g_login.vworld,273433,2796364
+6298da18bbe3bf62,slm_ledgestonewall01_colour.dds.header,Tiny.V0,31970687,1520
+e614eb3fe1c1b247,rmt_stonesteps01c.mat,Tiny.VC,32260635,1546
+db6cb13def122068,rmt_stonesteps01_normal_dxt5.dds,Streaming/Content/data/balance/worldareas/mapplantation.vworld.3,2796364,5592580
+93535b06037734bb,rmt_stonesteps01_normal_dxt5.dds.header,Tiny.V1,31680694,1520
+b09233077428812d,rmt_stonesteps01_colour_dxt1.dds,Streaming/Content/data/balance/worldareas/mapplantation.vworld.3,0,2796364
+0ed447b4d14e5d5d,rmt_stonesteps01_colour_dxt1.dds.header,Tiny.VE,31445327,1520

@@ -1,3 +1,0 @@
-apparitionboss
-objects
-sentinels

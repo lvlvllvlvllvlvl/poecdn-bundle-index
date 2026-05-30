@@ -1,7 +1,0 @@
-ringmasterwheelsword
-voidforge_starforge_atlaspassfour
-voidforge_starforge_atlaspassfour/fx
-voidforge_starforge_atlaspassfour/fx/voidforge
-voidforge_starforge_atlaspassfour/textures
-zodiacdragonsword
-zodiacdragonsword/attachments

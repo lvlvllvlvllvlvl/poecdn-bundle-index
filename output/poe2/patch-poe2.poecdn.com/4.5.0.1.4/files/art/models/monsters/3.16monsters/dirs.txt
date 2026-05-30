@@ -1,5 +1,0 @@
-eye
-eye/textures
-paledemonboss
-paledemonboss/textures
-textures

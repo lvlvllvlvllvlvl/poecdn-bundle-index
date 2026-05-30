@@ -1,0 +1,12 @@
+combo_attack
+combo_attack/attack_01
+combo_attack/attack_02
+combo_attack/attack_03
+dash_combo
+dash_combo/impact
+dash_combo/lightning_bolt_aoe
+dash_combo/lightning_bolt_aoe/graphs
+throw_shield
+throw_shield/impact
+throw_shield/projectile
+throw_shield/secondary_projectile

@@ -1,8 +1,0 @@
-burrow_ambush
-burrow_ambush/emerge
-burrow_ambush/travelling
-rockafall
-rockafall/ground_slam
-rockafall/instability_zone
-rockafall/rock_fall
-sweep

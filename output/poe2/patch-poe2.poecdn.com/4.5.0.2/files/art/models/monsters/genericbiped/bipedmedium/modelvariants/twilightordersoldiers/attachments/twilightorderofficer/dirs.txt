@@ -1,0 +1,5 @@
+shoulderpads
+skirt
+skirt_front_cloth
+skirt_metal
+sword

@@ -1,9 +1,0 @@
-arrow
-arrow/impact
-arrow_drop
-lotus_aoe
-lotus_bloom
-lotus_roots
-pastule
-toxic_rain
-vine

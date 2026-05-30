@@ -1,7 +1,0 @@
-mb
-mb/combo_slam
-mb/combo_slam/spike_4
-mb/combo_slam/spike_5
-mb/combo_slam/spike_6
-mb/leap_slam
-textures

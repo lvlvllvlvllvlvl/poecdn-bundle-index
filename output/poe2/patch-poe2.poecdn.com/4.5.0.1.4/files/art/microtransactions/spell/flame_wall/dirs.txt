@@ -1,6 +1,0 @@
-oblivion
-oblivion/texture
-stygian
-stygian/projectile
-stygian/rig
-stygian/textures

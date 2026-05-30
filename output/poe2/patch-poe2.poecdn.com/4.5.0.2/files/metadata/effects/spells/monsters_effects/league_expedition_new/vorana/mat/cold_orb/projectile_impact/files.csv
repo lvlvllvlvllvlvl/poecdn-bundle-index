@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+49e056205fa86b2d,blast_snow_01_r.mat,Tiny.VF.1,145731046,21120
+fae4a3eaf10c5500,blast_snow_01_u.mat,Tiny.V0.1,151483048,17420
+851a31b0bca24fd5,blast_tuft_01_r.mat,Tiny.VE.1,146907144,53256
+e6644d829ce228eb,blast_tuft_01_u.mat,Tiny.VF.1,150067120,19592
+63f019165c769d31,explode_bluroomph_01_r.mat,Tiny.VB.1,152404649,22778
+081c7b4dc9129eff,explode_flash_u.mat,Tiny.VD.1,5313278,346
+8dc2167eda012c31,explode_flash_r.mat,Tiny.VF.1,150086712,57932
+b3d12d2b984296a9,explode_adddust_r.mat,Tiny.V9.1,153715220,35012
+0c65b50586f16e2e,explode_adddust_u.mat,Tiny.V0.1,151500468,2160
+02c661b8023b7f52,explode_dustcloud_r.mat,Tiny.V9.1,153750232,36378
+fd5bbc7c9f1e6ca0,explode_dustcloud_u.mat,Tiny.V9.1,153786610,9408

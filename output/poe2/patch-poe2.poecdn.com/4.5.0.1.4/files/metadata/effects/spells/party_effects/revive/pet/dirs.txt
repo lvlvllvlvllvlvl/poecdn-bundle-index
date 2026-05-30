@@ -1,2 +1,0 @@
-dead_state
-revive_blast

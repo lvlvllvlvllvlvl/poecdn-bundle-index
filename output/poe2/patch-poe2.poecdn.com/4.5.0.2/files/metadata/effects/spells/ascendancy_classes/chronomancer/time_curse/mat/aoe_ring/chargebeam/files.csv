@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+66dcf27b99abfa9a,charge_flash_r.mat,Tiny.V7.1,64575150,66882
+ff683edcb6cbe816,charge_flash_blur_r.mat,Tiny.VC.1,52885723,31996
+d37b6787fb711e9f,charge_flash_u.mat,Tiny.V7.1,64642032,3900
+90a1ffefa0583c90,charge_center_r.mat,Tiny.V2.1,68947342,57120
+563c184b08457f49,charge_center_u.mat,Tiny.VD.1,5313278,346
+d25a9e28aca86dcb,charge_shimmer_r.mat,Tiny.V5.1,67350856,29068
+a238c3cb62391123,charge_shimmer_u.mat,Tiny.VC.1,6191481,338
+60460ed781b71fef,charge_glow_r.mat,Tiny.VA.1,67896238,40330
+707daeccea7e0436,charge_glow_u.mat,Tiny.VC.1,6191481,338

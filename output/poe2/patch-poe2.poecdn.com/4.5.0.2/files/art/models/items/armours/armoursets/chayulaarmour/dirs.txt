@@ -1,0 +1,8 @@
+attachments
+attachments/helmet
+attachments/helmet/helmeta
+attachments/helmet/helmetb
+attachments/loincloth
+attachments/shawl
+attachments/skirt
+textures

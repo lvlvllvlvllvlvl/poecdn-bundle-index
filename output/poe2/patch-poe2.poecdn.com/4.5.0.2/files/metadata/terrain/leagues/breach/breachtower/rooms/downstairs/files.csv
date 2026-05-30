@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+55dd9b8c9bd09fb5,entrance_01.arm,Tiny.V1.1,204223517,3700
+786640896163dc5e,to_tower_01.arm,Content/data/balance/worldareas/delirium_vastirioutskirts.vworld,1622325,14050
+b56b6701763a9ea1,rooms_fill_01.arm,Tiny.V7.1,204767275,2372
+a385095953342773,rooms_x_01.arm,Tiny.V1.1,204227217,2794
+4a530213e1838e6b,rooms_st_01.arm,Tiny.V7.1,204769647,2772
+cfe76e532be23512,rooms_st_02.arm,Tiny.V4.1,206473602,2750
+0ff31077a3b831b3,rooms_st_03.arm,Tiny.V2.1,209482666,2798
+1ab87e8bc2173ede,rooms_ledge_st_01.arm,Tiny.V4.1,206470720,2882
+0bc0d352f96515e2,rooms_ledge_st_02.arm,Tiny.V3.1,207861750,2936
+ac0448f709623d63,rooms_ledge_st_03.arm,Tiny.V0.1,208150425,2694
+0389090f0d8c1284,rooms_ledge_cnr_01.arm,Tiny.V2.1,209479780,2886
+6a863d88360d6691,rooms_ledge_cnr_02.arm,Tiny.VC.1,210437155,2674
+d9aff3bc32e999a3,rooms_ledge_cnr_03.arm,Tiny.V5.1,204071901,2882
+3ab26609e88ee1aa,rooms_cnr_01.arm,Tiny.V6.1,205407258,2906
+296a776f693879a7,rooms_cnr_02.arm,Tiny.V9.1,208380524,2670
+6fdf473781fcadf3,rooms_cnr_03.arm,Tiny.VD.1,206586052,2670

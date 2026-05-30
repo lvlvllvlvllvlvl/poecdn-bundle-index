@@ -1,9 +1,0 @@
-mat
-mat/lightning
-mat/lightning_aura
-mat/lightning_frameupper
-mat/lightning_hit
-mat/lightning_impact
-mat/lightning_onact
-mat/lightning_onact_monster
-mat/lightning_trail

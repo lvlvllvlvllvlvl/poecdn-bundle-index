@@ -1,4 +1,0 @@
-graphs
-pet
-pet/shield_swipe
-pet/wave

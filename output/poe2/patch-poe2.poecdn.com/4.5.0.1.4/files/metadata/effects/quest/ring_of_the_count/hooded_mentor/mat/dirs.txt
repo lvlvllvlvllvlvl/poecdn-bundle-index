@@ -1,3 +1,0 @@
-onact
-onact/convulse_01
-onact/convulse_01/convulse_end

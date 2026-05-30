@@ -1,3 +1,0 @@
-aura
-aura_octopus
-projectile

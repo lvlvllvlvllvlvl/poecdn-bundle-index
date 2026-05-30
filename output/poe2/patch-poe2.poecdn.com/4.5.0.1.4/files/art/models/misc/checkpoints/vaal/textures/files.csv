@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-8d1b4a4ff488d616,vaal_vaalcheckpointc.mat,Tiny.VD,11644826,4976
-d69abf645b6d8d5f,vaal_vaalcheckpoint_glow_bc1.dds,Streaming/Content/art/models/misc/checkpoints/D80EDF62996D803B.vaalcheckpoint.fmt.1,0,2796364
-b09e60d1662718f6,vaal_vaalcheckpoint_glow_bc1.dds.header,Tiny.V3,11740619,1520
-a711dedb1d17fd01,vaal_vaalcheckpoint_normal_bc7.dds,Streaming/Content/art/models/misc/checkpoints/D80EDF62996D803B.vaalcheckpoint.fmt.1,2796364,5592580
-c102fa1f63995060,vaal_vaalcheckpoint_normal_bc7.dds.header,Tiny.V2,11927530,1520
-4f45dc6a6d4a6fd0,vaal_vaalcheckpoint_colour_bc7.dds,Streaming/Content/art/models/misc/checkpoints/D80EDF62996D803B.vaalcheckpoint.fmt,0,5592580
-1fff5d01c4b23f1d,vaal_vaalcheckpoint_colour_bc7.dds.header,Tiny.V6,11817612,1520

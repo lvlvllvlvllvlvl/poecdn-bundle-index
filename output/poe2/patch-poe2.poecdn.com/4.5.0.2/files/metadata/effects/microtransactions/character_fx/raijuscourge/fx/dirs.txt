@@ -1,0 +1,5 @@
+charged
+charged/buildup
+charged/idle
+lightning_trail
+passive_lightning

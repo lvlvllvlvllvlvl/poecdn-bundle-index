@@ -1,8 +1,0 @@
-central
-coast
-fills
-tileoverlay
-tileoverlay/pools
-tileoverlay/rock
-tileoverlay/shore
-transition

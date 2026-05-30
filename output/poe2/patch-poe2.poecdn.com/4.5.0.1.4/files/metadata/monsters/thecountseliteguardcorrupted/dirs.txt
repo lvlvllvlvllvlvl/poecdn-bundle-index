@@ -1,8 +1,0 @@
-meleevariantb
-meleevariantb/attachments
-ranged
-ranged/attachments
-varianta
-varianta/attachments
-variantb
-variantb/attachments

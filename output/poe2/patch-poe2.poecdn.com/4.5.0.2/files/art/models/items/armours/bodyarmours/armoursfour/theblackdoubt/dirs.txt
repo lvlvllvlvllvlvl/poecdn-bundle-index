@@ -1,0 +1,8 @@
+attachments
+attachments/l_sleeve
+attachments/pendant
+attachments/r_sleeve
+attachments/robe
+attachments/robebraid
+attachments/shawl
+textures

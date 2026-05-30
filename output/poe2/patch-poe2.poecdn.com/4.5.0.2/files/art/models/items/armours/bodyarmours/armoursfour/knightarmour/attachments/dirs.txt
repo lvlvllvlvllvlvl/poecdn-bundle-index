@@ -1,0 +1,5 @@
+ffaulds
+mfaulds
+mshoulderpads
+mshoulderpads/lshoulderpad
+mshoulderpads/rshoulderpad

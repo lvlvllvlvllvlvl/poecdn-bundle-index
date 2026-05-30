@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+72945c7dcb1d1a30,tile_01c.mat,Tiny.V8,37872389,3394
+cc85172331a1dfc8,tile_01.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5B3948093355CA20.4B0226CDB141C65C.shieldtoss.ao,496986,11084
+65fee42fc87bb04d,tile_01.dds.header,Tiny.VF,38232785,1520
+0b1a278e087da416,space_bg_atc.mat,Tiny.V8,37868947,3442
+b2e8fa8c752f864a,space_bg_at.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5B3948093355CA20.4B0226CDB141C65C.shieldtoss.ao,147286,349700
+6e798c6800490885,space_bg_at.dds.header,Tiny.V4,38421437,1520
+a049aa9b88835e62,solidc.mat,Tiny.V1,38003286,2338
+d7d41169362d2ace,solid.dds.header,Tiny.V5,38061293,1520
+ccd724d4b28355ae,light_multi.mat,Tiny.V3,37653351,1136
+8dc128fb3efe303e,light_multi.dds,Streaming/Content/metadata/particles/monster_effects/insect_spawner_spit/mid_explode.pet,1536776,5636
+6034f01a40c6b175,light_multi.dds.header,Tiny.V1,35997756,1520

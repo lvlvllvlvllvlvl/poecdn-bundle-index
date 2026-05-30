@@ -1,0 +1,12 @@
+attachments
+attachments/piratemonster01
+attachments/piratemonster01/head_dangler
+attachments/piratemonster01/leg_dangler
+attachments/piratemonster01/skirt
+attachments/piratemonster01/skirt/attachments
+attachments/piratemonster02
+attachments/piratemonster02/hair
+attachments/piratemonster02/l_arm_dangler
+attachments/piratemonster02/r_arm_dangler
+attachments/piratemonster02/shirt
+attachments/piratemonster02/skirt

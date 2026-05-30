@@ -1,6 +1,0 @@
-graphs
-rooms
-rooms/overlay
-rooms/unique
-tiles
-tiles/titanledgeunwalkable

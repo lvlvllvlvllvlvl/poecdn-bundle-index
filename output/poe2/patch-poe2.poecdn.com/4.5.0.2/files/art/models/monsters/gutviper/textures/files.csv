@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+3093606f16e7524c,gutviperc.mat,Tiny.V7,12437173,2718
+a6aa0a8237bf3878,gutviper_normal_dxt5.dds,Streaming/Content/data/worldareas/4C/c_g3_4.vworld,0,1398276
+859a69263448728c,gutviper_normal_dxt5.dds.header,Tiny.VF,12433487,1520
+7623c5452d48561b,gutviper_colour_dxt1.dds,Streaming/Content/metadata/monsters/gutviper/gutviper.act,217584,699212
+7c7e6864ffce1140,gutviper_colour_dxt1.dds.header,Tiny.V8,12400096,1520
+104b429b6c164d83,gutvipervar01.mat,Tiny.V5,12210312,3058
+fe5cb45de8945b6e,gutvipervar01_metal_bc1.dds,Streaming/Content/data/balance/worldareas/g_endgame_town.vworld,642273,699212
+4b26c7841a9beeb0,gutvipervar01_metal_bc1.dds.header,Tiny.VE,12415062,1520
+6e636600df76ba0b,gutvipervar01_normal_bc7.dds,Streaming/Content/data/worldareas/73/c_g3_4.vworld,0,1398276
+a782101d60adc7e7,gutvipervar01_normal_bc7.dds.header,Tiny.V9,12745434,1520
+de646577b58170e4,gutvipervar01_colour_bc1.dds,Streaming/Content/data/worldareas/08/c_g3_4.vworld,0,699212
+c6cee352160e4ddb,gutvipervar01_colour_bc1.dds.header,Tiny.V4,12560429,1520

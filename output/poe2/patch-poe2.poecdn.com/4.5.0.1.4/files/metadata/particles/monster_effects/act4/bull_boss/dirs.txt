@@ -1,4 +1,0 @@
-charge
-charge/aoe
-damage_reflect
-ice_damage_reflect

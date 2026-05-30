@@ -1,2 +1,0 @@
-volcano
-volcano/animations

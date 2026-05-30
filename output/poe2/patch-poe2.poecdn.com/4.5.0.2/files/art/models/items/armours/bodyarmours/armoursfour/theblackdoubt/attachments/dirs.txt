@@ -1,0 +1,6 @@
+l_sleeve
+pendant
+r_sleeve
+robe
+robebraid
+shawl

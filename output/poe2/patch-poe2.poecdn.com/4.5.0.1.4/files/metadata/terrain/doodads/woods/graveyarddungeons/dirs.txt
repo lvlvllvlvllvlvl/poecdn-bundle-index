@@ -1,4 +1,0 @@
-bossmedallions
-tombrubble
-wallspawners
-worms

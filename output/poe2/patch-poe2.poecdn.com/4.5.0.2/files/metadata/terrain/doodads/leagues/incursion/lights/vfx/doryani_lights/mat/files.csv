@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+2e0b0475692c8532,lightning_float_r.mat,Tiny.VC.1,204706967,26730
+3722bde529b3326a,bl_grdlightning_arcs_update.mat,Tiny.V7.1,197769822,2796
+cac640bcfe943c2e,dirsparks_r.mat,Tiny.V0.1,201890576,18590
+13ffc21de5d029df,sparks_u.mat,Tiny.VF.1,197597597,16076
+f7b3ee3c4ffccd8c,ptemit_u.mat,Tiny.V0.1,6191636,344
+a68f2baf4c2d3f21,pulse_u.mat,Tiny.VF.1,197596105,1492
+00a96745824a6aad,vaalpulse_shockwaveblur_01_r.mat,Tiny.VC.1,204733697,15322
+356bdbf3ecdce403,vaalpulse_glowring_02_r.mat,Tiny.VB.1,199688080,36956
+412af4edc21e5dd8,explosion_afterglow_01_r.mat,Tiny.V9.1,201609909,22400
+d1e006a07185f2d1,explosion_afterglow_01_u.mat,Tiny.V0.1,6191636,344
+56044721bdd57ae4,electrictorus_render.mat,Tiny.VE.1,198778151,21210
+66a4fdbf22d4e70e,electrictorus_update.mat,Tiny.V6.1,199150267,2368
+591119e5777d9d19,centre_glow.mat,Tiny.V9.1,201593113,16796
+5bf759ab650efa62,cone_strikebolt_01_u.mat,Tiny.V7.1,197772618,5736
+4e38810259299cd8,cone_strikebolt_01_r1.mat,Tiny.VA.1,94202166,52974
+806ad1b365850eeb,cone_strikebolt_01_r2.mat,Tiny.VD.1,93563618,45886

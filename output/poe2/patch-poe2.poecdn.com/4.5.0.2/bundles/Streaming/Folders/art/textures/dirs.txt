@@ -1,0 +1,26 @@
+doodads
+doodads/act 4
+doodads/act5
+environment
+environment/act4
+environment/act5
+environment/desert
+environment/hideout
+environment/islands
+environment/leagues
+environment/woods
+general
+interface
+interface/2d
+interface/characterselection
+items
+items/armour
+misc
+misc/portals
+monsters
+monsters/22
+monsters/A3
+monsters/E5
+monsters/EA
+monsters/hags
+pet

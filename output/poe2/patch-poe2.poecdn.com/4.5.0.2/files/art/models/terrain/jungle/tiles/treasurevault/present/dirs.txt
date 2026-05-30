@@ -1,0 +1,17 @@
+bosschanneldam
+bosschanneldam/attachments
+bosschanneldam/attachments/l_slab
+bosschanneldam/attachments/r_slab
+channelblock
+channelelevator
+channelelevator/treasurevaultelevator
+crucibleblockpath
+tgms
+treasurewingdoor
+vaallever
+vfx
+vfx/mb
+vfx/mb/melted_gold
+vfx/mb/pointlight
+vfx/textures
+wallchest

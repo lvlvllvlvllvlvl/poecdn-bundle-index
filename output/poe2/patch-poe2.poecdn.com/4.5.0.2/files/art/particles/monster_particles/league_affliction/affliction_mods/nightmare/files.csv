@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+062395a3b9bbf67c,blood_wisp.mat,Tiny.V2,38917417,4970
+df5357b8311027ae,blood_wisp_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/F2BBF756CB3C127A.1B599EF274E1C5F6.end_cold.pet,384527,43852
+88e10d65e7537d99,blood_wisp_dxt1.dds.header,Tiny.V8,38597330,1520
+f9b22f7261e9723c,wisp_ice.mat,Tiny.VD,39133751,4912
+2036abda4a28bd79,wisp_fire.mat,Tiny.VD,39128805,4946
+ae175a8d790a4776,energy_trail_multi.mat,Tiny.VE,38461278,3212
+f383df6ead8358db,energy_trail_multi_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/F2BBF756CB3C127A.4E80AFC4B1431DEE.wisps.trl,0,43876
+da496e130d523c85,energy_trail_multi_dxt5.dds.header,Tiny.VA,6754000,840

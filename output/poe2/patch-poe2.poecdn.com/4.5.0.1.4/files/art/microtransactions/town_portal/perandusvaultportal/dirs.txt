@@ -1,3 +1,0 @@
-effect_textures
-effect_textures/ground
-effect_textures/particles

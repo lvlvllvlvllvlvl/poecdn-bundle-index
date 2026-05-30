@@ -1,0 +1,4 @@
+spellcast_01
+spellcast_01/impact
+spellcast_01/projectile
+spellcast_01/release

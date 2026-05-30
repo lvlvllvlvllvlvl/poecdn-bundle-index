@@ -1,7 +1,0 @@
-epks
-fx
-mat
-mat/burningground
-mat/emerge
-mat/tailstab
-mat/tailswipe

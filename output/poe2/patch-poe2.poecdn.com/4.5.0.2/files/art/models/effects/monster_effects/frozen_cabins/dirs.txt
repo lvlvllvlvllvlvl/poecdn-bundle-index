@@ -1,0 +1,8 @@
+boss
+boss/beam
+boss/beam_impact
+boss/cyclone
+boss/on_hit
+boss/onact
+boss/onact/soul_triple
+boss/soul_bolt

@@ -1,5 +1,0 @@
-attachments
-attachments/cape
-attachments/skirt
-fx
-fx/mat

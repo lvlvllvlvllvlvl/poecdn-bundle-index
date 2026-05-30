@@ -1,5 +1,0 @@
-blue
-blue/ao
-blue/mat
-blue/pet
-pets

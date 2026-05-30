@@ -1,0 +1,5 @@
+monsterfx
+monsterfx/fx
+monsterfx/on_act
+monsterfx/on_act/hover_tail_posion_missile_01
+monsterfx/on_act/hover_tail_posion_missile_01/pet

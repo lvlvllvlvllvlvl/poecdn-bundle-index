@@ -1,6 +1,0 @@
-mb
-mb/leap_slam
-mb/slam
-textures
-textures/leap_slam
-textures/slam

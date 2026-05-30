@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+5f477a6ed849f05f,mortar_static.pet,Tiny.V1.1,171256404,6386
+8163deaff44cea81,mortar_charge.pet,Tiny.V4.1,172262912,49082
+b3ddacc2bde9123d,mortar_explosion.pet,Tiny.VC.1,174816863,72544
+6304c3236d4f4f61,mortar_trail.trl,Tiny.V3.1,174041827,7754
+339dc5484c598d66,volcano_idle.pet,Tiny.V0.1,170932256,47792
+052889fc30ed47a5,volcano_melt.pet,Tiny.V1.1,171262790,27014
+bf5568805311d675,volcano_base.pet,Tiny.VD.1,171018140,12732
+666f6e91e82e2615,volcano_burst_aoe.pet,Tiny.V3.1,174102723,65846
+ea371249b11f92a8,volcano_burst.pet,Tiny.V3.1,174075275,27448
+3a798f70a5afd4aa,onact_body.pet,Tiny.V4.1,172311994,6328
+b0c703371e06a9a4,onact_arm.pet,Tiny.V3.1,174049581,25694
+b41a7b717dbace10,onact_ground.pet,Tiny.V6.1,169768783,12794
+8d7bfbf1c63b6102,onact_wrist.pet,Tiny.V4.1,172318322,20812

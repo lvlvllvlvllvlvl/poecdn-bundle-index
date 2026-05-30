@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+64341958c85030e4,cold_lookup_dxt5.dds,Tiny.V8,39671258,2212
+86732489a843203b,cold_lookup_dxt5.dds.header,Tiny.V2,40145208,280
+cc0d2fb553ac5ea4,shockwave-sample.mat,Tiny.VB,40438638,3340
+afde991da75734f5,shockwave-sample_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/21F13D13CA11B813.3A1739FDA38A7B14.cleave_combo01.pet,262668,87556
+08cac3656193cbb8,shockwave-sample_dxt5.dds.header,Tiny.VC,40796609,1520
+493878d056d02aba,sharp_trail.mat,Tiny.V3,39463659,1288
+721db9f8f5ae5129,sharp_trail_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.023CEECC4D7F1DFF.grdup_churn.pet,721976,87588
+1a4b33b1504ed265,sharp_trail_dxt5.dds.header,Tiny.V5,39098205,504
+146218052c1f1695,ground_bits.mat,Tiny.V6,40178131,3838
+1afdeab4b2bfe9a5,ground_bits_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.023CEECC4D7F1DFF.grdup_churn.pet,678100,43876
+6c8a344e840f41c3,ground_bits_dxt5.dds.header,Tiny.V5,39048428,840
+a5fd561e31ed30b3,trail_plasma.mat,Tiny.VB,40441978,534
+ced2f73fd85a6556,trail_plasma_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.023CEECC4D7F1DFF.grdup_churn.pet,809564,43876
+d01c5ffcc3ce1be0,trail_plasma_dxt5.dds.header,Tiny.V5,39812800,840

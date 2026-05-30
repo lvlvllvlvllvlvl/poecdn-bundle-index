@@ -1,6 +1,0 @@
-cascade_ground_slam
-cascade_ground_slam_init
-ground_slam_02
-soulrend
-volatile_dead
-volatile_dead/blood_orb

@@ -1,0 +1,6 @@
+animations
+leaguenpcattachments
+leaguenpcattachments/hair
+leaguenpcattachments/shawl
+leaguenpcattachments/skirt
+textures

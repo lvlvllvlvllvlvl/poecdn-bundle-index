@@ -1,5 +1,0 @@
-doodads
-textures
-textures/ground
-tiles
-tiles/tgms

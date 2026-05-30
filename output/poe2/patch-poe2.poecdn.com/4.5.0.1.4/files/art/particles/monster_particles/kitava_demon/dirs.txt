@@ -1,2 +1,0 @@
-slamimpact
-slamimpact/fx

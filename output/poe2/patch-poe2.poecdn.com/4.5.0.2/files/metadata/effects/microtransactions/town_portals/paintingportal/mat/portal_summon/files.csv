@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+ffdd191d7ce45048,l_charge_portal_01.mat,Tiny.VC.1,58850253,16042
+c946ba37ec8395d6,r_charge_portal_01.mat,Tiny.VC.1,58866295,16960
+6b37d240eb6d722c,oap_distort_update.mat,Tiny.V1.1,57895152,12970
+f40860306c1f475b,oap_buildup_update.mat,Tiny.VF.1,58199936,8764
+2a7fb85075216fca,portal_grain_r.mat,Tiny.V8.1,60426322,27026
+4d12757719f393e0,portal_grain_u.mat,Tiny.V8.1,60453348,10956
+5349b8ebd149ea31,hand_wispy_trail_01.mat,Tiny.VA.1,58012286,43810
+4ea0f50eda2661ea,hand_blur_trail_01.mat,Tiny.V4.1,57891424,17662

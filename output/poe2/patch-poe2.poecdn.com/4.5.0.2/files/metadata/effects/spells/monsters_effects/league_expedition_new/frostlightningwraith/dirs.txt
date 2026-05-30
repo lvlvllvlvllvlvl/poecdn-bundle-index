@@ -1,0 +1,12 @@
+epks
+fx
+fx/onact
+mat
+mat/aura
+mat/nova
+mat/onact
+mat/onact/dash_cast
+mat/onact/nova_cast
+mat/onact/proj_muzzleflash
+mat/proj_impact
+mat/projectile

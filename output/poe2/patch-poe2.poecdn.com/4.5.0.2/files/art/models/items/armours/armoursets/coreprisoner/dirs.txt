@@ -1,0 +1,6 @@
+attachments
+attachments/chainsarmleft
+attachments/chainsarmright
+attachments/hair
+attachments/skirt
+textures

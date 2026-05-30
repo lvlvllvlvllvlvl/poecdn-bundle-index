@@ -1,7 +1,0 @@
-fx
-fx/direction_beam
-fx/fx_attachment
-graphs
-mat
-mat/direction_beam
-mat/fx_attachment

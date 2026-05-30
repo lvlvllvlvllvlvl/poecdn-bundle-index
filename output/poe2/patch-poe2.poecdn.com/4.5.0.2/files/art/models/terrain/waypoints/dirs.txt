@@ -1,0 +1,17 @@
+effects
+effects/keth_g2_1
+hideouts
+hideouts/default
+hideouts/default/textures
+islands
+islands/textures
+jungle
+jungle/textures
+jungle/tgms
+oriath
+oriath/harbour
+oriath/harbour/textures
+oriath/textures
+tgms
+woods
+woods/textures

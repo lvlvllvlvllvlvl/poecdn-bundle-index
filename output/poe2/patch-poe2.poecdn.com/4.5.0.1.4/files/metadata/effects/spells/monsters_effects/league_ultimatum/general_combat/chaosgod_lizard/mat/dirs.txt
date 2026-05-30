@@ -1,5 +1,0 @@
-attack_01
-attack_02
-chaos_mortar
-idle
-laser

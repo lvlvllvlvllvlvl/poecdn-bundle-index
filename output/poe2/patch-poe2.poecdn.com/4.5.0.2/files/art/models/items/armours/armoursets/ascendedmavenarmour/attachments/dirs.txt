@@ -1,0 +1,6 @@
+cloak
+cloakshort
+headdress
+robe
+robe/female
+robe/male

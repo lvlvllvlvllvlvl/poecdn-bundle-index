@@ -1,5 +1,0 @@
-corpseexplosion
-detonatecast
-energy
-onact
-onact/hand

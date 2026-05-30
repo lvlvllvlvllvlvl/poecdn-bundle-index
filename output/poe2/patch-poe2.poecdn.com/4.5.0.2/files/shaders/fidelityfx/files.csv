@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+5b115d1e12e33f54,ffx_common_types.h,Folders/shaders,140348,16164
+af74b9f4472c823e,ffx_core.h,Tiny.V5.1,208769698,2522
+908739874f5e444b,ffx_core_portability.h,Tiny.VC.1,215566579,1682
+3c26ad1ee8ce339c,ffx_core_ggg.h,Folders/shaders,156512,28976
+6df6197ac3418bd9,ffx_core_gpu_common.h,Folders/shaders,185488,87748
+09fcdf6a19bd3463,ffx_core_gpu_common_half.h,Folders/shaders,273236,98343

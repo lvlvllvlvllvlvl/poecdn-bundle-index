@@ -1,0 +1,4 @@
+eagle
+jaguar
+priest
+squire

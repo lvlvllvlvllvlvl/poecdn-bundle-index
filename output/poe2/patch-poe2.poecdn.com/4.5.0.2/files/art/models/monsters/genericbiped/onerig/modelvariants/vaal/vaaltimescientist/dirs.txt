@@ -1,0 +1,5 @@
+attachments
+attachments/headfeathers
+attachments/headfeathers/animations
+attachments/robe
+attachments/robe/animations

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+a3796dd3106f4e59,light_shoot.mat,Tiny.VC,34752771,1380
+9a0512e676ebaf1a,light_shoot.dds,Streaming/Content/metadata/particles/shapers_presence/fadein.pet,546832,87556
+c5efc50b797627fa,light_shoot.dds.header,Tiny.V5,34005823,1520
+967f59f9a17c3ca0,blood_droplets_spark.mat,Tiny.V8,34149753,1100
+a481f22fe4fbd06a,blood_droplets_spark.dds,Tiny.V8,34148213,1540
+2d3903a5c910bf5f,blood_droplets_spark.dds.header,Tiny.V3,33961893,1520
+ad172acad3e3581e,blood_splat_colour.mat,Tiny.VE,34048172,982
+d8c1d137f1448684,blood_splat_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8F69DF47C9C3B045.98A5B105B0DF7013.ion_cannon.ao,774156,174924
+56678717e83ee3b8,blood_splat_colour.dds.header,Tiny.VE,34046652,1520

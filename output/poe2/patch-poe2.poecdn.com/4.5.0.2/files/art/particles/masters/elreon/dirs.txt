@@ -1,0 +1,11 @@
+smite
+smite/impact
+smite/monster_hit
+unholy_consecrated_ground
+unholy_dash_slam
+unholy_path
+unholy_path/range
+unholy_path/slam
+unholy_path/travel
+unholy_relic
+unholy_relic_explode

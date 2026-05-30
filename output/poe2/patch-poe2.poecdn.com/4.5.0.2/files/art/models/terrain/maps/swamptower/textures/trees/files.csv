@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+96a215ba6a03044a,mswp_mangroveroots01c.mat,Tiny.V7,30795800,2066
+9350498a4412bef5,mswp_mangroveroots01_normal.dds,Streaming/Content/data/balance/worldareas/1D/mapswamptower.vworld,0,1398276
+fc7f99f43bd981db,mswp_mangroveroots01_normal.dds.header,Tiny.V3,30511783,1520
+86e923c7a60a3d2c,mswp_mangroveroots01_colour.dds,Streaming/Content/data/balance/worldareas/mapswamptower.vworld.3,1398424,699212
+94e8d3cff26186b9,mswp_mangroveroots01_colour.dds.header,Tiny.V0,31001518,1520
+93e930e43e3b0865,mswp_mangroveleaves01c.mat,Tiny.VA,31065874,3526
+44d6268e662d0cc8,mswp_mangroveleaves01_normal.dds,Streaming/Content/data/worldareas/B5/mapswamptower.vworld,0,1398276
+f510829a5b141a79,mswp_mangroveleaves01_normal.dds.header,Tiny.V6,23648337,1520
+d4ef7a9a8aff8bc4,mswp_mangroveleaves01_colour.dds,Streaming/Content/data/balance/worldareas/mapswamptower.vworld.3,699212,699212
+b413d2feee48767b,mswp_mangroveleaves01_colour.dds.header,Tiny.V2,30950413,1520

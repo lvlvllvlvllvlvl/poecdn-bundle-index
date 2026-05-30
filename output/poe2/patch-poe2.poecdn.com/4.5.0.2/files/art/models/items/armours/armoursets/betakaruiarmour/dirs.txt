@@ -1,0 +1,17 @@
+alternativekaruicaptainhelmet
+alternativekaruicaptainhelmet/textures
+attachments
+attachments/cloak
+attachments/l_shoulder_dangle
+attachments/leg_fabric
+attachments/mask
+attachments/mask/attachments
+attachments/mask_alt
+attachments/mask_alt/attachments
+attachments/skirt
+attachments/skirt/attachments
+attachments/skirt/attachments/attachments
+attachments/skirt/attachments/attachments/l_tablets
+attachments/skirt/attachments/attachments/r_tablets
+attachments/waist_fabric
+textures

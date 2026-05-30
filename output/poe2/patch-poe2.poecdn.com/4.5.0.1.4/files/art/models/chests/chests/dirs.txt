@@ -1,8 +1,0 @@
-buriedchest
-buriedchest/buriedchest15
-buriedchest/buriedchest19
-leagueburied
-leagueburied/leagueburiedchests01
-leagueburied/leagueburiedchests02
-leagueburied/leagueburiedchests03
-textures

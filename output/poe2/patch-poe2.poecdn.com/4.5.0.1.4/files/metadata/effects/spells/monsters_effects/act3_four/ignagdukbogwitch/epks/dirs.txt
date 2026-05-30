@@ -1,2 +1,0 @@
-double_firebolt_absorb_beam
-firebolt_absorb_beam

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+809ff8977b51542e,splash_splatter_add.mat,Tiny.V2,35069677,1748
+eddfb235f7c4b19b,splash_splatter_add.dds,Streaming/Content/metadata/particles/enviro_effects/water_splash/knee_cyl.pet,43876,43852
+dd5e534c56c79a33,splash_splatter_add.dds.header,Tiny.VF,37662211,1520
+0d2f882e0a087f01,water_nova_at.mat,Tiny.V7,35043629,4224
+25ada3bdd3a9abc1,water_nova_at.dds,Streaming/Content/metadata/particles/enviro_effects/water_splash/knee_cyl.pet,175284,22020
+94107c025758765f,water_nova_at.dds.header,Tiny.V5,6148204,1520
+41d0dd542130f826,water_nova.mat,Tiny.VA,35323662,3200
+3bcd76bbdbabd98d,water_nova.dds,Streaming/Content/metadata/particles/enviro_effects/water_splash/knee_cyl.pet,87728,87556
+a8656063dfb79115,water_nova.dds.header,Tiny.V0,35242762,1520
+3babdc2db6da4dca,water_circular_splash.mat,Tiny.V2,35071425,1552
+56b27b67f5b42f26,water_circular_splash.dds,Streaming/Content/metadata/particles/enviro_effects/water_splash/knee_cyl.pet,197304,43852
+b12e9102b6559b7a,water_circular_splash.dds.header,Tiny.V5,37261385,1520
+56fa14412273df7e,wall_water.mat,Tiny.V9,35516150,2888
+3073c54c3e137ca3,wall_water.dds,Streaming/Content/metadata/particles/enviro_effects/water_splash/knee_cyl.pet,0,43876
+208798991f30ca8b,wall_water.dds.header,Tiny.V8,6535627,840

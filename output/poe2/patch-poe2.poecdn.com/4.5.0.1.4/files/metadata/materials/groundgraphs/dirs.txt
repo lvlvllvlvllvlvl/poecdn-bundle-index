@@ -1,2 +1,0 @@
-adjustmentgraphs
-grounduv

@@ -1,6 +1,0 @@
-fire
-fire/pet
-ice
-ice/pet
-lightning
-lightning/pet

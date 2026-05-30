@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+7ea8bb889d632fd6,human_face.fmt,Streaming/Content/metadata/effects/spells/slam_support/3F45A8AD1FC7B86E.tattoo_armor_human.epk,0,13606
+6622de56d5e16bfb,human_face.fmt.header,Tiny.VE,40934168,212
+f0894a1160f1576d,human_back.fmt,Tiny.V1,41272364,1522
+eac062d501f387e8,human_back.fmt.header,Tiny.V0,41458769,212
+8b2641ca05e0c13d,human_shoulder.fmt,Tiny.VC,41596603,1880
+67da7d1338613cc5,human_shoulder.fmt.header,Tiny.V4,41543389,220
+6f9259754067a396,human_arm.fmt,Tiny.VF,41270447,2200
+ce4ad7580f8fda6f,human_arm.fmt.header,Tiny.VD,41542239,215
+be20a40c038826da,bear_face.fmt,Streaming/Content/metadata/effects/spells/slam_support/3F45A8AD1FC7B86E.CAE58C92B230AD8B.head.pet,0,14408
+14888d9bcc0a35c6,bear_face.fmt.header,Tiny.V4,41543178,211
+9a0984001064e3f5,bear_back.fmt,Tiny.V2,41202993,1712
+e90d9968b0c54dd1,bear_back.fmt.header,Tiny.V3,40640865,211
+4d8df080f0d85876,bear_shoulder.fmt,Tiny.VD,41541099,1140
+7c1f126de2813209,bear_shoulder.fmt.header,Tiny.V0,41458550,219
+ec491cf0f7260cfa,bear_arm.fmt,Streaming/Content/metadata/effects/spells/slam_support/3F45A8AD1FC7B86E.CAE58C92B230AD8B.l_forearm.pet,0,4334
+593e07d8d74d0d8e,bear_arm.fmt.header,Tiny.VB,41552301,214

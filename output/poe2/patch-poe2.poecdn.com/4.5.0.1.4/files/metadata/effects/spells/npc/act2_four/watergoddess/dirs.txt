@@ -1,4 +1,0 @@
-graphs
-mat
-mat/burn_flesh_away
-pet

@@ -1,3 +1,0 @@
-aoe
-fx
-fx_new

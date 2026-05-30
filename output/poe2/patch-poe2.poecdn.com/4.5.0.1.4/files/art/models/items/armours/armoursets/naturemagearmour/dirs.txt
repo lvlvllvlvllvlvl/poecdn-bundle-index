@@ -1,5 +1,0 @@
-attachments
-attachments/cloak
-attachments/hat
-attachments/skirt
-textures

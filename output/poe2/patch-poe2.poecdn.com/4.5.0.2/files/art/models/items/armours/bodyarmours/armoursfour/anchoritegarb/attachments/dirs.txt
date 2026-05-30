@@ -1,0 +1,15 @@
+beltattach
+beltattach/f
+beltattach/m
+bottle
+necklaces
+necklaces/necklace01
+necklaces/necklace01/f
+necklaces/necklace01/m
+necklaces/necklace02
+necklaces/necklace02/f
+necklaces/necklace02/m
+necklaces/necklace03
+necklaces/necklace04
+sack
+skirt

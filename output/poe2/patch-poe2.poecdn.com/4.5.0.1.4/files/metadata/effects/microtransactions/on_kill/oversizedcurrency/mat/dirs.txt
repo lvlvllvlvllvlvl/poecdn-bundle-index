@@ -1,5 +1,0 @@
-chaos_explosion
-exal_explosion
-impact
-mirror_explosion
-vaal_explosion

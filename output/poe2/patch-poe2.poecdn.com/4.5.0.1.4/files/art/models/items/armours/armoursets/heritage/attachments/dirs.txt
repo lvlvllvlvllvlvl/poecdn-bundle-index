@@ -1,3 +1,0 @@
-robe
-robe/clothrobe
-robe/metalrobe

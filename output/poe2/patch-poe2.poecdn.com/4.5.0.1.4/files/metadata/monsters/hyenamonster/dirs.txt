@@ -1,9 +1,0 @@
-attachments
-effects
-effects/ao
-effects/epk
-effects/fx
-effects/graph
-objects
-runemarked
-unique

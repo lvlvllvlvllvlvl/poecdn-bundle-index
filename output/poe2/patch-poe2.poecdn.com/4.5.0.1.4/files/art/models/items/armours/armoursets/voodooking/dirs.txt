@@ -1,8 +1,0 @@
-attachments
-attachments/cloak
-attachments/horndangles
-attachments/skirt
-attachments/skirtbells
-attachments/skirtfeathers
-attachments/veil
-textures

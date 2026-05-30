@@ -1,5 +1,0 @@
-attachments
-glow_variant
-glow_variant/attachments
-glow_variant/epk
-glow_variant/fx

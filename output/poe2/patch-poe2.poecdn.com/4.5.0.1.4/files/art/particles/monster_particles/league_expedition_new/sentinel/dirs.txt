@@ -1,4 +1,0 @@
-mb
-mb/sentinel_components
-mb/sentinel_main
-tex

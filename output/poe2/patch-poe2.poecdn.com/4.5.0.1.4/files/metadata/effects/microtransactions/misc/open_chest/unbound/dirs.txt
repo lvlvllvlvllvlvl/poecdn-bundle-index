@@ -1,6 +1,0 @@
-fx
-graph
-mat
-mat/angry_wasps
-mat/fish
-mat/verdant_wisps

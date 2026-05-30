@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+d8669346b7e25032,warpwave.mat,Tiny.V4,38521219,2344
+c49cb72c9f5aaed7,air_shockwave.mat,Tiny.V8,41095810,2662
+4741f8b18a53288d,leafset.mat,Tiny.V0,41759813,1792
+59353a6cf6c3b693,leaf_set_dxt5.dds,Streaming/Content/metadata/effects/spells/tornado_spell/tornado.ao,365463,175012
+ecadc7abd577f7e5,leaf_set_dxt5.dds.header,Tiny.V4,41823113,344
+6f8e8ca8ea28c58b,tile_wind_03_dxt5.dds,Streaming/Content/metadata/effects/spells/tornado_spell/tornado.ao,277907,87556
+e88a806b1257d124,tile_wind_03_dxt5.dds.header,Tiny.VA,41724109,1520
+2063bfe62faddecb,tornado.mat,Tiny.V5,41147750,3072
+b11d8c1f64244a56,tornado_surface.mat,Tiny.V5,41169314,3212
+1bbaa4d6b86bc23b,tornado_core.mat,Tiny.V6,41728371,3312
+38f7930a86e59963,tornado_cap.mat,Tiny.V3,40888555,3668
+3e629a550600f763,tornado_nmlao_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/CC7CC8430B358032.1F35E63A751D6E18.skin_cold_off.epk,174924,1398276
+7f4b61bd2b4a0cfb,tornado_nmlao_dxt5.dds.header,Tiny.V9,42053419,1520

@@ -1,5 +1,0 @@
-textures
-textures/chests
-textures/frozenwaterfall
-textures/iceshards
-tgms

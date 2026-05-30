@@ -1,0 +1,7 @@
+attachments
+attachments/banditexecutionerrobe
+attachments/banditexecutionersleeve
+attachments/vaaloverseer
+attachments/vaaloverseer/beltskulls
+attachments/vaaloverseer/feathers
+attachments/vaaloverseer/stonegreatsword

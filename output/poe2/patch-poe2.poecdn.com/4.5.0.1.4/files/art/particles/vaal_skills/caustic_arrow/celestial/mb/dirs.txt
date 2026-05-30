@@ -1,2 +1,0 @@
-large_projectile
-large_projectile/animations

@@ -1,4 +1,0 @@
-fodder_1_chargeup_explode
-fodder_1_sun
-fodder_1_sun_explode
-fodder_2_leapslam

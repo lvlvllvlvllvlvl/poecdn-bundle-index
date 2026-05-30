@@ -1,2 +1,0 @@
-stone_tomb
-stone_tomb/fx

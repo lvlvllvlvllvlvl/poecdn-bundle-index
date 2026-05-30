@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-b5739977eddd7f34,melee_swipe_edge.mat,Tiny.V6.1,91649801,18150
-aa18d854b70d65ad,melee_swipe_mblur.mat,Tiny.V8.1,92734874,16546
-cfedc40776cd42e0,melee_swipe_smudge.mat,Tiny.V7.1,89802978,20056
-0fdca34945fa096f,stab_mblur_r.mat,Tiny.VE.1,92379992,24254
-d1f7c6aae64e1366,stab_mblur_u.mat,Tiny.VE.1,92404246,13578
-4f124d1177d21431,stab_dir_r.mat,Tiny.V9.1,95852854,23538
-be6a9edab3dc703c,stab_dir_u.mat,Tiny.V8.1,92751420,14602

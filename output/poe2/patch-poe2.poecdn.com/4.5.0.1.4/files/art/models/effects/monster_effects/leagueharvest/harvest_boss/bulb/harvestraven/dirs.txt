@@ -1,5 +1,0 @@
-dash_beam
-dash_beamimpact
-on_act_dash
-screech_debuff
-screech_of_splendour

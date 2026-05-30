@@ -1,0 +1,10 @@
+desert_aoe
+desert_aoe/textures
+desert_channelling
+desert_channelling/textures
+desert_charge_end
+desert_charge_end/textures
+desert_shadow_weapon
+desert_shadow_weapon/textures
+desert_shadows
+desert_shadows/textures

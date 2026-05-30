@@ -1,0 +1,7 @@
+pirateship
+pirateship/sails
+pirateship/shipparts
+piratewreck
+piratewreck/sails
+piratewreck/shipparts
+piratewreck/wood

@@ -1,7 +1,0 @@
-abyss
-abyss/thick
-feature
-shadows
-thickwall
-thickwallabyss
-thinwall

@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-90719806923b2b18,wind_gust_detail.mat,Tiny.VB,41645288,7064
-57e76ad2adbd6b0c,wind_gust.mat,Tiny.V8,40905368,6554
-6d22ed4be437db29,blink_spiral.mat,Tiny.V4,41657279,1968
-e35abcb8eae7cad1,blink_spiral_dxt5.dds,Streaming/Content/metadata/effects/spells/fire_solar_orb/orb.ao,1152853,87556
-bc67de5102bc2272,blink_spiral_dxt5.dds.header,Tiny.V1,41357932,1520
-5c9dfafbdde62b2f,blink_spiral_bc1.dds,Streaming/Content/metadata/effects/spells/traps/6ACFCD6351FDEB45.spinnner_joints.ao,333562,43852
-59e9a00a8525cb6b,blink_spiral_bc1.dds.header,Tiny.VB,41643768,1520

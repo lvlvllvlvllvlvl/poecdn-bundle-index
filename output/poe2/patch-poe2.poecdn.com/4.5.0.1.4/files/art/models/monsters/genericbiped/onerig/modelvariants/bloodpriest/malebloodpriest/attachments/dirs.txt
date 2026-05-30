@@ -1,5 +1,0 @@
-bloodpriestmalecape
-bloodpriestmalecape/animations
-bloodpriestmalerobe
-bloodpriestmalerobe/animations
-bloodpriestmaleweapon

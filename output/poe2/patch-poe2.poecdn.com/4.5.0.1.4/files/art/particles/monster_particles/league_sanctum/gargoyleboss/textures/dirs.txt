@@ -1,4 +1,0 @@
-candle_flareup
-fire_infused_sword
-flame_breath
-leap_slam_circular

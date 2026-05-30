@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+dcebc19973ff08bf,rig_1c8fae8c.smd,Streaming/Content/metadata/monsters/baron/baroncorruptwolfformmap.ot,960962,57153
+6ca755e5eeb2bd1d,rig_1c8fae8c.smd.header,Tiny.VF,39359698,448
+2ae4837c4dcf8811,rig.amd,Tiny.V8,39027004,176
+db8c6dba1f9cc851,rig.ast,Tiny.V3,38763523,1099
+09e1fab118bcb3a1,elbow.fmt,Tiny.V4,39566918,3648
+bac886d8deebc2db,elbow.fmt.header,Tiny.V0,39679337,208
+fab46f6398e2ce69,goopvolat.sm,Tiny.V6,39441528,412
+cdf1878ac2b00b23,gib_small_mesh4.fmt,Tiny.VD,39599808,644
+f632583367d7fb58,gib_small_mesh4.fmt.header,Tiny.V7,39387672,208
+f1cf9289cf571df7,gib_med_mesh13.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/5F33D1A52C561F8B.5F958045619C0FCB.rare_reflect_dmg.epk,468326,6330
+81fffd3952e6b87f,gib_med_mesh13.fmt.header,Tiny.V5,38955870,208

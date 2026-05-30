@@ -1,4 +1,0 @@
-dagger
-spear
-spear_dagger
-spear_torch

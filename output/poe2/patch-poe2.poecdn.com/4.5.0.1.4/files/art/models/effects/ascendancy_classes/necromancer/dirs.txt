@@ -1,3 +1,0 @@
-alies_buff
-damage_reduction
-damage_reduction/rig_new

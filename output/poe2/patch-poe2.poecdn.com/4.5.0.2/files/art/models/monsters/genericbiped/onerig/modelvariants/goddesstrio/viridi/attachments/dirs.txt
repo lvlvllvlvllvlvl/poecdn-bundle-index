@@ -1,0 +1,7 @@
+cape
+hair
+skirt
+weapon
+weapon/bow
+weapon/quiver
+weapon/quiver/arrow

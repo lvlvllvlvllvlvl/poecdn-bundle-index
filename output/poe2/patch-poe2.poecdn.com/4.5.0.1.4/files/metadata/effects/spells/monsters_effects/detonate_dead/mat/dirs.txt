@@ -1,5 +1,0 @@
-fire_explosion_01
-windup
-windup_chaos
-windup_chaos_stronger
-windup_stronger

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+9186bf01931b56ff,firglow.mat,Tiny.V0,41011064,1034
+a190790e407c5c5d,firglow_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/6BFE022A5E838E27.loop_midup.pet,175112,87556
+edb6645c635148a6,firglow_dxt5.dds.header,Tiny.V3,38105470,1520
+a9b0099ced7305cf,firey_flare_yello.mat,Tiny.V5,40575742,2202
+fb6be3a1c7ad1b17,firey_flare_yello_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/6BFE022A5E838E27.loop_midup.pet,503488,87556
+88c4e7b68c91718c,firey_flare_yello_dxt5.dds.header,Tiny.V2,40872446,1520
+904be0610cf2f213,fireball_flame4.mat,Tiny.V1,40906934,1988
+6972e1109d390b70,fireball_flame4_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/6BFE022A5E838E27.loop_midup.pet,481468,22020
+e89952f6598b4e4e,fireball_flame4_dxt5.dds.header,Tiny.VA,38902901,1520
+64c8d3c3333fc715,trail_main.mat,Tiny.V4,41120377,2846
+2c883401575b0d69,trail_main_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/skeleton_mage/000E31DAB517B9B1.trl_fire.trl,87556,43876
+338bc391bf35ec07,trail_main_dxt5.dds.header,Tiny.V1,38899612,840
+473fd97fe5f67174,aoe_trail.mat,Tiny.V4,41118063,2314
+cab1e2387372a8dc,aoe_trail_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/skeleton_mage/000E31DAB517B9B1.trl_fire.trl,0,87556
+d0cc7d8cdc7a813c,aoe_trail_dxt5.dds.header,Tiny.V6,37912867,1520

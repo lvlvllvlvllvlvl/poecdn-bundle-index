@@ -1,5 +1,0 @@
-corpse
-corpse/textures
-pamdbanner
-pamdpedestal
-pamdtable

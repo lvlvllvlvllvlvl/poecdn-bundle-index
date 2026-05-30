@@ -1,4 +1,0 @@
-flame_vortex
-flaming_cleave
-flaming_cleave/claw
-ground_slam

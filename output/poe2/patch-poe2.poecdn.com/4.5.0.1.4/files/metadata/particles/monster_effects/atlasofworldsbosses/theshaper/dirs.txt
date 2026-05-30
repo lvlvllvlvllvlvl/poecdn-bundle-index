@@ -1,9 +1,0 @@
-bullet_hell
-bullet_hell/projectile
-bullet_hell/release_projectile
-instant_teleport
-portal_explode
-projectile
-shaper_portal
-teleport_slam
-teleport_slam/slam

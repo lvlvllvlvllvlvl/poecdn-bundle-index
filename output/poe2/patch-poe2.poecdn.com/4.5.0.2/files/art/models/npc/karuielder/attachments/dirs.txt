@@ -1,0 +1,5 @@
+cape
+hair
+skirt
+skirtaccessories
+weapon

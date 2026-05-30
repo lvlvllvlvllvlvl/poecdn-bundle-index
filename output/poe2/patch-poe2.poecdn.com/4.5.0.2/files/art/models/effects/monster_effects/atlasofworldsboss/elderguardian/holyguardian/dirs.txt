@@ -1,0 +1,12 @@
+skillfx
+skillfx/delayed_slam
+skillfx/monster_slam
+skillfx/sword_firestorm
+skillfx/sword_firestorm/1
+skillfx/sword_firestorm/2
+skillfx/sword_minions_projectile
+skillfx/tentacle_daresso_clonecharge
+skillfx/tentacle_daresso_clonecharge/projectile
+skillfx/weapon_charge
+skillfx/weapon_throw
+skillfx/weaponthrow_impact

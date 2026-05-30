@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+0d42364a7beaab1b,poisen_cloud_sub.mat,Tiny.V3,35327563,2342
+5d2b896350f441ea,poisen_cloud_sub.dds,Streaming/Content/metadata/particles/ri_fire/buff_fire.pet,2166049,87556
+cbce4fcdca7d3175,poisen_cloud_sub.dds.header,Tiny.V3,35326043,1520
+3e35a0465acd86bb,shockwave.mat,Tiny.V3,35329905,2418
+b542bcd19130284f,shockwave.dds,Streaming/Content/metadata/particles/ri_fire/buff_fire.pet,2253605,87556
+27ff2bbb19677680,shockwave.dds.header,Tiny.VC,38371300,1520
+49952c64e59975b8,shockwave_ring.mat,Tiny.V7,35724512,2586
+ae5762c6d5879311,shockwave_ring.dds,Streaming/Content/metadata/particles/ri_fire/buff_fire.pet,2341161,87556
+fefef28f6f7ac6b3,shockwave_ring.dds.header,Tiny.VC,36111508,1520
+3580c9a52c6ba673,y_particle_64.mat,Tiny.VF,35871767,2320
+ac29517e0584e2de,y_particle_64.dds,Streaming/Content/metadata/particles/ri_fire/buff_fire.pet,2428717,5636
+3236c4e98efdce58,y_particle_64.dds.header,Tiny.V0,36097115,1520

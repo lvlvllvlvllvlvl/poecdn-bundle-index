@@ -1,6 +1,0 @@
-celestial
-celestial/textures
-demonic
-thaumaturgy_project
-thaumaturgy_project/mb
-thaumaturgy_project/textures

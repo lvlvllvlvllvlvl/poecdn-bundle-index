@@ -1,5 +1,0 @@
-wendigo
-wendigo/epk
-wendigo/fx
-wendigo/graph
-wendigo/mat

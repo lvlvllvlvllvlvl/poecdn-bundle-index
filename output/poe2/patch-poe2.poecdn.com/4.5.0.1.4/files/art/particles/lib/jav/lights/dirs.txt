@@ -1,3 +1,0 @@
-omnis
-omnis/animations
-omnis/animations/once

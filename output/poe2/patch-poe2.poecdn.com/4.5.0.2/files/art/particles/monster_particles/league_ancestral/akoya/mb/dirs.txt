@@ -1,0 +1,3 @@
+jade_shards
+jade_shards/shard04
+jade_shards/weapon_gather

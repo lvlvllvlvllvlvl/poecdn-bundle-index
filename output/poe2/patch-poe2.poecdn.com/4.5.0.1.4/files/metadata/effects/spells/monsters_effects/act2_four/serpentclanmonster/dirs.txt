@@ -1,7 +1,0 @@
-ao
-epk
-fx
-graphs
-mat
-mat/emerge_02
-mat/emerge_marker

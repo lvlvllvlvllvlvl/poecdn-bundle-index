@@ -1,7 +1,0 @@
-models
-models/ring
-models/ring_vaal
-textures
-textures/debuff
-textures/handfx
-textures/vaal_ring

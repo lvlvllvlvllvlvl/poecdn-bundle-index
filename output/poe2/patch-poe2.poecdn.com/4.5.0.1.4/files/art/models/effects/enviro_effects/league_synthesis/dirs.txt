@@ -1,6 +1,0 @@
-mapdevice
-portal
-rainbowbridge
-rainbowbridge/beam
-synthesis_bosssummon
-synthesiscraftingbench

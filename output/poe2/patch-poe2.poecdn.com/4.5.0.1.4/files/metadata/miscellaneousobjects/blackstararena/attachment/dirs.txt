@@ -1,5 +1,0 @@
-graph
-pet
-pet/arena_orb
-pet/arena_orb/idle_01
-pet/zone

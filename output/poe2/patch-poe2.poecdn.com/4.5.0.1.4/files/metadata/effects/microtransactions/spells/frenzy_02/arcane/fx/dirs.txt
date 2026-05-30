@@ -1,5 +1,0 @@
-bow_fx
-frenzy_gain
-melee
-player_spiral
-projectile

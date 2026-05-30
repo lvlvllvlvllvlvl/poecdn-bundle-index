@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+37d10383fa5776b6,projectile_add.mat,Tiny.VB,38076234,3022
+167dc78dbf11e8cc,projectile_add.dds,Tiny.V9,41393686,2892
+b767d6a106fcd849,projectile_add.dds.header,Tiny.VF,40811444,1520
+6d6e6af6bb6daf8d,light_grad.mat,Tiny.VD,37856644,2078
+04f19023be8e87e8,light_grad.dds,Streaming/Content/metadata/particles/monster_effects/act8/044B4B044EB7D6D0.862B0116F7687BE8.midline.pet,382828,22020
+d0aa2fff8cd44ae7,light_grad.dds.header,Tiny.V0,3691140,1520
+bbe76689e9e9d0bd,fire_bits2_at.mat,Tiny.V3,37115033,2874
+ccf849736a5f2c52,fire_bits2_at.dds,Streaming/Content/metadata/particles/monster_effects/act8/044B4B044EB7D6D0.862B0116F7687BE8.midline.pet,371720,11108
+e8569b4521c739e9,fire_bits2_at.dds.header,Tiny.V1,34572227,840

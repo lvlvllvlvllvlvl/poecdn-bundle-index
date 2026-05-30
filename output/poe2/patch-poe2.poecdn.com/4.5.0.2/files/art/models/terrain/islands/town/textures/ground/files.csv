@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+33ccecd2bede2e7c,g_kgt_cobblestone03.mat,Tiny.VC,23374117,2384
+866e1f62dfa8a9bb,g_kgt_cobblestone03c.mat,Tiny.VF,23464316,882
+0cafe0ec8395c97e,g_kgt_cobblestone03_normal_dxt5.dds,Streaming/Content/data/worldareas/0E/g4_ship.vworld,0,1398276
+97bf8f3e34b7b275,g_kgt_cobblestone03_normal_dxt5.dds.header,Tiny.V0,23534646,1520
+30a961a8fefa9495,g_kgt_cobblestone03_colour_dxt5.dds,Streaming/Content/data/worldareas/55/g4_ship.vworld,0,1398276
+305b90a5dc8290b9,g_kgt_cobblestone03_colour_dxt5.dds.header,Tiny.VB,23306274,1520
+52ef767e16c118cc,g_kgt_cobblestone02.mat,Tiny.VD,23132344,2384
+b891df165010697f,g_kgt_cobblestone02_normal_dxt5.dds,Streaming/Content/data/worldareas/B6/g4_ship.vworld,0,1398276
+fba3c9e084089dc8,g_kgt_cobblestone02_normal_dxt5.dds.header,Tiny.V2,23430794,1520
+2b530ee6c84d89df,g_kgt_cobblestone02_colour_dxt5.dds,Streaming/Content/data/worldareas/43/g4_ship.vworld,0,1398276
+f2845a6cfbe012c7,g_kgt_cobblestone02_colour_dxt5.dds.header,Tiny.V6,23233978,1520
+d6ddc1e963800c8d,g_kgt_cobblestone01.mat,Tiny.V5,22829924,2384
+7f8aaffd66502605,g_kgt_cobblestone01_normal_dxt5.dds,Streaming/Content/data/worldareas/B2/g4_ship.vworld,0,1398276
+a8a4b28a62b787d4,g_kgt_cobblestone01_normal_dxt5.dds.header,Tiny.V9,23683406,1520
+d1442668b82ba8b4,g_kgt_cobblestone01_colour_dxt5.dds,Streaming/Content/data/worldareas/54/g4_ship.vworld,0,1398276
+68afba34587ed0ad,g_kgt_cobblestone01_colour_dxt5.dds.header,Tiny.V3,23109125,1520

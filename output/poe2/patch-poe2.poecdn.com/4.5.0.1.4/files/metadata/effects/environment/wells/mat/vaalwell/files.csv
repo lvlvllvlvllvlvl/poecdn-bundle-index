@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-f929d3a62443c0b5,embers_r.mat,Tiny.VC.1,14064469,9082
-8e3150719b6533a3,embers_u.mat,Tiny.VF.1,12392426,10428
-a7ab3e2eeba4dc3d,distortion_cylup_r.mat,Tiny.V9.1,13211724,12732
-fd86026bc834e5d1,distortion_cylup_u.mat,Tiny.V7.1,5387450,576
-1b7dc04285641e9c,caustic_u.mat,Tiny.VF.1,12389078,3348
-108e2f84604e9118,caustic_r.mat,Tiny.VB.1,10676367,14668
-425c2e7b8fb175d7,caustic_rays_r.mat,Tiny.VA.1,12875218,23418
-bdc32c4d85e69d95,caustic_rays_u.mat,Tiny.VE.1,12550344,3312

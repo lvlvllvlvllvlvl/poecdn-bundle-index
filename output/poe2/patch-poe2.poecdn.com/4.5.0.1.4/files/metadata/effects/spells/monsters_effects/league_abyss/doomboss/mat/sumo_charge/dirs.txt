@@ -1,3 +1,0 @@
-charge
-charge_end_slam
-charge_step

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+aceb9fb482934a3f,boom.mat,Tiny.V8,34023071,1636
+254921c0af61745d,boom.dds,Streaming/Content/metadata/particles/charged_dash/channelling/midline.pet,404856,11084
+8b149248cf66d713,boom.dds.header,Tiny.VD,37802858,1520
+5a1146f5e42b6e95,light_gradient.mat,Tiny.V0,34531796,1714
+c69d6b66cbf07377,light_gradient.dds,Streaming/Content/metadata/particles/charged_dash/channelling/midline.pet,415940,11084
+6de545157c202f02,light_gradient.dds.header,Tiny.V0,34530276,1520
+906ef0755beacc60,light_ring_add.mat,Tiny.V0,34533510,1700
+6624a688e1adbef2,light_ring_add.dds,Streaming/Content/metadata/particles/charged_dash/channelling/midline.pet,427024,11084
+ecc5c49ee6284e13,light_ring_add.dds.header,Tiny.VB,40390242,1520
+27a4d4e29f34ed94,rainbow.mat,Tiny.V1,34239994,1388
+1df526c24c7f3d56,rainbow.dds,Streaming/Content/metadata/particles/charged_dash/channelling/midline.pet,438108,11084
+ab2daa2c3dac7d9c,rainbow.dds.header,Tiny.V4,34568486,1520

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+4df6bab01ca8432f,heat_distort_r.mat,Tiny.VF.1,139170386,10534
+59f43ee89fe6dcef,heat_distort_u.mat,Tiny.VD.1,5313278,346
+51e003da3d5c36c6,ground_debris_r2.mat,Tiny.V3.1,7086823,35458
+31b48130ab20e521,ground_debris_u2.mat,Tiny.VD.1,141039220,27220
+2c5b6ce452808a5b,kickup_smoke_r.mat,Tiny.V4.1,141790904,36172
+c6ef61791b1f9d1c,kickup_smoke_u.mat,Tiny.V7.1,139378718,25512
+c0028a888f959835,impact_smokering_01_r.mat,Tiny.V6.1,141066595,21062
+da69c8630b360b7a,impact_smokering_01_u.mat,Tiny.V5.1,140764374,11950
+8abfb3c35f1930bc,impact_mblursphere_01_r.mat,Tiny.V9.1,143158202,11980
+3055886bbf097331,impact_mblursphere_01_u.mat,Tiny.V2.1,143755938,3834

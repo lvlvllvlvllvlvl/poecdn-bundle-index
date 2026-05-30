@@ -1,5 +1,0 @@
-leagues
-leagues/incursion
-maps
-woods
-woods/tiles

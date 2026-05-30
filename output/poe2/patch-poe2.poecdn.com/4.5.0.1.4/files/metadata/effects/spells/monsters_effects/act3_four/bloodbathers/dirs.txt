@@ -1,9 +1,0 @@
-ao
-epks
-epks/enrage_fire
-mat
-mat/enrage_fire
-mat/scorching_ground
-pet
-pet/enrage_fire
-pet/ground

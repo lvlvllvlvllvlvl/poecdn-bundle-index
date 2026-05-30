@@ -1,3 +1,0 @@
-mb
-mb/base_rune
-textures

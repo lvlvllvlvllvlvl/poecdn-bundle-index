@@ -1,0 +1,4 @@
+cold
+fire
+lightning
+onact

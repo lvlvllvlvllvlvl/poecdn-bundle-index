@@ -1,0 +1,8 @@
+attachments
+attachments/cape
+attachments/lelbowpadstrap
+attachments/robe
+attachments/robe/f
+attachments/robe/m
+attachments/robe/str
+textures

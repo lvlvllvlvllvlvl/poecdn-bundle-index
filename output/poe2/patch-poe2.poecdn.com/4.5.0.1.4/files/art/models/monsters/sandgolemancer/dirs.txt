@@ -1,7 +1,0 @@
-attachments
-attachments/skeletongolemancer
-attachments/skeletongolemancer/cape
-attachments/skeletongolemancer/chestropes
-attachments/skeletongolemancer/larmmisc
-attachments/skeletongolemancer/rarmmisc
-attachments/skeletongolemancer/shards

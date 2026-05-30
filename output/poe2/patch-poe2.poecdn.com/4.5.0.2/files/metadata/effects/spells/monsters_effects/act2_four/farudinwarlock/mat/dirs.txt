@@ -1,0 +1,4 @@
+bugs_blast
+corpse_blast
+idle
+projectile

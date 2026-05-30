@@ -1,0 +1,3 @@
+arcanehead
+synthesis_crown
+synthesis_crown/textures

@@ -1,2 +1,0 @@
-celestial2
-celestial2/textures

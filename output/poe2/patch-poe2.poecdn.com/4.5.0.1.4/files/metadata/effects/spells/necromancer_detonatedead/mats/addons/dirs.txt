@@ -1,2 +1,0 @@
-gibs
-skeleton_humanoid

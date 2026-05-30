@@ -1,0 +1,8 @@
+meaty_ball
+mortar_trail
+onact
+onact/death_pustule_explode_01
+onact/spit_01
+ondeath_explosion
+projectile
+projectile/explode

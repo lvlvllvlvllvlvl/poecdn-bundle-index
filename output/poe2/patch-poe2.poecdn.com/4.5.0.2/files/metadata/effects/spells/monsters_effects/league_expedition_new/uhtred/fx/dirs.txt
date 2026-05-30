@@ -1,0 +1,15 @@
+basic_projectile
+beam_01
+bomb_01
+conjure_rune
+death_beam
+death_uhtred
+environment
+mirror_01
+mirror_eruption
+onacts
+ondeath_mirror_ruckus_01
+player
+projectile_barrage
+stormcall
+volatile

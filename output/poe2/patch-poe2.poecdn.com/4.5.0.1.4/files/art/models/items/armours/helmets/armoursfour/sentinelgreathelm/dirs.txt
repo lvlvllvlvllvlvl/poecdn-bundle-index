@@ -1,4 +1,0 @@
-attachments
-attachments/chain
-attachments/feathers
-textures

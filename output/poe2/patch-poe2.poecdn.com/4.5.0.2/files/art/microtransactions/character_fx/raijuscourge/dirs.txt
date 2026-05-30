@@ -1,0 +1,6 @@
+mb
+mb/passive_lightning
+textures
+textures/charged
+textures/lightning_trail
+textures/passive_lightning

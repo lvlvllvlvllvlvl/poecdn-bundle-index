@@ -1,0 +1,7 @@
+blood
+blood/pets
+demonic
+innocence
+innocence/pets
+machine
+machine/pets

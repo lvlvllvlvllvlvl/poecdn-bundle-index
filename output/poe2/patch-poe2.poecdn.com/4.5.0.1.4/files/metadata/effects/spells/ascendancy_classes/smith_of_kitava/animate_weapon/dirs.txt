@@ -1,7 +1,0 @@
-epks
-fx
-mats
-mats/mace_slam
-mats/quarterstaff_spin
-mats/spear_dash
-mats/talisman_slash

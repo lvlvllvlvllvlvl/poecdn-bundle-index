@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+fe3af98ae847778f,dash.amd,Tiny.VE,7479226,100
+27349e87f7a1e1dc,dash.ast,Content/metadata/effects/spells/monsters_effects/league_ultimatum/EBAF1B1A694F57C5.katar_crk_circle_ruin.pet,1347431,6702
+5fca8158bff39481,explode.amd,Tiny.VC,7710219,86
+235de178c0ca5d08,explode.ast,Tiny.V0,7867232,1690
+b7deeaa09d03fd58,act_boom_5a3568af.smd,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.58F706B92C555E00.snake.ao,33565,31889
+54eec550e99420c1,act_boom_5a3568af.smd.header,Tiny.V8,7405536,448
+cafa5e33de03abcd,act_create_orb.sm,Tiny.V8,7405984,886
+1e078c7112e0129e,act_create_orb.amd,Tiny.V3,34422460,102
+1128c4e10f4c0b38,act_create_orb.ast,Content/metadata/effects/spells/monsters_effects/league_ultimatum/EBAF1B1A694F57C5.katar_crk_circle_ruin.pet,1116292,27007
+9e67e2e7b35366e8,big_explode.amd,Tiny.VC,7710219,86
+b8ee90dabdf1ff71,big_explode.ast,Tiny.V3,7460716,2479
+7ce4916c2c7d3707,projectile.amd,Tiny.V4,7640384,142
+7e765750fe66568a,projectile.ast,Tiny.VF,7547829,2759

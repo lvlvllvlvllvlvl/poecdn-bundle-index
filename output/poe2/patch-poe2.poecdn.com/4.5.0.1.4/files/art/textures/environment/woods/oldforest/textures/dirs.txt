@@ -1,5 +1,0 @@
-arena
-ezomytestatues
-ground
-moss
-rocks

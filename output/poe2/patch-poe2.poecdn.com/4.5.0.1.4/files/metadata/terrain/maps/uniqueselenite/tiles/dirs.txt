@@ -1,6 +1,0 @@
-abyss
-abyssledge
-abyssthickwall
-abysswall
-features
-ledge

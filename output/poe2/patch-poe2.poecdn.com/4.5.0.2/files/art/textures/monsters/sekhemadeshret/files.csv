@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+43c88f60af085328,sekhemadeshretc.mat,Tiny.V3.1,981889,2190
+4df79baf0fffe2f3,sekhemadeshret_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/itemracks/helmetmannequin_11.ao,723841,1398276
+a214e19a692082dc,sekhemadeshret_normal_dxt5.dds.header,Tiny.V7.1,1513682,1520
+8e826c4860404a8f,sekhemadeshret_colour.dds,Streaming/Content/metadata/terrain/doodads/itemracks/helmetmannequin_11.ao,24629,699212
+1f823d3e6c430e8d,sekhemadeshret_colour.dds.header,Tiny.V1.1,677778,1520
+3c796af83f1c383a,sekhemadeshret_weaponcns.mat,Tiny.V9.1,1318998,4882
+276aea07cf88ca45,sekhemadeshret_weaponns.dds,Streaming/Content/metadata/monsters/garukhan/garukhan.act,262496,174948
+e3054d280cec2eb1,sekhemadeshret_weaponns.dds.header,Tiny.V3.1,981049,840
+445f2d26b3729812,sekhemadeshret_weapon_specular_dxt5.dds,Streaming/Content/metadata/monsters/garukhan/garukhan.act,87548,174948
+72c486cc74ac5983,sekhemadeshret_weapon_specular_dxt5.dds.header,Tiny.V1.1,679298,840
+00292487a3417363,sekhemadeshret_weapon_colour.dds,Streaming/Content/metadata/monsters/garukhan/garukhan.act,0,87548
+64867bf9217a1883,sekhemadeshret_weapon_colour.dds.header,Tiny.VA.1,1191273,840

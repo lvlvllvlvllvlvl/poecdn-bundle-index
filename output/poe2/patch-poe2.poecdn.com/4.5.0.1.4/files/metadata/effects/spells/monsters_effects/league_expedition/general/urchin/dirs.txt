@@ -1,6 +1,0 @@
-audio
-mat
-mat/melee_attack_01
-mat/melee_launch_01
-mat/projectile
-pet

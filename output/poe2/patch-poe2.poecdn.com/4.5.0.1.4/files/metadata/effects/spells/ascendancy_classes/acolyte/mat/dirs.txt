@@ -1,6 +1,0 @@
-breach
-chaos
-general
-life
-mana
-void_clone

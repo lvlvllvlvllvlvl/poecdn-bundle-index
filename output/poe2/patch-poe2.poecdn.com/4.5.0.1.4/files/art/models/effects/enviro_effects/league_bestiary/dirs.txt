@@ -1,3 +1,0 @@
-tiger_boss
-tiger_boss/player_transition
-tiger_boss/player_transition_out

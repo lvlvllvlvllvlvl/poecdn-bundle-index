@@ -1,3 +1,0 @@
-attachments
-attachments/l_slab
-attachments/r_slab

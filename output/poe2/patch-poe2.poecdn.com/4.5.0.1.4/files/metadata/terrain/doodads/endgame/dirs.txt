@@ -1,8 +1,0 @@
-atlasexiles
-atlasexiles/eyrie
-cleansingfirearena
-forkingriver
-iceforest
-marshes
-maven
-primordialbosses

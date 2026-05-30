@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+3fe6da50a8554d1b,lineemitter_u.mat,Tiny.V0.1,6191636,344
+bc3ba71169dc07c5,ambient_dropbolt_r.mat,Tiny.V2.1,67473816,35460
+b5a422d2e0888596,ambient_lightning_connected_r.mat,Tiny.V3.1,66358507,36710
+1af29676976a92ad,ambient_lightning_connected_u.mat,Tiny.VD.1,5313278,346
+2f66fef6ae5d1f8c,grdsmoke_r.mat,Tiny.V3.1,66458979,18698
+a502ad56ee4cf723,grdsmoke_u.mat,Tiny.V8.1,67389958,14668
+c52dc2e9a25b9f6b,grdsmoke_u2.mat,Tiny.V2.1,67509276,16176
+8835c14f6666299c,bolt_main_r.mat,Tiny.VE.1,67139570,56440
+06c339c597f899a1,bolt_ribbon_grd_u.mat,Tiny.V8.1,67381392,8566
+5d04fcbc529e801c,dropbolt_r.mat,Tiny.VD.1,66120814,40376
+bb2ae36dedb9b824,dropbolt_u.mat,Tiny.VA.1,66033592,3504
+228b56f7b18c8456,cyl_smoke_u.mat,Tiny.V9.1,70066842,4256
+bb4c9c0d267238c3,cyl_smoke_r.mat,Tiny.V5.1,65587162,67532
+ec208c3fe88f5701,cyl_smoke_r2.mat,Tiny.VA.1,65966062,67530
+7667173edacbcc43,character_warp_pass0.mat,Tiny.VC.1,67967351,12932
+b97ba76a1ad3eb3f,character_warp_pass1.mat,Tiny.V3.1,66395217,63762

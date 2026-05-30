@@ -1,0 +1,5 @@
+chargeup
+impact
+rock_emerge
+rock_emerge_idle
+rock_idle

@@ -1,7 +1,0 @@
-flamebreath_01
-flamebreath_02
-impact_1
-impact_2
-onacts
-onacts/flamebreath_02
-onacts/land

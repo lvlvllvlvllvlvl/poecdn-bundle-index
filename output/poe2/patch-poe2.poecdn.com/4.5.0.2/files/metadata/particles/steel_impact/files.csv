@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+a9c9a141c69c8466,reload_effect.pet,Tiny.VB.1,195131491,8762
+cf16d3e82eac0f7f,main_trl.trl,Tiny.V1.1,193730686,4058
+5ba0823b1afc59bc,main_target_impact.pet,Tiny.V5.1,192903808,16390
+d2f783c67a3d9007,main_impact_extra.pet,Tiny.VB.1,195125547,5944
+70ae508756bd9a2c,main_impact_aoe.pet,Tiny.V1.1,193702654,28032
+34248f72dc6fdaee,main_projectile_fire.pet,Tiny.VC.1,199766533,17796
+24bbb2d62c6503eb,main_projectile_fx.pet,Tiny.VF.1,192497162,9880
+97ab9445e50fd7d9,secondary_impact_aoe.pet,Tiny.V9.1,196792176,11252
+d57be258f8bce5de,shards_trail.trl,Tiny.VD.1,195418965,4088
+955e301335f600ea,shrapnel_burst.pet,Tiny.VD.1,195423053,23530
+c70c5ec9561602dd,impact_wall.pet,Tiny.VF.1,192486298,10864
+dbf04866d665f9f7,impact_wall_secondary.pet,Tiny.V3.1,197053989,10944

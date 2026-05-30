@@ -1,8 +1,0 @@
-runesofaldur
-runesofaldur/banner
-runesofaldur/banner/attachments
-runesofaldur/banner/attachments/chains
-runesofaldur/flagpole
-runesofaldur/plinth
-runesofaldur/textures
-runesofaldur/tri

@@ -1,4 +1,0 @@
-attachments
-attachments/fabric
-attachments/robe
-textures

@@ -1,2 +1,0 @@
-attack_01_02
-attack_01_02/pet

@@ -1,5 +1,0 @@
-aos
-epks
-fx
-mats
-mats/player

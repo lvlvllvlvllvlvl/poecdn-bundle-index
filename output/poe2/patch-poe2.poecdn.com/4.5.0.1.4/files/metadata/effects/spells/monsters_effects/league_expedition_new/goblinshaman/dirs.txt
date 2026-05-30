@@ -1,7 +1,0 @@
-epk
-fx
-graph
-mat
-mat/explode
-mat/idle
-mat/start

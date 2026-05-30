@@ -1,8 +1,0 @@
-attachments
-attachments/hairtsyles
-attachments/hairtsyles/huntress
-attachments/hairtsyles/ranger
-attachments/outfits
-attachments/outfits/huntress
-attachments/outfits/huntress/attachments
-attachments/outfits/ranger

@@ -1,5 +1,0 @@
-attachments
-attachments/merchanthatribbons
-attachments/merchantvestfemale
-attachments/merchantvestmale
-textures

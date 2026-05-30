@@ -1,3 +1,0 @@
-lbracelet
-rbracelet
-rcuff

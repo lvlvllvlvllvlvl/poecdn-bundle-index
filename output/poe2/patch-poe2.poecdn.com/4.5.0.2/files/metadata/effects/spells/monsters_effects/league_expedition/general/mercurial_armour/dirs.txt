@@ -1,0 +1,16 @@
+ao
+epk
+graphs
+mat
+mat/alive
+mat/attack_01
+mat/cleave_proj_01
+mat/enraged
+mat/flameblast_explode
+mat/flameblast_marker
+mat/flameblast_onact
+mat/onact_attack01
+mat/projectile_enraged
+mat/shield_wall_walk_01
+pet
+pet/onact_attack01

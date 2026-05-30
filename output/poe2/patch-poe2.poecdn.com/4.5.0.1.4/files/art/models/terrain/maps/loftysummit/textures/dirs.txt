@@ -1,6 +1,0 @@
-architecture
-architecture/exterior
-architecture/interior
-doodads
-ground
-rocks

@@ -1,0 +1,6 @@
+fx
+fx/phys_fire_slam
+fx/phys_slam
+mat
+mat/phys_fire_slam
+mat/phys_slam

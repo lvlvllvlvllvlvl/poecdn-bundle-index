@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+f64fac990a864af7,chop_sparks_02_r.mat,Tiny.V6.1,104117305,34266
+83b757a9d31fad2d,chop_sparks_02_u.mat,Tiny.VE.1,103615112,8460
+478230f5fc0fe208,warp_cirlce_3d_r.mat,Tiny.V8.1,103345240,13228
+a5a552caaf9a2dac,warp_cirlce_3d_u.mat,Tiny.V8.1,103343392,1848
+ebc542473c47daab,blur_shockwave_sphere_r.mat,Tiny.V3.1,103526391,10500
+3c153d1a0c9ca599,blur_shockwave_sphere_u.mat,Tiny.V8.1,103343392,1848
+ee6731cbf92f3610,melee_swipe_edge.mat,Tiny.VF.1,100374596,16584
+ee210d55976b4047,melee_swipe_mblur.mat,Tiny.V0.1,102960476,19100
+c85ad94e86b31c18,melee_swipe_smudge.mat,Tiny.V1.1,102597024,20374

@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+1ce08d659a6c0b54,centre.mat,Tiny.V6,9836362,6818
+4750e1d399800312,energy_trl.mat,Tiny.VF,9809576,4450
+64710c6524444c6e,mid_trl.mat,Tiny.VD,9709280,5344
+b52bb056cc659830,distortion.mat,Tiny.VE,9726501,3770
+1581d42aab6aa402,dark_energyc.mat,Tiny.VD,9703412,5868
+197f9aae5b25b1e5,glow.mat,Tiny.VF,9814026,2344
+c95c25d17d09939c,glowc.mat,Tiny.VB,9819405,6568

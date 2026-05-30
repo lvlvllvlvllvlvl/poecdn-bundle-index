@@ -1,0 +1,4 @@
+arcane_idle
+arcane_impact
+arcane_impact/vaal
+arcane_pulse

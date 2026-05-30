@@ -1,5 +1,0 @@
-grd_shatter
-ground_blast
-slam_01
-slam_02
-spike_grd

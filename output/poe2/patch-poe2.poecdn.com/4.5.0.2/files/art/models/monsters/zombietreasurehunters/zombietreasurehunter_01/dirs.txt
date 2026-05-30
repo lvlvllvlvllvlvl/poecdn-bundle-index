@@ -1,0 +1,8 @@
+attachments
+attachments/coat
+attachments/plants
+attachments/plants/chest_rig
+attachments/plants/midback1_rig
+attachments/plants/sideback1_rig
+attachments/plants/sidefront1_rig
+attachments/plants/stomach_rig

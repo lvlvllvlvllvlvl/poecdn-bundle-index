@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+a205e11b93a015c5,vulnerability_ring_loop_u.mat,Tiny.V6.1,50766859,2286
+ff2e442ea54977ef,vulnerability_ring_u.mat,Tiny.VE.1,12548232,310
+3a8e24307dd131d7,vulnerability_inner_loop_u.mat,Tiny.V4.1,51655524,2286
+3d2b407b15a0f638,vulnerability_inner_u.mat,Tiny.VE.1,12548232,310
+3ba48face2a427c0,vulnerability_outer_loop_u.mat,Tiny.V6.1,50766859,2286
+355239dff4ba4c45,vulnerability_outer_u.mat,Tiny.VE.1,12548232,310
+c0e001831903a88f,vulnerability_shadows_r.mat,Tiny.V1.1,30924340,35790
+b82709a118f927f8,vulnerability_shadows_u.mat,Tiny.V7.1,30507076,3620
+8a097a201487f251,vulnerability_embers_u.mat,Tiny.V5.1,74512444,8472
+5718b298dbcc92fb,vulnerability_end_wisps_u.mat,Tiny.VE.1,12548232,310
+b1fecf31fcde06b2,enfeeble_outer_r.mat,Tiny.V5.1,52516502,43766
+66ef9e03c8c12475,enfeeble_ring_r.mat,Tiny.V8.1,53651468,57682
+199c620d3a1ceb02,enfeeble_inner_r.mat,Tiny.V7.1,48446486,57164
+0e00ffb2f3eb8f0b,enfeeble_inner_ground_r.mat,Tiny.V2.1,52708136,14870
+1e35ec4548c63b00,enfeeble_embers_r.mat,Tiny.V4.1,51624740,30784
+7beaba831d0e55ed,enfeeble_end_wisps_r.mat,Tiny.V3.1,51013613,49344

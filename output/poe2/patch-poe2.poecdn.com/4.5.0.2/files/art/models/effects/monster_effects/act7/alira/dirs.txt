@@ -1,0 +1,2 @@
+volatile_dead
+volatile_dead/fire_orb

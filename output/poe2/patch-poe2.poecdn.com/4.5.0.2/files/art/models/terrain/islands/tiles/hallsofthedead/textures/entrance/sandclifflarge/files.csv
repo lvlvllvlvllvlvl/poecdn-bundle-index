@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+d68a0b409d479804,hod_sandclifflarge_02c.mat,Tiny.V4,21379229,1222
+5662b1a501f02ee4,hod_sandclifflarge_02_normal.dds,Streaming/Content/data/balance/worldareas/1B/g4_4_1.vworld,1617188,5592580
+faa289dd186d598a,hod_sandclifflarge_02_normal.dds.header,Tiny.V0,21267626,1520
+c3c30bd2b87d8fd3,hod_sandclifflarge_02_colour.dds,Streaming/Content/data/balance/worldareas/40/g4_4_1.vworld,312437,2796364
+382936b2aa8012ca,hod_sandclifflarge_02_colour.dds.header,Tiny.V1,20974065,1520
+60c4756233a4d613,hod_sandclifflarge_01c.mat,Tiny.VF,21202960,1222
+57969cd809e1cbc8,hod_sandclifflarge_01_normal.dds,Streaming/Content/data/worldareas/6E/g4_4_2.vworld,0,5592580
+baa5245a159543fd,hod_sandclifflarge_01_normal.dds.header,Tiny.VA,21102537,1520
+72c583abadc1ba4d,hod_sandclifflarge_01_colour.dds,Streaming/Content/data/worldareas/04/g4_4_2.vworld,0,2796364
+038fa9fc7b8f5f5b,hod_sandclifflarge_01_colour.dds.header,Tiny.VB,20991053,1520
+18c89cc2bb2a5ea0,hod_sandclifflarge_08c.mat,Tiny.VF,21204182,5970
+fe2ea1638c5bcd1f,hod_sandclifflarge_08_normal.dds,Streaming/Content/data/balance/worldareas/17/g4_4_1.vworld,233100,5592580
+d8cadc80ce6656a9,hod_sandclifflarge_08_normal.dds.header,Tiny.V8,21172783,1520
+95c6b77884b344e4,hod_sandclifflarge_08_colour.dds,Streaming/Content/data/balance/worldareas/0B/g4_4_1.vworld,178093,2796364
+56f8261c22730af4,hod_sandclifflarge_08_colour.dds.header,Tiny.V8,21171263,1520

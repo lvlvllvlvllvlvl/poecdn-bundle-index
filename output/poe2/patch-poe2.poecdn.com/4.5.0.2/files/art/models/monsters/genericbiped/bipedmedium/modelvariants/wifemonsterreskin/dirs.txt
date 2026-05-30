@@ -1,0 +1,6 @@
+attachments
+attachments/chesttie
+attachments/earrings
+attachments/skirt
+attachments/topfur
+attachments/weapon

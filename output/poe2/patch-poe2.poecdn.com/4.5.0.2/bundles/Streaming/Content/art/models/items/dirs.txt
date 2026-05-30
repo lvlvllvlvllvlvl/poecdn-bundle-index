@@ -1,0 +1,12 @@
+apparitioneffects
+armours
+backattachments
+banners
+charms
+currency
+flasks
+offhand
+quests
+quivers
+rings
+weapons

@@ -1,0 +1,4 @@
+stalagmite_01
+stalagmite_02
+stalagmite_04
+stalagmite_06

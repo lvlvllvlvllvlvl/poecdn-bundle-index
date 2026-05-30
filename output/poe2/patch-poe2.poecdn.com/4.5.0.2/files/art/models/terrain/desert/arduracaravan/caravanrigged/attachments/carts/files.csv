@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+b9acfcb56a642fcf,middlecart.fmt,Streaming/Content/metadata/terrain/desert/arduracaravan/A5585FC89B84DAC8.92F14BB0BDE0B896.17x4caravan01_cartmiddle.ao,66970,8298010
+bb7a51b7e8f5c5a7,middlecart.fmt.header,Content/data/balance/worldareas/maparroyo.vworld,556684,6804
+3e7f0690055c327b,armourbackcart.fmt,Streaming/Content/metadata/terrain/doodads/desert/89BF647E7193221B.armour_backcart.ao,33528,2176510
+c6ef6554bbe08aab,armourbackcart.fmt.header,Content/metadata/terrain/doodads/desert/arduracaravanstatic/combinedcaravan.ao,336357,4493
+455b0025fcad9313,armourfrontcart.fmt,Streaming/Content/metadata/terrain/desert/arduracaravan/A5585FC89B84DAC8.92F14BB0BDE0B896.9x3caravan_cartfront.ao,38430,2994884
+4d684b6d17eec9d4,armourfrontcart.fmt.header,Tiny.V9,14398495,3941
+7f69d3e89dbec30b,waypointbackcart.fmt,Streaming/Content/metadata/terrain/desert/arduracaravan/A5585FC89B84DAC8.92F14BB0BDE0B896.6x3caravan_livingquarters01.ao,113954,349142
+d24a6ff2fd86acef,waypointbackcart.fmt.header,Tiny.VE,14055508,878
+4ddaf6d692e8b9a4,waypointfrontcart.fmt,Streaming/Content/metadata/terrain/doodads/desert/89BF647E7193221B.combinedcaravan.ao,50166,1642920
+beec7ec5f5ea81aa,waypointfrontcart.fmt.header,Tiny.V0,14288495,3324
+316383f0b962d5fc,reararmouredcart.fmt,Streaming/Content/metadata/terrain/desert/arduracaravan/A5585FC89B84DAC8.92F14BB0BDE0B896.7x4caravan_rearcart.ao,294826,6276898
+121c44e9533aa4dc,reararmouredcart.fmt.header,Tiny.V9,14402436,2347
+989cc12d64feb455,livingquarterscart01.fmt,Streaming/Content/data/worldareas/93/c_g2_town.vworld,0,734874
+ff2cf5c01357e1ca,livingquarterscart01.fmt.header,Tiny.V1,14207144,3096
+2054461b441fe7fd,livingquarterscart02.fmt,Streaming/Content/metadata/terrain/doodads/desert/89BF647E7193221B.staticlivingquarterscart02.ao,35328,850416
+c3152bb3e895f046,livingquarterscart02.fmt.header,Tiny.VD,14012783,2915

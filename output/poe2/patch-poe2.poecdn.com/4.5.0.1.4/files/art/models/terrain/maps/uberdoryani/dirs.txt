@@ -1,5 +1,0 @@
-textures
-textures/bossarenatextures
-textures/bossarenatextures/water
-textures/water
-tgms

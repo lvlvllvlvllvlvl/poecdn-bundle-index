@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+08bf56b17dbd87fc,greatsword_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/steel_impact/main_proj_stuck.ao,726741,349732
+e5c03498113c54d4,greatsword_normal_dxt5.dds.header,Tiny.V6,41592374,504
+f931a33c16289515,greatsword_colourspecular_dxt5.dds,Streaming/Content/metadata/effects/spells/steel_impact/main_proj_stuck.ao,27505,699236
+19c3e2e7c19e0d77,greatsword_colourspecular_dxt5.dds.header,Tiny.V5,41036583,840
+c9d95b5d540b19ac,bastardsword_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/0BE98E66E26964FE.0CE014A5794BAB87.mageguard_beam.ao,290242,87588
+5c95f94caf4f82d8,bastardsword_normal_dxt5.dds.header,Tiny.VA,41582155,504
+8b49e8398044f0b5,bastardsword_colourspecular_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/0BE98E66E26964FE.0CE014A5794BAB87.mageguard_beam.ao,115294,174948
+6358da56c5514857,bastardsword_colourspecular_dxt5.dds.header,Tiny.VF,41387461,840
+d9d8ddea0afca62a,falcata_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/lancingsteeltemple/BF6A46E2047265B8.shardproj015.ao.1,0,349732
+51ed39242079a93c,falcata_normal_dxt5.dds.header,Tiny.VB,41707826,504
+4cdcc329cbfe261d,falcata_colour_dxt5.dds,Streaming/Content/metadata/effects/spells/lancingsteeltemple/BF6A46E2047265B8.shardproj015.ao,2127511,349732
+3e245a0e710c4c18,falcata_colour_dxt5.dds.header,Tiny.V1,41414327,504
+bcf020ec3f9b8ff3,sword_01c.mat,Tiny.VD,41690062,2570
+1f217bd2f1879b75,sword_03c.mat,Tiny.VF,41388301,2546
+4d1847fc63c54c75,sword_02c.mat,Tiny.V6,41592878,2522

@@ -1,3 +1,0 @@
-cast
-charge_up
-shockwave

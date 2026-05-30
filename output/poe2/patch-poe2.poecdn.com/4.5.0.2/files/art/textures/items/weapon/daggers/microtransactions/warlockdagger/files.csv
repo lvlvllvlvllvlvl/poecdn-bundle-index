@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+5b1ccd43db89979e,warlockarmourset_daggerns.dds,Streaming/Content/art/models/items/weapons/F93073E27398A565.FE41DBB592A39DD8.warlockdagger.fmt,17903,174948
+772528aca1b9e292,warlockarmourset_daggerns.dds.header,Tiny.V5.1,448910,840
+15d57d7e6ce5e443,warlockarmourset_dagger_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/itemracks/antlertable_02.ao,206629,174948
+d5ecd5779402be8b,warlockarmourset_dagger_normal_dxt5.dds.header,Tiny.VB.1,593032,840
+7bf5afbfa435a196,warlockarmourset_dagger_colour.dds,Streaming/Content/metadata/terrain/doodads/itemracks/antlertable_02.ao,119081,87548
+f95801ea2cae9771,warlockarmourset_dagger_colour.dds.header,Tiny.VC.1,962202,840
+5e957c64e114a1b4,warlockarmourset_daggercns.mat,Tiny.V0.1,930296,2798
+7d2e9b92d3b71a3b,warlockarmourset_daggerc.mat,Tiny.VE.1,521064,2322

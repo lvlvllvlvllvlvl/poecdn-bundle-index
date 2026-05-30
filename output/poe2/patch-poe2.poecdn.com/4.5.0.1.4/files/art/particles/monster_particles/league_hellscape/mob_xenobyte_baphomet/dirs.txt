@@ -1,3 +1,0 @@
-mbs
-mbs/onacts
-mbs/onacts/attack01

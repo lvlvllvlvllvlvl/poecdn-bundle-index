@@ -1,0 +1,3 @@
+stampingdevicetablet
+stampingdevicetablet/textures
+textures

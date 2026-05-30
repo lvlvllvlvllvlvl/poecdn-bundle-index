@@ -1,8 +1,0 @@
-epks
-pets
-pets/axemace
-pets/bow
-pets/dwc
-pets/shield
-pets/staff
-pets/sword

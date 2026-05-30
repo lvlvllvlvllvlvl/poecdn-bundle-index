@@ -1,4 +1,0 @@
-genericbloodsplat
-vaal
-vaal/bloodslam
-vaal/projectile

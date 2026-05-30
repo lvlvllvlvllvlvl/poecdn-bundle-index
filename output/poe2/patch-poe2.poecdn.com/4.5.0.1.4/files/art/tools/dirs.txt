@@ -1,8 +1,0 @@
-vfxlib
-vfxlib/ivan
-vfxlib/ivan/flapping_wings
-vfxlib/ivan/flapping_wings/textures
-vfxlib/javier
-vfxlib/javier/others
-vfxlib/javier/others/size_boxes
-vfxlib/javier/vfxlib

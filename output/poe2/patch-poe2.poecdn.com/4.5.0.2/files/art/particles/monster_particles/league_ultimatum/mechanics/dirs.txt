@@ -1,0 +1,13 @@
+models
+models/buffing_totems
+models/fire_spitter
+models/ice_parasite
+models/koh_altar
+models/lights
+models/proximity_bubble
+models/reward_altars
+models/ruin
+models/rune_trap
+models/vaal_graveyard
+models/vaal_sawblade
+textures

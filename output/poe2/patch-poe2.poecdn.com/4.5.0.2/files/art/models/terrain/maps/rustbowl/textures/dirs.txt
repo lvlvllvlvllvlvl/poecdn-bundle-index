@@ -1,0 +1,3 @@
+edges
+slope
+stalagmites

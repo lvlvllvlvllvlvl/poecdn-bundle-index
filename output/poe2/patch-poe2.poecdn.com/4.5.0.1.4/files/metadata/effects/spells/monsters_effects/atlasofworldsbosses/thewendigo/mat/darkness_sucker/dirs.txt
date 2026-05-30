@@ -1,6 +1,0 @@
-beam
-blast
-blast/sustain
-burst
-end
-end_beam

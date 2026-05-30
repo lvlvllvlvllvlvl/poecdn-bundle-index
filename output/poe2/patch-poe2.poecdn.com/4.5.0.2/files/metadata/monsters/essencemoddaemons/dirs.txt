@@ -1,0 +1,16 @@
+essencemodattack1
+essencemodattribute1
+essencemodcaster1
+essencemodchaos1
+essencemodcold1
+essencemoddefense1
+essencemoddelirium
+essencemodfire1
+essencemodhorror
+essencemodhorror/reaperboss
+essencemodhysteria
+essencemodinsanity
+essencemodlife1
+essencemodmana1
+essencemodphysical1
+essencemodspeed1

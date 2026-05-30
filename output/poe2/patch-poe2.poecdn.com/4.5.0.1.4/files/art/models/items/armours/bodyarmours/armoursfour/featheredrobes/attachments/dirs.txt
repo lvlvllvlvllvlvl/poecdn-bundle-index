@@ -1,8 +1,0 @@
-f
-f/robe
-f/robe/attachments
-f/shawl
-m
-m/robe
-m/robe/attachments
-m/shawl

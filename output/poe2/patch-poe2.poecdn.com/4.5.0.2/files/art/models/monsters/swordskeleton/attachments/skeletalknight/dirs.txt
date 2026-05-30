@@ -1,0 +1,7 @@
+beltaccessories
+halberd
+lshoulderpads
+rshoulderpads
+shield
+skirt
+thighguards

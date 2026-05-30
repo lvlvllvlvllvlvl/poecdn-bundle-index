@@ -1,3 +1,0 @@
-camp
-camp/objects
-camp/objects/attachments

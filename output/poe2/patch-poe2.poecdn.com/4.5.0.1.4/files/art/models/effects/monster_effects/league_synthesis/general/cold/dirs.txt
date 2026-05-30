@@ -1,5 +1,0 @@
-cold_icespear_pierce
-cold_icespear_proj
-cold_soulrend
-cold_soulrend_beam
-cold_soulrend_buff

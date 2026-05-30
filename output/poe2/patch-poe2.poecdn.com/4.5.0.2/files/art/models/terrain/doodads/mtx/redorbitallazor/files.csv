@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+1dee49c89c466069,fat_rig_cffc6697.smd,Streaming/Content/metadata/terrain/doodads/mtx/orbitallazorbig2.ao,0,109136
+51e56090e55ed754,fat_rig_cffc6697.smd.header,Tiny.VB,17013783,555
+d96fa52f92254475,fathideoutorbitallazor.sm,Tiny.V1,16892082,1892
+87837bfe43d58249,fathideoutorbitallazor.amd,Tiny.VF,17126229,90
+e7af6fcb586d64b6,fathideoutorbitallazor.ast,Tiny.VB,17014338,1040
+42a9c68bf8c5b147,med_rig_f077a173.smd,Streaming/Content/metadata/terrain/doodads/mtx/orbitallazormedium.ao,0,109136
+b298f153c62ede25,med_rig_f077a173.smd.header,Tiny.V2,17267315,555
+14fd3bc290e5bae4,mediumhideoutorbitallazor.sm,Tiny.V8,17017821,1792
+5be21760637ab0a4,mediumhideoutorbitallazor.amd,Tiny.VF,17126229,90
+ea9639a6fa1a0f75,mediumhideoutorbitallazor.ast,Tiny.VE,16883661,1040
+5b17944e6a989134,small_rig_03a4b49b.smd,Streaming/Content/metadata/terrain/doodads/mtx/orbitallazorsmall.ao,0,109136
+3fd29df887daad7a,small_rig_03a4b49b.smd.header,Tiny.V2,17267315,555
+09f78f9247d6c7f6,smallhideoutorbitallazor.sm,Tiny.V7,16979001,1916
+63e0c336e92bbadd,smallhideoutorbitallazor.amd,Tiny.VF,17126229,90
+a7e177677a9d2cf7,smallhideoutorbitallazor.ast,Tiny.VC,16977265,1040

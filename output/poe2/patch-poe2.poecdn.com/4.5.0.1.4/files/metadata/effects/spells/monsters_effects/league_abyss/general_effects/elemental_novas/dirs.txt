@@ -1,3 +1,0 @@
-mat
-mat/aoe_cold
-mat/aoe_lightning

@@ -1,3 +1,0 @@
-attachments
-attachments/sigils
-attachments/sigils/light_attachment

@@ -1,5 +1,0 @@
-bonustome
-gallary
-library
-textures
-textures/carpets

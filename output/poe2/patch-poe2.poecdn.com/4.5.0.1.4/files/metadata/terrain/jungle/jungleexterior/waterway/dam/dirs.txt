@@ -1,3 +1,0 @@
-vfx
-vfx/pet
-vfx/pet/idle

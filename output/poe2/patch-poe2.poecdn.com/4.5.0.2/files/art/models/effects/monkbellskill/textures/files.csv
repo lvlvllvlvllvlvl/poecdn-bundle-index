@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+465885d32882cbc1,airsmallbellc.mat,Tiny.V6,7359384,4252
+5bc0fa2e1d1a3494,airsmallbell_normal.dds,Streaming/Content/art/models/effects/monkbellskill/monkskillsmallbell.fmt,2097488,1398276
+e19c09ddf1967336,airsmallbell_normal.dds.header,Tiny.V3,7311695,1520
+ff99f6fc1a0306f8,airsmallbell_metal.dds,Streaming/Content/art/models/effects/monkbellskill/monkskillsmallbell.fmt,699212,1398276
+564b7db32effbf74,airsmallbell_metal.dds.header,Tiny.V5,7315994,1520
+11e49bd031c50b9d,airsmallbell_colour.dds,Streaming/Content/art/models/effects/monkbellskill/monkskillsmallbell.fmt,0,699212
+ce1abaa7a58cc4be,airsmallbell_colour.dds.header,Tiny.V3,7310175,1520
+764e4e51d4bf639e,airlargebellc.mat,Tiny.VA,7464937,3206
+cfb3ea739e663ddd,airlargebellmask01_colour.dds,Streaming/Content/metadata/effects/spells/monk_bell/D9C7C7673D6E4B8D.bell_old.ao,0,5592580
+47629bc93c769a31,airlargebellmask01_colour.dds.header,Tiny.VF,7368085,1520
+be09b4666ff5a83d,airlargebell_normal.dds,Streaming/Content/metadata/effects/spells/monk_bell/ABBF7EAF2F043B75.bell_lightning_01.epk.2,0,5592580
+be809d15f8b97e30,airlargebell_normal.dds.header,Tiny.V2,7597312,1520
+49b4caf38bb2cf9b,airlargebell_metal.dds,Streaming/Content/metadata/effects/spells/monk_bell/ABBF7EAF2F043B75.bell_lightning_01.epk.1,0,5592580
+7596d951442de9ea,airlargebell_metal.dds.header,Tiny.V1,7221386,1520
+61bc78b81b6884b5,airlargebell_colour.dds,Streaming/Content/metadata/effects/spells/monk_bell/ABBF7EAF2F043B75.bell_lightning_01.epk,0,2796364
+04c2b592cbf6ee2c,airlargebell_colour.dds.header,Tiny.VF,7366565,1520

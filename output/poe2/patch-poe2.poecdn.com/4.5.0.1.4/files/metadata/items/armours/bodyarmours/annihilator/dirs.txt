@@ -1,5 +1,0 @@
-attachments
-attachments/orbs
-attachments/skirt
-attachments/skirt/female
-attachments/skirt/male

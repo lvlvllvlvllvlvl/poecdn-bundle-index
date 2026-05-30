@@ -1,0 +1,12 @@
+mb
+mb/candle_mortar
+mb/candle_mortar_impact
+mb/flame_breath
+mb/footsteps
+mb/leap_slam_circular
+mb/leap_slam_rectangular
+textures
+textures/candle_flareup
+textures/fire_infused_sword
+textures/flame_breath
+textures/leap_slam_circular

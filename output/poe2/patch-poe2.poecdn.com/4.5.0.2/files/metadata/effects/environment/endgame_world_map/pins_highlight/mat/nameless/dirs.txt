@@ -1,0 +1,3 @@
+circle_big
+circle_mid
+circle_small

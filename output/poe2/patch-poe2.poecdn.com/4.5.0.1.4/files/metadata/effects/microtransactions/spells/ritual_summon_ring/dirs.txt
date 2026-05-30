@@ -1,9 +1,0 @@
-default
-divine
-fx
-fx/divine
-fx/necrotic
-fx/stygian
-graph
-necrotic
-stygian

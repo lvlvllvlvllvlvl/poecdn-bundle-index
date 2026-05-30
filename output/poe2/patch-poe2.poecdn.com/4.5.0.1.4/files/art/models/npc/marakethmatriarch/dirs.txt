@@ -1,6 +1,0 @@
-animations
-attachments
-attachments/hair
-attachments/skirt
-attachments/weapon
-textures

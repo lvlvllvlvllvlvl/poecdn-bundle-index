@@ -1,0 +1,3 @@
+attached
+fx
+textures

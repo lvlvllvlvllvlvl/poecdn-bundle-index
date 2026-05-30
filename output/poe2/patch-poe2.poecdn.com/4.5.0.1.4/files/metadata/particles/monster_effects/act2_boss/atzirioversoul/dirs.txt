@@ -1,3 +1,0 @@
-laser
-summon_monsters
-teleport

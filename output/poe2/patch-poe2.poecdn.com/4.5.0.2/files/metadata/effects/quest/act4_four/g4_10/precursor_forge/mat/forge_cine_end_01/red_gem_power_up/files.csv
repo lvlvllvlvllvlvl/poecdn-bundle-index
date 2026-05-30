@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+300825c46f914bf7,red_glow_r.mat,Tiny.V2.1,68373972,28464
+76eadd0213c1dc9d,red_glow_u.mat,Tiny.VD.1,5313278,346
+d10f06908d767c0e,ball_coreglow_01_r1.mat,Tiny.VD.1,66861402,40008
+1fb8e32ddd14aca9,ball_coreglow_01_u.mat,Tiny.VF.1,65066058,2172
+429e346388522eeb,vibrate_mblur_sphere_r.mat,Tiny.VD.1,66901410,9984
+5dad28da5e144c6f,vibrate_mblur_sphere_u.mat,Tiny.VD.1,66911394,4034
+8739aca6d1dbd29c,precursor_vibes_r.mat,Tiny.VF.1,65068230,40790
+f40184f6725d685a,precursor_vibes_u.mat,Tiny.V3.1,67558783,5796

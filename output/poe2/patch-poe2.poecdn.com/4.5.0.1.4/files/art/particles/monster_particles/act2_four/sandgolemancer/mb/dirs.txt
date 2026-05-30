@@ -1,3 +1,0 @@
-aura
-onact_spellcast_01
-spectral_throw

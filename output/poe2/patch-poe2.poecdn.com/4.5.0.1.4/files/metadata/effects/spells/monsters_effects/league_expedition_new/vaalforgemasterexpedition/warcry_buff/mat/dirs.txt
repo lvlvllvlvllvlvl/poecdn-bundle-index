@@ -1,3 +1,0 @@
-buff_ondeath_explosion_01
-warcry_aoe_01
-warcry_buff

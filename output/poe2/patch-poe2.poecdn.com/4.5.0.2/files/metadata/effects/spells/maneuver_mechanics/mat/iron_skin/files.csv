@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+2ae36dd9af0abceb,caustic_sphere_r.mat,Tiny.V7.1,75232524,12114
+cec0efbee3c368bc,caustic_sphere_u.mat,Tiny.V1.1,76020208,1320
+891f43a9d6a9c43d,windpushwave_u.mat,Tiny.V5.1,76669514,3146
+25a6371dfc42d567,windpushwave_r.mat,Tiny.VF.1,74615834,34182
+37b53d1b86a8d2c3,windpushwave_r2.mat,Tiny.V2.1,78607832,29796
+e10753a8444480c1,stunoomph_r.mat,Tiny.V9.1,80156730,41012
+ad7fa3c5fbf891d1,stunoomph_u.mat,Tiny.V8.1,78600294,3146
+eb7c27d0dc3e900a,impactaoeringshimmer_r.mat,Tiny.V9.1,80132570,24160
+136d1d2c0abe8f5b,impactaoering_r.mat,Tiny.VD.1,76320344,39550
+3a5339e4ae7b9cc5,impactaoering_u.mat,Tiny.VB.1,77488563,3142
+d858fa8c7a90bbcc,bluroomphscreen_r.mat,Tiny.VD.1,76310582,9762
+0beaeefdf2f14551,bluroomphscreen_u.mat,Tiny.VB.1,77485413,3150
+827fb7cfdcf19f85,energy_sparkles_r.mat,Tiny.V9.1,80073566,27968
+0b2842f64a5719ed,energy_sparkles_u.mat,Tiny.V9.1,80101534,31036

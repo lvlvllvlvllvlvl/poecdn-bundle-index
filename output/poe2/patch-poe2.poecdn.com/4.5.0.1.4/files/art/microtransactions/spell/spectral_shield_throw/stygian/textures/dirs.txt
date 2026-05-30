@@ -1,5 +1,0 @@
-effects
-effects/release
-effects/secondary
-effects/shieldthrow
-effects/shieldthrow/impact

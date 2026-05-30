@@ -1,0 +1,2 @@
+idle_on
+meteor_falldown

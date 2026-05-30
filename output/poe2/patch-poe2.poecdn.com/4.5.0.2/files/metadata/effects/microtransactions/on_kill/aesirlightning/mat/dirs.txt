@@ -1,0 +1,5 @@
+disintegrate
+lightning_ground
+lightning_hit
+lightning_spear
+lightning_strike

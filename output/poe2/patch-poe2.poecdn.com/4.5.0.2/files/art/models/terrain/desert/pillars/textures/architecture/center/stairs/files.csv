@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+56a4aef4ed7f755a,mnp_spirestairs01c.mat,Tiny.V4,16090292,2634
+0d3a0f16d8b38b92,mnp_spirestairs01_colour.dds,Streaming/Content/data/worldareas/5C/c_g2_9_1.vworld,0,2796364
+7c1ecc718909c5db,mnp_spirestairs01_colour.dds.header,Tiny.VE,15646962,1520
+2f065bda6efc0d9c,mnp_spirestairs01_normal.dds,Streaming/Content/data/worldareas/AB/c_g2_9_1.vworld,5592728,5592580
+acc8964d67ca4c12,mnp_spirestairs01_normal.dds.header,Tiny.VA,15793311,1520
+4cf042fee8154737,mnp_stairs01c.mat,Tiny.V5,15566671,2614
+59d74f040f1270de,mnp_stairs01_colour.dds,Streaming/Content/data/worldareas/76/c_g2_9_1.vworld,0,2796364
+365a556993e0285d,mnp_stairs01_colour.dds.header,Tiny.VE,15648482,1520
+0059a2d4e8130ff0,mnp_stairs01_normal.dds,Streaming/Content/data/worldareas/2B/c_g2_9_1.vworld,0,5592580
+90c2c448f66ee3de,mnp_stairs01_normal.dds.header,Tiny.VB,15782038,1520

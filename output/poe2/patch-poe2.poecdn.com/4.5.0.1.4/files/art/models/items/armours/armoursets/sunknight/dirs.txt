@@ -1,4 +1,0 @@
-attachments
-attachments/cape
-attachments/skirt
-textures

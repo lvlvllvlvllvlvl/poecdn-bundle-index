@@ -1,0 +1,2 @@
+onact
+onact/spin_detonate

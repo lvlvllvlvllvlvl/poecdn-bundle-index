@@ -1,0 +1,9 @@
+dissectiontable
+doryanisresearchshelf
+doryanisresearchtable
+doryanistestsubject
+experimentpot
+experimentstool
+slicerwall
+surgicaldevices
+surgicallights

@@ -1,6 +1,0 @@
-female
-female/robe
-female/shoulderpad
-male
-male/robe
-male/shoulderpad

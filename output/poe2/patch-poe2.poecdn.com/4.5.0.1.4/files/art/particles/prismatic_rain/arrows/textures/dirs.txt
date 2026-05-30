@@ -1,4 +1,0 @@
-cold
-fire
-lightning
-lightning/arrow

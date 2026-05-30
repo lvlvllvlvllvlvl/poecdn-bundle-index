@@ -1,0 +1,4 @@
+cultist
+mercenary
+pyromaniac
+templar

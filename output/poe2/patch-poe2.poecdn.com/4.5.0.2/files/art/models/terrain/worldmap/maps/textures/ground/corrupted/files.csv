@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+30f27d026d369d0b,egm_corruptionveins01_normal.dds,Streaming/Content/data/worldareas/tn_worldmap.vworld.1,1747976,1398276
+a40eb78c58fcd445,egm_corruptionveins01_normal.dds.header,Tiny.VE,33692723,1520
+853308890d4754f2,egm_corruptionveins01_colour.dds,Streaming/Content/data/worldareas/tn_worldmap.vworld.1,349700,1398276
+cc0bec364ef8e896,egm_corruptionveins01_colour.dds.header,Tiny.V8,33795860,1520
+076fc4a09876c1b8,egm_minorcorruption02_colour.dds,Streaming/Content/data/worldareas/tn_worldmap.vworld.1,4544528,1398276
+1489e57d4b3a3ab2,egm_minorcorruption02_colour.dds.header,Tiny.V3,33563129,1520
+e52909c78ea16306,egm_minorcorruption01_colour.dds,Streaming/Content/data/worldareas/tn_worldmap.vworld.1,3146252,1398276
+3687b58890408bc2,egm_minorcorruption01_colour.dds.header,Tiny.V4,34352680,1520
+d6ddbf697e7eb8e2,g_egm_corruptionswamp01.mat,Tiny.VF,34205594,3416
+26591c598ed945a1,g_egm_corruptionswampminor01.mat,Tiny.V1,33980708,2974
+4dbf6f0b6da02a5e,g_egm_corruptionsand01.mat,Tiny.VD,34153716,3140
+95291b04027b83ea,g_egm_corruptionsandminor01.mat,Tiny.V8,33797380,2806
+d7f642e12a75615b,g_egm_corruptionforest01.mat,Tiny.V9,34417650,3312
+ceeda4c3720400a8,g_egm_corruptionforestminor01.mat,Tiny.V3,33564649,2978
+85cf7d2223399325,g_egm_corruptiongrass01.mat,Tiny.V2,34074759,3308
+1acc6c24125d694b,g_egm_corruptiongrassminor01.mat,Tiny.VC,34404042,2810

@@ -1,3 +1,0 @@
-hand_buff
-slam_impact
-slam_impact_2

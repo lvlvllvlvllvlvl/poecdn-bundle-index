@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+e68ab7c34ff041a5,point_offset_u.mat,Tiny.V3.1,79265819,1288
+533d5bac78446533,core_glow_r.mat,Tiny.VC.1,80434133,24870
+85fde7d23da5c9e3,core_glow_u.mat,Tiny.VE.1,12548232,310
+f9e4c67677613065,grd_marker_r.mat,Tiny.V0.1,79116892,53330
+36b3b9f57556ef66,grd_marker_u.mat,Tiny.VE.1,12548232,310
+a27b3c3051b1e6a6,shimmerwave_r.mat,Tiny.V2.1,80644080,19000
+874dbd90234228a7,shimmerwave_u.mat,Tiny.VE.1,12548232,310
+5e851662be97bc68,marker_loop_r.mat,Tiny.V7.1,77270170,31316
+ac3756709be5bfa5,marker_init_u.mat,Tiny.V0.1,13020412,302
+a636b88a7f58be19,dirt_flares_r1.mat,Tiny.V0.1,79056124,60768
+a980f823af95fd1b,dirt_r.mat,Tiny.VC.1,80459003,30572
+bb55b54eba9bcfa6,dirt_u.mat,Tiny.V8.1,80408312,11928
+b061af396bf527da,bluroomph_r.mat,Tiny.V6.1,79299941,10542
+577076e399ee6026,bluroomph_u.mat,Tiny.V0.1,13020412,302

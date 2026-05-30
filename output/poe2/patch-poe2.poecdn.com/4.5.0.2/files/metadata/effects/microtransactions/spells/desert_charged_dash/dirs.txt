@@ -1,0 +1,5 @@
+desert_aoe
+desert_channelling
+desert_charge_end
+desert_shadows
+desert_weapon

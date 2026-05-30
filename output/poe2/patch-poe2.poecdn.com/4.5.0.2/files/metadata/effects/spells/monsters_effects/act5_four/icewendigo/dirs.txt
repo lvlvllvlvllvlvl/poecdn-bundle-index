@@ -1,0 +1,5 @@
+fx
+fx/cold_super_nova_projectile
+fx/cold_super_nova_projectile/end
+fx/cold_super_nova_projectile/once
+fx/icebreath

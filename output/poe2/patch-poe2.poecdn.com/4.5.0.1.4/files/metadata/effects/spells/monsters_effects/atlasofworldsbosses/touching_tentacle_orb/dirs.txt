@@ -1,6 +1,0 @@
-epks
-pets
-pets/blob_explosion
-pets/debuff_lightning_buff_speed
-pets/debuff_lightning_buff_speed/orb_charges
-pets/sml_portal

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+7e80640977e40758,bulbs.mat,Tiny.VA,3539729,1784
+619457eed9915e4c,bulbs_bc7.dds,Streaming/Content/metadata/effects/microtransactions/aura/F2A0C58A909A6056.CAE58C92B230AD8B.ground_top_point.pet.1,442892,5636
+9ba69375bbbe1a1c,bulbs_bc7.dds.header,Tiny.V0,38153613,1520
+e1d20a050762856d,bulbs_dxt1.dds,Tiny.VA,3541513,2892
+810f7bedc91fb06e,bulbs_dxt1.dds.header,Tiny.V1,3497944,1520
+a2f65c7c45db1801,bulb_ufo.mat,Tiny.VC,3403264,1920
+afe3159f36de5625,bulb_ufo_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/aura/20A633A794186EFB.harlequin_aura.epk,0,5636
+ef392d563c221517,bulb_ufo_dxt5.dds.header,Tiny.V0,38153613,1520
+04957b4b220535cf,grad.mat,Tiny.VB,3539861,1898
+00719e42af7c53d0,grad_spot.mat,Tiny.V2,3638478,2464
+9b1ca5f0c8435b79,grad_spot_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/aura/20A633A794186EFB.harlequin_aura.epk,5636,11084
+d244a1faf5b06c21,grad_spot_dxt1.dds.header,Tiny.V7,3484663,1520
+b1726c77a1aabfb8,grad_dxt1.dds,Tiny.V6,3482068,2892
+8f3c73e3a0ff6be9,grad_dxt1.dds.header,Tiny.VD,3561773,1520
+84c8441697067b79,grad_blk_dxt1.dds,Tiny.VC,7201600,2892
+98fa01f2eef762ed,grad_blk_dxt1.dds.header,Tiny.V3,7153015,1520

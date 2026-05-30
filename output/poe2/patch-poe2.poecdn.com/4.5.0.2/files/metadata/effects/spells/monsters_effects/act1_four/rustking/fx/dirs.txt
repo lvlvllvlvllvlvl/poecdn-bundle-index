@@ -1,0 +1,7 @@
+basicattack
+cascade
+combo
+death
+emerge
+hurricane
+swordrain

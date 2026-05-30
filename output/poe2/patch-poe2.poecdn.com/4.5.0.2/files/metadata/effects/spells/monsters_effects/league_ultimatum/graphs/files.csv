@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+2d68ced7156acf4b,color_timeline_emissivemulti_texturing.fxgraph,Tiny.VD.1,161009720,3970
+8c9004021b518db8,lightray_fadein.fxgraph,Content/metadata/monsters/drownedcrew/attachments/drownedcrew04weapon.ao,148139,6838
+50539b1eed5f6a7b,rune_fadein.fxgraph,Content/metadata/monsters/drownedcrew/attachments/drownedcrew04weapon.ao,154977,12528
+df48fd517a5f6d81,alpha_timeline_mask_texturing_crack.fxgraph,Content/metadata/monsters/drownedcrew/attachments/drownedcrew04weapon.ao,142299,5840
+8abe556dbb7e66bb,alpha_timeline_mask_texturing.fxgraph,Content/metadata/monsters/drownedcrew/attachments/drownedcrew04weapon.ao,136469,5830
+c2222559119d0f2b,bloodopaque.fxgraph,Content/metadata/effects/microtransactions/bodyarmours/wings/16573569366537D2.intgibshipsheld.ao,427794,41638
+d97693fc83df5043,bloodreveal_radial_particle.fxgraph,Content/metadata/effects/microtransactions/gloves/archnemesishightemplarhands/ABBF7EAF2F043B75.tier_corruption.epk,310412,39234
+2d20e4f570ed2914,bloodreveal_direction_particle.fxgraph,Content/metadata/effects/spells/monsters_effects/league_ultimatum/EBAF1B1A694F57C5.katar_crk_circle_ruin.pet,683511,51372

@@ -1,6 +1,0 @@
-blood_hunt
-gem_blast_combo_01
-nova_proj
-skyfall_impact
-slip_attack
-spear_proj

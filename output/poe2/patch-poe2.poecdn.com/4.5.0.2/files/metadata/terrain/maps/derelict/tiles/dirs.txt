@@ -1,0 +1,5 @@
+courtyard
+exteriorwall
+gardenedge
+nowindows
+thinwall

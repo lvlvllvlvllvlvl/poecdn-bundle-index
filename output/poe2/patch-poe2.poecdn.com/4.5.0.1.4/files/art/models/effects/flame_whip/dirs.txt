@@ -1,3 +1,0 @@
-ground_impact
-ground_impact/mb
-ground_impact/texture

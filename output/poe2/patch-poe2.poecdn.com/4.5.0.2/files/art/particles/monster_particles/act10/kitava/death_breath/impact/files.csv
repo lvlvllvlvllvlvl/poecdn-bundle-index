@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+f67358e5fe3d3509,boom.mat,Tiny.VB,36149901,1954
+985906e421c8002d,boom.dds,Streaming/Content/metadata/particles/monster_effects/act10/C9D93E1BD3D84362.mortar_wisp.trl,44040,87556
+292f358dc090902a,boom.dds.header,Tiny.V3,40360914,1520
+47be8a4552266228,pulse_at.dds,Streaming/Content/metadata/particles/monster_effects/act10/C9D93E1BD3D84362.mortar_wisp.trl,481296,349700
+7d7538165ea0cac7,pulse_at.dds.header,Tiny.V8,35573646,1520
+49026fbd6f0d2da0,pulse_add.mat,Tiny.V1,35961556,4126
+790446258c8fb811,pulse_add.dds,Streaming/Content/metadata/particles/monster_effects/act10/C9D93E1BD3D84362.mortar_wisp.trl,131596,349700
+ff83a504bf4aabce,pulse_add.dds.header,Tiny.V9,36454052,1520
+c50071229fc7c850,projectile_at.dds,Streaming/Content/metadata/particles/monster_effects/act10/A850DF728DA22F91.CB1FED6AF2F08094.explode_circle.pet,657584,87556
+630edb2f2e56cd7a,projectile_at.dds.header,Tiny.V3,35474506,1520
+2ac8469ec49cf6ad,projectile_add.mat,Tiny.VA,36131939,4510
+959505b73bdba979,projectile_add.dds,Streaming/Content/metadata/particles/monster_effects/act10/A850DF728DA22F91.CB1FED6AF2F08094.explode_circle.pet,570028,87556
+871b964ca9af0277,projectile_add.dds.header,Tiny.V6,35915043,1520

@@ -1,3 +1,0 @@
-mb
-mb/pool_rig2
-textures

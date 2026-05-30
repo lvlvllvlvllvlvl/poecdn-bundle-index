@@ -1,0 +1,2 @@
+onact
+onact/static_spell_projectile_01

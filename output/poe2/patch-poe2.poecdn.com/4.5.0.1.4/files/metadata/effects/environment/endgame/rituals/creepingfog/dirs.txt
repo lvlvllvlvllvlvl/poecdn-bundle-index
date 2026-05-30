@@ -1,3 +1,0 @@
-fx
-mat
-mat/fog_cloud

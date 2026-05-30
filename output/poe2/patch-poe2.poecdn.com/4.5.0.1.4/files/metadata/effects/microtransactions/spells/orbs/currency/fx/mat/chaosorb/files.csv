@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-81dc58401583d96f,body_glow.mat,Tiny.V3.1,40248715,3854
-53c2628e2098e9e1,wisp_update.mat,Tiny.V1.1,41226830,8216
-949982f29e42bc32,flare_render.mat,Tiny.VD.1,41377106,17158
-f3bd870a16a8964e,glow_render.mat,Tiny.VF.1,41089946,18440
-3ba99b8e041b8beb,sparks_update.mat,Tiny.V7.1,38511996,8670
-cdc5b064266ea898,sparks_render.mat,Tiny.VE.1,41488890,19806
-4ea2755873f0800b,point_update.mat,Tiny.VE.1,12556962,310
-b78276119ca8406c,point_distance_scale_update.mat,Tiny.VE.1,41488282,608

@@ -1,0 +1,7 @@
+fx
+mat
+mat/decal
+mat/explosion
+mat/spellcast
+mat/trail
+mat/vol_core

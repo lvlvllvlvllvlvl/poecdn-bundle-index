@@ -1,9 +1,0 @@
-epk
-fx
-fx/force_field
-fx/force_field/forcefield_idle_01
-fx/ritual_direction_01
-mat
-mat/force_field
-mat/force_field/forcefield_idle_01
-mat/ritual_direction_01

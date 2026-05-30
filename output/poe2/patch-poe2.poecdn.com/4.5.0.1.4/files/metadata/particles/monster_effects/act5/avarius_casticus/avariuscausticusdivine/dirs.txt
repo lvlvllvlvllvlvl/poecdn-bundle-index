@@ -1,4 +1,0 @@
-activate_statues
-divinecall
-epk
-holyspark

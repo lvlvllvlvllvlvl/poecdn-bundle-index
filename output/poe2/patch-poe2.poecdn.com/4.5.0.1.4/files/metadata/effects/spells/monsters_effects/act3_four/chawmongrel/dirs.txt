@@ -1,5 +1,0 @@
-mat
-mat/onact
-mat/onact/attack_02
-pet
-trl

@@ -1,4 +1,0 @@
-bosses
-bosses/lich3
-bosses/lich3/clustermines
-bosses/lich3/graphs

@@ -1,3 +1,0 @@
-rune_main
-rune_main_powerful
-rune_main_up

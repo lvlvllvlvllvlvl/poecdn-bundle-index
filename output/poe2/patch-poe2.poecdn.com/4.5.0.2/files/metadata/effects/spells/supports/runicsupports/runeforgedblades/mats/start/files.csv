@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+a5a1a85d83e3021b,start_sphere_u.mat,Tiny.V0.1,172156912,3066
+bb6234cbf76d659a,start_splash_r.mat,Tiny.V7.1,169688784,47178
+ee544a0d8732c72c,start_splash_u.mat,Tiny.V9.1,173468278,16846
+329a2ee52689a7b0,start_debris_r.mat,Tiny.VD.1,172577280,35816
+18082f4afe219630,start_debris_u.mat,Tiny.VC.1,176310225,24296
+f06f9da3a5cf77fb,start_runes_r.mat,Tiny.V5.1,172229974,41390
+da8a0f8d3d99f0f7,start_runes_u.mat,Tiny.VF.1,171169148,13472
+50eb95a1aee244bd,start_flash_r.mat,Tiny.V0.1,75062030,39248
+5974e54c1a5272e7,start_flash_u.mat,Tiny.VE.1,12548232,310
+f36a8528137c5ea6,start_blur_sphere_r.mat,Tiny.V9.1,173453698,14580
+f1d63f745a012171,start_blur_quick_r.mat,Tiny.V4.1,74435068,20498
+29191ff8039f1628,start_blur_quick_u.mat,Tiny.VE.1,12548232,310
+6311d8d6a6e708ae,start_wisp_r.mat,Tiny.VD.1,172833898,53886
+cb2942ffdfbb1457,start_wisp_u.mat,Tiny.VD.1,5313278,346
+6205612b76d884ed,start_wave_r.mat,Tiny.V4.1,173614558,57004
+73016c0941921e82,start_wave_u.mat,Tiny.VD.1,5313278,346

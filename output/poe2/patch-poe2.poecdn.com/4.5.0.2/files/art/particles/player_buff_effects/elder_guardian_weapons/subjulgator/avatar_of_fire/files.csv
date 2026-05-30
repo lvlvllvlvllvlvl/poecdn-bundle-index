@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+e343547295265ac9,alpha_basec.mat,Tiny.VC,41389779,2702
+eb1a1ff0f23d4224,alpha_base.dds,Streaming/Content/metadata/effects/spells/player_buff_effects/AA682C65B99A5AEE.B8F6BD45D53C3C93.zephyr.epk,212353,87556
+5154a85253c80c4e,alpha_base.dds.header,Tiny.VF,5294260,1520
+2a9b0add5ea1ad73,spark.mat,Tiny.V3,40466529,1620
+598839f0b63513ea,spark.dds,Tiny.V4,41356635,516
+8f0a7bf6bae6908c,spark.dds.header,Tiny.VC,41393321,1520
+9476be4dd284fb5f,light_gradient_black.mat,Tiny.VD,41352107,1688
+b053e305c3923e76,light_gradient_black.dds,Streaming/Content/metadata/particles/player_buff_effects/elder_guardian_weapons/00D03D5D7607A97B.DBE6DB0FD3FEB1FA.flash.pet,415956,22020
+f161b64740e105a9,light_gradient_black.dds.header,Tiny.VE,6522111,1520
+b4fe1a01e23e1136,lensflare.mat,Tiny.V0,41222772,2680
+d6c208db03e22a61,lensflare.dds,Streaming/Content/metadata/particles/player_buff_effects/elder_guardian_weapons/00D03D5D7607A97B.DBE6DB0FD3FEB1FA.flash.pet,393936,22020
+44dc7bc028a75974,lensflare.dds.header,Tiny.V4,35547265,1520
+479fe090b6ac4904,blue_lens_flare.mat,Tiny.V0,41221092,1680
+c773512cfe4f1ad9,blue_lens_flare.dds,Streaming/Content/metadata/particles/player_buff_effects/elder_guardian_weapons/00D03D5D7607A97B.DBE6DB0FD3FEB1FA.flash.pet,218988,174948
+f0a762fd570573a1,blue_lens_flare.dds.header,Tiny.VC,41392481,840

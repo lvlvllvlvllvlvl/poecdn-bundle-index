@@ -1,0 +1,6 @@
+aoe
+idle
+shatter_aoe
+single
+single_aoe
+surge

@@ -1,9 +1,0 @@
-blood_grasp
-blood_grasp_hand
-bloodball
-corruptionaura
-fire_wave_cascade
-holy_ion_cannon
-monolith_pulse
-necromancerbolt
-spidermortar

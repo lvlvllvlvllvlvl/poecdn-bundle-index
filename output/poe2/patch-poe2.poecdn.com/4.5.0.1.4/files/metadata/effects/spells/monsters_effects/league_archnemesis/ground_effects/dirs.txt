@@ -1,2 +1,0 @@
-mat
-mat/cold_ground

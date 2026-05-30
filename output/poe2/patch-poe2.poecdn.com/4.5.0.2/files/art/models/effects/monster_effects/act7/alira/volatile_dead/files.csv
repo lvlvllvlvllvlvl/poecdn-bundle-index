@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+dae6ac4c1291c72b,aoe_rig_93408989.smd,Streaming/Content/metadata/effects/spells/monsters_effects/DF7FA9C6D6995B2F.CD629B701C8135D3.volatiledead_aoe.ao,0,20878
+3250a9e35cca8a82,aoe_rig_93408989.smd.header,Tiny.VD,7314781,568
+f824fdfc0cb8fc23,aliravolatiledead.sm,Tiny.VD,7312673,2108
+26f498f8804337b6,aliravolatiledead.amd,Tiny.VF,7451730,80
+e253f84960a3b427,aliravolatiledead.ast,Content/metadata/effects/spells/monsters_effects/BE7E11C4EFF90CA9.thorncascade_03.ao,860471,7821
+73d0e92d96809a4d,second_explosion_rig_e17557fc.smd,Streaming/Content/metadata/effects/spells/monsters_effects/EA6878CBDE968302.vaalimpact.ao,624756,22329
+f72c13ba302ef156,second_explosion_rig_e17557fc.smd.header,Tiny.V9,6085830,368
+98c6840cbb1e4030,corpse_explosion_rig_16f57a37.smd,Streaming/Content/metadata/effects/spells/monsters_effects/0AB05E4E47E620F0.5C1960400547BE52.burrow_lavapool.ao,55124,32157
+20385e69dfc762ac,corpse_explosion_rig_16f57a37.smd.header,Tiny.V6,7441848,368
+098fbcc7f6783a78,volatilefiresplode.sm,Tiny.V2,7651836,858
+826ebcfd1221adba,volatilefiresplode.amd,Tiny.VE,5973678,94
+b82308353453c971,volatilefiresplode.ast,Tiny.V3,5881395,1050
+1f3d83bc43497836,volatiledeadfiresplode.sm,Tiny.VC,7408254,1086
+1b851fa6c8bc03d3,volatiledeadfiresplode.amd,Tiny.VE,5973678,94
+a5dc1973078c2e28,volatiledeadfiresplode.ast,Tiny.V3,5881395,1050

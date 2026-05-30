@@ -1,0 +1,6 @@
+attachments
+attachments/cape
+attachments/hipplates
+attachments/skirt
+attachments/skirtback
+textures

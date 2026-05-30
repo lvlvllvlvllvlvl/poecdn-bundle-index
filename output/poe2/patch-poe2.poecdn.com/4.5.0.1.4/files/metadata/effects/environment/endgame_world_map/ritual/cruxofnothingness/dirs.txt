@@ -1,8 +1,0 @@
-epk
-epk/maps_cruxofnothingness_aimation_02
-mat
-mat/affect_map_pin
-mat/maps_cruxofnothingness_aimation_02
-mat/maps_cruxofnothingness_aimation_02/fadein_01
-pet
-pet/affect_map_pin

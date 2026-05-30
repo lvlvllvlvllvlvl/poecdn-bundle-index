@@ -1,0 +1,7 @@
+riversnakehusk
+riversnakehusk/attachments
+riversnakehusk/attachments/goldsword
+riversnakehusk/textures
+riversnakehusk/tumourstatuemonster02
+riversnakehusk/tumourstatuemonster02/animations
+riversnakehusk/tumourstatuemonster02/attachments

@@ -1,7 +1,0 @@
-epk
-fx
-fx/detonate_dead_spellcast_01
-fx/revive_aoe
-mat
-mat/detonate_dead_spellcast_01
-mat/revive_aoe

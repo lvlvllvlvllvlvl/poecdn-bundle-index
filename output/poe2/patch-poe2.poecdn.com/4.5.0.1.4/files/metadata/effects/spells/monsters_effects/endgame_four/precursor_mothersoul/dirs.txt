@@ -1,6 +1,0 @@
-fx
-fx/egg
-fx/seed
-mat
-mat/egg
-mat/seed

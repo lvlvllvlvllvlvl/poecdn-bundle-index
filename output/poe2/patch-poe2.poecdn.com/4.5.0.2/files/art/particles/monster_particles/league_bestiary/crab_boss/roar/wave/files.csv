@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+9a19e9ea7f56903c,alpha_basec.mat,Tiny.V5,38604701,2424
+9a1cc59e46ecd497,alpha_base.dds,Streaming/Content/metadata/effects/spells/monsters_effects/ADA130A68CBC8D87.015118D8804D582F.release_projectile.ao,354541,87556
+78c7e0bbe75890ab,alpha_base.dds.header,Tiny.VF,5294260,1520
+d50fd2b956f5ac3b,water_nova.mat,Tiny.VD,39217573,2748
+d563d46b99a142ee,water_nova.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/1100242EC581F9DF.576DCCA4C375AC35.shockwave.pet,262668,349700
+4d8f417995f42e39,water_nova.dds.header,Tiny.V7,36822743,1520
+78afaa37d66a05a5,blink_spiral_bigger.mat,Tiny.V3,38426735,2914
+abba5cec4dceb561,blink_spiral_bigger.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/1100242EC581F9DF.576DCCA4C375AC35.shockwave.pet,0,87556
+1718aa4f0488878e,blink_spiral_bigger.dds.header,Tiny.V9,39615699,1520
+818e6d1d29a40ddc,shockwave_at.mat,Tiny.V1,38876300,3010
+4e9193bb93e50732,shockwave_at.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/1100242EC581F9DF.576DCCA4C375AC35.shockwave.pet,175112,87556
+05d8d313a9157bc4,shockwave_at.dds.header,Tiny.V4,41642955,1520
+f21ed46045700a4b,scream_shockwave.mat,Tiny.VE,38571897,2534
+2571c6abbc5eedbb,scream_shockwave.dds,Streaming/Content/metadata/particles/monster_effects/league_bestiary/1100242EC581F9DF.576DCCA4C375AC35.shockwave.pet,87556,87556
+2ae15e4a850b7f68,scream_shockwave.dds.header,Tiny.V8,38659180,1520

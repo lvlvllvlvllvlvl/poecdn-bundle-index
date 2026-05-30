@@ -1,4 +1,0 @@
-throw_trap_01
-throw_trap_01/animations
-water_trap_01
-wave

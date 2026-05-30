@@ -1,3 +1,0 @@
-mb
-mb/swarm_rig
-textures

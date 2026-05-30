@@ -1,4 +1,0 @@
-mb
-mb/death_spores
-textures
-textures/death_spore

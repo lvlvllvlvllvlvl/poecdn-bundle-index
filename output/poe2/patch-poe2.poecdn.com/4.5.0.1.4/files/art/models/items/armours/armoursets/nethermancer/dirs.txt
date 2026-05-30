@@ -1,8 +1,0 @@
-attachments
-attachments/chains
-attachments/loincloth
-attachments/lsleeve
-attachments/plates
-attachments/rsleeve
-textures
-textures/rust

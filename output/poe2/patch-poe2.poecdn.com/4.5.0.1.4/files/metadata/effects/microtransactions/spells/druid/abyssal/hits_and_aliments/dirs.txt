@@ -1,7 +1,0 @@
-epk
-fx
-graph
-mat
-mat/hit_lightning
-mat/ignite
-mat/shock

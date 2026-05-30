@@ -1,0 +1,4 @@
+arms
+belt
+collar
+skirt

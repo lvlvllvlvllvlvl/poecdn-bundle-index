@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+af7417aa0cf539ca,pot_tiny_pieces_01_u.mat,Tiny.VA.1,178020894,17420
+178cb74ce2dea910,mblur_sphere_r.mat,Tiny.VB.1,178484681,8868
+44188bfb3c3eefad,mblur_sphere_u.mat,Tiny.VA.1,178017904,2990
+3e15077a6c019e16,beaming_r.mat,Tiny.V8.1,179960356,33076
+f230dff2d7d8204f,beaming_u.mat,Tiny.V7.1,176240097,2194
+6e79e40880f59cb0,cross_lightdecal_01_r.mat,Tiny.V8.1,179993432,29310
+3eb4dd9010373eb0,cross_lightdecal_01_u.mat,Tiny.VE.1,176434356,3348
+3b600eb12788ea2c,cross_energyblur_01_r1.mat,Tiny.V5.1,178410478,28874
+9770eb202fd184ad,cross_energy_03_r.mat,Tiny.V4.1,180224960,44504
+186aad03fbaff3db,cross_energy_03_u.mat,Tiny.VA.1,178015478,2426
+817eedbd9bb27912,cross_energy_01_r.mat,Tiny.V3.1,181805211,47602
+24d7ac59268663a9,cross_energy_01_u.mat,Tiny.VA.1,178013048,2430
+ee39ea5ee7d84d96,lightbeam_01_r.mat,Tiny.VF.1,177482002,38130
+7ad69bb145f40113,lightbeam_01_u.mat,Tiny.V7.1,176242291,2686

@@ -1,6 +1,0 @@
-slash
-slash_echo
-slash_echo/impact
-standalone_slash
-summon
-summon_clone

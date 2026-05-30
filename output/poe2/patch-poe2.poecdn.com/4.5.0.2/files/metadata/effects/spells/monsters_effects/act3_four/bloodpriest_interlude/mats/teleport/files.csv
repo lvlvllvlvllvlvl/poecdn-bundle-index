@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+6563d37356a6a452,mblur_sphere_out_r.mat,Tiny.VA.1,90189516,10922
+a9115a0739ecf28e,mblur_sphere_r.mat,Tiny.V8.1,91542908,10922
+e47af4861ef55fe5,shimmerwave_r.mat,Tiny.V6.1,90549999,16266
+6081a4d6ef561c23,shimmerwave_u.mat,Tiny.V4.1,90389126,2704
+c2c59a0f30521e3d,bnpnt_emit_u.mat,Tiny.VE.1,91174392,1696
+a6329ee2e4243f81,blood_drip_r.mat,Tiny.VA.1,159861632,33930
+393a2cb8e2d3c87d,blood_drip_u.mat,Tiny.V2.1,92730860,19676
+cf7676ca38aa2b87,priest_teleportoverride.mat,Tiny.V2.1,92644932,9878
+e434ff280e19b2bb,priest_teleportpass_1.mat,Tiny.VC.1,92724363,50676
+c7688c36a534ef98,tp_open_ring_r.mat,Tiny.VC.1,92561385,62016
+f83e7d6966ab8559,tp_close_ring_r.mat,Tiny.VF.1,87769600,67510
+fb069fd87f628844,trail_blur.mat,Tiny.VD.1,90047956,6066
+afd15719343f7e91,trail_blood_sub.mat,Tiny.V9.1,94799306,42060
+7655fdf246d864b7,trail_blood_main.mat,Tiny.V7.1,88750624,41408

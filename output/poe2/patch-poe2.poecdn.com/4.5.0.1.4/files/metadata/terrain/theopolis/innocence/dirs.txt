@@ -1,7 +1,0 @@
-feature
-ledge
-stairs
-terrace
-terrace/sanctuary
-thickwall
-thinwall

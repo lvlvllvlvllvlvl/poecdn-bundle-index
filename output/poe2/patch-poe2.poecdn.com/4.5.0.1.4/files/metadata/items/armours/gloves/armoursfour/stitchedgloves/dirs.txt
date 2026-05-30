@@ -1,4 +1,0 @@
-attachments
-attachments/lbracelet
-attachments/rbracelet
-attachments/rcuff

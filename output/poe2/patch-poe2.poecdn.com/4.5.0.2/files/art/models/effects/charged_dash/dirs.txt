@@ -1,0 +1,4 @@
+aoe
+channelling
+shadow_weapon
+shadows

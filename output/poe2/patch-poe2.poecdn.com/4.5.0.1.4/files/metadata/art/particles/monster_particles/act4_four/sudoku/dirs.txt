@@ -1,7 +1,0 @@
-textures
-textures/cas_spike
-textures/cas_spike_end
-textures/expanding_shock_nova
-textures/lightning_strike
-textures/tiki_arc
-textures/volcano_slam

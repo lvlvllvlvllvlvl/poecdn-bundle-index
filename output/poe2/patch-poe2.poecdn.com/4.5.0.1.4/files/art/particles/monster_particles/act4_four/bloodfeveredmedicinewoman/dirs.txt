@@ -1,4 +1,0 @@
-mb
-mb/bloodfever_blob
-textures
-textures/projectile

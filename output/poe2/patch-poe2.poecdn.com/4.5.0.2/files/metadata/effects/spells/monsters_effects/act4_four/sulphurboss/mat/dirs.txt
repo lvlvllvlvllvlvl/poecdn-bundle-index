@@ -1,0 +1,9 @@
+circle_shock
+door
+enrage
+fissures
+headbutt
+leapslam
+punch_impact
+punch_infuse
+slash

@@ -1,7 +1,0 @@
-fx
-fx/bow_fx
-fx/frenzy_gain
-fx/melee
-fx/player_spiral
-fx/projectile
-melee

@@ -1,6 +1,0 @@
-arm_sweep
-attack
-decals
-eye_beam_01
-palm_slam
-roof_laser

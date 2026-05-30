@@ -1,9 +1,0 @@
-endurance
-endurance_consume
-endurance_emerge
-frenzy
-frenzy_consume
-frenzy_emerge
-power
-power_consume
-power_emerge

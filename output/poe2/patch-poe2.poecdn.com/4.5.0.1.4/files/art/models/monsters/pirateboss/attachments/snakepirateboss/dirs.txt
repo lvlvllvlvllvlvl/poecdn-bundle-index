@@ -1,6 +1,0 @@
-anchor
-basket
-cannon
-clothtop
-hair
-helm

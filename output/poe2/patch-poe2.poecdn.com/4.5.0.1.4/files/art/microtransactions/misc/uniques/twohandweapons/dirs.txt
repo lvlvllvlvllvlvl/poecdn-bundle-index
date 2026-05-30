@@ -1,7 +1,0 @@
-axes
-axes/atzirisdisfavour
-axes/reaperpursuidalt
-mace
-mace/geofrisbaptismalt
-swords
-swords/queensdecreealt

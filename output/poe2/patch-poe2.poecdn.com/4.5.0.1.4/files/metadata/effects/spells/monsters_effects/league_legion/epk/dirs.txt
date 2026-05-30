@@ -1,4 +1,0 @@
-affected
-generals
-revival
-revival/graphs

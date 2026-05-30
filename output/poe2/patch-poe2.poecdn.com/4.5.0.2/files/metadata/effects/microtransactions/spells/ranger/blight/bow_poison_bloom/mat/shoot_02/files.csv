@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+e0feb477295e92c9,shoot_02_spores_burst_r.mat,Tiny.VE.1,42775182,30930
+85ff469333351835,shoot_02_spores_burst_u.mat,Tiny.VC.1,42971293,22624
+bc4d7d707eb00ada,shoot_02_spores_burst_sphere_r.mat,Tiny.VC.1,42945311,25982
+cb8445870b5a543e,shoot_02_spores_burst_sphere_u.mat,Tiny.VD.1,42672038,12122
+a9305e44b28ea5f4,shoot_02_disperse_sparks_r.mat,Tiny.V0.1,41655134,18506
+255209b4f440b7d5,shoot_02_disperse_sparks_u.mat,Tiny.VD.1,42652122,19916
+c7402d6d75aba674,shoot_02_cone_flash_r.mat,Tiny.V7.1,39676956,24394
+f4fd821522f8a625,shoot_02_cone_flash_u.mat,Tiny.VB.1,72281843,536
+29b0cea3ae3762d7,shoot_02_hitflash_r.mat,Tiny.V5.1,43638456,15392
+cda4ee0ee57f78fd,shoot_02_hitflash_u.mat,Tiny.VE.1,12548232,310
+45e32feb7212863f,shoot_02_poison_mist_r.mat,Tiny.V0.1,41673640,45366
+3aa1d222f28cf6f5,shoot_02_poison_mist_u.mat,Tiny.V9.1,45505706,4736
+eb005b0b0228992c,shoot_02_poison_mist_dark_r.mat,Tiny.V6.1,42732487,26284
+58491fdfeaba4b34,shoot_02_poison_mist_dark_u.mat,Tiny.V9.1,45505706,4736
+5519b0616a59affb,shoot_02_warp_cirlce_3d_r.mat,Tiny.VF.1,82559476,10946
+52453b6cbf53a2ee,shoot_02_warp_cirlce_3d_u.mat,Tiny.VE.1,12548232,310

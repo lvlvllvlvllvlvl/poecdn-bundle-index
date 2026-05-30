@@ -1,5 +1,0 @@
-monolith_01
-monolith_02
-monolith_04
-monolith_05
-monolith_06

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+2d1bb0a0cf2a98bb,blur_trail.mat,Tiny.V8.1,156296614,24850
+b349b7d6246a54d0,glow_trail.mat,Tiny.V4.1,100789550,33172
+12c18435e64acad3,projectile_debris_r.mat,Tiny.VA.1,101214352,23148
+4c21179657277199,projectile_debris_u.mat,Tiny.VC.1,88370967,28410
+c818a5bfcc1b95ac,pressure_warp_r.mat,Tiny.V6.1,101757703,20456
+a64a3c6baa02738a,pressure_warp_u.mat,Tiny.V4.1,100832636,3054
+a6c1155b0a6433f6,dir_cone_r.mat,Tiny.VA.1,101195224,19128
+a6e8c19646e5b0c0,dir_cone_u.mat,Tiny.V3.1,86738533,3024
+f74b3c04f42386f7,kickup_rocks_r.mat,Tiny.V0.1,101660452,10342
+4794b476dc0d306b,kickup_rocks_u.mat,Tiny.VA.1,86625022,8286
+24355839974260e3,kickup_debris_r.mat,Tiny.V4.1,100822722,9914
+50556e33de8d2ec4,kickup_debris_u.mat,Tiny.VF.1,97942908,6484
+cb1439d3ee8e772f,kickup_dust_foundry_r.mat,Tiny.VD.1,99635676,30170
+81f6812b4b0b25a1,kickup_dust_u.mat,Tiny.V3.1,86825083,6414

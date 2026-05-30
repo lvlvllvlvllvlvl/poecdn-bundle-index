@@ -1,0 +1,16 @@
+bow
+bow/ao
+bow/epk
+bow/graph
+bow/mat
+bow/mat/arrow
+bow/mat/arrow/impact
+bow/mat/arrow_drop
+bow/mat/lotus_aoe
+bow/mat/lotus_bloom
+bow/mat/lotus_roots
+bow/mat/pastule
+bow/mat/toxic_rain
+bow/mat/vine
+bow/pet
+bow/trl

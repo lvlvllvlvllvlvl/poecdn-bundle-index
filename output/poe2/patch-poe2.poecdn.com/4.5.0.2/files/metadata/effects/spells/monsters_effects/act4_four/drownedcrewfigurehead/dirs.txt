@@ -1,0 +1,13 @@
+epks
+mat
+mat/attack
+mat/statueslam_noglow
+mat/trl
+on_act
+on_act/attack_01
+on_act/attack_01/pet
+pet
+pet/ghostflame_lantern
+pet/statueslam
+pet/statueslam_noglow
+trl

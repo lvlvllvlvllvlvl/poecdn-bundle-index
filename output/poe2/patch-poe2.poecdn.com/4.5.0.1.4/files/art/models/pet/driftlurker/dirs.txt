@@ -1,7 +1,0 @@
-attachments
-attachments/lamp
-attachments/robe
-attachments/shackles
-fx
-fx/texture
-textures

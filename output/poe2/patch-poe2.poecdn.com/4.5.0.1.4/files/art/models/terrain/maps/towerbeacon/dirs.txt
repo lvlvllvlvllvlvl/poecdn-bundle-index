@@ -1,4 +1,0 @@
-small_sphere
-tablet
-tablet/textures
-towerbeaconsmall01

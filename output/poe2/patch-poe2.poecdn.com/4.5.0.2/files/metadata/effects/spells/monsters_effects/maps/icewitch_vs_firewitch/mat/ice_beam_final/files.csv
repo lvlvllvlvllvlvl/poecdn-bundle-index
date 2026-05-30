@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+54a81068147b5a2c,coldbeam_smoke_01_r.mat,Tiny.V4.1,161166160,32164
+ac0243a50366405e,coldbeam_smoke_01_u.mat,Tiny.V0.1,160884456,8614
+180b4b96f8b41d22,snow_r.mat,Tiny.V7.1,158451086,21374
+814ad3d061042455,snow_u.mat,Tiny.VD.1,161929130,24714
+93ec7ce40a9f5935,beamray_blur_r.mat,Tiny.VF.1,159202652,28358
+dc24d300724c4230,beamray_blur_u.mat,Tiny.VD.1,5313278,346
+95a557f295e000c9,beamray_shimmer_r.mat,Tiny.VB.1,160783753,23380
+ae5f74f4da998c3a,beamray_shimmer_u.mat,Tiny.VD.1,5313278,346
+1931b86744b72dba,beamray_outer2_u.mat,Tiny.VD.1,5313278,346
+3f06080ae92624c2,beamray_outer2_r.mat,Tiny.V3.1,163782319,56550
+b5e48123a0350579,beamray_outer2_r2.mat,Tiny.VB.1,160725837,57916
+225799c69ba7c2f9,decal_01_r.mat,Tiny.VF.1,159231010,45074
+3c0346596586e1da,decal_01_u.mat,Tiny.V7.1,158472460,2468
+ef5a664b01747d8c,glowplane_01_r.mat,Tiny.VA.1,160359788,39178
+36662133db83cdd4,glowplane_01_u.mat,Tiny.V7.1,158440624,10462

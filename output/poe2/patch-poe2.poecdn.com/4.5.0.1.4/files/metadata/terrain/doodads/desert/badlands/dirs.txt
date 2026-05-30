@@ -1,4 +1,0 @@
-featureassets
-fx
-groundclutter
-singlebones

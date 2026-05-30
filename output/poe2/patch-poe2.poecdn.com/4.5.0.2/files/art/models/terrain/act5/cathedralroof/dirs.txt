@@ -1,0 +1,2 @@
+cathedral_roof_sides
+cathedral_rooftop

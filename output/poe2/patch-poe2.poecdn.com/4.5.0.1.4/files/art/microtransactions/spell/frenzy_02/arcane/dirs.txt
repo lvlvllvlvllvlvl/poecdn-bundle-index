@@ -1,5 +1,0 @@
-bow_fx
-frenzy_gain
-melee
-projectile
-projectile/fx

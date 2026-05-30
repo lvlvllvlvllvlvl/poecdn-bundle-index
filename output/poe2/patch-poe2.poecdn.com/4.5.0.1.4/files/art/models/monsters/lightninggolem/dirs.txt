@@ -1,3 +1,0 @@
-animation
-animation/vaalgolem
-animation/vaalgolem/vaalancient

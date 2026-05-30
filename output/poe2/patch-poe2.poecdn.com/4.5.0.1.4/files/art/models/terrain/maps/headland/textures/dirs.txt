@@ -1,4 +1,0 @@
-architecture
-cliffs
-ground
-props

@@ -1,7 +1,0 @@
-epk
-fx
-mat
-mat/aura
-mat/buffgain
-mat/combo_ready
-mat/on_kill

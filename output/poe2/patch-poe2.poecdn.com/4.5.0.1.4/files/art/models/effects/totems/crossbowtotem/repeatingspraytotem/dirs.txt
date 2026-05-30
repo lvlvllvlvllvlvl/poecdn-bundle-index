@@ -1,2 +1,0 @@
-effects
-effects/barrage_arrow

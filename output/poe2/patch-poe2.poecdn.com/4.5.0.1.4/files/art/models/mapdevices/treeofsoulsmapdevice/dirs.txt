@@ -1,3 +1,0 @@
-attachments
-attachments/mapholder
-textures

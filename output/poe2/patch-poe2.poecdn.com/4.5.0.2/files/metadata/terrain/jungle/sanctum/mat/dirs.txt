@@ -1,0 +1,3 @@
+blood_vortex
+corruption_altar
+walkway_end

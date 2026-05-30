@@ -1,5 +1,0 @@
-objects
-rooms
-rooms/sidearenafills
-tiles
-tiles/doomswampislands

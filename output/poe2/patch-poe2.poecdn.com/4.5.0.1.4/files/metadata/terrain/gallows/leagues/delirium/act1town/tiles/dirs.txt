@@ -1,3 +1,0 @@
-farm
-wideriver
-wideriver/slash

@@ -1,6 +1,0 @@
-graphs
-rooms
-rooms/fills
-rooms/path
-rooms/path_2x2
-rooms/unique

@@ -1,8 +1,0 @@
-theme_variants
-theme_variants/delirium
-theme_variants/ghostflame
-theme_variants/ghostflame/blunt
-theme_variants/stygian
-theme_variants/stygian/pierce
-theme_variants/stygian/slash
-theme_variants/verisium

@@ -1,3 +1,0 @@
-attack_01
-spirit_cast_01
-summon_01

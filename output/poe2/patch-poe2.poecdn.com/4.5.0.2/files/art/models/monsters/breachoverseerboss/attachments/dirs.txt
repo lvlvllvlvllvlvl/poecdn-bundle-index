@@ -1,0 +1,4 @@
+arm
+ribbon
+robe
+weapon

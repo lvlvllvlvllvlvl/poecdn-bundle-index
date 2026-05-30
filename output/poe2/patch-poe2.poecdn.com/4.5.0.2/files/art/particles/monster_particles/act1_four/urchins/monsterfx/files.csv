@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+636167d69eae4e39,blur_dust.mat,Tiny.VB,36313653,2834
+4929dc93ce29b67d,blur_dust_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/6B8B8B82F9ABCE45.EBF3F461A465A6FE.rock_shot.pet,0,22020
+47d045ecffded4ca,blur_dust_dxt5.dds.header,Tiny.VF,41316595,1520
+d6b58d0bf6eef1ae,sling_trl.mat,Tiny.V8,35724707,2572
+bf7746559a3ac6b5,sling_trl_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/76BD190BABBF4CBC.ghost_cleave.trl,437256,87556
+36a1950fc7d4e8ec,sling_trl_dxt5.dds.header,Tiny.VB,36316487,1520
+333b4645bb56923a,sparkling.mat,Tiny.VA,36262279,1528
+cfb584ac2aa28afe,sparkling_dxt5.dds,Tiny.VE,4430892,1572
+bd665c580c334a5d,sparkling_dxt5.dds.header,Tiny.VD,4345787,504

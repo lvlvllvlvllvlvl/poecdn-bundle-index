@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+0e17a721f40f0499,dust_swirl_r.mat,Tiny.V6.1,110601739,48494
+c5d34be213e23107,mblur_swirl_r.mat,Tiny.VF.1,107266672,32784
+eb22e65066983504,mblur_swirl_u.mat,Tiny.VD.1,5313278,346
+effa3112cbf88ff4,ground_debris_r2.mat,Tiny.V2.1,113466962,12930
+9770d62ff7200a2a,ground_debris_u2.mat,Tiny.V7.1,107333100,28218
+ed471fd7030bcb30,grd_crack_donut_r.mat,Tiny.V8.1,110437070,33812
+c42ca10db1af2afe,grd_crack_donut_u.mat,Tiny.VD.1,5313278,346

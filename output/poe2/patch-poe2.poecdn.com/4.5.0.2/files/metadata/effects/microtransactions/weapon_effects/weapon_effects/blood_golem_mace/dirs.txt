@@ -1,0 +1,11 @@
+epks
+fx
+fx/0
+fx/2
+fx/3
+fx/4
+fx/5
+fx/6
+fx/7
+fx/absorb_blood
+fx/blood_beam

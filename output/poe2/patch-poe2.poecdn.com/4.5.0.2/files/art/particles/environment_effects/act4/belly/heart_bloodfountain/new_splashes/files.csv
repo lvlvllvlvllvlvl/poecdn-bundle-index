@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+a79d3dc604aba2a6,foam_test.mat,Tiny.VC,35123594,2222
+f203b13be8f0e6b7,foam_test.dds,Streaming/Content/metadata/particles/enviro_effects/act4/5ABC9F9EE0E4A130.flying_embers.pet,1202712,87556
+f84c28296b915b33,foam_test.dds.header,Tiny.V5,34361598,1520
+a8872da7be4e81bc,dust.mat,Tiny.VE,34386708,2808
+1690563fb0a4278a,dust.dds,Streaming/Content/metadata/particles/enviro_effects/act4/BA5456FD1AEC008E.8ACA14B94364F02E.cyl_top.pet,349700,349700
+cda04a091b73e4d6,dust.dds.header,Tiny.V8,33945274,1520
+b33ea60f1701c9f2,blood_cracks.mat,Tiny.V9,35217865,2878
+cdf8c028b52909d7,blood_cracks.dds,Streaming/Content/metadata/particles/enviro_effects/act4/BA5456FD1AEC008E.8ACA14B94364F02E.cyl_top.pet,0,349700
+57f0c0c5927b999e,blood_cracks.dds.header,Tiny.V8,34488235,1520

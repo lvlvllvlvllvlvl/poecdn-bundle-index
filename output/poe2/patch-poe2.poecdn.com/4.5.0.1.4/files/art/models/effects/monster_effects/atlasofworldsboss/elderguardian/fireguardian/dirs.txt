@@ -1,7 +1,0 @@
-obsidian_barrage
-obsidian_barrage/slam
-obsidian_projectile
-obsidian_projectile/impact
-shard_explosion
-shard_projectile
-shard_projectile/grd_cu

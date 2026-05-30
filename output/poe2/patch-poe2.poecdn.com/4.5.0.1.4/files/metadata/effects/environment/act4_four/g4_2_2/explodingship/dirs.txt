@@ -1,5 +1,0 @@
-epk
-fx
-mat
-mat/explosion_main
-mat/explosion_small

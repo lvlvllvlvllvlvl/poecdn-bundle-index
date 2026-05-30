@@ -1,9 +1,0 @@
-arm_moths
-blinded
-combo_slam
-darkness_aoe
-headslam
-lacerate
-meteor
-shadow_arm_slam_l
-shadow_arm_slam_r

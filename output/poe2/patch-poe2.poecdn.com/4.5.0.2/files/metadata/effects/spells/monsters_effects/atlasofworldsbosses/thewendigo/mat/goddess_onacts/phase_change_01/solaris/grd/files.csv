@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+2e7407da64a08415,scorch_r.mat,Tiny.VF.1,118886730,42292
+b50ab7cc8b1470a3,vn_shimmerwave_01_r.mat,Tiny.V0.1,121434178,24222
+eec216d5c7337915,degen_decal_02_r.mat,Tiny.V0.1,121345450,88728
+26890aa1ef6ad9ec,degen_decal_02_u.mat,Tiny.V6.1,120428737,1444
+5986a9801d72c1f3,buff_blur_r.mat,Tiny.V1.1,122139268,49144
+394ae0378d601631,buff_light_rays_r.mat,Tiny.V8.1,122237254,59078
+d17ae5cae6d38f83,buff_light_rays_u.mat,Tiny.V7.1,118353096,838
+ced1e5044b0f667a,impact_embers_01_r.mat,Tiny.VA.1,121373826,40646
+19baacd1f2f1ed86,impact_emberstrings_u.mat,Tiny.VD.1,121604396,31248
+a79225cac1fb2429,pntemit_forcegrd_u.mat,Tiny.V3.1,120418889,2176
+70900227757897a6,push_ring_r.mat,Tiny.V6.1,120430181,28504
+8f40a4ff84f7ed7e,push_ring_energy_r.mat,Tiny.V3.1,120421065,50772
+2a20e67702cd2dfb,push_ring_u.mat,Tiny.VA.1,121216296,4730
+6c1597b6a9f5fd4c,ghost_step_r.mat,Tiny.VE.1,121914522,40456
+a1b058b9d730a34b,ghost_step_u.mat,Tiny.VD.1,5313278,346

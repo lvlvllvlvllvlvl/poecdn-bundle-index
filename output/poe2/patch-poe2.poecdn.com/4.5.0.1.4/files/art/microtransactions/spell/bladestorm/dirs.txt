@@ -1,3 +1,0 @@
-celestial
-celestial/models
-celestial/textures

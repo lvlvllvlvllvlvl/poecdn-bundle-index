@@ -1,5 +1,0 @@
-bread
-crops
-fruit
-fruit/tileables
-spices

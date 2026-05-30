@@ -1,9 +1,0 @@
-anger
-conductivity
-enfeeble
-frostbite
-haste
-hatred
-temporal_chains
-vulnerability
-wrath

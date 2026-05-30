@@ -1,0 +1,10 @@
+attachments
+attachments/f
+attachments/f/l_sleeves
+attachments/f/r_sleeves
+attachments/f/skirt
+attachments/m
+attachments/m/l_sleeves
+attachments/m/r_sleeves
+attachments/m/skirt
+textures

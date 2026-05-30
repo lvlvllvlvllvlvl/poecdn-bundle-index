@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+63dc2b9c7280a724,prowlerc.mat,Tiny.VE.1,1218550,3642
+4a4ecfa0962c96a0,prowler_glow_dxt5.dds,Streaming/Content/metadata/monsters/werewolves/werewolfprowler.ao.1,0,1398276
+65b7078d078352f6,prowler_glow_dxt5.dds.header,Tiny.VF.1,1543546,1520
+564df4923e123f59,prowler_normal_dxt5.dds,Streaming/Content/metadata/monsters/werewolves/werewolfprowler.ao.1,1398276,1398276
+398d502aa6ed0165,prowler_normal_dxt5.dds.header,Tiny.VF.1,1545066,1520
+a5492d804bc294f5,prowler_shellcardsc.mat,Tiny.V3.1,1059205,1714
+bae5989112133a57,prowler_sss_dxt5.dds,Streaming/Content/metadata/monsters/werewolves/werewolfprowler.ao.2,0,5592580
+869260bffc56a762,prowler_sss_dxt5.dds.header,Tiny.VE.1,1217030,1520
+220486bb85ca6d3d,prowler_colour_dxt1.dds,Streaming/Content/metadata/monsters/werewolves/runemarked/werewolfprowlerrunemarked.act,2865316,699212
+c612ec05f602a05d,prowler_colour_dxt1.dds.header,Tiny.V7.1,1598616,1520
+93c29655d61db5e3,prowler_cardsc.mat,Tiny.VF.1,1541554,1992
+b0714a2ba672f2ad,prowler_cards_normal_bc7.dds,Streaming/Content/metadata/monsters/werewolves/runemarked/werewolfprowlerrunemarked.act,1467040,1398276
+e6cdcd71106b04d5,prowler_cards_normal_bc7.dds.header,Tiny.VE.1,1215510,1520
+afc595700e55edfb,prowler_cards_colour_bc1.dds,Streaming/Content/metadata/monsters/werewolves/runemarked/werewolfprowlerrunemarked.act,767828,699212
+f568e32381647a19,prowler_cards_colour_bc1.dds.header,Tiny.V6.1,1560316,1520

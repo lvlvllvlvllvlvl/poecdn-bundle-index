@@ -1,5 +1,0 @@
-mbs
-mbs/meleetrail_rig
-mbs/onacts
-mbs/shocked_ground
-mbs/weapons

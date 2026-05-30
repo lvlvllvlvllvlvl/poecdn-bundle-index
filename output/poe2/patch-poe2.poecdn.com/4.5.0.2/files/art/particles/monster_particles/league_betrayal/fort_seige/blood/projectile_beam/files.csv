@@ -1,0 +1,44 @@
+hash,file,bundle,offset,size
+997d03c8e131ced7,smoke_blood.mat,Tiny.V8,38814174,2434
+7b2b37e7957cf0ae,smoke_blood.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.04992E71C37A694E.blood_ptemit.pet,1398276,174948
+b8953eff1155f36b,smoke_blood.dds.header,Tiny.V0,34780145,840
+41047d7137bff24c,sharp_trail.mat,Tiny.V8,38810896,3278
+6a63f387b24f9c6c,sharp_trail.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/5733EC59D2046B92.779C08AD8E9AECF0.gold_bolt.trl,537564,87588
+1d9df566d6a8e10a,sharp_trail.dds.header,Tiny.VE,38734945,504
+a3563fae39621947,bloodns.dds,Streaming/Content/metadata/effects/spells/monsters_effects/20091A9E99CBB8D3.73C373D9E7D8E760.bloodprojectile.ao,747836,349700
+2db9f7463f14e4dc,bloodns.dds.header,Tiny.V5,38779467,1520
+aeff7f315b3c5e43,blood_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/20091A9E99CBB8D3.73C373D9E7D8E760.bloodprojectile.ao,398136,349700
+f04ad8b4f8be8f2b,blood_normal_dxt5.dds.header,Tiny.V7,39178907,1520
+3c1c38de11b5519e,blood_diffusecbloodns.mat,Tiny.V7,39174015,4892
+55992b9f3bd38489,blood_diffuse.dds,Streaming/Content/metadata/effects/spells/monsters_effects/20091A9E99CBB8D3.73C373D9E7D8E760.bloodprojectile.ao,48436,349700
+75088ad48c6f0aef,blood_diffuse.dds.header,Tiny.V7,39172495,1520
+396ae8a087db3f46,blood_2_colour.mat,Tiny.VD,39412943,1672
+4580962a3dc4876a,blood_2_colour.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.9CE31BCFE8DD70C4.fadein_midline.pet,1661344,43876
+7810b2f5631f8829,blood_2_colour.dds.header,Tiny.VA,6464054,840
+0d1717b9cac7118b,blood_lookup.dds,Tiny.V1,39030586,2212
+7601287f64c6aa18,blood_lookup.dds.header,Tiny.V3,38591363,280
+28787c220951f6d4,newhighresblood_colour.mat,Tiny.V3,38591643,2208
+d507d40e99399524,newhighresblood_colour.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.04992E71C37A694E.blood_ptemit.pet,0,1398276
+541ba06e1991babe,newhighresblood_colour.dds.header,Tiny.VD,39414615,1520
+9d106defdcfd2c04,nonormal_masked.dds,Tiny.V3,39357257,516
+aa8c7c23b7c81282,nonormal_masked.dds.header,Tiny.V2,35349362,1520
+e650fd3c1620d37a,fire_bits_trail.mat,Tiny.V6,39272524,4556
+3bd008c1df56f57c,fire_bits_trail.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.04992E71C37A694E.small_trail.trl,0,43876
+a91c25f6fa705205,fire_bits_trail.dds.header,Tiny.VE,35334900,840
+0d8f4d462119ca2f,trail_galaxy_sub.mat,Tiny.V1,39032798,1400
+f64ff32ae3377475,trail_galaxy_sub.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.54D938F4BCABF20C.loop_midline.pet,1597520,11108
+594978bccc26d744,trail_galaxy_sub.dds.header,Tiny.V7,39181821,840
+c3d028129896cf06,trail_blood_normal_masked.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.2422094127D0342F.sidetrail.trl,175308,349700
+3c1c9262a4f6d861,trail_blood_normal_masked.dds.header,Tiny.V8,38816608,1520
+dad807436bb5392e,trail_blood_sub.mat,Tiny.V7,39180427,1394
+0bc79b806939ac73,trail_blood_sub.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.2422094127D0342F.sidetrail.trl,525008,174948
+987fef06a94209c2,trail_blood_sub.dds.header,Tiny.VC,39436597,840
+9f95619568b8d3e9,trail_blood.mat,Tiny.V5,38780987,2260
+69419883c8a30af4,trail_blood.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.2422094127D0342F.sidetrail.trl,87752,87556
+10a80870350f82a5,trail_blood.dds.header,Tiny.V0,39484858,1520
+ee2578a3fd4082fc,trail_center.mat,Tiny.VE,38735449,2092
+5e58904beee9a107,trail_center.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.2422094127D0342F.sidetrail.trl,699956,174948
+a2d879ca4720a122,trail_center.dds.header,Tiny.VB,39565496,840
+b2f2acdacde9433a,trail_center - lookup.mat,Tiny.VD,39416135,2450
+337feb05fcb163f1,trail_center - lookup.dds,Streaming/Content/metadata/particles/monster_effects/league_betrayal/E28CACCA890E8664.54D938F4BCABF20C.loop_midline.pet,1422572,174948
+223c43c515fc71c7,trail_center - lookup.dds.header,Tiny.VB,39565496,840

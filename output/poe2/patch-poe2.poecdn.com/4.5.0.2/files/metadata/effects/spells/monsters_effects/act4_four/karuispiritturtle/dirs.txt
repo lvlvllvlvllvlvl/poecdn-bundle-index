@@ -1,0 +1,12 @@
+epk
+graph
+mat
+mat/flamethrower
+mat/groundslam
+mat/groundslam/buildup
+mat/onact
+mat/onact/bite
+mat/onact/death
+mat/onact/step
+pet
+pet/flamethrower

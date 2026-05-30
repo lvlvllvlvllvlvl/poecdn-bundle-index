@@ -1,0 +1,7 @@
+attachments
+attachments/cloak
+attachments/horn
+attachments/lbraid
+attachments/rbraid
+attachments/robe
+textures

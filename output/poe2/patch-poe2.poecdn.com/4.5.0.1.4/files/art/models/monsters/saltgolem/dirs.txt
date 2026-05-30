@@ -1,4 +1,0 @@
-attachments
-attachments/sanctumrattlecagerocks
-attachments/volcanorattlecagerocks
-textures

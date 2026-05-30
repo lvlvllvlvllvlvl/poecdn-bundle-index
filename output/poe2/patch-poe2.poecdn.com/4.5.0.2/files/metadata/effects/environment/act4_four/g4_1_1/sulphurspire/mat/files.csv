@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+79c178d2dec8d646,lightning_r2.mat,Tiny.VD.1,5175848,58914
+f5e7a6a337bf1f9f,bolt_main_u.mat,Tiny.VE.1,5487882,21844
+f8aec66b7e34af5f,ambient_particles_r.mat,Tiny.V5.1,4338952,45648
+986852d549ba1aac,ambient_particles_u.mat,Tiny.V1.1,4397968,9068
+4eb039a4afbe9049,ambient_particles_u2.mat,Tiny.V1.1,4407036,9066
+7293b8db78b548a3,sulphurpillar_glow_pass1.mat,Tiny.VE.1,5573140,34226
+332cb23a6d78a411,spire_activate_glow_pass1.mat,Tiny.V4.1,4896466,27264

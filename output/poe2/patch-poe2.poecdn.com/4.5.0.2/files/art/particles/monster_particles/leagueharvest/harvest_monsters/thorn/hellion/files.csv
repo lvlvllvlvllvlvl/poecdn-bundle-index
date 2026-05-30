@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+cf1cd8c99ab0beef,cloud_noise03c.mat,Tiny.V2,40704102,6262
+82090575efe76aef,sparkling.mat,Tiny.V1,40718073,2040
+14e4355a261e3cb5,sparkling_dxt5.dds,Tiny.VE,4430892,1572
+4d1def19e6393296,sparkling_dxt5.dds.header,Tiny.VD,4345787,504
+db1d7ab85e0f28a7,swoosh_background.mat,Tiny.V7,40771969,3304
+863a12ef3db21c25,swoosh_background_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.88569FD32DCCD042.mortartrail.trl,130823,5592580
+6b18a11ae17c517d,swoosh_background_dxt5.dds.header,Tiny.VE,40410960,1520
+4e94faee6489504b,swoosh1c.mat,Tiny.VB,41049801,2294
+ec6329b66c77ac9c,swoosh1.mat,Tiny.V8,40290359,3610
+e2983f8ed07a40c5,lava_dots.mat,Tiny.VA,40954832,2392
+546c8db0388711ea,light_gradient.mat,Tiny.V5,40368043,2318
+be0cc7d993d29037,light_gradient_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.3D82F5D5F36F420E.cyl.pet,446027,43852
+af31d2b16f1aed73,light_gradient_dxt1.dds.header,Tiny.V2,35118347,1520
+51c660398b0c4385,fire_bits_2x2.mat,Tiny.V7,40768267,3702
+6048fcfb075710cb,fire_bits_2x2_dxt5.dds,Streaming/Shared/Normal/Shared,175112,349700
+ff3c97d6a5918cd3,fire_bits_2x2_dxt5.dds.header,Tiny.V0,4643376,1520

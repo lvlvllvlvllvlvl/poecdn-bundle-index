@@ -1,0 +1,3 @@
+artic
+lightning
+trident

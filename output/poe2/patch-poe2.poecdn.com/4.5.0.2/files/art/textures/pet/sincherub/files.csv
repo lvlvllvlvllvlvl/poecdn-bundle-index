@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+f46f0535e1763213,sincherubcns.mat,Tiny.VC.1,1806238,5042
+280a38ba8c0fbcc2,sincherubns.dds,Streaming/Content/metadata/pet/cherub/sin.ao.1,0,1398276
+04e443042288a1ee,sincherubns.dds.header,Tiny.V6.1,1758190,1520
+928e74c21dcc42f9,sincherub_glossiness.dds,Streaming/Content/metadata/pet/cherub/sin.ao,2223262,1398276
+3f744754bc3843fc,sincherub_glossiness.dds.header,Tiny.V5.1,1248108,1520
+a23725dbbfcc57a6,sincherub_emissive.dds,Streaming/Content/metadata/pet/cherub/sin.ao,824986,1398276
+9a0fbbf09e9be3b7,sincherub_emissive.dds.header,Tiny.V7.1,1815662,1520
+b9144f94f66a50bb,sincherub_colour.dds,Streaming/Content/metadata/pet/cherub/sin.ao,125774,699212
+35857a0a5e377669,sincherub_colour.dds.header,Tiny.VD.1,1303965,1520

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+5ef9544614cfef18,formchange_audio.ao,Tiny.V0.1,75476216,1390
+6bc2a4f4cdbdc6d1,generalbuff_shock.epk,Tiny.V7.1,72874580,934
+4c412ea7affe98fa,shapeshift_outaudio.ao,Tiny.V9.1,175956210,868
+cb021b1af74db15f,shapeshift_inaudio.ao,Tiny.V5.1,74852250,1816
+dbd8d056d2eaa62f,debug_out.epk,Tiny.V7.1,72874150,430
+0ca83b87544f6960,debug_in.epk,Tiny.VA.1,74616346,428
+5c8b36f870652004,default_fx.epk,Tiny.VA.1,74616774,194
+ed3597e9f0c865be,default_out.epk,Tiny.V1.1,73696408,630
+c6d422d12252cedc,default_in.epk,Tiny.VB.1,75241193,628
+1af1d05cd959af6a,wyvernbuff_shock.epk,Tiny.V0.1,75477606,3028
+654df382854f6909,werewolfbuff_shock.epk,Tiny.VC.1,76568009,1292
+faedccbbe06c8278,werebearbuff_shock.epk,Tiny.V7.1,72875514,1284

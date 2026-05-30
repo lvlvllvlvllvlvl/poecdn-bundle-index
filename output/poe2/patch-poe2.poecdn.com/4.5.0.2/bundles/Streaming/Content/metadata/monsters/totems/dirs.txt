@@ -1,0 +1,12 @@
+ancestor_totem
+ballistas
+darkeffigytotem
+demonvine
+devouring_totem
+druidictotem
+earth_totem
+firespray
+generic_totem
+grenadetotem
+playersummoned
+shockwavetotem

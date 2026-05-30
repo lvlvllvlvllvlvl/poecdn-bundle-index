@@ -1,3 +1,0 @@
-shockwaves
-slam
-slam/merge

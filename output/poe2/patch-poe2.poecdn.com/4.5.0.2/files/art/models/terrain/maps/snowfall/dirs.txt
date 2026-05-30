@@ -1,0 +1,11 @@
+buildingledge
+buildingledge/tgms
+textures
+textures/architecture
+textures/doodads
+textures/ground
+textures/paintings
+textures/roof
+textures/wallvertexpaint
+textures/woodkit
+tgms

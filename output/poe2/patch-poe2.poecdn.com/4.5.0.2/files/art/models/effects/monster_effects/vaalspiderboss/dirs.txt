@@ -1,0 +1,13 @@
+basicmortar
+basicmortar/impact
+deathacid
+egghatch
+eggmortar
+eggmortarimpact
+riptideprojectile
+riptideprojectile/big
+riptideprojectile/big/projectile
+riptideprojectile/big/pulse
+shadowriptide
+webmortar
+webmortar/impact

@@ -1,0 +1,5 @@
+catacombs
+fissurecap
+goldvein
+laboratory
+sanctuary

@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+ac088082279ed38a,rig_a26c2d7b.smd,Tiny.V2,7478496,72
+155c932a7a93543d,rig_a26c2d7b.smd.header,Tiny.V7,7179316,368
+317933cd8a267682,arc_trap.sm,Tiny.V0,7399869,232
+42fc184117b59ea8,arc_trap.amd,Tiny.V2,5325824,86
+dba497bc1ed37c60,arc_trap.ast,Tiny.VD,7106108,2877

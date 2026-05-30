@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-52cccd5ef7ac26ad,thrust_stab_r.mat,Tiny.V0.1,41148442,27618
-53faebd3d5e3ea93,thrust_stab_u.mat,Tiny.V3.1,40865085,3134
-1437213545f6c4a3,zoom_distort_r.mat,Tiny.VD.1,42223820,9372
-e23979519efd5dda,zoom_distort_u.mat,Tiny.VE.1,19928816,3748
-9bb054d4853356b0,core_flash_r.mat,Tiny.V4.1,41339678,10346
-496d7176cb4b0c8e,core_flash_u.mat,Tiny.VE.1,12556962,310
-90427a4c55a209f9,mblur_sphere_r.mat,Tiny.VD.1,42213932,9888
-cdb15bba1a679282,mblur_sphere_u.mat,Tiny.VE.1,12556962,310

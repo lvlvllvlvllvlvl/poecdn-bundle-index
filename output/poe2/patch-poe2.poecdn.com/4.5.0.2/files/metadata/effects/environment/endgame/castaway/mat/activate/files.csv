@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+8f1cdb03fbe8e4be,activate_glow_pass_1.mat,Tiny.V2.1,6251160,33210
+0237c74591edfd22,sparks_r.mat,Tiny.V5.1,5864058,38972
+b81df2bbdd022df3,sparks_u.mat,Tiny.V3.1,6878359,9548
+47c0954bffbbe702,sand_dustclouds_r.mat,Tiny.V7.1,6620396,32740
+59d7ed4a6da8c264,sand_dustclouds_u.mat,Tiny.VE.1,6586442,14096
+52accff547a21ee5,bnpnt_emit_u.mat,Tiny.V7.1,6615740,4656
+adab9058eb1e865b,burst_distort_sphere_u.mat,Tiny.V8.1,6039128,2206
+3b6fd94b0706dc0f,explode_blur_r.mat,Tiny.V5.1,5850278,13780
+d39d89be2adf9349,explode_flash_r.mat,Tiny.V3.1,6848967,29392
+978588c50f1f611d,explode_flash_r2.mat,Tiny.V0.1,5747634,29446

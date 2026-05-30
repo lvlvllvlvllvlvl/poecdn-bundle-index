@@ -1,3 +1,0 @@
-explode
-marker
-poof

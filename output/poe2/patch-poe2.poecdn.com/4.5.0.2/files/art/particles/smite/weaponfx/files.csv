@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+2773265ec428fc14,blade_edge_dxt5.dds,Streaming/Content/metadata/effects/spells/crossbow/flaming_grd.ao,416287,87556
+41cf48cf4f3b8c59,blade_edge_dxt5.dds.header,Tiny.V2,41212067,1520
+dcbce74bfdd849c5,bloom_glow.mat,Tiny.V3,40655146,1202
+306da6f509d626ac,bloom_glow_dxt5.dds,Streaming/Content/metadata/effects/spells/smite/C8057B5110BA4E01.smite_weapon_surge.epk,524640,22020
+2afa7af750231d63,bloom_glow_dxt5.dds.header,Tiny.V5,5154540,1520
+2cd1cb1a7693f2de,lightning_bolts_thin.mat,Tiny.VB,41556813,1414
+b0d749fdba4e8a9d,lightning_bolts_thin_dxt1.dds,Streaming/Content/metadata/effects/spells/smite/C8057B5110BA4E01.smite_weapon_surge.epk,0,174940
+5126f7d3f94b324e,lightning_bolts_thin_dxt1.dds.header,Tiny.V4,41563504,504
+45edc2719e39847d,static02_7x7.mat,Tiny.V1,41290686,1694
+2f3e4bdeb64c1ef4,static02_7x7_dxt5.dds,Streaming/Content/metadata/effects/spells/smite/C8057B5110BA4E01.smite_weapon_surge.epk,174940,349700
+c41d99b2a9c4406d,static02_7x7_dxt5.dds.header,Tiny.V9,41866258,1520

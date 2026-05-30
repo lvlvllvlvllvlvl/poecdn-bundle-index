@@ -1,0 +1,8 @@
+chaosgodowliceskin
+chaosgodowliceskin/eyebrows
+chaosgodowliceskin/feathers
+chaosgodowliceskin/feathers/chest
+chaosgodowliceskin/feathers/l_arm
+chaosgodowliceskin/feathers/legs
+chaosgodowliceskin/feathers/r_arm
+feathers

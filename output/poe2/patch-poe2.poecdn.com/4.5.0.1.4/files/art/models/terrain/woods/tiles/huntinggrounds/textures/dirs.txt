@@ -1,4 +1,0 @@
-bramble
-glowingrocks
-ground
-rocks

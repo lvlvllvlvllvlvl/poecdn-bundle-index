@@ -1,7 +1,0 @@
-attachments
-attachments/cloak
-attachments/helmet
-attachments/skirt
-attachments/skirtfemale
-attachments/wings
-textures

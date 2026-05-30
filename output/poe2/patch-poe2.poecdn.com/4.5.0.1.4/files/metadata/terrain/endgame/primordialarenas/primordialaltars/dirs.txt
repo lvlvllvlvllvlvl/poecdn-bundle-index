@@ -1,5 +1,0 @@
-pet
-pet/cleansingfirealtar
-pet/cleansingfirealtar/altar_fadeout
-pet/tangledaltar
-pet/tangledaltar/altar_fadeout

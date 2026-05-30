@@ -1,0 +1,4 @@
+activate
+barrelexplosion
+explosion
+fog

@@ -1,0 +1,10 @@
+goldenones
+goldenones/attachments
+icecaster
+massgoldenskeleton
+massgoldenskeleton/attachments
+vaalforgeman
+vaalforgeman/attachments
+vaalforgemaster
+vaalforgemaster/attachments
+vaalforgemaster/objects

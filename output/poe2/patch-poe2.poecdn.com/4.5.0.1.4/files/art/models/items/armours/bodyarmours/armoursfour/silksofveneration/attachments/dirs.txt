@@ -1,8 +1,0 @@
-f
-f/cape
-f/skirt
-m
-m/cape
-m/capestr
-m/skirt
-m/skirtstr

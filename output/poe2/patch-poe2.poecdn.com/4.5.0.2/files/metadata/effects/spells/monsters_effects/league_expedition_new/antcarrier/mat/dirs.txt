@@ -1,0 +1,6 @@
+attackswipes
+charge
+emerge
+pounce
+pounce_slam
+shockwave

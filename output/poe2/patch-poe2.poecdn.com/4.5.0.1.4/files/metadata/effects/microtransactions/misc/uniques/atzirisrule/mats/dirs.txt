@@ -1,5 +1,0 @@
-emerge
-end
-hit
-mirrorobject
-projectile

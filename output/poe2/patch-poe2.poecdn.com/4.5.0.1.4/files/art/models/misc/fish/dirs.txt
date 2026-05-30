@@ -1,4 +1,0 @@
-floppyfish
-floppyfish/animations
-floppyfish/animations/wuzhiqiwatermonkey
-floppyfish/textures

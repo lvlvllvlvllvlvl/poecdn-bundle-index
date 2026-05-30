@@ -1,3 +1,0 @@
-heavy_damage
-increased_accur
-medium_damage

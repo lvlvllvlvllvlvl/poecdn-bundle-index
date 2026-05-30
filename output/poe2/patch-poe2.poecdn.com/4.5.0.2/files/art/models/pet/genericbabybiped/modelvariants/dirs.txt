@@ -1,0 +1,17 @@
+brutus
+brutus/attachments
+brutus/attachments/chain
+brutus/attachments/r_arm_chain
+brutus/attachments/skirt
+dominus
+dominus/attachments
+dominus/attachments/robe
+hillock
+hillock/attachments
+hillock/attachments/sword
+piety
+piety/attachments
+piety/attachments/costume
+piety/attachments/helmet
+piety/attachments/scepter
+piety/attachments/skirt

@@ -1,0 +1,7 @@
+base_fxs
+eat_fruit_01
+mirror_monster_summon_01
+shatter_close
+shatter_close_idle
+shatter_open
+spread_fog_01

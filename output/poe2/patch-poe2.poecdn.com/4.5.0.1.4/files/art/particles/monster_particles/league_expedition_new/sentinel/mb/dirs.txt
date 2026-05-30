@@ -1,2 +1,0 @@
-sentinel_components
-sentinel_main

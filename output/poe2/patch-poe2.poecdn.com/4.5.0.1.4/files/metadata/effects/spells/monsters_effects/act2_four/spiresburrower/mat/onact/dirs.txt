@@ -1,4 +1,0 @@
-attack
-attack_h
-attack_l
-bite_01

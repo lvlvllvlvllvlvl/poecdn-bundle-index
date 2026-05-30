@@ -1,0 +1,6 @@
+burp_rig
+corpse_slam_rig
+limb_proj_cone
+onact_burp_rig
+stomp_rig
+sulphite_vomit_grd

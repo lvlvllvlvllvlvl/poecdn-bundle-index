@@ -1,5 +1,0 @@
-demonicfire
-demonicfire/tex
-sanguinebone
-sanguinebone/curses
-sanguinebone/tex

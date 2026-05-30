@@ -1,6 +1,0 @@
-mane
-necklace
-robe
-roberigid
-sceptre
-tail

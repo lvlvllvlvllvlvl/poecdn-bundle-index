@@ -1,9 +1,0 @@
-textures
-twilightorderchests01
-twilightorderchests02
-twilightorderchests03
-twilightorderchests04
-twilightorderchests05
-twilightorderchests06
-twilightorderchests07
-twilightorderchests08

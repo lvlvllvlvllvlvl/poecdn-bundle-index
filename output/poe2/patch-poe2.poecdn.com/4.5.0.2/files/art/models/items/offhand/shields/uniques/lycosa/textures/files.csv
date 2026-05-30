@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+4dfabe68bb1d1e7d,lycosac.mat,Tiny.VE,10847952,1296
+643e2ee5cf20cb14,lycosawebc.mat,Tiny.VB,10874822,3326
+7151b085b86e09aa,lycosa_normal.dds,Streaming/Content/metadata/items/armours/shields/AF7CEA24241B741E.1EA2ECA5E903BBFD.lycosadrop.ao.1,0,2796388
+234660faf2fe9fcb,lycosa_normal.dds.header,Tiny.VD,10764578,840
+8758f43faf3959e1,lycosa_colour.dds,Streaming/Content/metadata/items/armours/shields/AF7CEA24241B741E.1EA2ECA5E903BBFD.lycosadrop.ao,71069,2796388
+8f57cbb37fdfcae9,lycosa_colour.dds.header,Tiny.V1,10787280,840
+51e8065cd5c78f3e,lycosaspiderc.mat,Tiny.V4,10910495,3102
+9f08e036c63ac04c,lycosaspider_metal.dds,Streaming/Content/metadata/items/armours/shields/AF7CEA24241B741E.1EA2ECA5E903BBFD.lycosaheld.ao.1,0,1398276
+8c9a06576146d302,lycosaspider_metal.dds.header,Tiny.VA,10878866,1520
+379ecefea1aa43fa,lycosaspider_normal.dds,Streaming/Content/metadata/items/armours/shields/AF7CEA24241B741E.1EA2ECA5E903BBFD.lycosaheld.ao.1,1398276,1398276
+d9440cf716c0f2d5,lycosaspider_normal.dds.header,Tiny.VE,10849248,1520
+659e32d87b47ae8d,lycosaspider_flowmap.dds,Streaming/Content/metadata/items/armours/shields/AF7CEA24241B741E.1EA2ECA5E903BBFD.lycosaheld.ao,876525,1398276
+b00940207309c551,lycosaspider_flowmap.dds.header,Tiny.V4,10908975,1520
+acfa441f92a43216,lycosaspider_colour.dds,Streaming/Content/metadata/items/armours/shields/AF7CEA24241B741E.1EA2ECA5E903BBFD.lycosaheld.ao,177313,699212
+74e2cff739690dd1,lycosaspider_colour.dds.header,Tiny.V0,11049692,1520

@@ -1,9 +1,0 @@
-attachments
-attachments/lankleorbs
-attachments/lshoulderorbs
-attachments/lwristorbs
-attachments/rankleorbs
-attachments/rshoulderorbs
-attachments/rwristorbs
-attachments/skirt
-attachments/waistrings

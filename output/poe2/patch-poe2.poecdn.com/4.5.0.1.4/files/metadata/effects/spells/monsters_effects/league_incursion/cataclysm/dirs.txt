@@ -1,4 +1,0 @@
-audio
-fx
-graphs
-mats

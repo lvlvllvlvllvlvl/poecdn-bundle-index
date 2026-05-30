@@ -1,8 +1,0 @@
-duelist
-duelist/textures
-ranger
-ranger/textures
-scion
-scion/textures
-templar
-templar/textures

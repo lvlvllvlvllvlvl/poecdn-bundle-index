@@ -1,4 +1,0 @@
-attachments
-attachments/shawl
-attachments/shoulderpads
-attachments/skirt

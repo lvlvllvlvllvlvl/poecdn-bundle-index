@@ -1,7 +1,0 @@
-charge_up
-maxed_out
-release
-release_max
-spirit_slash
-spirit_slash/shadow01
-surge

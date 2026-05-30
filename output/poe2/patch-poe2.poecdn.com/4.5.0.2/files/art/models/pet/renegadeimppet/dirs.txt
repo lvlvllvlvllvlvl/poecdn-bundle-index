@@ -1,0 +1,5 @@
+attachments
+attachments/currency
+attachments/l_thigh
+attachments/robe
+textures

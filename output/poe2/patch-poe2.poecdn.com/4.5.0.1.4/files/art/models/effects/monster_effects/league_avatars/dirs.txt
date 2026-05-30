@@ -1,9 +1,0 @@
-beam
-damagehit
-flameblast
-flameblast/circle
-flameblast/explode
-mortar
-ri_fire
-summons
-upheaval

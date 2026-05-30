@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+83107e0e41eca99b,mblur_direction_r.mat,Tiny.VB.1,198715122,24042
+62dfd304521c4336,mblur_direction_u.mat,Tiny.VD.1,5313278,346
+9791ea971695de56,dustsmoke_r.mat,Tiny.V7.1,196261900,23400
+c0a07990b2309d96,dustsmoke_u.mat,Tiny.V0.1,200152548,24174
+058da066a50e8733,portal_mblur_r.mat,Tiny.V4.1,198438291,13318
+969237a338f0c973,portal_mblur_u.mat,Tiny.V3.1,55906497,1384
+555f3f3dcaf7b97d,water_ribbon_02_r.mat,Tiny.VE.1,197427233,56898
+64f8750d0536fd2d,water_ribbon_u.mat,Tiny.V7.1,196285300,20128
+98fd8aa0b0ca755a,water_ribbon_r2.mat,Tiny.VB.1,198739164,25898
+09d2a5ecb5a19882,water_shimmer_r.mat,Tiny.V5.1,196276640,14588
+7c0d7d20ebf44a6c,water_splash_01_r.mat,Tiny.V4.1,198451609,47836
+8efec659ef2701c5,water_splash_01_u.mat,Tiny.VD.1,198832530,14240
+eef45c60dde92337,water_portal_01_r.mat,Tiny.V6.1,197832623,57772
+127e0f4a6de018a4,water_portal_01_u.mat,Tiny.V7.1,5363518,576

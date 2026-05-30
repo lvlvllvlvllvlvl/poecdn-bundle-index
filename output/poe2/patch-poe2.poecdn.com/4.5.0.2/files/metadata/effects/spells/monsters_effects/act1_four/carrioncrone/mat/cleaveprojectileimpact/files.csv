@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+0cc29c220005842a,cascadesnowbase_render.mat,Tiny.V2.1,151144008,25646
+683d6b10f4c99aa2,cascadesnowbase_update.mat,Tiny.V9.1,82921144,15144
+de531fa672bcdc2b,debrisinner_directional_r.mat,Tiny.VD.1,137381952,6946
+a253812bac5b9f9f,debris_directional_r.mat,Tiny.V8.1,138809556,20726
+2284296ac5a6d9ab,debris_radial_u.mat,Tiny.VB.1,79806471,21326
+fa783d4f758531f5,explode_r.mat,Tiny.V8.1,81056226,38922
+febcf0c594dc87e3,explode_u.mat,Tiny.V9.1,139436684,548
+5e5850e3fbd04168,bloodmist_r.mat,Tiny.VC.1,81079945,38372
+79970617bd8427cf,bloodmist_u.mat,Tiny.V9.1,139436684,548
+bf8f4a05f5063977,aoeshimmer_r.mat,Tiny.V0.1,137325876,17518
+d4aad85ba8aabff2,aoeshimmer_u.mat,Tiny.VE.1,12548232,310
+89b381c4535f1974,aoeflash_r.mat,Tiny.VF.1,77063450,22888
+d3f3861300511330,aoeflash_u.mat,Tiny.VE.1,12548232,310

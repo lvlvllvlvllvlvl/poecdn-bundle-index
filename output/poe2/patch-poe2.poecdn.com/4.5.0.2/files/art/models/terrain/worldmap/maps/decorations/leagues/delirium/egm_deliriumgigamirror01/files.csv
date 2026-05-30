@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+3ff461c62711abce,rig.amd,Tiny.V2,30519275,148
+55fa671a97a94aa1,rig.ast,Tiny.VC,33045451,319
+93050aac47568b35,rig_042de62c.smd,Streaming/Content/metadata/terrain/worldmaps/maps/CD07F2665713E7D4.986A55E39873D0F1.egm_deliriumgigamirror01.ao,0,22077
+a7eaef2a94d713a5,rig_042de62c.smd.header,Tiny.VA,34162865,395
+1a0b0bca69c250d3,rig_eac07dec.smd,Streaming/Content/metadata/terrain/worldmaps/maps/CD07F2665713E7D4.9EC4970A07679277.endgamemap_mothersoulsphere_01.ao,383097,24553
+4a41276a5a662330,rig_eac07dec.smd.header,Tiny.VF,34135602,401
+3dc6ea9aa78730f8,glass_shards_01.fmt,Streaming/Content/metadata/effects/spells/ascendancy_classes/47396DCF75004758.A2423F3D01E7A113.leapcone.pet,291650,19080
+ced7f38435823a16,glass_shards_01.fmt.header,Tiny.VA,34162228,637
+a01e41a3e0e6bf87,egm_deliriumgigamirror01_shards.sm,Tiny.V4,34284645,466
+e844d351ee266e14,egm_deliriumgigamirror01.sm,Tiny.V5,33547092,628

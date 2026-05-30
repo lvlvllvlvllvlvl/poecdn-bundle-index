@@ -1,5 +1,0 @@
-blight
-heist
-heist/punt
-synthesis
-synthesis/rainbowroadbridge

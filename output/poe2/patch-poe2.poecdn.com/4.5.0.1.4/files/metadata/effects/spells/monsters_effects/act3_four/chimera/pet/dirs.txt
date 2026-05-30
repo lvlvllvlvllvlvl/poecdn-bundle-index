@@ -1,5 +1,0 @@
-ambient
-fireball
-ground_lightning_bolt_01
-ground_rage_trigger
-icewall

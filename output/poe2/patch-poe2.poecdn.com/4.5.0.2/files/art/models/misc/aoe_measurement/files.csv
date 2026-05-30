@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+13b66fd11d82031b,red_bullseyec.mat,Tiny.V5,11485037,1434
+7fbec9a5526ed909,red_bullseye.dds,Tiny.V5,11484521,516
+4b683b6d136786f6,red_bullseye.dds.header,Tiny.V6,11812095,1520
+19efc72f388f5dec,rig_8a2b2805.smd,Streaming/Content/metadata/effects/spells/raisezombie_02/zombieblood.epk,1319714,7104
+a31ecbb522ab8b7c,rig_8a2b2805.smd.header,Tiny.V6,11813615,448
+2fc0e9dab9d2ad5a,aoemeasurement.sm,Tiny.V4,11798522,514
+59f5bf680952869d,aoemeasurement.amd,Tiny.VE,8086332,98
+84449e84398e0db9,aoemeasurement.ast,Tiny.V4,11798205,317
+c08ec60f81eabfa8,vert_ruler.fmt,Tiny.V4,11799036,1475
+b2fd9915439e08f0,vert_ruler.fmt.header,Tiny.V8,11598257,208
+d7ae9935705fe5b5,green_linec.mat,Tiny.V0,11918917,760
+f9ed194c4ea2879a,green_line_prtcl.mat,Tiny.VB,11837504,902
+fdaef49ccf534c99,green_line_bc7premult.dds,Streaming/Content/metadata/effects/spells/raisezombie_02/zombieblood.epk,619994,349860
+e712a5a429d4a530,green_line_bc7premult.dds.header,Tiny.V5,11484241,280
+e8f2c27f1a0d8fd8,green_line_dxt5.dds,Streaming/Content/metadata/effects/spells/raisezombie_02/zombieblood.epk,969854,349860
+e224542fbc80ac36,green_line_dxt5.dds.header,Tiny.VA,11747645,280

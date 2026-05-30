@@ -1,4 +1,0 @@
-attachments
-attachments/skirt
-attachments/skirtdex
-textures

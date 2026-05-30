@@ -1,9 +1,0 @@
-architecture
-cliffs
-edges
-ground
-shrines
-stalagmites
-titanerosionassets
-titangrotto
-titanvalleyworshippers

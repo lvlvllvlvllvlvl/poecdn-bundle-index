@@ -1,7 +1,0 @@
-delirium
-delirium/epks
-delirium/fx
-delirium/graphs
-delirium/mat
-delirium/mat/impact
-delirium/mat/muzzle

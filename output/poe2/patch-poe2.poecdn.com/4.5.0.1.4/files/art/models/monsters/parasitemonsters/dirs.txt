@@ -1,5 +1,0 @@
-parasitemonster01
-parasitemonster01/animations
-parasitemonster01/animations/anglerfishparasite
-parasitemonster02
-textures

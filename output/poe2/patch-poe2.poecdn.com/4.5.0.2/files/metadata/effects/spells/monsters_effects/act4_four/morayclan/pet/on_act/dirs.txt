@@ -1,0 +1,4 @@
+attack_01
+death_01
+emerge_01
+tail_whip_01

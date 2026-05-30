@@ -1,2 +1,0 @@
-automaton
-automaton/orb_attachment

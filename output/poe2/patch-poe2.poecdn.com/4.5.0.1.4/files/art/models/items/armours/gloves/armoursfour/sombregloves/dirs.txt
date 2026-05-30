@@ -1,3 +1,0 @@
-attachments
-attachments/dangle_r
-textures

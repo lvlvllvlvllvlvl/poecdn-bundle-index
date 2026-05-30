@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+7860a45292454199,base_new.mat,Tiny.VF,41735588,1480
+393772d22965a764,big_wisp_new.mat,Tiny.V3,41078113,1494
+1ff19536b448a347,big_wisp_new_dxt5.dds,Streaming/Content/metadata/effects/environment/wisp_swarm_darkgreen_glow.ao,0,22020
+ab593ab64ca2894e,big_wisp_new_dxt5.dds.header,Tiny.V2,41556596,1520
+04e386ba00394347,glowfly_white_new.mat,Tiny.V8,41315776,1102
+df0fbc734da1c22e,glowfly_white_new_dxt5.dds,Tiny.VE,41394265,516
+fb9f528a4d6eb88a,glowfly_white_new_dxt5.dds.header,Tiny.V7,41771166,1520

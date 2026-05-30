@@ -1,6 +1,0 @@
-beam
-cold
-explosion
-fire
-lightning
-redlightning

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+0d1c71d19a5efef1,throwing_daggerc.mat,Tiny.VD,39326083,5560
+a2fc15983375c078,throwing_dagger_specular_dxt5.dds,Streaming/Content/metadata/projectiles/undyingmortarimpact.ot,151298,22052
+de13cdedf1def6bb,throwing_dagger_specular_dxt5.dds.header,Tiny.V7,39097665,504
+5beb036dc1480387,throwing_dagger_normal_dxt5.dds,Streaming/Content/metadata/projectiles/undyingmortarimpact.ot,129246,22052
+63bc6f51444d83ec,throwing_dagger_normal_dxt5.dds.header,Tiny.VF,39131474,504
+b12c285e1836ffcb,throwing_dagger_glow.dds,Streaming/Content/metadata/projectiles/undyingmortarimpact.ot,107194,22052
+7100f56c0b029a9e,throwing_dagger_glow.dds.header,Tiny.VB,39493088,504
+71095448c08da57e,throwing_dagger_colour.dds,Streaming/Content/metadata/projectiles/undyingmortarimpact.ot,85142,22052
+f0e25d05529fdf9b,throwing_dagger_colour.dds.header,Tiny.VF,39130970,504

@@ -1,0 +1,3 @@
+death_sparks
+deathflame_zone
+staff_beam

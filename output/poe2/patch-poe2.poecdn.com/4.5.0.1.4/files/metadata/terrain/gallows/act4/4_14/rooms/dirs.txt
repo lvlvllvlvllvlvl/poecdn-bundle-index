@@ -1,4 +1,0 @@
-coast
-dunes
-overlays
-piers

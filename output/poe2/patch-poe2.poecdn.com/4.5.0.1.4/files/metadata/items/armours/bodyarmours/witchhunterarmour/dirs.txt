@@ -1,5 +1,0 @@
-attachments
-attachments/witchhunter_cloak
-whitevariant
-whitevariant/attachments
-whitevariant/attachments/witchhunterwhite_cloak

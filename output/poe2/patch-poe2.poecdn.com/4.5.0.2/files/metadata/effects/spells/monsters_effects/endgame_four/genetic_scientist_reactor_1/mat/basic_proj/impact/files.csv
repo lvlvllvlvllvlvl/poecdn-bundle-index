@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+4df317aed9b54d96,wispy_flare_r.mat,Tiny.VB.1,128744049,51280
+61b49a1c71111384,wispy_flare_u.mat,Tiny.VD.1,5313278,346
+47af2a53f338bf2d,zoom_distort_r.mat,Tiny.V7.1,123819866,12130
+aec9b7d480bf5cac,zoom_distort_u.mat,Tiny.VD.1,5313278,346
+85377cd71c91d84f,beaming_halfsphere_r.mat,Tiny.V3.1,126371979,60050
+cc2e48d183238427,beaming_halfsphere_u.mat,Tiny.VF.1,123731178,2698
+213f08f6074efeba,impacshadoworb_r.mat,Tiny.V3.1,126432029,35880
+39e2dbdbaf595ef3,impacshadoworb_u.mat,Tiny.V8.1,127089274,3986
+6fcefc725fb13234,impact_r.mat,Tiny.VB.1,128726947,17102
+f5c7a093e8802c51,impact_u.mat,Tiny.VD.1,5313278,346
+8daca4f54f9eea60,impactembers_r.mat,Tiny.V9.1,128609494,31222
+26813e4aeb1cb56e,impactembers_u.mat,Tiny.V0.1,125898918,19666
+b878fc7c0e5230dc,shattersparks_r.mat,Tiny.VF.1,123733876,29700
+566506d7549bb0c3,shattersparks_u.mat,Tiny.V4.1,125816644,11020

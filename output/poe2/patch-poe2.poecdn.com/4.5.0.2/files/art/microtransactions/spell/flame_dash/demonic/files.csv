@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+1e60095ed4935507,grad.mat,Tiny.VF,5034687,1388
+e284c6ad051fd9cb,smoke_grain_ab.mat,Tiny.V5,5172230,3410
+ce0cd575da164588,sparks_mass.mat,Tiny.VB,3513021,1638
+9cb639d7b57dcb66,surge_trail.mat,Tiny.VB,5201846,3234
+e818c608fde08387,fire_bits_2x2_add.mat,Tiny.V5,5168848,3382
+d92a8139d3f90129,fire_bits_2x2_add_burn.mat,Tiny.VD,5137740,2886
+fb1226ff2d2a9388,flame_neo_tip.mat,Tiny.VE,5114351,2566
+dab3d1166d269ea2,flame_neo_at.mat,Tiny.V4,5258618,2710
+4ac679f7d51df079,flame_neo_at_dxt5.dds,Streaming/Content/metadata/monsters/totems/demonvine/B8A6BC6D1B3F6BE0.CAE58C92B230AD8B.lightning_strike_impact.pet,174924,349732
+a07f5c19a485aa54,flame_neo_at_dxt5.dds.header,Tiny.V1,5126145,504

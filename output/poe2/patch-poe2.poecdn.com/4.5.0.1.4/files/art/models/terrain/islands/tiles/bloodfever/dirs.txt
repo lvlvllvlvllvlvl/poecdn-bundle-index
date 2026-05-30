@@ -1,9 +1,0 @@
-areatransition
-areatransition/tgms
-features
-features/arenasmashedwall
-features/tgms
-textures
-textures/agriculture
-textures/bossarena
-tgms

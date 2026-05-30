@@ -1,0 +1,8 @@
+belt
+helmet_dangle
+l_shoulder_dangle
+mutation
+mutation_robe
+r_shoulder_dangle
+robe
+torso_dangle

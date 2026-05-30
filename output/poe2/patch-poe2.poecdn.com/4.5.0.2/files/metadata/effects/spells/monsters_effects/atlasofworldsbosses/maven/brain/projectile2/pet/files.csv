@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+d9b1e84c1c467cd6,impact_midline.pet,Tiny.VF.1,117144672,43446
+bcb38560cc53b6eb,spellcast_top.pet,Tiny.VA.1,119804732,12750
+75b2a8f44e649075,projectile_trailline.trl,Tiny.V1.1,120341802,8348
+cea6497e20f94328,projectile_midline.pet,Tiny.V3.1,119245431,48722
+45f7f2b0e2adf23d,volatile_explode.pet,Tiny.V7.1,116836092,18718
+316fee35aaef844b,volatile_idle.pet,Tiny.VF.1,117188118,12418
+924ecfd7ccce0eff,enraged_spellcast_top.pet,Tiny.V4.1,119319906,17754
+3a4d4bfcacd16182,enraged_volatile_explode.pet,Tiny.VB.1,121496275,29684
+0773bef93494e8a2,enraged_volatile_idle.pet,Tiny.V4.1,119337660,25674

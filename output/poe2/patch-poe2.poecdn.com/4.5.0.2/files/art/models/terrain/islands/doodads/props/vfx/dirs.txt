@@ -1,0 +1,2 @@
+lantern01
+lantern01/textures

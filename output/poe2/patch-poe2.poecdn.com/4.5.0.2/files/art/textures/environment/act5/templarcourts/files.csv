@@ -1,0 +1,102 @@
+hash,file,bundle,offset,size
+6fbd95ab53f9d1e1,wallpannel1ns.dds,Streaming/Content/metadata/terrain/doodads/leagues/EF6F9436A4A9708F.beast_trophy_v01_02.ao,18511,1398276
+57d4396c75955cd7,wallpannel1ns.dds.header,Tiny.V6,42243041,1520
+91587d052cec27f5,wallpannel1_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.1D976DA638FAD9B5.lab_flaskshelf_v01_04.ao,2629515,1398276
+ef5519b37dda62df,wallpannel1_normal_dxt5.dds.header,Tiny.VA,42311161,1520
+87fa5cdf9838c827,wallpannel1_color_bc7.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.1D976DA638FAD9B5.lab_flaskshelf_v01_04.ao,1231239,1398276
+34a5ddb55ba67890,wallpannel1_color_bc7.dds.header,Tiny.V2,41922352,1520
+ba9b0e1a7514bfdd,wallpannel1_color.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.1D976DA638FAD9B5.lab_flaskshelf_v01_04.ao,532027,699212
+1ea39b38769272b5,wallpannel1_color.dds.header,Tiny.VE,41704871,1520
+72bf1467c5a5cda9,wallpannel1_colorc.mat,Tiny.V1,42100647,2500
+5c05635b5c8a87cb,wallpannel1_colorcwallpannel1ns.mat,Tiny.V4,42369559,2056
+7a971c07aba4688a,floorc.mat,Tiny.VA,42306983,2658
+06368cecad0f6d7a,floor_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/mtx/equip_preview_backdrop_poem.ao.1,2097488,1398276
+fc61d430b2bef340,floor_normal_dxt5.dds.header,Tiny.VA,42305463,1520
+cbd7e9fcdbd7f9d5,floor_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/mtx/equip_preview_backdrop_poem.ao.1,699212,1398276
+c8a8a1b278e025ea,floor_colour_bc7.dds.header,Tiny.V6,42241521,1520
+e43b81ab70529928,floor_colour.dds,Streaming/Content/metadata/terrain/doodads/mtx/equip_preview_backdrop_poem.ao.1,0,699212
+814effc97c6e527d,floor_colour.dds.header,Tiny.V8,41688318,1520
+3db3a886e20347ac,dominus_portraitc.mat,Tiny.V0,42308131,2602
+58a124f99b9e9e88,dominus_portrait_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.3AB23FCA5E22DFC2.dominus_portrait_v01_01.ao,524624,349700
+0197894fcc0b147f,dominus_portrait_normal_dxt5.dds.header,Tiny.V3,41429553,1520
+386a4f3dd1c4815f,dominus_portrait_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.3AB23FCA5E22DFC2.dominus_portrait_v01_01.ao,174924,349700
+6a2c980b65e06436,dominus_portrait_colour_bc7.dds.header,Tiny.V2,41916192,1520
+e9d6adb672b9291c,dominus_portrait_colour.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.3AB23FCA5E22DFC2.dominus_portrait_v01_01.ao,0,174924
+5fd337d09e1f9468,dominus_portrait_colour.dds.header,Tiny.V7,42170986,1520
+fb655f7952c66a39,descry_wallc.mat,Tiny.V8,41685440,2878
+ca2a3f16cebe3a33,descry_wall_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/4758868C82B25581.ascent_rock_large_01_01.ao,281093,87556
+9ba624b2b4db5dfb,descry_wall_normal_dxt5.dds.header,Tiny.V4,42368039,1520
+24973abb8b45c870,descry_wall_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/act5/4758868C82B25581.ascent_rock_large_01_01.ao,193537,87556
+d0c5b81a4c13cc62,descry_wall_colour_bc7.dds.header,Tiny.V2,41914672,1520
+dc028c9decf72261,descry_wall_colour.dds,Streaming/Content/metadata/terrain/doodads/act5/4758868C82B25581.ascent_rock_large_01_01.ao,149685,43852
+a498b47827909e0b,descry_wall_colour.dds.header,Tiny.VF,42097724,1520
+b702f13e51c7e9c3,bookcase_window_specular_masked.dds,Streaming/Content/metadata/terrain/doodads/hideouts/751CA9742BB3D18E.flaskcabinet_01.ao,497833,87556
+b521e40936f7b309,bookcase_window_specular_masked.dds.header,Tiny.V2,41913152,1520
+c7f763c88abb7e04,bookcase_window_colorcbookcase_windows.mat,Tiny.VD,42334892,1908
+e2890d7d8aeb713e,bookcase_window_color.dds,Streaming/Content/metadata/terrain/doodads/hideouts/751CA9742BB3D18E.flaskcabinet_01.ao,410277,87556
+bb84c6ba2fafd49f,bookcase_window_color.dds.header,Tiny.V0,42302051,1520
+6fc8f9bd93363b9e,burned wood_opaquec.mat,Tiny.VD,42336800,2626
+9f58065f4fa7c412,burned wood_opaque_colour.dds,Tiny.VA,42302403,1540
+e162906b1b6d61b2,burned wood_opaque_colour.dds.header,Tiny.V0,42305091,1520
+25eea6ad5cd7a881,burned wood_decalc.mat,Tiny.V4,42363527,2702
+2d7483aa6c1dc1c3,burned wood_decal_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act3/8471248FBE9788CD.woodpile_v01_010.ao,577519,349700
+a5b12260b40dc7af,burned wood_decal_normal_dxt5.dds.header,Tiny.VF,42096204,1520
+c5122d0d401b6d7b,burned wood_decal_colour_bc1.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.12F87AB9F9F3AA3F.templar_burned_bookshelf_v01_01.ao,135441,174924
+1f6e8857783cbdec,burned wood_decal_colour_bc1.dds.header,Tiny.V0,42303571,1520
+c755032f8a28cd3c,burned wood_decal_colour.dds,Streaming/Content/metadata/terrain/doodads/act3/8471248FBE9788CD.woodpile_v01_010.ao,227819,349700
+f4b5da01f7a17a1b,burned wood_decal_colour.dds.header,Tiny.V7,42166194,1520
+636658862fce6aad,templar_banner01c.mat,Tiny.V2,41917712,2602
+80b63aeca50e4e0d,templar_banner01_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.3AB23FCA5E22DFC2.templar_reading_table_v01_02.ao,650280,349700
+97621889617cd638,templar_banner01_normal_dxt5.dds.header,Tiny.VE,41699223,1520
+a6b6ab9a646a3290,templar_banner01_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.3AB23FCA5E22DFC2.templar_reading_table_v01_02.ao,300580,349700
+6f34ab1b6dac3e46,templar_banner01_colour_bc7.dds.header,Tiny.V7,42172506,1520
+37814b590b229554,templar_banner01_colour.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.3AB23FCA5E22DFC2.templar_reading_table_v01_02.ao,125656,174924
+7a70314e6c000674,templar_banner01_colour.dds.header,Tiny.VD,42339426,1520
+8cdea2cad694afbc,templar_window01c.mat,Tiny.VD,42340946,2944
+a3d51abc11145b70,templar_window01_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/mtx/8B71BF92C60D942F.corsair_wall_07.ao,0,349700
+5d6e149738f14434,templar_window01_normal_dxt5.dds.header,Tiny.V9,42700101,1520
+dd55eea8067d6952,templar_window01_colour.dds,Streaming/Content/art/models/terrain/hideout/DB3CD9B4C2B419A5.largecartupperendwheel_01_largecartedge.fmt,381318,349700
+1db917598f727e9f,templar_window01_colour.dds.header,Tiny.V9,42698581,1520
+64b9fc13a8a961a9,templar_fireplace_normal_dxt5.dds,Streaming/Content/data/worldareas/hideoutyaochi.vworld.1,18877136,1398276
+5a62ea2410f67b9e,templar_fireplace_normal_dxt5.dds.header,Tiny.V4,43145999,1520
+c47cbcda3eb14349,templar_fireplace_colorc.mat,Tiny.VE,41702263,2608
+5921a225d6885049,templar_fireplace_color_bc7.dds,Streaming/Content/data/worldareas/hideoutyaochi.vworld.1,17478860,1398276
+08af141633b75f6f,templar_fireplace_color_bc7.dds.header,Tiny.V0,42310733,1520
+9ba5ff52a0961d61,templar_fireplace_color.dds,Streaming/Content/metadata/effects/microtransactions/hideout/6EC4A36976C0B7C0.wranglerwall_04.ao,140630,699212
+eb434bdb7851f9f7,templar_fireplace_color.dds.header,Tiny.VE,41700743,1520
+7c340cf6ba8865d3,templarscourtmatc.mat,Tiny.V5,41683206,2328
+632b06e7c02848f4,templarscourtmatopaquec.mat,Tiny.V2,41920314,2038
+f8f8afa66b5a501e,templarscourtmatburnedc.mat,Tiny.V1,42098441,2206
+c5202701c7ad1874,templarscourtmatburned_normals_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.12F87AB9F9F3AA3F.templarcourt_rug_round2_burned.ao,1398276,1398276
+9116e649b6c21520,templarscourtmatburned_normals_dxt5.dds.header,Tiny.VF,42100764,1520
+e7ebb9f2a6116fcc,templarscourtmatburned_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.12F87AB9F9F3AA3F.templarcourt_rug_round2_burned.ao,0,1398276
+80dac7b6967ac693,templarscourtmatburned_colour_dxt5.dds.header,Tiny.VB,42384286,1520
+c930a1e3ac18052a,templarscourtmat_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.2512BD66E698CCAF.relic_display_v03_07.ao,729515,1398276
+6ba7fbb1d3bcb707,templarscourtmat_normal_dxt5.dds.header,Tiny.VC,42519252,1520
+b3121022501954ff,templarscourtmat_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/oriath/045C354C25D3176B.map_board_v03_02.ao,0,1398276
+24b0c67797e43b51,templarscourtmat_colour_bc7.dds.header,Tiny.VF,42099244,1520
+d10555f409ed826d,templarscourtmat_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.2512BD66E698CCAF.relic_display_v03_07.ao,30303,699212
+a3a4b66525c28727,templarscourtmat_colour_dxt1.dds.header,Tiny.VA,42309641,1520
+8b2bfcc6c9c86d4a,thinwall_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.3AB23FCA5E22DFC2.bench_v03_01.ao,729924,1398276
+c1f768bd21c182db,thinwall_normal_dxt5.dds.header,Tiny.VF,42102284,1520
+01877dc8c46cd84e,thinwall_colorc.mat,Tiny.VD,42343890,2026
+68f555e2fc6db953,thinwall_color_bc1.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.3AB23FCA5E22DFC2.bench_v03_01.ao,30712,699212
+2df81495033ab69f,thinwall_color_bc1.dds.header,Tiny.V0,42312253,1520
+ff7c8a1dcd61d89b,court_books_burnedc.mat,Tiny.V4,42366229,1810
+c248966d0a45f1bc,court_books_burned_colour_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.12F87AB9F9F3AA3F.templar_burned_bookshelf_v01_01.ao,310365,349700
+71b39e141a277929,court_books_burned_colour_dxt5.dds.header,Tiny.V7,42167714,1520
+d4fc5cf4b1a4d0fe,court_books_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.3AB23FCA5E22DFC2.templar_desk_v02_03.ao,1096635,349700
+d874d4c242abd656,court_books_normal_dxt5.dds.header,Tiny.VE,41697703,1520
+0cd70ae60ceea612,court_books_colorc.mat,Tiny.V7,42169234,1752
+495cab0dfe7ddf7b,court_books_color_dxt5.dds,Streaming/Content/metadata/terrain/doodads/act5/2D6C87B99BF5677B.3AB23FCA5E22DFC2.templar_desk_v02_03.ao,746935,349700
+cb29dc3f2389ca1e,court_books_color_dxt5.dds.header,Tiny.V8,41683920,1520
+6ef8a56ab225e2d0,court_books_color_bc1.dds,Streaming/Content/metadata/terrain/doodads/leagues/7BCCFE2A3F8B5885.fieldtable_03.ao,386553,174924
+75d90f9f91f26b43,court_books_color_bc1.dds.header,Tiny.V0,42306611,1520
+95453d522e9591d4,court_books_color_noshadowc.mat,Tiny.V5,41680508,2698
+fa0e689a24048bad,court_books_color_noshadow_dxt5.dds,Streaming/Content/metadata/terrain/doodads/leagues/7BCCFE2A3F8B5885.fieldtable_03.ao,561477,349700
+c590ec32741219d0,court_books_color_noshadow_dxt5.dds.header,Tiny.V8,41683920,1520
+4cbbe83798062a58,cage_metal01c.mat,Tiny.V8,41681354,2566
+a1403bd5ede44862,cage_metal01_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/itemracks/armourstand_karui_05.ao,356589,349700
+66a58182e20f1206,cage_metal01_normal_dxt5.dds.header,Tiny.VA,42303943,1520
+cea7a805a558f91b,cage_metal01_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/itemracks/armourstand_karui_05.ao,181665,174924
+46300cffa6060d5a,cage_metal01_colour_dxt1.dds.header,Tiny.V5,41678988,1520

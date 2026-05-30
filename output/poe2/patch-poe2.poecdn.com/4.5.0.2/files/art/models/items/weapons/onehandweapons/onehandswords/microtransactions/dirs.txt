@@ -1,0 +1,6 @@
+archnemesisparadoxica
+archnemesisparadoxica/textures
+ringmastercane
+ringmasterfeathersword
+zodiacdragonsword
+zodiacdragonsword/attachments

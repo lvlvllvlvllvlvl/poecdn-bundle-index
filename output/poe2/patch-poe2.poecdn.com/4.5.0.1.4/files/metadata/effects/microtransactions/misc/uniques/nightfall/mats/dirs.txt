@@ -1,5 +1,0 @@
-epk
-shieldproj
-shieldproj/explode
-shieldproj/trail
-slam

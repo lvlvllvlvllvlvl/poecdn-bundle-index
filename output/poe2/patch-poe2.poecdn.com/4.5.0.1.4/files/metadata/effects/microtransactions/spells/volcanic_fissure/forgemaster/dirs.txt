@@ -1,8 +1,0 @@
-fx
-fx/fissure_01
-graphs
-mat
-mat/fissure_01
-mat/fissure_01/start_01
-mat/idle
-mat/onact

@@ -1,4 +1,0 @@
-death
-emerge
-idle
-spellcast_aoe

@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+6915612f57f3c7fa,tendrilwalldecalc.mat,Tiny.V1,42428595,5176
+a8a2eb98030c08de,tendrilwalldecal_iridescence_mask_dxt1.dds,Streaming/Content/data/worldareas/A0/mapoasis.vworld,1513467,22012
+224f88c4f4086233,tendrilwalldecal_iridescence_mask_dxt1.dds.header,Tiny.V4,42744759,840
+548bbb3cde3ba7ec,tendrilwalldecal_normal_dxt5.dds,Streaming/Content/data/worldareas/F6/mapoasis.vworld,241146,2796388
+60b1ee9c6bd3c263,tendrilwalldecal_normal_dxt5.dds.header,Tiny.V1,42427755,840
+d69d18130d660b58,tendrilwalldecal_colour_dxt5.dds,Streaming/Content/data/worldareas/78/mapoasis.vworld,878571,2796388
+9ffd0b611f515ac0,tendrilwalldecal_colour_dxt5.dds.header,Tiny.V1,42426915,840

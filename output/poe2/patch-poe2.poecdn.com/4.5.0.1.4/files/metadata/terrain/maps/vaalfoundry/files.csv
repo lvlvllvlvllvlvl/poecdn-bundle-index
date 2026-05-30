@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-283bc55c4cfca943,generate.rs,Tiny.VD.1,209766416,4718
-e1888c3162c854f9,random_fill_tiles.gft,Tiny.V6.1,200871664,654
-9fdd9a5278240bea,tiles.tst,Tiny.V4.1,210289722,33974
-54fa088a488621c2,combination.ecf,Tiny.V9.1,203300177,3522
-2827e1909bab1623,chests.cht,Tiny.VC.1,213396914,208
-dea98ac69c11658c,master.tsi,Tiny.VA.1,210991506,790
-0cae6697a98d1ef8,material_overrides.tmo,Content/data/balance/worldareas/mapcliffside.vworld,983055,47192
-d15a27912948da9d,materials.mtd,Tiny.VA.1,210992296,812

@@ -1,5 +1,0 @@
-attachments
-attachments/deliriumreskin
-attachments/deliriumreskin/skirt
-attachments/deliriumreskin/tentacles
-textures

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+a131ef8210a54d7d,medved_entrance_01.tgt,Content/data/balance/worldareas/mapdeserted.vworld,3357498,17884
+1c11f06b7a5279a5,vorana_hole_01.tgt,Content/data/balance/worldareas/expeditionsubarea_voranaboss.vworld,3464470,10850
+1c5f3278be3e0564,rooffade_olrothdoor_01.fmt,Streaming/Content/metadata/terrain/leagues/expedition/DFB0A6340C2D948C.9E82336947FCD8B5.runeplate.ao,3516313,446592
+64be3c518de42a12,rooffade_olrothdoor_01.fmt.header,Tiny.V8,27167177,1115
+3b147a21da7946b4,rooffade_uhtreddoor_01.fmt,Streaming/Content/metadata/terrain/leagues/expedition/7FF6CE1239CFA86C.F706E688436DC7D0.rooffade_uhtreddoor_01.ao,0,284176
+956919e124980cc3,rooffade_uhtreddoor_01.fmt.header,Tiny.V0,27431372,428
+e053a74ee05159c7,olrothcliffentrance_01.tgt,Content/data/balance/worldareas/maprustbowl.vworld,2704194,6246
+fc0d5f27f742081b,olrothcliffentrance_02.tgt,Content/data/balance/worldareas/maprustbowl.vworld,2710440,12768
+271736c1472c8125,uhtred_entrance_01.tmd,Tiny.V8,27199666,4398
+beace925b694350d,uhtred_entrance_01.tgt,Content/data/balance/worldareas/expeditionsubarea_uhtredboss.vworld,0,14868

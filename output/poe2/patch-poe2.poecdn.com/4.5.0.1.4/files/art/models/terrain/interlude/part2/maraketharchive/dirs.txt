@@ -1,4 +1,0 @@
-abyss
-abyss/tgms
-thickwall
-thickwall/tgms

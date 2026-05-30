@@ -1,9 +1,0 @@
-graphs
-rooms
-rooms/backstreets
-rooms/canal
-rooms/fills
-rooms/unique
-tiles
-tiles/buildingwall_facade
-tiles/innerwalls

@@ -1,9 +1,0 @@
-attachments
-attachments/f
-attachments/f/cape
-attachments/f/skirt
-attachments/m
-attachments/m/cape
-attachments/m/skirt
-attachments/m/skirtstr
-textures

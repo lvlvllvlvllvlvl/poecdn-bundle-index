@@ -1,7 +1,0 @@
-mbs
-mbs/fodder1_mortar
-mbs/fodder1_mortar_impact
-mbs/fodder1_mortar_shockwave
-mbs/fodder2_rage_slam
-mbs/meteor_fall
-tex

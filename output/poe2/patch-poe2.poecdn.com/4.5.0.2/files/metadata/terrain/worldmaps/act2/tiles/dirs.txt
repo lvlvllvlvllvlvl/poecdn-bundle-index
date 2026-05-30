@@ -1,0 +1,8 @@
+desertchasm
+desertcliffs
+desertcliffsnooverlays
+desertdunes
+desertmountains
+desertsand
+locations
+voidborder

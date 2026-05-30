@@ -1,9 +1,0 @@
-epk
-fx
-mat
-mat/arrow_poison
-mat/debuff
-mat/explosion
-mat/muzzlespell_blight
-mat/projectile
-trl

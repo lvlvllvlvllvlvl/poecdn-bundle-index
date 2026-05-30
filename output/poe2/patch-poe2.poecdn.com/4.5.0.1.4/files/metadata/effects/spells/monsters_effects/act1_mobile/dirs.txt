@@ -1,6 +1,0 @@
-tenderizer
-tenderizer/ao
-tenderizer/pet
-tenderizer/pet/on_act
-tenderizer/pet/on_act/corpseboom
-tenderizer/pet/on_act/ground_slam

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+5f5c583a042c4e31,lp_core.pet,Tiny.V5.1,55134350,10122
+00013ca9489b8d47,rig.ao,Tiny.V5.1,55147144,9862
+d8162b367c48599f,rig_map.ao,Tiny.V3.1,54641815,9710
+662a729f900a2b37,op_core.pet,Tiny.V5.1,55144472,2672
+eefcc00dc2d69e6e,op_flash.pet,Tiny.V8.1,57182730,5266
+cbcbb84547e927ab,op_floor_cyl.pet,Tiny.V2.1,56443732,12910
+ac54a0bfd23e252d,op_floor_heads.pet,Tiny.V3.1,54639175,2640
+61df1e76c8decda1,add_pulse.fxgraph,Content/metadata/effects/environment/hideout/frontier_wild/wild_feather_rain.ao,867377,70160
+b5277871b1450826,alb.fxgraph,Content/metadata/effects/microtransactions/town_portals/darkseerportal/op_floor_cyl.pet,331293,48206

@@ -1,0 +1,7 @@
+attached
+epk
+fx
+graphs
+mats
+mats/leftarm_speed
+mats/rightarm_aoe

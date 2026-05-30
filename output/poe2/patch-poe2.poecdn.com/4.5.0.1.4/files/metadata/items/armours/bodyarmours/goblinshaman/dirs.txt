@@ -1,5 +1,0 @@
-attachments
-attachments/goblinshamanclothdangles
-white_variant
-white_variant/attachments
-white_variant/attachments/goblinshamanclothdangles

@@ -1,5 +1,0 @@
-attachments
-models
-shapeshifters
-textures
-witch

@@ -1,3 +1,0 @@
-attachments
-segmented
-textures

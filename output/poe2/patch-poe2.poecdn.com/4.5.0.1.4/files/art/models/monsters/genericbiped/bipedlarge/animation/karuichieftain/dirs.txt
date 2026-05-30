@@ -1,3 +1,0 @@
-npc
-phase1
-phase1/bloodfeverkaruicaptain

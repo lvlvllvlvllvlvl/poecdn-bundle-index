@@ -1,5 +1,0 @@
-beam_ruckus
-on_act
-slash_barrage
-spam_projectiles
-warcry

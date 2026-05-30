@@ -1,8 +1,0 @@
-area15
-area15/rooms
-area3
-area3/groundtypes
-area4
-area4/groundtypes
-area5level1
-area5level1/groundtypes

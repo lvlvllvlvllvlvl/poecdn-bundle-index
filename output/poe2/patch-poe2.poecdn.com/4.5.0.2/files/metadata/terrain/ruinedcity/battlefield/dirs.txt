@@ -1,0 +1,4 @@
+rooms
+rooms/fills
+rooms/fills/guardianbodies
+rooms/fills/soldierbodies

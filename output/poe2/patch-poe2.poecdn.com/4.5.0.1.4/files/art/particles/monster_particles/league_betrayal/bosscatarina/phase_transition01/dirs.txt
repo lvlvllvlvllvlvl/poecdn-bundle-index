@@ -1,8 +1,0 @@
-death_sparks
-death_sparks/fx
-deathflame_zone
-deathflame_zone/fx
-staff_beam
-staff_beam/fx
-staff_totem
-staff_totem/fx

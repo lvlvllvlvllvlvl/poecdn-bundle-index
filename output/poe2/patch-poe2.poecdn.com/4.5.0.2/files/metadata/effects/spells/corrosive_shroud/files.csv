@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+9545af858e9c9837,buff_apply.ao,Tiny.V3.1,73021599,2200
+2217fdf1563281ca,corrosive_affected.epk,Tiny.V7.1,70634424,368
+87b5e340f586b4a0,corrosive_affected_loop.ao,Tiny.V9.1,76082536,1268
+e5c23a59409ecba1,corrosive_start.ao,Tiny.VF.1,70546512,2202
+50f358e0fcace3ac,corrosive_shroud_aura.ao,Tiny.V4.1,72949740,2554
+f79568f42e4b333a,corrosive_shroud_active.epk,Tiny.VB.1,73076799,628
+165faee2ad31fe49,corrosive_shroud_active_epk_pass0.mat,Tiny.VC.1,74535729,556
+46a7bcfc1f343b6f,poison_max.ao,Tiny.V3.1,73024519,2190
+ea42a677b4bda63b,playeractiveloop.ao,Tiny.V3.1,73023799,720

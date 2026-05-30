@@ -1,4 +1,0 @@
-chargebeam
-chrono_edge
-doom_cyl
-doom_end

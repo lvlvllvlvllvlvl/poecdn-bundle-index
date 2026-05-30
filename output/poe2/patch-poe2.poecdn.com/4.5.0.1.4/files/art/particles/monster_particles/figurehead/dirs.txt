@@ -1,4 +1,0 @@
-ghostflame_projectile
-ghostflame_projectile/poof
-ghostflame_projectile/poof/poof
-lantern

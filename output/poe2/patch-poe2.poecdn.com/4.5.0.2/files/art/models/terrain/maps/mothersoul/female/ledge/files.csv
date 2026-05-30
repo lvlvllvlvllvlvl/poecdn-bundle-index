@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+b495987f59514c9e,precursor_ledge_cv_01.tgt,Tiny.VD,29708734,1176
+e1a6467885ceb9f9,precursor_ledge_cc_01.tgt,Tiny.V5,29044161,1176
+0d10350b7c23b4f5,precursor_ledge_thickwall_stst_01.tgt,Tiny.VE,29339440,2280
+0fa62bff26b63f66,precursor_ledge_thickwall_stcv_01.tgt,Tiny.VF,29810794,2240
+c08faed2b145d391,precursor_ledge_thickwall_cccv_01.tgt,Tiny.VD,29709910,2246
+945854c88bc23251,precursor_ledge_thickwall_corridor_end_01.tmd,Tiny.VD,29712156,2226
+28735ce2992656ce,precursor_ledge_thickwall_corridor_end_01.tgt,Tiny.VE,29336960,2480
+da59a1aadea354c4,precursor_ledge_thickwall_corridor_01.tmd,Tiny.V3,29187056,2166
+33f56a5593b3078a,precursor_ledge_thickwall_corridor_01.tgt,Tiny.V1,29501007,2536
+c072f5c4b3783114,precursor_ledge_thickwall_corridorcheckpoint_01.tmd,Tiny.VB,29766930,780
+90619125492e4bf0,precursor_ledge_thickwall_corridorcheckpoint_01.tgt,Tiny.V0,29781892,3160
+084c9f38871cccda,precursor_ledge_st_01.tgt,Tiny.V8,29496037,984
+f2abe239e60613b5,precursor_ledge_stairs_01.tmd,Tiny.V8,29497021,2034
+4bd4e73b3bea6eac,precursor_ledge_stairs_01.tgt,Tiny.V5,29045337,1036

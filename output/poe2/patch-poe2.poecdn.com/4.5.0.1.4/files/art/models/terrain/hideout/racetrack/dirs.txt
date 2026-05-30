@@ -1,8 +1,0 @@
-flag
-gates
-textures
-textures/foliage
-textures/ground
-textures/rhoas
-textures/rocks
-tgms

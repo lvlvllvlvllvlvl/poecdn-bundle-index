@@ -1,7 +1,0 @@
-act4
-four_act1
-four_act2
-four_act2/gates_movingcaravan
-four_act3
-four_act4
-maproom

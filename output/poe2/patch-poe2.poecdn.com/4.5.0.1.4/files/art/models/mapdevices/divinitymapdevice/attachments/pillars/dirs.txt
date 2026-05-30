@@ -1,4 +1,0 @@
-animations
-animations/large
-animations/medium
-animations/small

@@ -1,0 +1,6 @@
+epk
+fx
+graph
+mat
+mat/onact_open
+mat/player_stone

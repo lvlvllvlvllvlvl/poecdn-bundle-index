@@ -1,5 +1,0 @@
-graphs
-pet
-pet/military
-pet/robot
-pet/science

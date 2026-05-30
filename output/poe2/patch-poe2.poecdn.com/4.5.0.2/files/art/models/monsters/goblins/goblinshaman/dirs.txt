@@ -1,0 +1,9 @@
+attachments
+attachments/head
+attachments/head/attachments
+attachments/head/attachments/l_chain
+attachments/head/attachments/r_chain
+attachments/jaw
+attachments/l_shoulder
+attachments/r_shoulder
+attachments/weapon

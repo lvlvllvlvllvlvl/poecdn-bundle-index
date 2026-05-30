@@ -1,5 +1,0 @@
-shards01
-shards01/fx
-shards01/fx/idle_01
-shards01/mat
-shards01/mat/idle_01

@@ -1,2 +1,0 @@
-l_wall
-r_wall

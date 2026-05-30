@@ -1,0 +1,11 @@
+armoury
+armoury/banditweapons
+armoury/banditweapons/textures
+armoury/heistcloaks
+armoury/safecrackingtools
+armoury/templarcrossbow
+armoury/textures
+monsters
+monsters/skeleton
+monsters/skeleton/arbalest
+monsters/skeleton/arbalest/textures

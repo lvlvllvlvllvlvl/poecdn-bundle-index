@@ -1,8 +1,0 @@
-attachments
-attachments/hair
-attachments/skirt
-attachments/weapon
-attachments/wings
-attachments/wings/animations
-attachments/wings/animations/playeranimations
-textures

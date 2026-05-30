@@ -1,0 +1,10 @@
+female
+female/horn
+female/skirt
+female/threads
+male
+male/horn
+male/skirt
+male/skirtstr
+male/threads
+male/threadsstr

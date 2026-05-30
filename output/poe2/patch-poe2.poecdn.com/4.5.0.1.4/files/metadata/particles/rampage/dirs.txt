@@ -1,6 +1,0 @@
-poison_projectile
-poison_projectile/explode
-projectile
-projectile/explode
-shockwave
-summon

@@ -1,2 +1,0 @@
-core_glow
-turn_off

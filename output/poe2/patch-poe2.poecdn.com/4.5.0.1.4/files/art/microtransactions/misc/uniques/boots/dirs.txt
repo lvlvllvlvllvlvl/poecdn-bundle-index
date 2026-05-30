@@ -1,4 +1,0 @@
-bubonic_trail
-bubonic_trail/textures
-tentacle
-tentacle/mb

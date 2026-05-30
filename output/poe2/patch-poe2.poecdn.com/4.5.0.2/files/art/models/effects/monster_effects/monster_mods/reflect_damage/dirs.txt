@@ -1,0 +1,3 @@
+elemental
+magic
+rare

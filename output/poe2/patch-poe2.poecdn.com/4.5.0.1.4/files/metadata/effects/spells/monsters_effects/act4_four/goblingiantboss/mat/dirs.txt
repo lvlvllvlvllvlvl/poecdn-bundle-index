@@ -1,7 +1,0 @@
-burp
-corpse_slam
-eat
-limb_toss
-stomp
-stomp_travel
-vomit

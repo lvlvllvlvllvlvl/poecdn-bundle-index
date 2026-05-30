@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+34719b1a4dfc7be4,arm_sweep_decal.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.B4178B0BE20CFD8F.arm_sweep_decal.pet,0,1398276
+6fe16db3ef5dac2a,arm_sweep_decal.dds.header,Tiny.V2,36293275,1520
+c94547727876d3b5,multislam_hgt.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.B886BAF7D268FA0D.multislam_impact.pet,0,174924
+4b1dbbcaf0322622,multislam_hgt.dds.header,Tiny.VF,36384963,1520
+85b12bab3e9168b4,multislam_normals.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.B886BAF7D268FA0D.multislam_impact.pet,174924,1398276
+4b497b1f611fef31,multislam_normals.dds.header,Tiny.VA,36573438,1520
+f6b2b993263c8d70,multislam_albedo.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.D7E0378470ABAAFE.shotgun_impact.pet,349848,349700
+6bc865dac30f811f,multislam_albedo.dds.header,Tiny.VA,36571918,1520
+621e819811c31ceb,trail_albedo.dds,Streaming/Content/metadata/monsters/titanboss/titanbossfissureline.ot,0,174940
+c8fcd8c951f1acac,trail_albedo.dds.header,Tiny.VD,36541880,504
+bd0ec56707301d09,titanbossplatform_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.84A2C212E5F4D081.projectiles.ao,107205,1398276
+9eacad08320100fb,titanbossplatform_colour.dds.header,Tiny.VA,36574958,1520
+764d1fbd60fca763,titan_rocks.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.719816B53E107046.dust_indicator_larger.pet,1398276,174924
+47364a6829646da7,titan_rocks.dds.header,Tiny.V9,36857128,1520

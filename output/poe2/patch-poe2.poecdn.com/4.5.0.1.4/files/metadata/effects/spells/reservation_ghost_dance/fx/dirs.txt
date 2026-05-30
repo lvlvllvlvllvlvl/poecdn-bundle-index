@@ -1,2 +1,0 @@
-es_restoration
-on_hit

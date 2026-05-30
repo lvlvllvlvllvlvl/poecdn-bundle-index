@@ -1,5 +1,0 @@
-l_shoulderpad
-necklace
-r_shoulderpad
-robe
-robefront

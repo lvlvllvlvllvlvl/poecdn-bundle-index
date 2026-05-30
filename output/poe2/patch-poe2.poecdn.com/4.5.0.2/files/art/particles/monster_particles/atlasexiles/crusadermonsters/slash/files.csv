@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+6acb09eeb3c8c7c5,pulse_add.mat,Tiny.VC,38173876,1840
+6f559b9d6d2f7868,pulse_add_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/FFFCD097787CC4E2.972443C51040228A.iceblastexplodeptemiot.pet,1065661,174924
+24fcfe51f6326cbf,pulse_add_dxt1.dds.header,Tiny.V6,37905729,1520
+494c4b47eb9c8259,slash_shimmer.mat,Tiny.VF,37901047,2238
+1512dccbb44abb90,slash_shimmer_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.98C3EF3960F9A627.end_midline.pet.1,503576,87556
+d90daf9fe0018c63,slash_shimmer_dxt5.dds.header,Tiny.V3,35064658,1520
+1cf537cbd2e6748b,slash_sub.mat,Tiny.V3,37302315,4194
+07ad728f8ca515ee,slash_sub_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.98C3EF3960F9A627.end_midline.pet.1,591132,87556
+a7e2a7978aefc44c,slash_sub_dxt5.dds.header,Tiny.V3,35064658,1520
+24383bae00823f40,slash_base.mat,Tiny.V3,37298019,4296
+7686e6e8d718337b,slash_base_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.98C3EF3960F9A627.end_midline.pet.1,416020,87556
+ead83dfe98ec6213,slash_base_dxt5.dds.header,Tiny.V3,35064658,1520
+769c17c31e0a389a,multi_base.mat,Tiny.V0,38156653,2152
+cc31be5f73b08e3c,multi_base_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/866460BF574E2737.2140A8211763412A.circle_02.pet,350232,43876
+2b96e923adfe484c,multi_base_dxt5.dds.header,Tiny.V4,34584482,840

@@ -1,0 +1,11 @@
+attachments
+attachments/f
+attachments/f/queenoftheforestshawlbottom
+attachments/f/queenoftheforestshawltop
+attachments/f/queenoftheforestskirt
+attachments/m
+attachments/m/queenoftheforestshawlbottom
+attachments/m/queenoftheforestshawltop
+attachments/m/queenoftheforestskirt
+attachments/queenoftheforestnecklace
+textures

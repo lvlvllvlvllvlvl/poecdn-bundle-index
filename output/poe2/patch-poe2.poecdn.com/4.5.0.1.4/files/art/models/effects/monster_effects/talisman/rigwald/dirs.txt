@@ -1,3 +1,0 @@
-axe_throw
-ghost_wolves
-transform

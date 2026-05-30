@@ -1,4 +1,0 @@
-attachments
-attachments/orb
-attachments/orb/graphs
-attachments/skirt

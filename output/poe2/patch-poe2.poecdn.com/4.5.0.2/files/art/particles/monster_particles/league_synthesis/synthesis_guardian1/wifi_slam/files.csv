@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+67623594130ac1d3,grd_mask_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/9C3048819D915DF5.E0FC6F2257276366.beaming_endline.pet,87548,43876
+fb1925c84c9b1ed9,grd_mask_dxt5.dds.header,Tiny.VE,40055244,840
+aebed3ce3aec1a64,ground_colour.mat,Tiny.VF,40351983,3528
+8333bebf626e66f1,ground_colour.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/9C3048819D915DF5.E0FC6F2257276366.beaming_endline.pet,131424,349700
+d5359f6f800d6ac6,ground_colour.dds.header,Tiny.V2,40414520,1520
+01ae6679dd2b6adb,ice_impact.mat,Tiny.V8,39971075,2774
+2130d8f0f6937194,ice_impact_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/9CFBA7D4BAB78DAB.D6F4E1AE2ED116D2.dronecharge_impact.pet,0,87556
+4de6b2ed5d360b83,ice_impact_dxt5.dds.header,Tiny.V3,39763213,1520

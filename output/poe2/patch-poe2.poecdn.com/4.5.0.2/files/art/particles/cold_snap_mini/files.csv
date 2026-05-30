@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+9bbd261649a51e2f,middle_detail.mat,Tiny.V7,34330578,2170
+04dfa68c6d4be604,middle_detail.dds,Streaming/Content/metadata/particles/maneuver_mechanics/blink_snow.pet,494898,22020
+530efdd8832e96ab,middle_detail.dds.header,Tiny.V6,34362007,1520
+2e386b7de9acaa0a,runes.mat,Tiny.VB,34501830,2008
+6f8971cd65d86e91,runes.dds,Streaming/Content/metadata/particles/maneuver_mechanics/blink_snow.pet,516918,87556
+f9cee12a38f6feb1,runes.dds.header,Tiny.VA,34594709,1520
+8a92a083dc2d484d,coldspark_snow.mat,Tiny.V3,33911927,1324
+6058ac94ff23a9b8,coldspark_snow.dds,Streaming/Content/metadata/particles/monster_effects/act4/7114D6340E47367B.E950CDD28071339E.explode_line.pet,1141072,22020
+3d0f83657ee4a22e,coldspark_snow.dds.header,Tiny.VE,6450845,1520
+65a1ee402b8aa056,light_middle_upc.mat,Tiny.VE,34013436,2040
+40e199c5da253106,light_middle_up.dds,Streaming/Content/metadata/effects/spells/mini_coldsnap/coldsnapmini.ao,12925,87556
+4bd664867442f126,light_middle_up.dds.header,Tiny.VE,35389962,1520

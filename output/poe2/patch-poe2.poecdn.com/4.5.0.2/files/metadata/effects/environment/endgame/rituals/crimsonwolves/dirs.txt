@@ -1,0 +1,6 @@
+epk
+fx
+mat
+mat/blood_trail
+mat/blood_vortex
+mat/footsteps

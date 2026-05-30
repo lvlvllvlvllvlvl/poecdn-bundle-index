@@ -1,0 +1,10 @@
+bear
+boar
+cat
+owl
+ox
+primates
+rabbit
+stag
+wolf
+wolf/attachments

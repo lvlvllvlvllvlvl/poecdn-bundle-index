@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+95d4ea165b84f8f5,rig_0cdd330b.smd,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.93FABEDF25B41337.telesubmerge.ao,0,578564
+36a976c874e3fe55,rig_0cdd330b.smd.header,Tiny.VC,7384002,368
+8ca9a625675ce01b,rig_55502628.smd,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.93FABEDF25B41337.telesubmerge2nd.ao,0,552904
+3523e6b95ed17824,rig_55502628.smd.header,Tiny.V3,7353288,368
+46b8ab7d1ff3a5ef,teleportsubmerge.sm,Tiny.V6,7424326,440
+83010abb4893111a,teleportsubmerge.amd,Tiny.VD,7296362,86
+d281fcb9d2f45f24,teleportsubmerge.ast,Tiny.VF,7429420,2760
+9f0a4db85d4a962e,teleportsubmerge2nd.sm,Tiny.V3,7353656,440
+a9b525b7c8f13c18,teleportsubmerge2nd.amd,Tiny.VD,7296362,86
+3d160c5e2fdd9213,teleportsubmerge2nd.ast,Tiny.VA,7526176,2781

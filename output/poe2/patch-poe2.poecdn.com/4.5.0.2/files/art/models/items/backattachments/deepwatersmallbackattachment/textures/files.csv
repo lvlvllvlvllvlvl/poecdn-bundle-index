@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+2f168779dcbd9c28,basec.mat,Tiny.V3,10494841,5930
+1e26da690d76ab0b,base_glow_dxt5.dds,Streaming/Content/art/models/items/backattachments/F9738450DC9F30AD.deepwatersmallbackattachment.fmt,699212,1398276
+5d15d40c163d0166,base_glow_dxt5.dds.header,Tiny.V1,10518762,1520
+7be4505ce313ad48,base_normal_dxt5.dds,Streaming/Content/art/models/items/backattachments/F9738450DC9F30AD.deepwatersmallbackattachment.fmt,2796700,1398276
+063edd5f6804e735,base_normal_dxt5.dds.header,Tiny.V4,10585487,1520
+e0dbbdd2fc9ce178,base_metal_dxt1.dds,Streaming/Content/art/models/items/backattachments/F9738450DC9F30AD.deepwatersmallbackattachment.fmt,2097488,699212
+51df66026590bc28,base_metal_dxt1.dds.header,Tiny.V3,10493321,1520
+03afb42bfb904622,base_colour_dxt1.dds,Streaming/Content/art/models/items/backattachments/F9738450DC9F30AD.deepwatersmallbackattachment.fmt,0,699212
+f62eb626e2bd4831,base_colour_dxt1.dds.header,Tiny.V8,10420558,1520
+72cf1fdddc8fcaf8,glassc.mat,Tiny.VF,10643722,2252
+a64f212054930510,glass_normal_dxt5.dds,Streaming/Content/art/models/items/backattachments/F9738450DC9F30AD.deepwatersmallbackattachment.fmt.1,1398276,1398276
+c03e718a3be11407,glass_normal_dxt5.dds.header,Tiny.V0,10732737,1520
+5b706ffec7631861,glass_colour_dxt5.dds,Streaming/Content/art/models/items/backattachments/F9738450DC9F30AD.deepwatersmallbackattachment.fmt.1,0,1398276
+4ab253e0281533bc,glass_colour_dxt5.dds.header,Tiny.V6,10650891,1520

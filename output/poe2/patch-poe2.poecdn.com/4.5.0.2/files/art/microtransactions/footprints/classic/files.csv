@@ -1,0 +1,27 @@
+hash,file,bundle,offset,size
+57c4938e086ad380,spark.mat,Tiny.V4,4215985,2264
+3cac3411a43bed6e,spark.dds,Streaming/Content/metadata/effects/microtransactions/foot_prints/E76CC1D978E26747.B8D3D831EC7A645E.glacialfootprint_04.ao,491306,11108
+867671789d0eda1b,spark.dds.header,Tiny.V1,4084710,840
+9035d6062288d493,fire_printsc.mat,Tiny.V1,4081948,2762
+5c48170b59c0333f,fire_prints.dds,Streaming/Content/metadata/effects/microtransactions/foot_prints/319437B0B5A3A004.D1AC74E5AECBBE16.shockwave_step.pet,72686,349700
+bac008caafabca19,fire_prints.dds.header,Tiny.V9,4013566,1520
+867ea5ef448b782f,footprint_layer_02c.mat,Tiny.V8,4090341,2158
+c21a1236c24bc8f4,footprint_layer_02.dds,Streaming/Content/metadata/effects/microtransactions/foot_prints/319437B0B5A3A004.D1AC74E5AECBBE16.shockwave_step.pet,422386,349700
+cffdeac56194b8e8,footprint_layer_02.dds.header,Tiny.V3,3986111,1520
+ae38cc139f8a773d,base_footprint_c6969632.smd,Tiny.V7,4043180,698
+aa0d25b2003775b0,base_footprint_c6969632.smd.header,Tiny.VE,4108001,448
+3a232c4d5289510a,base_footprint_e10c5499.smd,Tiny.V7,4043878,700
+6c8fe387ccfa047c,base_footprint_e10c5499.smd.header,Tiny.V5,4079805,448
+a4e80ffdf7557c3f,base_footprint_d09a2521.smd,Tiny.VA,4045616,700
+8145932264421e15,base_footprint_d09a2521.smd.header,Tiny.VD,4026598,448
+be280f20a4f95a61,base_footprint_96dfd48b.smd,Tiny.V2,4247361,700
+ddfef20868498fa2,base_footprint_96dfd48b.smd.header,Tiny.V8,4089893,448
+bf14d9b6bb85b99f,classicfootprint_04.sm,Tiny.V1,4081454,494
+057bcb75ef5db8e9,classicfootprint_03.sm,Tiny.V1,4080960,494
+3de4c3229874c74f,classicfootprint_02.sm,Tiny.V9,4013072,494
+cd41d797b8ee4a00,classicfootprint_01.sm,Tiny.VD,4027046,494
+e078f2c1040eead5,classicfootprint_01.amd,Tiny.V3,7343527,86
+48ea9ce225c0def4,classicfootprint_01.ast,Tiny.V2,4248061,1598
+efa98ce50050f5fa,glow shaking.mat,Tiny.V7,4044578,2064
+17f08e1f0d5d9d39,glow shaking.dds,Streaming/Content/metadata/effects/microtransactions/foot_prints/76E34BEB9877B5E4.corpsebloom_big.ao,375434,87556
+9e1417956bbdc605,glow shaking.dds.header,Tiny.VC,3934023,1520

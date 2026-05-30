@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+d8135489457d6585,gorgon_shieldcgorgon_shieldns.mat,Tiny.V2.1,477112,4900
+8cdccf93f48b4f86,gorgon_shieldns.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.gorgon_shield.fmt,1338751,349700
+c731a9254953f5a5,gorgon_shieldns.dds.header,Tiny.V3.1,320310,1520
+7fd61d4350f44246,gorgon_shield_specular_dxt5.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.gorgon_shield.fmt,989051,349700
+4ce3d115e2857cd1,gorgon_shield_specular_dxt5.dds.header,Tiny.VB.1,490818,1520
+2115efbab3ef9f81,gorgon_shield_normal_dxt5.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.gorgon_shield.fmt,639351,349700
+8573f7af10d4042e,gorgon_shield_normal_dxt5.dds.header,Tiny.V4.1,848940,1520
+bb973e349da8a74e,gorgon_shield_colour_bc7.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.gorgon_shield.fmt,289651,349700
+08cd1cf936ab3b64,gorgon_shield_colour_bc7.dds.header,Tiny.VC.1,827296,1520
+86a7cb199e68a790,gorgon_shield_colour.dds,Streaming/Content/art/models/items/armours/6C4F891FDD04D395.DE484C488CD36301.gorgon_shield.fmt,114727,174924
+e141bd33655151dd,gorgon_shield_colour.dds.header,Tiny.VF.1,779476,1520

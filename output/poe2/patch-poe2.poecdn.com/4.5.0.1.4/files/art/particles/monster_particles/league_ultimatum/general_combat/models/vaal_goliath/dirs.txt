@@ -1,4 +1,0 @@
-beam
-cascade_grdslam
-orb_explosion
-tendrils_cone

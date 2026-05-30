@@ -1,0 +1,8 @@
+attachments
+attachments/chestfloaties
+attachments/lbootfloaties
+attachments/lglovefloaties
+attachments/lshoulderfloaties
+attachments/rbootfloaties
+attachments/rglovefloaties
+attachments/rshoulderfloaties

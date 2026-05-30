@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+b4e7190862dae2ea,lightning_fb.mat,Tiny.VD,42352678,1198
+879a428791814a41,lightning_fb_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/hideout/6EC4A36976C0B7C0.wranglerwall_08.ao,453758,174940
+0b34e7a0713bc790,lightning_fb_dxt1.dds.header,Tiny.V3,5211776,504
+1bcbe30730111ea5,ring.mat,Tiny.V4,42378265,2164
+fce0c6344e27f461,ring_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/hideout/6EC4A36976C0B7C0.wranglerwall_08.ao,628698,43852
+4132a9d8d1be943e,ring_dxt1.dds.header,Tiny.V6,35576632,1520
+331815975b2ce476,glow1.mat,Tiny.V8,41698944,2422
+3a34d6851036c615,glow1.dds,Streaming/Content/metadata/effects/microtransactions/hideout/6EC4A36976C0B7C0.wranglerwall_08.ao,398822,43852
+f01a7b3fc4ad17d7,glow1.dds.header,Tiny.VB.1,756740,1520
+48856acd5f548a46,grad1.mat,Tiny.V7,42178610,1958
+ab4456fac6b52b17,grad1_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/hideout/6EC4A36976C0B7C0.wranglerwall_08.ao,442674,11084
+65abe5de8a364077,grad1_dxt1.dds.header,Tiny.V7,3484663,1520
+9a13d2e73da08181,orb.mat,Tiny.V3,41437129,4568
+d90d669d731431f2,orb_dxt1.dds,Tiny.V3,41441697,844
+0c60f97ec520b9a4,orb_dxt1.dds.header,Tiny.VF,42121682,1520

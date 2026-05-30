@@ -1,0 +1,16 @@
+epk
+fx
+fx/onact
+fx/onact/attack_02
+fx/onact/run_01
+fx/onact_attack_03
+fx/projectile_01
+fx/projectile_01/impact
+fx/projectile_01/projectile
+mat
+mat/onact
+mat/onact/run_01
+mat/onact_attack_03
+mat/projectile_01
+mat/projectile_01/impact
+mat/projectile_01/projectile

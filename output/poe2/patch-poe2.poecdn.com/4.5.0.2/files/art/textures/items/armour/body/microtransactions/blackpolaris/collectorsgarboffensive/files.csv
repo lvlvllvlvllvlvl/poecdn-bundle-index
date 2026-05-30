@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+0531e209dd6cd058,blackpolarisbodyc.mat,Tiny.V8,46768196,3764
+4de3254463100a91,blackpolarisbody_specular_dxt5.dds,Streaming/Content/metadata/items/armours/bodyarmours/4B2FFB482AD8F5E7.collectorsgarboffbodystrdexint.ao.1,0,1398276
+87022f763885369a,blackpolarisbody_specular_dxt5.dds.header,Tiny.V1,47206831,1520
+386dc5d9b38cb7d8,blackpolarisbody_normal_dxt5.dds,Streaming/Content/metadata/items/armours/bodyarmours/4B2FFB482AD8F5E7.collectorsgarboffbodystrdexint.ao,1423357,1398276
+e9b9e958dd1acd3a,blackpolarisbody_normal_dxt5.dds.header,Tiny.VC.1,21406,1520
+b420d0c35d726d14,blackpolarisbody_colour_dxt5.dds,Streaming/Content/metadata/items/armours/bodyarmours/4B2FFB482AD8F5E7.collectorsgarboffbodystrdexint.ao,25081,1398276
+11b434faf0414583,blackpolarisbody_colour_dxt5.dds.header,Tiny.VD,47390790,1520
+0a9e9854aed831a0,blackpolarisbodyshadowc.mat,Tiny.V4.1,51816,1750
+9319e1fa96620e8d,blackpolarisbodyshadow_colour.dds,Streaming/Content/metadata/items/armours/bodyarmours/4B2FFB482AD8F5E7.collectorsgarboffbodystrdexint.ao.1,1398276,699212
+5ea657f0f43b1245,blackpolarisbodyshadow_colour.dds.header,Tiny.VB,47523612,1520

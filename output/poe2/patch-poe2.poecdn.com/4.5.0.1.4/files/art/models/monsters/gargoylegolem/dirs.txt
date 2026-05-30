@@ -1,5 +1,0 @@
-animations
-animations/sanctumboss
-attachments
-attachments/gargoylegolemredsword
-gargoylegolem02_wings

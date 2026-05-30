@@ -1,6 +1,0 @@
-blood_surge
-blood_surge/textures
-buff
-buff/textures
-charges
-charges/textures

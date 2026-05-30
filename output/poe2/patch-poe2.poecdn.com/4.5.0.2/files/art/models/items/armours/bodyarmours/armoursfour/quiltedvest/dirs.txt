@@ -1,0 +1,12 @@
+attachments
+attachments/female
+attachments/female/bag
+attachments/female/buckles
+attachments/female/skirt
+attachments/male
+attachments/male/bag
+attachments/male/buckles
+attachments/male/skirt
+attachments/str
+attachments/str/buckles
+textures

@@ -1,3 +1,0 @@
-ground
-spinner
-weapon_throw

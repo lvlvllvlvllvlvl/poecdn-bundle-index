@@ -1,5 +1,0 @@
-active_tul_01
-active_tul_01/tex
-active_tul_02
-active_tul_02/mb
-active_tul_02/mb/proj_rig

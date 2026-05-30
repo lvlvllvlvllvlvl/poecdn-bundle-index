@@ -1,5 +1,0 @@
-beam
-burn
-end
-start
-surge

@@ -1,3 +1,0 @@
-soulkeeperportal
-textures
-textures/fx

@@ -1,3 +1,0 @@
-fx
-fx/head_slam
-fx/ice_breath

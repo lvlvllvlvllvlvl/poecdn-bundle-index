@@ -1,0 +1,7 @@
+attachments
+attachments/boots
+attachments/bootsdex
+attachments/sash
+attachments/sashdex
+attachments/sashstr
+textures

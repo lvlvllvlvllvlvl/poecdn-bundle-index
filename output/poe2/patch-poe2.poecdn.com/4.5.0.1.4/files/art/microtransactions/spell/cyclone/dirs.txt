@@ -1,8 +1,0 @@
-auspicious
-auspicious/mb
-auspicious/texture
-dark_cyclone
-dark_cyclone/textures
-ghostflame
-illusionist
-illusionist/mb

@@ -1,0 +1,8 @@
+attachments
+attachments/beltcloth
+attachments/beltcloth/f
+attachments/beltcloth/m
+attachments/skirt
+attachments/skirt/f
+attachments/skirt/m
+textures

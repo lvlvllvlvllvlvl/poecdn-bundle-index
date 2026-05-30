@@ -1,9 +1,0 @@
-abyss_lightning_ground
-ground_trail
-onact_emerge
-onact_lightning_tendrils
-pustule
-pustule_explode
-spawn_spores
-zap_beam
-zap_hit

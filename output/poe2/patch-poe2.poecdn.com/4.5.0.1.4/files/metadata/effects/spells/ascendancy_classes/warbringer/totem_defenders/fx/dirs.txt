@@ -1,7 +1,0 @@
-horn_buff
-idle_spectre
-jade_caster
-jade_hulk
-jadehulkwarcry
-spawn_beam
-turtle_aura

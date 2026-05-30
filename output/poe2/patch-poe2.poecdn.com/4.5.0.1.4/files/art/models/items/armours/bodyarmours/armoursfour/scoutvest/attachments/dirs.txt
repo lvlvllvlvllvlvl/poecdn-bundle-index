@@ -1,4 +1,0 @@
-fur_attachment
-skirt
-skirt/f
-skirt/m

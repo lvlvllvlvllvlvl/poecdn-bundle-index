@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+1f92bc947b9c58a2,safe_vert_ring.mat,Tiny.V3,34633456,4338
+6cd16f361b8441bc,safe_grd_ringc.mat,Tiny.VE,34741602,3820
+e4e1dabce14790a8,danger_grd_ringc.mat,Tiny.V2,35099185,4184
+8316ef1600025b8f,danger_vert_ring.mat,Tiny.V1,35040105,4962
+970bdc79113f9020,danger_vert_ring_contactglow.mat,Tiny.VD,35294523,3178

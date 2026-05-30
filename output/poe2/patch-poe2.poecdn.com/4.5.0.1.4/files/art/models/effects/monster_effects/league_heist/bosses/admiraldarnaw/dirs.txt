@@ -1,4 +1,0 @@
-cannonball
-cannonball_mortar
-dash_mortar
-dash_slash

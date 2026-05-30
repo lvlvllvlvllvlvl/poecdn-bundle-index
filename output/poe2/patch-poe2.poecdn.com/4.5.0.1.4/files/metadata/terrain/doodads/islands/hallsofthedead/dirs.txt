@@ -1,8 +1,0 @@
-arenachieftaintotems
-arenachieftaintotems/mat
-arenachieftaintotems/pet
-graph
-hinekoratotem
-hinekoratotem/fx
-hinekoratotem/mat
-mat

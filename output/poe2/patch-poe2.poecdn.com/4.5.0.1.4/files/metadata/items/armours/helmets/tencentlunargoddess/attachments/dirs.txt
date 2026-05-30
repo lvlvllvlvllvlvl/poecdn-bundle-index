@@ -1,3 +1,0 @@
-headacc
-headacc/female
-headacc/male

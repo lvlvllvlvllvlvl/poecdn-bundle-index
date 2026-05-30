@@ -1,4 +1,0 @@
-ground
-heads
-thatch
-thatch/burning

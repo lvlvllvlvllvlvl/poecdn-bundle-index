@@ -1,0 +1,6 @@
+idle_relaxed_03
+idle_relaxed_03/firebreath
+idle_relaxed_03/icebreath
+idle_relaxed_03/kickup
+idle_relaxed_03/lightningbreath
+idle_relaxed_03/poisonspit

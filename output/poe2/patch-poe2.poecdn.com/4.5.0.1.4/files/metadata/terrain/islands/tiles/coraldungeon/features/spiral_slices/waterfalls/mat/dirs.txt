@@ -1,7 +1,0 @@
-curved_high
-ledge_mid
-ledge_short
-ledge_splash
-straight_high
-straight_mid
-walkable

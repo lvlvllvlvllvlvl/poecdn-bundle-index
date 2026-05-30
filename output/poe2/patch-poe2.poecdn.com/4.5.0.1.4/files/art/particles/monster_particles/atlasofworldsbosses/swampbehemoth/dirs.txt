@@ -1,6 +1,0 @@
-models
-models/swamp_pod
-models/swamp_vine
-models/swamp_vine/animations
-textures
-textures/swamp_runes

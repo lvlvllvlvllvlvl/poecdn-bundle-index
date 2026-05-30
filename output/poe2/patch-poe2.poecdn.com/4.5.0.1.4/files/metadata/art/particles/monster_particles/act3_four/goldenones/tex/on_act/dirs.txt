@@ -1,4 +1,0 @@
-attack_2hsword_01
-attack_mace
-attack_spear_01
-attack_sword_03

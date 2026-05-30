@@ -1,5 +1,0 @@
-graphs
-objects
-rooms
-rooms/overlays
-rooms/unique

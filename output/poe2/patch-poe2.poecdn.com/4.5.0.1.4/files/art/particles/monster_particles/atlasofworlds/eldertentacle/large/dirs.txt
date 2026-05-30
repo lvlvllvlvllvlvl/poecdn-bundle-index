@@ -1,4 +1,0 @@
-ground_ink
-projectile
-projectile_epic
-projectile_epic/build_up

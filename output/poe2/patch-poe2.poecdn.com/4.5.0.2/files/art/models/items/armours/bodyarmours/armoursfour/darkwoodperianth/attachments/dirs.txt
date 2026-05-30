@@ -1,0 +1,8 @@
+arms
+armsdex
+armsstr
+belt
+collar
+collardex
+collarstr
+skirt

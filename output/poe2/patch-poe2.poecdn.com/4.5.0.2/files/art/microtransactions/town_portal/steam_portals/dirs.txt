@@ -1,0 +1,8 @@
+steam_portal_01
+steam_portal_02
+steam_portal_02/textures
+steam_portal_02/textures/scrolling_runes
+steam_portal_02/textures_voidgateblue
+steam_portal_04
+steam_portal_celestial
+steam_portal_celestial/textures

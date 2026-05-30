@@ -1,0 +1,7 @@
+attachments
+attachments/backattachment
+attachments/helmet
+attachments/skirt
+attachments/torch
+attachments/weapon
+textures

@@ -1,3 +1,0 @@
-blood_exsanguinate
-blood_proj
-demon_blast_skeleton

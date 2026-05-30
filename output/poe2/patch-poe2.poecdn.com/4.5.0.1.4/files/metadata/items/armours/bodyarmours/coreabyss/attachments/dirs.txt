@@ -1,4 +1,0 @@
-chestscraps
-chestscraps/lshoulder
-chestscraps/rshoulder
-loincloth

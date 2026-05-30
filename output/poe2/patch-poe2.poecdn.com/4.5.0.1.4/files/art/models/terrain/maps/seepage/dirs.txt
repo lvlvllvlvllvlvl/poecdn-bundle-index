@@ -1,5 +1,0 @@
-textures
-textures/arena
-textures/ground
-textures/props
-tgms

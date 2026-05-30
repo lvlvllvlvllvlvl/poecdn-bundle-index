@@ -1,5 +1,0 @@
-pet
-pet/buildup
-pet/main_proj
-pet/pods
-pet/pods_proj

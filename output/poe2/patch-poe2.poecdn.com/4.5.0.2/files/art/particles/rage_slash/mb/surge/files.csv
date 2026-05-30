@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+09a041f645907ebc,rig_98cf1b46.smd,Tiny.V9,41716464,76
+cc2a984283d11369,rig_98cf1b46.smd.header,Tiny.V5,40822674,368
+f828ec2a0f524487,surge.sm,Tiny.V0,41291070,280
+e9a52ca309e74df9,surge.amd,Tiny.VF,34272459,86
+7f7e10ee808116cc,surge.ast,Tiny.V6,41272057,437
+d86f72d6df99e586,spiral.fmt,Streaming/Content/metadata/effects/spells/traps/6ACFCD6351FDEB45.spinnner_joints.ao,558605,6423
+27ec1dbbfc9835ba,spiral.fmt.header,Tiny.VE,40815985,173
+25c4a627e456fe14,spiral_inverted.fmt,Streaming/Content/metadata/effects/spells/rage_slash/CAE58C92B230AD8B.2ECFD303334B84C1.midline.pet,174924,8843
+7d39ad8c26a66d2d,spiral_inverted.fmt.header,Tiny.VF,41118518,171
+514c4076516a47ba,spiralup.fmt,Streaming/Content/metadata/effects/spells/traps/6ACFCD6351FDEB45.spinnner_joints.ao,549764,8841
+88eb8b7dc249ab4b,spiralup.fmt.header,Tiny.VF,6291145,170

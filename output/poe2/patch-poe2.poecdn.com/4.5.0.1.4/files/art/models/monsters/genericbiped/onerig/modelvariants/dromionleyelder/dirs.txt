@@ -1,5 +1,0 @@
-attachments
-attachments/beard
-attachments/cape
-attachments/robe
-attachments/straps

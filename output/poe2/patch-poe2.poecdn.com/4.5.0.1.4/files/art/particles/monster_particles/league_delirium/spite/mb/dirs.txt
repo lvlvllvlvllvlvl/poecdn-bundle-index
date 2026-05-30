@@ -1,2 +1,0 @@
-spawned_proj
-spawned_proj/animations

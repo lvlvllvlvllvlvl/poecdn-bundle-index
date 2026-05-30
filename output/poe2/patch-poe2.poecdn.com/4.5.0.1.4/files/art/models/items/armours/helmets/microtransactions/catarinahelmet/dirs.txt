@@ -1,4 +1,0 @@
-attachments
-attachments/skull
-attachments/spinedangle
-textures

@@ -1,7 +1,0 @@
-flamethrower
-groundslam
-groundslam/buildup
-onact
-onact/bite
-onact/death
-onact/step

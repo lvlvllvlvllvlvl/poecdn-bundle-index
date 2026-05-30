@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+de91b0e918b14916,glow_dxt1.dds,Streaming/Content/metadata/pet/circusparakeet/circusparakeet.act,1093286,174924
+4f4f27350e3a6925,glow_dxt1.dds.header,Tiny.VC.1,1668444,1520
+a371c79c69a3757d,glow2_dxt1.dds,Streaming/Content/metadata/pet/circusparakeet/circusparakeet.act,918362,174924
+d6ac5263ff1f5d64,glow2_dxt1.dds.header,Tiny.VB.1,1218922,1520
+3a19f79b17a37c19,circusparrotc.mat,Tiny.V7.1,1681932,5772
+ccbaffe2a0a9dc04,circusparrot_normal_dxt5.dds,Streaming/Content/metadata/pet/circusparakeet/circusparakeet.act,568662,349700
+ab80a1c879031cc8,circusparrot_normal_dxt5.dds.header,Tiny.V2.1,1361904,1520
+ceb34653082b6d34,circusparrot_colour_bc7.dds,Streaming/Content/metadata/pet/circusparakeet/circusparakeet.act,218962,349700
+2de388791954f8cc,circusparrot_colour_bc7.dds.header,Tiny.V2.1,1360384,1520
+0e15bcf6368737db,circusparrot_colour.dds,Streaming/Content/metadata/pet/circusparakeet/circusparakeet.act,44038,174924
+c8b868220f4f7d6e,circusparrot_colour.dds.header,Tiny.VF.1,1626520,1520
+150062483957bb5c,brazilianparrotns.dds,Streaming/Content/metadata/critters/parrot/brazilianparrot.ao,150018,87556
+94a7b8db169f8320,brazilianparrotns.dds.header,Tiny.VD.1,1193329,1520
+883c601cf6baa81c,brazilianparrot_colorcbrazilianparrotns.mat,Tiny.V3.1,1122877,2106
+135f1ce855722ef0,brazilianparrot_color.dds,Streaming/Content/metadata/critters/parrot/brazilianparrot.ao,62462,87556
+53e5888531328e59,brazilianparrot_color.dds.header,Tiny.V9.1,1455110,1520

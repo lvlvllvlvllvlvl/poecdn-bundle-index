@@ -1,3 +1,0 @@
-minions
-minions/new
-textures

@@ -1,6 +1,0 @@
-epk
-fx
-mat
-mat/cloud_ground
-mat/fall_craters
-mat/poisoned

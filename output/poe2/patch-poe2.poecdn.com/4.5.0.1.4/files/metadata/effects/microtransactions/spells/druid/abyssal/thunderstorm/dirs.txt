@@ -1,6 +1,0 @@
-epks
-fx
-mats
-mats/epk_mat
-mats/lightning_bolt_ground
-mats/start_wind

@@ -1,0 +1,7 @@
+fidelityfx
+fidelityfx/fsr1
+fidelityfx/fsr3upscaler
+fidelityfx/spd
+include
+renderer
+renderer/nodes

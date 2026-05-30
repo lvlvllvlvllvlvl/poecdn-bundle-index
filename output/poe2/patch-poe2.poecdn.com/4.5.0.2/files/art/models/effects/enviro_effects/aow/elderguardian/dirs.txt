@@ -1,0 +1,3 @@
+arena
+arena/sulphur3
+arena/sulphur3/flamethrower

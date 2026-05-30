@@ -1,7 +1,0 @@
-fx
-graph
-mat
-mat/aura
-mat/completed
-mat/fall_impact
-mat/raised_idle

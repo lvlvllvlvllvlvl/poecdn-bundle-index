@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+51cc5b4ef62a0a76,bloodproj02.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/BBB297EB510D031A.61E3718D52E3B622.mortar_projectile.pet,12508,12508
+0eb833a83d1e8c1f,bloodproj02.fmt.header,Tiny.V4,40446684,222
+f733324b378b6751,bloodproj01.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/BBB297EB510D031A.61E3718D52E3B622.mortar_projectile.pet,0,12508
+0946691e873497dd,bloodproj01.fmt.header,Tiny.VD,40500076,222
+1ae9fa856205dba0,bloodbagsphere.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/477B5EB62D07BB3A.CF843202D0E7D6C6.lightning_shield.ao,478798,8872
+7e204f84fe891dd1,bloodbagsphere.fmt.header,Tiny.VC,40539507,208
+8c6fe645d59f437b,bloodbag_02.sm,Tiny.V1,40199963,632
+d950289a0a0d65e7,bloodbag_03.sm,Tiny.V5,39845644,632
+167a77470ad3be2d,rig_3f3c66cb.smd,Streaming/Content/metadata/monsters/leagueritual/demonfaction/bloodburstobject.ot,27631,59539
+0f4534fe0fc7ad6f,rig_3f3c66cb.smd.header,Tiny.V2,40240117,779
+9e9b0334a76de3d7,rig_ac3ec9de.smd,Streaming/Content/metadata/monsters/leagueritual/demonfaction/bloodburstobject.ot,0,27631
+b73007b51d7e2551,rig_ac3ec9de.smd.header,Tiny.V0,40398609,448
+593fca4e381be961,rig.amd,Tiny.VD,40500298,176
+04272652713c2aef,rig.ast,Tiny.V2,40239724,393

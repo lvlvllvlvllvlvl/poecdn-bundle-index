@@ -1,0 +1,6 @@
+attachments
+attachments/fur_attachment
+attachments/skirt
+attachments/skirt/f
+attachments/skirt/m
+textures

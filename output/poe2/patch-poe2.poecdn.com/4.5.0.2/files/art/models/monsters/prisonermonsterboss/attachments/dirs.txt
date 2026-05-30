@@ -1,0 +1,16 @@
+attachedchain
+chains
+gib_arm
+gib_shoulder
+hair
+hair/hair
+hair/hairstrands
+hangers
+leash
+robe
+seaweed
+seaweed/body
+seaweed/l_calf
+seaweed/l_forearm
+seaweed/r_calf
+seaweed/r_forearm

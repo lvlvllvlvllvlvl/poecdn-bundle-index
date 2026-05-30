@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+0e66b398cbbaf5ff,firelion.sm,Tiny.VB,12562316,498
+953c6733c6f66b38,armour_firelion_8327cab0.smd,Streaming/Content/metadata/pet/lion/fire.ao,349700,247850
+aa9c77c932e672f4,armour_firelion_8327cab0.smd.header,Tiny.V7,12527413,448
+51420c3c5ea29d23,armour_lionstatuegolden_41d4cd60.smd,Streaming/Content/metadata/pet/lion/gold.ot,0,124292
+f51a75099db736c9,armour_lionstatuegolden_41d4cd60.smd.header,Tiny.V2,12725891,448
+e07c9daf9ad1fffe,lionstatuegolden.sm,Tiny.VA,12537139,372
+44621107abb1dfab,lionpointlight.amd,Tiny.V3,7571685,90
+40a704261a3360d2,lionpointlight.ast,Tiny.VB,12562814,1453
+a77833cc2be7c88e,rig.amd,Tiny.V0,12669779,3126
+85f5a4e8f8b6573c,rig.ast,Content/metadata/pet/lion/fire.ao,0,912017

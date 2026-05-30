@@ -1,5 +1,0 @@
-combo_slam
-combo_slam/spike_4
-combo_slam/spike_5
-combo_slam/spike_6
-leap_slam

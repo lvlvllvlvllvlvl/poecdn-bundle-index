@@ -1,4 +1,0 @@
-merchant
-merchant/fx
-mystic
-mystic/pets

@@ -1,4 +1,0 @@
-pegwrap
-ribbon
-ribbon/left
-ribbon/right

@@ -1,0 +1,5 @@
+architecture
+doors
+ground
+ground/prayerplatform
+prayerplatforms

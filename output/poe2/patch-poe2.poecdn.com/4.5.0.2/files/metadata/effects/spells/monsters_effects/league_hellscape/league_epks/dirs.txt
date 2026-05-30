@@ -1,0 +1,6 @@
+mat
+mat/emerge_blood
+mat/emerge_fire
+mat/emerge_lightning
+pet
+pet/fadein

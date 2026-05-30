@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+4f3e8b63832f4ff9,impact_hit_r.mat,Tiny.VB.1,38855897,47900
+5912adf98ce53e2c,impact_hit_u.mat,Tiny.V7.1,143045520,3712
+97a45434a76bc52d,impact_blood_r.mat,Tiny.V0.1,38609320,60680
+5c3532e90f1ead4d,impact_blood_u.mat,Tiny.V7.1,36581980,23060
+084aa19d5514f521,impact_bloodmist_r.mat,Tiny.V5.1,41027290,38434
+d79389530debf549,impact_bloodmist_u.mat,Tiny.V8.1,41069462,4720
+99e32baece0d753f,impact_sparks_r.mat,Tiny.V1.1,39007804,39788
+fe54753675897fb0,impact_sparks_u.mat,Tiny.V9.1,146815022,17192
+34e4fcf5c3c9fafc,impact_shards_r.mat,Tiny.V8.1,41074182,31522
+36a1c09bbbd3b170,impact_shards_u.mat,Tiny.V3.1,38781157,17260

@@ -1,0 +1,13 @@
+bearslam
+leap
+possessed
+primalowl
+primalowl/body
+primalowl/wingflap
+projectileeffects
+sacredstags
+sacredtrail
+vividstags
+vividstags/collide
+warcry
+wildbear

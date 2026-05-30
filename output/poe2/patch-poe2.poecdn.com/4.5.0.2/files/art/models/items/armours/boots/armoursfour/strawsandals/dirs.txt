@@ -1,0 +1,5 @@
+attachments
+attachments/dexskirt
+attachments/skirt
+attachments/strskirt
+textures

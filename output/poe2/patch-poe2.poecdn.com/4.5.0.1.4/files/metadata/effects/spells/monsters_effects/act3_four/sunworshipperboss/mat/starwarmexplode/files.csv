@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-3d10d8c5716da1ad,distortion_r.mat,Tiny.V2.1,98926354,9178
-f398f55e3c2efb60,impactscorch_r.mat,Tiny.VD.1,95697106,74602
-0c334730e1bf73ab,impactscorch_u.mat,Tiny.V8.1,157991430,1362
-e5db919cc5ceea27,rays_r.mat,Tiny.VA.1,96499612,45678
-f2e7d80f37537fa5,rays_u.mat,Tiny.V6.1,93155065,2172
-4114d4af2c6d4aef,energy_streaks_u.mat,Tiny.VD.1,5332868,346
-446b1935b8edca4a,explode_r.mat,Tiny.VB.1,97150115,22476
-50792909c1a3c6df,explode_u.mat,Tiny.VD.1,53598816,584

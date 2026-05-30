@@ -1,8 +1,0 @@
-fx
-fx/ankle
-fx/hip
-fx/knee
-mat
-mat/ankle
-mat/hip
-mat/knee

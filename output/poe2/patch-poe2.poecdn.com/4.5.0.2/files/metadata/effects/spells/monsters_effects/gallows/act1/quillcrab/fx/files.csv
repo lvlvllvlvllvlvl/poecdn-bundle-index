@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+7bf97bcf9aadae2a,impact_fire.pet,Tiny.VD.1,129630130,39278
+54cf375ff45a899a,impact_poison.pet,Tiny.VA.1,130626120,35680
+f53b62b791d382c2,dissolve_particles_poison.pet,Tiny.V8.1,130680614,11604
+3f2c72b0ab2477df,dissolve_particles.pet,Tiny.V9.1,131685332,11516
+96d61f1d00a55bcc,quill_fire.trl,Tiny.VA.1,192656322,7864
+b019986067e589a7,quill_poison.trl,Tiny.VF.1,189003404,5134
+d6190dab28b7f705,quill_charge_poison.pet,Tiny.V4.1,130315186,6638
+979ac6a70e51c1a4,quill_charge_fire.pet,Tiny.V3.1,130202787,6632
+8de2a278d92bd6a8,projectile_particles_poison.pet,Tiny.VA.1,130661800,5376
+52b0875c80e7abd9,projectile_particles_fire.pet,Tiny.VE.1,130327672,11374

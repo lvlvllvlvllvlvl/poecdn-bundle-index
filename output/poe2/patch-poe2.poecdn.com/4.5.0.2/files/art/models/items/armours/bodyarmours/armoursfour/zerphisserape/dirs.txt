@@ -1,0 +1,14 @@
+attachments
+attachments/f
+attachments/f/zerphisserapefemaleminiheads
+attachments/f/zerphisserapefemalenecklace
+attachments/f/zerphisserapefemalerobe
+attachments/f/zerphisserapefemaleshoulderpad
+attachments/f/zerphisserapefemaleskirt
+attachments/m
+attachments/m/zerphisserapemaleminiheads
+attachments/m/zerphisserapemalenecklace
+attachments/m/zerphisserapemalerobe
+attachments/m/zerphisserapemaleshoulderpad
+attachments/m/zerphisserapemaleskirt
+textures

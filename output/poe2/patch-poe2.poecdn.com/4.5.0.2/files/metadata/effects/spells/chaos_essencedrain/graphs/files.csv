@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+4fcd681b1a1aac82,custom_gpdirrotate.fxgraph,Content/metadata/effects/spells/storm_barrier/storm_barrier.ao,4780781,23792
+0a0c0eb4ce8baa4d,essencedecay.fxgraph,Content/metadata/effects/spells/storm_barrier/storm_barrier.ao,4836493,81140
+041814e10c3fd28f,particle_windctrl .fxgraph,Content/metadata/effects/spells/storm_barrier/storm_barrier.ao,4827429,9064
+ff8abf37660e3d51,particle_fadectrl.fxgraph,Content/metadata/effects/spells/storm_barrier/storm_barrier.ao,4804573,22856

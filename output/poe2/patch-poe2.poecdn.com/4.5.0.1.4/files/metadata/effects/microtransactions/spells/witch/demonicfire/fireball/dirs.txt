@@ -1,8 +1,0 @@
-ao
-mat
-mat/greater
-mat/greaterer
-mat/impact
-mat/impact_greater
-pet
-trl

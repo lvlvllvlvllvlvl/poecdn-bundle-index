@@ -1,6 +1,0 @@
-fx
-fx/onact
-fx/onact/death_bwd_01
-mat
-mat/onact
-mat/onact/death_bwd_01

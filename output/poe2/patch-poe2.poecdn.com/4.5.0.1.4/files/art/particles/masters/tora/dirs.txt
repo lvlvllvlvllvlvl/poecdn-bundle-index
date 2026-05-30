@@ -1,7 +1,0 @@
-butterfly_projectiles
-dash_projectile
-default_arrow
-default_arrow/projectile
-on_act
-on_act/butterfly_fire
-snipe_projectile

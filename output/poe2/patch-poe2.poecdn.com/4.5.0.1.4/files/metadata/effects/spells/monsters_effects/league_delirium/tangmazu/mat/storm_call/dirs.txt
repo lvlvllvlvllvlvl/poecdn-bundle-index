@@ -1,6 +1,0 @@
-beam
-impact
-lightning_bolt
-lightning_bolt/buildup
-lightning_bolt/impact
-onact

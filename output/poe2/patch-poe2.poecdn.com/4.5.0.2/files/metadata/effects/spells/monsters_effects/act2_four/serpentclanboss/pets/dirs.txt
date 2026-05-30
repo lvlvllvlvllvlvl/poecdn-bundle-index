@@ -1,0 +1,10 @@
+ambient
+onact
+onact/bonearmour
+onact/spin_detonate
+onact/summon
+pot
+projectile
+rune
+rune/explosion
+wall

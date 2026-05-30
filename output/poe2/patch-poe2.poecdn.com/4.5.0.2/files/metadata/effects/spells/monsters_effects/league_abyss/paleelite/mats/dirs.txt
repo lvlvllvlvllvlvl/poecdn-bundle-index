@@ -1,0 +1,15 @@
+beam_cold_01
+beam_long_cold_01
+cold_idle
+fireball
+onact_beam_cold_01
+onact_beam_cold_02
+onact_beam_long_01
+onact_beam_long_cold_01
+onactmuzzle_cold
+snowball
+snowball_impact
+snowball_trail
+surge
+teleportflash
+teleportsuck

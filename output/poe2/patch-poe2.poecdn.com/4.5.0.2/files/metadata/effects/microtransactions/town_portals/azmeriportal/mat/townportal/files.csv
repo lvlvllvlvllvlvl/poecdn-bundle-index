@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+bc751d8ee76a3f61,suckin_sphere_r.mat,Tiny.V1.1,52773126,25352
+d5acb63e387cb056,suckin_sphere_u.mat,Tiny.V3.1,91157277,524
+f19e104973453a2c,mblur_sphere_r.mat,Tiny.V3.1,136772619,11480
+9f8f30fa9c1ce5c8,mblur_sphere_u.mat,Tiny.VE.1,12548232,310
+c30dcd74f67141d9,core_pt_r.mat,Tiny.VE.1,55166168,14308
+1c46c15b5f1c3945,core_pt_u.mat,Tiny.V2.1,78431732,1104
+e563065e1b5681ce,port_suckin_r.mat,Tiny.V1.1,52745450,27676
+6beb941687273c4d,port_suckin_u.mat,Tiny.VB.1,79877019,1124
+4d7ed6c698fa9dfb,port_edge_dark_rim_r.mat,Tiny.V5.1,54766478,25324
+d4d822d3229a5841,port_edge_rim_r.mat,Tiny.V9.1,58345232,33154
+fdee10e9cb41b7b1,port_edge_rim_u.mat,Tiny.V2.1,78431732,1104
+f874fdceab3ea940,port_runic_r.mat,Tiny.VF.1,52328612,20552
+59ccf9c20fd7c896,port_runic_u.mat,Tiny.VE.1,12548232,310
+c097c6bc30f8a074,pixiedust_r.mat,Tiny.V2.1,55703076,17832
+cda0678f6bf2ec1c,pixiedust_u.mat,Tiny.V2.1,55720908,18776
+255ff812e3266259,pixiedust_circle_u.mat,Tiny.V8.1,56716382,16706

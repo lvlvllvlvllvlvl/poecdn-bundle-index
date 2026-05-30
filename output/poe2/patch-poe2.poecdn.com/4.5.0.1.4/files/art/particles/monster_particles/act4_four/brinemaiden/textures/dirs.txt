@@ -1,2 +1,0 @@
-sbc_projectile
-spear_barrage_cascade

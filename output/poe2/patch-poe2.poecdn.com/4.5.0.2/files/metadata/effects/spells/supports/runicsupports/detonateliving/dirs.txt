@@ -1,0 +1,9 @@
+attached
+epk
+fx
+graphs
+mats
+mats/blood_gibs
+mats/explode
+mats/onact
+mats/whiff

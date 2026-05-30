@@ -1,2 +1,0 @@
-npc_start_trial_melee_01
-trails

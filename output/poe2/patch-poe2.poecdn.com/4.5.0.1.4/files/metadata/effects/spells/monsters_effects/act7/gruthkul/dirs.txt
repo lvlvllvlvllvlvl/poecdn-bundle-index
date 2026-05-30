@@ -1,6 +1,0 @@
-epk
-ground_projectile
-ground_slam
-remote_slam
-remote_slam/upheaval
-room_pulse

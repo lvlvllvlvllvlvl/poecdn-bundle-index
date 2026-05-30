@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+c3707ab2cb6d42cd,disperse_smoke_01_r.mat,Tiny.V7.1,155862500,25982
+283df535cb32fe86,disperse_smoke_circle_01_u.mat,Tiny.V1.1,156698322,12884
+d15f8071138fa6a6,disperse_smoke_line_01_u.mat,Tiny.VD.1,158710926,14030
+bb1875902711933e,punch_sand_01_r.mat,Tiny.V0.1,158150612,26560
+46103d3f5a5fc400,punch_sand_01_u.mat,Tiny.VC.1,161582805,2286
+f7e0036a4027ddd8,mblur_sphere_r.mat,Tiny.VD.1,158724956,10036
+8fc950618a626fb1,mblur_sphere_u.mat,Tiny.V0.1,6191636,344
+a3e0846bf4e0620e,burst_sand_swirl_r.mat,Tiny.V9.1,159989654,47604
+7c3721a680b02cf0,burst_sand_swirl_u.mat,Tiny.V2.1,159909030,1898
