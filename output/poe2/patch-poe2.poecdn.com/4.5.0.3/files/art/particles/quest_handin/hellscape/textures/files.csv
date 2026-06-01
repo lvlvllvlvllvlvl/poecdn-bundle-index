@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+c858732d848addad,flash_ring.mat,Tiny.VB,41435272,4234
+91fa66e8014216ca,dark_ring.mat,Tiny.V5,11366577,1902
+f4b4a920c8d3ec12,wind_d.mat,Tiny.VE,40810401,4044
+156a4c4157b2066f,core_glow.mat,Tiny.V1,41110528,1878
+f28801d33d05f5e3,sigil.mat,Tiny.VE,40806263,2618
+00f9f7eba0641825,sigil_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/weapon_effects/AF7CEA24241B741E.909AF26300F3223E.blade.epk,1581585,174924
+ba0eeca91556cfd9,sigil_dxt1.dds.header,Tiny.VE,40808881,1520
+442a87b7cdfa256c,bloomup.mat,Tiny.V2,41092732,3752
+823c84a2318140ce,beam_sparks.mat,Tiny.VC,41437739,4152

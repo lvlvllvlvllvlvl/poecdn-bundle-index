@@ -1,6 +1,0 @@
-attachments
-bows
-epk
-epk/general_arrow
-fx
-graph

@@ -1,9 +1,0 @@
-graphs
-objects
-rooms
-rooms/1x1
-rooms/fills
-rooms/outerwall
-rooms/unique
-tiles
-tiles/slickedge

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+07a0056e0a13cce0,mystic_aura.sm,Tiny.V6,3484960,390
+ddf01ee8206743ca,mystic_aura.amd,Tiny.V4,3711630,202
+ee25212e62412be1,mystic_aura.ast,Content/metadata/effects/microtransactions/aura/darkwoodaura/darkwoodaura.epk,140367,175037
+a899a2ab9914f9c5,mystic_aura_tentacle.fmt,Streaming/Content/metadata/effects/microtransactions/aura/F05FB7B2394CD4D1.cyl.pet,567771,4241
+478e92179f310b9d,mystic_aura_tentacle.fmt.header,Tiny.V3,3454922,194
+049f9c4991f87ba2,mystic_aura_tentacle2.fmt,Streaming/Content/metadata/effects/microtransactions/aura/F05FB7B2394CD4D1.cyl.pet,572012,4239
+acd230c52d5a03ef,mystic_aura_tentacle2.fmt.header,Tiny.V1,3564541,193
+0eabd3c762299974,mystic_aura_353cd08e.smd,Streaming/Content/metadata/effects/microtransactions/aura/F2A0C58A909A6056.CAE58C92B230AD8B.ground_space1.pet,421680,40370
+0c505f619f4999ad,mystic_aura_353cd08e.smd.header,Tiny.V8,3524823,412
+1828b2831bb1c073,mystic_aura_disc_solid_planeuv.fmt,Tiny.V9,3476097,4061
+875ec76ef260ad9a,mystic_aura_disc_solid_planeuv.fmt.header,Tiny.V8,3525235,182
+337ed42da6763f51,solidjavcc.mat,Tiny.VA,3575847,1200
+7b1425060837145c,solidjavc_dxt1.dds,Streaming/Shared/Super/Shared,109516,43852
+ed529be01cc0c84f,solidjavc_dxt1.dds.header,Tiny.V6,3485350,1520
+7e67e9f9165419e9,solidjav2_dxt1.dds,Tiny.V0,3624031,332
+0ead60dba0b5b04e,solidjav2_dxt1.dds.header,Tiny.VC,3471567,1520

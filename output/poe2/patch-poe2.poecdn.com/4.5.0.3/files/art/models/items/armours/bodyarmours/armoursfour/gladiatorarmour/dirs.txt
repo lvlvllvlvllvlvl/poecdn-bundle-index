@@ -1,0 +1,8 @@
+attachments
+attachments/pauldronf
+attachments/pauldronm
+attachments/skirtf
+attachments/skirtm
+attachments/skirtplatesf
+attachments/skirtplatesm
+textures

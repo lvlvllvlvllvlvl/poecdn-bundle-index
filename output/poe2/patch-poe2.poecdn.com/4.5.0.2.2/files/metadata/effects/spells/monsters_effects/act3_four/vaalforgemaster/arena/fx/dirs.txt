@@ -1,2 +1,0 @@
-arena_lava
-l_slab_break

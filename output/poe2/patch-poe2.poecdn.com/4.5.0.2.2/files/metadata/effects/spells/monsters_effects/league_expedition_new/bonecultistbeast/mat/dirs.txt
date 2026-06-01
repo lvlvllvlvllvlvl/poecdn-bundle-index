@@ -1,2 +1,0 @@
-leapslam_impact
-onact_leapslam

@@ -1,0 +1,7 @@
+cascade_slam
+fadein
+idle_damage
+melee_trail
+orb_proj
+rolling
+storm_orb

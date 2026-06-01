@@ -1,0 +1,14 @@
+attachments
+attachments/female
+attachments/female/backpiece
+attachments/female/belt
+attachments/female/shoulderfeathers
+attachments/female/shoulderpad
+attachments/female/skirt
+attachments/male
+attachments/male/backpiece
+attachments/male/belt
+attachments/male/shoulderfeathers
+attachments/male/shoulderpad
+attachments/male/skirt
+textures

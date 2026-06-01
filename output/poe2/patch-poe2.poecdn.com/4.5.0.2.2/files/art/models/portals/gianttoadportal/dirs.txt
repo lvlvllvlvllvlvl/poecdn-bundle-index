@@ -1,5 +1,0 @@
-fx
-fx/mb
-fx/mb/mudpool
-fx/texture
-textures

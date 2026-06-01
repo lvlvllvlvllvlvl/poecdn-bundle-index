@@ -1,0 +1,3 @@
+antlerornaments
+weaponsheath
+weaponsheath/attachments

@@ -1,3 +1,0 @@
-activate
-column_ray_top
-monster_affected

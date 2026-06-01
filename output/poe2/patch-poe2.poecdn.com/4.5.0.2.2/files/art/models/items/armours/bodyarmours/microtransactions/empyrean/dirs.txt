@@ -1,9 +1,0 @@
-attachments
-attachments/female
-attachments/female/cloth
-attachments/female/shawl
-attachments/female/skirt
-attachments/male
-attachments/male/cloth
-attachments/male/shawl
-attachments/male/skirt

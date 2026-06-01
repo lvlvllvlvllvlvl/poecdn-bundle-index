@@ -1,4 +1,0 @@
-fire_projectile
-lightning_projectile
-lightning_storm
-onact_lightning_storm

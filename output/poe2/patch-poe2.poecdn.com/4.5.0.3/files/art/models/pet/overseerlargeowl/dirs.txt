@@ -1,0 +1,7 @@
+animations
+animations/arcanecraftingbench
+animations/ascendancyspiritwalker
+animations/midnightpactportal
+apertureportal
+fx
+textures

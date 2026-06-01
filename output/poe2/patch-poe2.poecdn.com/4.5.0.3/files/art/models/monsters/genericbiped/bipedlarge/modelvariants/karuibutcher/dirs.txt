@@ -1,0 +1,7 @@
+attachments
+attachments/bones
+attachments/hair
+attachments/sausages
+attachments/skirt
+attachments/skirt_attach
+attachments/skirt_attach_2

@@ -1,4 +1,0 @@
-attachments
-attachments/leftglove
-attachments/rightglove
-textures

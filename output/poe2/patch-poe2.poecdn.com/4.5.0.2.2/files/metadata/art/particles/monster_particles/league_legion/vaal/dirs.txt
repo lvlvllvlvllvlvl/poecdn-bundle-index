@@ -1,4 +1,0 @@
-napuatzi
-napuatzi/phys_projectile
-vaal_sergeant
-vaal_sergeant/vaal_geyser_barrage

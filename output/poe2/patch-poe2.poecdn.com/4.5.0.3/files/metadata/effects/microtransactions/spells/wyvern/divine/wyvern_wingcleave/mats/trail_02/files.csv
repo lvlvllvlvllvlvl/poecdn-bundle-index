@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+f47f209cf126617c,wingcleave_lightning.mat,Tiny.V2.1,54147580,54242
+1ca7180ca5bb877b,wingcleave_base.mat,Tiny.V9.1,56679258,65894
+fda0bfef09f5be67,wingcleave_blur.mat,Tiny.VA.1,52833616,42300
+8c4f769e545f9b60,wingcleave_bg.mat,Tiny.V6.1,51907489,29802
+4188449de07ac59e,onact_wingflapdust_r.mat,Tiny.VC.1,53602259,32494
+74b3f788f233aea1,onact_wingflapdust_u.mat,Tiny.V1.1,50732916,17288
+ec6d1a4b4c323abd,explosion_dropbolt_r.mat,Tiny.VB.1,52258525,26870
+e7bdc73c3d49d276,explosion_dropbolt_u.mat,Tiny.V6.1,51901151,6338
+ba6e9074b70f942c,arcsurge_lightning_r.mat,Tiny.V8.1,54558854,38238
+085c636e5f6ab06b,arcsurge_lightning_u.mat,Tiny.VC.1,53582167,20092
+a92abdb48342a17d,arcsurge_lightning_sparks_r.mat,Tiny.V2.1,53620444,15992
+bfac5e6955376394,arcsurge_lightning_scorch_r.mat,Tiny.V6.1,51404295,46842

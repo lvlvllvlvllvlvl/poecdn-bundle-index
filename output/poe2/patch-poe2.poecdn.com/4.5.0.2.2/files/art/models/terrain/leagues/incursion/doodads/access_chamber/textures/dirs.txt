@@ -1,5 +1,0 @@
-architecture
-architecture/past
-architecture/past/interior
-statues
-statues/past

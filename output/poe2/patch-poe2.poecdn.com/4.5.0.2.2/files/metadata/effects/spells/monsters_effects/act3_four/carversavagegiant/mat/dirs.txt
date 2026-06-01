@@ -1,5 +1,0 @@
-attack02
-deathslam
-groundslam
-groundslamfire
-weaponfire

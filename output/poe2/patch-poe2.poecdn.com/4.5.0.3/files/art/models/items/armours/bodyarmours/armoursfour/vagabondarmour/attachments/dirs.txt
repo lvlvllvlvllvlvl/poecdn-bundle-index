@@ -1,0 +1,6 @@
+female
+female/cloak
+female/skirt
+male
+male/cloak
+male/skirt

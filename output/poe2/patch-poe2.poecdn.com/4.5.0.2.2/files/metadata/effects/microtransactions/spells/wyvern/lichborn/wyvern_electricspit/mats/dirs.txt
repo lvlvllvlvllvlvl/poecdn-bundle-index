@@ -1,5 +1,0 @@
-charged_projectile
-coneblast
-coneblast_charged
-onact
-projectile

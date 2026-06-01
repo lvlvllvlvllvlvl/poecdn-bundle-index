@@ -1,3 +1,0 @@
-attachments
-attachments/chainsarmleft
-attachments/chainsarmright

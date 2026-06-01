@@ -1,6 +1,0 @@
-fx
-mat
-mat/kalguurbossentrancecap_01
-mat/kalguurcap_01
-mat/sirencap_01
-mat/volcanocap_01

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+a0ec562c78b2084b,erode_prtcls_r.mat,Tiny.V0.1,12294910,11768
+bc53e1c44629cdc9,erode_prtcls_u.mat,Tiny.VB.1,10505277,19782
+dfa1fd73cbdeeb1c,primalwisps_energy_01_u.mat,Tiny.V3.1,13403795,28168
+98ec5ff2172b35c0,primalwisps_sprites_01_u.mat,Tiny.V1.1,10580838,10256
+35448a033cbdb30d,primalwisps_spritburst_01_u.mat,Tiny.VB.1,10525059,11256
+6aba261b8b3f346d,wildwisps_energy_01_r.mat,Tiny.V0.1,12306678,38466
+889e5b8a910ea3b1,wildwisps_energy_01_r1.mat,Tiny.VE.1,12312572,32284
+3542cf9f64be6745,wildwisps_sprites_01_r.mat,Tiny.V2.1,11530896,11942
+f0a4837081fd70b0,wildwisps_spritburst_01_r.mat,Tiny.VA.1,12769950,8446

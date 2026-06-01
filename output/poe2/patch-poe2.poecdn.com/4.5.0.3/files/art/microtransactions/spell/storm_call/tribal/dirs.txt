@@ -1,0 +1,6 @@
+idle
+idle/scrolling_runes
+idle_pulse
+impact
+impact/rune_circles
+impact_mini

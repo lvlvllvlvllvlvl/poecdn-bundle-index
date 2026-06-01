@@ -1,4 +1,0 @@
-fx
-mats
-mats/bolt
-mats/elements

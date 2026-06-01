@@ -1,5 +1,0 @@
-mb
-mb/barrel_shatter
-mb/gunpowder_lines
-mb/torch_flame
-textures

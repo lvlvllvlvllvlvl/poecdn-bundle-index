@@ -1,3 +1,0 @@
-character_effects
-character_effects/green
-character_effects/red

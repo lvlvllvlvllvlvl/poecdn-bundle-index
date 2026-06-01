@@ -1,8 +1,0 @@
-textures
-textures/architecture
-textures/fabric
-textures/ground
-textures/wayfinder
-tgms
-wayfinder
-wayfinder/base

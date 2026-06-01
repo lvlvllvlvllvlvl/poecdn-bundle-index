@@ -1,0 +1,14 @@
+bone_spire
+fire_arctic_breath
+gore_mortar
+icy_areadamage
+lightning_coldsnap
+monster_buff
+rigwald
+rigwald/axe_throw
+rigwald/ghost_wolves
+rigwald/transform
+rune_trap
+rune_trap/blue_explosion
+rune_trap/explosion
+shrink

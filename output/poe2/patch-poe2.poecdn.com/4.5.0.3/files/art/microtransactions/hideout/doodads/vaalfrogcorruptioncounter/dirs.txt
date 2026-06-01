@@ -1,0 +1,10 @@
+animations
+animations/large
+animations/small
+platforms
+platforms/large
+platforms/small
+textures
+textures/alchemy
+textures/chaos
+textures/vaal

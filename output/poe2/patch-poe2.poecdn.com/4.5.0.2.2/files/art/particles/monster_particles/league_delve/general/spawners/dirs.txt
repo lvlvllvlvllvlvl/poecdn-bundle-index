@@ -1,3 +1,0 @@
-azurite_spawner
-azurite_spawner/fx
-azurite_spawner/masks

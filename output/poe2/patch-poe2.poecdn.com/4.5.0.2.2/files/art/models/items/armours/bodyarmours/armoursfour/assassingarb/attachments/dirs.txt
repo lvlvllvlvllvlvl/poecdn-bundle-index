@@ -1,6 +1,0 @@
-capelet
-robe
-robe/layer01
-robe/layer02
-robe/layer03
-sleeve

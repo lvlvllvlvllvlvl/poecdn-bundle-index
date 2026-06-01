@@ -1,2 +1,0 @@
-base_fire
-black_fire

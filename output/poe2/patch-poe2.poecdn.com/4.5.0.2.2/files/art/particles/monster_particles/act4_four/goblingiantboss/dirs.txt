@@ -1,8 +1,0 @@
-mb
-mb/burp_rig
-mb/corpse_slam_rig
-mb/limb_proj_cone
-mb/onact_burp_rig
-mb/stomp_rig
-mb/sulphite_vomit_grd
-textures

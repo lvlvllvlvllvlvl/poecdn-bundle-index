@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+051eb7e4c730a481,head_trail.mat,Tiny.V3.1,101087881,39686
+d7cdabc3bf4b0191,projectile_trail_shimmer.mat,Tiny.V7.1,99305846,12198
+6efc2e16f529618a,projectile_embers_r.mat,Tiny.V6.1,95359813,30764
+cbe335a6e3e972db,projectile_embers_u.mat,Tiny.V8.1,116467186,21050
+d1c7ff1338275f60,melee_swipe_edge.mat,Tiny.VE.1,84386894,19458
+df4217b1d159956b,melee_swipe_mblur.mat,Tiny.VD.1,97217378,15108
+6c14bb8aa7f8dd7f,melee_swipe_smudge.mat,Tiny.V7.1,103172058,20236
+faa4cf4afda1c163,magmaliquid_r.mat,Tiny.V7.1,99263328,7792
+86ba2e174468bb1d,magmaliquid_u.mat,Tiny.V7.1,99271120,34726
+ad67e6065a598dff,mortar_core_u.mat,Tiny.V7.1,5363518,576
+7f1f5dbcf3b4a1a0,mortar_core_r.mat,Tiny.VB.1,101212169,36714
+bd34de03ee65530d,mortar_core_r2.mat,Tiny.V9.1,105347764,38520

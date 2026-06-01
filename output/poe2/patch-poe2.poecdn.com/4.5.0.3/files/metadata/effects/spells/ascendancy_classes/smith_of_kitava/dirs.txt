@@ -1,0 +1,15 @@
+animate_weapon
+animate_weapon/epks
+animate_weapon/fx
+animate_weapon/mats
+animate_weapon/mats/mace_slam
+animate_weapon/mats/quarterstaff_spin
+animate_weapon/mats/spear_dash
+animate_weapon/mats/talisman_slash
+imbue_weapon
+imbue_weapon/audio
+imbue_weapon/epks
+imbue_weapon/fx
+imbue_weapon/graphs
+imbue_weapon/mats
+imbue_weapon/onacts

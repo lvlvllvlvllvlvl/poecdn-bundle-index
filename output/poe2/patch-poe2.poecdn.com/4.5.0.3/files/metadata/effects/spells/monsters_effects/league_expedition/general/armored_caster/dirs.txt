@@ -1,0 +1,11 @@
+fx
+fx/act
+mat
+mat/blind_lightning_nova
+mat/carpetbomb
+mat/carpetbomb/cast
+mat/carpetbomb/orb
+mat/off_hand_projecile
+mat/onact
+mat/onact/lightning_bolts_01
+mat/onact/lightning_bolts_01/contact

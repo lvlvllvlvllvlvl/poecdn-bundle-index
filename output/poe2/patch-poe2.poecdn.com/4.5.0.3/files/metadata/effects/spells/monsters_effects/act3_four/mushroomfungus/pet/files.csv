@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+b4ad7789d4476c2e,attack_01_02_beam.pet,Tiny.V5.1,95976880,36932
+8992eefdd61f2972,attack_01_02.pet,Tiny.V3.1,94122589,10376
+20011bdf5c7c85e9,vacuum_mouth_pt.pet,Tiny.V3.1,94132965,36380
+955c39d7a270eb30,vacuum_grd_main.pet,Tiny.VC.1,97686783,5378
+895a9158eaecfee7,vacuum_grd_idle.pet,Tiny.V5.1,96013812,12298
+3fce55e931b4b946,vacuum_grd_once.pet,Tiny.V4.1,95266660,72272
+2408a25c1ae69068,orb_charge.pet,Tiny.VB.1,95719337,37868
+643a19c89ce737f4,orb_open.pet,Tiny.V4.1,95218658,48002
+a20de78f1929f7a4,orb_idle.pet,Tiny.VE.1,95732234,34448
+557622de63e77354,orb_explode.pet,Tiny.VB.1,95757205,42676

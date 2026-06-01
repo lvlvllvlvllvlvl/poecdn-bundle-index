@@ -1,6 +1,0 @@
-fx
-mat
-mat/chaos_wave
-mat/mud_pool
-mat/mud_splash_submerge
-mat/water_splash_01

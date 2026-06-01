@@ -1,4 +1,0 @@
-large_monster
-large_monster/fire
-poison
-red_shocked

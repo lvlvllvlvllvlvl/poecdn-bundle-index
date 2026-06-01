@@ -1,0 +1,9 @@
+epk
+fx
+graph
+mat
+mat/armour_glow
+mat/burst
+mat/burst/bones
+mat/consecrate
+mat/soulwisp

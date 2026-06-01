@@ -1,0 +1,8 @@
+fx
+fx/doryani_open_01
+fx/portal_open
+mat
+mat/alva_open_01
+mat/doryani_open_01
+mat/gem
+mat/portal_open

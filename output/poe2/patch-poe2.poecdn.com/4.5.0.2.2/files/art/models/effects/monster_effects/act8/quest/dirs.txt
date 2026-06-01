@@ -1,2 +1,0 @@
-tolman_skills
-tolman_skills/ankh_delayed_blast

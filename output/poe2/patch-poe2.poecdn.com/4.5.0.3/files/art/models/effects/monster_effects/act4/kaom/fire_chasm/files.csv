@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+c38dcb288688e32d,rig_065da848.smd,Streaming/Content/metadata/effects/spells/monsters_effects/20091A9E99CBB8D3.96CF121274BED130.snipe_projectile.ao,85920,27060
+13754a62715d3407,rig_065da848.smd.header,Tiny.V4,7510591,1035
+589d4971844a31f3,rig_02_eabac6a2.smd,Streaming/Content/metadata/effects/spells/monsters_effects/33F3D69C97E75412.81E6CB8E5731FDEB.firechasm_02.ao,0,113662
+ce763d13e9292dde,rig_02_eabac6a2.smd.header,Tiny.VF,7418136,1044
+f97d4a9ee34722cc,firechasm.sm,Tiny.VB,7420463,1002
+3889c816b7532fc4,firechasm.amd,Tiny.V6,7421268,86
+c07baf4e46051854,firechasm.ast,Content/metadata/effects/spells/monsters_effects/act4/06A27104DD5B79C9.rig.ao,462561,14559
+de57a9746f4c6914,firechasm_02.sm,Tiny.VA,7520392,1008
+62571ccdaa805417,firechasm_02.amd,Tiny.V6,7421268,86
+028f21842dc276f2,firechasm_02.ast,Content/metadata/effects/spells/monsters_effects/act4/06A27104DD5B79C9.rig.ao,491598,15005

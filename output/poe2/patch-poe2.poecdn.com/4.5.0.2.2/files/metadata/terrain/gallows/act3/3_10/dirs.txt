@@ -1,8 +1,0 @@
-graphs
-objects
-objects/bloodaltarencounter
-objects/soulcoreencounter
-objects/statueencounter
-objects/survivalencounter
-rooms
-rooms/roof

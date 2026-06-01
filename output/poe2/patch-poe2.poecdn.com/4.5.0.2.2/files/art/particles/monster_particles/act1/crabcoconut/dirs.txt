@@ -1,2 +1,0 @@
-slam_cone_small
-summon_emerge

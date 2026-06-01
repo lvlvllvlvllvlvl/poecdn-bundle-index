@@ -1,6 +1,0 @@
-act1stones
-act1stones/textures
-act2titans
-act2titans/textures
-act3tribes
-act3tribes/textures

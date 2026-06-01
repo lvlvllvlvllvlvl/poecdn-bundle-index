@@ -1,2 +1,0 @@
-circle_marker
-melee_trail

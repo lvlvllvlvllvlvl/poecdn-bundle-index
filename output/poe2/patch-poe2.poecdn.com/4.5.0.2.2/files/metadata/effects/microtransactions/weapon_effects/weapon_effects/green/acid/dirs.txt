@@ -1,6 +1,0 @@
-1h sword_ 2h axe
-2h mace
-2h sword
-bow
-dagger_claw_axe_wand
-staff

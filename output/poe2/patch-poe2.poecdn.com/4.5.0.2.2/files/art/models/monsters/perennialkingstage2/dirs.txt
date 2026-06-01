@@ -1,7 +1,0 @@
-attachments
-attachments/perennialkingbodybasetendrils
-attachments/perennialkingcorpse
-attachments/perennialkingcorpsetendrils
-attachments/perennialkingcorpsetendrils/corpsetentaclelong
-attachments/perennialkingcorpsetendrils/corpsetentacleshort
-attachments/perennialkingtendrils

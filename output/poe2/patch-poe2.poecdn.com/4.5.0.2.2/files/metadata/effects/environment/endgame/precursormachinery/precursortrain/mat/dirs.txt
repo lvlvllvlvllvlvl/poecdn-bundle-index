@@ -1,5 +1,0 @@
-idle_activate
-start
-trainhead
-trainlink
-trainlink_beam

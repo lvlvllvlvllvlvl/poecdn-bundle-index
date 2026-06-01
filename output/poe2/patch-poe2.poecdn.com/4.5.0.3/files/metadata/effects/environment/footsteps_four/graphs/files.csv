@@ -1,0 +1,4 @@
+hash,file,bundle,offset,size
+fc662336811a1de8,dielectricspecglossbn.fxgraph,Content/metadata/effects/environment/act4_four/g4_4_1/6543A974D7697D21.release_fx.pet,837256,40020
+68e40b471b5fb6a7,inherit_groundalbedo_texcalc.fxgraph,Content/metadata/effects/environment/act4_four/g4_4_1/6543A974D7697D21.release_fx.pet,829592,7664
+9dc13d1612196794,inherit_groundnormal_texcalc.fxgraph,Content/metadata/effects/environment/act4_four/g4_4_1/6543A974D7697D21.release_fx.pet,877276,8362

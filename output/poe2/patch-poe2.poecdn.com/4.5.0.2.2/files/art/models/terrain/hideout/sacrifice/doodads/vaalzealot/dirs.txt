@@ -1,4 +1,0 @@
-attachments
-attachments/daggers_01
-attachments/daggers_01/textures
-textures

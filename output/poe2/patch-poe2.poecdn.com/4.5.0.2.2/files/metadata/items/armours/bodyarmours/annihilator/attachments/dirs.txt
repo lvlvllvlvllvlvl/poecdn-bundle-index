@@ -1,4 +1,0 @@
-orbs
-skirt
-skirt/female
-skirt/male

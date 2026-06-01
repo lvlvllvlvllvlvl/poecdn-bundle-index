@@ -1,0 +1,7 @@
+attachments
+attachments/cape
+attachments/ponytail
+attachments/skirt
+fx
+fx/mb
+textures

@@ -1,5 +1,0 @@
-fireballimpact
-flame
-incinerate
-projectile
-projectileimpact

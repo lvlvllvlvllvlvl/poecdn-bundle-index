@@ -1,3 +1,0 @@
-gemsocketdevice
-generator
-soulgem_glow

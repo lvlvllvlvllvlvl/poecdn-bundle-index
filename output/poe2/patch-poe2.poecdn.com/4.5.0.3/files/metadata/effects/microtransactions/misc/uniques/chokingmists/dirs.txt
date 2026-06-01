@@ -1,0 +1,10 @@
+attachment
+epks
+fx
+graphs
+mats
+mats/dash
+mats/emotiondrain
+mats/impact
+mats/shapeform
+mats/shatteringblast

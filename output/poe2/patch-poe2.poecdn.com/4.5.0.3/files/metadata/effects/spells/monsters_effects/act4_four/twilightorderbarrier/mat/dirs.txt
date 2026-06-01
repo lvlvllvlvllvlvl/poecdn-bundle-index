@@ -1,0 +1,3 @@
+barrier_death
+barrier_hit
+barriersphere

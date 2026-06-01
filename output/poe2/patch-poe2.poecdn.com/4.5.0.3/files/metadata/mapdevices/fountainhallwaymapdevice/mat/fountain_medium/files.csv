@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+96d51c8c83929b56,map_waterpool_02_u.mat,Tiny.V7.1,5363518,576
+400bc518fe46816e,map_waterpool_02_r.mat,Tiny.VC.1,182358653,31690
+bc4485e074d1e15e,map_waterpool_02_r2.mat,Tiny.VC.1,182390343,22980
+342ddff6f46a67ff,waterjet_rib_r.mat,Tiny.V5.1,178111702,58558
+7cae238691ab31d1,waterjet_rib_u.mat,Tiny.V7.1,175981243,19246
+aa09d53f37738686,water_rib_r.mat,Tiny.VD.1,178755473,51446
+002010c235b7bc41,water_rib_u.mat,Tiny.V5.1,178092590,19112
+f06a9e655dfacfcc,wave_lip_splash_r.mat,Tiny.VF.1,177210596,28940
+796d35472f719bce,wave_lip_splash_u.mat,Tiny.V3.1,181354223,7940
+8b8dc606ac857da2,foam_sprays_r.mat,Tiny.V3.1,181362163,15768
+e8e369bf040edc71,foam_sprays_u.mat,Tiny.V3.1,181354223,7940

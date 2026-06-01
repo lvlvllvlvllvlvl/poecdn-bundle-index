@@ -1,0 +1,4 @@
+mb
+mb/onact_fire_projectile
+mb/projectile
+mb/projectile/animations

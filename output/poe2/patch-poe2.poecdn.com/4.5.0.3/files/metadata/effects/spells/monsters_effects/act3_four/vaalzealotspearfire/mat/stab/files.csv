@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+45fbb4fcd5bc1b4b,stab_mblur_r.mat,Tiny.V3.1,98096989,17858
+7b6b2100367c34b1,stab_mblur_u.mat,Tiny.V1.1,98660168,18842
+07fad66a735d4081,stab_dir_r.mat,Tiny.V4.1,98322730,23572
+628c73458c3d78e8,stab_dir_u.mat,Tiny.V6.1,99072897,18832
+84ca88f95a53b218,charged_stabblur_01_r.mat,Tiny.V3.1,85351391,16642
+40682071fefa3758,charged_stabglow_01_r.mat,Tiny.V3.1,98056993,39996
+e2428121f817c7bc,charged_stabspike_01_u.mat,Tiny.V4.1,98198526,2208
+45a0bf995c39b7a3,charged_stabspike_01_r.mat,Tiny.V9.1,102446418,22966

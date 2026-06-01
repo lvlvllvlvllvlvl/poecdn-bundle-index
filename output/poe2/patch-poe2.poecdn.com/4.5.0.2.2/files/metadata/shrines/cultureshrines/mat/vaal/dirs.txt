@@ -1,3 +1,0 @@
-blood_orb_explode
-shrine_gatherblood_grd
-shrine_orb

@@ -1,3 +1,0 @@
-armour_evasion_banner
-dread_banner
-warbanner

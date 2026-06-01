@@ -1,6 +1,0 @@
-epk
-fx
-mat
-mat/darkness_ground
-mat/darkness_ground_form
-mat/monster_ribbons

@@ -1,2 +1,0 @@
-soldiers
-soldiers/summon_mannequin

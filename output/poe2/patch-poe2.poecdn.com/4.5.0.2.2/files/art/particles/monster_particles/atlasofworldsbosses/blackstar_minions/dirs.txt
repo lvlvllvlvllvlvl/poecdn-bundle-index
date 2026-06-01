@@ -1,6 +1,0 @@
-mbs
-mbs/fodder_1_chargeup_explode
-mbs/fodder_1_sun
-mbs/fodder_1_sun_explode
-mbs/fodder_2_leapslam
-tex

@@ -1,0 +1,7 @@
+mb
+mb/on_act
+mb/on_act/host_death_01
+mb/pustule_explode
+tex
+tex/on_act
+tex/on_act/host_death_01

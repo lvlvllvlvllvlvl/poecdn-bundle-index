@@ -1,3 +1,0 @@
-onacts
-onacts/attack_trail
-projectile_trail

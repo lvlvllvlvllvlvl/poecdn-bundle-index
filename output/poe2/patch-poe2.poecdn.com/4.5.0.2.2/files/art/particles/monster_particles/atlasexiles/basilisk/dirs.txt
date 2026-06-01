@@ -1,9 +1,0 @@
-acid_pool
-body_fx
-large_projectile
-on_act
-small_spit
-spin_aoe
-spit_mortar
-viper_projectile
-wyvern_projectile

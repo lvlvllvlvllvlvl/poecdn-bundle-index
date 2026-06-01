@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-69fb16c68586da0c,generate.rs,Tiny.VE.1,201104233,364
-a8d348a7bbf99ce5,combination.ecf,Tiny.V7.1,208416992,20
-7e1025a5fbcaf3b4,random_fill_tiles.gft,Tiny.V1.1,200569029,248
-36017c50571eb525,tiles.tst,Tiny.VE.1,201105075,782
-c9d0d1187909ccec,materials.mtd,Tiny.V8.1,203711688,518
-a33658056b4ee5d6,material_overrides.tmo,Content/data/balance/worldareas/mapuberboss_ritual.vworld,335692,17492
-81e3f71b6959ca08,master_subgraph.tsi,Tiny.VB.1,202092633,620
-1fd8a3948effb0d4,master.tsi,Tiny.VB.1,202091973,660

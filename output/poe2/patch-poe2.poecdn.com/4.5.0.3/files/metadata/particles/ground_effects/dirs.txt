@@ -1,0 +1,9 @@
+evil
+evil/new
+fire
+holy
+ice
+lightning
+malachai_sporeground
+player_tar
+vaal_cloud

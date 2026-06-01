@@ -1,0 +1,7 @@
+onact
+projectile_trail
+shotgun_impact
+trail_left
+trail_mid
+trail_midright
+trail_right

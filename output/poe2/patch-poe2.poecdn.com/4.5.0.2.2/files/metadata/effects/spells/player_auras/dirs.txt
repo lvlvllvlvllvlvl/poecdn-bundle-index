@@ -1,4 +1,0 @@
-delirium
-delirium/graphs
-physical_damage
-spell_damage

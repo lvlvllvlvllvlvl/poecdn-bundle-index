@@ -1,7 +1,0 @@
-animations
-animations/abyss_apparition
-animations/rare_finisher_effect
-attachments
-attachments/halo
-attachments/skirt
-textures

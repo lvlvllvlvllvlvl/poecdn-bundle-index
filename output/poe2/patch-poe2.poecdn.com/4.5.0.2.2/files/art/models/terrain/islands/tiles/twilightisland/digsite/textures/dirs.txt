@@ -1,8 +1,0 @@
-architecture
-excavatedledge
-ground
-ledge
-precursorruins
-rocks
-wood
-woodvertexpaint

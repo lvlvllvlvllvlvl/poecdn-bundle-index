@@ -1,0 +1,5 @@
+chaos
+fire
+fire/aoe
+lightning
+lightning/aoe

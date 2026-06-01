@@ -1,8 +1,0 @@
-attachments
-attachments/head
-attachments/head_worm
-attachments/skirt
-fx
-fx/mb
-fx/textures
-textures

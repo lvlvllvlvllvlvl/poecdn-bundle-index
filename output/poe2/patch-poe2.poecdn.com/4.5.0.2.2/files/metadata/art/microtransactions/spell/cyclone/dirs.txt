@@ -1,3 +1,0 @@
-auspicious
-auspicious/texture
-ghostflame

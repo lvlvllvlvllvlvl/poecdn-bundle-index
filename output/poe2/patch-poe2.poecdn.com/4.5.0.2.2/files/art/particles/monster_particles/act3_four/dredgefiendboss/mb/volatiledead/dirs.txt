@@ -1,4 +1,0 @@
-lift
-muzzle
-projectile
-projectile/animations

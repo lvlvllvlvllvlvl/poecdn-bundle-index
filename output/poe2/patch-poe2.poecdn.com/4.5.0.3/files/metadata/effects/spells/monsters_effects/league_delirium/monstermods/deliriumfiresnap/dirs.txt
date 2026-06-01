@@ -1,0 +1,8 @@
+mat
+mat/fire_aura
+mat/fire_beam
+mat/fire_charge
+mat/fire_impact
+mat/fire_onact
+mat/fire_trail
+mat/fire_trail_02

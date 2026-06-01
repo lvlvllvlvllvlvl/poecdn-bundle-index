@@ -1,9 +1,0 @@
-attachments
-attachments/female
-attachments/female/cloth
-attachments/female/plates
-attachments/male
-attachments/male/plates
-fx
-textures
-textures/fx

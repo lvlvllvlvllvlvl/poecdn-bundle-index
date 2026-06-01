@@ -1,7 +1,0 @@
-ball
-cycloning
-golem
-pin
-pyramid
-sentinel
-skitterbot

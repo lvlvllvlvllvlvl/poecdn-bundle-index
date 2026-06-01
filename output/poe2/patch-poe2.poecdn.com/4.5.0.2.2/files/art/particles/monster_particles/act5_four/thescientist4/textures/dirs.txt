@@ -1,2 +1,0 @@
-rainofarrows
-snipe_projectile

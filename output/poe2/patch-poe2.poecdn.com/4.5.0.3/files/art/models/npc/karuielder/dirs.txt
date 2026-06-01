@@ -1,0 +1,8 @@
+animations
+attachments
+attachments/cape
+attachments/hair
+attachments/skirt
+attachments/skirtaccessories
+attachments/weapon
+textures

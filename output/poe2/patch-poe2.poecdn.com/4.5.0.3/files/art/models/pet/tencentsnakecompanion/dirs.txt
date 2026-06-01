@@ -1,0 +1,8 @@
+attachments
+attachments/hair
+attachments/skirta
+attachments/skirtb
+fx
+fx/mb
+snake
+textures

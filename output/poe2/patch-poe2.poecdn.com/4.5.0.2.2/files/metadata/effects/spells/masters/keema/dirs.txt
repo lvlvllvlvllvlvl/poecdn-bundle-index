@@ -1,3 +1,0 @@
-charge_explosion
-fire_wall
-mortar

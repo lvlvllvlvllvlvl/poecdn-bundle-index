@@ -1,4 +1,0 @@
-fissure_volcano
-fissure_volcano/mb
-fissure_volcano/mb/volcano
-fissure_volcano/mb/volcano/animations

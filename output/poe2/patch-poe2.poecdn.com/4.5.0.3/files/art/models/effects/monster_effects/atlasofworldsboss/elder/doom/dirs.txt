@@ -1,0 +1,5 @@
+doom_hit
+projectile
+projectile/impact
+projectile/tentacles1
+projectile/tentacles3

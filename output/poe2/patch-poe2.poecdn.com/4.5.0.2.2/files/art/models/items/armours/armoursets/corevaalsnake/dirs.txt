@@ -1,5 +1,0 @@
-attachments
-attachments/corevaalrobe
-attachments/corevaalsnake
-attachments/corevaalsnakerobe
-textures

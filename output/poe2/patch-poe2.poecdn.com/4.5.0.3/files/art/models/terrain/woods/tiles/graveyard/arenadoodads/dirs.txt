@@ -1,0 +1,6 @@
+arenamonument
+soldiergraves
+soldiergraves/soldiergrave01
+soldiergraves/soldiergrave02
+soldiergraves/soldiergrave03
+soldiergraves/soldiergrave04

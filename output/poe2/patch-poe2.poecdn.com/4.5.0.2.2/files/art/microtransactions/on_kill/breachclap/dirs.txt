@@ -1,6 +1,0 @@
-mb
-mb/animations
-mb/animations/clap
-mb/animations/tickle_l
-mb/animations/tickle_r
-mb/fx_driver

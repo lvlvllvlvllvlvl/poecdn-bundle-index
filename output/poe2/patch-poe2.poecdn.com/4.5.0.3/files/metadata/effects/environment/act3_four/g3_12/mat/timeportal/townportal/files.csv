@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+eab3e77f48cb24d7,fake_rays_r.mat,Tiny.VA.1,5411830,42116
+e59c043c24b448e7,fake_rays_u.mat,Tiny.V9.1,5491280,5344
+c09dec139aa6b3a9,flare_r.mat,Tiny.VC.1,5755757,29620
+6615936e6793a0e4,flare_u.mat,Tiny.VF.1,99004114,572
+0cdd7484274ff793,flare_suckin_in_r.mat,Tiny.VF.1,4546600,13450
+e9e84149670169f1,flare_suckin_in_u.mat,Tiny.V8.1,4454244,1334
+38a5d103e0089c17,core_portal_r.mat,Tiny.VE.1,4902254,50068
+a6168e419b8cf574,core_portal_u.mat,Tiny.V7.1,5363518,576
+55028c6424072ea5,chrono_time_r.mat,Tiny.V6.1,4268943,26392
+cf864e387134507d,chrono_time_u.mat,Tiny.VD.1,5313278,346
+bce9c8e8f96c7253,mblur_sphere_r.mat,Tiny.VD.1,4802892,10822
+6f02d9e99a2c3305,mblur_sphere_u.mat,Tiny.VD.1,5313278,346
+aff4e560b2c1ca76,eclipse_r.mat,Tiny.V0.1,4055016,21352
+650e5085a6226527,eclipse_u.mat,Tiny.V7.1,8391462,1620
+3a2955390dd6cc88,env_dust_spiralin_r.mat,Tiny.VE.1,4952322,33514
+c8ae16b3b385d75a,env_dust_spiralin_u.mat,Tiny.VA.1,60201754,1390

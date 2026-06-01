@@ -1,0 +1,5 @@
+bloodbathermace
+bloodbathershield
+bloodbathersword
+masks
+weapons

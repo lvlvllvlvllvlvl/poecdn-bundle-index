@@ -1,5 +1,0 @@
-animations
-animations/rum_carrier
-attachments
-attachments/tentacles
-textures

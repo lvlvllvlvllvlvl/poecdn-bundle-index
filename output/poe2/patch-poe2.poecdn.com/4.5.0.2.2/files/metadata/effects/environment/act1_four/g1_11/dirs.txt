@@ -1,4 +1,0 @@
-crowbell_footprint
-crowbell_footprint/fx
-crowbell_footprint/mat
-crowbell_footprint/mat/crowbell_footprint

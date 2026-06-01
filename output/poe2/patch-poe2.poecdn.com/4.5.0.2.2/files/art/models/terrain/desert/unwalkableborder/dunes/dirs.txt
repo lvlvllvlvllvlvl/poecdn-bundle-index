@@ -1,3 +1,0 @@
-tgms
-towntiles
-towntiles/tgms

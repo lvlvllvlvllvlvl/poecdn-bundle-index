@@ -1,2 +1,0 @@
-elemental_overload
-resolute_technique

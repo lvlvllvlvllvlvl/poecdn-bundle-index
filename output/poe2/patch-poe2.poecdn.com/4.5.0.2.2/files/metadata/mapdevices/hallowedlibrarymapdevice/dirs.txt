@@ -1,7 +1,0 @@
-attachments
-attachments/books
-audio
-epk
-fx
-graph
-mat

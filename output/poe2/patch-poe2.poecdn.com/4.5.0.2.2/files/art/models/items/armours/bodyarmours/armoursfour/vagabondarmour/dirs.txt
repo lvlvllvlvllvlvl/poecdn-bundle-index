@@ -1,8 +1,0 @@
-attachments
-attachments/female
-attachments/female/cloak
-attachments/female/skirt
-attachments/male
-attachments/male/cloak
-attachments/male/skirt
-textures

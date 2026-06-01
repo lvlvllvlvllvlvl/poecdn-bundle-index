@@ -1,6 +1,0 @@
-epk
-graphs
-mat
-onacts
-pet
-trl

@@ -1,7 +1,0 @@
-emerge
-idle_relaxed_01
-idle_relaxed_01/onact
-idle_relaxed_01/slam
-idle_relaxed_01/slam/pops
-idle_relaxed_02
-idle_relaxed_02/ghostshot

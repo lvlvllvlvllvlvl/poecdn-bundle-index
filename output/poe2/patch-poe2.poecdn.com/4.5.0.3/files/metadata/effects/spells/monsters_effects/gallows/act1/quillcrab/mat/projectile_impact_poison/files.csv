@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+0bfcb09eb3043170,muzzle_cone_r1.mat,Tiny.VD.1,129794596,42724
+7df27686abbf632e,muzzle_cone_u.mat,Tiny.V4.1,130383380,1302
+7010a25dcc1afcad,distortion_cone_r.mat,Tiny.V9.1,131775372,11894
+0cc5efa78ce18837,distortion_cone_u.mat,Tiny.V6.1,130157441,1972
+8175e84759ca9f67,center_flash_r.mat,Tiny.V3.1,130183393,24054
+c684c8116f2e38c9,center_flash_u.mat,Tiny.V9.1,131769300,6072
+3bc8b3113f3f016e,circular_impact_r.mat,Tiny.VD.1,129769892,24704
+7900b4052004ab9c,circular_impact_u.mat,Tiny.V6.1,130149901,7540
+2991c9095e8f8e8f,impact_splash_poison_r.mat,Tiny.V2.1,133033668,23516
+05341d97235253c3,impact_splash_poison_u.mat,Tiny.VF.1,127878152,25100
+51fae0fe367f7356,impact_splash_ribbon_r.mat,Tiny.V4.1,130351970,31410
+a893ed8d06535fcf,impact_splash_ribbon_u.mat,Tiny.V7.1,126939232,25350
+c3e0251ca41dc544,impact_smoke_r.mat,Tiny.V0.1,129794634,34006
+239bf617a2c61a00,impact_smoke_u.mat,Tiny.V5.1,129844052,14028
+e848b50c09bd15e2,impact_dir_u.mat,Tiny.VF.1,127873428,4724
+fedbced2208bfe37,impact_dir_r.mat,Tiny.VE.1,130303926,47440

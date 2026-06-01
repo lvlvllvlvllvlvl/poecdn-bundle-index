@@ -1,6 +1,0 @@
-head_feathers
-robe_t3
-shoulders_misc
-tags
-waist_misc
-wings

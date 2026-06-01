@@ -1,0 +1,12 @@
+carnival_harlequin
+celestial
+celestial/pet
+cultist
+cultist/pet
+cultist/pet_fistofwar
+heritage
+heritage/pet
+sin
+sin/epk
+sin/pet
+sin/pet_fistofwar

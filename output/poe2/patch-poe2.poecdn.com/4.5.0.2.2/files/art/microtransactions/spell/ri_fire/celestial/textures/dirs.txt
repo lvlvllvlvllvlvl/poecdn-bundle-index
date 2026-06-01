@@ -1,3 +1,0 @@
-debuff
-handfx
-vaal_ring

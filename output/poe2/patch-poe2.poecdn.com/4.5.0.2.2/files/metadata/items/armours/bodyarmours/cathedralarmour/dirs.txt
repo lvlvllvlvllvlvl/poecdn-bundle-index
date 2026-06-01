@@ -1,6 +1,0 @@
-attachments
-attachments/skirt
-fx
-fx/graph
-fx/mat
-fx/pet

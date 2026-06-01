@@ -1,7 +1,0 @@
-fx
-graphs
-mats
-mats/blood_channel_01
-mats/brazier
-mats/falling_blood
-mats/floor_chest

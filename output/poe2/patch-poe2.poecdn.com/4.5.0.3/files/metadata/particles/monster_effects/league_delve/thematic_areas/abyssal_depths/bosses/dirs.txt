@@ -1,0 +1,11 @@
+lich3
+lich3/arenalasers
+lich3/beamstorm
+lich3/crystalmines
+lich3/epicbeam
+lich3/epicbeam/obeliskaoe
+lich3/epictposeofdoom
+lich3/grdlaser
+lich3/projectilegreen
+lich3/projectilepurple
+lich3/reflectbeam

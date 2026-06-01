@@ -1,9 +1,0 @@
-epk
-fx
-graph
-mat
-mat/crumble_dust
-mat/fountain_flare
-mat/fountain_flare_big
-mat/water_dispence
-mat/water_dispence_big

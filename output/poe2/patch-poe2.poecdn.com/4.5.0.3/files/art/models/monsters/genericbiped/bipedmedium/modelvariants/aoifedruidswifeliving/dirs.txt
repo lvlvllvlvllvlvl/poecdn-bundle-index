@@ -1,0 +1,6 @@
+aoife_ragdoll
+attachments
+attachments/cloak
+attachments/corpse
+attachments/hair
+attachments/skirt

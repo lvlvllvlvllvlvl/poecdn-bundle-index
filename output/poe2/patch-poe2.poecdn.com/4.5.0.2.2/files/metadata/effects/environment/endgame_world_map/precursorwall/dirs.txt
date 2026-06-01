@@ -1,7 +1,0 @@
-mat
-mat/door
-mat/dust_circle
-mat/dust_line
-mat/dust_tower
-pet
-pet/dusts

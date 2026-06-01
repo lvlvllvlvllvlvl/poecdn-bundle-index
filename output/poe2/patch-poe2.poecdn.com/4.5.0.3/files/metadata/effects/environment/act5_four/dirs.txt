@@ -1,0 +1,8 @@
+oriath
+oriath/cistern
+oriath/cistern/fx
+oriath/cistern/fx/sewerglowflys_light_large
+slums
+slums/chimney_smoke
+slums/chimney_smoke/fx
+slums/chimney_smoke/mat

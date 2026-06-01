@@ -1,7 +1,0 @@
-fx
-fx/mb
-hideouts
-hideouts/shorelinehideout
-hideouts/shorelinehideout/textures
-hideouts/textures
-textures

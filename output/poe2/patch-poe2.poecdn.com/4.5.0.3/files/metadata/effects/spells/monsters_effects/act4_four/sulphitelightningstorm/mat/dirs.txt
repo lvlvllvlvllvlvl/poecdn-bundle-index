@@ -1,0 +1,6 @@
+loop
+muzzleflash
+onact
+projectile
+spellcast
+trail

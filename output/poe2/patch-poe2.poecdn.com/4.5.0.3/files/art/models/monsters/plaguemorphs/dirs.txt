@@ -1,0 +1,13 @@
+plaguemorph_01
+plaguemorph_01/animations
+plaguemorph_01/animations/tumourstatue_03
+plaguemorph_01/attachments
+plaguemorph_01/attachments/scroll
+plaguemorph_01/attachments/spikedangle
+plaguemorph_01/textures
+plaguemorph_02
+plaguemorph_02/textures
+plaguemorph_03
+plaguemorph_04
+plaguemorph_04/textures
+textures

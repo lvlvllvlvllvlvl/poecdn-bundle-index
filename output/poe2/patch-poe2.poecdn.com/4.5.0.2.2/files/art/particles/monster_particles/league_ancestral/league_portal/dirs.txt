@@ -1,5 +1,0 @@
-mb
-mb/portal_destruction
-mb/portal_formation
-mb/portal_rig
-textures

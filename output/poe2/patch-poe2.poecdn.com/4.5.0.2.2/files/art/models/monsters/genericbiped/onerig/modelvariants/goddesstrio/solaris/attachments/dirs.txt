@@ -1,5 +1,0 @@
-hair
-shoulderpads
-skirt
-weapon
-weapon/spear

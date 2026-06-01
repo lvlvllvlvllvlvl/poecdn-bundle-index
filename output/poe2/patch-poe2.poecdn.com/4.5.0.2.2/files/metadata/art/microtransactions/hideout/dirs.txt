@@ -1,7 +1,0 @@
-astrolabemapdevice
-astrolabemapdevice/textures
-doodads
-doodads/alientree_celestial
-doodads/challengetotem
-doodads/challengetotem/runesofaldur
-doodads/challengetotem/runesofaldur/textures

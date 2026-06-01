@@ -1,2 +1,0 @@
-medusa
-medusa/fx

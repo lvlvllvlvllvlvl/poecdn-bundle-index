@@ -1,9 +1,0 @@
-genericbloodsplat
-karui
-karui/molten_beam
-karui/rain_of_arrows
-maraketh
-templar
-templar/projectile_down
-vaal
-vaal/bloodslam

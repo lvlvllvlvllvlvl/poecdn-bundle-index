@@ -1,0 +1,9 @@
+mb
+mb/main_slash
+mb/shadow_beam_travel
+mb/shadow_draw_cone
+textures
+textures/cone_draw
+textures/main_slash
+textures/shadow_beam
+textures/shadow_copy

@@ -1,0 +1,7 @@
+stigmataarcher
+stigmataarcher/attachments
+stigmataaxe
+stigmataaxe/attachments
+stigmatamace
+stigmatamace/attachments
+stigmatamace/objects

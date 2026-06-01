@@ -1,6 +1,0 @@
-attachments
-attachments/harpymonstergull
-attachments/vulture
-magmaharpy
-magmaharpy/attachments
-magmaharpy/audio

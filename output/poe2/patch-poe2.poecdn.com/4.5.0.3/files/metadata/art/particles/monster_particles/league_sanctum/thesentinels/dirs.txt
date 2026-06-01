@@ -1,0 +1,8 @@
+textures
+textures/cascade_ground_slam
+textures/ground_slam_02
+textures/multislam_01
+textures/multislam_02
+textures/onact
+textures/soulrend
+textures/volatile_dead

@@ -1,5 +1,0 @@
-ice_nova
-ice_nova_ruin
-impact_beam
-lightning_beam
-lightning_ground

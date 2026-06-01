@@ -1,5 +1,0 @@
-ledge
-ledge/tgms
-textures
-textures/water
-tgms

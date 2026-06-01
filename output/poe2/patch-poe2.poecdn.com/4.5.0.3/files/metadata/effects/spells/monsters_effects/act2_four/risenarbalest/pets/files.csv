@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+d1be206609ef410e,basic_proj.trl,Tiny.V8.1,88417338,6746
+c21fabc3c224b7e1,basic_proj_end.pet,Tiny.V5.1,87621892,10058
+7966c7dd51955df8,burning_proj.trl,Tiny.V2.1,89326518,2718
+ea481ddc03ac701b,burning_proj_loop.pet,Tiny.VD.1,86245836,9920
+7d45b47f2fc746ad,burning_proj_pierce.pet,Tiny.VF.1,84494540,19100
+86b80f865cca36ed,burning_proj_end.pet,Tiny.V5.1,87631950,13994
+c1bf3dfd7a3dc381,multi_proj.trl,Tiny.V0.1,87446602,6700
+00178d0f3e7348b2,multi_proj_end.pet,Tiny.V0.1,87453302,10120
+32f83f903279e112,arrow_burnfade.pet,Tiny.V0.1,87433412,13190
+ff1473cfdf599613,act_shootbasic.pet,Tiny.V1.1,86546420,14092
+4488cbc436e5e223,act_burnmid.pet,Tiny.VC.1,88784037,6028
+4c748b582d5909c3,act_burnrelease.pet,Tiny.V0.1,87426880,6532
+c5196cb9dd5f5450,act_burnshot.trl,Tiny.V7.1,85606516,2992
+1cb9d5b8304121c9,act_burnshot.pet,Tiny.V4.1,87305124,3294

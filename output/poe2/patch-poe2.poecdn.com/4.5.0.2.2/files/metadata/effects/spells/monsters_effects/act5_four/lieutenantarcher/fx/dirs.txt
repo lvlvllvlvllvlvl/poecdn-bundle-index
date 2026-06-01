@@ -1,8 +1,0 @@
-basic_projectile
-basic_projectile/snipe_proj_01
-basic_projectile/snipe_proj_01_impact
-basic_projectile/snipe_proj_01_pierce
-snipe_projectile
-snipe_projectile/snipe_proj_01
-snipe_projectile/snipe_proj_01_impact
-snipe_projectile/snipe_proj_01_pierce

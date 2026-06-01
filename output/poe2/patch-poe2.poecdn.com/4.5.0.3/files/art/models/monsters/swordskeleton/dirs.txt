@@ -1,0 +1,17 @@
+animations
+animations/skeletalknight
+animations/swordskeletonupdate
+attachments
+attachments/new
+attachments/skeletalknight
+attachments/skeletalknight/beltaccessories
+attachments/skeletalknight/halberd
+attachments/skeletalknight/lshoulderpads
+attachments/skeletalknight/rshoulderpads
+attachments/skeletalknight/shield
+attachments/skeletalknight/skirt
+attachments/skeletalknight/thighguards
+attachments/swordskeletonupdate
+attachments/swordskeletonupdate/cloak
+attachments/swordskeletonupdate/clothloin
+textures

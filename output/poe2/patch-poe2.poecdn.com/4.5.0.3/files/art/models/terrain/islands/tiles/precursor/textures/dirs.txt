@@ -1,0 +1,8 @@
+architecture
+combinator
+decals
+ground
+monsterparts
+murals
+rubble
+sarcophagus

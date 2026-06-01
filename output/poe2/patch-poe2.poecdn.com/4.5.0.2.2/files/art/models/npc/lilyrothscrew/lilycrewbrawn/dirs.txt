@@ -1,5 +1,0 @@
-animations
-attachments
-attachments/necklace
-attachments/skirt
-attachments/vest

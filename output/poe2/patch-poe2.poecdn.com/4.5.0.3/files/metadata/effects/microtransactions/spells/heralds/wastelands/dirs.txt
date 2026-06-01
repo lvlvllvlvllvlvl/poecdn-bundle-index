@@ -1,0 +1,10 @@
+fire
+ice
+lightning
+pet
+pet/fire
+pet/ghost
+pet/ghost/ice
+pet/ghost/lightning
+pet/ice
+pet/lightning

@@ -1,8 +1,0 @@
-epks
-fx
-fx/wrappedgift1_drop
-fx/wrappedgift1_idle
-fx/wrappedgift2_drop
-fx/wrappedgift2_idle
-fx/wrappedgift3_drop
-fx/wrappedgift3_idle

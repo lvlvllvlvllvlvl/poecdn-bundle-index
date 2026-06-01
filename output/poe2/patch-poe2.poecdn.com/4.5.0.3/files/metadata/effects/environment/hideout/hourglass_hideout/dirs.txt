@@ -1,0 +1,4 @@
+fx
+mat
+mat/sand_trail
+mat/sand_vortex_idle

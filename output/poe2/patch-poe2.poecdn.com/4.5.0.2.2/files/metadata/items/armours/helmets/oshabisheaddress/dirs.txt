@@ -1,7 +1,0 @@
-apparitions
-apparitions/epk
-apparitions/fx
-apparitions/graph
-attachments
-green
-red

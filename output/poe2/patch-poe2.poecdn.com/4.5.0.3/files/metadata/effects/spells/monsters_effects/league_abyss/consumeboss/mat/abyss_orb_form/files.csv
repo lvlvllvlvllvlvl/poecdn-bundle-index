@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+74673ef828587a09,abyssorb_blur_ribbon_01_r.mat,Tiny.VB.1,133361231,81992
+e3adb290758ab6ec,abyssorb_baseblur_01_r.mat,Tiny.V5.1,130491818,11680
+0959ea711335f7af,abyssorb_baseblur_01_u.mat,Tiny.V7.1,5363518,576
+5b3d418f8a1babf0,abyssorb_baseorb_01_r.mat,Tiny.VF.1,34670170,45632
+6d0932da775526dc,abyssorb_baseorb_01_u.mat,Tiny.V1.1,131493224,2212
+58461befa0fccdbf,abyssorb_gatherribbon_01_r.mat,Tiny.V5.1,101847110,34916
+26f470de7a940b7e,abyssorb_gatherribbon_01_u.mat,Tiny.V9.1,132325564,23574
+f11fabbd9c5bfb3d,core_glow_r.mat,Tiny.V6.1,130719949,28442
+8f4559c582fdf687,core_glow_u.mat,Tiny.VE.1,126792098,774

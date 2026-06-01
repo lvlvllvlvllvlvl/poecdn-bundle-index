@@ -1,2 +1,0 @@
-pets
-town_idle

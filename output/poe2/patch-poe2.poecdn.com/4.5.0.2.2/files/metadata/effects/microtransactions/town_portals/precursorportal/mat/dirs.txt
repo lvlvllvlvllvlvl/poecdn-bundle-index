@@ -1,6 +1,0 @@
-attraction
-close
-hole
-open
-portal
-portal_summon

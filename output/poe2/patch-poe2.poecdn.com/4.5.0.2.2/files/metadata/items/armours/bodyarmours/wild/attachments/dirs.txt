@@ -1,4 +1,0 @@
-necklace
-necklace/female
-necklace/male
-skirt

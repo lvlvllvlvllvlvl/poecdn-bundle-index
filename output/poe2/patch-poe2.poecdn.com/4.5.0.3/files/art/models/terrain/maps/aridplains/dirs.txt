@@ -1,0 +1,7 @@
+textures
+textures/architecture
+textures/cliffs
+textures/darkdunes
+textures/edge
+textures/ground
+tgms

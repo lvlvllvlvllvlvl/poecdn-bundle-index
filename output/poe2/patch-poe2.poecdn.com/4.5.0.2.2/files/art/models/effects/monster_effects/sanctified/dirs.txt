@@ -1,3 +1,0 @@
-sanctifiedsnake
-sanctifiedsnake/mb
-sanctifiedsnake/mb/animations

@@ -1,5 +1,0 @@
-close
-loop
-open
-possessed
-spirit_spawn_beam

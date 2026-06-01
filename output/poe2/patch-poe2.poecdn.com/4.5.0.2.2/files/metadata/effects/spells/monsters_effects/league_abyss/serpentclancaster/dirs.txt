@@ -1,7 +1,0 @@
-attachments
-fx
-mat
-mat/burning_ground_abyss
-mat/emerge_burst
-mat/submerge_01
-mat/tailwhip_sand

@@ -1,6 +1,0 @@
-attachments
-attachments/hammers
-attachments/plates
-attachments/skirt
-fx
-textures

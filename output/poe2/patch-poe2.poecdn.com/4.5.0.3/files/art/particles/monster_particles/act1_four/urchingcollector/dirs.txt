@@ -1,0 +1,2 @@
+flameblast
+revive_nova

@@ -1,0 +1,10 @@
+attachments
+attachments/f
+attachments/f/bodytrunk
+attachments/f/cape
+attachments/f/skirt
+attachments/m
+attachments/m/bodytrunk
+attachments/m/cape
+attachments/m/skirt
+textures

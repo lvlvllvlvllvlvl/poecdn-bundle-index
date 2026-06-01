@@ -1,8 +1,0 @@
-expedition2
-expedition2/rebirthrune
-expedition2/rebirthrune/fx
-expedition2/rebirthrune/fxgraph
-expedition2/rebirthrune/mat
-expedition2/tidalrune
-expedition2/tidalrune/fx
-expedition2/tidalrune/mat

@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-111700380843374b,random_fill_tiles.gft,Tiny.V4.1,202817090,448
-dadf38debb9c5527,generate.rs,Tiny.VD.1,203351845,380
-3e857b7b027a435a,decals.dct,Tiny.V6.1,202053085,50
-9dec3a5b94fd33b2,tiles.tst,Tiny.V7.1,201274210,12996
-2e29c71647710679,master.tsi,Tiny.V6.1,202028607,716
-596bb640c5febad6,materials.mtd,Tiny.VA.1,203978185,3130
-53c895111ed70b56,material_overrides.tmo,Content/data/balance/worldareas/mapdeserted.vworld,3450492,78060

@@ -1,9 +1,0 @@
-basetypes
-basetypes/textures
-microtransactions
-microtransactions/breachdemonhand
-microtransactions/harlequinfist
-microtransactions/scourgeclaw
-microtransactions/thaumaturgyprojectclaw
-monsters
-monsters/textures

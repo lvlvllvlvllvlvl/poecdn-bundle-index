@@ -1,0 +1,3 @@
+onact
+onact/spin_detonate_01
+onact/tail_whip_01

@@ -1,3 +1,0 @@
-primeval_boss
-primeval_boss/stone_tomb
-primeval_boss/stone_tomb/fx

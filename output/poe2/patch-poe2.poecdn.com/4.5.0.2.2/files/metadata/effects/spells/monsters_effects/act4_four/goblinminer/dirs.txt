@@ -1,4 +1,0 @@
-epk
-fx
-mat
-mat/rockpojectile1

@@ -1,7 +1,0 @@
-graphs
-rooms
-tiles
-tiles/abyss
-tiles/feature
-tiles/thickwall
-tiles/thinwall

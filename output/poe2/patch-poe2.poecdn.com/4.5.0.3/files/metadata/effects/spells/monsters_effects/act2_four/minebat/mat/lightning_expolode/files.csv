@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+31a50dd41caa3da3,sc_pntemit_update.mat,Tiny.VD.1,5313278,346
+04d159bba9a39c1f,bms_glowwave_render.mat,Tiny.V0.1,83934774,27250
+4968c24611645651,bms_boom_glow_render.mat,Tiny.VD.1,83205814,10750
+a6edb298ee2b3525,explosion_flare_r.mat,Tiny.V9.1,87279662,23362
+48d32220903c4c45,explosion_flare_u.mat,Tiny.VD.1,5313278,346
+9f64276b46fb4e20,explosion_dropbolt_r.mat,Tiny.VD.1,83216564,29022
+ff00ff0abed332b1,explosion_dropbolt_u.mat,Tiny.VD.1,83245586,4486
+6e5d7a72b377687f,explosion_blur_r.mat,Tiny.V5.1,84029868,12190
+4963406a5990a50c,explosion_blur_u.mat,Tiny.VD.1,5313278,346

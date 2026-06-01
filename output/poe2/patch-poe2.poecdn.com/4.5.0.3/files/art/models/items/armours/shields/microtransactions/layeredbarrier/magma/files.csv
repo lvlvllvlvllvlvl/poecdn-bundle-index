@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+8865e47e75cea02c,runes3.fmt,Streaming/Content/metadata/items/armours/shields/AF7CEA24241B741E.F16F1862DE1034B0.dunkelhaltdrop.ao,370613,9620
+aba5d97d06382a13,runes3.fmt.header,Tiny.V7,10402297,241
+4de972f79d790dc0,runes2.fmt,Streaming/Content/metadata/items/armours/shields/AF7CEA24241B741E.F16F1862DE1034B0.dunkelhaltdrop.ao,361377,9236
+4eb12f823cd6475d,runes2.fmt.header,Tiny.V8,10304679,241
+81c54ed2e460e060,face3.fmt,Streaming/Content/metadata/items/armours/shields/9B9445840DA78569.C11C538F3FCDCA22.splinteredtowerheld.ao,833139,53060
+0233dc8732ef65f8,face3.fmt.header,Tiny.V8,10304444,235
+8b294afd8167a988,face2.fmt,Streaming/Content/metadata/items/armours/shields/9B9445840DA78569.C11C538F3FCDCA22.splinteredtowerheld.ao,786691,46448
+a8c89ba993c27ec3,face2.fmt.header,Tiny.V5,10235166,235
+02be4d0151a7a8d2,layeredbarrier_spell.fmt,Streaming/Content/metadata/items/armours/shields/49E7E66355C37DC6.intrepidliegeshieldheld.ao,462671,70966
+ad24b2e09a3a3092,layeredbarrier_spell.fmt.header,Tiny.V4,10502566,776
+d243d5175989a641,layeredbarrier_nospell.fmt,Streaming/Content/metadata/items/armours/shields/FD7041002EF46F95.34FB569D5A3070D4.magmalayeredbarrier_nospell_tier3.ao,0,90770
+fe75f6a370d1b30f,layeredbarrier_nospell.fmt.header,Tiny.VF,10536704,633

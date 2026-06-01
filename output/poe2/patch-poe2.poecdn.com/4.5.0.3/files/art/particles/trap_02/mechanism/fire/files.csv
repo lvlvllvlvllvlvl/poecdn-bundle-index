@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+8528ca62db3fb4c8,tile_01.dds,Streaming/Content/metadata/terrain/leagues/delve/DFB0A6340C2D948C.delvenode.ao,759150,87556
+86295b92c8fedfdf,tile_01.dds.header,Tiny.VF,34522261,1520
+03ca4e3bdb3fc83d,fire_gradc.mat,Tiny.V7,41584148,1520
+389f24554714501e,fire_grad.dds,Tiny.V7,41583304,844
+972134934dfa9709,fire_grad.dds.header,Tiny.VB,41897790,1520
+a50c03c1b5099c20,crane_partscns.mat,Tiny.VD,41805651,3526
+7fdf6107b7c580ec,crane_parts_colour.dds,Streaming/Content/metadata/terrain/leagues/delve/DFB0A6340C2D948C.delvenode.ao,584226,174924
+81089719f9783766,crane_parts_colour.dds.header,Tiny.V1,41548078,1520
+a3c3a017194922dd,clone_machine_podcns.mat,Tiny.VF,41589321,3636
+f923c125c0ebf9cc,clone_machine_pod_glow.dds,Streaming/Content/metadata/terrain/leagues/delve/DFB0A6340C2D948C.delvenode.ao,234526,349700
+164af80f415fed91,clone_machine_pod_glow.dds.header,Tiny.V5,41187070,1520
+3101f81857d03ca2,clone_machine_pod_colour.dds,Streaming/Content/metadata/terrain/leagues/delve/DFB0A6340C2D948C.delvenode.ao,59602,174924
+6eb749a69503fe03,clone_machine_pod_colour.dds.header,Tiny.VF,41594477,1520

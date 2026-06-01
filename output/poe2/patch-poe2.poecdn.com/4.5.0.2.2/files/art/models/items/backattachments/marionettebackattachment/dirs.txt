@@ -1,5 +1,0 @@
-attachments
-attachments/pin
-textures
-textures/metal
-textures/porcelain

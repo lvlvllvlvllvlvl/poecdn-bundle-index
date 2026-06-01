@@ -1,0 +1,5 @@
+attachments
+attachments/cape
+attachments/robe
+attachments/snakes
+attachments/spear

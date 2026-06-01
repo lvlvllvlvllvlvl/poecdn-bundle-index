@@ -1,4 +1,0 @@
-arenawallprops
-effects
-effects/mat
-effects/mat/fire_pot

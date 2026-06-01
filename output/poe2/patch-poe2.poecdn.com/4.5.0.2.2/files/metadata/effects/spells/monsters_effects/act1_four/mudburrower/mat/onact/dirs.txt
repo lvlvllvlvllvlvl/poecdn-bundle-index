@@ -1,9 +1,0 @@
-attack_01_02
-bite_vomit
-bloodcascade
-death_01
-emerge
-emerge_epic
-submerge_idle
-tail_attack_01
-tail_attack_02

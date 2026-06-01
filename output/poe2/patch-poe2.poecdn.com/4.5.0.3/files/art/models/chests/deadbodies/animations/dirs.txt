@@ -1,0 +1,6 @@
+vaalbonepilesinteractable
+vaalbonepilesinteractable/vaalmummifiedchest01
+vaalbonepilesinteractable/vaalmummifiedchest02
+vaalbonepilesinteractable/vaalmummifiedchest03
+vaalbonepilesinteractable/vaalmummifiedchest04
+vaalbonepilesinteractable/vaalmummifiedchest05

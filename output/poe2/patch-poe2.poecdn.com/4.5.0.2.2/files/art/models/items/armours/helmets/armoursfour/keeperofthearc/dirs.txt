@@ -1,5 +1,0 @@
-attachments
-attachments/neckcloth
-attachments/neckguard
-attachments/plumes
-textures

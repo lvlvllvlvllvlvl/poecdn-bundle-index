@@ -1,0 +1,10 @@
+cavewall
+features
+features/sinkhole
+hallway
+thickwall
+thinwall
+totems
+totems/fx
+totems/graph
+totems/mat

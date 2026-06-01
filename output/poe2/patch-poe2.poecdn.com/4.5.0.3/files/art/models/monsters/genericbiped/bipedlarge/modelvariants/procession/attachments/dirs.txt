@@ -1,0 +1,10 @@
+procession01
+procession01/earrings
+procession01/loincloth
+procession06
+procession06/feathers
+procession06/loincloth
+procession06/loincloth/attachments
+procession06/loincloth/attachments/axes01
+procession06/loincloth/attachments/axes02
+weapons

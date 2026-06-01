@@ -1,0 +1,7 @@
+attachments
+attachments/l_tie
+attachments/r_tie
+attachments/robe
+fx
+fx/mb
+textures

@@ -1,6 +1,0 @@
-animations
-animations/town
-attachments
-attachments/coat
-attachments/hatfeathers
-attachments/swordholder

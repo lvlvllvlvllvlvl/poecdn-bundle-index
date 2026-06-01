@@ -1,6 +1,0 @@
-chest
-chestshimmer
-monster_epk
-portal
-portal/fx
-portal/fx/bloodpool

@@ -1,2 +1,0 @@
-frozen_legion
-smite_weapon_buff

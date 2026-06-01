@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+6110fe2115ed61a6,bosscartseperatefront.fmt,Streaming/Content/data/worldareas/91/mapfreight.vworld,40317,3109990
+5b2774dcff09b2e2,bosscartseperatefront.fmt.header,Tiny.V5,14710366,2788
+982303f09aa9fac5,bosscartseperateback.fmt,Streaming/Content/data/worldareas/44/mapfreight.vworld,0,2779538
+c5114f5b3d27dea7,bosscartseperateback.fmt.header,Tiny.V9,15008892,2871
+1f12658c38b4dc8b,bosscartseperateback_notdamaged.fmt,Streaming/Content/metadata/terrain/maps/arenas/8CA205A31B041F5F.97684AD01E425998.praystatue05.ao,575993,507788
+58e7727b6d4ba9df,bosscartseperateback_notdamaged.fmt.header,Tiny.V8,14819813,2011
+fb0ac34fd6b684d1,bosscartseperateback_damaged.fmt,Streaming/Content/metadata/terrain/maps/bastion/7FF6CE1239CFA86C.0A33D8F6995BA619.bosscartseperateback_damaged_mesh.ao,0,7496052
+88dca97569c3bf00,bosscartseperateback_damaged.fmt.header,Content/metadata/terrain/ruinedcity/features/trees/ruinedcity_tree_pandanus_v01_07_animated_sway.ao,742552,5143

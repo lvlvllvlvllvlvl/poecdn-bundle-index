@@ -1,6 +1,0 @@
-textures
-textures/architecture
-textures/architecture/interior
-textures/doodads
-textures/trees
-tgms

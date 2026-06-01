@@ -1,0 +1,4 @@
+fx
+mat
+mat/door_ground
+mat/groud_dust

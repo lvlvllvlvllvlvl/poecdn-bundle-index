@@ -1,4 +1,0 @@
-death_01
-idle_active_01
-place_pole
-pole_beam

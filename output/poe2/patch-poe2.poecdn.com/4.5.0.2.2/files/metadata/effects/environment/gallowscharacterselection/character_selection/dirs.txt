@@ -1,4 +1,0 @@
-fx
-fx/river_water_splash_01
-mat
-mat/river_water_splash_01

@@ -1,4 +1,0 @@
-feathers
-gem
-ring
-tassles

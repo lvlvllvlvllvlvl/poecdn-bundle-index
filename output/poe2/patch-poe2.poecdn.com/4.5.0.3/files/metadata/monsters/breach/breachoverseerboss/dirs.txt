@@ -1,0 +1,5 @@
+attachments
+corpses
+hands
+objects
+spider

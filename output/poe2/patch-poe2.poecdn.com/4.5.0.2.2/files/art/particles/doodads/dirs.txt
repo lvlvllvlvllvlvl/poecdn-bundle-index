@@ -1,9 +1,0 @@
-beach
-church
-forest
-forest/cauldron
-hideoutdoodads
-hideoutdoodads/crystals
-hideoutdoodads/crystals/crystalswhite
-hideoutdoodads/redlaz
-hideoutdoodads/white

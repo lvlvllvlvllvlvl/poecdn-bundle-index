@@ -1,0 +1,11 @@
+battle_root
+bulb_ultimate
+crown_of_thorns
+on_act
+phase_transition
+road_roots
+scale_ultimate
+spam_proj
+thorn_ultimate
+travel_blast
+vine_cascade

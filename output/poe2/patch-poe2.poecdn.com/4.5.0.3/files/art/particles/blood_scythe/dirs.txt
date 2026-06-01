@@ -1,0 +1,17 @@
+aoe_cone_swipe
+aoe_cone_swipe/textures
+beam
+beam/mb
+beam/textures
+charges
+charges/mb
+charges/textures
+debuff
+debuff/mb
+debuff/textures
+scythe
+scythe/mb
+scythe/textures
+scythe/textures/bloodscythe_slash
+surge
+surge/textures

@@ -1,5 +1,0 @@
-fx
-mat
-mat/blood_explosion
-mat/rat_proj
-mat/rat_tornado

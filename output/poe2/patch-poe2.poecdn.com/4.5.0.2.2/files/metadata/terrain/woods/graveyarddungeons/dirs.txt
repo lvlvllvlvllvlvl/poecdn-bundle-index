@@ -1,8 +1,0 @@
-abyss
-feature
-ledges
-stairs
-thickthin
-thickwall
-thinwall
-transitions

@@ -1,4 +1,0 @@
-epk
-impact
-muzzle
-projectile

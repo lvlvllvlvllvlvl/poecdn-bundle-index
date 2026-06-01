@@ -1,8 +1,0 @@
-act3_part2_bossarena
-act3_part2_bossarena/eclipsed_hideout
-act3_part2_bossarena/eclipsed_hideout/tgms
-alttiles
-alttiles/lunaris
-battlefronttobarracks
-battlefronttobarracks/tgms
-tgms

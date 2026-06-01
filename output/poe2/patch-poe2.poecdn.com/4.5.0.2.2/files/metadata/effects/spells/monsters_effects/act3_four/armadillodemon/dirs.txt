@@ -1,5 +1,0 @@
-attack
-attack/pet
-mat
-roll_long_01
-roll_long_01/pet

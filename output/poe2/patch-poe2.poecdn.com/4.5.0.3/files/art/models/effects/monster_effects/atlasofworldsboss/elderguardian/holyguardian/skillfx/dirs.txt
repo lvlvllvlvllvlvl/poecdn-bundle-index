@@ -1,0 +1,11 @@
+delayed_slam
+monster_slam
+sword_firestorm
+sword_firestorm/1
+sword_firestorm/2
+sword_minions_projectile
+tentacle_daresso_clonecharge
+tentacle_daresso_clonecharge/projectile
+weapon_charge
+weapon_throw
+weaponthrow_impact

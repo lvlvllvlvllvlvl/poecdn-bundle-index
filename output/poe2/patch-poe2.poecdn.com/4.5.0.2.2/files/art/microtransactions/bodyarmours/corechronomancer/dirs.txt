@@ -1,4 +1,0 @@
-mb
-mb/sand
-mb/timepulse
-tex

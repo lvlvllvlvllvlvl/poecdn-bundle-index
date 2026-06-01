@@ -1,4 +1,0 @@
-dagger_dagger_attack_03
-onact
-spear
-spear_leapslam

@@ -1,0 +1,17 @@
+alvaattachments
+blacksmith
+blacksmith/attachments
+boarguard
+boarguard/attachments
+eramir
+eramir/attachments
+friendlycauldroncron
+treasurehunters
+treasurehunters/treasurehunter_01
+treasurehunters/treasurehunter_01/attachments
+treasurehunters/treasurehunter_02
+treasurehunters/treasurehunter_02/attachments
+treasurehunters/treasurehunter_03
+treasurehunters/treasurehunter_03/attachments
+treasurehunters/treasurehunter_04
+treasurehunters/treasurehunter_04/attachments

@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+0fdd7b46da069a84,wisp_impact.mat,Tiny.VF,37492810,3080
+3c067cbf89a88013,blur_dust.mat,Tiny.VF,37492438,372
+6dcbda7b1c2e281a,ground_crack.mat,Tiny.V7,37441182,3290
+6d42e694210fce8e,debris_render.mat,Tiny.VB,37801503,3678
+371c907bf0fcde43,debris_update.mat,Tiny.VB,37872461,5382
+3450c58034d4f576,sphere_shockwave.mat,Tiny.V6,37490968,4216
+e722a018645bb792,spark_render.mat,Tiny.V1,37318317,2694
+a42d67feb1108a81,sparks_update.mat,Tiny.V1,37321011,3748

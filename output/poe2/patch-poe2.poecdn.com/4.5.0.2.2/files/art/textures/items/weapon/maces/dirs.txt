@@ -1,6 +1,0 @@
-microtransactions
-microtransactions/harlequinclub
-microtransactions/illusionistmace
-microtransactions/valkyriehammer
-monsters
-uniques

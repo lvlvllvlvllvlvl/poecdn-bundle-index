@@ -1,0 +1,10 @@
+carrionwing
+cocoon3boss
+consumeboss
+consumeboss/attachments
+consumeboss/attachments/abyssconsumebossattachments
+consumeboss/objects
+morayclanmonster
+morayclanmonster/attachments
+serpentclancaster
+serpentclancaster/attachments

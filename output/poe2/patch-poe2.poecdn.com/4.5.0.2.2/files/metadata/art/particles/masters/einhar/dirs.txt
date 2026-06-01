@@ -1,2 +1,0 @@
-mine_bomb
-mine_bomb/fx2

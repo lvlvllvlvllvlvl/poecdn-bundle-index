@@ -1,5 +1,0 @@
-lightning_aura
-lightning_proj
-lightning_proj_impact
-lightning_shield
-lightning_wave

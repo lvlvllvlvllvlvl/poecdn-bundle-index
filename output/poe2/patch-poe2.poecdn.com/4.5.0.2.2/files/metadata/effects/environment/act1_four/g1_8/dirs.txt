@@ -1,5 +1,0 @@
-goldroomdoor
-goldroomdoor/epk
-goldroomdoor/fx
-goldroomdoor/graph
-goldroomdoor/mat

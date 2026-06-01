@@ -1,0 +1,17 @@
+fx
+fx/body
+fx/hand
+fx/mouth
+fx/projectile_01
+fx/projectile_01/impact
+mat
+mat/body
+mat/body/persistant
+mat/body/walk
+mat/hand
+mat/mouth
+mat/mouth/walk
+mat/muzzle
+mat/projectile_01
+mat/projectile_01/impact
+mat/surge

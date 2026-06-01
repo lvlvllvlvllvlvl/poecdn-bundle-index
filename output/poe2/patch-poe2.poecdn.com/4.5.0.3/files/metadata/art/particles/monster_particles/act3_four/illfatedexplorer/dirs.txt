@@ -1,0 +1,2 @@
+textures
+textures/death_spore

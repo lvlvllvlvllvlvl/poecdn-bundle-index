@@ -1,5 +1,0 @@
-buildup
-buildup/tendrils
-main_proj
-pods
-pods_proj

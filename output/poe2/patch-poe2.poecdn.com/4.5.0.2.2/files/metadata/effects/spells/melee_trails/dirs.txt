@@ -1,4 +1,0 @@
-default_attack
-dual_strike
-test_case
-trauma_strike

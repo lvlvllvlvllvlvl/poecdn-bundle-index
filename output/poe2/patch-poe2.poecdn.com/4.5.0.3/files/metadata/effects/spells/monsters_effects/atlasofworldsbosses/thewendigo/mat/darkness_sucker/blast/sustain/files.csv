@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+3e35e841fff8c7a8,blur_center_r.mat,Tiny.V6.1,120254963,28240
+f1f25e2d7420955e,impact_debris_01_r.mat,Tiny.V1.1,121787242,35832
+32ec823279587ace,lightnova_debris_01_u.mat,Tiny.V4.1,120410426,27046
+7d403dae93b420bf,kickup_smoke_r.mat,Tiny.V7.1,118069958,36674
+71562c34583d6a1c,kickup_smoke_u.mat,Tiny.VE.1,121631594,12034
+6a51f9c831b2330c,physslam_impact_debris_02_r.mat,Tiny.VD.1,121617840,34074
+80ec7b52eb7d42f8,physslam_impact_debris_02_u.mat,Tiny.VF.1,118482256,29666
+2599f59a08a5ea0e,wave_r.mat,Tiny.V3.1,120027541,33722
+f245301d234a3754,wave_blur_r.mat,Tiny.V9.1,123759024,28596
+df1c8237fa87397f,wave_u.mat,Tiny.VD.1,121651914,538
+a8c627bdbc1c5d9a,surge_smokecurl_02_r.mat,Tiny.VA.1,121154976,36582
+4dc6f9004accb288,surge_smokecurl_02_u.mat,Tiny.V2.1,124321586,4260
+bb957c0adb8d7506,glow_center_r.mat,Tiny.VA.1,121114868,38924
+ef38b966c2dc9895,glow_center_u.mat,Tiny.VA.1,121153792,1184

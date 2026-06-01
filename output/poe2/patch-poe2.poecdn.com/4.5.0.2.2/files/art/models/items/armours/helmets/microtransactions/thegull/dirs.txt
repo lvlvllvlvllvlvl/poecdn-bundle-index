@@ -1,8 +1,0 @@
-textures
-textures/fx
-textures/fx/fist
-textures/fx/massive
-textures/fx/plus
-textures/fx/resistance
-textures/fx/run_fast
-textures/fx/shield

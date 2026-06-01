@@ -1,0 +1,16 @@
+armcloth
+armcloth/lclavcloth
+armcloth/lelbowcloth
+armcloth/lshouldercloth
+armcloth/lwristcloth
+armcloth/rclavcloth
+armcloth/relbowcloth
+armcloth/rshouldercloth
+backcloth
+backclothint
+skirt
+skirt/attachments
+skirt/attachments/jar
+skirtstr
+undergarmentloincloth
+undergarmentloinclothfemale

@@ -1,0 +1,4 @@
+fx
+fx/chaotic
+fx/enraged
+fx/tranquil

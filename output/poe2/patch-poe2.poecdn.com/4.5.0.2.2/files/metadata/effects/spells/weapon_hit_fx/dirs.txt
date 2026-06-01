@@ -1,3 +1,0 @@
-elemental_powerups
-epks
-graphs

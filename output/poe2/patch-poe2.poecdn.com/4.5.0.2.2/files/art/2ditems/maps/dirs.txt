@@ -1,4 +1,0 @@
-atlas2maps
-atlas2maps/new
-atlasmaps
-endgamemaps

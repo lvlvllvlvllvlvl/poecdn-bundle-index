@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+9524fae91ac05833,basicfade_fresnel.fxgraph,Shared,12497709,45532
+5bec92c6f5b387ba,basicfade_luminance.fxgraph,Content/metadata/effects/spells/monsters_effects/AC9B06C4D52B589B.charge_headwaves.pet,3827856,59390
+6f57330140803b1e,basic_slash.fxgraph,Content/metadata/effects/spells/monsters_effects/AC9B06C4D52B589B.charge_headwaves.pet,3161214,147094
+6afa12186dce6810,basic_alphalumatex.fxgraph,Content/metadata/effects/spells/monsters_effects/AC9B06C4D52B589B.charge_headwaves.pet,4491242,14918
+3fc041885878ee3f,basic_flipbookpbr.fxgraph,Content/metadata/effects/spells/bow_spiralvolley/epks/arrowvisibility.epk,3598312,50124
+d435ff6e11a6ad2a,basic_flipbook.fxgraph,Shared,12459079,38630
+ddca831216708aaf,basic_flipbookloop.fxgraph,Content/metadata/effects/microtransactions/spells/storm_cloud/F32791C8A30A656D.aoe_mid.pet,2304397,42838
+92c67b03d40291c9,basic_flipbooklooppbr.fxgraph,Content/metadata/effects/spells/monsters_effects/3C7323A910A0D76C.lightningblast.ao,4311327,59988
+61806f8ce099e8ad,basic_colourmip.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/CADDAFD060BF8A5A.emerge_base.pet,136622,35178
+ee82c548d106282a,basic_colournovtxdata.fxgraph,Shared,12438513,20566
+2dfca31ec5ff6108,basic_colournovtxdata_env.fxgraph,Content/metadata/effects/spells/monsters_effects/league_incursion/236521620F4696CE.mortar.ao,1696177,33324
+c15f1cd559fae61d,basic_colournovtxdata_clamp.fxgraph,Content/metadata/effects/microtransactions/bodyarmours/pyrearmourset/fx_attachment.epk,602928,18080

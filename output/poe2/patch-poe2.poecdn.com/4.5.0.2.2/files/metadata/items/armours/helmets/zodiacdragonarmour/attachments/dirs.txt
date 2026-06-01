@@ -1,4 +1,0 @@
-intb
-strdex
-strint
-strintb

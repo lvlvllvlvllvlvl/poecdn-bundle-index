@@ -1,5 +1,0 @@
-textures
-textures/architecture
-textures/corruption
-textures/misc
-textures/water

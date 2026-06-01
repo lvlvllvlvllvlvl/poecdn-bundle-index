@@ -1,8 +1,0 @@
-f
-f/bodytrunk
-f/cape
-f/skirt
-m
-m/bodytrunk
-m/cape
-m/skirt

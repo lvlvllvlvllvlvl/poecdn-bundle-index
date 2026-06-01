@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+224faefc55e8188d,pulse.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,0,9014
+298e85db7209d52b,dash_trail.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,1085482,9054
+bec5d35ae077c075,dash_trail_shimmer.fxgraph,Content/metadata/effects/microtransactions/spells/warcries/96196F666A3E9302.wolf.ao,428630,9102
+d1b29e73a73e32f0,lightup.fxgraph,Content/metadata/particles/monster_effects/3DC681C2C41541AC.eye_charge.pet,9207029,9036
+bfe1b029e4a1fb3f,lightup_blink.fxgraph,Streaming/Shared/Super/Shared.3,4839681,9072

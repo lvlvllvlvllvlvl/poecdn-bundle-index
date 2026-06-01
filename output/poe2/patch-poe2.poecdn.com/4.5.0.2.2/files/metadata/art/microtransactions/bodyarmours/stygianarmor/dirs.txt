@@ -1,4 +1,0 @@
-textures
-textures/demonicstygian
-textures/divinestygian
-textures/ghostflamestygian

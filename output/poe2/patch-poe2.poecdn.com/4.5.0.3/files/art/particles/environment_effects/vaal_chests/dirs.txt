@@ -1,0 +1,4 @@
+chest_lock_aura
+idle
+open
+summon

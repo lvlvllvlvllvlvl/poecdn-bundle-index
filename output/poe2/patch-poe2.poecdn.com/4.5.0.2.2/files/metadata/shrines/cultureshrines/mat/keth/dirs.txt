@@ -1,4 +1,0 @@
-monster_affected
-shrine_activate
-shrine_particles
-shrine_shine

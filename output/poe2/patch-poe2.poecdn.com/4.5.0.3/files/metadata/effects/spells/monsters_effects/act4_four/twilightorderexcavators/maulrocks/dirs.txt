@@ -1,0 +1,6 @@
+fx
+mat
+mat/dust_kickup
+mat/punch_impact
+mat/rock_proj
+mat/weapon_oomph

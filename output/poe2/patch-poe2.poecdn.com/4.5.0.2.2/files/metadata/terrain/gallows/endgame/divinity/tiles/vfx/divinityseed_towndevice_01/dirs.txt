@@ -1,4 +1,0 @@
-fx
-fx/idle
-mat
-mat/casing

@@ -1,0 +1,5 @@
+ambient_room
+forge_01
+forge_02
+forge_03
+smithylevel_03

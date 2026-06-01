@@ -1,5 +1,0 @@
-graph
-mat
-mat/bolt
-mat/impact
-pet

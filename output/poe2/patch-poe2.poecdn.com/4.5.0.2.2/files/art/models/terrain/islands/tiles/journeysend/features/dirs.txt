@@ -1,4 +1,0 @@
-attachments
-attachments/jne_bossarena01
-explodingship
-tgms

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+5af96a57bd7348f9,ptemit_u.mat,Tiny.VE.1,12548232,310
+6aa0f03fe0ff9233,activate_shockwave_01_r.mat,Tiny.V0.1,12474748,26302
+75a221232ac9182e,activate_flaremblur_innercyl_01_r.mat,Tiny.V0.1,12458342,16406
+0412169a43a57223,activate_flaremblur_outercyl_01_r1.mat,Tiny.VF.1,12414620,17478
+c3d166fcb667c60b,activate_flareup_innercyl_01_r.mat,Tiny.VD.1,12913980,25500
+bc2a2d1fb0b613d2,activate_flareup_outercyl_01_r1.mat,Tiny.V5.1,12234220,26566
+68807969ddff3162,idleon_rune_01b_r.mat,Tiny.V1.1,10897178,16708
+385b4b8d08fbb0a8,idleon_energy_innercyl_01_r.mat,Tiny.VA.1,12911626,20680
+0086b0f82431e4dc,idleon_energy_outercyl_01_r.mat,Tiny.VA.1,12911626,20680
+3e6ad57a1c0563de,idleon_mblur_innercyl_01_r1.mat,Tiny.VA.1,12932306,12414
+cb674c68f8800956,idleon_mblur_outercyl_01_r1.mat,Tiny.VA.1,12932306,12414
+00a88c13cdc264ff,idleoff_decal_01b_r.mat,Tiny.V9.1,13260460,35636
+0f7aed82f110a65e,idleoff_mblur_01_r1.mat,Tiny.V3.1,13550309,26928
+3eb2ded8390584b4,idleoff_mblur_02_r1.mat,Tiny.VE.1,12564382,21376
+dbe16c516bdd862a,idleoff_energy_01_r.mat,Tiny.VC.1,14157121,30594
+b731a999f36195b4,idleoff_energy_02_r.mat,Tiny.V5.1,12260786,25516

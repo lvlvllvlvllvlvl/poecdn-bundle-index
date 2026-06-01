@@ -1,9 +1,0 @@
-arcaniststrongbox
-armourerstrongbox
-basicstrongbox
-cartographersstrongbox
-divinersstrongbox
-jewllersstrongbox
-largestrongbox
-ornatestrongbox
-textures

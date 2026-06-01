@@ -1,0 +1,6 @@
+goddessdoor
+goddessdoor/fx
+goddessdoor/mat
+openingaction
+openingaction/fx
+openingaction/mat

@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+a2a06c2d11067baf,gather_ring_01_r.mat,Tiny.V8.1,163244596,48208
+545c6245be7b49f0,gather_glowoomph_01_r.mat,Tiny.V6.1,162446149,37062
+b24d9793c4fefd04,gather_sprites_01_r.mat,Tiny.VB.1,162371417,8216
+6f033f1b43a9e934,gather_coresphere_01_r.mat,Tiny.V8.1,163206958,37638
+69f14475ebd4bc37,gather_coresphere_01_r1.mat,Tiny.VC.1,166005725,36968
+cd3144baf6426bff,pulse_sprites_01_r.mat,Tiny.V0.1,162384516,9274
+fc83bc02f2468978,pulse_ring_01_r.mat,Tiny.VC.1,166042693,47828
+c94dc5a2997ea728,pulse_ribbons_01_r.mat,Tiny.V3.1,165112603,46034

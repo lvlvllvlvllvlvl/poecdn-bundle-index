@@ -1,0 +1,8 @@
+attack_2hsword_01
+attack_2hsword_01/trl
+attack_mace
+attack_spear_01
+attack_spear_01/pet
+attack_sword_03
+death
+death/pet

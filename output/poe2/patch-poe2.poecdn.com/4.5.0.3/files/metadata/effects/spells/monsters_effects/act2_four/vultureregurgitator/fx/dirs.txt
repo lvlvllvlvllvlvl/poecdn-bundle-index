@@ -1,0 +1,4 @@
+attack_02
+detonate_corpse
+feed_01
+projectile

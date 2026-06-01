@@ -1,6 +1,0 @@
-graphs
-rooms
-tiles
-tiles/abyss
-tiles/cliffs
-tiles/ledge

@@ -1,8 +1,0 @@
-censer
-fire_wave
-onact
-onact/attack_01
-onact/beam_attack
-onact/channel_01
-poison_cloud
-poison_projectile

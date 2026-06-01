@@ -1,0 +1,3 @@
+textures
+textures/fire
+textures/fire/fire_particles

@@ -1,7 +1,0 @@
-bow_attack_01
-bow_roa_poison
-bow_roa_smoke
-claw_atack
-claw_teleport
-claw_whirlingblades
-spear_attack

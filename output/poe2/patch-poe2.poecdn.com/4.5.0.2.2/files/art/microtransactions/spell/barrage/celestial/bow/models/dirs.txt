@@ -1,2 +1,0 @@
-rift
-rift/portal

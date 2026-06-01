@@ -1,0 +1,8 @@
+attachments
+attachments/f
+attachments/f/shawl
+attachments/f/skirt
+attachments/m
+attachments/m/shawl
+attachments/m/skirt
+textures

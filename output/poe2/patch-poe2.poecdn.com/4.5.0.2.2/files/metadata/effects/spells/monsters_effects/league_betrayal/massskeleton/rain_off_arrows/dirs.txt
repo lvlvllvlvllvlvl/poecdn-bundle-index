@@ -1,2 +1,0 @@
-arrow_down
-spawn_object

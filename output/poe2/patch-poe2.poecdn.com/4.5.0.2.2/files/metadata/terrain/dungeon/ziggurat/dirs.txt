@@ -1,4 +1,0 @@
-interiorwalls
-interiorwalls/interiorwalls_chiralunwalkable
-rubble
-zigguratarena

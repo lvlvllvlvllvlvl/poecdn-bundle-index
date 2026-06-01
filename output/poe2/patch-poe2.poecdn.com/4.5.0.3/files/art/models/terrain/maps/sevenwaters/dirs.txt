@@ -1,0 +1,16 @@
+buildingwall
+buildingwall/tgms
+doodads
+doodads/sekhemaslandmark
+feature
+feature/aukunashrine
+feature/aukunashrine/textures
+feature/aukunashrine/tgms
+feature/tgms
+river
+river/tgms
+riverbank
+riverbank/tgms
+riverbuildingwall
+riverbuildingwall/tgms
+tgms

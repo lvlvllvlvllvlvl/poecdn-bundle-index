@@ -1,5 +1,0 @@
-attachments
-attachments/zdmdflowerbase
-attachments/zdmdorb
-attachments/zdmdwhiskers
-textures

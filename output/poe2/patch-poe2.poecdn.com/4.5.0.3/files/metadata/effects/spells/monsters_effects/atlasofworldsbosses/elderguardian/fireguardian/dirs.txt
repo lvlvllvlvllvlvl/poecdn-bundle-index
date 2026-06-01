@@ -1,0 +1,5 @@
+obsidian_barrage
+obsidian_barrage/slam
+obsidian_projectile
+shard_explosion
+shard_projectile

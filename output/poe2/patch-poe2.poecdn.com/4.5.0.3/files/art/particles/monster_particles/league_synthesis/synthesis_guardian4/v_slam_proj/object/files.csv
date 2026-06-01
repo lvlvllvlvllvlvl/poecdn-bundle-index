@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+d4002cc97eda28e4,flash.mat,Tiny.VC,40731801,2342
+3069368b6f05f3a5,neuroveins_radial_7x7_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/67429B87162C193E.48F0DD06D3E1853A.onact_deathneuralcharge.pet,0,2796364
+5163ed07fa8f2e51,neuroveins_radial_7x7_dxt1.dds.header,Tiny.VB,40738764,1520
+673074ba3918c871,crys2_gradlinear2_mask_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/F2BBF756CB3C127A.4E80AFC4B1431DEE.wisps.trl,753551,11084
+3551ff701e092e30,crys2_gradlinear2_mask_dxt1.dds.header,Tiny.VC,40730281,1520
+a09317aefb4af385,plasma_circular.mat,Tiny.V9,41004720,2978
+3d1666915649228c,plasma_circular_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/E62E1AEE9E31E15D.3C96968A16F53199.deactivate.pet,3387448,174924
+8f347cb49365f52b,plasma_circular_dxt1.dds.header,Tiny.V4,40678289,1520
+bbab50a8111c8cb2,lens_flare2_vert.mat,Tiny.V6,40578994,3526
+3b7377eb174a03bf,lens_flare2_vert_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/E62E1AEE9E31E15D.3C96968A16F53199.deactivate.pet,3299900,87548
+bdbc3a214d93c3cd,lens_flare2_vert_dxt1.dds.header,Tiny.VD,40688523,840

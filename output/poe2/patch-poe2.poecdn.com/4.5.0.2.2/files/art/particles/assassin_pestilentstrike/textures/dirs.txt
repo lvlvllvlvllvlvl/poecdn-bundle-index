@@ -1,2 +1,0 @@
-debuff_pestilence
-splatter_v2

@@ -1,4 +1,0 @@
-mortar
-mortarimpact
-secmortar
-secmortarimpact

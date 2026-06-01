@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+6525e9be7b69b888,debris_rumble_r.mat,Tiny.V6.1,125498047,24086
+ac83970fb39cd73d,debris_rumble_u.mat,Tiny.V5.1,126328872,24898
+103ecdea613ebf0a,clang_strings_r.mat,Tiny.VD.1,126576676,38470
+45cbebd4beab5ada,clang_strings_u.mat,Tiny.V6.1,125452319,14884
+0aa09e082357f027,core_sparks_r.mat,Tiny.V6.1,125467203,30844
+54ed718c5c5eee00,core_sparks_u.mat,Tiny.V2.1,129349058,11038
+16edacef03ec7bf2,burst_flare_r.mat,Tiny.V3.1,126216031,16480
+604d3c71522217e0,burst_flare_u.mat,Tiny.VD.1,5313278,346
+e322b95bf77caccc,area_embers_r.mat,Tiny.V4.1,125467736,26862
+d8c65023782e68e7,area_embers_u.mat,Tiny.VF.1,123648214,16278
+9021c1e9b76bcca8,wispy_flare_r.mat,Tiny.V3.1,126232511,50566
+9183ffba801528b3,wispy_flare_u.mat,Tiny.VD.1,5313278,346
+439f63e6d5c98656,zoom_distortion_r.mat,Tiny.VC.1,127866675,9044
+01676acfb1e00929,zoom_distortion_u.mat,Tiny.VD.1,5313278,346
+2e6ac0d3e1ee7adb,mblur_sphere_r.mat,Tiny.V6.1,125522133,9982
+5bba9a9f72b376d1,mblur_sphere_u.mat,Tiny.VD.1,5313278,346

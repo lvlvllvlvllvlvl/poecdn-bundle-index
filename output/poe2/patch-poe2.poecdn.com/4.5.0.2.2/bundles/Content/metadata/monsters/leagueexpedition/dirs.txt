@@ -1,4 +1,0 @@
-apparitionboss
-npc
-olroth
-reaperboss

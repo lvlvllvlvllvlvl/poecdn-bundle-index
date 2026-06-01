@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+cf9b9fe7c45c82c3,smoke_r.mat,Tiny.VA.1,30087390,44544
+ba7e684723ff3bb9,smoke_u.mat,Tiny.V0.1,6191636,344
+fe5cdc37f328fdcc,spark_r.mat,Tiny.V9.1,32356964,32336
+9b3c7a33e123a780,spark_u.mat,Tiny.VB.1,29157577,10878
+49bcffd4d5e32a7a,sparks_r.mat,Tiny.V3.1,29392001,31536
+2284833266c18327,sparks_u.mat,Tiny.V5.1,32004570,26646
+d8c1251d7131cd61,env_dust_spiralin_r.mat,Tiny.V1.1,28272964,52664
+aa64a69467d45440,env_dust_spiralin_u.mat,Tiny.VC.1,12873755,1720
+4499b8e876aaf785,rays_r.mat,Tiny.V1.1,28325628,38016
+95ac04331905f0a2,rays_u.mat,Tiny.V4.1,29681458,8236
+d10438c24ee62224,rune_r.mat,Tiny.V9.1,32313168,43796
+9c4dadf4b0cc0944,rune_u.mat,Tiny.V2.1,30462298,16018
+e2e26c4d4d5a0b21,idle_sparks_r.mat,Tiny.VD.1,31015624,28356
+446774afa3e8e401,idle_sparks_u.mat,Tiny.V3.1,29385965,6036
+62b3c84c676b6a2c,idle_rays_r.mat,Tiny.VE.1,30055818,37806
+54597818ad91312d,idle_rays_u.mat,Tiny.V9.1,32304144,9024

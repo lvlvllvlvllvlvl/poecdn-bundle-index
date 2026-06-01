@@ -1,0 +1,8 @@
+textures
+textures/foliage
+textures/foliage/trees
+textures/grounds
+textures/moss
+textures/rocks
+textures/statues
+textures/tanemahuta

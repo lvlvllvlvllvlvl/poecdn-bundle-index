@@ -1,0 +1,5 @@
+infected
+infected/attachments
+infected/audio
+infected/cinematiccrowd
+infected/runemarked

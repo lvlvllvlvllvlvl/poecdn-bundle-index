@@ -1,0 +1,9 @@
+ao
+epk
+fx
+mat
+mat/attack_01
+mat/fire_projectile
+mat/fire_projectile/impact
+mat/idle
+mat/weapon_glow

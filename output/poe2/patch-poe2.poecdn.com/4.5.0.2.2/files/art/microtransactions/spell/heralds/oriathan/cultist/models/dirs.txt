@@ -1,8 +1,0 @@
-agony
-agony/mortar
-agony/mortar/impact
-agony/projectile
-fire
-ice
-lightning
-purity

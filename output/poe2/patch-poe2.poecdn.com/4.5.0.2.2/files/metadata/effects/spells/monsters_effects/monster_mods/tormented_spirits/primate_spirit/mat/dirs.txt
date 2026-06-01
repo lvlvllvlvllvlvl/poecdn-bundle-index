@@ -1,3 +1,0 @@
-slam_01
-spellcast
-volatile

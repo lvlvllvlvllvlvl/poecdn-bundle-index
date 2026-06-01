@@ -1,2 +1,0 @@
-snipe_loop_bow_01
-snipe_start_bow_01

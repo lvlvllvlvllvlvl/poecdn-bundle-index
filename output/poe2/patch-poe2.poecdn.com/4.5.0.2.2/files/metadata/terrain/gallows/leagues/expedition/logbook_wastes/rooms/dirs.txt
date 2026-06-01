@@ -1,7 +1,0 @@
-cliffs
-creek
-fills
-overlays
-shoreline
-shoreline/unwalkable
-unique

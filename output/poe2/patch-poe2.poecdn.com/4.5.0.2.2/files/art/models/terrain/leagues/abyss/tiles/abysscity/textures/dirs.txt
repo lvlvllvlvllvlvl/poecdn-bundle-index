@@ -1,6 +1,0 @@
-architecture
-bones
-bossarena
-edges
-ground
-organics

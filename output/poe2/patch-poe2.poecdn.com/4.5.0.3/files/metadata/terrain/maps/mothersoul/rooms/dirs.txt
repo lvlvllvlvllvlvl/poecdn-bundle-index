@@ -1,0 +1,6 @@
+female
+female/maincorridor
+female/unique
+male
+male/maincorridor
+male/unique

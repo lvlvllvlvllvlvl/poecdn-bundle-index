@@ -1,0 +1,2 @@
+textures
+textures/monster_debuff

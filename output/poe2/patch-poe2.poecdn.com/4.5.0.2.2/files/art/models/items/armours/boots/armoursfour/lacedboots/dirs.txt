@@ -1,5 +1,0 @@
-attachments
-attachments/legties
-attachments/waisttie
-attachments/waisttie_dexint
-textures

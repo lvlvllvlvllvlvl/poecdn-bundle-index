@@ -1,0 +1,12 @@
+panel2
+panel3
+panel5
+panel5/french
+panel5/german
+panel5/korean
+panel5/portuguese
+panel5/russian
+panel5/spanish
+panel5/thai
+panel5/traditional chinese
+panel8

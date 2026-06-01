@@ -1,4 +1,0 @@
-slam_cone_small
-slam_cone_small/fx
-summon_emerge
-summon_emerge/fx

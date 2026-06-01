@@ -1,2 +1,0 @@
-aoe_cold
-aoe_lightning

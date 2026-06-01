@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+c66b6df30c10ab76,adventurercns.mat,Tiny.VD,41985522,3490
+4cf3f9b192cf9655,adventurer_sss_dxt1.dds,Streaming/Shared/Normal/Shared.B,349700,699212
+ce51e8f698009d2e,adventurer_sss_dxt1.dds.header,Tiny.V0,41954885,1520
+e0613196799b6dc3,adventurer_specular_dxt5.dds,Streaming/Shared/Normal/Shared.B,0,349700
+f3508146b758a17f,adventurer_specular_dxt5.dds.header,Tiny.V0,41953365,1520
+18bce33fbc753e5e,adventurer_normal_dxt5.dds,Streaming/Shared/Normal/Shared.9,7036036,1398276
+beadfeb559dafd8c,adventurer_normal_dxt5.dds.header,Tiny.V0,41951845,1520
+6a1546679a39e7d9,adventurer_colour_dxt1.dds,Streaming/Shared/Normal/Shared.9,6336824,699212
+66e3c73e1c74917d,adventurer_colour_dxt1.dds.header,Tiny.V7,41772686,1520

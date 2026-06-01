@@ -1,0 +1,17 @@
+ao
+ao/objects
+ao/on_act
+epk
+graphs
+mat
+mat/baby_bird_pop
+mat/carrion_drop
+mat/death
+mat/peck
+mat/vomit_cones
+mat/vomit_cones/onact
+mat/vomit_mortar
+mat/vomit_mortar/impact
+mat/vomit_slam
+pet
+pet/on_act

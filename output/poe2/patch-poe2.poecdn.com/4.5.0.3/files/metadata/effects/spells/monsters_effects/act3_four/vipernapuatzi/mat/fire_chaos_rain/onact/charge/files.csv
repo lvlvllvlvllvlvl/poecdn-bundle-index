@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+46a98f3fd63d223c,blood_velocity_u.mat,Tiny.V0.1,100145788,15204
+fbbae0c31a5c4e22,bleeding_r.mat,Tiny.VC.1,101984661,27586
+09c00323456921a6,bleeding_emissive_r.mat,Tiny.V6.1,99749191,52280
+775fcf1d96ea8e88,bleeding_u.mat,Tiny.V5.1,100250336,23390
+0820902fc1e865f5,energy_buildup_r.mat,Tiny.VC.1,102012247,59968
+d123576c908b27e5,energy_buildup_u.mat,Tiny.V1.1,99502636,1794
+0f3525d06b3cde5e,shockwave_r.mat,Tiny.V9.1,103116402,31522
+9bdfdd63199597f9,shockwave_u.mat,Tiny.V9.1,103147924,4532
+a084101b04d635de,shimmer_r.mat,Tiny.V7.1,96957870,22612
+74f3bc7e77f29f3f,shimmer_in_r.mat,Tiny.V6.1,99801471,27700
+add188b5332b2970,shimmer_in_u.mat,Tiny.V0.1,100160992,2142

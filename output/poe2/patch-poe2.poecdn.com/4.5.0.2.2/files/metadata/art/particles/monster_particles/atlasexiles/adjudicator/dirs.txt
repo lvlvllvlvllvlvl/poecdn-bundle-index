@@ -1,9 +1,0 @@
-banner_bubble
-banner_impact
-banner_marker
-banner_tier_buff
-gauntlet_cascade_slam
-gauntlet_slam
-hallway_projectile
-on_act
-on_act/emerge_01

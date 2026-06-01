@@ -1,0 +1,8 @@
+attachments
+attachments/cape
+attachments/hair
+attachments/skirt
+attachments/weapon
+attachments/weapon/bow
+attachments/weapon/quiver
+attachments/weapon/quiver/arrow

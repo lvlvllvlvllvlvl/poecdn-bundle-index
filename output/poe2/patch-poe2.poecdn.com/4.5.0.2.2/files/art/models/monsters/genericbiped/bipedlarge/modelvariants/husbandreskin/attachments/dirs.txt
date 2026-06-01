@@ -1,3 +1,0 @@
-helmet
-skirt
-weapon

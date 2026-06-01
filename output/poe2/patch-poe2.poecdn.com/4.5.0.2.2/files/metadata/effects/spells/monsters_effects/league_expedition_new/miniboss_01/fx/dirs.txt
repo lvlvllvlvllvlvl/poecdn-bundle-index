@@ -1,6 +1,0 @@
-basic_proj
-meteor
-overdrive
-spawner_orb
-teleport
-transition

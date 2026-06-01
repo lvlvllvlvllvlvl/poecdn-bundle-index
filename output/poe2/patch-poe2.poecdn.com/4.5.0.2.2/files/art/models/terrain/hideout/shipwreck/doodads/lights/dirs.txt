@@ -1,4 +1,0 @@
-lantern_01
-lantern_01/animations
-lantern_02
-lantern_02/animations

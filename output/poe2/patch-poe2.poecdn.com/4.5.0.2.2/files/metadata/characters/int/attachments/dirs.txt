@@ -1,7 +1,0 @@
-hairstyles
-hairstyles/sorceress
-hairstyles/witch
-outfits
-outfits/generic
-outfits/sorceressoutfit
-outfits/witchoutfit

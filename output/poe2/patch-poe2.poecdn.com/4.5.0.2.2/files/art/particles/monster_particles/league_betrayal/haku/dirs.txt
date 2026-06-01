@@ -1,7 +1,0 @@
-infernal_fury
-infernal_fury/cleaves
-infernal_fury/cleaves/fx
-infernal_fury/pierce
-infernal_fury/pierce/fx
-infernal_slam
-infernal_slam/fx

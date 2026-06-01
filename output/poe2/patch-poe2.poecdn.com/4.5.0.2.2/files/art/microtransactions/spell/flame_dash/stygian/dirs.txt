@@ -1,7 +1,0 @@
-models
-models/ghost
-models/surge
-textures
-textures/fx
-textures/fx/burning_grd
-textures/fx/burning_grd/masks

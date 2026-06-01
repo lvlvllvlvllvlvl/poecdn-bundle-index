@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+ee06d0c41c6bbc13,vtx_terrainmask_softalpha.fxgraph,Content/metadata/effects/spells/monsters_effects/2287BC3A30828158.blood_gather.pet,425598,28472
+f8bca49a9eb6a30d,headflame_timelinefade.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/ED93B2C1966D7550.vomit_decal_01.pet,906653,20070
+dd1516fc8ccc77cb,alpha_mult_tlp_tex.fxgraph,Content/metadata/monsters/summonedskull/summonedbloodraven.ao,686473,16564
+62b77db1ad074323,fadeby_randomtime.fxgraph,Content/metadata/effects/spells/monsters_effects/league_delirium/59369566DB17C627.splitemerge.ao,4140691,45298
+3440cd5dc410fbfc,emissive_mult_tlp.fxgraph,Content/data/balance/worldareas/mapvaalfactory.vworld,652662,15456
+a8e0a006f9d0dab5,emissivemulti_height_prelightfinal.fxgraph,Content/metadata/chests/corpsechests_95702/largebodies/karuiwarriors/bloodiedkaruiwarriorhorn_01.ao,521854,23278
+05f34bae0a33f92c,caproth_glowpoint_8pt.fxgraph,Content/metadata/effects/spells/monsters_effects/act4_four/ED93B2C1966D7550.vomit_decal_01.pet,568017,338636
+56928c0fd8ea3d58,custom_windvortex_onact.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/B01E7F4E9BC2BA15.fwdline.pet,1503532,54054

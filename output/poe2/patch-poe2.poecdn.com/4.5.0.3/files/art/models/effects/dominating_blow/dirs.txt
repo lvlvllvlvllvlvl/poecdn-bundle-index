@@ -1,0 +1,2 @@
+monster_covert
+monster_hit

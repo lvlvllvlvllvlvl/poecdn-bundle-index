@@ -1,0 +1,6 @@
+animations
+animations/noskull
+attachments
+attachments/skull
+attachments/skull/attachments
+attachments/weapon

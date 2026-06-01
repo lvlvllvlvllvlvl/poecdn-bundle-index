@@ -1,7 +1,0 @@
-boats
-boats/textures
-gibets
-houses
-lights
-lights/lantern_01
-lights/lantern_02

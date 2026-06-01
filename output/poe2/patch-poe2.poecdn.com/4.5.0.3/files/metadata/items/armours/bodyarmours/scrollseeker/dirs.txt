@@ -1,0 +1,7 @@
+attachments
+attachments/shawls
+attachments/shawls/t2
+attachments/skirts
+attachments/skirts/t2
+attachments/sleeves
+t2

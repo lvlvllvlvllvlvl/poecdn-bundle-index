@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+568c255995dda55d,charge_lightrays_r.mat,Tiny.V7.1,69442686,30574
+6cebcc41f219c665,charge_lightrays_u.mat,Tiny.V6.1,72360027,4264
+e00d46df585836ff,charge_shimmer_r.mat,Tiny.V6.1,72364291,11014
+fde0ea66f0a3579e,charge_shimmer_u.mat,Tiny.VE.1,12548232,310
+cad9848474d87305,charge_beams_u.mat,Tiny.VF.1,43023514,4872
+e1e1f4692ab96848,charge_beams_r1.mat,Tiny.VA.1,71872832,35226
+8ecc2e8cc928d7cd,charge_beams_r2.mat,Tiny.V3.1,98156131,20938
+5cce909cc17bffa3,lightningforks_01_r.mat,Tiny.VF.1,69245852,19818
+1b1de6337a229030,lightningforks_u.mat,Tiny.VA.1,43448050,1398
+9ec3e464ef04a0b9,rod_r.mat,Tiny.VD.1,71503394,14438
+9a03b10666548e82,rod_u.mat,Tiny.V5.1,44315306,3500

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+29e3724250fbeddb,damagetakenonmovement_fc2c63cf.smd,Streaming/Content/metadata/particles/totems/damagetakenonmovement/damagetakenonmovement_status.epk,16581,10130
+84d095902d341125,damagetakenonmovement_fc2c63cf.smd.header,Tiny.VB,7703562,448
+8115e3db7915e555,damagetakenonmovement.sm,Tiny.V7,7650798,570
+6a275d4122902937,damagetakenonmovement.amd,Tiny.V2,7945187,82
+7fabbd5f829e6671,damagetakenonmovement.ast,Streaming/Shared/Super/Shared.3,4018156,7251
+896e6d6763c31e86,damagetakenonmovementstatuswaist.fmt,Streaming/Content/metadata/particles/totems/damagetakenonmovement/damagetakenonmovement_status.epk,1109167,16589
+193abb8987ae7b77,damagetakenonmovementstatuswaist.fmt.header,Tiny.V7,7651368,400
+da2edfb7e0c77a99,damagetakenonmovementstatusfeet.fmt,Streaming/Content/metadata/particles/totems/damagetakenonmovement/damagetakenonmovement_status.epk,0,16581
+08a0e1ebddf83917,damagetakenonmovementstatusfeet.fmt.header,Tiny.V3,7653140,398

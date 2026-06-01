@@ -1,0 +1,13 @@
+epk
+fx
+mat
+mat/bugs_projectile
+mat/mortar
+mat/mortarhit
+mat/shards_shatter
+mat/starswarm_impact_sanctum
+mat/starswarm_sanctum
+mat/starswarm_trail_sanctum
+mat/vase_shatter
+mat/vase_smoke
+mat/vase_top_sanctum

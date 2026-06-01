@@ -1,5 +1,0 @@
-hellscape
-hellscape/textures
-ritual
-ritual/textures
-ritual/textures/ritualobsidianeye

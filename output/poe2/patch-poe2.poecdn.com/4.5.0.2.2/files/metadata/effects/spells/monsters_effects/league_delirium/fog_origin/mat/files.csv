@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-c21228110c51415f,mblur_sphere_r.mat,Tiny.V0.1,137476786,6918
-bb1ad3a032612aeb,mblur_sphere_u.mat,Tiny.VD.1,5313278,346
-9b4bfa79ad573167,ring_disperse_smoke_u.mat,Tiny.V0.1,137483704,14200
-19d6118603515372,ring_shockwave_blur_r.mat,Tiny.V1.1,197705917,34340
-7eaa8a174f393bb5,ring_shockwave_blur_u.mat,Tiny.V1.1,197705917,34340
-66fd88bd17cdca17,disperse_smoke_r.mat,Tiny.V3.1,138750177,32920
-e0ec6d0d9f01216e,disperse_smoke_u.mat,Tiny.V6.1,137653251,8768

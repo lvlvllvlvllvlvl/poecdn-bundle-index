@@ -1,0 +1,7 @@
+mercenary
+mercenary/mercenary_apparition
+mercenary/mercenary_convo
+mercenary/mercenary_gameplay
+mercenary/mercenary_skills
+mercenary/mercenary_wild
+strdex4_savagehits

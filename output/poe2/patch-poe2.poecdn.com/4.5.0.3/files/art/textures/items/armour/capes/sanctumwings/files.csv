@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+48288a329233152f,sss_dxt1.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.89D7E9E83E2B5508.sanctumwings.fmt,1049248,174924
+b79ea40e8d7a6969,sss_dxt1.dds.header,Tiny.V3.1,160588,1520
+212d0f4d298d419b,sanctumwingsc.mat,Tiny.V3.1,154374,6214
+751648b4e19c7d1e,sanctumwings_specular_dxt1.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.89D7E9E83E2B5508.sanctumwings.fmt,874324,174924
+bc5efad847e24dce,sanctumwings_specular_dxt1.dds.header,Tiny.V8,47324404,1520
+709926d0cd1e1f89,sanctumwings_normal_dxt5.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.89D7E9E83E2B5508.sanctumwings.fmt,524624,349700
+41d1ac286ebbe732,sanctumwings_normal_dxt5.dds.header,Tiny.V5.1,174234,1520
+61589a9f4aea26e1,sanctumwings_colour_bc7.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.89D7E9E83E2B5508.sanctumwings.fmt,174924,349700
+b59db6e9a90f0685,sanctumwings_colour_bc7.dds.header,Tiny.V7.1,657262,1520
+cac9f483e797b589,sanctumwings_colour.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.89D7E9E83E2B5508.sanctumwings.fmt,0,174924
+afed8435b9e31d36,sanctumwings_colour.dds.header,Tiny.VA.1,422115,1520

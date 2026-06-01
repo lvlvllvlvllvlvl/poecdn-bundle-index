@@ -1,0 +1,6 @@
+estatesexterior
+estatesinterior
+textures
+textures/carpets
+textures/estatea
+textures/paintings

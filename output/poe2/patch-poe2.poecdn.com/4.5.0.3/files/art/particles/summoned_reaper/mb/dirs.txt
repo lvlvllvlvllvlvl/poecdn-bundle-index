@@ -1,0 +1,8 @@
+dash_cleave
+dash_doublestrike_beam
+double_strike_cleave
+lacerate
+minion_death
+on_act
+on_act/emerge
+whirl_attack_04

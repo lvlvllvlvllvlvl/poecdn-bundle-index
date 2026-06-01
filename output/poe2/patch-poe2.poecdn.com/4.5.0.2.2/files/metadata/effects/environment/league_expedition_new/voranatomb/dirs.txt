@@ -1,9 +1,0 @@
-aos
-epks
-fx
-mats
-mats/coffinoverrides
-mats/coffinsurge
-mats/coldmistyground
-mats/icecrystal
-mats/shockwave

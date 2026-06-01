@@ -1,0 +1,5 @@
+epks
+fx
+mat
+mat/spore_impact
+mat/spore_projectile

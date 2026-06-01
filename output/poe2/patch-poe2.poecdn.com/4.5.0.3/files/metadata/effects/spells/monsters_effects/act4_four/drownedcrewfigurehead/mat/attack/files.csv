@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+b35ccdd131983768,eyes_r.mat,Tiny.V5.1,102184210,22244
+edce8ed90d612c18,eyes_u.mat,Tiny.VD.1,5313278,346
+8e1ce36f1b042d82,ribbon_01_r.mat,Tiny.V4.1,101178178,37508
+b5c141039d22602b,ribbon_01_blur_r.mat,Tiny.VE.1,101434964,24890
+e2205b27c7e4fb3b,ribbon_01_u.mat,Tiny.V8.1,101766492,22590
+5ef89b0db477373d,ring_01_u.mat,Tiny.V6.1,102243627,2212
+018311101af0222a,ring_01_r.mat,Tiny.V7.1,99197514,58484
+d618b0c6bc2d4b44,ring_01_r1.mat,Tiny.V4.1,101215686,32294
+bca26b72e5070afa,glow_02_r.mat,Tiny.V4.1,101162730,15448
+7b1137e6001c30cd,glow_02_u.mat,Tiny.V5.1,144882830,2152
+1160a51a09c21e7c,glow_01_r.mat,Tiny.V1.1,100993902,20256
+3ba1f66a19fca7e7,glow_01_u.mat,Tiny.V9.1,105298348,19050
+c4b8ce7e65458348,particles_r.mat,Tiny.V5.1,102206454,22336
+ef2e8f7e0a362a8a,particles_u.mat,Tiny.V6.1,102227275,16352

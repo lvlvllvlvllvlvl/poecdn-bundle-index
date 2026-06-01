@@ -1,6 +1,0 @@
-epk
-fx
-fx/lightning
-mat
-mat/lightning
-mat/lightning/impact

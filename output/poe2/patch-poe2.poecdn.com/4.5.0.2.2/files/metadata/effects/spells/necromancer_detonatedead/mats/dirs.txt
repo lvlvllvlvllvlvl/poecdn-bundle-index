@@ -1,4 +1,0 @@
-addons
-addons/gibs
-addons/skeleton_humanoid
-blood_type

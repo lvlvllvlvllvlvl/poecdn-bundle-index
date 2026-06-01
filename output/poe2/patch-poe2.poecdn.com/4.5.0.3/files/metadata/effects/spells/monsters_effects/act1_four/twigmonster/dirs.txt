@@ -1,0 +1,13 @@
+epk
+epk/channel_beam
+epk/spellcast_02
+fx
+fx/channel_beam
+fx/poison_pod
+fx/unnarmed_attack
+graphs
+mat
+mat/channel_beam
+mat/poison_pod
+mat/revive_pulse
+mat/unnarmed_attack

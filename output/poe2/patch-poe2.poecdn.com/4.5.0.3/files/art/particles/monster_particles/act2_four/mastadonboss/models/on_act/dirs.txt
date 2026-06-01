@@ -1,0 +1,13 @@
+attack_01
+big_ball_aoe
+death_first_01
+death_first_01/idle
+death_voltile_01
+emerge_01
+epic_doublestrike
+mastadon_death
+ritual_01
+single_01
+spell_aoe_bonestorm_01
+teleport_01
+triple_01

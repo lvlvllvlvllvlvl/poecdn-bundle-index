@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+20a3912ac4c64f34,glow_light.mat,Tiny.V5,34537274,1172
+82fdeed2320c561a,glow_light.dds,Streaming/Content/metadata/particles/conv_strike/symb.pet,87556,22020
+6dc5ae77a16ba0f2,glow_light.dds.header,Tiny.V7,34867879,1520
+86568a4065e4d654,spark_small.mat,Tiny.V8,34613884,1294
+d8700e9e8b815d7c,spark_small.dds,Streaming/Content/metadata/particles/firestorm/new/impact.pet,668376,22020
+d1b3f354f799e838,spark_small.dds.header,Tiny.VC,35241758,1520
+7205904d4a7a6af7,spark_big.mat,Tiny.V7,34869399,1166
+9f798c77acfc3c1c,spark_big.dds,Streaming/Content/metadata/particles/default_fire_damage.pet,355336,22020
+c287852b5d0fd89d,spark_big.dds.header,Tiny.V3,34473596,1520

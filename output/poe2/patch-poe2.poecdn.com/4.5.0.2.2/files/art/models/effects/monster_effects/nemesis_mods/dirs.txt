@@ -1,5 +1,0 @@
-fire_mod
-fire_mod/charge_up
-fire_mod/explosion
-fire_mod/fire_projectile
-physical_gold_proj

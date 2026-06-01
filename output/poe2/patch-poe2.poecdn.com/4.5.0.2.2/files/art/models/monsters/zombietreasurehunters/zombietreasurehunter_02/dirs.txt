@@ -1,5 +1,0 @@
-animations
-attachments
-attachments/hair
-attachments/l_elbowdangle
-attachments/l_sleevedangle

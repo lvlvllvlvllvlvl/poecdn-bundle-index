@@ -1,3 +1,0 @@
-mb
-mb/crowbody
-tex

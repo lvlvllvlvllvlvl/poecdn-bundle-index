@@ -1,2 +1,0 @@
-claw_slam
-tail_stab_01

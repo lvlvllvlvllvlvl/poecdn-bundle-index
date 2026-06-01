@@ -1,0 +1,8 @@
+canopybase
+canopycontainer
+canopyhut
+canopymessybase
+canopyrack
+canopyscaffold
+canopystool
+canopywoodbundle

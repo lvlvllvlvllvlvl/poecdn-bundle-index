@@ -1,0 +1,6 @@
+animations
+animations/rare_finisher_effect
+attachments
+attachments/darkstarcrown
+attachments/darkstarrobe
+attachments/darkstarsleeves

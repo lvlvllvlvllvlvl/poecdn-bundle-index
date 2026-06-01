@@ -1,6 +1,0 @@
-fire_rain
-lance_hell
-serpent_strike
-snake_projectile
-spear_aura
-spinning_slam

@@ -1,0 +1,8 @@
+attachments
+attachments/capelet
+attachments/robe
+attachments/robe/layer01
+attachments/robe/layer02
+attachments/robe/layer03
+attachments/sleeve
+textures

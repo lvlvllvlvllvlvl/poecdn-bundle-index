@@ -1,6 +1,0 @@
-cleave
-detonate_dead
-ice_spear
-monsterfx
-on_act
-summonwolves

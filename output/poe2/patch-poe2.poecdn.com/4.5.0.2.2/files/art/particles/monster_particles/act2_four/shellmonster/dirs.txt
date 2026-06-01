@@ -1,4 +1,0 @@
-models
-models/flamethrower
-models/on_act
-textures

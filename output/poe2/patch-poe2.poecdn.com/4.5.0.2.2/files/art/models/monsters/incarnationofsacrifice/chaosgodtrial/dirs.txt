@@ -1,4 +1,0 @@
-turrets
-turrets/vaalturrets01
-turrets/vaalturrets03
-turrets/vaalturrets04

@@ -1,4 +1,0 @@
-fx
-mat
-mat/lightning
-mat/lightning_buildup

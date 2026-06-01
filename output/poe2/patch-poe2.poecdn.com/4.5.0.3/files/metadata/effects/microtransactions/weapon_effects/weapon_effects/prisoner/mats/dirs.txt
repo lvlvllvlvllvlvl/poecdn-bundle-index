@@ -1,0 +1,16 @@
+axe1h
+axe2h
+bow
+crossbow
+hit
+mace1h
+mace2h
+sceptre
+shared
+shield
+spear
+stave
+sword1h
+sword2h
+talisman
+wand

@@ -1,9 +1,0 @@
-textures
-textures/bone
-textures/flesh
-textures/ground
-textures/guts
-textures/membrane
-textures/muscle
-textures/teeth
-textures/veins

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+da6370b86ab7ed42,primordialmonsters1c.mat,Tiny.V3,12654537,3934
+678d29655aa4e375,primordialmonsters1wingsc.mat,Tiny.V2,12920971,2990
+3e82e109d44e0b3a,primordialmonsters1_normal_dxt5.dds,Streaming/Content/data/worldareas/FF/null.vworld,3079555,5592580
+adfc9137cf2d5fc2,primordialmonsters1_normal_dxt5.dds.header,Tiny.V0,12802730,1520
+c0ef22931ebd4462,primordialmonsters1_colour_bc7.dds,Streaming/Content/data/worldareas/1B/null.vworld.1,0,5592580
+b419d63e0616a753,primordialmonsters1_colour_bc7.dds.header,Tiny.VB,12717482,1520
+fbcae87d744b7d29,primordialmonsters1_colour_dxt1.dds,Streaming/Content/data/balance/worldareas/CF/null.vworld.1,125945,2796364
+8f4d99043ef34095,primordialmonsters1_colour_dxt1.dds.header,Tiny.V3,12653017,1520
+1b7d7b1520203557,primordialmonsters1_mask_dxt5.dds,Streaming/Content/data/balance/worldareas/6A/null.vworld,5592580,1398276
+45ffbd6d0b969e4d,primordialmonsters1_mask_dxt5.dds.header,Tiny.V6,12791059,1520
+589e5def1726e7ea,primordialmonsters1_sss_dxt5.dds,Streaming/Content/data/worldareas/48/null.vworld.1,0,5592580
+444f3f8be5c7e2cc,primordialmonsters1_sss_dxt5.dds.header,Tiny.V8,12697910,1520

@@ -1,6 +1,0 @@
-fx
-mat
-mat/arrow
-mat/oil_burst
-mat/rain_arrow_muzzle
-pets

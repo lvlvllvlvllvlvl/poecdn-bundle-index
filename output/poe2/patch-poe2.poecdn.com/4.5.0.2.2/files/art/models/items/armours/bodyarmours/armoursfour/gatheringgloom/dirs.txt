@@ -1,8 +1,0 @@
-attachments
-attachments/f
-attachments/f/collar
-attachments/f/skirt
-attachments/m
-attachments/m/collar
-attachments/m/skirt
-textures

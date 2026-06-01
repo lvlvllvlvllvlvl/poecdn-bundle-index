@@ -1,0 +1,8 @@
+f
+f/bcloth
+f/robe
+f/shawl
+m
+m/bcloth
+m/robe
+m/shawl

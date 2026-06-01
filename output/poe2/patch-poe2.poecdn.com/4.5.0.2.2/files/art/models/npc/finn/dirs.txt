@@ -1,6 +1,0 @@
-animation
-animation/expeditionhireling
-animation/simulacrum
-attachments
-attachments/satchel
-textures

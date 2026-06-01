@@ -1,0 +1,13 @@
+cleave
+death
+deflect
+deflect/burst
+deflection_legcover
+glow_mace
+glow_sword
+ground_slam
+groundslam
+heavy_step
+mace_smash
+mace_swing
+sword_swing

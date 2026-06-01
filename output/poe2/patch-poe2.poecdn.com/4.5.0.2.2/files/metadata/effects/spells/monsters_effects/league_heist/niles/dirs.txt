@@ -1,6 +1,0 @@
-b_projectile
-b_projectile/pet
-debuff
-debuff/pet
-mental_pulse
-mental_pulse/pet

@@ -1,5 +1,0 @@
-end
-ground
-loop
-pulse
-startburst

@@ -1,6 +1,0 @@
-direblade1haxe
-direblade2haxe
-direblade2hmace
-direbladebow
-direbladequiver
-texture

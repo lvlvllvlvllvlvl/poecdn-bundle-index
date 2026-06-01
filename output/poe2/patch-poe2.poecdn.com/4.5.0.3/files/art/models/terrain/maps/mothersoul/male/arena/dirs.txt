@@ -1,0 +1,3 @@
+itemdevice
+itemdevice/tgms
+itemdevicecombinatormale

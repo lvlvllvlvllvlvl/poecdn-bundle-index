@@ -1,6 +1,0 @@
-activate
-breachcheckpoint
-idle_on
-kalguurancheckpoint
-precursor
-unique_flame

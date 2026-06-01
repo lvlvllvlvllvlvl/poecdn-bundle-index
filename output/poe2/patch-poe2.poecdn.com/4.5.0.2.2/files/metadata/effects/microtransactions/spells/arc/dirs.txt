@@ -1,8 +1,0 @@
-celestial
-celestial/pet
-crimson
-crimson/pet
-sulphite
-sulphite/pets
-sulphite/pets/arc_beam
-sulphite/pets/arc_impact

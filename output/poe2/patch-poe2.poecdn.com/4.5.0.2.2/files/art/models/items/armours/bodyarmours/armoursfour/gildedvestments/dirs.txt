@@ -1,5 +1,0 @@
-attachments
-attachments/robe
-attachments/shoulder_cape
-attachments/shoulderpad_straps
-textures

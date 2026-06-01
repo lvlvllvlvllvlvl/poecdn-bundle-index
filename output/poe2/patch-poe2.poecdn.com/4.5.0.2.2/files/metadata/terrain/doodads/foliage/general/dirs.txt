@@ -1,9 +1,0 @@
-flowers
-flowers/rosebush01
-hedges
-herbs
-shrubs
-trees
-trees/hornbeam
-trees/hornbeam/autumn
-trees/hornbeam/summer

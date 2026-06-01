@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+eaadde52a8a72383,vn_shimmerwave_01_r.mat,Tiny.VF.1,128879604,23026
+cd2c1626c09c01b3,mblur_up_r.mat,Tiny.VC.1,112914753,38082
+f04bc34141175df3,pntemit_forcegrd_u.mat,Tiny.VD.1,109820206,2172
+04f5200bfeb084a7,precusor_gravity_raise_r.mat,Tiny.VC.1,112952835,70198
+93e7b675bddf8acb,precusor_gravity_raise_blur_r.mat,Tiny.VD.1,109822378,34406
+c896b3371cea0670,precusor_gravity_raise_u.mat,Tiny.VF.1,107179930,1332
+bace5fed86893c98,impact_smokering_01_r.mat,Tiny.V6.1,110874007,21064
+bfe753a2f5c30ade,impact_smokering_01_u.mat,Tiny.VF.1,107169628,10302
+dc4aad9edc022302,grd_pnt_u.mat,Tiny.VD.1,5313278,346
+f131826f138a3b16,ground_debris_r2.mat,Tiny.VD.1,110433654,12964
+37c5e55af1671bf8,ground_debris_u2.mat,Tiny.VB.1,109756363,33450

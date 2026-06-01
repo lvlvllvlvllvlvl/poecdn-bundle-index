@@ -1,3 +1,0 @@
-mudbones_burrows
-mudbones_burrows/chesttextures
-mudbones_burrows/mudbones_drybleach

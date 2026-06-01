@@ -1,0 +1,6 @@
+attachments
+attachments/capef
+attachments/capem
+attachments/l_tassel
+attachments/r_tassel
+attachments/skirt

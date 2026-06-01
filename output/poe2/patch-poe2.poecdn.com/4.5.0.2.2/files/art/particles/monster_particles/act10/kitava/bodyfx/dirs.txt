@@ -1,6 +1,0 @@
-cavity
-p1
-p2
-p2/frameupper
-p3
-p3/frameupper

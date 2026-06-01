@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+b7612eb966256b09,wisp_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/BCA38D6A4C2C7583.DE3A5D1EF08A19A1.10_0_w.pet,1048912,87548
+677aab65afccda3e,wisp_dxt1.dds.header,Tiny.VE,4791051,840
+d7e57a97e9eb729c,shim_rad2.mat,Tiny.V0,39239081,1248
+745acb0686e8879b,smoke_masks_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/BCA38D6A4C2C7583.DE3A5D1EF08A19A1.10_0_w.pet,699212,349700
+7e2b553e92bb3d71,smoke_masks_dxt5.dds.header,Tiny.V6,35183734,1520
+b6cefda946d290dc,sand_grain_tile_w.mat,Tiny.VB,39318840,2532
+e61e61c9f8fefce6,sand_grain_tile_b.mat,Tiny.V8,38589987,2236
+cf36ca6f0ad2d41a,sand_grain_tile_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/BCA38D6A4C2C7583.DE3A5D1EF08A19A1.10_0_w.pet,0,699212
+0c21f5828d8226ed,sand_grain_tile_dxt1.dds.header,Tiny.VF,35301831,1520

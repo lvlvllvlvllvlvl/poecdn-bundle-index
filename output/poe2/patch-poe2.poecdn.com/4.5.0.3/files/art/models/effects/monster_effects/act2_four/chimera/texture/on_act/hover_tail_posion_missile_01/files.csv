@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+18ceb472dd4f119c,barb_missile.mat,Tiny.VF,7395777,5736
+51721967d918643f,barb_missile_hit_particles.mat,Tiny.VB,7404420,2616
+014de405760cd5d6,barb_missile_hit_splash.mat,Tiny.V9,7696244,4942
+aeccfcaf2b28b318,barb_missile_hit_smoke.mat,Tiny.V0,7574242,3510

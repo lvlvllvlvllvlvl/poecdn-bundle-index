@@ -1,8 +1,0 @@
-bloodball
-demon_grasp
-fire_wave_cascade
-holy_ion_cannon
-monolith
-necrobolt
-spider_debuff
-spidermortar

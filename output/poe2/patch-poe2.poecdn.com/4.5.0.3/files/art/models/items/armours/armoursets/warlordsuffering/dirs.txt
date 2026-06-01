@@ -1,0 +1,7 @@
+attachment
+attachment/cape
+attachment/ornaments
+attachment/scarf
+attachment/skirt
+textures
+textures/fx

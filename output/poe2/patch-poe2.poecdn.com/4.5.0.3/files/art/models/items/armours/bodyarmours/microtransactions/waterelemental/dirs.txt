@@ -1,0 +1,8 @@
+attachments
+attachments/droplets
+attachments/droplets/female
+attachments/droplets/male
+attachments/helmetspout
+attachments/helmetspout/female
+attachments/helmetspout/male
+attachments/skirt

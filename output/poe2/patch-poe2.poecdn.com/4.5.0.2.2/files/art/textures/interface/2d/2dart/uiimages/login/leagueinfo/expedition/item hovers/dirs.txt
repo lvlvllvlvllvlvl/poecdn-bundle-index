@@ -1,9 +1,0 @@
-french
-german
-korean
-portuguese
-russian
-simplified chinese
-spanish
-thai
-traditional chinese

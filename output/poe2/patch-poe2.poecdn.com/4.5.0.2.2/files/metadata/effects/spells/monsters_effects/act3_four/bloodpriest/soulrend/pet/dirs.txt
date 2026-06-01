@@ -1,3 +1,0 @@
-projectile01
-soulrendbeam
-soulrendimpact

@@ -1,0 +1,16 @@
+bodyarmours
+bodyarmours/basetypes
+bodyarmours/uniques
+boots
+boots/basetypes
+boots/uniques
+gloves
+gloves/basetypes
+gloves/uniques
+helmets
+helmets/basetypes
+helmets/harbingershards
+helmets/uniques
+microtransactions
+shields
+shields/shards

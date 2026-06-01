@@ -1,0 +1,13 @@
+aura
+chargeup
+chargeup_explosion
+ion_cannon
+lightning_bomb
+lightning_bomb/explosion
+lightning_bomb/marker
+lightning_bomb/pulse
+quake_slam
+quake_slam/main
+quake_slam/marker
+quake_slam/spikes
+quake_slam/spikes/large

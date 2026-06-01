@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+a4b1affca4967577,strings.pet,Tiny.V1.1,65598868,12282
+79c2fd0968d97f81,breachvision_aura.pet,Tiny.V0.1,67680568,5978
+a848be227fc6393a,life_end.pet,Tiny.VA.1,67804800,15996
+eb1ff57e0be832ff,life.pet,Tiny.V4.1,67217924,15912
+5d0db102e9e74f27,void_clone_spawn.pet,Tiny.VD.1,67335942,6274
+a884a5f6b5b6803f,void_clone_explosion.pet,Tiny.VF.1,65564844,43474
+81ecf78be1098b6d,mana_end.pet,Tiny.VE.1,68956746,15996
+5aa26b774633c03e,mana.pet,Tiny.V9.1,71274500,15918
+1ae6086fcb2e3278,collect_trail_life.trl,Tiny.V7.1,64427140,2462
+141bb2d5602d7594,collect_trail_mana.trl,Tiny.V8.1,69322296,2462
+a20ff8d44e241a3a,collect_trail_chaos.trl,Tiny.V7.1,64424676,2464
+1f337fc58a5c3fef,chaos.pet,Tiny.V9.1,71268396,6104
+3d19b50761101705,chaos_end.pet,Tiny.VA.1,67788796,16004

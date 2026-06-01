@@ -1,0 +1,4 @@
+affected
+beam
+pulse
+totem

@@ -1,3 +1,0 @@
-marker
-meteor_down
-meteor_up

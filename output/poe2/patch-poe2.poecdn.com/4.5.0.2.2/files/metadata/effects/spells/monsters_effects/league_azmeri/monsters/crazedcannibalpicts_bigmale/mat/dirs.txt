@@ -1,3 +1,0 @@
-attack_01
-flinch_01
-special_attack_02

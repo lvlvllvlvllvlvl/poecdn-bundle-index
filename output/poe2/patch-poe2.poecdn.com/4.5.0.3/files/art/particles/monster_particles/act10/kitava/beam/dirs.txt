@@ -1,0 +1,2 @@
+beam_head
+beam_hit

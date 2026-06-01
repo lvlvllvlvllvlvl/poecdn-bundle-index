@@ -1,8 +1,0 @@
-azurite_spark
-azurite_spark/fx
-emp_nova
-emp_nova/fx
-leap_slam
-leap_slam/fx
-sonic_pulse
-sonic_pulse/fx

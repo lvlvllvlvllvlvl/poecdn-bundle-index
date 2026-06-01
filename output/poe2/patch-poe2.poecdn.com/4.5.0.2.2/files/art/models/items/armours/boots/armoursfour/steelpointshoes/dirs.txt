@@ -1,5 +1,0 @@
-attachments
-attachments/l_laces
-attachments/r_laces
-attachments/ruffles
-textures

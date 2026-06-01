@@ -1,7 +1,0 @@
-scarf
-scarf_str
-skirt
-skirt/attachments
-skirt/attachments/skirt_layer_02
-skirt/attachments/skirt_layer_03
-waist

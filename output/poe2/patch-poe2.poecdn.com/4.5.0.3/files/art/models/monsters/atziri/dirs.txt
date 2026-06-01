@@ -1,0 +1,12 @@
+animations
+animations/hateforge
+atziriphase1
+atziriphase1/attachments
+atziriphase1/attachments/bodyfeathers
+atziriphase1/attachments/skirt
+atziriphase1/attachments/staff
+atziriphase2
+atziriphase2/attachments
+atziriphase2/attachments/bodyfeathers
+atziriphase2/attachments/skirt
+textures

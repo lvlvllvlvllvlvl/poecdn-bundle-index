@@ -1,0 +1,10 @@
+beechtree
+forestfern
+fringemoss
+largeforesttrees
+leafpile
+logpile
+longgrass
+ruggedwoodpile
+singlelog
+treestump

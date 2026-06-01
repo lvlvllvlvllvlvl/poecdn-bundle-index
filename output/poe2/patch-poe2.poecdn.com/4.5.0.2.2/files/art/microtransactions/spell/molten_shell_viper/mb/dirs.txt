@@ -1,2 +1,0 @@
-spinner
-static_shell

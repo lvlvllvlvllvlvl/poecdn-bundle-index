@@ -1,4 +1,0 @@
-bodypile_fire
-brazier_fire
-sand_dust
-torch_fire

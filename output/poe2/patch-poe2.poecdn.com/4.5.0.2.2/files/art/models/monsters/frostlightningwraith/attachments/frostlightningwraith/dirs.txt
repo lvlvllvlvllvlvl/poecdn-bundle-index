@@ -1,5 +1,0 @@
-flwchains
-flwhairfront
-flwrobe
-flwshirt
-flwsleeves

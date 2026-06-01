@@ -1,4 +1,0 @@
-blood_gibs
-explode
-onact
-whiff

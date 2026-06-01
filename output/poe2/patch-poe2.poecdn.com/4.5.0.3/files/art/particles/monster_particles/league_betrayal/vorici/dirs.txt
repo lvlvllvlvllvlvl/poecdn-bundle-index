@@ -1,0 +1,6 @@
+final_combo
+final_combo/fx
+kagebushin
+kagebushin/fx
+spinning_slash
+spinning_slash/fx

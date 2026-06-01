@@ -1,0 +1,4 @@
+generic_fireup
+generic_fireup_medium
+generic_fireup_small
+generic_smoke

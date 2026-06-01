@@ -1,8 +1,0 @@
-basetypes
-basetypes/textures
-microtransactions
-microtransactions/olrothsresolve
-microtransactions/olrothsresolve/fx
-microtransactions/olrothsresolve/fx/mb
-microtransactions/visibleflasks
-microtransactions/visibleflasks/textures

@@ -1,3 +1,0 @@
-shavronneswrappings
-shavronneswrappings/fx
-shavronneswrappings/graph

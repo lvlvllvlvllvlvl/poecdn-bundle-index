@@ -1,3 +1,0 @@
-orb
-orb_beams
-orb_outer_ring

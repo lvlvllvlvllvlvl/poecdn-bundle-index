@@ -1,4 +1,0 @@
-animations
-animations/arms
-animations/head
-animations/legs

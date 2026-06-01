@@ -1,7 +1,0 @@
-clearingfeatures
-fills
-jungleedge
-overlays
-wateredge
-wateredge/outer
-waterways

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+0687cfdd54f15818,impact_decal_r.mat,Tiny.V1.1,74221226,81354
+d61a6476ddc54f61,impact_decal_u.mat,Tiny.VA.1,80021368,1326
+de0e3c31d12c3df4,impact_ring_r.mat,Tiny.V7.1,73320114,38386
+771660028256faae,impact_ring_shimmer_r.mat,Tiny.VB.1,75685943,24768
+a946a2d78bf091fe,impact_ring_u.mat,Tiny.V8.1,77626940,2172
+a7f394b9626d9e6f,impact_flash_r.mat,Tiny.VF.1,72874916,51242
+9bb11d57b1ae2611,impact_flash_u.mat,Tiny.VE.1,12548232,310
+df376fccf02876af,mortar_trail_cold.mat,Tiny.VE.1,76931988,25204
+2779d3ba34fd5f93,mortar_snow_r.mat,Tiny.V8.1,27077674,25646
+e56b59fa98e4e4c5,mortar_snow_u.mat,Tiny.V7.1,73358500,33748

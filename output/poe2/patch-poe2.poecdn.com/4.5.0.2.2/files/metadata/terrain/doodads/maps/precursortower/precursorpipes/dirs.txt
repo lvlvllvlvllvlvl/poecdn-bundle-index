@@ -1,7 +1,0 @@
-vfx
-vfx/atlaspointsconsole
-vfx/atlaspointsconsole/epks
-vfx/atlaspointsconsole/fx
-vfx/atlaspointsconsole/graph
-vfx/atlaspointsconsole/mat
-vfx/atlaspointsconsole/mat/ground

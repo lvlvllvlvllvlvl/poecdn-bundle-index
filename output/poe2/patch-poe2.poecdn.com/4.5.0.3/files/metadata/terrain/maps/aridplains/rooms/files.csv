@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+59335e7bcfe0a5cc,entrance_01.arm,Content/data/balance/worldareas/delirium_vastirioutskirts.vworld,1993241,4546
+accc6ef913e47549,riverfork_01.arm,Tiny.VF.1,204997569,1282
+5d2298c82e88067a,riverend_stroma_01.arm,Tiny.VA.1,208782751,2242
+c07ca3197c969980,riverend_stroma_02.arm,Tiny.VA.1,208784993,2222
+44c0396f616720fc,riverend_dune_01.arm,Tiny.V8.1,208447379,2226
+f02a754836ecb5f2,riverend_dune_02.arm,Tiny.VD.1,208020075,2222
+94032d5d0d4cf854,connection_01.arm,Tiny.VA.1,208779705,3046
+ffa612f95e1fdb70,connection_02.arm,Tiny.VD.1,208015581,3044
+d36b3df12a93b09c,connection_03.arm,Tiny.VF.1,204993431,3046
+050362c09a3dc1a5,checkpoint_river_01.arm,Tiny.V1.1,205717410,996
+349e7338cca43d07,checkpoint_stromatolite_01.arm,Tiny.V8.1,208441951,1108
+69ad78fc5f213853,bossroom_01.arm,Content/data/balance/worldareas/delirium_vastirioutskirts.vworld,1965261,27980
+5e8005caf2861ed2,bottleneck.arm,Tiny.V3.1,209107675,3078

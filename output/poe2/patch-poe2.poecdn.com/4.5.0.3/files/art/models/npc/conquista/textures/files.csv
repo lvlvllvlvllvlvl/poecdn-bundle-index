@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+4accdf4cba65ee84,eyec.mat,Tiny.VA,13113472,1324
+5e9b7f8ff8a9cee2,eye_normal.dds,Streaming/Content/metadata/monsters/npc/alvawaterwayssummon.ot.2,5680128,174948
+94f837da4e3cb61e,eye_normal.dds.header,Tiny.VE,13042757,840
+6f9e67a6465b3f39,eye_colour.dds,Streaming/Content/metadata/monsters/npc/alvawaterwayssummon.ot.2,5592580,87548
+7b0898576c50f4c7,eye_colour.dds.header,Tiny.V8,13110374,840
+9047096572553f98,alvac.mat,Tiny.V8,13106736,3638
+a146e918cbe7f6af,alva_normal_dxt5.dds,Streaming/Content/metadata/monsters/npc/alvawaterwayssummon.ot.1,2796364,5592580
+240035933c717084,alva_normal_dxt5.dds.header,Tiny.V8,13105216,1520
+d10eb3e136ee0ef0,alva_colour_dxt1.dds,Streaming/Content/metadata/monsters/npc/alvawaterwayssummon.ot,405449,2796364
+2682dbb922565fd6,alva_colour_dxt1.dds.header,Tiny.V8,13101284,1520
+367713eb22b060a3,alva_sssc.mat,Tiny.V6,13160488,3442
+0c677f7eff369b33,alva_sss_dxt5.dds,Streaming/Content/metadata/monsters/npc/alvawaterwayssummon.ot.2,0,5592580
+fc5137798d90b809,alva_sss_dxt5.dds.header,Tiny.VB,13075165,1520
+bf9bc5fb6fd99af2,alva_metalc.mat,Tiny.V8,13102804,2412
+eb4a39a751ac9e05,alva_metal_dxt1.dds,Streaming/Content/metadata/monsters/npc/alvawaterwayssummon.ot.1,0,2796364
+f7218b94e141a400,alva_metal_dxt1.dds.header,Tiny.V1,13054145,1520

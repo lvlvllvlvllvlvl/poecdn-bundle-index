@@ -1,7 +1,0 @@
-banner_bubble
-banner_impact
-banner_tier_buff
-banner_tier_buff/orb_charges
-gauntlet_cascade_slam
-gauntlet_slam
-hallway_projectile

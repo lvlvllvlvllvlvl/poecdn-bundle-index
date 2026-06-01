@@ -1,4 +1,0 @@
-attack_03
-curse_aoe
-on_act
-vomit_proj

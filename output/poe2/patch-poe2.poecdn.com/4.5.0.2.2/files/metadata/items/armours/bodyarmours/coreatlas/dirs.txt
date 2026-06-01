@@ -1,5 +1,0 @@
-attachments
-attachments/accessories
-attachments/bodyribbons
-attachments/necklace
-attachments/skirt

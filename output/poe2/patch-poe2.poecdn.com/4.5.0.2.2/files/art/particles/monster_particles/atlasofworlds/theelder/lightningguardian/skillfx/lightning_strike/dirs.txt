@@ -1,2 +1,0 @@
-chara_castfx
-chara_castfx/overlay

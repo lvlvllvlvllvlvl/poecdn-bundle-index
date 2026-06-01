@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+2106f749cc61c860,innercliff_fill_01.arm,Tiny.V7.1,208002824,1454
+8a7397ccc299e319,smallfill_01.arm,Tiny.V3.1,211261457,296
+8ffccc7ed5ff6a50,smallfill_02.arm,Tiny.VC.1,213456191,1806
+8c384414f9cdf0a9,smallfill_03.arm,Tiny.V1.1,207943276,1264
+3ed2161f1c7f188e,ground_fill_01.arm,Tiny.V1.1,207940468,2808
+2811e236999a606b,ground_fill_02.arm,Tiny.VB.1,209788553,2308
+f557454200d076b1,ground_fill_03.arm,Tiny.V9.1,211585158,2226
+65c38fe5af5e82f4,ground_fill_04.arm,Tiny.VF.1,207286731,2710
+ab3a3ece0c5fc7d0,3x3_ground_fill_01.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4168554,25500
+723c8f34cd2907c4,3x3_ground_fill_02.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4194054,25886
+3bc2c96da5921d1b,3x3_ground_fill_03.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4219940,26150
+7eb67905b0fd5f52,2x3_ground_fill_01.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4134824,16862
+3fdc890bc0a2de34,2x3_ground_fill_02.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4151686,16868
+3e690b224566accf,2x2_ground_fill_01.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4101810,11060
+3686d95243f8b45e,2x2_ground_fill_02.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4112870,11018
+957052ba71e5e00c,2x2_ground_fill_03.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4123888,10936

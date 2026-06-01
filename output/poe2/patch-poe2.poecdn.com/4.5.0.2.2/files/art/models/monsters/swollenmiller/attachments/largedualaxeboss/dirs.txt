@@ -1,4 +1,0 @@
-cloak
-loincloth
-necklace
-weapon

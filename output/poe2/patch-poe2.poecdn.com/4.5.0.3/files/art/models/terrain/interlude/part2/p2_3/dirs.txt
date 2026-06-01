@@ -1,0 +1,7 @@
+textures
+textures/architecture
+textures/cliff
+textures/ground
+textures/statue
+textures/waypoints
+tgms

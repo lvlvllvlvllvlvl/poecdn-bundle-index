@@ -1,0 +1,15 @@
+onact
+onact/attack_fast_01
+onact/combo_01
+onact/double_thrust_01
+onact/throw_01
+onact/warp_01
+throw_trap_01
+water_teleport_01
+water_trap_01
+water_trap_01/fadein
+water_trap_01/loop
+water_trap_explode_01
+wave
+wave/end
+wave/loop

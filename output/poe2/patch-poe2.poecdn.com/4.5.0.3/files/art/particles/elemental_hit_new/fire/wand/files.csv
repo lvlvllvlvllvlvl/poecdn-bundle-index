@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+7a07b88899e17d62,sparks.mat,Tiny.V8,34356985,1888
+3036a38793a0b57e,sparks.dds,Tiny.V6,5412631,516
+8c845b1eed3c6da2,sparks.dds.header,Tiny.VD,5490100,1520
+67f5bfe72aa1503f,fire_bits.mat,Tiny.VC,34972449,2536
+5d26950de02eafbe,fire_bits.dds,Streaming/Content/metadata/particles/elemental_hit_new/fire/3DB8FD20F260224E.impact.pet,366444,11108
+9902023358c9ffdc,fire_bits.dds.header,Tiny.V1,34572227,840
+9682a2742c9c3e75,fire_spin.mat,Tiny.VA,34879479,1914
+aab2e47aa9387a4b,fire_spin.dds,Streaming/Content/metadata/particles/elemental_hit_new/fire/3DB8FD20F260224E.impact.pet,377552,22020
+3b26b21007416938,fire_spin.dds.header,Tiny.V2,34683872,1520

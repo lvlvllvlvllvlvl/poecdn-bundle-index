@@ -1,0 +1,9 @@
+createpulse_abyssal
+createpulse_primal
+createpulse_sacred
+createpulse_vivid
+createpulse_wild
+deathpulse_primal
+deathpulse_sacred
+deathpulse_vivid
+deathpulse_wild

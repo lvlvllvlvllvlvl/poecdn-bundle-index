@@ -1,7 +1,0 @@
-mb
-mb/fmts
-mb/galvanic shards
-mb/galvanic shards/animations
-mb/plasma_blast
-mb/shockburst_rounds
-mb/stormblast_bolts

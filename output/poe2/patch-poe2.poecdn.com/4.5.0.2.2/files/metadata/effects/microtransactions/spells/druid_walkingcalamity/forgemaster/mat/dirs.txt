@@ -1,3 +1,0 @@
-beams
-geyser
-onact

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+ea1772cc5ce04f35,real_fire.mat,Tiny.VD,34629337,9654
+cd0ef265cd0f4bd4,embers01_5x5.mat,Tiny.V9,34883094,4508
+c217551579aecd4d,embers01_5x5.dds,Streaming/Shared/Normal/Shared.11,1671988,1398276
+412116ed2056c37c,embers01_5x5.dds.header,Tiny.V0,38121515,1520
+842112d8d529be99,fire_bits_ab.mat,Tiny.VF,34574139,3794
+836e9a57f8875505,fire_shimmer.mat,Tiny.V3,40678511,1466
+578464febc41de57,black_solidc.mat,Tiny.VE,34081286,10966
+b12301590eaa0aa5,burn_nmlao_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.219CCCFE73D326FA.burning_grd.ao,699212,1398276
+cba3d4433f2166da,burn_nmlao_dxt5.dds.header,Tiny.V9,35745493,1520
+bbfc937e1a4daf41,burn_clr_dxt1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.219CCCFE73D326FA.burning_grd.ao,0,699212
+4116777c32032589,burn_clr_dxt1.dds.header,Tiny.V5,35857099,1520

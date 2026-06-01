@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+a57131f8b14a7af7,cold_bits.mat,Tiny.VD,34841059,2416
+a482177af1c29369,cold_bits.dds,Streaming/Content/metadata/particles/elemental_hit_new/ice/3DB8FD20F260224E.trail_spin.trl,93552,11108
+3b654e06bf333430,cold_bits.dds.header,Tiny.V7,34570096,840
+e2d3b6ba430e3355,snow.mat,Tiny.V7,34572958,1530
+c85eeac2ab0e102f,snow.dds,Tiny.V3,5134334,516
+0d73e739be6a4452,snow.dds.header,Tiny.VF,5104058,1520
+f1a2564a53b42c6d,ice_bits.mat,Tiny.V7,34570936,2022
+301fa5e5c9ee5122,ice_bits.dds,Streaming/Content/metadata/particles/elemental_hit_new/ice/3DB8FD20F260224E.trail_spin.trl,104660,22052
+678d8068de1c7791,ice_bits.dds.header,Tiny.VF,39187680,504
+23e248ddc9610b49,ice_spin.mat,Tiny.V5,34248661,1902
+a79a7e59f02af5dd,ice_spin.dds,Streaming/Content/metadata/particles/elemental_hit_new/ice/3DB8FD20F260224E.trail_spin.trl,0,22020
+9fc4689e75b933fa,ice_spin.dds.header,Tiny.V1,5022013,1520

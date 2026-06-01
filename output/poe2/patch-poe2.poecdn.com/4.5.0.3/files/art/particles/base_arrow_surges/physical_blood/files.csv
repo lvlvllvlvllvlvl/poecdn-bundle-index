@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+d8afe63c9db6adee,impact.mat,Tiny.V9,34536188,1988
+8f293245ea5242ff,example01.mat,Tiny.V9,34534624,1564
+2bf364956dc0ccb0,example03.mat,Tiny.V7,34161684,1542
+0d8d230ff0395981,blood_drip.mat,Tiny.V6,34180337,2266
+768d52f7dd828748,blood_drip_bc7.dds,Streaming/Content/metadata/particles/curses_02/area/frostbite_base.pet,3802768,22020
+5854b396c629e0eb,blood_drip_bc7.dds.header,Tiny.VD,40412822,1520
+5ae165d6db0fc2c3,blood_lookup_dxt5.dds,Tiny.V7,3583177,2212
+4a86ed01fab5b0e5,blood_lookup_dxt5.dds.header,Tiny.V2,3760204,280
+c1587f31d95c9a72,black_hole_glow.mat,Tiny.V1,34107502,1626
+1424b6a8ae7f6561,black_hole_glow_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/bodyarmours/3A8DA355F5158AD9.0F43D4735FC774AB.spiderbackattachment.ao,455012,22020
+7a6fff0490369fe7,black_hole_glow_dxt5.dds.header,Tiny.V2,11966040,1520
+47db60eeefc5782a,fire_bits_2x2.mat,Tiny.VC,34540778,3412
+e5b352686e5710ae,fire_bits_2x2_dxt5.dds,Streaming/Shared/Normal/Shared,175112,349700
+ce01b6f80b9ed484,fire_bits_2x2_dxt5.dds.header,Tiny.V0,4643376,1520

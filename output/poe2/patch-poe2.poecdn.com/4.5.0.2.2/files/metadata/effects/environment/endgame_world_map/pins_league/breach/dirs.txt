@@ -1,4 +1,0 @@
-aos
-fx
-mats
-mats/breachflame_main

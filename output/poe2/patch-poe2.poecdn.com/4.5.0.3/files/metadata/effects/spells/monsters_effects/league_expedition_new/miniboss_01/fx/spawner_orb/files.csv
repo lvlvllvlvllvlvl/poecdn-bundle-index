@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+c7c3b37c91918c9c,onact_gather_02.pet,Tiny.V6.1,147947311,28668
+06a5e86bfd3d796f,onact_gather_01.pet,Tiny.V9.1,149244328,19486
+859ddda6adbaebd4,orb_startshell.pet,Tiny.VF.1,145525464,32166
+29b3b5c9e093fd3a,orb_core.pet,Tiny.V7.1,145290694,40186
+a8823e14f364daea,orb_core_02.pet,Tiny.VD.1,147938694,40264
+db0a4c8807dcf4c9,orb_core_blackhole.pet,Tiny.VC.1,150936787,40546
+4c3c3018c5525417,explode_midline.pet,Tiny.V4.1,147715858,71944
+bd3b33db7721bae9,explode_midline_02.pet,Tiny.VD.1,147865716,72978
+d97442300350f407,explode_midline_blackhole.pet,Tiny.V8.1,148338556,78472
+051f15e832491d32,projspawn_explode.pet,Tiny.V8.1,148417028,44768
+0bc697d3152d53c5,projspawn_explode_02.pet,Tiny.V5.1,147317078,44772
+ea7844bb0179f474,spawned_proj_trail.trl,Tiny.VC.1,150977333,10168
+6a469b7364503899,spawned_proj_trail_02.trl,Tiny.V4.1,147787802,10192
+52167b322ebeaa8a,spawned_proj_impact.pet,Tiny.V6.1,147975979,51420
+e5b8a19c8e8ed9d4,spawned_proj_impact_02.pet,Tiny.VB.1,148733583,51264

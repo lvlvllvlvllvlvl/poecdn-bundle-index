@@ -1,4 +1,0 @@
-cold
-degen_player
-fire
-lightning

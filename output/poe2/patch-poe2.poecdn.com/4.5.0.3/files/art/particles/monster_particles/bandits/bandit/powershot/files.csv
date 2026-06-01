@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+ad5ede04dc951b6b,beam_up.mat,Tiny.V1,38241763,1750
+2021350384d49270,beam_up.dds,Streaming/Content/metadata/particles/monster_effects/E5170B05FCD66B17.mid.pet,438000,5668
+531b404095fecb20,beam_up.dds.header,Tiny.V4,38592892,504
+a895e9c39e68ad0e,projectile_colc.mat,Tiny.V6,38530940,2602
+c6d74fcbfa42f9de,projectile_col.dds,Streaming/Content/metadata/effects/spells/monsters_effects/4D3D26279425ED84.BAF54CC61C61E44F.power_shot.ao,21592,22020
+388793817ea72283,projectile_col.dds.header,Tiny.V8,38119719,1520
+622854948bb30e80,sharp_linesc.mat,Tiny.VF,38484717,2808
+a48bf183ee1c9576,sharp_lines.dds,Streaming/Content/metadata/effects/spells/monsters_effects/4D3D26279425ED84.BAF54CC61C61E44F.power_shot.ao,43612,5636
+4abf022efd2a1e81,sharp_lines.dds.header,Tiny.V8,38121239,1520
+5d8ee53c85a37615,shockwavec.mat,Tiny.VB,38788960,2094
+c00d4d52be19e94a,shockwave.dds,Streaming/Content/metadata/effects/spells/monsters_effects/4D3D26279425ED84.BAF54CC61C61E44F.power_shot.ao,49248,43876
+45c0312043cdc7e0,shockwave.dds.header,Tiny.VE,37945325,840
+a66b16a8430a953d,shockwave_distortionc.mat,Tiny.VB,38787334,1626
+d213b5edc3f76107,shockwave_distortion.dds,Streaming/Content/metadata/effects/spells/monsters_effects/4D3D26279425ED84.BAF54CC61C61E44F.power_shot.ao,93124,87556
+747a20422e1fef7e,shockwave_distortion.dds.header,Tiny.VD,35718926,1520

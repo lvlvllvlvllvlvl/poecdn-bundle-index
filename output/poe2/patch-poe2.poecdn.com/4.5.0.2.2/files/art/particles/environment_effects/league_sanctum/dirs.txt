@@ -1,2 +1,0 @@
-crystal_encounter
-start_of_a_run

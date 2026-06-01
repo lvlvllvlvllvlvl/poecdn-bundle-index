@@ -1,3 +1,0 @@
-projectile
-projectile_marker
-projectileaoe

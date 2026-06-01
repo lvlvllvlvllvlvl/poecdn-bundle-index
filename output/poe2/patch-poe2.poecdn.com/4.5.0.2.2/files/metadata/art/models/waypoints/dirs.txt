@@ -1,5 +1,0 @@
-demonicwaypoint
-demonicwaypoint/vfx
-demonicwaypoint/vfx/textures
-scientistwaypoint
-scientistwaypoint/fx

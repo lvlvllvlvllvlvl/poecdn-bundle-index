@@ -1,7 +1,0 @@
-attachments
-attachments/chestropes
-attachments/eyeseffectattachment
-attachments/helmeffectattachment
-attachments/robe
-attachments/robe/rigidbelt
-textures

@@ -1,3 +1,0 @@
-town
-town/bonfire
-town/bonfire/textures

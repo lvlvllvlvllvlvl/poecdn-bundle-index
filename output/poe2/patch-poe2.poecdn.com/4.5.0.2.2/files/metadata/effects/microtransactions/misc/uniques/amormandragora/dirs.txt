@@ -1,7 +1,0 @@
-attached
-epks
-fx
-graphs
-mats
-mats/bloom
-mats/epk

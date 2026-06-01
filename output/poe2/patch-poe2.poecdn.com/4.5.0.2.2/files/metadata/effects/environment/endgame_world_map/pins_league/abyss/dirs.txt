@@ -1,3 +1,0 @@
-aos
-fx
-mats

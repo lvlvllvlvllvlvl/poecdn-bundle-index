@@ -1,8 +1,0 @@
-abyss
-feature
-groundseals
-ledge
-roots
-roots/feature
-thick
-verisiumchannel

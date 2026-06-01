@@ -1,3 +1,0 @@
-entrance
-entrance_shards
-monster_shatter

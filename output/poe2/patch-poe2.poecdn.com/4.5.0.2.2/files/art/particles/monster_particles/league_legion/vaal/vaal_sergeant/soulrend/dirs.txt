@@ -1,3 +1,0 @@
-soulrend_buff
-soulrend_proj
-soulrendbeam

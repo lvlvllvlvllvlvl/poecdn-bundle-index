@@ -1,3 +1,0 @@
-fx
-release
-release/fx

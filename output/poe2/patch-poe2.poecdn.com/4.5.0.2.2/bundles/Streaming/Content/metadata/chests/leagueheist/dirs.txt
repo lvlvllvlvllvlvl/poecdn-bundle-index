@@ -1,3 +1,0 @@
-banditchests
-robotchests
-sciencechests

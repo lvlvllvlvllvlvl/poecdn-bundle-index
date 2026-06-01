@@ -1,8 +1,0 @@
-attachments
-fx
-graph
-mat
-mat/activate
-mat/close
-mat/idle
-mat/stable

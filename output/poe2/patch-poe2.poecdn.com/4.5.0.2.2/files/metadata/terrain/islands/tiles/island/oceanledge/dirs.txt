@@ -1,5 +1,0 @@
-journeysend
-journeysend/shipwrecks
-kedgebay
-kedgebay/shipwrecks
-shrikeisland

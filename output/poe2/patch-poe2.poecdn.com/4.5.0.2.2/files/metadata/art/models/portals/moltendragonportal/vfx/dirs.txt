@@ -1,2 +1,0 @@
-textures
-textures/lava_pool

@@ -1,3 +1,0 @@
-fissure_01
-fissure_erupt_01
-fissure_start_01

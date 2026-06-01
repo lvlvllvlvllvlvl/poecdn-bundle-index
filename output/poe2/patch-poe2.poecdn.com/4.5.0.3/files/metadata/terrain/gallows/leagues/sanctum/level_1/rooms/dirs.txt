@@ -1,0 +1,9 @@
+airlock
+arena
+escape
+explore
+gauntlet
+lair
+ritual
+treasure
+unique

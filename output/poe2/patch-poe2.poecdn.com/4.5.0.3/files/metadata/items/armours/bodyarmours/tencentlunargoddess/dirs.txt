@@ -1,0 +1,7 @@
+attachments
+attachments/back
+attachments/chest
+attachments/shoulders
+attachments/shoulders/left
+attachments/shoulders/right
+attachments/skirt

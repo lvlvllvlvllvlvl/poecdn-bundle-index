@@ -1,5 +1,0 @@
-crucible_destruction
-crucible_destruction_mapdevice
-crucible_rig
-crucible_rig_mapdevice
-crucible_rig_mapdevice/animations

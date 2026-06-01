@@ -1,3 +1,0 @@
-decelerating_projectile
-rain_of_arrows
-snipe

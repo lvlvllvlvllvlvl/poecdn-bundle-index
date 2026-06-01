@@ -1,0 +1,10 @@
+attachments
+attachments/chains
+attachments/feathers
+attachments/shawl
+attachments/shawl/dex
+attachments/shawl/int
+attachments/shawl/m
+attachments/skirt
+attachments/skirt/str
+textures

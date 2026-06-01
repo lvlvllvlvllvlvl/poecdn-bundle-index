@@ -1,4 +1,0 @@
-caster
-spear_shield
-sword_shield
-sword_shield/spirit_possessed_01

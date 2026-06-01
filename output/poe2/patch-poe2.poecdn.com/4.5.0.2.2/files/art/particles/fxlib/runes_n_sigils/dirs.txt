@@ -1,6 +1,0 @@
-kalgurran
-kalgurran/1024x1024
-kalgurran/4096x4096
-kalgurran/512x512
-precursor
-precursor/512x512

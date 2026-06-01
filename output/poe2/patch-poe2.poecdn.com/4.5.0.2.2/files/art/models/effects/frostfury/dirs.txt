@@ -1,4 +1,0 @@
-channelling
-projectile
-projectile_impact
-sphere

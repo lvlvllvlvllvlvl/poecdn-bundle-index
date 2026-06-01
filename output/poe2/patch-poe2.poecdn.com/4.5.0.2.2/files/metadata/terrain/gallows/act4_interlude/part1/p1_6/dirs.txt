@@ -1,6 +1,0 @@
-graphs
-objects
-rooms
-rooms/exterioryard
-rooms/hall
-rooms/unique

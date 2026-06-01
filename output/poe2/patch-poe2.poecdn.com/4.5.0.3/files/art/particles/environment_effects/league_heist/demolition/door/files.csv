@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+ede3b434964ae47a,lut_dxt5.dds,Tiny.V0,35143720,2212
+da1a93b7ca6b92d8,lut_dxt5.dds.header,Tiny.VF,35069079,280
+a0b88c5e3ae5ebd9,lut_bc1.dds,Tiny.V5,34568826,1180
+31743b4a605adc90,lut_bc1.dds.header,Tiny.V6,34939562,280
+7bdaa121dcc57c6e,explosionb_top_8x8.mat,Tiny.V8,34647031,3448
+a2935e13b320e101,explosionb_top_normalaoheat_bc7.dds,Streaming/Content/metadata/effects/spells/monsters_effects/B525297545B3A382.D64246A338A03A1C.explode_cyl_big.pet,0,5592580
+d0b5375da83e6514,explosionb_top_normalaoheat_bc7.dds.header,Tiny.V5,35202880,1520
+dda594160f5dc2c1,explosionb_top_normalaoheat_uncompressed.dds,Streaming/Content/metadata/effects/microtransactions/spells/A374DAF155DE20C1.CAE58C92B230AD8B.base_grdup.pet.1,0,22369768
+50b239849bcf5df0,explosionb_top_normalaoheat_uncompressed.dds.header,Tiny.VC,35258647,1520
+16e6bd98447d7d38,explosionb_top_colalpha_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/A374DAF155DE20C1.CAE58C92B230AD8B.base_grdup.pet,1420296,5592580
+c97f588adb5fa028,explosionb_top_colalpha_dxt5.dds.header,Tiny.VE,34587941,1520
+3ef2d03d4cef3546,explosiona_fnt_normalaoheat_uncompressed.dds,Streaming/Content/metadata/particles/masters/einhar/1D2C81559C785138.explosion_mini.pet,5592580,22369768
+3e0fbfae101a2db1,explosiona_fnt_normalaoheat_uncompressed.dds.header,Tiny.VD,35169942,1520
+a8acd23a4e220756,explosiona_fnt_colalpha_dxt5.dds,Streaming/Content/metadata/particles/masters/einhar/1D2C81559C785138.explosion_mini.pet,0,5592580
+568dff75a8fb73bf,explosiona_fnt_colalpha_dxt5.dds.header,Tiny.V2,34947474,1520

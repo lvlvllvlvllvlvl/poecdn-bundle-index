@@ -1,4 +1,0 @@
-bracelet
-cloak
-helmetdecor
-weapon

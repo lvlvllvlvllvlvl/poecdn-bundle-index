@@ -1,0 +1,14 @@
+attached
+epks
+fx
+graphs
+mats
+mats/aoe
+mats/aoedoom
+mats/aoedoom/end
+mats/aoedoom/ground
+mats/aoedoom/loop
+mats/aoedoom/pulse
+mats/aoedoom/startburst
+mats/mark
+mats/onact

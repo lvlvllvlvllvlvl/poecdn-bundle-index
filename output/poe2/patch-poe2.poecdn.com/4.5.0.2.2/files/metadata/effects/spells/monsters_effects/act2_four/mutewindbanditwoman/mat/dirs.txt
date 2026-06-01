@@ -1,9 +1,0 @@
-footstep
-kick_trail
-leapslam
-onact
-spear
-spear_stab
-sword_sword_meleefx
-weapon_trail
-weapon_trail/sword_stab

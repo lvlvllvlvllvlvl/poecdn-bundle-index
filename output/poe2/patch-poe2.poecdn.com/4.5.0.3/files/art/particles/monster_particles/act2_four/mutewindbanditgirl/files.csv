@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+e57f2fbde2e3cdfe,spear_proj_d3662e24.smd,Streaming/Content/metadata/effects/spells/monsters_effects/D2D05496620B1656.19679E71F0881E58.stage_01.epk,27825,30326
+83ae4106b32e6780,spear_proj_d3662e24.smd.header,Tiny.V1,36238516,448
+b763f0b757ffe9d0,act_attack_03_a8286982.smd,Streaming/Content/metadata/monsters/mutewind/banditwoman/D9C7C7673D6E4B8D.mutewindbanditwomanrunemarkedbanditspear.ao,62428,30443
+97953c16065a4cb5,act_attack_03_a8286982.smd.header,Tiny.V5,35964950,368
+52c3c2f53911ff46,act_attack_03.sm,Tiny.V4,36537826,620
+41ea17e7eb26a3a3,act_attack_03.amd,Tiny.VF,36315083,130
+bbbb69544335fd20,act_attack_03.ast,Tiny.VF,36315213,2533
+226b6fd497cadc58,holospear.sm,Tiny.V9,36744621,592
+82299a28614c570b,holospear.amd,Tiny.VE,35892189,92
+83a1af393481cdec,holospear.ast,Tiny.V2,36197953,595
+0ed389e3721b5f30,hit.amd,Tiny.VB,7667094,92
+ac5871399a128186,hit.ast,Tiny.V0,36582938,326
+36792b813c03f271,coneslam.amd,Tiny.V1,3663036,94
+0c683fc89e86792d,coneslam.ast,Tiny.V2,36197195,758

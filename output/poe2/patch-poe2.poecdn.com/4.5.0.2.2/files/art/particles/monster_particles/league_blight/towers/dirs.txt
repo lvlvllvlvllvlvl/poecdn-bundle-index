@@ -1,6 +1,0 @@
-fire
-ice
-lightning
-lightning/on_act
-lightning/storm
-minion

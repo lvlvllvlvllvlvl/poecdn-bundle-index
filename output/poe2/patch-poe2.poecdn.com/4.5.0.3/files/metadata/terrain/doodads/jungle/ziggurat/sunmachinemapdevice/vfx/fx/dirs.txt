@@ -1,0 +1,4 @@
+sunmachinemapdevice_mapconsole01
+sunmachinemapdevice_mapconsole01/open_01
+sunmachinemapdevice_portalsource01
+sunmachinemapdevice_portalsource01/open_01

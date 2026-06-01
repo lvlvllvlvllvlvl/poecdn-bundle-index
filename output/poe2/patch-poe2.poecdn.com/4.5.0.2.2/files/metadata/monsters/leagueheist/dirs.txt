@@ -1,3 +1,0 @@
-cloaks
-military
-military/attachments

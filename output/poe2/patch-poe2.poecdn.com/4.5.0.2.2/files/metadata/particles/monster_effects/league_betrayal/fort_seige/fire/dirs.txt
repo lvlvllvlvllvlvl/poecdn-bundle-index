@@ -1,4 +1,0 @@
-projectile
-projectile_aoe
-projectile_beam
-projectile_marker

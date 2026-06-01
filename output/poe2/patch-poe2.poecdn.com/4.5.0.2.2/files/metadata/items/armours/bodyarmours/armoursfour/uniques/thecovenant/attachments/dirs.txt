@@ -1,9 +1,0 @@
-robe
-robe/f
-robe/m
-sidepipes
-sidepipes/f
-sidepipes/m
-sleeves
-sleeves/lsleeves
-sleeves/rsleeves

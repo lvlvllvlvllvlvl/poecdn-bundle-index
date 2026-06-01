@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+807c96a4035d506c,light_middle_upc.mat,Tiny.V6,35650190,2202
+44b833214c298b53,light_middle_up.dds,Streaming/Content/metadata/effects/spells/traps/6ACFCD6351FDEB45.spinnner_joints.ao,630557,87556
+8826c040e5b5bbb7,light_middle_up.dds.header,Tiny.V5,35310413,1520
+21c9172d132855c2,lightning_shoot_flipbook.mat,Tiny.V9,36090000,2562
+3529eeadc8078798,lightning_shoot_flipbook.dds,Streaming/Content/metadata/particles/seawitchsplash_flinch__waterele_emerge.pet,87556,1398308
+e555fe5fe62dc123,lightning_shoot_flipbook.dds.header,Tiny.VB,35811304,504
+120189201ff57253,smooth_bolt.mat,Tiny.V6,35652392,1610
+b9af8f188766b61e,smooth_bolt.dds,Streaming/Content/metadata/particles/monster_effects/act4/D0BE3CFF988C3302.71146E083AECE8B2.mid.pet,137232,174948
+5d85b183afc4a32e,smooth_bolt.dds.header,Tiny.VC,35966909,840
+f6863bd88670fdbd,thin_lightning.mat,Tiny.V7,35609984,3320
+bad507d0cdd94812,thin_lightning.dds,Streaming/Content/metadata/particles/monster_effects/act4/D0BE3CFF988C3302.71146E083AECE8B2.mid.pet,312180,174948
+d07daa8720135604,thin_lightning.dds.header,Tiny.VF,35734436,840

@@ -1,3 +1,0 @@
-mothplant01
-mothplant01/textures
-textures

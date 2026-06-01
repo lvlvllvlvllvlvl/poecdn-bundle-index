@@ -1,0 +1,8 @@
+headbutt_iceproj
+headbutt_iceproj_impact
+onact
+onact/headbutt
+onact/headbutt_arm
+onact/remnanteruption
+remnanteruption_buildup
+remnanteruption_impact

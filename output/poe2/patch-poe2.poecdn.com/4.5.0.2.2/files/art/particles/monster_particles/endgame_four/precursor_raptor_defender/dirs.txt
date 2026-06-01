@@ -1,4 +1,0 @@
-mb
-mb/fmts
-mb/rapidshot
-mb/rapidshot/animations

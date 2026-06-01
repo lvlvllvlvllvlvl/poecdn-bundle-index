@@ -1,9 +1,0 @@
-town
-twilightorderexcavationoverlord
-twilightorderexcavationoverseer
-twilightorderexcavationoverseer/runemarked
-twilightorderharbourguard
-twilightorderharbourguard/objects
-twilightorderhighpriest
-twilightordersoldiers
-twilightordersorceror

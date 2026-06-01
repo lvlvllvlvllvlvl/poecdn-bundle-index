@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e98e90d0e2fd8815,mantisratc.mat,Tiny.VF.1,1404884,3082
+3596961573ba8fcc,mantisrat_glow_dxt5.dds,Streaming/Content/metadata/monsters/mantisrat/mantisratdesert.ao.2,2097488,1398276
+688af4f56ab17bef,mantisrat_glow_dxt5.dds.header,Tiny.V6.1,1415180,1520
+280206de2d42712e,mantisrat_normal_dxt5.dds,Streaming/Content/metadata/monsters/mantisrat/mantisratdesert.ao.2,3495764,1398276
+2b315c2ef47b0af5,mantisrat_normal_dxt5.dds.header,Tiny.V9.1,1255244,1520
+921cded19da29d0f,mantisrat_colour_bc7.dds,Streaming/Content/metadata/monsters/mantisrat/mantisratdesert.ao.2,699212,1398276
+2d368f333811d85c,mantisrat_colour_bc7.dds.header,Tiny.VA.1,1122627,1520
+55e84045d8288264,mantisrat_colour.dds,Streaming/Content/metadata/monsters/mantisrat/mantisratdesert.ao.2,0,699212
+11684e2bff44b2d9,mantisrat_colour.dds.header,Tiny.V0.1,1491328,1520

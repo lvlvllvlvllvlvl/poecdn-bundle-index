@@ -1,4 +1,0 @@
-azurite_elemental
-projectiles
-projectiles/azurite_energy
-projectiles/crystal_shards

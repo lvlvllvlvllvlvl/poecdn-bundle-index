@@ -1,0 +1,4 @@
+aura
+buffgain
+combo_ready
+on_kill

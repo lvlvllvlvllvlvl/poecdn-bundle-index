@@ -1,0 +1,12 @@
+detonatedead
+detonatedead/explosion
+detonatedead/onact
+footsteps
+quicksand
+quicksand/cast
+slam_staff_quick
+spell_projectile_01
+stomp_01
+volatiledead
+volatiledead/lift
+volatiledead/projectile

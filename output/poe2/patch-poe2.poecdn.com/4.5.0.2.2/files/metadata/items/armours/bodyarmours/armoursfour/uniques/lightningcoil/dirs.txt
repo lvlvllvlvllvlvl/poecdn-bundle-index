@@ -1,4 +1,0 @@
-attachments
-attachments/lccape
-attachments/lcrshoulder
-attachments/lcskirt

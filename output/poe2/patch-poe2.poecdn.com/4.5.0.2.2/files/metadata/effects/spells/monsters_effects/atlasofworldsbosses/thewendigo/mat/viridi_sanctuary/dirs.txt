@@ -1,6 +1,0 @@
-buff
-central
-central/hit
-central/idle
-destruction
-end

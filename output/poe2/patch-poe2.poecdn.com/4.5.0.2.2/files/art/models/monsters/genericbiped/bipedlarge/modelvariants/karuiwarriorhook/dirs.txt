@@ -1,6 +1,0 @@
-attachments
-attachments/hair
-attachments/hairfeathers
-attachments/robe
-attachments/topfeathers
-attachments/weapon

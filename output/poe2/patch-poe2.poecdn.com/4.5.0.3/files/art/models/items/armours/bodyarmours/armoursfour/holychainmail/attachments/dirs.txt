@@ -1,0 +1,10 @@
+beltsm
+cheststrapm
+robef
+robem
+shoulderpadsf
+shoulderpadsf/lshoulderpad
+shoulderpadsf/rshoulderpad
+shoulderpadsm
+shoulderpadsm/lshoulderpad
+shoulderpadsm/rshoulderpad

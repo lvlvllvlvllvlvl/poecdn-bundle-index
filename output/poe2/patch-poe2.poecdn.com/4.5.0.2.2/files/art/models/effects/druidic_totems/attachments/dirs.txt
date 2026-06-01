@@ -1,5 +1,0 @@
-trunks
-trunks/trunk_1
-trunks/trunk_2
-trunks/trunk_3
-trunks/trunk_4

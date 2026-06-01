@@ -1,6 +1,0 @@
-breachbomb
-breachbomb_explode
-breachbomb_surge
-burst
-burst_onact
-surge

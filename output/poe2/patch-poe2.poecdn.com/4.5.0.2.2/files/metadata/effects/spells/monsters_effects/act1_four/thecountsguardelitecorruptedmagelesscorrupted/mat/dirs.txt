@@ -1,8 +1,0 @@
-attack
-explosion
-fireball
-fireorb
-flamethrower
-flamethrower_active
-handglow
-runefire

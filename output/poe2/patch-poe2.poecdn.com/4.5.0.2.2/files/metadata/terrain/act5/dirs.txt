@@ -1,4 +1,0 @@
-area3
-area3/groundtypes
-area5
-area5/groundtypes

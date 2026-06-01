@@ -1,4 +1,0 @@
-fx
-graphs
-mat
-mat/blood_drain

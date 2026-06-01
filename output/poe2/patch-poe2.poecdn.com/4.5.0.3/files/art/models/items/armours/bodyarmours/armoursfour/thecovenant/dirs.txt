@@ -1,0 +1,12 @@
+attachments
+attachments/robe
+attachments/robe/f
+attachments/robe/m
+attachments/robe/str
+attachments/sidepipes
+attachments/sidepipes/f
+attachments/sidepipes/m
+attachments/sleeves
+attachments/sleeves/l
+attachments/sleeves/r
+textures

@@ -1,5 +1,0 @@
-epk_buff
-epk_debuff
-impact
-projectile
-spearchain

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+05232b29799a4743,bits.mat,Tiny.VF,37947637,3018
+0de0605598ac4447,bits_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/E5F86BC641AD5EB2.98C3EF3960F9A627.end_midline.pet.1,350124,22020
+691a9d3dbf077886,bits_dxt5.dds.header,Tiny.V6,6667102,1520
+115af8e55e6100d2,beam_flare_dxt5.dds,Streaming/Content/metadata/particles/lightning_warp_02/telegraph.pet,0,87556
+01ea8a49019a31df,beam_flare_dxt5.dds.header,Tiny.VF,37937911,1520
+026461ea9e9b326e,thorn.mat,Tiny.VF,37950655,2008
+f01a87fa3a1f7185,thorn_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/4FCB192E98D523CD.FC0235BDC6AFDBE6.death_core.pet,446011,22044
+ff12d47eacb0308f,thorn_dxt1.dds.header,Tiny.VD,4691939,344
+62936729bb00bd64,thorn_bc7.dds,Streaming/Content/metadata/effects/microtransactions/foot_prints/D2416544E5B3CD8F.B8D3D831EC7A645E.greenfootprint_04.ao,1132434,43940
+1b5749b358c88699,thorn_bc7.dds.header,Tiny.VA,38205998,344

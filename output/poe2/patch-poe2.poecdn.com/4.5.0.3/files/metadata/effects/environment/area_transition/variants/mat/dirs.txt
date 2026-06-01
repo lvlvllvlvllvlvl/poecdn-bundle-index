@@ -1,0 +1,4 @@
+azureblue
+palegreen
+red
+skyblue

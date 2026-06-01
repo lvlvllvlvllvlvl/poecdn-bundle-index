@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+1f428c7fc51164d8,shimmer_sphere_r.mat,Tiny.V2.1,78632982,19062
+b08f3270d96e0469,energy_sphere_r.mat,Tiny.VD.1,24481130,36826
+04ed7b4a1b2f842c,blur_sphere_r.mat,Tiny.VE.1,78525654,16284
+0e1129113bfde1a9,blur_sphere_u.mat,Tiny.V3.1,23126441,4072
+4cb79393f14953bd,runes_r.mat,Tiny.V7.1,21740710,50806
+722ebfef101a00cb,runes_u.mat,Tiny.V1.1,21897178,28274
+59ae6c10009e98aa,guard_blur_r.mat,Tiny.V5.1,24532652,26206
+38d2afb119c547a9,guard_buff_epk_pass0.mat,Tiny.VA.1,23175730,50908
+81db285fa7cf22bf,guard_buff_epk_pass2.mat,Tiny.V5.1,24558858,56452

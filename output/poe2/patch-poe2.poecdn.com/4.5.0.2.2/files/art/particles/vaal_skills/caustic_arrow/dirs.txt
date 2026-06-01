@@ -1,6 +1,0 @@
-celestial
-celestial/mb
-celestial/mb/large_projectile
-celestial/mb/large_projectile/animations
-celestial/textures
-celestial/textures/large_projectile

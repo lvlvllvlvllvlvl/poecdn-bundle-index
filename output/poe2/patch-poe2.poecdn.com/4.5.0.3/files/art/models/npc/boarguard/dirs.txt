@@ -1,0 +1,5 @@
+attachments
+attachments/boarguardhair
+attachments/boarguardlegcloth
+attachments/boarguardrobe
+textures

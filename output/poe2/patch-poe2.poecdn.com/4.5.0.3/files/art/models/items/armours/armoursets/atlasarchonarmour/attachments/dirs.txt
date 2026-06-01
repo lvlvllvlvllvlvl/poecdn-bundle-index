@@ -1,0 +1,7 @@
+cloak
+head
+head/attachments
+skirt
+skirt/attachments
+skirt/attachments/belts
+skirt/attachments/scrolls

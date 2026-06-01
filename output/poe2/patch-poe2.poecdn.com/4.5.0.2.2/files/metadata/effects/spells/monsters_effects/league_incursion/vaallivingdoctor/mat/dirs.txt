@@ -1,5 +1,0 @@
-mortar
-onact_channelpalm
-onact_lightning_ball
-ondeath_emp_explosion
-orb

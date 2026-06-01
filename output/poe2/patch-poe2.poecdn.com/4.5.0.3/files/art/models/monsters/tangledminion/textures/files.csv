@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+10e40714f47c3fc2,tangledminionc.mat,Tiny.VB,12840535,6614
+e4818d069d670ae0,tangledminionrefraction_mask_dxt1.dds,Streaming/Content/metadata/monsters/carrionwing/carrionwing.act,1386111,174924
+76df959fd16aa3a3,tangledminionrefraction_mask_dxt1.dds.header,Tiny.V9,13090965,1520
+17b6c0a33fa64abb,tangledminion_glow_dxt5.dds,Streaming/Content/metadata/monsters/carrionwing/carrionwing.act,336863,349700
+43b8fb4b64160e5f,tangledminion_glow_dxt5.dds.header,Tiny.VE,12785288,1520
+376dfbb385240488,tangledminion_normal_dxt5.dds,Streaming/Content/metadata/monsters/carrionwing/carrionwing.act,861487,349700
+344f72d1a4ad0a4a,tangledminion_normal_dxt5.dds.header,Tiny.V8,12828726,1520
+134e0ffdc879a30b,tangledminion_metal_dxt1.dds,Streaming/Content/metadata/monsters/carrionwing/carrionwing.act,686563,174924
+08e94bf9032f01b9,tangledminion_metal_dxt1.dds.header,Tiny.V0,36023763,1520
+c4f5f5fdcae3c581,tangledminion_colour_dxt1.dds,Streaming/Content/metadata/monsters/carrionwing/carrionwing.act,161939,174924
+83a8cbd23f918275,tangledminion_colour_dxt1.dds.header,Tiny.VD,12756940,1520
+02048bd0dae2349b,tangledminion_sss_dxt1.dds,Streaming/Content/metadata/monsters/carrionwing/carrionwing.act,1211187,174924
+6320edd2b82f24c5,tangledminion_sss_dxt1.dds.header,Tiny.VA,12878110,1520

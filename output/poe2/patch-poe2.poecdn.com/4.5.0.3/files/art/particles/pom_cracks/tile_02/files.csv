@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+00a6bf2f54cbc22a,crk_tile_02_hgt_bc7.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/F461D5025217B5B1.59C46E93E5A2F81D.quake_wave_grdemit.pet,0,349700
+46a0907c2a562a47,crk_tile_02_hgt_bc7.dds.header,Tiny.VA,35469363,1520
+11b15e5c0629a721,crk_tile_02_hgt_dxt1.dds,Streaming/Content/metadata/effects/spells/ground_effects_v3/A47210727DF7175A.profane_grd.ao,704576,174924
+5547c6d1242ad319,crk_tile_02_hgt_dxt1.dds.header,Tiny.V2,35270890,1520
+cf13fac2c04ee57b,crk_tile_02_naog_bc7.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/F461D5025217B5B1.59C46E93E5A2F81D.quake_wave_grdemit.pet,349700,349700
+79f37a101598d997,crk_tile_02_naog_bc7.dds.header,Tiny.V6,35245030,1520
+193766ff7259ffc1,crk_tile_02_naog_uncompressed.dds,Streaming/Content/metadata/effects/spells/ground_effects_v3/CB92B19E0AFB9A84.scorched_grd.ao.1,0,1398248
+a750e104c5d3ec91,crk_tile_02_naog_uncompressed.dds.header,Tiny.VE,40766415,1520
+b4947162c2aaa42c,crk_tile_02_rgba_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/F461D5025217B5B1.59C46E93E5A2F81D.quake_wave_grdemit.pet,699400,349700
+39a70d8df8caab52,crk_tile_02_rgba_dxt5.dds.header,Tiny.V6,39036691,1520

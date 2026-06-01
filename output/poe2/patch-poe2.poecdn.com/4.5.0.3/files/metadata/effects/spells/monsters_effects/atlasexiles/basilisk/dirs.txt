@@ -1,0 +1,8 @@
+attack_03
+graphs
+large_projectile
+small_snake_spitprojectile
+spin_aoe
+viper_proj_impact
+viper_projectile
+wyvern_projectile

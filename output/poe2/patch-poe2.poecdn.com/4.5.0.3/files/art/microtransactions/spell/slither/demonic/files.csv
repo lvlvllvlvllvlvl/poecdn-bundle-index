@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+a5879a29e58e6b1f,wither_wave.mat,Tiny.V6,5682613,5078
+17f1857373031bf9,blink_holy_shine.mat,Tiny.VA,5761582,2428
+461c10dac7213675,dark_ink_3.mat,Tiny.VC,41598483,1824
+b76aa60abd27f886,red_wisps.mat,Tiny.VC,5685683,2810
+1aa1bc3c2edaa797,rune.mat,Tiny.V0,5935857,6016
+b1740b852f236d9e,rune_mask_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/43ED37960A532BD9.F32791C8A30A656D.wither_aura.pet,5592580,5592580
+0b4f4f44f3af6a22,rune_mask_dxt5.dds.header,Tiny.VE,5756334,1520
+b8b0afa919ed246c,rune_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/43ED37960A532BD9.F32791C8A30A656D.wither_aura.pet,0,5592580
+9a7db9bee805d91c,rune_dxt5.dds.header,Tiny.V4,5917181,1520
+5b84a24877b8b90d,3rdeye.mat,Tiny.VA,5757480,4102
+ae0afbd60e0702ff,3rdeye_mask_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/EC06F14A72F93357.FA512E6ED455395E.beam_cannon.ao,532721,349700
+8c3f30f59327bce1,3rdeye_mask_dxt5.dds.header,Tiny.V6,5681093,1520
+d1db05d9a207b951,3rdeye_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/EC06F14A72F93357.FA512E6ED455395E.beam_cannon.ao,183021,349700
+29457e9ff5181d0a,3rdeye_dxt5.dds.header,Tiny.V0,5934337,1520
+498106180feced0e,snakeye_8x8.mat,Tiny.VB,5766505,3046
+7deb2f43216a8aa7,slash02_8x8.mat,Tiny.V5,5729488,2046

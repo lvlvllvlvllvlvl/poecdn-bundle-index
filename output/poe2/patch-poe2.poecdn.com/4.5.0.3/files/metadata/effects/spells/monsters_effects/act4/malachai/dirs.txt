@@ -1,0 +1,12 @@
+bloodworm_poof
+ground_slam
+heart_area_damage
+heart_vulnerable
+mace
+minireave
+portal
+projectile
+rune_circle
+shield
+teleport
+tribomb

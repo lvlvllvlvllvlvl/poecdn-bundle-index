@@ -1,0 +1,11 @@
+epk
+fxgraphs
+mat
+mat/explosion
+mat/impact
+mat/projectile
+mat/spear
+mat/trail
+mat/wind_surge
+pet
+trl

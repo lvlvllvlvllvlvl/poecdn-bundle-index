@@ -1,9 +1,0 @@
-basic_attack
-decellightningball
-decellightningballexplode
-lightningattack
-lightninghit
-meleetrail
-onact_lightning_ball
-self_proj
-volatile

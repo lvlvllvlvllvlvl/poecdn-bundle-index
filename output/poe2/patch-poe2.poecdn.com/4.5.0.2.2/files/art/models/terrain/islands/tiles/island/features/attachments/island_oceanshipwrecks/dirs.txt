@@ -1,2 +1,0 @@
-galleon_bow_01
-galleon_stern_01

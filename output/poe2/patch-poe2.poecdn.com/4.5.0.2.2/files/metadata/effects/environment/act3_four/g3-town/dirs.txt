@@ -1,8 +1,0 @@
-fx
-fx/cataclysm_first_pulse
-fx/cataclysm_flash
-fx/cataclysm_second_pulse
-mat
-mat/cataclysm_first_pulse
-mat/cataclysm_second_pulse
-mat/door_open

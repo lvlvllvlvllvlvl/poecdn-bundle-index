@@ -1,4 +1,0 @@
-mbs
-mbs/combo_01_slam
-mbs/combo_02_slam_01
-mbs/line_slam

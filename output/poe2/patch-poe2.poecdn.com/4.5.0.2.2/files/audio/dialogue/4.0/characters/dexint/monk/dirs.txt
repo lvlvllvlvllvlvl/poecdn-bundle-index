@@ -1,5 +1,0 @@
-monk_apparition
-monk_convo
-monk_gameplay
-monk_skills
-monk_wild

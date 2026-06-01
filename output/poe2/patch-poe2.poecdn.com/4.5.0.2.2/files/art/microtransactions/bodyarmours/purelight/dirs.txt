@@ -1,3 +1,0 @@
-fx
-rays_tex
-rays_tex/fx

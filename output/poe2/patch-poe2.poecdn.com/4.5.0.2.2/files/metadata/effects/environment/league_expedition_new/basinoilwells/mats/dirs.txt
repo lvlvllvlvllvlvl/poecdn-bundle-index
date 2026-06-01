@@ -1,5 +1,0 @@
-attacheddummywells
-blastwave
-explosion
-ground
-oilwell_01

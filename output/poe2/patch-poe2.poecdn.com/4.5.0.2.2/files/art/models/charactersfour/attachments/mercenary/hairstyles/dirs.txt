@@ -1,4 +1,0 @@
-beard
-default
-default/hair
-tight

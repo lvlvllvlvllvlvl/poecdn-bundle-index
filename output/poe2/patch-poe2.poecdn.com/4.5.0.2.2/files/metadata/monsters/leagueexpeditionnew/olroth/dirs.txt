@@ -1,3 +1,0 @@
-attachments
-objects
-relic

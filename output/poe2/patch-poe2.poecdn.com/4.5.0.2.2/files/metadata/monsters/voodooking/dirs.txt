@@ -1,4 +1,0 @@
-attachments
-critters
-mapboss
-objects

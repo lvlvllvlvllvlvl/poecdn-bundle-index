@@ -1,5 +1,0 @@
-fissure_end_1
-fissure_line_1
-gas_degen
-slam_rig
-slash_rig

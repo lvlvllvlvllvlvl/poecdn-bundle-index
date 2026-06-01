@@ -1,0 +1,5 @@
+buff_01
+buff_01_small
+fire_proj
+fire_proj/animations
+staff_light

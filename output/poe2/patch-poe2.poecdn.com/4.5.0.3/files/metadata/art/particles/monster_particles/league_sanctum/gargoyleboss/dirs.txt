@@ -1,0 +1,3 @@
+textures
+textures/fire_infused_sword
+textures/leap_slam_circular

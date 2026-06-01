@@ -1,3 +1,0 @@
-spell_buff
-teleport_stab_shadow
-teleport_stab_shadow/particles

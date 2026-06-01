@@ -1,5 +1,0 @@
-graphs
-mat
-pet
-stuck_arrows
-trl

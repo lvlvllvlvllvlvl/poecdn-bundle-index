@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+1124bbaba19e9590,nuke_base_add.mat,Tiny.VE,38470534,4522
+eca3b3f820b12ff6,bloom_glow.mat,Tiny.V8,38579013,1462
+f818b214397c43f4,black_sh_tilec.mat,Tiny.VF,38935296,2452
+d4452b106e7c6dc3,black_sh_tile.dds,Streaming/Content/metadata/effects/spells/monsters_effects/49C57ADA115EEAA8.F2BBF756CB3C127A.corpse_degen.ao,13730,87556
+5710016d39caacea,black_sh_tile.dds.header,Tiny.VE,39632711,1520
+bfdb0a87444fce7c,wind_02_fadeout.mat,Tiny.V5,38527746,4530
+d65f62429b25026d,wind_01.mat,Tiny.VF,38951154,3034
+68749343a95e08fe,wind_01_fadeout.mat,Tiny.V1,38804466,3416
+86fcf2a816765648,wisp_smoke_base.mat,Tiny.VB,39311810,4728
+18fb38a885d8476a,wisp_smoke_base_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/020D3ABBF32A394D.E1566CC939E2D348.warcry.pet,568688,87556
+bc8aeee5ba081c91,wisp_smoke_base_dxt5.dds.header,Tiny.V4,40787319,1520
+7a207bfb8363546b,sparkling.mat,Tiny.V5,38518598,2472
+0d3b03a7d704642f,suck_wave.mat,Tiny.VA,39168369,2822
+b87d5b48916a53b2,suck01_8x8.mat,Tiny.V0,39230459,3660

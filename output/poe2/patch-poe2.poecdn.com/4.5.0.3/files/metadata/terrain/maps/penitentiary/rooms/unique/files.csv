@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+95e38e6339a75462,entrance_1.arm,Content/data/balance/worldareas/mapplantation.vworld,2061834,9178
+2d2622c57dc743fc,no_boss_1.arm,Content/data/balance/worldareas/mapplantation.vworld,2071012,26600
+49266ba02e5ab689,mission_01.arm,Tiny.V1.1,206693132,1732
+f7b7e4f65b845806,checkpoint_1.arm,Content/data/balance/worldareas/mapplantation.vworld,2052770,4500
+55ed03d67b3aa3ed,checkpoint_2.arm,Content/data/balance/worldareas/mapplantation.vworld,2057270,4564
+6b588efceab276ce,checkpoint_3.arm,Tiny.VB.1,208507287,3930
+a26797be89a664ec,checkpoint_4.arm,Tiny.VF.1,205858184,4034
+a4a198a19d975863,blocked_feature_1.arm,Content/data/balance/worldareas/mapplantation.vworld,1995266,6936
+eb1e9c5adbe9fe0d,boss_1.arm,Content/data/balance/worldareas/mapplantation.vworld,2002202,50568

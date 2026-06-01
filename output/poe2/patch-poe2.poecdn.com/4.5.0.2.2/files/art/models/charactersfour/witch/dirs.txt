@@ -1,5 +1,0 @@
-infernalistascendancy
-infernalistascendancy/attachments
-infernalistascendancy/attachments/hair
-infernalistascendancy/attachments/wings
-textures

@@ -1,4 +1,0 @@
-epks
-pet
-pet/bodyfx
-pet/on_death

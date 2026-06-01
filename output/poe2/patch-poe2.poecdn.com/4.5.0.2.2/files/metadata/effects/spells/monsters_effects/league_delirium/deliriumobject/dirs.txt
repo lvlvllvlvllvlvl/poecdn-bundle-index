@@ -1,7 +1,0 @@
-epks
-fx
-graphs
-mats
-mats/object
-mats/object_journeyend
-mats/open

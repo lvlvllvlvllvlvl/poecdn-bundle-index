@@ -1,3 +1,0 @@
-single_shock
-sinlge_shock_onact
-sinlge_shock_onact_loop

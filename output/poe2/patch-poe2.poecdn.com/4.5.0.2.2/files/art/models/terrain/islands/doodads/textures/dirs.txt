@@ -1,3 +1,0 @@
-ivy
-scatteredprops
-swords

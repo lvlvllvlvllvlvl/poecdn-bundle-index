@@ -1,0 +1,17 @@
+alira
+alira/volatile_dead
+alira/volatile_dead/fire_orb
+arakaali
+arakaali/beam
+arakaali/beam/beam_head
+arakaali/beam/beam_nova
+arakaali/beam/core_beam
+gruthkul
+gruthkul/ground_projectile
+gruthkul/ground_projectile/projectile
+gruthkul/ground_slam
+gruthkul/remote_slam
+gruthkul/remote_slam/impact
+gruthkul/remote_slam/upheaval
+gruthkul/room_pulse
+idolised_saint

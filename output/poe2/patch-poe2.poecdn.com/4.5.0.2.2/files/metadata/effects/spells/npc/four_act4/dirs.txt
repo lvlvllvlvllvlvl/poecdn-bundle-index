@@ -1,5 +1,0 @@
-karuimedicinewoman
-karuimedicinewoman/epk
-karuimedicinewoman/epk/audio
-karuimedicinewoman/fx
-karuimedicinewoman/mat

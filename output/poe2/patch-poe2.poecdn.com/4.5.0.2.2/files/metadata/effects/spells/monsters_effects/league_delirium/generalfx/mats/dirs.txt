@@ -1,2 +1,0 @@
-general_delirium_appear_insta
-general_delirium_disappear

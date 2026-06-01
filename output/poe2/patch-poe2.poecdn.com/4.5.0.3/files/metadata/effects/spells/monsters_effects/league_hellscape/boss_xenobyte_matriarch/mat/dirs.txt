@@ -1,0 +1,14 @@
+basicattack
+cremation_mortar
+death
+fissure_circle_start
+fissure_startslam
+fissures
+footstep
+heavystun
+leapslam
+mortar_impact
+mortar_proj
+siphon
+spit_gather
+spit_proj

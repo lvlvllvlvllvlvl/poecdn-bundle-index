@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+6e529831bc09b9c2,mblur_sphere_r.mat,Tiny.VE.1,89501856,9012
+d0bf9cf8782cf260,mblur_sphere_u.mat,Tiny.VE.1,12548232,310
+42bb02c1ddebf581,tip_wind_turbulence_r.mat,Tiny.VF.1,85840738,51106
+b7fed9e1fb871243,tip_wind_turbulence_u.mat,Tiny.V9.1,92651406,1304
+fbbe217d1ee8a67f,cone_flash_r.mat,Tiny.V5.1,89321440,25260
+228f62d77662083f,cone_flash_u.mat,Tiny.V8.1,90258730,2768
+e7e956ede77f042c,hitflash_r.mat,Tiny.V5.1,89346700,16116
+18e5d7e6ced7e771,hitflash_u.mat,Tiny.VE.1,12548232,310
+88a315991d0a66b9,warp_cirlce_3d_r.mat,Tiny.V9.1,92652710,10886
+a5b855fd4ee89b53,warp_cirlce_3d_u.mat,Tiny.VE.1,12548232,310

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+4ab33c79b7c08c26,chiyouspecularc.mat,Tiny.V7,47397620,8102
+387de1c09b308aa7,chiyou_emissive_dxt1.dds,Streaming/Content/art/models/items/apparitioneffects/61843CA5307F1353.chiyouapparition.fmt.1,0,699212
+d45985ae163c7df7,chiyou_emissive_dxt1.dds.header,Tiny.V6,47424799,1520
+d32034f602cae50d,chiyou_normal_dxt5.dds,Streaming/Content/art/models/items/apparitioneffects/61843CA5307F1353.chiyouapparition.fmt.1,699212,1398276
+ffb1d4de5ef2f2da,chiyou_normal_dxt5.dds.header,Tiny.VC,47711236,1520
+52afc2aa4e37ecd3,chiyou_colourspecular_bc7.dds,Streaming/Content/art/models/items/apparitioneffects/61843CA5307F1353.chiyouapparition.fmt,1529676,2796388
+4104b3fb360989f0,chiyou_colourspecular_bc7.dds.header,Tiny.VF,47370180,840
+8dc2c6bc33147429,chiyou_colourspecular.dds,Streaming/Content/art/models/items/apparitioneffects/61843CA5307F1353.chiyouapparition.fmt,131408,1398268
+3c94f885f43ec290,chiyou_colourspecular.dds.header,Tiny.V9,47894499,840

@@ -1,4 +1,0 @@
-alchemist
-alchemist/fx
-demonic
-demonic/fx

@@ -1,4 +1,0 @@
-ksc_feather
-ksc_hair
-ksc_robe
-tjc_robe

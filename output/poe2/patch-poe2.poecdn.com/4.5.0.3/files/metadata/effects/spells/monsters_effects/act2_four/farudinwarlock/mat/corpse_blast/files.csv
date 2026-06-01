@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+990885ff7f399dd4,explode_flash_r.mat,Tiny.VB.1,89819989,24914
+965eee63212109fa,explode_ptemit_halfscale_u.mat,Tiny.VD.1,89696152,2176
+d8ede9197cbc7936,explode_gibsflesh_r.mat,Tiny.V9.1,94499856,6576
+a6d910ba061e250e,explode_gibsphysics_u.mat,Tiny.V3.1,89647861,19668
+5be11a1bbcb3587d,explode_spray_01_r.mat,Tiny.V0.1,158776728,19810
+8c49c2f06370dec1,explode_spray_01_u.mat,Tiny.V9.1,160815876,10736
+ff47d3355805b944,explode_splash_01_r.mat,Tiny.VB.1,89860809,54468
+2f15b5d05ace4fc6,explode_splash_01_u.mat,Tiny.V6.1,84444605,24616
+ab95d7646ef1ecf3,explode_shattersparks_r.mat,Tiny.VA.1,71510000,32312
+caf90f85c364764e,explode_shattersparks_u.mat,Tiny.VE.1,90854598,11366
+250b66a8e06a20b6,explode_heat_distort_r.mat,Tiny.V4.1,90280282,9052
+298635c599025d1f,explode_heat_distort_u.mat,Tiny.V4.1,90289334,7172
+c0cb576cc55d1413,explode_zoom_distort_r.mat,Tiny.VD.1,123247816,5392
+853ad202cdc75440,explode_zoom_distort_u.mat,Tiny.V6.1,117079287,2152

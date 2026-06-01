@@ -1,3 +1,0 @@
-deactivate_flare
-lethal_damage
-trail

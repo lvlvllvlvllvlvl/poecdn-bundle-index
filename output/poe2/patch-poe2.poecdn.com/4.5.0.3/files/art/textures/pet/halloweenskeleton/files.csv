@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+eb1cd863c42c5c15,halloweenskeletonc.mat,Tiny.V3.1,1195251,3386
+2da21b04f64b7183,halloweenskeleton_glow_dxt5.dds,Streaming/Content/art/models/pet/tencentgirl/halloweenskeleton.fmt,1398276,1398276
+1357c3a67386e6a0,halloweenskeleton_glow_dxt5.dds.header,Tiny.VB.1,1291502,1520
+aef351e882f1380b,halloweenskeleton_normal_dxt5.dds,Streaming/Content/art/models/pet/tencentgirl/halloweenskeleton.fmt.1,0,1398276
+d831cc05a228e0a5,halloweenskeleton_normal_dxt5.dds.header,Tiny.V1.1,901670,1520
+62df9f60fdd23ba7,halloweenskeleton_colour_dxt5.dds,Streaming/Content/art/models/pet/tencentgirl/halloweenskeleton.fmt,0,1398276
+5cb40865321f0762,halloweenskeleton_colour_dxt5.dds.header,Tiny.V1.1,900150,1520
+5beea2676b54ca10,bonemegaphonec.mat,Tiny.VC.1,1743410,3096
+5fc4dcf92da367c6,bonemegaphone_glow_dxt1.dds,Streaming/Content/metadata/pet/dancingskeleton/dancingskeleton.act,165361,11084
+2ca2e9732e40e965,bonemegaphone_glow_dxt1.dds.header,Tiny.V9.1,1529842,1520
+11e758867da54ac2,bonemegaphone_normal_dxt5.dds,Streaming/Content/metadata/pet/dancingskeleton/dancingskeleton.act,176445,22020
+d781ebdfc8dd0bae,bonemegaphone_normal_dxt5.dds.header,Tiny.VF.1,1715150,1520
+50ef4a9342fff761,bonemegaphone_colour_dxt5.dds,Streaming/Content/metadata/pet/dancingskeleton/dancingskeleton.act,143341,22020
+7ef45c9474c89a89,bonemegaphone_colour_dxt5.dds.header,Tiny.V3.1,1193731,1520

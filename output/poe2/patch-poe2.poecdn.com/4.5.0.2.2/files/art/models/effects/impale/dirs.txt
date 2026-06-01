@@ -1,2 +1,0 @@
-debuff
-debuff/on_monster

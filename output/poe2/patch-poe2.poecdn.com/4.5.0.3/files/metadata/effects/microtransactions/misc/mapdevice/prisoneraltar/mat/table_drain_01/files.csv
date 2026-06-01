@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+6c88a859826a06c3,table_r.mat,Tiny.VB.1,18147143,24964
+76883a85a62449de,foam_sprays_r.mat,Tiny.V1.1,18596232,15768
+123b37e81492b8fc,foam_sprays_u.mat,Tiny.V3.1,181354223,7940
+78827473e988c3a7,ripple_shimmer_r.mat,Tiny.VA.1,177957858,14862
+7f31ae0ee081545b,ripple_shimmer_u.mat,Tiny.VD.1,178806919,2650
+7696c1cbc28907f7,ripple_shimmer_02_r.mat,Tiny.V4.1,18656384,14888
+c60f997803363c4e,ripple_shimmer_02_u.mat,Tiny.VD.1,178806919,2650
+5d0ca63c26e09c9d,water_ripple_r.mat,Tiny.VC.1,21990473,19602
+cf6340e1f6717f00,water_ripple_u.mat,Tiny.VF.1,177397102,2642
+1b6bd7c8317b93ff,water_ripple_02_r.mat,Tiny.VD.1,20771142,19628
+1250284f5ca75f67,water_ripple_02_u.mat,Tiny.VF.1,177397102,2642
+c767c2544347fc3a,water_ribshimmer_r.mat,Tiny.VB.1,18172107,24266
+208be197e207a51a,water_rib_r.mat,Tiny.VF.1,19707362,45776
+16ba1f308e7f5495,water_rib_u.mat,Tiny.V8.1,21037010,28824

@@ -1,2 +1,0 @@
-hit_fx
-weapon_buildup

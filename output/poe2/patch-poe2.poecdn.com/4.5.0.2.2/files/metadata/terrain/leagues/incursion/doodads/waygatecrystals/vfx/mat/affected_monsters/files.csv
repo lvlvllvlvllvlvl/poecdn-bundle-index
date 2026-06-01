@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-485513f2a4805b09,affected_body_skin.mat,Tiny.V2.1,211220330,23138
-e2eeb9f7e8f7fa8e,precursor_ribbons_r.mat,Tiny.VB.1,207349717,38962
-b2ddadd797711820,mblur_ribbons_r.mat,Tiny.V7.1,206074738,24618
-3dbd958c08181211,mblur_ribbons_u.mat,Tiny.V2.1,211243468,17860
-fb576250b80bb3c0,beam_u.mat,Tiny.VB.1,207346781,2936
-0cf5efefd82009a9,beam_r.mat,Tiny.VB.1,207306717,40064
-c2aab23b57763e6a,beam_r2.mat,Tiny.VD.1,207494151,30388

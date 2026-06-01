@@ -1,5 +1,0 @@
-fx
-fx/attack_01
-fx/attack_02
-mat
-mat/attack_01

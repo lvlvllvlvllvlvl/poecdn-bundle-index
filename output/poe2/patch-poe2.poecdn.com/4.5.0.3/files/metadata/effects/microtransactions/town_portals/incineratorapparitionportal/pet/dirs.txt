@@ -1,0 +1,6 @@
+back_sigil
+front_sigil
+hanger
+townportal
+townportalclose
+townportalopen

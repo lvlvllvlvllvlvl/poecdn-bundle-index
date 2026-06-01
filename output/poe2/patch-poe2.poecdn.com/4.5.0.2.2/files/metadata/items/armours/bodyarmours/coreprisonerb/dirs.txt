@@ -1,4 +1,0 @@
-attachments
-attachments/hiphairs
-attachments/shoulderhairs
-attachments/skirt

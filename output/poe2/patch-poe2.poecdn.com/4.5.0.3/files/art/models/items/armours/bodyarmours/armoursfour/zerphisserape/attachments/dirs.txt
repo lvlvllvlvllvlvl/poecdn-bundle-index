@@ -1,0 +1,12 @@
+f
+f/zerphisserapefemaleminiheads
+f/zerphisserapefemalenecklace
+f/zerphisserapefemalerobe
+f/zerphisserapefemaleshoulderpad
+f/zerphisserapefemaleskirt
+m
+m/zerphisserapemaleminiheads
+m/zerphisserapemalenecklace
+m/zerphisserapemalerobe
+m/zerphisserapemaleshoulderpad
+m/zerphisserapemaleskirt

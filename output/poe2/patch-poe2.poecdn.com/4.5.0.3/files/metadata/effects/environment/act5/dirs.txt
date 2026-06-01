@@ -1,0 +1,3 @@
+cathedral_broken_roof
+entrance_portal
+entrance_portal/portal_in

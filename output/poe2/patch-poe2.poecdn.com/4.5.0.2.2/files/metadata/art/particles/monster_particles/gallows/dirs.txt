@@ -1,6 +1,0 @@
-act1
-act1/bramblehulk
-act1/childspiritcollector
-act1/huhugrublarvae
-act1/quillcrab
-act1/spookywraith

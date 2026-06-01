@@ -1,0 +1,6 @@
+female
+female/scarf
+female/skirt
+male
+male/scarf
+male/skirt

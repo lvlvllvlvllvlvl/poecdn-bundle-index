@@ -1,2 +1,0 @@
-map_device_large
-rare_finisher_effect

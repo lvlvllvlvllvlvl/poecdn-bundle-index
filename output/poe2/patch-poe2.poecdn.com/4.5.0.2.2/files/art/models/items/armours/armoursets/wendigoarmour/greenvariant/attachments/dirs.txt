@@ -1,8 +1,0 @@
-bodydanglers
-braids
-hair
-intbodydanglers
-inthair
-intskirt
-skirt
-strbodydanglers

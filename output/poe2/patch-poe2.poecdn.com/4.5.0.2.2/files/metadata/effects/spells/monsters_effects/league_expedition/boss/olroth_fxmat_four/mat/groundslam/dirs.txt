@@ -1,4 +1,0 @@
-burst
-burst_buildup
-burst_phase3
-impact

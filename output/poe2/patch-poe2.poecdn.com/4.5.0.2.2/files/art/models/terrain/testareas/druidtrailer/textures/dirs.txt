@@ -1,4 +1,0 @@
-cliffs
-ground
-rocks
-trees

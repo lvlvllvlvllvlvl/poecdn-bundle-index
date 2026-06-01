@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+fc87259e5acd2ee8,footstep.fmt,Streaming/Content/metadata/monsters/hyenamonster/effects/A2423F3D01E7A113.footstep_mid.pet,0,8438
+29674815bb6cc427,footstep.fmt.header,Tiny.V5,12606665,208
+62a45e62287f65cc,ribbon_2.fmt,Streaming/Content/metadata/monsters/hyenamonster/effects/A2423F3D01E7A113.charge.pet,391498,7550
+5d0f47d6f5a2d347,ribbon_2.fmt.header,Tiny.V0,12909327,208
+42fe092650c2a621,ribbon_1.fmt,Streaming/Content/metadata/monsters/hyenamonster/effects/A2423F3D01E7A113.charge.pet,399048,10190
+5392b05d964fc4ff,ribbon_1.fmt.header,Tiny.V2,13057984,208
+8be8604bec21aece,charge_tail2.fmt,Streaming/Content/metadata/monsters/hyenamonster/effects/A2423F3D01E7A113.charge.pet,20636,20638
+7210c21d542b7414,charge_tail2.fmt.header,Tiny.V8,12816124,208
+884796de780ec5d7,charge_tail.fmt,Streaming/Content/metadata/monsters/hyenamonster/effects/A2423F3D01E7A113.charge.pet,0,20636
+f0fd60063104053a,charge_tail.fmt.header,Tiny.V7,12799335,208

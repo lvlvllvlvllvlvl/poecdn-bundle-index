@@ -1,0 +1,7 @@
+light_spear
+no_offset
+solar_flare
+solaris_emerge
+spear_stab
+sun_beam
+sun_beam/impact

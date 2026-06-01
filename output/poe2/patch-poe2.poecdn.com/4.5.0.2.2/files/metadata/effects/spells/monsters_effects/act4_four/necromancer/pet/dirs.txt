@@ -1,4 +1,0 @@
-delayed_blast
-on_act
-on_act/delayed_blast_01
-revive_aoe

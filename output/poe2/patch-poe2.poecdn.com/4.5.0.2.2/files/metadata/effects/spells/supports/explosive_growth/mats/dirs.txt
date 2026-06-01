@@ -1,4 +1,0 @@
-expire
-explode
-growth
-idle

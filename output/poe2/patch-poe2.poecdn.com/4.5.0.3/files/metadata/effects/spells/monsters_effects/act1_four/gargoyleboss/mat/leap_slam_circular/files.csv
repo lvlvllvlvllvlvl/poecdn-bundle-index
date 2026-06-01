@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+d133d3c95761a984,impactscorch_r.mat,Tiny.VD.1,79441184,70124
+2b953fff3b4a2c0b,impactscorch_u.mat,Tiny.VA.1,80021368,1326
+525e51e4d59e0b0a,explosion_sphereblur_r2.mat,Tiny.VC.1,82110689,18526
+0f37033d281809f2,explosion_sphereblur_u.mat,Tiny.VE.1,12548232,310
+f9ae43c5cced8b85,embers_02_r.mat,Tiny.V1.1,79886320,20004
+f475b43c9705bd11,embers_01_r.mat,Tiny.V4.1,80150684,20004
+352ff931ee15e7e3,embers_01_u.mat,Tiny.VF.1,77848868,22198
+a58645be653d01c2,ground_blast_r.mat,Tiny.V7.1,78872342,28136
+7ace4bc2dca8ddc2,ground_blast_u.mat,Tiny.VE.1,12548232,310
+70938711378d3cab,ground_cracks_02_r.mat,Tiny.VD.1,79402750,38434
+8a351054dad42c3d,ground_cracks_02_u.mat,Tiny.VE.1,12548232,310
+65174363f5887bac,sparks_u.mat,Tiny.V7.1,78900478,14320
+a20b681fe6174183,small_debris_burst_r.mat,Tiny.V3.1,80035341,17316
+943cf81c774937aa,small_debris_burst_u.mat,Tiny.V1.1,79906324,8814
+55bcde45c0f281e8,dust_kickup_01_r.mat,Tiny.VB.1,80625867,26000
+0decd75f1b315a59,dust_kickup_01_u.mat,Tiny.V4.1,80140144,10540

@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+221d6a3958b87d1b,bloodpool_normal_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/C104C8373D891D33.F18792D14FCEBFA4.ptemit.pet,349700,349700
+f28445a4512876f2,bloodpool_normal_dxt5.dds.header,Tiny.V1,6267092,1520
+2f90b92bf9b15eb4,blood_normals_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/6B8B8B82F9ABCE45.EBF3F461A465A6FE.rock_shot.pet,5724176,87556
+500bfdab823db032,blood_normals_dxt5.dds.header,Tiny.VB,38997648,1520
+e0f1f54626119087,blood_drip.mat,Tiny.VA,36257273,5006
+123c341422c3ad0c,blood_drip_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/6B8B8B82F9ABCE45.EBF3F461A465A6FE.rock_shot.pet,5636620,87556
+64935f2dda4352fd,blood_drip_dxt5.dds.header,Tiny.V2,38585171,1520
+8a3b8a77b27dc973,blood_at.mat,Tiny.VA,36252109,5164
+fc1caa9463c18db9,blood_at_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/C104C8373D891D33.F18792D14FCEBFA4.ptemit.pet,0,349700
+476289b1fe39f958,blood_at_dxt5.dds.header,Tiny.V9,39228478,1520
+1ae30a545d96fdaa,black_wisps.mat,Tiny.V8,35708763,2820
+c9c698034612f1f1,black_wisps_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/CA57B37DC67A587F.portal_open_ghost.pet,527238,22020
+ddb55911d1be3a0c,black_wisps_dxt5.dds.header,Tiny.V2,41530039,1520

@@ -1,2 +1,0 @@
-slam02_impact_core
-slam_01_impact_core

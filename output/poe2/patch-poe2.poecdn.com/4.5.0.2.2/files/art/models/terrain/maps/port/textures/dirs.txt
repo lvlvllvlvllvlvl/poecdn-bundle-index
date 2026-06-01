@@ -1,6 +1,0 @@
-architecture
-foliage
-ground
-pirateship
-wallvertexpaint
-woodkit

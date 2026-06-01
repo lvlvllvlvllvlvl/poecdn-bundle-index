@@ -1,4 +1,0 @@
-textures
-textures/doodads
-textures/foliage
-tgms

@@ -1,0 +1,6 @@
+attachments
+attachments/mane
+attachments/tail
+attachments/whiskers
+fx
+fx/mb

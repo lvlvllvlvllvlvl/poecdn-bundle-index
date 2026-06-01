@@ -1,0 +1,6 @@
+alt
+alt/attachments
+attachments
+attachments/capelet
+attachments/chestdangles
+attachments/skirt

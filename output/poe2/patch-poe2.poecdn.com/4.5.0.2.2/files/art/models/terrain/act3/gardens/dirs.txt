@@ -1,3 +1,0 @@
-colossus
-statuespawners
-walls

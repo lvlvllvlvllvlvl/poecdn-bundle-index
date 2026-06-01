@@ -1,0 +1,11 @@
+epk
+fx
+fxattachments
+graphs
+mats
+mats/bodyeyeglow
+mats/eyeglow
+mats/tombstonebackeyeglow
+mats/tombstoneemerge
+mats/tombstoneeyeglow
+mats/vinegrowth

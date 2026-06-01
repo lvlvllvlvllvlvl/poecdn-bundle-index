@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+17fadf7b8be7133b,extranormal_world.fxgraph,Shared,4442533,140824
+38d9956b098a9351,extranormal_local.fxgraph,Content/metadata/effects/microtransactions/town_portals/witchdoctorportal/A2423F3D01E7A113.grd_cir_idle.pet,438140,158618
+a9316138b22926fc,innermaterial_local.fxgraph,Shared,4583357,126534
+c8c6d642c6edb608,innermaterial_world.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/8518145A41654681.lightray.ao,1282899,108906
+dc3c2225861046e0,innermaterial_glow.fxgraph,Content/metadata/effects/microtransactions/spells/warbanner/FC60EA39982D2D13.start_midline.pet,3090558,15758
+bcb7da16879a0468,innermaterial_rgbmultiplier.fxgraph,Shared,4709891,89768
+df2d0888f37d733b,innermaterial_tileground.fxgraph,Shared,4799659,66698
+0958fa42e051d7ef,innermaterial_tochannel.fxgraph,Shared,4866357,172978

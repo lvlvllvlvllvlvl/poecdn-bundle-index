@@ -1,0 +1,5 @@
+attachments
+attachments/cloak
+attachments/collar
+attachments/skirt
+textures

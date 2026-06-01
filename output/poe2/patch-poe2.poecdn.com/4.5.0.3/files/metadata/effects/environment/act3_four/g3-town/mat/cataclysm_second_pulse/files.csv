@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+5d61f642f21fb8db,impact_debris_02_r.mat,Tiny.V6.1,3813853,8082
+2838cbf3e1791165,impact_debris_02_u.mat,Tiny.V8.1,4077760,28138
+d9da9ffa0802985d,rockdebris_r.mat,Tiny.V3.1,4441939,5934
+c40c00c4289db0b1,rockdebris_u.mat,Tiny.V3.1,4447873,19322
+7ac0139bfc8c5506,disperse_smoke_02_r.mat,Tiny.V0.1,3770404,30892
+9a63a2fd1a24de54,disperse_smoke_02_u.mat,Tiny.V3.1,4433625,8314
+3fd8b1f41f18222b,disperse_smoke_01_r.mat,Tiny.V6.1,3783775,30078
+9a8dde67494f3caf,disperse_smoke_01_u.mat,Tiny.V8.1,4069460,8300
+1c37f6455df74479,shake_box_smoke_01_r.mat,Tiny.VF.1,3982798,33720
+224f2cb3ef6e9a1b,shake_box_smoke_01_u.mat,Tiny.VD.1,4381594,9300
+4db7102d14ef9c12,shockwave_distort_line_r.mat,Tiny.V9.1,5094028,33686
+f059b6a65a553037,shockwave_pulse_line_r.mat,Tiny.VA.1,4814664,40218
+5359a54db0dff3b9,shockwave_pulse_line_u.mat,Tiny.V7.1,11686136,3224

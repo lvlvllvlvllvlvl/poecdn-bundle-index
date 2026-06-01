@@ -1,0 +1,6 @@
+attached
+audio
+epk
+fx
+graphs
+mats

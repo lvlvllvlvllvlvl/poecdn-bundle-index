@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+ac5322031f7ec074,stage_ctrl.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,884366,51008
+d682322ffd2235d2,infiniteparticles_stages.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,314724,69160
+b60d2b86bfa8083d,translate_world_bystages.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,935374,114354
+dee4833ce00b1627,alphabysigilstages.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,0,5746
+9d4643849ceba5db,animation_particletime.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,5746,63924
+9ab2b706545e6d95,animation_timeline.fxgraph,Content/metadata/effects/microtransactions/spells/elemental_hit/08E5D14A74A66FA3.elehit_arrow_light.ao,1657977,30172
+fff826b1ec3d584a,rotationaroundcenter_bystages.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,383884,279668
+88c15bbfb2b24764,rune_engrave.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,663552,220814
+981c52c8611070c3,vtx_root_growth.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,1049728,115374
+2b2e650aa2fa1a51,vtx_scale.fxgraph,Content/metadata/effects/microtransactions/spells/elemental_hit/08E5D14A74A66FA3.elehit_arrow_light.ao,1748801,53228
+6368fc2e7785facf,cullbysigilstages.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,69670,18538
+29ef3d0b2bbcc340,custom_root_growth.fxgraph,Content/metadata/monsters/anomalies/sigiloflife.ot,88208,226516
+591d1040d69f60db,custom_windvortex_along.fxgraph,Content/metadata/effects/microtransactions/town_portals/witchdoctorportal/A2423F3D01E7A113.grd_cir_idle.pet,2457177,57626

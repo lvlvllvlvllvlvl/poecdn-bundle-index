@@ -1,0 +1,13 @@
+vfx
+vfx/epk
+vfx/fx
+vfx/fx/affected_monsters
+vfx/fx/inert_next_01
+vfx/fx/turn_on_01
+vfx/fx/turned_on_idle_01
+vfx/graphs
+vfx/mat
+vfx/mat/affected_monsters
+vfx/mat/inert_next_01
+vfx/mat/turn_on_01
+vfx/mat/turned_on_idle_01

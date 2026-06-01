@@ -1,3 +1,0 @@
-mb
-mb/corruption_rock_throw
-mb/corruption_rock_throw/animations

@@ -1,2 +1,0 @@
-shard04
-weapon_gather

@@ -1,9 +1,0 @@
-textures
-textures/architecture
-textures/ground
-textures/outskirts
-textures/outskirts/hands
-textures/outskirts/ledge
-textures/outskirts/wall
-textures/shadow
-tgms

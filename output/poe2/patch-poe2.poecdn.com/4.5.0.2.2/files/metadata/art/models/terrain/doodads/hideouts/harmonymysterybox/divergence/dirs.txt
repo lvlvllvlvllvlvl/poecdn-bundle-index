@@ -1,2 +1,0 @@
-divergencecurios_model
-divergencecurios_model/fx

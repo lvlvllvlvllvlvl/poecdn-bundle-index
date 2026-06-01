@@ -1,0 +1,16 @@
+mat
+mat/burst
+mat/frostwall
+mat/power
+mat/rapid
+mat/siege
+pet
+pet/burst
+pet/frostwall
+pet/power
+pet/rapid
+pet/siege
+trl
+trl/power
+trl/rapid
+trl/siege

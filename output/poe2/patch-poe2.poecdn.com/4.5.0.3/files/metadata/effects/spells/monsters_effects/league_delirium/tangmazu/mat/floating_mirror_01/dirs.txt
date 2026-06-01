@@ -1,0 +1,7 @@
+beam
+chaos
+cold
+emerge
+fire
+lightning
+poison

@@ -1,5 +1,0 @@
-coastline
-fills
-islands
-mountains
-overlays

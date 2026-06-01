@@ -1,4 +1,0 @@
-attachments
-attachments/a
-attachments/b
-attachments/c

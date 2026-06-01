@@ -1,4 +1,0 @@
-arrowdown
-arrowdown_impact
-circleflame
-deathlyarrows

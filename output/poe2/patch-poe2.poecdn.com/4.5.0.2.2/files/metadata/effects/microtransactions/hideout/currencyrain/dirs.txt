@@ -1,8 +1,0 @@
-mat
-mat/high_tier
-mat/low_tier
-mat/mid_tier
-pet
-pet/high_tier
-pet/low_tier
-pet/mid_tier

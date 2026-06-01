@@ -1,0 +1,12 @@
+epk
+fx
+mat
+mat/abyss_lightning_ground
+mat/ground_trail
+mat/onact_emerge
+mat/onact_lightning_tendrils
+mat/pustule
+mat/pustule_explode
+mat/spawn_spores
+mat/zap_beam
+mat/zap_hit

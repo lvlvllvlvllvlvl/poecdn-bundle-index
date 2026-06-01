@@ -1,0 +1,6 @@
+fire
+fire/flame_vortex
+hellion
+hellion/flame_breath
+hellion/flame_breath/lava_pool
+hellion/flame_breath/lava_pool/new

@@ -1,9 +1,0 @@
-dromionley
-dromionley/textures
-greeneyes
-greeneyes/attachments
-greeneyes/attachments/blueeyes
-greeneyes/attachments/blueeyes/hair
-greeneyes/attachments/blueeyes/skirt
-greeneyes/attachments/blueeyes/skirt/baubles
-greeneyes/textures

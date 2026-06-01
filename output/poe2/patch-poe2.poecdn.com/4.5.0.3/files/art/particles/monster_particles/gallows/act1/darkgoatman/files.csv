@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+40b13a65dc5eb5d1,ring.mat,Tiny.VC,38908121,3814
+4db402ca64915717,ring_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/gallows/CDEE4CF934E4086A.458CE2223341B0CE.act_revive_midline.pet,848272,87556
+b107cf34b7b2f10c,ring_dxt5.dds.header,Tiny.VB,4337585,1520
+24ab8200858b31d0,black_ringfire_multi.mat,Tiny.VC,38906835,1286
+12f3c0389c85c44a,black_ringfire_multi_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/gallows/CDEE4CF934E4086A.458CE2223341B0CE.act_revive_midline.pet,563584,87556
+23baabe1ba491b7b,black_ringfire_multi_dxt5.dds.header,Tiny.VF,40296781,1520
+bfbaea9021f68720,fireball_flame_multi.mat,Tiny.VF,38677337,2112
+783e6d0669f3c2c5,fireball_flame_multi_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/gallows/CDEE4CF934E4086A.458CE2223341B0CE.act_revive_midline.pet,738696,87556
+9b8484ef21cbd765,fireball_flame_multi_dxt5.dds.header,Tiny.V7,35074912,1520
+b9691a1be7a656fd,fire_ring3_multi.mat,Tiny.V8,38321796,1134
+fa8d63691af184e5,fire_ring3_multi_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/gallows/CDEE4CF934E4086A.458CE2223341B0CE.act_revive_midline.pet,651140,87556
+deac2de40329cbbc,fire_ring3_multi_dxt5.dds.header,Tiny.V8,5586395,1520
+1d9c5761bea52669,point_release_add.mat,Tiny.VD,38805466,2396
+1db7a5800a944a20,point_release_add_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/gallows/CDEE4CF934E4086A.458CE2223341B0CE.act_revive_midline.pet,826252,22020
+20d1beb7d3e431b0,point_release_add_dxt5.dds.header,Tiny.VA,38861917,1520

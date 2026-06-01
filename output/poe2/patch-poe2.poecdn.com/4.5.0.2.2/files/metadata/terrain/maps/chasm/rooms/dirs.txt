@@ -1,4 +1,0 @@
-1x1
-abyss
-abyss/outer
-unique

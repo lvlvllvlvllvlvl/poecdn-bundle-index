@@ -1,4 +1,0 @@
-belltower
-gate
-tgms
-trap

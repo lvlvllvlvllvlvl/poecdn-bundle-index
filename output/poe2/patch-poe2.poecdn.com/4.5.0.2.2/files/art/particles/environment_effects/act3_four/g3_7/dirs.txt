@@ -1,5 +1,0 @@
-textures
-textures/brazier_fire
-textures/brazier_fire/mb
-textures/brazier_fire/textures
-textures/wicker_fire

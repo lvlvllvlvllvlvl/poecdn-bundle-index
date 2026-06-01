@@ -1,0 +1,6 @@
+primordialarenas
+primordialarenas/blackstararena
+primordialarenas/blackstararena/textures
+primordialarenas/primordialaltars
+primordialarenas/primordialaltars/vfx
+primordialarenas/primordialaltars/vfx/textures

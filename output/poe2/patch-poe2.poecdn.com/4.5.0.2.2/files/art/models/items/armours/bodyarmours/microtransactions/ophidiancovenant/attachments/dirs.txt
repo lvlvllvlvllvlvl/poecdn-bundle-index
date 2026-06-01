@@ -1,4 +1,0 @@
-skirt
-snakes
-snakes/snakechest
-snakes/snakeclav

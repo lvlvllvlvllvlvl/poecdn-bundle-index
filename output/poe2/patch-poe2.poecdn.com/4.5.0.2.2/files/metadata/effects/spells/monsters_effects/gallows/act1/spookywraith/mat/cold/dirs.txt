@@ -1,3 +1,0 @@
-eyeglow
-proj
-proj_explode

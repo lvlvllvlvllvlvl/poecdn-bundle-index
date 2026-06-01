@@ -1,5 +1,0 @@
-attachments
-attachments/book
-attachments/cape
-attachments/robe
-textures

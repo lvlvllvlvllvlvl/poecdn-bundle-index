@@ -1,4 +1,0 @@
-fx
-graph
-left
-right

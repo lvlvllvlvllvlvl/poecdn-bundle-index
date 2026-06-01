@@ -1,8 +1,0 @@
-anchorslam
-basic_slam
-ghostcannons
-soulmortar
-spinning_wheel
-summondrownedcrew
-summondrownedcrew_beam
-wave

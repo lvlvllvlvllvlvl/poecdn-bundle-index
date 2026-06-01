@@ -1,0 +1,12 @@
+mb
+mb/dark_storm
+mb/dual_strike_wave
+mb/on_act
+mb/on_act/crown_smoke
+mb/on_act/emerge_boss
+mb/on_act/teleport
+mb/smoke_telegraph
+mb/volatile
+mb/volatile_projectile
+tex
+tex/orb

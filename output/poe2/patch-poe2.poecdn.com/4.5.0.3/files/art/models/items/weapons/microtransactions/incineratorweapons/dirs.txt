@@ -1,0 +1,7 @@
+incineratorweapondagger
+incineratorweaponsbow
+incineratorweaponsceptre
+incineratorweaponstaff
+incineratorweaponsword1h
+incineratorweaponsword2h
+textures

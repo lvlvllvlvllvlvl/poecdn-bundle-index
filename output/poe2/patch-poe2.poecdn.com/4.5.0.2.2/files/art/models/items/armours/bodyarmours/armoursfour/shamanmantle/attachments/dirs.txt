@@ -1,8 +1,0 @@
-necklace
-skirt
-skirt/f
-skirt/f/lower_skirt
-skirt/f/top_skirt
-skirt/m
-skirt/m/lower_skirt
-skirt/m/top_skirt

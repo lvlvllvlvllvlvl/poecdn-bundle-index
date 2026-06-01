@@ -1,0 +1,9 @@
+attack_01
+attack_02
+dust_emit
+golem_alive
+slam1
+spinning_cutter
+spinning_cutter/charge_01
+spinning_cutter/charge_end_01
+spinning_cutter/charge_start_01

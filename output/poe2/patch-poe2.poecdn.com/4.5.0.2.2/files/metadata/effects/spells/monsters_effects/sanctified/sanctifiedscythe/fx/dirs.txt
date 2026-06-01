@@ -1,6 +1,0 @@
-onact
-onact/attack_01
-onact/attack_02
-onact/death_bwd_01
-slam_01
-slam_01b

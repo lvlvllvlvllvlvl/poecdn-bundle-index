@@ -1,0 +1,3 @@
+idle_on
+monster_affected
+turn_off

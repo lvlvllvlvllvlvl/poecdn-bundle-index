@@ -1,5 +1,0 @@
-attachments
-attachments/floatingarms
-attachments/hair
-attachments/skirt
-textures

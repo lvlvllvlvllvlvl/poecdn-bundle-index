@@ -1,4 +1,0 @@
-lunaris
-solaris
-solaris/grd
-viridi

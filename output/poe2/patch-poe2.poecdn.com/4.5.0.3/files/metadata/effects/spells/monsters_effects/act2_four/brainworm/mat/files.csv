@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+59b31e8f0c5bef8e,caustics.mat,Tiny.V9.1,86910822,1880
+43b4b3cc248e7d90,mblur_trl.mat,Tiny.V3.1,83458389,6472
+ce99f512d4db928f,mt_edge_trail_01.mat,Tiny.V8.1,84898308,10584
+cab417ce98a3897b,mt_smudge_trail_01.mat,Tiny.V8.1,84908892,12106
+ca3257be33fb2785,sand_hole_crk.mat,Tiny.VC.1,85275415,11918
+1f5f8b849404ab87,sandgrains_11x11.mat,Tiny.VC.1,85287333,3798
+35771a34f616d8b5,sandgrains04_11x11.mat,Tiny.VF.1,80805732,11792
+10faefd640022fda,blast.mat,Tiny.V2.1,84358706,5036
+6627d5e05998920d,blur_dust.mat,Tiny.V8.1,84885408,7638
+b3e235a77d1c3b20,blur_dust_emerge.mat,Tiny.V8.1,84885408,7638
+3203c168d336b449,dirt_impact.mat,Tiny.V8.1,84893046,5262
+a62315c1fb63214c,dirt_charge.mat,Tiny.VE.1,84381774,5120

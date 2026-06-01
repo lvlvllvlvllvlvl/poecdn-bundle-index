@@ -1,0 +1,35 @@
+hash,file,bundle,offset,size
+2db3f7de7756bc92,wolfskullc.mat,Tiny.V3,42530979,4778
+803ce548192a3e92,wolfskull_sss_dxt5.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt.4,1398276,1398276
+cd595affa64275fd,wolfskull_sss_dxt5.dds.header,Tiny.V8,42758890,1520
+9c57e3a1757b71ce,wolfskull_normal _dxt5.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt.4,0,1398276
+8602a180c53f86f2,wolfskull_normal _dxt5.dds.header,Tiny.V9.1,1368224,1520
+7539322a228803cc,wolfskull_colour_bc7.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt.3,1398424,1398276
+fe4c3e4ac42f5f6b,wolfskull_colour_bc7.dds.header,Tiny.V8,42757370,1520
+7dd9a1622642bddb,wolfskull_colour.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt.3,699212,699212
+455869a903a3a6cf,wolfskull_colour.dds.header,Tiny.V5,42833778,1520
+48b4b6d760f194ad,mudbonesburrow_1c.mat,Tiny.V6,43366417,3106
+b6ba78764b31d439,mudbonesburrow_1_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/leagues/65848387C56598B7.6675502E85ECBDED.laircap_01.ao.1,0,1398276
+00564b92b2607792,mudbonesburrow_1_normal_dxt5.dds.header,Tiny.V3,42529459,1520
+8e18b29ce446ec08,mudbonesburrow_1_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/leagues/65848387C56598B7.6675502E85ECBDED.laircap_01.ao,3539253,1398276
+0170d11dbc087ac4,mudbonesburrow_1_colour_bc7.dds.header,Tiny.VC,43604394,1520
+2b679a05153679c2,mudbonesburrow_1_colour.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt.3,0,699212
+e2ba53bd5084e526,mudbonesburrow_1_colour.dds.header,Tiny.V5,42835298,1520
+82a22f988ffea3eb,goatskullc.mat,Tiny.V4,43544725,3924
+63b6d5316531de35,goatskull_sss_dxt5.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt.1,0,1398276
+973b8a9769bb781c,goatskull_sss_dxt5.dds.header,Tiny.V7,43349244,1520
+b268b8f7ecd5085e,goatskull_normal_dxt5.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt,2097488,1398276
+4b57f1aee72c6049,goatskull_normal_dxt5.dds.header,Tiny.V9.1,1369744,1520
+47db740091e0f157,goatskull_colour_bc7.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt,699212,1398276
+f33691d5471ee5ae,goatskull_colour_bc7.dds.header,Tiny.VA,43479303,1520
+0b6b48b4a18faf17,goatskull_colour.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt,0,699212
+7e279cb1e8cfcd6d,goatskull_colour.dds.header,Tiny.VC,43602874,1520
+2c872c2048bc9974,gorillabonesc.mat,Tiny.V5,42828924,4854
+7eab10b0bed9b0dd,gorillabones_sss_dxt5.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt.2,1398276,1398276
+eb1c8d879584267e,gorillabones_sss_dxt5.dds.header,Tiny.VF,43258126,1520
+758980da5cb7817c,gorillabones_normal_dxt5.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt.2,0,1398276
+9a52debec4e93bbb,gorillabones_normal_dxt5.dds.header,Tiny.V5,42827404,1520
+a47167b049aa140f,gorillabones_colour_bc7.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt.1,2097488,1398276
+b656fd5298d0a8ad,gorillabones_colour_bc7.dds.header,Tiny.V2,43017666,1520
+e460117f4ab94498,gorillabones_colour.dds,Streaming/Content/art/models/terrain/woods/CD07F2665713E7D4.888D17B2C821EEC1.mudbones03.fmt.1,1398276,699212
+48e150fefb223e10,gorillabones_colour.dds.header,Tiny.VF,43256606,1520

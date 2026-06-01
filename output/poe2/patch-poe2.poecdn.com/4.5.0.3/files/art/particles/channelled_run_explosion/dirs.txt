@@ -1,0 +1,3 @@
+beam_02
+explosion_02
+teleport

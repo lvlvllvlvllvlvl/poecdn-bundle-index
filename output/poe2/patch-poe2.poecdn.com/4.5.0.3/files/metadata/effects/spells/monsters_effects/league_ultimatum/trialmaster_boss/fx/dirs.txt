@@ -1,0 +1,15 @@
+act
+arena_transition
+ground_slam_01
+ground_slam_02
+ground_slam_timestop
+heart
+melee_combo_01
+melee_combo_01/lacerates
+melee_combo_01/onact
+omega_marker
+omega_projectile
+onacts
+onacts/npc_start_trial_melee_01
+onacts/trails
+weapon_onground

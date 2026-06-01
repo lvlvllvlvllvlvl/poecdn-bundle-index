@@ -1,5 +1,0 @@
-mat
-mat/blood_aura
-mat/blood_explosion
-mat/blood_surge
-mat/blood_trail

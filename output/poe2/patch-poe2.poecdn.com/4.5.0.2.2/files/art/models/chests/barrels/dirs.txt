@@ -1,4 +1,0 @@
-buriedbarrels
-generalbarrels
-generalbarrels/textures
-textures

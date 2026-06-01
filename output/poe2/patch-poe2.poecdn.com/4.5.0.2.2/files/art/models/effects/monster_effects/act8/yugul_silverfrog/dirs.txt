@@ -1,5 +1,0 @@
-cold_mortar
-cold_mortar/projectile
-mercuryburst
-mercuryburst/explo
-statue_room_pulse

@@ -1,3 +1,0 @@
-charge_up
-chunk
-impact

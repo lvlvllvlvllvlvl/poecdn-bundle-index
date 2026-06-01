@@ -1,3 +1,0 @@
-portal_fx
-textures
-textures/fx

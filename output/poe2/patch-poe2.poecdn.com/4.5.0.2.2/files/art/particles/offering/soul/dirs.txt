@@ -1,7 +1,0 @@
-celestial
-celestial/bone
-celestial/bone/texture
-celestial/bone/trl
-celestial/flesh
-celestial/flesh/texture
-celestial/flesh/trl

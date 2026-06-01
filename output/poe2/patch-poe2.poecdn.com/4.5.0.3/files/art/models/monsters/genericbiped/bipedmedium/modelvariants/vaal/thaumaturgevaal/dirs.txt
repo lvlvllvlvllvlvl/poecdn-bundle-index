@@ -1,0 +1,6 @@
+attachments
+attachments/01mask
+attachments/01skirt
+attachments/02headdress
+attachments/02shawl
+attachments/02skirt

@@ -1,0 +1,7 @@
+front_cloth
+skirt_dex
+skirt_dexint
+skirt_int
+skirt_str
+skirt_strdex
+skirt_strint

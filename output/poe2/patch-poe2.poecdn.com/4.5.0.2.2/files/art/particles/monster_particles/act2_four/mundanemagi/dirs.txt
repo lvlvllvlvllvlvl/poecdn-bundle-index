@@ -1,4 +1,0 @@
-models
-models/on_act
-models/on_act/censer_light
-textures

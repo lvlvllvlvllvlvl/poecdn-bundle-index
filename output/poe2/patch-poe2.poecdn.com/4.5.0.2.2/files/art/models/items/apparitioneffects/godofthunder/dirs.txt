@@ -1,6 +1,0 @@
-attachments
-attachments/hammer
-attachments/robe
-attachments/spike
-fx
-textures

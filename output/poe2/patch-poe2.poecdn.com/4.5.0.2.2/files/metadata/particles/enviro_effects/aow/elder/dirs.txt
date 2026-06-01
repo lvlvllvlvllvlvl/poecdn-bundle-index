@@ -1,2 +1,0 @@
-elder_portal
-memory_fragment

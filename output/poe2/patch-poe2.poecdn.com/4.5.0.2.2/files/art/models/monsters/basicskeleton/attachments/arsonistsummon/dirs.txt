@@ -1,4 +1,0 @@
-mantle
-mantle/textures
-sack
-skirt

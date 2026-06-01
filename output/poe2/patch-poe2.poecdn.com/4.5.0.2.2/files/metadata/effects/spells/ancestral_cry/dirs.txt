@@ -1,5 +1,0 @@
-kaom
-kaom/attachments
-kaom/attachments/armour
-kaom/attachments/necklace
-kaom/attachments/skirt

@@ -1,2 +1,0 @@
-synthesis_world
-synthesis_world/graphs

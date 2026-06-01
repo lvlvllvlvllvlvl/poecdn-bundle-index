@@ -1,5 +1,0 @@
-blue_laser
-ice_shoot
-incaboss fallingrocks
-summon_shoot
-teleport

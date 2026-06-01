@@ -1,0 +1,7 @@
+mb
+mb/belt_rig
+mb/impact_absorb_rig
+mb/impact_absorb_secondary_rig
+mb/town_shield_rig
+mb/town_shield_rig2
+textures

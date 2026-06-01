@@ -1,8 +1,0 @@
-ezomytevictim
-karuicarving
-precursorweapons
-precursorweapons/precursorcleaver
-precursorweapons/precursormaul
-precursorweapons/precursororb
-precursorweapons/precursorraptor
-precursorweapons/precursorscepter

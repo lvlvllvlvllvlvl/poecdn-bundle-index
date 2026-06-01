@@ -1,0 +1,7 @@
+delirium
+ghostflame
+ghostflame/blunt
+stygian
+stygian/pierce
+stygian/slash
+verisium

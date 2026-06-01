@@ -1,0 +1,12 @@
+bossimages
+french
+german
+itemattachments
+japanese
+korean
+portugese
+russian
+simplified chinese
+spanish
+thai
+traditional chinese

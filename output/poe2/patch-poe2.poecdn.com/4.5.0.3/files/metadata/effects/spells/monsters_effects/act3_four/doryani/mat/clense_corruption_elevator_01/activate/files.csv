@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+ee24330205e406bc,vaalpulse_glow_shockwave_r.mat,Tiny.VA.1,93257056,37782
+0f0844a7b7f3ed26,vaalpulse_glow_shockwave_u.mat,Tiny.VD.1,5313278,346
+54bab378596b9a22,vaalpulse_glowring_02_r.mat,Tiny.V5.1,94140520,35584
+32f0661a5fa0b4bc,vaalpulse_glowring_02_u.mat,Tiny.VD.1,5313278,346
+f867cf8f4077b60a,vaalpulse_glowring_01_r.mat,Tiny.V1.1,93180022,48690
+5d65a9da59d3dd79,vaalpulse_glowring_01_u.mat,Tiny.VD.1,5313278,346
+3f20d52c3951653e,mblur_sphere_r.mat,Tiny.V8.1,94768464,8690
+d0931bf3e6aebef3,mblur_sphere_u.mat,Tiny.VD.1,5313278,346
+60886889ec20cd33,zoom_distort_r.mat,Tiny.V8.1,94777154,10902
+fda49f31c2c4b7f0,zoom_distort_u.mat,Tiny.VD.1,5313278,346

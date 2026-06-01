@@ -1,5 +1,0 @@
-hoodedmentor
-hoodedmentor/mb
-hoodedmentor/mb/shadow_beam
-models
-textures

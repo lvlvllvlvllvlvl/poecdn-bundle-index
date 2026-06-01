@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+15a77dca30fe7e91,oa_shimmerwave_01_r.mat,Tiny.V6.1,23667643,20888
+077c286ef70c3fe5,oa_glow_spike_01_r.mat,Tiny.VD.1,25388344,27368
+96a23a0645740179,oa_dirt_spike_01_u.mat,Tiny.V5.1,25786860,19476
+9d6b5d747c9f3e60,pntemit_forcegrd_u.mat,Tiny.V5.1,4569764,576
+698ad168de6b52de,ptemit_u.mat,Tiny.VD.1,5313278,346
+992cf6de5bb482c1,ptemit_infinite_u.mat,Tiny.V7.1,5363518,576
+0fd6aaa9b1438c88,smi_zoom_distort_2_r.mat,Tiny.VE.1,24265558,6586
+7bfdd8e096b97a74,smi_dirt_spike_01_r.mat,Tiny.V6.1,23710941,32766
+3851ad58e1427d1f,smi_dirt_spike_02_u.mat,Tiny.V8.1,25753190,16634
+847ebe84679f50e6,smi_dirt_at_01_r.mat,Tiny.V6.1,23688531,22410
+bf179781aea4e4e3,smi_dirt_at_01_u.mat,Tiny.V8.1,25742664,10526
+cca73e3c8e400b87,smi_crk_01_r.mat,Tiny.V9.1,26296900,48494
+70219c1ec144df6a,smi_caustics_r.mat,Tiny.VD.1,25415712,6560
+dc7bf428afa73c9c,smi_sphere_distortion_r.mat,Tiny.VE.1,24258814,6744
+e2825893f10b6b5d,smi_smoke_shockwave_r.mat,Tiny.V1.1,23100136,17982

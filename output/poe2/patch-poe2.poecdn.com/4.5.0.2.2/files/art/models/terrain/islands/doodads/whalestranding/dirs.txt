@@ -1,5 +1,0 @@
-textures
-textures/elephantseal
-textures/seacreatures
-textures/strandingbones
-textures/whales

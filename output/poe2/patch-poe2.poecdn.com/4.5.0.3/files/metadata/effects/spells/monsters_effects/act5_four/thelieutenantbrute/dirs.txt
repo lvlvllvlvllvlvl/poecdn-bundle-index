@@ -1,0 +1,11 @@
+attachments
+fx
+fx/shield_crush
+fx/shield_throw
+fx/shield_throw/flying
+fx/shield_throw/impact
+fx/shield_wave
+fx/sunder
+mat
+mat/shield
+mat/sunder

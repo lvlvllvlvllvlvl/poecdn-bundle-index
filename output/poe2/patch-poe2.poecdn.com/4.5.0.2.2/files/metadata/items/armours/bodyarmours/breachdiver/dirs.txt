@@ -1,7 +1,0 @@
-attachments
-attachments/shawls
-attachments/skirts
-breachdiverb
-breachdiverb/attachments
-breachdiverb/attachments/shawls
-breachdiverb/attachments/skirts

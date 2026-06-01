@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+0c54f5fbaeac895d,melee_swipe_smudge.mat,Tiny.V8.1,85034500,19504
+20b4a86b665b247b,melee_swipe_mblur.mat,Tiny.V6.1,84224631,18390
+1630fe4f2c84e55d,melee_swipe_edge.mat,Tiny.VF.1,81002600,21312
+01c409e9b63b76a3,kickup_smoke_r.mat,Tiny.V2.1,143311882,35404
+72a949dd630bb775,kickup_smoke_u.mat,Tiny.VB.1,83379467,19680
+465ec7aa901349f2,stab_mblur_r.mat,Tiny.V9.1,87176366,19654
+cefa1991c64d0011,stab_dir_r.mat,Tiny.V4.1,83219476,23458
+15ede09a1735fdf4,stab_dir_u.mat,Tiny.V3.1,83588349,13392
+dce2adad4c99168f,smokewave_r.mat,Tiny.V9.1,142795934,33504
+4ec9bf6ffd9f0524,smokewave_u.mat,Tiny.V9.1,142829438,3948
+65f546e57fccb983,grdstep_rocks_r.mat,Tiny.V6.1,140567399,8094
+1f8b8c667b8c610b,grdstep_rocks_u.mat,Tiny.VD.1,83051140,13198

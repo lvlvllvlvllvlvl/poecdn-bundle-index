@@ -1,8 +1,0 @@
-attachments
-attachments/lshoulder
-attachments/robe
-attachments/robeleather
-attachments/robem
-attachments/robemleather
-attachments/rshoulder
-textures

@@ -1,7 +1,0 @@
-hash,file,bundle,offset,size
-0a9c8331e414bdeb,geovolcano_lod0.fmt,Streaming/Content/metadata/monsters/saltgolem/rattlecagevolcano.ot,0,114696
-7ab343d7043d5433,geovolcano_lod0.fmt.header,Tiny.VE,34246028,208
-b4e991393f9e8feb,volcanodestructable.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/2BC74FC430E2EC26.93EAD1EC3702AC5F.volcanocrumble.pet,0,255474
-a0d5c44727eaf9cf,volcanodestructable.fmt.header,Tiny.VD,40575373,208
-461591f487bef61e,volcanomeshes.amd,Tiny.V9,40873562,104
-1bea132b2c86fb5f,volcanomeshes.ast,Tiny.VB,40683784,424

@@ -1,0 +1,10 @@
+animation
+animation/act4boss
+animation/simulacrum
+attachments
+attachments/bell
+attachments/wings
+fx
+fx/mb
+fx/texture
+textures

@@ -1,7 +1,0 @@
-attachments
-attachments/skirt
-attachments/skirtupper
-attachments/skirtupperstr
-attachments/tasslesfemale
-attachments/tasslesmale
-textures

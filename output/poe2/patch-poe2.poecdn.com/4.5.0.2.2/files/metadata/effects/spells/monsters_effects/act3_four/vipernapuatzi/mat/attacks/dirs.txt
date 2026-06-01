@@ -1,3 +1,0 @@
-spear_attack_01
-spear_attack_jump_01
-spear_thrust

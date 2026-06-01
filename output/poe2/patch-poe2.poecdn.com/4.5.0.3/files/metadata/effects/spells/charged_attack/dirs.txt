@@ -1,0 +1,7 @@
+channelling
+charge_up
+maxed_out
+release
+release_max
+spirit_slash
+surge

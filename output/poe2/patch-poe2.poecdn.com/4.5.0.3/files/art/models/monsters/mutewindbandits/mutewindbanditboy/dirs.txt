@@ -1,0 +1,7 @@
+attachments
+attachments/mutewindbanditboyheadpiece
+attachments/mutewindbanditboynecklace
+attachments/mutewindbanditboyrobefront
+attachments/mutewindbanditboyrobemain
+attachments/weapon
+attachments/weapon/weapon

@@ -1,6 +1,0 @@
-f
-f/collar
-f/skirt
-m
-m/collar
-m/skirt

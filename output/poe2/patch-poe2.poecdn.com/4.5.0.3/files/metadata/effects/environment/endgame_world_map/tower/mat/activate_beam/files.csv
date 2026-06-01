@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+eadc177bb3bedd81,beam_core_01_u.mat,Tiny.VD.1,5313278,346
+c54ca3f2e98861b0,beam_core_01_r.mat,Tiny.VE.1,8472596,62560
+f8da3cd83c51c55f,beam_core_01_r1.mat,Tiny.V2.1,7958098,62168
+77dfbdc794409208,beam_mainbolt_01_r.mat,Tiny.V5.1,8018992,44526
+f5dca91274a3ffc7,beam_mainbolt_01_u.mat,Tiny.VB.1,117535073,4514
+fc1751e6fde2e597,gather_sphereblur_01_r.mat,Tiny.V2.1,8020266,21086
+35c8b05edc1b126a,gather_sphereblur_01_u.mat,Tiny.VD.1,5313278,346
+10e693bc86a911a7,gather_core_01_r.mat,Tiny.V4.1,7381884,38306
+4dd9d1c63464448e,gather_core_01_u.mat,Tiny.V8.1,8629382,3944
+e829ece6c86fa198,gather_crackle_01_r.mat,Tiny.V5.1,8862474,31196
+4ca7c481c0f5651e,gather_crackle_01_u.mat,Tiny.VE.1,9384456,2740
+fcc7fb9543d114b2,gather_buildshimmer_01_r.mat,Tiny.V7.1,8493632,12984
+7cc276ca20455abb,gather_buildshimmer_01_u.mat,Tiny.V9.1,155534810,1140
+538dbb9faafbfde6,gather_buildcore_01_r.mat,Tiny.VB.1,7165549,65148
+15ba611d5067fef0,gather_buildcore_01_u.mat,Tiny.V9.1,4534116,1140

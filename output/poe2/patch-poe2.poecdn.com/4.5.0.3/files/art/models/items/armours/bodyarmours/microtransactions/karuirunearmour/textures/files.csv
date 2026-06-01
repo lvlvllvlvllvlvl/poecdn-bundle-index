@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+6c9715c16d32cdb8,karuibodyc.mat,Tiny.V5,9251878,7706
+803286f5b81732c6,karuibody_glow_dxt1.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.C30660F4CCD913B5.karuibodyfemale.fmt,699212,699212
+cdc7165cd78087c5,karuibody_glow_dxt1.dds.header,Tiny.V0,9670796,1520
+cfa14ad9c4b23929,karuibody_normal_dxt5.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.C30660F4CCD913B5.karuibodyfemale.fmt,2796848,1398276
+90818facd3ff1759,karuibody_normal_dxt5.dds.header,Tiny.V5,9250358,1520
+132aa709dd3bc83d,karuibody_mask_dxt1.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.C30660F4CCD913B5.karuibodyfemale.fmt,1398424,699212
+a8a97e6823d8add7,karuibody_mask_dxt1.dds.header,Tiny.VF,9512589,1520
+155be719e153f5b1,karuibody_metal_dxt1.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.C30660F4CCD913B5.karuibodyfemale.fmt,2097636,699212
+ea77a2fc0182b4da,karuibody_metal_dxt1.dds.header,Tiny.VC,9374982,1520
+03180f2b17f7795e,karuibody_colour_dxt1.dds,Streaming/Content/art/models/items/armours/216F327D24F90E9D.C30660F4CCD913B5.karuibodyfemale.fmt,0,699212
+0f9731f6e7b41f37,karuibody_colour_dxt1.dds.header,Tiny.V6,9558020,1520

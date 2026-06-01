@@ -1,4 +1,0 @@
-ledge
-outer
-shoreline
-unwalkableshoreline

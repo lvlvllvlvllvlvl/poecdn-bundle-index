@@ -1,3 +1,0 @@
-coinpilelarge
-coinpilemedium
-coinpilesmall

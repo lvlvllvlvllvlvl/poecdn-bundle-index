@@ -1,7 +1,0 @@
-muzzle
-rock
-seige_bolt
-seige_bolt_trail
-siege_bolts
-siege_explosion
-siege_impact

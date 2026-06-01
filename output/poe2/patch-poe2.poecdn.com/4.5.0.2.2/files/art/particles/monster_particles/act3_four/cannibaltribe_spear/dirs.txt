@@ -1,3 +1,0 @@
-mbs
-mbs/spear_proj
-tex

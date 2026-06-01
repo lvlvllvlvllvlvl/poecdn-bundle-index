@@ -1,6 +1,0 @@
-attachments
-attachments/dagger
-attachments/feather_loincloth
-attachments/pouch
-attachments/robe
-textures

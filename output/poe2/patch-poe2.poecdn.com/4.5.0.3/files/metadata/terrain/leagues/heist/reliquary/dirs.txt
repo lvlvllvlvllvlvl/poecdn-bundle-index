@@ -1,0 +1,5 @@
+objects
+objects/beambridge_long
+tiles
+tiles/doors
+tiles/doors/vault

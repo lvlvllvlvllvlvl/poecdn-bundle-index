@@ -1,2 +1,0 @@
-claw_hit
-claw_projectile

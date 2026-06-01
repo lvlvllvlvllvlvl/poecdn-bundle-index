@@ -1,0 +1,9 @@
+attachments
+attachments/gunpowderpiratebackattachment
+attachments/gunpowderpiratebarrel
+attachments/gunpowderpiratebomb
+attachments/gunpowderpiratehair
+attachments/gunpowderpirateopenbarrel
+attachments/gunpowderpiratescarf
+attachments/gunpowderpirateskirt
+attachments/gunpowderpiratetorch

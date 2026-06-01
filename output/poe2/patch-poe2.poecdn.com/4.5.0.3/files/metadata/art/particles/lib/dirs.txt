@@ -1,0 +1,4 @@
+jav
+jav/textures
+jav/textures/others
+jav/textures/others/placeholders

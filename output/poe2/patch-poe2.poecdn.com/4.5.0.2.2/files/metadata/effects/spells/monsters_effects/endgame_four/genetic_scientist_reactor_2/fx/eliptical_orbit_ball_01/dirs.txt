@@ -1,2 +1,0 @@
-fadein_anim_01
-loop_01_anim

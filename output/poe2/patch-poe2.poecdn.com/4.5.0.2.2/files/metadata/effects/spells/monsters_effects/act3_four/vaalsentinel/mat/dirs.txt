@@ -1,4 +1,0 @@
-death_01
-death_01_gold
-death_grd
-death_poof

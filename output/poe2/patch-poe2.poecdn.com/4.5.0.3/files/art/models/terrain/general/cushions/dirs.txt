@@ -1,0 +1,7 @@
+textures
+textures/bolster
+textures/bolster/base
+textures/square
+textures/square/base
+textures/square/cotton
+textures/square/cotton/basic

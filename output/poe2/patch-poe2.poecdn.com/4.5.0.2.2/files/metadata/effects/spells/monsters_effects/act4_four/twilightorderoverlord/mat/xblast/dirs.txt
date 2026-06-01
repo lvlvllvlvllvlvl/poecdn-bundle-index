@@ -1,4 +1,0 @@
-central
-rock_emerge
-rock_raise
-surge

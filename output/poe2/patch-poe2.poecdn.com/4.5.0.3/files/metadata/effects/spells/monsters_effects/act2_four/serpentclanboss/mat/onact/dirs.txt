@@ -1,0 +1,7 @@
+attack_01_02
+emerge_01
+emerge_02
+spellcast_projectile_01
+spin_detonate_01
+summon_channel_01
+tail_whip_01

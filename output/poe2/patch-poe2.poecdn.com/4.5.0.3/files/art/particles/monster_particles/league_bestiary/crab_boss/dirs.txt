@@ -1,0 +1,12 @@
+burrow
+burrow/emerge
+burrow/submerge
+burrow/travel
+geysers
+geysers/effects
+roar
+roar/wave
+rockfall
+roll
+roll/impact
+slam

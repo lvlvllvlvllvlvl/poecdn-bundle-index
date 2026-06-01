@@ -1,0 +1,9 @@
+esh
+esh_sideline
+esh_ultimate
+tul
+tul_sideline
+tul_ultimate
+wildbreachboss
+xeshtboss
+xeshtboss_midfight

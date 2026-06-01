@@ -1,7 +1,0 @@
-graphs
-rooms
-rooms/creek
-rooms/fill
-rooms/overlays
-rooms/woods
-tiles

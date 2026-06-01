@@ -1,0 +1,7 @@
+epk
+fx
+mat
+mat/buildup
+mat/lightning_line
+mat/tip_impact
+mat/weapon_lightning

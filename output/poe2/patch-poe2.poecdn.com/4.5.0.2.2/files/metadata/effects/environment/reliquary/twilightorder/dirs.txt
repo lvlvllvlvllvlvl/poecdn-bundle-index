@@ -1,6 +1,0 @@
-fx
-graph
-mat
-mat/buildup
-mat/burst
-mat/idle

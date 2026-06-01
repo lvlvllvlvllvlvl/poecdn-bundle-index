@@ -1,0 +1,12 @@
+explodables
+explodables/fx
+explodables/mat
+explodables/mat/kalguurbossentrancecap_01
+explodables/mat/kalguurcap_01
+explodables/mat/sirencap_01
+explodables/mat/volcanocap_01
+fx
+graphs
+mat
+mat/beast_skin
+mat/ghost_flames

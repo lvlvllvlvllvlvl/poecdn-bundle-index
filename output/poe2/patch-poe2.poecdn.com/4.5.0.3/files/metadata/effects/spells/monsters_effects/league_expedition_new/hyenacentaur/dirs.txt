@@ -1,0 +1,6 @@
+epks
+fx
+mat
+mat/act_windgather
+mat/spear_impact
+mat/spearprojectile

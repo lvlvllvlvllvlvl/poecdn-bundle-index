@@ -1,3 +1,0 @@
-models
-models/slam_impact
-textures

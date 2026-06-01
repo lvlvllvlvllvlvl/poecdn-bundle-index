@@ -1,3 +1,0 @@
-cold_super_nova_projectiles
-cold_super_nova_projectiles/animations
-ice_breath

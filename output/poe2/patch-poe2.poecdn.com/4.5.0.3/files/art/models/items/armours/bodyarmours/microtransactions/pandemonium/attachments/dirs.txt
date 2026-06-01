@@ -1,0 +1,5 @@
+female
+female/hair
+female/skirt
+male
+male/skirt

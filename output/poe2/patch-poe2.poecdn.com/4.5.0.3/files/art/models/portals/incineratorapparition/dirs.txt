@@ -1,0 +1,11 @@
+textures
+thecleansingfireboss
+thecleansingfireboss/animations
+thecleansingfireboss/animations/smallmapdevice
+thecleansingfireboss/attachments
+thecleansingfireboss/attachments/cloak
+thecleansingfireboss/attachments/hanger
+thecleansingfireboss/attachments/sigils
+thecleansingfireboss/attachments/sigils/light_attachment
+vfx
+vfx/textures

@@ -1,0 +1,9 @@
+onact
+onact/attack_01_02
+onact/summon
+onact/summon/beam
+onact/summon/channel
+pot
+skeletonsnake
+submerge
+vulnerability_rune

@@ -1,0 +1,10 @@
+arena_orb_projectile_01
+arena_orb_projectile_01/animations
+basic_proj
+basic_proj/animations
+chaos_delayed_blast
+eliptical_orbit_ball_01
+eliptical_orbit_ball_01/animations
+gibs
+rainingproj_range
+scorching_ray_01

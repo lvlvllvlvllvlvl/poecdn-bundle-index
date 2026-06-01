@@ -1,7 +1,0 @@
-fx
-mat
-mat/mortar
-mat/onact_channelpalm
-mat/onact_lightning_ball
-mat/ondeath_emp_explosion
-mat/orb

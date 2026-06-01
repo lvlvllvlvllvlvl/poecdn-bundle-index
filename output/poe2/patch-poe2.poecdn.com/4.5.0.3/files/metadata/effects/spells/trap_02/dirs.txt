@@ -1,0 +1,10 @@
+fire
+fire/flame_thrower
+ice_siphon
+lightning
+mechanism
+shrapnel
+shrapnel/main_explosion
+shrapnel/secondary_explosion
+subterranean
+trap_trigger_fx

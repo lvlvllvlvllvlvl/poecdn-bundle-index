@@ -1,6 +1,0 @@
-digsite
-kalguuran
-kalguuran/mb
-kalguuran/mb/town
-kalguuran/tex
-prison

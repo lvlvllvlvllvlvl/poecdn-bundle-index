@@ -1,3 +1,0 @@
-lightning_epk
-lightning_frenzy
-lightning_hit_fx

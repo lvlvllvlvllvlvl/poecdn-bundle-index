@@ -1,0 +1,5 @@
+batteryshell
+life
+life/pet
+mana
+mana/pet

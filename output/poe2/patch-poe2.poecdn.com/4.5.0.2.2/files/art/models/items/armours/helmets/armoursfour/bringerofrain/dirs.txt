@@ -1,5 +1,0 @@
-attachments
-attachments/borfeathers
-attachments/skirt
-attachments/tassels
-textures

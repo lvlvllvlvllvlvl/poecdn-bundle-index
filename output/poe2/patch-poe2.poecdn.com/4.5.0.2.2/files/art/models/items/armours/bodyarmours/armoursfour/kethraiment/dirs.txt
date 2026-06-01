@@ -1,6 +1,0 @@
-attachments
-attachments/fem_chains
-attachments/male_chains
-attachments/robe
-attachments/robe_chains
-textures

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+c89e1a5f078e8d12,grd_float_debris_r.mat,Tiny.VD.1,126675232,24084
+fa9c0ee7ac104405,grd_float_debris_u.mat,Tiny.V2.1,129770662,34250
+0874db890d87ed8f,grd_kickup_debris_u.mat,Tiny.VA.1,126639874,12048
+009bfc313face937,grd_kickup_dust_r.mat,Tiny.V8.1,127265042,30376
+5841a2d35314a799,grd_kickup_dust_u.mat,Tiny.V9.1,128724364,11906
+7bb68f3fdccdb7bd,debris_orbit_u.mat,Tiny.V5.1,126409680,14568
+1ff36a32bd5304a9,debris_rumble_r.mat,Tiny.V6.1,125719829,23280
+9b6567d7612f7ee7,debris_rumble_u.mat,Tiny.VF.1,123823922,8998
+d02eff6fac94f9f2,beaming_halfsphere_r.mat,Tiny.V8.1,127050654,60502
+c495832591272a57,beaming_halfsphere_u.mat,Tiny.V3.1,59459591,1140
+18ef5d7df6846bbb,core_flare_r.mat,Tiny.V7.1,124007554,18762
+311208daf259f33c,core_flare_u.mat,Tiny.V3.1,59459591,1140
+020387c7935cecd0,mblur_sphere_r.mat,Tiny.V8.1,128959862,11332
+48bc683807ffee35,mblur_sphere_u.mat,Tiny.V3.1,59459591,1140
+bdb6c9e6e7a9eda9,wispy_flare_r.mat,Tiny.V3.1,126604325,49428
+655a33233460c9d2,wispy_flare_u.mat,Tiny.V3.1,59459591,1140

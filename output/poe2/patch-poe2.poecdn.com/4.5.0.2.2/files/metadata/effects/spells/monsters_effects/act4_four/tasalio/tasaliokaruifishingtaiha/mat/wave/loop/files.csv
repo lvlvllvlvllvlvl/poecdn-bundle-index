@@ -1,7 +1,0 @@
-hash,file,bundle,offset,size
-b44a289b0b929fe8,crashingfoam_r.mat,Tiny.V9.1,109632952,34906
-c9489225bac39ae8,crashingfoam_u.mat,Tiny.VE.1,106771834,10032
-e955dc6840c3f691,mblur_sphere_r.mat,Tiny.V2.1,108588132,16538
-bebf1405aee2651e,mblur_sphere_u.mat,Tiny.V5.1,106728146,5124
-7bc7f067c2286c8f,water_sphere_r.mat,Tiny.V0.1,106545496,53138
-ceff6d34eef402f0,water_sphere_u.mat,Tiny.V8.1,106270376,12012

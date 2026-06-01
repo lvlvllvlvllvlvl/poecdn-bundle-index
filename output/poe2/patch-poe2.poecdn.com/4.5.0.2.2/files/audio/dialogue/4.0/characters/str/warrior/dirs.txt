@@ -1,5 +1,0 @@
-warrior_apparition
-warrior_convo
-warrior_gameplay
-warrior_skills
-warrior_wild

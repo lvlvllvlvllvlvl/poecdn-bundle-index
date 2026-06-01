@@ -1,0 +1,8 @@
+hairstyles
+hairstyles/default
+hairstyles/tight
+outfits
+outfits/attachments
+outfits/attachments/bodynecklace
+outfits/attachments/necklace
+outfits/attachments/skirt

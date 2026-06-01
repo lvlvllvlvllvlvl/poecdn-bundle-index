@@ -1,0 +1,6 @@
+mutewindbanditboyheadpiece
+mutewindbanditboynecklace
+mutewindbanditboyrobefront
+mutewindbanditboyrobemain
+weapon
+weapon/weapon

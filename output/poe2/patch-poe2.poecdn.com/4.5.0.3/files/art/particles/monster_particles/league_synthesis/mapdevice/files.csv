@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+c3ef1b8a0e10a83c,neuron_04_8x8.mat,Tiny.V4,40631397,1950
+aeaf43833db55bd6,neuron_04_8x8_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/2105BECCBE98DE6D.0C16669B128F29A0.orb_midline.pet,349700,2796364
+58fa9acdfb4a5907,neuron_04_8x8_dxt1.dds.header,Tiny.VB,40750950,1520
+35aa9fd34c45d8ab,fractal_tile.mat,Tiny.V3,39797953,1524
+b2a8fdb60e279d5d,fractal_tile_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/2105BECCBE98DE6D.0C16669B128F29A0.orb_midline.pet,0,349700
+e5e4580723a6e38d,fractal_tile_dxt5.dds.header,Tiny.V1,47605655,1520
+42d7ef1c7bdae75d,shockwave_solid.mat,Tiny.VA,40643055,1620
+2469e7f77258a343,shockwave_solid_dxt1.dds,Tiny.V9,4005860,332
+74248a19ba9031be,shockwave_solid_dxt1.dds.header,Tiny.V2,4245841,1520
+79767b551d700596,shockwave_blade_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/E46749CC2AF6D08B.5E54B88F1615B4CF.cold_soulrend_beam_main.trl,297135,87556
+8489ef6c6fbf0dd5,shockwave_blade_dxt5.dds.header,Tiny.V5,37508264,1520

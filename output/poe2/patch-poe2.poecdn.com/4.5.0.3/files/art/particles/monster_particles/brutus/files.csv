@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+9b674360d43cf723,red_wisps.dds,Streaming/Content/metadata/effects/microtransactions/spells/B800FB846E70DB35.1F1474172EB78B85.kickup.pet,393912,87556
+bbf2b96626afa2e0,red_wisps.dds.header,Tiny.V8,38219500,1520
+e61a03fb9d2555a0,blood.dds,Streaming/Content/metadata/particles/monster_effects/79A352FD52320D12.poisonground.pet,290356,22020
+ee8c11eb8c59ce89,blood.dds.header,Tiny.V7,35424642,1520
+a3d8d50916bbeb67,bloodbit_2.mat,Tiny.VE,38062449,1004
+86b16975c3cd5517,bloodbit_2.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.929D6C7E8F67A46C.melee.trl,525172,22020
+38432545e7ed4a35,bloodbit_2.dds.header,Tiny.V8,38217980,1520
+68bc4d8582f7be72,blood_splat.mat,Tiny.VF,38555791,2414
+17e3b487f8b56485,blood_splatnblood_splat_specs.dds,Streaming/Content/data/balance/worldareas/g1_7.vworld.1,0,349700
+f5619affbacaa832,blood_splatnblood_splat_specs.dds.header,Tiny.VA,38767408,1520
+2ac8ffd9ec1fdd46,blood_splat_colour.dds,Streaming/Content/data/worldareas/AC/c_g1_5.vworld,394150,349700
+1de3072f8e7ca3a6,blood_splat_colour.dds.header,Tiny.V3,37976617,1520
+b68bad746c5e7d6b,bloodmist.mat,Tiny.VC,38801198,974
+db793a43d1d39526,bloodmist.dds,Streaming/Content/metadata/particles/shapers_presence/fadein.pet,634388,87556
+b83d6ec355b723b8,bloodmist.dds.header,Tiny.VB,6410579,1520

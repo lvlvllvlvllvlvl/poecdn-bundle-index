@@ -1,9 +1,0 @@
-attachments
-attachments/graverobber01
-attachments/graverobber01/dangles
-attachments/graverobber01/headdangles
-attachments/graverobber01/legdangles
-attachments/graverobber02
-attachments/graverobber02/dangles
-attachments/graverobber02/headdangles
-textures

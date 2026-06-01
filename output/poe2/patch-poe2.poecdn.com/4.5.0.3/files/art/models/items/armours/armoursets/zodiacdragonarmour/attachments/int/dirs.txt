@@ -1,0 +1,7 @@
+bells
+cape
+chainboots
+chaingloves
+chainskirt
+ringsgloves
+skirt

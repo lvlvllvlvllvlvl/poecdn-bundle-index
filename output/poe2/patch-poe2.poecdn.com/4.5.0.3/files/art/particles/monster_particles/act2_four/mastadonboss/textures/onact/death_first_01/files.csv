@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+ca97128b2d82b522,embers_render.mat,Tiny.V3,35716515,6668
+4be56421c2638d57,trl_main.mat,Tiny.V9,36665675,9966
+d50bc8559d275ee4,grd_smoke_render.mat,Tiny.V7,36175231,14502
+e5d423d9da3de4c2,grd_smoke_update.mat,Tiny.VA,36381783,802
+1da1dc97b29bb26f,grd_smoke_02_render.mat,Tiny.V3,35723183,15152
+ea0cfa315963f52e,smoke_whisp_render.mat,Tiny.V0,36511602,8986
+e00b2b08b43d6ec3,smoke_whisp_update.mat,Tiny.V2,36140189,1212
+5f9f251f4878f88b,skin_mask_bc7.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.4DB366A3A65AC079.shadow_skin_idle.epk,0,5592580
+12886f2ad4518d10,skin_mask_bc7.dds.header,Tiny.VB,36454211,1520
+c41a62b4ec82329c,substance_graph_runes_out_bc7.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.4DB366A3A65AC079.shadow_skin_idle.epk,5592580,5592580
+bcc68e831eced859,substance_graph_runes_out_bc7.dds.header,Tiny.V4,36466108,1520
+971fc87858eff915,shadowskin_idle.mat,Tiny.V5,35900137,7664
+7d6630f4563ce035,shadowskin_fadeout.mat,Tiny.V6,36183711,7902
+229d77a1f207795d,shadowskin_fadein.mat,Tiny.V3,35738335,7874

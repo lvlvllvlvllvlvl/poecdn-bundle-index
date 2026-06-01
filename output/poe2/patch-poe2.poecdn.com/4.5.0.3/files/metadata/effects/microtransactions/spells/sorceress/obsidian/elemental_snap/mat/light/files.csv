@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+226749053610ba5d,cast_render.mat,Tiny.V4.1,46320478,61024
+092154f16e7c0766,cast_update.mat,Tiny.VD.1,5313278,346
+3db1fee734113bd8,darkshard_lightning_blur_r.mat,Tiny.V0.1,44788744,13424
+c0344b11af14d18d,darkshard_lightning_blur_u.mat,Tiny.VC.1,6191481,338
+99868bbe32f22ade,darkshard_lightning_smoke_r.mat,Tiny.VF.1,45601624,31496
+401e4ad40dd21e52,darkshard_lightning_smoke_u.mat,Tiny.V6.1,45517881,5224
+a7e561bb67be7eae,darkshard_lightning_sparks_r.mat,Tiny.V8.1,47989016,31882
+612cf3811ff80f79,darkshard_lightning_sparks_u.mat,Tiny.V6.1,44753611,18384
+c8591973f2bd3a98,darkshard_lightning_dropbolt_u.mat,Tiny.V7.1,43644062,4590
+7385389cb36a8582,darkshard_lightning_dropbolt_r02.mat,Tiny.V4.1,46381502,28346
+5584ef90ec573c1c,darkshard_lightning_dropbolt_r.mat,Tiny.V6.1,45485503,32378
+0303c6facd0649e8,darkshard_lightning_ring_0_r.mat,Tiny.V3.1,44632641,42896
+8c517e6b9e1c1c30,darkshard_lightning_ring_shimmer_r.mat,Tiny.V7.1,42289414,25754
+a6b277584b99a9af,darkshard_lightning_ring_u.mat,Tiny.V7.1,42315168,2208

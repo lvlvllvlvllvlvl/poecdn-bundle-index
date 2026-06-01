@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+44f1026b219b3c69,border_unwalkablecliff_st_01.arm,Content/data/balance/worldareas/mapnecropolis.vworld,819274,9780
+53de6f4393faef8a,border_unwalkablecliff_to_ocean_st_01.arm,Content/data/balance/worldareas/mapnecropolis.vworld,829054,10306
+fbd2c44d6c20f404,border_unwalkablecliff_to_ocean_st_02.arm,Content/data/balance/worldareas/mapnecropolis.vworld,839360,8562
+76112ed0cc65bdae,border_unwalkablecliff_to_ocean_st_03.arm,Content/data/balance/worldareas/mapnecropolis.vworld,847922,8384
+5958aeaeb3e63214,border_unwalkablecliff_to_ocean_st_04.arm,Content/data/balance/worldareas/mapnecropolis.vworld,856306,8306
+70a281fa927e98f0,border_unwalkablecliff_cc_01.arm,Content/data/balance/worldareas/mapnecropolis.vworld,798960,8014
+d4a095df0280062f,border_unwalkablecliff_cv_01.arm,Content/data/balance/worldareas/mapnecropolis.vworld,806974,12300
+0b1553b242cd96cc,border_unwalkableclifftopocean_end_01.arm,Content/data/balance/worldareas/mapnecropolis.vworld,868814,8814
+5404f7e77bc0f467,border_unwalkableclifftopocean_st_01.arm,Content/data/balance/worldareas/mapnecropolis.vworld,877628,4148
+b8230f7b34b36047,border_unwalkableclifftopocean_cc_01.arm,Content/data/balance/worldareas/mapnecropolis.vworld,864612,4202
+ed3945e71743bff1,border_unwalkableclifftopocean_cv_01.arm,Tiny.V4.1,201726894,4094
+166bf5f93d37081d,border_clifftopocean_st_01.arm,Content/data/balance/worldareas/mapnecropolis.vworld,789552,9408
+f2d23cf3cd05fddf,border_clifftopocean_cc_01.arm,Content/data/balance/worldareas/mapnecropolis.vworld,770516,11168
+1d8f5b2bb60c67cc,border_clifftopocean_cv_01.arm,Content/data/balance/worldareas/mapnecropolis.vworld,781684,7868

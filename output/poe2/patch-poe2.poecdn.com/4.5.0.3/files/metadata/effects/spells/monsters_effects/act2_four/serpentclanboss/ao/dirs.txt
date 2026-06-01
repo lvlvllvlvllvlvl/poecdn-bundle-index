@@ -1,0 +1,8 @@
+onact
+onact/bonearmour
+onact/emerge_01_02
+onact/spin_detonate
+onact/summon
+pot
+vulnerabilityrune
+wall

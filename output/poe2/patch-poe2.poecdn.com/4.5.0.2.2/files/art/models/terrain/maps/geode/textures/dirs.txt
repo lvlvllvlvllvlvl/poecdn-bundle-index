@@ -1,4 +1,0 @@
-cliffs
-crystals
-doodads
-ground

@@ -1,6 +1,0 @@
-epk
-epk/audio
-fx
-mats
-mats/epk
-mats/wisps

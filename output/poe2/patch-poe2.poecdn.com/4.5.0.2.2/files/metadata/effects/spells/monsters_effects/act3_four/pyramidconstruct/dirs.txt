@@ -1,5 +1,0 @@
-epks
-mat
-pet
-pet/attack_beam
-pet/revive_beam

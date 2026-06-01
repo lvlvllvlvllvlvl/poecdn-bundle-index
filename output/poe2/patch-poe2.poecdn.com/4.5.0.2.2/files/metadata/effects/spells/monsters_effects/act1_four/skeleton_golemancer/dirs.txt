@@ -1,9 +1,0 @@
-epk
-fx
-mat
-mat/impact
-mat/onact
-mat/projectile
-mat/skelenado
-mat/spellcast_01
-mat/summon_circle

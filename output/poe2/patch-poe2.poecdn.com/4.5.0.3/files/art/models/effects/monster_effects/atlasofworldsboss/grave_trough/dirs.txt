@@ -1,0 +1,5 @@
+chain_rune
+coffin_drop
+coffin_object_explode
+frontal_wave
+nova

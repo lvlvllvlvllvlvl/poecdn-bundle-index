@@ -1,0 +1,7 @@
+corpseconsume
+death
+emerge
+explosion
+marker
+onact
+orb

@@ -1,0 +1,8 @@
+aggoratoil
+aggoratsacrifice
+aggoratsacrifice/present
+aggorattiles
+past
+present
+sacrificepole
+sacrificepole/damaged

@@ -1,6 +1,0 @@
-grounsslam
-grounsslam/cone_90_fire
-grounsslam/cone_line_bone
-grounsslam/cone_line_fire
-grounsslam/slam_round
-grounsslam/slam_round_fire
