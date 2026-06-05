@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+422254306604e1e8,midnightpactwingsc.mat,Tiny_2,56083881,8506
+56927ec3b60f2fbb,midnightpactwings_normalc.mat,Tiny_2,56080737,3144
+32196bce8f799e97,midnightpactwings_normal_dxt5.dds,Art/Models/Items/BackAttachments/MidnightPactWings/textures_3,0,1398276
+db36da3395d30975,midnightpactwings_normal_dxt5.dds.header,Tiny_2,56079217,1520
+5c74adb7ac44a5bb,midnightpactwings_metal_dxt5.dds,Art/Models/Items/BackAttachments/MidnightPactWings/textures_2,87556,1398276
+63d424cb709cdaad,midnightpactwings_metal_dxt5.dds.header,Tiny_2,56077697,1520
+ccd8c0779d6d4f40,midnightpactwings_glow_dxt5.dds,Art/Models/Items/BackAttachments/MidnightPactWings/textures_2,0,87556
+c1cdf0a686823cc9,midnightpactwings_glow_dxt5.dds.header,Tiny_2,56076177,1520
+7a6aebd91c86ac25,midnightpactwings_colour_dxt5.dds,Art/Models/Items/BackAttachments/MidnightPactWings/textures_1,0,1398276
+53449a301cdd60fb,midnightpactwings_colour_dxt5.dds.header,Tiny_2,56074657,1520

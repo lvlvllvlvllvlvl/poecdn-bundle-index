@@ -1,6 +1,0 @@
-ezomyteciviliansfemale
-ezomyteciviliansmale
-ezomyteciviliansmale/attachments
-ezomyteciviliansmale/attachments/head
-ezomyteciviliansmale/attachments/noose
-ezomyteciviliansmale/textures

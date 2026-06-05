@@ -1,0 +1,5 @@
+food
+metal
+plantpots
+treasure
+woodkit

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+c0a8008d0c94f796,tile_01.mat,Tiny_6,62603595,1154
+348f8ed55a4ff73b,tile_01.dds,Folders/art/particles/monster_particles/act5,1730292,22020
+62fd316fa1fb7242,tile_01.dds.header,Tiny_6,87410581,1520
+e6d446418c1c622e,statue_rise_glow2_bc7.dds,Folders/art/particles/monster_particles/solaris_and_lunaris,371720,349700
+be154e3866c99dab,statue_rise_glow2_bc7.dds.header,Tiny_6,62602075,1520
+9b291142f7348982,statue_rise_glow.mat,Tiny_6,62600867,1208
+c82a41507e2a7015,statue_rise_glow.dds,Folders/art/particles/monster_particles/act5_1,699760,349700
+a3b2cddfabbc4f0e,statue_rise_glow.dds.header,Tiny_6,62599347,1520
+e8efee7a6bc1889f,grad.mat,Tiny_6,62596319,3028
+f951ea324f5fc5bb,grad.dds,Art/particles/monster_particles/act5,1622618,43852
+9dfca070beb71ea9,grad.dds.header,Tiny_6,62594799,1520
+bdc77b0479624faa,gold_shatter_at.mat,Tiny_6,62591879,2920
+55831e64fa0e22f4,gold_shatter_at.dds,Art/particles/environment_effects/League_Delve_7,1273328,43876
+23042ed9e4b27847,gold_shatter_at.dds.header,Tiny_7,56344557,840

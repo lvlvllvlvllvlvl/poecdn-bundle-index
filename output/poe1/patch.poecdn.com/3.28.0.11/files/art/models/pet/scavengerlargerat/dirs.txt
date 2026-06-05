@@ -1,7 +1,0 @@
-animations
-attachments
-attachments/animations
-attachments/animations/pet1
-attachments/animations/portal
-attachments/animations/tailrat
-textures

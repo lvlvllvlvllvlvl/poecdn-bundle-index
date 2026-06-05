@@ -1,5 +1,0 @@
-attachments
-iceowl
-iceowl/attachments
-iceowl/objects
-objects

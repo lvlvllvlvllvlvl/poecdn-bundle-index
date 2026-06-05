@@ -1,7 +1,0 @@
-ground_emerge
-hunker_explosion
-hunker_explosion/buildup
-hunker_explosion/impact
-lightning_buildup
-lightning_buildup_mandibles
-lightning_explode

@@ -1,0 +1,2 @@
+clicked_01
+idle_01

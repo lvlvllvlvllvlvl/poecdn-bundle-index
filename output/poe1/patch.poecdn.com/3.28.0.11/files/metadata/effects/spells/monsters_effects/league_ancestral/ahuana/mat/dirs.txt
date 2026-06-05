@@ -1,8 +1,0 @@
-arrow
-arrow_impact
-attack_01
-bow_idle_fx
-ice_snipe
-ice_snipe_impact
-snipe_01
-snipe_01/onact

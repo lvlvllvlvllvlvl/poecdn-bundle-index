@@ -1,3 +1,0 @@
-fireball
-spinner
-spinner_red

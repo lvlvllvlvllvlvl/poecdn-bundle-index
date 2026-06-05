@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+fe6bceb735819d72,oceanfill_01.tgt,Tiny.VC,20782350,546
+fbdf2d2b85ccfee1,sinkhole_mid_01.tgt,Tiny.V3,20616494,296
+38204a1e4216ace8,sinkhole_surface_quarterwalkable_01.tgt,Content/data/balance/worldareas/mapswarm.vworld,1269985,8660
+410d882e23d14012,sinkhole_surface_quarterunwalkable_01.tgt,Content/data/balance/worldareas/mapswarm.vworld,1264273,5712
+d677a74ae620d088,sinkhole_surface_quarterentrance_01.tgt,Content/data/balance/worldareas/mapswarm.vworld,1252561,11712
+b45440fcebb5ebee,sinkhole_surface_slicewalkable_01.tgt,Tiny.V7,20643860,1194
+f86822e0ea5981cc,sinkhole_surface_slicewalkable_01.tmd,Tiny.V6,20819539,1042
+bdc94725a9892ecb,sinkhole_surface_sliceunwalkable_01.tmd,Tiny.VE,20549310,1058
+92f8a849d58e0767,sinkhole_surface_sliceunwalkable_01.tgt,Tiny.VB,20699406,1190

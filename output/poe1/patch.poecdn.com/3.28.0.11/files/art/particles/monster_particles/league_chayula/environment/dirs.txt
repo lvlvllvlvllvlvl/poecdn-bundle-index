@@ -1,4 +1,0 @@
-mb
-mb/beam
-mb/beam_bwd
-mb/beam_shield

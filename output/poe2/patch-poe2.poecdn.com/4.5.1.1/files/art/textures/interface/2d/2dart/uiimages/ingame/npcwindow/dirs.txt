@@ -1,0 +1,16 @@
+expedition
+heist
+poe2
+portraits
+portraits/poe2
+portraits/poe2/act 1
+portraits/poe2/act 2
+portraits/poe2/act 3
+portraits/poe2/act 4
+portraits/poe2/act 5
+portraits/poe2/character
+portraits/poe2/endgame
+portraits/poe2/interlude
+portraits/poe2/league
+sanctum
+scourge

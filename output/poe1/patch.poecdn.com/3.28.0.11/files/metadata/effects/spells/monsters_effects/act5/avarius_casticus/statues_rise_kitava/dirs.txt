@@ -1,3 +1,0 @@
-activate
-activate/epk
-deactivate

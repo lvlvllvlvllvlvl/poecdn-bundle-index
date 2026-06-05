@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+c2526e83912a2976,coins2.mat,Tiny_6,29425017,1502
+5fc22ebeb9b5ff34,coins2_dxt1.dds,Tiny_8,30932280,844
+09519df6a15837c2,coins2_dxt1.dds.header,Tiny_8,30933124,1520
+07a508716bbb5843,bullet.mat,Tiny_6,29420515,1090
+b4e81d5621407238,bullet_normal_dxt1.dds,Tiny_6,29421605,2908
+17d546b4470359ee,bullet_normal_dxt1.dds.header,Tiny_6,29424513,504
+3cd52d79f523ff15,bullet_dxt1.dds,Tiny_8,49212006,332
+f44378f3cb6a0032,bullet_dxt1.dds.header,Tiny_8,49212338,1520

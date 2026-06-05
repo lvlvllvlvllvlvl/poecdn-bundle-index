@@ -1,0 +1,2 @@
+bodyfx_alive
+on_death

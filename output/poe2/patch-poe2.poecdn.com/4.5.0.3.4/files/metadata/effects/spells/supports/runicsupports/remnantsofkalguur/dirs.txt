@@ -1,6 +1,0 @@
-epks
-fx
-mats
-mats/beam
-mats/epk
-mats/rune

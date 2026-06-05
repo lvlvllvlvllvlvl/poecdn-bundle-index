@@ -1,4 +1,0 @@
-armour_evasion_banner
-bloodstained_ banner
-dread_banner
-warbanner

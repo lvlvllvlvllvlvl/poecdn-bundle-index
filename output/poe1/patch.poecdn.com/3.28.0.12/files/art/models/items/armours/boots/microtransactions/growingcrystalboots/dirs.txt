@@ -1,0 +1,16 @@
+crystals
+crystals/crystalcluster_01
+fx
+fx/frozentomb
+fx/frozentomb/main
+textures
+textures/frozentomb
+textures/frozentomb/orange
+textures/frozentomb/orange/shatter
+textures/frozentomb/pink
+textures/frozentomb/pink/shatter
+textures/frozentomb/purple
+textures/frozentomb/purple/shatter
+textures/frozentomb/red
+textures/frozentomb/red/shatter
+textures/frozentomb/shatter

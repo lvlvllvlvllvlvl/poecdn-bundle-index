@@ -1,9 +1,0 @@
-ao
-graph
-mat
-mat/chaos_explosion
-mat/exal_explosion
-mat/impact
-mat/mirror_explosion
-mat/vaal_explosion
-pet

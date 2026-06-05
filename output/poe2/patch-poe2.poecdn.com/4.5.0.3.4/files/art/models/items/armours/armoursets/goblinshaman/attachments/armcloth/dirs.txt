@@ -1,7 +1,0 @@
-lclavcloth
-lelbowcloth
-lshouldercloth
-lwristcloth
-rclavcloth
-relbowcloth
-rshouldercloth

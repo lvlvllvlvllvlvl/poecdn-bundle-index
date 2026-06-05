@@ -1,0 +1,5 @@
+aura
+chargeup_weapon
+impact
+monster_hit
+weaponfx

@@ -1,9 +1,0 @@
-animations
-animations/town
-attachments
-attachments/chestbag
-attachments/clothattachment
-attachments/coat
-attachments/hatfeather
-attachments/smallbags
-attachments/swordholder

@@ -1,7 +1,0 @@
-chayula
-chayula/buff
-chayula/buffapply
-chayula/buffapply/attachment
-chayula/buffapply/pulse
-chayula/tornado
-chayula/warcry

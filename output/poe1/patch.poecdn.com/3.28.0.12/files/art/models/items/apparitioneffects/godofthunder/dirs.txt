@@ -1,0 +1,8 @@
+attachments
+attachments/hammer
+attachments/robe
+attachments/spike
+fx
+fx_blue
+textures
+textures_blue

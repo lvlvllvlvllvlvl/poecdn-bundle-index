@@ -1,0 +1,10 @@
+aos
+aos/audio
+epks
+fx
+graphs
+mats
+mats/foliateburstcore
+mats/foliatespawn
+mats/petalburst
+mats/weapon

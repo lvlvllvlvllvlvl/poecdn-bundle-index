@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+79b8865188a19b8c,viper_flash.mat,Tiny_6,49203846,2186
+b9da1087dd4e061c,viper_flash_dxt5.dds,Folders/art/particles/lancing_steel_02,787808,87556
+770f724b34aa3bda,viper_flash_dxt5.dds.header,Tiny_8,13454020,1520
+f266e3056199975d,blade_edge.mat,Tiny_6,49199704,2622
+ea04c867210ed6e9,blade_edge_dxt5.dds,Art/particles/melee_trails/frenzy,0,87556
+1683812cb18521e1,blade_edge_dxt5.dds.header,Tiny_6,49202326,1520
+905d6b99a6480c64,blade_base.mat,Tiny_6,49195848,2336
+21afe566dcaac01c,blade_base_dxt5.dds,Art/particles/melee_trails/viper_strike,0,87556
+1d903445e5464ab5,blade_base_dxt5.dds.header,Tiny_6,49198184,1520

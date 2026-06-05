@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+906e14291fd2170f,flare_r.mat,Tiny.V7.1,39078696,33608
+158334da7a406dd1,flare_u.mat,Tiny.V1.1,41582026,1696
+5e038c4c5e79ac8b,aurora_charge_par_r.mat,Tiny.V4.1,41253024,18918
+fe25b28df43175c6,aurora_charge_par_u.mat,Tiny.VB.1,41261257,26310
+b8540f2f6835b301,aurora_charge_ribbons_blur_r.mat,Tiny.V7.1,29264604,31912
+7964a4d3608648eb,aurora_charge_ribbons_u.mat,Tiny.VD.1,42136098,31958
+d3798d0d2a0747df,aurora_charge_ribbons_r.mat,Tiny.V6.1,42169703,73874
+1f6211f8ec432508,aurora_charge_ribbons_r2.mat,Tiny.V7.1,39001484,77212
+0c0d6a2e5c1b1485,core_u.mat,Tiny.VA.1,41623557,3150
+e3c5ae086815b51f,core_r.mat,Tiny.V2.1,42731932,71858
+1827e16ffd49cbd3,core_r2.mat,Tiny.VC.1,42485299,74008

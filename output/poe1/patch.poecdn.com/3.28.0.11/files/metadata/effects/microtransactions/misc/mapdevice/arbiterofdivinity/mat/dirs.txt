@@ -1,2 +1,0 @@
-pedestal
-portal_start

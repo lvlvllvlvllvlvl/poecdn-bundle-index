@@ -1,0 +1,4 @@
+dagger
+feather_loincloth
+pouch
+robe

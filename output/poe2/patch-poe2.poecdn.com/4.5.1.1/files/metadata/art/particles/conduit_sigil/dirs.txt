@@ -1,0 +1,12 @@
+cold
+explosion
+fire
+fire/trail
+lightning
+lightning/tether_anchor
+lightning/tether_beam
+lightning/tether_ring
+nova_spread
+phys_lightning
+supercharge
+trigger

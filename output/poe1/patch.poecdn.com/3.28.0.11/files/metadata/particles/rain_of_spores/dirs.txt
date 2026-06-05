@@ -1,4 +1,0 @@
-pod_aoe
-pods
-projectile
-shooting_up

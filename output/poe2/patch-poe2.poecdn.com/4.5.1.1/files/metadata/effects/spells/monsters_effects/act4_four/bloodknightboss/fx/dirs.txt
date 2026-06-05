@@ -1,0 +1,7 @@
+blazinglance
+bloodfall
+bloodfall/enraged
+bloodfall/onact
+cleave_projectile
+death
+enrage

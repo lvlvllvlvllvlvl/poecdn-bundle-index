@@ -1,0 +1,15 @@
+barrage
+barrage/on_act
+barrage/projectile
+jump_attack
+jump_attack/bomb_arrow
+jump_attack/on_act
+jump_attack/secondary_bomb_explosion
+lightning_trap
+lightning_trap/charge_down
+lightning_trap/charge_up
+lightning_trap/lightning_bolt
+teleport_attack
+teleport_attack/mortar
+teleport_attack/on_act
+teleport_attack/smoke_cloud

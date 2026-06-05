@@ -1,8 +1,0 @@
-epk
-fx
-fx/head_soul_release
-fx/neck
-fx/needle_01
-fx/robe
-fx/soul_beam_01
-graphs

@@ -1,2 +1,0 @@
-grenade
-shield_bubble

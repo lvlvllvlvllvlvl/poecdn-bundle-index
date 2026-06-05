@@ -1,9 +1,0 @@
-scatteredfruit
-vaalbench
-vaalchair
-vaalmarketclusters
-vaalmarketfish
-vaalmarketstallscover
-vaalmarkettable
-vaalpottedplants
-vaalsmallmarkettable

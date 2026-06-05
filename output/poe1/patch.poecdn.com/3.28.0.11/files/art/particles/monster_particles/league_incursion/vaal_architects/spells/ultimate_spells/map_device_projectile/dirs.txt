@@ -1,6 +1,0 @@
-lightning_nova
-projectile
-projectile/fx
-self_detonate
-self_detonate/epk
-self_detonate/fx

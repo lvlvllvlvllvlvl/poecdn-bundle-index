@@ -1,0 +1,7 @@
+batteryshell
+life
+life/pet
+life/trl
+mana
+mana/pet
+mana/trl

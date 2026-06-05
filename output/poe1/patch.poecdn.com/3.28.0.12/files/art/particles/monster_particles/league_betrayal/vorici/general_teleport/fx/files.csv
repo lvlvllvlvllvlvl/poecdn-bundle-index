@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+f49d8802b38739ad,rolling_smoke_02_spsh.mat,Tiny_6,110942272,2506
+2e4023fa33d04e76,rolling_smoke_02_spsh.dds,Art/Microtransactions/Aura/CrucibleAmuletEffect_2,0,5592580
+b6b31df07013a86d,rolling_smoke_02_spsh.dds.header,Tiny_6,110971114,1520
+83395bfc2ae60ab8,rolling_smoke_01_spsh.mat,Tiny_6,110939882,2390
+84a5dcb45d588e78,rolling_smoke_01_spsh.dds,Art/Microtransactions/Aura/CrucibleAmuletEffect_1,0,5592580
+d7aeb0cf24bf9bb5,rolling_smoke_01_spsh.dds.header,Tiny_6,110967240,1520
+b53429185ca6c7b9,bloom_glow.mat,Tiny_6,110938230,1652
+c9de02dfb31f48b0,bloom_glow.dds,Art/particles/monster_particles/League_Betrayal_114,1049100,11084
+737c1c053b0cc627,bloom_glow.dds.header,Tiny_8,4443338,1520

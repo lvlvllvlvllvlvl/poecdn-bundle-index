@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+ffd3779f4ce834e1,demonkingportal.sm,Tiny.VE,6119420,1264
+7441141207090ec4,demonkingportalcsdemonkingportalsn.mat,Tiny.V8,5986824,7214
+ae42203786846aa5,demonkingportal_glow_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/096483677E9A1DEC.rig_map.ao,1398276,1398276
+d5c068a6fbdbce19,demonkingportal_glow_dxt5.dds.header,Tiny.VE,6120684,1520
+6c37f15412e3ea90,demonkingportal_specular_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/096483677E9A1DEC.rig_map.ao.1,0,1398276
+ee08ba7b2a80500a,demonkingportal_specular_dxt5.dds.header,Tiny.VA,6157478,1520
+b25db07b6283d956,demonkingportal_normals_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/096483677E9A1DEC.rig_map.ao,2796552,1398276
+cedb7a9bdfa83130,demonkingportal_normals_dxt5.dds.header,Tiny.V3,6029035,1520
+d6935b0cf55b7777,demonkingportal_colour_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/096483677E9A1DEC.rig_map.ao,0,1398276
+76a94bbbb34a09ca,demonkingportal_colour_dxt5.dds.header,Tiny.V4,6246300,1520
+6844db1ca49104ac,rig_b2ca1600.smd,Streaming/Content/metadata/effects/microtransactions/town_portals/096483677E9A1DEC.rig_map.ao.1,1835884,200114
+2e8bff53e2f54257,rig_b2ca1600.smd.header,Tiny.V2,6335129,448
+17942bf16dfebbfb,rig.amd,Tiny.V9,6263449,272
+1d99a0dbd19ee585,rig.ast,Content/metadata/effects/microtransactions/town_portals/demonking_fieryportal/D1AC74E5AECBBE16.idle_midline.pet,9182,132902

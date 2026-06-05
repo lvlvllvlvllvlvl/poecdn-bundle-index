@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+1a85b77e0b95937c,herringboneground.mat,Tiny.V5,42455060,2022
+2457633792fd4238,herringbonegroundcracked.mat,Tiny.V1,42877329,2118
+8365118e9c32db62,herringboneground_normal_dxt5.dds,Streaming/Content/data/worldareas/hideoutdoomguard.vworld.2,11536244,1398276
+7d8c045fb8df38b0,herringboneground_normal_dxt5.dds.header,Tiny.V1,42875809,1520
+b3f100f8391f4c06,herringboneground_colour_dxt5.dds,Streaming/Content/data/worldareas/hideoutdoomguard.vworld.2,7341416,1398276
+992814300b65776f,herringboneground_colour_dxt5.dds.header,Tiny.VD,43112854,1520
+7b19ac3eadf934c0,herringboneground_cracked_colour_dxt5.dds,Streaming/Content/data/worldareas/hideoutdoomguard.vworld.2,8739692,1398276
+64cd4666d1ac21d8,herringboneground_cracked_colour_dxt5.dds.header,Tiny.VD,43114374,1520
+94641f9e017759b9,herringboneground_cracked_normal_dxt5.dds,Streaming/Content/data/worldareas/hideoutdoomguard.vworld.2,10137968,1398276
+593d5922cf034fd2,herringboneground_cracked_normal_dxt5.dds.header,Tiny.VA,43105068,1520
+4459679b7578416d,herringbonegroundblood.mat,Tiny.VC,43250567,2082
+80bcf3ec1eedba34,herringbonegroundblood_colour_dxt5.dds,Streaming/Content/data/worldareas/hideoutdoomguard.vworld.2,12934520,1398276
+d91f3133272547b9,herringbonegroundblood_colour_dxt5.dds.header,Tiny.VB,43158732,1520
+aa2b2c55d3b29f09,herringbonegroundblood_normal_dxt5.dds,Streaming/Content/data/worldareas/hideoutdoomguard.vworld.2,14332796,1398276
+758b758bcd7091f6,herringbonegroundblood_normal_dxt5.dds.header,Tiny.V7,42945101,1520

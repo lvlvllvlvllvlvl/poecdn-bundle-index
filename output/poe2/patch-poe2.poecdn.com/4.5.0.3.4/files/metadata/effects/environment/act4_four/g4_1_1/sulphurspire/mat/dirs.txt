@@ -1,3 +1,0 @@
-monster
-player_buff
-pulse

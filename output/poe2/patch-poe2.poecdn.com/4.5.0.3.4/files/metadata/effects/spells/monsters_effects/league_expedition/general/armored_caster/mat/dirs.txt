@@ -1,8 +1,0 @@
-blind_lightning_nova
-carpetbomb
-carpetbomb/cast
-carpetbomb/orb
-off_hand_projecile
-onact
-onact/lightning_bolts_01
-onact/lightning_bolts_01/contact

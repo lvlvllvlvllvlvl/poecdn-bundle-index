@@ -1,5 +1,0 @@
-graphs
-pet
-pet/cold_explosion
-pet/grd_fire
-pet/lightning_beam

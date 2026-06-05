@@ -1,2 +1,0 @@
-door_ground
-groud_dust

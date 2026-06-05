@@ -1,2 +1,0 @@
-bomb_arrow
-secondary_bomb_explosion

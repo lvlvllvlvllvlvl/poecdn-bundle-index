@@ -1,0 +1,15 @@
+aesir
+archnemesisparadoxica
+archnemesisparadoxica/graphs
+archnemesisparadoxica/pet
+darkmagic
+darkshard
+fx_direblade
+incinerator
+ironcountszweihandersword
+marionette1hsword
+necrolord
+watergoblinsword
+winterdragon1hsword
+zodiacdragon1hsword
+zodiacdragon1hsword/attachments

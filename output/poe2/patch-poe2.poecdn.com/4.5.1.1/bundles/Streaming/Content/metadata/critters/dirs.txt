@@ -1,0 +1,10 @@
+butterfly
+crab
+deer
+giantuglytoadcritter
+leech
+parrot
+playercritters
+redfox
+sickbull
+vulture

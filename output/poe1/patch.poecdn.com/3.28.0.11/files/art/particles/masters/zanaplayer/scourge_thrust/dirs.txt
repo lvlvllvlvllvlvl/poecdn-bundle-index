@@ -1,6 +1,0 @@
-channel
-channel/fx
-pods
-pods/fx
-projectile
-projectile/fx

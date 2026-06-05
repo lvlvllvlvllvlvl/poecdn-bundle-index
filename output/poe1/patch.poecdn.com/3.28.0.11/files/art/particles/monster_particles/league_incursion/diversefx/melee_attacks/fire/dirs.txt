@@ -1,2 +1,0 @@
-fire_stab
-fire_stab/charge

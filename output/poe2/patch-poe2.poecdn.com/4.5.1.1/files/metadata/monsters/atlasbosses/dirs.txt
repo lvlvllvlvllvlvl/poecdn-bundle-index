@@ -1,0 +1,6 @@
+arbiterofdivinityboss
+arbiterofdivinityboss/attachments
+arbiterofdivinityboss/objects
+demonclawboss
+demonclawboss/attachments
+demonclawboss/objects

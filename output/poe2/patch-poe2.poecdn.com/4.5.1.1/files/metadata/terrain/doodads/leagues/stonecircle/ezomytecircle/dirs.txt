@@ -1,0 +1,12 @@
+epk
+essenceencrusted
+essenceencrusted/fx
+essenceencrusted/graph
+essenceencrusted/mat
+essenceencrusted/mat/monolith_01
+essenceencrusted/mat/monolith_02
+essenceencrusted/mat/monolith_04
+essenceencrusted/mat/monolith_05
+essenceencrusted/mat/monolith_06
+fx
+mat

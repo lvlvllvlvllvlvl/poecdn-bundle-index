@@ -1,4 +1,0 @@
-vfx
-vfx/sirenegg03
-vfx/sirenegg03/fx
-vfx/sirenegg03/mats

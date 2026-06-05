@@ -1,6 +1,0 @@
-house
-square
-warehouse
-warehouse/1x2
-warehouse/2x2
-warehouse/2x3

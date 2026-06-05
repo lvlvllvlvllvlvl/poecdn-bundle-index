@@ -1,8 +1,0 @@
-epk
-graph
-mat
-mat/ambient
-mat/epk
-mat/onact
-mat/onact/attack_01_02
-pet

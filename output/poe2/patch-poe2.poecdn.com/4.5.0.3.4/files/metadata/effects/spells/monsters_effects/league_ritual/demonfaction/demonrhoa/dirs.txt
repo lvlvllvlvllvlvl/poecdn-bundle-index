@@ -1,7 +1,0 @@
-ao
-epk
-fx
-graph
-mat
-mat/burst
-mat/surge

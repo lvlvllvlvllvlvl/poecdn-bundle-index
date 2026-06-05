@@ -1,0 +1,3 @@
+pets
+pets/player_debuff
+pets/power_up_beam

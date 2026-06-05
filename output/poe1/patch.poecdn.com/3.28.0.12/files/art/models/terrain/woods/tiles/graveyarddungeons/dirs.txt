@@ -1,0 +1,10 @@
+crypt
+crypt/abyss
+crypt/abyss/tgms
+crypt/abysswall
+crypt/abysswall/tgms
+mausoleum
+mausoleum/ledge
+mausoleum/ledge/tgms
+mausoleum/thickwall
+mausoleum/thickwall/tgms

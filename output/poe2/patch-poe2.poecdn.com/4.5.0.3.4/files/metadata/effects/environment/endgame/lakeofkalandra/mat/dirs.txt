@@ -1,6 +1,0 @@
-death_blood
-glass_shards
-water_splashes
-zero_gravity_water_01
-zero_gravity_water_02
-zero_gravity_water_03

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+d8afe63c9db6adee,impact.mat,Tiny_6,14676368,1988
+47db60eeefc5782a,fire_bits_2x2.mat,Tiny_6,14672956,3412
+e5b352686e5710ae,fire_bits_2x2_dxt5.dds,Folders/art/particles/warcries/enduring_cry,22020,349700
+ce01b6f80b9ed484,fire_bits_2x2_dxt5.dds.header,Tiny_7,58971854,1520
+8f293245ea5242ff,example01.mat,Tiny_6,14669850,1564
+2bf364956dc0ccb0,example03.mat,Tiny_6,14671414,1542
+5ae165d6db0fc2c3,blood_lookup_dxt5.dds,Tiny_6,14667358,2212
+4a86ed01fab5b0e5,blood_lookup_dxt5.dds.header,Tiny_6,14669570,280
+0d8d230ff0395981,blood_drip.mat,Tiny_6,14664406,2952
+9caee4060a1cba93,blood_drip_dxt5.dds,Folders/art/particles/monster_particles/league_betrayal_1,0,22020
+52e14c7f4e59f6b4,blood_drip_dxt5.dds.header,Tiny_7,52722542,1520
+768d52f7dd828748,blood_drip_bc7.dds,Folders/art/particles/monster_particles/league_betrayal_1,0,22020
+5854b396c629e0eb,blood_drip_bc7.dds.header,Tiny_7,52722542,1520
+c1587f31d95c9a72,black_hole_glow.mat,Tiny_6,14662780,1626
+1424b6a8ae7f6561,black_hole_glow_dxt5.dds,Folders/art/particles/caustic_arrow_02,175112,22020
+7a6fff0490369fe7,black_hole_glow_dxt5.dds.header,Tiny_7,53911703,1520

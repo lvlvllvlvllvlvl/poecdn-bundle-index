@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+f587a082a3e245d1,wisp_smoke_base.mat,Tiny.VD,38052216,1638
+a2739cac38c33b34,wisp_smoke_base_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/4FCB192E98D523CD.71D8A65BF6B08AF1.light_up.pet,226141,43876
+6599a592a1c509f9,wisp_smoke_base_dxt5.dds.header,Tiny.VA,38141105,840
+72389821d3e90c81,gradient_sub.mat,Tiny.V0,38133224,1956
+da1ffe64aeca7b5b,gradient_sub_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/4FCB192E98D523CD.31D59E4E9BF7EAFC.nuke_beam_length.pet,512674,22020
+9aa74dac7a8eb392,gradient_sub_dxt5.dds.header,Tiny.V9,38414123,1520
+3ab49606c4f9c6b3,point_release_add.mat,Tiny.V3,37295755,1890
+27202122c58aea74,point_release_add_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/4FCB192E98D523CD.31D59E4E9BF7EAFC.nuke_beam_length.pet,359222,22020
+1809408e07b7dad7,point_release_add_dxt5.dds.header,Tiny.VE,4722136,1520
+95ad865e7f3319a4,poison_001_add.mat,Tiny.V0,38135180,6574
+5cf5ed73b66b47d7,poison_001_add_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/atlasexiles/ACA9CB64B256233F.66E8AD6E2DDF31F6.crackemit.pet,0,1398276
+a6b618707c220729,poison_001_add_dxt5.dds.header,Tiny.V5,37457944,1520

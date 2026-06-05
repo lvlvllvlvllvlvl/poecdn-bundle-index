@@ -1,4 +1,0 @@
-textures
-textures/gemsocketdevice
-textures/generator
-textures/wall_light

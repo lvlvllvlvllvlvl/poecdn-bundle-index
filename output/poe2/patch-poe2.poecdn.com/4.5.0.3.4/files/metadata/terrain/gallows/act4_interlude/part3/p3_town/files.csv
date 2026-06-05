@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-fc91677f5bb43707,random_fill_tiles.gft,Tiny.V0.1,204193395,1002
-5ca9b7cd7d1d6e6f,generate.rs,Tiny.V0.1,204193207,188
-a52f4d662c20e62f,combination.ecf,Tiny.V3.1,203877727,3004
-a4e3d819551854e8,tiles.tst,Tiny.V0.1,204194397,13294
-ab562265b71059ac,master.tsi,Tiny.V6.1,201448102,774
-2126e5ad6bd94fd0,materials.mtd,Tiny.V4.1,202136626,1972
-e1445d9fe214af8a,material_overrides.tmo,Content/data/balance/worldareas/g4_town.vworld,577133,26752

@@ -1,8 +1,0 @@
-stormcult
-stormcult/fx
-zarokh
-zarokh/fx
-zarokh/mat
-zarokh/mat/donut
-zarokh/mat/nova
-zarokh/mat/surge

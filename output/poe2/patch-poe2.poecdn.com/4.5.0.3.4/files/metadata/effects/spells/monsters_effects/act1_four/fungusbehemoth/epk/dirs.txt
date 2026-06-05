@@ -1,4 +1,0 @@
-onact
-onact/barrage_01
-onact/spellcast_01
-onact/swamp_backup_01

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+dbd40c866b80624e,mblur_sphere_r.mat,Tiny_D,496799198,14468
+b4785ecf5b241b4a,mblur_sphere_u.mat,Tiny_D,496679904,1140
+8ecccf4311fa9bc8,igniteflames_r.mat,Tiny_D,496719676,57928
+0c3ba99e7de5a318,igniteflames_u.mat,Tiny_D,496777604,21594
+a6531b6cca87b889,igniteembers_r.mat,Tiny_D,496681044,31318
+c6a50c8e5df0041f,igniteembers_u.mat,Tiny_D,496712362,7314
+6534973f82074aac,core_flare_r.mat,Tiny_D,496661200,18704
+f53261a1918f553a,core_flare_u.mat,Tiny_D,496679904,1140
+ad37471bf61441b5,core_ball_r.mat,Tiny_D,496617058,42166
+5f9ece139dc4a41b,core_ball_u.mat,Tiny_D,496659224,1976
+478c68f058130ba0,chrono_time_r.mat,Tiny_D,496593618,21844
+4567ba1c0ac7a58c,chrono_time_u.mat,Tiny_D,496615462,1596

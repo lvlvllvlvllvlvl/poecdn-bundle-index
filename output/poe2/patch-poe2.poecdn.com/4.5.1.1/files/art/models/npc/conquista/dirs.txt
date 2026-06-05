@@ -1,0 +1,9 @@
+attachments
+attachments/bloodmagictome
+attachments/bloodmagictome/animations
+attachments/bloodmagictome/animations/farrow
+attachments/bloodmagictome/textures
+attachments/cravat
+attachments/feathers
+faceanims
+textures

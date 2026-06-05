@@ -1,2 +1,0 @@
-flying_spellcast_aoe_01
-flying_spellcast_aoe_01/textures

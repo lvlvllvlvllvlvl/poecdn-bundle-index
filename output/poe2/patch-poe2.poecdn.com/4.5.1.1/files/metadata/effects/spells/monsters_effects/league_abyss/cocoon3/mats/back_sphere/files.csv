@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+1806c808888e6c53,impact_smokecurl_01_r.mat,Tiny.V9.1,131952019,63098
+e369385785a2b3cf,impact_smokecurl_02_u.mat,Tiny.V5.1,130038798,3282
+da1203611623b441,blur_r.mat,Tiny.VC.1,132310849,30754
+c3c1edb421024dc3,blur_u.mat,Tiny.VC.1,132341603,2116
+5b087b7436ab6942,coreflames_r.mat,Tiny.V4.1,130621626,44806
+386a5d522bdde78d,coreflames_u.mat,Tiny.VD.1,5322818,346
+79255362e36a9584,coreflare_r.mat,Tiny.VA.1,130960745,38156
+88b1637c06baef1f,coreflare_u.mat,Tiny.VD.1,5322818,346
+7c043f2068a66fa6,swirlingflames_r.mat,Tiny.V6.1,130338815,46344
+6135bc43653636a4,swirlingflames_u.mat,Tiny.VC.1,132341603,2116

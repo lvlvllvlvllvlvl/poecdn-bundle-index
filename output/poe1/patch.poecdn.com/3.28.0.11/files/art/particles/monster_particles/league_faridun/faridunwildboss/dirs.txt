@@ -1,5 +1,0 @@
-mb
-mb/corrupted_ground
-mb/leap_slam
-mb/meaty_ball_projectile
-tex

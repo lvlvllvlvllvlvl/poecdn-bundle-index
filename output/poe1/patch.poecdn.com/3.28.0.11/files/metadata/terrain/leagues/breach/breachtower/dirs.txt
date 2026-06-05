@@ -1,7 +1,0 @@
-graphs
-objects
-rooms
-tiles
-tiles/abyss
-tiles/fill
-tiles/interior

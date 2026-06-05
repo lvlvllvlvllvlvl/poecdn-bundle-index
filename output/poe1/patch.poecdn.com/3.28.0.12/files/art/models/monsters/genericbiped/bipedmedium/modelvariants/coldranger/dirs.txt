@@ -1,0 +1,6 @@
+attachments
+attachments/bow
+attachments/bow/animations
+attachments/quiver
+attachments/robe
+attachments/robe/animations

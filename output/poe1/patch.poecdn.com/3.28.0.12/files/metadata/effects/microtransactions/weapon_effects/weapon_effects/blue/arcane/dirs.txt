@@ -1,0 +1,9 @@
+1 h mace_ 1h axe
+1h sword
+2h mace
+2h sword
+bow
+dagger_claw_wand
+graph
+infernalaxe_arcane
+staff

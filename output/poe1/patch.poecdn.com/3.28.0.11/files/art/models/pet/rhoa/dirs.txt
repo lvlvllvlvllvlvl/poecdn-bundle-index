@@ -1,9 +1,0 @@
-attachments
-attachments/deliriumrhoa
-attachments/deliriumrhoa/chain
-attachments/deliriumrhoa/fabric
-attachments/karuirhoa
-attachments/karuirhoa/helmet_mane
-attachments/karuirhoa/ropes
-attachments/karuirhoa/saddle_blanket
-textures

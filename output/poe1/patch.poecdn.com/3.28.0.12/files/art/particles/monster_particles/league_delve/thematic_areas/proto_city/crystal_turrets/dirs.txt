@@ -1,0 +1,9 @@
+azurite_elemental
+azurite_elemental/fx
+projectiles
+projectiles/azurite_energy
+projectiles/azurite_energy/fx
+projectiles/crystal_shards
+projectiles/crystal_shards/build_up
+projectiles/crystal_shards/build_up/fx
+projectiles/crystal_shards/fx

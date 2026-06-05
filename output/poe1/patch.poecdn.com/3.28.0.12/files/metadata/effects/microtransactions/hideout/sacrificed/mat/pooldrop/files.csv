@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+600c438bb161d727,distort_sphere_r.mat,Tiny_9,66662068,9096
+cd27727cb2a19369,ripple_shimmer_r.mat,Tiny_9,66365872,14432
+e591a38706533368,ripple_shimmer_u.mat,Tiny_9,66380304,5728
+184642d30ee46416,mblur_sphere_r.mat,Tiny_9,66352404,13468
+c9b93e00fa67b9cb,mblur_sphere_u.mat,Tiny_11,127344428,346
+1523d94f1cb851cc,impact_shimmer_r.mat,Tiny_9,66748166,25780
+755f0366dfdde5f9,impact_shimmer_u.mat,Tiny_9,66773946,2208
+365dcb53de76902f,blood_splash_02_r.mat,Tiny_9,66386032,42292
+05edb4a13f14dac3,blood_splash_02_u.mat,Tiny_9,66286240,7740
+375f9c082e7f2071,bloodsplash_01_r.mat,Tiny_9,66293980,39490
+09546604fdfd2cd1,bloodsplash_01_u.mat,Tiny_9,66333470,18934

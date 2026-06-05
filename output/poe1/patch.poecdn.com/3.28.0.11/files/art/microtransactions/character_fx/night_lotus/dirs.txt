@@ -1,3 +1,0 @@
-mb
-mb/ground_aura
-tex

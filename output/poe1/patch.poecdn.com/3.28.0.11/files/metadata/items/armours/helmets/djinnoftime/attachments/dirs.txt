@@ -1,4 +1,0 @@
-bcb
-gem
-headattachment
-headwrap

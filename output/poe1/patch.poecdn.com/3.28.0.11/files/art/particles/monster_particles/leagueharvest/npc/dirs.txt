@@ -1,4 +1,0 @@
-fx
-runes
-seed_cache
-seed_cache/fx

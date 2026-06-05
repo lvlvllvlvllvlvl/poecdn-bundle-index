@@ -1,0 +1,6 @@
+attachments
+attachments/chains_bicep
+attachments/chains_shoulder
+attachments/chains_torso
+attachments/robe
+textures

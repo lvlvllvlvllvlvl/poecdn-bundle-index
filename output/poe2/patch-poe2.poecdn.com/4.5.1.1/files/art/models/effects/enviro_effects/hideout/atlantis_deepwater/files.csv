@@ -1,0 +1,6 @@
+hash,file,bundle,offset,size
+56e02f57d0e93d7b,smoke_envfx.mat,Tiny.VA,7334453,3266
+6da5e78c2ede4a66,grd_caustics_envfx.mat,Tiny.V8,7088029,8226
+78b867cdeb15b388,beam_envfx.mat,Tiny.V5,7177243,7456
+499d30e8a1156166,bubbles_refract_big2_envfx.mat,Tiny.V4,7315666,4668
+ac71f95ed5e9c07e,bubbles_refract_big_envfx.mat,Tiny.V7,7189004,4664

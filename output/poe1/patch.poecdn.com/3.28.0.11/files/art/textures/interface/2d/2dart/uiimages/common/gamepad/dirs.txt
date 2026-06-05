@@ -1,8 +1,0 @@
-dualsense
-dualsense/4k
-dualshock4
-dualshock4/4k
-steamdeck
-steamdeck/4k
-xboxone
-xboxone/4k

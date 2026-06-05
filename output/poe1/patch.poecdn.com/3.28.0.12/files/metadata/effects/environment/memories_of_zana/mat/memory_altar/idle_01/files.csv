@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+9d345e0266aa9e0b,neurons_01_r.mat,Tiny_8,120585712,34222
+1a87d2a62e49ac1c,neurons_01_u.mat,Tiny_D,409483402,1140
+3d3ecd5620e5eddd,mblur_sphere_r.mat,Tiny_8,120521888,9476
+098427cb1044f0fd,mblur_sphere_u.mat,Tiny_11,127344428,346
+aaf8013e12562edb,materialise_orb_r.mat,Tiny_8,116522634,38992
+5dc6e283444d2736,materialise_orb_u.mat,Tiny_11,127344428,346
+d813f2e9ede2bf48,big_weaving_threads_r.mat,Tiny_8,121894132,73212
+478f58a036dc3ab6,big_weaving_threads_u.mat,Tiny_11,127344428,346

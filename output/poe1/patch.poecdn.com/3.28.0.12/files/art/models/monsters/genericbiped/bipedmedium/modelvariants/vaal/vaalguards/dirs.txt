@@ -1,0 +1,10 @@
+attachments
+attachments/vaalguard01chestornaments
+attachments/vaalguard01headdress
+attachments/vaalguard01mantle
+attachments/vaalguard01robe
+attachments/vaalguard02headdress
+attachments/vaalguard03cape
+attachments/vaalguard03headdress
+attachments/vaalguard03skirt
+attachments/vaalweapons

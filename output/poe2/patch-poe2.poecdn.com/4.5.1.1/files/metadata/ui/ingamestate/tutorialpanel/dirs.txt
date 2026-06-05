@@ -1,0 +1,6 @@
+french
+german
+portuguese
+russian
+spanish
+thai

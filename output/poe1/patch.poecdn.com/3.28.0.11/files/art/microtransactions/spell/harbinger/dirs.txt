@@ -1,2 +1,0 @@
-aurafy
-aurafy/textures

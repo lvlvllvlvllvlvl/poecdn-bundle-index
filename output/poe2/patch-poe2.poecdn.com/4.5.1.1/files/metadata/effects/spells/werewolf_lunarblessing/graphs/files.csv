@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+466498eef4888034,environmentdarkening.fxgraph,Content/metadata/effects/spells/npc/league/FB09E2903437BC7B.unlock_wave.ao,4475632,23062
+ddc6f9bbbd0695c2,arcticwolf_tochannel.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,402300,246974
+056f988cfd0f9080,arcticwolf_override.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,153756,132036
+85e7594c5ef1aef5,arcticwolf_override_base.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,285792,116508
+4b8316839978bf90,arcticwolf_override_translucency.fxgraph,Content/metadata/effects/spells/npc/league/FB09E2903437BC7B.unlock_wave.ao,4879316,96372
+93d1aaedc8b72dfc,custom_cancelfade.fxgraph,Content/metadata/effects/spells/monsters_effects/leagueharvest/53183E1F71BB41F8.player_debuff.epk,3103969,7136
+49b168c56787c766,custom_fresnelstatic.fxgraph,Content/metadata/monsters/leaguedelirium/deliriumskilldaemonmonstercold.ot,292390,106452
+bd64fd1c60b1d439,custom_particlesemissionctrl.fxgraph,Content/metadata/effects/microtransactions/spells/druid/DE8041FFBFF5EB62.crossslash_lunar.pet,426815,29768

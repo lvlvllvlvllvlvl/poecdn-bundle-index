@@ -1,0 +1,7 @@
+vfx
+vfx/fx
+vfx/fx/idle_01
+vfx/fx/open_01
+vfx/mat
+vfx/mat/idle_01
+vfx/mat/open_01

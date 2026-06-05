@@ -1,0 +1,5 @@
+primeval_boss
+primeval_boss/abyssal_shield
+primeval_boss/abyssal_shield/fx
+primeval_boss/stone_tomb
+primeval_boss/stone_tomb/fx

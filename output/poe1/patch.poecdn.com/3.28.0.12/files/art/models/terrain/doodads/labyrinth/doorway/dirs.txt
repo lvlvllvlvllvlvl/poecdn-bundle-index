@@ -1,0 +1,11 @@
+churchdungeon
+churchdungeon/doorbar
+drygarden_smallgate
+labyrinthdoor_nofx
+prisondungeon
+prisondungeon/doorbar
+ruinedtemple_smallgate
+templedungeon
+templedungeon/door
+templedungeon/doorbar
+tgms

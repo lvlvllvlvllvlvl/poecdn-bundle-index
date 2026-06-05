@@ -1,0 +1,9 @@
+cleave
+enrage
+mortar
+projectile
+slam_circle
+slam_cone
+slam_rect
+surge
+volatile

@@ -1,9 +1,0 @@
-archdemon
-archdemon/archdemonaura
-demon
-demon/demonaura
-demon2
-demon2/demon2_aura
-demon2/demon2_aura/animations
-impdemon
-impdemon/impdemon_aura

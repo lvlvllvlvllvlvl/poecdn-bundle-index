@@ -1,3 +1,0 @@
-tex
-tex/onact
-tex/onact/convulse_01

@@ -1,5 +1,0 @@
-catarinacart
-evidence
-graveyardportal
-secretvault
-secretvault/djinnmedallion

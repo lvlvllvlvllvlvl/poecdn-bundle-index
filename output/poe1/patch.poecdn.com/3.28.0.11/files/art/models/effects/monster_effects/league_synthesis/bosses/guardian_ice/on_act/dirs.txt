@@ -1,6 +1,0 @@
-command_turrets
-death
-melee
-slash_left
-triangle_slam
-wifi_slam

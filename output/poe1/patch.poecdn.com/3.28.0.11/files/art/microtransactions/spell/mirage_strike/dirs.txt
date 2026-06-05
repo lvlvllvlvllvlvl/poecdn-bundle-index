@@ -1,9 +1,0 @@
-celestial
-celestial/models
-celestial/models/ancestor_totem
-celestial/textures
-celestial/textures/ancestor_totem
-celestial/textures/effects
-stygian
-stygian/textures
-stygian/textures/effects

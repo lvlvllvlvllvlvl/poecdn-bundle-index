@@ -1,6 +1,0 @@
-graphs
-mat
-mat/bloodstab
-mat/meleecut
-pet
-pet/bloodstab

@@ -1,5 +1,0 @@
-cascade_weapon_impact
-monsterspawn
-weapon_activate_beam
-weapon_beam_01
-weapon_hand_ao

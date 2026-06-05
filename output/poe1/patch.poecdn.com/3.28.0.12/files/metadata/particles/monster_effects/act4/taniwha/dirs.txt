@@ -1,0 +1,10 @@
+ground
+ground/emerge
+ground/idle
+ground/norevive_death
+ground/submerge
+spike
+tail_ground
+tail_ground/emerge
+tail_ground/idle
+tail_ground/submerge

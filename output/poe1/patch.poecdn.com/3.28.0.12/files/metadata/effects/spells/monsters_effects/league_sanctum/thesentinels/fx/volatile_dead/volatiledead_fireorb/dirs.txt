@@ -1,0 +1,5 @@
+death
+emerge
+end
+idle
+spellcast_aoe

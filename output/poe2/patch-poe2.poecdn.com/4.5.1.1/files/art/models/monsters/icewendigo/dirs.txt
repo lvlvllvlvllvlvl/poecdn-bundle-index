@@ -1,0 +1,14 @@
+azmeriwendigo
+azmeriwendigo/attachments
+azmeriwendigo/attachments/arm
+azmeriwendigo/attachments/face
+azmeriwendigo/attachments/fur
+azmeriwendigo/attachments/furrarm
+azmeriwendigo/attachments/jewellery
+azmeriwendigo/attachments/jewelleryforearm
+azmeriwendigo/attachments/jewellerylarm1
+azmeriwendigo/attachments/jewellerylarm2
+azmeriwendigo/attachments/jewelleryr
+azmeriwendigo/attachments/jewelleryrforearm
+azmeriwendigo/attachments/jewellerytail1
+azmeriwendigo/attachments/jewellerytail2

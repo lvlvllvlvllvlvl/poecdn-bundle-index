@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+84b08ae52d3e1baa,wind.mat,Tiny.V6,41717211,2310
+09db30d07d8fc6a5,wind_dxt5.dds,Streaming/Shared/High/Shared.1,1398248,87556
+933bf7c0b96b7f3c,wind_dxt5.dds.header,Tiny.V7,35225127,1520
+81527665f0ad8fe6,light_beam_sharp.mat,Tiny.VB,41839498,4280
+76d579943a0c6461,light_beam_sharp_dxt5.dds,Streaming/Content/metadata/effects/spells/summon_relic/62AB8E6B58529D9D.healing_buff.epk,175104,22020
+4d883a93257af25a,light_beam_sharp_dxt5.dds.header,Tiny.V2,41382373,1520
+c7cd7553ae596b37,impact_spike.mat,Tiny.VF,41531797,2452
+7bff3399931b65c3,impact_spike_dxt5.dds,Streaming/Content/metadata/particles/tornado_shot_02/impact.pet,0,87556
+a8d1760728a71819,impact_spike_dxt5.dds.header,Tiny.VD,38071582,1520
+8266e32da80916bb,sharp.mat,Tiny.V4,41821615,2036
+f0b1fec6b68206c4,sharp_dxt5.dds,Streaming/Content/metadata/effects/spells/summon_relic/62AB8E6B58529D9D.healing_buff.epk,197124,87588
+1588a8d0c628cb5d,sharp_dxt5.dds.header,Tiny.V6,5081473,504
+3c2d8b23b0815fa8,sharp_bloom.mat,Tiny.V8,41092621,1352
+df5b34f2fbba79cd,sharp_bloom_dxt5.dds,Streaming/Content/metadata/particles/tornado_shot_02/impact.pet,87556,87556
+71d15ce75e1f3094,sharp_bloom_dxt5.dds.header,Tiny.VF,37893143,1520

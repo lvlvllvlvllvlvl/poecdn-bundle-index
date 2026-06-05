@@ -1,2 +1,0 @@
-textures
-textures/unlock_wave

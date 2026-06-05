@@ -1,0 +1,15 @@
+ascent
+ascent/teleport
+cathedral_broken_roof
+cathedral_broken_roof/burning_frame
+cathedral_broken_roof/generic_fireside
+cathedral_broken_roof/generic_fireup
+cathedral_broken_roof/generic_fireup_lowerfloor
+entrance_portal
+entrance_portal/crater_glow
+entrance_portal/portal_in
+oriathsquare
+oriathsquare/footprint
+oriathsquare/kitava_forcewall
+ossuary
+snow

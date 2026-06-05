@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+dcbc62db33223cf1,fx_dxt5.dds,Art/Textures/Items/weapon/daggers/uniques_3,0,349700
+bc00603932d64ea4,fx_dxt5.dds.header,Tiny_8,24539711,1520
+d52d3537a2a43455,coldironpointspecularc.mat,Tiny_8,24534231,5480
+b3cabcbdf85b7f72,coldironpoint_normal_uncompressed.dds,Art/Textures/Items/weapon/daggers/uniques_4,0,2796352
+ed503d4bd00c3e98,coldironpoint_normal_uncompressed.dds.header,Tiny_8,24533391,840
+16caa3548dcd8575,coldironpoint_glow_dxt5.dds,Art/Textures/Items/weapon/daggers/uniques_5,0,699236
+ac4afe7b18053da4,coldironpoint_glow_dxt5.dds.header,Tiny_8,24532551,840
+04b39b65d361ef33,coldironpoint_colourspecular_dxt5.dds,Art/Textures/Items/weapon/daggers/uniques_6,0,1398276
+2473bbaaac51d96c,coldironpoint_colourspecular_dxt5.dds.header,Tiny_8,24531031,1520
+62e1b0fe7b292696,coldironpoint_colourspecular_bc7.dds,Folders/art/textures/items/weapon/daggers/uniques,66156,1398276
+f678cd7e8f6651d3,coldironpoint_colourspecular_bc7.dds.header,Tiny_8,24531031,1520
+02172eb9753972eb,coldironpoint_colourspecular.dds,Art/Textures/Items/weapon/daggers/uniques_7,0,699212
+723757287c08601f,coldironpoint_colourspecular.dds.header,Tiny_8,24529511,1520

@@ -1,6 +1,0 @@
-architecture
-bodypiles
-chests
-lod
-pillarbase
-pillarbase/architecture

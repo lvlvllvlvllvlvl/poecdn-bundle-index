@@ -1,0 +1,12 @@
+epk
+mat
+mat/conductivity
+mat/despair
+mat/ele_weakness
+mat/enfeeble
+mat/flammability
+mat/frostbite
+mat/synchronisation
+mat/temp_chains
+pet
+trl

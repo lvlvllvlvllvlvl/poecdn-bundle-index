@@ -1,9 +1,0 @@
-attachments
-attachments/backchains
-attachments/cross
-attachments/crosschains
-attachments/skeleton
-attachments/skeleton/animation
-attachments/skeleton/textures
-attachments/torturekiteattached
-textures

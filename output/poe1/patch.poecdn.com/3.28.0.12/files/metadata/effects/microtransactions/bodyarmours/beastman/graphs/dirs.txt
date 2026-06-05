@@ -1,0 +1,4 @@
+body_max
+gloves_max
+helmet_max
+hit_fx

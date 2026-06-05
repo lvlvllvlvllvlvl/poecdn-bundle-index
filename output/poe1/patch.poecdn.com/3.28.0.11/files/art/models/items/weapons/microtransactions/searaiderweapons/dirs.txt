@@ -1,5 +1,0 @@
-2hmace
-crestshield
-textures
-towershield
-wand

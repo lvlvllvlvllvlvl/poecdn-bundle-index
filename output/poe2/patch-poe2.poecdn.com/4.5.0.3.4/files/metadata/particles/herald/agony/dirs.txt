@@ -1,5 +1,0 @@
-minion
-minion/mortar
-minion/mortar/impact
-minion/mortar/projectile
-minion/projectile

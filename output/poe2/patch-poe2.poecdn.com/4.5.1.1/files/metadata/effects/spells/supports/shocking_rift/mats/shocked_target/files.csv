@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+161a4ea0e7f42578,pt_u.mat,Tiny.VD.1,5322818,346
+1964bf1aa76b4db3,emissive_glow_pass1.mat,Tiny.V4.1,174135872,27310
+7db9d374d81adc73,epk_jump_bolts_r1.mat,Tiny.VE.1,170568948,58156
+6923ab5d944c7b9d,epk_jump_bolts_u.mat,Tiny.VA.1,172033929,6180
+9bace12dcd84a069,tether_indicator_r.mat,Tiny.VC.1,176884005,40266
+12a95a1f81ddc195,tether_bolt_main_r.mat,Tiny.V9.1,174164837,44940
+cfbf6348c71af1d5,tether_bolt_main_u.mat,Tiny.V8.1,174248876,20650
+ec101d6a7b778c9a,tether_sphere_r.mat,Tiny.V8.1,174269526,62914
+10b681a7840f670a,tether_sphere_blur_r.mat,Tiny.V0.1,172930922,45184

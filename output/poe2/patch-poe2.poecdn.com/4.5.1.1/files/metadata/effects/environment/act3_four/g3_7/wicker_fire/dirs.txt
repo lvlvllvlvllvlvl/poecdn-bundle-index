@@ -1,0 +1,6 @@
+epks
+epks/effigy_large
+mat
+mat/effigy_fire
+pet
+pet/effigy_large

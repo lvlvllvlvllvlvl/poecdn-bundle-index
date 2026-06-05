@@ -1,0 +1,17 @@
+energy_shield
+energy_shield/epk
+energy_shield/fxgraph
+energy_shield/mat
+energy_shield/pet
+out_of_mana
+out_of_mana/epk
+out_of_mana/epk/audio
+out_of_mana/mat
+out_of_mana/pet
+rage
+rage/mat
+rage/pet
+ward
+ward/fx
+ward/graph
+ward/mat

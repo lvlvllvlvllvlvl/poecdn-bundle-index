@@ -1,7 +1,0 @@
-doorraising
-doorsliding
-doorswinging
-huntinggate
-lever
-textures
-vaultdoor

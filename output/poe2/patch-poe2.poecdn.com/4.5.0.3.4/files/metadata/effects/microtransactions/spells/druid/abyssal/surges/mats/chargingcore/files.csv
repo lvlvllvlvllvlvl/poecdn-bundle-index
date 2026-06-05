@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-af85feefa849eb4a,charging_arcs_r.mat,Tiny.VC.1,33575507,35702
-c1072c5d635cafac,charging_arcs_u.mat,Tiny.V3.1,31514953,2180
-d955f131680d946e,smoke_streaks_r.mat,Tiny.VE.1,32163032,69368
-a66786e14420d132,smoke_streaks_blur_r.mat,Tiny.V3.1,31517133,37278
-907d982c5d5e1fd0,smoke_streaks_u.mat,Tiny.V7.1,168231208,41378
-ddb799813bfc2071,lightning_r.mat,Tiny.VA.1,32017290,19108
-7d7a669df4aa3f3e,lightning_u.mat,Tiny.V9.1,34411440,5488

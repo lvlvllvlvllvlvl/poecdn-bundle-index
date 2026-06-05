@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+b958d7a2bc50fa0f,act_epk.mat,Tiny.V5,39145417,8740
+74c862fda68ad02a,rock_debris.mat,Tiny.V5,40112664,3996
+a0d828598d75cd42,cold_slash.mat,Tiny.V9,40154810,4748
+74da6f6034058bfc,cold_slash_shimmer.mat,Tiny.V9,40159558,5190
+869ec1fe91604380,influence_ringwave_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/47AC51432FE009EA.rig.ao,1951135,87556
+ed519db16f499b9d,influence_ringwave_dxt5.dds.header,Tiny.VA,39966137,1520
+defb5255dae45186,dustblast_8x8_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.E5CB51925B288BDC.combo_end_impact.pet.1,0,1398276
+4af07833d7c2d0c2,dustblast_8x8_dxt5.dds.header,Tiny.V9,40164748,1520

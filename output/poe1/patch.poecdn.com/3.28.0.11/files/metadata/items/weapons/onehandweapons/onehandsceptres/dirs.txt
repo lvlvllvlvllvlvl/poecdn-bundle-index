@@ -1,9 +1,0 @@
-microtransactions
-microtransactions/eldritchemperorsceptre
-microtransactions/marionettesceptre
-microtransactions/vaalchronosceptre
-microtransactions/vaalchronosceptre/attachments
-microtransactions/zodiacdragonsceptre
-microtransactions/zodiacdragonsceptre/attachments
-uniques
-uniques/stoppedhourglass

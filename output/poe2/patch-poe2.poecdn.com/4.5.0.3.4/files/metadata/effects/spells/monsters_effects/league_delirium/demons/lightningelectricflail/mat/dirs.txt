@@ -1,3 +1,0 @@
-elec_hit
-elec_idle
-elec_trail

@@ -1,9 +1,0 @@
-ascent
-ascent/teleport
-cathedral_broken_roof
-entrance_portal
-entrance_portal/crater_glow
-entrance_portal/ground_shatter
-entrance_portal/portal_in
-oriathsquare
-ossuary

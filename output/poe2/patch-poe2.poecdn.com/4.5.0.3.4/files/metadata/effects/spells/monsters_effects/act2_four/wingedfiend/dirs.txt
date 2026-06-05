@@ -1,4 +1,0 @@
-fx
-fx/bile_proj
-mat
-mat/bile_proj

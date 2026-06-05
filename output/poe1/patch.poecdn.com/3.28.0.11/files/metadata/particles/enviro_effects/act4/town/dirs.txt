@@ -1,4 +1,0 @@
-fog
-lantern
-magic_spear_gate
-water_wheel

@@ -1,0 +1,11 @@
+stridervest_jacket
+stridervest_jacket/stridervestjacketfemale
+stridervest_jacket/stridervestjacketfemale/dex
+stridervest_jacket/stridervestjacketfemale/int
+stridervest_jacket/stridervestjacketmale
+stridervest_knife
+stridervest_knife/stridervestknifefemale
+stridervest_knife/stridervestknifemale
+stridervest_skirt
+stridervest_skirt/stridervestskirtfemale
+stridervest_skirt/stridervestskirtmale

@@ -1,0 +1,6 @@
+2haxe
+bow
+claw
+shield
+staff
+sword

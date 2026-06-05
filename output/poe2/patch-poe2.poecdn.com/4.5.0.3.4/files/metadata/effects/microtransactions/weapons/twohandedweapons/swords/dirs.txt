@@ -1,7 +1,0 @@
-aesir
-aesir/graph
-cruciblesword
-cruciblesword/graph
-illusionist
-whitelacquered
-whitelacquered/graph

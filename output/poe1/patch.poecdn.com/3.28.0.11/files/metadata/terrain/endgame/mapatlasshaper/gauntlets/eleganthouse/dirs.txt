@@ -1,2 +1,0 @@
-rooms
-rooms/3x3

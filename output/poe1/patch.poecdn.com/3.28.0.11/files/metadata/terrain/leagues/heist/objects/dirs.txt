@@ -1,4 +1,0 @@
-level
-level/hazards
-quest
-spawners

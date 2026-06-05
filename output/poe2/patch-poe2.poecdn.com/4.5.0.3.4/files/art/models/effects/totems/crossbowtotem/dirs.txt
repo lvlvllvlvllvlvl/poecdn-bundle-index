@@ -1,6 +1,0 @@
-mortarbowtotem
-mortarbowtotem/effects
-mortarbowtotem/effects/bombarrow_land
-repeatingspraytotem
-repeatingspraytotem/effects
-repeatingspraytotem/effects/barrage_arrow

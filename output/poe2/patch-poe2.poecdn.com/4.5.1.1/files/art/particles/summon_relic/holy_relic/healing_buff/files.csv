@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+3f1f82aefa46ea63,light_prtcl.mat,Tiny.VA,41617822,1778
+ca05433d53075317,light_prtcl.dds,Tiny.VA,37567539,2892
+ee96cffcbc93d59f,light_prtcl.dds.header,Tiny.V9,37906269,1520
+d7c785d4ad75dd2f,lightning_spark.mat,Tiny.VD,41726371,1514
+fe59ccba9176c7fd,lightning_spark.dds,Tiny.V6,41688797,516
+1f02e3d1efcf2025,lightning_spark.dds.header,Tiny.V3,40767028,1520
+a59dd0a002a7885f,yellow_fw.mat,Tiny.V9,41976677,1360
+24d0c320ca4a06e5,yellow_fw.dds,Streaming/Content/metadata/effects/spells/summon_relic/62AB8E6B58529D9D.healing_buff.epk,87548,87556
+dcdda351ea402e3a,yellow_fw.dds.header,Tiny.V9,6484526,1520
+a7b521936b024bff,healing_buff_rune.mat,Tiny.VA,41616558,1264
+b41af574ea59221c,healing_buff_rune.dds,Streaming/Content/metadata/effects/spells/summon_relic/62AB8E6B58529D9D.healing_buff.epk,0,87548
+b94fe7e55b51aeaa,healing_buff_rune.dds.header,Tiny.V5,41074530,840

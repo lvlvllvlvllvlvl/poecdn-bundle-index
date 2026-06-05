@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+ec0fa9984b58edbc,wildpetc.mat,Tiny_8,47817254,2668
+1b8a04f5b715dc51,wildpet_normal_dxt5.dds,Art/Textures/Pet/CultofDarkness/FrontierWildPet,0,349700
+595ef5428d3b3c33,wildpet_normal_dxt5.dds.header,Tiny_8,47815734,1520
+00fd6d979a4cd12f,wildpet_colour_dxt5.dds,Art/Textures/Pet/CultofDarkness/FrontierWildPet,524624,349700
+4099549f4af95b52,wildpet_colour_dxt5.dds.header,Tiny_8,47814214,1520
+29bbf79e8ebefd30,wildpet_colour_bc7.dds,Art/Textures/Pet/CultofDarkness/FrontierWildPet,524624,349700
+eb94bd1d02afc151,wildpet_colour_bc7.dds.header,Tiny_8,47814214,1520
+4cebb449680c1289,wildpet_colour.dds,Art/Textures/Pet/CultofDarkness/FrontierWildPet,349700,174924
+5ec3b004a8ec8a76,wildpet_colour.dds.header,Tiny_8,47812694,1520

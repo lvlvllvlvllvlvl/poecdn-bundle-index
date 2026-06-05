@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+44466e09daf322b0,brt_spirestairs01c.mat,Tiny.V3,15582046,2780
+dd53cdd406d35044,brt_spirestairs01_normal.dds,Streaming/Content/data/worldareas/56/maplosttowers.vworld,0,5592580
+e8675549489dc040,brt_spirestairs01_normal.dds.header,Tiny.VA,15796622,1520
+43ff09b84838b1d7,brt_spirestairs01_colour.dds,Streaming/Content/data/balance/worldareas/1B/maplosttowers.vworld,121038,2796364
+ef02e55b6d50e7f0,brt_spirestairs01_colour.dds.header,Tiny.VE,15649027,1520
+4e209bc736491158,brt_stairs01c.mat,Tiny.V4,16077080,2760
+0c86b4adddf04a0a,brt_stairs01_normal.dds,Streaming/Content/data/balance/worldareas/FE/maplosttowers.vworld,71315,5592580
+079d6db86181eb4f,brt_stairs01_normal.dds.header,Tiny.VB,15786182,1520
+ef4150be29a2f255,brt_stairs01_colour.dds,Streaming/Content/data/balance/worldareas/6C/maplosttowers.vworld,0,2796364
+ffa5c7db38babc23,brt_stairs01_colour.dds.header,Tiny.VE,15650547,1520

@@ -1,0 +1,7 @@
+action
+backalleytrader
+kneeling
+leaning
+rowing
+sitting
+standing

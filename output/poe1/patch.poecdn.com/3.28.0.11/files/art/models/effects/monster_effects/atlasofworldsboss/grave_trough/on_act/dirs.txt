@@ -1,4 +1,0 @@
-coffin_explosion
-death
-emerge
-nova_blast

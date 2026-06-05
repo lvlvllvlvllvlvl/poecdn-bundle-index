@@ -1,5 +1,0 @@
-abyss
-feature
-ledge
-thickwall
-thinwall

@@ -1,4 +1,0 @@
-enfeeble
-invulnerability
-temporal_chains
-vulnerability

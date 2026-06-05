@@ -1,7 +1,0 @@
-bodyfx
-on_act
-on_act/spell_aoe_01
-on_act/spell_projectile_01
-staff
-staff/on_act
-staff/on_act/spell_projectile_01

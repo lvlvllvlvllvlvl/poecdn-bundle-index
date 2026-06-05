@@ -1,0 +1,10 @@
+blackguard
+blackguard/attachments
+blackguard/attachments/blackguardcape
+bloodguard
+bloodguard/attachments
+bloodguard/attachments/bloodguardrobe
+mageguard
+zenithguard
+zenithguard/attachments
+zenithguard/attachments/zenithguardcape

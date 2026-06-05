@@ -1,3 +1,0 @@
-mb
-mb/persistent
-textures

@@ -1,6 +1,0 @@
-textures
-textures/arena
-textures/ezomytestatues
-textures/ground
-textures/moss
-textures/rocks

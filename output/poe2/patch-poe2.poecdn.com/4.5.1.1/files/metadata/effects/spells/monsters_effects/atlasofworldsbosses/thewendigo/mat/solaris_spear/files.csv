@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+291feceefd63562d,ground_rune_r.mat,Tiny.VC.1,123534149,57268
+068046fcd1d27d99,ground_rune_outer_r.mat,Tiny.V6.1,121452643,56512
+28de45d0474564aa,ground_rune_u.mat,Tiny.VD.1,5322818,346
+34ec3e39bfeb9298,gearbuff_spear_u.mat,Tiny.V9.1,124815911,2438
+8f6582e9dbf68775,gearbuff_spear_r1.mat,Tiny.VB.1,123442847,47648
+e480ec253a001993,gearbuff_spear_r2.mat,Tiny.VC.1,123490385,43764
+5f6c13188b1f378e,spear_shards_r.mat,Tiny.V4.1,121565068,71276
+e6e4d77d5c15cce8,spear_shards_u.mat,Tiny.V9.1,124818349,23586
+4a70ccc0271b3a33,screenspace_godray_r.mat,Tiny.V3.1,121243181,95938
+ebaba35debc7fc16,screenspace_godray_blur_r.mat,Tiny.VF.1,119765194,77000
+8ef22eb5bcb570c7,screenspace_godray_u.mat,Tiny.VD.1,5322818,346

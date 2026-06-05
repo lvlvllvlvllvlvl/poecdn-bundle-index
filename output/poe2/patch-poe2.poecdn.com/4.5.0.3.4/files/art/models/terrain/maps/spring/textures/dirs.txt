@@ -1,6 +1,0 @@
-architecture
-cliffs
-foliage
-ground
-props
-rocks

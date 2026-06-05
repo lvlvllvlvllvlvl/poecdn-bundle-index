@@ -1,5 +1,0 @@
-animations
-animations/playerminion
-attachments
-attachments/crawlingarm
-textures

@@ -1,5 +1,0 @@
-impact_01
-lightning_arc
-monster_hit
-projectile_01
-surge

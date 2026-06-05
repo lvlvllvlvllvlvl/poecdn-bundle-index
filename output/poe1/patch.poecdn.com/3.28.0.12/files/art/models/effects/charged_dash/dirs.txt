@@ -1,0 +1,5 @@
+aoe
+channelling
+charge_end
+shadow_weapon
+shadows

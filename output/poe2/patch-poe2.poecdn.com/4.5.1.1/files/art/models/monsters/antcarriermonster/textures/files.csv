@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+a8573effff3495fe,antcarriermonsterc.mat,Tiny.V7,11866175,2184
+495423b8e9a089a6,antcarriermonster_normal_dxt5.dds,Streaming/Content/metadata/monsters/antcarriermonster/antcarrier.ot.1,0,5592580
+36e5f9db7655782f,antcarriermonster_normal_dxt5.dds.header,Tiny.VD,11771039,1520
+479ca69925c8524b,antcarriermonster_colour_dxt1.dds,Streaming/Content/metadata/monsters/antcarriermonster/antcarrier.ot,202185,2796364
+b2327ab5939d66f3,antcarriermonster_colour_dxt1.dds.header,Tiny.V9,12175497,1520
+cf16ff2c5773e555,expeditionantcarriermonster.mat,Tiny.V7,11868359,3194
+dbc86f694abe180d,expeditionantcarrier_glow.dds,Streaming/Content/data/balance/worldareas/F4/null.vworld,0,5592580
+d95e822ce1e0a320,expeditionantcarrier_glow.dds.header,Tiny.V1,11800312,1520
+b08467f28514a080,expeditionantcarrier_mask.dds,Streaming/Content/data/balance/worldareas/10/null.vworld,0,5592580
+104785e6fb27a383,expeditionantcarrier_mask.dds.header,Tiny.V4,11960903,1520
+3381fc9dd584fbb3,expeditionantcarrier_normal.dds,Streaming/Content/data/balance/worldareas/CA/null.vworld,0,5592580
+4b613cee32137abc,expeditionantcarrier_normal.dds.header,Tiny.VE,11839590,1520
+7f0462e4dc6cb2b7,expeditionantcarrier_colour.dds,Streaming/Content/data/balance/worldareas/48/null.vworld,0,5592580
+b069e0bdb79a9b18,expeditionantcarrier_colour.dds.header,Tiny.V8,11744518,1520

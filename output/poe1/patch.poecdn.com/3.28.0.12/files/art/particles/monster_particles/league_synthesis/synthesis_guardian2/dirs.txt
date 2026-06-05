@@ -1,0 +1,15 @@
+beam
+beam_impact
+cone_explode
+dash_palm_strike
+detonate_wave
+double_palmstrike
+double_slash
+drone_charged_projectile
+frontal_blast
+ground_slam
+on_act
+projectile
+triangle_slam
+volatile
+volatile_explode

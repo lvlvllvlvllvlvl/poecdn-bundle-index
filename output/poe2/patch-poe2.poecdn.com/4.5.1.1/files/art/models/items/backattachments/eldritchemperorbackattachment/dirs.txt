@@ -1,0 +1,4 @@
+alt
+attachments
+attachments/cloth
+texture

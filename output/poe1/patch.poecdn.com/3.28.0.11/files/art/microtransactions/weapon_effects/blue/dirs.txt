@@ -1,5 +1,0 @@
-artic
-brainscrambler
-intel
-lightning
-trident

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+d7836641cd35697b,brokenmapdevicec.mat,Tiny.V0,43204298,3650
+fcf7be94775607f0,brokenmapdevice_colour_bc7.dds,Streaming/Content/metadata/terrain/leagues/synthesis/DFB0A6340C2D948C.bossportalgenerator_guardian3.ot.1,2097488,1398276
+8139ca5030dd126e,brokenmapdevice_colour_bc7.dds.header,Tiny.V8,42461571,1520
+2e2f89a0c35d6e11,brokenmapdevice_colour.dds,Streaming/Content/metadata/terrain/leagues/synthesis/DFB0A6340C2D948C.bossportalgenerator_guardian3.ot.1,1398276,699212
+7dc251a8ae2bf958,brokenmapdevice_colour.dds.header,Tiny.V4,43242447,1520
+07b123d859d3ebb8,brokenmapdevice_specular_dxt5.dds,Streaming/Content/metadata/terrain/leagues/synthesis/DFB0A6340C2D948C.bossportalgenerator_guardian3.ot.2,1398276,1398276
+62e6d8751ac27dc3,brokenmapdevice_specular_dxt5.dds.header,Tiny.VB,43243962,1520
+82cfbd634b23b1eb,brokenmapdevice_normal_dxt5.dds,Streaming/Content/metadata/terrain/leagues/synthesis/DFB0A6340C2D948C.bossportalgenerator_guardian3.ot.2,0,1398276
+691838f6f18370bc,brokenmapdevice_normal_dxt5.dds.header,Tiny.V1,42949951,1520
+54e17548c9bef77b,brokenmapdevice_alphatestc.mat,Tiny.V4,43238521,3926
+e5bd6da5f2368d11,brokenmapdevice_alphatest_colour_bc7.dds,Streaming/Content/metadata/terrain/leagues/synthesis/DFB0A6340C2D948C.bossportalgenerator_guardian3.ot.1,0,1398276
+eedf644b2212ff85,brokenmapdevice_alphatest_colour_bc7.dds.header,Tiny.V1,42948431,1520
+92a36f375b0f508e,brokenmapdevice_alphatest_colour.dds,Streaming/Content/metadata/terrain/leagues/synthesis/DFB0A6340C2D948C.bossportalgenerator_guardian3.ot,2213432,699212
+24a57307e346b4dd,brokenmapdevice_alphatest_colour.dds.header,Tiny.VA,43169318,1520

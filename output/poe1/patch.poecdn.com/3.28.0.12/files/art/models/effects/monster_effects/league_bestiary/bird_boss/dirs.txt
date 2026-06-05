@@ -1,0 +1,5 @@
+bite
+combo_attack
+screech
+tail_proj
+tail_whip

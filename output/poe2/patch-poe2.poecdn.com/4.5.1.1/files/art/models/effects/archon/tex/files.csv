@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+5e7fc84ac22e9761,decal_spiral.dds,Streaming/Content/metadata/effects/spells/archon/tornado_main.ao,0,699198
+50200abd18ccbe85,decal_spiral.dds.header,Tiny.VA,7254163,838
+001d7441dc8ffc17,tornado_pp.fmt,Streaming/Content/metadata/effects/spells/supports/188735FAC0A10D74.E969A10C0306E27F.volcanoobject.ot,238890,48984
+876f7ce2721eedfa,tornado_pp.fmt.header,Tiny.VD,7023667,128
+b0de3825d7fcddac,tornado_md.fmt,Streaming/Content/metadata/effects/spells/archon/tornado_main.ao,748186,48984
+b0dd24f3d3dc1dd5,tornado_md.fmt.header,Tiny.VA,7255001,128
+4b220e81c990e5b8,tornado_core.fmt,Streaming/Content/metadata/effects/spells/archon/tornado_main.ao,699198,48988
+6f1ae467dce463bb,tornado_core.fmt.header,Tiny.V7,7111752,128
+4687e1247c620705,tornado_nmlao.dds,Streaming/Content/metadata/effects/spells/archon/tornado_main.ao,797170,1398276
+b83e3d69ec066c74,tornado_nmlao.dds.header,Tiny.V5,38948651,1520
+d8269704ee7b0be3,tornadobase_outer.fmt,Streaming/Content/metadata/effects/spells/supports/188735FAC0A10D74.E969A10C0306E27F.volcanoobject.ot,295808,7934
+2e3b8110a5c57a68,tornadobase_outer.fmt.header,Tiny.V9,7446359,129
+4e9fbaf2649cdefc,tornadobase_inner.fmt,Streaming/Content/metadata/effects/spells/supports/188735FAC0A10D74.E969A10C0306E27F.volcanoobject.ot,287874,7934
+2e306d1ae14fde94,tornadobase_inner.fmt.header,Tiny.V5,7109023,129

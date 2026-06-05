@@ -1,0 +1,16 @@
+attachments
+attachments/props
+vfx
+vfx/epk
+vfx/fx
+vfx/graphs
+vfx/mat
+vfx/mat/chimney
+vfx/mat/chimney/fadein
+vfx/mat/chimney/idle
+vfx/mat/chimney/loop
+vfx/mat/furnance_fire
+vfx/mat/furnance_fire/fadein
+vfx/mat/furnance_fire/idle
+vfx/mat/furnance_fire/loop
+vfx/mat/mining

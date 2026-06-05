@@ -1,4 +1,0 @@
-on_act_death
-on_act_spin_attack_01
-on_act_waterjet
-on_act_wind_projectile

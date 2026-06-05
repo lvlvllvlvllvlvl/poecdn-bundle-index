@@ -1,8 +1,0 @@
-rose_creation_01
-rose_creation_01/chargeup
-rose_creation_01/groundfx
-rose_creation_01/onact
-rose_creation_01/onact/hands
-rose_creation_01/rose
-rose_creation_01/shockwave
-stasis_exit_02

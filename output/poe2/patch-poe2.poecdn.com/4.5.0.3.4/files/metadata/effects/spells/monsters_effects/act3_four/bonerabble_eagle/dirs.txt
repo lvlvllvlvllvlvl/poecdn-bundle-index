@@ -1,6 +1,0 @@
-ao
-ao/on_act
-epk
-mat
-pet
-trl

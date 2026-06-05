@@ -1,3 +1,0 @@
-sphynx
-sphynx/animations
-sphynx/animations/medium_cat

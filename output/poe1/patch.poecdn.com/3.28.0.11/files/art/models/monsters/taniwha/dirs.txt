@@ -1,2 +1,0 @@
-taniwha_head
-taniwha_tail

@@ -1,0 +1,6 @@
+attachments
+audio
+axe
+axe_axe
+axe_dagger
+axe_shield

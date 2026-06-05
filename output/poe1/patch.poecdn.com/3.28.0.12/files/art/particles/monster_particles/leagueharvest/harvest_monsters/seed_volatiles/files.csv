@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+f8fa9fdaf582911c,thornseed.mat,Tiny_8,28366560,2934
+03b23cbf9a674a54,thorn_seed_proxyc.mat,Tiny_7,34885960,4184
+a86c3a2a0ed46c1e,thorn_seed_proxy.dds,Tiny_8,38170832,172
+ccef4c1b35168ce6,thorn_seed_proxy.dds.header,Tiny_8,38171004,240
+ef2b0d375bfc59a3,thorn_msk_dxt5.dds,Folders/art/particles/monster_particles/leagueharvest_E1,1399136,1398276
+0d045a4e49f649ce,thorn_msk_dxt5.dds.header,Tiny_7,34884440,1520
+4b9f8cdd8256104e,scaleseed.mat,Tiny_8,28359520,2480
+ebefed1da9f418cb,scale_seed_proxyc.mat,Tiny_7,34880430,4010
+93cbc43a06ce1507,scale_seed_proxy.dds,Tiny_8,38170832,172
+4b08413619885b0f,scale_seed_proxy.dds.header,Tiny_8,38171004,240
+d08c78d89494ec72,bulbseed.mat,Tiny_8,28352498,2462
+397d1c6d1b23d1a9,bulb_seed_proxyc.mat,Tiny_7,34838434,2964
+110f9a9ee93327a0,bulb_seed_proxy.dds,Tiny_8,38170832,172
+a49f8820ac614b9a,bulb_seed_proxy.dds.header,Tiny_8,38171004,240

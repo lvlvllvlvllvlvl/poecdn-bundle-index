@@ -1,7 +1,0 @@
-mb
-mb/cold_explosion
-mb/lightning_beam
-textures
-textures/cold
-textures/grd_fire
-textures/lightning_beam

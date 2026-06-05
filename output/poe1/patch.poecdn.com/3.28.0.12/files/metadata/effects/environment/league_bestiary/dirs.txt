@@ -1,0 +1,6 @@
+tiger_boss
+tiger_boss/blood_ritual
+tiger_boss/blood_ritual/decal
+tiger_boss/blood_ritual/hovering_spirits
+tiger_boss/blood_ritual/ritual_sacrifice
+tiger_boss/player_transition

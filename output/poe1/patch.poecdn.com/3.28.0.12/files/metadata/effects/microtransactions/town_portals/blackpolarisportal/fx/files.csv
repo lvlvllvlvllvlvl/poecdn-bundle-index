@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+865b321d998e2a47,floor.pet,Tiny_9,502397264,29516
+4193b949a36dbf1f,orb.pet,Tiny_9,396554332,7306
+3a0acb71e85f6fc3,op_grow.pet,Tiny_9,396535912,5656
+ff107101f74ff5da,op_pop.pet,Tiny_9,396541568,12764
+fe855a78cfabbd3d,op_blink.pet,Tiny_9,396525956,4964
+6f6bf6cc2ded1c9f,op_blink2.pet,Tiny_9,396530920,4992
+66b9ead9659aafa0,circle_center.pet,Tiny_9,396486634,5116
+4216f7c3e53be2d1,cl_grow.pet,Tiny_9,396491750,5696
+0d8e318bb3b1c4da,cl_orb.pet,Tiny_9,396497446,5098
+45687b270baed4c1,cl_orb2.pet,Tiny_9,396502544,23412
+907d37f6dd70aa6e,add_mask.fxgraph,Folders/metadata/effects_2,16979160,24990
+b17e937dc743f27f,add_pulse_lookup.fxgraph,Folders/metadata/effects_2,17004150,61860

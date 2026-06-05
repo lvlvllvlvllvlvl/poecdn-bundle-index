@@ -1,0 +1,8 @@
+attachments
+attachments/scale
+attachments/sword
+attachments/wingshell
+fx
+fx/mb
+fx/texture
+textures

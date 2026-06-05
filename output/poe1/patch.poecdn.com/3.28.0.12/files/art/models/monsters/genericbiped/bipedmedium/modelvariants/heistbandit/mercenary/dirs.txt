@@ -1,0 +1,3 @@
+attachments
+attachments/lshoulderpad
+attachments/rshoulderpad

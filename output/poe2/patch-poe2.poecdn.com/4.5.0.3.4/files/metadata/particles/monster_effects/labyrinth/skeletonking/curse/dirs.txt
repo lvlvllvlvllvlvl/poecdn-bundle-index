@@ -1,7 +1,0 @@
-gold
-gold/reduce_resistances
-gold/temporal_chains
-gold/vulnerability
-reduce_resistances
-temporal_chains
-vulnerability

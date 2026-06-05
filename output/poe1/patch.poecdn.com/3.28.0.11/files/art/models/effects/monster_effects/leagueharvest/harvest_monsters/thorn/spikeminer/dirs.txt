@@ -1,4 +1,0 @@
-gas_leak
-ground_slam
-on_act_groundslam_02
-smoke_puff

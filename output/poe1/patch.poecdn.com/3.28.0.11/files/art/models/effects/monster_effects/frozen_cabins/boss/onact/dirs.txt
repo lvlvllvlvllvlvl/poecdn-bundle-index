@@ -1,5 +1,0 @@
-attack_01
-attack_heavy_01
-cyclone_01
-figure_head_fizzle
-soul_triple

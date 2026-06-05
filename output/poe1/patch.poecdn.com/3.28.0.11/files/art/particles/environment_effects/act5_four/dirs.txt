@@ -1,4 +1,0 @@
-oriath
-oriath/cistern
-oriath/cistern/textures
-oriath/cistern/textures/waterfall

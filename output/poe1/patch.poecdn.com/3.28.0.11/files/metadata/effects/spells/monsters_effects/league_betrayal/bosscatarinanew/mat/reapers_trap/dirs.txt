@@ -1,4 +1,0 @@
-beam_grd
-beam_scythe
-scythe_grd_slash
-scythe_impact

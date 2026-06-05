@@ -1,6 +1,0 @@
-claw_cleave
-claw_cleave/deshretspirit_skin
-claw_cleave/deshretspirit_skin/particles
-claw_cleave/noclip
-claw_cleave_effect
-claw_trail

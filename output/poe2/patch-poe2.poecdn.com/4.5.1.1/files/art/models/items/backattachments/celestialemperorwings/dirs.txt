@@ -1,0 +1,6 @@
+attachments
+attachments/arcribbons
+attachments/endwings
+attachments/floatingrocks
+textures
+textures/fx

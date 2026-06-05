@@ -1,0 +1,6 @@
+bloodpop
+corpse_emerge
+fissure_explode
+fissure_idle
+fissure_start
+ground_crack

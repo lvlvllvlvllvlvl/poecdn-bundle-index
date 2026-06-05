@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+add47bb17cd0b470,windup_blast_r1.mat,Tiny.VC.1,161084317,40390
+0e79d92be435c021,windup_blast_u.mat,Tiny.VD.1,5322818,346
+06f54cd2deadca8a,impact_debris_02_r.mat,Tiny.V0.1,157459826,13972
+c6c5813b478f9dc0,impact_debris_02_u.mat,Tiny.VE.1,155617410,23940
+175f5c4b3bbc07ad,disperse_sand_prtcl_r.mat,Tiny.VB.1,157505743,32870
+2fe0d1802ceac245,disperse_sand_prtcl_u.mat,Tiny.V0.1,157441740,18086
+b3bffdfa033839dc,punch_sand_01_r.mat,Tiny.V8.1,157653966,26238
+5ee6d3a99b681bda,punch_sand_01_u.mat,Tiny.VF.1,154659920,10890
+19141c13aad18fa9,mblur_sphere_r.mat,Tiny.V2.1,159567368,10560
+fd6a4dcbf6e04328,mblur_sphere_u.mat,Tiny.VD.1,5322818,346

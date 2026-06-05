@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+3a18d18587bc4363,pulse.mat,Tiny.VB,41064751,1732
+9366abc8ef2e61d0,pulse.dds,Streaming/Content/metadata/particles/monster_effects/league_heist/C9289DEA2F08C2CB.F06751C8767501B1.buff_mid.pet,1190837,22020
+ce40bd135e0c4555,pulse.dds.header,Tiny.V4,40997273,1520
+18727ae53c2e7f72,pulselight.mat,Tiny.V4,40998793,1764
+d4aaacc37110a043,pulselight.dds,Streaming/Content/metadata/particles/monster_effects/league_heist/C9289DEA2F08C2CB.F06751C8767501B1.buff_mid.pet,1212857,87556
+863950b7a3b35cf2,pulselight.dds.header,Tiny.V8,40304982,1520
+7484069f085b65a7,rune_aura_multic.mat,Tiny.V7,40799944,1276
+b218147ac445c67c,rune_aura_multi.dds,Streaming/Content/metadata/effects/spells/monsters_effects/219A173CCEE00BE0.B589B0D0925987C1.aura.epk,175112,87556
+1113ad36de83b57e,rune_aura_multi.dds.header,Tiny.VF,40714246,1520
+53edea47f1555d89,rune_aura_atc.mat,Tiny.V5,40389711,3636
+774c7d43e391385a,rune_aura_at.dds,Streaming/Content/metadata/effects/spells/monsters_effects/219A173CCEE00BE0.B589B0D0925987C1.aura.epk,87556,87556
+cccbdaa5a3e8151e,rune_aura_at.dds.header,Tiny.VB,41066483,1520
+b57215230cbfc217,rune_aura_addc.mat,Tiny.VE,40429869,2360
+6f06bfebed6dddf5,rune_aura_add.dds,Streaming/Content/metadata/effects/spells/monsters_effects/219A173CCEE00BE0.B589B0D0925987C1.aura.epk,0,87556
+7e39f670621ed82e,rune_aura_add.dds.header,Tiny.VF,40712726,1520

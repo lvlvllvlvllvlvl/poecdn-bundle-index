@@ -1,0 +1,10 @@
+1x1
+2x2
+blueprintgoal
+entrances
+goals
+npc
+npc/aglility
+npc/bruteforce
+quest
+sides

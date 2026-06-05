@@ -1,2 +1,0 @@
-smtrobe
-smtrobe/animations

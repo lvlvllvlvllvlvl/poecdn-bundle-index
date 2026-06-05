@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+d3eab485cc404e52,tangledwingsc.mat,Art/Models/Items/BackAttachments/TangledWings/Textures,0,5342
+a82fa27864ebf3f4,tangledwings_sss_dxt1.dds,Art/Models/Items/BackAttachments/TangledWings/Textures_4,0,699212
+7aead69be9283ac8,tangledwings_sss_dxt1.dds.header,Tiny_2,56831042,1520
+41e2514b10e52975,tangledwings_normal_dxt5.dds,Art/Models/Items/BackAttachments/TangledWings/Textures_3,0,1398276
+ce28f6eaad2a29ef,tangledwings_normal_dxt5.dds.header,Tiny_2,56829522,1520
+9d0a6ae1ce9ee9df,tangledwings_glow_dxt5.dds,Art/Models/Items/BackAttachments/TangledWings/Textures_2,0,1398276
+f3579f470e778d65,tangledwings_glow_dxt5.dds.header,Tiny_2,56828002,1520
+19e62ab56eeb5004,tangledwings_colour_dxt5.dds,Art/Models/Items/BackAttachments/TangledWings/Textures_1,0,1398276
+2a10d54742c6f52e,tangledwings_colour_dxt5.dds.header,Tiny_2,56826482,1520

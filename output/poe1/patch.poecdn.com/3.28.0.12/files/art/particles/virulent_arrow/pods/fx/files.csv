@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+3de6337878ee04bc,sparkling_spark.mat,Tiny_7,57927902,1418
+439570071e558ab6,sparkling_spark.dds,Tiny_7,58001442,1572
+ac66e7b571d04251,sparkling_spark.dds.header,Tiny_7,58003014,504
+e382911672f9ab96,poison_lookup_dxt5.dds,Tiny_7,58276836,2212
+e2643b68f948779f,poison_lookup_dxt5.dds.header,Tiny_7,58279048,280
+202d2e0b47748d18,poison_lookup.mat,Tiny_7,57926916,986
+a4bbe5af28643c65,poison_lookup.dds,Tiny_7,58276836,2212
+257afe7adbfa7a29,poison_lookup.dds.header,Tiny_7,58279048,280
+278ca222b158b37c,impact.mat,Tiny_7,57924688,2228
+6d59e1e3d3f5b706,impact.dds,Art/particles/rain_of_spores/pod_aoe_1,0,22020
+60bfdfffb5376289,impact.dds.header,Tiny_7,58015076,1520

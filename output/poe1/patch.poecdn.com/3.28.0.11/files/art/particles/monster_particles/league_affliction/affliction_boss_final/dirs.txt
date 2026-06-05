@@ -1,7 +1,0 @@
-beam_ruckus
-material
-on_act
-skin_fx
-slash_barrage
-spam_projectiles
-warcry

@@ -1,0 +1,9 @@
+abyss_burning_ground
+abyss_oversoul_laser
+abyss_oversoul_laser/build_up
+abyss_scorching_ray
+abyss_scorching_ray/beam
+abyss_scorching_ray/end
+abyss_scorching_ray/player_burn
+abyss_scorching_ray/start
+abyss_scorching_ray/surge

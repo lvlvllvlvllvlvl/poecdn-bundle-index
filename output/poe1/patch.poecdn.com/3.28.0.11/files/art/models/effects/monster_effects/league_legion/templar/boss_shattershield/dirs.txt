@@ -1,6 +1,0 @@
-beam
-secondaryproj
-statue_activate
-statue_deactivate
-statue_death
-summon_in

@@ -1,0 +1,4 @@
+axe
+mace
+staff
+sword

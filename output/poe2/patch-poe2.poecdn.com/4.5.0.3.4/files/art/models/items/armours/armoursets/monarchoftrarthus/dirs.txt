@@ -1,7 +1,0 @@
-attachments
-attachments/belt_misc
-attachments/cloak
-attachments/hair
-attachments/helmet_crest
-attachments/robe
-textures

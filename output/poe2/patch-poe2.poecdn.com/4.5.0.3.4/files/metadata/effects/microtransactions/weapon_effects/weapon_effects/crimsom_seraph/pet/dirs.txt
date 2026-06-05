@@ -1,6 +1,0 @@
-axe_mace
-axe_mace_2h
-bow
-dwc
-staff
-sword

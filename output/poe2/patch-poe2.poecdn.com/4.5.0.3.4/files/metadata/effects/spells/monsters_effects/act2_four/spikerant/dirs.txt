@@ -1,9 +1,0 @@
-graphs
-mat
-mat/attack_02
-mat/posion_trail
-mat/spike
-mat/spike_poison
-mat/spikeball_poison
-mat/spikemortar_poison_explode
-pets

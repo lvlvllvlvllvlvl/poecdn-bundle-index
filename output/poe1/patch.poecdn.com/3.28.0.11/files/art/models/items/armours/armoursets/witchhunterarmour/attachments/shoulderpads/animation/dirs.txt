@@ -1,4 +1,0 @@
-l_side
-l_side/white
-r_side
-r_side/white

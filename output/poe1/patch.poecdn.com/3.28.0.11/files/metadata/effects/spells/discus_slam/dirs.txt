@@ -1,8 +1,0 @@
-epk
-fx
-graphs
-mat
-mat/holy_beam
-mat/holy_explosion
-mat/holy_implosion
-mat/holy_orb

@@ -1,8 +1,0 @@
-Aqueduct
-Arena
-Ascent
-Belly
-DriedLake
-LavaPlateau
-Town
-mine

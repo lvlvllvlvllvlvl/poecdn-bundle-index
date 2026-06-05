@@ -1,0 +1,5 @@
+on_act
+on_act/spell_aoe_01
+on_act/teleport_01
+staff
+volatile_proj_01

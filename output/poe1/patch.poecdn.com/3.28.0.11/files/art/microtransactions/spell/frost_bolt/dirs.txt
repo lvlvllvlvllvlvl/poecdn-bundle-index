@@ -1,9 +1,0 @@
-explosion
-hit
-maelstrom
-nova
-projectile
-textures
-textures/explosion
-textures/malestrom
-textures/projectile

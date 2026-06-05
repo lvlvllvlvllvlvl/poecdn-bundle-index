@@ -1,0 +1,4 @@
+boss_light
+onacts
+shocked_ground
+weapons

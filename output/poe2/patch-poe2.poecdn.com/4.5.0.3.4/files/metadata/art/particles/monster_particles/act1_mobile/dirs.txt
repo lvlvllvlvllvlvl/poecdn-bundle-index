@@ -1,4 +1,0 @@
-tenderizer
-tenderizer/textures
-tenderizer/textures/on_act
-tenderizer/textures/on_act/groundslam

@@ -1,3 +1,0 @@
-beacon_aoe
-bolt
-surge

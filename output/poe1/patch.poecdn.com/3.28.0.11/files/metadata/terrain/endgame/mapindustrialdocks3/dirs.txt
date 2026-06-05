@@ -1,4 +1,0 @@
-graphs
-pierobjects
-rooms
-rooms/injectors

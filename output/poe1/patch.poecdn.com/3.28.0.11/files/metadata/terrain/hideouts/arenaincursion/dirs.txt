@@ -1,5 +1,0 @@
-graphs
-objects
-rooms
-tiles
-tiles/attachments

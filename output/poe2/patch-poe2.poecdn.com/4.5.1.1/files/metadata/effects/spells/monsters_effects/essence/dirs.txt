@@ -1,0 +1,12 @@
+bloodball
+corruptionaura
+demon_grasp
+fire_wave_cascade
+holy_ion_cannon
+monolith
+monolith/epk
+monolith/graphs
+monolith_pulse
+necrobolt
+spider_debuff
+spidermortar

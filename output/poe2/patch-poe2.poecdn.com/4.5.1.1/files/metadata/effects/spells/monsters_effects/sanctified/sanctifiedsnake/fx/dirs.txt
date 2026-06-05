@@ -1,0 +1,8 @@
+floppy
+floppy/grounded_attack_01
+floppy/onact
+floppy/onact/attack_01
+onact
+onact/attack_02
+onact/death_bwd_01
+teeth_cone

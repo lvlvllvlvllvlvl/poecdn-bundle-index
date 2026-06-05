@@ -1,0 +1,16 @@
+french
+german
+japanese
+korean
+portuguese
+russian
+screenshots
+screenshots/panel10
+screenshots/panel11
+screenshots/panel2
+screenshots/panel4
+screenshots/panel8
+simplified chinese
+spanish
+thai
+traditional chinese

@@ -1,0 +1,5 @@
+1x1
+1x1/trap
+2x2
+2x2/trap
+unique

@@ -1,0 +1,13 @@
+abyssal
+abyssal/abyssdoor
+abyssal/tgms
+cliff
+cliff/tgms
+eternal
+eternal/eternalupdoor
+eternal/tgms
+oriathtoeternal
+oriathtoeternal/tgms
+vaal
+vaal/tgms
+vaal/vaalupdoor

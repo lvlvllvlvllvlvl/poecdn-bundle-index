@@ -1,3 +1,0 @@
-mb
-mb/animations
-mb/animations/wings_open_01

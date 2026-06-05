@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+85ed7e02feb10891,weapon_trail.mat,Tiny.VE,35511517,9336
+e835bcd6eb8e67ed,melee_trail.mat,Tiny.VD,36060569,13072
+d4f4690fe7ac17f2,soft_trail.mat,Tiny.V6,35877406,11222
+ea4e8a6c23812604,distortion_trail.mat,Tiny.VE,35505141,6376
+5055e86de2254260,edge_trail.mat,Tiny.V3,35442552,11816
+b76255b60a3f6caf,cutting_wind_trail.mat,Tiny.VC,36205657,12154
+fc648094025e18f2,blur_dust_render.mat,Tiny.V9,36406654,8558
+ca347caffda6fdf6,blur_dust_update.mat,Tiny.VA,36106540,3852
+f82a5f8f5d072605,jump_dust_render.mat,Tiny.VC,36217811,11222
+3c659b0f9d77e5c8,jump_dust_update.mat,Tiny.VA,36110392,1002

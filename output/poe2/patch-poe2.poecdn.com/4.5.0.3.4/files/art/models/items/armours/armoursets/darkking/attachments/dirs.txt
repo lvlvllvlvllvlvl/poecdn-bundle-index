@@ -1,8 +1,0 @@
-female
-female/robe
-female/robe/attachments
-female/robe/attachments/hipplates
-male
-male/robe
-male/robe/attachments
-male/robe/attachments/hipplates

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+bcc15b961661ca7a,village_transition_02.arm,Content/data/balance/worldareas/mapdeserted.vworld,1591494,9930
+68baf672cba07ced,mission_01.arm,Tiny.V6.1,208155157,2120
+c08a61bc260822fb,mission_2x2_01.arm,Content/data/balance/worldareas/mapdeserted.vworld,1558834,7666
+86bd2395c5dfd91a,mission_2x2_02.arm,Content/data/balance/worldareas/mapdeserted.vworld,1566500,7678
+431cb8343a0f4057,mission_2x2_03.arm,Content/data/balance/worldareas/mapdeserted.vworld,1574178,9650
+2739f0b24e359e3b,mission_2x2_04.arm,Content/data/balance/worldareas/mapdeserted.vworld,1583828,7666
+6845f865eb398c13,block_st_01.arm,Content/data/balance/worldareas/mapdeserted.vworld,1496036,6940
+9f3c716a88ab736c,block_transition.arm,Content/data/balance/worldareas/mapdeserted.vworld,1502976,55858
+ba8f0a48b09f25c8,block_exit_01.arm,Tiny.VE.1,207801619,3276
+959e0e062735b7d3,block_exit_02.arm,Content/data/balance/worldareas/mapdeserted.vworld,1490788,5248

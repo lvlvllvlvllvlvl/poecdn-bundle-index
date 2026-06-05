@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+53e730a87236b18b,deadeyearmour_malecns.mat,Tiny_8,2963160,2174
+fe1e0df4b05f666c,deadeyearmour_male_gloss.mat,Tiny_8,2962060,1100
+5bdfc70f5d5e5890,deadeyearmour_male_gloss.dds,Art/Textures/Items/armour/body/DeadeyeArmour_3,699212,1398276
+d42e307cbbc558b9,deadeyearmour_male_gloss.dds.header,Tiny_8,2960540,1520
+13f6f97c303c20b2,deadeyearmour_male_colour.dds,Art/Textures/Items/armour/body/DeadeyeArmour_3,0,699212
+f24a428bef37808e,deadeyearmour_male_colour.dds.header,Tiny_8,2959020,1520
+9b9a883ece0c263f,deadeyearmour_malens.dds,Art/Textures/Items/armour/body/DeadeyeArmour_2,0,1398276
+d1a913bd256d8295,deadeyearmour_malens.dds.header,Tiny_8,2965334,1520
+b70f7317880a11b4,deadeyearmour_femalecns.mat,Tiny_8,2955298,2202
+e79c9e23f14b7bf8,deadeyearmour_female_gloss.mat,Tiny_8,2954186,1112
+f588e204fd537e7b,deadeyearmour_female_gloss.dds,Art/Textures/Items/armour/body/DeadeyeArmour_1,699212,1398276
+33c11ccc1c2437f5,deadeyearmour_female_gloss.dds.header,Tiny_8,2952666,1520
+2bcd5e9190107326,deadeyearmour_female_colour.dds,Art/Textures/Items/armour/body/DeadeyeArmour_1,0,699212
+ace8bd7ab2f3ee5a,deadeyearmour_female_colour.dds.header,Tiny_8,2951146,1520
+ab1e852be603378f,deadeyearmour_femalens.dds,Art/Textures/Items/armour/body/DeadeyeArmour,0,1398276
+ab974d912a0cccb9,deadeyearmour_femalens.dds.header,Tiny_8,2957500,1520

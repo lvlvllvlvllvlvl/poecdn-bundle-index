@@ -1,0 +1,12 @@
+attachments
+epk
+fx
+graph
+mat
+mat/body_flames
+mat/elemental
+mat/emerge
+mat/minihand
+mat/portal
+mat/shooting_flames
+mat/wave_phys

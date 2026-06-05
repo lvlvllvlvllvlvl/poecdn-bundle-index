@@ -1,0 +1,12 @@
+grandma
+grandma/attachments
+grandma/attachments/feathers
+grandma/attachments/hair
+grandma/attachments/l_earring
+grandma/attachments/necklace
+grandma/attachments/robe
+grandson
+grandson/attachments
+grandson/attachments/bracelet
+grandson/attachments/hair
+grandson/attachments/robe

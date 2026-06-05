@@ -1,9 +1,0 @@
-shieldstrdex1
-shieldstrdex2
-shieldstrdex3
-shieldstrdex4
-shieldstrdex5
-shieldstrdex6
-shieldstrdexunique2
-shieldstrdexunique3
-shieldstrdexunique4

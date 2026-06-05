@@ -1,3 +1,0 @@
-assemble
-collapse
-idle_02

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+13c6087ad1507872,skelliesc.mat,Tiny_7,48503687,836
+73489377ce3ec727,skellies_dxt5.dds,Tiny_7,59092832,260
+7fdf73a3e6f352be,skellies_dxt5.dds.header,Tiny_7,59093092,496
+73fe564885a37308,skellies_bc1.dds,Tiny_8,50633045,204
+a23144c2ba94b9a9,skellies_bc1.dds.header,Tiny_8,50633249,496
+0108175edde24f12,bone_nmlao_dxt5.dds,Folders/art/particles/shapeshift/wolf_1,0,5592580
+af113dc331d9595a,bone_nmlao_dxt5.dds.header,Tiny_7,48502167,1520
+722245e52ad0b50c,bone_clr_dxt5.dds,Folders/art/particles/shapeshift/wolf,0,5592580
+df08e7299e9a7d9c,bone_clr_dxt5.dds.header,Tiny_7,48500647,1520

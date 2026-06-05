@@ -1,7 +1,0 @@
-pashawldex
-pashawldexint
-pashawlint
-pashawlstr
-pashawlstrdex
-pashawlstrdexint
-pashawlstrint

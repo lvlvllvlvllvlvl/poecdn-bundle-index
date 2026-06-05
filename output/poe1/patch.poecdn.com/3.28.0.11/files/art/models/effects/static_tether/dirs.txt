@@ -1,5 +1,0 @@
-ball
-bolt
-debuff
-explode
-projectile

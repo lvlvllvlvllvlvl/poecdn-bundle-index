@@ -1,6 +1,0 @@
-atl
-bowidle
-domain
-gasarrow
-projectile
-quiveridle

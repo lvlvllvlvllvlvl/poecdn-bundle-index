@@ -1,3 +1,0 @@
-attack_01
-cyclone_01
-walk_emerge_01

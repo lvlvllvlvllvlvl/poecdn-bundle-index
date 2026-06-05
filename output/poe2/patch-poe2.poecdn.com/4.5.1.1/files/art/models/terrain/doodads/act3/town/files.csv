@@ -1,0 +1,104 @@
+hash,file,bundle,offset,size
+625b0d8290707dbf,act3 townhideoutdoodads_76849524.smd,Streaming/Content/metadata/terrain/doodads/sarntown/act3town_stall02.ao,527440,39814
+3b09e232bdd553a1,act3 townhideoutdoodads_76849524.smd.header,Tiny.VF,16716618,830
+2ac26a672b356f55,act3 townhideoutdoodads_9770ca33.smd,Streaming/Content/metadata/terrain/doodads/sarntown/cage.ao,266057,39814
+265881f6fdd6626c,act3 townhideoutdoodads_9770ca33.smd.header,Tiny.VE,16508108,830
+a3774f42f7046d96,act3 townhideoutdoodads_52e5fc87.smd,Streaming/Content/metadata/terrain/doodads/forest/E7A9B7826554E66A.forest_outhouse_v01_01_doodad.ao,538479,111646
+675869af570224b6,act3 townhideoutdoodads_52e5fc87.smd.header,Tiny.VD,16410560,1590
+878e842d1322fab4,act3 townhideoutdoodads_0a3ec9c9.smd,Streaming/Content/metadata/terrain/doodads/forest/E7A9B7826554E66A.forest_outhouse_v01_01_doodad.ao,726964,100048
+eaead45887f1fcd6,act3 townhideoutdoodads_0a3ec9c9.smd.header,Tiny.VD,16409440,1120
+d7ec358883a2b5db,act3 townhideoutdoodads_0e2b9674.smd,Streaming/Content/metadata/terrain/doodads/forest/E7A9B7826554E66A.forest_outhouse_v01_01_doodad.ao,409643,128836
+417992d1dc29764b,act3 townhideoutdoodads_0e2b9674.smd.header,Tiny.V8,16676908,1333
+0adc092b09fd55a2,act3 townhideoutdoodads_bea255de.smd,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,482385,22376
+82272ec38e6f8656,act3 townhideoutdoodads_bea255de.smd.header,Tiny.VE,16508938,449
+1ee86b78d23085ca,act3 townhideoutdoodads_16aa5bdd.smd,Streaming/Content/metadata/terrain/doodads/sarntown/act3town_stall02.ao,487612,39828
+c43db8a9dcafd8b9,act3 townhideoutdoodads_16aa5bdd.smd.header,Tiny.V5,16347897,837
+e594df75a852a360,act3town_cornerwall01.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/act3town_cornerwall01.ao,0,5955
+723d4d8d1c246029,act3town_cornerwall01.fmt.header,Tiny.V1,16576213,281
+fe7ad9a963403d5f,act3town_table01.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,527114,23969
+ab0e647f72b579ff,act3town_table01.fmt.header,Tiny.V0,16823269,441
+3755dd5216377a00,act3town_mast01.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/cage.ao,409345,41793
+c981ea0bd3d2258e,act3town_mast01.fmt.header,Tiny.V3,16494268,440
+51f90c2cbfc59b07,act3town_meatstall02.fmt,Streaming/Content/metadata/terrain/doodads/forest/E7A9B7826554E66A.forest_outhouse_v01_01_doodad.ao,650125,76839
+f8859ede68b12fee,act3town_meatstall02.fmt.header,Tiny.V7,16594374,437
+4bf20c09e82efb8e,act3town_meatstall01.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/cage.ao,371318,38027
+122d93e16256c8a0,act3town_meatstall01.fmt.header,Tiny.V0,16822389,524
+de92525bbe16d93c,act3town_meattable01.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/cage.ao,451138,39317
+9cba470736f75313,act3town_meattable01.fmt.header,Tiny.V9,16948478,272
+a3f9af3bf0f7bc54,act3town_meattable02.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/act3town_stall02.ao,458925,28687
+5a9b17eb29ffa987,act3town_meattable02.fmt.header,Tiny.V9,16948750,450
+a872ab36bc707ca6,act3town_rug01.fmt,Tiny.V4,16934098,331
+e0d90cca55d7016c,act3town_rug01.fmt.header,Tiny.V1,16576494,208
+002a0dda89a04f18,act3town_rug05.fmt,Tiny.VB,16686775,555
+fa4bf3b368e89301,act3town_rug05.fmt.header,Tiny.VD,16412358,208
+d8e11b08d65063dd,act3town_rug02.fmt,Tiny.V3,16494708,277
+75263921454795dd,act3town_rug02.fmt.header,Tiny.V1,16576702,208
+cea5f085b407eeb6,act3town_rug03.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,382511,7889
+43694bfa87835742,act3town_rug03.fmt.header,Tiny.V2,16834829,208
+04ebf143fd3de60e,act3town_rug04.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,419000,10659
+b0c4f89f5034ef10,act3town_rug04.fmt.header,Tiny.V0,16822913,356
+6ba7947f1abab58c,act3town_anvil01.fmt,Tiny.V5,16348734,4095
+e9ce625a37bb6b3e,act3town_anvil01.fmt.header,Tiny.VA,16647228,275
+c3846eb06bd92d9d,act3town_fence01.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,294554,7475
+e85cdf07969ad069,act3town_fence01.fmt.header,Tiny.V4,16933867,231
+ae93b5a7e492ff7e,act3town_fence02.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,309998,7475
+c20800ab145f61a2,act3town_fence02.fmt.header,Tiny.V7,16594143,231
+cba1d6267728e700,act3town_fence03.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,302029,7969
+b8d17626622ca257,act3town_fence03.fmt.header,Tiny.VA,16648438,231
+54711d86f80a903d,act3town_firepit07.sm,Tiny.VF,16717786,542
+acff955c0bed87e3,act3town_firepit07.amd,Tiny.V9,16948382,96
+d4b49e1efecd3594,act3town_firepit07.ast,Content/data/balance/worldareas/mapforge.vworld,2791906,4592
+3f8a8180561ed08a,act3town_firepit09.sm,Tiny.VC,16622063,542
+68d60b7e9dca6685,act3town_firepit09.amd,Tiny.V9,16948382,96
+1dae8f7d6077014c,act3town_firepit09.ast,Content/data/balance/worldareas/mapforge.vworld,2787314,4592
+935cddea2b97b589,act3town_firepit01.sm,Tiny.VF,16717448,338
+452b60a690f29c77,act3town_firepit01.amd,Tiny.V3,16493935,80
+c4940017bd874638,act3town_firepit01.ast,Tiny.V3,16494015,253
+a4ddbb264e903c4a,act3town_firepit010.sm,Tiny.V8,16678449,542
+d10be2659803bee2,act3town_firepit010.amd,Tiny.V9,16948382,96
+ba3da44e640fe1db,act3town_firepit010.ast,Content/data/balance/worldareas/mapforge.vworld,2768233,4595
+6336852731586b23,act3town_brickpath04.fmt,Tiny.VB,16686048,727
+7f45668c77e49465,act3town_brickpath04.fmt.header,Tiny.V9,16948174,208
+30d4e5eab1308f5c,act3town_brickpath05.fmt,Tiny.V2,16834102,727
+c235d113fdfff614,act3town_brickpath05.fmt.header,Tiny.V8,16678241,208
+f434287c1e157038,act3town_brickpath01.fmt,Tiny.VA,16647503,727
+65f67558a9d27d90,act3town_brickpath01.fmt.header,Tiny.VA,16648230,208
+33dbef14fdc9ea78,act3town_brickpath02.fmt,Tiny.VE,16509387,727
+60f5dc158ea7212e,act3town_brickpath02.fmt.header,Tiny.VD,16412150,208
+b8933e31b28c189b,act3town_brickpath03.fmt,Tiny.V0,16821662,727
+6cee44633b40daf7,act3town_brickpath03.fmt.header,Tiny.VC,16621855,208
+0c0e77c92ad95489,act3town_stand04.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,323486,6825
+e31fb0e07d236965,act3town_stand04.fmt.header,Tiny.V1,16577323,232
+ed6cebbcd9897826,act3town_stand02.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,357426,9779
+1265ab15eae5e873,act3town_stand02.fmt.header,Tiny.V8,16679509,531
+0bde585ddc117053,act3town_stand01.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,504761,22353
+184e4ffde5bb2f75,act3town_stand01.fmt.header,Tiny.VE,16510780,746
+6d2663aa7f288d3f,act3town_stand05.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,390400,10799
+2aafa09e5ba99e35,act3town_stand05.fmt.header,Tiny.VC,16623123,823
+c7ddb42875f98239,act3town_stand03.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,367205,7875
+c4b70efc203ae53f,act3town_stand03.fmt.header,Tiny.V5,16352829,232
+603149f68c8ded0d,act3town_stallmain2.sm,Tiny.VF,16718328,662
+3cd40908e8dfe0e9,act3town_stallmain2.amd,Tiny.V9,16948382,96
+7069fd849f63957d,act3town_stallmain2.ast,Tiny.V3,16495339,3665
+58c3e30b19032d86,act3town_stallmain1.sm,Tiny.VE,16510114,666
+517c5e19c120388f,act3town_stallmain1.amd,Tiny.V9,16948382,96
+fc359bbb13ee7ea5,act3town_stallmain1.ast,Content/data/balance/worldareas/mapforge.vworld,2772828,14486
+6dc2d24ae5bea205,act3town_stallmain3.sm,Tiny.V7,16595936,664
+4335c3cc9c8ed33c,act3town_stallmain3.amd,Tiny.V9,16948382,96
+ddf1df44f0460746,act3town_stallmain3.ast,Content/data/balance/worldareas/mapforge.vworld,2796498,7060
+f70249d906880d45,act3town_stall03.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/act3town_stall03.ao,0,15517
+a075fc0dd6d7f3cd,act3town_stall03.fmt.header,Tiny.VA,16648669,434
+8ddfe6449750dcb8,act3town_stall01.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/cage.ao,340697,30621
+f09cc49e9079d227,act3town_stall01.fmt.header,Tiny.V8,16678991,518
+d1ca6f2f8522a1c4,act3town_stall04.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/cage.ao,490455,65049
+7a6a2f9b63ce19ca,act3town_stall04.fmt.header,Tiny.V7,16594811,680
+874c007f375c28f8,act3town_stall07.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/act3town_stall02.ao,412427,21545
+93f52345da8064d1,act3town_stall07.fmt.header,Tiny.V1,16576910,413
+c4e9fcfad1e60ab9,act3town_stall05.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/act3town_stall02.ao,433972,24953
+ec48ed55d167ae12,act3town_stall05.fmt.header,Tiny.V7,16595491,445
+0733a531896082be,act3town_stall08.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/act3town_stall02.ao,390960,21467
+3ba9b79ff2134ae2,act3town_stall08.fmt.header,Tiny.VC,16622605,518
+5f6917b4ab9d1123,act3town_stall06.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/table_02.ao,469094,13291
+c85bb23edbb3f6b1,act3town_stall06.fmt.header,Tiny.V3,16494985,354
+63d7bf613415bc22,act3town_stall02.fmt,Streaming/Content/metadata/terrain/doodads/sarntown/act3town_stall02.ao,0,34503
+0a12bea10733e811,act3town_stall02.fmt.header,Tiny.V6,16741862,448

@@ -1,0 +1,4 @@
+thematic_areas
+thematic_areas/proto_city
+thematic_areas/proto_city/soldiers
+thematic_areas/proto_city/soldiers/summon_mannequin

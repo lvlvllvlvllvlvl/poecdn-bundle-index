@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+68861b0eb3ef8f93,geoc.mat,Tiny_6,37324512,1958
+d33226341c2bb4b6,geo.dds,Art/particles/freezing_tide,175112,349700
+f65fc0abf7f1b693,geo.dds.header,Tiny_6,37322992,1520
+79b6c4abf7a08815,cyl_smoke2.mat,Tiny_6,37322078,914
+daa6e34f8f8b3056,cyl_smoke2.dds,Art/particles/freezing_tide,87556,87556
+325e8d4792356bdd,cyl_smoke2.dds.header,Tiny_7,47381949,1520
+044bdac80820d54d,cyl_smoke.mat,Tiny_6,37321170,908
+c92e49f6513786f4,cyl_smoke.dds,Art/particles/raise_specter_1,0,87556
+cdca0fcc78b14489,cyl_smoke.dds.header,Tiny_7,47379521,1520
+54f5e8507a14c0af,cyl_dust.mat,Tiny_6,37320268,902
+e69c53c3b661c951,cyl_dust.dds,Art/particles/conditions,0,22020
+1cf775006402036d,cyl_dust.dds.header,Tiny_7,55324279,1520
+c41fdbf33847634c,cleavedistortiontestc.mat,Tiny_6,37318934,1334
+aba069876c5bbc6e,cleavedistortiontest.dds,Art/particles/freezing_tide,0,87556
+8176c033d46108d8,cleavedistortiontest.dds.header,Tiny_6,37317414,1520

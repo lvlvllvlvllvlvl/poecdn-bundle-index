@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+48f9de75aac9e013,runes_detailed.mat,Tiny.V2,35124227,3232
+d06745f4de77c371,runes_detailed.dds,Streaming/Content/metadata/particles/fireball_new/fireball_loop.pet,416412,87588
+1130e46f57a9807f,runes_detailed.dds.header,Tiny.V0,35311098,504
+ff2e11b832d57a51,runes.mat,Tiny.VF,35239953,3036
+65676c20eedefe2d,runes.dds,Streaming/Content/metadata/particles/fireball_new/fireball_loop.pet,197360,87588
+2742d63f74dca931,runes.dds.header,Tiny.V0,35311098,504
+3d2bf33297dbac3c,smoke.mat,Tiny.VB,35282939,2194
+ae74c4ae302d3791,smoke.dds,Streaming/Content/metadata/particles/fireball_new/fireball_loop.pet,284948,43876
+44090c8714b04be7,smoke.dds.header,Tiny.V0,38003618,840
+806766bb9407d11e,glow_firec.mat,Tiny.V0,35279313,1968
+b315aadcf1e4d336,glow_fire.dds.header,Tiny.V8,34812687,1520
+82252f21049537cc,maskncolourc.mat,Tiny.VF,35237495,2458
+5a4c170564bf1b89,maskncolour.dds,Streaming/Content/metadata/effects/spells/firebomb/680130DA6515B6C3.firebomb_beam.ao,21516,87556
+8480fa76b579927b,maskncolour.dds.header,Tiny.V1,5487582,1520

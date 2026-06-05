@@ -1,0 +1,6 @@
+epk
+fx
+mat
+mat/ground_fx
+mat/melee_trail
+mat/pustule_explode

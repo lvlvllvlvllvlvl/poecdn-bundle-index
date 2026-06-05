@@ -1,0 +1,5 @@
+slumsbarrels
+slumsbrokenjars
+slumscrates
+slumspots
+slumsscatterprops

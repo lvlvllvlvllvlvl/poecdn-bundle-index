@@ -1,0 +1,10 @@
+arena
+city
+clean
+filthy
+gold
+paintmasks
+sacrificial
+sanctum
+sunken
+trialmaster

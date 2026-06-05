@@ -1,6 +1,0 @@
-attachments
-attachments/fleshwardenbigbrain
-attachments/warlordmiseryrobe
-attachments/warlordmiseryrobefemale
-textures
-texturesfx

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+140e64bde676c819,tencentgoddessapparitionc.mat,Tiny_8,2822854,10660
+e624ff3c1d4dbcc6,tencentgoddessapparition_proxyc.mat,Tiny_8,2813564,6250
+fe8535ee222acef5,tencentgoddessapparition_wing_mask_dxt1.dds,Art/Textures/Items/ApparitionEffect/TencentGoddess_3,1398424,699212
+56a0720f4180e245,tencentgoddessapparition_wing_mask_dxt1.dds.header,Tiny_8,2819814,1520
+53b9ad3d247c9c71,tencentgoddessapparition_wings_dxt1.dds,Art/Textures/Items/ApparitionEffect/TencentGoddess_3,699212,699212
+da229c003f75c78a,tencentgoddessapparition_wings_dxt1.dds.header,Tiny_8,2821334,1520
+dfa5c821bf2e28b3,tencentgoddessapparition_normal_dxt5.dds,Art/Textures/Items/ApparitionEffect/TencentGoddess_1,0,1398276
+4d782e03a941e068,tencentgoddessapparition_normal_dxt5.dds.header,Tiny_8,2812044,1520
+58d34b077235f5c0,tencentgoddessapparition_glow_dxt1.dds,Art/Textures/Items/ApparitionEffect/TencentGoddess_3,0,699212
+59318bf36009d205,tencentgoddessapparition_glow_dxt1.dds.header,Tiny_8,2810524,1520
+8f69a9984102cd47,tencentgoddessapparition_colour_dxt1.dds,Folders/art/textures/items/apparitioneffect/tencentgoddess,0,699212
+1300245f7cb39aa4,tencentgoddessapparition_colour_dxt1.dds.header,Tiny_8,2809004,1520

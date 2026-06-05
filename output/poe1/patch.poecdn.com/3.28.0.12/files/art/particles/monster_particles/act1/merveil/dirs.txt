@@ -1,0 +1,8 @@
+act_bigwave
+death
+death/explode
+geyser
+screech
+teleport
+weapons
+weapons/summon

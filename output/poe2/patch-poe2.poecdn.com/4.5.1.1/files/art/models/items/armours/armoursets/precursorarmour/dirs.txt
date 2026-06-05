@@ -1,0 +1,7 @@
+attachments
+attachments/paglovel
+attachments/paglover
+attachments/paheadattachment
+attachments/pashawl
+attachments/paskirt
+textures

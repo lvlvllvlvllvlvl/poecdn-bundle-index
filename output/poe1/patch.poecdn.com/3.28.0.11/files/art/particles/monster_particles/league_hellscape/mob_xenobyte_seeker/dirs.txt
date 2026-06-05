@@ -1,7 +1,0 @@
-mbs
-mbs/beam
-mbs/beam_impact
-mbs/onacts
-mbs/onacts/attack_01
-mbs/onacts/attack_02
-mbs/projectile

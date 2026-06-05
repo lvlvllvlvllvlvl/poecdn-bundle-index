@@ -1,5 +1,0 @@
-fungal
-fungal/mb
-fungal/texture
-mb
-texture

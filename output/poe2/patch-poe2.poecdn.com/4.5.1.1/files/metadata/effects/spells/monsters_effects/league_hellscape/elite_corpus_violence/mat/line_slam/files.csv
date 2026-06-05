@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+ac5eac1d405e1c94,impact_blurup_01_r.mat,Tiny.V8.1,132597696,36474
+4e6bd4af78981783,impact_debris_01_r.mat,Tiny.V8.1,154108042,34430
+de308d3c8df01154,seg_blurup_01_u.mat,Tiny.V7.1,150502740,2208
+83045587b190e57f,seg_flash_01_r.mat,Tiny.V8.1,153271076,21420
+ace6daecba78a6e5,seg_flash_01_u.mat,Tiny.V9.1,6285749,1456
+2b9008e5edb19f3f,seg_decal_01_r.mat,Tiny.V0.1,152971944,44990
+6f88e05542a29f2e,seg_decal_01_u.mat,Tiny.V9.1,6285749,1456
+0fe67bfb74e0652b,seg_debris_01_u.mat,Tiny.VF.1,150492374,25112
+0c4bd0a9575e03af,seg_debris_02_r.mat,Tiny.V3.1,24822379,30194
+51accf9dfd1e6fc6,seg_debris_02_u.mat,Tiny.V7.1,150504948,27004
+e78475e6fbe9bd4d,seg_dust_01_r.mat,Tiny.VB.1,153165393,18992
+972b1b5ab93bc5d0,seg_dust_01_u.mat,Tiny.VD.1,153033166,19780

@@ -1,0 +1,7 @@
+1x1
+cells
+cliff
+deepwater
+fills
+unique
+wall

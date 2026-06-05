@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+3c9b43b9d4016392,channeltochannelprelight.fxgraph,Folders/metadata/A/terrain,17715608,145256
+bd711732b860b767,fresnel_emissive_multi_remap.fxgraph,Folders/metadata/effects_5,14627646,63926
+85d52b753622531d,hitfx_blood.fxgraph,Folders/metadata/effects_5,14906278,348598
+c34016757fdfa0a2,trail_uvs_tip.fxgraph,Folders/metadata/effects_5,15849772,14744
+a0f9f5988150c7c6,mask_nebula.fxgraph,Folders/metadata/effects_5,15254876,292130
+26a5b5daa8cf69bf,mask_texturestatic_texturingfinal.fxgraph,Folders/metadata/mapdevices,3155122,380314
+625549f782e2eaee,mask_uvs_static_prelight.fxgraph,Folders/metadata/effects_5,15547006,302766
+470d1fbd232e855f,grad_space_projective_add.fxgraph,Folders/metadata/effects_5,14691572,71564
+e25a3310188f52a1,grad_space_projective_emissive_multi.fxgraph,Folders/metadata/effects_5,14763136,57848
+341623a6bcae077b,grad_space_projective_multi.fxgraph,Folders/metadata/effects_5,14820984,41102
+55b6158ebdc7b1bd,grad_space_projective_multi_downscaled.fxgraph,Folders/metadata/effects_5,14862086,44192

@@ -1,5 +1,0 @@
-iceshard_projectile
-iceshard_projectile/blue_projectile
-iceshard_projectile/green_projectile
-iceshard_projectile/nova
-iceshard_projectile/red_projectile

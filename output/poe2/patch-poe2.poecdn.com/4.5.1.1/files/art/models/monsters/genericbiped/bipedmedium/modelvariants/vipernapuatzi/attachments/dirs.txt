@@ -1,0 +1,9 @@
+headdress
+robe
+skincape
+skinhair
+skinheaddress
+skinskirt
+skinskirt/bones
+skinweapon
+spear

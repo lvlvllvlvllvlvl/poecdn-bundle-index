@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+53b466ffe1498073,necroticcloak_mask_dxt1.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.80D8244CC7A38A87.necroticcloak.fmt,0,699212
+1b288da1aac199e1,necroticcloak_mask_dxt1.dds.header,Tiny.VC,3765300,1520
+524d04d4a1217a94,scrolly_dxt1.dds,Streaming/Content/art/models/items/armours/D42D4D09DC2F78E6.80D8244CC7A38A87.necroticcloak.fmt,699212,43852
+37fc684d769cc9ad,scrolly_dxt1.dds.header,Tiny.V6,3726217,1520
+a08387a8eb56aab4,wisp.mat,Tiny.V5,3850157,1082
+356c1d3b305d8158,wisp.dds,Streaming/Content/metadata/items/armours/capes/necroticcapeheld.ao,16744,174948
+4c55a1997783bc97,wisp.dds.header,Tiny.VF,6624667,840
+c941874d6af8b6d3,green_light_grad.mat,Tiny.VE,3884324,1154
+019ac21aa90d871e,green_light_grad.dds,Streaming/Content/metadata/items/armours/capes/necroticcapeheld.ao,0,5636
+00ebc9c0d8a09e7a,green_light_grad.dds.header,Tiny.V9,3807315,1520
+0e0f95e807cf9f53,trail_add.mat,Tiny.VF,3805973,1544
+d5a804d5fb020478,trail_add.dds,Streaming/Content/metadata/items/armours/capes/necroticcapeheld.ao,5636,11108
+ed3aec3d5b5ed9c7,trail_add.dds.header,Tiny.VA,6636742,840

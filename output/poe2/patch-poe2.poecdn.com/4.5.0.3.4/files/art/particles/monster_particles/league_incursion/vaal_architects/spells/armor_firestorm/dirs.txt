@@ -1,2 +1,0 @@
-armor_projectiles
-armor_projectiles/fx

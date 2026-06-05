@@ -1,7 +1,0 @@
-alttiles
-alttiles/quay
-boats
-boats/tgms
-ledgelow
-ledgelow/tgms
-tgms

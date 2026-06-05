@@ -1,0 +1,7 @@
+vaal_crawler
+vaal_crystal_totem
+vaal_goliath
+vaal_goliath/blood_orbs
+vaal_goliath/on_act
+vaal_goliath/on_act/attack
+vaal_overseer

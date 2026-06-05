@@ -1,2 +1,0 @@
-cc_01_tendrils
-heightcv_01_tendrils

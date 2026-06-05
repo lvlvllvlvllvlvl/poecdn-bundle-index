@@ -1,5 +1,0 @@
-beam_ball
-lightning_beams
-lightning_bolts
-orb
-teleport_skill

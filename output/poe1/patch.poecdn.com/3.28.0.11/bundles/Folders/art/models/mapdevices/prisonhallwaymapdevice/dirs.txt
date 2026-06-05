@@ -1,4 +1,0 @@
-doors
-hallwaycircle
-hallwaylarge
-hallwaysmall

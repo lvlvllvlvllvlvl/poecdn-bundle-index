@@ -1,4 +1,0 @@
-on_death_weapon_charge_finished_saresh
-on_death_weapon_charge_finished_zarokh
-on_death_weapon_idle_saresh
-on_death_weapon_idle_zarokh

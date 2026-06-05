@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+2affe4b7a965cd90,lava_flow.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5AC03A6B1642F110.B0490832BB57C732.beamfirestorm_aoemarker.ao,1049100,87556
+1ac3683d8a77d7e6,lava_flow.dds.header,Tiny.VA,39693143,1520
+13be5ba74dbd1c99,mask.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5AC03A6B1642F110.B0490832BB57C732.beamfirestorm_aoemarker.ao,1136656,349700
+c81c3126ad64a754,mask.dds.header,Tiny.V6,39494006,1520
+b45f173d67bae553,crax_multhmapncrax_mults.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5AC03A6B1642F110.B0490832BB57C732.beamfirestorm_aoemarker.ao,699400,349700
+8481ce2b6a7b5e1c,crax_multhmapncrax_mults.dds.header,Tiny.V8,39060373,1520
+36c0748958a94c0c,crax_mult_atccrax_multhmapncrax_mults.mat,Tiny.V1,39335335,5112
+9532701e05561f3f,crax_mult_at.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5AC03A6B1642F110.B0490832BB57C732.beamfirestorm_aoemarker.ao,349700,349700
+23ac6639b1b41bc0,crax_mult_at.dds.header,Tiny.VE,38969332,1520
+bfdfa744da70d274,crax_add_atc.mat,Tiny.V7,39438745,5850
+f76e85eec4fa54ac,crax_add_at.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5AC03A6B1642F110.B0490832BB57C732.beamfirestorm_aoemarker.ao,0,349700
+3ecd52ff189b83e4,crax_add_at.dds.header,Tiny.V1,39333815,1520

@@ -1,8 +1,0 @@
-epk
-fx
-mat
-mat/flask_sacred_water
-mat/player_buff
-mat/pour_sacred_water
-mat/water_level
-mat/water_level_bowl

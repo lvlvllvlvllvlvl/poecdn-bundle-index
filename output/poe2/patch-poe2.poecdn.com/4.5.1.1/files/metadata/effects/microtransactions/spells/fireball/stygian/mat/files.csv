@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+e41649353d0b52ce,rig_trail.mat,Tiny.V1.1,173789240,32968
+a48e3c53db75f9fc,rig_trl_bg.mat,Tiny.V4.1,175038590,23034
+97eea9d3823a47a6,rig_distortion_render.mat,Tiny.V8.1,48159952,13102
+6dd6fb8fdf81e5c6,rig_distortion_update.mat,Tiny.VF.1,45857526,6082
+49b5c324d31fee7b,rig_greater_head_r.mat,Tiny.V6.1,35574081,46408
+404ec354fda82077,rig_greater_head_u.mat,Tiny.VC.1,46720677,1370
+20ecf637913cd58d,rig_flames_render.mat,Tiny.VD.1,46606964,19656
+d8227439dab182d5,rig_flames_update.mat,Tiny.V1.1,82697576,3094
+6992156139dc412e,rig_fireembers_r.mat,Tiny.V8.1,48189774,30796
+c9ba36f7b7f43eec,rig_fireembers_u.mat,Tiny.V8.1,48220570,19782
+9c230f96a8d0a02b,rig_fireball_spine_r.mat,Tiny.V8.1,36710568,43034
+2b2c4d6d682452d6,rig_fireball_head_r.mat,Tiny.V1.1,35633402,21622
+c5277114e87afc5c,rig_fireball_head_u.mat,Tiny.VE.1,34969322,2348

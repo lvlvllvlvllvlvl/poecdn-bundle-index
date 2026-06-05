@@ -1,0 +1,12 @@
+mat
+mat/basic_arrow
+mat/lightning_rods
+pet
+pet/basic_arrow
+pet/sr_arrow_lightning
+pet/sr_impact_lightning
+pet/sr_lightning_beam
+pet/sr_placed_object_lightning
+pet/sr_placed_object_lightning/emerge
+pet/sr_placed_object_lightning/idle
+pet/sr_placed_object_lightning/submerge

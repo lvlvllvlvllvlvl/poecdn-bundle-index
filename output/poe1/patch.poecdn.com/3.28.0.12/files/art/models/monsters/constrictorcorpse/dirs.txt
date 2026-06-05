@@ -1,0 +1,7 @@
+demonfemalerangeremake
+demonfemalerangeremake/animations
+demonfemalerangeremake/attachments
+demonfemalerangeremake/attachments/chains
+demonfemalerangeremake/attachments/skirt
+demonfemalerangeremake/attachments/skirtbreachtorchheaded
+textures

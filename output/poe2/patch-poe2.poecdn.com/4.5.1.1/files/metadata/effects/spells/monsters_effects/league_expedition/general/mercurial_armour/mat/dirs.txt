@@ -1,0 +1,10 @@
+alive
+attack_01
+cleave_proj_01
+enraged
+flameblast_explode
+flameblast_marker
+flameblast_onact
+onact_attack01
+projectile_enraged
+shield_wall_walk_01

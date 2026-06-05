@@ -1,8 +1,0 @@
-attachments
-attachments/female
-attachments/female/eascarff
-attachments/female/easkirtf
-attachments/male
-attachments/male/eascarfm
-attachments/male/easkirtm
-textures

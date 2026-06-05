@@ -1,0 +1,16 @@
+elderfied
+evil
+evil/new
+evil_red
+fire
+haste
+holy
+ice
+lava
+lightning
+malachai_sporeground
+player_tar
+spike
+tar
+vaal_cloud
+white_fire

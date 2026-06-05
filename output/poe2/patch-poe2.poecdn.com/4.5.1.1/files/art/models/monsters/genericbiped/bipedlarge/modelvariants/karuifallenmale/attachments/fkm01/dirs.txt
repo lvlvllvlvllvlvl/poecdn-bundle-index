@@ -1,0 +1,11 @@
+attachments
+attachments/fkm0101
+attachments/fkm0101/fkm0101_feathers
+attachments/fkm0101/fkm0101_robe
+attachments/fkm0101/fkm0101_robeaccessories
+attachments/fkm0102
+attachments/fkm0102/fkm0102_robe
+attachments/fkm0102/fkm0102_robeaccss
+attachments/fkm0103
+attachments/fkm0103/fkm0103_feathers
+attachments/fkm0103/fkm0103_robe

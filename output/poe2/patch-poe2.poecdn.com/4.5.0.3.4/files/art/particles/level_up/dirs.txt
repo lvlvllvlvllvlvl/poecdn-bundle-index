@@ -1,6 +1,0 @@
-gem_levelup
-gem_levelup/blue
-gem_levelup/green
-gem_levelup/red
-new
-quest_reward

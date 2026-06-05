@@ -1,7 +1,0 @@
-chest_chain
-shoulderpad
-shoulderpad/strint
-skirt
-skirt/attachments
-skirt/attachments/left_hip_plate
-skirt/attachments/right_hip_plate

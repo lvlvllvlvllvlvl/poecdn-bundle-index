@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+8ee4a821b3738187,disperse_sparks_r.mat,Tiny.V9.1,145838653,18122
+3f3e8aa26564a416,disperse_sparks_u.mat,Tiny.VA.1,144927595,21858
+7329a6f6f594b7f9,point_distort_r.mat,Tiny.V7.1,3003034,8982
+17d7262dc92e8df5,point_distort_u.mat,Tiny.V4.1,27757426,902
+2e16ee66dc6d0073,sphere_distort_r.mat,Tiny.V3.1,145205055,12006
+506313de38ea9bec,sphere_distort_u.mat,Tiny.VD.1,5322818,346
+487925129bd30233,bloodstreak_r.mat,Tiny.VE.1,143067386,57560
+7fbab160edee56e8,bloodstreak_u.mat,Tiny.V3.1,2876851,6082
+64e586f9956f0600,bloodsplash_r.mat,Tiny.VE.1,143017280,50106
+d18137deb45756df,bloodsplash_u.mat,Tiny.V8.1,145055248,17420
+7376d3339f3a04b9,bloodsphere_r.mat,Tiny.V2.1,2374760,32202
+441453d7d34e4aee,bloodsphere_u.mat,Tiny.V3.1,2874583,2268
+ea2708dd3c5d202e,bloodground_r.mat,Tiny.V0.1,2469768,61900
+219f6c3b538533ae,bloodground_u.mat,Tiny.VD.1,5322818,346

@@ -1,0 +1,6 @@
+idle_relaxed_01
+idle_relaxed_01/head_smack
+idle_relaxed_01/hook
+idle_relaxed_01/hook_impact
+idle_relaxed_02
+idle_relaxed_02/impact

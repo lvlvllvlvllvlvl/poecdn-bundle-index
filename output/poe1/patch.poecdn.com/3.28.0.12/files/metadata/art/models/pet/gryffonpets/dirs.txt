@@ -1,0 +1,3 @@
+fx_darkshard
+fx_lightbringer
+fx_tecent

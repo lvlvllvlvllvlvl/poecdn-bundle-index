@@ -1,7 +1,0 @@
-mb
-mb/projectile
-mb/spawndeath
-textures
-textures/bodyfx
-textures/death
-textures/spawndeath

@@ -1,0 +1,3 @@
+bodyfx
+fire
+fire/flamethrower

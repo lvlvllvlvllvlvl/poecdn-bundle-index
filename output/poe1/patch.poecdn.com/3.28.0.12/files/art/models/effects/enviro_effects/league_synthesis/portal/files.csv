@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+4de5c82eb9073a36,synthesisportal.sm,Tiny_1,87377703,848
+f243214962a3eb32,shard_04.fmt,Tiny_2,5819390,1501
+049eb4793705d67a,shard_04.fmt.header,Tiny_2,5820891,174
+55e3806111d281bc,shard_03.fmt,Tiny_2,5817139,2077
+096a9117934863a9,shard_03.fmt.header,Tiny_2,5819216,174
+8f1a8667c7dccabe,shard_02.fmt,Tiny_2,5858074,2557
+7f3c8b2271b6d51f,shard_02.fmt.header,Tiny_2,5860631,174
+e73726d1bb0736fe,shard_01.fmt,Tiny_2,5854647,3253
+3420fed3f7eb873d,shard_01.fmt.header,Tiny_2,5857900,174
+7987166d800be287,rig_8c6a73c6.smd,Art/Models/Effects/enviro_effects/League_Synthesis/portal,0,57480
+e10fe2efc3989e07,rig_8c6a73c6.smd.header,Tiny_1,87377335,368
+c47962adeeb2e161,rig.amd,Tiny_1,87375234,280
+ea4474f3b88a78be,rig.ast,Tiny_1,87375514,1821
+b65159bc7d9bf39a,narrow_cone.fmt,Tiny_1,87373009,2225
+c6a6ef4982679d09,narrow_cone.fmt.header,Tiny_2,8447955,176

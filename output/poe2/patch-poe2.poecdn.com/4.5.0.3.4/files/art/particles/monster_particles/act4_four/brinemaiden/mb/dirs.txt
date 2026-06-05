@@ -1,4 +1,0 @@
-screech
-spear_barrage_cascade
-spear_barrage_cascade/cascade
-spear_barrage_cascade/projectile

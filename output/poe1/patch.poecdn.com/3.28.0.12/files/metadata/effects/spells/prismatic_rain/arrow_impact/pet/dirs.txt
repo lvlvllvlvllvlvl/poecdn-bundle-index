@@ -1,0 +1,3 @@
+explosion_cold
+explosion_fire
+explosion_lightning

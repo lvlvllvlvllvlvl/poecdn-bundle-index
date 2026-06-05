@@ -1,2 +1,0 @@
-mortar_impact
-mortar_projectile

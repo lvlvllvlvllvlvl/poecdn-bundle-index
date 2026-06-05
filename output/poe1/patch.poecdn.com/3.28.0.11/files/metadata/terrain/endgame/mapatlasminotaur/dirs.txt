@@ -1,5 +1,0 @@
-graphs
-rooms
-rooms/fills
-rooms/unique
-rooms/unique/injectors

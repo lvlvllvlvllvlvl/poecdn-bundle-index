@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+5ce5ea5f8f45c361,channel_smoke_02_dxt5.dds,Streaming/Content/metadata/particles/surge_v03/flame_surge.pet,490561,43876
+c4c63e6f353728df,channel_smoke_02_dxt5.dds.header,Tiny.VA,35048368,840
+383d3ec630cbe3dd,gradiantc.mat,Tiny.VB,41816556,2472
+747e5e38b9d7dd90,grdfrost.mat,Tiny.VB,41819028,10188
+23236f3cdd069d0f,fire_noise_texturec.mat,Tiny.VB,41814180,2376
+951419a25620e3a2,fire_noise_texture_dxt5.dds,Streaming/Content/metadata/miscellaneousobjects/traprunicblue.ot,1808838,349700
+9dc91fc250eefb4b,fire_noise_texture_dxt5.dds.header,Tiny.VF,41496319,1520
+d72ac88467b66789,smoke_02.mat,Tiny.V6,41689313,1670
+f06876c4074e290d,snow_ember.mat,Tiny.V3,40865925,1932
+7bee0bcc122c9ca0,snow_ember_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/8B4AD63CB8867D41.A32875A704F0C011.frostbomb_pulsewave2.pet,376542,22020
+5dcee9cf1fa26f2b,snow_ember_dxt5.dds.header,Tiny.V2,11967746,1520
+83c43bae867a95ca,snowblobs.mat,Tiny.V6,41690983,2448
+e34a0282a2ebce92,snowblobs_dxt1.dds,Tiny.VF,41497839,2892
+ea89bd5b4b611d44,snowblobs_dxt1.dds.header,Tiny.V9,42019429,1520

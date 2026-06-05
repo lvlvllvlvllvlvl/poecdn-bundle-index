@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+9f8a2f71e171dcd9,smoke.mat,Tiny_6,111466912,2652
+b5263bb45f936ca5,smoke_dxt5.dds,Folders/art/particles/flask_effects/ichor_mana,409793,43876
+fe4eee525c2c743e,smoke_dxt5.dds.header,Tiny_8,31929854,840
+1f0ece6adafd5ecf,flame_05.mat,Tiny_6,111450638,3970
+c6a877fad9db36db,flame_05_dxt1.dds,Folders/art/particles/monster_particles/league_legion_4,218792,11084
+b9927260a8301022,flame_05_dxt1.dds.header,Tiny_7,15846415,1520
+546598c10d31689f,fire_bits_2x2.mat,Tiny_6,111446684,3954
+aae2179ce4abef78,fire_bits_2x2_dxt1.dds,Art/Textures/Pet/StygianSteed/StygianSteed,0,174924
+adbfe45a28417be3,fire_bits_2x2_dxt1.dds.header,Tiny_8,50048900,1520
+a4adb9ba6243066c,bloom_glow.mat,Tiny_6,111444580,2104
+4b40798b0a825572,bloom_glow_dxt1.dds,Folders/art/particles/environment_effects/league_heist,699548,11084
+cf8b69b9d5c70722,bloom_glow_dxt1.dds.header,Tiny_8,28907062,1520

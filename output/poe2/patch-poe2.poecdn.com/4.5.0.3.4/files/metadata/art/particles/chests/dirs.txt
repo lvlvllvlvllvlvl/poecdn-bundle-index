@@ -1,2 +1,0 @@
-dye_pots
-dye_pots/textures

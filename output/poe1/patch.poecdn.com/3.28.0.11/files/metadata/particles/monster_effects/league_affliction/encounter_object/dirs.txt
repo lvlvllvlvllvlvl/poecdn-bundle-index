@@ -1,4 +1,0 @@
-char_influence
-clone_beam
-main_object
-mirror

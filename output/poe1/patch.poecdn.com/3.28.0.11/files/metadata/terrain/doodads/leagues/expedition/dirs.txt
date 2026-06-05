@@ -1,7 +1,0 @@
-campprops
-chestmarkers
-kalguurruins
-miscenvobjects
-objectindicatorflags
-sand
-trees

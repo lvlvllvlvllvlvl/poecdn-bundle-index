@@ -1,7 +1,0 @@
-hash,file,bundle,offset,size
-3c935468a721472f,forestwaypoint_v01_01.tgm,Art/Models/Terrain/Forest/tgms,112340,22257
-965c24963d1e843a,forestwaypoint_v01_01.tgm.header,Tiny_5,6583349,264
-5fac0f561880a21a,forestwaypoint_inert.tgm,Art/Models/Terrain/Forest/tgms,90083,22257
-ce10c70629c41bb8,forestwaypoint_inert.tgm.header,Tiny_5,6583349,264
-2ef5d734d876ecfe,forestwaypoint_broken_v01_01.tgm,Art/Models/Terrain/Forest/tgms,0,90083
-0eeb574e9a69ca94,forestwaypoint_broken_v01_01.tgm.header,Tiny_5,6581459,1890

@@ -1,4 +1,0 @@
-cape
-robe
-snakes
-spear

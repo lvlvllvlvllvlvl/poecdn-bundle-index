@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+89a18b7958435a9e,butterfly_r.mat,Tiny.V5.1,54911398,41010
+a466d8bf6fafa035,butterfly_u.mat,Tiny.VF.1,52525306,17084
+df319a9b85a34598,folliage_02_r.mat,Tiny.V5.1,54952408,35328
+de09de2105f7c2d1,folliage_02_u.mat,Tiny.V5.1,54987736,4928
+d425b0035feb937f,ground_decal_r.mat,Tiny.VB.1,54552847,42726
+c5bc49a6cc9a0636,ground_decal_grass_r.mat,Tiny.VF.1,52542390,29848
+f72bcac2df66968d,ground_decal_u.mat,Tiny.VE.1,57782772,4250
+3e8b7e3d21c0c8c0,leaf_r.mat,Tiny.VE.1,55253752,32816
+bcd619a0e843e11c,leaf_u.mat,Tiny.VD.1,53909782,10284
+f7008820021e7c59,pollen_r.mat,Tiny.V0.1,54662380,32902
+100aeaafb8cfca50,pollen_u.mat,Tiny.V9.1,58483399,13628
+ce068c21d1c98ccc,portal_edge_ribbons_r.mat,Tiny.VE.1,55286568,29690
+e0b46b03a529c95d,portal_edge_ribbons_u.mat,Tiny.V6.1,53677409,9136
+2151ea1de24cca61,portal_core_r.mat,Tiny.VA.1,54681927,58812
+bd5be2a395b4b2de,portal_core_blur_r.mat,Tiny.V4.1,54600988,32474
+53e435385ea79630,portal_core_u.mat,Tiny.V3.1,56626029,2430

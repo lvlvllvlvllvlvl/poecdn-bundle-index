@@ -1,8 +1,0 @@
-airlock
-arena
-explore
-gauntlet
-lair
-ritual
-treasure
-unique

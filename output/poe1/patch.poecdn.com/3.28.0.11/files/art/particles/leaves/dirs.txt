@@ -1,2 +1,0 @@
-forest_background_leaves
-forest_background_leaves/dark_leaves

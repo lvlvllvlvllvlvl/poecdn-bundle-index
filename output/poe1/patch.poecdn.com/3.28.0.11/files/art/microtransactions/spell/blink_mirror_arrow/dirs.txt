@@ -1,4 +1,0 @@
-merchant
-mystic
-mystic/mb
-mystic/mb/arrowdown

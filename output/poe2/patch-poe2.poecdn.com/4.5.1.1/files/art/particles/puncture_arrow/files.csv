@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+c91cb944b7cf1d00,impact_spike.mat,Tiny.V9,41692056,2422
+e3bfd34506f9234a,impact_spike_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.409C2DAE28E8636E.runic_beam_mirror_telegraph.pet,1874659,87556
+e1767a46066437fa,impact_spike_dxt5.dds.header,Tiny.VD,38071582,1520
+09360d00c35f1365,smoke_ring.mat,Tiny.V5,40812050,3254
+741a2ce597d60db1,smoke_ring_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.409C2DAE28E8636E.runic_beam_mirror_telegraph.pet,2137163,349700
+b1d483afe59e448a,smoke_ring_dxt5.dds.header,Tiny.V3,40513129,1520
+83be7b0835f7321d,smoke_line_thick.mat,Tiny.V9,41694478,3462
+c3f54238ca5f06b4,smoke_line_thick_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.409C2DAE28E8636E.runic_beam_mirror_telegraph.pet,1962215,174948
+aa92e6b9b9de8ea2,smoke_line_thick_dxt5.dds.header,Tiny.VE,40789948,840
+30323a91624b3f30,sparkling.mat,Tiny.V7,41156644,1380
+cc80ac82fed353c2,sparkling_dxt5.dds,Tiny.VE,4434420,1572
+e2e9247cc7944c59,sparkling_dxt5.dds.header,Tiny.VD,4345787,504
+6990c9f89922f143,emissive_tex_dxt5.dds,Streaming/Content/metadata/effects/spells/shield_parry/CAE58C92B230AD8B.parry_sparks.pet,730238,87556
+1916a7241a197d9a,emissive_tex_dxt5.dds.header,Tiny.VE,40788428,1520

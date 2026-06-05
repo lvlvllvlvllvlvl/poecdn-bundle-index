@@ -1,4 +1,0 @@
-l_shoulderpad
-l_thightwist
-r_shoulderpad
-upperbody

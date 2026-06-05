@@ -1,8 +1,0 @@
-elemental_wolves
-elemental_wolves/fire
-elemental_wolves/ice
-elemental_wolves/lightning
-frozen_crystal_orb
-ice_pyrobomb
-lightning_bond
-poison_trap

@@ -1,6 +1,0 @@
-base
-basebassoon
-basedrum
-baselyre
-hyena
-landshark

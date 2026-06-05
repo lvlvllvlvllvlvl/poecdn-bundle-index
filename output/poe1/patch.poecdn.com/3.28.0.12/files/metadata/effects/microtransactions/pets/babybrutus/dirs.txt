@@ -1,0 +1,12 @@
+ao
+fx
+fx/idle_relaxed_01
+fx/idle_relaxed_02
+graphs
+mat
+mat/idle_relaxed_01
+mat/idle_relaxed_01/head_smack
+mat/idle_relaxed_01/hook
+mat/idle_relaxed_01/hook_impact
+mat/idle_relaxed_02
+mat/idle_relaxed_02/impact

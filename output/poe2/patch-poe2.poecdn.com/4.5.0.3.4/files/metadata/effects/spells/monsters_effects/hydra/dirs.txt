@@ -1,8 +1,0 @@
-doom_arrow
-frost_arrow
-frost_bolt
-piercing_arrow
-splitting_arrow
-teleport
-teleport/boss
-teleport/minion

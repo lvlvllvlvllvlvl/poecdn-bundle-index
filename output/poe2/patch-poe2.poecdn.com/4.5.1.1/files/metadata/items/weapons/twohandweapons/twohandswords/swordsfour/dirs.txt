@@ -1,0 +1,13 @@
+ancientgreatblade
+arcedlongsword
+blessedclaymore
+broadgreatsword
+corrodedlongsword
+flangedgreatblade
+irongreatsword
+keengreatsword
+obsidiangreatblade
+regalialongsword
+rippledgreatsword
+stonegreatsword
+ultragreatsword

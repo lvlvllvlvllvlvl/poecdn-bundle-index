@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+49493f84be29d5b4,glow_patch.mat,Tiny_6,35899404,2158
+05812a7f1b383d46,glow_patch.dds,Art/particles/fire_bomb/beam,0,174948
+0bb863565234421e,glow_patch.dds.header,Tiny_6,35898564,840
+4fdce3fa4c56b92b,beam_up_brightmid.mat,Tiny_6,35896800,1764
+7047a9c8aebdfea9,beam_up_brightmid.dds,Art/particles/fire_bomb/beam,174948,87588
+e7b5a2edead002a9,beam_up_brightmid.dds.header,Tiny_6,35896296,504
+ddea0a0d048cb769,beam_up.mat,Tiny_6,35893784,2512
+a57fe1a5dd61197d,beam_up.dds,Art/particles/fire_bomb/impact,0,87588
+6deb7c88780e32eb,beam_up.dds.header,Tiny_7,53551611,504

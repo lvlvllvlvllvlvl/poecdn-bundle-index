@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+f20b7260b6cbee3d,sporepodcns.mat,Tiny_7,47199263,4706
+5abaeee61cbd58c9,sporepod_specular.mat,Tiny_7,47198271,992
+41af2390dc9ae618,sporepod_specular.dds,Art/particles/virulent_arrow/pods_1,0,349700
+c44e6ce3e38f9bab,sporepod_specular.dds.header,Tiny_7,57941368,1520
+32cd0a3854cbecb9,sporepod_gloss.mat,Tiny_7,47197297,974
+290b79587fc37461,sporepod_gloss.dds,Art/particles/virulent_arrow/pods,705010,349700
+f0f1309c7b6d896c,sporepod_gloss.dds.header,Tiny_7,57930840,1520
+dfbf677ac8ab5bc3,sporepod_colour.dds,Art/particles/monster_particles/AtlasExiles_46,349700,349700
+6de6d6a033ca666f,sporepod_colour.dds.header,Tiny_7,47195777,1520
+b76ed591dfb91f1e,sporepodns.dds,Art/particles/virulent_arrow/pods,0,349700
+f3e882e47b05aa42,sporepodns.dds.header,Tiny_7,57937354,1520

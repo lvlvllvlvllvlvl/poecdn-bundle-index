@@ -1,4 +1,0 @@
-attachments
-attachments/hourglass
-attachments/mantle
-attachments/skirt

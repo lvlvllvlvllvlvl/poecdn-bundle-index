@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+df34077955ad597a,gold_spark2_clean.mat,Tiny.VA.1,652761,1552
+4d3849ca19a3d930,gold_spark2_clean_dxt5.dds,Streaming/Content/metadata/items/weapons/twohandweapons/07089B26829AE0EE.DE484C488CD36301.havenwoodbowheld.ao,63119,5636
+b6b7c792d8453157,gold_spark2_clean_dxt5.dds.header,Tiny.V5.1,417072,1520
+4546c1a087d51f08,scrolling_gold_hotmetal_dxt1.dds,Tiny.V5.1,425098,2892
+7ebd0e4e03d17322,scrolling_gold_hotmetal_dxt1.dds.header,Tiny.V0.1,915398,1520
+5eda7ff20547052d,havenwoodbowc.mat,Tiny.V5.1,418592,6506
+f8a1e198f0f38328,havenwoodbow_mask_dxt1.dds,Streaming/Content/metadata/items/weapons/twohandweapons/07089B26829AE0EE.DE484C488CD36301.havenwoodbowheld.ao,1467375,349692
+f6c86a3e195973d9,havenwoodbow_mask_dxt1.dds.header,Tiny.V8.1,227546,840
+021c7d8634e8eb58,havenwoodbow_glow_dxt1.dds,Streaming/Content/metadata/items/weapons/twohandweapons/07089B26829AE0EE.DE484C488CD36301.havenwoodbowheld.ao,1117683,349692
+8de71f06a4a0e4ec,havenwoodbow_glow_dxt1.dds.header,Tiny.V8.1,226706,840
+69462e43d48c6276,havenwoodbow_normal_dxt5.dds,Streaming/Content/metadata/items/weapons/twohandweapons/07089B26829AE0EE.DE484C488CD36301.havenwoodbowheld.ao,1817067,699236
+4ab39bbb2354b426,havenwoodbow_normal_dxt5.dds.header,Tiny.VF.1,891878,840
+a6fb671606e8770a,havenwoodbow_colour_bc7.dds,Streaming/Content/metadata/items/weapons/twohandweapons/07089B26829AE0EE.DE484C488CD36301.havenwoodbowheld.ao,418447,699236
+fc00d52a40a3d725,havenwoodbow_colour_bc7.dds.header,Tiny.V3.1,420326,840
+79fb58293cd31d6f,havenwoodbow_colour.dds,Streaming/Content/metadata/items/weapons/twohandweapons/07089B26829AE0EE.DE484C488CD36301.havenwoodbowheld.ao,68755,349692
+d05e51c3bfe61adc,havenwoodbow_colour.dds.header,Tiny.VB.1,580282,840

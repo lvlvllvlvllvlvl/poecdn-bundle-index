@@ -1,5 +1,0 @@
-animations
-gauntlet
-gauntlet/animations
-rgauntlet
-rgauntlet/animations

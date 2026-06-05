@@ -1,6 +1,0 @@
-colosseum
-fills
-hallway
-hallway/1x1
-unique
-unique/gauntlet

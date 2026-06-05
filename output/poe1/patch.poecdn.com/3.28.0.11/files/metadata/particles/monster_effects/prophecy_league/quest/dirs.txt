@@ -1,4 +1,0 @@
-book
-book/book_hovering
-book/book_hovering_lightning
-book/poof

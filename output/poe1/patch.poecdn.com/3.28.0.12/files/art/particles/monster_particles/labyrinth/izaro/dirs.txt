@@ -1,0 +1,4 @@
+weapons
+weapons/fire
+weapons/lightning
+weapons/physical

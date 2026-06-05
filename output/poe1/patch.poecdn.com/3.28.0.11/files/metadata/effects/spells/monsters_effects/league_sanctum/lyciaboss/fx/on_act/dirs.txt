@@ -1,4 +1,0 @@
-attack_01
-doublespin_01
-overhead_slash_01
-tracking_beam_01

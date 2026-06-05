@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+27f0be7d4bc0f717,frenzy_lookup.dds,Tiny.V8,34859379,2212
+0b86d508261e1916,frenzy_lookup.dds.header,Tiny.V1,35138561,280
+88506f33b2e495eb,flash.mat,Tiny.V6,35185254,1034
+e88d143ebd906ecb,flash.dds,Streaming/Content/metadata/particles/shapers_presence/fadein.pet,1225980,87556
+0f8caaba1c7f4953,flash.dds.header,Tiny.V4,35426831,1520
+2f0b44bd54f7e4ba,flash_sub.mat,Tiny.V2,35199872,1320
+41698afd87338aa8,flash_sub.dds,Streaming/Content/metadata/particles/shapers_presence/fadein.pet,1313536,87556
+4eed351fc5b51e94,flash_sub.dds.header,Tiny.V4,35428351,1520
+362c7396ddece818,shatter_impact.mat,Tiny.VD,35378688,1884
+da7a1f7ace50c348,shatter_impact.dds,Streaming/Content/metadata/particles/shapers_presence/fadein.pet,1401092,43876
+b9d47a6e5d574e65,shatter_impact.dds.header,Tiny.V2,39499273,840

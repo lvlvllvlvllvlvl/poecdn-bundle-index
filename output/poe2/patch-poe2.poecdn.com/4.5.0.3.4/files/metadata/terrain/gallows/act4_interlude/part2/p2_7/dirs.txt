@@ -1,8 +1,0 @@
-graphs
-objects
-rooms
-rooms/city
-rooms/fills
-rooms/overlays
-rooms/unique
-rooms/wall

@@ -1,0 +1,4 @@
+detonatingdead
+quicksand
+spell_projectile_01
+volatiledead

@@ -1,3 +1,0 @@
-archnemesis
-archnemesis/material
-archnemesis/mb

@@ -1,6 +1,0 @@
-graphs
-pet
-pet/continuous
-pet/end_01
-pet/idle_01
-pet/start_01

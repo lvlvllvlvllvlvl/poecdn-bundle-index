@@ -1,0 +1,5 @@
+enraged_groundslam
+groundslam
+leap_weapon_slam
+leapslam
+regular_groundslam

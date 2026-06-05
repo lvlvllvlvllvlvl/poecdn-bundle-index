@@ -1,0 +1,7 @@
+cast
+fire
+fire2
+ice
+ice2
+lightning
+lightning2

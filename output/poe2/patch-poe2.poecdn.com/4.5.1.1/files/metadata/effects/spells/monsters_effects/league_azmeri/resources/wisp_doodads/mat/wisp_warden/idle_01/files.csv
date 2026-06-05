@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+d5f1ab1d863a678a,core_wisp_r.mat,Tiny.VF.1,134057400,29758
+a5b9ec83de8c07ae,wisp_r.mat,Tiny.V0.1,136154522,33314
+f80131cd18c9771a,orb_u.mat,Tiny.V2.1,138932250,26418
+9686e03ffeac9ab1,orb_r.mat,Tiny.VD.1,135949782,18114
+da7fc6960ba86df5,mblur_sphere_r.mat,Tiny.V2.1,138920736,11514
+6241b44e141c2395,mblur_sphere_u.mat,Tiny.VE.1,12563624,310
+257e8f0588722da3,pixiedust_u.mat,Tiny.VF.1,134087158,23020
+54c5f9ababab6cb6,pixiedust_r.mat,Tiny.V8.1,137113658,19336

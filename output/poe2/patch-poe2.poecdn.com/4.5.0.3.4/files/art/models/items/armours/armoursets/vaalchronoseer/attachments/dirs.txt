@@ -1,8 +1,0 @@
-armdangle
-helmetdangle
-mantle
-mantle/f
-mantle/m
-skirt
-skirt/f
-skirt/m

@@ -1,6 +1,0 @@
-buff
-channel
-char_buff
-explosion
-minion_buff
-surge

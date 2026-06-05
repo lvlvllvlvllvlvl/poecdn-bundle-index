@@ -1,3 +1,0 @@
-mb
-mb/proj_rig
-mb/proj_rig/animations

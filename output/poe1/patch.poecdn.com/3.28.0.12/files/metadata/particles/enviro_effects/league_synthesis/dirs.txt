@@ -1,0 +1,7 @@
+bridge
+mapdevice
+portal
+stabiliserclick
+synthesis_summon
+synthesis_world
+synthesiscraftbench

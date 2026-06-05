@@ -1,2 +1,0 @@
-claw_slash
-on_act

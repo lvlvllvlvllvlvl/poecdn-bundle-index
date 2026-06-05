@@ -1,7 +1,0 @@
-dash_slam
-on_act_upheaval_slam
-roll_aoe
-scream
-water_upheaval
-water_upheaval_travel_01
-water_upheaval_travel_02

@@ -1,4 +1,0 @@
-mb
-mb/fire_takeoff
-textures
-textures/takeoff

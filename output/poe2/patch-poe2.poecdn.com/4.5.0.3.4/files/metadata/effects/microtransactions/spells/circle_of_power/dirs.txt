@@ -1,3 +1,0 @@
-divine
-divine/ao
-divine/fx

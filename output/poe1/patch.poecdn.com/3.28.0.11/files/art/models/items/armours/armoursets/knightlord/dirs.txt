@@ -1,9 +1,0 @@
-attachments
-attachments/knightlordfmantle
-attachments/knightlordfmantle/dex
-attachments/knightlordfmantle/int
-attachments/knightlordfmantle/strdexint
-attachments/knightlordfponytail
-attachments/knightlordfrobe
-attachments/knightlordmrobe
-textures

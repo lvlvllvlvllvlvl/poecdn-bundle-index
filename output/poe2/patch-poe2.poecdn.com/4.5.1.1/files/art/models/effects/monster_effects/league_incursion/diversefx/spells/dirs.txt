@@ -1,0 +1,13 @@
+blood_bomb
+blood_bomb/aoe
+blood_bomb/marker
+chaos_meteor
+chaos_meteor/impact
+chaos_meteor/meteor
+chaos_meteor/upheaval
+kamikaze_ghosts
+kamikaze_ghosts/aoe
+lightning_fireworks
+lightning_fireworks/marker
+lightning_fireworks/spark
+vaal_call

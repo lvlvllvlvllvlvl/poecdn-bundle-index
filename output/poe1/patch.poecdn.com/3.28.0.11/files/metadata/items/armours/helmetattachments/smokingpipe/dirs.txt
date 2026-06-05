@@ -1,5 +1,0 @@
-attachment
-fx
-fx/mats
-fx/pets
-fx/trls

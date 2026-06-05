@@ -1,8 +1,0 @@
-abyssvoice
-abyssvoice_commander
-abyssvoice_vessel
-lurking
-lurking_greeting
-lurking_wild
-mentor
-mortimer_greeting

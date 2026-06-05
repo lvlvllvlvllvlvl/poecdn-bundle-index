@@ -1,0 +1,16 @@
+piratecoveboss
+piratecoveboss/ao
+piratecoveboss/ao/onact
+piratecoveboss/ao/teleport
+piratecoveboss/fx
+piratecoveboss/fx/anchor
+piratecoveboss/fx/cannon
+piratecoveboss/fx/shield
+piratecoveboss/fx/wave
+piratecoveboss/graph
+piratecoveboss/mat
+piratecoveboss/mat/anchor
+piratecoveboss/mat/cannon
+piratecoveboss/mat/marker
+piratecoveboss/mat/shield
+piratecoveboss/mat/wave

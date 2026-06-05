@@ -1,6 +1,0 @@
-afterimage
-beam
-on_hit
-teleport_in
-teleport_out
-vaal_on_hit

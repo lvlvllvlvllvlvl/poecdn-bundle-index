@@ -1,3 +1,0 @@
-attack_01
-dash_to_slash_01
-footsteps

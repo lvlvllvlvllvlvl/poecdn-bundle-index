@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+aed1c9850236a4e9,podiumc.mat,Tiny_8,50575356,2190
+85f79bf7c55b5676,podium_normal_uncompressed.dds,Art/Textures_1,0,22369768
+2ea2d2a6ba57a7d0,podium_normal_uncompressed.dds.header,Tiny_8,50573836,1520
+38db5aad4336df4c,podium_colour_dxt5.dds,Art/Textures,0,5592580
+6fd79fef148f91aa,podium_colour_dxt5.dds.header,Tiny_8,50572316,1520
+3645cea999cc235d,missing_texture_uncompressed.dds,Tiny_8,32533826,1512
+ad5d48c0c143fe47,missing_texture_uncompressed.dds.header,Tiny_8,32535338,1520
+17de2917ed008a9d,missing_texture_bc1.dds,Tiny_8,32531974,332
+d6c4c0179e18b25c,missing_texture_bc1.dds.header,Tiny_8,32532306,1520
+3918974a01a8ec51,checker_dxt1.dds,Art/particles/lib/jav.9_15,0,43852
+aee0faf5a0b7184e,checker_dxt1.dds.header,Tiny_7,60228211,1520
+4771577988556a18,blank.mat,Tiny_7,59982589,148
+f109a39e52071a21,blank_c.mat,Tiny_7,59982737,316
+381600571ce5c39b,blank_c_tiled.mat,Tiny_7,59983053,326
+78ead93055a9a73e,blank_cns.mat,Tiny_7,59983379,336
+1e4a888d6ba6074b,blank_cns_tiled.mat,Tiny_7,59983715,346

@@ -1,9 +1,0 @@
-graphs
-objects
-rooms
-rooms/ledge
-rooms/lowerfills
-rooms/unique
-rooms/upper
-rooms/upper/1x1
-rooms/upper/2x2

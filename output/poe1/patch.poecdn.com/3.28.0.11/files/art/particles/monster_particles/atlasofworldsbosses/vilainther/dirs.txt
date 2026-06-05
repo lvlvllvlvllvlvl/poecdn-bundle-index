@@ -1,5 +1,0 @@
-fx
-models
-models/act
-models/oil_splat
-textures

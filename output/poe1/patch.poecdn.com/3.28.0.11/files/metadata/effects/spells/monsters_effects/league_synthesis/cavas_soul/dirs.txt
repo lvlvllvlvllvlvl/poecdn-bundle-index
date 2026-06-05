@@ -1,6 +1,0 @@
-graphs
-onact
-onact/exit_device_01
-onact/possess_map_device_01
-onact/remove_map_device_01
-onact/summon_bosses_01

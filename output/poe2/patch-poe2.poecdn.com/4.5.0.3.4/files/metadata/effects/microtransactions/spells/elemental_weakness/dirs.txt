@@ -1,5 +1,0 @@
-abyss
-abyss/epk
-abyss/fx
-abyss/mat
-abyss/mat/atl

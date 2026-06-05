@@ -1,4 +1,0 @@
-alttiles
-alttiles/solaris
-tgms
-vault doors

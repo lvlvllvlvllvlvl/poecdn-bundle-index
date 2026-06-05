@@ -1,7 +1,0 @@
-1x1
-1x2
-2x2
-doedre
-doedre/path
-doedre/unique
-unique

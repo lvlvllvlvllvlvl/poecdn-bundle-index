@@ -1,6 +1,0 @@
-graphs
-groundtypes
-rooms
-rooms/fill
-rooms/shoreline
-rooms/unique

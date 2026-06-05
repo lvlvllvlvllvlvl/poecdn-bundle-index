@@ -1,0 +1,12 @@
+axe1h
+axe2h
+bow
+mace1h
+mace2h
+sceptre
+shield
+spear
+staff
+sword1h
+sword2h
+wand

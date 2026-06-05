@@ -1,3 +1,0 @@
-shield_charge
-shield_charge/impact
-shield_charge/impact_aoe

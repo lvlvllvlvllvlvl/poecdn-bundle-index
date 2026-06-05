@@ -1,3 +1,0 @@
-ground_spikes
-leap_slam
-weapon_toss

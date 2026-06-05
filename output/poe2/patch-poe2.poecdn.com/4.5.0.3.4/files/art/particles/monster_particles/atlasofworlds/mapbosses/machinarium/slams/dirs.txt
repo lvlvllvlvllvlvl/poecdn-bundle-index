@@ -1,4 +1,0 @@
-cold
-lightning
-particles
-particles_cold

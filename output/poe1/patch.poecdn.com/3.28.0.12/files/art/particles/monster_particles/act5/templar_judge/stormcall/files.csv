@@ -1,0 +1,89 @@
+hash,file,bundle,offset,size
+0ebe3a5b41cced21,texture.mat,Tiny_6,62937831,1232
+695e55f42b97aef7,texture.dds,Art/particles/storm_call,2253232,349700
+84e222c1728335e1,texture.dds.header,Tiny_7,51993260,1520
+ee7b7a99b9a9fd8d,strike_01c.mat,Tiny_6,62935277,2554
+dddbcbca6fa21777,strike_01.dds,Art/Microtransactions/spell/storm_call_3,1402440,699236
+1312fdff843e1aae,strike_01.dds.header,Tiny_6,62934437,840
+892321e4d77ffa11,smoke_line_thinc.mat,Tiny_6,62931665,2772
+d48127661262e9e9,smoke_line_thin.dds,Art/Microtransactions/spell/storm_call_3,1052388,87548
+63f35aecca70492f,smoke_line_thin.dds.header,Tiny_6,62930825,840
+9b4c8567996d2a25,smoke_line_thickc.mat,Tiny_6,62929519,1306
+cdb466786b231759,smoke_line_thick_2c.mat,Tiny_6,62927089,2430
+dd1a8c3b57401ba3,smoke_line_thick_2.dds,Art/Microtransactions/spell/storm_call_3,964840,87548
+51e894a6723a5f7c,smoke_line_thick_2.dds.header,Tiny_6,62926249,840
+7c8815de2d08b8c4,smoke_line_thick.dds,Art/Microtransactions/spell/storm_call_3,1139936,174948
+942758afec198604,smoke_line_thick.dds.header,Tiny_6,62925409,840
+1a729ca77b139490,smoke_03.mat,Tiny_6,62922447,2962
+de6e5bb189f202a7,smoke_03.dds,Art/Microtransactions/spell/storm_call_3,223082,87556
+793c63af24cf17e6,smoke_03.dds.header,Tiny_6,62920927,1520
+68a8c4abe621ea42,smoke_01.mat,Tiny_6,62917935,2992
+add247d613a493a0,smoke_01.dds,Art/Microtransactions/spell/storm_call_8,0,22020
+66a732ffba212c48,smoke_01.dds.header,Tiny_6,62916415,1520
+0131449373faf848,scrolling_squidfaceman_runesc.mat,Tiny_6,62914061,2354
+4c38e249ce8bceda,scrolling_squidfaceman_runes_multic.mat,Tiny_6,62911845,2216
+d4e7f1614a434ad4,scrolling_squidfaceman_runes_multi.dds,Art/particles/monster_particles/act5_19,903160,22052
+bd4b725dcf86a2e6,scrolling_squidfaceman_runes_multi.dds.header,Tiny_6,94198823,504
+d78e71779aecf561,scrolling_squidfaceman_runes.dds,Art/Microtransactions/spell/storm_call_3,3008312,22052
+964208f7a6501b35,scrolling_squidfaceman_runes.dds.header,Tiny_6,62911341,504
+71a38b587d7c511c,rune_targetc.mat,Tiny_6,62894047,2220
+b1181940988e420d,rune_target_mulic.mat,Tiny_6,62892741,1306
+70cba1e04df39401,rune_target_muli.dds,Art/particles/monster_particles/act5_19,1100324,22020
+c7a08251cd5711a3,rune_target_muli.dds.header,Tiny_6,62891221,1520
+a52c0f3aafa61bac,rune_target.dds,Art/particles/monster_particles/act5_19,1209900,22020
+8fbd43a85dde70b9,rune_target.dds.header,Tiny_6,62889701,1520
+9d8a8bed5911fc38,runes_multic.mat,Tiny_6,62909019,2322
+669b491b5cdd7834,runes_multi.dds,Art/Microtransactions/spell/storm_call_3,352580,349732
+d3398b30663f8fbe,runes_multi.dds.header,Tiny_6,62908515,504
+8ae92b3bf78ec262,runes_idle_blackc.mat,Tiny_6,62907209,1306
+0ee699eabbb50e57,runes_idle_black.dds,Art/Microtransactions/spell/storm_call_3,2920756,87556
+2304ac5aeb7ebc8a,runes_idle_black.dds.header,Tiny_6,62905689,1520
+62a9ae02dc0a6a82,runes_idle_addac.mat,Tiny_6,62903515,2174
+03d224295ff41e02,runes_idle_adda.dds,Art/Microtransactions/spell/storm_call_3,2876904,43852
+027e255a5b437db9,runes_idle_adda.dds.header,Tiny_6,62901995,1520
+35e18664cf66b369,runes_addac.mat,Tiny_6,62899543,2452
+cd2a5c38b12ca28d,runes_adda.dds,Art/Microtransactions/spell/storm_call_3,789900,174940
+0b49ef9c4af3cfe2,runes_adda.dds.header,Tiny_6,62899039,504
+6678e92d9a6258f9,runes.mat,Tiny_6,62897787,1252
+981c61d9047a8dad,runes.dds,Art/particles/monster_particles/act5_19,1012768,87556
+63291228e27a3557,runes.dds.header,Tiny_6,62896267,1520
+636915dfd2b52059,middle_detail.mat,Tiny_6,62886775,1406
+5bbf4eb22ae02eb2,middle_detail_dxt1.dds,Art/particles/monster_particles/act5_19,892076,11084
+41ab6027052ef241,middle_detail_dxt1.dds.header,Tiny_6,62888181,1520
+12dc4dc049fa5d38,light_immortal_callc.mat,Tiny_6,62879721,1986
+9216fcca8468f40d,light_immortal_call_pulsec.mat,Tiny_6,62877273,2448
+9bc8c8c1db7546a5,light_immortal_call_pulse.dds,Art/particles/monster_particles/act5_19,1122344,87556
+8b6208340d46c922,light_immortal_call_pulse.dds.header,Tiny_6,62875753,1520
+7aa1da13158a099e,light_immortal_call.dds,Art/Microtransactions/spell/storm_call_3,1314884,87556
+39fec4d220ceefe4,light_immortal_call.dds.header,Tiny_6,62874233,1520
+e518926beba6b48e,light_gradientc.mat,Tiny_6,62872539,1694
+377396e4f7d88257,light_gradient.mat,Tiny_6,62871233,1306
+4990470842afde55,light_gradient.dds,Art/Microtransactions/spell/storm_call_3,310638,11084
+a3d3a8b6143df431,light_gradient.dds.header,Tiny_6,62869713,1520
+4ab307bae3688313,light_gradient 2.mat,Tiny_6,62868243,1470
+c47c9558da392ab1,light_gradient 2.dds,Art/particles/monster_particles/act5_19,2773324,22020
+50056c667746189d,light_gradient 2.dds.header,Tiny_6,87315849,1520
+04b55185b55e3179,lightning_bolts_thin.mat,Tiny_6,62884437,2338
+f0590d41d4a26128,lightning_bolts_thin.dds,Art/Microtransactions/spell/storm_call_3,2166520,699300
+8430ba9da957f78b,lightning_bolts_thin.dds.header,Tiny_6,62884093,344
+a252aff9cbe092e6,lightning_ball.mat,Tiny_6,62882211,1882
+4e4c12a836737a76,lightning_ball.dds,Art/Microtransactions/spell/storm_call_3,702312,87588
+eb161cfdbbfea1ed,lightning_ball.dds.header,Tiny_6,62881707,504
+458796379f57c7c8,impact_swirl.mat,Tiny_6,62866217,2026
+dfbbc05061f8542b,impact_swirl.dds,Art/Microtransactions/spell/storm_call_3,2101676,22020
+fc857e108ace551d,impact_swirl.dds.header,Tiny_6,62864697,1520
+9e0720305720c9d4,gradiantc.mat,Tiny_6,62863013,1684
+29dbe60415e1140d,gradiant.dds,Art/Microtransactions/spell/storm_call_3,2865820,11084
+ae446c472aee97ee,gradiant.dds.header,Tiny_6,62861493,1520
+fd4312189e61a48b,flash.mat,Tiny_6,62860273,1220
+8068551e15dcf04b,flash.dds,Art/Microtransactions/Town_Portal/wastelandPortal_1,0,22020
+b5d46348f7268e44,flash.dds.header,Tiny_7,46636190,1520
+0f8c534859227e49,fat_boltc.mat,Tiny_6,62857579,2694
+bf3a4ea926e9db90,fat_bolt.dds,Art/particles/monster_particles/act5_19,717136,174940
+d6cf0bf5d14abc61,fat_bolt.dds.header,Tiny_6,62857075,504
+98732d64b2160a3f,blink_spiral_bigger 3.mat,Tiny_6,62854703,2372
+5cf0dad62d95265a,blink_spiral_bigger 3.dds,Art/particles/monster_particles/act5_19,925212,87556
+3f2571b92727b056,blink_spiral_bigger 3.dds.header,Tiny_6,62851213,1520
+54e797984f00fb91,blink_spiral_bigger 2.mat,Tiny_6,62852733,1970
+435d318851ef39a2,blink_spiral_bigger 2.dds,Art/particles/monster_particles/act5_19,925212,87556
+1a750c7311993a72,blink_spiral_bigger 2.dds.header,Tiny_6,62851213,1520

@@ -1,4 +1,0 @@
-mapmachinarium
-mapmachinarium/doodads
-mapmachinarium/doodads/vaalbasher
-vaalrecipesbookstand

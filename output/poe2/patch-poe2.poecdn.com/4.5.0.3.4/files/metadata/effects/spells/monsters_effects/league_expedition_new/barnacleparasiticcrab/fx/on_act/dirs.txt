@@ -1,6 +1,0 @@
-attack_claw_01
-attack_claw_02
-attack_combo_01
-beam_combo
-claw_slam
-tail_stab_01

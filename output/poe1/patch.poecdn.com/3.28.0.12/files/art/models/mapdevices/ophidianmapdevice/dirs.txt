@@ -1,0 +1,11 @@
+attachments
+attachments/mapdeviceinteract
+attachments/ophidianknight
+attachments/ophidianknight/attachments
+attachments/ophidianlord
+attachments/ophidianlord/attachments
+fx
+ophidiansmallmapdevice
+textures
+textures/black
+textures/steel

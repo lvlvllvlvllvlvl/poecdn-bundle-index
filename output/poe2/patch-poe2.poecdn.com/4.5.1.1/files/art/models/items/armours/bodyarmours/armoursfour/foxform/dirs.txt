@@ -1,0 +1,6 @@
+attachments
+attachments/foxshadeskirt
+attachments/foxshadeskirt/f
+attachments/foxshadeskirt/m
+attachments/foxshadetail
+textures

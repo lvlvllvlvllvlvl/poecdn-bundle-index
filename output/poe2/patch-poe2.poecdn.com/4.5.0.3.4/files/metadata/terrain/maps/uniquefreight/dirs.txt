@@ -1,6 +1,0 @@
-graphs
-rooms
-rooms/fills
-rooms/largecarts
-rooms/unique
-tiles

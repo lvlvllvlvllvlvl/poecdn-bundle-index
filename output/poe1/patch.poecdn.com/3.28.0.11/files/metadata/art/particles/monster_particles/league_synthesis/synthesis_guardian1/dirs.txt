@@ -1,5 +1,0 @@
-drone_beam
-drone_projectile
-frontal_blast
-moving_cone
-wifi_slam

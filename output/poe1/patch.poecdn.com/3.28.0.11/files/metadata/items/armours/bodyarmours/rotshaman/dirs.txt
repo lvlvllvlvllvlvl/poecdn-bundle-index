@@ -1,4 +1,0 @@
-attachments
-attachments/body
-attachments/cloak
-attachments/skirt

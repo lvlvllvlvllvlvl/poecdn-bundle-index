@@ -1,8 +1,0 @@
-fx
-graphs
-mats
-mats/explosion
-mats/impact
-mats/orb
-mats/trail
-trail

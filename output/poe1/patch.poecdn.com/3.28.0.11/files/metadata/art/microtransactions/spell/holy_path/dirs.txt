@@ -1,4 +1,0 @@
-celestial
-celestial/texture
-stygian
-stygian/textures

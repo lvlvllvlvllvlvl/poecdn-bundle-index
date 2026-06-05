@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+a78aa13b0a69a56f,int_skirt_lower.sm,Tiny.VF,9117068,638
+13d7d383e69669bc,int_skirt.sm,Tiny.V2,9363280,638
+4537842e9b2fac94,dex_skirt_lower.sm,Tiny.V1,9027946,638
+424bb01aa836768c,dex_skirt.sm,Tiny.VB,9128194,640
+9b96aa41f49932cb,rig_cdf1f786.smd,Streaming/Content/metadata/items/armours/bodyarmours/A2B5FA9580795384.ferrymanbodystr.ao,866054,114041
+b9c53be8be525814,rig_cdf1f786.smd.header,Content/metadata/items/armours/bodyarmours/armoursfour/A291F300FA009333.tabularasadrop.ao,452052,5991
+ed281c0690dd46f1,rig_4a28f44d.smd,Streaming/Content/metadata/items/armours/bodyarmours/A2B5FA9580795384.ferrymanbodystr.ao,814335,51719
+95bb5deb9e8eb946,rig_4a28f44d.smd.header,Content/metadata/items/armours/bodyarmours/armoursfour/A291F300FA009333.tabularasadrop.ao,446102,5950
+e8a114ad39b0c57d,rig_28396a18.smd,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.01DBD1ED7D4ECBCD.maraboutgarb_dex.ao,187722,113721
+7d40369301b17911,rig_28396a18.smd.header,Content/metadata/items/armours/bodyarmours/armoursfour/677D0D0102504309.icetombstrint.ao,537337,5991
+a59533e03eae33bb,rig_ee11024b.smd,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.01DBD1ED7D4ECBCD.maraboutgarb_dex.ao,301443,51975
+08f5e1ff5aca9e0b,rig_ee11024b.smd.header,Content/metadata/items/armours/bodyarmours/armoursfour/677D0D0102504309.icetombstrint.ao,543328,5950
+5ed45d880df7fd9b,rig.amd,Tiny.VF,9117706,524
+55bd236d94ac5991,rig.ast,Content/metadata/items/armours/bodyarmours/armoursfour/A291F300FA009333.tabularasadrop.ao,440864,5238

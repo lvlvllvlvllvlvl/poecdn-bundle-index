@@ -1,5 +1,0 @@
-attachments
-attachments/coins
-attachments/hair
-fx
-textures

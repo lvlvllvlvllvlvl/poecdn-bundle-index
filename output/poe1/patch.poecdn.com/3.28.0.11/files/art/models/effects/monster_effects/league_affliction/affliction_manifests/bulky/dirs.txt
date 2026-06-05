@@ -1,3 +1,0 @@
-ground_slam
-leap_slam
-on_act

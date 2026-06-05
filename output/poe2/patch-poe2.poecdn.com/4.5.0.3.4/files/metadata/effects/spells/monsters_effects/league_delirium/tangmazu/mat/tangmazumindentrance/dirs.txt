@@ -1,3 +1,0 @@
-entrance_idle_01
-entrance_start_01
-entrance_start_01/portal_open

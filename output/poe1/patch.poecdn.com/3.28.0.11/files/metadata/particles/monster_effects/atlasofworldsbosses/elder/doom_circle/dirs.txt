@@ -1,3 +1,0 @@
-nova
-novamiddle
-on_act

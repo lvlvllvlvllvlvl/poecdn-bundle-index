@@ -1,2 +1,0 @@
-bookstandstrongbox
-strongbox_lock

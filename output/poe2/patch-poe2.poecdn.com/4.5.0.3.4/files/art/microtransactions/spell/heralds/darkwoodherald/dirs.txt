@@ -1,7 +1,0 @@
-texture
-texture/agnoy
-texture/ash
-texture/guard
-texture/ice
-texture/thunder
-texture/trl

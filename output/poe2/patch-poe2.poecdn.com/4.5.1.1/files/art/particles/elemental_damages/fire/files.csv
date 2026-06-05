@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+34aecd557be4ab19,blink_holy_shine_dxt1.dds,Streaming/Content/metadata/particles/elemental_damages/revenant/revenant_fire_damage3.pet,0,43852
+1d8455e0f0407d06,blink_holy_shine_dxt1.dds.header,Tiny.VF,34536761,1520
+8dddc910c3f47e8a,bloom_glow.mat,Tiny.VE,34252392,3090
+89cd20d312c9d041,bloom_glow_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/misc/967FD4F24E1C9C31.gibs_zombie_06.ao,361562,11084
+af8a9c2a564f0d88,bloom_glow_dxt1.dds.header,Tiny.V9,35999517,1520
+9fa8ac6eacab2636,fire_01_2x2_dxt1.dds,Streaming/Content/metadata/particles/elemental_damages/revenant/revenant_fire_damage3.pet,43852,174924
+bc0f3c5c50f41ca5,fire_01_2x2_dxt1.dds.header,Tiny.V5,33977963,1520
+17ab5a0ff991f70b,spark1.mat,Tiny.VA,34877860,2426
+3c7e9ef2fbeb8c1c,spark1_dxt1.dds,Tiny.V2,35253638,332
+5989035584b1703e,spark1_dxt1.dds.header,Tiny.VD,35424952,1520
+b24219e096b9e673,shockwave.mat,Tiny.V8,34344090,3012
+21aad8258d273af4,shockwave_dxt1.dds,Tiny.V9,4007868,332
+522c39e98f547449,shockwave_dxt1.dds.header,Tiny.V2,4245841,1520

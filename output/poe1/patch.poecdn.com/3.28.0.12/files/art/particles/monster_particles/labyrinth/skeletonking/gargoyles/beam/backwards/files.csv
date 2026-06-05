@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+43d97f684fb0833e,projectile_font.mat,Tiny_6,95189033,1540
+e5cc920deff6183b,projectile_font.dds,Art/particles/monster_particles/labyrinth_2,2368372,43876
+162e89b1a28a1e6f,projectile_font.dds.header,Tiny_6,95231059,840
+6f136583038d4458,beam_multic.mat,Tiny_6,95185955,3078
+922bbaf3e8f63940,beam_multi.dds,Art/particles/monster_particles/labyrinth_3,399034,174948
+985b69ce71fbb623,beam_multi.dds.header,Tiny_6,95196059,840
+66c0ba0efce8e873,beam_atc.mat,Art/particles/monster_particles/labyrinth_3,219152,4934
+86f6f0070a7b15a9,beam_at.dds,Art/particles/monster_particles/labyrinth_3,224086,174948
+3fde40b4f0bbe50c,beam_at.dds.header,Tiny_6,95185115,840
+10f60bb4214d6613,beam_addc.mat,Tiny_6,95181253,3862
+ce481d2c9882e9d2,beam_add.dds,Art/particles/monster_particles/labyrinth_2,2412248,174948
+96b159e9699eb257,beam_add.dds.header,Tiny_6,95190573,840

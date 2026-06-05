@@ -1,3 +1,0 @@
-daresso_cyclone
-daresso_mirror
-daresso_strafe

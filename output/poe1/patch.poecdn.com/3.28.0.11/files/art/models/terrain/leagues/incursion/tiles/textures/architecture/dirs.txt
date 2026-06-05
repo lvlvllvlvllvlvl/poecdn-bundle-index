@@ -1,3 +1,0 @@
-past
-past/exterior
-past/interior

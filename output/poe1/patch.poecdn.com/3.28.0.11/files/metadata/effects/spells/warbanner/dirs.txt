@@ -1,5 +1,0 @@
-audio
-graphs
-graphs/aoe
-graphs/aoe/metal
-graphs/stain

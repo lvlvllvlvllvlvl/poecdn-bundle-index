@@ -1,0 +1,15 @@
+cleave
+emerge
+epk
+epk/defense
+lightning_strike
+lightning_strike/build_up
+opening_animation
+opening_animation/ground_slam
+siren_song
+slam_cone
+slam_cone/cluster
+surf_cascade
+surf_cascade_indicator
+tidal_rush
+tidal_wave

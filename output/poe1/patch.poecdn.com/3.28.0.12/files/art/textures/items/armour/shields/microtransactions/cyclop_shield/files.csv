@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+edd8634e64e0fa2e,cyclop_shield_specular.mat,Tiny_8,20525199,1214
+9971c655fd43bf29,cyclop_shield_specular.dds,Folders/art/textures/items/armour/shields/microtransactions_6,0,349700
+b1bd45f4890b3bd0,cyclop_shield_specular.dds.header,Tiny_8,20523679,1520
+2df96daca8509c72,cyclop_shield_gloss.mat,Tiny_8,20522483,1196
+664d85cf4d4199d1,cyclop_shield_gloss.dds,Art/Textures/Items/armour/shields/Microtransactions_13,349700,349700
+9f1b79547573cf98,cyclop_shield_gloss.dds.header,Tiny_8,20520963,1520
+dc1dcbe91dfa5da9,cyclop_shield_ao.mat,Tiny_8,20519785,1178
+a340f389840851ea,cyclop_shield_ao.dds,Art/Textures/Items/armour/shields/Microtransactions_13,0,349700
+970517e19b553073,cyclop_shield_ao.dds.header,Tiny_8,20518265,1520
+1c14c922e64bb750,cyclop_shield_albedoccyclop_shieldns.mat,Tiny_8,20512139,6126
+e7b16fea26cac0b3,cyclop_shield_albedo.dds,Art/Textures/Items/armour/shields/Microtransactions_29,349700,174924
+15f098ab9b12913a,cyclop_shield_albedo.dds.header,Tiny_8,20510619,1520
+31b498ff519caa2c,cyclop_shieldns.dds,Art/Textures/Items/armour/shields/Microtransactions_29,0,349700
+1d58b7ba9ac957ed,cyclop_shieldns.dds.header,Tiny_8,20526413,1520

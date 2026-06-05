@@ -1,5 +1,0 @@
-divergencebuildingsupplies_model
-divergencebuildingsupplies_model/textures
-divergencecurios_model
-divergencecurios_model/fx
-divergencecurios_model/texture

@@ -1,8 +1,0 @@
-first_blood
-first_blood/red
-first_blood/spider
-first_blood/zombie
-new
-new/green
-new/red
-new/zombie

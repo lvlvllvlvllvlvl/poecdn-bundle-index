@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+7de8a8f340c99894,light_gradient.mat,Tiny.VF,39381708,1384
+3ea01de75b521175,light_gradient.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/E46749CC2AF6D08B.F6CED56E6099CF65.lightning_edges.pet,43852,43852
+085d23ed8796edb1,light_gradient.dds.header,Tiny.V0,39773554,1520
+2168ef6723c27165,flash.mat,Tiny.V7,39392901,1592
+0f46d24e113ac9c6,flash.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/E46749CC2AF6D08B.F6CED56E6099CF65.lightning_edges.pet,0,43852
+1b6c6d4a390df570,flash.dds.header,Tiny.V5,38976214,1520
+9dcae4e0ad8e6948,thin_lightning_ring.mat,Tiny.V4,39577798,2720
+2e4f550680c6f90c,thin_lightning_ring.dds,Streaming/Content/metadata/particles/monster_effects/league_delve/E46749CC2AF6D08B.F6CED56E6099CF65.lightning_edges.pet,87704,22020
+99c9cb6180255233,thin_lightning_ring.dds.header,Tiny.VD,39613216,1520

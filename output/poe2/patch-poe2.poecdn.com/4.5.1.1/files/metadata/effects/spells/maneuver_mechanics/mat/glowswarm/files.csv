@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+93d7f0633c40618c,shimmer_sphere_r.mat,Tiny.V2.1,78609758,19062
+02eb4e0e2de482ef,energy_sphere_r.mat,Tiny.VD.1,76301780,39454
+3f792634b272df01,blur_sphere_r.mat,Tiny.VE.1,78492972,16284
+ab98da06e6894d1b,blur_sphere_u.mat,Tiny.VB.1,77429339,4076
+9a9fe695845a4bda,glow_worm_r.mat,Tiny.VA.1,76200497,59938
+1c1ac2dc083a5ea9,glow_worm_u.mat,Tiny.V0.1,77381308,11026
+a15801be1ef8fd69,glow_worm_werebear_r.mat,Tiny.V7.1,75116280,59938
+9e09dc75de3d837a,glow_worm_werebear_u.mat,Tiny.V6.1,77812531,12916
+f684cfd96d74e81a,glowswarm_ribbons_u.mat,Tiny.V7.1,75176218,24152
+d58bf92e5403ae5c,glowswarm_ribbons_r1.mat,Tiny.VE.1,78509256,82318
+43329990ba2aa428,glowswarm_ribbons_r2.mat,Tiny.V2.1,78573586,36172
+513e77363022988c,glowswarm_skin_pass0.mat,Tiny.VA.1,76260435,61464
+fb830dd692360d14,glowswarm_skin_pass1.mat,Tiny.VF.1,74619098,27996

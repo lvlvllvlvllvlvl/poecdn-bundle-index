@@ -1,0 +1,12 @@
+boom
+boom/ash
+boom/ice
+boom/thunder
+buff
+buff/agnoy
+buff/ash
+buff/ice
+buff/purity
+buff/thunder
+guard
+spider

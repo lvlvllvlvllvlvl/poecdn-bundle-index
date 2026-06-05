@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+9ab96a84c6edf1cc,influence_ringwave.mat,Tiny.V6,39675692,6792
+dce1398c3723630f,ring.mat,Tiny.VF,39581820,1308
+29a593e9be1aa008,ring.dds,Streaming/Content/metadata/particles/monster_effects/league_heist/C9289DEA2F08C2CB.B5FF36FA0E50A954.front.pet,546832,87556
+cb2aca8652062399,ring.dds.header,Tiny.V7,39644824,1520
+4648845d0acd293d,gushing_water_normal_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_heist/C0F3AB82217886BF.003925188180B111.idle_ptemit.pet,87556,1398276
+e17457a0ea0ef83b,gushing_water_normal_dxt5.dds.header,Tiny.V0,35449886,1520
+b9948c07457102aa,backwatertile_normal_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_heist/C0F3AB82217886BF.003925188180B111.idle_ptemit.pet,0,87556
+645902f99db2777a,backwatertile_normal_dxt5.dds.header,Tiny.VB,41189324,1520
+407dd9da4d5492d9,sphere_webc.mat,Tiny.VA,39878479,6180
+ec896c36c1c8d6fa,sphere_web_dxt5.dds,Streaming/Shared/High/Shared.1,1398248,87556
+51f4e2a96772612a,sphere_web_dxt5.dds.header,Tiny.V7,35225127,1520

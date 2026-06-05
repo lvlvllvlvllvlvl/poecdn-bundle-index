@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+8c76ca12020fb563,kalguuranvil_01.fmt,Streaming/Content/metadata/effects/spells/serles_masterwork/A2423F3D01E7A113.anvil_object.pet,308202,86164
+26ef23d46c3d3d72,kalguuranvil_01.fmt.header,Tiny.V2,11519677,219
+bd19aeb77ae8b555,anvil_shattered.fmt,Streaming/Content/metadata/effects/spells/serles_masterwork/A2423F3D01E7A113.anvil_object.pet,0,308202
+204715cfc3a19ef9,anvil_shattered.fmt.header,Tiny.V3,11268212,2926
+30ff7de00c0f81d1,serlesmasterwork.sm,Tiny.V1,11265547,1414
+7f98b9bd0b88d827,serlesmasterworkdrop_c60826fb.smd,Streaming/Content/metadata/items/weapons/onehandweapons/9E7D3568C06CF7C0.FAD47D5D3AC90E8E.skysliverdrop.ao,291854,57087
+d0b8567cf9465623,serlesmasterworkdrop_c60826fb.smd.header,Tiny.V0,11482464,302
+c9dd584a931aab27,serlesmasterworkdrop.sm,Tiny.V3,11273544,680
+f7c660b761eef01a,serlesmasterworkdrop.amd,Tiny.VB,11378964,226
+e8c3fd6761be26a5,serlesmasterworkdrop.ast,Tiny.V3,11271138,2406
+794135ce97583c8b,rune_01.fmt,Tiny.V0,11478550,3914
+d06c24380c05767c,rune_01.fmt.header,Tiny.V9,11704070,242
+13e27f6bba93b0aa,rig_8fcd9e8c.smd,Streaming/Content/metadata/items/weapons/onehandweapons/0329E65C6A933D63.073401A248FF7025.aesirsword2h.ao,279890,62795
+98214bc2312e58f4,rig_8fcd9e8c.smd.header,Tiny.VB,11378596,368
+fe98c7acc0c7b9bb,rig.amd,Tiny.VD,11225555,886
+70d555c79d3a1ab7,rig.ast,Tiny.VE,11321270,1172

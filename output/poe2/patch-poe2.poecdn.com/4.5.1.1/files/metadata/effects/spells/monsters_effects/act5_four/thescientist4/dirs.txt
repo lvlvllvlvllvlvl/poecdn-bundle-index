@@ -1,0 +1,13 @@
+epks
+fx
+fx/frostwall
+fx/rainofarrows
+fx/rainofarrows/projectile
+fx/snipe_projectile
+fx/snipe_projectile/impact
+fx/snipe_projectile/projectile
+fx/wall_explode
+mat
+mat/frostwall_chipping_hit
+mat/ice_shot
+mat/rain_of_arrows

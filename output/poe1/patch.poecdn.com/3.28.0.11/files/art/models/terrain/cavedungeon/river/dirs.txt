@@ -1,4 +1,0 @@
-alttiles
-alttiles/cave_boiling
-alttiles/corrupted
-tgms

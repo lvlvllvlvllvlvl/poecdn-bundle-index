@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+80b0a369f181e6b8,g_pri_courtyarddirt03.mat,Tiny.V9,22337543,2630
+7586d02e43ca67d9,g_pri_courtyarddirt03_normal.dds,Streaming/Content/data/worldareas/3A/g4_5_1.vworld,0,1398276
+3c75cf4700bd570c,g_pri_courtyarddirt03_normal.dds.header,Tiny.V4,20655588,1520
+64d85f7435f336c6,g_pri_courtyarddirt03_colour.dds,Streaming/Content/data/worldareas/A1/g4_5_1.vworld,147069,1398276
+683f790b5754b9bd,g_pri_courtyarddirt03_colour.dds.header,Tiny.V0,22201000,1520
+468381298148dc53,g_pri_courtyarddirt02.mat,Tiny.V9,22335073,2470
+a7a3431ec5cd07b2,g_pri_courtyarddirt02_normal.dds,Streaming/Content/data/worldareas/E4/g4_5_1.vworld,97159,1398276
+15ae5a8750643f78,g_pri_courtyarddirt02_normal.dds.header,Tiny.VE,20118831,1520
+0a13d07cfeb56842,g_pri_courtyarddirt02_colour.dds,Streaming/Content/data/worldareas/D4/g4_5_1.vworld,0,1398276
+d175c539d5133ebf,g_pri_courtyarddirt02_colour.dds.header,Tiny.VE,21838879,1520
+77a68e0453cb4f7f,g_pri_courtyarddirt01.mat,Tiny.VC,22008319,2748
+d08256bbf9147d2e,g_pri_courtyarddirt01_normal.dds,Streaming/Content/data/worldareas/01/g4_5_1.vworld,0,1398276
+9c821a939f29fe92,g_pri_courtyarddirt01_normal.dds.header,Tiny.VB,20276153,1520
+580a599373927a45,g_pri_courtyarddirt01_colour.dds,Streaming/Content/data/worldareas/46/g4_5_1.vworld,0,1398276
+1678d9c1acb4d712,g_pri_courtyarddirt01_colour.dds.header,Tiny.V1,21920823,1520

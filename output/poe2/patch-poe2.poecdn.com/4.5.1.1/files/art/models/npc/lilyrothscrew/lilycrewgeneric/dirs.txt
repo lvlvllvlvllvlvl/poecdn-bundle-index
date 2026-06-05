@@ -1,0 +1,6 @@
+animations
+attachments
+attachments/bandana
+attachments/jacket
+attachments/necklace
+attachments/skirt

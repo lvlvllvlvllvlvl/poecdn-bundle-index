@@ -1,0 +1,6 @@
+beam_01
+beam_02
+beam_impact
+monster_hit
+player_buff
+weapon_buff

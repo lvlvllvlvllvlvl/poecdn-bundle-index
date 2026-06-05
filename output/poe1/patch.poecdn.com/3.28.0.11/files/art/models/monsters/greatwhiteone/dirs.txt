@@ -1,7 +1,0 @@
-animations
-animations/pet
-attachments
-attachments/crablegback
-attachments/crablegfront
-attachments/crablegmid
-textures

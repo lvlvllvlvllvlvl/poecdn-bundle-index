@@ -1,6 +1,0 @@
-mb
-mb/living
-mb/living/attack_01
-tex
-tex/on_act
-tex/on_act/attack_01

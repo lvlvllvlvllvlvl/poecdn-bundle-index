@@ -1,7 +1,0 @@
-beam
-emerge
-loop
-onact
-proj
-pylon_bolt
-pylon_object

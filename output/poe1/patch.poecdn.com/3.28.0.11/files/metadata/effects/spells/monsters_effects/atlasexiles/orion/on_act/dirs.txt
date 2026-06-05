@@ -1,5 +1,0 @@
-beam_03
-beam_barrage_01
-on_act_death
-throne_activate
-throne_deactivate

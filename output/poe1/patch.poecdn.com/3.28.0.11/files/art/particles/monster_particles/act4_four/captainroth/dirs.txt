@@ -1,7 +1,0 @@
-mb
-mb/ghostcannons
-mb/grid_wave
-textures
-textures/ghostcannons
-textures/spinning_wheel
-textures/wave

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+c3369f9e8d5dcfc4,cameriaweaponc.mat,Tiny_8,23068139,3938
+cb720141d46d5438,cameriaweapon_specular_dxt5.dds,Art/Textures/Items/weapon/axes/CameriaWeapon,874324,349700
+b962c63fb744a111,cameriaweapon_specular_dxt5.dds.header,Tiny_8,23066619,1520
+572b6556b78f6dc6,cameriaweapon_normal_dxt5.dds,Art/Textures/Items/weapon/axes/CameriaWeapon,524624,349700
+1677f424a4fb616f,cameriaweapon_normal_dxt5.dds.header,Tiny_8,23065099,1520
+299f8e28b2d57745,cameriaweapon_colour_dxt5.dds,Art/Textures/Items/weapon/axes/CameriaWeapon,174924,349700
+d5b8a5a758780bb4,cameriaweapon_colour_dxt5.dds.header,Tiny_8,23063579,1520
+16b07945dd9b46de,cameriaweapon_colour_bc7.dds,Art/Textures/Items/weapon/axes/CameriaWeapon,174924,349700
+2b0856bbba8dba46,cameriaweapon_colour_bc7.dds.header,Tiny_8,23063579,1520
+7f77eb1af9472b3e,cameriaweapon_colour.dds,Art/Textures/Items/weapon/axes/CameriaWeapon,0,174924
+0357426548606a51,cameriaweapon_colour.dds.header,Tiny_8,23062059,1520

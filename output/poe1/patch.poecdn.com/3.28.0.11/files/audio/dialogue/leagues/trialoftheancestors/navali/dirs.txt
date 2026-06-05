@@ -1,5 +1,0 @@
-navali
-navali_announcer
-navali_deathwhisper
-navali_greeting
-navali_wild

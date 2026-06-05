@@ -1,8 +1,0 @@
-mortar
-mortar_explode
-onact
-volcano_aoe
-volcano_base
-volcano_burst
-volcano_idle
-volcano_melt

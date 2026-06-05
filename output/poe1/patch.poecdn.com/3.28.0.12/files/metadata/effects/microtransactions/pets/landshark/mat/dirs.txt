@@ -1,0 +1,12 @@
+attachedfx
+emerge_burst
+emerge_chomp
+emerge_hole
+goblin_blood
+goblin_emerge
+idle_chompgoblin
+idle_justate
+liquid
+onact_trails
+submerge_hole
+submerge_idle

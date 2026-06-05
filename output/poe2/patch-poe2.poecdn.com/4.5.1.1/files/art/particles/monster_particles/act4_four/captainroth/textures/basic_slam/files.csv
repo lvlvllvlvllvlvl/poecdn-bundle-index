@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+e7023fd70a724e27,bs_decal_update.mat,Tiny.V6,34331365,208
+d6da10ed4105f781,bs_zoom_distort_2_render.mat,Tiny.VF,37053656,3050
+fb5af857bd195b21,bs_caustics_render.mat,Tiny.VA,37340087,2988
+df4d465ba1586abd,rs_zoom_distort_2_render.mat,Tiny.VB,37280867,3352
+84975896533ad45d,rs_debris_01_update.mat,Tiny.VE,36541440,5534
+12d99737a8e04241,rs_debris_01b_update.mat,Tiny.V2,36867852,5000

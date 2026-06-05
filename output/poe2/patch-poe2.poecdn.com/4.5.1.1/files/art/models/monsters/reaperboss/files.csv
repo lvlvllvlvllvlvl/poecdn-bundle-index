@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+67fb49d2a4e89993,graveyardsuperunique.sm,Tiny.V5,12544299,2928
+061c23dc1e7d42a0,graveyardsuperunique_armour_8c5b7b04.smd,Streaming/Content/metadata/monsters/skeletalreaper/skeletalreaper.act,810554,271131
+524437f73f2984e9,graveyardsuperunique_armour_8c5b7b04.smd.header,Content/metadata/monsters/skeletalreaper/skeletalreaper.act,1980444,5728
+94f2a8525607d1eb,deathsoulstealer.sm,Tiny.V8,12730332,550
+ff34a031b3a58895,deathsoulstealerfinisher_armour_9aee02b7.smd,Streaming/Content/metadata/effects/microtransactions/spells/C99FBEE6B9765377.8A78D9D3974B2150.rose_frenzycharges.ao,606392,393857
+e8641c83ed11166e,deathsoulstealerfinisher_armour_9aee02b7.smd.header,Content/metadata/effects/microtransactions/on_kill/crueltyfinisher/A2423F3D01E7A113.blood_viscera_mid.pet,292800,5521
+521d655fe3eca849,reaperboss.sm,Tiny.V2,12971763,2980
+f8b28c870627cdeb,rig_f443ba2a.smd,Streaming/Content/metadata/monsters/leagueexpeditionnew/vorana/vorana.act,349700,259991
+c49bdb9e19c60eab,rig_f443ba2a.smd.header,Content/metadata/monsters/leagueexpeditionnew/vorana/shadowstormcentre.ot,237866,6410
+2c443378cb1ca401,rig.amd,Content/metadata/monsters/leagueexpedition/reaperboss/ezomytereaperboss.ot,0,12284
+9f138ab6dcab3941,rig.ast,Content/metadata/monsters/leagueexpedition/reaperboss/ezomytereaperboss.ot,12284,2069535

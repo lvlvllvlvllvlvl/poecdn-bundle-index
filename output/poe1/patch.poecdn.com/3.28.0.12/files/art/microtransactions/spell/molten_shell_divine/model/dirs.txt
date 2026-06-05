@@ -1,0 +1,3 @@
+static_shell
+textures
+textures/fx

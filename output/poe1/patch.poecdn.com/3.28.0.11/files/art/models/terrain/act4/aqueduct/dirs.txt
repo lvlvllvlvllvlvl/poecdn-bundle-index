@@ -1,5 +1,0 @@
-alttiles
-alttiles/blood
-tgms
-vastiri_statuespawners
-vastiri_statuespawners/tgms

@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-e1c61fc52950d12c,generate.rs,Tiny_11,138981589,516
-ba5dcc292847595a,overlays.toy,Tiny_11,138985655,1822
-b5505c27db5fd5e5,random_fill_tiles.gft,Tiny_11,138987477,3876
-b7b7bcc341211242,tiles.tst,Tiny_11,139036859,12128
-9343cc2aedfe1637,master.tsi,Tiny_11,138984001,696
-47a9da316932a587,materials.mtd,Tiny_11,138984697,958
-6b7405152d1505bb,decals.dct,Tiny_11,138981309,194
-3d4bb6959ca5d1dd,doodads.ddt,Tiny_11,138981503,86

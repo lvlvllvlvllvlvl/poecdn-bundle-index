@@ -1,8 +1,0 @@
-league
-league/sanctum
-league/sanctum/valencienne
-league/sanctum/valencienne/textures
-league/sanctum/valencienne/textures/unlock_wave
-league/synthesis
-league/synthesis/zana
-league/synthesis/zana/memoryportal

@@ -1,0 +1,10 @@
+f
+f/cage
+f/shawl
+f/skirt
+m
+m/cage
+m/shawl
+m/skirt
+str
+str/cage

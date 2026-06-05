@@ -1,0 +1,12 @@
+attachments
+attachments/head
+attachments/head_worm
+attachments/shoulderpads
+attachments/shoulderpads/animation
+attachments/shoulderpads/animation/l_side
+attachments/shoulderpads/animation/r_side
+attachments/skirt
+fx
+fx/mb
+fx/textures
+textures

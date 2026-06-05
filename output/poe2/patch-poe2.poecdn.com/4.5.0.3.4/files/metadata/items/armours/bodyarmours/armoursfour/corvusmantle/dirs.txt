@@ -1,4 +1,0 @@
-attachments
-attachments/corvusmantlecloak
-attachments/corvusmantlerobe
-attachments/corvusmantlesleeves

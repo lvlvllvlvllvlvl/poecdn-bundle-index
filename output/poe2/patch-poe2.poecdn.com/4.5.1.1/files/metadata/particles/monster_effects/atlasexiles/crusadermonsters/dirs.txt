@@ -1,0 +1,14 @@
+arcaneorb_beam
+blackguardcleric_aura
+blackguardcleric_cone
+blessedsister_mortar
+fallenangelwarrior
+fallenangelwarrior/double_spin
+fallenangelwarrior/slash
+mageguard_proj
+mageguardcaster_beam
+mageguardcaster_delayedbomb
+manaphantasm_explode
+religioustemplar_throw
+templarjudge_balllightning
+templarjudge_nova

@@ -1,0 +1,5 @@
+frozen_legion
+smite_aura
+smite_weapon_buff
+warcry
+warcry_cold

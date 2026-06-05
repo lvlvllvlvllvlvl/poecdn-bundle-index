@@ -1,4 +1,0 @@
-escortgoal
-escortgoal/graphs
-graphs
-graphs/wheels

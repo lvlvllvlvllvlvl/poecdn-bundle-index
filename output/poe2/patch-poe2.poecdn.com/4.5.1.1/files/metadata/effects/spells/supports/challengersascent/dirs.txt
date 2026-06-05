@@ -1,0 +1,10 @@
+attached
+epk
+fx
+graphs
+mats
+mats/fragment
+mats/onact
+mats/slamheavyimpact
+mats/slamlightimpact
+mats/wings

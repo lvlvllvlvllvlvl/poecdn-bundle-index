@@ -1,5 +1,0 @@
-tex
-tex/dual_swords
-tex/shield
-tex/spell
-tex/warcry

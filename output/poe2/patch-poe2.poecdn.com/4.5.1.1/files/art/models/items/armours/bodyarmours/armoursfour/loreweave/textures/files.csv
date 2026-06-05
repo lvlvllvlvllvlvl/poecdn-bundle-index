@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+ce9e508d57284ca3,loreweavec.mat,Tiny.VC,9001914,5180
+36f3cd80427a6415,loreweave_glow.dds,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.619C499B1D12AA83.loreweavedex.ao.1,0,5592580
+3deb19c3b42ac7ca,loreweave_glow.dds.header,Tiny.V6,9166629,1520
+b87745a6be2064dc,loreweave_normal.dds,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.619C499B1D12AA83.loreweavedex.ao.2,0,5592580
+a3d2ff75fdc249b4,loreweave_normal.dds.header,Tiny.VA,9120199,1520
+eb8ee7810169b538,loreweave_mask.dds,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.619C499B1D12AA83.loreweavedex.ao.1,5592580,5592580
+57ccd2cbe1b1526a,loreweave_mask.dds.header,Tiny.V4,9201027,1520
+438fd9733428a120,loreweave_metal.dds,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.619C499B1D12AA83.loreweavedex.ao.1,11185160,5592580
+89998bf2ce69fe3a,loreweave_metal.dds.header,Tiny.VA,9118679,1520
+df5ce48eef920bbc,loreweave_colour.dds,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.619C499B1D12AA83.loreweavedex.ao,1411588,5592580
+93b58fc039cb79ea,loreweave_colour.dds.header,Tiny.V8,8930291,1520

@@ -1,0 +1,11 @@
+cone_01
+cone_crk
+cone_explode
+cone_wave
+crk_explode_01
+fire_breath
+leap_mace_slam
+leap_slam
+on_act
+on_act/fire_lacerate
+slam_01

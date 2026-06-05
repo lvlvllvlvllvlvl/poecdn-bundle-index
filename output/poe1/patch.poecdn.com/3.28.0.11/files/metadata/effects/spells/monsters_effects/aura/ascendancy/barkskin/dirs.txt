@@ -1,8 +1,0 @@
-epk
-fx
-fx/barkskin
-fx/barkskin_off
-graph
-mat
-mat/barkskin
-mat/barkskin_off

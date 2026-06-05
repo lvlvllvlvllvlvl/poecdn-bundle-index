@@ -1,6 +1,0 @@
-laser_sight
-projectile
-projectile_aoe
-projectile_beam
-projectile_beam_short
-projectile_marker

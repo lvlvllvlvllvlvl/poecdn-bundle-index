@@ -1,0 +1,2 @@
+warcry
+warcry_cold

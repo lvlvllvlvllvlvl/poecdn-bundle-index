@@ -1,6 +1,0 @@
-banditexecutionerrobe
-banditexecutionersleeve
-vaaloverseer
-vaaloverseer/beltskulls
-vaaloverseer/feathers
-vaaloverseer/stonegreatsword

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+8e07d238bb95fb5b,pow_claw.mat,Tiny.V3,5023257,4834
+5f4f4dabe836d4ec,pow_grad.mat,Tiny.V1,5052947,2362
+cdc6670b38995b00,pow_tip.mat,Tiny.V4,5209788,2462
+1b1149b0d18d03ad,end_trl.mat,Tiny.V1,5050727,2220
+902d9e3aff1aed38,end_eye.mat,Tiny.VB,5144295,5208
+d8a6a7bf4b3e7b1e,end_grad.mat,Tiny.V1,5048395,2332
+f2c08dd537a14c1c,fre_grad.mat,Tiny.V6,5020185,2364
+88d55291d8891742,fre_tooth.mat,Tiny.V3,5018321,4936
+d5c18c9a707ef498,fre_tip.mat,Tiny.V6,5022549,2360

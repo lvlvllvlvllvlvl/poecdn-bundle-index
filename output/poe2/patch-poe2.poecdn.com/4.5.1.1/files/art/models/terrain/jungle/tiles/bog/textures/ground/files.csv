@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+56b75664bfb3f8d7,g_cvb_claymud03.mat,Tiny.VF,24530382,1002
+1b8b68e67b888332,g_cvb_claymud03_normal.dds,Streaming/Content/data/worldareas/5C/g3_7.vworld,0,1398276
+55347ab299bf1a2b,g_cvb_claymud03_normal.dds.header,Tiny.V5,23902560,1520
+d479bd6e697a6fa4,g_cvb_claymud03_colour.dds,Streaming/Content/data/worldareas/A6/g3_7.vworld,5592580,1398276
+7bb5656e3801baca,g_cvb_claymud03_colour.dds.header,Tiny.V4,24658164,1520
+e25c97e94e7534d5,g_cvb_claymud02.mat,Tiny.VB,24435908,1002
+b181ea4b029b365e,g_cvb_claymud02_normal.dds,Streaming/Content/data/worldareas/60/g3_7.vworld,0,1398276
+0d3b264b39ff02c7,g_cvb_claymud02_normal.dds.header,Tiny.VD,24217415,1520
+5640446c2089fba4,g_cvb_claymud02_colour.dds,Streaming/Content/data/worldareas/C8/g3_7.vworld,0,1398276
+5bbe36ae225fe6f1,g_cvb_claymud02_colour.dds.header,Tiny.V6,24300662,1520
+aa88171bd1554258,g_cvb_claymud01.mat,Tiny.VB,24433386,1002
+0cec8d7ae4b0083c,g_cvb_claymud01_normal.dds,Streaming/Content/data/worldareas/77/g3_7.vworld,0,1398276
+96e122fa78b55f02,g_cvb_claymud01_normal.dds.header,Tiny.VC,24472908,1520
+c46975aefff483b9,g_cvb_claymud01_colour.dds,Streaming/Content/data/worldareas/47/g3_7.vworld,0,1398276
+ecd832679919e875,g_cvb_claymud01_colour.dds.header,Tiny.VB,24434388,1520

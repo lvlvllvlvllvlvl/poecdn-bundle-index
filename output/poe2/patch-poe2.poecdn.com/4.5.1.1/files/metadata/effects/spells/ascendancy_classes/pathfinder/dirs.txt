@@ -1,0 +1,11 @@
+epk
+fx
+mat
+mat/explosions
+mat/explosions/blood
+mat/explosions/cold
+mat/explosions/fire
+mat/explosions/lightning
+mat/explosions/poison
+mat/flasks
+mat/trails

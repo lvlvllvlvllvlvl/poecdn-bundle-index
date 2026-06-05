@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+0fd6aaa9b1438c88,smi_zoom_distort_2_r.mat,Tiny_9,124897738,6586
+e2825893f10b6b5d,smi_smoke_shockwave_r.mat,Tiny_9,124873074,17920
+dc7bf428afa73c9c,smi_sphere_distortion_r.mat,Tiny_9,124890994,6744
+7bfdd8e096b97a74,smi_dirt_spike_01_r.mat,Tiny_9,124823674,32766
+3851ad58e1427d1f,smi_dirt_spike_02_u.mat,Tiny_9,124856440,16634
+847ebe84679f50e6,smi_dirt_at_01_r.mat,Tiny_9,124790738,22410
+bf179781aea4e4e3,smi_dirt_at_01_u.mat,Tiny_9,124813148,10526
+70219c1ec144df6a,smi_caustics_r.mat,Tiny_9,124735684,6560
+cca73e3c8e400b87,smi_crk_01_r.mat,Tiny_9,124742244,48494
+9d6b5d747c9f3e60,pntemit_forcegrd_u.mat,Tiny_11,96896332,576
+992cf6de5bb482c1,ptemit_infinite_u.mat,Tiny_11,96737702,576
+698ad168de6b52de,ptemit_u.mat,Tiny_11,127344428,346
+96a23a0645740179,oa_dirt_spike_01_u.mat,Tiny_9,124667952,19476
+077c286ef70c3fe5,oa_glow_spike_01_r.mat,Tiny_9,124687428,27368
+15a77dca30fe7e91,oa_shimmerwave_01_r.mat,Tiny_9,124714796,20888

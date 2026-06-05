@@ -1,0 +1,3 @@
+textures
+textures/common
+textures/microtransactions

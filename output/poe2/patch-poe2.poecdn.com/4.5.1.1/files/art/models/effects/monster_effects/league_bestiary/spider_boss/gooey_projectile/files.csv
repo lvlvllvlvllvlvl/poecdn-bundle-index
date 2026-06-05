@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+fffda37928c67d0c,rig_dca60b3c.smd,Streaming/Content/metadata/effects/spells/monsters_effects/9F3F25555185181D.C25BF2C791E4FF21.mortar.ao,0,20310
+8942cf9478b4a678,rig_dca60b3c.smd.header,Tiny.VF,7421188,368
+d8da11d4049b466a,rig.amd,Tiny.V2,7789603,154
+6dd811c6b15833cd,rig.ast,Content/metadata/effects/spells/monsters_effects/league_bestiary/67A1EB08DA3F7DBB.venom_beam.ao,331264,4719
+2d805571dc8e4569,impact_8c0a77e2.smd,Streaming/Content/metadata/effects/spells/monsters_effects/9F3F25555185181D.C25BF2C791E4FF21.mortarimpact.ao,0,21174
+9c150dc81672075d,impact_8c0a77e2.smd.header,Tiny.V3,7255073,368
+7d274b4fb055c607,mortarchunks.sm,Tiny.VD,7447312,1116
+9d332c2c40c0ba05,mortarimpact.sm,Tiny.V8,7467013,784
+a1e1e6f29af59b36,mortarimpact.amd,Tiny.V0,5443014,86
+a1958b441bc3d9d3,mortarimpact.ast,Tiny.VC,7543052,3128

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+d69e796d23666622,blast_sphere_r.mat,Tiny.V8.1,136786142,31526
+29c387a19b0d21b4,blast_sphere_u.mat,Tiny.VE.1,12563624,310
+0679e08437a5820a,bone_debris_r.mat,Tiny.V1.1,137117102,11890
+7cd7007526fea498,bone_debris_u.mat,Tiny.V9.1,137547763,18560
+1d749b75500b88e1,ground_crack_01_r.mat,Tiny.VE.1,135492202,28104
+bf559ab10f12b4d4,ground_crack_01_u.mat,Tiny.V7.1,133540968,2398
+91e863b194599810,ground_debris_r.mat,Tiny.V0.1,135840726,8246
+82cee48ce6703106,ground_debris_u.mat,Tiny.VD.1,135631776,19980
+8d34aa8da6988ebb,kickup_smoke_r.mat,Tiny.VC.1,137765853,33162
+64287bc299d60045,kickup_smoke_u.mat,Tiny.V0.1,135848972,16564
+5c27d07bb79d5c61,warp_cirlce_3d_r.mat,Tiny.VB.1,137735125,16518
+6ab4818cabf4dbfa,warp_cirlce_3d_u.mat,Tiny.VE.1,12563624,310
+c49bec359f618695,shockwave_pulse_r.mat,Tiny.VD.1,135651756,17948
+5f5d6932695a9e3d,shockwave_pulse_u.mat,Tiny.VE.1,12563624,310

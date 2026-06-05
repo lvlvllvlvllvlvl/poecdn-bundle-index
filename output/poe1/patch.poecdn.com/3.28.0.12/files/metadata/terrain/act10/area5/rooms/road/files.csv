@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+584ce3dce463fb89,straight_01.arm,Folders/metadata/3/terrain,303034,6450
+11821c1a70f63863,straight_02.arm,Folders/metadata/C/terrain,168090,6174
+d26e1fe5ef6feb55,straight_03.arm,Folders/metadata/F/terrain,182710,7486
+e4aef3a05c5d5eaf,road_to_wall_01.arm,Folders/metadata/7/terrain,124800,5060
+83277d9e03a2b041,road_to_wall_02.arm,Folders/metadata/6/terrain,189540,5446
+a739bce665d450ff,road_to_wall_03.arm,Folders/metadata/7/terrain,129860,6098
+59863001d50ebf1d,end_01.arm,Folders/metadata/E/terrain,165308,5798
+f3e8c38b603ad35a,end_02.arm,Folders/metadata/8/terrain,243620,6614
+ac6a4c4dc778c26b,cross_01.arm,Folders/metadata/C/terrain,159512,8578
+3349b142d2532449,corner_01.arm,Folders/metadata/3/terrain,295902,7132
+d0763a20bedd9e4e,corner_02.arm,Folders/metadata/F/terrain,175852,6858
+83b7f52df5b0b6ee,corner_03.arm,Folders/metadata/E/terrain,156414,8894
+24313b4d8ea09f72,branch_01.arm,Folders/metadata/A/terrain,332626,7552
+4be4a167af16a626,branch_02.arm,Folders/metadata/5/terrain,193902,8394

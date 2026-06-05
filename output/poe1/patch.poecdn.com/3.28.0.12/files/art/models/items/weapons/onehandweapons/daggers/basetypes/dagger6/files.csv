@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+bc8311572d1ecfe0,rig_fe7200fa.smd,Tiny_2,65213284,2363
+6ebb48b1783642ca,rig_fe7200fa.smd.header,Tiny_2,65215647,368
+e4aaadd31efcafb9,rig.amd,Tiny_2,65658096,914
+a884b2f94b0ac90a,rig.ast,Tiny_2,65212211,1073
+206873579ccacbb9,dagger6.sm,Tiny_2,65206249,1306
+feb379b221f2dfab,dagger6drop_5f319d5f.smd,Tiny_2,65209722,2121
+dad2f5719a1fbbe2,dagger6drop_5f319d5f.smd.header,Tiny_2,65211843,368
+b068b0e502817027,dagger6drop.sm,Tiny_2,65209194,528
+735311c64f3afbf2,dagger6drop.amd,Tiny_2,65207555,230
+a9aa0c38615d527d,dagger6drop.ast,Tiny_2,65207785,1409

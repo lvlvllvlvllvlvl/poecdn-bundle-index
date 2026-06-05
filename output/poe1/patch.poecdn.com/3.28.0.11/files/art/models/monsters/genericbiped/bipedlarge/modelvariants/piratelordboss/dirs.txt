@@ -1,4 +1,0 @@
-attachments
-ghostlantern
-ghostlantern/textures
-textures

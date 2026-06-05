@@ -1,5 +1,0 @@
-mb
-mb/mesh_particles
-mb/meteor
-mb/orbitting_proj
-mb/orbitting_proj/animations

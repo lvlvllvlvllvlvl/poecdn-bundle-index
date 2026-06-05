@@ -1,0 +1,12 @@
+cairn
+chests
+chests/peranduschest
+cocoonchests
+dexintcraftingbench
+kaomchest
+malachaisbox
+perandusbox
+strongboxes
+templarcourtchests
+uniquestrongboxes
+vaalchest

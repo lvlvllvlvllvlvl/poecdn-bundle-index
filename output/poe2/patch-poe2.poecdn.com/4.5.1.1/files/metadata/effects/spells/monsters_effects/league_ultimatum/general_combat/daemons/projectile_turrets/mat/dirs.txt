@@ -1,0 +1,13 @@
+large_projectile_fire
+large_projectile_fire/impact
+large_projectile_fire/split
+lightningspear
+lightningspear/impact
+onact
+onact/fire
+onact/fire/stage01
+onact/lightning
+onact/lightning/stage01
+onact/lightning/stage02
+small_projectile_fire
+small_projectile_fire/impact

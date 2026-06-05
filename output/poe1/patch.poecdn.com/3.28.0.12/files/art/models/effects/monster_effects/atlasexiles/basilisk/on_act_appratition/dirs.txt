@@ -1,0 +1,8 @@
+death
+death_light
+on_act_attack_02
+on_act_attack_03
+on_act_defensive_attack_large
+on_act_defensive_attack_wyvern
+on_act_emerge
+stab_spin_aoe

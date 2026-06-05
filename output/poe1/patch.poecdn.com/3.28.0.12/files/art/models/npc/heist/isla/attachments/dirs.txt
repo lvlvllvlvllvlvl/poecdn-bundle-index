@@ -1,0 +1,9 @@
+back_scrolls
+front_cloth
+head_cloth
+l_elbow_cloth
+mallet
+monocle_chain
+page_tray
+pencil
+r_elbow_cloth

@@ -1,0 +1,13 @@
+epks
+fx
+mats
+mats/bloodpass
+mats/bloodspill_base_01
+mats/bloodspill_drips_01
+mats/bloodspill_line_01
+mats/bloodspill_pour_01
+mats/chayulafruitsac
+mats/fruit_02_surge
+mats/open_portal_buildup
+mats/portal
+mats/tree_02_surge

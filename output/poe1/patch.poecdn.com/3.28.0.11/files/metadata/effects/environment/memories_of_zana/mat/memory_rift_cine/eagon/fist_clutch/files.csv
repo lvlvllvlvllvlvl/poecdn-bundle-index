@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-d7b7c6158e530ab7,zoom_distort_r.mat,Tiny_8,118376740,5940
-a2e829583dc1fc6c,zoom_distort_u.mat,Tiny_11,127344428,346
-bf96b72df3946b65,shockwave_ring_r.mat,Tiny_8,118361118,15622
-3c379a50475c2a1e,shockwave_ring_u.mat,Tiny_11,127344428,346
-c89bc98f9ee18273,rift_sphere_r.mat,Tiny_8,118322872,38246
-72ff528a8a6a0494,rift_sphere_u.mat,Tiny_11,127344428,346
-4e540c5b38f06ff9,mblur_sphere_r.mat,Tiny_8,118313436,9436
-d63507cc5d1f3cc7,mblur_sphere_u.mat,Tiny_11,127344428,346

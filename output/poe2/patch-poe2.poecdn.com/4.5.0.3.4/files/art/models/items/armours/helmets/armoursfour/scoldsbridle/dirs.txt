@@ -1,4 +1,0 @@
-attachments
-attachments/bell
-attachments/padlock
-textures

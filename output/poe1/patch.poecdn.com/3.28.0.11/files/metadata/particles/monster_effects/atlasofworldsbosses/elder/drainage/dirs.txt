@@ -1,2 +1,0 @@
-drain_idle
-drain_leave

@@ -1,4 +1,0 @@
-main
-main/explode
-small
-small/explode

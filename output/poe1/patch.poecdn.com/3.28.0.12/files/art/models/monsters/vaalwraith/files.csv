@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+0c97916358f074d7,lostsouls.sm,Tiny_3,11564463,718
+be59093a94e971ac,vaalbloodstained.sm,Tiny_3,11570092,500
+a23355b8a53e7190,vaalwraith.sm,Tiny_3,11570760,584
+5b0251c32a66ccae,vaalwraith.fmt,Art/Models/MONSTERS/VaalWraith,590044,407503
+f665175fe9f5ef60,vaalwraith.fmt.header,Tiny_3,11570592,168
+c9f35b7e10b30ae3,rig_253bad7d.smd,Art/Models/MONSTERS/VaalWraith,0,355077
+9824aa7da0d685ed,rig_253bad7d.smd.header,Tiny_3,11567307,2785
+972132c23391b968,rig.amd,Tiny_3,11565181,2126
+52f0a6d916e4dae9,rig.ast,Art/Models/MONSTERS/VaalWraith,355077,234967

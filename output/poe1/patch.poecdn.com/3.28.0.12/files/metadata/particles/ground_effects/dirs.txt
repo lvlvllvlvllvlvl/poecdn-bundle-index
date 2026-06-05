@@ -1,0 +1,16 @@
+elderfied
+evil
+evil/new
+fire
+fire_white
+haste
+holy
+ice
+lava
+lightning
+malachai_sporeground
+player_tar
+poison
+skeletonking_grasping_ornaments
+tar
+vaal_cloud

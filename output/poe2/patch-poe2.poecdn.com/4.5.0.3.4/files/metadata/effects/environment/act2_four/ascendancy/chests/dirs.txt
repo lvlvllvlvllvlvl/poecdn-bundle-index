@@ -1,8 +1,0 @@
-fx
-mat
-mat/bronze
-mat/bronze/burst
-mat/gold
-mat/gold/burst
-mat/silver
-mat/silver/burst

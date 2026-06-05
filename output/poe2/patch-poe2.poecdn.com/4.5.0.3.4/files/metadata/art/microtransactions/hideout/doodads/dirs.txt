@@ -1,4 +1,0 @@
-alientree_celestial
-challengetotem
-challengetotem/runesofaldur
-challengetotem/runesofaldur/textures

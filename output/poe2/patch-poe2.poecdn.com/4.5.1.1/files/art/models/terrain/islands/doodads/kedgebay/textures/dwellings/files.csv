@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+e96aa387cc303a28,kgb_woodplanksshipwreck01c.mat,Tiny.VD,19774075,3274
+7677330afc75a3a5,kgb_woodplanks01c.mat,Tiny.VC,20036242,2526
+56f364e8a774781f,kgb_woodplanks01_normal_dxt5.dds,Streaming/Content/data/worldareas/9D/expeditionlogbook_tundra.vworld,0,5592580
+bdc2ee245dacebb7,kgb_woodplanks01_normal_dxt5.dds.header,Tiny.V9,20412569,1520
+4c45e25dc7f88a5f,kgb_woodplanks01_colour_dxt1.dds,Streaming/Content/data/worldareas/5C/expeditionlogbook_tundra.vworld,0,2796364
+9a196baa798a801e,kgb_woodplanks01_colour_dxt1.dds.header,Tiny.VD,19772555,1520
+12f6ec4527de103d,kgb_dwellingdetails02c.mat,Tiny.V0,20309524,3086
+ac41b43ebb3ca602,kgb_dwellingdetails01c.mat,Tiny.V0,20308152,1372
+08bfbd34039b3249,kgb_dwellingdetails01_normal_dxt5.dds,Streaming/Content/art/models/terrain/islands/CD07F2665713E7D4.781B854468E31D26.dwellings04.fmt.1,0,5592580
+248047893d4dcaa0,kgb_dwellingdetails01_normal_dxt5.dds.header,Tiny.V7,20002516,1520
+8af03ce9d2371399,kgb_dwellingdetails01_colour_dxt1.dds,Streaming/Content/art/models/terrain/islands/CD07F2665713E7D4.781B854468E31D26.dwellings04.fmt,0,2796364
+1fd1078000b6d612,kgb_dwellingdetails01_colour_dxt1.dds.header,Tiny.V8,20149226,1520

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+c73d321a3dd15dee,expeditionplinthc.mat,Tiny_2,73669856,3798
+bc4e59ed3a23553f,expeditionplinth_normal_dxt5.dds,Art/Models/Misc/ExpeditionPlinth/Textures,1398620,699236
+4e274957166c7cbb,expeditionplinth_normal_dxt5.dds.header,Tiny_2,73669016,840
+23f16bcf22c11a37,expeditionplinth_metal_dxt1.dds,Art/Models/Misc/ExpeditionPlinth/Textures,1048928,349692
+0d4e30167dc96bb6,expeditionplinth_metal_dxt1.dds.header,Tiny_2,73668176,840
+5b0caffbedf52ae9,expeditionplinth_glow_dxt5.dds,Art/Models/Misc/ExpeditionPlinth/Textures,349692,699236
+faed5ab65d351a42,expeditionplinth_glow_dxt5.dds.header,Tiny_2,73667336,840
+0144204036af6c32,expeditionplinth_colour_dxt1.dds,Art/Models/Misc/ExpeditionPlinth/Textures,0,349692
+0d9f892198d5aa3a,expeditionplinth_colour_dxt1.dds.header,Tiny_2,73666496,840

@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+fb7fe4c520e7afad,shiftenergy_2pass.mat,Tiny_9,30289014,19788
+9a8bc8a9a3ae837f,puff_smoke_r.mat,Tiny_9,30229632,34004
+bb1db8862381848f,puff_smoke_u.mat,Tiny_9,30263636,25378
+353ee1e5f2ad3768,lightn_rib_r.mat,Tiny_9,30167928,43934
+30c54a5793683283,lightn_rib_u.mat,Tiny_9,30211862,17770
+71877f404905566b,energy_wisp_r1.mat,Tiny_9,30103518,41862
+819a42d9c817fc65,energy_wisp_u.mat,Tiny_9,30145380,22548
+2bad1ef297cb93fd,energy_wisp_03_r1.mat,Tiny_9,30060196,25552
+cc53b67067a05315,energy_wisp_03_u.mat,Tiny_9,30085748,17770
+87ce122f5fbc102c,energy_wisp_02_r1.mat,Tiny_9,30022702,37494
+cc9c4e1549545c73,energy_wisp_02_u.mat,Tiny_D,57361506,29804
+be9971b957997806,embers_01_r.mat,Tiny_9,29973450,38082
+f75f41e0cb7ad20e,embers_01_u.mat,Tiny_9,30011532,11170

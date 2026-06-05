@@ -1,3 +1,0 @@
-monster_fadein
-monster_fadein/mb
-monster_fadein/textures

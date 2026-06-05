@@ -1,6 +1,0 @@
-stackedbolder01
-stackedbolder02
-stackedbolder03
-stackedbolder04
-textures
-textures/clean

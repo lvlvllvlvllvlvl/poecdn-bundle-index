@@ -1,6 +1,0 @@
-blue
-golden
-green
-light_pale_green
-purple
-red

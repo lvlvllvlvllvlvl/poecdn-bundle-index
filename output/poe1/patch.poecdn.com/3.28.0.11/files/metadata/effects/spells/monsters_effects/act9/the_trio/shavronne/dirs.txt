@@ -1,5 +1,0 @@
-brutus_slam
-lightning_mortar
-living_storms
-storm_burst
-ultimate_ball_lightning

@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-01159bb84659f91f,field_groundsplat_ripples.fxgraph,Content/metadata/pet/bloodlordpet/bloodlord.ao,313202,285148
-ce29f480325b8d40,choicefade.fxgraph,Content/metadata/effects/spells/monsters_effects/league_ultimatum/EBAF1B1A694F57C5.katar_crk_circle_ruin.pet,1006827,17942
-2d7df4a03f6fcced,npc_fade.fxgraph,Content/metadata/npc/league/ultimatum/ultimatumnpcportal.ot,328480,116600
-928d304f5961a2f1,planetransition_custom.fxgraph,Content/metadata/npc/league/ultimatum/ultimatumnpcportal.ot,445080,72090
-00c730b3c6f702ed,portalclose.fxgraph,Content/metadata/npc/league/ultimatum/ultimatumnpcportal.ot,104434,88188
-20b193a77c5e0ad9,portalopen.fxgraph,Content/metadata/npc/league/ultimatum/ultimatumnpcportal.ot,192622,80690
-d58c3ce78a0811ee,portal_fade.fxgraph,Content/metadata/npc/league/ultimatum/ultimatumnpcportal.ot,0,104434

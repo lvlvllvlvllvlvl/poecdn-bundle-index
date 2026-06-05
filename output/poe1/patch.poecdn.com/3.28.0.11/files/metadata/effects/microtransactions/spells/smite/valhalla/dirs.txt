@@ -1,6 +1,0 @@
-pet
-pet/aura
-pet/lightning_ipct
-pet/melee_ipct
-pet/weapon
-weapon

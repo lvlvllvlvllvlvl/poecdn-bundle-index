@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+05b83fac9413198a,branch_02.fmt,Streaming/Content/metadata/effects/spells/ascendancy_classes/47396DCF75004758.A2423F3D01E7A113.leapaoe.pet,27604,11500
+9968a23774bef035,branch_02.fmt.header,Tiny.VD,34261712,128
+3070eb1f5f56ff7a,branch.fmt,Streaming/Content/metadata/effects/spells/ascendancy_classes/47396DCF75004758.A2423F3D01E7A113.leapaoe.pet,0,27604
+380fc1d16b24a038,branch.fmt.header,Tiny.VF,34305315,128
+138c6815aa2541f4,root_group.fmt,Streaming/Content/metadata/effects/spells/ascendancy_classes/47396DCF75004758.A2423F3D01E7A113.leapaoe.pet,39104,134506
+b8ff1695a28b26c6,root_group.fmt.header,Tiny.VD,34261840,203
+af336bce6036681f,root_01.fmt,Streaming/Content/metadata/effects/spells/ascendancy_classes/47396DCF75004758.A2423F3D01E7A113.leapcone.pet,0,20298
+2a601fee6c98e820,root_01.fmt.header,Tiny.V6,5727399,128
+3a06a0eec99ca8e3,leafgrp.fmt,Tiny.VA,34323975,3200
+f11d8d4c993b45e9,leafgrp.fmt.header,Tiny.V1,34075497,217

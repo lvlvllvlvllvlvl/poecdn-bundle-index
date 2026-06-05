@@ -1,5 +1,0 @@
-graphs
-groundtypes
-rooms
-rooms/fills
-tiles

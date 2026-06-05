@@ -1,0 +1,7 @@
+mb
+mb/blood_beam
+textures
+textures/absorb_blood
+textures/blood_beam
+textures/idle
+textures/maxed_idle

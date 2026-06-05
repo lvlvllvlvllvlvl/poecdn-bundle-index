@@ -1,0 +1,14 @@
+cowl
+cowl/attachments
+cowl/attachments/cowltail
+dogmanshelm
+ezomytecap
+feltcap
+footmanhelm
+piratehat
+piratehat/attachments
+piratehat/attachments/feathers
+skullcap
+skullcap/attachments
+skullcap/attachments/flaps
+tallfeltcap

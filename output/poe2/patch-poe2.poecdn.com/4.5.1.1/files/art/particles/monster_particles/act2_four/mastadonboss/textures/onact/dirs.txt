@@ -1,0 +1,9 @@
+death_first_01
+death_last_01
+death_volatile
+death_volatile/explosion
+spell_aoe_bone_storm_01
+spell_aoe_bullet_hell_01
+spell_aoe_meteor_01
+spell_aoe_storm_call_01
+teleport_01

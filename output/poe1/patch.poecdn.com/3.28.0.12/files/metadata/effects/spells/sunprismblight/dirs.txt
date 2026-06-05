@@ -1,0 +1,13 @@
+caster_hand
+caster_hand/pet
+caster_hand/trl
+channelling
+channelling/pet
+channelling/trl
+cone
+debuff
+debuff/pet
+horrify
+horrify/pet
+vaal
+vaal/pet

@@ -1,4 +1,0 @@
-activate
-close
-idle
-stable

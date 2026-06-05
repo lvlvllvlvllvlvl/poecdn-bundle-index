@@ -1,8 +1,0 @@
-large
-large/projectile
-large/projectile/projectile
-large/projectile_epic
-large/projectile_epic/projectile
-small
-small/projectile
-small/projectile/projectile

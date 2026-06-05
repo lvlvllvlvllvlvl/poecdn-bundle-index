@@ -1,0 +1,14 @@
+attachments
+audio
+epk
+epk/portal_summon
+fx
+fx/portal_summon
+graph
+mat
+mat/attraction
+mat/close
+mat/hole
+mat/open
+mat/portal
+mat/portal_summon

@@ -1,3 +1,0 @@
-circular_slam
-cone_slam
-horn

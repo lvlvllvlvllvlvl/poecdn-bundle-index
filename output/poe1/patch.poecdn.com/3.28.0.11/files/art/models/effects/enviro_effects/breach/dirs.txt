@@ -1,4 +1,0 @@
-ritual
-ritual/soulcoaster_chest
-soulcoaster
-soulcoaster/soulcoaster_chest

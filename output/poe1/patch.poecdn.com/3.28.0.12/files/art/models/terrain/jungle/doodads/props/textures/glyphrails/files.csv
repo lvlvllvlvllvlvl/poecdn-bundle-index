@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+c5a9c946761d2db8,glyphs_02c.mat,Tiny_5,52021618,3362
+b61987b1df116da3,glyphs_02_normal_dxt5.dds,Art/Models/Terrain/Jungle/Doodads/Props_20,2796364,87556
+965ed7758b731b52,glyphs_02_normal_dxt5.dds.header,Tiny_5,52020098,1520
+676196768357f2a3,glyphs_02_mask_dxt1.dds,Art/Models/Terrain/Jungle/Doodads/Props_20,2883920,174924
+2ea3b12b57952790,glyphs_02_mask_dxt1.dds.header,Tiny_5,52018578,1520
+0ec9bcaad99125d3,glyphs_02_colour_dxt1.dds,Art/Models/Terrain/Jungle/Doodads/Props_20,3058844,43852
+5e8a60d72af141a5,glyphs_02_colour_dxt1.dds.header,Tiny_5,52017058,1520
+34631bfe6871fb97,glow_reveal_mask_4x4_dxt1.dds,Art/Models/Terrain/Jungle/Doodads/Props_20,0,2796364
+60b6854f6e915cb2,glow_reveal_mask_4x4_dxt1.dds.header,Tiny_5,52015538,1520

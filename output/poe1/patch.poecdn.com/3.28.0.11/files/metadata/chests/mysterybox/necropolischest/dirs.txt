@@ -1,7 +1,0 @@
-epk
-fx
-graph
-mat
-mat/chest
-mat/lantern
-mat/open

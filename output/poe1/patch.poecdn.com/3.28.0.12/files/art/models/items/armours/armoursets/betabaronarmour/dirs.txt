@@ -1,0 +1,14 @@
+attachments
+attachments/cravat
+attachments/mask
+attachments/shawldex
+attachments/shawldexint
+attachments/shawlint
+attachments/shawlstr
+attachments/shawlstrdex
+attachments/shawlstrdexint
+attachments/shawlstrint
+attachments/skirt
+attachments/skirt/femaleskirt
+attachments/skirt/maleskirt
+textures

@@ -1,0 +1,33 @@
+hash,file,bundle,offset,size
+18a30d45160036fc,vaalwraith_sss.mat,Tiny_8,44542890,968
+0317b543d3b97eb8,vaalwraith_sss.dds,Art/Textures/Monsters/VaalWraith,0,87556
+b25224f9788cff41,vaalwraith_sss.dds.header,Tiny_8,44531286,1520
+e60c8dc5c3c52314,vaalwraith_specularcolour.mat,Tiny_8,44541856,1034
+83875afe544ceffb,vaalwraith_specularcolour.dds,Art/Textures/Monsters/VaalWraith_1,349700,87556
+c09e1ca9e12bbdcd,vaalwraith_specularcolour.dds.header,Tiny_8,44540336,1520
+37c7ae8bc51bacb8,vaalwraith_normal_dxt5.dds,Art/Textures/Monsters/VaalWraith_1,0,349700
+ada651b879df35d7,vaalwraith_normal_dxt5.dds.header,Tiny_8,44538816,1520
+ecde379241bd6555,vaalwraith_gloss.mat,Tiny_8,44537836,980
+2647a10d2bea6c49,vaalwraith_gloss.dds,Art/Textures/Monsters/VaalWraith,356872,87556
+07625677b5292c71,vaalwraith_gloss.dds.header,Tiny_8,44536316,1520
+725507d6418bd8f5,vaalwraith_colour_dxt5.dds,Art/Textures/Monsters/VaalWraith,181760,87556
+900d5bb293e21023,vaalwraith_colour_dxt5.dds.header,Tiny_8,44533810,1520
+e80c8b191634f2da,vaalwraith_colour.mat,Tiny_8,44535330,986
+75a907678c14c78c,vaalwraith_colour.dds,Art/Textures/Monsters/VaalWraith,181760,87556
+01a6b4f5ef63cf62,vaalwraith_colour.dds.header,Tiny_8,44533810,1520
+66ef881ba6ad505e,vaalwraithc.mat,Tiny_8,44543858,1746
+d0e3fab634b3611d,vaalwraithcns.mat,Tiny_8,44543858,1746
+ee1bfe68e897e345,vaalbloodstainedcsvaalbloodstained n.mat,Art/Textures/Monsters/VaalWraith,175112,6648
+967f7215488e3104,vaalbloodstained_sss.mat,Tiny_8,44532806,1004
+56482cf21f075c36,vaalbloodstained_sss.dds,Art/Textures/Monsters/VaalWraith,0,87556
+2c39d1c749723fd1,vaalbloodstained_sss.dds.header,Tiny_8,44531286,1520
+8ceae71eb598f343,vaalbloodstained_specularcolour.mat,Tiny_8,44530216,1070
+b85c07298c3c31d4,vaalbloodstained_specularcolour.dds,Art/Textures/Monsters/VaalWraith,794128,87556
+ec6ba0f8f0be972e,vaalbloodstained_specularcolour.dds.header,Tiny_8,44528696,1520
+5f7ce91e72e939c9,vaalbloodstained_gloss.mat,Tiny_8,44527680,1016
+9c59f968c3e6ec3a,vaalbloodstained_gloss.dds,Art/Textures/Monsters/VaalWraith,87556,87556
+993a3170840b46a8,vaalbloodstained_gloss.dds.header,Tiny_8,44526160,1520
+bd6ccaf8d8573853,vaalbloodstained_colour.dds,Art/Textures/Monsters/VaalWraith,269316,87556
+9fcf481bc15c7390,vaalbloodstained_colour.dds.header,Tiny_8,44524640,1520
+3aac774b822e8243,vaalbloodstained nvaalbloodstaineds.dds,Art/Textures/Monsters/VaalWraith,444428,349700
+82a06ccc99df3790,vaalbloodstained nvaalbloodstaineds.dds.header,Tiny_8,44523120,1520

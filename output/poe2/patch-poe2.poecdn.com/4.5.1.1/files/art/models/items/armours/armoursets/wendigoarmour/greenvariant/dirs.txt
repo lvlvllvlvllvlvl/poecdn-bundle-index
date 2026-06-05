@@ -1,0 +1,9 @@
+attachments
+attachments/bodydanglers
+attachments/braids
+attachments/hair
+attachments/intbodydanglers
+attachments/inthair
+attachments/intskirt
+attachments/skirt
+attachments/strbodydanglers

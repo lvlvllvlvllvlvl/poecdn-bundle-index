@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-77465680aeeb5435,mesh_flakes_r.mat,Tiny.VF.1,136560318,30166
-e13d63986794fd15,mesh_flakes_u.mat,Tiny.VF.1,136590484,16792
-4ec1b14cd982c5b1,ambient_ribbons_r.mat,Tiny.V8.1,139660238,55806
-1453e4e45474c0d2,ambient_ribbons_u.mat,Tiny.V2.1,141601862,22146
-e22008a0dfaeeed5,grd_fill_pass1.mat,Tiny.V2.1,141624008,7378
-fee14bab173ddf9a,ghostribbons_r2.mat,Tiny.V9.1,140773534,43070
-11fdbd804cef2490,glass_ground_r.mat,Tiny.VA.1,139906712,50806
-7f4a5a6df5edecdc,glass_ground_u.mat,Tiny.V8.1,139716044,8268

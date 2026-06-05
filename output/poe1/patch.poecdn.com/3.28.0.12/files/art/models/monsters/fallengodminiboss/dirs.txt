@@ -1,0 +1,9 @@
+attachments
+attachments/heads
+attachments/rings
+attachments/shackles
+attachments/skirt
+attachments/staff
+attachments/staff/attachments
+attachments/veins
+textures

@@ -1,3 +1,0 @@
-collect_visual_cue_01
-collect_visual_cue_01/collected
-collect_visual_cue_01/idle_01

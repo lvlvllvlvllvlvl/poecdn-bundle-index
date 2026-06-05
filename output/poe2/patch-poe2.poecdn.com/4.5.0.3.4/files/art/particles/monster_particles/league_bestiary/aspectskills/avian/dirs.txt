@@ -1,2 +1,0 @@
-activate
-activate/effects

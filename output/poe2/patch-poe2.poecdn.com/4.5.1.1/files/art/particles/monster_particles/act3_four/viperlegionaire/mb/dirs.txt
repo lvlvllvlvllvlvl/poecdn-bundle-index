@@ -1,0 +1,6 @@
+claw_projectile
+roa
+roa_ground
+roa_smoke
+rope
+smokecloud

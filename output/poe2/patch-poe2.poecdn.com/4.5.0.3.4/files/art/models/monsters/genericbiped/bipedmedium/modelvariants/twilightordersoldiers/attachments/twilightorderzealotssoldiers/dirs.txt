@@ -1,5 +1,0 @@
-helmet
-shield
-skirt
-skirt_front_cloth
-sword

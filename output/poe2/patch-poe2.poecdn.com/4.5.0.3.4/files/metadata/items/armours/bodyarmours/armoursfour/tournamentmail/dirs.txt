@@ -1,5 +1,0 @@
-attachments
-attachments/cold
-attachments/fire
-attachments/lightning
-attachments/ropes

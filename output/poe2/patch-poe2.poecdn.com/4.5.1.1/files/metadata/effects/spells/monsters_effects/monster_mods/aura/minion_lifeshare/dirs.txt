@@ -1,0 +1,5 @@
+epk
+fx
+mat
+mat/minions
+mat/rare

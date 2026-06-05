@@ -1,3 +1,0 @@
-portal
-portal_glow
-tgms

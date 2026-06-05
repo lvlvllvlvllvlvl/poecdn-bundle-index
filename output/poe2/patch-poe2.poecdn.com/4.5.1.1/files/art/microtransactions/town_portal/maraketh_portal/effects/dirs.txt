@@ -1,0 +1,7 @@
+dirt
+pet_textures
+pet_textures/disappear
+pet_textures/emerge
+pet_textures/idle
+rocks
+rune

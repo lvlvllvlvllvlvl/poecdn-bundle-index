@@ -1,4 +1,0 @@
-helmet01
-helmet01/attachments
-helmet02
-helmet02/attachments

@@ -1,8 +1,0 @@
-mb
-mb/on_act
-mb/on_act/spirit_cast_01
-textures
-textures/death
-textures/on_act
-textures/on_act/spirit_cast_01
-textures/spawndeath

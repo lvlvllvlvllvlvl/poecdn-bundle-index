@@ -1,4 +1,0 @@
-affected_monsters
-inert_next_01
-turn_on_01
-turned_on_idle_01

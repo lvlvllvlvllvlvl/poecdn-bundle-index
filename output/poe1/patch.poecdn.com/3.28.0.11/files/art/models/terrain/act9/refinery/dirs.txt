@@ -1,4 +1,0 @@
-boss door
-boss door/tgms
-boss door thinwall
-tgms

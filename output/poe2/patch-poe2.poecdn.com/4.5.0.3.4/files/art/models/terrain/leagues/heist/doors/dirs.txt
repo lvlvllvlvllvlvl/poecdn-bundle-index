@@ -1,4 +1,0 @@
-npcdoor_explosives
-npcdoor_explosives/textures
-npcdoor_strength2
-vault

@@ -1,5 +1,0 @@
-bismuthobjects
-crimsonironobjects
-demoncopperobjects
-petrifiedwoodobjects
-verisiumobjects

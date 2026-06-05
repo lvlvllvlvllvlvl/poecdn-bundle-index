@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+d946cf08d6ec0d5d,glowarms.mat,Tiny.V1,36709578,1796
+f0c88f2e0f2b759a,arm_glow.dds,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.96D0B94B2374A106.chaoshands.epk,0,699212
+51246a1609b67e3d,arm_glow.dds.header,Tiny.VA,36921793,1520
+c9f893bc5094e192,poison_grd_normal.dds,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.CB9FD2FE1ACBB56E.soldier_weapon_thrust.pet,0,349700
+bac44ae4e0c4d68f,poison_grd_normal.dds.header,Tiny.V7,36687946,1520
+7c2f796dd7737592,blood_normalglossao.dds,Streaming/Content/metadata/effects/spells/monsters_effects/EFE4362F5490CDDF.780030F94503AF52.weapon_nova.pet,0,1398276
+2a42810331b303cc,blood_normalglossao.dds.header,Tiny.VD,37328794,1520
+e5b37145f1109df3,blood_diffuse.dds,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.101D6EE5D2BFA265.poison_spit_impact.ao,174924,699212
+54990ec367efef7f,blood_diffuse.dds.header,Tiny.V9,37255683,1520

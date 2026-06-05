@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+b8e5870dda715551,centipedereactorguardianattachc.mat,Tiny.VF,12735944,4502
+52c4bc3ee66e5cf5,centipedereactorguardianattach_glow.dds,Streaming/Content/metadata/monsters/precursorreactorguardians/centipedes/centipedereactorguardian2.ot.1,0,5592580
+9ac5a7c82c6bff40,centipedereactorguardianattach_glow.dds.header,Tiny.V4,12869450,1520
+79f527005e54f5e8,centipedereactorguardianattach_normal.dds,Streaming/Content/metadata/monsters/precursorreactorguardians/centipedes/centipedereactorguardian2.ot.2,0,5592580
+fd945ffa310024d5,centipedereactorguardianattach_normal.dds.header,Tiny.VC,12528212,1520
+24c8d62902ee3d27,centipedereactorguardianattach_metal.dds,Streaming/Content/metadata/monsters/precursorreactorguardians/centipedes/centipedereactorguardian2.ot.1,5592580,5592580
+dc727dc1bee9ee5b,centipedereactorguardianattach_metal.dds.header,Tiny.VF,12734424,1520
+94e5c56cbe324343,centipedereactorguardianattach_colour.dds,Streaming/Content/metadata/monsters/precursorreactorguardians/centipedes/centipedereactorguardian2.ot,1293971,2796364
+5747b605dc6cc6c9,centipedereactorguardianattach_colour.dds.header,Tiny.VD,12604773,1520
+dc0fbe3e290e555e,precursorcentipedec.mat,Tiny.V8,12673567,996
+b7cc39514cc9579d,precursorcentipede_normal.dds,Streaming/Content/metadata/terrain/doodads/islands/0C485BA0D9835FCA.727F904D715B0763.precurserrubble_cnr03.ao.1,0,5592580
+8288ab369210dd41,precursorcentipede_normal.dds.header,Tiny.V1,12627189,1520
+9b208323deed15c8,precursorcentipede_colour.dds,Streaming/Content/metadata/terrain/doodads/islands/0C485BA0D9835FCA.727F904D715B0763.precurserrubble_cnr03.ao,0,5592580
+6428dfd5e5cd1378,precursorcentipede_colour.dds.header,Tiny.V5,12483938,1520

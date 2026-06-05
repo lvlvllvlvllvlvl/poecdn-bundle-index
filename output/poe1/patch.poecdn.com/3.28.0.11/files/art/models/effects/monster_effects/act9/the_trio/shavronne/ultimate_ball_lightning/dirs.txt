@@ -1,4 +1,0 @@
-bolt
-chargingup
-outer_orb
-projectile

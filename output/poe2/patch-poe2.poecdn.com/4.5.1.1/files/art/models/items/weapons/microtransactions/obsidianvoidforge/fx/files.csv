@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+1aae2499bb20e75b,all3_ramp_dxt5.dds,Streaming/Content/metadata/items/weapons/twohandweapons/667644419D555CB3.CBAE41AC5928CEB1.shyabadrop.ao,485690,87556
+04be2d6da4fc75ce,all3_ramp_dxt5.dds.header,Tiny.V8,11029482,1520
+29af1931c04091c1,vf_ice_trl.mat,Tiny.V9,11555764,2654
+348b61af77ab61ea,vf_ice_grad.mat,Tiny.V4,11226183,1434
+41bb59ee7e84a39c,vf_ice_orb.mat,Tiny.V0,11303688,1768
+b2d7f4f152af9544,vf_ice_cosmos.mat,Tiny.V8,11038444,3052
+700da681f3426826,vf_lit_trl.mat,Tiny.VF,11217397,2522
+ca0e5077886a15cd,vf_lit_orb.mat,Tiny.V4,11227617,1802
+3728fef7cc6bc4cd,vf_lit_electros.mat,Tiny.V3,11067329,3954
+bbe242d986524564,vf_fire.mat,Tiny.V4,11222801,3382
+eb195b4c389b5833,vf_fire_trl.mat,Tiny.VF,11213671,3726
+1fbc1d33bb7dadad,vf_fire_orb.mat,Tiny.VF,11211905,1766
+44fdd38e1dc149e0,vf_fire_lamp.mat,Tiny.V8,11035210,3234
+6826f6cfed2e3dcf,vf_fire_circles.mat,Tiny.V2,11346663,3890
+44018d5b8135028e,vf_fire+ice.mat,Tiny.V1,11114375,4074
+162eea40a972b3a7,vf_fire+ice_circles.mat,Tiny.V8,11031002,4208

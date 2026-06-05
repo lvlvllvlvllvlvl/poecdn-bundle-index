@@ -1,3 +1,0 @@
-townportal
-townportalclose
-townportalopen

@@ -1,6 +1,0 @@
-fx
-fx/groundslam_01
-mats
-mats/groundslam_01
-mats/groundslam_01/aftershock
-mats/groundslam_01/initial_impact

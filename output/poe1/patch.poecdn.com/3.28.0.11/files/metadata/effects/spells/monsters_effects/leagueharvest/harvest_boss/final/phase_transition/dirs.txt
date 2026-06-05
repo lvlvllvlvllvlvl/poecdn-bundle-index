@@ -1,4 +1,0 @@
-tree_blue
-tree_green
-tree_orange
-tree_red

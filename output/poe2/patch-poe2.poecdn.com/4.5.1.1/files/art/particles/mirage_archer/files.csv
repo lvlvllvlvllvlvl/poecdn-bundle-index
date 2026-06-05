@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+30b3b059f277448c,light_gradient.mat,Tiny.V5,35447002,1610
+43aebe20eb93f560,light_gradient.dds,Streaming/Content/metadata/effects/spells/warcries/F2624196433182EC.3E5A49ACCFD4EC4C.wastelandhorns.ao,745802,5636
+490d28de7d52e21f,light_gradient.dds.header,Tiny.V6,35805640,1520
+da4f4a84a8f3e200,lava_dots.mat,Tiny.VC,36117973,1436
+5512835638995590,lava_dots.dds,Streaming/Content/metadata/effects/spells/warcries/F2624196433182EC.3E5A49ACCFD4EC4C.wastelandhorns.ao,723782,22020
+a479900c94c20574,lava_dots.dds.header,Tiny.V0,36100408,1520
+b8c17466d0884677,edgeglow_tex.mat,Tiny.V2,35780278,2196
+49d7a46d7c6f980f,edgeglow_tex.dds,Streaming/Content/metadata/effects/spells/warcries/F2624196433182EC.3E5A49ACCFD4EC4C.wastelandhorns.ao,701762,22020
+5bb1829db4c4c6a3,edgeglow_tex.dds.header,Tiny.VE,35432777,1520
+07061ad1e9fc7298,poison_ringwave.mat,Tiny.V6,35807160,5732
+eb6e9c00ba623bf0,poison_ringwave.dds,Streaming/Content/metadata/particles/ri_fire/buff_fire.pet,565005,1398276
+08afd438aca08129,poison_ringwave.dds.header,Tiny.V1,35813634,1520

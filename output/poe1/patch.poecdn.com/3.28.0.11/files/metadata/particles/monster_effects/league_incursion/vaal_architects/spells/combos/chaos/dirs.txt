@@ -1,3 +1,0 @@
-finisher
-finisher/aoe
-finisher/clone

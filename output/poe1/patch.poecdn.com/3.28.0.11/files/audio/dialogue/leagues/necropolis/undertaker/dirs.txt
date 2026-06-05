@@ -1,4 +1,0 @@
-undertaker
-undertaker_craft
-undertaker_greeting
-undertaker_wild

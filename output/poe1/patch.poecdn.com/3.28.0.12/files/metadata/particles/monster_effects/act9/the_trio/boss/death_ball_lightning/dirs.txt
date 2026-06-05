@@ -1,0 +1,7 @@
+bolt
+chargeup
+empowered
+outer_orb
+player_hit
+projectile
+stop

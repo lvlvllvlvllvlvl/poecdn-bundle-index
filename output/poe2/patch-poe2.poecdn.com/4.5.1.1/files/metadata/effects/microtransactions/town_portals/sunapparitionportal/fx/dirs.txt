@@ -1,0 +1,17 @@
+demonic
+demonic/townportal
+demonic/townportalclose
+demonic/townportalopen
+demonic/z_inactive_idle_relaxed_02
+lunar
+lunar/townportal
+lunar/townportalclose
+lunar/townportalopen
+lunar/z_inactive_idle_relaxed_02
+lunar/z_inactive_idle_relaxed_02_01
+summon_portal
+townportal
+townportalclose
+townportalopen
+z_inactive_idle_relaxed_02
+z_inactive_idle_relaxed_02_01

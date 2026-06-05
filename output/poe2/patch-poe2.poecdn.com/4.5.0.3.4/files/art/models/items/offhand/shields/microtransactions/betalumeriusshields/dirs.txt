@@ -1,5 +1,0 @@
-betalumeriusbuckler
-betalumeriuscrestshield
-betalumeriustarge
-betalumeriustowershield
-textures

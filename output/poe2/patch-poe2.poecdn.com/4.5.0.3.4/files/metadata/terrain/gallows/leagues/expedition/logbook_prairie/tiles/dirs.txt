@@ -1,5 +1,0 @@
-cliffunwalkable
-fieldedge
-fieldedge/unwalkable
-wideriver
-wideriver/unwalkable

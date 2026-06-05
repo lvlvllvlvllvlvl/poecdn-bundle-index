@@ -1,0 +1,7 @@
+beam
+bloodscythe_slash
+bloodscythe_slash_hitfx
+charges
+debuff
+surge
+vaal

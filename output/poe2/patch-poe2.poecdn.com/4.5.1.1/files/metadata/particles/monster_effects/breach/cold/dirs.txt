@@ -1,0 +1,7 @@
+barrage
+barrage/projectile
+blizzard
+blizzard/affected
+mortar
+mortar/impact
+mortar/projectile

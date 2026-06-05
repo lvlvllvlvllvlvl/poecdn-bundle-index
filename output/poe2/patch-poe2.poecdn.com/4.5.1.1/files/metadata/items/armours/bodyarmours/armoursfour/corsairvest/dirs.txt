@@ -1,0 +1,4 @@
+attachments
+attachments/corsairvestbelt
+attachments/corsairvestcheststring
+attachments/corsairvestskirt

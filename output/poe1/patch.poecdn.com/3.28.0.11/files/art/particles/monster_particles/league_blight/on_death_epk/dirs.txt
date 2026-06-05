@@ -1,7 +1,0 @@
-chaos_green
-chaos_purple
-cold
-fire
-lightning
-phys_blood
-phys_holy

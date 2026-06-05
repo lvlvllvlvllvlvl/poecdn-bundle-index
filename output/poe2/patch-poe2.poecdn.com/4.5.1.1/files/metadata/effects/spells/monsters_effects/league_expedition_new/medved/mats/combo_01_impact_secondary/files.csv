@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+7211ebdd4fbbf6e1,flash_r.mat,Tiny.VD.1,147378792,46356
+af503201af256fde,sand_clusters_u.mat,Tiny.VB.1,148331489,19610
+bbe5c86b4d5e79e7,oa_sand_clusters_r.mat,Tiny.VD.1,147558706,54976
+b8b8117455a16e22,oa_physsparks_r1.mat,Tiny.VE.1,146377924,30338
+93aa128c7ee92947,oa_physsparks_attack_u.mat,Tiny.VB.1,148111007,17568
+a58f93c6fca3a8c8,oa_debris_01_r.mat,Tiny.V3.1,149037853,34492
+062094e37e182eb3,oa_debris_01_u.mat,Tiny.V0.1,147035352,29950
+9976b322349edfab,oa_kickupdust_r.mat,Tiny.V2.1,149840282,27982
+c35384a4d063179c,oa_kickupdust_radial_u.mat,Tiny.V0.1,147065302,15086
+574652b167404e37,energyspike_phys_u.mat,Tiny.VD.1,5322818,346
+1d4f9c1f3c573c2a,energyspike_phys_r1.mat,Tiny.V6.1,147403739,47932
+db7012c0ff22123b,energyspike_phys_r2.mat,Tiny.V5.1,147074760,48502
+970cbd1fc8fe49d2,energyspike_phys_r3.mat,Tiny.V7.1,145190266,21144
+51c9463427b205ea,decal_u.mat,Tiny.VD.1,5322818,346
+904e74ec4e09002e,decal_r1.mat,Tiny.VD.1,147336300,42492
+95b3f05c01251f92,decal_r2.mat,Tiny.V1.1,147735970,49464

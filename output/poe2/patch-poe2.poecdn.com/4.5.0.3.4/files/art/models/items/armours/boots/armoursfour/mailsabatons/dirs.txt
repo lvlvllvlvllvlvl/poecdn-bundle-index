@@ -1,4 +1,0 @@
-attachments
-attachments/mail
-attachments/mailstr
-textures

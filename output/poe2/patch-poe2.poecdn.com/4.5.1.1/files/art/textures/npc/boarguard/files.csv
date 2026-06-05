@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+5e0f14f2d93eba7f,boarguardc.mat,Tiny.VC.1,1601080,3874
+3fb7ca1a2c4da2d2,boarguardspearspecularc.mat,Tiny.VD.1,1112787,2334
+d649498fcaa50131,boarguardspear_normal_dxt5.dds,Streaming/Content/metadata/npc/four_act3/boarguard/D9C7C7673D6E4B8D.boarguardspearheld.ao,2112326,699236
+a15137f615789baf,boarguardspear_normal_dxt5.dds.header,Tiny.VE.1,1241562,840
+9548326c90500f8b,boarguardspear_colourspecular_bc7.dds,Streaming/Content/metadata/npc/four_act3/boarguard/D9C7C7673D6E4B8D.boarguardspearheld.ao,714050,1398276
+cdee24ddf42a8df9,boarguardspear_colourspecular_bc7.dds.header,Tiny.V7.1,1612638,1520
+14f54a768139f40b,boarguardspear_colourspecular.dds,Streaming/Content/metadata/npc/four_act3/boarguard/D9C7C7673D6E4B8D.boarguardspearheld.ao,14838,699212
+d73dca80dc214fc6,boarguardspear_colourspecular.dds.header,Tiny.V9.1,1412726,1520
+71566ffd85d0067c,boarguard_sss_dxt1.dds,Streaming/Content/metadata/cinematic/huntressreveal/scenesetup/huntress_banished.ao.E,0,2796364
+b99050a24ce52326,boarguard_sss_dxt1.dds.header,Tiny.V0.1,1638050,1520
+25b7406e9c8b3150,boarguard_metal_dxt5.dds,Streaming/Content/metadata/cinematic/huntressreveal/scenesetup/huntress_banished.ao.D,0,5592580
+6e3beed1f0d30617,boarguard_metal_dxt5.dds.header,Tiny.VD.1,1111267,1520
+2ebec0fb27231e64,boarguard_normal_dxt5.dds,Streaming/Content/metadata/cinematic/huntressreveal/scenesetup/huntress_banished.ao.D,5592580,5592580
+6fe2ec3839571295,boarguard_normal_dxt5.dds.header,Tiny.VB.1,1151590,1520
+7e9763245baca7c5,boarguard_colour_dxt5.dds,Streaming/Content/metadata/cinematic/huntressreveal/scenesetup/huntress_banished.ao.C,5592580,5592580
+6b693f5bdb30cdaa,boarguard_colour_dxt5.dds.header,Tiny.V4.1,1640644,1520

@@ -1,3 +1,0 @@
-projectiles
-shards
-shards_nophys

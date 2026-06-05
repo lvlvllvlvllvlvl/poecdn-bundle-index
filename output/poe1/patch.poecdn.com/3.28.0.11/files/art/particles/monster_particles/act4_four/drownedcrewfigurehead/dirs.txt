@@ -1,5 +1,0 @@
-textures
-textures/ghostflame_lantern
-textures/on_act
-textures/on_act/attack_01
-textures/statueslam

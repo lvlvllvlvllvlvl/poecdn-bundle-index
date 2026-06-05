@@ -1,7 +1,0 @@
-epk
-fx
-mat
-mat/canon_fire_grd
-mat/canon_grd_spark
-mat/extra_smoke
-mat/smoke_trail

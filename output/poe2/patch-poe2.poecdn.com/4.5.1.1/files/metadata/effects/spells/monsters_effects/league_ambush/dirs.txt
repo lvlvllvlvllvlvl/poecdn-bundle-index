@@ -1,0 +1,10 @@
+chaosbolts
+chaosbolts/fx
+chaosbolts/mat
+chaosbolts/mat/portal
+chaosbolts/mat/projectile
+chaosbolts/mat/projectile/impact
+ezomytemonsterhighlight
+ezomytemonsterhighlight/fx
+ezomytemonsterhighlight/graph
+ezomytemonsterhighlight/mat

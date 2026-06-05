@@ -1,0 +1,6 @@
+helmet
+hoops
+hoops/leftelbow
+hoops/rightelbow
+skirt
+statue

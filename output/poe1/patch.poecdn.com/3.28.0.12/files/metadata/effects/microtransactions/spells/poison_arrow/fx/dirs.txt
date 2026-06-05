@@ -1,0 +1,3 @@
+acidic_groundtrl
+large_projectile
+large_projectile/idle

@@ -1,7 +1,0 @@
-attachments
-attachments/freyacoffin
-attachments/freyacross
-attachments/freyahair
-attachments/freyazombie
-fx_roman
-textures

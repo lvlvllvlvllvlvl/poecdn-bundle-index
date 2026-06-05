@@ -1,0 +1,6 @@
+ambient
+boss_mortar
+boss_mortar_goop
+onact
+onact/bloodcascade
+spit_prj

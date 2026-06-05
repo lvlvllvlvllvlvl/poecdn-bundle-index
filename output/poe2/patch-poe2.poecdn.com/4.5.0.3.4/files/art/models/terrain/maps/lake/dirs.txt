@@ -1,8 +1,0 @@
-columns
-doodads
-doodads/vfx
-textures
-textures/basaltcolumn
-textures/mirrorofkalandra
-textures/trees
-tgms

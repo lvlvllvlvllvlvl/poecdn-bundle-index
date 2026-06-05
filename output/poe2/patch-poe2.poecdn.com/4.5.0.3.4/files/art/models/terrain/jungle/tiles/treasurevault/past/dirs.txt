@@ -1,3 +1,0 @@
-tgms
-treasurevault_barrier
-treasurevault_barrier/tgms

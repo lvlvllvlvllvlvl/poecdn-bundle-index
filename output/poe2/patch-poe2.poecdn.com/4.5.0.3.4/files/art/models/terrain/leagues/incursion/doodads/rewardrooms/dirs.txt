@@ -1,5 +1,0 @@
-socketable_crafting
-socketable_crafting/textures
-socketable_reward
-socketable_reward/textures
-unique_reward

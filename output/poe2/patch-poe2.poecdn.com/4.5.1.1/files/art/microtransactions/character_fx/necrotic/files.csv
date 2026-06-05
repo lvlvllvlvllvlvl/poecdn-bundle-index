@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+b6c3332c4c6b41f1,wisp.mat,Tiny.V2,4172241,3282
+7d56e2ada34491f1,grad_x.mat,Tiny.VD,3982720,1510
+9767079c227b5c25,black_wisps.mat,Tiny.VF,3966032,2464
+ba00a090f213577d,black_wisps_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/character_fx/5E30AE1AEC6EFB96.6D0D5BE5D5D5B340.sin_charfx.epk,416316,22020
+488be21d4dd9004e,black_wisps_dxt5.dds.header,Tiny.V8,4007448,1520
+70c2580ec8cc2d57,spell_mortar_spam.mat,Tiny.V3,3866611,7112
+613c901335d4e93b,skull.mat,Tiny.VF,6622099,2568
+011a9e73d3a724dd,skull_at.mat,Tiny.V7,6476390,2668

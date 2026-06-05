@@ -1,5 +1,0 @@
-cold
-fire
-lightning
-minion
-physical

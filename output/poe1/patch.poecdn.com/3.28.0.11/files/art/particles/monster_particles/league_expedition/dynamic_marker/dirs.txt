@@ -1,6 +1,0 @@
-mb
-mb/line_fail
-mb/marker_fail
-mb/marker_placed
-mb/marker_success
-texture

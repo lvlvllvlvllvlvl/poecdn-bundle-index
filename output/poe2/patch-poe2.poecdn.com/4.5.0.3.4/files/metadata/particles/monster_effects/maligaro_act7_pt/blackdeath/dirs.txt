@@ -1,3 +1,0 @@
-poison_lightning_mortar
-poison_spit
-purple_poison

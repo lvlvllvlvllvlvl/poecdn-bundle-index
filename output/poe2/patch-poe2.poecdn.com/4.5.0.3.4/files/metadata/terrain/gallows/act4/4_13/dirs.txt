@@ -1,8 +1,0 @@
-graphs
-objects
-rooms
-rooms/dunetolagoon
-rooms/dunetoocean
-rooms/fills
-rooms/lagoontoocean
-rooms/overlays

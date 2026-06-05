@@ -1,0 +1,3 @@
+book
+char_empowered
+shield_wall

@@ -1,3 +1,0 @@
-demonic
-demonic/ao
-demonic/fx

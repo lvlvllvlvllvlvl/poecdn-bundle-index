@@ -1,6 +1,0 @@
-cleave
-coverinash
-empowering_howl
-flame_breath
-flame_breath/projectile
-upheaval

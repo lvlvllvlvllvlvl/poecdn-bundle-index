@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+0a434c6a0fff6332,middle_detail.mat,Tiny.V2,36640252,2200
+91747fdb362d2e8c,middle_detail.dds,Streaming/Content/metadata/particles/monster_effects/act4/7D6D6BD5CE242D9B.9725BE266D0A6DA7.trail_weapon.trl,1012856,22020
+673351e03978fe41,middle_detail.dds.header,Tiny.VA,36949961,1520
+18fcb4477fdf0c46,grad.mat,Tiny.V2,36638498,1754
+ebb7c2683342d14a,grad.dds,Streaming/Content/metadata/particles/monster_effects/act4/7D6D6BD5CE242D9B.9725BE266D0A6DA7.trail_weapon.trl,925300,87556
+9cb9dd94a09f3ea5,grad.dds.header,Tiny.V4,36957398,1520
+10a6d3541201599a,blink_spiral.mat,Tiny.VF,36878554,1864
+632a836dd96aba2b,blink_spiral.dds,Streaming/Content/metadata/particles/monster_effects/act4/7D6D6BD5CE242D9B.9725BE266D0A6DA7.trail_weapon.trl,750188,87556
+7bf7462585b4d299,blink_spiral.dds.header,Tiny.VC,37138121,1520
+963f17da5abe8d05,blink_spiral_bigger.mat,Tiny.V8,36423649,2792
+48a2d47a0c169328,blink_spiral_bigger.dds,Streaming/Content/metadata/particles/monster_effects/act4/7D6D6BD5CE242D9B.9725BE266D0A6DA7.trail_weapon.trl,837744,87556
+cc744a86b82fb2cc,blink_spiral_bigger.dds.header,Tiny.V4,36955878,1520

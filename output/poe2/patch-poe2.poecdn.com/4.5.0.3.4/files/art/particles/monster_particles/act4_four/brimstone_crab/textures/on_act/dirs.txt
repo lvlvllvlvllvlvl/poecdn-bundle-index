@@ -1,4 +1,0 @@
-attack_01
-death_firehose_01
-hermit_into_idle
-spellcast_01

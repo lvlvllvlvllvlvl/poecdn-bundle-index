@@ -1,5 +1,0 @@
-impacts
-projectile_meteor
-projectilecast_beam
-sigil
-travel_beam

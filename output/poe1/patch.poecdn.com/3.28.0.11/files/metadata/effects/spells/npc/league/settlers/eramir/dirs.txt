@@ -1,7 +1,0 @@
-fx
-fx/body_fx
-fx/fadeout_01
-graphs
-mat
-mat/body_fx
-mat/fadeout_01

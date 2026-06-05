@@ -1,8 +1,0 @@
-graph
-mat
-mat/attack_01
-mat/attack_02
-mat/attack_03
-mat/nova
-mat/slam
-pet

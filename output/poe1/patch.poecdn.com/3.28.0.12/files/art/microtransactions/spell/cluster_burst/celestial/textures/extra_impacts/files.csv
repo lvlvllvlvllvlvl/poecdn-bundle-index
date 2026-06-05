@@ -1,0 +1,34 @@
+hash,file,bundle,offset,size
+ef9ab1627fde3e8c,up_p.mat,Tiny_1,41951295,1846
+853df97d39c38839,up_p.dds,Folders/art/microtransactions/spell/cluster_burst,271307,22020
+34c31c0283fe0989,up_p.dds.header,Tiny_1,41949775,1520
+aad05cb669f939f3,spark_varie.mat,Tiny_1,41948173,1602
+79ef30791d29c7eb,spark_varie.dds,Tiny_1,41978751,1572
+81b2ddb467b84533,spark_varie.dds.header,Tiny_1,41980323,504
+396385000616874c,spark.mat,Tiny_1,41946579,1594
+293cb0f689e078e8,spark.dds,Tiny_7,45540903,516
+0f49192bb96da434,spark.dds.header,Tiny_7,45541419,1520
+04b2232937abd503,shockwave.mat,Tiny_1,41943693,2886
+110d82f545442ebc,shockwave.dds,Folders/art/microtransactions/spell/cluster_burst,249287,22020
+3aaf78a1c313ee34,shockwave.dds.header,Tiny_7,39306746,1520
+9d13888f5c2e9e72,shape_mask_01.mat,Tiny_1,41942479,1214
+419976e813597d2e,shape_mask_01.dds,Art/particles/environment_effects/shaper_fragments_1,31200,349700
+0224b33d3e2accef,shape_mask_01.dds.header,Tiny_6,32947363,1520
+a0ec5395e261040a,glow.mat,Tiny_1,41940603,1876
+abc0abb4816d9e2d,glow.dds,Folders/art/microtransactions/spell/cluster_burst,243651,5636
+b8d25034dea7cbcb,glow.dds.header,Tiny_1,41939083,1520
+76fe68b601930b96,flash up.mat,Tiny_1,41937555,1528
+63387a8ae7b0b85d,flash up.dds,Folders/art/microtransactions/spell/cluster_burst,232543,11108
+84ea4dbdb89acb1c,flash up.dds.header,Tiny_7,53346845,840
+b37af41ad29f3a9e,fat_flash.mat,Tiny_1,41936195,1360
+7679b77c2e262850,fat_flash.dds,Art/particles/monster_particles/Maligaro_Act7_p_1,349700,22020
+1f0c2576d07a772c,fat_flash.dds.header,Tiny_7,36941610,1520
+df2c9f87d8685891,blue_lens_flare.mat,Tiny_1,41934285,1910
+d7b8c57f1ce65a1f,blue_lens_flare.dds,Folders/art/particles/monster_particles/leagueharvest_81,1792352,174948
+16c87eb8572eb64f,blue_lens_flare.dds.header,Tiny_7,33961640,840
+c4204de29017e34c,blast_impact.mat,Tiny_1,41932345,1940
+7dc2299187078a0b,blast_impact.dds,Folders/art/microtransactions/spell/cluster_burst,144987,87556
+96a05b70f16df558,blast_impact.dds.header,Tiny_1,41930825,1520
+5be5edacaea206d8,alpha_base_02c.mat,Tiny_1,41925295,5530
+6e4c563abd7901d9,alpha_base_02.dds,Folders/art/microtransactions/spell/cluster_burst,57431,87556
+3a6bedc6e36cd697,alpha_base_02.dds.header,Tiny_6,76108292,1520

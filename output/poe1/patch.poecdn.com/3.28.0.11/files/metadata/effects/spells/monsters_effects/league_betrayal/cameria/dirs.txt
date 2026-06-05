@@ -1,6 +1,0 @@
-act
-ice_cascade
-shattering_ice
-shattering_ice/graphs
-volatile_spikes
-volatile_spikes/graphs

@@ -1,5 +1,0 @@
-graphs
-rooms
-rooms/2x2
-rooms/fills
-rooms/unique

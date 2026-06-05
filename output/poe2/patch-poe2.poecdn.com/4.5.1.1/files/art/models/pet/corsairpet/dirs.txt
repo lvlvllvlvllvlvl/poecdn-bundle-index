@@ -1,0 +1,6 @@
+attachments
+attachments/buccaneerpet
+attachments/buccaneerpet/bandanna
+attachments/buccaneerpet/lamp
+attachments/buccaneerpet/sash
+buccaneerpet

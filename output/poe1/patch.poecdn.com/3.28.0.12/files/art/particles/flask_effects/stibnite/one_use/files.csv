@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+6c20b244b3c7e1db,wisp_smoke_base.mat,Tiny_6,36797438,2660
+2bb0a18e3ff2e388,wisp_smoke_base.dds,Folders/art/particles/monster_particles/earth_nova,0,43876
+10e489daf597bfc6,wisp_smoke_base.dds.header,Tiny_7,55055301,840
+b50b769eefc0abd3,light_ring_gradc.mat,Tiny_6,36795430,2008
+4f678242360c2ab1,light_ring_grad.dds,Art/particles/flask_effects/Stibnite,262864,5636
+689380728a3484e0,light_ring_grad.dds.header,Tiny_6,36793910,1520
+ac623a918402ce0f,fire_suckentwoc.mat,Tiny_6,36791008,2902
+d2b19f7701a5a946,fire_suckentwo.dds,Art/particles/flask_effects/Stibnite,175308,87556
+5ed97b1f2f39935c,fire_suckentwo.dds.header,Tiny_6,36789488,1520
+5fdf32e114dc51c5,blink_spiral.mat,Tiny_6,36786938,2550
+a6a4409aecb2e61b,blink_spiral.dds,Art/particles/flask_effects/Stibnite,87752,87556
+ba2104fd1730160c,blink_spiral.dds.header,Tiny_6,36785418,1520

@@ -1,0 +1,11 @@
+act
+elemortar
+fmts
+heart
+heart_beam
+heart_death
+lacerate
+melee_groundslam_01
+melee_waveslam
+weapon_nova
+weapon_onground

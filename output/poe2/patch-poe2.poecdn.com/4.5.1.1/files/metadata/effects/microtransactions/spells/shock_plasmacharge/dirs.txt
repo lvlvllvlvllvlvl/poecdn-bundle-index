@@ -1,0 +1,7 @@
+automaton
+automaton/epks
+automaton/fx
+automaton/graphs
+celestial
+celestial/epks
+celestial/fx

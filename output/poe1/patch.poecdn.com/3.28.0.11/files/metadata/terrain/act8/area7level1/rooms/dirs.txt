@@ -1,9 +1,0 @@
-1x1
-1x2
-2x2
-rooms_cloister
-rooms_cloister/1x1
-rooms_cloister/inner
-rooms_cloister/middle
-rooms_cloister/outer
-unique

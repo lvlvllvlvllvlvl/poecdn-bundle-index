@@ -1,6 +1,0 @@
-diagonal
-diced
-fx
-fx/mb
-textures
-vertical

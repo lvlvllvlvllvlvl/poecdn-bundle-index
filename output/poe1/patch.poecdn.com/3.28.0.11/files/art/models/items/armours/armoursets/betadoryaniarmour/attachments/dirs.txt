@@ -1,9 +1,0 @@
-glovesfeathers
-glovesfeathers/l
-glovesfeathers/r
-helmetfeathers
-helmettassles
-robe
-shoulderpads
-shoulderpads/l
-shoulderpads/r

@@ -1,0 +1,3 @@
+roadedge
+unwalkablefield
+walkablefield

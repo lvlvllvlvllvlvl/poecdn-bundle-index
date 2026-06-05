@@ -1,0 +1,5 @@
+attachments
+attachments/karstheadcloth
+attachments/karstmat
+attachments/karstrobe
+attachments/karstshouldercloth

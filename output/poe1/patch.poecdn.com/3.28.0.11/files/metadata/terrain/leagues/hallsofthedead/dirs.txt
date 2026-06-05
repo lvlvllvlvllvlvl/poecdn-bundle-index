@@ -1,5 +1,0 @@
-graphs
-lights
-objects
-objects/audio
-rooms

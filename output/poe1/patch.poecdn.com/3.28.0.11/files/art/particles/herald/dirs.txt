@@ -1,8 +1,0 @@
-agony
-agony/hand_buff
-agony/minion
-agony/minion/burrow
-agony/minion/emerge
-agony/minion/epk
-agony/minion/mortar
-agony/minion/projectile

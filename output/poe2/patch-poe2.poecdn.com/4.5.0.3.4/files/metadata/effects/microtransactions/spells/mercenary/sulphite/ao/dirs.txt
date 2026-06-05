@@ -1,5 +1,0 @@
-galvanic_shards
-plasma_blast
-shockburst_rounds
-stormblast_bolts
-voltaic_grenade

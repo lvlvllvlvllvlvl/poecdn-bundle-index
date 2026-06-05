@@ -1,7 +1,0 @@
-mb
-mb/under_body_attack_01
-mb/verisium_fusillade
-mb/verisium_shards_variant
-mb/verisium_shotgun
-mb/verisium_spinningblades
-mb/verisiumorbiter_ball

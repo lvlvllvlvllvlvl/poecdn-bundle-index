@@ -1,4 +1,0 @@
-projectile
-totem
-totem/emerge
-totem/submerge

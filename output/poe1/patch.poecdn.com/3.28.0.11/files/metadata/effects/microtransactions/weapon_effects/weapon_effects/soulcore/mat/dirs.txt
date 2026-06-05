@@ -1,3 +1,0 @@
-explosion
-soulcore_gem
-weapon

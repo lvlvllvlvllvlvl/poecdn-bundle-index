@@ -1,8 +1,0 @@
-attachments
-attachments/coat
-attachments/headbolt
-attachments/headdecor
-attachments/l_earring
-attachments/r_earring
-attachments/skirt
-attachments/sleaves

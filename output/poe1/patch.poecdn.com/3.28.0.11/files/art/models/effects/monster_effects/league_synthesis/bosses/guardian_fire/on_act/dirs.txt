@@ -1,6 +1,0 @@
-death
-doublepalm_strike
-drone_charge
-epic_slash
-mortar_aoe
-spin_slam

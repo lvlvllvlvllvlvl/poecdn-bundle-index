@@ -1,3 +1,0 @@
-fx
-fx/decal
-graph

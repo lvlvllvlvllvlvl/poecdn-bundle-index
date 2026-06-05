@@ -1,3 +1,0 @@
-textures
-textures/fx
-textures/fx/trl

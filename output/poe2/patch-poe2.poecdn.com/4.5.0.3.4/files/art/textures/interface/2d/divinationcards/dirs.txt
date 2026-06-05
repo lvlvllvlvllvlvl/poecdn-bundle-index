@@ -1,3 +1,0 @@
-2ditems
-2ditems/divination
-2ditems/divination/images

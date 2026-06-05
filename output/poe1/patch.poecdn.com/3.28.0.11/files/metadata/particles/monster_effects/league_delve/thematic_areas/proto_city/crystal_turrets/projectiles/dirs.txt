@@ -1,2 +1,0 @@
-azurite_energy
-crystal_shards

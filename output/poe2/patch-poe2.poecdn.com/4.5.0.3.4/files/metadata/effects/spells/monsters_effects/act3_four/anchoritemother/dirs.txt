@@ -1,8 +1,0 @@
-epks
-epks/mushroom_buff
-epks/mushroom_flameblast
-mat
-mat/mushroom_flameblast
-pet
-pet/mushroom_flameblast
-trl

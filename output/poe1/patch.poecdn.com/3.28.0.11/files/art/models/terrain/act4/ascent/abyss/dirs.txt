@@ -1,4 +1,0 @@
-alttiles
-alttiles/foothills
-alttiles/iceberg
-tgms

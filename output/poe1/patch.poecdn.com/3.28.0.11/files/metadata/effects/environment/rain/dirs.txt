@@ -1,5 +1,0 @@
-lightweight
-lightweight/rain
-lightweight/rain/pet
-lightweight/splash
-lightweight/splash/pet

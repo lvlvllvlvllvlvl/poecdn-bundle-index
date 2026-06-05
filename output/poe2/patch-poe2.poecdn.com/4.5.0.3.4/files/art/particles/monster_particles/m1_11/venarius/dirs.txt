@@ -1,4 +1,0 @@
-mb
-mb/debuff
-mb/debuff/ground
-texture

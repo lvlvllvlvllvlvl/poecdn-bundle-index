@@ -1,6 +1,0 @@
-graph
-thehollowmask
-thehollowmask/epk
-thehollowmask/fx
-thehollowmask/fxgraph
-thehollowmask/mat

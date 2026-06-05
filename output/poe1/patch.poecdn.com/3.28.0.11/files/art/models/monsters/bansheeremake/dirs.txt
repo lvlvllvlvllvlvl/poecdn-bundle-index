@@ -1,7 +1,0 @@
-attachments
-attachments/hair
-attachments/l_elbowdrape
-attachments/l_elbowdrape2
-attachments/r_elbowdrape
-attachments/skirt
-textures

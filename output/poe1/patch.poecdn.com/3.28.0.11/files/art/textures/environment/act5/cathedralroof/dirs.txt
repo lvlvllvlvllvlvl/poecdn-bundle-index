@@ -1,3 +1,0 @@
-fx
-reskin_overgrown
-reskin_rainy

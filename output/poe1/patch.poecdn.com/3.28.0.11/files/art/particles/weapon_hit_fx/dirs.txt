@@ -1,4 +1,0 @@
-elemental_powerups
-elemental_powerups/frostblades
-fx
-hit_fx

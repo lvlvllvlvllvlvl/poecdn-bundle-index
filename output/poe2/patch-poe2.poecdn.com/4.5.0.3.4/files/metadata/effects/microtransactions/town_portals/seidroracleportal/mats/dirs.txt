@@ -1,4 +1,0 @@
-onacts
-portal
-portalclose
-portalsummon

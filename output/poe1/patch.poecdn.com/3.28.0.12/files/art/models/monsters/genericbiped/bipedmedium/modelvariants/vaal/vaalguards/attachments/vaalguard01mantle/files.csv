@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+b22766c656072780,vaalguard02mantle.sm,Tiny_3,5359321,760
+d878b1e9a4fa94fa,vaalguard02mantle_armour_800790cd.smd,Art/Models/MONSTERS/GenericBiped/BipedMedium/ModelVariants_9,88448,150238
+4e9e70afe6810f68,vaalguard02mantle_armour_800790cd.smd.header,Tiny_3,5360081,1124
+1716258909cd18ac,vaalguard02mantlelow.sm,Tiny_3,5361205,662
+8578593412803db0,vaalguard02mantlelow_armour_3c204627.smd,Art/Models/MONSTERS/GenericBiped/BipedMedium/ModelVariants_9,71416,17032
+eb141be6f1939382,vaalguard02mantlelow_armour_3c204627.smd.header,Tiny_3,5361867,1085
+5e11c1f2da85abfe,vaalguard01mantle.sm,Tiny_3,5357015,588
+096dc7816cc81931,vaalguard01mantlelow.sm,Tiny_3,5357603,664
+23809fdfa04a0647,vaalguard01mantlelow_armour_371f297e.smd,Art/Models/MONSTERS/GenericBiped/BipedMedium/ModelVariants_9,60122,11294
+7785972f0589bf20,vaalguard01mantlelow_armour_371f297e.smd.header,Tiny_3,5358267,1054
+e38e794103c94481,rig_750aa2a4.smd,Art/Models/MONSTERS/GenericBiped/BipedMedium/ModelVariants_9,0,60122
+1f095857eb1d16e0,rig_750aa2a4.smd.header,Tiny_3,5355961,1054
+21bb1d962564c473,rig.amd,Tiny_4,39803096,94
+0f3a9e60c1b79cfc,rig.ast,Tiny_3,5353846,2115

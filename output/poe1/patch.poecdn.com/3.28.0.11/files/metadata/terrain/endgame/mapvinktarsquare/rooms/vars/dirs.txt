@@ -1,5 +1,0 @@
-1x1
-2x2
-walls
-walls/1x1
-walls/2x2

@@ -1,0 +1,6 @@
+attachments
+attachments/eye_fx
+attachments/eye_fx/textures
+attachments/lshouldercloth
+attachments/skirt
+textures

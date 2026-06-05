@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+44cd5dcfe083c069,iceshards03_thickness.dds,Streaming/Content/metadata/monsters/chaosgodowlboss/iceowl/DFB0A6340C2D948C.snowball.ao.3,1398276,1398276
+f2bf34be4b5f0117,iceshards03_thickness.dds.header,Tiny.V9,37028160,1520
+3875cdc24095d37a,iceshards03_normal.dds,Streaming/Content/metadata/monsters/chaosgodowlboss/iceowl/DFB0A6340C2D948C.snowball.ao.3,0,1398276
+547836dd88dbea21,iceshards03_normal.dds.header,Tiny.VA,36727528,1520
+10e2cc984cf9d65a,iceshards03_colour.dds,Streaming/Content/metadata/monsters/chaosgodowlboss/iceowl/DFB0A6340C2D948C.snowball.ao.2,2979770,1398276
+63448019a2fb9d5e,iceshards03_colour.dds.header,Tiny.V6,36479058,1520
+497c14f7eb5e711d,iceshards45_thickness.dds,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.ACDA0544D201F854.shard_projectile.pet.1,699212,699212
+21083560616c110a,iceshards45_thickness.dds.header,Tiny.VC,36847041,1520
+c21dc7c962bf1700,iceshards45_subsurface.dds,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.ACDA0544D201F854.shard_projectile.pet.1,0,699212
+dbc31b43f2d62b43,iceshards45_subsurface.dds.header,Tiny.VC,36845521,1520
+e78e71e8b9ef718f,iceshards45_normal.dds,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.ACDA0544D201F854.shard_projectile.pet,1505554,1398276
+0922853023da9734,iceshards45_normal.dds.header,Tiny.V6,5921640,1520
+15dcc25aaf001511,iceshards45_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.ACDA0544D201F854.shard_projectile.pet,107278,1398276
+c20eb60273b24596,iceshards45_colour.dds.header,Tiny.V1,5980943,1520

@@ -1,6 +1,0 @@
-blue
-fx
-gold
-graphs
-green
-purple

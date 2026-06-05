@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+b282382ce3d54356,smoketest.mat,Tiny.V7,37725992,4580
+3add265e163453b3,smoketest.dds,Streaming/Content/metadata/particles/monster_effects/act9/1696A247131FFDA9.06DEA5FC91C36717.shoot.pet,722432,87556
+40fa8d894e1e847e,smoketest.dds.header,Tiny.V5,37384045,1520
+f8778088a0bcc7ae,swingc.mat,Tiny.VD,37921876,3156
+27d0fbc113b33001,swing.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6F62A778D75B97FD.F42F471E99FFF2E2.sword_slash.ao,177922,43876
+5c35bc6374eb53f3,swing.dds.header,Tiny.V1,37600532,840
+f4b697a5ff59bd4f,shockwavec.mat,Tiny.V6,37792782,2280
+aa58fc047a3eff48,shockwave.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6F62A778D75B97FD.F42F471E99FFF2E2.sword_slash.ao,90374,87548
+08926c4a2193b289,shockwave.dds.header,Tiny.V6,37791942,840
+291f6875c9e6a7b0,light_gradient.mat,Tiny.V2,37645898,1914
+94e5d793a8e80b94,light_gradient.dds,Streaming/Content/metadata/particles/monster_effects/act9/1696A247131FFDA9.18C18486F2A2C317.empowered.pet,699464,22020
+0310cf893d629ed8,light_gradient.dds.header,Tiny.V8,37376955,1520
+8cd2849bc18e5a5e,maxres.mat,Tiny.VA,38014470,4602
+443586a407583bc8,maxres.dds,Streaming/Content/metadata/particles/monster_effects/act9/1696A247131FFDA9.06DEA5FC91C36717.shoot.pet,634844,87588
+aa0e0a3ee6e0abba,maxres.dds.header,Tiny.VC,37993385,504

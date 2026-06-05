@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+36b1bcffb414b141,guard_spawn.ao,Tiny.VD.1,36426532,2550
+9340965ad4305809,guard_slam_big.ao,Tiny.V0.1,34835286,2734
+1e6145d4977e2e5e,guard_slam.ao,Tiny.V0.1,34832592,2694
+1cac5029ce8459b3,spider_projectile.ao,Tiny.VF.1,35322304,3934
+ff119dcb6e5c536e,spider_mortar_impact.ao,Tiny.VC.1,37158891,2716
+2f37c319523cd2a9,spider_mortar.ao,Tiny.VA.1,35642759,3366
+6aaf9463ebdf2c85,buff_ash.epk,Tiny.V5.1,37809858,906
+bdcdb0e62e4c0582,buff_ice.epk,Tiny.VF.1,35274840,914
+21c25fb3a0736745,buff_thunder.epk,Tiny.V1.1,35935512,946
+ec8627516fddabf6,buff_thunder_active.epk,Tiny.VC.1,37144949,970
+860f254d9202e795,boom_thunder.ao,Tiny.V3.1,35755705,3312
+8b6409964e652f2b,boom_ice.ao,Tiny.VA.1,35640331,2428
+a3595b3f9a1989ec,boom_ash.ao,Tiny.VF.1,35272412,2428

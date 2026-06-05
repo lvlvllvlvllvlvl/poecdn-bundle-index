@@ -1,0 +1,8 @@
+fire
+fire/ots
+ice
+ice/ots
+lightning
+lightning/ots
+phys
+phys/ots

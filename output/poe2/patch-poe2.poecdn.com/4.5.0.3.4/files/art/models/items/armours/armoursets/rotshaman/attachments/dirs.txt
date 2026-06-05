@@ -1,5 +1,0 @@
-cloak
-helmet
-skirt
-skirtfemale
-wings

@@ -1,4 +1,0 @@
-bronze
-diamond
-gold
-silver

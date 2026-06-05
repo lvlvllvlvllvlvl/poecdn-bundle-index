@@ -1,0 +1,13 @@
+epks
+fx
+fxgraphs
+mat
+mat/act_lightningstrike_cast
+mat/act_meteor_cast
+mat/act_projectile_cast
+mat/epks
+mat/lightningstrike
+mat/meteor
+mat/meteorimpact
+mat/projectile
+mat/projectile_impact

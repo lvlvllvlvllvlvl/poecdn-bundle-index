@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+85be5fd1c7b313d5,lightning_trail.mat,Tiny.V7,41715119,3562
+2c8b49870ddc59f4,dark_trail.mat,Tiny.V4,41961864,4612
+9021b449e3ed334c,core_trail.mat,Tiny.VE,41323280,4692
+d608c5b80979106a,absorb_trail.mat,Tiny.V3,41038292,5104
+3674aa1c133775d0,impact_tendrils_render.mat,Tiny.V2,41529371,5028
+b784161e982c8f3a,impact_tendrils_update.mat,Tiny.V4,37588137,336
+04a570b259635c62,impact_flash_render.mat,Tiny.V1,41649251,4166
+69df119a38e13f71,impact_flash_update.mat,Tiny.V4,37588137,336
+a8929abc89cf3f2f,impact_sparks_render.mat,Tiny.VE,41327972,2916
+7807c56df54c99e7,impact_sparks_update.mat,Tiny.V1,41653417,1252
+0bdc6c22d50ed538,impact_wave_render.mat,Tiny.V5,41274764,4990
+2157ec76f87f9607,impact_wave_update.mat,Tiny.V4,37588137,336

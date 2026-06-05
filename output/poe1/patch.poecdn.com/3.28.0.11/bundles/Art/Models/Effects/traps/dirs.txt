@@ -1,3 +1,0 @@
-fire_trap
-lightning_trap
-weapon_trap

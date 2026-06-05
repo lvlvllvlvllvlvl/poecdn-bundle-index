@@ -1,5 +1,0 @@
-zana_benevolence
-zana_glyph
-zana_godvoice
-zana_wild
-zana_wild_boss

@@ -1,3 +1,0 @@
-fx_rumis
-gold_mat
-gold_pet

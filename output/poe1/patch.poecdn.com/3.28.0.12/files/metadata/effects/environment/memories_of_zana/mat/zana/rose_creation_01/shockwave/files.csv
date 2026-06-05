@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+175009608df52aba,zoom_distort_r.mat,Tiny_8,123628472,5914
+931ccac54f797c1d,zoom_distort_u.mat,Tiny_8,123634386,1562
+a84cf6563cfe9b2f,shockwave_sphere_r.mat,Tiny_8,123614798,13674
+abe68ddef52240ae,shockwave_sphere_u.mat,Tiny_D,490226482,902
+58270dd963af724b,rose_spread_u.mat,Tiny_8,123594072,20726
+f39e6fdd85e17a77,ring_powderwave_r.mat,Tiny_8,123492520,57922
+a25ebf2ad546981c,ring_wave_r.mat,Tiny_8,123550442,43630
+eb18d9ec10f8fe16,ring_wave_u.mat,Tiny_D,490226482,902
+145f8b48cfe88930,nova_bluroomph_02_r.mat,Tiny_8,123478252,11544
+f71111d04b02a8fd,nova_bluroomph_02_u.mat,Tiny_8,123489796,2724
+9899af8c4c25a398,mblur_sphere_r.mat,Tiny_8,123468778,9474
+8750c3f511c754ed,mblur_sphere_u.mat,Tiny_D,490226482,902
+97d3f06553f587e1,hemisphere_wave_r.mat,Tiny_8,123397166,71612
+8321819bdb04b81f,hemisphere_wave_u.mat,Tiny_D,490226482,902

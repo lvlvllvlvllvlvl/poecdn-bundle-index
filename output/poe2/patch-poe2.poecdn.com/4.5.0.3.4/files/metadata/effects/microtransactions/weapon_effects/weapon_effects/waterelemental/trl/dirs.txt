@@ -1,5 +1,0 @@
-axe
-bow
-dwc
-staff
-sword

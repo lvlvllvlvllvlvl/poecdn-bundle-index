@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+36d81709664982d5,divergenceportalc.mat,Tiny_3,22815119,3276
+a00f0e3b25e8b1d6,divergenceportal_normal_dxt5.dds,Art/Models/Portals/HarmonyDivergencePortal/textures_3,0,1398276
+ee919ccb70178d69,divergenceportal_normal_dxt5.dds.header,Tiny_3,22813599,1520
+1951ca6ef4c767b6,divergenceportal_metalc.mat,Tiny_3,22806339,7260
+538215771b30f30c,divergenceportal_metal_dxt5.dds,Art/Models/Portals/HarmonyDivergencePortal/textures_2,0,1398276
+eb42912eab9e9e69,divergenceportal_metal_dxt5.dds.header,Tiny_3,22804819,1520
+11f159281d57390c,divergenceportal_glow_dxt5.dds,Art/Models/Portals/HarmonyDivergencePortal/textures_2,1398276,1398276
+d6e8e47d09ce6290,divergenceportal_glow_dxt5.dds.header,Tiny_3,22803299,1520
+ad667354c0aa1c5e,divergenceportal_colour_dxt5.dds,Art/Models/Portals/HarmonyDivergencePortal/textures_1,0,1398276
+74d946fd9d4ff06d,divergenceportal_colour_dxt5.dds.header,Tiny_3,22801779,1520
+22896d59dd2271bb,divergenceportalorbc.mat,Tiny_3,22821435,342
+6ad294ce2cd2d522,divergenceportalorb_normal_dxt5.dds,Folders/art/models/portals/harmonydivergenceportal/textures,1398276,1398276
+d795ce7352dff63e,divergenceportalorb_normal_dxt5.dds.header,Tiny_3,22819915,1520
+dbc2fd6526f29b47,divergenceportalorb_colour_dxt5.dds,Folders/art/models/portals/harmonydivergenceportal/textures,0,1398276
+4cfceadc2d941777,divergenceportalorb_colour_dxt5.dds.header,Tiny_3,22818395,1520

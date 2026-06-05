@@ -1,0 +1,10 @@
+attachments
+attachments/female
+attachments/female/belt
+attachments/female/skirt
+attachments/male
+attachments/male/belt
+attachments/male/skirt
+attachments/male/strings
+attachments/male/strskirt
+attachments/male/strskirt/animation

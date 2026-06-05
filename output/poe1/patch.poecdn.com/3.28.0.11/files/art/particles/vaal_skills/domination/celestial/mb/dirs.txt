@@ -1,8 +1,0 @@
-onact
-onact/shockwave
-onact/shockwave/main
-onact/shockwave/start
-onact/slam_aoe
-onact/spawn
-onact/teleport
-statue_weapon

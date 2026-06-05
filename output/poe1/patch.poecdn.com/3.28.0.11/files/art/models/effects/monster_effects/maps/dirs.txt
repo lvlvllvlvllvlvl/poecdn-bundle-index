@@ -1,3 +1,0 @@
-ice_pryo_bomb
-ice_pyro_bomb
-lightning_searing_bond

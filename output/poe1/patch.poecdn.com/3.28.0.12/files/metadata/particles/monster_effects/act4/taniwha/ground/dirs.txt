@@ -1,0 +1,4 @@
+emerge
+idle
+norevive_death
+submerge

@@ -1,3 +1,0 @@
-graphs
-graphs/chieftain_ancestor
-graphs/slam

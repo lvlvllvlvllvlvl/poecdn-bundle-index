@@ -1,7 +1,0 @@
-epk
-mat
-mat/attack_01_02
-mat/death_01
-mat/flinch
-pet
-trl

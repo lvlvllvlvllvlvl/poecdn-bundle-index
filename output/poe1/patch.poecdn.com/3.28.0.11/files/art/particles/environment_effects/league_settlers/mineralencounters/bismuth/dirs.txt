@@ -1,3 +1,0 @@
-tex
-tornado
-tornado_cold

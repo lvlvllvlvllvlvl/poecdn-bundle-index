@@ -1,4 +1,0 @@
-attachments
-fx
-fx/mat
-fx/pet

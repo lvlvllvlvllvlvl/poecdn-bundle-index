@@ -1,0 +1,11 @@
+epk
+fx
+graph
+mat
+mat/melee_trail
+mat/mini_tornado
+mat/sonic_boom_chaos
+mat/vine_grow
+mat/whirlingslash_aoe
+mat/whirlwind_detonation
+mat/whirlwind_spawn

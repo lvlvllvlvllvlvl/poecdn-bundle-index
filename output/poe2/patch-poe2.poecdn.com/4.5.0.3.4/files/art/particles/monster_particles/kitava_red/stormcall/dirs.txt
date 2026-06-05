@@ -1,4 +1,0 @@
-idel
-impact
-impact/fx
-pulse

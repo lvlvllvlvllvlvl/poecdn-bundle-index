@@ -1,3 +1,0 @@
-devourerbow
-devourerclaw
-textures

@@ -1,3 +1,0 @@
-main
-marker
-teleport_effect

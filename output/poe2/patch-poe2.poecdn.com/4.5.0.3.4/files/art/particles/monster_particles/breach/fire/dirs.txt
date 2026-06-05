@@ -1,8 +1,0 @@
-flame_vortex
-flaming_cleave
-flaming_cleave/claw
-ground_slam
-hellscapedemonelite2
-hellscapepaleelite1
-hellscapepaleelite1/attackprojectile
-hellscapepaleelite1/flameprojectile

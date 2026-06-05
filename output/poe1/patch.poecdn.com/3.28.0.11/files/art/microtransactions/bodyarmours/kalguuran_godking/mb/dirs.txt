@@ -1,5 +1,0 @@
-fadein_chest
-fadeout
-item_beam
-item_beam/animations
-weapon_idle

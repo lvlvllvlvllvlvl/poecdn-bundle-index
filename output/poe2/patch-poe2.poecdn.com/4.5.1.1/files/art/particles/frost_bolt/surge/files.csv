@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+b83094b49e954111,trail_bloom.mat,Tiny.VC,35520506,1888
+b05c559fa9cf60a4,trail_bloom.dds,Streaming/Content/metadata/particles/stygianbonegolem/bones_leapslam.pet,636772,11084
+34695a69ae31389c,trail_bloom.dds.header,Tiny.V0,35402264,1520
+9fe94954c97a7b02,burst.mat,Tiny.VB,35370777,1730
+f767b4772171e8e1,burst.dds,Streaming/Content/metadata/particles/stygianbonegolem/bones_leapslam.pet,592920,43852
+f6c80d00cd30b209,burst.dds.header,Tiny.V7,41187106,1520
+48bb48e9212b1f84,flash_bc1.dds,Tiny.V4,39434780,2892
+220b35a9ec3d912a,flash_bc1.dds.header,Tiny.V2,39287036,1520
+28d5a4634c8cf380,flash.mat,Tiny.V1,35144415,1794
+5cfdc3cfbed4e5a5,flash.dds,Streaming/Content/metadata/particles/monster_effects/act1_four/105E120B2D9F42B0.98A7F0217D029B15.ptemit.pet.1,525040,5636
+5dda0969c1122e0d,flash.dds.header,Tiny.V6,35192012,1520
+59828a788390320d,white_solid.mat,Tiny.V5,34816482,2274
+de0a90992bdbfded,white_solid.dds.header,Tiny.V2,4245841,1520
+0ae0b65827a566fd,rays.mat,Tiny.VC,35517994,2512
+6c7b8e25ed2beddb,rays.dds,Streaming/Content/metadata/particles/stygianbonegolem/bones_leapslam.pet,647856,349692
+b54f83a9c7453469,rays.dds.header,Tiny.VF,35316459,840

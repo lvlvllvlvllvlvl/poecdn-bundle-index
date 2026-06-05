@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+c88300bcd9c1ca89,sweep_subc.mat,Tiny_7,54055331,1494
+8efa974b2a9a8257,sweep_sub.dds,Art/particles/sweep,87556,349700
+04841ab4560a1858,sweep_sub.dds.header,Tiny_7,54053811,1520
+caa3d0536ed365a5,sweep_dust_01.mat,Tiny_7,54052927,884
+429ccbbf13ce080a,sweep_dust_01.dds,Art/particles/sweep_1,0,1398276
+3bf6bb2deabd4906,sweep_dust_01.dds.header,Tiny_7,54051407,1520
+b5dbc688fd196a98,sweep_distortionc.mat,Tiny_7,54050145,1262
+2351d3a4b38d7759,sweep_distortion.dds,Art/particles/sweep,0,87556
+c559c5a3b534db5e,sweep_distortion.dds.header,Tiny_7,54048625,1520
+ce59e0fe7ff3394e,leapslamnovavaguenotgreen.mat,Tiny_7,54047669,956
+b542b94e0c4696f4,leapslamnovavaguenotgreen.dds,Art/particles/sweep,1835532,87556
+c0deaef4769b0250,leapslamnovavaguenotgreen.dds.header,Tiny_7,54046149,1520
+b3e18b9ab5c764ed,basec.mat,Tiny_7,54044523,1626
+4ad0bf9086d5bc57,base.dds,Art/particles/sweep,437256,1398276
+bb986282d22ece0d,base.dds.header,Tiny_7,54043003,1520

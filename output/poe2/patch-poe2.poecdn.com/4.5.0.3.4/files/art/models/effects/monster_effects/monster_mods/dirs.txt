@@ -1,7 +1,0 @@
-charging_beam
-reflect_damage
-reflect_damage/elemental
-reflect_damage/magic
-reflect_damage/rare
-shroad
-tormented_spirits

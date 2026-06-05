@@ -1,6 +1,0 @@
-shield_beam
-solar_beam
-solar_spear
-solaris_emerge
-solaris_submerge
-sunflare

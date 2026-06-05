@@ -1,9 +1,0 @@
-catarinabosslantern
-catarinabosstotem
-evidence
-evidence/evidence_desk
-evidence/evidence_drawers
-evidence/evidence_highshelf
-evidence/evidence_multicabinet
-evidence/evidence_vdrawers
-secretvault

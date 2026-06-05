@@ -1,5 +1,0 @@
-attachments
-attachments/morphingflyingtoad
-fx
-graphs
-mat

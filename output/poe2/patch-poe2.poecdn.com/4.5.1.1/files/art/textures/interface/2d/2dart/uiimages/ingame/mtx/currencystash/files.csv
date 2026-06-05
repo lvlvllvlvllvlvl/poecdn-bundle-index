@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+e0444a96224d9d39,currencystashslot.dds,Streaming/Folders/art/textures/interface/2d/6726D6143911006F.3913E97A855491BB.uiimages.2,182308,14804
+bd37dc6df8ae2eca,currencystashslot.dds.header,Tiny.V1,45910151,3720
+25aff147e8670cb4,currencystashbg.dds,Streaming/Folders/art/textures/interface/2d/3913E97A855491BB.uiimages.4,146604,1170340
+f813c88130fe0d06,currencystashbg.dds.header,Tiny.V1,45905611,4540
+b0612b3fae890980,currencystash2x3slot.dds,Streaming/Folders/art/textures/interface/2d/5D728FEE899675F1.3913E97A855491BB.uiimages.1,2827452,65652
+89f50323dd965deb,currencystash2x3slot.dds.header,Tiny.VB,46125172,1100
+102db795d7ac4fbb,backgroundbase.dds,Streaming/Folders/art/textures/interface/2d/E0934C9916BB9849.3913E97A855491BB.uiimages.1,58648,1170340
+826adfaede32948a,backgroundbase.dds.header,Tiny.VD,46060622,4540
+9db76ff2dca25282,backgroundatlas.dds,Streaming/Folders/art/textures/interface/2d/02B6D67BDD9027D8.3913E97A855491BB.uiimages,2775040,1170340
+fe0d2bb18c610c71,backgroundatlas.dds.header,Tiny.V6,46132477,4540
+f73fa910e822eb9b,background.dds,Streaming/Folders/art/textures/interface/2d/DB6448843A9150E7.3913E97A855491BB.uiimages.2,716004,1170340
+ed36f936901aee8c,background.dds.header,Tiny.V3,45426349,4540

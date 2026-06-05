@@ -1,6 +1,0 @@
-axemace
-bow
-dwc
-shield
-staff
-sword

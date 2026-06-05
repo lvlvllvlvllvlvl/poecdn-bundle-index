@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+3e6746a7dff6b295,impact_mblur_01_r.mat,Tiny_8,87167274,10566
+6a2b3db6e249ca37,impact_ptemit_01_u.mat,Tiny_D,368454753,2208
+23889a1856dd5195,impact_smokering_01_r.mat,Tiny_8,87177840,20964
+23bdbccc56d03a57,impact_smokering_01_u.mat,Tiny_8,87198804,12074
+60acff00056abf40,impact_grainsburst_01_r.mat,Tiny_8,87138890,28384
+8cfbaf6bc49ad0c8,impact_grainsburst_01_u.mat,Tiny_D,368434661,9746
+ebec80e61d1d4855,impact_flash_01_r.mat,Tiny_8,87114788,24102
+da36b2d5dc7b810e,impact_flash_01_u.mat,Tiny_D,368373771,1456
+d7d0c8c40609c772,impact_decal_01_r.mat,Tiny_8,87059080,27570
+93eb12102d8dfd5d,impact_decal_02_r.mat,Tiny_8,87086650,28138
+ac74bf02ceed458a,impact_decal_02_u.mat,Tiny_D,477276220,2378
+c542c09d3e3a2e3f,impact_debris_01_r.mat,Tiny_8,87018432,40648
+8294ff75e11cf1f5,impact_debris_01_u.mat,Tiny_D,256383226,26740
+2dc17afd45cb6053,impact_aoering_01_u.mat,Tiny_11,96896332,576
+00ce1fc22c0b4b22,impact_aoering_01_r.mat,Tiny_D,368124321,44890
+ebfc5f7904f91ef6,impact_aoering_01_r1.mat,Tiny_8,86991880,26552

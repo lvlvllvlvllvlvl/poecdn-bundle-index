@@ -1,3 +1,0 @@
-memoryportal
-memoryportal/scenes
-memoryportal/scenes_nooffset

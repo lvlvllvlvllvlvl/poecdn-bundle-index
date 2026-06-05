@@ -1,7 +1,0 @@
-atziribeastdoor
-atzirileadupchest
-atzirileadupchest/atzirikey
-atzirileadupchest/textures
-present
-present/tgms
-tgms

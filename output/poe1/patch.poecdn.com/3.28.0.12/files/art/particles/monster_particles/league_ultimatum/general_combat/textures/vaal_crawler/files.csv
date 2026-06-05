@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+fe9abdd5ca69636b,impact_spike.mat,Tiny_7,28036206,2674
+5646567391ac714f,sandgrains02_11x11.mat,Tiny_7,28051506,5342
+24552eb2169e515c,smoke.mat,Tiny_7,28056848,2870
+de2f90fd9e09385a,smoke.dds,Art/particles/environment_effects/League_Delve_12,0,43876
+c2219ee030be8b4a,smoke.dds.header,Tiny_7,57388323,840
+9fc319747424eb9c,noise_wave_add.mat,Tiny_7,28038880,3762
+bac1cf8a2be19b3c,noise_wave_blend.mat,Tiny_7,28042642,3188
+6784caaeb59da0de,noise_wave_test.mat,Tiny_7,28045830,5676
+cec5c0e31800a702,blade_edge.mat,Tiny_7,28033620,2586
+3df2463d5783f043,blade_edge.dds,Folders/art/particles/monster_particles/league_ultimatum_1,7261311,87556
+8e45810038c1dc26,blade_edge.dds.header,Tiny_7,28032100,1520

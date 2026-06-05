@@ -1,0 +1,7 @@
+bells_dexint
+bells_str
+bells_strdex
+bells_strint
+hair
+hair_strdex
+skirt

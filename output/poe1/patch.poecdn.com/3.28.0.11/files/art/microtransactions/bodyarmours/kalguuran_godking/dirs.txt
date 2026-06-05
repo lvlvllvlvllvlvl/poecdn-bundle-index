@@ -1,7 +1,0 @@
-mb
-mb/fadein_chest
-mb/fadeout
-mb/item_beam
-mb/item_beam/animations
-mb/weapon_idle
-tex

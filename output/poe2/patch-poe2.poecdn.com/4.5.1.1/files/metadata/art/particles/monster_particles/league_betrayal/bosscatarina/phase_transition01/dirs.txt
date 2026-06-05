@@ -1,0 +1,4 @@
+death_sparks
+death_sparks/fx
+staff_beam
+staff_beam/fx

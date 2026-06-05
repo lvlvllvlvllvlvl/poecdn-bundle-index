@@ -1,0 +1,5 @@
+attachments
+attachments/headdress
+attachments/necklace
+attachments/shawl
+attachments/skirt

@@ -1,0 +1,3 @@
+cast
+fixed_whip
+whip

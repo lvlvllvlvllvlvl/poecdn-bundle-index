@@ -1,9 +1,0 @@
-boss_emerge
-boss_light
-boss_light/root_light
-bulb_ultimate
-crown_of_thorns
-on_death
-scale_ultimate
-thorn_ultimate
-transition

@@ -1,0 +1,10 @@
+axe
+axe_axe
+axe_dagger
+axe_shield
+bow
+dagger_dagger
+map_device
+spear
+spear_shield
+staff

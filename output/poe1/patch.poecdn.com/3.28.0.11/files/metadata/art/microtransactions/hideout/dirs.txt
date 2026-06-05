@@ -1,4 +1,0 @@
-astrolabemapdevice
-astrolabemapdevice/textures
-doodads
-doodads/alientree_celestial

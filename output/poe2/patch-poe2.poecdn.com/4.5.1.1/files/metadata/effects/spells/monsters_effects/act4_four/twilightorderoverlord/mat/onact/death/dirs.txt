@@ -1,0 +1,6 @@
+blood
+captain
+earthquake
+kanu
+rock_platform
+rock_platform/break

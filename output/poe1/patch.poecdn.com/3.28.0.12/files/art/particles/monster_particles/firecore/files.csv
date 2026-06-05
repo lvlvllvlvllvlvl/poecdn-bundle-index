@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+a410bf47e5259f4d,teleporttesttransparentc.mat,Tiny_6,91300049,3250
+10036be326ffd341,teleporttesttransparent.dds,Art/particles/monster_particles/FireCore,43852,87556
+63134800fbf40a6f,teleporttesttransparent.dds.header,Tiny_6,91298529,1520
+71c40362cb7384fa,lavacns.mat,Tiny_6,91295667,2862
+df139141db80e5a2,lava_glowc.mat,Tiny_6,91291643,4024
+f1cfa1e394844422,lava_glow.dds,Art/particles/monster_particles/FireCore,131408,87556
+01542e1aea834d65,lava_glow.dds.header,Tiny_6,91290123,1520
+8a097da4e9a8fbe3,lava_colour.dds,Art/particles/monster_particles/FireCore,0,43852
+17a22ec153acda87,lava_colour.dds.header,Tiny_6,91288603,1520
+b1a09a62e94bd7cf,lavans.dds,Art/particles/monster_particles/League_Incursion_16,2187204,87556
+c9fbc3a57ec8886f,lavans.dds.header,Tiny_7,85625823,1520
+f0a3486797891763,bloom_particle.mat,Tiny_6,91287449,1154
+9669b4f88ae67498,bloom_particle.dds,Art/particles/monster_particles/essence_7,0,87556
+f30af3ba12f4817e,bloom_particle.dds.header,Tiny_7,59776473,1520

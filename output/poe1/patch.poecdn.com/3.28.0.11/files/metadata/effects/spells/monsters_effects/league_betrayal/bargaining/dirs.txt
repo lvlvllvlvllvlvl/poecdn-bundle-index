@@ -1,4 +1,0 @@
-assassinate
-assassinate/graphs
-bind
-bind/graphs

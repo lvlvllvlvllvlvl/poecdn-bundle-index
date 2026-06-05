@@ -1,4 +1,0 @@
-alttiles
-alttiles/mudflats
-alttiles/verdant
-tgms

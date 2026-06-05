@@ -1,4 +1,0 @@
-mb
-mb/center_root
-mb/root
-texture

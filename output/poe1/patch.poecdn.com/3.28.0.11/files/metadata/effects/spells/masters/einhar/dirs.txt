@@ -1,4 +1,0 @@
-aura
-mine_bomb
-mine_bomb/graphs
-projectile

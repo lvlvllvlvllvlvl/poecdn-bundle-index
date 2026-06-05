@@ -1,0 +1,8 @@
+epk
+fx
+mat
+mat/donut_slam
+mat/impact_small
+mat/sand_line_slam
+mat/weapon_glow
+mat/weapon_trail

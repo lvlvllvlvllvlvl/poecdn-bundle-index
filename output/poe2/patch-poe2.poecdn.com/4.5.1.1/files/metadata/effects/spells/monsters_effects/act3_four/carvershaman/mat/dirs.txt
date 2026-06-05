@@ -1,0 +1,6 @@
+buff_01
+buff_01/new
+fireball
+fireball/impact
+fireball/proj
+revive_aoe

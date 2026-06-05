@@ -1,7 +1,0 @@
-fx
-fx/damage_player
-fx/hit_fx
-fx/shockwave
-fx/traumatised
-fx/weapon_buildup
-graph

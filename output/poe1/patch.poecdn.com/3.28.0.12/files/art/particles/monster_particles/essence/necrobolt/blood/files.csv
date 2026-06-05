@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+1bbcf5a399038be7,pulse.mat,Tiny_6,90902035,1052
+578f64aa3443cd01,pulse.dds,Art/particles/feast_of_flesh_1,0,87556
+a11e470862a3a539,pulse.dds.header,Tiny_7,52560086,1520
+6422cfec4953d5ab,groundsplat_big.mat,Tiny_6,90900923,1112
+2837bbee9198db76,groundsplat_big.dds,Art/particles/monster_particles/League_Abyss_8,1775860,87556
+7e2b3b2933f8df0f,groundsplat_big.dds.header,Tiny_6,97098539,1520
+9dd4204e9f39b2f5,blood_splat2.mat,Tiny_6,90897601,1826
+2aaafa0df0807472,blood_splat2.dds,Art/particles/corpse_eruption/explo,0,87556
+ec6040b958debfaa,blood_splat2.dds.header,Tiny_7,14688711,1520
+f91e9306d76e5b24,blood_multi.mat,Tiny_6,90896077,1524
+53cf3d1ca1ade42e,blood_multi.dds,Folders/art/particles/monster_particles/act7,137068,174948
+ed32a855f57f6f2c,blood_multi.dds.header,Tiny_7,40689623,840
+a742cc3b0f226c6a,bloodmist.mat,Tiny_6,90899427,1496
+0858b094dd215181,bloodmist.dds,Art/particles/monster_particles/Impale_spike_explode,0,87556
+821b868b5266bc1b,bloodmist.dds.header,Tiny_7,46539716,1520

@@ -1,2 +1,0 @@
-larger_smoke
-medium_smoke

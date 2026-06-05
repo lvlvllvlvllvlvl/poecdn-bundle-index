@@ -1,4 +1,0 @@
-mb
-mb/mud_pool_steam
-textures
-textures/mud_pool_steam

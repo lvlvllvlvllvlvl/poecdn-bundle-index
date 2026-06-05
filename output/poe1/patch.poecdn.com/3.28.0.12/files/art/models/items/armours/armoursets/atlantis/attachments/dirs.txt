@@ -1,0 +1,8 @@
+chestcloth
+female
+female/shoulderpad
+helmetcloth
+helmetfeathers
+male
+male/robemetal
+robebase

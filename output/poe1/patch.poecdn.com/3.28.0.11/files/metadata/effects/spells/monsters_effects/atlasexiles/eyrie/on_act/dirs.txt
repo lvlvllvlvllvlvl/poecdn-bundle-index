@@ -1,7 +1,0 @@
-attack_01
-attack_02
-attack_03
-dash_attack_01
-dash_dive_01
-dash_dive_01/graphs
-tornado_spin_01

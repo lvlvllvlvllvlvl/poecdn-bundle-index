@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+cf4e305d1fe151f4,ringmasteraltcloak.sm,Tiny_2,39160359,510
+08dff5ced5df1da5,ringmastercloak.sm,Tiny_2,39160869,506
+dfd8b9e16af85d6f,ringmastercloakstriped.fmt,Art/Models/Items/Armours/Capes/RingmasterCloak,139760,57359
+8f6710f823e6e83a,ringmastercloakstriped.fmt.header,Tiny_2,39161582,203
+2c6e92e9d1366553,ringmastercloakcheckered.fmt,Art/Models/Items/Armours/Capes/RingmasterCloak,82393,57367
+209489ce02db7714,ringmastercloakcheckered.fmt.header,Tiny_2,39161375,207
+4059b06099b99a34,rig_36cd0ef1.smd,Art/Models/Items/Armours/Capes/RingmasterCloak,4467,77926
+a3ad9281d443c9d7,rig_36cd0ef1.smd.header,Folders/art/models/items/armours/shields/shielddex,488306,6234
+fb5f20265b91c67b,rig.amd,Tiny_2,39159461,898
+405fa4773b73c87a,rig.ast,Art/Models/Items/Armours/Capes/RingmasterCloak,0,4467

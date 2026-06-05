@@ -1,0 +1,2 @@
+weapon_fx
+weapon_fx_valk

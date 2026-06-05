@@ -1,3 +1,0 @@
-penitentarchivedoor
-penitentarchivedoor/fx
-penitentarchivedoor/mat

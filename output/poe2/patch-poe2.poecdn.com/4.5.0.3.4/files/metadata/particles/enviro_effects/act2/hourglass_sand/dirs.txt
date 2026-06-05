@@ -1,6 +1,0 @@
-graph
-mat
-mid
-mid/dustcolor
-small
-small/dustcolor

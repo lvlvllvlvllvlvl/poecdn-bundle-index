@@ -1,7 +1,0 @@
-cyclone
-glaive_projectile
-glaive_projectile/spawn
-lunar_slash
-lunaris_emerge
-meteor_shower
-orb_of_darkness

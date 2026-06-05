@@ -1,8 +1,0 @@
-ao
-epk
-mat
-mat/ball_lightning
-mat/meleeslash
-mat/slash
-mat/stormcall
-pet

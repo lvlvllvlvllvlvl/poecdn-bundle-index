@@ -1,2 +1,0 @@
-crossbow_armourpiercing
-crossbow_armourpiercing/mb

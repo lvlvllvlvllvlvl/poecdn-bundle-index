@@ -1,0 +1,6 @@
+textures
+textures/ground
+textures/moss
+textures/rocks
+textures/swords
+textures/treedebris

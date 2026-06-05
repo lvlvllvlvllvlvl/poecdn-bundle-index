@@ -1,7 +1,0 @@
-mantledex
-mantledexint
-mantleint
-mantlestr
-mantlestrdex
-mantlestrdexint
-mantlestrint

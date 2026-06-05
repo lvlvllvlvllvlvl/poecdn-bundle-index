@@ -1,7 +1,0 @@
-gembarrier
-gembarrier/attached
-gembarrier/audio
-gembarrier/epk
-gembarrier/fx
-gembarrier/graphs
-gembarrier/mats

@@ -1,6 +1,0 @@
-attachments
-attachments/cape
-attachments/ribbon
-attachments/skirt
-attachments/skirt/female
-attachments/skirt/male

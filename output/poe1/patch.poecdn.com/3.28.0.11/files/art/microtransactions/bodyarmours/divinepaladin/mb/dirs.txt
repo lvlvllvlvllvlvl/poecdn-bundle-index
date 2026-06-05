@@ -1,4 +1,0 @@
-book
-book_floatanchor
-shield
-shield_floatanchor

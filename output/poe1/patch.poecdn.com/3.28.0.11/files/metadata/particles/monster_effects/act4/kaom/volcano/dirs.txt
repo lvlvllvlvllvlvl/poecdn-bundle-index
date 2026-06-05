@@ -1,2 +1,0 @@
-chunk_impact
-chunk_trail

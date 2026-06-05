@@ -1,6 +1,0 @@
-animations
-attachments
-attachments/lantern
-attachments/ormhair
-attachments/tools
-textures

@@ -1,2 +1,0 @@
-corpse_explo
-corpse_explo/fire_volatileorbs

@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+62fef20a710ca2b6,mansiondetectiondoor.sm,Tiny_5,60930063,900
+120062b5948f65a5,rig_4d01bd22.smd,Art/Models/Terrain/Leagues/Heist/Doors_Mansion,0,166858
+ded14d8e743880c7,rig_4d01bd22.smd.header,Tiny_5,60933766,736
+793fc0da7e240d0b,rig.amd,Tiny_5,61036352,150
+5e414daf6b7db9cb,rig.ast,Tiny_5,60930963,2803
+a60df98a0c059be0,heistdetectiondoor_01_npcdetectiondoor.fmt,Tiny_7,19668252,43
+c10b90188af53cf2,heistdetectiondoor_01_npcdetectiondoor.fmt.header,Tiny_7,56868231,128
+38c948f2a2cab686,heistdetectiondoor_01_eventdrivenblocker.fmt,Tiny_5,60929794,269
+73cc553f757497c9,heistdetectiondoor_01_eventdrivenblocker.fmt.header,Tiny_5,61449396,152
+e9e239bf5caea570,heistdetectiondoor_01.tgt,Tiny_5,60927965,746
+31b5f19868058a6b,heistdetectiondoor_01.tmd,Tiny_5,60928711,1083

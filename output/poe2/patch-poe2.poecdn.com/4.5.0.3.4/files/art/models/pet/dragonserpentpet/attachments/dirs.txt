@@ -1,3 +1,0 @@
-mane
-tail
-whiskers

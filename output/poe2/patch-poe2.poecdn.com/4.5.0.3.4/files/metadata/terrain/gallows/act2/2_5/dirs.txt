@@ -1,9 +1,0 @@
-graphs
-objects
-rooms
-rooms/abysstrail
-rooms/boneabyss
-rooms/bonepassage
-rooms/fills
-rooms/overlays
-rooms/unique

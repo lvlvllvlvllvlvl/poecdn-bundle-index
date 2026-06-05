@@ -1,3 +1,0 @@
-centipede_emerge
-slam
-tenticle

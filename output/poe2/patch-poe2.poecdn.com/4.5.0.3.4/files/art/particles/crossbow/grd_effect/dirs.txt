@@ -1,2 +1,0 @@
-flaming_grd
-flaming_grd/tex

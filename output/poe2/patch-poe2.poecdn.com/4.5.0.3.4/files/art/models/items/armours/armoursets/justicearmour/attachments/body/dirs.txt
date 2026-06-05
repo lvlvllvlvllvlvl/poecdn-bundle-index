@@ -1,6 +1,0 @@
-cape
-cape/str
-skirt
-sleeves
-sleeves/int
-sleeves/str

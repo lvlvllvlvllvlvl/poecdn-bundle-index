@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+ce80a1235b2d0301,chunk.mat,Tiny.V3,5701209,2106
+f1d59ef0c50666e1,chunk.dds,Streaming/Content/metadata/effects/microtransactions/spells/CCD469681AFC9F46.D1AC74E5AECBBE16.base_mid.pet,1765560,174948
+0a0ead297b57f98c,chunk.dds.header,Tiny.V4,5949164,840
+102551efd76a8e2a,trail_main_base.mat,Tiny.VB,5784321,2958
+b5bf96b34c2598e2,trail_main_base.dds,Streaming/Content/metadata/effects/microtransactions/spells/CD1C618C522FC70B.1F19853C94388A8F.core_trail.trl,0,43876
+3eb58e3c4fa1b491,trail_main_base.dds.header,Tiny.VA,5803280,840
+450521de714ae6ac,trail_multi.mat,Tiny.V2,6029535,1990
+29efb4f9a6151ae3,trail_multi.dds,Streaming/Content/metadata/effects/microtransactions/spells/CD1C618C522FC70B.1F19853C94388A8F.core_trail.trl,43876,43876
+aa7d03411ea32fe0,trail_multi.dds.header,Tiny.V3,5700369,840

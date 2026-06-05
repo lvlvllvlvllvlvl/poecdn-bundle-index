@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+e7a6635db132c4dc,custom_offsetlocal.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,2311767,68286
+0e619f30e4b8912e,render_emberssize.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,2283911,8378
+7aeeab77d7527a5f,render_lavaamount.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,2380053,10554
+94ebbea67a623663,volcanogrowthsizeparameter.fxgraph,Content/metadata/effects/microtransactions/spells/celestial_warcries/760E0865EAD6D392.intimidating_cry.epk,2904766,8038
+5b2c1afe111f1ca3,volcanocrumbleparameters.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,1974893,9272
+2bdd2fb9a0421892,volcanoparameters.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,1699953,21426
+7ef34ea0fbe97b44,volcanoflareup.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,1373189,5984
+3964d2ec18881af1,volcanomaterial_crumble.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,1984165,154158
+31d4f7cde0922ad5,volcanomaterial.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,1379173,320780
+debf6739c87d2f1b,volcanoshape_crumble.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,2138323,145588
+85f144b617d39761,volcanoshape.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,1721379,245002
+5434bf5107a2dae2,emitter_volcanomouthoffset.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,2292289,19478
+7bc967482c379080,emitter_crumblepositionfade.fxgraph,Content/metadata/effects/spells/maneuver_mechanics/bonearmour.epk,1966381,8512

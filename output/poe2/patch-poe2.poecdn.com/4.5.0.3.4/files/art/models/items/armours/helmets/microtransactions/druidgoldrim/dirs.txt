@@ -1,7 +1,0 @@
-attachments
-attachments/cloth
-attachments/fx_attachment
-attachments/ponytail
-fx
-fx/mb
-textures

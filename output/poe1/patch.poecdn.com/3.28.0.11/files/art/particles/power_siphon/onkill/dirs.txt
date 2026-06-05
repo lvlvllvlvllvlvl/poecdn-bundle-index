@@ -1,5 +1,0 @@
-main
-main/celestial
-subtle
-subtle/fx
-subtle/fx/celestial

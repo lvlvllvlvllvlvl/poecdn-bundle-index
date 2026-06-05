@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+39dd4b70fd884b77,mmgl_runestone01c.mat,Tiny.VF,31321105,12132
+98cf267fdd2b8b0b,mmgl_runestone01_emissive.dds,Streaming/Content/metadata/terrain/doodads/endgame/0A45F29F69FAC437.runestone04.ao.1,0,1398276
+70a712f4c7d732e5,mmgl_runestone01_emissive.dds.header,Tiny.V2,28002588,1520
+07fb396668c899af,mmgl_runestone01_normal.dds,Streaming/Content/metadata/terrain/doodads/endgame/0A45F29F69FAC437.runestone04.ao.1,1398276,5592580
+0138268648c060fa,mmgl_runestone01_normal.dds.header,Tiny.V4,28244732,1520
+e50483078004810e,mmgl_runestone01_colour.dds,Streaming/Content/metadata/terrain/doodads/endgame/0A45F29F69FAC437.runestone04.ao,0,2796364
+3921cae19c0473c2,mmgl_runestone01_colour.dds.header,Tiny.VC,28057924,1520
+1f669392cdf6f4d8,mmgl_runestone02c.mat,Tiny.V9,31508314,12132
+848cb02f7e3cd136,mmgl_runestone02_emissive.dds,Streaming/Content/metadata/terrain/doodads/endgame/0A45F29F69FAC437.runestone08.ao.1,0,1398276
+168f89d78e68d29a,mmgl_runestone02_emissive.dds.header,Tiny.VD,27879730,1520
+859b4c270722c764,mmgl_runestone02_normal.dds,Streaming/Content/metadata/terrain/doodads/endgame/0A45F29F69FAC437.runestone08.ao.1,1398276,5592580
+625604ac51d3cb49,mmgl_runestone02_normal.dds.header,Tiny.VB,28100224,1520
+7a4cfed98cb42501,mmgl_runestone02_colour.dds,Streaming/Content/metadata/terrain/doodads/endgame/0A45F29F69FAC437.runestone08.ao,0,2796364
+35c5dca8133d7f39,mmgl_runestone02_colour.dds.header,Tiny.VA,28079389,1520

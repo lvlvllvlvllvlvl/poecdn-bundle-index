@@ -1,0 +1,3 @@
+bubble
+graph
+steam

@@ -1,0 +1,8 @@
+affected_buff
+blob_explosion
+bodyfx
+debuff_lightning_buff_speed
+debuff_lightning_buff_speed/orb_charges
+lightning_grd
+sml_portal
+spellcast_buildup

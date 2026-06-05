@@ -1,4 +1,0 @@
-fx
-fx/monster_hit
-fx/surge
-fx/vortex

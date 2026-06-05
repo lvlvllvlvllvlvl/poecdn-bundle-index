@@ -1,5 +1,0 @@
-capelet
-chestplate
-chestplate/attachments
-headcloth
-robem

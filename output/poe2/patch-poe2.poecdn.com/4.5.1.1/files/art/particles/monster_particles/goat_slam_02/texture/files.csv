@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+dc0400f729f25953,blast.mat,Tiny.V1,38524018,2386
+81019fea8fbc8fdd,impact.mat,Tiny.VB,40182890,3948
+812eb175cd79eb3a,edge_sphere.mat,Tiny.VE,38236627,1812
+7b0fbe81dfea5024,dirt_charge.mat,Tiny.VA,38909252,2374
+b88b95bc94a14d93,dust_wind.mat,Tiny.VD,13561085,316
+fc48327c90bb232b,shockwave.mat,Tiny.V4,38801342,4126
+dbd760dd5fbe834e,slam_crack.mat,Tiny.V4,38805468,8682
+6272b175c05d3e6e,slam_crack_01_mask_b_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/92DB928646CA6269.A2423F3D01E7A113.ground_slam.pet.1,0,1398276
+dc55205bde2d8341,slam_crack_01_mask_b_dxt5.dds.header,Tiny.VF,38710887,1520
+1385f1cae45348ff,slam_crack_01_height_uncompressed.dds,Streaming/Content/metadata/effects/spells/monsters_effects/92DB928646CA6269.A2423F3D01E7A113.ground_slam.pet,1778951,5592552
+0cc14e8813525b6e,slam_crack_01_height_uncompressed.dds.header,Tiny.V8,38350011,1520
+2830b0e4c48497a0,slam_crack_01_normal_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/92DB928646CA6269.A2423F3D01E7A113.ground_slam.pet.1,1398276,1398276
+a56921f243904de5,slam_crack_01_normal_dxt5.dds.header,Tiny.V2,38646593,1520
+5e12521f1e0afb1e,slam_crack_01_basecolor_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/92DB928646CA6269.A2423F3D01E7A113.ground_slam.pet,380675,1398276
+93fd7d4e0648bd15,slam_crack_01_basecolor_dxt5.dds.header,Tiny.V0,38949951,1520

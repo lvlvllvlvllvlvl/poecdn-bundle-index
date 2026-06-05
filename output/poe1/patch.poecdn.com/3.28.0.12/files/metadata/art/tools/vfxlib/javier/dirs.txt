@@ -1,0 +1,6 @@
+assets
+others
+others/motion_test
+others/plane
+tex_masters
+vfxlib

@@ -1,6 +1,0 @@
-mb
-mb/mushroom_flameblast
-mb/mushrooms
-textures
-textures/mushroom_buff
-textures/mushroom_flameblast

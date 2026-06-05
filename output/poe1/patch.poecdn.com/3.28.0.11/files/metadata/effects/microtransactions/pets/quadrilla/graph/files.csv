@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-d028d6a059fbfb65,animation_timeline.fxgraph,Folders/metadata/effects_1,23040,50320
-e7e6350027c37d35,groundtexture_onmeshparticles.fxgraph,Folders/metadata/effects_A,8681604,129670
-93ec16f1c0d124a8,innermaterial_tileground.fxgraph,Folders/metadata/effects_1,73360,20696
-96d5c79ad4705076,mask_lerp.fxgraph,Folders/metadata/effects_1,94056,67308
-c9851b540f4d701d,vtx_mask_sphere.fxgraph,Folders/metadata/effects_2,0,123352
-26a629a08e4c1422,sandflow_lifetime.fxgraph,Folders/metadata/effects_1,161364,81692
-7d4164506202f677,subsurfacerefraction.fxgraph,Folders/metadata/effects_1,243056,102630

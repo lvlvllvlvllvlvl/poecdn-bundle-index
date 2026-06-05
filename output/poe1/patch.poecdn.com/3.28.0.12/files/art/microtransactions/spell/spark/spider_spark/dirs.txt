@@ -1,0 +1,3 @@
+explode
+spark_effect
+spider

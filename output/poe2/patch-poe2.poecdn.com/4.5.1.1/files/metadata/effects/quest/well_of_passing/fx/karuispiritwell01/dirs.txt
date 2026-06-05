@@ -1,0 +1,3 @@
+continuous
+n_fadein_01
+n_idle_01

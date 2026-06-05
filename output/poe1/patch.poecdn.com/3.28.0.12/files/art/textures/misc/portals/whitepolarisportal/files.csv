@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+60aac983c7096d56,core_whitec.mat,Tiny_8,31458352,5746
+eece9901cecca285,ring_loftc.mat,Tiny_8,31491664,1934
+33e61de4a036f199,whitepolarisportalc.mat,Tiny_8,31496958,9174
+9f0084f63e2db498,whitepolarisportal_thick_dxt1.dds,Art/Textures/Misc/portals/WhitePolarisPortal_1,0,349692
+2eb1a08763f48001,whitepolarisportal_thick_dxt1.dds.header,Tiny_8,31496118,840
+d412bf9fea302c43,whitepolarisportal_normal_dxt5.dds,Folders/art/textures/misc/portals/6/whitepolarisportal,0,699236
+ccc10a4983b7f0d0,whitepolarisportal_normal_dxt5.dds.header,Tiny_8,31495278,840
+9134b4a035520a7a,whitepolarisportal_glow_dxt1.dds,Folders/art/textures/misc/portals/C/whitepolarisportal,0,1398268
+9d7d82e87970536b,whitepolarisportal_glow_dxt1.dds.header,Tiny_8,31494438,840
+53593d2cd6656b34,whitepolarisportal_colour_dxt1.dds,Folders/art/textures/misc/portals/8/wildportal,22012,349692
+24eeb5150ce0f23d,whitepolarisportal_colour_dxt1.dds.header,Tiny_8,31493598,840
+7261bea7ca660304,whitepolarisportal_colour.dds,Folders/art/textures/misc/portals/8/wildportal,22012,349692
+946092c7e3c0624e,whitepolarisportal_colour.dds.header,Tiny_8,31493598,840

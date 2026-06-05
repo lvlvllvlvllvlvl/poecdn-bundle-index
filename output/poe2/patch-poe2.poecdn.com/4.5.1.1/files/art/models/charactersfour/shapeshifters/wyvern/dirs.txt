@@ -1,0 +1,14 @@
+animations
+animations/ascendancymartialartist
+animations/attack
+animations/blink
+animations/devour
+animations/flamebreath
+animations/groundstomp
+animations/rollingmagma
+animations/shapeshifting
+animations/swipe
+animations/wildbeast
+animations/wingblast
+textures
+textures/snappingturtle_wyvern

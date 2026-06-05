@@ -1,0 +1,217 @@
+hash,file,bundle,offset,size
+d11bfff3168ac6cd,templar_desk_specular_dxt5.dds,Folders/art/textures/doodads/act5/4/templar courts,0,349700
+570a70336948afea,templar_desk_specular_dxt5.dds.header,Tiny_7,62383705,1520
+9cb25332162ef192,templar_desk_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_4,699400,349700
+88e69ff7e0255d8d,templar_desk_normal_dxt5.dds.header,Tiny_7,87112161,1520
+5e1eab54fd2ae531,templar_desk_colorc.mat,Tiny_7,62381663,2042
+167a95639ab1e85c,templar_desk_color_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_10,874324,349700
+952e7239c3af0b6c,templar_desk_color_dxt5.dds.header,Tiny_7,62380143,1520
+aca139c1f0922e82,templar_desk_color_dxt1.dds,Art/Textures/Environment/Hideout/Thaumaturgy/Project,874324,174924
+2354ae9610a64d1a,templar_desk_color_dxt1.dds.header,Tiny_7,87108669,1520
+2cca00bfa896587f,templar_desk_color_bc1.dds,Art/Textures/Environment/Hideout/Thaumaturgy/Project,874324,174924
+c91c3b4173b3012f,templar_desk_color_bc1.dds.header,Tiny_7,87108669,1520
+ed796452cd440b50,templar_desksynthmuddle_colorc.mat,Tiny_7,62386745,3020
+db4dc6539c8ee52e,templar_desksynthmuddle_color.dds,Art/Textures/Doodads/Act5/Templar Courts_6,354114,11084
+99eaeb14a0ceb747,templar_desksynthmuddle_color.dds.header,Tiny_7,62385225,1520
+16e7e4eafa9b6ece,shakespeare_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_17,349700,349700
+4133bf19017ff3fe,shakespeare_normal_dxt5.dds.header,Tiny_7,62368089,1520
+c6c2ae4cfb7c2295,shakespearemarblec.mat,Tiny_7,62378263,1880
+99565c16531a468f,shakespearemarble_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_17,0,349700
+c713fb38f45a6214,shakespearemarble_colour_dxt5.dds.header,Tiny_7,62376743,1520
+ab152368f646cac6,shakespearebustgoldc.mat,Tiny_7,62374703,2040
+a69cba6cf01f2011,shakespearebustgold_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_16,699400,349700
+32ce3a2b6ac77b94,shakespearebustgold_colour_dxt5.dds.header,Tiny_7,62373183,1520
+50458e0fa4fe966d,shakespearebronzec.mat,Tiny_7,62371129,2054
+0ca250e6dbfa3ebe,shakespearebronze_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_16,349700,349700
+06be72044f0ebaa6,shakespearebronze_colour_dxt5.dds.header,Tiny_7,62369609,1520
+44d75e2adb57882a,royaltablec.mat,Tiny_7,62366257,1832
+b7d97ddedcbe0190,royaltable_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_16,0,349700
+9dbf0d179b15d46f,royaltable_normal_dxt5.dds.header,Tiny_7,62364737,1520
+9a483ece77c3f38c,royaltable_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_15,918700,349700
+70a9255582241f2a,royaltable_colour_dxt5.dds.header,Tiny_7,62363217,1520
+2f09a5bbe7ba06fc,royalchairc.mat,Tiny_7,62361465,1752
+b0cac023a93626ed,royalchair_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_21,0,349700
+480b28e628cf5075,royalchair_normal_dxt5.dds.header,Tiny_7,62359945,1520
+a654bf6a1dcc5bf9,royalchair_colour_dxt1.dds,Art/Textures/Doodads/Act5/Templar Courts_15,743776,174924
+c2b93eeca4ac6104,royalchair_colour_dxt1.dds.header,Tiny_7,62358425,1520
+3fd290773efbb6dd,plinthwhitemarblec.mat,Tiny_7,62355735,2690
+17aecdb4590d354d,plinthwhitemarble_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_15,656220,87556
+7186c69b8732d333,plinthwhitemarble_normal_dxt5.dds.header,Tiny_7,62354215,1520
+db74eee7acaa48b6,plinthwhitemarble_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_15,568664,87556
+cd914df0b89d0608,plinthwhitemarble_colour_dxt5.dds.header,Tiny_7,62352695,1520
+4ebca8498cb14f44,plinthwhitemarble_colour_bc7.dds,Art/Textures/Doodads/Act5/Templar Courts_15,568664,87556
+c38d0d64c973c92c,plinthwhitemarble_colour_bc7.dds.header,Tiny_7,62352695,1520
+df5bcb4da9158849,plinthwhitemarble_colour.dds,Art/Textures/Doodads/Act5/Templar Courts_15,524812,43852
+1ab580860beb68bb,plinthwhitemarble_colour.dds.header,Tiny_7,62351175,1520
+746d3f3718420d3a,plinthblackmarblec.mat,Tiny_7,62349247,1928
+fffc9030db6562a7,plinthblackmarble_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_15,437256,87556
+7088506fb6f91a42,plinthblackmarble_normal_dxt5.dds.header,Tiny_7,62347727,1520
+9cf1d2a0fb6556a3,plinthblackmarble_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_15,349700,87556
+cabab4b936db4947,plinthblackmarble_colour_dxt5.dds.header,Tiny_7,62346207,1520
+6647740f0b606c8f,pietabustc.mat,Tiny_7,62333941,1708
+6055d18270e20671,pietabust_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_15,0,349700
+d98506d479b16bd1,pietabust_normal_dxt5.dds.header,Tiny_7,62332421,1520
+397c736083a81af1,pietabust_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_14,699400,349700
+69267a4856816e11,pietabust_colour_dxt5.dds.header,Tiny_7,62330901,1520
+b0b543d367faec26,pietabustgold_specular_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_14,349700,349700
+b294a716aedb9b44,pietabustgold_specular_dxt5.dds.header,Tiny_7,62338689,1520
+25f575626fb5e3a2,pietabustgold_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_14,0,349700
+6dfe56022073f68a,pietabustgold_normal_dxt5.dds.header,Tiny_7,62337169,1520
+92871f2a1a95edcc,pietabustgold_colour.dds,Art/Textures/Doodads/Act5/Templar Courts_13,699400,174924
+1ba5203905b53d95,pietabustgold_colour.dds.header,Tiny_7,62335649,1520
+b083e1557f5281aa,pietabustgoldns.dds,Art/Textures/Doodads/Act5/Templar Courts_13,349700,349700
+cf864614aa3fb723,pietabustgoldns.dds.header,Tiny_7,62344687,1520
+574288deefb66dd1,pietabustgoldc.mat,Tiny_7,62340209,2024
+a6a6f171356fce23,pietabustgoldcns.mat,Tiny_7,62342233,2454
+5fe5445647a3f10a,mozartmarble_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_13,0,349700
+67d79c233d805432,mozartmarble_colour_dxt5.dds.header,Tiny_7,62327525,1520
+3a8134c7e94b7c0c,mozartmarblec.mat,Tiny_7,62329045,1856
+18b741e9ec16ca8a,mozartmarblecsmozartbustn.mat,Tiny_7,62329045,1856
+d36b9902c88228fb,mozartgold_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_12,699400,349700
+9a02f82d1fc5777a,mozartgold_colour_dxt5.dds.header,Tiny_7,62321843,1520
+326ec834f725f6c2,mozartgoldc.mat,Tiny_7,62323363,1976
+0d535a3cf80ad8ee,mozartgoldcns.mat,Tiny_7,62325339,2186
+f3aa540e1c504ced,mozartbust_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_12,349700,349700
+6abc5d49569e3d6f,mozartbust_normal_dxt5.dds.header,Tiny_7,62320323,1520
+2380f7ea9c740d4b,mozartbronzec.mat,Tiny_7,62318305,2018
+8874f80986eee279,mozartbronze_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_12,0,349700
+22f220da62d469b8,mozartbronze_colour_dxt5.dds.header,Tiny_7,62316785,1520
+f30ec47e88a84314,ladyjustice_normal_dxt5.dds,Folders/art/textures/doodads/act5/3/templar courts,0,349700
+b7bf66d3fff38f0e,ladyjustice_normal_dxt5.dds.header,Tiny_7,62211657,1520
+dbf340845a97e83e,ladyjusticewhitemarble_specularcolour.mat,Tiny_7,62305485,1154
+c9b1de8af68e8a2b,ladyjusticewhitemarble_specularcolour.dds,Folders/art/textures/doodads/act5/A/templar courts,0,349700
+f8d17c25e462cd2a,ladyjusticewhitemarble_specularcolour.dds.header,Tiny_7,62303965,1520
+75bd8580a1fbd18b,ladyjusticewhitemarble_normal_dxt5.dds,Folders/art/textures/doodads/act5/F/templar courts,349700,349700
+654bd397c1cdf4ea,ladyjusticewhitemarble_normal_dxt5.dds.header,Tiny_7,62218837,1520
+5aecbcc74a5080fe,ladyjusticewhitemarble_gloss.mat,Tiny_7,62302865,1100
+3bac559226c097dc,ladyjusticewhitemarble_gloss.dds,Art/Textures/Doodads/Act5/Templar Courts_7,174924,349700
+4cd7c689be5ce990,ladyjusticewhitemarble_gloss.dds.header,Tiny_7,62301345,1520
+d4799e89fac3d107,ladyjusticewhitemarble_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_11,524624,349700
+3d0fba079fe83ae1,ladyjusticewhitemarble_colour_dxt5.dds.header,Tiny_7,62299825,1520
+ab91fdd062a9d0a0,ladyjusticewhitemarble_colour_bc7.dds,Art/Textures/Doodads/Act5/Templar Courts_11,524624,349700
+a5278520eb912fcc,ladyjusticewhitemarble_colour_bc7.dds.header,Tiny_7,62299825,1520
+08ee3a4e81b3bb9c,ladyjusticewhitemarble_colour.dds,Art/Textures/Doodads/Act5/Templar Courts_7,874324,174924
+0eba6ff8fde99058,ladyjusticewhitemarble_colour.dds.header,Tiny_7,62298305,1520
+86eff050c4a1c13e,ladyjusticewhitemarblens.dds,Art/Textures/Doodads/Act5/Templar Courts_10,0,349700
+1a206f8d7529e800,ladyjusticewhitemarblens.dds.header,Tiny_7,62315265,1520
+e889e6074b0d1b39,ladyjusticewhitemarblec.mat,Tiny_7,62306639,4214
+cca33002a9946cc1,ladyjusticewhitemarblecns.mat,Tiny_7,62310853,4412
+e97a6d4bc0fffc76,ladyjusticeplinth_whitemarble_specularcolour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_10,524624,349700
+ff6d5702410c4c34,ladyjusticeplinth_whitemarble_specularcolour_dxt5.dds.header,Tiny_7,62285093,1520
+42104596b93b5dc1,ladyjusticeplinth_whitemarble_specularcolour.mat,Tiny_7,62286613,1196
+7fb4ca8cc89cd298,ladyjusticeplinth_whitemarble_specularcolour.dds,Art/Textures/Doodads/Act5/Templar Courts_10,524624,349700
+4098ebdaa2035d11,ladyjusticeplinth_whitemarble_specularcolour.dds.header,Tiny_7,62285093,1520
+ded6816b64ba7486,ladyjusticeplinth_whitemarble_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_4,0,349700
+363179dbb55b5cb4,ladyjusticeplinth_whitemarble_normal_dxt5.dds.header,Tiny_7,62245207,1520
+99040dd8ef11dda2,ladyjusticeplinth_whitemarble_gloss.mat,Tiny_7,62283951,1142
+3f9d7eda8acf9db6,ladyjusticeplinth_whitemarble_gloss.dds,Art/Textures/Doodads/Act5/Templar Courts_11,174924,349700
+a285cf3982459e12,ladyjusticeplinth_whitemarble_gloss.dds.header,Tiny_7,62282431,1520
+fccc2005acc05f67,ladyjusticeplinth_whitemarble_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_19,0,349700
+ba36cc444be70b05,ladyjusticeplinth_whitemarble_colour_dxt5.dds.header,Tiny_7,62280911,1520
+1c55a29a786bfb1d,ladyjusticeplinth_whitemarble_colour_bc7.dds,Art/Textures/Doodads/Act5/Templar Courts_19,0,349700
+67819f0284cc6608,ladyjusticeplinth_whitemarble_colour_bc7.dds.header,Tiny_7,62280911,1520
+09e36dd52925a93d,ladyjusticeplinth_whitemarble_colour.dds,Art/Textures/Doodads/Act5/Templar Courts_19,524624,174924
+9c6eafc6e6fdac7d,ladyjusticeplinth_whitemarble_colour.dds.header,Tiny_7,62279391,1520
+0b261349dedde402,ladyjusticeplinth_whitemarblens.dds,Folders/art/textures/doodads/act5/B/templar courts,0,349700
+13d1be59d1f8a7bc,ladyjusticeplinth_whitemarblens.dds.header,Tiny_7,62296785,1520
+358295b644359890,ladyjusticeplinth_whitemarblec.mat,Tiny_7,62287809,4382
+5d6e78dd810b4975,ladyjusticeplinth_whitemarblecns.mat,Tiny_7,62292191,4594
+798e347dc65f5014,ladyjusticeplinth_oldbronzec.mat,Tiny_7,62275523,3868
+7d6370098d371b97,ladyjusticeplinth_oldbronze_specular_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_4,349700,349700
+6e2c5ca932e51043,ladyjusticeplinth_oldbronze_specular_dxt5.dds.header,Tiny_7,62274003,1520
+9f9b727df9a61f2c,ladyjusticeplinth_oldbronze_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_8,1224024,349700
+334df3371e01b0f1,ladyjusticeplinth_oldbronze_colour_dxt5.dds.header,Tiny_7,62272483,1520
+7bd3e589f6cd653f,ladyjusticeplinth_oldbronze_colour_bc7.dds,Art/Textures/Doodads/Act5/Templar Courts_8,1224024,349700
+ac58d6e817ffe11e,ladyjusticeplinth_oldbronze_colour_bc7.dds.header,Tiny_7,62272483,1520
+59472b85eb9dd6d5,ladyjusticeplinth_oldbronze_colour.dds,Art/Textures/Doodads/Act5/Templar Courts_8,1049100,174924
+208092a0aee93bf8,ladyjusticeplinth_oldbronze_colour.dds.header,Tiny_7,62270963,1520
+1310691e3512496a,ladyjusticeplinth_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_8,699400,349700
+2ee69da9e45b2b15,ladyjusticeplinth_normal_dxt5.dds.header,Tiny_7,62269443,1520
+0be8aca979d5d8cf,ladyjusticeplinth_marblec.mat,Tiny_7,62265631,3812
+c53636c13035d5bb,ladyjusticeplinth_marble_specular_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_8,349700,349700
+c35713f95ea419c0,ladyjusticeplinth_marble_specular_dxt5.dds.header,Tiny_7,62264111,1520
+e4c2322cd2caa4db,ladyjusticeplinth_marble_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_8,0,349700
+08e3039c7317c2bd,ladyjusticeplinth_marble_colour_dxt5.dds.header,Tiny_7,62262591,1520
+b4e8d11fabfa7bb8,ladyjusticeplinth_marble_colour_bc7.dds,Art/Textures/Doodads/Act5/Templar Courts_8,0,349700
+e413f24344827397,ladyjusticeplinth_marble_colour_bc7.dds.header,Tiny_7,62262591,1520
+6e6c01dd0bc7c3ab,ladyjusticeplinth_marble_colour.dds,Art/Textures/Doodads/Act5/Templar Courts_19,349700,174924
+7719629c63420730,ladyjusticeplinth_marble_colour.dds.header,Tiny_7,62261071,1520
+40f89e3ec19ac55e,ladyjusticeplinth_bronzec.mat,Tiny_7,62258385,2686
+e08ba0a67a355bc1,ladyjusticeplinth_bronze_specular_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_5,174924,349700
+bb2fe32c100d7280,ladyjusticeplinth_bronze_specular_dxt5.dds.header,Tiny_7,62256865,1520
+b7683595494a4993,ladyjusticeplinth_bronze_colour_dxt1.dds,Art/Textures/Doodads/Act5/Templar Courts_11,0,174924
+64ce3cd25700d342,ladyjusticeplinth_bronze_colour_dxt1.dds.header,Tiny_7,62255345,1520
+44110b04556098be,ladyjusticeplinth_blackmarble_specularcolour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_7,524624,349700
+bd2952c35c8e9cdf,ladyjusticeplinth_blackmarble_specularcolour_dxt5.dds.header,Tiny_7,62246727,1520
+f2cebc9e859d8fe3,ladyjusticeplinth_blackmarble_specularcolour.mat,Tiny_7,62248247,1196
+d07d7919b2877979,ladyjusticeplinth_blackmarble_specularcolour.dds,Art/Textures/Doodads/Act5/Templar Courts_7,524624,349700
+b91a004346391dcf,ladyjusticeplinth_blackmarble_specularcolour.dds.header,Tiny_7,62246727,1520
+386ac1157ae5d352,ladyjusticeplinth_blackmarble_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_4,0,349700
+218e9c9588a17fc0,ladyjusticeplinth_blackmarble_normal_dxt5.dds.header,Tiny_7,62245207,1520
+f3825a2d86ef1d4e,ladyjusticeplinth_blackmarble_gloss.mat,Tiny_7,62244065,1142
+7ccfb1aeed75d4db,ladyjusticeplinth_blackmarble_gloss.dds,Art/Textures/Doodads/Act5/Templar Courts_6,0,349700
+eaf74bf60809294a,ladyjusticeplinth_blackmarble_gloss.dds.header,Tiny_7,62242545,1520
+e43a48bf171b900e,ladyjusticeplinth_blackmarble_colour_dxt5.dds,Folders/art/textures/doodads/act5/0/templar courts,0,349700
+4c11504b872fd9f2,ladyjusticeplinth_blackmarble_colour_dxt5.dds.header,Tiny_7,62241025,1520
+569d81d9e6fdaf87,ladyjusticeplinth_blackmarble_colour_bc7.dds,Folders/art/textures/doodads/act5/0/templar courts,0,349700
+38d3ff789c418dc6,ladyjusticeplinth_blackmarble_colour_bc7.dds.header,Tiny_7,62241025,1520
+47fc01d1ef9e513d,ladyjusticeplinth_blackmarble_colour.dds,Art/Textures/Doodads/Act5/Templar Courts_7,0,174924
+1f6beedfe3f43ddf,ladyjusticeplinth_blackmarble_colour.dds.header,Tiny_7,62239505,1520
+f134dfd9bd04a884,ladyjusticeplinth_blackmarblens.dds,Art/Textures/Doodads/Act5/Templar Courts_6,365198,349700
+5ba915607e7882d4,ladyjusticeplinth_blackmarblens.dds.header,Tiny_7,62253825,1520
+a3ab5e4bf0d38a5d,ladyjusticeplinth_blackmarblec.mat,Tiny_7,62249443,4382
+867fbbf2ff52af3d,ladyjusticeplinth_blackmarblecns.mat,Art/Textures/Doodads/Act5/Templar Courts_10,1224024,4596
+69532e0296774904,ladyjusticegoldc.mat,Tiny_7,62235707,3798
+90e85c880d58f259,ladyjusticegold_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_19,699548,349700
+2310e68ae764bbbc,ladyjusticegold_colour_dxt5.dds.header,Tiny_7,62234187,1520
+be7be3dde09ac7c1,ladyjusticegold_colour_bc7.dds,Art/Textures/Doodads/Act5/Templar Courts_19,699548,349700
+d3f0a41391cb5c89,ladyjusticegold_colour_bc7.dds.header,Tiny_7,62234187,1520
+c56beae21c03c3dc,ladyjusticegold_colour.dds,Folders/art/textures/doodads/act5/1/encampmentset,174948,174924
+403ac9a6e20107ec,ladyjusticegold_colour.dds.header,Tiny_7,62232667,1520
+50095efe7a724f34,ladyjusticebronzec.mat,Tiny_7,62230285,2382
+92121c382398a244,ladyjusticebronze_colour_dxt1.dds,Art/Textures/Doodads/Act5/Templar Courts_10,349700,174924
+ea3fb469498dcc09,ladyjusticebronze_colour_dxt1.dds.header,Tiny_7,62228765,1520
+8b9156ad7b661e23,ladyjusticeblackmarble_specularcolour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_6,714898,349700
+573484327c10249c,ladyjusticeblackmarble_specularcolour_dxt5.dds.header,Tiny_7,62220357,1520
+62fcae2892b02855,ladyjusticeblackmarble_specularcolour.mat,Tiny_7,62221877,1154
+b97fa960e4d7ffd1,ladyjusticeblackmarble_specularcolour.dds,Art/Textures/Doodads/Act5/Templar Courts_6,714898,349700
+6b16c76400a1300f,ladyjusticeblackmarble_specularcolour.dds.header,Tiny_7,62220357,1520
+8838bb42d2e1b60f,ladyjusticeblackmarble_normal_dxt5.dds,Folders/art/textures/doodads/act5/F/templar courts,349700,349700
+33ab9daedc2485c6,ladyjusticeblackmarble_normal_dxt5.dds.header,Tiny_7,62218837,1520
+815db8f44b3eea00,ladyjusticeblackmarble_gloss.mat,Tiny_7,62217737,1100
+351ffc6e3514cc10,ladyjusticeblackmarble_gloss.dds,Folders/art/textures/doodads/act5/1/templar courts,0,349700
+6444168296898a96,ladyjusticeblackmarble_gloss.dds.header,Tiny_7,62216217,1520
+92fc8d902c5024b4,ladyjusticeblackmarble_colour_dxt5.dds,Folders/art/textures/doodads/act5/F/templar courts,0,349700
+d49e47952ab118e1,ladyjusticeblackmarble_colour_dxt5.dds.header,Tiny_7,62214697,1520
+2ff8d038781b1645,ladyjusticeblackmarble_colour_bc7.dds,Folders/art/textures/doodads/act5/F/templar courts,0,349700
+2e2e7dced080d159,ladyjusticeblackmarble_colour_bc7.dds.header,Tiny_7,62214697,1520
+a7ce45772d75a59e,ladyjusticeblackmarble_colour.dds,Art/Textures/Doodads/Act5/Templar Courts_5,0,174924
+e02b4061778c20d5,ladyjusticeblackmarble_colour.dds.header,Tiny_7,62213177,1520
+ce524a7a24d95290,ladyjusticeblackmarblens.dds,Art/Textures/Doodads/Act5/Templar Courts_5,524624,349700
+65564ad66227579a,ladyjusticeblackmarblens.dds.header,Tiny_7,62227245,1520
+c1c2539d71d9dfd7,ladyjusticeblackmarblec.mat,Tiny_7,62223031,4214
+532972a98618f77b,ladyjusticeblackmarblecns.mat,Art/Textures/Doodads/Act5/Templar Courts_6,349700,4414
+e4077dce10ad4637,juryseatc.mat,Tiny_7,62209253,2404
+a32795dfdc0a4400,juryseat_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_3,0,1398276
+93662d05d72b308e,juryseat_normal_dxt5.dds.header,Tiny_7,62207733,1520
+87e11b97c48aab83,juryseat_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_2,0,1398276
+4064e8108ef9bfbb,juryseat_colour_dxt5.dds.header,Tiny_7,62206213,1520
+74e923de9bb44634,juryseat_colour_bc7.dds,Art/Textures/Doodads/Act5/Templar Courts_2,0,1398276
+3d4b23f8ec074e88,juryseat_colour_bc7.dds.header,Tiny_7,62206213,1520
+0924871436fab0d1,juryseat_colour.dds,Art/Textures/Doodads/Act5/Templar Courts_1,349700,699212
+700a2c3b8e275a1a,juryseat_colour.dds.header,Tiny_7,62204693,1520
+0015362e79b8db98,augustusbustc.mat,Tiny_7,62197595,1868
+d8add79375bee7c3,augustusbust_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_18,349700,349700
+02e6f36ddf4486f9,augustusbust_normal_dxt5.dds.header,Tiny_7,62196075,1520
+0b5987c0199377d4,augustusbust_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_18,0,349700
+d3ffb9688e1af167,augustusbust_colour_dxt5.dds.header,Tiny_7,62194555,1520
+b80a88a67ec4b00c,augustusbustgoldc.mat,Tiny_7,62202503,2190
+0ac134eefcc0f325,augustusbustgold_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts_1,0,349700
+e81e68789d45fe6a,augustusbustgold_normal_dxt5.dds.header,Tiny_7,62200983,1520
+f74320ad8acd857d,augustusbustgold_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts,699400,349700
+166cb8f046faf9dd,augustusbustgold_colour_dxt5.dds.header,Tiny_7,62199463,1520
+4a7057f76b130aa3,armchairc.mat,Tiny_7,62192735,1820
+2ee4be5405659e82,armchair_normal_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts,349700,349700
+43e61eddaf5482d8,armchair_normal_dxt5.dds.header,Tiny_7,62191215,1520
+ed899a333ed0efa2,armchair_colour_dxt5.dds,Art/Textures/Doodads/Act5/Templar Courts,0,349700
+d88c53366f44adb0,armchair_colour_dxt5.dds.header,Tiny_7,62189695,1520

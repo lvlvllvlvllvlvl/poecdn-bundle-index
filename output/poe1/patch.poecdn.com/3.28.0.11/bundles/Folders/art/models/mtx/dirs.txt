@@ -1,4 +1,0 @@
-beta_supporter_packs
-beta_supporter_packs/karuicraftingboat
-beta_supporter_packs/twilightwindowportal
-beta_supporter_packs/ultimatumtracker

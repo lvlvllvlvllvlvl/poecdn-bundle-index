@@ -1,9 +1,0 @@
-rune_center
-rune_extension_01
-rune_extension_02
-rune_extension_03
-rune_extension_04
-rune_main
-rune_main_powerful
-rune_main_up
-surge

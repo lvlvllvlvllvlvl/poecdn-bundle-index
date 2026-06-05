@@ -1,0 +1,4 @@
+bow
+wildbreachbossbow
+wildbreachbossmaul
+wildbreachbossrobe

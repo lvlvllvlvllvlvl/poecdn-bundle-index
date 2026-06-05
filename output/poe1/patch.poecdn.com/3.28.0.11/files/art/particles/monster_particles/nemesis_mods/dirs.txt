@@ -1,8 +1,0 @@
-cold_retaliate_beam
-fire_mod
-fire_mod/charge_up
-fire_mod/explosion
-fire_mod/fire_epk
-fire_mod/fire_projectile
-fire_mod/rune_epk
-phys_retaliate_projectiles

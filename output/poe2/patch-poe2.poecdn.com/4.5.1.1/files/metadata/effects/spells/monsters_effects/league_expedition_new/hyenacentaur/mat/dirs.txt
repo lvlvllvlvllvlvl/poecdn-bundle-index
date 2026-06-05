@@ -1,0 +1,3 @@
+act_windgather
+spear_impact
+spearprojectile

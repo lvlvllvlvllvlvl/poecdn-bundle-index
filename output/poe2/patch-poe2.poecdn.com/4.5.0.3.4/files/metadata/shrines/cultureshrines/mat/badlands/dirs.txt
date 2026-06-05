@@ -1,5 +1,0 @@
-activate_beam
-eyes_glow
-ground_fire
-ground_skulls
-monster_affected

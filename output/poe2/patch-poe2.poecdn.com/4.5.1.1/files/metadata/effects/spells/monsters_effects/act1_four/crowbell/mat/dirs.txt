@@ -1,0 +1,17 @@
+bellattack
+bellattackcascade
+bellultimate
+calm
+destruction
+destruction/bellframe
+earthquake
+earthquake/outercircle
+enraged_leapslam
+footsteps
+groundslam_01
+groundslam_02
+impactlanding
+impactstone
+leapslam_01
+meleetrailenraged
+scream

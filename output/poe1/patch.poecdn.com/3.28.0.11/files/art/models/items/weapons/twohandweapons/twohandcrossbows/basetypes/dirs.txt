@@ -1,3 +1,0 @@
-crossbow01
-crossbow02
-textures

@@ -1,3 +1,0 @@
-automaton
-celestial
-stygian

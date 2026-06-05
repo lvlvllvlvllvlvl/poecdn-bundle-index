@@ -1,7 +1,0 @@
-bridgedevice
-bridgejoin
-bridgeplate
-craftingdevice
-map device
-portaldevice
-synthbridge

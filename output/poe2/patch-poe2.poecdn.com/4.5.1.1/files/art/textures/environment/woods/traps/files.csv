@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+85040c7a5123e164,huntinggroundtrapmidc.mat,Tiny.V0,43592264,2548
+3b66867c290c59ab,huntinggroundtrapmid_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/woods/AC55DCB91E0F272C.huntinggroundtrap_mid.ao.2,0,5592580
+87e22f77873cf0eb,huntinggroundtrapmid_normal_dxt5.dds.header,Tiny.V4,43641193,1520
+add5ad5426315430,huntinggroundtrapmid_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/woods/AC55DCB91E0F272C.huntinggroundtrap_mid.ao.1,0,5592580
+0c03784e1feb4546,huntinggroundtrapmid_colour_bc7.dds.header,Tiny.V2,43111524,1520
+097a742c789fa938,huntinggroundtrapmid_colour.dds,Streaming/Content/metadata/terrain/doodads/woods/AC55DCB91E0F272C.huntinggroundtrap_mid.ao,73082,2796364
+4dfa8f7ae39fd3cd,huntinggroundtrapmid_colour.dds.header,Tiny.V2,43110004,1520
+b233fff47d4eb2e1,huntinggroundtrapsmlc.mat,Tiny.V4,43642713,2548
+acd3cfab8d0a0a26,huntinggroundtrapsml_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/woods/AC55DCB91E0F272C.huntinggroundtrap_sml.ao.2,0,5592580
+4dbce8d5564fbfed,huntinggroundtrapsml_normal_dxt5.dds.header,Tiny.VF,43364522,1520
+1eef3bf7bef5b8c1,huntinggroundtrapsml_colour_bc7.dds,Streaming/Content/metadata/terrain/doodads/woods/AC55DCB91E0F272C.huntinggroundtrap_sml.ao.1,0,5592580
+1e74863cbe53e3ac,huntinggroundtrapsml_colour_bc7.dds.header,Tiny.V5,42940320,1520
+b6192b8fcd819294,huntinggroundtrapsml_colour.dds,Streaming/Content/metadata/terrain/doodads/woods/AC55DCB91E0F272C.huntinggroundtrap_sml.ao,11186,2796364
+9d99346367d104b7,huntinggroundtrapsml_colour.dds.header,Tiny.V3,42638411,1520

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+3274612bc6a4e750,rig.amd,Tiny_3,12987877,1704
+c3fe44ee8f4e5703,rig.ast,Art/Models/NPC/Einhar,820848,679794
+37b7eda07aa2763e,einhar.sm,Tiny_3,12987283,594
+6d2481ef7f55c9c2,einhar.fmt,Art/Models/NPC/Einhar,607477,213371
+2196eb55cb9572bc,einhar.fmt.header,Tiny_3,12987134,149
+92df488314079da9,crossbow.fmt,Art/Models/NPC/Einhar,516222,91255
+3ca7d245999ffe3f,crossbow.fmt.header,Tiny_3,12986975,159
+4b9937b1f4d081e0,armour_einhar_8e303521.smd,Art/Models/NPC/Einhar,0,516222
+020565ec7367c97f,armour_einhar_8e303521.smd.header,Tiny_3,12982931,4044

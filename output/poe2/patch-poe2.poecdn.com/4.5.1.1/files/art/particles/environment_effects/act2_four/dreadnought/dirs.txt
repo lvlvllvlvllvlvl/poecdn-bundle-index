@@ -1,0 +1,5 @@
+g2_12_1
+g2_12_1/mb
+g2_12_1/mb/bodypile_fire
+g2_12_1/mb/brazier_fire
+g2_12_1/textures

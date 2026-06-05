@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+83ee13a006a9feb8,explode_pass_1.mat,Tiny_D,270337280,25756
+5b38c81432353612,oomph_blur_r.mat,Tiny_D,270492440,15194
+89b12162f24ea724,shattersparks_r.mat,Tiny_D,270507634,25398
+64be4900c44e001e,shattersparks_u.mat,Tiny_D,270533032,19528
+a6f32849d380ae0f,impact_flametufts_r.mat,Tiny_D,270427348,52524
+11cc45e254403a39,impact_flametufts_u.mat,Tiny_D,270479872,12568
+514a3c0975156588,flame_01b_r.mat,Tiny_D,270363036,59578
+8e4430d6cd45bb37,flame_01b_u.mat,Tiny_D,270422614,4734
+694548c4aef764c9,bnpnt_emit_u.mat,Tiny_D,487161220,774
+c63f6502a4ce1366,burst_flame_r.mat,Tiny_D,270264886,72394
+164bcdc59b9eea9b,blast_core_r.mat,Tiny_D,270098252,27102
+ebe6dde2bb44abb0,blast_oomphring_r.mat,Tiny_D,270125354,51432
+c3e9017ac1d88cac,blast_shimmerring_r.mat,Tiny_D,270176786,24424
+0ea6a46a2c3d0ce1,blast_sphere_r.mat,Tiny_D,270201210,63676
+9e8120361521b053,blast_sphere_u.mat,Tiny_11,127344428,346

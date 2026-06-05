@@ -1,3 +1,0 @@
-sin
-sin/sin_symbol
-sin/sin_symbol/effects

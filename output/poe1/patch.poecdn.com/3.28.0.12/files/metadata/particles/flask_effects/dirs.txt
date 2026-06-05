@@ -1,0 +1,15 @@
+aquamarine
+armour
+bismuth
+curse_immune
+evasion
+gold
+gold/on_use
+health
+lion_roar
+mercury
+onslaught
+sprint
+stibnite
+stibnite/on_use
+stone

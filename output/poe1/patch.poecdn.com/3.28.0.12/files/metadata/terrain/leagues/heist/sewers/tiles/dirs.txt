@@ -1,0 +1,10 @@
+doors
+doors/clicktoopen
+doors/emergeonalarm
+doors/npc_strengthdestruction
+doors/npccatburglar
+doors/npcengineerdoor
+doors/npcexplosivedoor
+doors/npcinfiltration
+doors/npcstrengthdoor
+doors/vault

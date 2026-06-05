@@ -1,4 +1,0 @@
-beast
-beast/mb
-beast/mb/fmts
-beast/textures

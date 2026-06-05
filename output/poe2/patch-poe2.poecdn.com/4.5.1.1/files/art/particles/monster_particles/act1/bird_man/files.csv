@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+087b9d4ffeccff50,fleshpartsnbodypartsbloods.dds,Streaming/Content/metadata/effects/spells/monsters_effects/CDEE4CF934E4086A.8A79B8A40AF81C9E.bird_bloodball_mortar.ao,699212,1398276
+1d4202deb1fa72c2,fleshpartsnbodypartsbloods.dds.header,Tiny.VF,36018419,1520
+5a7a60d70ee94b82,bodypartsbloodcsfleshpartsn.mat,Tiny.V2,35883496,2164
+1d114fa7d436a4f0,bodypartsblood_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/CDEE4CF934E4086A.8A79B8A40AF81C9E.bird_bloodball_mortar.ao,0,699212
+88ea01c7e64ed1f5,bodypartsblood_colour.dds.header,Tiny.VA,36111704,1520
+cd995a84a0a02b35,gibcns.mat,Tiny.VD,36074953,2430
+a9eec764a19a2f68,gibns.dds,Streaming/Content/metadata/effects/spells/monsters_effects/144F377049E8E0CE.3CF1E62B6A109506.gore_mortar.ao,17390,1398276
+681b345ae8f46e63,gibns.dds.header,Tiny.VC,36232833,1520
+f8fc5b35a02ec645,gib_colour.dds,Streaming/Content/metadata/effects/spells/monsters_effects/DA5155BE1CBF9800.E5C007A2333F6E8D.bonemortar_attach.ao,21300,699212
+a86ef5c0e865266b,gib_colour.dds.header,Tiny.V0,36198979,1520

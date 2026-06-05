@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+3580c9a52c6ba673,y_particle_64.mat,Tiny_6,49370174,2320
+ac29517e0584e2de,y_particle_64.dds,Art/particles/mirage_archer/appear_1,87556,5636
+3236c4e98efdce58,y_particle_64.dds.header,Tiny_6,49382602,1520
+49952c64e59975b8,shockwave_ring.mat,Tiny_6,49367588,2586
+ae5762c6d5879311,shockwave_ring.dds,Art/particles/mirage_archer/appear_1,0,87556
+fefef28f6f7ac6b3,shockwave_ring.dds.header,Tiny_6,49378478,1520
+3e35a0465acd86bb,shockwave.mat,Tiny_6,49365170,2418
+b542bcd19130284f,shockwave.dds,Art/particles/environment_effects/chest_3,846240,87556
+27ff2bbb19677680,shockwave.dds.header,Tiny_7,40014926,1520
+0d42364a7beaab1b,poisen_cloud_sub.mat,Tiny_6,49362828,2342
+5d2b896350f441ea,poisen_cloud_sub.dds,Art/particles/mirage_archer/appear,0,87556
+cbce4fcdca7d3175,poisen_cloud_sub.dds.header,Tiny_6,49361308,1520

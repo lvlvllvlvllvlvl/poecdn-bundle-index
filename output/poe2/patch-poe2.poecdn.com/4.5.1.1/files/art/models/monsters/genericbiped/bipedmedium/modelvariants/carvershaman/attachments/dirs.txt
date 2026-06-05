@@ -1,0 +1,5 @@
+backattachment
+helmet
+skirt
+torch
+weapon

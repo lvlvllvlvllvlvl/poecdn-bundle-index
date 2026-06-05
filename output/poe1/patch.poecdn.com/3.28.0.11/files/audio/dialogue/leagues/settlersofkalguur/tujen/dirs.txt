@@ -1,4 +1,0 @@
-tujen
-tujen_glyph
-tujen_greeting
-tujen_wild

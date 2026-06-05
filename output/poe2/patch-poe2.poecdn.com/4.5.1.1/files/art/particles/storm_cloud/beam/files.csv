@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+54b18ee19faf2a26,blink_spiral2.mat,Tiny.VD,41711617,2816
+e569468fed9f4b6a,trail_main.mat,Tiny.V7,41406913,1850
+8d24b031ea9054c9,trail_main_dxt5.dds,Streaming/Content/metadata/particles/detonate_dead_v2/bloodground.pet,2230644,43876
+63d616002a09a0d2,trail_main_dxt5.dds.header,Tiny.VD,41714433,840
+88f99c6fac896cd0,lightning_trail_at.mat,Tiny.VA,41602170,3950
+d6311e99b18ba3bc,lightning_trail_at_dxt5.dds,Streaming/Content/metadata/particles/detonate_dead_v2/bloodground.pet,1531344,699300
+4ca7085ac7646df3,lightning_trail_at_dxt5.dds.header,Tiny.VE,38863276,344
+53a35d703caca5b6,spark1.mat,Tiny.VB,41748301,2136
+fdeabdf1ed5adec9,static02_7x7.mat,Tiny.V4,41757085,1548
+7cecee3bee5bea71,static02_7x7_dxt5.dds,Streaming/Content/metadata/particles/detonate_dead_v2/bloodground.pet,133068,1398276
+ec8eed3dd7e96716,static02_7x7_dxt5.dds.header,Tiny.V3,4952043,1520
+22a2486b628bee08,flash.mat,Tiny.V6,41623925,1404
+258ae762ef8c2f39,flash_dxt5.dds,Streaming/Content/metadata/particles/detonate_dead_v2/bloodground.pet,111048,22020
+6b25a14fadfccdac,flash_dxt5.dds.header,Tiny.VE,37412655,1520

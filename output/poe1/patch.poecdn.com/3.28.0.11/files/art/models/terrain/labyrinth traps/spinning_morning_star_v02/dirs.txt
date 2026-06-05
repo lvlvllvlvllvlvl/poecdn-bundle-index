@@ -1,7 +1,0 @@
-corner_section
-corner_section2
-quadcorner_section
-quadstraight_section
-straight_section
-tricorner_section
-tristraight_section

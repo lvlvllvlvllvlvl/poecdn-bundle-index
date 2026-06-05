@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+56f79a3a0ec167fa,atlantisdeepwaterportalc.mat,Art/Models/Portals/AtlantisDeepwater/textures,0,4504
+5b1f5e833af705e7,atlantisdeepwaterportal_normal_dxt5.dds,Art/Models/Portals/AtlantisDeepwater/textures_5,0,1398276
+427d6b5725c3a2f2,atlantisdeepwaterportal_normal_dxt5.dds.header,Tiny_3,21257518,1520
+ccad9d831ce3a537,atlantisdeepwaterportal_glow_dxt5.dds,Art/Models/Portals/AtlantisDeepwater/textures_4,0,1398276
+0d5f3fc8849d3342,atlantisdeepwaterportal_glow_dxt5.dds.header,Tiny_3,21255998,1520
+60e1653ce1aa3ab5,atlantisdeepwaterportal_fxc.mat,Tiny_3,21252382,3616
+f2473e302be0d1c9,atlantisdeepwaterportal_fx_normal_dxt5.dds,Art/Models/Portals/AtlantisDeepwater/textures_3,0,11184996
+0a04942bf20e023d,atlantisdeepwaterportal_fx_normal_dxt5.dds.header,Tiny_3,21251542,840
+415515de9bea36f0,atlantisdeepwaterportal_fx_colour_dxt5.dds,Art/Models/Portals/AtlantisDeepwater/textures_2,0,11184996
+05924aa5cea06b98,atlantisdeepwaterportal_fx_colour_dxt5.dds.header,Tiny_3,21250702,840
+d623b6c8bbbc92d8,atlantisdeepwaterportal_colour_dxt5.dds,Art/Models/Portals/AtlantisDeepwater/textures_1,0,1398276
+68bdf6b4b743db60,atlantisdeepwaterportal_colour_dxt5.dds.header,Tiny_3,21249182,1520
+fb2c36b45db1c67b,atlantisdeepwaterportalfx_height_uncompressed.dds,Art/Models/Portals/AtlantisDeepwater/textures,4504,11184960
+efffdaeaaf4ce89c,atlantisdeepwaterportalfx_height_uncompressed.dds.header,Tiny_3,21259038,840

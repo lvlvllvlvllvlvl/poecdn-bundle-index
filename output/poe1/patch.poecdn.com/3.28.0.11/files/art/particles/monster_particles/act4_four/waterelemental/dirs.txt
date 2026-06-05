@@ -1,6 +1,0 @@
-mb
-mb/water_geyser
-mb/water_geyser_explosion
-textures
-textures/water_geyser
-textures/water_geyser_explosion

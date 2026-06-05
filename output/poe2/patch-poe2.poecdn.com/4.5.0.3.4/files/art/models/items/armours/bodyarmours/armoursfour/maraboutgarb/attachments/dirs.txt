@@ -1,9 +1,0 @@
-female
-female/belt
-female/sash
-female/skirt
-male
-male/belt
-male/sash
-male/skirt
-male/str_sash

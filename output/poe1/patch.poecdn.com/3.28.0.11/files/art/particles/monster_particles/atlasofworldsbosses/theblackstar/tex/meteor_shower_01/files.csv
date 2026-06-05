@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-55a179e554f41945,bs_c_flares.mat,Tiny_6,84780441,2300
-644af5877ccd260f,wind_02.mat,Tiny_6,84791705,3542
-c5f56cc0c07ea3ac,wind_trail.mat,Tiny_6,84795247,2560
-9604e569f8a613b6,smoke_trail.mat,Tiny_6,84782741,4730
-40dd09c4d98643f8,snow_prtcls_2x2.mat,Tiny_6,84787471,1716
-b2d954656815dc68,sonicboom.mat,Tiny_6,84789187,998
-52ab3d8a0a975d5c,sonicboom_tex_dxt5.dds,Folders/art/particles/monster_particles/act2,590904,87556
-4dcb33394e5ec675,sonicboom_tex_dxt5.dds.header,Tiny_6,84790185,1520

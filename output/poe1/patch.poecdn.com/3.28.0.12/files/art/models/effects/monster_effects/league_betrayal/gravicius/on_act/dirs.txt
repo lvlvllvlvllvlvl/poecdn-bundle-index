@@ -1,0 +1,6 @@
+attack_01
+attack_02
+combo
+death_01
+death_02
+spellcast

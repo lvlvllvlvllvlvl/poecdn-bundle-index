@@ -1,4 +1,0 @@
-darkwood_trees
-darkwood_trees/horseman
-darkwood_trees/huntsman
-darkwood_trees/huntsman/mb

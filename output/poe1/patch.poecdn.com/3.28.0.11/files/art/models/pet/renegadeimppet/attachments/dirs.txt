@@ -1,6 +1,0 @@
-currency
-l_thigh
-r_earring
-robe
-voodooimppet
-voodooimppet/voodooimpscrolls

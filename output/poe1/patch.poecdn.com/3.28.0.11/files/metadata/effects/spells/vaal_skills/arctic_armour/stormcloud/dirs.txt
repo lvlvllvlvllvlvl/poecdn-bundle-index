@@ -1,6 +1,0 @@
-ao
-epk
-pet
-pet/buff
-pet/prison
-pet/stormcloud

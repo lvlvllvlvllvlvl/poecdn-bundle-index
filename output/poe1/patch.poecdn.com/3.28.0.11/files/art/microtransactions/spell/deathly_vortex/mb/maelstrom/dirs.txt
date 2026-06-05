@@ -1,3 +1,0 @@
-animations
-animations/maelstrom
-animations/plight

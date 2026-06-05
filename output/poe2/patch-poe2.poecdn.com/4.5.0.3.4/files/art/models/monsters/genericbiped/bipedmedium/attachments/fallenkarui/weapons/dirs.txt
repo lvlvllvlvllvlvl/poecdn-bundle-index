@@ -1,3 +1,0 @@
-bow
-bow/animations
-bow/animations/female

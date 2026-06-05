@@ -1,0 +1,5 @@
+attachments
+attachments/belt
+attachments/chest
+attachments/skirt
+textures

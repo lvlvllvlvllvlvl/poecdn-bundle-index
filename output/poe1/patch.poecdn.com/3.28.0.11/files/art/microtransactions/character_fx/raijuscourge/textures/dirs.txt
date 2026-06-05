@@ -1,4 +1,0 @@
-bodyfx
-charged
-lightning_trail
-passive_lightning

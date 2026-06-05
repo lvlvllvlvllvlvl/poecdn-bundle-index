@@ -1,0 +1,4 @@
+expire
+explode
+growth
+idle

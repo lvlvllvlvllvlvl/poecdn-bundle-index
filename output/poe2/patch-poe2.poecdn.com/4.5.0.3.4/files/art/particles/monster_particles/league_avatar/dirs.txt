@@ -1,9 +1,0 @@
-avatarbuffs
-beam
-flameblast
-flameblast/circle
-flameblast/circle/idle
-groundfire
-mortar
-ri_fire
-summons

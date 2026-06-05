@@ -1,4 +1,0 @@
-mb
-mb/fire
-mb/groundsmoke
-mb/karui_energy

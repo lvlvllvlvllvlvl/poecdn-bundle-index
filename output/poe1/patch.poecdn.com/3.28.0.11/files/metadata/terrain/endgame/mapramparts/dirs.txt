@@ -1,6 +1,0 @@
-customtiles
-graphs
-groundtypes
-rooms
-rooms/fills
-rooms/unique

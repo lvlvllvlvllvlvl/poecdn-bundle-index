@@ -1,8 +1,0 @@
-Capes
-body
-body/Microtransactions
-boots
-glove
-helmet
-quiver
-shields

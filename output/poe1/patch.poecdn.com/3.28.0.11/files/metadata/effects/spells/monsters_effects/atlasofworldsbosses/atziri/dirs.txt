@@ -1,6 +1,0 @@
-fx
-fx/portal
-graphs
-mat
-mat/portal
-mat/portal_tri

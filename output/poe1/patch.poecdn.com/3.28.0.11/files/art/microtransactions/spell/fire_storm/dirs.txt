@@ -1,8 +1,0 @@
-stygian
-stygian/meteor
-stygian/textures
-stygian/textures/extra_fire
-vaal
-vaal/mb
-vaal/tex
-vaal/tex/pet

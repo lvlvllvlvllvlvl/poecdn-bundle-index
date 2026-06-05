@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+418917fd57c97436,darkness.dds,Streaming/Content/metadata/effects/spells/482160499FC3A8AD.lightninghurricane.ot,114078,22020
+fb6535815d539445,darkness.dds.header,Tiny.VA,40273784,1520
+10e1569ad71f8722,groundc.mat,Tiny.V5,39645702,5344
+87bf6975f7f81e5b,ground.dds,Streaming/Content/metadata/effects/spells/482160499FC3A8AD.lightninghurricane.ot,136098,22020
+2c855fd3ee36e9db,ground.dds.header,Tiny.V3,39403615,1520
+6888a3178da00c15,corec.mat,Tiny.V6,40097281,6812
+c040b5a10f103fac,core.dds,Streaming/Content/metadata/effects/spells/482160499FC3A8AD.lightninghurricane.ot,92058,22020
+b921029dd40772ba,core.dds.header,Tiny.V0,39701908,1520
+f5287a24c9da93c2,lightning_ground.dds,Streaming/Content/metadata/effects/spells/482160499FC3A8AD.lightninghurricane.ot,158118,22020
+b7b99127508cb25b,lightning_ground.dds.header,Tiny.VE,34424991,1520
+6d1a6fee20cec12d,lightning_stroke.dds,Streaming/Content/metadata/effects/spells/482160499FC3A8AD.lightninghurricane.ot,180138,22020
+a3b44c1cc1136a72,lightning_stroke.dds.header,Tiny.VF,39396716,1520
+dea32265d6358ace,strokec.mat,Tiny.V4,40234986,6490
+8afaaa3764bfe6bd,stroke.dds,Streaming/Content/metadata/effects/spells/482160499FC3A8AD.lightninghurricane.ot,202158,22020
+c4e4591817b820aa,stroke.dds.header,Tiny.VE,39720466,1520

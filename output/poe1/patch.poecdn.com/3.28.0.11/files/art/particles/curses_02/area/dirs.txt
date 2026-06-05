@@ -1,5 +1,0 @@
-curse_runes
-doom
-doom_runes
-extra_runes
-viceous_hex

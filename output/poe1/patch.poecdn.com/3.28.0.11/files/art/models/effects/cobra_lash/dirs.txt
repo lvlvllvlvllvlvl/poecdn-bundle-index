@@ -1,3 +1,0 @@
-cobra_cast
-cobra_cast/claw
-cobra_cast/dagger

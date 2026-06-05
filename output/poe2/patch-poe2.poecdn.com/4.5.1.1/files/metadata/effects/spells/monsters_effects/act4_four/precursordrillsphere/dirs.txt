@@ -1,0 +1,9 @@
+epk
+fx
+fx/basic_attacks
+fx/onact_revive
+fx/spark_of_life
+mat
+mat/basic_attacks
+mat/onact_revive
+mat/spark_of_life

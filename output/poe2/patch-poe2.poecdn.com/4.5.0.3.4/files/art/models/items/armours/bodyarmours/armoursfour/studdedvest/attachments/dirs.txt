@@ -1,8 +1,0 @@
-f
-f/cloak
-f/shirtattachment
-f/shoulderpad
-m
-m/cloak
-m/shirtattachment
-m/shoulderpad

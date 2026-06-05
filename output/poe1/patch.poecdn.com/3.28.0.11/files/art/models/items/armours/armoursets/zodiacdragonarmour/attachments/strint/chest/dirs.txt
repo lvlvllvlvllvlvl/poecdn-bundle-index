@@ -1,4 +1,0 @@
-necklace
-shoulderpads
-shoulderpads/leftshoulderpad
-shoulderpads/rightshoulderpad

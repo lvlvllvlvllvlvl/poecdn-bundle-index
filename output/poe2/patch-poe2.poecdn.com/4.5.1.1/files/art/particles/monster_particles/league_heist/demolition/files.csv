@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+5c4f1e2a6ab699ac,geodite_flash.mat,Tiny.V0,40061434,1362
+8f9dc2ec470930a9,sparkling.mat,Tiny.V5,39303622,1156
+d0bfba39db528393,explosiona_fnt_8x8.mat,Tiny.V2,39748465,3818
+9eb3556d3a6fcb82,explosionb_top_8x8.mat,Tiny.V9,40305442,3816
+530e7233d7ff12f5,lava_dots.mat,Tiny.V1,38213197,2128
+b05a3a05e54fac48,lava_dots.dds,Streaming/Content/metadata/effects/spells/monsters_effects/5A93FCB72819A04B.B75A593920E20DCE.mortar_mid.pet,1660756,349700
+7362606b4f2a805d,lava_dots.dds.header,Tiny.V8,39332393,1520
+6d58388be010a957,flare_mult.mat,Tiny.V2,39886793,3676
+6c23d4620e50794c,fireball_smoke_explosion.mat,Tiny.VB,40072910,2662
+7f9a7fdf42278557,fireball_smoke_explosion.dds,Streaming/Content/metadata/particles/monster_effects/league_heist/C9289DEA2F08C2CB.B5FF36FA0E50A954.front.pet,1115520,87556
+4c7e8ceb9f51625e,fireball_smoke_explosion.dds.header,Tiny.VE,40850817,1520
+ddac7e41b080252c,fire_bits_2x2.mat,Tiny.V0,40000590,3814
+92b0c36cb9aea9fb,fire_bits_2x2_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/876771283BF69E05.D1AC74E5AECBBE16.weapon_slash_ice.trl,719421,349700
+b747d5ff3327e80d,fire_bits_2x2_dxt5.dds.header,Tiny.V9,40309258,1520

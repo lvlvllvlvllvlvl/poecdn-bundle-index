@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+6a197f58b78a51f6,entrance1.arm,Tiny.V2.1,213761602,1352
+11a6223a48b5e91c,mission_01.arm,Tiny.VD.1,210081583,630
+e7744427858af92f,willow.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4285668,74578
+aed9b6b18af18c82,no_boss_01.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4260964,24704
+0fe3f673d2ee9cc5,checkpoint_ledge_st_01.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4256502,4462
+8acf327681e34d31,checkpoint_ledge_cc_01.arm,Tiny.VE.1,208887388,2370
+92b98461b9d86adc,checkpoint_ledge_cv_01.arm,Content/data/balance/worldareas/expeditionsubarea_siren.vworld,4250774,5728
+0d8f7c0a07af29a6,checkpoint_cliff_st_02.arm,Tiny.VE.1,208884658,2730
+468c5902e66dce51,checkpoint_cliff_cc_02.arm,Tiny.VD.1,210079597,1986
+8f8f590891524bfd,checkpoint_cliff_cv_02.arm,Tiny.V6.1,209130217,3204
+b3bb4753bca491b4,forced_rare_01.arm,Tiny.V3.1,211442168,3006
+bb8bf9bc52fc96cb,forced_rare_02.arm,Tiny.VE.1,208889758,2802
+175d3d28f21f7374,forced_rare_03.arm,Tiny.VE.1,208892560,3106

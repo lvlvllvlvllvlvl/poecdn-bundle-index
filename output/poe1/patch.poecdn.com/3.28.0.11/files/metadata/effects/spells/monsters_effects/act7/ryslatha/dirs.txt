@@ -1,5 +1,0 @@
-burrow
-poison_flamethrower
-poison_flamethrower/impact
-powerslide
-spit_parasite

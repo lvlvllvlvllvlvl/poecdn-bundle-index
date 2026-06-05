@@ -1,4 +1,0 @@
-mb
-mb/coin_pickup
-textures
-textures/coin_pickup

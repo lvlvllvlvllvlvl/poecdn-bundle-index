@@ -1,5 +1,0 @@
-attachments
-attachments/robe
-attachments/robe/attachment
-fx
-textures

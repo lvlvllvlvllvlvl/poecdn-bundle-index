@@ -1,3 +1,0 @@
-cold
-grd_fire
-lightning_beam

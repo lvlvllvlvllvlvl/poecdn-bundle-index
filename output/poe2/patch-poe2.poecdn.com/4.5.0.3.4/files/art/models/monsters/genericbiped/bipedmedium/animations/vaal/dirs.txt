@@ -1,7 +1,0 @@
-bow
-claw
-forgemaster
-sergeant
-sergeant/axe_axe
-spear
-trapper

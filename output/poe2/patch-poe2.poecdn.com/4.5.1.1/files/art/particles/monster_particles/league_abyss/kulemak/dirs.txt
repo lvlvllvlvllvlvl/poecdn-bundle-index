@@ -1,0 +1,7 @@
+mb
+mb/mega_beam
+mb/minion_spawnbeam
+mb/spire_mine_beam
+mb/static_souls
+mb/volatile
+textures

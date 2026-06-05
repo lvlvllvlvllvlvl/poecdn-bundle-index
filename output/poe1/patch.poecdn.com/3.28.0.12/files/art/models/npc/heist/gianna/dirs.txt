@@ -1,0 +1,5 @@
+attachments
+attachments/belt
+attachments/hood
+attachments/l_shoulderpad
+attachments/r_shoulderpad

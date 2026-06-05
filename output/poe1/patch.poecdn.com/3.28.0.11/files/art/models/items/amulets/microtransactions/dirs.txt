@@ -1,7 +1,0 @@
-carnageheart
-carnageheart/attachments
-carnageheart/textures
-gravestoneamulet
-gravestoneamulet/attachments
-gravestoneamulet/gravestones
-gravestoneamulet/textures

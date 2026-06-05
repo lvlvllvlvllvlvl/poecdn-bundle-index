@@ -1,4 +1,0 @@
-projectile
-projectile_impact
-siphon_surge
-textures

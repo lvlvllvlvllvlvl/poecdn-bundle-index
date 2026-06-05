@@ -1,8 +1,0 @@
-effects
-effects/ground_slam_essence
-effects/ground_slam_essence/spines
-effects/ground_slam_fire
-effects/ground_slam_fire/spines
-effects/mini_slam
-hole
-warrior

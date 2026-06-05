@@ -1,4 +1,0 @@
-shockwave1_start
-shockwave2_march
-shockwave3_end
-shockwave3_end/pt_blood

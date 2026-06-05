@@ -1,0 +1,6 @@
+bossarenadoor
+coinpedestal
+door
+door/attachments
+ground_spike
+tgms

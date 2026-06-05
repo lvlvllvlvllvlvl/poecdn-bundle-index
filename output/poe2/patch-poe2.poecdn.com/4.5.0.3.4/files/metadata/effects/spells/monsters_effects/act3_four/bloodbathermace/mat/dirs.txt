@@ -1,2 +1,0 @@
-phys_fire_slam
-phys_slam

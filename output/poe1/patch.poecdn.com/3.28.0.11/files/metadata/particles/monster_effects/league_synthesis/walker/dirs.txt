@@ -1,2 +1,0 @@
-lantern_synthesis
-walker_mortar

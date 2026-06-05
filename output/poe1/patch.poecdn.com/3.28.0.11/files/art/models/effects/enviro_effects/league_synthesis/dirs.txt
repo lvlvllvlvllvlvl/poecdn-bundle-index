@@ -1,8 +1,0 @@
-mapdevice
-platformblocker
-portal
-rainbowbridge
-rainbowbridge/beam
-stabiliserclick
-synthesis_bosssummon
-synthesiscraftingbench

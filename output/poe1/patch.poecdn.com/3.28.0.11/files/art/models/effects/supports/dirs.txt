@@ -1,6 +1,0 @@
-ancestor_slam
-arrow_rain
-aurafy
-innervate
-melee_splash
-minion_pact

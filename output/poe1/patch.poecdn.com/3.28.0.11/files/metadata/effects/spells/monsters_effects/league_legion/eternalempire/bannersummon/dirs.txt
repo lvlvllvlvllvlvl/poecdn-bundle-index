@@ -1,6 +1,0 @@
-aura
-auralarge
-epk
-epk/graphs
-spawn
-surge

@@ -1,8 +1,0 @@
-banditchests
-militarychests
-rewarddisplaychests
-rewarddisplaychests/graph
-robotchests
-sciencechests
-smugglerscoincache
-smugglerscoincache/pet

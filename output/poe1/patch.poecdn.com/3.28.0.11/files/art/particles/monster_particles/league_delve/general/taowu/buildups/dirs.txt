@@ -1,2 +1,0 @@
-sun_blast
-sun_blast/fx

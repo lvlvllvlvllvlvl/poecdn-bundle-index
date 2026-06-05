@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+61b2a452ddd70451,epk_position_local.fxgraph,Content/metadata/effects/weather_attachments/g2_town/skin/21F13D13CA11B813.weather.ao,1000308,46948
+d1bd6ef8665f2d80,vtx_expand.fxgraph,Shared,3662285,21678
+27d8a2f7809cf0fe,vtx_mask_sphere.fxgraph,Content/metadata/effects/microtransactions/gloves/archnemesishightemplarhands/ABBF7EAF2F043B75.tier_corruption.epk,2607906,118312
+00d1adb837dbc9cc,vtx_mask_normalaxis.fxgraph,Content/metadata/effects/spells/ground_effects_v3/profane/profane_grd.ao,2941382,100880
+f895c26b1161073a,vtx_mask_objectaxis.fxgraph,Content/metadata/effects/spells/npc/league/FB09E2903437BC7B.unlock_wave.ao,206394,99786
+56f3704080c1392a,vtx_mask_triplanartex.fxgraph,Content/metadata/effects/spells/cold_frostbomb/frostbomb.ao,4078705,119992
+08d125daca6b084d,vtx_mask_texture.fxgraph,Content/metadata/effects/spells/monk_bell/mtx_belldjinn.ot,4445891,170864
+e4c34dbb3d704c74,pxl_mask_objectaxis.fxgraph,Content/metadata/effects/microtransactions/spells/gore_sunder/C1FCB2887FB7DC10.start.pet,1229782,268850
+ce815007e7863016,pxl_mask_sphere.fxgraph,Shared,2715987,296860
+026ef6c11fc00b61,pxl_mask_normalaxis.fxgraph,Content/metadata/effects/environment/gallows/act2/5AD57943B7A7D28F.sand_ground_mesh_small.ao,4812413,282392
+54167d7f6f147016,pxl_mask_weapons.fxgraph,Content/metadata/effects/microtransactions/weapon_effects/weapon_effects/E3813CDDE184F09C.pool.pet,3998004,326010
+1e0359c4bf716931,pxl_mask_triplanartex.fxgraph,Shared,3355131,307154
+9829aa6682a8ac27,pxl_mask_texture.fxgraph,Shared,3012847,342284

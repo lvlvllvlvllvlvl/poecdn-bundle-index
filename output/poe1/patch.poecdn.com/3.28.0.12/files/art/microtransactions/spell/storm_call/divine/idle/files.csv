@@ -1,0 +1,27 @@
+hash,file,bundle,offset,size
+3c775786d0e581d2,scrolling_squidfaceman_runesc.mat,Tiny_1,62814516,2264
+a723368b3e21182b,scrolling_squidfaceman_runes_multic.mat,Tiny_1,62812360,2156
+d472f23cdcdeab3d,scrolling_squidfaceman_runes_multi.dds,Art/particles/monster_particles/act5_19,903160,22052
+58235e567e77bb9b,scrolling_squidfaceman_runes_multi.dds.header,Tiny_6,94198823,504
+26ae9fd53f471602,scrolling_squidfaceman_runes.dds,Art/Microtransactions/spell/storm_call_3,3008312,22052
+043cb426716257ee,scrolling_squidfaceman_runes.dds.header,Tiny_6,62911341,504
+7897c91642b7ad3b,rune_targetc.mat,Tiny_1,62806840,2160
+7a49e500b194ae2c,rune_target_mulic.mat,Tiny_1,62805594,1246
+b895d2101fa1f77b,rune_target_muli.dds,Art/particles/monster_particles/act5_19,1100324,22020
+556b65747745221f,rune_target_muli.dds.header,Tiny_6,62891221,1520
+cde749f762083909,rune_target.dds,Art/particles/monster_particles/act5_19,1209900,22020
+9201b63cee82398e,rune_target.dds.header,Tiny_6,62889701,1520
+5af4c0a9a018b089,runes_idle_blackc.mat,Tiny_1,62811114,1246
+91f12a91bdb09002,runes_idle_black.dds,Art/Microtransactions/spell/storm_call_3,2920756,87556
+4020ccf9c434f1c3,runes_idle_black.dds.header,Tiny_6,62905689,1520
+30924232513e95bd,runes_idle_addac.mat,Tiny_1,62809000,2114
+ef1ae69510db8108,runes_idle_adda.dds,Art/Microtransactions/spell/storm_call_3,2876904,43852
+6abe15001c18843e,runes_idle_adda.dds.header,Tiny_6,62901995,1520
+511dad0e3d0a0e88,rig_5b5e64c8.smd,Art/Microtransactions/spell/storm_call_3,3030364,19720
+85ab0ec5d7a89433,rig_5b5e64c8.smd.header,Tiny_1,62805226,368
+a854bdd1cce51ef7,idle.sm,Tiny_1,62804256,970
+7cc7b69064d992a1,idle.amd,Tiny_6,5483721,104
+fcaefc7d8defc0cc,idle.ast,Tiny_2,6910605,1128
+b2695615bc59071c,blink_spiral_bigger 2.mat,Tiny_1,62802346,1910
+d26600f5f57a9ec5,blink_spiral_bigger 2.dds,Art/particles/monster_particles/act5_19,925212,87556
+9f24615181246e9c,blink_spiral_bigger 2.dds.header,Tiny_6,62851213,1520

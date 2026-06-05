@@ -1,3 +1,0 @@
-nova
-portal
-unholy_nova

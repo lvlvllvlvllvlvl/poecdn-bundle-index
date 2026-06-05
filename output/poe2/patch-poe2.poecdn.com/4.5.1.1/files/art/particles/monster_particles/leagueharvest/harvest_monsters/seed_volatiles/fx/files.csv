@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+a95566b50ba0342e,hires_shockwave_slow.mat,Tiny.V7,40732224,7362
+e98aaa1811ce6a71,bulb_glint.mat,Tiny.V4,40951629,4610
+32789bc3e7ab047e,bulb_glint_multi.mat,Tiny.V6,40838516,2594
+6ed37e1bc7e57243,thorn_glint.mat,Tiny.V7,40739586,4616
+50630933fb7322f6,thorn_glint_multi.mat,Tiny.V0,40797309,2654
+7a89b3ce41990ab1,scream_shockwave.mat,Tiny.V3,40081048,5870
+28425b4abe9bd187,scream_shockwave_uncompressed.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.97409533A499C0FC.coldbreath.pet,874348,349672
+814d8af178e62d9b,scream_shockwave_uncompressed.dds.header,Tiny.V9,4434973,1520
+83f024a00c5f234a,scale_glint.mat,Tiny.V1,40723211,4642
+b5d866150a2f9fe5,scale_glint_multi.mat,Tiny.V5,40350497,2654
+b4948b128e2e885d,lightning_sphere.mat,Tiny.VE,39229911,4774
+425238742421f615,lightning_sphere_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.3D82F5D5F36F420E.cyl.pet,489879,87556
+862f7735683c05b0,lightning_sphere_dxt5.dds.header,Tiny.V2,34386731,1520
+212d863ff07707ba,glow_aura_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/pets/7898BC11483BF008.BDF004CB4DCD0D1E.shockwave.pet,1367612,87556
+852faeac5bede773,glow_aura_dxt5.dds.header,Tiny.V2,40697452,1520

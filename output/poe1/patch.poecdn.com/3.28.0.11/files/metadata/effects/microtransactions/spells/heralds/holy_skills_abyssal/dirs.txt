@@ -1,7 +1,0 @@
-lightning
-lightning/fx
-lightning/mat
-lightning/mat/idle_cyl
-lightning/mat/lighting_surge
-lightning/mat/lightning_strike_hearld
-lightning/mat/mid

@@ -1,0 +1,10 @@
+book
+l_dangler_1
+l_dangler_2
+l_sleeve
+r_dangler_1
+r_dangler_2
+r_sleeve
+shawl
+skirt
+skirt/attachments

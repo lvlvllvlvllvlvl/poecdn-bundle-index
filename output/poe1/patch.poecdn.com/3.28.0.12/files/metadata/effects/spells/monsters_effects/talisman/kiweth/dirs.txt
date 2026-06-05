@@ -1,0 +1,5 @@
+death
+death/cold
+death/fire
+death/lightning
+gore_surge

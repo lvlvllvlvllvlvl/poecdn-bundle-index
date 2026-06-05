@@ -1,6 +1,0 @@
-blood_2
-blood_2/ooze
-blood_2/ooze/blood_drops
-blood_2/zombie
-blood_2/zombie/blood_drops
-hit_splats

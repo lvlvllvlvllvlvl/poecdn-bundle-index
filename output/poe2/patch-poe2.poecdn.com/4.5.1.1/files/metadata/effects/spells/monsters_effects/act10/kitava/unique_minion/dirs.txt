@@ -1,0 +1,4 @@
+barrage_projectile
+flicker_strike
+projectile
+remote_slam

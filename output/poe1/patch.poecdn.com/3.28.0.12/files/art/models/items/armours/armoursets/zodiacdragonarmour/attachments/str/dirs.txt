@@ -1,0 +1,4 @@
+reddangles_l
+reddangles_r
+robe
+rope

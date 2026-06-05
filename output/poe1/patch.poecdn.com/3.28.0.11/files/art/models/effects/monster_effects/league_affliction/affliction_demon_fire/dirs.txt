@@ -1,7 +1,0 @@
-fire_slash
-flameblast
-flameblastexplode
-new_tornado
-on_act_flameblast
-on_act_overheadslash
-tornado

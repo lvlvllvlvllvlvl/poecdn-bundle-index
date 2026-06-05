@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+f6863bd88670fdbd,thin_lightning.mat,Tiny_6,45842507,3320
+bad507d0cdd94812,thin_lightning.dds,Art/particles/lightning_touch,0,174948
+d07daa8720135604,thin_lightning.dds.header,Tiny_6,45841667,840
+120189201ff57253,smooth_bolt.mat,Tiny_6,45840057,1610
+b9af8f188766b61e,smooth_bolt.dds,Art/particles/lightning_touch,174948,174948
+5d85b183afc4a32e,smooth_bolt.dds.header,Tiny_6,45839217,840
+807c96a4035d506c,light_middle_upc.mat,Tiny_6,45834453,2202
+44b833214c298b53,light_middle_up.dds,Art/particles/monster_particles/act4_21,1711072,87556
+8826c040e5b5bbb7,light_middle_up.dds.header,Tiny_6,59712532,1520
+21c9172d132855c2,lightning_shoot_flipbook.mat,Tiny_6,45836655,2562
+3529eeadc8078798,lightning_shoot_flipbook.dds,Folders/art/particles/monster_particles/viking_vinktars_square,0,1398308
+e555fe5fe62dc123,lightning_shoot_flipbook.dds.header,Tiny_7,55416879,504

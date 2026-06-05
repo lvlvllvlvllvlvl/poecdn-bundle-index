@@ -1,0 +1,3 @@
+loincloth
+mushrooms
+r_shoulder

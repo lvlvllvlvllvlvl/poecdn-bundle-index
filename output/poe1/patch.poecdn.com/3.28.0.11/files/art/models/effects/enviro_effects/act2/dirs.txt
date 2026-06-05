@@ -1,3 +1,0 @@
-inca_boss_room
-inca_boss_room_particles
-mud

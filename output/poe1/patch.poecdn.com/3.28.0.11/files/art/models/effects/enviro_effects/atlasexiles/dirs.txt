@@ -1,9 +1,0 @@
-eyrie
-eyrie/arena
-mapdeviceroom
-mapdeviceroom/apocalypse
-mapdeviceroom/apocalypse/2x4
-mapdeviceroom/apocalypse/5x5
-mapdeviceroom/apocalypse/5x7
-mapdeviceroom/apocalypse/6x2
-mapdeviceroom/apocalypse/poof_papers

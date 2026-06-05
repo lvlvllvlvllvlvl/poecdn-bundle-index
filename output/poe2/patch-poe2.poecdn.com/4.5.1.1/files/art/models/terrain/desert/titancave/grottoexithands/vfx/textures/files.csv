@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+63076f10dd8b824f,expsmoke_01.mat,Tiny.V8,16248709,5016
+bb83ea20bb0f83c9,lingering_smoke.mat,Tiny.VC,16098420,3978
+805e55e8b6951bd2,titangrottohand_crumble.mat,Tiny.V1,16136547,2950
+71e17f6c38dc5eb3,slagsmoke_01.mat,Tiny.V2,16407024,2768
+58685c54de4f4d9a,sand1_prtcls.mat,Tiny.V9,16476984,2254
+34df8cbfbe39c1e6,debris.mat,Tiny.VF,16259048,3456
+57a8c191a462adf4,debrisc.mat,Tiny.V3,16007261,2458
+ce4d1efbfc24a8f5,debris_normalaogloss_dxt5.dds,Streaming/Content/metadata/terrain/desert/unwalkabledune/42B7074C5DFD845B.F53E1B295F69C226.third_finger_3_line.pet,699212,1398276
+67752804e7986e86,debris_normalaogloss_dxt5.dds.header,Tiny.V3,16005741,1520
+3a2e32bcd3d0cf98,debris_colour_dxt1.dds,Streaming/Content/metadata/terrain/desert/unwalkabledune/42B7074C5DFD845B.F53E1B295F69C226.third_finger_3_line.pet,0,699212
+8833a9662866281c,debris_colour_dxt1.dds.header,Tiny.VE,16082510,1520

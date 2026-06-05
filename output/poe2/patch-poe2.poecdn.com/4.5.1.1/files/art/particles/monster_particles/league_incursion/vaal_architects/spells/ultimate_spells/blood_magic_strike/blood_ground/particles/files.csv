@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+9d87c9e23d29a217,meshexportc.mat,Tiny.V9,40582723,1558
+9ffa3e02a3526bb6,meshexport.dds,Tiny.VD,34907593,332
+c101cd6e3ae325fc,meshexport.dds.header,Tiny.V7,37811342,1520
+63c439c1682bca12,wisp_sub.mat,Tiny.V8,39611085,2482
+f117e3f6f4e9a916,wisp_sub.dds,Streaming/Content/metadata/particles/monster_effects/3DC681C2C41541AC.blood_pyramid_end.pet,793578,22020
+29c9b53bf93e35e7,wisp_sub.dds.header,Tiny.VC,40361846,1520
+c8a650aaf1b816c1,bloodns.dds,Streaming/Content/metadata/particles/monster_effects/3DC681C2C41541AC.blood_pyramid_end.pet,706022,87556
+9e236339373d1f2f,bloodns.dds.header,Tiny.V0,40245826,1520
+fcebd063ceb15d1a,blood_colour.mat,Tiny.V5,39624062,5014
+536a326766e55196,blood_colour.dds,Streaming/Content/metadata/particles/monster_effects/3DC681C2C41541AC.blood_pyramid_end.pet,618466,87556
+d5b9a6e89d8aa55e,blood_colour.dds.header,Tiny.VE,34918067,1520

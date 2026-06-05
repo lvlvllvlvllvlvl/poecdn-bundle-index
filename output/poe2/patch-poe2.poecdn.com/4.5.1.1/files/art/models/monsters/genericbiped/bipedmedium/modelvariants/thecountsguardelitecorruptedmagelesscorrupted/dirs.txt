@@ -1,0 +1,5 @@
+attachments
+attachments/body_tentacles
+attachments/breachemptymagiccreatureskirt
+attachments/hair
+attachments/skirt

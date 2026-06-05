@@ -1,8 +1,0 @@
-epk
-fx
-fx/collect_visual_cue_01
-fx/collect_visual_cue_01/idle_01
-mat
-mat/collect_visual_cue_01
-mat/collect_visual_cue_01/collected
-mat/collect_visual_cue_01/idle_01

@@ -1,0 +1,12 @@
+ancestors
+ancestral_cry
+debuff
+debuff/debilitate
+empowered_attacks
+enduring_cry
+infernal_cry
+intimidating_cry
+rallying_cry
+seismic_cry
+spiritual_cry
+taunt

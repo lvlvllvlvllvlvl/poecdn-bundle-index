@@ -1,8 +1,0 @@
-graphs
-objects
-rooms
-rooms/canal
-rooms/fill
-rooms/road
-rooms/unique
-rooms/unique/injectors

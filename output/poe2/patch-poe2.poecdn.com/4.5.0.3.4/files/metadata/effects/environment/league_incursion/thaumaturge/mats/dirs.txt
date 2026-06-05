@@ -1,2 +1,0 @@
-t2_point
-t3_point

@@ -1,8 +1,0 @@
-attachments
-attachments/book
-attachments/eggs
-attachments/mantle
-attachments/robe
-attachments/staff
-attachments/sword
-textures

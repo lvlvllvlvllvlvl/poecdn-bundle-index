@@ -1,0 +1,17 @@
+combo_attack
+combo_attack/attack_01
+combo_attack/attack_02
+combo_attack/attack_03
+combo_attack/on_act
+dash_combo
+dash_combo/epk
+dash_combo/epk/bolted
+dash_combo/impact
+dash_combo/lightning_bolt_aoe
+dash_combo/on_act
+dash_combo/on_act/dash_aoe_sabre_shield_01
+throw_shield
+throw_shield/impact
+throw_shield/on_act
+throw_shield/projectile
+throw_shield/secondary_projectile

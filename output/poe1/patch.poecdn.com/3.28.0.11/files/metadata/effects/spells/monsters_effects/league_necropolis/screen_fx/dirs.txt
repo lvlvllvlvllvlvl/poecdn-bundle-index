@@ -1,5 +1,0 @@
-lantern_menu
-lantern_menu/ao
-lantern_menu/graph
-lantern_menu/mat
-lantern_menu/pet

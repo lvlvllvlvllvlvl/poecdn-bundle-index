@@ -1,7 +1,0 @@
-attachments
-attachments/theivorytowerrobe
-attachments/theivorytowerrobeplates
-attachments/theivorytowershoulderplates
-attachments/theivorytowershoulderplates/theivorytowerleftshoulderpad
-attachments/theivorytowershoulderplates/theivorytowerrightshoulderpad
-textures

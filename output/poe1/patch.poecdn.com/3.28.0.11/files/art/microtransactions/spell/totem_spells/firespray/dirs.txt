@@ -1,4 +1,0 @@
-ghostflame
-ghostflame/models
-ghostflame/models/idle
-ghostflame/textures

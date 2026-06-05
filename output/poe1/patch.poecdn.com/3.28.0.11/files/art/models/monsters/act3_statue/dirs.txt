@@ -1,6 +1,0 @@
-female
-female large
-female large/animations
-male
-male/animations
-male large

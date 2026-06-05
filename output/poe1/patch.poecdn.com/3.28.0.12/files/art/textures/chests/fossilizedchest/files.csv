@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+64982d7205f4047c,stonesurface_normal_dxt5.dds,Art/Textures/Chests/FossilizedChest,874324,87556
+d4088ebb1517e389,stonesurface_normal_dxt5.dds.header,Tiny_7,60589795,1520
+a43e798bcf22189d,fossilizedchestc.mat,Tiny_7,60302787,3482
+2fb8ac175df2f2b5,fossilizedchest_normal_dxt5.dds,Art/Textures/Chests/FossilizedChest,524624,349700
+aa605c6996ea0212,fossilizedchest_normal_dxt5.dds.header,Tiny_7,60301267,1520
+e1f94cd00f065f25,fossilizedchest_colour_dxt5.dds,Art/Textures/Chests/FossilizedChest,174924,349700
+407b943239658fb5,fossilizedchest_colour_dxt5.dds.header,Tiny_7,60299747,1520
+9b124fba824fc368,fossilizedchest_colour_bc7.dds,Art/Textures/Chests/FossilizedChest,174924,349700
+33ae654fd6ee109a,fossilizedchest_colour_bc7.dds.header,Tiny_7,60299747,1520
+a0aa952e2d653cd4,fossilizedchest_colour.dds,Art/Textures/Chests/FossilizedChest,0,174924
+3fdd401a625d3a9f,fossilizedchest_colour.dds.header,Tiny_7,60298227,1520

@@ -1,0 +1,14 @@
+clone
+clone/charge
+clone/clone_01
+clone/clone_02
+clone/clone_03
+clone/clone_04
+clone/ice
+darresso
+icestab
+images
+kneel_sheild
+reave
+sword_ground
+sword_ground/swordtornado_02

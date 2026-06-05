@@ -1,0 +1,4 @@
+explosion
+orb
+pulse
+shocked_target

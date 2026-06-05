@@ -1,0 +1,6 @@
+circle_aoe
+impact_aoe
+shield_anim
+shield_charge
+shield_impact
+shockwave_charge

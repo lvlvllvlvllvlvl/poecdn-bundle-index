@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+947825b95ebbe4d7,eyec.mat,Tiny.VC,4955934,4644
+5704a3b102b22c92,eye_glow_dxt1.dds,Streaming/Content/metadata/monsters/brute/brutecagespawner.ot,661750,43852
+654b6de5900135ad,eye_glow_dxt1.dds.header,Tiny.V5,5134951,1520
+9e2873f389fe9fbb,eye_mask_dxt1.dds,Streaming/Content/metadata/monsters/brute/brutecagespawner.ot,705602,43852
+22138ae7d908b305,eye_mask_dxt1.dds.header,Tiny.V8,5034726,1520
+2fff1d997907d3ab,eye_normal_dxt5.dds,Streaming/Content/metadata/monsters/brute/brutecagespawner.ot,749454,87556
+0700ae6c328bfa96,eye_normal_dxt5.dds.header,Tiny.V1,5055309,1520
+4af3d6fee1cf75be,eye_colour_dxt5.dds,Streaming/Content/metadata/monsters/brute/brutecagespawner.ot,574194,87556
+eb7b738149829b06,eye_colour_dxt5.dds.header,Tiny.V7,5058564,1520
+9a3fad0c5a180f54,toothclawc.mat,Tiny.VC,4960578,2250
+2f090c10d056b806,toothclaw_normal_dxt5.dds,Streaming/Content/metadata/monsters/brute/brutecagespawner.ot,476290,87556
+bd092c390b4e9ed8,toothclaw_normal_dxt5.dds.header,Tiny.V8,5036246,1520
+3c544170559f0397,toothclaw_colour_dxt5.dds,Streaming/Content/metadata/monsters/brute/brutecagespawner.ot,388734,87556
+d428b439a1253d47,toothclaw_colour_dxt5.dds.header,Tiny.V7,5060084,1520

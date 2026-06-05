@@ -1,3 +1,0 @@
-godofthunderbow
-textures
-textures_blue

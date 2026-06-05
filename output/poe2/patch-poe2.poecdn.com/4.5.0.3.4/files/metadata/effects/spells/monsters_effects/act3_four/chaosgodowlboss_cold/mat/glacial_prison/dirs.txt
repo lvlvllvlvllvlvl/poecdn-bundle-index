@@ -1,9 +1,0 @@
-central_surge
-crystal
-onact
-onact/shatter
-orb
-orb/surge
-pulse
-small_crystal
-stab

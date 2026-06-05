@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+e851b4760e50f66e,grad_line.mat,Tiny.V6,40172065,2076
+ebdc670149a22463,grad_line_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.914F25DE71AE64D8.shoulder.pet,525288,5636
+05051473820447b8,grad_line_dxt5.dds.header,Tiny.VF,40034126,1520
+f1707ac2d38c2c76,soul_trail_add.mat,Tiny.VF,40035646,1904
+a172f87561e644ef,soul_trail_add_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.914F25DE71AE64D8.shoulder.pet,530924,22012
+bee32cbff123d1d0,soul_trail_add_dxt1.dds.header,Tiny.VC,40443248,840
+18a2381e308a78a6,solid.mat,Tiny.V7,40109960,2640
+ebb4f043785231b9,solid_dxt1.dds.header,Tiny.V2,4245841,1520
+a03a5d18aab4e44b,decal_03_normal_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.2573C46C062F1AE7.once_grdmidline.pet,349700,349700
+e8c403ba483d6ced,decal_03_normal_dxt5.dds.header,Tiny.V7,40108440,1520
+1dc4a7b291ff4ecd,decal_03_colour.mat,Tiny.V3,39468193,3846
+c99c34b09f9802e3,decal_03_colour_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/F05730829C0CA3B4.2573C46C062F1AE7.once_grdmidline.pet,0,349700
+bd222ca6fdaa9a5e,decal_03_colour_dxt5.dds.header,Tiny.VE,39698114,1520

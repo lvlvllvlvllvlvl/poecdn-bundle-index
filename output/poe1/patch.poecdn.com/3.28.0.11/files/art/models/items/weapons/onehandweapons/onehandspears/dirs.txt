@@ -1,7 +1,0 @@
-basetypes
-basetypes/textures
-microtransactions
-microtransactions/goblinshamanspear
-microtransactions/honourguardspear
-microtransactions/hyenahunter
-microtransactions/hyenahunter/textures

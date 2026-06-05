@@ -1,7 +1,0 @@
-attachments
-attachments/voodookingbossweapon
-attachments/voodookingbossweapon/attachments
-attachments/voodookingbossweapon/attachments/bells
-attachments/voodookingbossweapon/attachments/feathers
-attachments/voodookingbossweapon/attachments/hangings
-textures

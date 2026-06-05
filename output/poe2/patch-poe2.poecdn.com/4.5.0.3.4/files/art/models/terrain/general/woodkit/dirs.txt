@@ -1,5 +1,0 @@
-standard
-standard/textures
-standard/textures/polished
-textures
-textures/standard

@@ -1,4 +1,0 @@
-aura
-aura/aura_new
-projectile
-projectile/fx_new

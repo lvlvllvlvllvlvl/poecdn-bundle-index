@@ -1,3 +1,0 @@
-idle
-open_burst
-open_click

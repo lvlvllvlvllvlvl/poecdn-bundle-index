@@ -1,6 +1,0 @@
-cenitpedetrack_rig
-cenitpedetrack_rig/track_cv1
-cenitpedetrack_rig/track_cv2
-cenitpedetrack_rig/track_st1
-cenitpedetrack_rig/track_t
-textures

@@ -1,3 +1,0 @@
-teleport_appear
-teleport_appear/weapontrail
-teleport_disappear

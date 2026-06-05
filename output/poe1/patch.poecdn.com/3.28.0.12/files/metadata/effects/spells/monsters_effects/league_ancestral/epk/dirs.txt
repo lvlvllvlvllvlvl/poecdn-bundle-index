@@ -1,0 +1,6 @@
+chieftansleadertotemblue
+chieftansleadertotemred
+fielditems
+reviving
+rewardtotem
+rewardtotem/audio

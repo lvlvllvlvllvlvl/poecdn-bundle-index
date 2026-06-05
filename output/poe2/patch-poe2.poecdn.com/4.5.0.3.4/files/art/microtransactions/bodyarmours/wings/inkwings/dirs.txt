@@ -1,6 +1,0 @@
-fire
-ghostflame
-ghostflame/ghostflame_particles
-ice
-seraph
-seraph/seraph_particles

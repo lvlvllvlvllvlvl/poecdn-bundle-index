@@ -1,5 +1,0 @@
-doodads
-graphs
-objects
-rooms
-tiles

@@ -1,7 +1,0 @@
-melee
-melee/cleave
-range
-range/generic_projectile
-range/snipe
-range/snipe/on_act
-range/snipe/projectile

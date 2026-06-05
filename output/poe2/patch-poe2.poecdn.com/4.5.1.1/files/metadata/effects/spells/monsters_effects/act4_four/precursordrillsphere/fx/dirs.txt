@@ -1,0 +1,3 @@
+basic_attacks
+onact_revive
+spark_of_life

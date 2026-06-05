@@ -1,0 +1,10 @@
+splitwave
+splitwave/fire
+transitionwaves
+zonebriarpatch
+zoneburn
+zonechill
+zoneholy
+zonejagged
+zoneshock
+zonewithering

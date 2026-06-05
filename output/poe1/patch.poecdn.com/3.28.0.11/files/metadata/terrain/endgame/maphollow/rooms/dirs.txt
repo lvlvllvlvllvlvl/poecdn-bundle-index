@@ -1,7 +1,0 @@
-lowwater
-lowwater/1x1
-lowwater/1x2
-lowwater/2x2
-lowwater/heightchange
-lowwater/unique
-unique

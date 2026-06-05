@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+0b21a82706b0acef,debris_u1.mat,Tiny_D,347545605,19282
+02a128180cafa26b,mblur_sphere_r.mat,Tiny_D,347754641,12778
+d82ca2b58bf2a01f,skeleton.mat,Tiny_D,347767419,31178
+0e1c7471498dfa8c,upward_rays_r.mat,Tiny_D,347798597,65654
+d0a2a6e5ae9085dc,upward_rays_u.mat,Tiny_D,347664047,1342
+f93ec9528f0ac630,pebbles_01_r.mat,Tiny_D,350202031,10282
+f1fc175662e9e326,pnt_u.mat,Tiny_D,347664047,1342
+725ec9c7d27d046d,lfs_decal_r.mat,Tiny_D,347665389,55928
+d626fd1422372007,lfs_sparks_01_r.mat,Tiny_D,352725801,17618
+d33226a635b2ac0c,lfs_sparks_01_u.mat,Tiny_D,347721317,33324
+13880d819a030e55,lfs_core_glow_r.mat,Tiny_D,347657679,6368
+b1c03b7273c3e346,lfs_core_glow_u.mat,Tiny_D,347664047,1342
+cbc3e00438039141,ground_cracks_r.mat,Tiny_D,347623405,34274
+de7b66b68aca50a1,ground_cracks_u.mat,Tiny_11,150820658,310
+33f0f55f9b95faf7,gpu_skelly_r1.mat,Tiny_D,347564887,46868
+98b329c6285cd4e8,gpu_skelly_u.mat,Tiny_D,347611755,11650

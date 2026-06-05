@@ -1,4 +1,0 @@
-bone
-bone/trl
-flesh
-flesh/trl

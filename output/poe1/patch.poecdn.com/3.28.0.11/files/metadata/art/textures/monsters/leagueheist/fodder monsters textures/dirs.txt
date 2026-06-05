@@ -1,3 +1,0 @@
-vfx
-vfx/tauntingcontraption
-vfx/tauntingcontraption/textures

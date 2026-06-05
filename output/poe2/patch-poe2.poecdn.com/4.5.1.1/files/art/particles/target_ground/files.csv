@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+5bb104e8c8c7f664,tornado_outerc.mat,Tiny.V2,41376533,2800
+0eb92c75899285e9,tornado_outer.dds,Streaming/Content/metadata/effects/spells/firebeam_02/firebeam_beam.ao,214465,43868
+15564bdf4cccbfae,tornado_outer.dds.header,Tiny.V2,41376029,504
+ed1c478759c9b4e7,wispy_smoke_tilec.mat,Tiny.VD,41773653,2878
+2346200f6f6d85c4,wispy_smoke_tile.dds,Streaming/Content/metadata/effects/spells/firebeam_02/firebeam_beam.ao,258333,349700
+d7c63b35ccc395ef,wispy_smoke_tile.dds.header,Tiny.VC,41864980,1520
+e837f7a4be800b5f,gradflashc.mat,Tiny.V8,41086181,1746
+e6ba241ddc365fa4,gradflash.dds,Streaming/Content/metadata/effects/spells/firebeam_02/firebeam_beam.ao,203381,11084
+7863d68d8cfc96b6,gradflash.dds.header,Tiny.V1,41524432,1520

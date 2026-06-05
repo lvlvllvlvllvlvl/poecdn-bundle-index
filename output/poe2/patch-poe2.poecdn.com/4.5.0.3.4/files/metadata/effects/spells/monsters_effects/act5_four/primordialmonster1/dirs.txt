@@ -1,7 +1,0 @@
-epks
-fx
-fx/discharge_explosion
-fx/modbeam
-fx/volatile_fireflies
-fx/volatile_fireflies/detonate
-mat

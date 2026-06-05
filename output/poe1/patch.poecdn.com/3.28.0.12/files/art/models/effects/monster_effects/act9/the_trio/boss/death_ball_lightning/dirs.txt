@@ -1,0 +1,6 @@
+bolt
+chargingup
+outer_orb
+player_hit
+projectile
+stop

@@ -1,5 +1,0 @@
-area13
-area13/water_block
-beacon_light
-beacon_light/base_fire
-beacon_light/black_fire

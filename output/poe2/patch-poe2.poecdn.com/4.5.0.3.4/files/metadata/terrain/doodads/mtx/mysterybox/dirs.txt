@@ -1,7 +1,0 @@
-innocence_sin
-innocence_sin/innocence
-innocence_sin/innocence/symbol
-innocence_sin/innocence/symbol/pets
-innocence_sin/sin
-innocence_sin/sin/sin_symbol
-innocence_sin/sin/sin_symbol/pet

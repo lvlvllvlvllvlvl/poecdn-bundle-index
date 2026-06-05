@@ -1,0 +1,9 @@
+area
+area/mark
+ele_weakness
+mark
+minion_sacrifice_explosion
+minion_sacrifice_explosion/fx
+minion_sacrifice_explosion/mat
+tormented
+tormented/on_hit

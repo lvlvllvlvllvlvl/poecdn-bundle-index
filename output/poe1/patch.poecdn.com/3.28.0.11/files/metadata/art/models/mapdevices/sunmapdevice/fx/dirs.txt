@@ -1,5 +1,0 @@
-texture
-texture/black
-texture/red
-texture/white
-texture/yellow

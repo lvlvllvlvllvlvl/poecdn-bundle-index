@@ -1,2 +1,0 @@
-fishing_trap
-weapon_trap

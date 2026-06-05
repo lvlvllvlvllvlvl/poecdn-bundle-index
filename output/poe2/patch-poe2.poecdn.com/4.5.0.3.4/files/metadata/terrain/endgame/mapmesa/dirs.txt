@@ -1,4 +1,0 @@
-rooms
-rooms/fills
-tiles
-tiles/largeoutercliff

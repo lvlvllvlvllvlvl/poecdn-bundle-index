@@ -1,0 +1,4 @@
+rakiata
+rakiata_field
+rakiata_greeting
+rakiata_wild

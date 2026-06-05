@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+6cb06c072c9b8877,muzzle_flare_r.mat,Tiny.V0.1,163734024,19702
+dd9b01e1367cd609,muzzle_flare_u.mat,Tiny.V8.1,24940184,1342
+8ea0954c6f4ee69d,core_splat_r.mat,Tiny.V7.1,161343104,26328
+3669b6a821975523,core_splat_u.mat,Tiny.V8.1,24940184,1342
+430137aba6e89603,hitblood_02_r.mat,Tiny.V5.1,163122688,14686
+080d9be7f5aae71f,hitblood_02_u.mat,Tiny.V3.1,166294839,12696
+5b1f12926f2e6943,splatter_dirsparks_r.mat,Tiny.V5.1,163137374,16496
+6dc7a0eb10886455,splatter_dirsparks_u.mat,Tiny.VC.1,167079237,13368
+09dc8f46126650e2,blood_pool_r.mat,Tiny.V7.1,161309098,34006
+b2fe2dbd4244d8e6,blood_pool_u.mat,Tiny.VA.1,162720349,1572
+e7e2903592874e97,blood_spill_r.mat,Tiny.VA.1,162721921,26146
+4e23b4d0e47a5b87,blood_spill_u.mat,Tiny.VF.1,161749494,3720
+34834fa2ad997eb5,blood_streak_r.mat,Tiny.VA.1,162748067,23194
+61e534860b3cda73,blood_streak_u.mat,Tiny.V2.1,165445108,3742

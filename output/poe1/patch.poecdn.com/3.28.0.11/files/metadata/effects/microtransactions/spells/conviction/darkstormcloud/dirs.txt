@@ -1,8 +1,0 @@
-debuff
-debuff/pet
-fx
-graph
-ignite
-ignite/pet
-shock
-shock/pet

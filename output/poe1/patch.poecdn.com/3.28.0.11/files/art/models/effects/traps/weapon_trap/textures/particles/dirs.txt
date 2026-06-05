@@ -1,2 +1,0 @@
-trap_start
-weapon_trail

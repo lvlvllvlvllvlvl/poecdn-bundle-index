@@ -1,6 +1,0 @@
-graphs
-objects
-objects/decoration
-rooms
-tiles
-tiles/markup

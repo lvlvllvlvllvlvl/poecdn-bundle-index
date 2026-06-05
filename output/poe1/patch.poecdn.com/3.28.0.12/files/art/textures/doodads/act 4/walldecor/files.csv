@@ -1,0 +1,29 @@
+hash,file,bundle,offset,size
+cb187cd9acef41a0,wallfishforkingriverc.mat,Tiny_7,61430733,1876
+1bd1845852178fc0,wallfishforkingriver_colour_dxt1.dds,Art/Textures/Doodads/Act 4/WallDecor_3,0,349692
+de1195676dc39710,wallfishforkingriver_colour_dxt1.dds.header,Tiny_7,61429893,840
+56b41228fd7bbd32,wallfish02c.mat,Tiny_7,61427511,2382
+b3124f62f79c26fc,wallfish02_normal_dxt5.dds,Art/Textures/Doodads/Act 4/WallDecor_2,524616,699236
+412d7fb7294ada51,wallfish02_normal_dxt5.dds.header,Tiny_7,61426671,840
+12b1da1e4e114dad,wallfish02_colour_dxt1.dds,Art/Textures/Doodads/Act 4/WallDecor_2,0,349692
+b14e890f26504398,wallfish02_colour_dxt1.dds.header,Tiny_7,61425831,840
+d80aef0028efb4a9,wallfish02_colour.dds,Art/Textures/Doodads/Act 4/WallDecor_2,0,349692
+2479e9e492ae0917,wallfish02_colour.dds.header,Tiny_7,61425831,840
+dbcb1fe743e0ae5c,lionheadcns.mat,Tiny_7,61422389,1922
+fb5634a7a6a15c38,lionhead_colour.dds,Art/Textures/Doodads/Act 4/WallDecor_2,349692,174924
+ffd4a351e0fcc0ca,lionhead_colour.dds.header,Tiny_7,61420869,1520
+9aa08d0fb3917108,lionheadns.dds,Art/Textures/Doodads/Act 4/WallDecor_1,699400,349700
+6e1e777967b0c16f,lionheadns.dds.header,Tiny_7,61424311,1520
+67b5a3592dbdc0ec,dresdenstatue_normal_dxt5.dds,Art/Textures/Doodads/Act 4/WallDecor_1,349700,349700
+ea99457cce7420e9,dresdenstatue_normal_dxt5.dds.header,Tiny_7,61417529,1520
+84969c3918ae28cf,dresdenstatue_colour_dxt5.dds,Art/Textures/Doodads/Act 4/WallDecor_1,0,349700
+02e1a83c29966fa9,dresdenstatue_colour_dxt5.dds.header,Tiny_7,61416009,1520
+fef42840bcebc395,dresdenstatuec.mat,Tiny_7,61419049,1820
+24dd5053f1531fad,dresdenstatuecns.mat,Tiny_7,61419049,1820
+1998acef75e1eb02,arcdetriocn.mat,Tiny_7,61414357,1652
+3198bbdc61cb03cb,arcdetrio_normal_masked.dds,Folders/art/textures/doodads/act 4/6/walldecor,0,1398276
+488c2ce6c305ad27,arcdetrio_normal_masked.dds.header,Tiny_7,61412837,1520
+714e145467875cca,arcdetrio_normal.dds,Folders/art/textures/doodads/act 4/9/walldecor,0,1398276
+a66ca86f2cccb876,arcdetrio_normal.dds.header,Tiny_7,61411317,1520
+9e8516dae9538127,arcdetrio_colour.dds,Folders/art/textures/doodads/act 4/7/walldecor,0,699212
+30b6372ee88aba34,arcdetrio_colour.dds.header,Tiny_7,61409797,1520

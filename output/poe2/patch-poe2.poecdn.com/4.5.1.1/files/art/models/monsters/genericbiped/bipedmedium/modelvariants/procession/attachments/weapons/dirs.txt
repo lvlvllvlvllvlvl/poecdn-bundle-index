@@ -1,0 +1,5 @@
+procession05b
+procession05b/attachments
+procession05b/attachments/arms
+procession05b/attachments/bones
+processionbow

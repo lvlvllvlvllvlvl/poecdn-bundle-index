@@ -1,0 +1,10 @@
+arena_zones
+cold_cascade
+fire_beam
+fire_slam
+flame_strafe_beam
+flame_strafe_beam/end
+ice_orb
+ice_orb_explode
+pillar_shield
+proj

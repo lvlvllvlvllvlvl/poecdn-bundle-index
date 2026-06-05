@@ -1,3 +1,0 @@
-fmts
-rolling_proj
-rolling_proj/animations

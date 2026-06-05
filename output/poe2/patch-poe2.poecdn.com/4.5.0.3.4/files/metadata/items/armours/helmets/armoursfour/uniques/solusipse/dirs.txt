@@ -1,3 +1,0 @@
-attachments
-attachments/feather
-attachments/veil

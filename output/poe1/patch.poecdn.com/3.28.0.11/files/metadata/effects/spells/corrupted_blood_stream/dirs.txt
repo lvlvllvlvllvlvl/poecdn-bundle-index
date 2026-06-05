@@ -1,4 +1,0 @@
-pet
-pet/buff
-pet/charge
-pet/surge

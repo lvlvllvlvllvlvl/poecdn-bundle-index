@@ -1,3 +1,0 @@
-textures
-textures/homing_back_swords
-textures/lancing_steel

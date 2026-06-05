@@ -1,3 +1,0 @@
-arena_drones
-arena_drones/fx
-graphs

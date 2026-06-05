@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+231653d089e3e58e,wisp.mat,Tiny.VC,39207651,4340
+f89def295468b839,wisp_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/BCA38D6A4C2C7583.DE3A5D1EF08A19A1.base_b.trl,1158944,174948
+79db614b392a3ee6,wisp_dxt5.dds.header,Tiny.V5,6573844,840
+6c83072fc162d084,chargeup_trail.mat,Tiny.V3,38383963,3576
+6e692e97c29cb659,chargeup_trail_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.29C421890D8A542E.act_spawn_cyl.pet,525008,174948
+098aae0ae60f11c0,chargeup_trail_dxt5.dds.header,Tiny.VE,38493839,840
+7bb17a0b1ba24e52,cold_wisp.mat,Tiny.VF,38971448,3338
+953ec5336bef7193,cold_wisp_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/24558F251863A4DE.spearimpactoutercircleemit.pet,0,5592580
+0c85b7586f254c6d,cold_wisp_dxt5.dds.header,Tiny.VC,5032717,1520

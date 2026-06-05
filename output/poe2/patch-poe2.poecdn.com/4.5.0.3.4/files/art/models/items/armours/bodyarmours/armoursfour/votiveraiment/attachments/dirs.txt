@@ -1,8 +1,0 @@
-f
-f/shoulderpad
-f/skirt
-f/waistaccessories
-m
-m/shoulderpad
-m/skirt
-m/waistaccessories

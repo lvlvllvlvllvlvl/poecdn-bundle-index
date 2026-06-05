@@ -1,2 +1,0 @@
-grd_pulse
-pillars_large

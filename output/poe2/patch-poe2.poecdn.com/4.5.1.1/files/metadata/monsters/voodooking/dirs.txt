@@ -1,0 +1,4 @@
+attachments
+critters
+mapboss
+objects

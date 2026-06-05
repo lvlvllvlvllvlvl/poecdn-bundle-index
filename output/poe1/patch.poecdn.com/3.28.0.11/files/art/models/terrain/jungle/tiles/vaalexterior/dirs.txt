@@ -1,3 +1,0 @@
-textures
-textures/clean
-water

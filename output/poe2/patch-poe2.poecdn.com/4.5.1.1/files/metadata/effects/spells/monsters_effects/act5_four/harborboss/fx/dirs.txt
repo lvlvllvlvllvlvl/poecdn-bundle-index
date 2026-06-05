@@ -1,0 +1,13 @@
+divine_shield_summon_projectile
+divine_shield_summon_projectile/impact_01
+divine_shield_summon_projectile/loop_01
+firewave
+flail_slam_aoe
+flame_wall_ignited
+flame_wall_stomp
+mace
+mace/attack_01
+moving_cone2
+shield_bash_cone
+spectral_helix_shield
+spectral_helix_shield/idle_01

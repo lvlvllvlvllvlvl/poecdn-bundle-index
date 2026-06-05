@@ -1,0 +1,13 @@
+darktempest
+darktempest/mb
+darktempest/mb/animations
+valkyrie
+valkyrie/spear_lightningspear
+valkyrie/spear_lightningspear/texture
+valkyrie/spear_overchargedspear
+valkyrie/spear_overchargedspear/mb
+valkyrie/spear_overchargedspear/texture
+valkyrie/spear_primalstrikes
+valkyrie/spear_primalstrikes/mb
+valkyrie/spear_primalstrikes/mb/bird
+valkyrie/spear_primalstrikes/mb/wing

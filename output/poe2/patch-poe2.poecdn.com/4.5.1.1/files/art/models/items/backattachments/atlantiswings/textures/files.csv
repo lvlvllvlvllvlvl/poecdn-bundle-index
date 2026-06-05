@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+0adfb277e08ffd5c,atlantiswingsc.mat,Tiny.V3,10462980,5300
+b1e93f711fe2bb94,atlantiswings_glow_dxt5.dds,Streaming/Content/art/models/items/backattachments/044C8DA78FE32739.atlantiswings.fmt,1398276,1398276
+41a4daff17284f50,atlantiswings_glow_dxt5.dds.header,Tiny.VE,10526933,1520
+d004fcfc02d5e6a1,atlantiswings_normal_dxt5.dds,Streaming/Content/art/models/items/backattachments/044C8DA78FE32739.atlantiswings.fmt.1,0,1398276
+ba192fe4abfc3c36,atlantiswings_normal_dxt5.dds.header,Tiny.V6,10605489,1520
+86a3cbdddefe43df,atlantiswings_colour_dxt5.dds,Streaming/Content/art/models/items/backattachments/044C8DA78FE32739.atlantiswings.fmt,0,1398276
+2b0997d1c7e1276c,atlantiswings_colour_dxt5.dds.header,Tiny.V9,10871508,1520
+3d9a16f63f3ab7a3,atlantiswingsfxc.mat,Tiny.V3,10469800,4664
+81e3fcc006f028ac,atlantiswingsfx_metal_dxt5.dds,Streaming/Content/art/models/items/backattachments/044C8DA78FE32739.atlantiswings.fmt.1,1747976,349700
+60c3399deb7f598d,atlantiswingsfx_metal_dxt5.dds.header,Tiny.V3,10468280,1520
+edc04b601987e0e7,atlantiswingsfx_normal_dxt5.dds,Streaming/Content/art/models/items/backattachments/044C8DA78FE32739.atlantiswings.fmt.1,2097676,349700
+878aa62cd401caea,atlantiswingsfx_normal_dxt5.dds.header,Tiny.V5,10268895,1520
+2a3017916176dede,atlantiswingsfx_colour_dxt5.dds,Streaming/Content/art/models/items/backattachments/044C8DA78FE32739.atlantiswings.fmt.1,1398276,349700
+3fafd26ade661ad6,atlantiswingsfx_colour_dxt5.dds.header,Tiny.V9,10873028,1520

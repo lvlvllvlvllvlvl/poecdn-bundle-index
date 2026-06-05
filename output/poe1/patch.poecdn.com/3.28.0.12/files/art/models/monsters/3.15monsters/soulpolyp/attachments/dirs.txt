@@ -1,0 +1,3 @@
+cloth
+cloth/l_cloth_1
+cloth/l_cloth_2

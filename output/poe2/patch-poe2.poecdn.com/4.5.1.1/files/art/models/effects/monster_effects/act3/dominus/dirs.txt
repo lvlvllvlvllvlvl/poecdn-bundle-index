@@ -1,0 +1,13 @@
+blood_grasp
+blood_grasp_hand
+blood_splash
+bomb_curse
+charge_explosion_end
+charge_shockwave
+charge_smoke_trail
+cold_beam
+dominus_teleport
+lightning_groundslam
+lightning_soul_attachment
+lightning_souls
+lightning_souls_explosion

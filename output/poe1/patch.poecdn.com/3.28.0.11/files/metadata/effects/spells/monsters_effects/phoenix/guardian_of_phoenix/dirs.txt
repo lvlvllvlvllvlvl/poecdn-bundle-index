@@ -1,7 +1,0 @@
-doublespin
-doublespin/start_up
-flaming_bomb
-player_debuff
-pulse
-vortex
-weapon

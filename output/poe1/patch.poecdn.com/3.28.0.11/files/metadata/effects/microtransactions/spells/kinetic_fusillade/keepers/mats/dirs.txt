@@ -1,4 +1,0 @@
-beam
-explosion
-projectile
-trail

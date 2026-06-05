@@ -1,6 +1,0 @@
-mb
-mb/act
-mb/conjure
-mb/lights
-mb/mirror
-tex

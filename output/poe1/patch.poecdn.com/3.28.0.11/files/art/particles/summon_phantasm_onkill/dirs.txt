@@ -1,6 +1,0 @@
-death
-emerge
-monster_fx
-projectiles
-projectiles/impact
-projectiles/spellcast

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+1dbf4c2830a0ee0a,kitavaarmourcns.mat,Tiny.V9.1,85290,2446
+0f1aaff54475b210,kitavaarmourns.dds,Streaming/Content/metadata/items/armours/helmets/A850DF728DA22F91.kitavahelmetstrdex.ao,2017255,349700
+25e6b0ef9caf6725,kitavaarmourns.dds.header,Tiny.V3,47059673,1520
+59d62b67ae5d3392,kitavaarmour_colour.dds,Streaming/Content/metadata/items/armours/helmets/A850DF728DA22F91.kitavahelmetstrdex.ao,94355,174924
+bda202a7e4b6a47b,kitavaarmour_colour.dds.header,Tiny.V4.1,336176,1520
+ecc3b839716aab61,kitavaarmour_glowc.mat,Tiny.V8,46998157,4862
+40ca89c751d909e4,kitavaarmour_glow_mask.dds,Streaming/Content/metadata/items/armours/helmets/A850DF728DA22F91.kitavahelmetstrdex.ao,618979,1398276
+ef931b933cf69092,kitavaarmour_glow_mask.dds.header,Tiny.VF.1,295772,1520
+27f3146ab2b2600e,kitavaarmour_glow.dds,Streaming/Content/metadata/items/armours/helmets/A850DF728DA22F91.kitavahelmetstrdex.ao,269279,349700
+a03c0c8a556a3a42,kitavaarmour_glow.dds.header,Tiny.V8,46996637,1520

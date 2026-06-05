@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+31f2e10b556b6b09,rig_0d70bf83.smd,Art/Models/Terrain/Leagues/Heist/Hub,1179625,55634
+752b7e8b4572b4df,rig_0d70bf83.smd.header,Tiny_5,61688649,368
+4a1efb624a80ded2,rig.amd,Tiny_5,61687118,116
+fd0f1006ee37b181,rig.ast,Tiny_5,61687234,1415
+eed34dfba2b86124,heistopstable.sm,Tiny_5,61686276,464
+372686e74b2b60d8,heisttribox.fmt,Art/Models/Terrain/Leagues/Heist/Hub,1161350,18275
+5374b45b0f133917,heisttribox.fmt.header,Tiny_5,61686927,191
+58c77895020a976c,heisttome.fmt,Art/Models/Terrain/Leagues/Heist/Hub,1145807,15543
+96bbe91e1a2e0bcf,heisttome.fmt.header,Tiny_5,61686740,187
+be7f546d33c229b1,heisthand.fmt,Art/Models/Terrain/Leagues/Heist/Hub,1061432,84375
+c9748c036cede5b5,heisthand.fmt.header,Tiny_5,61686089,187
+29789f0c3bc4906e,heistdrillops.fmt,Art/Models/Terrain/Leagues/Heist/Hub,950923,110509
+88f0129743bbeaf4,heistdrillops.fmt.header,Tiny_5,61685897,192

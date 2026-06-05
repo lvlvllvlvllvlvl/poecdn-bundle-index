@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+74a3a1a7a55ea119,hellion_normalaogloss_uncompressed.dds,Art/Textures/Monsters/HellionBoss_Blight_1,0,1398248
+1b4d0ed664dbd994,hellion_normalaogloss_uncompressed.dds.header,Tiny_8,38121916,1520
+ea973e2782638754,hellion_eye_glowc.mat,Tiny_8,38120480,1436
+7c54ffc608a15625,hellion_eye_glow.dds,Folders/art/textures/monsters/7/goatman,349700,11084
+7bbac3c2026b0fe0,hellion_eye_glow.dds.header,Tiny_8,38118960,1520
+3c8e065635b3c5a2,hellionboss_blightc.mat,Tiny_8,38127996,4252
+9b2b8a93a613fe22,hellionboss_blight_emissive_dxt1.dds,Folders/art/textures/monsters/C/harvestyellow,218964,174924
+9e14845a6d6f6dc8,hellionboss_blight_emissive_dxt1.dds.header,Tiny_8,38126476,1520
+c593cce01097ac16,hellionboss_blight_colour_dxt5.dds,Folders/art/textures/monsters/3/hellionboss_blight,0,349700
+6b5cc99a49827d84,hellionboss_blight_colour_dxt5.dds.header,Tiny_8,38124956,1520
+b232aaeaabf2855e,hellionboss_blight_colour_bc7.dds,Folders/art/textures/monsters/3/hellionboss_blight,0,349700
+ad250e973c47c374,hellionboss_blight_colour_bc7.dds.header,Tiny_8,38124956,1520
+1f2a346307f3898b,hellionboss_blight_colour.dds,Art/Textures/Monsters/HellionBoss_Blight,0,174924
+2960c0030e7cb0b8,hellionboss_blight_colour.dds.header,Tiny_8,38123436,1520

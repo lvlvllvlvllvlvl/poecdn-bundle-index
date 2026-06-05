@@ -1,0 +1,5 @@
+buff
+cast_hand
+cast_staff
+stage_pulse
+start

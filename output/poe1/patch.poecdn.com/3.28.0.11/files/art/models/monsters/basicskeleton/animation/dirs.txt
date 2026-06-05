@@ -1,6 +1,0 @@
-caster
-goldenones
-goldenones/goldenonesposed01
-goldenones/goldenonesposed02
-goldenones/goldenonesposed03
-mtx_despair

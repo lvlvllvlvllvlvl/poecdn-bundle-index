@@ -1,4 +1,0 @@
-tawhanuku
-tawhanuku_field
-tawhanuku_greeting
-tawhanuku_wild

@@ -1,9 +1,0 @@
-abyss
-abyss/lava
-abyssthickwall
-abyssthickwall/lava
-abysswall
-abysswall/lava
-thickwall
-thickwall/coralsinkhole
-thickwall/hallsofthedead

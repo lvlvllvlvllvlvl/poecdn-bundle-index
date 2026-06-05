@@ -1,4 +1,0 @@
-control_zone
-control_zone/standing_zone
-environment
-pillar_of_light

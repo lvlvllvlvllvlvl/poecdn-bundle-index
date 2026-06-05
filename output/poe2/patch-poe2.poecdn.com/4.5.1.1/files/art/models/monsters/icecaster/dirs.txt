@@ -1,0 +1,4 @@
+attachments
+attachments/hair
+attachments/skirt
+texture

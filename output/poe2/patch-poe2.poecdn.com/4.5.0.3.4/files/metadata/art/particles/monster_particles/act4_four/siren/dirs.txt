@@ -1,3 +1,0 @@
-textures
-textures/screech
-textures/twin_wave_crash_01

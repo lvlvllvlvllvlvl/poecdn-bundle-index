@@ -1,4 +1,0 @@
-aoe
-arrow
-melee
-wand

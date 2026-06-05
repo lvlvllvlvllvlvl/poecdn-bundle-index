@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+ac292d7893ba7755,hires_shockwave_slow.mat,Tiny.V6,41871627,6734
+d2b94d22ae9ece4a,scale_shockwave.mat,Tiny.VB,41997950,5902
+f5bc36ed0322ff4c,blur_dust.mat,Tiny.V0,41930772,3518
+a99c69971e203ec5,blur_dust_uncompressed.dds,Streaming/Shared/Normal/Shared.9,1485832,87528
+6818223ae8469440,blur_dust_uncompressed.dds.header,Tiny.VD,40961918,1520
+d517a2ea408f8610,p_crk_nmlao_dxt5.dds,Streaming/Shared/Normal/Shared,1990350,1398276
+6c00631406d95d16,p_crk_nmlao_dxt5.dds.header,Tiny.VA,5472880,1520
+05e0a4ef25aef1d9,rocks_nmlao_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/18984BCD3E7A422C.8E1BC572832EB3CF.crack_line.pet.2,0,1398276
+6e05593ac7b15e08,rocks_nmlao_dxt5.dds.header,Tiny.V3,37271907,1520
+6508055227d9a236,rocks_clr.mat,Tiny.V5,41302404,4230
+700d7782ba79c88f,rocks_clr_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/18984BCD3E7A422C.8E1BC572832EB3CF.crack_line.pet.1,2097676,1398276
+c84601841366d7ec,rocks_clr_dxt5.dds.header,Tiny.VC,39748960,1520
+2e6c1e003b71b79c,neural_wisp_phys.mat,Tiny.VE,41353550,2478
+a84c474dd8727db4,neural_wisp_phys_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/B91966BDABDC2B8E.351BF35C5F040FEE.seismic_weapon.epk,0,87556
+62bc96e68aed4a77,neural_wisp_phys_dxt5.dds.header,Tiny.VD,40980334,1520

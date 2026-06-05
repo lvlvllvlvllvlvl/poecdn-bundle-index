@@ -1,0 +1,9 @@
+astrolabe_fx
+fx_ao
+graphs
+pet
+ritualmapdevice
+ritualmapdevice/epk
+ritualmapdevice/fx
+ritualmapdevice/fxgraph
+ritualmapdevice/mat

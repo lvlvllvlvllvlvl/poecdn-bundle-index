@@ -1,4 +1,0 @@
-buff
-buff/epk
-explode
-rune

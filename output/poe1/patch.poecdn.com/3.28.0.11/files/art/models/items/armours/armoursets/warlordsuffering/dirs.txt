@@ -1,6 +1,0 @@
-attachment
-attachment/ornaments
-attachment/robe
-attachment/robe_front
-textures
-textures/fx

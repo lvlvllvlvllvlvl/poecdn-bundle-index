@@ -1,7 +1,0 @@
-models
-textures
-textures/handfx
-textures/minion
-textures/minion/slam
-textures/minion/spawn
-textures/minion/weapon

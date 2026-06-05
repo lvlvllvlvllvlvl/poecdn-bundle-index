@@ -1,4 +1,0 @@
-onact
-onact/attack_sword_shield
-onact/cleave_2hsword
-onact/cleave_sword_shield_01

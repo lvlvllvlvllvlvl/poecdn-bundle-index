@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+1cf0f720df027821,light_rig_43101cf2.smd,Streaming/Content/data/worldareas/BF/g2_2.vworld,0,10248
+a69792547678a4dc,light_rig_43101cf2.smd.header,Tiny.V6,36062075,448
+381c3fef3295e6a7,firelight.sm,Tiny.V3,14417675,386
+368e53745583b775,firelight.amd,Tiny.V0,7726753,104
+0141cd6aad09ccf4,firelight.ast,Tiny.VC,14473579,782
+19cc3d6143fc89a3,dustangle.amd,Tiny.V7,7122652,102
+0bf772439c877018,dustangle.ast,Tiny.V5,14454158,914
+34e6daafe99b0330,dust.amd,Tiny.V7,7122652,102
+dca39abb6826ea83,dust.ast,Tiny.VE,14454224,479
+4d4f22aea3106492,debris.amd,Tiny.V7,4026870,94
+90caae25422749a0,debris.ast,Tiny.V8,14565306,520

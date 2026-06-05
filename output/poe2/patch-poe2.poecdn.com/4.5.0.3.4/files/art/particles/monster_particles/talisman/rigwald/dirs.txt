@@ -1,5 +1,0 @@
-axe_throw
-transform
-transform/blood
-transform/shockwave
-wolf

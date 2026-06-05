@@ -1,5 +1,0 @@
-graphs
-rooms
-rooms/fill
-rooms/riverside
-rooms/unique

@@ -1,0 +1,5 @@
+end
+end_02
+idle
+on_act
+start

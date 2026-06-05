@@ -1,4 +1,0 @@
-molten_aoe
-molten_aoe_start
-slowwalk_slam
-sound_wave

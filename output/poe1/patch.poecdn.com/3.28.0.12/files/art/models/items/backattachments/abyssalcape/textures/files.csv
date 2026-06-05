@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+2d37dd4167d04110,eyec.mat,Tiny_2,52732744,3182
+66d8014abf6599a2,eye_normalc.mat,Tiny_2,52729942,2802
+2fd05b852b8cd695,eye_normal.dds,Folders/art/models/items/backattachments/abyssalcape/textures_3,2097488,699212
+13465051204402d0,eye_normal.dds.header,Tiny_2,52728422,1520
+1ba4c74299b5b528,eye_glow.dds,Folders/art/models/items/backattachments/abyssalcape/textures_3,699212,1398276
+a3ec9409923f660d,eye_glow.dds.header,Tiny_2,52726902,1520
+2802ab4c6aae2d4d,eye_colour.dds,Folders/art/models/items/backattachments/abyssalcape/textures_3,0,699212
+e564024cbacdfcc0,eye_colour.dds.header,Tiny_2,52725382,1520
+ec56c91fb8913540,abyssalcapec.mat,Tiny_2,52717760,7622
+892125b3a2f67d03,abyssalcape_normal.dds,Folders/art/models/items/backattachments/abyssalcape/textures_2,0,5592580
+81703586c07fd819,abyssalcape_normal.dds.header,Tiny_2,52716240,1520
+cbadc0d1a1b465b6,abyssalcape_metal.dds,Folders/art/models/items/backattachments/abyssalcape/textures_1,0,2796364
+492a485aa56773e1,abyssalcape_metal.dds.header,Tiny_2,52714720,1520
+9b48894c5127c9d1,abyssalcape_colour.dds,Folders/art/models/items/backattachments/abyssalcape/textures,0,5592580
+074e9c1926ae7f96,abyssalcape_colour.dds.header,Tiny_2,52713200,1520

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+c1cc1fde7e3c669d,treasurecns.mat,Tiny.V2.1,878960,3866
+1db39a42c154f760,treasure.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/FBBC41766642196B.rig_map.ao.3,0,349700
+3a6f99ed2f7f897c,treasure.dds.header,Tiny.V8,34610527,1520
+ac1c5814846a53cc,cave2ccavens.mat,Tiny.V5.1,694022,4960
+cbebc2ba1717da6f,cave2.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/FBBC41766642196B.rig_map.ao,734482,1398276
+8fc92ef4aeb12a09,cave2.dds.header,Tiny.VA.1,897311,1520
+5a5d9258610d8013,spectreportalspecularc.mat,Tiny.V1.1,416782,3492
+f8ce8a26b5e2ded4,spectreportal_glow_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/FBBC41766642196B.rig_map.ao.2,0,1398276
+79ed5f27c930b612,spectreportal_glow_dxt5.dds.header,Tiny.VA.1,898831,1520
+ee8bc59f93d4c099,spectreportal_normal_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/FBBC41766642196B.rig_map.ao.2,1398276,1398276
+a93887fd7a4967c2,spectreportal_normal_dxt5.dds.header,Tiny.VA.1,900351,1520
+fba7ad0f0f634fcf,spectreportal_colourspecular_bc7.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/FBBC41766642196B.rig_map.ao.1,0,2796388
+674b1e74cec1211d,spectreportal_colourspecular_bc7.dds.header,Tiny.V2.1,878120,840
+5ceebc11d327671d,spectreportal_colourspecular.dds,Streaming/Content/metadata/effects/microtransactions/town_portals/FBBC41766642196B.rig_map.ao,2614730,1398268
+12aa98c0ba2d2921,spectreportal_colourspecular.dds.header,Tiny.V8.1,485204,840

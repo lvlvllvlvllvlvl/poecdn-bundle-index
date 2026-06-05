@@ -1,3 +1,0 @@
-circular_rad
-circular_rad/loop
-player_shadow

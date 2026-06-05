@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+9b90d02c5ddd527b,primalwisps_spritburst_01_u.mat,Tiny.VB.1,123647963,19402
+2887decd6a700b9e,primalguide_coresphere_01_u.mat,Tiny.V8.1,121621300,5402
+00253333562d82bf,primalguide_flares_01_u.mat,Tiny.VE.1,121419092,5234
+dbc87b2e0316d26b,primalguide_energy_01_r1.mat,Tiny.V4.1,121822624,33574
+dbebf8eb7cf83b64,primalguide_energy_01_u.mat,Tiny.V1.1,121202018,30564
+8206b84d5cd36556,primalguide_sprites_01_u.mat,Tiny.V6.1,120074275,24912
+a0b87930381bc328,primalguide_sprites_02_u.mat,Tiny.V0.1,120770762,22732
+a171e30ea1a09060,sacredwisps_spritburst_01_r.mat,Tiny.V0.1,122343910,12970
+1a74fe91648cc477,sacredguide_sprites_01_r.mat,Tiny.VF.1,119958022,14478
+4e90642118f509ad,sacredguide_energy_01_r.mat,Tiny.VF.1,119910310,47712
+d2f69a355f5aaf0b,sacredguide_flares_01_r.mat,Tiny.V8.1,123451576,34194
+32ff4f1c8de258fa,sacredguide_coresphere_01_r.mat,Tiny.V6.1,121593945,50312
+353baba6ea213950,sacredguide_coresphere_01_r1.mat,Tiny.VB.1,123714429,49644
+4edeb3182656198f,general_mblur_sphere_01_r.mat,Tiny.V0.1,122320122,23788
+a70d6338456b7a42,general_mblur_sphere_01_u.mat,Tiny.V2.1,123978702,3050

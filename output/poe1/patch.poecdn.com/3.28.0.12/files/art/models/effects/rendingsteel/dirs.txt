@@ -1,0 +1,3 @@
+metalburst
+projectile
+slasheffect

@@ -1,8 +1,0 @@
-attachments
-axe
-axe_axe
-axe_dagger
-axe_shield
-bow
-dagger_dagger
-staff

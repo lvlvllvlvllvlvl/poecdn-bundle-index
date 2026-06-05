@@ -1,6 +1,0 @@
-lunaristemple
-lunaristemple/bloodpool
-lunaristemple/bloodpool/waterfall
-sarn_nontoxic
-sarn_toxic
-solaristemple

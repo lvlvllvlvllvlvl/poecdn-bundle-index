@@ -1,0 +1,3 @@
+epk
+epk/stygianpuncture_arrow
+epk/stygianpuncture_arrow/pet

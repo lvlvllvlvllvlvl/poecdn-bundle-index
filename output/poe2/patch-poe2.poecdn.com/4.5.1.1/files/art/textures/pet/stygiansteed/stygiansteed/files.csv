@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+479550047ce1f806,hellsteed_fx_dxt1.dds,Streaming/Content/metadata/pet/stygiansteed/stygiansteedpet.ot,145038,43852
+4bc6512bdcdfaaa5,hellsteed_fx_dxt1.dds.header,Tiny.V4.1,1835518,1520
+e682bb25b71d4522,tail_mask_dxt1.dds,Streaming/Content/metadata/pet/stygiansteed/stygiansteedpet.ot,385834,22012
+0733a3674df3cf03,tail_mask_dxt1.dds.header,Tiny.V2.1,1473278,840
+d82dbb952b517247,lava_dots_at_dxt5.dds,Streaming/Content/metadata/pet/stygiansteed/stygiansteedpet.ot,188890,22020
+e64c2459611d4c9d,lava_dots_at_dxt5.dds.header,Tiny.VD.1,1314097,1520
+b0c1b83fbc9b9033,light_beam_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/spells/17CE9127E84868A5.D1AC74E5AECBBE16.cyl.pet,541228,43852
+be5bab6ee6f1139a,light_beam_dxt1.dds.header,Tiny.V7,4041660,1520
+2023b20657a813fd,stygiansteed_eye_glow_dxt1.dds,Streaming/Content/metadata/pet/stygiansteed/stygiansteedpet.ot,210910,174924
+c8375cf4e31a186b,stygiansteed_eye_glow_dxt1.dds.header,Tiny.V3.1,1290329,1520
+92d61886031a1cc8,scream_wisp.mat,Tiny.V6.1,1770320,3972
+9562687fac8e2397,scream_wisp_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/DE36D83279A2DEC2.CAE58C92B230AD8B.surge.pet,0,43876
+7a47216c77e2514f,scream_wisp_dxt5.dds.header,Tiny.VE,6429695,840
+15f6c4f72d78b73f,fire_bits_2x2_dxt1.dds,Streaming/Shared/Normal/Shared.2,4658498,174924
+0f61bcfd59ccfded,fire_bits_2x2_dxt1.dds.header,Tiny.VF,35652407,1520

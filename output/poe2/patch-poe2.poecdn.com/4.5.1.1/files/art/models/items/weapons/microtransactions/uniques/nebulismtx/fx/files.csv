@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+53f3336404f7f69d,wisp_smoke_base.mat,Tiny.V9,11599861,2788
+8fcdde719d791057,ice_arrowc.mat,Tiny.VA,11197861,5224
+4b82231919bb312e,arc_beam.mat,Tiny.VA,11189517,6824
+2f167b3fe4fe0566,lightning_2x2.mat,Tiny.V4,11269894,1872
+b8bf632273ffc9e3,nebulismtx_curv_dxt5.dds,Streaming/Content/metadata/items/weapons/onehandweapons/3CC4977ED5F4A143.F7961CF55176867F.lightn_cast_03.epk,0,349700
+947fcc6cc7992510,nebulismtx_curv_dxt5.dds.header,Tiny.V2,11400711,1520
+0a47a550fb457d68,nebulismtx_glow2_dxt5.dds,Streaming/Content/metadata/items/weapons/onehandweapons/3CC4977ED5F4A143.F7961CF55176867F.cold_cast.epk,699400,349700
+ea78c68da9365fdf,nebulismtx_glow2_dxt5.dds.header,Tiny.VA,11203085,1520
+44002acd2febf03b,crystal_mask_dxt5.dds,Streaming/Content/metadata/items/weapons/onehandweapons/3CC4977ED5F4A143.F7961CF55176867F.cold_cast.epk,349700,349700
+75d72b6e579a2f19,crystal_mask_dxt5.dds.header,Tiny.VD,11126324,1520
+238283c7fa5b1ab7,colditem_mask_dxt5.dds,Streaming/Content/metadata/items/weapons/onehandweapons/3CC4977ED5F4A143.F7961CF55176867F.cold_cast.epk,0,349700
+996da0067c47b22e,colditem_mask_dxt5.dds.header,Tiny.VA,11196341,1520
+f5d82b5a746ac217,sparkling.mat,Tiny.VE,11207248,1674
+1d7a6cc700ac84ca,static_3x3.mat,Tiny.VC,11090716,4734

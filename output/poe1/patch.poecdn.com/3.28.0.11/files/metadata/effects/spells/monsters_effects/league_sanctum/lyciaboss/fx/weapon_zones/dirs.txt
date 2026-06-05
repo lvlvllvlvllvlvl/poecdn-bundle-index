@@ -1,5 +1,0 @@
-attack
-basic
-dash
-death
-idle

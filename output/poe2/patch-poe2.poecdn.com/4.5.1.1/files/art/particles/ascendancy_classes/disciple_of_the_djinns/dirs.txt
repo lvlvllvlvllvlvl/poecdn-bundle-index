@@ -1,0 +1,4 @@
+djinn_fire
+djinn_sand
+djinn_sand/knife_throw
+djinn_sand/teleport_explosion

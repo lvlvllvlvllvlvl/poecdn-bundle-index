@@ -1,5 +1,0 @@
-corpse_explo
-ground_crax
-projectile
-projectile_impact
-projectile_impact_01

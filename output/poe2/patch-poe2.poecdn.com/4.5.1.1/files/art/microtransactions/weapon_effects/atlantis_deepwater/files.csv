@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+74a659a72d7b78ff,grads.mat,Tiny.V2,6694540,1934
+0be2b66e0a579f4c,trail.mat,Tiny.V4,6521099,4122
+77f8d2cae09226ce,trail_caustic.mat,Tiny.VD,6355288,3592
+e1512fbfe7f36717,water_swirly.mat,Tiny.V0,6513219,3746
+2dd8178704391f6f,water_swirly_shim.mat,Tiny.VA,6479932,2754
+b587e225fdc54e4f,bubble_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.9DF7EC14AB796C63.bow.epk,896484,11084
+44c9e6a10f97fb33,bubble_dxt1.dds.header,Tiny.V3,6349124,1520
+011ac6d453cdb4bb,bubbles.mat,Tiny.V1,6369979,2816
+1f4dddec1d453875,bubbles_refract.mat,Tiny.V1,6372795,2608

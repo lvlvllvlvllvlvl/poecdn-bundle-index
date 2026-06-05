@@ -1,9 +1,0 @@
-doorlight
-heiststash
-opstable
-staffsocket
-staffsocket/animations
-staffsocket/animations/cables
-staffsocket/animations/socket
-standinglamp
-tgms

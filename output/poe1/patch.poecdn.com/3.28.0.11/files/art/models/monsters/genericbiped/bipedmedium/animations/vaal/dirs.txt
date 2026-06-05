@@ -1,6 +1,0 @@
-bow
-claw
-forgemaster
-spear
-trapper
-twohandclub

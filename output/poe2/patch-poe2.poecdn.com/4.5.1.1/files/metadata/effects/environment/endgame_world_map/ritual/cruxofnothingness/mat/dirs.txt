@@ -1,0 +1,3 @@
+affect_map_pin
+maps_cruxofnothingness_aimation_02
+maps_cruxofnothingness_aimation_02/fadein_01

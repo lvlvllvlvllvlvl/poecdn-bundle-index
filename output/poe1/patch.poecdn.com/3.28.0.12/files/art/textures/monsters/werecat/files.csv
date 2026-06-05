@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+5d7d9ecc3138d4d6,werecatc.mat,Tiny_8,44933092,2452
+5318435c928291eb,werecat_normal_dxt5.dds,Art/Textures/Monsters/WereCat,174924,349700
+c1005dc6865ee80c,werecat_normal_dxt5.dds.header,Tiny_8,44931572,1520
+c9943b3f6e689e6b,werecat_colour_dxt5.dds,Art/Textures/Monsters/WereCat,524624,349700
+29812cfa13923000,werecat_colour_dxt5.dds.header,Tiny_8,44930052,1520
+50659d4c3b841eda,werecat_colour_bc7.dds,Art/Textures/Monsters/WereCat,524624,349700
+a5cfc2ad534f0322,werecat_colour_bc7.dds.header,Tiny_8,44930052,1520
+7880420e8bdd7519,werecat_colour.dds,Art/Textures/Monsters/WereCat,0,174924
+a1bb1207064ac611,werecat_colour.dds.header,Tiny_8,44928532,1520

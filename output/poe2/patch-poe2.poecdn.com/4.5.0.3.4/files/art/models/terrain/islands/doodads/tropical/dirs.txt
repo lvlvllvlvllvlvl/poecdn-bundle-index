@@ -1,5 +1,0 @@
-petrifiedexplorer
-petrifiedexplorer/petrifiedexplorer01
-textures
-textures/beachlanding
-textures/petrifiedexplorer

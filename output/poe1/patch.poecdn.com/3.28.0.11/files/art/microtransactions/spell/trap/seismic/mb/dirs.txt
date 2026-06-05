@@ -1,4 +1,0 @@
-trap
-trap_base
-trigger
-trigger/animations

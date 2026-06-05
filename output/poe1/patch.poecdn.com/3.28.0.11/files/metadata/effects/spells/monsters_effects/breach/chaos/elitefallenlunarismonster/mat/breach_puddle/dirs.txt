@@ -1,4 +1,0 @@
-burst
-close
-loop
-open

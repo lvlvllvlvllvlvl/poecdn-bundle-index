@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-3a640e450ecbafc4,lightning_bolt_render.mat,Tiny_D,288285634,44674
-7e2f7d73896f33c9,lightning_bolt_update.mat,Tiny_11,150820658,310
-217f785956aee420,impact_sparks_render.mat,Tiny_D,288259168,19956
-73eafa3a3965267c,impact_sparks_update.mat,Tiny_D,288279124,6510
-95bc234b6b5b6d7f,impact_flash_render.mat,Tiny_D,288243710,15458
-8bd9389c1f477ec3,impact_flash_update.mat,Tiny_11,150820658,310
-723516a6fd604f5e,bolt_upwards_render.mat,Tiny_D,288201114,42596
-c78f76940577408c,bolt_upwards_update.mat,Tiny_11,150820658,310

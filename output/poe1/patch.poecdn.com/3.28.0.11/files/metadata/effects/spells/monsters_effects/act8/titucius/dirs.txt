@@ -1,4 +1,0 @@
-bash
-on_act
-shield_charge
-slam

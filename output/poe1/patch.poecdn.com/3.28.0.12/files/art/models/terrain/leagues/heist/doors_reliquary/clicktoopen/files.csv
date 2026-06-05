@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+e13f9175bba9ed90,heistdoor_01_eventdrivenblocker.fmt,Tiny_5,61449127,269
+4e3fb79fa9e20e25,heistdoor_01_eventdrivenblocker.fmt.header,Tiny_5,61449396,152
+81a925a8c85f8694,heistdoor_01_clicktoopendoor.fmt,Tiny_7,19668252,43
+45a0f0f7f49e20a1,heistdoor_01_clicktoopendoor.fmt.header,Tiny_7,56868231,128
+33596e7d1b04ca07,heistdoor_01.sm,Tiny_5,61106891,466
+7eff129ca495e8f0,heistdoor_01.tgt,Tiny_5,61107357,2082
+f52ed7d340e89005,heistdoor_01.tmd,Tiny_5,61109439,955
+fe62e735130911ed,door_rig_c7e17fea.smd,Art/Models/Terrain/Leagues/Heist/Doors_Reliquary,0,228020
+77d214fdee14c416,door_rig_c7e17fea.smd.header,Tiny_5,61192012,405

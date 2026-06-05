@@ -1,3 +1,0 @@
-form
-idle_floating
-idle_shattered

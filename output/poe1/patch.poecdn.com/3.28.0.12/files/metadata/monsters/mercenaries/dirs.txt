@@ -1,0 +1,7 @@
+mercenaryduelist
+mercenarymarauder
+mercenaryranger
+mercenaryscion
+mercenaryshadow
+mercenarytemplar
+mercenarywitch

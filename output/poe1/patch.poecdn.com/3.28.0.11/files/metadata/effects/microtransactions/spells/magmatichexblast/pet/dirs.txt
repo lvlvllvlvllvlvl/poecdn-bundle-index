@@ -1,4 +1,0 @@
-doom_blast
-doom_blast_cursed
-magma_summon
-shockwave

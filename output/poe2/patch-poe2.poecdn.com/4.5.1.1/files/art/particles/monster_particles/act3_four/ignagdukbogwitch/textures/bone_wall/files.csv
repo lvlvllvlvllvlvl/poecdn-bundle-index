@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+0d90d00ff9724096,dirt_alphatest.mat,Tiny.VE,36162149,2890
+a68a70be8851a8f4,smoke.mat,Tiny.V1,36528809,2836
+30705f88deef792d,rubble.mat,Tiny.VD,36806611,1754
+396496ff9e52a980,flash.mat,Tiny.VC,36938882,1472
+43f2c2df755ec83b,crk_02_render.mat,Tiny.V3,36132393,8758
+daceb5ce5063d001,crk_02_update.mat,Tiny.VF,34513983,374
+4a53cd718f0e21ed,grd_debris_render.mat,Tiny.V6,36537309,4492
+be7f707fe8e61a67,grd_debris_update.mat,Tiny.V6,36541801,5280
+838e61ffa176d0e4,bone_wallc.mat,Tiny.V7,36553036,2992
+fc700426b04e552c,bone_wall_normalaorough_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.9065AB6B892C5151.cylaxis.pet,422180,349700
+29c5e68cc61ed524,bone_wall_normalaorough_dxt5.dds.header,Tiny.V5,36279519,1520
+ce120f0a01731b74,bone_wall_colour_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/48EC742C51A58BCA.9065AB6B892C5151.cylaxis.pet,72480,349700
+f2c35aebce4eaf12,bone_wall_colour_dxt5.dds.header,Tiny.V6,36535789,1520

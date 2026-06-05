@@ -1,0 +1,7 @@
+beast
+goblindrummer
+goblingiantboss
+goblinminer
+goblinshaman
+goblinshaman/runemarked
+goblinspearman

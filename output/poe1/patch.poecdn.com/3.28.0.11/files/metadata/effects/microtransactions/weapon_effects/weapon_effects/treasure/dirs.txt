@@ -1,5 +1,0 @@
-controllers
-epk
-fx
-fx_old
-graph

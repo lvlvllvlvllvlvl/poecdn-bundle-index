@@ -1,4 +1,0 @@
-corecracks
-corecracks_low
-impact
-impact_low

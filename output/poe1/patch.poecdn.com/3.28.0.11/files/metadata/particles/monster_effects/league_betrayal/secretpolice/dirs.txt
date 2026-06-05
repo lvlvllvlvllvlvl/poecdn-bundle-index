@@ -1,8 +1,0 @@
-chargedattack
-chargedattack/charge_up
-chargedattack/release_max
-chargedattack/shadow01
-clones
-daggerprojectile
-frostfury
-tasernet

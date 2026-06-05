@@ -1,3 +1,0 @@
-mb
-mb/flesh_boulder
-tex

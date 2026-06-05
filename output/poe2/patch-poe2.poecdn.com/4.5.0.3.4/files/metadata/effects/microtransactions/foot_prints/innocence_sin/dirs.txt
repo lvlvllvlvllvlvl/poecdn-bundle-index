@@ -1,7 +1,0 @@
-blend
-blend/pets
-blend/town_idle
-sin
-sin/epk
-sin/pet
-sin/town_idle

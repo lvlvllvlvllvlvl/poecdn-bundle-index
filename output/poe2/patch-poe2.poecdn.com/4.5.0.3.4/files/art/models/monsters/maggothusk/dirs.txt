@@ -1,5 +1,0 @@
-maggothusk
-maggothusktorso
-maggothusktorso/animations
-maggothusktorso/animations/fissure_corpse
-textures

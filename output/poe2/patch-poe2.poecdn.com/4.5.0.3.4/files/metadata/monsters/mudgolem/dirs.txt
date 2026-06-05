@@ -1,5 +1,0 @@
-effects
-effects/ao
-effects/epk
-effects/graph
-effects/pet

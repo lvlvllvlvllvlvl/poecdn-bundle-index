@@ -1,0 +1,16 @@
+balefirequiver
+blightedrangerquiver
+darkwoodquiver
+dragonhunterquiver
+eldritchemperorquiver
+eldritchemperorquiver/attachments
+goblinshamanquiver
+infernalquiver
+karuiquiver
+midnightpactoverseerquiver
+nightlotusrangerquiver
+pandemoniumquiver
+skadiquiver
+tencentlunarquiver
+textures
+watergoblinquiver

@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-48d9bc17224e7d82,blank_fill.arm,Tiny_11,64565985,1390
-4ed56bf460f5519a,insideground_fill.arm,Folders/metadata/E/terrain,9338890,14760
-41554d464f8feac2,water_fill.arm,Folders/metadata/5/terrain,9764646,14762
-4fca00c3695ceceb,city_water_fill.arm,Folders/metadata/3/terrain,2426738,14780
-cd370414f82e8037,city_fill_straight_1_1.arm,Tiny_11,118514849,2886
-e149a52d2234ae66,city_fill_cap_1_1.arm,Tiny_11,118509077,2886
-b05d8baae8243fac,city_fill_concave_1_1.arm,Tiny_11,118511963,2886

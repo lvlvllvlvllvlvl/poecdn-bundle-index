@@ -1,0 +1,9 @@
+calamity_of_frost
+cas_spike
+cas_spike_end
+expanding_shock_nova
+lightning_strike
+tiki_arc
+tiki_fireball
+volcanic_burst
+volcano_slam

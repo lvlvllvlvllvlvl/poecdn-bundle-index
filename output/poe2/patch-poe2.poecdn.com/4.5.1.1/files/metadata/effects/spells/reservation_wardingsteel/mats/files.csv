@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+26a089bc418c6248,coreblast_r.mat,Tiny.V1.1,164341968,43832
+e71baa1fcb4a8755,coreblast_u.mat,Tiny.VE.1,12563624,310
+5f14da41faa728b3,shrapnelexplosion_r.mat,Tiny.V7.1,163114776,35650
+a9c3a1f94cd4c18f,shrapnelexplosion_u.mat,Tiny.VA.1,164202789,6728
+a83de725f5b24067,ringsmoke_r.mat,Tiny.V4.1,165894758,20676
+a983f7c73d2a04f7,ringsmoke_u.mat,Tiny.V7.1,37827328,18114
+2728ca189662b86b,impactaoeringshimmer_r.mat,Tiny.V3.1,25141627,24398
+f154fd60ba05b206,impactaoering_r.mat,Tiny.V0.1,165727052,40728
+3f5fb255a216d13e,impactaoering_u.mat,Tiny.VD.1,26528450,2378
+468bbf7ccd22da9d,windpushwave_u.mat,Tiny.V2.1,175321640,4694
+28dba79d7095781d,windpushwave_r1.mat,Tiny.VD.1,166130880,38520
+4c647e460dc5ad7f,windpushwave_r2.mat,Tiny.VB.1,24437541,31402
+e1cb364a88d73a8a,wardingsteel_surge_r.mat,Tiny.V2.1,166989540,33180
+c01440920ab67c1d,wardingsteel_surge_u.mat,Tiny.V6.1,165160115,1144
+bea80493419e685a,wardingsteel_shards_r1.mat,Tiny.VA.1,164209517,52890
+81e00f37ec4a697b,wardingsteel_shards_u.mat,Tiny.V3.1,168323057,7540

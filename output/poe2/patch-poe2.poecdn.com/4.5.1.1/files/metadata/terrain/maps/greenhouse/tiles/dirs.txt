@@ -1,0 +1,6 @@
+exteriorwall
+ledge
+thickwall
+thickwall/tall
+thickwall/tall/unwalkable
+thinwall

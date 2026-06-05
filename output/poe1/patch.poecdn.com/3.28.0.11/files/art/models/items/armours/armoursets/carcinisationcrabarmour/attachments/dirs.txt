@@ -1,6 +1,0 @@
-accessory
-antennaa
-antennab
-eyemandiblea
-eyemandibleb
-loincloth

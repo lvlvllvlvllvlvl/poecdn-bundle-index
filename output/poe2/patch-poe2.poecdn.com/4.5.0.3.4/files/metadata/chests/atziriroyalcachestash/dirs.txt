@@ -1,5 +1,0 @@
-attachments
-attachments/toucan
-fx
-fx/mat
-fx/pet

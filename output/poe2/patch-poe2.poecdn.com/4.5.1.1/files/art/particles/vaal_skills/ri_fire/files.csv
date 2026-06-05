@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+50e38732fd6a68ca,cloud_black.mat,Tiny.V0,41880945,3632
+f043ef3039621284,cloud_black.dds,Streaming/Content/metadata/particles/vaal_skills/ri_fire/loop_ringline.pet,33128,22020
+4253afc761cf9eb5,cloud_black.dds.header,Tiny.V3,41004115,1520
+9e887dab7b5b9fa6,ink_dripc.mat,Tiny.V4,41941897,3334
+4ae071d1fdd8533a,ink_drip.dds,Streaming/Content/metadata/effects/spells/storm_call_02/D1AC74E5AECBBE16.marker_idle.pet,1139969,22020
+f483fc5f29b89499,ink_drip.dds.header,Tiny.VC,42001768,1520
+a5a36884099df257,fire_thinlines.dds,Streaming/Content/metadata/particles/vaal_skills/ri_fire/loop_ringline.pet,11108,22020
+44bd4de17dd12eb6,fire_thinlines.dds.header,Tiny.V4,41915137,1520
+4c6557a46784444c,fire_lookup.dds,Tiny.V8,41189409,2212
+6306c8a125a997bd,fire_lookup.dds.header,Tiny.VB,41952956,280
+b50552dbcc4b7b71,fire_bits2_at.mat,Tiny.VF,41670251,4182
+82648679f1509005,fire_bits2_at.dds,Streaming/Content/metadata/particles/vaal_skills/ri_fire/loop_ringline.pet,0,11108
+dd81f582de6cae40,fire_bits2_at.dds.header,Tiny.V4,41914297,840

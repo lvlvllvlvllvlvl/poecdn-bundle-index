@@ -1,3 +1,0 @@
-mudflats
-skeleton_bow
-water_ele

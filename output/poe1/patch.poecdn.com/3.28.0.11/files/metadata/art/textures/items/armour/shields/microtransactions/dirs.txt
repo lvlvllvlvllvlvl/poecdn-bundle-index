@@ -1,4 +1,0 @@
-crucibleshield
-crucibleshield/fx
-doomgauntletshield
-doomgauntletshield/fxtexture

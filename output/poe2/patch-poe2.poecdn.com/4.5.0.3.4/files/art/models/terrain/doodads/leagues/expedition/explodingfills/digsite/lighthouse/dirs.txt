@@ -1,4 +1,0 @@
-lighthouse01
-lighthouse02
-lighthouse03
-lighthouse03/lighthouse

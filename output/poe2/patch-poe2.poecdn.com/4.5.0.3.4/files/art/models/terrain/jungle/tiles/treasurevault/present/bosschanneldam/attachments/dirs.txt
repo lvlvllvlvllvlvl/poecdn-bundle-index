@@ -1,2 +1,0 @@
-l_slab
-r_slab

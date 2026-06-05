@@ -1,4 +1,0 @@
-cleansingfirealtar
-cleansingfirealtar/altar_fadeout
-tangledaltar
-tangledaltar/altar_fadeout

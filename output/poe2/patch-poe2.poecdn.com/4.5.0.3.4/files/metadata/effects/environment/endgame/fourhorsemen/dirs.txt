@@ -1,7 +1,0 @@
-death
-death/fx
-death/mat
-death/mat/impact
-death/mat/screech
-death/mat/wing_impact
-death/mat/wings

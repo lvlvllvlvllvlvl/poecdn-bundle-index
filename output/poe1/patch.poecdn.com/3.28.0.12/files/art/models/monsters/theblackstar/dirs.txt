@@ -1,0 +1,5 @@
+attachments
+attachments/blackstarcrown
+attachments/blackstarrobe
+attachments/blackstarsleeves
+textures

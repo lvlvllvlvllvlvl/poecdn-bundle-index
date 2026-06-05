@@ -1,3 +1,0 @@
-attachments
-attachments/left_hip_plate
-attachments/right_hip_plate

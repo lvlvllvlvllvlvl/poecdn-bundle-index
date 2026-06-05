@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+01770312041eb7bd,scroll.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/A40F8159AA159041.guardian_chargeup_ptemit.pet,5592580,87556
+1e5104487d9af752,scroll.dds.header,Tiny.V9,38423303,1520
+ec8d49ef5bab46e7,lightning_lookup.dds,Tiny.VC,40625958,2212
+9063b8edb69e837b,lightning_lookup.dds.header,Tiny.VC,40628170,280
+18013b38f22717a0,neuron09_5x5.mat,Tiny.VF,40307677,3936
+b98a826303d86674,neuron09_5x5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/A40F8159AA159041.guardian_chargeup_ptemit.pet,0,5592580
+7fe582d37cb49e85,neuron09_5x5.dds.header,Tiny.VF,40274167,1520

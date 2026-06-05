@@ -1,7 +1,0 @@
-apex
-lower_exterior
-mid_exterior
-subsceneswamp
-swamp
-upper_exterior
-upperspawners

@@ -1,0 +1,12 @@
+attachments
+attachments/f
+attachments/f/necromantlechest
+attachments/f/necromantleskirt
+attachments/f/necromantleskirtbones
+attachments/f/necromantleskull
+attachments/m
+attachments/m/necromantlechest
+attachments/m/necromantleskirt
+attachments/m/necromantleskirtbones
+attachments/m/necromantleskull
+textures

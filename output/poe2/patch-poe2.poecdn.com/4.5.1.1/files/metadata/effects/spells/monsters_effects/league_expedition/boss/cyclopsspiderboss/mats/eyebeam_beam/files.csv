@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+9d4fb2c2a386f2bd,start_beamcore_r.mat,Tiny.V4.1,140936358,55422
+257174c9c00e3fe6,ice_crystalflakes_r.mat,Tiny.V1.1,145400852,26538
+364e7633c9bc2834,ice_crystalflakes_u.mat,Tiny.V0.1,144104042,29268
+c3d439125bde1b68,lightning_sparks_r.mat,Tiny.V6.1,140107933,37088
+3ed14cb70c005b30,lightning_sparks_u.mat,Tiny.VF.1,142614196,30062
+d632f00383339539,lightningbeam_attack_r2.mat,Tiny.VB.1,146256839,66746
+bb0d23ba4f8fd645,lightningbeam_attack_u.mat,Tiny.V5.1,144393178,2252
+5bd7c37f7147c1e4,bnpnt_emit_u.mat,Tiny.VD.1,144585282,2874
+54aa4245108d1ab0,beam_origin_hsphere_r.mat,Tiny.V2.1,142993440,46654
+58ebac703b70f65b,beam_energywispy_r.mat,Tiny.V1.1,140971008,49832
+3c3509563c2f6b7e,beam_energy_r2.mat,Tiny.V5.1,139946470,49642
+732fabbfb5c0f450,beam_energy_r3.mat,Tiny.V0.1,140138824,20012

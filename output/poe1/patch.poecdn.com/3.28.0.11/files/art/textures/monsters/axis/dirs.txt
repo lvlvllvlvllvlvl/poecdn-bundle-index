@@ -1,7 +1,0 @@
-caster_lunaris
-caster_solaris
-elite_lunaris
-elite_lunaris/boss
-elite_solaris
-elite_solaris/boss
-footsolider

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+f3230c2c038ea878,glow_masks_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/gloves/2B162F6252683DBB.ABBF7EAF2F043B75.tier_corruption.epk,0,349700
+da5e4f43e5387a79,glow_masks_dxt5.dds.header,Tiny.V3,9948727,1520
+689aec1eb265d94d,tier_masks_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/gloves/2B162F6252683DBB.ABBF7EAF2F043B75.tier_corruption.epk,349700,1398268
+5f3a8b3bda6317c7,tier_masks_dxt1.dds.header,Tiny.V7,9916612,840
+def95e25eb11f930,hothtc.mat,Tiny.V9,10300844,2930
+4c006bcf4dd8d5d2,hotht_normal_dxt5.dds,Streaming/Content/art/models/items/armours/0D8F7435691AA6C3.7B2EE2FF07D83EFB.handsofthehightemplar.fmt,349700,349700
+cf642d68a43ea08b,hotht_normal_dxt5.dds.header,Tiny.VA,9963706,1520
+943e5688b6beddd9,hotht_colour_dxt5.dds,Streaming/Content/art/models/items/armours/0D8F7435691AA6C3.7B2EE2FF07D83EFB.handsofthehightemplar.fmt,0,349700
+3ff3d7f9600c3354,hotht_colour_dxt5.dds.header,Tiny.V7,9915092,1520

@@ -1,4 +1,0 @@
-march
-pulse
-shockwave2
-shockwave4

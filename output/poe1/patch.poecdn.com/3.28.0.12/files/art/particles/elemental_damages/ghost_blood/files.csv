@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+99b7932007fa7807,bloodmist2.mat,Tiny_6,22755762,1390
+998202d5609b7813,water_spark.mat,Tiny_6,22774092,1198
+1d5711fc52d9ab30,water_splash_02.mat,Tiny_6,22775290,6984
+cb0021e2a6091902,spit_water.mat,Tiny_6,22762670,6048
+fc48b05f2b36ff1e,splash.mat,Tiny_6,22768718,5374
+6d4128da99ee2977,splash_dxt5.dds,Folders/art/particles/hydro_catalyst/textures,2796352,87556
+d7347d3591b8595f,splash_dxt5.dds.header,Tiny_7,2084757,1520
+ffed81fcd4759022,smoketest.mat,Tiny_6,92412059,1004
+e40690649e8d4a08,smoke_dxt5.dds,Folders/art/particles/elemental_damages/ghost_blood,349700,43876
+ce3144eb25d26f35,smoke_dxt5.dds.header,Tiny_6,24708963,840
+7757fd6979de2b0f,corpseexplosion_colour.mat,Tiny_6,22757152,3998
+1fd18abf7c50486f,corpseexplosion_colour_dxt5.dds,Folders/art/particles/elemental_damages/ghost_blood,0,349700
+f2e89634fbb1d1b6,corpseexplosion_colour_dxt5.dds.header,Tiny_6,22761150,1520

@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+148234ad5cff021f,debris_01_r.mat,Tiny.VA.1,90064223,46632
+a6772486c4f11fdc,debris_01_u.mat,Tiny.VD.1,90034484,20554
+d9e08d1667f75701,sparks_02_r.mat,Tiny.V5.1,156069906,33312
+cedb26c20f4a444c,sparks_02_u.mat,Tiny.V7.1,88702842,15628
+81967a2645e61f9a,blur_pushy_r.mat,Tiny.VB.1,90259583,22202
+2a0b4ca7c598230e,bloodmist_u.mat,Tiny.V1.1,89646922,8890
+f39aab7705262b8b,bloodmist_thick_r.mat,Tiny.V5.1,91420266,38408
+c1a07ad5ef369bac,bloodmist_thin_r.mat,Tiny.V2.1,92688594,42434
+0adb23579f9ee55e,beam_contact_u.mat,Tiny.VE.1,91061390,808
+51c3db02ed26ed8d,beam_contact_r.mat,Tiny.VE.1,91004608,56782
+217525e188541eb1,beam_contact_r2.mat,Tiny.VD.1,89969134,65350
+71388a130cbda5ca,trail_grd.mat,Tiny.VE.1,91062198,44392
+abc6ba9f8b122164,trail_grd_glow.mat,Tiny.VD.1,90055038,23570

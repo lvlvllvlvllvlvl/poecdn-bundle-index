@@ -1,0 +1,9 @@
+1x1
+1x2
+2x2
+lower_1x1
+lower_2x2
+lower_2x3
+maligaro
+maligaro/path
+maligaro/unique

@@ -1,5 +1,0 @@
-crystal
-crystal/tex_fx
-crystal_red
-crystal_red/tex_fx
-crystal_red/tex_mb

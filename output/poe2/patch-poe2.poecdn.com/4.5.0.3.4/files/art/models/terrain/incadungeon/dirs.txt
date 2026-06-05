@@ -1,8 +1,0 @@
-alttiles
-alttiles/incursion
-alttiles/incursion_old
-causeway
-mapmachinarium
-mapmachinarium/doodads
-mapmachinarium/doodads/laserpillar
-tgms

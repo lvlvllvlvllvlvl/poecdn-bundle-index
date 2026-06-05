@@ -1,0 +1,5 @@
+burned
+ice
+ice/explosion
+ice/explosion/new
+ice/explosion/new/icepatch

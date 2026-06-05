@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+55ebb78eb99e7d72,crescent01.fmt,Streaming/Content/metadata/terrain/missions/hideouts/5D4283AAE313AC2B.DFB0A6340C2D948C.atlascrescent.ao,0,12776
+ea343e52f9e6f6b0,crescent01.fmt.header,Tiny.V5,17323207,208
+a4cc6f36cf6e2560,clockwork.sm,Tiny.V8,17669046,524
+0bf69420353aac18,clockwork.amd,Tiny.VD,17375999,98
+dcf82d2fe6b8cd5d,clockwork.ast,Content/data/balance/worldareas/mapuniquemerchant03_beach.vworld,173846,100404
+6ab63baa7c8c583f,giantrings_ef279ee3.smd,Streaming/Content/data/worldareas/hideoutcosmicatlas.vworld,297709,957397
+c574b61737602481,giantrings_ef279ee3.smd.header,Tiny.VC,17641930,448
+e7adec74af35eba9,giantrings.sm,Tiny.VA,17653812,498
+f5475bca9f624691,giantrings.amd,Tiny.V9,17909268,100
+cf6a15dae39940f3,giantrings.ast,Tiny.V9,17909368,1253
+7841e58d24904d92,atlasclockwork_31656cd9.smd,Streaming/Content/data/worldareas/hideoutcosmicatlas.vworld,0,297709
+facb711e2c92f981,atlasclockwork_31656cd9.smd.header,Tiny.V1,17489846,897
+b83142e2d6c16f84,atlashideout_01.tgt,Content/data/balance/worldareas/mapuniquemerchant03_beach.vworld,163172,10674
+6be7e65b224a0667,atlashideout_01.tmd,Tiny.VB,17587967,3040

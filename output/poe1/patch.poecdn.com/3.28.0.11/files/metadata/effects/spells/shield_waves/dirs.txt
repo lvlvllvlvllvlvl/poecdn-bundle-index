@@ -1,7 +1,0 @@
-graphs
-mat
-pet
-pet/fire_shield_swipe
-pet/fire_wave
-pet/shield_swipe
-pet/wave

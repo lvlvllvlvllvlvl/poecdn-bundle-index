@@ -1,0 +1,15 @@
+audio
+epk
+graph
+mat
+mat/celestrial
+mat/mag
+mat/spec
+pet
+pet/celestrial
+pet/mag
+pet/spec
+trl
+trl/celestrial
+trl/mag
+trl/spec

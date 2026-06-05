@@ -1,2 +1,0 @@
-orb_burst
-whirlpool_attack

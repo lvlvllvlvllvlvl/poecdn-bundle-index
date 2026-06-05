@@ -1,0 +1,4 @@
+detonate_dead
+detonate_dead/grd
+ice_spear
+summonwolves

@@ -1,9 +1,0 @@
-barrel
-cannon
-treasurechest
-treasurechest/treasurechest
-treasurechest/treasurechest/attachments
-treasurechest/treasurechestnophys
-treasurechest/treasurechestsmaller
-treasurechest/treasurechestsmaller/attachments
-wheeltri

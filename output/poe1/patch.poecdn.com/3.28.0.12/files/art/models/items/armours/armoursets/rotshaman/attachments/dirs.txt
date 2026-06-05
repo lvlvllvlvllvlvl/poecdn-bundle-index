@@ -1,0 +1,11 @@
+cloakdex
+cloakdexint
+cloakint
+cloakstr
+cloakstrdex
+cloakstrdexint
+cloakstrint
+femaleskirt
+helmet
+maleskirt
+wings

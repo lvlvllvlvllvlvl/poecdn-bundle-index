@@ -1,0 +1,3 @@
+l_clavicle
+loincloth
+r_clavicle

@@ -1,4 +1,0 @@
-fx
-mat
-mat/laser
-mat/stab_distort

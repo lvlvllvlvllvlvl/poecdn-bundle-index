@@ -1,0 +1,4 @@
+attachments
+coin
+fx
+textures

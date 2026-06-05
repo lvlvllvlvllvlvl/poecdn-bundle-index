@@ -1,7 +1,0 @@
-chronomancer
-despair
-elementalweakness
-enfeeble
-markofrepulsion
-temporalchains
-vulnerability

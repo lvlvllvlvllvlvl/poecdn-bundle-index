@@ -1,0 +1,12 @@
+aos
+epks
+fx
+mats
+mats/burst_shot_01
+mats/muzzle_burst
+mats/muzzle_power
+mats/power_shot_01
+mats/rapid_01
+mats/reload_bloodbeam
+mats/reload_blooddrips
+mats/siege_01

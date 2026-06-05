@@ -1,4 +1,0 @@
-infection
-infection/graphs
-weather
-weather/spores

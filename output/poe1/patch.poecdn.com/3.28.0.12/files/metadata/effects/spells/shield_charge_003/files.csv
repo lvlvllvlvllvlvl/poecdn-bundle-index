@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+aa6690561545a859,impact_aoe.ao,Tiny_D,486602160,3688
+a630df861256b498,kickup.ao,Tiny_D,486605848,2082
+e970cb5053b8b258,shield_impact.ao,Tiny_D,486620872,1750
+664d382d8b04bddf,shield_hit_flash.epk,Tiny_D,486617500,440
+388c9741b49b1a1f,shield_hit_flash_epk_pass0.mat,Tiny_D,486617940,2932
+2c6c8171ad16a88c,shield_fade.epk,Tiny_D,486612542,430
+7bf2e57f0c7e0d20,shield_fade_epk_pass0.mat,Tiny_D,486612972,2308
+b8cc57c0c6322e9b,shield_fade_in.epk,Tiny_D,486615280,436
+afcf47b1b338bd21,shield_fade_in_epk_pass0.mat,Tiny_D,486615716,1784
+98b50919b729180f,shield_charge.ao,Tiny_D,486607930,3198
+50682754bd87dd78,shield_charge_impact_audio.ao,Tiny_D,486611128,1414
+d509d6a393a25d75,ghost_shield.epk,Tiny_D,486598170,432
+6dd69e8f04480000,ghost_shield_epk_pass0.mat,Tiny_D,486598602,3558
+dba2cb330d98ed26,charge_dash.epk,Tiny_D,486596000,706
+28caac335a4183b8,circle_aoe.ao,Tiny_D,486596706,1464

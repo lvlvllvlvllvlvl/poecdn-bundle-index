@@ -1,5 +1,0 @@
-sin_01
-sin_02
-sin_03
-sin_04
-sin_05

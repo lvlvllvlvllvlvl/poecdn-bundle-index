@@ -1,4 +1,0 @@
-raulf
-raulf_glyph
-raulf_greeting
-raulf_wild

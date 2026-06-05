@@ -1,0 +1,13 @@
+ratmonster
+ratmonster_2
+ratmonster_2/animations
+ratmonster_2/animations/pet_triceratops
+soulpolyp
+soulpolyp/attachments
+soulpolyp/attachments/cloth
+soulpolyp/attachments/cloth/l_cloth_1
+soulpolyp/attachments/cloth/l_cloth_2
+textures
+textures/pirateboss
+textures/reaperboss
+textures/vorana

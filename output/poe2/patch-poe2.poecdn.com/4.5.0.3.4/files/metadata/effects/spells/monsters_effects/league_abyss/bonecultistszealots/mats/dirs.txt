@@ -1,8 +1,0 @@
-channeling
-channeling_death
-idle
-onact_projcast
-onact_spellcast
-projectile
-stormcall_idle
-stormcall_impact

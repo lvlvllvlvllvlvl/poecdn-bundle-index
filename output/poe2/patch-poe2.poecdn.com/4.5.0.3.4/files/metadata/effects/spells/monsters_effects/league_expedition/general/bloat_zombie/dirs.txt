@@ -1,9 +1,0 @@
-epk
-graph
-mat
-mat/explosion
-mat/mark_explosion
-mat/marker
-pets
-pets/epk
-pets/ground_explosion

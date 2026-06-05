@@ -1,0 +1,7 @@
+fire_aura
+fire_beam
+fire_charge
+fire_impact
+fire_onact
+fire_trail
+fire_trail_02

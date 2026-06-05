@@ -1,7 +1,0 @@
-explosive_lightning
-explosive_lightning_cleave
-fire_double_slam
-fire_double_slam/slam01
-fire_double_slam/slam02
-melee_clone_summon
-melee_clone_summon/rec

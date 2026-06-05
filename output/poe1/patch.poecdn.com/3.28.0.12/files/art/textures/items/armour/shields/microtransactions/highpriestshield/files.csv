@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+210477c4398dabf1,highpriestshieldc.mat,Tiny_8,20712385,8100
+36adf3e2cc497b7b,highpriestshield_specular_dxt5.dds,Art/Textures/Items/armour/shields/Microtransactions_38,0,349700
+bcdda0a59701f386,highpriestshield_specular_dxt5.dds.header,Tiny_8,20710865,1520
+65bb666f81091aa6,highpriestshield_normal_dxt5.dds,Art/Textures/Items/armour/shields/Microtransactions_37,787128,349700
+95b407f37c88062b,highpriestshield_normal_dxt5.dds.header,Tiny_8,20709345,1520
+e20c634d3c77ca5a,highpriestshield_colour_dxt5.dds,Art/Textures/Items/armour/shields/Microtransactions_37,437428,349700
+b5969c3ac39f0854,highpriestshield_colour_dxt5.dds.header,Tiny_8,20707825,1520
+ad567bed7094048a,highpriestshield_colour_bc7.dds,Art/Textures/Items/armour/shields/Microtransactions_37,437428,349700
+dd224880fd0847d7,highpriestshield_colour_bc7.dds.header,Tiny_8,20707825,1520
+9502f9d141730399,highpriestshield_colour.dds,Art/Textures/Items/armour/shields/Microtransactions_37,262504,174924
+daa939b41982418f,highpriestshield_colour.dds.header,Tiny_8,20706305,1520
+e20ffe93c6ded040,fx_dxt5.dds,Art/Textures/Items/armour/shields/Microtransactions_37,174948,87556
+99af9959c8d48540,fx_dxt5.dds.header,Tiny_8,20704785,1520

@@ -1,3 +1,0 @@
-onact
-onact/attack_01
-onact/attack_03

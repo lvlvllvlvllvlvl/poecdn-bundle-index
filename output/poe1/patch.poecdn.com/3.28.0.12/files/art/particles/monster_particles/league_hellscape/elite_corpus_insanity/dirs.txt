@@ -1,0 +1,12 @@
+mbs
+mbs/blood_orb
+mbs/blood_orb_explode
+mbs/blood_spike_projectile
+mbs/blood_spike_projectile/animations
+mbs/onacts
+mbs/onacts/attack_01
+mbs/onacts/attack_02
+mbs/onacts/blood_orb
+mbs/onacts/death_01
+mbs/spam_projectile
+overrides

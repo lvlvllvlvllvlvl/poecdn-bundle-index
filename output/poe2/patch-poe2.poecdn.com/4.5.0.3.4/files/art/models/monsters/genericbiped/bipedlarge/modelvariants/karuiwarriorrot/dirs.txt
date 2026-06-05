@@ -1,7 +1,0 @@
-attachments
-attachments/bloodfeverattachment
-attachments/hair
-attachments/ngamahudrunk
-attachments/ngamahudrunk/skirt
-attachments/rot
-attachments/skirt

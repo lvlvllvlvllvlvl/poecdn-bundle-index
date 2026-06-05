@@ -1,6 +1,0 @@
-aoe
-buildup
-charge_end
-shadows
-shadows/death
-shadows/emerge

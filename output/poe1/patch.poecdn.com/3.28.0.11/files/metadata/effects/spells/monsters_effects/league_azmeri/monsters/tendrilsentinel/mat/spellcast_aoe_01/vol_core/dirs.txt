@@ -1,4 +1,0 @@
-emerge_01
-run_01
-spellcast_01
-vol_idle

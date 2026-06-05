@@ -1,7 +1,0 @@
-attachments
-attachments/cloak
-attachments/l_sleeve
-attachments/r_sleeve
-attachments/ribbons
-attachments/robe
-textures

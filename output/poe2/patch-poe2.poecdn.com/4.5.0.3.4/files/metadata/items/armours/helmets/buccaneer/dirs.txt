@@ -1,8 +1,0 @@
-hat
-hat/attachments
-hat/attachments/dangler
-hat/attachments/hairalt
-helmet
-helmet/attachments
-helmet/attachments/feather
-helmet/attachments/hair

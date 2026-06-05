@@ -1,0 +1,3 @@
+melee_trail
+weapon
+weapon/earthshatter

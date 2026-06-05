@@ -1,0 +1,10 @@
+attachments
+attachments/helmetcard
+attachments/helmetcard/animations
+attachments/helmetcard/animations/cardmonster
+attachments/helmetcard/card
+attachments/helmetcard/eye
+attachments/skirt
+attachments/skirt/attachments
+fx
+textures

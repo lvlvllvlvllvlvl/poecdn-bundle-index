@@ -1,6 +1,0 @@
-goldenonesrobes
-goldenonesweapons
-loincloth
-skeletonschinarobe
-weapons
-weapons/marakethskeletonbow

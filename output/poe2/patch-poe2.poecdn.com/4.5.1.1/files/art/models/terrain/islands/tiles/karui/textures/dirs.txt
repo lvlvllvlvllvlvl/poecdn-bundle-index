@@ -1,0 +1,9 @@
+charred
+mossy
+pristine
+pristine/medallions
+stone
+stone/medallions
+worn
+worn/features
+worn/medallions

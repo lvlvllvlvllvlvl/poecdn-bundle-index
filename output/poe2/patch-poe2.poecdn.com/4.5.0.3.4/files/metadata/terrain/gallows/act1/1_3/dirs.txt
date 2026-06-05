@@ -1,6 +1,0 @@
-graphs
-objects
-objects/mudgolemspawners
-rooms
-rooms/cavern
-rooms/unique

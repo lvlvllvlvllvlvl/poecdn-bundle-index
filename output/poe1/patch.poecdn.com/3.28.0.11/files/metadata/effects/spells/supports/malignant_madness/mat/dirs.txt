@@ -1,2 +1,0 @@
-madness_debuff
-madness_start

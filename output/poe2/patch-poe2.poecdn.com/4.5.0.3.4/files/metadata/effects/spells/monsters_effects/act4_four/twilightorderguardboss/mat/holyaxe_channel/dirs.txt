@@ -1,3 +1,0 @@
-ambient
-projectile
-shockwave

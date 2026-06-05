@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+562a78fbe6dd8256,glow_spinec.mat,Tiny.V1,36838660,1904
+d4a8403d9ddc0146,glow_spine_bluec.mat,Tiny.V7,36804084,1934
+086873836f23b017,glow_spine_blue.dds,Tiny.VC,37235413,2892
+647ebde9b4d80df7,glow_spine_blue.dds.header,Tiny.V5,36576052,1520
+c1528772b5f2c90d,glow_spine.dds,Tiny.VB,37229669,2892
+d647511578141ea4,glow_spine.dds.header,Tiny.V3,36397910,1520
+9e6771dcc17782b1,behind_glow.mat,Tiny.VC,37233647,1766
+47f13b852069b19a,behind_glow.dds,Streaming/Content/metadata/particles/monster_effects/act4/47909D2EA14F05E8.4880EDEBA3E6480C.spine_mid.pet,809892,174948
+a9a7072ee1b42ca8,behind_glow.dds.header,Tiny.V9,37401367,840
+bcb5a9d7e1bcf7cb,behind_blue_glow.mat,Tiny.V7,36802288,1796
+39509488b9d6d3bc,behind_blue_glow.dds,Streaming/Content/metadata/particles/monster_effects/act4/83D4DB0E9920C504.51D2A5B1742E46BD.trail_blue.trl,0,174948
+4b39b8fd45bf5568,behind_blue_glow.dds.header,Tiny.VF,36985230,840
+97869732924bd9cc,behind_sub.mat,Tiny.VF,36986070,1178
+5f72af09e9ebdc9e,behind_sub.dds,Streaming/Content/metadata/particles/monster_effects/act4/47909D2EA14F05E8.4880EDEBA3E6480C.spine_mid.pet,984840,174948
+bb4e9c77bc06f5b5,behind_sub.dds.header,Tiny.VA,37041019,840

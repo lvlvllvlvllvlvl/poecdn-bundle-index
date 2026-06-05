@@ -1,9 +1,0 @@
-aos
-fx
-graphs
-mats
-mats/ug01_emerge
-mats/ug01_fistimpact
-mats/ug01_renderpasses
-mats/ug01_submerge
-mats/ug01_submergebreachflames

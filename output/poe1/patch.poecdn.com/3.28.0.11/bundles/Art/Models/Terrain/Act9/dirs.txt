@@ -1,9 +1,0 @@
-BeastMembrane
-BellyBossSubArea
-BloodAqueduct
-Foothills
-GarukhanBossArena
-Harvest
-MarakethDesert
-Quarry
-Refinery

@@ -1,7 +1,0 @@
-larm
-larm/attachments
-larm/attachments/chain
-rarm
-rarm/attachments
-rarm/attachments/chain
-textures

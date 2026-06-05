@@ -1,0 +1,3 @@
+onact_melee
+onact_spellcast_long_01
+snipe

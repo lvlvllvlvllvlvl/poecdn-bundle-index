@@ -1,0 +1,8 @@
+hit_fx
+hit_fx_big
+hit_fx_mid
+hit_fx_sml
+kill_fx_big
+kill_fx_mid
+kill_fx_sml
+rage_aura

@@ -1,0 +1,9 @@
+bounce_impact
+emerge
+onact
+onact/attack_01
+onact/death_glow
+onact/sanctum_slam
+onact/sanctum_spellcast_01
+plasmaprojectile
+verisium_slam

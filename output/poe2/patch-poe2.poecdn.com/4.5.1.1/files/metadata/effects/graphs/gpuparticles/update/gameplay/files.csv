@@ -1,0 +1,7 @@
+hash,file,bundle,offset,size
+63d6644d9cd441b0,emitteroffsetgameplay.fxgraph,Content/metadata/effects/spells/supports/hideofhelbrym/ABBF7EAF2F043B75.guard.epk,29686,56056
+00d8e9e6df076511,revealparticles_perobjectscale.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/CADDAFD060BF8A5A.emerge_base.pet,171800,48364
+d8b53718d512c9c3,revealparticles_grounddistance_emitcalc.fxgraph,Content/metadata/miscellaneousobjects/poisonbloomarrow/vinearrowbloomnightlotus.ot,228442,29564
+5632b252d38c320d,revealparticles_grounddistance.fxgraph,Content/metadata/effects/spells/monsters_effects/league_hellscape/DE9B72B86512CBC5.attack_charge_arms.pet,3707887,29452
+a3d39a12e78fc57e,cullbyscenecolliders.fxgraph,Shared,21535387,17376
+ad674c5c63ae8fd6,cullbyscenecolliders_emitcalc.fxgraph,Content/metadata/miscellaneousobjects/poisonbloomarrow/vinearrowbloomnightlotus.ot,210954,17488

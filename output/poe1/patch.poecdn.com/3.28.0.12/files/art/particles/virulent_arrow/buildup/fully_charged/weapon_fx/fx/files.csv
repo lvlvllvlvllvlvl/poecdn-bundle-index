@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+1cb441d36844370b,sparkling_spark.mat,Tiny_7,57908204,1580
+18703821b23eceb7,sparkling_spark.dds,Tiny_7,58001442,1572
+0670208f0eba59b2,sparkling_spark.dds.header,Tiny_7,58003014,504
+7c2365bcd0282a91,projectile_poison.mat,Tiny_7,57904402,3802
+183de0eaf02f2882,projectile_poison.dds,Folders/art/particles/bladeburst/ninjashotgun,0,43876
+7d0d66c67c8e7679,projectile_poison.dds.header,Tiny_7,57992328,840
+88064fd915e72321,poison_lookup.mat,Tiny_7,57903254,1148
+a425c8c7e56f246a,poison_lookup.dds,Tiny_7,58276836,2212
+aac7e38f4f07dde9,poison_lookup.dds.header,Tiny_7,58279048,280
+d7fc2487b35ea935,behind_glow.mat,Tiny_7,57901658,1596
+804893b88724fe28,behind_glow.dds,Art/particles/virulent_arrow/buildup,399262,5628
+3f43a1311a8f5a87,behind_glow.dds.header,Tiny_7,57900818,840

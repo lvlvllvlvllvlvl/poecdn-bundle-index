@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+0cf0c43b9faed896,field_liquidtypes.fxgraph,Folders/metadata/effects_B,13572386,232252
+cfffa3a430b98acd,spikeretract.fxgraph,Folders/metadata/effects_B,13804638,11770
+5ea5575d4d27ac79,custom_heightterrainproject_retainmesh.fxgraph,Folders/metadata/effects_B,13029478,26920
+619ceb33034472d6,custom_lavablob.fxgraph,Folders/metadata/effects_B,13056398,65292
+669661f4e76cef7e,custom_mask_spherical_objectspace_static.fxgraph,Folders/metadata/effects_B,13121690,249658
+d10adc43541c609f,custom_revealparticles_specificobjectdistance.fxgraph,Folders/metadata/effects_B,13371348,32646
+ca7553de70b43d7a,custom_shrink.fxgraph,Folders/metadata/effects_B,13403994,154208
+1a400173bd3b62b9,custom_vtx_groundblockingwoffset.fxgraph,Folders/metadata/effects_B,13558202,14184
+403fa94ab3ab414f,custom_fissuredisplacement.fxgraph,Folders/metadata/effects_B,12947828,54964
+80a8ba6d1afe38dd,custom_fissurerevealbytimeline.fxgraph,Folders/metadata/effects_B,13002792,26686
+da27c9969cd9ecee,custom_emissiverevealbytimeline.fxgraph,Folders/metadata/effects_B,12881638,66190
+6ebaf3134fd64442,custom_emissivebydistance.fxgraph,Folders/metadata/effects_B,12779026,22690
+041806d01818a33c,custom_emissivebydistance_spike.fxgraph,Folders/metadata/effects_B,12801716,79922

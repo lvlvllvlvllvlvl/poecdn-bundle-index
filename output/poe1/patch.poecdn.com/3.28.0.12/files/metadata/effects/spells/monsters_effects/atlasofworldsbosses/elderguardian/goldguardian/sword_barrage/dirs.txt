@@ -1,0 +1,6 @@
+sword
+sword_01
+sword_02
+sword_03
+sword_04
+sword_charge

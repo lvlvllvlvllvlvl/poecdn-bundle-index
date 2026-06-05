@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+246a8f240a185038,lightbringerportalc.mat,Tiny.V6,13768755,3726
+7d416874a8a8a3b4,lightbringerportal_bentnormal_dxt5.dds,Streaming/Content/art/models/portals/lightbringerportal/lightbringerportal.fmt,0,1398276
+fcd03b02fbbca000,lightbringerportal_bentnormal_dxt5.dds.header,Tiny.VD,13511898,1520
+187baa34ff508ccf,lightbringerportal_normal_dxt5.dds,Streaming/Content/art/models/portals/lightbringerportal/lightbringerportal.fmt,1747976,1398276
+a0c4aeac62475add,lightbringerportal_normal_dxt5.dds.header,Tiny.V8,13666764,1520
+cb545da2432688b5,lightbringerportal_colour_dxt5.dds,Streaming/Content/art/models/portals/lightbringerportal/lightbringerportal.fmt,1398276,349700
+c1c2e1353b0510d8,lightbringerportal_colour_dxt5.dds.header,Tiny.V3,13494550,1520

@@ -1,4 +1,0 @@
-physics
-physics/toptether
-vaal
-vaal/toptether

@@ -1,5 +1,0 @@
-attachments
-attachments/helmetspheres
-attachments/robefemale
-attachments/robemale
-textures

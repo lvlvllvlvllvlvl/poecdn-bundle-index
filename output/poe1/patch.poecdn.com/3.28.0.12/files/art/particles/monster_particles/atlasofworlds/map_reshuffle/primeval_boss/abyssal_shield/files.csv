@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+35b6f8fedf9bf4bf,refractionc.mat,Tiny_6,74741584,3934
+632c42c9a4ac3344,refraction_crystal_normal.mat,Tiny_6,74740214,1370
+5f8139cde606a5c0,refraction_crystal_normal.dds,Art/particles/monster_particles/AtlasofWorlds_53,0,349700
+fea8bdef20dac605,refraction_crystal_normal.dds.header,Tiny_6,74738694,1520
+5cff873f82d1a2c3,refraction.dds,Tiny_6,74736658,516
+c401d5ab3ae4e6f8,refraction.dds.header,Tiny_6,74737174,1520
+a538e8114b1135f5,barrier_base_dxt5.dds,Folders/art/particles/monster_particles/atlasofworlds_2,49488,87556
+dd8567bfddafc1e9,barrier_base_dxt5.dds.header,Tiny_6,74689058,1520
+ea5760b34a064aa8,barrier_base_colorc.mat,Tiny_6,74685272,3786
+9976049444cdc105,barrier_base_color.dds,Folders/art/particles/monster_particles/atlasofworlds_2,5636,43852
+1fa347eec134debb,barrier_base_color.dds.header,Tiny_6,74683752,1520

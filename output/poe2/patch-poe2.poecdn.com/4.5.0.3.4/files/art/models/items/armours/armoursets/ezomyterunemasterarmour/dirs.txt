@@ -1,5 +1,0 @@
-attachments
-attachments/cape
-attachments/helmetponytail
-attachments/skirt
-textures

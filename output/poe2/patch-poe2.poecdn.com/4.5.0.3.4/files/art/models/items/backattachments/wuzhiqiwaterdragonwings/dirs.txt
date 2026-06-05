@@ -1,5 +1,0 @@
-animations
-animations/wuzhiqiwaterdragonportal
-attachments
-attachments/wdwhiskers
-textures

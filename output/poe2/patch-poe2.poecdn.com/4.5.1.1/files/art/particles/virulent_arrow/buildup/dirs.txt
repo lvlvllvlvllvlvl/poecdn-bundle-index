@@ -1,0 +1,3 @@
+fully_charged
+fully_charged/fx
+fx

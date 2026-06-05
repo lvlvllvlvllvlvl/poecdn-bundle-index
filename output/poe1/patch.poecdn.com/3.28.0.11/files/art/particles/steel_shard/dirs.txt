@@ -1,5 +1,0 @@
-shards
-shards/shards_textures
-shattered_weapons
-shattered_weapons/lancingsteeltemple
-shattered_weapons/random_seed

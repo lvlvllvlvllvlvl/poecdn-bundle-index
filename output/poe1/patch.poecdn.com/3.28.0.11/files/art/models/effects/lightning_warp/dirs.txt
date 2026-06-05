@@ -1,5 +1,0 @@
-aoe
-explode_down
-explode_up
-lightning_ball
-runes

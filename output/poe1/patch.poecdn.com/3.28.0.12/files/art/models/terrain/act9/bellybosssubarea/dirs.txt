@@ -1,0 +1,16 @@
+doedrearena
+doedrearena/alttiles
+doedrearena/alttiles/rot
+doedrearena/tgms
+doedresubarea
+doedresubarea/alttiles
+doedresubarea/alttiles/rot
+doedresubarea/tgms
+maligarosubarea
+maligarosubarea/alttiles
+maligarosubarea/alttiles/rot
+maligarosubarea/tgms
+shavronnesubarea
+shavronnesubarea/alttiles
+shavronnesubarea/alttiles/rot
+shavronnesubarea/tgms

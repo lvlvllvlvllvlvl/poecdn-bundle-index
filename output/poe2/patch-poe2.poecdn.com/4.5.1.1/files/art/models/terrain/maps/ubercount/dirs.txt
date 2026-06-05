@@ -1,0 +1,9 @@
+textures
+textures/architecture
+textures/arena
+textures/arena/medallion
+textures/candles
+textures/cliffs
+textures/furniture
+textures/ground
+tgms

@@ -1,3 +1,0 @@
-emerge_01
-emerge_v2
-summon_minions

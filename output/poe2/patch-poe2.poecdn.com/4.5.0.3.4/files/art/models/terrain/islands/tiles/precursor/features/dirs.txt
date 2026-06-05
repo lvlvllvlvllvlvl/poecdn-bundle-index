@@ -1,7 +1,0 @@
-machinary
-machinary/machinary_01
-machinary/machinary_02
-machinary/machinary_03
-machinary/pistonset
-precursor_dungeonentrance_loreobject
-tgms

@@ -1,0 +1,6 @@
+boss_basicattacks
+boss_chargecombo
+boss_holyblast
+boss_shattershield
+boss_shattershield/statues
+shieldthrow

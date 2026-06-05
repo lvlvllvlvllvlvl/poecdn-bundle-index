@@ -1,0 +1,9 @@
+act_lightningstrike_cast
+act_meteor_cast
+act_projectile_cast
+epks
+lightningstrike
+meteor
+meteorimpact
+projectile
+projectile_impact

@@ -1,6 +1,0 @@
-models
-models/spinner_joints
-models/trap_mesh
-textures
-textures/particles
-textures/particles/trap_start

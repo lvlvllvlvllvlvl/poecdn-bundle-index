@@ -1,0 +1,8 @@
+attachments
+fx
+pet
+skadidebuff
+skadiiceshot
+skadiiceshot/epk
+skadiiceshot/pet
+skadiiceshot/pet/epk

@@ -1,2 +1,0 @@
-flame_breath
-flame_breath/on_act

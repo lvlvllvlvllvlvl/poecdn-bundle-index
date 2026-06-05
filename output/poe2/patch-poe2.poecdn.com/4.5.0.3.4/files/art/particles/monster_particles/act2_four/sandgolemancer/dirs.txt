@@ -1,5 +1,0 @@
-mb
-mb/aura
-mb/onact_spellcast_01
-mb/spectral_throw
-tex

@@ -1,2 +1,0 @@
-whirlpool_attach
-whirlpool_attack

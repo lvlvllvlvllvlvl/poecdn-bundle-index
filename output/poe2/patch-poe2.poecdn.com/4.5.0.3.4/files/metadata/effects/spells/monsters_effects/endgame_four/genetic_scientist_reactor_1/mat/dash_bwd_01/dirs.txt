@@ -1,2 +1,0 @@
-blink_end
-blink_start

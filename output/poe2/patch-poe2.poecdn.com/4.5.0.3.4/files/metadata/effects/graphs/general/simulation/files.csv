@@ -1,7 +1,0 @@
-hash,file,bundle,offset,size
-3d7d2f147252800b,sim_fade.fxgraph,Shared,12597209,28760
-d7fbcd1d99fb05b1,sim_fire_texinit.fxgraph,Content/metadata/effects/spells/monsters_effects/act3_four/CADDAFD060BF8A5A.emerge_base.pet,259078,38648
-7b53499871c6901c,sim_fire_loop_texinit.fxgraph,Shared,12625969,34962
-384d3fef152d35fe,sim_smoke2.fxgraph,Content/metadata/effects/environment/act4_four/g4_4_1/6543A974D7697D21.release_fx.pet,256938,51108
-16e538ba0e80962f,sim_smoke.fxgraph,Shared,12660931,61284
-5aadf1c3bd390f4c,sim_smoke_samplegroundalbedo.fxgraph,Content/metadata/effects/spells/monsters_effects/2287BC3A30828158.blood_gather.pet,842094,64688

@@ -1,5 +1,0 @@
-bossarenaobjects
-bossarenaobjects/droneturrets
-bossattachments
-bossspawnedmonsters
-islandmonsterobjects

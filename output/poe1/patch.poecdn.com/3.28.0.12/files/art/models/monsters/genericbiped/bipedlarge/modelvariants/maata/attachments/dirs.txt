@@ -1,0 +1,8 @@
+bonechain
+cloak
+hair
+headfeathers
+robe
+shoulderfeathers
+waistbones
+waistropes

@@ -1,3 +1,0 @@
-scalespider5
-spider_death_spawn
-spider_mini_death

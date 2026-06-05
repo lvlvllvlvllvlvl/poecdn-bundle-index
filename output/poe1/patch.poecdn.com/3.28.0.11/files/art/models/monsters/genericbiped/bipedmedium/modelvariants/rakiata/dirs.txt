@@ -1,4 +1,0 @@
-attachments
-attachments/hair
-attachments/rakiataweapon
-attachments/skirt

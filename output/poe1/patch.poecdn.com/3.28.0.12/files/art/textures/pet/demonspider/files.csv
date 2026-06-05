@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+0b5481f7fa42d822,blackwidowspider.mat,Art/Textures/Pet/DemonSpider,878884,5382
+4ca2c1856baaafc1,fx_web_strandc.mat,Tiny_8,47867472,3994
+e2ee7d1008f8bcbf,demonspider01c.mat,Art/Textures/Pet/DemonSpider,349700,4560
+cf7fb8f1bfb03453,demonspider01_normal_dxt5.dds,Art/Textures/Pet/DemonSpider,0,349700
+6e7f7a206812ee64,demonspider01_normal_dxt5.dds.header,Tiny_8,47859710,1520
+c700142e8cc6d388,demonspider01_glow_dxt1.dds,Art/Textures/Pet/DemonSpider,354260,174924
+d9a249adeb5a5ec5,demonspider01_glow_dxt1.dds.header,Tiny_8,47858190,1520
+3dc77ca7102da612,demonspider01_colour_dxt5.dds,Art/Textures/Pet/DemonSpider,529184,349700
+21b1ff14cd10bb30,demonspider01_colour_dxt5.dds.header,Tiny_8,47856670,1520
+db7ae270b0e4f73a,colour noise_dxt1.dds,Art/Models/Pet/DemonSpider/Textures_2,0,174924
+db85f44056569a9d,colour noise_dxt1.dds.header,Tiny_8,47855150,1520

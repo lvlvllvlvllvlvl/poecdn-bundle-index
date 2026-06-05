@@ -1,4 +1,0 @@
-microtransactions
-microtransactions/illusioniststaff
-microtransactions/whitepolarisstaff
-microtransactions/whitepolarisstaff/fx

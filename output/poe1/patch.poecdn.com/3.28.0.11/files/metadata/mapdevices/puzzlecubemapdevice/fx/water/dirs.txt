@@ -1,4 +1,0 @@
-active_01
-active_idle_01
-idle_01
-water_cube_submerge

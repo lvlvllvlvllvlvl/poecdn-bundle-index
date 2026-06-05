@@ -1,0 +1,9 @@
+shawl
+shawl/int
+shawl/str
+skirt
+skirt/f
+skirt/f/dex
+skirt/f/int
+skirt/m
+skirt/str

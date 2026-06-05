@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+c48f492851dc3527,square_framec.mat,Tiny_8,31386212,4810
+219d9050569e9555,twilightsunriseportalc.mat,Tiny_8,31400906,6538
+da1daf1328ebc396,twilightsunriseportal_noglowc.mat,Tiny_8,31394062,5324
+428f1c395768b4b8,twilightsunriseportal_normal_dxt5.dds,Art/Textures/Misc/portals/TwilightSunrisePortal_3,0,1398276
+aed6014cd59b5225,twilightsunriseportal_normal_dxt5.dds.header,Tiny_8,31399386,1520
+234c8bb8ebe930d0,twilightsunriseportal_glow_dxt1.dds,Art/Textures/Misc/portals/TwilightSunrisePortal_2,0,174924
+d5cee7444268013a,twilightsunriseportal_glow_dxt1.dds.header,Tiny_8,31392542,1520
+e28df98524e0e736,twilightsunriseportal_colour_dxt5.dds,Art/Textures/Misc/portals/TwilightSunrisePortal_1,0,1398276
+c87ff6722783c987,twilightsunriseportal_colour_dxt5.dds.header,Tiny_8,31391022,1520

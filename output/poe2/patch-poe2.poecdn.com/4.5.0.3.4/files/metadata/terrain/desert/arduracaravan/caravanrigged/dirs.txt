@@ -1,9 +1,0 @@
-attachments
-attachments/badlands
-attachments/gates
-attachments/maraketh
-effects
-effects/ao
-effects/fx
-effects/fx/mat
-effects/graph

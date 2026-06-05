@@ -1,4 +1,0 @@
-goblinshamanspear
-honourguardspear
-hyenahunter
-hyenahunter/textures

@@ -1,0 +1,3 @@
+groundtypes
+rooms
+rooms/gauntlet

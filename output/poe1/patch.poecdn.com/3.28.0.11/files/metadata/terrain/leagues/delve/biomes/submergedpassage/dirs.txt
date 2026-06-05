@@ -1,4 +1,0 @@
-rooms
-rooms/1x1
-rooms/unique
-rooms/waterfill

@@ -1,0 +1,3 @@
+basic_vaal_blood_slam
+soulrend
+vaal_geyser_barrage

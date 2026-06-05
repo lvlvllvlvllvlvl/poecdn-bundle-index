@@ -1,5 +1,0 @@
-afterimage
-beam
-on_hit
-slash
-teleport_out

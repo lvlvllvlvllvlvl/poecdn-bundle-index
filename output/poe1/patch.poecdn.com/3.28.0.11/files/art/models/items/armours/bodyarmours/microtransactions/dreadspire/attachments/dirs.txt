@@ -1,4 +1,0 @@
-l_shoulder
-r_shoulder
-robe
-robe_front

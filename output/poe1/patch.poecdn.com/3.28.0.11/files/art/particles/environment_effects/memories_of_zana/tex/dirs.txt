@@ -1,4 +1,0 @@
-neuron_doodads
-neuron_doodads/tex
-rift
-tear_glyph

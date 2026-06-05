@@ -1,3 +1,0 @@
-bookglyphs
-bookglyphs/tgms
-tgms

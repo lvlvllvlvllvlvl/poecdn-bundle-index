@@ -1,7 +1,0 @@
-1x1
-1x3
-3x3
-eleganthouse
-eleganthouse/1x1
-eleganthouse/1x3
-eleganthouse/3x3

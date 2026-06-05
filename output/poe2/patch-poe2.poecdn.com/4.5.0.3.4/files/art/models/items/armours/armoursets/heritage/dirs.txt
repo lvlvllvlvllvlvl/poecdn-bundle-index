@@ -1,5 +1,0 @@
-attachments
-attachments/robe
-attachments/robe/clothrobe
-attachments/robe/metalrobe
-textures

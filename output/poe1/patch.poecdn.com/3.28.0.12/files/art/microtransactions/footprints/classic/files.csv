@@ -1,0 +1,33 @@
+hash,file,bundle,offset,size
+57c4938e086ad380,spark.mat,Tiny_1,24258700,2264
+3cac3411a43bed6e,spark.dds,Folders/art/microtransactions/footprints/darkprism,830808,11108
+867671789d0eda1b,spark.dds.header,Tiny_1,24257860,840
+efa98ce50050f5fa,glow shaking.mat,Tiny_1,24255000,2860
+17f08e1f0d5d9d39,glow shaking.dds,Folders/art/microtransactions/footprints/darkprism,743252,87556
+9e1417956bbdc605,glow shaking.dds.header,Tiny_1,24253480,1520
+867ea5ef448b782f,footprint_layer_02c.mat,Tiny_1,24250394,3086
+c21a1236c24bc8f4,footprint_layer_02.dds,Folders/art/microtransactions/footprints/darkprism,393552,349700
+cffdeac56194b8e8,footprint_layer_02.dds.header,Tiny_1,24248874,1520
+9035d6062288d493,fire_printsc.mat,Tiny_1,24246204,2670
+5c48170b59c0333f,fire_prints.dds,Folders/art/microtransactions/footprints/darkprism,43852,349700
+bac008caafabca19,fire_prints.dds.header,Tiny_1,24244684,1520
+bf14d9b6bb85b99f,classicfootprint_04.sm,Tiny_1,24244058,626
+38dddc2414919fea,classicfootprint_04.amd,Tiny_2,7872274,94
+056da1d77586aa26,classicfootprint_04.ast,Tiny_1,24243219,839
+057bcb75ef5db8e9,classicfootprint_03.sm,Tiny_1,24242593,626
+6c09251e0374da54,classicfootprint_03.amd,Tiny_2,7872274,94
+7330bf7fb2b0c39e,classicfootprint_03.ast,Tiny_1,24241754,839
+3de4c3229874c74f,classicfootprint_02.sm,Tiny_1,24241128,626
+61b24cec6b3989cf,classicfootprint_02.amd,Tiny_2,7872274,94
+30a5dfc79570d0ba,classicfootprint_02.ast,Tiny_1,24240289,839
+cd41d797b8ee4a00,classicfootprint_01.sm,Tiny_1,24239663,626
+e078f2c1040eead5,classicfootprint_01.amd,Tiny_2,7872274,94
+48ea9ce225c0def4,classicfootprint_01.ast,Tiny_1,24238824,839
+688ee845de98ad56,base_footprint_dbc72813.smd,Tiny_1,24237756,700
+4aac8c6d352bf303,base_footprint_dbc72813.smd.header,Tiny_1,24238456,368
+0a30feec5537eb69,base_footprint_d3c629d5.smd,Tiny_1,24236688,700
+ddadea17168010f0,base_footprint_d3c629d5.smd.header,Tiny_1,24237388,368
+0634b1908c4274cb,base_footprint_29c064d2.smd,Tiny_1,24235622,698
+51546d56c19e2836,base_footprint_29c064d2.smd.header,Tiny_1,24236320,368
+9d6d85528b001fab,base_footprint_1d731a94.smd,Tiny_1,24234554,700
+1af4c10e9837beb4,base_footprint_1d731a94.smd.header,Tiny_1,24235254,368

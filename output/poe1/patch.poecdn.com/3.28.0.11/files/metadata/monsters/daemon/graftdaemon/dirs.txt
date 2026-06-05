@@ -1,6 +1,0 @@
-arms_cold
-arms_fire
-arms_light
-arms_phys
-attachments
-graftskillresources

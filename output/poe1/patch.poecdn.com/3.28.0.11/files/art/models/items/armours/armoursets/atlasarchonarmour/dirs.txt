@@ -1,7 +1,0 @@
-attachments
-attachments/cloak
-attachments/head
-attachments/head/attachments
-attachments/skirt
-attachments/skirt/attachments
-textures

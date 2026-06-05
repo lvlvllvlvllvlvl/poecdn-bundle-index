@@ -1,0 +1,17 @@
+animations
+animations/axe
+animations/axe_axe
+animations/axe_dagger
+animations/axe_shield
+animations/bow
+animations/dagger_dagger
+animations/map_device
+animations/spear
+animations/spear_shield
+animations/staff
+attachments
+attachments/animations
+attachments/animations/robereduced_01
+attachments/animations/robereduced_02
+attachments/animations/robereduced_03
+attachments/animations/robereduced_04

@@ -1,6 +1,0 @@
-azurite_energy
-azurite_energy/fx
-crystal_shards
-crystal_shards/build_up
-crystal_shards/build_up/fx
-crystal_shards/fx

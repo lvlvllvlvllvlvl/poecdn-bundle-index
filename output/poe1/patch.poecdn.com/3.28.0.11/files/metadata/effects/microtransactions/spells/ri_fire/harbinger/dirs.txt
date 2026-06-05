@@ -1,3 +1,0 @@
-debuff
-firehands
-vaal_ring

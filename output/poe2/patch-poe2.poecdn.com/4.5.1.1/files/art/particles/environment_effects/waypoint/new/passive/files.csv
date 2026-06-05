@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+3c1118870b918f7c,blink_spiral_bigger.mat,Tiny.V6,35069890,1922
+63b23c84806fb03d,blink_spiral_bigger.dds,Streaming/Content/metadata/terrain/doodads/waypoints/B8A6BC6D1B3F6BE0.B8A6BC6D1B3F6BE0.mid_idle_g2_1.pet,17505,87556
+47ddecc6aa9ab4e8,blink_spiral_bigger.dds.header,Tiny.V1,35040187,1520
+a8885d5a7f89202f,impact_swirl.mat,Tiny.V3,34643542,2126
+b02b6dac549e60f7,impact_swirl.dds,Streaming/Content/metadata/particles/enviro_effects/waypoint/83A82FB93D157A0E.vaal_midline.pet,372440,22020
+17f6c4bc0b571e73,impact_swirl.dds.header,Tiny.V2,35094973,1520
+c2a20df83722982f,waypointgradc.mat,Tiny.V4,35374097,1936
+2894b9011c912529,waypointgrad_colour.dds,Streaming/Content/data/balance/worldareas/expeditionsubarea_lair.vworld,11906142,22020
+ca3dfafc4efac3f5,waypointgrad_colour.dds.header,Tiny.V4,35372577,1520
+5fdbf2cdf57269fe,waypointglowc.mat,Tiny.V1,35044163,2200
+b04bab653cc341b6,waypointglow_colour.dds,Streaming/Content/data/balance/worldareas/expeditionsubarea_lair.vworld,11556442,349700
+0aac9f1516c06999,waypointglow_colour.dds.header,Tiny.VA,35332879,1520
+346609952060a4d4,light_middle_upc.mat,Tiny.V1,35041707,2456
+23f4d8e209a976c9,light_middle_up.dds,Streaming/Content/data/balance/worldareas/expeditionsubarea_lair.vworld,11468886,87556
+f464b2b7a645a557,light_middle_up.dds.header,Tiny.V5,34537260,1520

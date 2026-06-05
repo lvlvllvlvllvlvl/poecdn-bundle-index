@@ -1,0 +1,2 @@
+lightning_strike
+player_idle

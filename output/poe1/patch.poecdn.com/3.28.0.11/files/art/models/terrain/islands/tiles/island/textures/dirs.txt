@@ -1,6 +1,0 @@
-karui
-rocks
-rocks/kedgebay
-rocks/shrike
-rocks/shrike/caves
-rocks/shrike/oceanspray

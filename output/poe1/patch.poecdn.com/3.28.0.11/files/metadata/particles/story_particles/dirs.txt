@@ -1,4 +1,0 @@
-beach_zombieman
-ghost_stranded_ship
-ghost_stranded_ship/epk
-ghost_stranded_ship/mat

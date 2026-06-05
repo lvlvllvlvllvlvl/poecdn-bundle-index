@@ -1,4 +1,0 @@
-epks
-graphs
-mats
-pet

@@ -1,0 +1,5 @@
+attachments
+attachments/baseoffset
+attachments/bodychains
+attachments/chains
+textures

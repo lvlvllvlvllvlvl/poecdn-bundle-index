@@ -1,0 +1,5 @@
+cloakdex
+cloakint
+cloakstrdexint
+helmet
+skirt

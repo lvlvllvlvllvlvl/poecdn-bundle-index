@@ -1,5 +1,0 @@
-CrystalTotem
-DragonCannonTotem
-GreatbowMortar
-ZigguratTotem
-generic

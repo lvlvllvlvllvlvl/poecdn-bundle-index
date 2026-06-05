@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8a4f5655be4d3985,hair_strdex_m_eyesc.mat,Tiny.V1,6814121,1440
+21812ad3009dc107,hair_strdex_m_eyes_metal_dxt1.dds,Streaming/Content/art/models/charactersfour/models/old.fmt,2273124,174924
+66a3177ab4e1f14e,hair_strdex_m_eyes_metal_dxt1.dds.header,Tiny.V6,6943071,1520
+c1ee1ad33503d353,hair_strdex_m_eyes_normal_dxt5.dds,Streaming/Content/art/models/charactersfour/models/old.fmt,2448048,349700
+2380989c96964f07,hair_strdex_m_eyes_normal_dxt5.dds.header,Tiny.VD,6841289,1520
+849c55987f740034,hair_strdex_m_eyes_colour_dxt5.dds,Streaming/Content/art/models/charactersfour/models/old.fmt,1923424,349700
+2ca3ad71bebae1ed,hair_strdex_m_eyes_colour_dxt5.dds.header,Tiny.VE,6930498,1520
+393e7f1d4a8e42eb,body_strdex_eyesc.mat,Tiny.V8,6769055,1030
+ba074b697efb4b5d,body_strdex_mc.mat,Tiny.VC,6912846,3658
+db35428fcb0d6b17,body_strdex_m_sss_bc1.dds,Streaming/Content/metadata/effects/spells/maneuver_mechanics/D25B3B09FC4CD01D.strdexfourbafterimage.ot.7,0,699212
+df739d666338c833,body_strdex_m_sss_bc1.dds.header,Tiny.V8,6770085,1520
+8526195121d17c86,body_strdex_m_normal_bc7.dds,Streaming/Content/metadata/effects/spells/maneuver_mechanics/D25B3B09FC4CD01D.strdexfourbafterimage.ot.6,1398424,1398276
+7502b88e6736cf31,body_strdex_m_normal_bc7.dds.header,Tiny.V0,7017097,1520
+8436a68e07d06600,body_strdex_m_colour_bc1.dds,Streaming/Content/metadata/effects/spells/maneuver_mechanics/D25B3B09FC4CD01D.strdexfourbafterimage.ot.6,699212,699212
+646a0bad5e74deaa,body_strdex_m_colour_bc1.dds.header,Tiny.V9,7173877,1520

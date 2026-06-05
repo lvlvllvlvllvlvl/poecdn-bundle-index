@@ -1,3 +1,0 @@
-flag_item
-seal
-summons

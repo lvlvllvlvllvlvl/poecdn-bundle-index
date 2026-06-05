@@ -1,8 +1,0 @@
-mb
-mb/slam1
-mb/spinning_cutter
-textures
-textures/attack_01
-textures/bodyfx
-textures/slam1
-textures/spinning_cutter

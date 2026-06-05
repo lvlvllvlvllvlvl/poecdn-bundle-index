@@ -1,0 +1,13 @@
+ao
+epk
+fx
+mat
+mat/footstomp
+mat/melee_trail
+mat/metal_spikes
+mat/volcanic_rupture
+pet
+pet/on_act
+pet/on_act/death
+pet/on_act/sunder_01
+trl

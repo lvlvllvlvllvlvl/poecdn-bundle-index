@@ -1,7 +1,0 @@
-epk
-fx
-mat
-mat/proj_impact
-mat/proj_trail
-mat/projectile_core
-mat/wisp_core

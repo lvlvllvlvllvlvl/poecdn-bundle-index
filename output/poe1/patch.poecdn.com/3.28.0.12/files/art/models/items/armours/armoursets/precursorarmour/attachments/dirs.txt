@@ -1,0 +1,10 @@
+paglovel
+pashawl
+pashawl/pashawldex
+pashawl/pashawldexint
+pashawl/pashawlint
+pashawl/pashawlstr
+pashawl/pashawlstrdex
+pashawl/pashawlstrdexint
+pashawl/pashawlstrint
+paskirt

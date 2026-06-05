@@ -1,5 +1,0 @@
-eye_fx
-eye_fx/pet
-wintervikinghelmet01
-wintervikinghelmet02
-wintervikinghelmetattachment

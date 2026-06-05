@@ -1,4 +1,0 @@
-attachments
-attachments/helmettentacles
-attachments/tentacle
-textures

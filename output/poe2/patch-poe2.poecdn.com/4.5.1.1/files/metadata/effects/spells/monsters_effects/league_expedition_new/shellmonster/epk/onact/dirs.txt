@@ -1,0 +1,3 @@
+death_glow
+sanctum_slam
+sanctum_spellcast

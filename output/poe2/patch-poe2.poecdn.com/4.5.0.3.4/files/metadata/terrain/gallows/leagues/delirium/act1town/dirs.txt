@@ -1,7 +1,0 @@
-graphs
-objects
-rooms
-tiles
-tiles/farm
-tiles/wideriver
-tiles/wideriver/slash

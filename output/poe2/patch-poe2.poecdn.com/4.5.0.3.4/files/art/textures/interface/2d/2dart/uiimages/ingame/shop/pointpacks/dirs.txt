@@ -1,7 +1,0 @@
-french
-german
-japanese
-portugese
-russian
-spanish
-thai

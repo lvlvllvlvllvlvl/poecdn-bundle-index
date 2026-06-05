@@ -1,0 +1,11 @@
+consecrated_path
+earthquake
+earthshatter
+graphs
+ground_slam
+ice_crash
+leap_slam
+perforate
+pet
+sunder
+tectonic_slam

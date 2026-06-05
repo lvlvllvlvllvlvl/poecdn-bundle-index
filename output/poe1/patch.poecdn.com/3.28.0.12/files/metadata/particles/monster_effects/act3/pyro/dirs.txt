@@ -1,0 +1,7 @@
+back
+fireball
+fireball/poison_fireball
+poison_trap
+smoke_trap
+trap_explosion
+trap_explosion/trap_explode_poison

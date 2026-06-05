@@ -1,9 +1,0 @@
-critical
-element_fire
-energy_sheild
-evasion
-godmode
-heavy_damage
-increased_accur
-life_regen
-medium_damage

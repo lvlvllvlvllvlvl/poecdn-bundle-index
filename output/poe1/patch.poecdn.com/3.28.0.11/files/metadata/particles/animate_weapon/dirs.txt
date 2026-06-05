@@ -1,3 +1,0 @@
-celestial
-spawn
-weapon_trail

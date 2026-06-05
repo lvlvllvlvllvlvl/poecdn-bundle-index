@@ -1,0 +1,85 @@
+hash,file,bundle,offset,size
+9e0720305720c9d4,gradiantc.mat,Tiny.VD,37622432,1684
+29dbe60415e1140d,gradiant.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_impact.ao,205476,11084
+ae446c472aee97ee,gradiant.dds.header,Tiny.VB,37770887,1520
+54e797984f00fb91,blink_spiral_bigger 2.mat,Tiny.V0,37661475,1970
+435d318851ef39a2,blink_spiral_bigger 2.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.7851BAD4B7F14404.core.pet,471656,87556
+1a750c7311993a72,blink_spiral_bigger 2.dds.header,Tiny.VD,37620912,1520
+98732d64b2160a3f,blink_spiral_bigger 3.mat,Tiny.V0,37663445,2372
+5cf0dad62d95265a,blink_spiral_bigger 3.dds,Streaming/Content/metadata/particles/monster_effects/act5/D17D7A60A0EACE5D.E950CDD28071339E.impact_midline.pet,461068,87556
+3f2571b92727b056,blink_spiral_bigger 3.dds.header,Tiny.VD,37620912,1520
+71a38b587d7c511c,rune_targetc.mat,Tiny.V9,37923083,2220
+a52c0f3aafa61bac,rune_target.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_idle.ao,14300,22020
+8fbd43a85dde70b9,rune_target.dds.header,Tiny.VE,5835958,1520
+b1181940988e420d,rune_target_mulic.mat,Tiny.V3,36848091,1306
+70cba1e04df39401,rune_target_muli.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_idle.ao,36320,22020
+c7a08251cd5711a3,rune_target_muli.dds.header,Tiny.V2,6071306,1520
+35e18664cf66b369,runes_addac.mat,Tiny.V1,37289731,2452
+cd2a5c38b12ca28d,runes_adda.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_impact.ao,304116,174940
+0b49ef9c4af3cfe2,runes_adda.dds.header,Tiny.VF,37452084,504
+9d8a8bed5911fc38,runes_multic.mat,Tiny.V2,37277948,2322
+669b491b5cdd7834,runes_multi.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_impact.ao,479056,349732
+d3398b30663f8fbe,runes_multi.dds.header,Tiny.VA,37596565,504
+8ae92b3bf78ec262,runes_idle_blackc.mat,Tiny.V0,37667123,1306
+0ee699eabbb50e57,runes_idle_black.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_idle.ao,102192,87556
+2304ac5aeb7ebc8a,runes_idle_black.dds.header,Tiny.VC,41739410,1520
+62a9ae02dc0a6a82,runes_idle_addac.mat,Tiny.VC,37696240,2174
+03d224295ff41e02,runes_idle_adda.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_idle.ao,58340,43852
+027e255a5b437db9,runes_idle_adda.dds.header,Tiny.V8,5722172,1520
+6678e92d9a6258f9,runes.mat,Tiny.VB,37772407,1252
+981c61d9047a8dad,runes.dds,Streaming/Content/metadata/particles/monster_effects/E5170B05FCD66B17.mid.pet,976340,87556
+63291228e27a3557,runes.dds.header,Tiny.V4,36127920,1520
+636915dfd2b52059,middle_detail.mat,Tiny.V3,36846685,1406
+5bbf4eb22ae02eb2,middle_detail_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/E5170B05FCD66B17.mid.pet,965256,11084
+41ab6027052ef241,middle_detail_dxt1.dds.header,Tiny.V6,37438885,1520
+0f8c534859227e49,fat_boltc.mat,Tiny.V9,37920389,2694
+bf3a4ea926e9db90,fat_bolt.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_impact.ao,30536,174940
+d6cf0bf5d14abc61,fat_bolt.dds.header,Tiny.VB,37770383,504
+fd4312189e61a48b,flash.mat,Tiny.V2,37276728,1220
+8068551e15dcf04b,flash.dds,Streaming/Content/metadata/particles/monster_effects/E5170B05FCD66B17.mid.pet,943236,22020
+b5d46348f7268e44,flash.dds.header,Tiny.V9,41713326,1520
+ee7b7a99b9a9fd8d,strike_01c.mat,Tiny.V7,37391647,2554
+dddbcbca6fa21777,strike_01.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_impact.ao,1178832,699236
+1312fdff843e1aae,strike_01.dds.header,Tiny.VD,37626564,840
+0131449373faf848,scrolling_squidfaceman_runesc.mat,Tiny.V3,36849397,2354
+d78e71779aecf561,scrolling_squidfaceman_runes.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_idle.ao,189748,22052
+964208f7a6501b35,scrolling_squidfaceman_runes.dds.header,Tiny.VC,37698414,504
+4c38e249ce8bceda,scrolling_squidfaceman_runes_multic.mat,Tiny.V6,37440405,2216
+d4e7f1614a434ad4,scrolling_squidfaceman_runes_multi.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_idle.ao,211800,22052
+bd4b725dcf86a2e6,scrolling_squidfaceman_runes_multi.dds.header,Tiny.V9,37925303,504
+892321e4d77ffa11,smoke_line_thinc.mat,Tiny.VE,36898815,2772
+d48127661262e9e9,smoke_line_thin.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_impact.ao,1091284,87548
+63f35aecca70492f,smoke_line_thin.dds.header,Tiny.V5,37028893,840
+9b4c8567996d2a25,smoke_line_thickc.mat,Tiny.V2,37280270,1306
+7c8815de2d08b8c4,smoke_line_thick.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_impact.ao,828788,174948
+942758afec198604,smoke_line_thick.dds.header,Tiny.V0,37668429,840
+cdb466786b231759,smoke_line_thick_2c.mat,Tiny.V7,37389217,2430
+dd1a8c3b57401ba3,smoke_line_thick_2.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_impact.ao,1003736,87548
+51e894a6723a5f7c,smoke_line_thick_2.dds.header,Tiny.VE,36897975,840
+68a8c4abe621ea42,smoke_01.mat,Tiny.VC,37698918,2992
+add247d613a493a0,smoke_01.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.DA0D94E6BCA4664A.loop_char_midline.pet,907696,22020
+66a732ffba212c48,smoke_01.dds.header,Tiny.V9,36891630,1520
+1a729ca77b139490,smoke_03.mat,Tiny.VC,37701910,2962
+de6e5bb189f202a7,smoke_03.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.DA0D94E6BCA4664A.loop_char_midline.pet,929716,87556
+793c63af24cf17e6,smoke_03.dds.header,Tiny.VB,36702190,1520
+458796379f57c7c8,impact_swirl.mat,Tiny.VE,36895949,2026
+dfbbc05061f8542b,impact_swirl.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.DA0D94E6BCA4664A.loop_char_midline.pet,87704,22020
+fc857e108ace551d,impact_swirl.dds.header,Tiny.VB,7715792,1520
+12dc4dc049fa5d38,light_immortal_callc.mat,Tiny.VC,37694254,1986
+7aa1da13158a099e,light_immortal_call.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.9DA6ACD15846AA37.stormcall_impact.ao,216560,87556
+39fec4d220ceefe4,light_immortal_call.dds.header,Tiny.V7,37387697,1520
+9216fcca8468f40d,light_immortal_call_pulsec.mat,Tiny.VD,37624116,2448
+9bc8c8c1db7546a5,light_immortal_call_pulse.dds,Streaming/Content/metadata/effects/spells/monsters_effects/29260B9FE7D91A50.04B345CF40452039.slam_explosion.ao.2,2803036,87556
+8b6208340d46c922,light_immortal_call_pulse.dds.header,Tiny.V3,5762797,1520
+4ab307bae3688313,light_gradient 2.mat,Tiny.VA,37592757,1470
+c47c9558da392ab1,light_gradient 2.dds,Streaming/Content/metadata/particles/monster_effects/act5/D17D7A60A0EACE5D.E950CDD28071339E.impact_midline.pet,548624,22020
+50056c667746189d,light_gradient 2.dds.header,Tiny.VF,5874156,1520
+377396e4f7d88257,light_gradient.mat,Tiny.V0,37665817,1306
+4990470842afde55,light_gradient.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.DA0D94E6BCA4664A.loop_char_midline.pet,109724,11084
+a3d3a8b6143df431,light_gradient.dds.header,Tiny.V1,5849149,1520
+04b55185b55e3179,lightning_bolts_thin.mat,Tiny.VA,37594227,2338
+f0590d41d4a26128,lightning_bolts_thin.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.DA0D94E6BCA4664A.loop_char_midline.pet,208396,699300
+8430ba9da957f78b,lightning_bolts_thin.dds.header,Tiny.V6,5793052,344
+a252aff9cbe092e6,lightning_ball.mat,Tiny.V6,37437003,1882
+4e4c12a836737a76,lightning_ball.dds,Streaming/Content/metadata/particles/monster_effects/act5/27A1F305621B959B.DA0D94E6BCA4664A.loop_char_midline.pet,120808,87588
+eb161cfdbbfea1ed,lightning_ball.dds.header,Tiny.V8,5727858,504

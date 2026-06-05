@@ -1,0 +1,8 @@
+lowerledge
+oceanledge
+oceanledgecliff
+shoreline
+shoreline/deepwateredge
+unwalkablecliff
+unwalkableledge
+walkablecliffocean

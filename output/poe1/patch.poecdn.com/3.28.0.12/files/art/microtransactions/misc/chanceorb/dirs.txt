@@ -1,0 +1,3 @@
+mb
+mb/magic_rare
+mb/unique

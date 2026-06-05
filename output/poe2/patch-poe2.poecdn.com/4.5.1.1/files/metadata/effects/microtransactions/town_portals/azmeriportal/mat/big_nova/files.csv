@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+9c337c0d7d1bb4c1,mblur_sphere_r.mat,Tiny.V1.1,52768196,11394
+88f9d14aa7959c71,mblur_sphere_u.mat,Tiny.VE.1,12563624,310
+a7027cd68e77a47e,shimmerwave_r.mat,Tiny.V2.1,138971776,24680
+0af1089233fcb3b6,shimmerwave_u.mat,Tiny.VE.1,12563624,310
+bb05c05416776981,sparks_u.mat,Tiny.V9.1,58335333,15552
+c79eee1c4e70aeb1,sphere_shockwave_r.mat,Tiny.V2.1,55701540,22524
+7c6694abf77205a0,sphere_shockwave_u.mat,Tiny.V4.1,136802284,2160
+bc668f73ef636062,sphere_distort_r.mat,Tiny.V2.1,159271018,9782
+4b4ceb2544d6b284,sphere_distort_u.mat,Tiny.V0.1,13022622,302
+413f42da24f90702,zoom_distort_2_r.mat,Tiny.V6.1,79030491,10500
+7a9d9ba91c4ec6ad,zoom_distort_2_u.mat,Tiny.V0.1,13022622,302

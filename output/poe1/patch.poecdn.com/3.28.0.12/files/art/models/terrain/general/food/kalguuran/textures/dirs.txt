@@ -1,0 +1,5 @@
+bread
+cheese
+curedmeat
+fish
+mushrooms

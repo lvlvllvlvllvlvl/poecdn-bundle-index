@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+5eddc7468d03b1a7,nessacn.mat,Tiny_8,46310318,3402
+15ead8dc6e2625a4,nessa_sss_dxt5.dds,Art/Textures/NPC/Nessa_1,0,349700
+2ff518774ba44d5c,nessa_sss_dxt5.dds.header,Tiny_8,46308798,1520
+cc7ea708c47d305d,nessa_normal_masked.dds,Folders/art/textures/npc/nessa,874324,349700
+6e835df9b1436fae,nessa_normal_masked.dds.header,Tiny_8,46307278,1520
+f126729a917cbf1f,nessa_normal_dxt5.dds,Folders/art/textures/npc/nessa,524624,349700
+6ec19a563da7b7c7,nessa_normal_dxt5.dds.header,Tiny_8,46305758,1520
+f5e36c4eae447735,nessa_normal.dds,Folders/art/textures/npc/nessa,524624,349700
+38df114301dbb0fb,nessa_normal.dds.header,Tiny_8,46305758,1520
+89ab7adb458d390e,nessa_colour_dxt5.dds,Folders/art/textures/npc/nessa,174924,349700
+e606c3947271a395,nessa_colour_dxt5.dds.header,Tiny_8,46304238,1520
+acd6bdfb123b1c6a,nessa_colour_bc7.dds,Folders/art/textures/npc/nessa,174924,349700
+be60fc2647d07dfe,nessa_colour_bc7.dds.header,Tiny_8,46304238,1520
+241e3450a74492b4,nessa_colour.dds,Folders/art/textures/npc/nessa,0,174924
+6b14b1b907ef5e7b,nessa_colour.dds.header,Tiny_8,46302718,1520

@@ -1,7 +1,0 @@
-architecture
-architecture/dam
-architecture/interior
-foliage
-ground
-sacrificialaltars
-statues

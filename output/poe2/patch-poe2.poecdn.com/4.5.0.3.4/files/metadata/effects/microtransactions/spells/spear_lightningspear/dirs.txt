@@ -1,9 +1,0 @@
-ancestral
-ancestral/epks
-ancestral/fx
-ancestral/graphs
-ancestral/mats
-ancestral/mats/lightning_epk
-ancestral/mats/lightning_frenzy
-ancestral/mats/lightning_hit_fx
-ancestral/onacts

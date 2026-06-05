@@ -1,0 +1,5 @@
+attachments
+attachments/adbbeard
+attachments/adblsleeve
+attachments/adbrsleeve
+attachments/adbskirt

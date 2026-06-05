@@ -1,6 +1,0 @@
-textures
-textures/ritualobsidianeye
-voodookingeffigies
-voodookingeffigies/effigy_large
-voodookingeffigies/effigy_medium
-voodookingeffigies/effigy_small

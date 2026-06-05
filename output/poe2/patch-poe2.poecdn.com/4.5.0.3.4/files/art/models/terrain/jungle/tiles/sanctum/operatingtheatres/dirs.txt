@@ -1,4 +1,0 @@
-minitheatre_01
-minitheatre_02
-minitheatre_center_01
-outertheatre_01

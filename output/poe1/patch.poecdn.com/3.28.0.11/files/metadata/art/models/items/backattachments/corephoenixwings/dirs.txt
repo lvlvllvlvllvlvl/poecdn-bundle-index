@@ -1,2 +1,0 @@
-vfx
-vfx/textures

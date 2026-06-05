@@ -1,0 +1,3 @@
+on_kill
+on_kill/animations
+tex

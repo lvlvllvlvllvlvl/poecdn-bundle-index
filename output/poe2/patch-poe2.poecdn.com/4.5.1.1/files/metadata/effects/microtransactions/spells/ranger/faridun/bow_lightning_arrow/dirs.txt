@@ -1,0 +1,14 @@
+epk
+epk/monster_hit
+epk/projectile_01
+fx
+fx/lightning_arc
+fx/projectile_01
+fx/projectile_01/impact_01
+fx/projectile_01/projectile_01
+mat
+mat/impact_01
+mat/lightning_arc
+mat/monster_hit
+mat/projectile_01
+mat/surge

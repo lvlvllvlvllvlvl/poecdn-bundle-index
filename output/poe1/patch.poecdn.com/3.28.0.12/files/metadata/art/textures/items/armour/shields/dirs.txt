@@ -1,0 +1,5 @@
+microtransactions
+microtransactions/crucibleshield
+microtransactions/crucibleshield/fx
+microtransactions/doomgauntletshield
+microtransactions/doomgauntletshield/fxtexture

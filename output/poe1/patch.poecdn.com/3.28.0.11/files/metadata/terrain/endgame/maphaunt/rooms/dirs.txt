@@ -1,6 +1,0 @@
-1x1
-garden
-hallway
-outerfill
-unique
-unique/roominjectors

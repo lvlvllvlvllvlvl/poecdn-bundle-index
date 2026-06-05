@@ -1,0 +1,5 @@
+animations
+balbalacoin
+balbalacoin/textures
+coinpedestal
+coinpedestal/textures

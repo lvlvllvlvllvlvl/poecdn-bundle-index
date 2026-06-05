@@ -1,3 +1,0 @@
-beam
-textures
-textures/fx

@@ -1,3 +1,0 @@
-rewarddisplaychests
-rewarddisplaychests/mb
-rewarddisplaychests/textures

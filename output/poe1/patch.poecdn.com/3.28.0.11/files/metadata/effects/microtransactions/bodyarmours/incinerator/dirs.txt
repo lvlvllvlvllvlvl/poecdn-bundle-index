@@ -1,3 +1,0 @@
-pet
-pet/eye
-pet/robe

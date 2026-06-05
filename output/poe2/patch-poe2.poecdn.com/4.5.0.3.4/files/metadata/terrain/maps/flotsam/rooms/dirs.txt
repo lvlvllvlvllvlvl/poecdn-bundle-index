@@ -1,7 +1,0 @@
-border
-cliffedge
-fills
-inland
-oceancliff
-outercliff
-unique

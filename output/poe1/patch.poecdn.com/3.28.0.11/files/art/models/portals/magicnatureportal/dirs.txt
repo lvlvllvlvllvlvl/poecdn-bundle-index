@@ -1,6 +1,0 @@
-attachments
-fx
-fx/mb
-fx/mb/portalfx
-fx/texture
-textures

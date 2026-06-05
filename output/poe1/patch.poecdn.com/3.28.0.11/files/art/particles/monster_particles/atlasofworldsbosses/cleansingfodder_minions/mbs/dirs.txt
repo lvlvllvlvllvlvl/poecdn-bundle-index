@@ -1,6 +1,0 @@
-fodder1_mortar
-fodder1_mortar_impact
-fodder1_mortar_shockwave
-fodder2_decal
-fodder2_rage_slam
-meteor_fall

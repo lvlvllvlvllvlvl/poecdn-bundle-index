@@ -1,4 +1,0 @@
-arrow_down
-arrow_up
-spawn_object
-spawn_object/graphs

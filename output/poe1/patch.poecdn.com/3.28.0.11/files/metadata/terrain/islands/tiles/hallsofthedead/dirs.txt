@@ -1,7 +1,0 @@
-cavewall
-features
-hallway
-league
-thickwall
-thinwall
-totems

@@ -1,8 +1,0 @@
-mb
-mb/on_hit
-textures
-textures/afterimage
-textures/beam
-textures/on_hit
-textures/slash
-textures/teleport_out

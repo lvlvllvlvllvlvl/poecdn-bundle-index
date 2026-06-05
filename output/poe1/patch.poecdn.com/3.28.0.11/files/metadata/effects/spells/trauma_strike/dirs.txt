@@ -1,6 +1,0 @@
-pet
-pet/damage_player
-pet/hit_fx
-pet/shockwave
-pet/traumatised
-pet/weapon_buildup

@@ -1,6 +1,0 @@
-purge_01
-soul_escape_01
-soul_escape_01/appear_soul
-soul_escape_01/disappear_poof
-soul_large
-unleash_souls_01

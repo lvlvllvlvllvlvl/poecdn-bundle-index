@@ -1,0 +1,6 @@
+chaos
+cold
+fire
+fire/pet
+lightning
+physical

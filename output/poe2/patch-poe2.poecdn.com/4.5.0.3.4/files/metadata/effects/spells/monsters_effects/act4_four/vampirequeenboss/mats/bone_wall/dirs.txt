@@ -1,4 +1,0 @@
-beam
-beam_impact
-spikes
-trail

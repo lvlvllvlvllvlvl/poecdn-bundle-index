@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+3423ab9ae7ab086f,breachhedronportalc.mat,Tiny.VD,13400205,7548
+a4d173abe86b7f3c,breachhedronportal_mask.dds,Streaming/Content/art/models/portals/breachhedronportal/breachhedronportal.fmt,699212,1398276
+d6dee2b033d6ea86,breachhedronportal_mask.dds.header,Tiny.VE,13476640,1520
+7e1921ea5c6b49eb,breachhedronportal_normal.dds,Streaming/Content/art/models/portals/breachhedronportal/breachhedronportal.fmt,2097488,1398276
+b14923ec4d5bece4,breachhedronportal_normal.dds.header,Tiny.VB,13534144,1520
+a04bd9a8b32003aa,breachhedronportal_colour.dds,Streaming/Content/art/models/portals/breachhedronportal/breachhedronportal.fmt,0,699212
+302fcf2a68738e40,breachhedronportal_colour.dds.header,Tiny.VD,13398685,1520

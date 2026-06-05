@@ -1,0 +1,6 @@
+beam_buildup
+beam_grd_hit
+beam_head
+beam_hit
+core_beam
+grd_hit_decal

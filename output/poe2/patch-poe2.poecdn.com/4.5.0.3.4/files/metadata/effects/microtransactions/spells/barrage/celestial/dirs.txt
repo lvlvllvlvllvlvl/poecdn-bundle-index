@@ -1,3 +1,0 @@
-bow
-bow/graph
-bow/pet

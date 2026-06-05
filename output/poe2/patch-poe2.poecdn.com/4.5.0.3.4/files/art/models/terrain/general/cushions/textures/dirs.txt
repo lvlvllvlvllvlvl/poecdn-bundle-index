@@ -1,6 +1,0 @@
-bolster
-bolster/base
-square
-square/base
-square/cotton
-square/cotton/basic

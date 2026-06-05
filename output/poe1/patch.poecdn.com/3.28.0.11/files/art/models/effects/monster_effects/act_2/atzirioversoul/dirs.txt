@@ -1,5 +1,0 @@
-death
-ice_shoot
-laser
-summon_shoot
-teleport

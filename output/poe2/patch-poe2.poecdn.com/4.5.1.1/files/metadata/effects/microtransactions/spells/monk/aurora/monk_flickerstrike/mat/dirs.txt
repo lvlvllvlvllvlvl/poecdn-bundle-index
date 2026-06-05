@@ -1,0 +1,6 @@
+beam
+epk
+flicker
+hit
+surge
+trail

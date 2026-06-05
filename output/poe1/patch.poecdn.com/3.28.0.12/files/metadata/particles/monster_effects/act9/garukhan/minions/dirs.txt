@@ -1,0 +1,6 @@
+big
+big/death
+big/emerge
+normal
+normal/death
+normal/emerge

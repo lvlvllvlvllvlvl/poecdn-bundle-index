@@ -1,0 +1,8 @@
+animations
+animations/carvertribedelinquent
+modelvariants
+modelvariants/carvertribedelinquent
+modelvariants/carvertribedelinquent/attachments
+modelvariants/carvertribedelinquent/attachments/delinquent_01_frontloincloth
+modelvariants/carvertribedelinquent/attachments/delinquent_02_frontloincloth
+modelvariants/carvertribedelinquent/attachments/delinquent_03_backloincloth

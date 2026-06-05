@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+9c4a3bfef834bfee,arc_beam.mat,Tiny.V6.1,1798812,7248
+e02f028601b2c975,dark_trail.mat,Tiny.V0.1,1849472,6784
+5bb1d30531276b23,dark_trail_dxt5.dds,Streaming/Content/metadata/pet/voidsmall/voidsmall.ot,126794,349700
+cff03b72baf41f57,dark_trail_dxt5.dds.header,Tiny.V7.1,1841878,1520
+684695fc8852ce85,lightning.mat,Tiny.VB.1,1384398,2618
+b1387bfeec50ce64,lightning_ball_smallsimple.mat,Tiny.VB.1,1387016,2428
+95e74118baf569d0,lightning_ball_smallsimple_dxt4.dds,Streaming/Content/metadata/pet/voidsmall/voidsmall.ot,476494,87588
+7b7639833965734d,lightning_ball_smallsimple_dxt4.dds.header,Tiny.V2,36326404,504
+cd8229e7cbe9abc7,lightning_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/pets/991F2326365EC2E0.emerge.pet,459276,349700
+bdc5454bb5b67a4e,lightning_dxt5.dds.header,Tiny.V5.1,1270678,1520
+95a266ac00056809,flash_ring.mat,Tiny.V0.1,1856256,2386
+fdd137f0ce7cdbeb,flash_ring_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/pets/991F2326365EC2E0.emerge.pet,371720,87556
+440a588968ae04f6,flash_ring_dxt5.dds.header,Tiny.VD,38241322,1520
+c7e2055c761c687b,bloom_glow.mat,Tiny.V5.1,1269332,1346
+da593e0b73ed4e24,bloom_glow_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/pets/991F2326365EC2E0.emerge.pet,349700,22020
+ab2bcb5e79925cd4,bloom_glow_dxt5.dds.header,Tiny.V8,3849952,1520

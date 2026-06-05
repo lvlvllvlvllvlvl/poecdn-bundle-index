@@ -1,3 +1,0 @@
-attachments
-attachments/cap
-attachments/crate

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+78238b73e504debd,glow_streak_1_9.mat,Tiny.V3,6430840,2042
+71fc203b04b29823,mask_circ_1_7.mat,Tiny.V2,6818835,1882
+d134e7f5b0651b25,metalbits_noglow.mat,Tiny.VD,6487900,2352
+754b23c8040d08a5,metalbits.mat,Tiny.V6,6574536,2620
+6054e672690bb2bd,trail_1_6.mat,Tiny.V1,6506272,4038
+6fe4275c39c46591,trail_1_6_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.DCCC6338AD26D7E3.shield.epk,461240,87556
+ed82acd700563796,trail_1_6_dxt5.dds.header,Tiny.VD,6490252,1520
+d579c62572f162cc,smoke_flipbook_ipct.mat,Tiny.V4,6609316,6888
+4838e83da2361b48,smoke_impact_5x5_nrm_dxt5.dds,Streaming/Shared/Normal/Shared.1,0,1398276
+23e9c386ea8c9b37,smoke_impact_5x5_nrm_dxt5.dds.header,Tiny.V8,39162931,1520
+215a47fec6318de6,smoke_impact_5x5_clr_dxt5.dds,Streaming/Shared/Normal/Shared,4087838,1398276
+fc1e4609867aa10f,smoke_impact_5x5_clr_dxt5.dds.header,Tiny.V5,39110261,1520
+9131bd4903037b6f,smoke_trail.mat,Tiny.V4,6616204,6702
+10868122dee8ba66,smoke_trail.dds,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.DCCC6338AD26D7E3.shield.epk,417364,43876
+585cbb247fb7e78b,smoke_trail.dds.header,Tiny.VC,6539539,840

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+004a1db981a1ce73,shard_02.fmt,Tiny_2,5814408,2557
+1316fb17ec523386,shard_02.fmt.header,Tiny_2,5816965,174
+8c4389a5a0d22b45,shard_01.fmt,Tiny_2,5811029,3205
+d228b59abe4bd268,shard_01.fmt.header,Tiny_2,5814234,174
+5717b47841581a64,mortar_1400b17f.smd,Art/Models/Effects/monster_effects/League_Synthesis/Synthesis_Ribbon_Large,7722,7914
+7fb2afa1de1d58eb,mortar_1400b17f.smd.header,Tiny_2,5810661,368
+7c3c71681d0b0363,mortar.sm,Tiny_2,5810015,646
+eafc3e8859894cf7,mortar.amd,Tiny_2,5851507,86
+47dd3566080cff58,mortar.ast,Tiny_2,5807932,2083

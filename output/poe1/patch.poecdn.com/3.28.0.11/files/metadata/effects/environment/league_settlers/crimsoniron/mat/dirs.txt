@@ -1,3 +1,0 @@
-idle
-node_alive
-small_growth

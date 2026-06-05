@@ -1,3 +1,0 @@
-mortar
-mortar/pool
-mortar/projectile

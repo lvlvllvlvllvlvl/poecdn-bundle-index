@@ -1,0 +1,6 @@
+floppy
+monstrosity
+snake
+spider
+tentacle
+triclaw

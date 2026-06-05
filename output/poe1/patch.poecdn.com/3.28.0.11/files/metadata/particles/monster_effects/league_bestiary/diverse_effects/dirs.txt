@@ -1,5 +1,0 @@
-avian_blood_feather
-flame_bile
-flame_bile/impact
-stampede
-stampede/epk

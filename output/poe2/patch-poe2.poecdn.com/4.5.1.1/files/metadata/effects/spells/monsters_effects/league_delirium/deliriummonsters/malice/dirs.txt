@@ -1,0 +1,12 @@
+epk
+fx
+fx/air_aoe
+fx/spikes
+mat
+mat/air_aoe
+mat/delayed_proj
+mat/meleetrail
+mat/ondeath_buildup
+mat/ondeath_explode
+mat/spikes
+mat/spiketrail

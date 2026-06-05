@@ -1,0 +1,10 @@
+bossfx
+bossfx/onact
+onact
+onact/exit_device_01
+onact/possess_map_device_01
+onact/raise_into_sky_01
+onact/remove_map_device_01
+onact/summon_bosses_01
+onact/summon_bosses_02
+onact/summon_pylon_01

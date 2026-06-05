@@ -1,0 +1,8 @@
+animations
+animations/largedualaxeboss
+animations/largedualaxeboss/sanctum
+attachments
+attachments/largedualaxeboss
+attachments/largedualaxeboss/cloak
+attachments/largedualaxeboss/loincloth
+attachments/largedualaxeboss/necklace

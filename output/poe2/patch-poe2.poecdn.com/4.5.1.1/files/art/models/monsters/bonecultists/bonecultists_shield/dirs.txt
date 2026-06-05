@@ -1,0 +1,5 @@
+attachments
+attachments/belt_bones
+attachments/helmet
+attachments/shield
+attachments/skirt_skull

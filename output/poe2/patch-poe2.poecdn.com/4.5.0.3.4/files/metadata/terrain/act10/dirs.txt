@@ -1,3 +1,0 @@
-area6
-area6/rooms
-area6/rooms/fill

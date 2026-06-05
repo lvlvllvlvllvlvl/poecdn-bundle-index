@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+f89f2f1f4a197fdb,fireshield.mat,Tiny_6,102202245,5504
+bb7ecc22a590a859,lightshield.mat,Tiny_6,102207749,5680
+cc546b708dd2b7f3,trail_fire.mat,Tiny_6,102251231,2454
+1439a6fa2e323df2,trail_light.mat,Tiny_6,102253685,2482
+e06ba2072e87c56c,trail_phys.mat,Tiny_6,102256167,2452
+24f3861c8ef3198a,trail_chaos.mat,Tiny_6,102246473,2456
+d39e1398f3a5fc22,trail_cold.mat,Tiny_6,102248929,2302
+f26131e47efac275,physshield.mat,Tiny_6,102213429,5418
+c5a1096a6179e02a,prismcold.mat,Tiny_6,102218847,7938
+08f7bef7a73c7945,prismfire.mat,Tiny_6,102226785,5502
+4c7f16ed279faaed,prismlight.mat,Tiny_6,102232287,5652
+57e4c2f9ebbe32e3,prismshield.mat,Tiny_6,102237939,8534
+1cbcc43e3ddf8b35,chaosshield.mat,Tiny_6,102189479,4828
+59135991e003bed8,coldshield.mat,Tiny_6,102194307,7938

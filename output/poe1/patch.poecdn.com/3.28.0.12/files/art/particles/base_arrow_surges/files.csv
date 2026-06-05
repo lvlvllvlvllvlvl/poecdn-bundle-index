@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+617a0bed63729678,example04.mat,Tiny_7,7006324,1428
+7252087cd44770ea,example04_dxt5.dds,Folders/art/particles/monster_particles/atlasexiles_21,0,22020
+aec8ace2b6243ad9,example04_dxt5.dds.header,Tiny_7,49205603,1520
+089ab880bd2a5033,example03.mat,Tiny_6,14609424,1398
+c7b08854881f57be,example03_dxt5.dds,Folders/art/particles/monster_particles/league_hellscape_81,1560515,5592580
+07af63451ee40a35,example03_dxt5.dds.header,Tiny_7,11229587,1520
+90f8218620867942,example02.mat,Tiny_6,14608026,1398
+b5e5142b310dc89b,example02_dxt5.dds,Folders/art/particles/molten_strike,678436,87556
+5a0b72a709ed83ce,example02_dxt5.dds.header,Tiny_7,49929740,1520
+43a59a29b06e5cd1,example01.mat,Tiny_6,14606568,1458
+d3a95a4245d24359,example01_dxt5.dds,Folders/art/particles/flame_wall,0,87556
+e6730c048c22dd23,example01_dxt5.dds.header,Tiny_7,58845538,1520

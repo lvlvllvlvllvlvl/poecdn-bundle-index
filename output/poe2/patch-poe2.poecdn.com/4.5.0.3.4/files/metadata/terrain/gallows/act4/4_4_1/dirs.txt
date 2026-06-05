@@ -1,8 +1,0 @@
-graphs
-objects
-rooms
-rooms/1x1
-rooms/2x2
-rooms/deepwater
-rooms/fills
-rooms/unique

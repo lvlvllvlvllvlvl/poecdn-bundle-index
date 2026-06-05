@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+fd324ce39fe05c3d,crystal_backdrop.fmt,Streaming/Content/data/balance/worldareas/7E/g4_8a.vworld,477021,11326
+6296b6e69218c80f,crystal_backdrop.fmt.header,Tiny.V7,39638013,172
+ec055c9ef97080d7,verisium_disk.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/E29A522740B45330.2C04CA53FA9E1F6A.deflection_grd.pet,0,113622
+40247bcdc7a24abd,verisium_disk.fmt.header,Tiny.V4,39813084,128
+2a848b28c1a13505,raised_grd.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/E29A522740B45330.AD84143ECC9E1F26.hellgrasp_hand.ao,537853,6816
+fcb66f07277920be,raised_grd.fmt.header,Tiny.VC,39936160,128
+aa06a7b471494c85,root_cyl.fmt,Tiny.VA,39865437,644
+9a665549f1221d1a,root_cyl.fmt.header,Tiny.V7,39638185,128
+f36311084b965cf6,bladedmace_shatter.fmt,Streaming/Content/metadata/effects/spells/monsters_effects/E29A522740B45330.A57515E75C1783A7.rune_01.pet,578826,370906
+b9f689d93858cedd,bladedmace_shatter.fmt.header,Tiny.VA,39865251,186
+7e96ee891a3d4ba8,swordshatter.fmt,Streaming/Content/metadata/monsters/leagueexpeditionnew/expedition2/1706BD2531BB6A12.EC6EB4D8BD3E8390.forgemasterfissureline.ot,551640,243792
+c81cf33942e251a7,swordshatter.fmt.header,Tiny.VC,39936288,2403

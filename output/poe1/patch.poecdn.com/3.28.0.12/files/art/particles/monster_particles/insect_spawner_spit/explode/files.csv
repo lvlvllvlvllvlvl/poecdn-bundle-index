@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+61d46db8e30cdb72,smoketest.mat,Tiny_6,93722446,1752
+fe641013005262e5,smoketest.dds,Art/particles/monster_particles/act3_25,1748136,87556
+e4ade73f6b3aac7f,smoketest.dds.header,Tiny_6,93767282,1520
+4a09ba8512fd0a48,smoke6frey_coloured.mat,Tiny_6,93721286,1160
+11e970b79a352fe3,smoke6frey_coloured.dds,Art/particles/monster_particles/insect_spawner_spit_3,87556,87556
+2f33f274536e572b,smoke6frey_coloured.dds.header,Tiny_6,93764548,1520
+89c3b56c1535b2e4,smoke6frey.mat,Tiny_6,93719822,1464
+5bc45386fead99c9,smoke6frey.dds,Folders/art/particles/monster_particles/secretpolice_teleport_strike,705560,87556
+333ba93ed08605ef,smoke6frey.dds.header,Tiny_6,109050308,1520
+b26c197de21768d2,pulse.mat,Tiny_6,93718608,1214
+72f5d2622906fdef,pulse.dds,Art/particles/monster_particles/insect_spawner_spit_1,0,87556
+987eb9090e746bc3,pulse.dds.header,Tiny_6,93717088,1520
+5ed2a0409b7f4163,flash_mid.mat,Tiny_6,93715560,1528
+fafae44e043d499b,flash_mid.dds,Art/particles/monster_particles/insect_spawner_spit_3,175112,349700
+c11ff55c89990025,flash_mid.dds.header,Tiny_6,93714040,1520

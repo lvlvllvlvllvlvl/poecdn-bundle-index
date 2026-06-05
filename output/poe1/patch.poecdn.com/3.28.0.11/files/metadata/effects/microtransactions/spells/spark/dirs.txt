@@ -1,9 +1,0 @@
-automaton
-automaton/ao
-automaton/pet
-celestial
-celestial/ao
-celestial/pet
-sparkspider
-void
-void/fx

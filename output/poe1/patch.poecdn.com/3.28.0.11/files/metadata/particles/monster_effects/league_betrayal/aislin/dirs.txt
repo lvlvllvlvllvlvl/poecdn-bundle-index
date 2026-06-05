@@ -1,5 +1,0 @@
-dagger_throw
-dagger_throw_poison
-monsterfx
-poison_spin
-vine_snare

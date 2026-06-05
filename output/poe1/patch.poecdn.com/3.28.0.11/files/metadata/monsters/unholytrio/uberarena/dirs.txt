@@ -1,4 +1,0 @@
-fx
-fx/mat
-fx/mat/idle_closed_01
-fx/pet

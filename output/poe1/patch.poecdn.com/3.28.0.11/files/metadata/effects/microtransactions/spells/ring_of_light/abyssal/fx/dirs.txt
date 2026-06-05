@@ -1,4 +1,0 @@
-projectile
-scythe_large
-scythe_mall
-scythe_mid

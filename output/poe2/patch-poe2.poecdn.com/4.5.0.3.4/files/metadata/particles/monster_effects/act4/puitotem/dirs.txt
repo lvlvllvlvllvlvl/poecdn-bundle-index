@@ -1,5 +1,0 @@
-cold_charged_beam
-projectile
-teleport
-teleport/explode
-teleport/rune

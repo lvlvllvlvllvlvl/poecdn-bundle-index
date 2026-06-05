@@ -1,6 +1,0 @@
-mortar_charge
-mortar_detonate
-mortar_toss
-reflect_beam
-totem_active_epk
-totem_nova

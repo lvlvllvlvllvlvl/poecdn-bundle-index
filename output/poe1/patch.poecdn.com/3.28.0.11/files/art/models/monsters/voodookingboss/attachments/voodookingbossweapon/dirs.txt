@@ -1,4 +1,0 @@
-attachments
-attachments/bells
-attachments/feathers
-attachments/hangings

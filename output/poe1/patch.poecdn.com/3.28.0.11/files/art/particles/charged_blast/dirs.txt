@@ -1,3 +1,0 @@
-explode
-explode/particles
-idle

@@ -1,7 +1,0 @@
-loyalcompanion
-loyalcompanion/loyalcompanion_angry
-loyalcompanion/loyalcompanion_happy
-loyalcompanion/loyalcompanion_sad
-loyalcompanion/loyalcompaniondecoration_angry
-loyalcompanion/loyalcompaniondecoration_happy
-loyalcompanion/loyalcompaniondecoration_sad

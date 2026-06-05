@@ -1,6 +1,0 @@
-fx
-mat
-mat/light_cone_primary
-mat/light_cone_secondary
-mat/light_wave
-mat/light_wave_border

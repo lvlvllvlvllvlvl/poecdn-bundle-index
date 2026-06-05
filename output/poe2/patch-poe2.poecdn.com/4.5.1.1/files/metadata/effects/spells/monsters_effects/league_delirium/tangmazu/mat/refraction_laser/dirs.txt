@@ -1,0 +1,7 @@
+beam
+beam/chaos
+beam/cold
+beam/fire
+beam/lightning
+beam/poison
+start

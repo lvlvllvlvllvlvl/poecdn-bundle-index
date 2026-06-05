@@ -1,9 +1,0 @@
-adjacency_vines
-bulb
-bulb/variation_01
-fx
-plant_fluids
-scale
-scale/variation_01
-thorn
-thorn/variation_01

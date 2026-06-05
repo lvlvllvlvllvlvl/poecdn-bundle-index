@@ -1,0 +1,11 @@
+axis2hsword
+curvedblade
+heist2hsword
+twohandsword1
+twohandsword2
+twohandsword3
+twohandsword4
+twohandsword5
+twohandsword6
+twohandsword7
+twohandsword8

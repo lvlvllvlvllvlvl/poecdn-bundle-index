@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+940a28fc7c9fd7a1,projectile_add.mat,Tiny_6,93017526,2316
+36cc48b0b31bc4be,projectile_add.dds,Art/particles/monster_particles/Holy_fire_elemental,0,5636
+5e6313e799d03e7e,projectile_add.dds.header,Tiny_6,93016006,1520
+172a48361ebcd4ba,lava_dots.mat,Tiny_6,93013686,2320
+40905ebbe6e8f0b4,lava_dots.dds,Art/particles/monster_particles/Holy_fire_elemental_1,0,87556
+28de0c9367a7eb5f,lava_dots.dds.header,Tiny_7,46490318,1520
+499f473e0adc75e0,grad.mat,Tiny_6,93012664,1022
+8215bfd27c9acdd5,grad.dds,Art/particles/monster_particles/act8_24,1595932,87556
+f408eb864ebf4227,grad.dds.header,Tiny_7,53692063,1520
+f5012f1fb6bba502,fire_bits2_at.mat,Tiny_6,93010146,2518
+5eae2a7dec7f0ca6,fire_bits2_at.dds,Art/particles/heralds/holy,1017224,11108
+adba98e41a0fb7ce,fire_bits2_at.dds.header,Tiny_6,93009306,840

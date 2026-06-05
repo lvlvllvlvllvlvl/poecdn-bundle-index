@@ -1,0 +1,4 @@
+attachments
+attachments/hat_base
+attachments/hat_physics
+textures

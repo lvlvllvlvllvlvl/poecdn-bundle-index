@@ -1,3 +1,0 @@
-aura
-aura/graphs
-projectile

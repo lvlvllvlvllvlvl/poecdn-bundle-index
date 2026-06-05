@@ -1,4 +1,0 @@
-fx
-mats
-mats/anvil
-mats/anvil_activated

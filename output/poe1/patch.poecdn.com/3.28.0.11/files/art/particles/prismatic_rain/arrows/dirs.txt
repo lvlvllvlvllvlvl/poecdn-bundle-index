@@ -1,6 +1,0 @@
-mb
-textures
-textures/cold
-textures/fire
-textures/lightning
-textures/lightning/arrow

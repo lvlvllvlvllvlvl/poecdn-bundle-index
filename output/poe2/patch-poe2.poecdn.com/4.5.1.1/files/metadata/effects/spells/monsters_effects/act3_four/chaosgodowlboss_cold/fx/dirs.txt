@@ -1,0 +1,14 @@
+attack_04
+dash_lacerate
+dash_up
+death
+falling_iceshard
+glacial_prison
+grd_dashes
+ice_ground
+lightning_orb
+lightning_strikes
+nighttime
+rolling_ice_orb
+shard_projectile
+tornado

@@ -1,7 +1,0 @@
-attachments
-attachments/cape
-attachments/cape/t2
-attachments/cape_town
-attachments/cape_town/t2
-attachments/t2
-t2

@@ -1,7 +1,0 @@
-automaton
-automaton/ao
-automaton/effects
-celestial
-celestial/ao
-celestial/effects
-celestial/graph

@@ -1,0 +1,11 @@
+attachments
+attachments/emerald
+attachments/opal
+attachments/ruby
+attachments/sapphire
+emerald
+fx
+gold
+opal
+ruby
+sapphire

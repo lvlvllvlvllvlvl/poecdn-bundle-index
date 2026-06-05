@@ -1,3 +1,0 @@
-sentinelchest
-sentinellocker
-textures

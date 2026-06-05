@@ -1,0 +1,9 @@
+animations
+attachments
+attachments/belt_deco
+attachments/earings
+attachments/hair
+attachments/hat
+attachments/scarf
+attachments/weapon
+textures

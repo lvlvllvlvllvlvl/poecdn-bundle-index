@@ -1,6 +1,0 @@
-animations
-animations/armouredhuntingdog
-attachments
-fx
-fx_demonic
-textures

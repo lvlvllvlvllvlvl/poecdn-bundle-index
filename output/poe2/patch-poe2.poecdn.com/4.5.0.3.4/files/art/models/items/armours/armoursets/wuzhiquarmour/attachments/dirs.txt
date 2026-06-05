@@ -1,6 +1,0 @@
-ribbon
-skirt
-sleeves
-sleeves/lsleeve
-sleeves/rsleeve
-tail

@@ -1,3 +1,0 @@
-individualhands
-textures
-texturesfx

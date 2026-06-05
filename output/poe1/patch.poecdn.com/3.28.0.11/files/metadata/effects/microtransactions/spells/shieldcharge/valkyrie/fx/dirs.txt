@@ -1,5 +1,0 @@
-circle_aoe
-impact_aoe
-shield_charge
-shield_impact
-shockwave_charge

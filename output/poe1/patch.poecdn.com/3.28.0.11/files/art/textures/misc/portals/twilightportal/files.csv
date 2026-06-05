@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-4e9f45640fc126b4,twilightportalc.mat,Tiny_8,31344040,6724
-7cfd89825bd92717,twilightportal_fxc.mat,Tiny_8,31334850,6150
-a5a8a992debcaf64,twilightportal_normal_dxt5.dds,Art/Textures/Misc/portals/TwilightPortal_3,0,1398276
-23c82f7aee0e764d,twilightportal_normal_dxt5.dds.header,Tiny_8,31342520,1520
-568b9420357ea2ca,twilightportal_glow_dxt1.dds,Art/Textures/Misc/portals/TwilightPortal_2,0,174924
-c644814ca9eff348,twilightportal_glow_dxt1.dds.header,Tiny_8,31341000,1520
-374001ccb807957b,twilightportal_colour_dxt5.dds,Art/Textures/Misc/portals/TwilightPortal_1,0,1398276
-33e62685cb4b9432,twilightportal_colour_dxt5.dds.header,Tiny_8,31333330,1520

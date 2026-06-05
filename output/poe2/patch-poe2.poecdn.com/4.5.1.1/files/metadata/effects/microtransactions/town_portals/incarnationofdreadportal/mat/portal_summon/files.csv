@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+382c4212d8696157,r_charge_portal_01.mat,Tiny.VF.1,53624974,16958
+ca188cb9bd57aae8,l_charge_portal_01.mat,Tiny.VB.1,55301199,16040
+1fb21ead92ae1cd7,oap_distort_update.mat,Tiny.V1.1,57740946,12970
+bd7cc8e897221cd1,oap_buildup_update.mat,Tiny.VF.1,58231196,8764
+28adedc882197fe6,phase_petals_01_r.mat,Tiny.VD.1,54816572,45450
+2c8613e8ad3d9405,phase_petals_01_u.mat,Tiny.V5.1,55696358,13344
+08875c996be2b3d3,portal_buildribbon_01_r.mat,Tiny.V7.1,52014152,64530
+8478d70316959893,portal_buildribbon_01_u.mat,Tiny.VA.1,55649285,24212
+91d873d3da9ec974,hand_wispy_trail_01.mat,Tiny.V1.1,53626554,38804
+6551558cad013998,hand_blur_trail_01.mat,Tiny.VE.1,56317542,25744

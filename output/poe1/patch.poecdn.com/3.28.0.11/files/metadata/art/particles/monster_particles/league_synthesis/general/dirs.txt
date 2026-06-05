@@ -1,8 +1,0 @@
-drone_projectiles
-drone_projectiles/fx
-fire
-fire/fx
-general_proj
-general_proj/fx
-lightning
-lightning/fx

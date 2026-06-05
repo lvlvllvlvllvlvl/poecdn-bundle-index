@@ -1,0 +1,9 @@
+cone_explode
+fire_breath_spin_cleave_01
+fire_cleave
+fire_lacerate
+fireball
+flamethrower
+leap_mace_slam
+melee_trails
+slam_01

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+71c2f4b3a4748529,explosion.amd,Tiny.V1,5926510,92
+a1f1ffb0a7fde291,explosion.ast,Tiny.V5,7722452,1902
+add8c1103f0a3b81,corpse_explosion_rig_0837cb15.smd,Streaming/Content/metadata/effects/spells/skeletal_chains/skeletalchains_chaining_fast.ao,717720,25469
+82d930b969ae9840,corpse_explosion_rig_0837cb15.smd.header,Tiny.V1,7768051,368
+cd3bbf10242e9597,volatiledeadfiresplode.sm,Tiny.V4,7949518,508
+b168ac6d38c34bc6,volatiledeadfiresplode.amd,Tiny.VE,5977206,94
+aaf4b98b566fcbe9,volatiledeadfiresplode.ast,Tiny.V0,7982033,1743
+76fdcad8634036c4,swirl4.fmt,Streaming/Content/metadata/particles/volatile_dead_chaos/swirl_up.pet,21624,6872
+6a61c37a9b821714,swirl4.fmt.header,Tiny.V2,8070165,163
+28b58b41841cf02f,swirl3.fmt,Streaming/Content/metadata/particles/volatile_dead_chaos/swirl_up.pet,13984,7640
+29886eb3e40c8202,swirl3.fmt.header,Tiny.V5,7724354,163
+84ffe191db78b848,swirl2.fmt,Streaming/Content/metadata/particles/volatile_dead_chaos/swirl_up.pet,8408,5576
+0ed69d5336f62d2d,swirl2.fmt.header,Tiny.VB,7811807,163
+3826e0dfc79a7558,swirl.fmt,Streaming/Content/metadata/particles/volatile_dead_chaos/swirl_up.pet,0,8408
+2cc3d2c7712a6d4a,swirl.fmt.header,Tiny.VE,7760414,163

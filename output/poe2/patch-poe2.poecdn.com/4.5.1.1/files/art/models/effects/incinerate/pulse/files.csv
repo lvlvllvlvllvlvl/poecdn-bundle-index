@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+9344459df050a070,stage4_ring.fmt,Tiny.V8,7217177,2219
+22e80c1abbde4148,stage4_ring.fmt.header,Tiny.VB,7362027,173
+2d30e045e85ca763,stage3_ring.fmt,Tiny.V4,7437484,1739
+99052d301fbd4b89,stage3_ring.fmt.header,Tiny.VF,7345072,173
+d885b6922a383c67,stage1_ring.fmt,Tiny.V3,7283306,779
+7edbee322d831f2e,stage1_ring.fmt.header,Tiny.V8,7217004,173
+51243f20cb75b933,stage2_ring.fmt,Tiny.VB,7360768,1259
+8b26106fd61ccfea,stage2_ring.fmt.header,Tiny.VE,7312083,173

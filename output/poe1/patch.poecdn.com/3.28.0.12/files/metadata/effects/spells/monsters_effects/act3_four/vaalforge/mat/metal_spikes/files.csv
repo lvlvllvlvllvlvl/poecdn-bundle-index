@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+393914e4efd0e39b,decal_r.mat,Tiny_D,107069586,61566
+107b10fa19a31aff,snow_render.mat,Tiny_D,108016456,32708
+e2df1eeccb069965,snow_update.mat,Tiny_D,106935206,16594
+edaba49212c24e7d,smokering_render.mat,Tiny_D,107983016,26460
+47f93b018f600386,smokering_update.mat,Tiny_D,106928190,7016
+5906e05b3189f3a3,shardsdebris_render.mat,Tiny_D,107871672,11214
+5e777e83bd4b6698,shardsdebris_update.mat,Tiny_D,106906178,22012
+5f4502ef0963d142,metalspikesmall_r.mat,Tiny_D,106847820,50280
+ebb738fd5b322d90,metalspikesmall_u.mat,Tiny_D,106898100,8078
+5734d5af55e78c1e,metalspikebig_r.mat,Tiny_D,106794582,53238
+26dd938b87753a03,metalspikebig_u.mat,Tiny_11,127344428,346

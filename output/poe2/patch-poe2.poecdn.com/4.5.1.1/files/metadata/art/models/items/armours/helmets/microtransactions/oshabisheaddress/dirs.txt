@@ -1,0 +1,5 @@
+textures
+textures/fx
+textures/fx/boss
+textures/fx/boss_cat
+textures/fx/boss_raven

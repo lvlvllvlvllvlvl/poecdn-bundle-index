@@ -1,0 +1,14 @@
+ancestor_slam
+arrow_rain
+arrow_rain/impacts
+aurafy
+aurafy/black_flame
+aurafy/black_flame_01
+aurafy/deathflame
+aurafy/divine
+aurafy/purple
+aurafy/red
+aurafy/sin
+chieftain_ancestor_slam
+innervate
+melee_splash

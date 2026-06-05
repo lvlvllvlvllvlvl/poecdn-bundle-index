@@ -1,0 +1,7 @@
+animations
+attachments
+attachments/animations
+attachments/animations/female_1
+attachments/animations/female_2
+attachments/animations/female_3
+attachments/strap

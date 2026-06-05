@@ -1,0 +1,6 @@
+attachments
+attachments/tasaliokaruispearthrower
+attachments/tasaliokaruispearthrower/skirt
+attachments/tasaliokaruiwhipmace
+attachments/tasaliokaruiwhipmace/skirt
+attachments/tasaliokaruiwhipmace/weapon

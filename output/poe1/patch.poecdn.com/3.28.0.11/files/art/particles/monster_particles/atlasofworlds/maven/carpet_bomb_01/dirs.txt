@@ -1,6 +1,0 @@
-beam
-beam/mb
-beam/textures
-beam_aoe
-beam_aoe/mb
-beam_aoe/textures

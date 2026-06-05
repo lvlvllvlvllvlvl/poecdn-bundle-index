@@ -1,0 +1,5 @@
+attachments
+attachments/heads
+sanctified
+sanctified/attachments
+sanctified/attachments/heads

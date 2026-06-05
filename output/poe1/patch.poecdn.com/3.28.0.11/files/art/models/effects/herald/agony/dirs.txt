@@ -1,7 +1,0 @@
-hand_buff
-minion
-minion/burrow
-minion/emerge
-minion/mortar
-minion/mortar/impact
-minion/projectile

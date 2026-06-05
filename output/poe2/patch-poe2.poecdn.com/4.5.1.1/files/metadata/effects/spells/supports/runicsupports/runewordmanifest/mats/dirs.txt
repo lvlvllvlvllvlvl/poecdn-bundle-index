@@ -1,0 +1,6 @@
+beam
+cast
+emerge
+impact
+minion
+projectile

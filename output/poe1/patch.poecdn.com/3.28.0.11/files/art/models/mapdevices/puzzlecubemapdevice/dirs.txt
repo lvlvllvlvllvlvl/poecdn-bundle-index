@@ -1,9 +1,0 @@
-attachments
-cube
-cube/attachments
-cube/attachments/basecube
-fx
-fx/mb
-fx/mb/indicator
-fx/tex
-textures

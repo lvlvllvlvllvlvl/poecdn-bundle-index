@@ -1,4 +1,0 @@
-aesirapparition
-aesirapparition/map_device_large
-aesirapparition/map_device_small
-aesirapparition/rare_finisher_effect

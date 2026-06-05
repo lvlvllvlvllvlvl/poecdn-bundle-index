@@ -1,0 +1,13 @@
+blackstarmonsters
+blackstarmonsters/attachments
+blackstarmonsters/attachments/blackfodder2
+cleansingmonsters
+cleansingmonsters/attachments
+cleansingmonsters/attachments/cleansingboss
+cleansingmonsters/attachments/cleansingfodder1
+consumemonsters
+consumemonsters/attachments
+consumemonsters/gauntlet
+doommonsters
+doommonsters/attachments
+doommonsters/attachments/doompersonified

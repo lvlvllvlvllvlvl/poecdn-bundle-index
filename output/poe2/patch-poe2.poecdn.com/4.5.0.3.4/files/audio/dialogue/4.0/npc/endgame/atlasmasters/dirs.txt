@@ -1,5 +1,0 @@
-hilda
-hilda_greeting
-hilda_wild
-jado
-jado_wild

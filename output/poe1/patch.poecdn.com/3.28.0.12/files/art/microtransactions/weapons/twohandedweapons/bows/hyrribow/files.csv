@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+1198bf55d71e01ec,fin_smokey.mat,Tiny_1,81952033,2708
+5eff3d8a4ef7c1f9,wisp.mat,Tiny_1,81957417,3282
+6ae6b73387c651ee,wisp_dxt1.dds,Folders/art/particles/supports/chieftain_ancestor_slam,0,87548
+e22b8cf393a2d6b8,wisp_dxt1.dds.header,Tiny_8,28940470,840
+d75dce52b504b628,trail2.mat,Tiny_1,81954741,2676
+9bb88383cbc5781a,trail2_dxt5.dds,Art/Microtransactions/weapon_effects/WinterViking_1,0,174948
+af07885186b64b34,trail2_dxt5.dds.header,Tiny_6,37459654,840
+6ad9af996abfd326,lut_dxt5.dds,Tiny_1,81759193,2212
+8b28de400128d0af,lut_dxt5.dds.header,Tiny_1,81761405,280
+4e4376e4b81de10e,core_flash.mat,Tiny_1,81950221,1812
+c11997f87cdb31ef,core_flash_dxt1.dds,Folders/art/microtransactions/weapons/twohandedweapons,6886,11084
+376a85332ad8b4ef,core_flash_dxt1.dds.header,Tiny_8,28910414,1520
+f12a60ca281c4ec4,bloom.mat,Tiny_1,81947745,2476
+1f4f67844d4c5453,bloom_dxt1.dds,Folders/art/particles/environment_effects/league_heist,699548,11084
+de7319a04de7ba21,bloom_dxt1.dds.header,Tiny_8,28907062,1520

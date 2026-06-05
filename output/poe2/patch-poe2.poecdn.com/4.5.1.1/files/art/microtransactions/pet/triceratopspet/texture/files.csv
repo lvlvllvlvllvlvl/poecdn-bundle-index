@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+aa405e3611ae10ed,footprint_mask.dds,Streaming/Content/metadata/effects/microtransactions/pets/1B28E531B1E0AEF0.A2423F3D01E7A113.footprint_l.pet,1398276,1398276
+8db37c43e16573fb,footprint_mask.dds.header,Tiny.VD,4543378,1520
+a83975988f344f37,footprint_height.dds,Streaming/Content/metadata/effects/microtransactions/pets/1B28E531B1E0AEF0.A2423F3D01E7A113.footprint_l.pet,0,1398276
+6c8f1e5cf8749a50,footprint_height.dds.header,Tiny.V9,4597014,1520
+20eebb188e37d97f,footprint_height_r.dds,Streaming/Content/metadata/effects/microtransactions/pets/1B28E531B1E0AEF0.A2423F3D01E7A113.footprint_r.pet,0,1398276
+b60cef79287d7d2e,footprint_height_r.dds.header,Tiny.V8,4559637,1520
+0b34fc83a18fddc9,footprint_normal.dds,Streaming/Content/metadata/effects/microtransactions/pets/1B28E531B1E0AEF0.A2423F3D01E7A113.footprint_l.pet,2796552,1398276
+0c71f79429c15abb,footprint_normal.dds.header,Tiny.V6,4439449,1520
+4eb8e2b7e496a4db,footprint_normal_r.dds,Streaming/Content/metadata/effects/microtransactions/pets/1B28E531B1E0AEF0.A2423F3D01E7A113.footprint_r.pet,1398276,1398276
+b2fb750c013ce548,footprint_normal_r.dds.header,Tiny.VA,4606705,1520

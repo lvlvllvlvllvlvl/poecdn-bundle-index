@@ -1,4 +1,0 @@
-druid
-druid/textures
-wendigo
-wendigo/textures

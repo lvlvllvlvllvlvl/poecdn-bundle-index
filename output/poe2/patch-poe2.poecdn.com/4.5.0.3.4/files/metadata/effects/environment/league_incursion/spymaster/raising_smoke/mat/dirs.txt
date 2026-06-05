@@ -1,2 +1,0 @@
-smoke_fadein
-smoke_idle

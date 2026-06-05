@@ -1,0 +1,16 @@
+affected
+avian
+avian/buff_swap
+avian/main
+cat
+cat/buff_swap
+cat/main
+crab
+crab/main
+spider
+spider/main
+ursae
+ursae/buff_swap
+ursae/main
+wolf
+wolf/main

@@ -1,3 +1,0 @@
-alttiles
-alttiles/dark
-tgms

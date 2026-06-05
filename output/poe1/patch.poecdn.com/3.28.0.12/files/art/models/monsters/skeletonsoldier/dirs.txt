@@ -1,0 +1,4 @@
+skeletonsoldier01
+skeletonsoldier01/textures
+skeletonsoldier02
+skeletonsoldier03

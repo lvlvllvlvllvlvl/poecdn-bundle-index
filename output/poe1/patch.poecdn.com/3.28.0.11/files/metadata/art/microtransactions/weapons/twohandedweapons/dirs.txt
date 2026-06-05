@@ -1,5 +1,0 @@
-bows
-bows/hyrribow
-swords
-swords/illusionist
-swords/illusionist/tex

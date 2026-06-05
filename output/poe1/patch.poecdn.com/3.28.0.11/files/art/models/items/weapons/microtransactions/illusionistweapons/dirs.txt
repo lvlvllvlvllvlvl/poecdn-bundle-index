@@ -1,4 +1,0 @@
-illusionistbow
-illusionistquiver
-illusionistshield
-textures

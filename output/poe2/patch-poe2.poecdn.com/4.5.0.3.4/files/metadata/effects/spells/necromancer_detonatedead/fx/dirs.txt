@@ -1,2 +1,0 @@
-addon_gibs
-addon_skeleton_humanoid

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+8cf846b34aeea685,spark2.mat,Tiny_6,49713133,1364
+237edffb32714a3e,spark2.dds,Tiny_6,112254404,516
+231e5d8580d3a7ac,spark2.dds.header,Tiny_6,112254920,1520
+1c7655126bb87b0a,smoke_01.mat,Tiny_6,49710565,2568
+255902a65e08a8a3,smoke_01.dds,Art/particles/molten_strike/chunks,11084,174948
+b9942a46f28ed2af,smoke_01.dds.header,Tiny_6,49709725,840
+6b3bf256d4186b9f,glow_sparks_up.mat,Tiny_6,49708103,1622
+4808342195b19fe1,glow_sparks_up.dds,Folders/art/particles/monster_particles/act3_3,1247648,5636
+9f4529e76107a79f,glow_sparks_up.dds.header,Tiny_6,54930847,1520
+6613cba9c2e6561d,cracks.mat,Tiny_6,49706897,1206
+40bfbdd6c5629fb4,cracks.dds,Art/particles/monster_particles/reflect_mortars,1428648,349700
+d07b3cf950220140,cracks.dds.header,Tiny_7,39578950,1520
+22845034548db59a,chunk_cracksc.mat,Tiny_6,49705129,1768
+d0cc2372ec158ab4,chunk_cracks.dds,Art/particles/molten_strike/chunks,0,11084
+225acdb0a5e0de53,chunk_cracks.dds.header,Tiny_6,49703609,1520

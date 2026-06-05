@@ -1,7 +1,0 @@
-cleaningclothes
-treasurehunter_01
-treasurehunter_01/attachments
-treasurehunter_02
-treasurehunter_02/attachments
-treasurehunter_03
-treasurehunter_03/attachments

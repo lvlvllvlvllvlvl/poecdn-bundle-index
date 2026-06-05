@@ -1,0 +1,10 @@
+dannig
+gwennen
+gwennen/pet
+rog
+rog/ao
+rog/pet
+tujen
+tujen/ao
+tujen/pet
+weapon_fade

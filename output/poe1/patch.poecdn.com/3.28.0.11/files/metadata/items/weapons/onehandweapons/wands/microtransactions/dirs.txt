@@ -1,8 +1,0 @@
-balefire_fx
-eldritchemperorwand
-goddesswandfx
-lifesprigblossoming
-marionettewand
-vaalchronowand
-vaalchronowand/attachments
-wandofthethaumaturge

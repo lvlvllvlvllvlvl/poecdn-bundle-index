@@ -1,0 +1,13 @@
+attachments
+attachments/paglovel
+attachments/pashawl
+attachments/pashawl/pashawldex
+attachments/pashawl/pashawldexint
+attachments/pashawl/pashawlint
+attachments/pashawl/pashawlstr
+attachments/pashawl/pashawlstrdex
+attachments/pashawl/pashawlstrdexint
+attachments/pashawl/pashawlstrint
+attachments/paskirt
+fx
+textures

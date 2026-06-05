@@ -1,9 +1,0 @@
-cocoons2
-cocoons2/legs
-rootedguy01
-rootedguy02
-rootedguy03
-rootedguy04
-rootedguys5
-rootedguys5/textures
-textures

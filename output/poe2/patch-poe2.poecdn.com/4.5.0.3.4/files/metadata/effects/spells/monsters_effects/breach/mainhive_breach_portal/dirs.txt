@@ -1,7 +1,0 @@
-fx
-fx/close_01
-fx/idle_01
-graphs
-mat
-mat/close_01
-mat/idle_01

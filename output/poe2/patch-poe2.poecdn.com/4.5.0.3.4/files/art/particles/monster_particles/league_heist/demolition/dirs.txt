@@ -1,3 +1,0 @@
-bunker
-bunker/debris
-bunker/debris/textures

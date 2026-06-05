@@ -1,6 +1,0 @@
-female
-female/fullhair
-female/hoodhair
-male
-male/fullhair
-male/hoodhair

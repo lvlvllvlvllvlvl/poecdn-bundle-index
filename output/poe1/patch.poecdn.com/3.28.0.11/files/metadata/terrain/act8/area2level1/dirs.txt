@@ -1,7 +1,0 @@
-graphs
-rooms
-rooms/fills
-rooms/pipe_dry_1x1
-rooms/pipe_dry_2x2
-rooms/room_dry_1x1
-rooms/unique

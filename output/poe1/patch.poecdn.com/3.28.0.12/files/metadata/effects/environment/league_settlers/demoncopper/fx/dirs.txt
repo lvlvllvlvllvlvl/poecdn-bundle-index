@@ -1,0 +1,2 @@
+shrine_active_fire
+shrine_active_lightning

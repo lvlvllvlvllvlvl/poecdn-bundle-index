@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+3fbddc6194c54bc6,point_distortion_r.mat,Tiny.V3.1,81303923,13248
+8b29ce5752e0d85a,glow_r.mat,Tiny.VB.1,81432235,12388
+02c6a5657b084b17,sphere_distortion_r.mat,Tiny.V9.1,84881493,13252
+b5f4f3bdfaef5e94,sphere_goop_r.mat,Tiny.VD.1,80518700,41686
+2946c1b4de5a33a6,cometimpact_bloodribbon_01_r.mat,Tiny.VB.1,81403411,28824
+e5464904fe307be1,cometimpact_bloodstreak_01_r.mat,Tiny.V1.1,80802444,43910
+ee75f871bdcd0527,bv_goop_cyl_01_r.mat,Tiny.V4.1,80973794,63212
+0f84020369bb0836,bv_baby_chunks_01_r.mat,Tiny.V0.1,81438652,35774
+81355c70b929fb98,bv_baby_chunks_01_u.mat,Tiny.VD.1,80467302,19040
+4c30257a6b741c3c,bv_blood_spray_01_r.mat,Tiny.VD.1,80486342,32358
+cd2c00713038c0ec,bv_blood_spray_01_u.mat,Tiny.VF.1,78792578,11328
+f5edacc238f75488,blood_grd_splash_u.mat,Tiny.V3.1,81137549,10856
+dace8e1bcb6d36fb,blood_drops_u2.mat,Tiny.V4.1,80964146,9648
+899eb2882242ddbe,blood_drops_u.mat,Tiny.VC.1,83279193,12102

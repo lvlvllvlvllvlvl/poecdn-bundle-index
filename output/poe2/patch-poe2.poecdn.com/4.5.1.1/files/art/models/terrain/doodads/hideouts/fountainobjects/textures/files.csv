@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+1d3bc6abac484ff2,hideoutfountain01c.mat,Tiny.V3,16665777,2322
+a65fbf1182913e96,hideoutfountain01_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/EE25254AC645EF78.fountainobjects04_4.ao,804528,1398276
+16e0885b0650ac34,hideoutfountain01_normal_dxt5.dds.header,Tiny.V5,16567357,1520
+743f55deb884a6ed,hideoutfountain01_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/hideouts/EE25254AC645EF78.fountainobjects04_4.ao,105316,699212
+94fcafe1a25fe3f9,hideoutfountain01_colour_dxt1.dds.header,Tiny.VD,16560602,1520
+8b94c07d58f427ad,hideoutfountainbasec.mat,Tiny.VC,16813393,2346
+43f2fd89f78984c0,hideoutfountainbase_normal_dxt5.dds,Streaming/Content/metadata/terrain/doodads/hideouts/EE25254AC645EF78.fountainobjects04_4.ao.1,699212,1398276
+e2fa75fdd449af10,hideoutfountainbase_normal_dxt5.dds.header,Tiny.V9,17108857,1520
+0926603d5bd2b8f7,hideoutfountainbase_colour_dxt1.dds,Streaming/Content/metadata/terrain/doodads/hideouts/EE25254AC645EF78.fountainobjects04_4.ao.1,0,699212
+c0756468ef2f9001,hideoutfountainbase_colour_dxt1.dds.header,Tiny.V6,16900415,1520
+6462cee243dc0092,hideoutsmallfountainc.mat,Tiny.V5,16568877,4074
+7599ddd0f7eef5df,hideoutsmallfountain_normal_dxt5.dds,Streaming/Content/metadata/effects/environment/league_sanctum/2AC2840DFF424770.fountainobjects02_1_purple_held.ao,349700,349700
+1f84ed170b6f5e26,hideoutsmallfountain_normal_dxt5.dds.header,Tiny.VA,16843447,1520
+1cea27ebb10a0682,hideoutsmallfountain_colour_dxt5.dds,Streaming/Content/metadata/effects/environment/league_sanctum/2AC2840DFF424770.fountainobjects02_1_purple_held.ao,0,349700
+12ce52d15a548c04,hideoutsmallfountain_colour_dxt5.dds.header,Tiny.V4,17108431,1520

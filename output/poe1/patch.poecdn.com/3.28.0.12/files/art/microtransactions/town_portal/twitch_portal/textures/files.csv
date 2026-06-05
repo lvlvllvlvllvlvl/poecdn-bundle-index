@@ -1,0 +1,46 @@
+hash,file,bundle,offset,size
+89d6d4a48414033e,twitch_portal_framec.mat,Tiny_1,73458275,2546
+ebf2b2e710e3628e,twitch_portal_frame.dds,Art/Microtransactions/Town_Portal/twitch_portal,815826,87548
+7acfcd5351ec08d8,twitch_portal_frame.dds.header,Tiny_1,73457435,840
+53d597d6c1864229,smoke_line_thinc.mat,Tiny_1,73454819,2616
+dffda823a1da02d3,smoke_line_thin.dds,Art/Microtransactions/Town_Portal/twitch_portal,525666,174948
+b4abb31b335037c0,smoke_line_thin.dds.header,Tiny_1,73453979,840
+7dea6ffd00cae3bc,smoke_line_thickc.mat,Tiny_1,73451101,2878
+831bfdde6894ec70,smoke_line_thick.dds,Art/Microtransactions/Town_Portal/twitch_portal,350718,174948
+34d2c73f9a81cf3d,smoke_line_thick.dds.header,Tiny_1,73450261,840
+c82df83421c7bdfd,runes.mat,Tiny_1,73448803,1458
+2c4aa50672e626f8,runes.dds,Art/Microtransactions/Town_Portal/twitch_portal,175606,87556
+cca6f7df512eee61,runes.dds.header,Tiny_1,73447283,1520
+3745f0caad015a36,light_immortal_callc.mat,Tiny_1,73444539,2744
+ced499efa50aca93,light_immortal_call.dds,Art/Microtransactions/Town_Portal/twitch_portal,1100342,87556
+c0d07524289226c3,light_immortal_call.dds.header,Tiny_1,73443019,1520
+54347cc6869f095b,light_gradient_purple.mat,Tiny_1,73441463,1556
+ba9cdf6e0d65bb8f,light_gradient_purple.dds,Art/Microtransactions/Town_Portal/twitch_portal,263162,87556
+10447df3f44f726a,light_gradient_purple.dds.header,Tiny_7,46763751,1520
+11218f993c62d122,innerc.mat,Tiny_1,73439753,1710
+41ee747f07ce50c3,inner_multic.mat,Tiny_1,73438269,1484
+c762923265f9714b,inner_multi.dds,Folders/art/microtransactions/town_portal/crucible,349700,22020
+577f8e33749476c6,inner_multi.dds.header,Tiny_6,28071102,1520
+1385fc86f7f3ee0d,inner_light_imortalc.mat,Tiny_1,73435363,2906
+ce74e96f96335202,inner_light_imortal.dds,Art/Microtransactions/Town_Portal/twitch_portal,1187898,349700
+481d30f618380b67,inner_light_imortal.dds.header,Tiny_1,73433843,1520
+e3c32b1efde49e3c,inner_light_imortal _2c.mat,Tiny_1,73430889,2954
+e2f2764c35bc695b,inner_light_imortal _2.dds,Art/Microtransactions/Town_Portal/twitch_portal,903374,174948
+448f87f208b59361,inner_light_imortal _2.dds.header,Tiny_1,73430049,840
+681286aa1a81377e,inner.dds,Art/Microtransactions/Town_Portal/twitch_portal,700614,22020
+a0fcdaf1da8852fe,inner.dds.header,Tiny_1,73428529,1520
+2b3a4791ac8e65c2,gradiantc.mat,Tiny_1,73426509,2020
+0f10af09ddf8766d,gradiant_sidec.mat,Tiny_1,73424487,2022
+173d207cc94e7374,gradiant_side.dds,Art/Microtransactions/Town_Portal/twitch_portal,1537598,22020
+ecb7bd0be062d2ea,gradiant_side.dds.header,Tiny_1,73422967,1520
+d5b9fcba0cf46aaf,gradiant.dds,Art/Microtransactions/Town_Portal/twitch_portal,1078322,22020
+ec89b6a99883d95f,gradiant.dds.header,Tiny_1,73421447,1520
+a48c72ce5401c353,flash_out.mat,Tiny_1,73419723,1724
+3f998e954e6895c2,flash_out.dds,Art/Microtransactions/Town_Portal/twitch_portal,722634,5636
+155cb21816bcf393,flash_out.dds.header,Tiny_1,81341435,1520
+832b0dc05420694d,flash_mid.mat,Tiny_1,73418503,1220
+0b9f3cffe2d583fa,flash_mid.dds,Art/Microtransactions/Town_Portal/twitch_portal,728270,87556
+c0e9eb87c3a7e70f,flash_mid.dds.header,Tiny_1,81337903,1520
+975b62db4e5ca002,black_gradc.mat,Tiny_1,73416617,1886
+0ea16a9fe906ec88,black_grad.dds,Art/particles/environment_effects/act3_15,1093532,87556
+abdbd4f4eeb5805c,black_grad.dds.header,Tiny_6,25279760,1520

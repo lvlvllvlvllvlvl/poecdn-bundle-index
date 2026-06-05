@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+0cbff1baaa1f39a5,open_1a.arm,Metadata/Terrain.2_5,55984,6086
+52a5c7d58d6a0310,tri_1a.arm,Folders/metadata/0/terrain,11332114,6964
+4013879ea7698774,straight_1a.arm,Folders/metadata/0/terrain,11325308,6806
+dc335e3c9c1f9f0a,straight_2a.arm,Folders/metadata/2/terrain,10862266,5960
+26819adc8b480511,end_1a.arm,Metadata/Terrain.F_6,243464,6604
+6c1ec68ba882a465,end_2a.arm,Folders/metadata/9/terrain,11263434,12170
+e2cdac47f3dfffe0,corner_1a.arm,Folders/metadata/8/terrain,9699790,7324
+0bcd8e34d5a3ff4d,corner_2a.arm,Folders/metadata/3/terrain,10677152,6700

@@ -1,8 +1,0 @@
-epk
-fx
-graph
-mat
-mat/attachment_degen
-mat/pack_spawn_burst
-mat/place_burst
-mat/place_impact

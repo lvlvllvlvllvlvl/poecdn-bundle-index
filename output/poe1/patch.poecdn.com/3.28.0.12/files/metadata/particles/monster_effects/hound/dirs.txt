@@ -1,0 +1,4 @@
+burrow
+incinerate
+incinerate/mid
+unburrow

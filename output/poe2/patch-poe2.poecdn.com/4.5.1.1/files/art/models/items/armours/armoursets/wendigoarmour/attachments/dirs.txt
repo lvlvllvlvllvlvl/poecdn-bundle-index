@@ -1,0 +1,15 @@
+bodydanglers
+bodyropes
+bootsdanglers
+dexbodyropes
+glovesdanglers
+hair
+intbodydanglers
+intbodyropes
+intbootsdanglers
+intglovesdanglers
+inthair
+intskirt
+skirt
+strbodydanglers
+strbodyropes

@@ -1,0 +1,9 @@
+head_tentacles
+hood_tentacles
+loincloth
+mouth_tentacle
+quiver
+rags
+robe_sides
+shoulder_tentacles
+tail_tentacles

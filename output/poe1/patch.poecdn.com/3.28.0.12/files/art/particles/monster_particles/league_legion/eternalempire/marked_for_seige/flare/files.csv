@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+0a8c9a8bf83ea6e1,smoke_16x16.mat,Tiny_7,16133981,2338
+d993e0fffae8672d,smoke_16x16_dxt5.dds,Art/particles/monster_particles/League_Legion_42,0,5592580
+5d98feaa33a91c07,smoke_16x16_dxt5.dds.header,Tiny_7,16136319,1520
+ffcb85f2c8d77725,gold_solidc.mat,Tiny_7,16130239,1448
+06ac909a57eac326,grad_linearc.mat,Tiny_7,16131687,2294
+4c372a9267a3e4bf,beam_trail.mat,Tiny_7,16125257,2952
+a83b4f485e57e488,bloom_glow.mat,Tiny_7,16128209,2030
+0e3d5e8409d72e76,bloom_glow_dxt5.dds,Folders/art/particles/monster_particles/league_legion_E,1438472,22020
+86d6a6287a94ac98,bloom_glow_dxt5.dds.header,Tiny_7,31250445,1520

@@ -1,0 +1,4 @@
+targetpractice_crossbows
+targetpractice_crossbows/textures
+targetpractice_fireball
+targetpractice_fireball/textures

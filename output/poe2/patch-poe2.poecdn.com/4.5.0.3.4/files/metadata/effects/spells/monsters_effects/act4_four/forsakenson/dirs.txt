@@ -1,7 +1,0 @@
-epk
-fx
-fx/new
-graph
-mat
-mat/doubleslamfire
-mat/scorchedground

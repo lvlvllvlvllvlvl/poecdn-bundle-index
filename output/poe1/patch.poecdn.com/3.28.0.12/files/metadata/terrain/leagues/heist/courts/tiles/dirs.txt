@@ -1,0 +1,11 @@
+doors
+doors/clicktoopen
+doors/emergeonalarm
+doors/npc_strengthdestruction
+doors/npcbruteforce2
+doors/npccounterthaumaturgedoor
+doors/npcdisarmdoor
+doors/npcexplosivedoor
+doors/npcinfiltrationdoor
+doors/npclockpickerdoor
+doors/vault

@@ -1,3 +1,0 @@
-fire
-fire/explode2
-physical

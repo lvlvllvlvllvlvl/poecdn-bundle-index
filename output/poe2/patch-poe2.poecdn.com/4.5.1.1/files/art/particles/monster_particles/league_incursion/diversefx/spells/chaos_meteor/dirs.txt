@@ -1,0 +1,6 @@
+impact
+impact/fx
+meteor
+meteor/fx
+upheaval
+upheaval/fx

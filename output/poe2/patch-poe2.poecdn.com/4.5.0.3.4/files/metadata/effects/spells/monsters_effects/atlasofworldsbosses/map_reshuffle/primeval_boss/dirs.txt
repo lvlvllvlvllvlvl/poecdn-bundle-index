@@ -1,6 +1,0 @@
-abyss_shield
-abyss_volatile
-arena_mechanics
-stone_geyser
-stone_projectile
-stone_tomb

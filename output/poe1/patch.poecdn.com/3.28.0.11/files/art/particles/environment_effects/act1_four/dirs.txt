@@ -1,9 +1,0 @@
-g1_1
-g1_1/models
-g1_1/models/tut_forcefeild
-g1_1/models/tut_forcefeild/textures
-g1_1/textures
-g1_1/textures/bonfire
-g1_1/textures/g1_1_fogcards
-g1_1/textures/gfx_fog
-g1_1/textures/tut_forcefeild

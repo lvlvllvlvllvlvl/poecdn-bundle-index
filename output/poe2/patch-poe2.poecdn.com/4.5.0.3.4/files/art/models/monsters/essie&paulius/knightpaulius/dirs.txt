@@ -1,7 +1,0 @@
-animations
-animations/knight
-attachments
-attachments/hood
-attachments/ring
-attachments/starfallknightribbons
-attachments/starfallknightrobe

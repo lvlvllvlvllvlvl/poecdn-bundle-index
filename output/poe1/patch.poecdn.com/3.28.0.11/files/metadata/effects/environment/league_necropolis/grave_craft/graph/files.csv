@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-25a7452094fb71bc,revealparticles_dynamic.fxgraph,Folders/metadata/effects,4226298,24614
-96e86b9976026385,scale_by_duration.fxgraph,Folders/metadata/effects,4250912,58622
-f9bd4db7c2b1e716,velocityalong_by_duration.fxgraph,Folders/metadata/effects,4309534,60666
-be1d9ebdf008864b,weapon_buildup.fxgraph,Folders/metadata/effects,4370200,92768
-91485a7e0bdff394,dynamicsphereemitter.fxgraph,Folders/metadata/effects,4008592,217706
-f74109e2f312bb5e,dynamic_glow_flash.fxgraph,Folders/metadata/effects,3923886,62150
-94b89ee822698739,dynamic_vibrance_albedo.fxgraph,Folders/metadata/effects,3986036,22556

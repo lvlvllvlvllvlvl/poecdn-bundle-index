@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+2f3d039b6a5712f3,yellow_fw.mat,Tiny_6,63954973,3016
+d84088363e94ff04,yellow_fw.dds,Art/particles/monster_particles/act8_16,43852,87556
+db628a112aad2d1c,yellow_fw.dds.header,Tiny_6,66837153,1520
+53582060c99cf3e3,tile_01_dxt1.dds,Folders/art/particles/monster_particles/act6_2,558136,11084
+8b0d7241eb5de58a,tile_01_dxt1.dds.header,Tiny_6,63953453,1520
+d407ebc094031af3,tile_01_bc1.dds,Folders/art/particles/monster_particles/act6_2,558136,11084
+6e4268ee0c7be957,tile_01_bc1.dds.header,Tiny_6,63953453,1520
+586389abcbf5c7c0,tile_01.mat,Tiny_6,63952413,1040
+bb69130fcb449f32,tile_01.dds,Art/particles/monster_particles/act9_27,2166320,22020
+9441cb0e8eb46742,tile_01.dds.header,Tiny_7,50003396,1520
+78f22e1fdc5f854e,light_gradient.mat,Tiny_6,63950645,1768
+664869a0962cba44,light_gradient.dds,Folders/art/particles/monster_particles/league_betrayal_51,87556,22020
+2603dc492a239703,light_gradient.dds.header,Tiny_7,54746145,1520
+76c7caed8fc52ffc,blink_holy_shine.mat,Tiny_6,63948863,1782
+dd51e4415f5f7c6f,blink_holy_shine.dds,Folders/art/particles/monster_particles/act6_2,470580,87556
+901e3583da6f9f24,blink_holy_shine.dds.header,Tiny_6,63947343,1520

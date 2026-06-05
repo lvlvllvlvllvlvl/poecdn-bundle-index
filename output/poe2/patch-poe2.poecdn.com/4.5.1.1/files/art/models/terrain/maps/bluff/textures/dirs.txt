@@ -1,0 +1,6 @@
+architecture
+foliage
+ground
+moss
+rocks
+rocks/cave

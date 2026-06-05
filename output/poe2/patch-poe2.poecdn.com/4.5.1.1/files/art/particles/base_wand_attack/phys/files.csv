@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+d80498c5df21dfc6,anti_flash.mat,Tiny.V0,34419274,1072
+b1251c37a305cfaf,flash.mat,Tiny.VE,33822586,1602
+f26ebb320dacde9e,flash2.mat,Tiny.VB,34320297,1440
+5ee62cc77f796a80,flash2_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/spells/0E5B5903ECB1C7A0.CF58C00DA50D1473.orb_impact_grd.pet,372252,87556
+78401b1a4dd2ccae,flash2_dxt5.dds.header,Tiny.V8,33901047,1520
+7c7816f0af2f02a1,bloom_glow.mat,Tiny.VD,34316053,1432
+d48154373e777d9e,bloom_glow_dxt5.dds,Streaming/Content/metadata/particles/explosivearrow_2/central_explosion.pet,765852,22020
+ebb76cb922045392,bloom_glow_dxt5.dds.header,Tiny.VA,35345115,1520
+79e4e3b9336af255,black_wisps.mat,Tiny.VA,34396145,2180
+66234de350139afc,black_wisps_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_affliction/97DFBD35E4275866.shock.pet,401270,22020
+21c445d88b9c2a38,black_wisps_dxt5.dds.header,Tiny.V5,6729312,1520

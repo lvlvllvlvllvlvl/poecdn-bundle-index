@@ -1,7 +1,0 @@
-caster
-elitesoldier
-experimenter
-footsoldier
-footsoldierloginscene
-general
-lieutenant

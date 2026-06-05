@@ -1,4 +1,0 @@
-onact
-onact/attack_01
-onact/death_01
-onact/flinch

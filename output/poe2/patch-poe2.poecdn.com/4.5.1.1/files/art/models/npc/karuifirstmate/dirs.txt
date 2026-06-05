@@ -1,0 +1,10 @@
+animations
+attachments
+attachments/bottle
+attachments/cloak
+attachments/hair
+attachments/shoulder_fabric
+attachments/skirt
+attachments/sword
+attachments/sword/physics
+textures

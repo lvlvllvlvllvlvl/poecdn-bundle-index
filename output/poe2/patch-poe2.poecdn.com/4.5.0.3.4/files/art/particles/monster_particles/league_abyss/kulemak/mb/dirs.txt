@@ -1,5 +1,0 @@
-mega_beam
-minion_spawnbeam
-spire_mine_beam
-static_souls
-volatile

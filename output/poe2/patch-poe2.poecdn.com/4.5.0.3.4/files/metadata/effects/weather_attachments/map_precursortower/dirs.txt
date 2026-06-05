@@ -1,5 +1,0 @@
-depthbasedfog
-fx
-fx/clouds
-mat
-mat/clouds

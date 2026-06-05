@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+841d7330dbdc4d44,timefreeze.fxgraph,Content/metadata/effects/spells/monsters_effects/act8/1B96EA2C2C16B883.fire_beam.ao,2416554,78412
+218f49d1fdb4a024,custom_fadebytimelinefloat_tex.fxgraph,Content/metadata/monsters/palewalker/palewalker.ot,303814,18072
+7ffd29338ca413ec,custom_animation_timeline.fxgraph,Content/metadata/monsters/breachbosshandmage/spidermines.ot,535476,13908
+bb9ec5ae55129164,custom_ws_uvs.fxgraph,Content/metadata/effects/spells/monsters_effects/act8/1B96EA2C2C16B883.fire_beam.ao,2238092,22346
+206be11ae0b480fd,custom_scale_bytimelinefloat.fxgraph,Content/metadata/monsters/palewalker/palewalker.ot,321886,9774
+92ff476d52256cc9,custom_sandfade_multiply.fxgraph,Content/metadata/effects/spells/monsters_effects/act8/1B96EA2C2C16B883.fire_beam.ao,2226312,11780
+d08b1250445c42aa,custom_sandoverlay.fxgraph,Content/metadata/monsters/breachbosshandmage/spidermines.ot,549384,43352

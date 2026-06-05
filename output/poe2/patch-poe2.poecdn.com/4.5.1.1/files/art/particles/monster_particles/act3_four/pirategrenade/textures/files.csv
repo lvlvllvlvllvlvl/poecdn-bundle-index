@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+74e942bf0304fd3f,smoke_normal_dxt1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/542F56B5A086A78E.1FC80044912DE925.unearthed_rocks_explode2.pet,102937,2796364
+ae4db3400c0f82ce,smoke_normal_dxt1.dds.header,Tiny.VC,40199737,1520
+747acd0687d29468,smoke_shockwave_color_dxt5.dds,Streaming/Shared/Normal/Shared.8,5238696,5592580
+cf42b1e115baf89b,smoke_shockwave_color_dxt5.dds.header,Tiny.V3,36729799,1520
+4b5fcff90462cca8,g_base.mat,Tiny.V2,36552055,3160
+aba4ab89d539c7bd,gp_fire_proj_core.mat,Tiny.V0,36932140,2178
+b08e440895a2467e,gp_mainsmoke_trail_thin2.mat,Tiny.VA,36820158,7030
+bc6f74f46acf946b,gp_dart-trail01.mat,Tiny.V9,37121179,4184
+00137a73973b55dc,gp_sparkling.mat,Tiny.VC,36965857,2014
+1614fe1afacd7d72,gp_smoke_trail.mat,Tiny.V3,36158271,4448

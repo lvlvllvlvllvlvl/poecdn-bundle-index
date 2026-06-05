@@ -1,6 +1,0 @@
-epks
-fx
-mat
-mat/attack_01
-mat/leap
-mat/summon

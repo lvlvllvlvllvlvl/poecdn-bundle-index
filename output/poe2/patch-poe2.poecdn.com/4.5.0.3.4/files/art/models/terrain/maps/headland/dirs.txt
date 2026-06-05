@@ -1,5 +1,0 @@
-textures
-textures/architecture
-textures/cliffs
-textures/ground
-textures/props

@@ -1,5 +1,0 @@
-blue
-green
-green/no_glow_prtcl
-red
-white

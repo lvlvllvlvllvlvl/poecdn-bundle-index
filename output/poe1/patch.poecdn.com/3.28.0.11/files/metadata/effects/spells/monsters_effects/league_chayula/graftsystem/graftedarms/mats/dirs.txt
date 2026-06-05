@@ -1,5 +1,0 @@
-attach
-cold
-fire
-light
-phys

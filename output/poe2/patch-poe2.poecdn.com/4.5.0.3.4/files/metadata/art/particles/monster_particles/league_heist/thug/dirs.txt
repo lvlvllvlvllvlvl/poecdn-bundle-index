@@ -1,6 +1,0 @@
-2hmace
-bow
-miniboss
-trapper
-trapper/trapper_bomb
-trapper_miniboss

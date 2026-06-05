@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+f87fd1418bbc08e0,inoutv_dxt5.dds,Art/particles/skylight_master/Overlays,699400,22020
+7ab3e2cc4e203569,inoutv_dxt5.dds.header,Tiny_7,49523391,1520
+c6d0b93d9911c855,gold_shatter_atc.mat,Tiny_7,49521823,1568
+d5bb0ec98c3955c7,gold_shatter_at.dds,Art/particles/environment_effects/chest_3,437256,43876
+a624229e50c7a277,gold_shatter_at.dds.header,Tiny_7,49520983,840
+4c85fd112d134521,cloudy_neg_dxt5.dds,Art/particles/skylight_master/Overlays,349700,349700
+2c39cebfab36873b,cloudy_neg_dxt5.dds.header,Tiny_7,49519463,1520
+a0ec6deedf6eccb2,cloudy_dxt5.dds,Art/particles/skylight_master/Overlays,0,349700
+bcb3e6994295296a,cloudy_dxt5.dds.header,Tiny_7,49517943,1520

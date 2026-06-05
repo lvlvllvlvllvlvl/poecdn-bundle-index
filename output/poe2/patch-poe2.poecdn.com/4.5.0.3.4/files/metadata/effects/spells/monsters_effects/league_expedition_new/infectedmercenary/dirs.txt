@@ -1,9 +1,0 @@
-epks
-fx
-mat
-mat/act_siegeshot
-mat/idle
-mat/siege_explosion
-mat/siege_indicator
-mat/siege_projectile
-mat/siege_shotup

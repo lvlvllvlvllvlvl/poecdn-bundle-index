@@ -1,3 +1,0 @@
-abyssal
-abyssal/animations
-animations

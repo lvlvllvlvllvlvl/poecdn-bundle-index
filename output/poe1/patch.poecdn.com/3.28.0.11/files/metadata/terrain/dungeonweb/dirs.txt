@@ -1,9 +1,0 @@
-abyss
-abyss/spiderwater
-features
-features/spiderwater
-ledge
-stairs
-walkway
-walkway/spiderwater
-walls

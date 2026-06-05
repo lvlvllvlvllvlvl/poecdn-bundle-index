@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+c36c4c5dac8e8191,lightning_trailc.mat,Tiny_6,70178079,3462
+44413bfe5abf39e4,wisp_trail.mat,Tiny_6,70027629,4568
+78363b3425a8f80f,wisp_trail_dxt5.dds,Folders/art/particles/monster_particles/leagueharvest_01,2447440,87556
+401f29f52747fe46,wisp_trail_dxt5.dds.header,Tiny_8,38230480,1520
+9943b6011639e17d,sharp_trail.mat,Tiny_6,70033821,1950
+a976508359217158,sharp_bloom.mat,Tiny_6,70050319,1868
+5fa75e3d28fa0e38,sharp_bloom_dxt5.dds,Folders/art/particles_2,87556,87556
+c5ca9aa57ef04bab,sharp_bloom_dxt5.dds.header,Tiny_7,54299977,1520
+516b00d324f5eeb5,marker.mat,Tiny_6,70032197,1624
+b5d7446859a29933,marker_dxt5.dds,Folders/art/particles/monster_particles/atlasexiles_7,3819920,87556
+f8c35c71193a3027,marker_dxt5.dds.header,Tiny_6,70191177,1520
+2fefca0008502de3,glow_ring_thin.mat,Tiny_6,70040315,1734
+00855271b7c7ebfb,glow_ring_thin_dxt5.dds,Folders/art/particles/monster_particles/atlasexiles_7,3732364,87556
+7ba289f04ac5d0c6,glow_ring_thin_dxt5.dds.header,Tiny_6,70026109,1520

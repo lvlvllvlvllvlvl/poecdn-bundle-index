@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+9a694e3d5e691081,coreprisonerskirtstr.sm,Tiny.V4,8336018,752
+cef9a8a0814537db,coreprisonerskirtint.sm,Tiny.V6,8205637,756
+e3174c1f0ce894d2,coreprisonerskirtdexint.sm,Tiny.V5,8016979,756
+fc53b5f6112e34a5,coreprisonerskirtdex.sm,Tiny.V6,8204881,756
+e4a7daa99aa246dd,rig_3903cd13.smd,Streaming/Content/metadata/items/armours/bodyarmours/B3C6DC0E8A519358.coreprisonerbodydex.ao,0,214525
+72803389c3f1e892,rig_3903cd13.smd.header,Content/metadata/items/armours/bodyarmours/wasteland/wastelandbodyint.ao,283101,6263
+277463e1b3531ea5,rig_d7d0fc14.smd,Streaming/Content/metadata/items/armours/bodyarmours/B3C6DC0E8A519358.coreprisonerbodyint.ao,0,214525
+390b937241ab6c2b,rig_d7d0fc14.smd.header,Content/metadata/items/armours/bodyarmours/wasteland/wastelandbodyint.ao,276838,6263
+44725a96112cefae,rig_c61a164d.smd,Streaming/Content/metadata/items/armours/bodyarmours/B3C6DC0E8A519358.coreprisonerbodystr.ao,0,214525
+fb1c546455019c4f,rig_c61a164d.smd.header,Content/metadata/items/armours/bodyarmours/wasteland/wastelandbodyint.ao,270575,6263
+a57d027cb4f445ae,rig_96156209.smd,Streaming/Content/metadata/items/armours/bodyarmours/B3C6DC0E8A519358.coreprisonerbodydexint.ao,0,214525
+05de0b192d403a85,rig_96156209.smd.header,Content/metadata/items/armours/bodyarmours/wasteland/wastelandbodyint.ao,255381,6263
+fec701e03a822c2b,rig.amd,Tiny.V8,8451891,266
+2a91fdc1cf9b7e83,rig.ast,Content/metadata/items/armours/bodyarmours/wasteland/wastelandbodyint.ao,261644,8931

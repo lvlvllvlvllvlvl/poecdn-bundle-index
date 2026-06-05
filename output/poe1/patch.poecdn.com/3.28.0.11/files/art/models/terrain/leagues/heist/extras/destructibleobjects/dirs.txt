@@ -1,7 +1,0 @@
-destructobjects01
-destructobjects02
-destructobjects03
-destructobjects03b
-destructobjects04
-destructobjects04b
-destructobjects04c

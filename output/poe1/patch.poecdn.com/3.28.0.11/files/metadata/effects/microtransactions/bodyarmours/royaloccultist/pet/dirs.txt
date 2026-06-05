@@ -1,2 +1,0 @@
-helmet_blue
-helmet_red

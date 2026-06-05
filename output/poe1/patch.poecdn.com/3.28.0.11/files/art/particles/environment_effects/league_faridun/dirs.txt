@@ -1,6 +1,0 @@
-djinn_torturing_device
-djinn_torturing_device/tex
-edge_of_world
-edge_of_world/mb
-shrine_faridun
-shrine_faridun/tex

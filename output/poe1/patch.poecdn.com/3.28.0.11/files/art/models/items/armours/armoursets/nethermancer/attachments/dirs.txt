@@ -1,4 +1,0 @@
-l_sleeve
-r_sleeve
-robe
-skirt_metal

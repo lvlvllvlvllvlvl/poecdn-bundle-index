@@ -1,3 +1,0 @@
-textures
-textures/damage_player
-textures/weapon_buildup

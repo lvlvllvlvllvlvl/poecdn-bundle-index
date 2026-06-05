@@ -1,8 +1,0 @@
-epks
-fx
-fxgraphs
-mat
-mat/attacks
-mat/beam
-mat/runicempower
-mat/sunorb

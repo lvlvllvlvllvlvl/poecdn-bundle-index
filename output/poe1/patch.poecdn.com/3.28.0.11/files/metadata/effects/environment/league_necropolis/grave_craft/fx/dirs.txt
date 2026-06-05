@@ -1,5 +1,0 @@
-beam
-buildup
-grave_dust
-nova
-teleport

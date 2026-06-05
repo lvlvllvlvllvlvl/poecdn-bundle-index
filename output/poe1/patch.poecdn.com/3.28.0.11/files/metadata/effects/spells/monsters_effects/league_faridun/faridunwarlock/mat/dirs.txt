@@ -1,2 +1,0 @@
-meteor_marker
-onact_blood_trail

@@ -1,0 +1,10 @@
+Area Transitions
+CathedralRoof
+Innocence
+OriathSquare
+Ossuary
+Reliquary
+SlavePen
+SlavePenToTemplar
+Templar Court
+Tower

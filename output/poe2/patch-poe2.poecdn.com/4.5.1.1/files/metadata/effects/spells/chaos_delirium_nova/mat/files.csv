@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+32447f6021563ef1,chaos_charge_pass.mat,Tiny.VC.1,73666873,36628
+914bcddd23bc9f2b,area_flare_r.mat,Tiny.V6.1,73303755,23196
+2b4bf605dda3d30a,area_flare_u.mat,Tiny.VE.1,12563624,310
+491b3dfde0f782aa,area_ember_r.mat,Tiny.V2.1,172726864,29392
+29a0799bc337ebc5,area_embers_u.mat,Tiny.V9.1,172292237,9488
+9975a89f6ae6eea3,explosion_flash_r.mat,Tiny.VB.1,72468377,20018
+765fbed29ea66704,explosion_flash_u.mat,Tiny.VE.1,12563624,310
+a70e313cc9aaf523,explosion_caustics_r.mat,Tiny.V1.1,46289840,10154
+7d1e545afed19727,explosion_caustics_u.mat,Tiny.VE.1,12563624,310
+0f7fdb010f7cc871,explosion_ring_r.mat,Tiny.V6.1,73142661,48250
+61b15422f56d52d5,explosion_ring_shimmer_r.mat,Tiny.V1.1,46299994,24374
+9326f1b73ec3c2eb,explosion_ring_u.mat,Tiny.V3.1,46183845,2168

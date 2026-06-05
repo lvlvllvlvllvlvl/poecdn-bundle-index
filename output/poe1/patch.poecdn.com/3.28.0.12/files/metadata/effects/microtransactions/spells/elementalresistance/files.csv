@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+1d93b493386e9afb,fire_shield.ao,Tiny_9,267896200,4540
+773bd86858e219c6,lightn_shield.ao,Tiny_9,268087462,4580
+f04479345752b4a2,hit_fire.ao,Tiny_9,268082508,2472
+ad199c89b4e3c0ac,hit_lightn.ao,Tiny_9,268084980,2482
+e34785b1486adedd,hit_chaos.ao,Tiny_9,268077562,2474
+e27b83771d618b66,hit_cold.ao,Tiny_9,268080036,2472
+301b04038bcf86ae,chaos_shield.ao,Tiny_9,267879340,4822
+e4e5eb5d1ade7532,cold_shield.ao,Tiny_9,267884162,4540

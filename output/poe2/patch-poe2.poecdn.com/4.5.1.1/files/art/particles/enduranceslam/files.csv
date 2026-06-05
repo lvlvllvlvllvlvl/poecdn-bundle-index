@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+a68a8b285364ad52,shockwave_ring_dust.dds,Streaming/Content/metadata/effects/spells/monsters_effects/6358EABCD65C46E3.44B92B39F3CFD22D.olroth_barrier_hit.pet,174924,87556
+c6ed0b9a4a2095f4,shockwave_ring_dust.dds.header,Tiny.VA,34933718,1520
+97a6a3c3f9391dd6,shockwave_fiery.mat,Tiny.VF,34879847,1472
+e2709a60b429ba3b,shockwave_fiery.dds,Streaming/Content/metadata/particles/enduranceslam/wave.trl,0,87556
+8e7a691904638d7a,shockwave_fiery.dds.header,Tiny.V5,34293218,1520
+58b73bc4ccc44be8,bloodsnbloods.dds,Streaming/Content/metadata/particles/enviro_effects/act2/CA39D97BD158F206.cyl_lava.pet,22020,1398276
+59a49c5796fa508b,bloodsnbloods.dds.header,Tiny.V8,38486007,1520
+72b56247214cf3f0,light_gradient.mat,Tiny.V4,35011148,1362
+84043da09d534d11,light_gradient.dds,Streaming/Content/metadata/particles/enduranceslam/wave.trl,87556,87556
+13574632e51f0a23,light_gradient.dds.header,Tiny.VD,34895171,1520
+81cfa80b115ae7a5,lava_colour.mat,Tiny.VA,34927262,3564
+bf76f90c68d23e1f,lava_colour.dds,Streaming/Content/metadata/particles/enviro_effects/act2/CA39D97BD158F206.cyl_lava.pet,1420296,349700
+90c49bf4cc85eebd,lava_colour.dds.header,Tiny.V3,34260269,1520
+41e935135aedf1d3,lava_stringy.mat,Tiny.VA,34930826,2892
+432fecd7cd44147c,lava_stringy.dds,Streaming/Content/metadata/particles/enviro_effects/act2/CA39D97BD158F206.cyl_lava.pet,1769996,87556
+5d803e44892e545c,lava_stringy.dds.header,Tiny.V8,34409086,1520

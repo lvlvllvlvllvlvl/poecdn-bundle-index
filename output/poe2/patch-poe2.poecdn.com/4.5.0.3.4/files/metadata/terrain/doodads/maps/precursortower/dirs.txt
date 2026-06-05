@@ -1,8 +1,0 @@
-precursorpipes
-precursorpipes/vfx
-precursorpipes/vfx/atlaspointsconsole
-precursorpipes/vfx/atlaspointsconsole/epks
-precursorpipes/vfx/atlaspointsconsole/fx
-precursorpipes/vfx/atlaspointsconsole/graph
-precursorpipes/vfx/atlaspointsconsole/mat
-precursorpipes/vfx/atlaspointsconsole/mat/ground

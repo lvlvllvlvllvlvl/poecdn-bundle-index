@@ -1,4 +1,0 @@
-attachments
-attachments/belt
-attachments/cloth
-textures

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+5f83236ac3642bc1,myr_ring_buff.mat,Tiny_1,35887660,4262
+0ab6f515d4e364ca,void_grad_buff.mat,Tiny_1,35904126,1776
+05d0a80f24d7a61c,void_wisps_buff.mat,Tiny_1,35939556,2718
+8323964bb9ed8ab7,void_trail_shadow.mat,Tiny_1,35933280,3856
+4a0373fdfd039c61,void_trail_shadow_simple.mat,Tiny_1,35937136,2420
+e87d654c338a4acf,void_smoke_buff.mat,Tiny_1,35910142,3594
+34993f83dc455f0b,void_sun_buff.mat,Tiny_1,35913736,9256
+a5fd606e58c83780,void_sun_trail2_buff.mat,Tiny_1,35922992,6406
+7289a5574b1f8938,void_sun_trail_buff.mat,Tiny_1,35929398,3882
+170fdeb59fe150ce,void_moon_buff.mat,Tiny_1,35905902,1502
+10a605738cdee40d,void_moon_trail_buff.mat,Tiny_1,35907404,2738
+9d40c53dbff6bc33,sunp_core.mat,Tiny_1,35891922,1390
+2d1c6d8c103b5824,sunp_flare.mat,Tiny_1,35893312,2406
+05cee6c36ff3e1fd,sunp_grad.mat,Tiny_1,35895718,2222
+83170c0018de3097,sunp_space.mat,Tiny_1,35897940,6186

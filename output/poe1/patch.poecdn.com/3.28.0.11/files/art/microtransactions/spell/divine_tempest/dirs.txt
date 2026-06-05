@@ -1,3 +1,0 @@
-celestial
-celestial/mb
-celestial/texture

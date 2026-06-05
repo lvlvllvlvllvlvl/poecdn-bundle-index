@@ -1,3 +1,0 @@
-arc
-icearrow
-lightning_ball

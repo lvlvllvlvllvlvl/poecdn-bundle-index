@@ -1,0 +1,15 @@
+deliriummapdevice
+demonicmapdevice
+mektulmapdevice
+monarchoftrarthusmapdevice
+prisoneraltarmapdevice
+prisoneraltarmapdevice/attachments
+prisoneraltarmapdevice/sacrifices
+prisonhallwaymapdevice
+prisonhallwaymapdevice/skeletons
+ritualmapdevice
+sunmapdevice
+sunmapdevice/attachments
+treeofsoulsmapdevice
+worldeatermapdevice
+worldeatermapdevice/attachments

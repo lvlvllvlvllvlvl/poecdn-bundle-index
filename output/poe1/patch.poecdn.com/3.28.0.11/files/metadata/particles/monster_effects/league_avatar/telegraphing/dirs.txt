@@ -1,4 +1,0 @@
-special_beam_cannon
-spellcast_avatar
-spellcast_long_avatar
-summon_avatar

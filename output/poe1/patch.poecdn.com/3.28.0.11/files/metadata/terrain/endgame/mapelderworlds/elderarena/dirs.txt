@@ -1,5 +1,0 @@
-entrylab
-entrylab/graphs
-entrylab/rooms
-graphs
-rooms

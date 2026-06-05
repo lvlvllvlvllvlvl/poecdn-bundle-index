@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+37ea17348fee5602,oghamcandleporta_sss.dds,Folders/art/models/portals/oghamcandlesportal/textures,0,5592580
+1d5d95ae50d6062d,oghamcandleporta_sss.dds.header,Tiny_3,24904260,1520
+0da21e228060675c,oghamcandleportalc.mat,Tiny_3,24910340,10686
+5037401c9350df7e,oghamcandleportal_normal.dds,Folders/art/models/portals/oghamcandlesportal/textures_1,5592580,5592580
+165712d50860557b,oghamcandleportal_normal.dds.header,Tiny_3,24908820,1520
+b9f06c0f53249dde,oghamcandleportal_emissive.dds,Folders/art/models/portals/oghamcandlesportal/textures_1,0,5592580
+b26ebe6d77fd9801,oghamcandleportal_emissive.dds.header,Tiny_3,24907300,1520
+0dfc1dc401185f04,oghamcandleportal_colour.dds,Folders/art/models/portals/oghamcandlesportal/textures,5592580,2796364
+d2ba05b652867afc,oghamcandleportal_colour.dds.header,Tiny_3,24905780,1520

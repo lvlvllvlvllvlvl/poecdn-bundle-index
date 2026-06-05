@@ -1,3 +1,0 @@
-textures
-textures/acidic_grd
-textures/large_projectile

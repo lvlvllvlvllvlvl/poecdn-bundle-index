@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+5ca1de0b2e8ec47d,green_smoke.mat,Tiny.V2,38734101,2268
+967d39ff170cb2a5,green_smoke.dds,Streaming/Content/metadata/particles/monster_effects/talisman/21CA48B5300A7C2B.C0C17DCBE9A5D4FA.on_basecyl.pet,985264,43876
+8df3c605cbe34c14,green_smoke.dds.header,Tiny.V1,38614812,840
+7640ad455c5388dc,trailc.mat,Tiny.VD,38937234,3338
+fe185a23a6a7f401,trail.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8F69DF47C9C3B045.27AE42C1BDFC61D8.quakeslam_second.ao,384619,87588
+54ca8d8496248f51,trail.dds.header,Tiny.V6,38850210,504
+052c20c3ab0225c0,trail_02c.mat,Tiny.VE,38314635,3354
+37106d698724cf40,trail_02.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8F69DF47C9C3B045.27AE42C1BDFC61D8.quakeslam_second.ao,472207,87588
+5a9baafb311a25cd,trail_02.dds.header,Tiny.V6,38850210,504
+e0e75107ce620f00,tile_smokey_upc.mat,Tiny.VD,38933860,3374
+755086177a2c7207,tile_smokey_up.dds,Streaming/Content/metadata/effects/spells/monsters_effects/F50EB9A78F6C03E1.B3A53842387A2E46.chaos_cups_newsmall.ao,0,87556
+111b09e02a1d9ab3,tile_smokey_up.dds.header,Tiny.V2,38736369,1520
+6e6d9a77b4a6823d,wispy_smoke_tilec.mat,Tiny.V7,38692233,3612
+70f6fdf693248aa2,wispy_smoke_tile.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8F69DF47C9C3B045.27AE42C1BDFC61D8.quakeslam_second.ao,559795,87556
+a6e62336b2cdc26f,wispy_smoke_tile.dds.header,Tiny.V7,11798879,1520

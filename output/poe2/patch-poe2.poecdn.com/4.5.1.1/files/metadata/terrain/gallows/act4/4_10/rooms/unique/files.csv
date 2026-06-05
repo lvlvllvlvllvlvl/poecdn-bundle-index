@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+3af4a9a006f08354,shrine_01.arm,Content/data/balance/worldareas/g4_10.vworld,8690269,9578
+a7e4df11df8fe94f,landmark_01.arm,Content/data/balance/worldareas/g4_10.vworld,8663689,26580
+8d42462e6120e359,entrance_01.arm,Content/data/balance/worldareas/g4_10.vworld,8508225,19294
+8f15a2e139efb3bc,exit_02.arm,Content/data/balance/worldareas/g4_10.vworld,8595663,34010
+349d67885a55dc64,exit_02_flipped.arm,Content/data/balance/worldareas/g4_10.vworld,8629673,34016
+5bc5ba495d354404,exit_01.arm,Content/data/balance/worldareas/g4_10.vworld,8527519,34050
+44badc05e70d20b1,exit_01_flipped.arm,Content/data/balance/worldareas/g4_10.vworld,8561569,34094
+b2d3a0a95372e14c,dig_1_01.arm,Content/data/balance/worldareas/g4_10.vworld,8496877,6136
+40fd602ae99407f7,dig_1_02.arm,Content/data/balance/worldareas/g4_10.vworld,8503013,5212

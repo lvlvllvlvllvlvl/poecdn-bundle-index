@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+e3afb5ce0135da91,prowlingshadec.mat,Art/Models/MONSTERS/VaalMonsters/ProwlingShadeLow/Textures,0,5284
+799685c537a8c614,prowlingshade_normal_dxt5.dds,Art/Models/MONSTERS/VaalMonsters/ProwlingShadeLow/Textures_2,0,1398276
+7caa7f4e410d08f0,prowlingshade_normal_dxt5.dds.header,Tiny_3,11217638,1520
+cd8bdf723166af63,prowlingshade_metal_dxt5.dds,Art/Models/MONSTERS/VaalMonsters/ProwlingShadeLow/Textures_1,786956,349700
+ccc578e7ab983d7c,prowlingshade_metal_dxt5.dds.header,Tiny_3,11216118,1520
+8f32b156985b2a26,prowlingshade_glow_dxt5.dds,Art/Models/MONSTERS/VaalMonsters/ProwlingShadeLow/Textures_1,437256,349700
+b3c35ebf3b8a334c,prowlingshade_glow_dxt5.dds.header,Tiny_3,11214598,1520
+457e3fdbe45fd9e3,prowlingshade_colour_dxt5.dds,Art/Models/MONSTERS/VaalMonsters/ProwlingShadeLow/Textures_1,87556,349700
+93b43f4a999ca956,prowlingshade_colour_dxt5.dds.header,Tiny_3,11213078,1520
+56087d6084dea2bb,prowlingshade_bentnormal_dxt5.dds,Art/Models/MONSTERS/VaalMonsters/ProwlingShadeLow/Textures_1,0,87556
+b9dc51312f234af5,prowlingshade_bentnormal_dxt5.dds.header,Tiny_3,11211558,1520

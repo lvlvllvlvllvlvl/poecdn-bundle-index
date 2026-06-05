@@ -1,4 +1,0 @@
-falling_hammer
-holy_slam
-holy_slam_falling
-holy_slam_fow

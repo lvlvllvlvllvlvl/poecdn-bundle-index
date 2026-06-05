@@ -1,0 +1,2 @@
+charging_explosion
+explode

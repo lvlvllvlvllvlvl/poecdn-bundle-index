@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+81f355f274ad59f2,netc.mat,Tiny.VD,37615134,2460
+ee59cb10d2e0f748,net.dds,Streaming/Content/metadata/effects/spells/monsters_effects/8C5C6EE7C40F70C0.87478076297673D6.pt_start.pet,619228,349700
+02020c34c578da3a,net.dds.header,Tiny.V3,36843449,1520
+0e8c142702b66907,wisp_smoke_base.mat,Tiny.VD,37617594,3318
+eca91c7f31259006,wisp_smoke_base.dds,Streaming/Content/metadata/particles/monster_effects/4B65F28733215CAC.explode_mid.pet,328736,11108
+91e58c2239fc3731,wisp_smoke_base.dds.header,Tiny.V8,37035921,840
+5cb904c1c016c29f,smoke.mat,Tiny.V1,37285923,1918
+b7b7beacb9c822fc,smoke.dds,Streaming/Content/metadata/particles/monster_effects/4B65F28733215CAC.explode_mid.pet,284860,43876
+a998ceae5c0595f6,smoke.dds.header,Tiny.VA,41759034,840
+247f68e257daa33c,shockwave_ring_dust.mat,Tiny.VF,37447652,2512
+c5922296ee6ab858,shockwave_ring_dust.dds,Streaming/Content/metadata/particles/monster_effects/4B65F28733215CAC.explode_mid.pet,197304,87556
+16c6aad7ed1812d9,shockwave_ring_dust.dds.header,Tiny.VA,37589341,1520

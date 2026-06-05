@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+8bf4084bfca45d4f,dust.mat,Tiny_6,27778553,1218
+bb9e6e0735b14567,fog.mat,Tiny_6,27779771,5646
+4fa8520008dd36cd,smoke.mat,Tiny_6,27787440,1236
+e0a081d7f9845fb8,smoke2.mat,Tiny_6,27788676,1832
+6c942227011d1ae6,smoke_rays.mat,Tiny_6,27790508,3928
+2052e04c64770512,bakedfog_soft_dxt5.dds,Art/particles/environment_effects/AoW_15,0,1398276
+bedab6e5f260d89c,bakedfog_soft_dxt5.dds.header,Tiny_6,27777033,1520

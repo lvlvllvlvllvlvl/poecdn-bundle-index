@@ -1,0 +1,16 @@
+arrow_impact
+arrow_impact/textures
+arrow_impact/textures/cold
+arrow_impact/textures/fire
+arrows
+arrows/textures
+arrows/textures/cold
+arrows/textures/fire
+muzzle_flash
+muzzle_flash/textures
+object_effect
+object_effect/textures
+object_effect/textures/lightning_beam
+placed_object
+placed_object/textures
+placed_object/textures/cold

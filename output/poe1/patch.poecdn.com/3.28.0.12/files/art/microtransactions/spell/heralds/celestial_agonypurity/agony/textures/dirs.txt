@@ -1,0 +1,7 @@
+handfx
+minion
+minion/emerge
+minion/fx
+minion/projectiles
+minion/projectiles/fx
+minion/projectiles/impact

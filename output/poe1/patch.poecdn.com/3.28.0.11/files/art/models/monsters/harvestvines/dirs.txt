@@ -1,8 +1,0 @@
-decacluster
-doublecluster
-pentacluster
-single
-single/animations
-single/animations/overseerlargeowl
-supervine
-triplecluster

@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+b7e4fc2e273035cb,ptemit_u.mat,Tiny.VD.1,5322818,346
+82b53d2407a31f12,glowoomph_01_r.mat,Tiny.VF.1,26768634,36348
+cf93e9dd61f57593,coreglow_01_u.mat,Tiny.V7.1,5366098,576
+a9decc7d04ac5811,bluroomph_02_u.mat,Tiny.V5.1,29128128,2246
+1aa6e2bffc6b7fa5,ball_coreglow_01_r1.mat,Tiny.V6.1,26757873,61078
+0fa1e299e4f403bc,spheredistort_01_r.mat,Tiny.VD.1,28598146,9536
+09d6fa26fabe0f74,sparks_01_r.mat,Tiny.VF.1,26804982,38142
+b3dd926ea7893d50,sparks_01_u.mat,Tiny.VC.1,29508379,9252
+e5684ccd5e354797,impsparks_01_r.mat,Tiny.VC.1,29489475,18904
+35e9c3f13421270f,impsparks_02_u.mat,Tiny.VE.1,27508660,14366
+3563d9b3e6b55f6a,dropbolt_01_r.mat,Tiny.VF.1,26733454,35180
+f6f5f0a5c34ff4ad,dropbolt_01_u.mat,Tiny.VD.1,5322818,346
+09f04d36de39d1da,zapglow_01_r1.mat,Tiny.V8.1,28798424,34128
+1ddb954d14baeb0e,zapbolt_01_r.mat,Tiny.V0.1,27139896,32672
+bb855eab8985e863,zapbolt_01_u.mat,Tiny.V8.1,28793536,4888

@@ -1,5 +1,0 @@
-attachments
-attachments/physics
-explodingplants
-fungalburstmushrooms
-runemarked

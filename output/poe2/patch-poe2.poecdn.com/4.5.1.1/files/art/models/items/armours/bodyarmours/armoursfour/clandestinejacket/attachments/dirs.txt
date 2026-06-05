@@ -1,0 +1,12 @@
+belt
+belt/dex
+belt/dexint
+belt/int
+belt/str
+belt/strdex
+belt/strint
+beltaccessories
+capef
+capem
+robe
+robef

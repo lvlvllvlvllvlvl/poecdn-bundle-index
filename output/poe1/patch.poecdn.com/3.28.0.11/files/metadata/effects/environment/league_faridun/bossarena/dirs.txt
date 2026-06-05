@@ -1,7 +1,0 @@
-epk
-fx
-mat
-mat/emerge_portal
-mat/eye_glow_saresh
-mat/eye_glow_zarokh
-mat/medalion_trail

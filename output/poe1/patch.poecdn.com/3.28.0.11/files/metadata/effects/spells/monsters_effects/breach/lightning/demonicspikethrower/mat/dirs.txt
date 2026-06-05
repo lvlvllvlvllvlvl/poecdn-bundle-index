@@ -1,6 +1,0 @@
-enrage
-idle
-lightning_proj
-lightning_proj_impact
-onact
-onact/attack

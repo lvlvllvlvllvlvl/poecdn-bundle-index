@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+12f80e32f18e840b,wisp_sub.mat,Tiny.V4,38780938,1918
+7eefa3471a6a2b2c,wisp_sub_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/gallows/CDEE4CF934E4086A.458CE2223341B0CE.revive_midline.pet,393576,87556
+404bbc04f7705b06,wisp_sub_dxt5.dds.header,Tiny.VF,38688377,1520
+fe4173a1736efc21,ground_mask_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/gallows/CDEE4CF934E4086A.458CE2223341B0CE.revive_epk_midline.pet,313069,349700
+379f27e21cdcfc0d,ground_mask_dxt5.dds.header,Tiny.V6,6713354,1520
+16541b29fe95fa86,blood_bit_01.mat,Tiny.V1,38503478,2512
+2fc1ac9af4f9a438,blood_bit_01_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/58D861BE4D2E83D7.E5467E96BBAD2376.bloodrush_frenzy.epk,0,22020
+f5c221d29713e3e7,blood_bit_01_dxt5.dds.header,Tiny.V0,39351247,1520
+f0197b5303d73956,blood_shockwave_test.mat,Tiny.VD,38815248,2824
+fa2323497df793a9,blood_shockwave_test_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/gallows/CDEE4CF934E4086A.458CE2223341B0CE.revive_epk_midline.pet,291049,22020
+f9eb1fe7ea42c68e,blood_shockwave_test_dxt5.dds.header,Tiny.VA,38888550,1520
+54fd197516b64759,blood_colour.mat,Tiny.VC,38929496,3024
+4a5f41862d263bab,blood_colour_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/gallows/CDEE4CF934E4086A.458CE2223341B0CE.revive_epk_midline.pet,203493,87556
+bfd91d410f326bce,blood_colour_dxt5.dds.header,Tiny.V8,38325771,1520

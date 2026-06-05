@@ -1,0 +1,15 @@
+aura
+aura/candles
+book_teleport
+book_teleport_explosion
+brute_lightningslam
+brute_lightningslam/lightning_spikez
+brute_small_lightningslam
+bubble
+empowering_beam
+levitation_beam
+lightning_slam
+lightning_touch
+lightning_touch/bolts
+projectile
+spectral_death_hover

@@ -1,4 +1,0 @@
-firebeam
-fireimpact
-impact
-onact

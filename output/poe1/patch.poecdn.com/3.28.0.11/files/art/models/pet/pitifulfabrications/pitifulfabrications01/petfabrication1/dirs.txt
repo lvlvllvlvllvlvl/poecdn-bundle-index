@@ -1,4 +1,0 @@
-animations
-attachments
-attachments/heart
-attachments/skirt

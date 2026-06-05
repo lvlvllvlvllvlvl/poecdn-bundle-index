@@ -1,3 +1,0 @@
-vfx
-vfx/shards01
-vfx/shards01/graphs

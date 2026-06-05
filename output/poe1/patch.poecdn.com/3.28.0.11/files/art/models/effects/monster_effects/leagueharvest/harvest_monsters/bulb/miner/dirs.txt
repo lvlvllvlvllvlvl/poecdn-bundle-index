@@ -1,9 +1,0 @@
-light
-on_act_arc
-on_act_channel
-projectile
-spore_blast
-spore_blast_01
-spore_blast_rect
-spore_mortar
-spore_mortar_explode

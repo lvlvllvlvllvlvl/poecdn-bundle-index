@@ -1,6 +1,0 @@
-attachments
-attachments/helmetfur
-attachments/helmettail
-attachments/robe
-attachments/robe/male
-textures

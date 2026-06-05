@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+1c0352957558a9b3,oomph_r.mat,Tiny.V1.1,142440574,24720
+df28ad637f6bfb12,flash_r.mat,Tiny.V8.1,142604612,17056
+9733cba99cc2e41a,wispy_trl_r.mat,Tiny.V0.1,141545354,30702
+5cb6615e3f1dde63,sparks_u.mat,Tiny.VE.1,140574172,17916
+094856e395cd6720,sparks_r.mat,Tiny.V5.1,141274800,34530
+20002c7f5cda53a2,sparks_r2.mat,Tiny.V4.1,142118468,34530
+77871826f1ac94df,smoke_r.mat,Tiny.V5.1,141244102,30698
+bdb1490274dc7cd4,smoke_u.mat,Tiny.V3.1,142956567,4918
+3056a19969b48e0d,caustics_blur_r.mat,Tiny.V0.1,141534310,11044
+a8a568b16bb5d477,caustics_r.mat,Tiny.V3.1,142950075,6492

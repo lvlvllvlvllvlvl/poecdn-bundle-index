@@ -1,3 +1,0 @@
-textures
-textures/others
-textures/others/placeholders

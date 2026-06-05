@@ -1,4 +1,0 @@
-basetypes
-basetypes/textures
-microtransactions
-microtransactions/zodiacdragonquiver

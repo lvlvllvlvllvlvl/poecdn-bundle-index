@@ -1,6 +1,0 @@
-shieldint1
-shieldint2
-shieldint3
-shieldint4
-shieldint5
-shieldint6

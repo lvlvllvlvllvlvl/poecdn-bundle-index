@@ -1,0 +1,17 @@
+abyss
+abyss/fx
+abyss/mat
+arcane
+arcane/fx
+arcane/graph
+arcane/mat
+azmeri
+azmeri/fx
+azmeri/graph
+azmeri/mat
+azmeri/trl
+vampiric
+vampiric/epk
+vampiric/fx
+vampiric/graph
+vampiric/mat

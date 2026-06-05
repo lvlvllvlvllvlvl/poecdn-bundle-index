@@ -1,7 +1,0 @@
-courtyard
-exteriorwall
-gardenedge
-nowindows
-npcs
-tombs
-trees

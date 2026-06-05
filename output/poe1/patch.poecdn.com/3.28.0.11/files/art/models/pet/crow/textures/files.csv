@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-e82f04cfee361341,crowc.mat,Tiny_3,16089130,3938
-f5a66d093e0a2e5a,crow_normal_dxt5.dds,Art/Models/Pet/Crow/Textures_1,0,1398276
-c6f648bd27ddebb9,crow_normal_dxt5.dds.header,Tiny_3,16087610,1520
-12f2c4f46abbf2d4,crow_glow_dxt5.dds,Art/Models/Pet/Crow/Textures_2,0,1398276
-c04ae011ea0356ea,crow_glow_dxt5.dds.header,Tiny_3,16086090,1520
-8ea0d8aa49ad1c45,crow_colour_dxt1.dds,Art/Models/Pet/Crow/Textures,0,699212
-066be68ff0ce5c6e,crow_colour_dxt1.dds.header,Tiny_3,16084570,1520

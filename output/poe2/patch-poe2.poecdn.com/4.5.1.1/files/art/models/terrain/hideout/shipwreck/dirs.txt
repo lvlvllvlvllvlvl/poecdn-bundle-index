@@ -1,0 +1,14 @@
+doodads
+doodads/lights
+doodads/lights/lantern_01
+doodads/lights/lantern_01/animations
+doodads/lights/lantern_02
+doodads/lights/lantern_02/animations
+doodads/textures
+textures
+textures/cliffs
+textures/coins
+textures/ground
+textures/marine
+textures/wood
+tgms

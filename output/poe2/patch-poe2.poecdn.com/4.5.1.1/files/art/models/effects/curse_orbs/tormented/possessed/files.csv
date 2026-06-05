@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+57fc8f9770ce4ec0,chains_87fd9951.smd,Streaming/Content/metadata/effects/spells/curses/stun2.ao,42228,50570
+1791d3a50e553418,chains_87fd9951.smd.header,Tiny.VF,7166402,948
+293d8afcec8b6a8d,possessedchainglow.amd,Tiny.V4,7272485,96
+d70650ac41907f48,possessedchainglow.ast,Tiny.V7,7141098,696
+d3ae325b5b154ad0,possessedchain.sm,Tiny.VC,7157763,872
+bf36a92082120e12,possessedchain.amd,Tiny.V4,7272485,96
+8b614d53c8dd9141,possessedchain.ast,Content/metadata/effects/spells/monk_bell/mtx_belldjinn.ot,1736350,116194
+d887b7bcb3c226a8,possessed.amd,Tiny.V5,7169658,110
+8fe4602d0ee59fb4,possessed.ast,Tiny.V8,7040360,638

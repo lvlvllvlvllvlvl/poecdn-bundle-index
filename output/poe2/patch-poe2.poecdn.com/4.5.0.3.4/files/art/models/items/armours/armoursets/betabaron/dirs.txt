@@ -1,7 +1,0 @@
-attachments
-attachments/cravat
-attachments/mask
-attachments/shawl
-attachments/skirt
-attachments/strskirt
-textures

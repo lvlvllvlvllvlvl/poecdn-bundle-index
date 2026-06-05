@@ -1,8 +1,0 @@
-kitava
-kitava/staticstrike
-kitava/staticstrike_buff
-kitava/staticstrike_cast
-kitava/staticstrike_charge_up
-kitava/staticstrike_charge_up/meshtex
-kitava/staticstrike_shockwave
-kitava/staticstrike_shockwave/meshtex

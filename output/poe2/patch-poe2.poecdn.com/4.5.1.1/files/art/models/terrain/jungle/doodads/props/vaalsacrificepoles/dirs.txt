@@ -1,0 +1,5 @@
+attachments
+attachments/ribbon
+damaged
+ritualpole_01
+ritualtotem_01

@@ -1,5 +1,0 @@
-pirateship
-pirateship/graphs
-pirateship/objects
-pirateship/rooms
-pirateship/skybox

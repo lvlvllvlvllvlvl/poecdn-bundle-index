@@ -1,2 +1,0 @@
-poe1_currencyorbs
-textures

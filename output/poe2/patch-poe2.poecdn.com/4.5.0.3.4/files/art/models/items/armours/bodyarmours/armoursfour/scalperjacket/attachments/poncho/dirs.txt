@@ -1,4 +1,0 @@
-f
-m
-str
-str/animations

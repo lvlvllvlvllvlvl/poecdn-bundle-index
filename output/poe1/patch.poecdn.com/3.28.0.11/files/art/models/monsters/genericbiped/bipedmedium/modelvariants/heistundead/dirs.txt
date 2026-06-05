@@ -1,5 +1,0 @@
-project
-scientist
-scientist/attachments
-thaumaturgy
-thaumaturgy/attachments

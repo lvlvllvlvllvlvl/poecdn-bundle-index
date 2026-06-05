@@ -1,4 +1,0 @@
-exit_device_01
-possess_map_device_01
-remove_map_device_01
-summon_bosses_01

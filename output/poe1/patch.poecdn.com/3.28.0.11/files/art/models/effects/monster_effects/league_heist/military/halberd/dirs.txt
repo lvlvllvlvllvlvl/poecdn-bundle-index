@@ -1,4 +1,0 @@
-dash_beam
-on_act
-on_act/attack_02
-on_act/dash_stab

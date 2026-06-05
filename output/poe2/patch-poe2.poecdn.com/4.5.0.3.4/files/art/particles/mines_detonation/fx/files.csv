@@ -1,7 +1,0 @@
-hash,file,bundle,offset,size
-ea3da5e4c6e0a709,flare_lens_8x8.mat,Tiny.VF,35866297,3294
-fca901fd9a270a82,flare_lens_8x8_dxt5.dds,Streaming/Content/metadata/particles/mines_detonation/trigger_bip.pet,0,5592580
-33f05389d12c59a4,flare_lens_8x8_dxt5.dds.header,Tiny.VF,39492871,1520
-670d8a93e92d2d9f,flare_flash_5x5.mat,Tiny.V5,35430516,2498
-140fc5b9f3cc549b,flare_flash_5x5_dxt5.dds,Streaming/Content/metadata/particles/maneuver_mechanics/boneguard_char_midline.pet,820584,5592580
-1ff971a1b82e10f3,flare_flash_5x5_dxt5.dds.header,Tiny.VF,37865099,1520

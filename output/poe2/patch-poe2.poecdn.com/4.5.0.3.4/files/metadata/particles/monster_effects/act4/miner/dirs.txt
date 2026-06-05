@@ -1,7 +1,0 @@
-death_boss
-death_boss/explode
-lantern_fireball
-rock_upheaval
-rock_upheaval/aoe_beacon
-throw_spawn
-throw_spawn/rockexplosion

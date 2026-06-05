@@ -1,6 +1,0 @@
-dialogue
-dialogue/atlas
-dialogue/character
-dialogue/leagues
-dialogue/mtx
-dialogue/npc

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+46f13fc5b927d5b1,upbeam.fmt,Art/Models/Effects/level_up/Sentinel,15896,18438
+3459a4a266d6b566,upbeam.fmt.header,Tiny_1,89338233,161
+829d8d3592cc60fa,thinspiral.fmt,Art/Models/Effects/level_up/Sentinel,34334,18066
+6779f61c61f4b7d1,thinspiral.fmt.header,Tiny_1,89338067,166
+a32eb9c9b9f96dc0,midspiral.fmt,Art/Models/Effects/level_up/Sentinel,68296,16658
+92189db856b7ad0e,midspiral.fmt.header,Tiny_1,89313396,169
+1b94440f59cfe2cc,midray.fmt,Art/Models/Effects/level_up/Sentinel,52400,15896
+d297ccf8bc602702,midray.fmt.header,Tiny_1,89313234,162
+049a93262b2dd59d,lowwave.fmt,Art/Models/Effects/level_up/Sentinel,0,15896
+e7960dc4ba9b2ca9,lowwave.fmt.header,Tiny_1,89313072,162

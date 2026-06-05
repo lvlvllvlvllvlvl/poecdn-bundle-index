@@ -1,0 +1,4 @@
+harpyvulturewingsshrine
+harpyvulturewingsshrine/attachments
+harpyvulturewingsshrine/fx
+harpyvulturewingsshrine/graph

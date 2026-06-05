@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-aead97065ecb057a,random_fill_tiles.gft,Tiny.V0.1,204808074,682
-aecc62827361c7b0,generate.rs,Tiny.V9.1,205078734,200
-47c7e8d48f897722,doodads.ddt,Tiny.V1.1,201033126,4170
-32c179a6aabbd1c8,tiles.tst,Tiny.V6.1,202083925,19404
-b6d5d5f63b3e0adf,master.tsi,Tiny.V9.1,205078934,754
-7478aeab04e454f0,materials.mtd,Tiny.V9.1,205079688,2164
-adb9afc59d931cf6,material_overrides.tmo,Content/data/balance/worldareas/maprustbowl.vworld,2753366,28054
-25cb305d56eb7d33,material_overrides_outside.tmo,Content/data/balance/worldareas/maprustbowl.vworld,2781420,45194

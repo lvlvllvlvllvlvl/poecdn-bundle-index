@@ -1,0 +1,5 @@
+hash,file,bundle,offset,size
+97469179d730fde0,instability_blur_r.mat,Tiny_9,100446152,36996
+c38b7c553d70bbf8,instability_blur_u.mat,Tiny_9,100483148,2146
+477ac892571ecab2,glow_sphere_r.mat,Tiny_9,100428666,17486
+6e6cf1413d29df47,glow_sphere_u.mat,Tiny_11,96737702,576

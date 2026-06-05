@@ -1,0 +1,14 @@
+charging_beam
+evasion
+fire
+increase_phy
+increased_accur
+increased_attackspeed
+increased_runspeed
+reduced_damage
+reflect_damage
+reflect_damage/elemental
+reflect_damage/ice
+reflect_damage/magic
+reflect_damage/rare
+shroad

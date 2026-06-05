@@ -1,6 +1,0 @@
-epk
-fx
-mat
-mat/onacts
-mat/onacts/attack_trail
-mat/projectile_trail

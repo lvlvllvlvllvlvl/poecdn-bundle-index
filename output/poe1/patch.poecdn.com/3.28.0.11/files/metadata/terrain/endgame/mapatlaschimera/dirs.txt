@@ -1,4 +1,0 @@
-graphs
-rooms
-rooms/gapfill
-rooms/unique

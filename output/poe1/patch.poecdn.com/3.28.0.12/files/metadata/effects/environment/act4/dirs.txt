@@ -1,0 +1,15 @@
+belly
+belly/hearts
+collosseum
+daresso_arena
+deshret_spirit
+dialla_activates_rapture
+kaom_area
+kaom_area/fountain
+malachai_maggots
+miner_boss
+mines
+mines/crystalwall_transition
+throne_torch
+town
+town/magic_spear_gate

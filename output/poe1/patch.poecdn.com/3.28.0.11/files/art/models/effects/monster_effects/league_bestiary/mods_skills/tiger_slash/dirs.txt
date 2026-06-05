@@ -1,3 +1,0 @@
-skin
-slash
-slash_decal

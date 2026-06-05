@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-a3491b4cf1fc03d0,beam_centre_r.mat,Tiny.V8.1,71960754,15068
-401424d85098273f,beam_centre_u.mat,Tiny.VD.1,5313278,346
-68a7b9d6d9f367ff,midnight_r.mat,Tiny.V3.1,160613573,14770
-c7718b5c44eac000,midnight_u.mat,Tiny.VD.1,5313278,346
-c31a7196199cabdb,mblur_sphere_r.mat,Tiny.VE.1,156160220,10530
-07f168c084574bda,mblur_sphere_u.mat,Tiny.VD.1,5313278,346
-c6569d2447f8b28f,zoom_distortion_r.mat,Tiny.V2.1,71736568,9456
-0f3e7689f908b95c,zoom_distortion_u.mat,Tiny.VD.1,5313278,346

@@ -1,8 +1,0 @@
-faridun
-faridun/epk
-faridun/mat
-faridun/pet
-valkyrie
-valkyrie/epk
-valkyrie/mat
-valkyrie/pet

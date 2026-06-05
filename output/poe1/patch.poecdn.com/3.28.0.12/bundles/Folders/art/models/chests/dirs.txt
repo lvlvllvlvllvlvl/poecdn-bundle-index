@@ -1,0 +1,17 @@
+azmerichest
+breachchests
+estateschests
+faridunchests
+harmonystash
+kalguuranchest
+karuichest
+microtransactions
+microtransactions/affinitystashes
+microtransactions/clamstash
+microtransactions/octopusparasitestash
+mysteryboxes
+mysteryboxes/druid
+mysteryboxes/wendigo
+sanctum
+sentinelchests
+twilightorderchests

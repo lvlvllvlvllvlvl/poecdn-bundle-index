@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+7718f567ab6009e2,blood1.mat,Tiny.V0,40389202,6886
+983bb800383d6e08,blood1_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/21F13D13CA11B813.3A1739FDA38A7B14.cleave_combo01.pet,996228,87556
+5156798ed80fef5a,blood1_dxt5.dds.header,Tiny.V0,35832378,1520
+75a2acbddf2ceca5,sparkling.mat,Tiny.VB,40582412,1692
+d1d87e45d6f05026,sparkling_dxt5.dds,Tiny.VE,4434420,1572
+585231882c3a1f94,sparkling_dxt5.dds.header,Tiny.VD,4345787,504
+ceb0d8202fff2bd2,rune.mat,Tiny.V5,39822874,2630
+bc218f62c7661936,rune_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D05975759C99E844.5E1217A031B04313.impact_pierce.pet,219152,1398276
+703b18300a3b5c07,rune_dxt5.dds.header,Tiny.V9,40760249,1520
+e9a001891a6cadd5,ring_light.mat,Tiny.V3,39625119,4698
+b0b4b0e44dbccbac,ring_light_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D80EDF62996D803B.FD69C09FB977B2D6.blood_line_spike.pet,0,87556
+cf3b20a22f274a39,ring_light_dxt5.dds.header,Tiny.V7,34219609,1520
+85f902af3ea264f3,lightup_blood.mat,Tiny.V7,40205748,2890
+b74e3d6818042f07,lightup_blood_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D05975759C99E844.5E1217A031B04313.impact_pierce.pet,197132,22020
+fe8da84a7de246d5,lightup_blood_dxt5.dds.header,Tiny.VB,35839200,1520

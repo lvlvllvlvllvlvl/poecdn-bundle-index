@@ -1,7 +1,0 @@
-deliriumbuckler
-deliriumfocus
-deliriumscepter
-deliriumspear
-deliriumstaff
-deliriumwand
-textures

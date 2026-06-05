@@ -1,0 +1,9 @@
+fx
+fx/cast_speed_buff_01
+fx/time_freeze_nova_01
+mat
+mat/cast_speed_buff_01
+mat/cast_speed_buff_01/handfx
+mat/monster_freeze
+mat/slow_debuff
+mat/time_freeze_nova_01

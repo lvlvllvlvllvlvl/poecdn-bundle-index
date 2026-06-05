@@ -1,2 +1,0 @@
-fully_charged
-fully_charged/weapon_fx

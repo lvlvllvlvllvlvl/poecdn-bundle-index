@@ -1,4 +1,0 @@
-charge_down
-charge_up
-fully_charged
-lightning_bolt

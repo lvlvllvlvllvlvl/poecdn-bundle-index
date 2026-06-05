@@ -1,3 +1,0 @@
-charge_down
-charge_up
-lightning_bolt

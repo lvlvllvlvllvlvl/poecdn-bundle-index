@@ -1,6 +1,0 @@
-ledge
-lowerfills
-unique
-upper
-upper/1x1
-upper/2x2

@@ -1,0 +1,6 @@
+hairstyles
+hairstyles/default
+hairstyles/tight
+outfit
+outfit/attachments
+outfit/attachments/robe

@@ -1,8 +1,0 @@
-hash,file,bundle,offset,size
-5709dbe35facdc89,torch_windy.mat,Tiny.VC,35139904,2986
-e60b376fdcf1fd10,torch_windy.dds,Streaming/Content/metadata/particles/enviro_effects/act5/C3F810BC4810DD60.E4F01655EA084B15.char_midline.pet,285548,43876
-829904f42703687f,torch_windy.dds.header,Tiny.V5,34404814,840
-87a8d24e4c4855b2,smoke.dds,Streaming/Content/metadata/effects/environment/hideout/E431B7C855CA3B01.1CCDF8FE86FC8F9E.waypoint_mesh_synthesis02_1.ao,759876,43876
-cc0852fa5f52cc2f,smoke.dds.header,Tiny.VA,35045057,840
-4db8296033cd3806,lava_dots.dds,Streaming/Content/metadata/effects/microtransactions/aura/338062468619768C.CAE58C92B230AD8B.flare.pet,262480,22020
-c31154f005034623,lava_dots.dds.header,Tiny.V4,35122938,1520

@@ -1,0 +1,2 @@
+fire_orb_player
+fire_orb_player2

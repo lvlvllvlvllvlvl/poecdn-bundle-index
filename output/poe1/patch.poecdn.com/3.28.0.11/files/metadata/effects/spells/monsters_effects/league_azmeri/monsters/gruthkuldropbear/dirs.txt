@@ -1,6 +1,0 @@
-fx
-fx/attack2
-fx/attacktree_no_event
-mat
-mat/attack2
-mat/attacktree_no_event

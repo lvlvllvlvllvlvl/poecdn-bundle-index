@@ -1,5 +1,0 @@
-fissure_explosion
-fissure_line
-onact
-onact/foot_impact
-onact/hand_impact

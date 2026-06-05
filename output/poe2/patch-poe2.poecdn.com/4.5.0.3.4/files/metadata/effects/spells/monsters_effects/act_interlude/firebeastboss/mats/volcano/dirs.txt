@@ -1,5 +1,0 @@
-emerge
-idle
-impact
-melt
-projectile

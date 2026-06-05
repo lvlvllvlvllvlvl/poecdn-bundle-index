@@ -1,0 +1,13 @@
+female
+female/cloakdex
+female/cloakint
+female/cloakstrdexint
+female/helmet
+female/skirt
+male
+male/cloakdexint
+male/cloakstr
+male/cloakstrdex
+male/cloakstrint
+male/helmet
+male/skirt

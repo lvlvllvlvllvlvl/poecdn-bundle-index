@@ -1,0 +1,3 @@
+karui_vulnerability_aura
+karui_vulnerability_aura/totem
+karui_vulnerability_aura/totem_affected_aura

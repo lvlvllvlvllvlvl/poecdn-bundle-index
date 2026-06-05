@@ -1,7 +1,0 @@
-attachments
-attachments/l_sleeve
-attachments/r_sleeve
-attachments/robe
-attachments/skirt_metal
-textures
-textures/rust

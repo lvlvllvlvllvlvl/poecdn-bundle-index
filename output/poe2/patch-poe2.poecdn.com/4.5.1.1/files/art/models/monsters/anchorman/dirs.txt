@@ -1,0 +1,11 @@
+animations
+animations/bloater
+attachments
+attachments/anchor
+attachments/bloatersummons
+attachments/bloatersummons/belt
+attachments/bloatersummons/intestines
+attachments/bloatersummons/necklace
+attachments/bloatersummons/organs
+attachments/drawstrings
+textures

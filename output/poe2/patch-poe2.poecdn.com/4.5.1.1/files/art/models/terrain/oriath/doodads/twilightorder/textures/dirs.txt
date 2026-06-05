@@ -1,0 +1,6 @@
+curtains
+decorations
+furniture
+paintings
+paintings/grafitti
+structures

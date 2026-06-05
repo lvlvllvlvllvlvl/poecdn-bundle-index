@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+1e1f9d526e8f0a53,entrance.arm,Content/data/balance/worldareas/maprugosa.vworld,193962,10582
+26877d7046c3bdc5,mission_01.arm,Tiny.V4.1,209570869,1960
+fab4d2ff85b05fd0,mission_02.arm,Content/data/balance/worldareas/maprugosa.vworld,204544,5058
+2caad5c1ecb7977e,mission_03.arm,Content/data/balance/worldareas/maprugosa.vworld,209602,4962
+d43b6950a0970ded,crossing_01.arm,Content/data/balance/worldareas/maprugosa.vworld,165690,7512
+d6b58d26f488b5b3,crossing_02.arm,Content/data/balance/worldareas/maprugosa.vworld,173202,7366
+a25eba90d67d61c5,crossing_03.arm,Content/data/balance/worldareas/maprugosa.vworld,180568,6664
+09a6621c9cb96949,crossing_04.arm,Content/data/balance/worldareas/maprugosa.vworld,187232,6730
+cc0c47241792ba52,bossman.arm,Content/data/balance/worldareas/maprugosa.vworld,133338,32352
+c15b3bb2b1545f0c,boss_tri.arm,Content/data/balance/worldareas/maprugosa.vworld,123478,9860

@@ -1,5 +1,0 @@
-digsite
-digsite/textures
-digsite/textures/archeology
-textures
-textures/digsite

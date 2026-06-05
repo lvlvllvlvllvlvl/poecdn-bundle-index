@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+36290a58e41f8236,snow_wind.mat,Tiny_6,75703346,2836
+1707307c751dcd31,snow_wind.dds,Art/particles/monster_particles/AtlasofWorlds_128,175112,22020
+882721936f897a7d,snow_wind.dds.header,Tiny_6,78487399,1520
+896df78b3e856a7b,snow_sparks.mat,Tiny_6,75700498,2848
+486a8f5ed62bfe6a,snow_sparks.dds,Art/Microtransactions/spell/heralds_31,3259060,87556
+351dcc9b10dbc6d8,snow_sparks.dds.header,Tiny_7,55511187,1520
+5747905fab9ce101,impact_flare.mat,Tiny_6,75698846,1652
+55aaa6d693387824,impact_flare.dds,Art/particles/monster_particles/AtlasofWorlds_98,285112,174948
+f81160f7f09945f2,impact_flare.dds.header,Tiny_7,50920691,840
+b8c5997d2dddfd44,cold_smoke.mat,Tiny_6,75696890,1956
+bcbb93f739450e66,cold_smoke.dds,Art/Textures/Misc/portals/IceAndFirePortal/effects,175112,43876
+25f55e05bca06327,cold_smoke.dds.header,Tiny_8,30066636,840
+ae13baa56c7f36e8,channel_snowblobs.mat,Tiny_6,75695610,1280
+cf738c840f435e95,channel_snowblobs.dds,Art/Textures/Misc/portals/IcePortal/effects_1,87556,5636
+4d6bb25cc2b25ee4,channel_snowblobs.dds.header,Tiny_8,30056186,1520

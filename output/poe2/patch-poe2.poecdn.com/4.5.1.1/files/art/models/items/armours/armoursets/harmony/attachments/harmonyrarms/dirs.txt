@@ -1,0 +1,6 @@
+harmonyrarmsdex
+harmonyrarmsdexint
+harmonyrarmsint
+harmonyrarmsstr
+harmonyrarmsstrdex
+harmonyrarmsstrint

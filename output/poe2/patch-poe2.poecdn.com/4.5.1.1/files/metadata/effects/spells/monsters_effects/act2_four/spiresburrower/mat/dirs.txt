@@ -1,0 +1,17 @@
+death
+death/ground
+emerge
+emerge/dust
+emerge/ground
+ground_quicksand
+ground_sand_crack
+ground_sand_crack/submerge_dust
+mortar_explosion
+mortar_trail
+onact
+onact/attack
+onact/attack_h
+onact/attack_l
+onact/bite_01
+quicksand_affects_player
+sand_mortar

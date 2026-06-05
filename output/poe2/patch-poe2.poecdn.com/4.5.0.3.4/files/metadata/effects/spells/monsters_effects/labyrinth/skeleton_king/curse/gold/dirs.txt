@@ -1,3 +1,0 @@
-reduce_armour
-reduce_resistance
-temporal_chains

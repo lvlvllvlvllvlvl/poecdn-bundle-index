@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+7ee81f573a429e68,spark2_clean.mat,Tiny.V5,37438602,1154
+1c3a3ccea562bef1,spark2_clean.dds,Streaming/Content/metadata/particles/monster_effects/7B18F275108C0283.line.pet,532056,5636
+0909633704ca4c86,spark2_clean.dds.header,Tiny.V5,37437082,1520
+434908016e5cec1e,grad_soulc.mat,Tiny.VF,37863343,1920
+c22e77e183bbd992,grad_soul.dds,Streaming/Content/metadata/effects/spells/monsters_effects/A7246FBA4E438C5F.aoerevive.ao,0,349700
+ca8659fbb4f8bc98,grad_soul.dds.header,Tiny.VE,37343651,1520
+164cae3fe086c5c8,grad_soul_multic.mat,Tiny.VA,38095443,1330
+7cff7f84962c9d55,grad_soul_multi.dds,Streaming/Content/metadata/effects/spells/monsters_effects/A7246FBA4E438C5F.aoerevive.ao,699400,22020
+0bf9944148e88316,grad_soul_multi.dds.header,Tiny.V3,37255523,1520
+895ff97febaaa193,grad_soul_atc.mat,Tiny.V1,37675185,1846
+199e83aa0c858dfd,grad_soul_at.dds,Streaming/Content/metadata/effects/spells/monsters_effects/A7246FBA4E438C5F.aoerevive.ao,349700,349700
+15edfef8c710a702,grad_soul_at.dds.header,Tiny.V4,37964614,1520

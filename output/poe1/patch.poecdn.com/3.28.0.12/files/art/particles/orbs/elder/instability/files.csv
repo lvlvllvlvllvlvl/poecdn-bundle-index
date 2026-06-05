@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+91a2c01a9c6295dd,tentacle_intcns.mat,Tiny_7,45141583,4500
+4f800294fc7fcff1,tentacle_int_colour.dds,Art/particles/orbs/elder,175260,43852
+745bdba112a089f0,tentacle_int_colour.dds.header,Tiny_7,45151903,1520
+f08b9bda2e09dd0d,tentacle_intns.dds,Art/particles/orbs/elder,43852,87556
+50c577fa01426f03,tentacle_intns.dds.header,Tiny_7,45181611,1520
+8aaa2ec2cd35f1ba,inner_multic.mat,Tiny_7,45139549,2034
+eb9227acb15fb3c6,inner_multi.dds,Art/particles/orbs/new,0,22020
+cf338814861c0a98,inner_multi.dds.header,Tiny_7,45194367,1520
+729ee5ae63908309,darkness_scrollingc.mat,Tiny_7,45135167,3140
+6b40aca7695d3a01,distortionc.mat,Tiny_7,45138307,1242
+bf3ba9fff799b6bf,distortion.dds,Folders/art/textures/misc/portals/spectreportal/8/fx,546816,87556
+9b42b7fd140418eb,distortion.dds.header,Tiny_8,30350416,1520
+104ec1aa434b3ba3,basec.mat,Tiny_7,45132743,2424
+1a98ef0a073d51e5,base.dds,Tiny_7,45130379,844
+41194ff87172c3d7,base.dds.header,Tiny_7,45131223,1520

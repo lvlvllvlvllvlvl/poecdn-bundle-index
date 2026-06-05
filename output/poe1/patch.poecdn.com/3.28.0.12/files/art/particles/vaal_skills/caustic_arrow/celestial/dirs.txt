@@ -1,0 +1,6 @@
+mb
+mb/large_projectile
+mb/large_projectile/animations
+textures
+textures/acidic_grd
+textures/large_projectile

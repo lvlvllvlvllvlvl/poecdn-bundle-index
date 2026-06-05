@@ -1,7 +1,0 @@
-agony
-agony/minion
-fire
-light
-light/hand_buff
-light/slam_impact
-light/slam_impact_2

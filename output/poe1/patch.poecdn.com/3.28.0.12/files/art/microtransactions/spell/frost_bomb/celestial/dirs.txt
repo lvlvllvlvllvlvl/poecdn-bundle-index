@@ -1,0 +1,6 @@
+crystal_loop_anim
+crystal_loop_anim/explosion
+crystal_loop_anim/new
+crystal_loop_anim/pulse
+explosion
+textures

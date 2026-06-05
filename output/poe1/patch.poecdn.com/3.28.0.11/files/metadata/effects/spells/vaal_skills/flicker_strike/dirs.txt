@@ -1,6 +1,0 @@
-epk
-epk/afterimage
-epk/demonic
-epk/necro
-epk/vapor
-graphs

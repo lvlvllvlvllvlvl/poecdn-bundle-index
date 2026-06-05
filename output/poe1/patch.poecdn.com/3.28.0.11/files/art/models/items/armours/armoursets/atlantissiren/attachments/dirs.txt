@@ -1,9 +1,0 @@
-back_physics
-bell
-helmet_physics
-l_shoulderpad
-r_shoulderpad
-shoulderpad_physics
-shoulderpad_physics/l_side
-shoulderpad_physics/r_side
-skirt

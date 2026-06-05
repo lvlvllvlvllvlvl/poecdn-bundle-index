@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+c9ac5a5f9c784987,hvdt_moss01_height.dds,Folders/art/models/terrain/hideout/verdant/textures_E3,0,2796364
+b0b53be36973059c,hvdt_moss01_height.dds.header,Tiny_5,39863859,1520
+36350d2684c0f08d,hvdt_junglemoss03_pxfc.mat,Tiny_5,39861351,2508
+e61ab89ebd1abddc,hvdt_junglemoss01_pxfc.mat,Tiny_5,39858737,2614
+c21ceb02b7c01092,hvdt_junglemoss01_normal.dds,Folders/art/models/pet/quadrillapet/textures.1,0,5592580
+c280549fb3a77c83,hvdt_junglemoss01_normal.dds.header,Tiny_5,52909909,1520
+990d7836e4d91b8b,hvdt_junglemoss01_height.dds,Folders/art/models/terrain/hideout/verdant/textures_D3,0,2796364
+0373048efe64e4a5,hvdt_junglemoss01_height.dds.header,Tiny_5,39857217,1520
+8785f9b0cbcb4c4a,hvdt_junglemoss01_colour.dds,Folders/art/models/terrain/hideout/verdant/textures_C3,0,5592580
+22b9e33fde1680cf,hvdt_junglemoss01_colour.dds.header,Tiny_5,39855697,1520
+d977b0581c895a2a,g_hvdt_junglemoss01.mat,Tiny_5,39852905,1272
+3b3b8cdbb40e075c,g_hvdt_junglemoss01_normal.dds,Folders/art/models/terrain/jungle/tiles/jungle_4,0,5592580
+72634124d4612fca,g_hvdt_junglemoss01_normal.dds.header,Tiny_5,52866651,1520
+4eefc9b306cf1ad0,g_hvdt_junglemoss01_colour.dds,Folders/art/models/terrain/hideout/verdant/textures_B3,786768,5592580
+633f6157c0db1d6d,g_hvdt_junglemoss01_colour.dds.header,Tiny_5,39854177,1520

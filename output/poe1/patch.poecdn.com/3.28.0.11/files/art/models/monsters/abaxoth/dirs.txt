@@ -1,4 +1,0 @@
-animations
-animations/demoncraftingbench
-attachments
-attachments/cuffs

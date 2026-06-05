@@ -1,5 +1,0 @@
-textures
-textures/architecture
-tgms
-tiles
-tiles/tgms

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+0fdcbe9e91e0e5b1,maxres.mat,Tiny.VB,41501971,2574
+26cde023ff4a0e82,maxres.dds,Streaming/Content/metadata/particles/shield_charge_002/impact/circle.pet,0,87588
+52d0a580d97c295d,maxres.dds.header,Tiny.V1,41210262,504
+7bba97e2753edc1d,shrink_sharpc.mat,Tiny.VD,41488269,3420
+9a14294bc43bf9fd,shrink_sharp.dds,Streaming/Content/metadata/effects/spells/steel_shard/2563D9B9AAACAD7F.BF6A46E2047265B8.shardproj03.ao,1843846,87556
+95d64ef030fcb8bc,shrink_sharp.dds.header,Tiny.V6,41339610,1520
+c488107e6d43f4d8,light_immortal_callc.mat,Tiny.V2,41167191,2674
+3cab024ed90aee6f,light_immortal_call.dds,Streaming/Content/metadata/effects/spells/steel_shard/2563D9B9AAACAD7F.BF6A46E2047265B8.shardproj03.ao,1756290,87556
+862e81b983d2ca93,light_immortal_call.dds.header,Tiny.V7,37673786,1520
+7b66c9c0c15ed147,fire_sucken.mat,Tiny.VC,41528393,1696
+2561c5bdf57b1c93,fire_sucken.dds,Streaming/Content/metadata/particles/monster_effects/kitava_red/60DCC26AA7C63AF0.D49AD5188C8ADFC5.midline.pet,371752,87556
+7fd41352df6ea33b,fire_sucken.dds.header,Tiny.VC,39002214,1520

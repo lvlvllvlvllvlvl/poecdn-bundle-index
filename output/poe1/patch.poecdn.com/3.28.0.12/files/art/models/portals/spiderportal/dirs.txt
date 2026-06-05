@@ -1,0 +1,4 @@
+smallspiders
+textures
+textures/spidertextures
+textures/spidertextures/smallspidertextures

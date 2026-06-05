@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+2968deec85f4ca21,sphere_distort_r.mat,Tiny_D,510449208,11556
+9ebc1b1eecc35cb4,sphere_distort_u.mat,Tiny_11,150820658,310
+ac23c4928b0656ca,shimmerwave_r.mat,Tiny_D,510428788,20420
+31efa82d9713ca6e,shimmerwave_u.mat,Tiny_11,150820658,310
+3b23f7ba0d59bd0c,mblur_sphere_r.mat,Tiny_D,510417740,11048
+28b3a7d760edbe5a,mblur_sphere_u.mat,Tiny_11,150820658,310
+97effc83fbc291b0,liquid_trail.mat,Tiny_D,510400244,17496
+53b89c0147f686a6,liquid_strings_center_u.mat,Tiny_D,510334164,22494
+a4b0238b785cb791,liquid_strings_r.mat,Tiny_D,510356658,20458
+bfdcf0ab05db994b,liquid_strings_u.mat,Tiny_D,510377116,23128
+b39c59fda218b493,heat_wave_distort_r.mat,Tiny_D,510323338,10826
+9485b289631bf145,heat_wave_distort_u.mat,Tiny_11,150820658,310
+127a9ab9052c8014,embers_r.mat,Tiny_D,510286304,30850
+12a9c646e9b88e8f,embers_u.mat,Tiny_D,510317154,6184

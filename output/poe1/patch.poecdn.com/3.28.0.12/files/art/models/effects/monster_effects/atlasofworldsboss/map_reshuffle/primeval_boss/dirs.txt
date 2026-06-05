@@ -1,0 +1,10 @@
+abyssal_shield
+abyssal_shield/shield
+abyssal_shield/soul
+abyssal_volatile
+abyssal_volatile/impact
+abyssal_volatile/projectile
+boulders
+stone_block_proj
+stone_geyser
+stone_tomb

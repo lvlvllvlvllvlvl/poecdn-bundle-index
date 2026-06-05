@@ -1,4 +1,0 @@
-ball
-ball/copied
-bolt
-bolt/animations

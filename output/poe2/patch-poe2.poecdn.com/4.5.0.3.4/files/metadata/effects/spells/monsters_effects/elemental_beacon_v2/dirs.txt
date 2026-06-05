@@ -1,4 +1,0 @@
-fire
-ice
-lightning
-phys

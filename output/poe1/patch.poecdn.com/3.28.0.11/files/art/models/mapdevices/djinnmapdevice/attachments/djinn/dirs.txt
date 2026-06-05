@@ -1,9 +1,0 @@
-attachments
-attachments/marakethtimedjinn
-attachments/marakethtimedjinn/sash
-attachments/marakethtimedjinn/shatter
-attachments/marakethwaterdjinn
-attachments/marakethwaterdjinn/marakethwaterdjinncape
-attachments/marakethwaterdjinn/marakethwaterdjinnhair
-attachments/marakethwaterdjinn/marakethwaterdjinnrobe
-textures

@@ -1,0 +1,8 @@
+chains
+feathers
+shawl
+shawl/dex
+shawl/int
+shawl/m
+skirt
+skirt/str

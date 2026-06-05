@@ -1,7 +1,0 @@
-charged_attack
-charged_attack/channelling
-charged_attack/charge_up
-charged_attack/release_max
-charged_attack/spirit_slash
-minibosses
-ninja_smoke

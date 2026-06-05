@@ -1,0 +1,11 @@
+animation
+animation/finisher
+attachments
+attachments/kalguuran
+attachments/kalguuran/armattach
+attachments/kalguuran/skirt
+attachments/warlorddespair
+attachments/warlorddespair/boneplates
+attachments/warlorddespair/frontrobe
+attachments/warlorddespair/helmet
+attachments/warlorddespair/robe

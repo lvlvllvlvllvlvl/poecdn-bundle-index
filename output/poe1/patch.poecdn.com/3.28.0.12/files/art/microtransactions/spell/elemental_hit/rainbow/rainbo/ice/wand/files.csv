@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+5781822ab32edc92,snow.mat,Tiny_1,46047803,1680
+244f1570e6fa8683,snow.dds,Tiny_8,5754646,516
+b25c7ee0204a520e,snow.dds.header,Tiny_8,5755162,1520
+301f65bd3739373a,icicle_bits.mat,Tiny_1,46029609,2516
+5f3e8d3cb62d8550,icicle_bits.dds,Art/particles/elemental_hit_new/ice,11108,43876
+68bfd91aba66f082,icicle_bits.dds.header,Tiny_6,50295701,840
+8d0fe5affcdf8dec,ice_spin.mat,Tiny_1,46027557,2052
+bcceb0dc4de9a0be,ice_spin.dds,Folders/art/particles/elemental_hit_new/fire,464912,22020
+bea89687b22bbbfb,ice_spin.dds.header,Tiny_6,23021730,1520
+34eebcef8850c736,ice_bits.mat,Tiny_1,46025385,2172
+4b9c437ab00a0b16,ice_bits.dds,Art/Textures/Misc/portals/IceAndFirePortal/effects_1,0,22052
+9906be756c678566,ice_bits.dds.header,Tiny_8,30072994,504
+e3b4c763b8d12f81,cold_bits.mat,Tiny_1,46022819,2566
+92835f3efa457fe8,cold_bits.dds,Art/particles/elemental_hit_new/ice,0,11108
+7d839d209d8954ae,cold_bits.dds.header,Tiny_7,33088692,840

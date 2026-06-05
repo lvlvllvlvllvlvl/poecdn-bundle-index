@@ -1,0 +1,5 @@
+animations
+animations/clap
+animations/tickle_l
+animations/tickle_r
+fx_driver

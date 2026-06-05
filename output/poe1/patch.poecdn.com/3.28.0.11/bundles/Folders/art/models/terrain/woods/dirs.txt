@@ -1,3 +1,0 @@
-doodads
-textures
-tiles

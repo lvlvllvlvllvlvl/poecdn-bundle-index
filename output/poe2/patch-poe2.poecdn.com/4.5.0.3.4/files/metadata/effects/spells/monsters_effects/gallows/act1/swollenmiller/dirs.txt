@@ -1,6 +1,0 @@
-mat
-mat/footsteps
-mat/onact
-mat/onact/heavy_stun_01
-pet
-pet/heavy_stun_01

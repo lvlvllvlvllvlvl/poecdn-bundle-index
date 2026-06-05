@@ -1,3 +1,0 @@
-act_melee
-projectile
-spears

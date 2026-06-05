@@ -1,0 +1,5 @@
+attachments
+attachments/llegtassles
+attachments/rlegtassles
+attachments/waisttassles
+textures

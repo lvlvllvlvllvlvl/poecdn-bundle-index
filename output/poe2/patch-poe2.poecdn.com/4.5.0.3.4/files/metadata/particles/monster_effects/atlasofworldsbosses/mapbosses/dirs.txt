@@ -1,9 +1,0 @@
-machinarium
-machinarium/barrage_mortars
-machinarium/beams
-machinarium/lightning_bolts
-machinarium/slams
-machinarium/slams/ice
-machinarium/slams/lightning
-machinarium/slams/rockfall
-machinarium/summon_projectile

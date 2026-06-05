@@ -1,5 +1,0 @@
-head
-l_chain
-r_chain
-robe
-skirt_rigid

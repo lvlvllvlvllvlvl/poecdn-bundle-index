@@ -1,0 +1,4 @@
+idle
+idle_pulse
+impact
+storm_call_vaal

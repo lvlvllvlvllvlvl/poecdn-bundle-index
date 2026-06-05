@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-f6c7fbc24b68314a,charge_coreglow_01_r.mat,Tiny.V5.1,127719786,66088
-cc88149429734865,charge_coreglow_01_u.mat,Tiny.V9.1,155534810,1140
-0e1482fa9506b033,charge_gatherblur_01_r.mat,Tiny.V5.1,127785874,30914
-000b1ed865af0011,charge_gatherblur_01_u.mat,Tiny.VB.1,81000367,1104
-672cb73227955d81,charge_glowoomph_01_r.mat,Tiny.VA.1,128024328,45886
-4e3b02a267e23448,charge_glowoomph_01_u.mat,Tiny.VE.1,127888496,4838
-5e92ba513bdd8fbd,charge_sphereblur_01_r.mat,Tiny.VC.1,129094343,10914
-35e66e8972f0282a,charge_sphereblur_01_u.mat,Tiny.VD.1,5313278,346

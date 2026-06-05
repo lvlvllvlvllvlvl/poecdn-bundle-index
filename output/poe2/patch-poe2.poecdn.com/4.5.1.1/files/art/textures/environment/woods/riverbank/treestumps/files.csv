@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+ab1e2cc7d05f7433,rvb_mud01c.mat,Tiny.VF,43313794,3180
+4d639d802284b0a7,rvb_mud01_normal_dxt5.dds,Streaming/Content/data/worldareas/82/c_g1_1.vworld,1029637,349700
+bb3cd1211899776b,rvb_mud01_normal_dxt5.dds.header,Tiny.VC,32350621,1520
+88a1461239501512,rvb_mud01_colour_bc1.dds,Streaming/Content/data/balance/worldareas/mapbluff.vworld,628549,174924
+d38123c0bd95807c,rvb_mud01_colour_bc1.dds.header,Tiny.VF,32058842,1520
+ce1af6d8bd1707e4,rvb_treestumps0408c.mat,Tiny.V8,42823387,1728
+1098612b8834bc4f,rvb_treestumps0408_normal_dxt5.dds,Streaming/Content/data/worldareas/8D/c_g1_1.vworld,3054595,5592580
+e367b277eceb3923,rvb_treestumps0408_normal_dxt5.dds.header,Tiny.V9,43942735,1520
+83b7216995a204dc,rvb_treestumps0408_colour_dxt1.dds,Streaming/Content/data/worldareas/93/c_g1_1.vworld,5624361,2796364
+a7e8f544654db149,rvb_treestumps0408_colour_dxt1.dds.header,Tiny.VC,43659219,1520
+fd368d423e9c30a1,rvb_treestumps0103c.mat,Tiny.V4,43600085,1728
+99006d01b09de456,rvb_treestumps0103_normal_dxt5.dds,Streaming/Content/data/worldareas/6A/c_g1_1.vworld,166723,5592580
+7a5f6e704183d5fb,rvb_treestumps0103_normal_dxt5.dds.header,Tiny.VA,43538452,1520
+345e2cf482b8e12e,rvb_treestumps0103_colour_dxt1.dds,Streaming/Content/data/worldareas/47/c_g1_1.vworld,359737,2796364
+96b246ab5663ba3b,rvb_treestumps0103_colour_dxt1.dds.header,Tiny.VA,43536932,1520

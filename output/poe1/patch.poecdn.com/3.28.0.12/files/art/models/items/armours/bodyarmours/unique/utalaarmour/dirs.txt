@@ -1,0 +1,5 @@
+attachments
+attachments/skirt
+textures
+textures/bodytextures
+textures/skinvariants

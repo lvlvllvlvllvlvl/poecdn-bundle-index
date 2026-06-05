@@ -1,4 +1,0 @@
-femalehelmet
-femalehelmet/animation
-malehelmet
-malehelmet/animation

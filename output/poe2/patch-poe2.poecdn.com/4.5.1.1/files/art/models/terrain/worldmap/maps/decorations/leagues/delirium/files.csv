@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+51b6e45d3a6f3e67,delirium_mappin_shards_01.fmt,Streaming/Content/metadata/terrain/worldmaps/maps/CD07F2665713E7D4.986A55E39873D0F1.endgamemappin_delirium_failed_01.ao,0,39030
+90fc690c9588230a,delirium_mappin_shards_01.fmt.header,Tiny.VE,33601762,364
+ea1756f409e92da4,delirium_mappin_shards_02.fmt,Streaming/Content/metadata/terrain/worldmaps/maps/CD07F2665713E7D4.986A55E39873D0F1.endgamemappin_delirium_failed_01.ao,39030,36868
+0001bbb873ea5d35,delirium_mappin_shards_02.fmt.header,Tiny.VC,34306333,399
+eff5b1369872616f,delirium_mappin_shards_03.fmt,Streaming/Content/metadata/terrain/worldmaps/maps/CD07F2665713E7D4.986A55E39873D0F1.endgamemappin_delirium_failed_01.ao,75898,39870
+b87721e361e34c03,delirium_mappin_shards_03.fmt.header,Tiny.VC,34306732,399
+49db2db2b842bc40,delirium_mappin_shards_04.fmt,Streaming/Content/metadata/terrain/worldmaps/maps/CD07F2665713E7D4.986A55E39873D0F1.endgamemappin_delirium_failed_01.ao,115768,40274
+e2a9fc2eafc28e5b,delirium_mappin_shards_04.fmt.header,Tiny.V3,33514650,399
+42e56c642b45b7d5,delirium_mappin_shards_05.fmt,Streaming/Content/metadata/terrain/worldmaps/maps/CD07F2665713E7D4.986A55E39873D0F1.endgamemappin_delirium_failed_01.ao,156042,40098
+3eb67bcba6d32407,delirium_mappin_shards_05.fmt.header,Tiny.V8,33712227,399
+83f10d70d255212b,endgamemappin_delirium_01.fmt,Streaming/Content/metadata/terrain/worldmaps/maps/CD07F2665713E7D4.986A55E39873D0F1.endgamemappin_delirium_failed_01.ao,196140,36160
+0074b60c170bb61d,endgamemappin_delirium_01.fmt.header,Tiny.VC,34306027,306
+d244238cb14f04d0,endgamemapnotablepin_delirium_01.fmt,Tiny.V2,34025026,3590
+2da395dfa3a4cb20,endgamemapnotablepin_delirium_01.fmt.header,Tiny.V4,34287169,168

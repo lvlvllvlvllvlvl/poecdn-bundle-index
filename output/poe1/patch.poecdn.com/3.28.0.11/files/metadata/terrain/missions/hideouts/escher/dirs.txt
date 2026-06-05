@@ -1,8 +1,0 @@
-ao
-fx
-fx/enigma_portal_door
-fx/enigma_portal_door/mat
-fx/enigma_portal_door/pet
-graphs
-objects
-rooms

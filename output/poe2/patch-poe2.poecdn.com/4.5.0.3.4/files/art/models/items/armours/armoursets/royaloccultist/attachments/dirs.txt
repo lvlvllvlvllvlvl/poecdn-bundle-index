@@ -1,4 +1,0 @@
-chain
-lpauldron
-robe
-rpauldron

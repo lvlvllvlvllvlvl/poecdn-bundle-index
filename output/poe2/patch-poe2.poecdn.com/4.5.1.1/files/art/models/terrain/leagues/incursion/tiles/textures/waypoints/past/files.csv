@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+546f445359417144,incu_waypoint01c.mat,Tiny.V1,27729858,1490
+bf89369a93e9ba8f,incu_waypoint01_normal.dds,Streaming/Content/data/balance/worldareas/D5/incursiontemple.vworld,8388944,5592580
+bbe9f9722f21f657,incu_waypoint01_normal.dds.header,Tiny.V1,27728338,1520
+331a9a95b7e35ec1,incu_waypoint01_colour.dds,Streaming/Content/data/balance/worldareas/incursiontemple.vworld.7,0,2796364
+1c42e2bdb8699420,incu_waypoint01_colour.dds.header,Tiny.V2,27891834,1520
+ee42d5a2ac44fd44,incu_waypoint02c.mat,Tiny.V2,27893354,1490
+0c56a4240c95f6c5,incu_waypoint02_normal.dds,Streaming/Content/data/balance/worldareas/70/incursiontemple.vworld,1437755,5592580
+a52c013b89633b6d,incu_waypoint02_normal.dds.header,Tiny.VF,27999932,1520
+fea1fcd3d1c5e33b,incu_waypoint02_colour.dds,Streaming/Content/data/balance/worldareas/BC/incursiontemple.vworld,5989490,2796364
+8fc8c98f96e98cb8,incu_waypoint02_colour.dds.header,Tiny.VE,27619300,1520
+ad7fb40b501f9763,incu_waypoint03c.mat,Tiny.VB,27980407,1490
+1c136d6fb6cd3a19,incu_waypoint03_normal.dds,Streaming/Content/data/balance/worldareas/55/incursiontemple.vworld,5996590,5592580
+0946b0f93a2b909d,incu_waypoint03_normal.dds.header,Tiny.VB,27978887,1520
+99b558648589a337,incu_waypoint03_colour.dds,Streaming/Content/data/balance/worldareas/88/incursiontemple.vworld,11455285,5592580
+68c9751cc2c2c5cc,incu_waypoint03_colour.dds.header,Tiny.VD,27777290,1520

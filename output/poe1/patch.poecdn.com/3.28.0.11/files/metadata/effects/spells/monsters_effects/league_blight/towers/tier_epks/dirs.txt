@@ -1,6 +1,0 @@
-blighttowerbuff
-blighttowerfire
-blighttowerice
-blighttowerlightning
-blighttowerminion
-blighttowerphysical

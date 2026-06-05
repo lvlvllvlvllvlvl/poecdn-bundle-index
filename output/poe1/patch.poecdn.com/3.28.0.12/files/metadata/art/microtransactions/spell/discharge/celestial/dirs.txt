@@ -1,0 +1,4 @@
+texture
+texture/fire
+texture/ice
+texture/light

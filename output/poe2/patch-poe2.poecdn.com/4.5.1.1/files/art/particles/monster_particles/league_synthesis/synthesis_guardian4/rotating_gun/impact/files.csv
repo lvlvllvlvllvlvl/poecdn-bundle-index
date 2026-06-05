@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+9275fefbcb89ebf8,neuron_top_05_8x8.mat,Tiny.V8,39990578,2364
+754183e8309fa27c,neuron_top_05_8x8_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/9C3048819D915DF5.AF92A4A0F8BADC7C.end_midline.pet,5592580,5592580
+d1fa812013f0beed,neuron_top_05_8x8_dxt5.dds.header,Tiny.V9,40998002,1520
+325c595e03d6d3eb,neuron_05_8x8.mat,Tiny.VC,40720376,2920
+763bee9b4daf7449,neuron_05_8x8_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/league_synthesis/9C3048819D915DF5.AF92A4A0F8BADC7C.end_midline.pet,0,5592580
+5e37e4da27d17dd5,neuron_05_8x8_dxt5.dds.header,Tiny.V9,40996482,1520
+ec14c36d98d30b51,flash.mat,Tiny.V3,39831207,2196
+25f0303152021072,flash_dxt1.dds,Tiny.V4,39434780,2892
+e64fa607bd3c0d80,flash_dxt1.dds.header,Tiny.V2,39287036,1520
+f9c4229099956de2,core_solid.mat,Tiny.VC,40718180,2196
+539a972404a01ada,core_solid_dxt1.dds.header,Tiny.V2,4245841,1520

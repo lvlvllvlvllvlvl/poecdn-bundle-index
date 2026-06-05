@@ -1,3 +1,0 @@
-essence
-slam
-slam_mini

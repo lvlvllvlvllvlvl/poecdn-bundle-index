@@ -1,4 +1,0 @@
-clone_fadeout
-sand_trails
-spawn_beam
-weapon_sand

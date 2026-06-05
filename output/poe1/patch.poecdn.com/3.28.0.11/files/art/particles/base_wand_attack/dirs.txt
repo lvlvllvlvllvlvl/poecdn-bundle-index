@@ -1,5 +1,0 @@
-chaos
-fire
-ice
-lightning
-phys

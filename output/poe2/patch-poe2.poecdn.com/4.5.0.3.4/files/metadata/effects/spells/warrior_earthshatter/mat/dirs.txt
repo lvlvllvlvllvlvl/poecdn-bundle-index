@@ -1,9 +1,0 @@
-fissure_end_fow_01
-fissure_end_fow_01/start_01
-shockwave_01
-spike_01
-spike_01/submerge_01
-spike_01/summon_01
-spike_fow_01
-spike_fow_01/summon_01
-summon_aoe_fow

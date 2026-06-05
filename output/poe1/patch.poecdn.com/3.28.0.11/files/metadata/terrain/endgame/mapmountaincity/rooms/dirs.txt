@@ -1,5 +1,0 @@
-1x1
-aqueduct
-cityfill
-terrace
-unique

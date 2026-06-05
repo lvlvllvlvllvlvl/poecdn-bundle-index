@@ -1,0 +1,6 @@
+charge
+charge/fire
+charge/physical
+explosion
+explosion/physical
+fire_explode2

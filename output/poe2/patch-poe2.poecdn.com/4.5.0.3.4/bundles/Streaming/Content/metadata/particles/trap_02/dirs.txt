@@ -1,4 +1,0 @@
-celestial_trigger_fx
-mechanism
-shrapnel
-subterranean

@@ -1,4 +1,0 @@
-attack_01
-death_pulse
-screech_01
-teleport

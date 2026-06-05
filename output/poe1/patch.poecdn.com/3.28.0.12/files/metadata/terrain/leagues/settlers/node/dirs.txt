@@ -1,0 +1,7 @@
+objects
+objects/nodetypes
+objects/nodetypes/bismuthobjects
+objects/nodetypes/crimsonironobjects
+objects/nodetypes/demoncopperobjects
+objects/nodetypes/petrifiedwoodobjects
+objects/nodetypes/verisiumobjects

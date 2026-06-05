@@ -1,7 +1,0 @@
-tg01_chilledgroundtrail
-tg01_icenova
-tg01_iceprojectile
-tg01_iceprojectile_impact
-tg01_tornadoaoe
-tg01_tornadobase
-tg01_tornadobase/tornado_idle_01

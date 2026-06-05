@@ -1,0 +1,9 @@
+aura
+chargeup
+chargeup_explosion
+emerge
+emerge_weapon
+guardian
+ion_cannon
+lightning_bomb
+quake_slam

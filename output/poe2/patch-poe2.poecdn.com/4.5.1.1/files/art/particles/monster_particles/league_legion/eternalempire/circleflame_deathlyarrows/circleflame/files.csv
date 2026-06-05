@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+a3e884f6dbd095b3,tile_fire_001c.mat,Tiny.V5,39696376,6312
+615bc4bd6c9b0767,tile_fire_001.dds,Streaming/Content/metadata/effects/spells/monsters_effects/B36A06BC80D721BF.2DA9FCDCCBC3B00C.rig.ao,96044,174924
+9a2bd13aace0460c,tile_fire_001.dds.header,Tiny.V9,40650585,1520
+1eaa65b14e2e3155,tile_fire_001_mask_dxt1.dds,Streaming/Content/metadata/effects/spells/monsters_effects/B36A06BC80D721BF.2DA9FCDCCBC3B00C.rig.ao,270968,174924
+ac4fe1edd5925fa2,tile_fire_001_mask_dxt1.dds.header,Tiny.V0,40297974,1520
+46f6228707ac918a,spark.mat,Tiny.VF,40027370,2326
+90622d64d164cb7a,spark_dxt5.dds.header,Tiny.VF,5106066,1520
+1094674cf831d556,frenzytrail_fireball.mat,Tiny.VB,40421150,3636
+74d6da03b6ae4961,frenzytrail_fireball_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D05975759C99E844.61D9D69A6DA38F4A.subtrail.trl,536592,11084
+adac79666583f9e3,frenzytrail_fireball_dxt1.dds.header,Tiny.VC,40434834,1520
+97c8bd925beed152,flash.mat,Tiny.V2,40134500,3160
+6313397286aa3c76,flash_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D05975759C99E844.61D9D69A6DA38F4A.subtrail.trl,492740,43852
+fd509b4ad5ae5041,flash_dxt1.dds.header,Tiny.V7,40079312,1520
+a476ad3f0674399f,flame_05.mat,Tiny.VD,40330070,3962
+f589983785648c1e,flame_05_dxt1.dds,Streaming/Content/metadata/particles/monster_effects/league_legion/D05975759C99E844.61D9D69A6DA38F4A.subtrail.trl,481656,11084
+432227006821de82,flame_05_dxt1.dds.header,Tiny.V6,40155937,1520

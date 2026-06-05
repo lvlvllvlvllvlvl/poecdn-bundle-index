@@ -1,0 +1,3 @@
+on_act
+on_act/spell_projectile_01
+on_act/teleport_01

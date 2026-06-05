@@ -1,9 +1,0 @@
-blackwidow
-blackwidow/epk
-blackwidow/graph
-blackwidow/mat
-blackwidow/pet
-witchdoctor
-witchdoctor/neon
-witchdoctor/neon/epks
-witchdoctor/neon/graphs

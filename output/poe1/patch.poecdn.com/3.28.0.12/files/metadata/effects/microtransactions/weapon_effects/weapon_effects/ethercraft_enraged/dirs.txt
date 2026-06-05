@@ -1,0 +1,7 @@
+pet
+pet/axemace
+pet/bow
+pet/dwc
+pet/staff
+pet/sword
+trl

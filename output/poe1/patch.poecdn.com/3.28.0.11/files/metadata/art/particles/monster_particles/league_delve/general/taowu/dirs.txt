@@ -1,2 +1,0 @@
-flame_geysers
-flame_geysers/fx

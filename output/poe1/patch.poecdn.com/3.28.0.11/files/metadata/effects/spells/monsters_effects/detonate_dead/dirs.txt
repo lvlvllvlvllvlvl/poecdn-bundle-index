@@ -1,8 +1,0 @@
-epk
-fx
-graph
-mat
-mat/windup
-mat/windup_chaos
-mat/windup_chaos_stronger
-mat/windup_stronger

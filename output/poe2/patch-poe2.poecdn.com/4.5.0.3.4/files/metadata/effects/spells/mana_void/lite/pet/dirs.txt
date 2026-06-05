@@ -1,6 +1,0 @@
-mainrune
-mainrune/stage01
-mainrune/stage02
-mainrune/stage03
-mainrune/stage04
-mainrune/stage05

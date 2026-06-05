@@ -1,2 +1,0 @@
-chaos_alien
-chaos_alien/texture

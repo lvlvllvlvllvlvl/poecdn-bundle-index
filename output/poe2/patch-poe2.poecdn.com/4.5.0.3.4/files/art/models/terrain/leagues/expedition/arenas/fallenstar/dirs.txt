@@ -1,7 +1,0 @@
-spidervessel
-spidervessel/textures
-textures
-textures/cliffs
-textures/fracture
-textures/ground
-tgms

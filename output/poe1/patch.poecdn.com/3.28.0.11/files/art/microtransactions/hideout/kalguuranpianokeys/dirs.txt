@@ -1,3 +1,0 @@
-attachments
-attachments/pipes
-textures

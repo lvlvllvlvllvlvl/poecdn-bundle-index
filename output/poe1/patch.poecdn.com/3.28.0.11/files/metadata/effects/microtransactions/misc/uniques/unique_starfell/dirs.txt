@@ -1,4 +1,0 @@
-fx
-mats
-mats/impact
-mats/meteor_proj

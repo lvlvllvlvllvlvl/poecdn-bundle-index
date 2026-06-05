@@ -1,6 +1,0 @@
-cells
-cliff
-deepwater
-fills
-unique
-wall

@@ -1,0 +1,6 @@
+broadleafstumptombs
+ledge
+rockpile
+stairs
+streambank
+tombfallentrees

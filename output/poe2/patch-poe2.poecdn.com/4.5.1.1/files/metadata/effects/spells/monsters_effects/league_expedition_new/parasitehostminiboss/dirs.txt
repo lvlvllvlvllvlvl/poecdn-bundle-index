@@ -1,0 +1,11 @@
+epk
+fx
+mat
+mat/attack
+mat/bodyslamimpact
+mat/coldbreathblast
+mat/coldsunderslam
+mat/death
+mat/emerge
+mat/emerge2
+mat/slam_surge

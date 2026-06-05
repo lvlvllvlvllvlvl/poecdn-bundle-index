@@ -1,0 +1,6 @@
+twohandedweapons
+twohandedweapons/bows
+twohandedweapons/bows/hyrribow
+twohandedweapons/swords
+twohandedweapons/swords/illusionist
+twohandedweapons/swords/illusionist/tex

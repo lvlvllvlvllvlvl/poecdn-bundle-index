@@ -1,3 +1,0 @@
-adjustmentgraphs
-groundsample
-grounduv

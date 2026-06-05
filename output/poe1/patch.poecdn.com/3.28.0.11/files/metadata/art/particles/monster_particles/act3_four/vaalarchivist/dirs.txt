@@ -1,2 +1,0 @@
-lightning_scatter
-lightning_scatter/tex

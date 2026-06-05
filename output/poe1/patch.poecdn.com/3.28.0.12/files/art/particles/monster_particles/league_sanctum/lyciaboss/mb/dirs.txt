@@ -1,0 +1,11 @@
+basic_proj
+basic_proj/animations
+beam_cannon
+degen_area
+degen_area/animations
+delayed_blast
+lightning_circle_waves
+overhead_slash
+teleport
+weapon_zones
+wind_tunnel

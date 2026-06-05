@@ -1,9 +1,0 @@
-area
-area/curse_runes
-area/doom
-area/doom_runes
-area/extra_runes
-area/viceous_hex
-marks
-marks/mark_runes
-orbs

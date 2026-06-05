@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+52323b606fb9806f,mp_sphere02_ff.fmt,Streaming/Content/metadata/monsters/npc/marakethmatriarchdreadnought.ot,1450616,29970
+b19f9d2491486ebf,mp_sphere02_ff.fmt.header,Tiny.V6,36240975,208
+f876f74688994433,sand_storm_arena.sm,Tiny.VC,36633241,392
+b22cac4686b10ee2,sandstormmesh.fmt,Tiny.V5,35978931,340
+64de04ef9dbaa24b,sandstormmesh.fmt.header,Tiny.V6,36241183,208
+141f58335063b421,rig_f0aa0d55.smd,Tiny.VA,36489543,275
+ddf4c73a4f532b40,rig_f0aa0d55.smd.header,Tiny.V9,36759932,368
+2cb44631342e2855,rig.amd,Tiny.V0,36592520,618
+55664d622fc7dc1e,rig.ast,Tiny.V5,35978513,418

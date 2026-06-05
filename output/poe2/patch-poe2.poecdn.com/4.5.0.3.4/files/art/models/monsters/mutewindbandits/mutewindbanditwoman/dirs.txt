@@ -1,6 +1,0 @@
-attachments
-attachments/banditspear
-attachments/headcloth
-attachments/hipcloth
-attachments/ponytail
-attachments/robe

@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+2dff6c5b204e574d,vanguardavatar_normal_dxt5.dds,Streaming/Content/art/models/items/apparitioneffects/8FC9A0425295F58B.vanguardavatar.fmt.2,0,1398276
+54ace27625b47816,vanguardavatar_normal_dxt5.dds.header,Tiny.VA.1,591369,1520
+a8bad3d89af6dd44,vanguardavatar_colourspecular_bc7.dds,Streaming/Content/art/models/items/apparitioneffects/8FC9A0425295F58B.vanguardavatar.fmt.1,0,2796388
+a01753fa054710e9,vanguardavatar_colourspecular_bc7.dds.header,Tiny.VF.1,824918,840
+43023df757f65983,vanguardavatar_colourspecular.dds,Streaming/Content/art/models/items/apparitioneffects/8FC9A0425295F58B.vanguardavatar.fmt,0,2796388
+3da53573a6d07aaa,vanguardavatar_colourspecular.dds.header,Tiny.VF.1,824918,840
+07d11cfcba6e24eb,vanguardavatarspecularc.mat,Tiny.VF.1,825758,5028
+331875b9ddc10a9b,vanguardavatarswordspecularc.mat,Tiny.VC.1,884856,4320
+510eb84970fce027,vanguardavatarsword_normal_dxt5.dds,Streaming/Content/art/models/items/apparitioneffects/8FC9A0425295F58B.vanguardavatar.fmt.2,1660772,87588
+b46f994956f882a4,vanguardavatarsword_normal_dxt5.dds.header,Tiny.VB.1,535518,504
+4e8c46bb235291ad,vanguardavatarsword_colourspecular_bc7.dds,Streaming/Content/art/models/items/apparitioneffects/8FC9A0425295F58B.vanguardavatar.fmt.2,1485824,174948
+5bafb75878a7ab76,vanguardavatarsword_colourspecular_bc7.dds.header,Tiny.V8.1,164866,840
+7a8b82ec5d2ebd53,vanguardavatarsword_colourspecular.dds,Streaming/Content/art/models/items/apparitioneffects/8FC9A0425295F58B.vanguardavatar.fmt.2,1398276,87548
+ffe57b1e36588dd7,vanguardavatarsword_colourspecular.dds.header,Tiny.VF.1,830786,840

@@ -1,2 +1,0 @@
-gloves
-helmet_attachment

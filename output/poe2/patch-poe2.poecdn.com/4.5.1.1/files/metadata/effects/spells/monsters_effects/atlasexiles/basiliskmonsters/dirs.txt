@@ -1,0 +1,9 @@
+graphs
+humanoid_melee
+humanoid_ranged
+humanoid_ranged/toxic_rain
+scorpion
+snake
+spider
+taster
+wyvern

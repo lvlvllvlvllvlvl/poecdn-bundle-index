@@ -1,0 +1,4 @@
+fire
+ice
+lightning
+mine

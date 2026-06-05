@@ -1,5 +1,0 @@
-graphs
-rooms
-rooms/border
-rooms/canyon
-rooms/unique

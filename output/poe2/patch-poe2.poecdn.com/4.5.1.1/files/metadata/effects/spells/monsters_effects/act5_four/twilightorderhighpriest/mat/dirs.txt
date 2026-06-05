@@ -1,0 +1,13 @@
+demonic_flameblast
+demonic_flameblast/bu
+demonic_flameblast/explode
+ls_beam
+ls_beam/loop
+pizza_slice_barrage
+pizza_slice_barrage/end_01
+skybeam_blast
+skybeam_blast/once_01
+skybeam_blast/once_01/buildup
+skybeam_blast/once_01/impact_aoe
+vacuum_orb_explosion_aoe
+vacuum_orb_explosion_aoe/once_01

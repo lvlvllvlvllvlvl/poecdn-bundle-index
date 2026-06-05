@@ -1,0 +1,6 @@
+citadel_altar
+eyrie
+eyrie/arena
+map_portal
+mapdeviceroom
+mapdeviceroom/apocalypse

@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+91b6ac01c1271751,smoke_wisp.mat,Tiny_6,116883624,3112
+5229aaacba9f9690,smoke_wisp.dds,Folders/art/particles/monster_particles/league_delve_9,241000,11084
+2e4eb377353c7581,smoke_wisp.dds.header,Tiny_6,117373440,1520
+11aff08a5089369a,ground_bits.mat,Tiny_6,116879530,4094
+5b1215536dcbcdcf,ground_bits.dds,Folders/art/particles/monster_particles/league_delve_9,2212820,43876
+473102009c579cff,ground_bits.dds.header,Tiny_7,26795349,840
+2603ce6efcec0a7a,fire_lookup.mat,Tiny_6,116878208,1322
+75b7158b43cd4a3e,fire_lookup.dds,Tiny_7,26727541,2212
+37741a43ad2d5bcc,fire_lookup.dds.header,Tiny_7,26729753,280
+d6193531be696e08,azurite_spark.mat,Tiny_6,116876316,1892
+607f3dd12e0f9a28,azurite_spark.dds,Tiny_6,117275920,1572
+1c1e4d67cd1b8c8d,azurite_spark.dds.header,Tiny_6,117277492,504

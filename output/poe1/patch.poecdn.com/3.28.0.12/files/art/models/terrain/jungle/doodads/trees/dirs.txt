@@ -1,0 +1,6 @@
+textures
+textures/anthill
+textures/jungledepths
+textures/rooffade
+textures/rooffade/anthill
+textures/rooffade/jungle

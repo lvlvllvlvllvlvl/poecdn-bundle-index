@@ -1,9 +1,0 @@
-beltdangle
-lock
-pauldron
-pauldron/l_pauldron
-pauldron/l_pauldron/animations
-pauldron/r_pauldron
-pauldron/r_pauldron/animations
-rings
-robes

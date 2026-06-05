@@ -1,8 +1,0 @@
-bow
-caster
-crossbow
-polearm
-spear_shield
-sword
-sword_shield
-sword_shield/spirit_possessed_01

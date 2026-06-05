@@ -1,0 +1,17 @@
+doodads
+doodads/activationfx
+doodads/activationfx/ao
+doodads/activationfx/fx
+doodads/activationfx/graphs
+doodads/activationfx/mat
+graphs
+rooms
+rooms/border
+rooms/fills
+rooms/riverbed
+tiles
+tiles/buildingwall
+tiles/feature
+tiles/river
+tiles/riverbank
+tiles/riverbuildingwall

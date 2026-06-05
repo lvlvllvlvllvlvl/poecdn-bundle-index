@@ -1,2 +1,0 @@
-charging_explosion
-explode

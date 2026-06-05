@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+f3869754a4b7bc38,ground_mask_02.mat,Tiny_6,116739022,1280
+76db612a528d2745,ground_mask_02.dds,Art/particles/monster_particles/League_Delve_56,349700,349700
+d998259e650bb70d,ground_mask_02.dds.header,Tiny_6,116737502,1520
+2ae409c595b04cdb,ground_01cns.mat,Art/particles/monster_particles/League_Delve_56,1404016,5870
+78d9decf5a2c50a3,ground_01_multic.mat,Art/particles/monster_particles/League_Delve_56,1398800,5216
+b25a1ff9cac88b68,ground_01_multi.dds,Art/particles/monster_particles/League_Delve_56,1049100,349700
+7fba70cd8ad792af,ground_01_multi.dds.header,Tiny_6,116734462,1520
+1637c67cae5a4b90,ground_01_colour.dds,Art/particles/monster_particles/League_Delve_56,699400,349700
+3be898ce0ad4512e,ground_01_colour.dds.header,Tiny_6,116732942,1520
+ec3fd59bea8402d5,ground_01ns.dds,Art/particles/monster_particles/League_Delve_56,0,349700
+82627e1695110f2f,ground_01ns.dds.header,Tiny_6,116735982,1520

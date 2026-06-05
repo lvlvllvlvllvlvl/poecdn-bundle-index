@@ -1,7 +1,0 @@
-hash,file,bundle,offset,size
-51fb042323ed37ee,sun_inner.fmt,Streaming/Content/metadata/effects/spells/fire_solar_orb/orb.ao,0,91106
-c6fdfa3e0c6d9306,sun_inner.fmt.header,Tiny.VB,35294117,220
-b78cf2798db7271d,sun_outer.fmt,Streaming/Content/metadata/effects/spells/fire_solar_orb/orb.ao,91106,91708
-0896b8d349ec6b38,sun_outer.fmt.header,Tiny.V3,34662280,221
-9ec49de1f6a58593,rig.amd,Tiny.V5,34744541,314
-d36a7c54bd068ac6,rig.ast,Tiny.V0,35303724,813

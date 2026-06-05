@@ -1,0 +1,15 @@
+betalumeriusbuckler
+betalumeriuscrestshield
+betalumeriustarge
+betalumeriustowershield
+deliriumbuckler
+goblinshamanbuckler
+goblinshamanshield
+honourguardbuckler
+honourguardshield
+hyenahunterbuckler
+lichsgazeshield
+stormebornebuckler
+stormeborneshield
+zodiacdragonshield
+zodiacdragonshield/attachments

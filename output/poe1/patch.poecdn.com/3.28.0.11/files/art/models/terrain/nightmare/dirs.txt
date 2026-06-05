@@ -1,4 +1,0 @@
-tiles
-tiles/maelstrom
-tiles/maelstrom/textures
-tiles/maelstrom/textures/edges

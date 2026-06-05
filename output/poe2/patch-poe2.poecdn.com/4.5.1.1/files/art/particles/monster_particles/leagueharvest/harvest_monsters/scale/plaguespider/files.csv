@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+386da5610d9b78b1,venom_wisps.mat,Tiny.V2,40691242,3246
+da959c06b640a8e1,claw_trail.mat,Tiny.VC,41001456,3570
+9abb21b6f024ec80,coneslam.mat,Tiny.VE,40382811,5658
+c1a6a22e734d6788,coneslam_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.AB2DB67CF0821AFE.mortar_impact.pet,1398800,349700
+b768c3628f6d8928,coneslam_dxt5.dds.header,Tiny.VE,40388469,1520
+c7225195178a2fb9,flare.mat,Tiny.V8,40244222,1744
+d4dd86f96b268b13,fung_nmlaog_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/872610C16E020B75.52A1EA9901FD2676.webbed.epk,349700,349700
+d6e7d090bd3e604c,fung_nmlaog_dxt5.dds.header,Tiny.VB,39683480,1520
+cfae8008fd6ed730,fung_diffuse.mat,Tiny.V4,40933497,3412
+3accc0933cdb6128,fung_diffuse_dxt5.dds,Streaming/Content/metadata/effects/spells/monsters_effects/872610C16E020B75.52A1EA9901FD2676.webbed.epk,0,349700
+c10bd33db26948a1,fung_diffuse_dxt5.dds.header,Tiny.V8,38967131,1520
+d9f3405c71cbe2cb,shock.mat,Tiny.VF,40671166,2662
+33048feffd7d83e8,slime.mat,Tiny.V7,40707566,6074
+88fe26bf422e48a4,splash.mat,Tiny.V9,41261468,5328
+1e5232cae1fdfcc2,splash_dxt5.dds,Streaming/Content/metadata/particles/monster_effects/leagueharvest/4C97D2FFB4A97E51.AB2DB67CF0821AFE.mortar_impact.pet,1748500,349700
+91e1c24d57723e29,splash_dxt5.dds.header,Tiny.V1,40707543,1520

@@ -1,0 +1,5 @@
+doodads
+doodads/textures
+foliage
+foliage/textures
+tgms

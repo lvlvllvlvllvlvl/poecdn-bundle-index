@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+099cc6038eba8d58,wisp_smoke_base.mat,Tiny_7,39449122,2204
+000aa6db2ed3f8c2,wisp_smoke_base.dds,Art/Models/riot_comp/barrel_rollboom/textures/fire,437256,174948
+515b01d9be456ace,wisp_smoke_base.dds.header,Tiny_7,39448282,840
+b708528ff692f79d,spark.mat,Tiny_7,39446632,1650
+0feeeab30141821d,spark.dds,Art/particles/monster_particles/pulses,1071872,5636
+be127dd7c3f198f0,spark.dds.header,Tiny_7,39445112,1520
+9af60c3b7af5a382,shockwave2.mat,Tiny_7,39442588,2524
+02d43bab4044f2ff,shockwave2.dds,Art/particles/monster_particles/elemental_beacon_2,1225096,349700
+4257d369836eb682,shockwave2.dds.header,Tiny_7,39441068,1520
+9ceb96ea01ec48b9,light_gradient.mat,Tiny_7,39439364,1704
+9330045d2cf989bc,light_gradient.dds,Art/Microtransactions/spell/storm_call_3,3167114,22020
+466d49a4ab8d47eb,light_gradient.dds.header,Tiny_7,43131092,1520
+182c081aee890120,distort.mat,Tiny_7,39437348,2016
+87b08d77014e8320,distort.dds,Art/Microtransactions/Misc/witchdance,0,87556
+28d9f89915e205d3,distort.dds.header,Tiny_7,39435828,1520

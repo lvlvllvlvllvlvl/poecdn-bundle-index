@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-fddb0799ac61f220,generate.rs,Tiny_11,142662055,9582
-9bd75092aa4b4285,random_fill_tiles.gft,Tiny_11,142675091,428
-e8b8b2303d29db74,tiles.tst,Tiny_11,142675519,26732
-6a4503efa10f0817,materials.mtd,Tiny_11,142673731,1360
-ca51059f62ba0a8c,master.tsi,Tiny_11,142672187,748
-218b536d01c4d9c9,master_wing.tsi,Tiny_11,142672935,796
-24024c2a919ab7c6,chests.cht,Tiny_11,142660267,232
-0161e2c5aa39ca16,combination.ecf,Tiny_11,142660499,1556

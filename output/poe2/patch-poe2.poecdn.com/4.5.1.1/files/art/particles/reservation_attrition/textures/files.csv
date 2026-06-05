@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+6029b77719eb801e,uniquedagger_nmlao.dds,Streaming/Content/metadata/effects/spells/reservation_attrition/tracker_unique.ao,246856,174948
+56d753c9e2e7543c,uniquedagger_nmlao.dds.header,Tiny.V1,41175088,840
+deefa45197c48f5e,uniquedagger_clr.dds,Streaming/Content/metadata/effects/spells/reservation_attrition/tracker_unique.ao,71908,174948
+f03ea32327ed7c89,uniquedagger_clr.dds.header,Tiny.V6,41311416,840
+66ff6d0120a6510a,raredagger_nmlao.dds,Streaming/Content/metadata/effects/spells/reservation_attrition/tracker_rare.ao,724768,349700
+e277294915a58b42,raredagger_nmlao.dds.header,Tiny.V4,41429254,1520
+113576a22f51e26b,raredagger_mtl.dds,Streaming/Content/metadata/effects/spells/reservation_attrition/tracker_rare.ao,375068,349700
+01009c2b780444e7,raredagger_mtl.dds.header,Tiny.VF,41159321,1520
+90f1007788d20844,raredagger_clr.dds,Streaming/Content/metadata/effects/spells/reservation_attrition/tracker_rare.ao,25368,349700
+8f72f2c91db850ee,raredagger_clr.dds.header,Tiny.V0,41338757,1520

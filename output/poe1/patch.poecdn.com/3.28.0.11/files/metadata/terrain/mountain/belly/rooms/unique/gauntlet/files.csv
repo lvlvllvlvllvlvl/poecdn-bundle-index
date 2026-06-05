@@ -1,9 +1,0 @@
-hash,file,bundle,offset,size
-6c19e13049f82427,generate.rs,Tiny_11,156417935,160
-b72d65f637d45cac,random_fill_tiles.gft,Tiny_11,156420159,1802
-f6ad58769fe82f28,tiles.tst,Tiny_11,156421961,11618
-86d3c461620fa80c,master.tsi,Tiny_11,156418095,484
-fdc458a1829dd747,materials.mtd,Tiny_11,156418579,1580
-7586a0441b435cf5,boss_1.arm,Folders/metadata/8/terrain_1,535090,30932
-02633f42a8c0bfe5,boss_2.arm,Folders/metadata/npc,1961717,41894
-fe2a961b85d7630e,boss_piety_1.arm,Folders/metadata/items_2,729497,34188

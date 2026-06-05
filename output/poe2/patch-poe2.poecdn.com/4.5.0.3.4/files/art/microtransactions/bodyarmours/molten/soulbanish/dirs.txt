@@ -1,3 +1,0 @@
-mb
-mb/soulbanish_rig
-textures

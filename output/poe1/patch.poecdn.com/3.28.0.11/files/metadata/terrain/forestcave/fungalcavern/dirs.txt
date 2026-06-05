@@ -1,5 +1,0 @@
-curves
-features
-ledge
-stairs
-walls

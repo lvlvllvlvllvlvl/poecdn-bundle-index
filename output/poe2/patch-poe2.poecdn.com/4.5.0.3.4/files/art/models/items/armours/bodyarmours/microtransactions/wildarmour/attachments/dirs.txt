@@ -1,6 +1,0 @@
-helmet
-hood
-necklace
-necklace/female
-necklace/male
-skirt

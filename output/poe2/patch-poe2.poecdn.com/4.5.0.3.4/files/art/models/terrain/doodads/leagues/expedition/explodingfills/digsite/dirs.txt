@@ -1,9 +1,0 @@
-digsite_01
-digsite_02
-digsite_03
-digsite_04
-lighthouse
-lighthouse/lighthouse01
-lighthouse/lighthouse02
-lighthouse/lighthouse03
-lighthouse/lighthouse03/lighthouse

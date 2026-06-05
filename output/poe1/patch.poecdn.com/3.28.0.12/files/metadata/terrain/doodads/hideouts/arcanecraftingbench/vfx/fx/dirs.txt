@@ -1,0 +1,9 @@
+candle_flames
+flask_bowl
+flask_bowl/fadeout
+furnace
+furnace/active_fadein
+furnace/idle
+furnace/off
+small_table
+small_table/active_fadein

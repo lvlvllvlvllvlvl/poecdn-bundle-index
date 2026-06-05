@@ -1,0 +1,9 @@
+blue
+blue/big
+blue/biggest
+blue/mid
+blue/powerup
+blue/small
+direblade
+direblade/fx
+direblade/fx/wave_02

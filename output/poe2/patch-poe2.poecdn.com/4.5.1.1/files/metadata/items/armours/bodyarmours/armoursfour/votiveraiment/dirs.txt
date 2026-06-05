@@ -1,0 +1,9 @@
+attachments
+attachments/f
+attachments/f/shoulderpad
+attachments/f/skirt
+attachments/f/waistaccessories
+attachments/m
+attachments/m/shoulderpad
+attachments/m/skirt
+attachments/m/waistaccessories

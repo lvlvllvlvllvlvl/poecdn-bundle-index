@@ -1,8 +1,0 @@
-bodyfx
-onact
-onact/attack_sword_sword
-onact/cleave_sword_sword_01
-onact/throw_axe_axe_01
-onact/vagan_vines_01
-onact/vagan_vines_long_01
-weapon_throw

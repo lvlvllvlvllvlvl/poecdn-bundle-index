@@ -1,5 +1,0 @@
-channelling
-charge_up
-charge_up/jump
-release_max
-spirit_slash

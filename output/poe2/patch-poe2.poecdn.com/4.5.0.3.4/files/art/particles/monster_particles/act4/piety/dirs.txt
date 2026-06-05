@@ -1,8 +1,0 @@
-beam
-beam/end
-piety_rage
-sheild
-sticky_ball
-sticky_ball/bolt
-sticky_ball/spine
-untransform

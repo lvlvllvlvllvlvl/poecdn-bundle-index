@@ -1,4 +1,0 @@
-shield_impact
-skull
-skull2
-textures

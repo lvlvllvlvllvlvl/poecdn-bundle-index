@@ -1,0 +1,6 @@
+animations
+attachments
+attachments/robe
+attachments/robe_2
+attachments/robe_2reduced
+attachments/robereduced

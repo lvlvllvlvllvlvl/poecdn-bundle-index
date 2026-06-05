@@ -1,0 +1,9 @@
+hash,file,bundle,offset,size
+93eb20cbbb38aac1,arcsurge_lightning_r.mat,Tiny.VD.1,34040986,39310
+929e6c7e6f945143,arcsurge_lightning_u.mat,Tiny.V8.1,34875810,24170
+38c7f4f4b7cfa70b,arcsurge_lightning_sparks_r.mat,Tiny.V1.1,32950870,15992
+0072281bc1809e98,arcsurge_lightning_scorch_r.mat,Tiny.VE.1,33488296,46842
+6fcb9b10e64575cb,blur_sphere_r.mat,Tiny.V1.1,32990514,13604
+4e0858bb79b5295a,blur_sphere_u.mat,Tiny.VD.1,5322818,346
+93ece144fa119907,impactsparks_render.mat,Tiny.V5.1,35989186,29252
+611756e856ba5ec2,impactsparks_update.mat,Tiny.V3.1,33449149,23002

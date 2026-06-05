@@ -1,3 +1,0 @@
-rusted
-rusted/attachments
-rusted/attachments/physics

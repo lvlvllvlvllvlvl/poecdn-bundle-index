@@ -1,0 +1,4 @@
+textures
+tgms
+verisiumgeode
+verisiumgeode/textures

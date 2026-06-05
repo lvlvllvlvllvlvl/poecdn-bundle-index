@@ -1,0 +1,8 @@
+anklesplash
+banneraura
+pooldrop
+sacrificepooldrop
+stabange
+stair
+suicide
+suicidepooldrop

@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+9ba4e44cd1aa815b,rig_e02af38d.smd,Tiny_2,70181924,2457
+96ac8f1617c65e10,rig_e02af38d.smd.header,Tiny_2,70184381,368
+15af216b98ea0167,rig.amd,Tiny_2,70270677,974
+230d7df0f493459f,rig.ast,Tiny_2,70180929,995
+726567f6f3827582,lightning_warpblade.sm,Tiny_2,70174977,1486
+77660a2e8e257e20,lightning_warpbladedrop.sm,Tiny_2,70177838,674
+c324970c5a3c9b52,lightning_warpbladedrop.amd,Tiny_2,70176463,226
+a67e7b33ee6894de,lightning_warpbladedrop.ast,Tiny_2,70176689,1149
+89cf66c8f2263180,lightningwarpbladedrop_8c5ef060.smd,Tiny_2,70178512,2049
+659a28ad2678c6b3,lightningwarpbladedrop_8c5ef060.smd.header,Tiny_2,70180561,368

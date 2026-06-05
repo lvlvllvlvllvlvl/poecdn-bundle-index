@@ -1,7 +1,0 @@
-attachments
-attachments/backchains
-attachments/chestorb
-attachments/leftchains
-attachments/leftdisks
-attachments/rightchains
-attachments/rightdisks

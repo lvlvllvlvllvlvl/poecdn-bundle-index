@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+30b6ec82290e0b34,oblivionportal_normal_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.80CC73403F80DE70.example_wp_phantom.ao,5592580,5592580
+42086aafca256208,oblivionportal_normal_dxt5.dds.header,Tiny.VA,3628843,1520
+b9fcd5b146cf0e2a,oblivionportal_colour_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/weapon_effects/985CE4FE6B3AE9A7.80CC73403F80DE70.example_wp_phantom.ao,0,5592580
+689d0a0933eb38b2,oblivionportal_colour_dxt5.dds.header,Tiny.VE,3668842,1520
+a21fad2426cf43cf,stones_jav3.fmt,Tiny.V4,3743229,2410
+0ae56a775279235a,stones_jav3.fmt.header,Tiny.VA,3630363,208
+43d7774db2c48a41,insideoutportalc.mat,Tiny.V2,3763956,3600
+df8005bdff01dbdb,insideoutportal_normal_dxt5.dds,Streaming/Content/metadata/effects/microtransactions/aura/80CC73403F80DE70.aura_phantom.epk,2796364,5592580
+6a46ae7d71851a8c,insideoutportal_normal_dxt5.dds.header,Tiny.V4,3741709,1520
+23f083feb2180ff5,insideoutportal_colour_dxt1.dds,Streaming/Content/metadata/effects/microtransactions/aura/80CC73403F80DE70.aura_phantom.epk,0,2796364
+be8f6619ab2ef8ff,insideoutportal_colour_dxt1.dds.header,Tiny.V0,3666177,1520
+0d6f31726d2b3af4,phantomaurarocks.sm,Tiny.V3,3524678,536
+911c4a005f74bd82,phantom_aura_rocks_44ac2642.smd,Streaming/Content/metadata/effects/microtransactions/aura/80CC73403F80DE70.aura_phantom.epk,8388944,40003
+240d87c0b127ae1e,phantom_aura_rocks_44ac2642.smd.header,Tiny.VC,3520584,3690
+0a3d588223f0a5cc,phantom_aura_rocks.amd,Tiny.V2,3767556,96
+e87f5aa4ccf31226,phantom_aura_rocks.ast,Content/metadata/effects/microtransactions/aura/darkwoodaura/darkwoodaura.epk,586016,58466

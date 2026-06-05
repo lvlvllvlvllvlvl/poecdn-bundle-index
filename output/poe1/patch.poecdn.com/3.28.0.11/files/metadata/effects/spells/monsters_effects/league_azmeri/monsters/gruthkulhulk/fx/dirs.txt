@@ -1,3 +1,0 @@
-attack_03
-buff_01
-charge_01

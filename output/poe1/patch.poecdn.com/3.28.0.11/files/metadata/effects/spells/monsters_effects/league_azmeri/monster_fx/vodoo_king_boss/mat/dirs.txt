@@ -1,2 +1,0 @@
-bugbomb
-swarm_aura

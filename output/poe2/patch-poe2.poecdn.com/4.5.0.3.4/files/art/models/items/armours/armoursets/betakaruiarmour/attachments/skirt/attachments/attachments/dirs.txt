@@ -1,2 +1,0 @@
-l_tablets
-r_tablets

@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+5415b764310963c0,arcdemoncns.mat,Tiny_8,22184799,3236
+cd031b80b7a1b913,arcdemon_glowc.mat,Tiny_8,22172167,2550
+57952d666315fe26,arcdemon_glow.dds,Art/Textures/Items/CharacterEffects/ArcDemon,0,349700
+bff3cf4bd2f7a759,arcdemon_glow.dds.header,Tiny_8,22170647,1520
+369acae7cdfd80a9,arcdemon_colour.dds,Art/Textures/Items/CharacterEffects/ArcDemon,481108,349700
+e5c208165b2beead,arcdemon_colour.dds.header,Tiny_8,22169127,1520
+c4c4a16d1c6c1113,arcdemonns.dds,Art/Textures/Items/CharacterEffects/ArcDemon,830808,349700
+5522a76b5f1f613c,arcdemonns.dds.header,Tiny_8,22188035,1520
+ef130458a694e582,arcdemonauracns.mat,Tiny_8,22180275,3004
+ef4c407504181823,arcdemonaura_glowc.mat,Tiny_8,22177757,2518
+2a1778151c5a8c9f,arcdemonaura_glow.dds,Art/Textures/Items/CharacterEffects/ArcDemon,1180508,87556
+342592761e10ac02,arcdemonaura_glow.dds.header,Tiny_8,22176237,1520
+f92fd1169d846466,arcdemonaura_colour.dds,Art/Textures/Items/CharacterEffects/ArcDemon,437256,43852
+ea93aa73c7729043,arcdemonaura_colour.dds.header,Tiny_8,22174717,1520
+3fb88c6b126abdb6,arcdemonaurans.dds,Art/Textures/Items/CharacterEffects/ArcDemon,349700,87556
+15644e7754a50083,arcdemonaurans.dds.header,Tiny_8,22183279,1520

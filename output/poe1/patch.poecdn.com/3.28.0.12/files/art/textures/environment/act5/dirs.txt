@@ -1,0 +1,25 @@
+ascent
+barricades
+burlapsacks
+cathedral
+cathedralroof
+cathedralroof/fx
+cathedralroof/reskin_overgrown
+cathedralroof/reskin_rainy
+foothills
+icebergmap
+innocence
+innocence/map sanctuary
+oriathsquare
+ossuary
+ossuary/delve
+portalcraterglow
+reliquary
+slavepen
+square
+square/overgrown
+square/reskin_blood
+square/rosettes
+square/verdanttrees
+templarcourts
+viennafountain

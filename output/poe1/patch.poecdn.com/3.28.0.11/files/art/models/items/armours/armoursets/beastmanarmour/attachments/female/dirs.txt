@@ -1,5 +1,0 @@
-bells_dex
-bells_int
-bells_strdexint
-ponytail
-skirt

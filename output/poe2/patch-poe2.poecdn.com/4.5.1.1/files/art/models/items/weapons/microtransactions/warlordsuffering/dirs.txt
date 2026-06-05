@@ -1,0 +1,4 @@
+sufferingscythe
+sufferingscythestaff
+textures
+textures/fx

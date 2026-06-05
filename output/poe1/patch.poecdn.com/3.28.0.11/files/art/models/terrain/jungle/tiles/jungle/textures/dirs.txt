@@ -1,4 +1,0 @@
-moss
-moss/jungledepths
-water
-water/jungledepths

@@ -1,5 +1,0 @@
-tether_anchor
-tether_beam
-tether_ring
-trail
-travel_beam

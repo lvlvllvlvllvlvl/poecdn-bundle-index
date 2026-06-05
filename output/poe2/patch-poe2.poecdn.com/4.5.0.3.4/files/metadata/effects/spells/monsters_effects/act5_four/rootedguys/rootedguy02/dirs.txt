@@ -1,4 +1,0 @@
-scythe
-scythe/trl
-whip
-whip/pet

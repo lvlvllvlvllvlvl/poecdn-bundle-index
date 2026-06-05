@@ -1,3 +1,0 @@
-caustic_ground
-impact
-projectile

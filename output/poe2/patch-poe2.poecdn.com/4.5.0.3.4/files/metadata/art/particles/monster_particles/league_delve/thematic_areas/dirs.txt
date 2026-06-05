@@ -1,3 +1,0 @@
-proto_city
-proto_city/soldiers
-proto_city/soldiers/summon_mannequin

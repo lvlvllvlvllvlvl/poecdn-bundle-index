@@ -1,0 +1,11 @@
+hash,file,bundle,offset,size
+34047ba03626b4ef,guardbucklerc.mat,Tiny.VA,13164760,2384
+9cb21234d213ca21,guardbuckler_normal_dxt5.dds,Streaming/Content/data/worldareas/22/g2_2.vworld,0,349700
+da464e6079457278,guardbuckler_normal_dxt5.dds.header,Tiny.VC,12922965,1520
+7440873584dde030,guardbuckler_colour_dxt5.dds,Streaming/Content/data/worldareas/0F/g2_2.vworld,0,349700
+0c56bb677c96b249,guardbuckler_colour_dxt5.dds.header,Tiny.VE,13109264,1520
+5541518fe67c3bde,guardcurveswordc.mat,Tiny.VE,13110784,2420
+db009f277f5c8bad,guardcurvesword_normal_dxt5.dds,Streaming/Content/data/worldareas/66/g2_5_1.vworld,0,1398308
+7934276e2faa45f7,guardcurvesword_normal_dxt5.dds.header,Tiny.V0,13185083,504
+5ceebb51f519e989,guardcurvesword_colour_dxt5.dds,Streaming/Content/data/worldareas/D4/g2_5_1.vworld,0,1398308
+b51e7daeef2ce18d,guardcurvesword_colour_dxt5.dds.header,Tiny.VA,13167144,504

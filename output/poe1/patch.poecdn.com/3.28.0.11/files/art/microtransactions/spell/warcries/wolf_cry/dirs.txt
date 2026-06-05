@@ -1,8 +1,0 @@
-textures
-textures/ancestral
-textures/enduring
-textures/generals
-textures/infernal
-textures/intimidating
-textures/rallying
-textures/seismic

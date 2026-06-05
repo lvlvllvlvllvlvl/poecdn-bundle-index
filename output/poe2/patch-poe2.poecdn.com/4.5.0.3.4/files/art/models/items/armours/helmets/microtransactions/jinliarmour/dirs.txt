@@ -1,6 +1,0 @@
-attachments
-attachments/femalehelmet
-attachments/malehelmet
-chinahelmets
-chinahelmets/jinlihelmetfemale
-chinahelmets/jinlihelmetmale

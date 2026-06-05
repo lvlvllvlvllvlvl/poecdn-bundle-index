@@ -1,0 +1,13 @@
+hash,file,bundle,offset,size
+fee952e20faa3de3,rig.amd,Content/metadata/monsters/kinarha/kinarhaspawner.ot,0,6372
+8a755266084ffc80,rig.ast,Content/metadata/monsters/kinarha/kinarhaspawner.ot,6372,314127
+708be67f8ccb54c4,rig_ec9ba9fe.smd,Streaming/Content/metadata/monsters/kinarha/kinarhaspawner.ot,32657,377959
+3962363a0baa76b8,rig_ec9ba9fe.smd.header,Tiny.VB,12553007,694
+b89a5f6174b77cd4,rig_ef7ab53e.japan.smd,Streaming/Folders/art/models/monsters/kinarah,0,311731
+44ec9c552a1a4761,rig_ef7ab53e.japan.smd.header,Tiny.V0,12658704,556
+f76e598d1d187d95,kinarhashakram.fmt,Streaming/Content/metadata/monsters/kelpdreg/kelpdregcrossbow.ot.2,5592580,37879
+2c6483014a6f3ebf,kinarhashakram.fmt.header,Tiny.V8,12483021,208
+e3cd391c685b9d57,kinarha_pedestal.fmt,Streaming/Content/data/balance/worldareas/F2/g2_9_1.vworld,0,25851
+16bfb169d04c473e,kinarha_pedestal.fmt.header,Tiny.VD,12444916,208
+7c6a57c24b2cea56,kinarha.japan.sm,Tiny.VD,12441838,3078
+27047e56936ab7fa,kinarha.sm,Tiny.V4,12669010,3078

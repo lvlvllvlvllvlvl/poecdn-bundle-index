@@ -1,8 +1,0 @@
-doodads
-textures
-textures/architecture
-textures/bloodgems
-textures/bossroom
-textures/ground
-textures/vaalbooks
-tgms

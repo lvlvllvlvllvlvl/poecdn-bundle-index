@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+283de53b8816c210,threadedshoesc.mat,Tiny.VF,9774566,3120
+d083437866884cbf,threadedshoes_normal_dxt5.dds,Streaming/Content/metadata/items/armours/boots/DD3FA0B6015E1BC0.B08944D4784233C0.threadedshoesdexb.ao.1,524624,349700
+78184fc71a3a32f0,threadedshoes_normal_dxt5.dds.header,Tiny.VA,9765028,1520
+0a12f2b464640a57,threadedshoes_metal_dxt1.dds,Streaming/Content/metadata/items/armours/boots/DD3FA0B6015E1BC0.B08944D4784233C0.threadedshoesdexb.ao.1,349700,174924
+60ea0696e50969cf,threadedshoes_metal_dxt1.dds.header,Tiny.V5,9516080,1520
+594fb219ed604abb,threadedshoes_colour_dxt3.dds,Streaming/Content/metadata/items/armours/boots/DD3FA0B6015E1BC0.B08944D4784233C0.threadedshoesdexb.ao.1,0,349700
+7b251dacf1cbecfc,threadedshoes_colour_dxt3.dds.header,Tiny.V9,10057332,1520
+5568ccfbbd926e8e,threadedpantsc.mat,Tiny.V9,10054212,3120
+822c6062d772b00f,threadedpants_normal_dxt5.dds,Streaming/Content/metadata/items/armours/boots/DD3FA0B6015E1BC0.B08944D4784233C0.threadedshoesdexb.ao,2515382,1398276
+f17aca6bc5ab9935,threadedpants_normal_dxt5.dds.header,Tiny.V6,9811349,1520
+f70472114b9c0528,threadedpants_metal_dxt1.dds,Streaming/Content/metadata/items/armours/boots/DD3FA0B6015E1BC0.B08944D4784233C0.threadedshoesdexb.ao,1816170,699212
+9aa65aaaa8418a95,threadedpants_metal_dxt1.dds.header,Tiny.V9,10052692,1520
+8eb78e079e8d9c94,threadedpants_colour_dxt3.dds,Streaming/Content/metadata/items/armours/boots/DD3FA0B6015E1BC0.B08944D4784233C0.threadedshoesdexb.ao,417894,1398276
+2eeb9cfb66d6dda6,threadedpants_colour_dxt3.dds.header,Tiny.VF,9773046,1520

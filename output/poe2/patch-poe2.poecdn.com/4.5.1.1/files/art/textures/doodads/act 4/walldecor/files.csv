@@ -1,0 +1,12 @@
+hash,file,bundle,offset,size
+67b5a3592dbdc0ec,dresdenstatue_normal_dxt5.dds,Streaming/Content/art/models/terrain/cosmic/chimerapillar01.fmt,349700,349700
+ea99457cce7420e9,dresdenstatue_normal_dxt5.dds.header,Tiny.VA,41989590,1520
+84969c3918ae28cf,dresdenstatue_colour_dxt5.dds,Streaming/Content/art/models/terrain/cosmic/chimerapillar01.fmt,0,349700
+02e1a83c29966fa9,dresdenstatue_colour_dxt5.dds.header,Tiny.VE,41445692,1520
+24dd5053f1531fad,dresdenstatuecns.mat,Tiny.V5,41366176,1820
+fef42840bcebc395,dresdenstatuec.mat,Tiny.V5,41366176,1820
+1998acef75e1eb02,arcdetriocn.mat,Tiny.V4,42063641,1652
+3198bbdc61cb03cb,arcdetrio_normal_masked.dds,Streaming/Folders/art/textures/doodads/act 4/walldecor,699212,1398276
+488c2ce6c305ad27,arcdetrio_normal_masked.dds.header,Tiny.V6,41937681,1520
+9e8516dae9538127,arcdetrio_colour.dds,Streaming/Folders/art/textures/doodads/act 4/walldecor,0,699212
+30b6372ee88aba34,arcdetrio_colour.dds.header,Tiny.V4,42062121,1520

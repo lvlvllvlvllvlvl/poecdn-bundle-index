@@ -1,4 +1,0 @@
-attachments
-attachments/kcghair
-attachments/kcgskirt
-attachments/kcgsleeves

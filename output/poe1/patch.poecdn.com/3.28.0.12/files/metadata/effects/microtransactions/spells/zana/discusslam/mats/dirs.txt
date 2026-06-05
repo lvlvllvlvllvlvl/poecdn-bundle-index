@@ -1,0 +1,5 @@
+discus_beam
+holy_explosion
+holy_implosion
+holy_orb
+onact

@@ -1,4 +1,0 @@
-mainpath
-overlays
-siderooms
-unique

@@ -1,2 +1,0 @@
-crit_window
-projectile_01

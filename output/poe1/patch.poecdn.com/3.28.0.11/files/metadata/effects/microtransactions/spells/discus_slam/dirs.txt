@@ -1,9 +1,0 @@
-holy_skills_abyssal
-holy_skills_abyssal/epk
-holy_skills_abyssal/fx
-holy_skills_abyssal/graphs
-holy_skills_abyssal/mat
-holy_skills_abyssal/mat/holy_beam
-holy_skills_abyssal/mat/holy_explosion
-holy_skills_abyssal/mat/holy_implosion
-holy_skills_abyssal/mat/holy_orb

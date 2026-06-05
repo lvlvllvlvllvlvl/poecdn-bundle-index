@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+7d7f3a22c5f3c162,core_glow_r.mat,Tiny_8,108569426,10704
+24a60ef20af5925d,flare_r.mat,Tiny_8,108627868,20654
+cefd2ec687c5dc41,ground_decal_r.mat,Tiny_8,108648522,31582
+534ed3197bdb2a46,shockwave_r1.mat,Tiny_8,108847796,32302
+3b72d10dd797d391,sparks_r.mat,Tiny_8,108880098,26834
+2a5fb8f361ad610e,sparks_u.mat,Tiny_8,108906932,9874
+1d4be37e228d28f4,lightning_sphere_r.mat,Tiny_8,108801656,46140
+031340d532a6d323,lightning_curve_r.mat,Tiny_8,108727750,22184
+63dc8cba124d3d30,lightning_curve_u.mat,Tiny_8,108749934,51722
+370a0ed9836a1033,lightning_ambient_r.mat,Tiny_8,108680104,45046
+6fca621de8b0402e,lightning_ambient_u.mat,Tiny_8,108725150,2600
+963bcc29890ee4ca,dropbolt_r.mat,Tiny_8,108580130,39862
+bdc8650986ae1faf,dropbolt_ring_u.mat,Tiny_8,108619992,7876

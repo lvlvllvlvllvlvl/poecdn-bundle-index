@@ -1,0 +1,15 @@
+valhalla
+valhalla/models
+valhalla/models/aura
+valhalla/models/lightning_ipct
+valhalla/models/melee_ipct
+valhalla/models/weapon
+valhalla/textures
+valhalla/textures/aura
+valhalla/textures/aura/fx
+valhalla/textures/lightning_ipct
+valhalla/textures/lightning_ipct/fx
+valhalla/textures/melee_ipct
+valhalla/textures/melee_ipct/fx
+valhalla/textures/weapon
+valhalla/textures/weapon/fx

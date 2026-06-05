@@ -1,0 +1,10 @@
+automaton
+celestial
+spider_spark
+spider_spark/explode
+spider_spark/spark_effect
+spider_spark/spider
+spider_spark_02
+void
+void/mb
+void/texture

@@ -1,0 +1,10 @@
+graphs
+objects
+rooms
+rooms/border
+rooms/cliffedge
+rooms/fills
+rooms/inland
+rooms/oceancliff
+rooms/outercliff
+rooms/unique

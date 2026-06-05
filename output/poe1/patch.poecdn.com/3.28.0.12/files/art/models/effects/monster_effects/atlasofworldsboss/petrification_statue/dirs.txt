@@ -1,0 +1,4 @@
+on_act
+on_act/death_01
+on_act/emerge_01
+on_act/stonegaze

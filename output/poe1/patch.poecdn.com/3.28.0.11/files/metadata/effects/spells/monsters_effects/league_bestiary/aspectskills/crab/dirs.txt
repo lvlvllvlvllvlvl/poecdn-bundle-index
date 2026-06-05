@@ -1,3 +1,0 @@
-activate
-epks
-epks/charges

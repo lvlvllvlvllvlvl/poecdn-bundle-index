@@ -1,9 +1,0 @@
-blue
-green
-orange
-pink
-purple
-red
-teal
-white
-yellow

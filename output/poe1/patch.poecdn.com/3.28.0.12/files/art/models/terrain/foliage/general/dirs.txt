@@ -1,0 +1,6 @@
+herbs
+herbs/textures
+shrubs
+shrubs/textures
+trees
+trees/textures

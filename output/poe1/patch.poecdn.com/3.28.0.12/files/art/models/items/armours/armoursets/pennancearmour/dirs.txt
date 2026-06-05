@@ -1,0 +1,13 @@
+attachments
+attachments/beltdangle
+attachments/lock
+attachments/pauldron
+attachments/pauldron/l_pauldron
+attachments/pauldron/l_pauldron/animations
+attachments/pauldron/r_pauldron
+attachments/pauldron/r_pauldron/animations
+attachments/rings
+attachments/robes
+fx
+fx/texture
+textures

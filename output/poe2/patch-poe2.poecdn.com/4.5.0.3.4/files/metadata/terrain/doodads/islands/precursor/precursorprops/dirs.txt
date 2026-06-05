@@ -1,4 +1,0 @@
-precursorclusters
-precursorlargeprops
-precursorsmallprops
-precursorstatues

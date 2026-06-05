@@ -1,7 +1,0 @@
-decal
-graphs
-pet
-pet/monster_hit
-pet/surge
-pet/vortex
-pet/weapon_rage

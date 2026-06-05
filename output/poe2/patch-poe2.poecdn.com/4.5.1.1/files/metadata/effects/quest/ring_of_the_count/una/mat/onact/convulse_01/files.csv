@@ -1,0 +1,16 @@
+hash,file,bundle,offset,size
+6ebe2e77be134730,zoom_distort_r.mat,Tiny.V9.1,75589523,7214
+a5ecef14b84d498e,zoom_distort_u.mat,Tiny.VE.1,12563624,310
+d5da8f6122b437cb,flare_wisp_r.mat,Tiny.V3.1,67625957,36126
+3e595e8ebdb2831a,flare_wisp_u.mat,Tiny.VD.1,79243286,3372
+faf7bca7a99deeca,flashimpact01_r.mat,Tiny.V6.1,67515443,37454
+36f476b420c827c7,flashimpact_u.mat,Tiny.VD.1,79246658,2172
+460c86b338e3c369,bluroomph_r.mat,Tiny.VE.1,68463244,9812
+d4659627d4b69810,bluroomph_u.mat,Tiny.VE.1,12563624,310
+95e4081c1682f0b6,sphere_shockwave_r.mat,Tiny.VC.1,68963509,38526
+4ac9ec69ec201358,sphere_shockwave_u.mat,Tiny.VE.1,12563624,310
+d9e08e16a58abc0b,surgebits_01_r.mat,Tiny.VA.1,67063467,50264
+b2da82b94a101725,surgebits_01_u.mat,Tiny.V8.1,68866282,2202
+dc0a73d25f895f07,r_hand_glow.mat,Tiny.V6.1,67552897,8472
+8fd02c6b14fa22ae,ring_core_glow_r.mat,Tiny.VD.1,66997110,11322
+e7a67c3334264fe8,ring_core_glow_u.mat,Tiny.VE.1,12563624,310

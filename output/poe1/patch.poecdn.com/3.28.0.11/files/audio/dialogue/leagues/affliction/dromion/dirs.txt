@@ -1,3 +1,0 @@
-dromion
-dromion_greeting
-dromion_wild

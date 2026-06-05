@@ -1,7 +1,0 @@
-sentinelbeam
-sentinelcast
-sentinelcomponents
-sentinelidle
-sentinelstartup
-sentinelstartup_core
-sentinelteleport

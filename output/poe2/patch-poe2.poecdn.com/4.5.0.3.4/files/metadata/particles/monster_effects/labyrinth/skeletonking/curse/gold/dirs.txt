@@ -1,3 +1,0 @@
-reduce_resistances
-temporal_chains
-vulnerability

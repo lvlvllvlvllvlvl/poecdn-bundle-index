@@ -1,0 +1,14 @@
+hash,file,bundle,offset,size
+05006a6dd2ac2409,melee_swipe_edge.mat,Tiny.VE.1,84354212,19458
+fb331b69eab9208c,melee_swipe_mblur.mat,Tiny.VD.1,97192274,15108
+8ed6eefe24d73253,melee_swipe_smudge.mat,Tiny.V7.1,103166136,20236
+daddca248e23a757,degen_debris_01_r.mat,Tiny.V3.1,71269223,13754
+cbfffac8a1be16ec,degen_debris_01_u3.mat,Tiny.VD.1,105002132,28242
+b0af749e39049d79,explode_splash_01_r.mat,Tiny.VE.1,105670702,29374
+baff7bd99fd7c272,explode_splash_01_u.mat,Tiny.VE.1,105700076,29550
+02f88d8c1d66e9a3,impactsmokecloud_r.mat,Tiny.V7.1,101252248,21884
+72168ac5bd4936eb,impactsmokecloudcore_u.mat,Tiny.V2.1,107930376,20994
+eee65616cca92f82,impactsmoke6pt_r.mat,Tiny.V8.1,105547708,36938
+cba7d53b56b97c4a,impactsmoke6pt_u.mat,Tiny.VE.1,105729626,1480
+66ca40221b8bfe49,blur_shockwave_sphere_r.mat,Tiny.V7.1,103154922,11214
+c964bba3beee9ebe,blur_shockwave_sphere_u.mat,Tiny.V4.1,103419136,2172

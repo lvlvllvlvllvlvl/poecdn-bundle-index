@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+2a6b98257460076a,i.mat,Tiny_6,71104447,2238
+62a03e8b8c41f8ee,i_dxt3.dds,Tiny_6,111659080,2980
+8aedbefe31f5f988,i_dxt3.dds.header,Tiny_6,111662060,344
+efe41467ad66198f,glow.mat,Tiny_6,71102213,2234
+1a3dceef1f3d0211,glow_dxt1.dds,Folders/art/particles/monster_particles/league_blight_4,2778468,174924
+7105f14fcb29ad98,glow_dxt1.dds.header,Tiny_7,6087198,1520
+e9649d1374c19ee9,blink_spiral.mat,Tiny_6,71100921,1292
+fb656f0215e31982,blink_spiral_dxt5.dds,Art/particles/monster_particles/aura_2013_2,2536508,87556
+b406f9660fb37111,blink_spiral_dxt5.dds.header,Tiny_7,25015555,1520

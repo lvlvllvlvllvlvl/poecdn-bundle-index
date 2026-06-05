@@ -1,0 +1,5 @@
+arrowdown
+arrowdown_impact
+circleflame
+deathlyarrows
+on_act

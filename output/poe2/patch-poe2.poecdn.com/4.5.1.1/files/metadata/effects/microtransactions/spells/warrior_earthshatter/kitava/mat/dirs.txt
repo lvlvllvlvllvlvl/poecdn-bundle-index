@@ -1,0 +1,10 @@
+explosion
+fissure_01
+shockwave
+slam_impact
+spike_01
+spike_01/decals
+spike_01/idle
+spike_01/shatter
+spike_01/submerge_01
+spike_01/summon_01

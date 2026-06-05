@@ -1,6 +1,0 @@
-aoe
-channelling
-charge_end
-run_avatar_fadeout
-shadow
-shadow_weapon

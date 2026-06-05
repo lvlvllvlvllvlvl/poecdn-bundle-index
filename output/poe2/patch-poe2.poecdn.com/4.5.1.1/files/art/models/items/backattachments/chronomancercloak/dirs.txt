@@ -1,0 +1,6 @@
+chronomancercloakdex
+chronomancercloakdexint
+chronomancercloakint
+chronomancercloakstr
+chronomancercloakstrdex
+chronomancercloakstrint

@@ -1,4 +1,0 @@
-overlays
-support
-support/supportplus
-vaalgems

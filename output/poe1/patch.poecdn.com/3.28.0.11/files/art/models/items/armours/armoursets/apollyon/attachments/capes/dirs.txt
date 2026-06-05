@@ -1,7 +1,0 @@
-dex_cape
-dexint_cape
-int_cape
-str_cape
-strdex_cape
-strdexint_cape
-strint_cape

@@ -1,0 +1,3 @@
+blunt
+pierce
+slash

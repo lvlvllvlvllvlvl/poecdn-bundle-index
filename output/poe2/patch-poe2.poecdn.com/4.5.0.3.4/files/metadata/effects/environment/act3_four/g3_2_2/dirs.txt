@@ -1,6 +1,0 @@
-fx
-mat
-mat/dust
-pressure_plate
-pressure_plate/fx
-pressure_plate/mat

@@ -1,7 +1,0 @@
-attachments
-attachments/lock
-attachments/rings
-attachments/skirt
-fx
-fx/texture
-textures

@@ -1,0 +1,6 @@
+bladefall
+bladefall/acid
+bladefall/cold
+flamethrower
+flamethrower/acid
+flamethrower/cold

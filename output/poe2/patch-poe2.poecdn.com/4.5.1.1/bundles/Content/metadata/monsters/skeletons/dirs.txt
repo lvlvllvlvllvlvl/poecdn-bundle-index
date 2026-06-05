@@ -1,0 +1,8 @@
+playersummoned
+playersummoned/archer
+playersummoned/arsonist
+playersummoned/brute
+playersummoned/cleric
+playersummoned/reaver
+playersummoned/stormmage
+playersummoned/warrior

@@ -1,0 +1,10 @@
+hash,file,bundle,offset,size
+3aefc661e0700842,hoodedcloakc.mat,Tiny_8,16057497,3546
+830fb90ac01ad674,hoodedcloak_specular_dxt5.dds,Art/Textures/Items/armour/Capes/HoodedCloak_1,1049984,174948
+324d1f0649ca1929,hoodedcloak_specular_dxt5.dds.header,Tiny_8,16056657,840
+1a2accda274f358a,hoodedcloak_normals_dxt5.dds,Art/Textures/Items/armour/Capes/HoodedCloak_1,875036,174948
+c4adcdbe75cec21a,hoodedcloak_normals_dxt5.dds.header,Tiny_8,16055817,840
+3a65bd838de66043,hoodedcloak_colour_dxt5.dds,Art/Textures/Items/armour/Capes/HoodedCloak_1,1224932,174948
+ff447dd8c5772d2f,hoodedcloak_colour_dxt5.dds.header,Tiny_8,15992639,840
+e9ac0631bb7a29c4,hoodedcloak_colour.dds,Art/Textures/Items/armour/Capes/HoodedCloak_1,700088,174948
+d29c5a3d7a89c568,hoodedcloak_colour.dds.header,Tiny_8,15991799,840

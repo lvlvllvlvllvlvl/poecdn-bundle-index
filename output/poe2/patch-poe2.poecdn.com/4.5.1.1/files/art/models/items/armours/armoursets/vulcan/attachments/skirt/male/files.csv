@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+3a62c54e9fda9dc3,vulcanarmourskirtdexint.sm,Tiny.V4,8919227,724
+0ff9c6d2fd64c588,vulcanarmourskirtstr.sm,Tiny.V5,8540717,770
+a346c1f47d5893d5,vulcanarmourskirtstr_armour_95b78dd9.smd,Streaming/Content/metadata/items/armours/bodyarmours/BDF6E1A92880A486.vulcanbodystr.ao,112747,112827
+501b9678e0549ffb,vulcanarmourskirtstr_armour_95b78dd9.smd.header,Content/metadata/items/armours/bodyarmours/cultofapocalypseset/cultofapocalypsesetbodydex.ao,784871,9884
+e262c31a76fbafd8,vulcanarmourskirtstrdex.sm,Tiny.V9,9118270,774
+27fff8cb6cf7b211,vulcanarmourskirtstrdex_armour_88ef054d.smd,Streaming/Content/metadata/items/armours/bodyarmours/DD3FA0B6015E1BC0.D975CBFB7AFBB8AC.quatlsmoltdex.ao,328612,112827
+9e280b6c87a33745,vulcanarmourskirtstrdex_armour_88ef054d.smd.header,Content/metadata/items/armours/bodyarmours/cultofapocalypseset/cultofapocalypsesetbodydex.ao,794755,9884
+47bca02de95b7ec2,vulcanarmourskirtstrint.sm,Tiny.VF,8739592,778
+60ade9ed0e66caee,vulcanarmourskirtstrint_armour_d262aa71.smd,Streaming/Content/metadata/items/armours/bodyarmours/BDF6E1A92880A486.vulcanbodystrint.ao,0,112827
+20ffdf07fd75f534,vulcanarmourskirtstrint_armour_d262aa71.smd.header,Content/metadata/items/armours/bodyarmours/cultofapocalypseset/cultofapocalypsesetbodydex.ao,756557,9884
+83737b3c4d402cba,rig_171ba776.smd,Streaming/Content/metadata/items/armours/bodyarmours/BDF6E1A92880A486.vulcanbodystr.ao,0,112747
+8d0e5dafcbdedd4b,rig_171ba776.smd.header,Content/metadata/items/armours/bodyarmours/cultofapocalypseset/cultofapocalypsesetbodydex.ao,775027,9844
+0f59040d7a5a1dba,rig.amd,Tiny.V7,7875106,294
+bd4b85c45ccb9e20,rig.ast,Content/metadata/items/armours/bodyarmours/cultofapocalypseset/cultofapocalypsesetbodydex.ao,766441,8586

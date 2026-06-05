@@ -1,0 +1,8 @@
+f
+f/necklace
+f/shawl
+f/skirt
+m
+m/shawl
+m/skirt
+m/skirtstr

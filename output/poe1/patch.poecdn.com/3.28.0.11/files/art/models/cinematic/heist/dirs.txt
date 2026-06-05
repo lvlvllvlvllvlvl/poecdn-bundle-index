@@ -1,7 +1,0 @@
-boat
-boat/attachments
-boat/attachments/buoys
-dogtrader
-tgms
-trickster
-trickster/animations

@@ -1,3 +1,0 @@
-gold_mat
-gold_pet
-pet

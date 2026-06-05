@@ -1,9 +1,0 @@
-ao
-pet
-pet/blue
-pet/green
-pet/red
-trl
-trl/blue
-trl/green
-trl/red

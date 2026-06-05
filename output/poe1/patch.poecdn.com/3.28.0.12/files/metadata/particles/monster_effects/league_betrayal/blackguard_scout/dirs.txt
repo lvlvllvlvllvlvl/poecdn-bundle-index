@@ -1,0 +1,7 @@
+banner
+dash_slash
+dash_slash/dash
+dash_slash/epk
+dash_slash/slam
+decelerating_projectile
+sunder_explode

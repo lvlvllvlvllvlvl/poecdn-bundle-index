@@ -1,0 +1,8 @@
+ao
+fx
+mats
+mats/impact_aoe
+mats/onact_impact
+mats/onact_triggered
+mats/trap_arm
+mats/trap_idle

@@ -1,5 +1,0 @@
-effects
-effects/attachment
-mediumetchedbeetle
-smalletchedbeetle
-textures

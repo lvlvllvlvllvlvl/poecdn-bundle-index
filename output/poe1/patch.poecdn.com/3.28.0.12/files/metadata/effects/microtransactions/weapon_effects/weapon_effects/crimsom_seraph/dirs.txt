@@ -1,0 +1,8 @@
+epk
+pet
+pet/axe_mace
+pet/axe_mace_2h
+pet/bow
+pet/dwc
+pet/staff
+pet/sword

@@ -1,3 +1,0 @@
-discharge_explosion
-modbeam
-volatile_fireflies

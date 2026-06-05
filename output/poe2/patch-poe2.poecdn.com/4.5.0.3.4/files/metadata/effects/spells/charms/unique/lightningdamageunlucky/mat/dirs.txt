@@ -1,3 +1,0 @@
-charge_active_loop
-charge_consumed_init
-lightning_discharge

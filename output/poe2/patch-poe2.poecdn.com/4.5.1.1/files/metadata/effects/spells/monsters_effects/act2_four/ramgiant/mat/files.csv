@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+a07e8838dc79a817,heatwave_r.mat,Tiny.V3.1,86836835,36958
+48ed05ea4fb0a3bc,grd_decal_r.mat,Tiny.V0.1,87053940,33058
+88b15a0545cfb35b,smoke_r1.mat,Tiny.V4.1,86918596,25414
+fd6ed3d1489c4d2d,smoke_u1.mat,Tiny.V7.1,85215870,11822
+78c51bcad6b48f68,point_offset_u.mat,Tiny.V3.1,79211547,1288
+6f94c813f3bb01cf,point_u.mat,Tiny.VE.1,12563624,310
+6b95d326fd859c87,point_distortion_r.mat,Tiny.VE.1,87698210,13242
+3120653c48c52b55,dust_grd_r.mat,Tiny.V0.1,87033568,20372
+80fb45fe3dd074ff,dirt_r1.mat,Tiny.VC.1,88465955,29290
+a6647881c930bf32,dirt_u2.mat,Tiny.V9.1,82291707,13654
+0481420a514f8c90,dirt_flares_r1.mat,Tiny.V3.1,86777225,59610
+7c0a4b50b421ade5,dirt_flares_r2.mat,Tiny.VB.1,86505161,62806
+536fe7f9d32efb7f,debris_r1.mat,Tiny.V0.1,84384696,20790
+b4216334dc6c1dca,debris_u1.mat,Tiny.VF.1,84309210,18216
+a27e8e55aa78fc2c,debris_u2.mat,Tiny.V5.1,87359348,20454
+eaf620a90cb309d7,debris_u3.mat,Tiny.VB.1,86485115,20046

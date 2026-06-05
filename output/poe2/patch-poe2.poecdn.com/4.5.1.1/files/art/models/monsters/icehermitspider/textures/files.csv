@@ -1,0 +1,17 @@
+hash,file,bundle,offset,size
+d4e746b2d855ec8f,icehermitspiderc.mat,Tiny.VB,12488650,2130
+074fa0696dad341b,icehermitspider_normal_dxt5.dds,Streaming/Content/data/balance/worldareas/6E/null.vworld,0,5592580
+74ee32f1faf36daa,icehermitspider_normal_dxt5.dds.header,Tiny.VE,12443190,1520
+80c3fe16459a92f8,icehermitspider_colour_dxt1.dds,Streaming/Content/data/balance/worldareas/1E/null.vworld,0,2796364
+f5b966b0ddd8f2ca,icehermitspider_colour_dxt1.dds.header,Tiny.VD,12401027,1520
+e005331609129fde,expeditionicehermitspider.mat,Tiny.V3,12438374,10992
+d5ab2a2a9e25bdd5,expeditionicehermitspider_glow.dds,Streaming/Content/data/balance/worldareas/AD/null.vworld.1,0,5592580
+0865ed53566e0680,expeditionicehermitspider_glow.dds.header,Tiny.VB,12487130,1520
+5ee12a2aa4ffb0de,expeditionicehermitspider_mask.dds,Streaming/Content/data/balance/worldareas/8A/null.vworld,47999,5592580
+7e40da33dd0a05d8,expeditionicehermitspider_mask.dds.header,Tiny.V0,12618305,1520
+a9e6245d79413219,expeditionicehermitspider_sss.dds,Streaming/Content/data/balance/worldareas/25/null.vworld.1,8947,5592580
+a4327a930709a003,expeditionicehermitspider_sss.dds.header,Tiny.VF,12483882,1520
+fa21df86bfa7c630,expeditionicehermitspider_normal.dds,Streaming/Content/data/balance/worldareas/6C/null.vworld.1,0,5592580
+7cb398673cdfa904,expeditionicehermitspider_normal.dds.header,Tiny.V9,12765677,1520
+3fe0a10acf92b381,expeditionicehermitspider_colour.dds,Streaming/Content/data/balance/worldareas/1B/null.vworld,699236,5592580
+631c4cd06d25d290,expeditionicehermitspider_colour.dds.header,Tiny.V7,12463969,1520

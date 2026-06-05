@@ -1,0 +1,9 @@
+coat
+coat/dex
+coat/dexint
+coat/int
+coat/str
+coat/strdex
+coat/strdex/attachments
+coat/strdexint
+coat/strint

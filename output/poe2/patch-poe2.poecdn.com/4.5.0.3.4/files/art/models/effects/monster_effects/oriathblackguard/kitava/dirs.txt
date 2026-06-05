@@ -1,4 +1,0 @@
-shockwave1_pulse
-shockwave2
-shockwave3_march
-shockwave4_xplod

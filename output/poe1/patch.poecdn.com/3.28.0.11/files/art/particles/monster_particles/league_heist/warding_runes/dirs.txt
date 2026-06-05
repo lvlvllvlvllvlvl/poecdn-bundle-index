@@ -1,8 +1,0 @@
-green
-green/character_effects
-green/character_effects/green
-green/character_effects/red
-green/mb
-robot
-robot/mb
-robot/textures

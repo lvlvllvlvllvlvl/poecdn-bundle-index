@@ -1,3 +1,0 @@
-noblood
-spectral
-spectral/graph

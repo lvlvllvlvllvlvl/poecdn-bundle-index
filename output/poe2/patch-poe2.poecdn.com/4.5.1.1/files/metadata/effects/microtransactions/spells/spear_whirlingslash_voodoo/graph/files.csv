@@ -1,0 +1,8 @@
+hash,file,bundle,offset,size
+a84a4d523635b617,oa_vinegrowth_01_ice_r.mat,Tiny.VA.1,49624071,50884
+a15abe9fb124fa22,oa_vinegrowth_01_fire_r.mat,Tiny.VE.1,49608560,66698
+bbd2ed473415db43,custom_vines_shape.fxgraph,Content/metadata/effects/microtransactions/spells/warbanner/FC60EA39982D2D13.start_midline.pet,3171264,80190
+f41f8da367814f4e,custom_scale_overlife_surgetime_r.fxgraph,Content/metadata/effects/microtransactions/spells/warbanner/FC60EA39982D2D13.start_midline.pet,2635296,102912
+75cb11ec30b3f5df,custom_emitscale_circle.fxgraph,Content/metadata/effects/microtransactions/spells/warbanner/FC60EA39982D2D13.start_midline.pet,3153070,18194
+a6d3d7060781a50b,custom_emitdirectiontarget_circle.fxgraph,Content/metadata/effects/microtransactions/spells/warbanner/FC60EA39982D2D13.start_midline.pet,3106316,46754
+31788149865bac6d,custom_emitdirectiontarget_local.fxgraph,Content/metadata/effects/microtransactions/spells/storm_cloud/F32791C8A30A656D.aoe_mid.pet,3449475,80694

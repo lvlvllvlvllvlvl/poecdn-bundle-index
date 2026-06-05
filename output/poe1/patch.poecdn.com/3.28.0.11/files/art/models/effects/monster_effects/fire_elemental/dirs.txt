@@ -1,9 +1,0 @@
-boulder
-emerge
-fire_nova
-firespray
-meteor
-meteor/explosion
-meteor/marker
-mortar
-runicgolem

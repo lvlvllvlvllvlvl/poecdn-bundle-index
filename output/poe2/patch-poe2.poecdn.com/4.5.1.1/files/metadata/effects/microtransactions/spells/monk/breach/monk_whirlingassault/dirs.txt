@@ -1,0 +1,8 @@
+epk
+fx
+mat
+mat/aura
+mat/flames
+mat/melee_trail
+mat/trail
+trl

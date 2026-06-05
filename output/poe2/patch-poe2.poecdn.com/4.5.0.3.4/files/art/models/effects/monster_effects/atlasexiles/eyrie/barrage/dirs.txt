@@ -1,2 +1,0 @@
-ice_projectils_ns
-ice_projectils_s

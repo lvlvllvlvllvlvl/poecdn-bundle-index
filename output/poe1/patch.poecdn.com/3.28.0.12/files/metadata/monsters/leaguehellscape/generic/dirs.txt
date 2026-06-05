@@ -1,0 +1,5 @@
+bloodelementals
+lavaelementals
+mossmonster
+skeletons
+zombies

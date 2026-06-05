@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+9f516ee01e835039,lightning_trail_add.mat,Tiny.VF,41382751,2006
+0a958cd109b1810b,lightning_trail_add.dds,Streaming/Content/metadata/particles/static_strike_02/beam_01/end.pet,11084,349724
+fd330b3b7ac3be52,lightning_trail_add.dds.header,Tiny.V1,41408363,344
+ed4cd418b7f6400b,lightning_spark.mat,Tiny.V1,41406953,1410
+44b59df3d03c4f6c,lightning_spark.dds.header,Tiny.V3,40767028,1520
+5531648849728c43,light_ring.mat,Tiny.VB,41681648,1700
+ef4b15e68620061a,light_ring.dds,Streaming/Content/metadata/particles/static_strike_02/beam_02/lightning_trail.trl,349724,11084
+7559cce327a68a4b,light_ring.dds.header,Tiny.VD,41679022,1520
+175cc800ef190397,light_gradient.mat,Tiny.VF,41381285,1466
+e274ab1faf7befa0,light_gradient.dds,Tiny.V5,34995358,2892
+1f2a102597fb5ece,light_gradient.dds.header,Tiny.V8,35019931,1520
+667786062603a61d,light_grad.mat,Tiny.VF,41379559,1726
+b062834ad4b4dc53,light_grad.dds,Streaming/Content/metadata/particles/static_strike_02/beam_01/end.pet,0,11084
+48be0795fffab324,light_grad.dds.header,Tiny.V8,4391955,1520

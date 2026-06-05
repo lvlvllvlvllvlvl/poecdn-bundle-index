@@ -1,0 +1,9 @@
+runesofaldur
+runesofaldur/banner
+runesofaldur/banner/attachments
+runesofaldur/challengeplinth
+runesofaldur/challengeplinth/fx
+runesofaldur/challengeplinth/mat
+runesofaldur/flagpole
+runesofaldur/statue
+runesofaldur/totems

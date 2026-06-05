@@ -1,0 +1,15 @@
+hash,file,bundle,offset,size
+05684a46501770ce,swirl_at.mat,Tiny_7,15796117,2766
+491b8603e8f243cf,swirl_at_dxt1.dds,Folders/art/particles/monster_particles/league_legion_3,2170860,174924
+726e28c99a7474ef,swirl_at_dxt1.dds.header,Tiny_7,15798883,1520
+10699073babe13c5,ring_nerve.mat,Tiny_7,15792705,3412
+ce1c3d96cb4765a5,ring_nerve_dxt5.dds,Folders/art/particles/monster_particles/league_legion_51,1137468,22020
+c335f1b19f159eba,ring_nerve_dxt5.dds.header,Tiny_7,19047179,1520
+1dfcd55977df9488,lightbeam.mat,Tiny_7,15788625,4080
+e4d14ae74c88f71e,lightbeam_mask_dxt5.dds,Folders/art/particles/monster_particles/league_legion_3,2148840,22020
+d72d165023b1714d,lightbeam_mask_dxt5.dds.header,Tiny_7,18015293,1520
+2064bb859cf49726,lightbeam_dxt1.dds,Folders/art/particles_1,842392,43852
+764a184e7288c8a8,lightbeam_dxt1.dds.header,Tiny_7,18490879,1520
+13206d3cbf198749,flash.mat,Tiny_7,15786631,1994
+d3f203c64e98f57d,flash_dxt1.dds,Tiny_7,54868005,2892
+b30ff0e44bc0f718,flash_dxt1.dds.header,Tiny_7,54870897,1520

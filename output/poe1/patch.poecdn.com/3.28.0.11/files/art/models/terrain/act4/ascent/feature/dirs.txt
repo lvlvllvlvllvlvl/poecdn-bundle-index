@@ -1,5 +1,0 @@
-alttiles
-alttiles/foothills
-alttiles/iceberg
-ascent_brokenbridge
-tgms

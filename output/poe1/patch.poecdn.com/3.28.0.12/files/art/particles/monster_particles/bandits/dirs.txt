@@ -1,0 +1,5 @@
+bandit
+bandit/powershot
+banditdemon
+banditlord
+banditlord/bandit_lord_emerge_01

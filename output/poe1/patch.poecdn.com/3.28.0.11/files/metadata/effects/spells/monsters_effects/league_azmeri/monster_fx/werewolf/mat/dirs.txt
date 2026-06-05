@@ -1,3 +1,0 @@
-attack_01_02
-death_01
-flinch

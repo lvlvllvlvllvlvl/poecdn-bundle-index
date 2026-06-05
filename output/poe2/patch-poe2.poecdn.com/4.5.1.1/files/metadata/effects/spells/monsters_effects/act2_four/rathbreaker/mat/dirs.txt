@@ -1,0 +1,9 @@
+attack_02
+charge
+enrage_slam
+enrage_slam/onact_circledraw
+lacerate
+monster_spawn
+overhead_slam
+spear_cascade
+spear_cascade/impact

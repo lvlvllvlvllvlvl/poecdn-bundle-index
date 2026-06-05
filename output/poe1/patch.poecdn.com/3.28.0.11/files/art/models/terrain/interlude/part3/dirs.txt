@@ -1,6 +1,0 @@
-p3_5
-p3_5/textures
-p3_5/textures/ground
-p3_6
-p3_6/textures
-p3_6/textures/snow

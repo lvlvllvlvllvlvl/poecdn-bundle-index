@@ -1,0 +1,9 @@
+doryani_touch
+earthquake
+endurance_slam
+ground_slam
+holy_path
+icecrash
+perforate
+spike_slam
+sunder

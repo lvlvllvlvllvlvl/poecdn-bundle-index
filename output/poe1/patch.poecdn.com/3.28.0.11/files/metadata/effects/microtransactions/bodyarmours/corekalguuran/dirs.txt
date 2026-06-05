@@ -1,4 +1,0 @@
-fx
-fxattachments
-graphs
-mats

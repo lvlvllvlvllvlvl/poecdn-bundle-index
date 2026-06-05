@@ -1,4 +1,0 @@
-black
-graph
-mat
-pet

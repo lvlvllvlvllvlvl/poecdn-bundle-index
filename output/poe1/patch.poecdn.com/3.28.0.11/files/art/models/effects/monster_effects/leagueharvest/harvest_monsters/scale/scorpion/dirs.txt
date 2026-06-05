@@ -1,5 +1,0 @@
-burrow_emerge
-burrowed_travel
-cascade
-melee_stab
-on_act_tailstrike
